@@ -1,0 +1,17 @@
+.book-summary ul.summary li a {
+  white-space: initial;
+}
+
+.markdown-section h1 {
+  line-height: 1.2;
+}
+
+.markdown-section .meta {
+  font-size: 14px;
+  margin-bottom: 48px;
+}
+
+.markdown-section .meta .author {
+  margin-bottom: 0;
+  font-weight: bold;
+}
