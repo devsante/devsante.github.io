@@ -1,0 +1,13 @@
+# Summary
+## Archive devsante.org (1976 - 2022)
+- [Avant-propos](README.md)
+- [Quelle lutte contre la Covid-19 ?](articles/lutte-contre-le-covid-19/index.md)
+- [Le CoVID-19 dans l’Océan Indien : Mayotte en rouge, la Réunion en vert](articles/le-covid-19-dans-locean-indien-mayotte-en-rouge-la-r-union-en-vert/index.md)
+- [COVID-19 : quelles priorités pour les pays du Sud ?](articles/covid-19-quelles-priorites-pour-les-pays-du-sud/index.md)
+- [COVID-19 et tests diagnostiques](actualites/covid-19-et-tests-diagnostiques/index.md)
+- [Covid-19 : perspectives vaccinales](actualites/covid-19-perspectives-vaccinales/index.md)
+- [COVID-19 et artemisinine](actualites/covid19-et-artemisinine/index.md)
+- [Traitement orthopédique du pied bot varus équin : en opérer le moins possible…](articles/traitement-orthopedique-du-pied-bot-varus-quin-en-op-rer-le-moins-possible/index.md)
+- [Les borrélioses tropicales ou fièvres récurrentes](articles/les-borrelioses-tropicales-ou-fievres-rcurrentes/index.md)
+- [L'échographie pour les soins de santé primaires](actualites/l-echographie-un-outil-pour-les-soins-de-sant-primaires/index.md)
+- [Le traitement "immunologique" de la drépanocytose](actualites/le-traitement-immunologique-de-la-drepanocytose/index.md)

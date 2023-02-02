@@ -1,0 +1,13 @@
+{
+  "license": "UNLICENSE",
+  "scripts": {
+    "serve": "honkit serve",
+    "build": "honkit build",
+    "build:pdf": "honkit pdf ./ ./devsante.pdf",
+    "deploy": "surge --domain devsante.surge.sh _book"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "honkit": "^4.0.4"
+  }
+}
