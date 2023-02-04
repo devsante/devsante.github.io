@@ -36,6 +36,7 @@
 - [Sténose hypertrophique du pylore chez le nourrisson : une urgence vitale](articles/stenose-hypertrophique-du-pylore-chez-le-nourrisson-une-urgence-vitale/index.md)
 - [Anesthésie chez un patient drépanocytaire](articles/anesthesie-chez-un-patient-drpanocytaire/index.md)
 - [Encéphalite à litchis](actualites/encephalite-a-litchis/index.md)
+- [Pratique chirurgicale pour médecins isolés : chirurgie générale et viscérale](articles/pratique-chirurgicale-pour-medecins-isoles-chirurgie-generale-et-viscerale/index.md)
 - [Questionnaire sur la drépanocytose](articles/questionnaire-sur-la-drepanocytose/index.md)
 - [Meilleurs vœux !](actualites/meilleurs-voeux-2017/index.md)
 - [Développement et Santé évolue !](actualites/developpement-et-sante-evolue/index.md)
