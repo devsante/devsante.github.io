@@ -22,6 +22,11 @@
   margin-bottom: 1.5em;
 }
 
+.markdown-section img {
+  display: block;
+  margin: 16px auto;
+}
+
 .markdown-section .footer {
   margin-top: 48px;
   padding-top: 32px;
