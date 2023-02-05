@@ -2,7 +2,9 @@
 title: "Génétique et biologie de la drépanocytose"
 author: "Dr Françoise Balédent, Biologiste, Paris, Pr Robert Girot, pédiatre, Paris"
 date: "2016-12-01"
-teaser: "La drépanocytose, encore appelée anémie falciforme, est une maladie génétique de l'hémoglobine caractérisée par une grande hétérogénéité clinique et qui se manifeste biologiquement par une anémie hémolytique chronique. Un diagnostic précis peut être établi dans la majorité des cas à partir d’une anamnèse rigoureuse et à l’aide de techniques simples.
+teaser: "La drépanocytose, encore appelée anémie falciforme, est une maladie génétique de l'hémoglobine caractérisée par une grande hétérogénéité clinique et qui se manifeste biologiquement par une anémie hémolytique chronique. Un diagnostic précis peut être établi dans la majorité des cas à partir d’une anamnèse rigoureuse et à l’aide de techniques simples."
+---
+
 Formules moléculaires, ontogénie* et gènes* des hémoglobines humaines
 Les hémoglobines humaines fœtales et adultes normales sont des doubles dimères faits de :
 2 chaînes α-globine et de 2 chaînes γ (hémoglobine F-α2γ2), 
@@ -13,10 +15,9 @@ A noter que l’hémoglobine A2 n’est pas présente à la naissance et que son
 Les chromosomes 11 portent chacun 1 gène β-globine. Chaque individu possède ainsi  2 gènes β-globine.
 
 *Schéma de l'hémoglobine*
-(image: image001.jpg)
+![](image001.jpg)
 Tableau I : Formules moléculaires des hémoglobines humaines
-(image: tableau-i.jpg)"
----
+![](tableau-i.jpg)
 
 ##  I. Physiopathologie 
 L'hémoglobine est une protéine complexe riche en fer contenue dans les globules rouges et chargée du transport de l’oxygène depuis les poumons vers les tissus.
@@ -28,7 +29,7 @@ L'anomalie porte sur les chaînes de globine, elle peut être quantitative ou qu
 La drépanocytose est due à une mutation unique et ponctuelle du gène beta-globine situé sur le chromosome 11. Cette mutation est caractérisée par le remplacement d'un acide aminé par un autre (acide glutamique remplacé par une valine).
 Cette hémoglobine anormale est appelée hémoglobine S (HbS). 
 Elle présente une diminution de solubilité à l'état désoxygéné et, dans certaines circonstances comme l'hypoxie, l'acidose, la déshydratation, l'HbS se polymérise, entraînant une déformation des hématies en "faucille" d'où le nom de la maladie, encore appelée "anémie falciforme".
-Ces hématies sont alors détruites dans la circulation et cette hémolyse est responsable de l'anémie, 
+Ces hématies sont alors détruites dans la circulation et cette hémolyse est responsable de l'anémie. 
 La drépanocytose est caractérisée par une grande hétérogénéité clinique : formes presque asymptomatiques à formes gravement invalidantes, voire létales. 
 
 ## II. Génétique
@@ -179,6 +180,6 @@ Chaque laboratoire doit définir sa compétence et doit travailler en réseau av
 Les biologistes qui portent les diagnostics de maladies génétiques de l’hémoglobine doivent prendre conscience qu’ils engagent leur responsabilité dans le domaine du conseil génétique, même en validant un résultat apparemment aussi simple que celui du trait AS ou celui de β-thalassémie hétérozygote.
 
 ***Glossaire***
-**Ontogénie **: développement progressif d'un organisme depuis sa conception jusqu'à sa forme mûre,
+**Ontogénie **: développement progressif d'un organisme depuis sa conception jusqu'à sa forme mûre.
 **Gène ** : "morceau" d'ADN, unité d'hérédité contrôlant un caractère particulier, située à un endroit précis (locus) sur un chromosome.Locus = emplacement précis d'un gène sur un chromosome.
 **Allèle  **: une des différentes formes que peut prendre un gène sur un chromosome. Les allèles d'un gène occupent la même position (locus) sur un chromosome.
