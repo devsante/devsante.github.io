@@ -2,9 +2,9 @@
 title: "Comment produire des collyres en milieu rural"
 author: "Joseph Taylor Consultant médical auprès de la Christoffel Blindenmission e.V., Nibelungenstrasse 124, 6140 Bensheim 4 (Allemagne). D'après Forum mondial de la santé, Vol. 14, 1993, OMS.  "
 date: "1993-10-02"
+teaser: "Cet article donne un aperçu des matériels et des méthodes utilisables pour produire les collyres essentiels à peu de frais dans les zones rurales des pays en développement."
 ---
 
-Cet article donne un aperçu des matériels et des méthodes utilisables pour produire les collyres essentiels à peu de frais dans les zones rurales des pays en développement.
 Un dixième des malades vus dans les dispensaires ruraux de la plupart des pays en développement présente des symptômes de pathologie oculaire ; dans la moitié des cas, il s'agit de conjonctivite. Or, ces dispensaires ruraux disposent rarement de médicaments ophtalmiques, soit parce qu'ils n'ont pas d'argent pour en acheter, soit parce qu'ils ne peuvent se les procurer. Dans ces conditions, il est impératif de fabriquer sur place des collyres anti-infectieux.
 
 Les flacons entrent pour moitié dans le coût des collyres en vente sur le marché. Aussi faudrait-il réutiliser pour la production de collyres en milieu rural les flacons vides jetés par les services de santé.

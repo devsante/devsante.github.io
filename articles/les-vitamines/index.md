@@ -2,9 +2,9 @@
 title: "Les vitamines"
 author: "Cécile Trésarieux"
 date: "1981-08-25"
+teaser: "Assurer la croissance et demeurer en bonne santé grâce aux vitamines naturelles."
 ---
 
-Assurer la croissance et demeurer en bonne santé grâce aux vitamines naturelles.
 ## **I. Définition** - **Classification et rôle**
 
 ### **A. Définition**

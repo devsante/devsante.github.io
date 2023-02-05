@@ -2,9 +2,9 @@
 title: "Laboratoire et anémie"
 author: "Françoise Balédent Biologiste, Centre Hospitalier de Saint-Denis (93), France."
 date: "2006-03-16"
+teaser: "L'anémie est une anomalie très fréquente, associée à de très nombreuses maladies. Devant une pâleur, le laboratoire permet de confirmer une anémie et d'en appré­cier l'intensité, mais également d'apporter une orientation diagnostique."
 ---
 
-L'anémie est une anomalie très fréquente, associée à de très nombreuses maladies. Devant une pâleur, le laboratoire permet de confirmer une anémie et d'en appré­cier l'intensité, mais également d'apporter une orientation diagnostique.
 ## I. Rappel physiologique
 
 Le globule rouge (GR) est une cellule sanguine, sans noyau, ayant à l'état normal, la forme d'un disque biconcave d'environ 7 µm de dia­mètre.

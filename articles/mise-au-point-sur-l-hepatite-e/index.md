@@ -2,15 +2,15 @@
 title: "Mise au point sur l'hépatite E"
 author: "Aminata Sall Diallo Responsable du PNLH (Programme National de Lutte contre les Hépatites) au Ministère de la Santé du Sénégal. Professeur de physiologie et de biologie à l'UCAD (Université Cheikh Anta Diop) de Dakar. Coordinatrice de l'initiative panafricaine sur les hépatites."
 date: "2012-10-10"
----
-
-**Données générales**  
+teaser: "**Données générales**  
 Identifié en 1990, le virus de l'hépatite E (VHE) est un virus à ARN, comme les virus des hépatites A et C. Il est surtout présent dans les pays en voie de développement, où la contamination se fait par voie féco-orale, mais on assiste de plus en plus à une émergence de cas d'infections dans les pays industrialisés où le virus se transmet à l'homme par la consommation d'aliments contaminés insuffisamment cuits. La transmission interindividuelle directe du VHE est rare.  
 Plusieurs génotypes sont connus (1 à 8).  
 Un réservoir animal est suspecté, très probablement le porc, le sanglier et le cerf.  
 Le  VHE, comme les autres virus des hépatites, provoque une  inflammation du foie. Les manifestations cliniques sont banales, peu différentes de celles des autres hépatites aiguës. Cependant, les formes sévères semblent plus fréquentes que pour les autres hépatites. Dans sa forme aiguë, l'infection peut être mortelle chez  
 les personnes âgées, les femmes enceintes et chez les personnes malades du foie. Chez les personnes immuno- déprimées (patients greffés, patients sous chimiothérapie ou personnes vivant avec le VIH), l'infection par le virus de l'hépatite E peut évoluer vers une hépatite chronique et entraîner une cirrhose.  
-En zone d'endémie, le rôle étiologique du VHE dans les hépatites fulminantes sporadiques a été rapporté par de nombreuses études. Dans les zones non endémiques, la responsabilité du VHE dans les hépatites fulminantes de cause inconnue est également discutée.
+En zone d'endémie, le rôle étiologique du VHE dans les hépatites fulminantes sporadiques a été rapporté par de nombreuses études. Dans les zones non endémiques, la responsabilité du VHE dans les hépatites fulminantes de cause inconnue est également discutée."
+---
+
 ## I. Hépatite E et grossesse
 
 Une des caractéristiques de l'infection par le VHE est sa gravité particulière chez la femme enceinte, chez qui l'hépatite E est grevée  d'une mortalité élevée, de l'ordre de 20 %, lorsqu'elle survient au troisième trimestre de la grossesse. Le décès survient habituellement   dans un contexte d'encéphalopathie, de syndrome hémorragique et/ou d'insuffisance rénale.  

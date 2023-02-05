@@ -2,11 +2,11 @@
 title: "Supervision, suivi et évaluation des activités de vaccination"
 author: "Philippe Jaillard Agence pour la Médecine Préventive (AMP), Ouagadougou, Burkina Faso"
 date: "2009-04-27"
+teaser: "La supervision des agents, le suivi et l'évaluation du programme permettent de s'assurer que les activités menées dans la zone concourent à l'atteinte des objectifs dans le respect des bonnes pratiques.
+
+Les documents normatifs servant de référence pour la qualité des prestations de service sont : le plan d'action et le programme des activités, le guide de formation et la politique nationale de vaccination."
 ---
 
-La supervision des agents, le suivi et l'évaluation du programme permettent de s'assurer que les activités menées dans la zone concourent à l'atteinte des objectifs dans le respect des bonnes pratiques.
-
-Les documents normatifs servant de référence pour la qualité des prestations de service sont : le plan d'action et le programme des activités, le guide de formation et la politique nationale de vaccination.
 ## I. Superviser le personnel
 
 Au niveau périphérique du système de santé, l'infirmier a la responsabilité des services de vaccination. Cependant, certaines activités sont réalisées par ses collaborateurs. Il est indispensable de s'assurer que l'agent à qui ont été déléguées certaines tâches les effectue selon les plans établis et dans le respect des bonnes pratiques.

@@ -2,10 +2,10 @@
 title: "Diabète"
 author: "Maguy Nigri Médecin, Centre de Santé de Békamba, Tchad."
 date: "1996-10-03"
+teaser: "Le diabète est connu en Afrique : on l'appelle \"la maladie du sucre\". Toutefois, il est rarement mentionné et, à plus forte raison, étudié dans les revues médicales. Les statistiques le concernant ne peuvent pas révéler la vérité, car le plus souvent le diagnostic est ignoré. De plus, comme il n'est pas \"une priorité\", il n'entre pas dans les rapports mensuels des centres de santé ni même dans ceux des hôpitaux.  
+Diagnostiqué trop tard le diabète est plus difficile à traiter : la recherche de sucre dans les urines doit être un examen systématique en dispensaire."
 ---
 
-Le diabète est connu en Afrique : on l'appelle "la maladie du sucre". Toutefois, il est rarement mentionné et, à plus forte raison, étudié dans les revues médicales. Les statistiques le concernant ne peuvent pas révéler la vérité, car le plus souvent le diagnostic est ignoré. De plus, comme il n'est pas "une priorité", il n'entre pas dans les rapports mensuels des centres de santé ni même dans ceux des hôpitaux.  
-Diagnostiqué trop tard le diabète est plus difficile à traiter : la recherche de sucre dans les urines doit être un examen systématique en dispensaire.
 L'équipe sanitaire de Békamba (district de Koumra, Moyen Chari, Tchad), composée d'infirmiers brevetés (1<sup>er</sup> cycle), d'un infirmier diplômé d'État et d'un médecin, pédiatre française, suit actuellement dix diabétiques insulino-dépendants (DID).
 
 Le début de l'expérience de prise en charge des diabétiques insulino-dépendants remonte à dix ans. Durant cette période, quinze malades ont fréquenté le centre de santé. Le _tableau n° 1_ réunit différents paramètres concernant ces quinze malades.

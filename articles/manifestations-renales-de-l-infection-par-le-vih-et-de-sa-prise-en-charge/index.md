@@ -2,13 +2,13 @@
 title: "Manifestations rénales de l'infection par le VIH et de sa prise en charge"
 author: "Christian Mongin Médecin, Paris, France  "
 date: "2013-06-16"
----
-
-L'atteinte de la fonction rénale est fréquente au cours de l'infection à VIH.  
+teaser: "L'atteinte de la fonction rénale est fréquente au cours de l'infection à VIH.  
 Il existe des maladies rénales spécifiques de cette infection qui tendent à diminuer avec l'instauration de traitements antirétroviraux efficaces.  
 Mais l'utilisation de médicaments potentiellement toxiques pour les reins et l'allongement de la durée de vie des patients concernés favorisent la survenue d'atteintes rénales.  
 En effet, la coexistence fréquente d'autres facteurs de risque cardiovasculaires comme l'HTA, les dyslipidémies, le diabète et surtout le tabagisme, augmente la fréquence des néphropathies.  
-Il faut noter que les patients originaires d'Afrique subsaharienne ou des Antilles développent plus fréquemment des maladies rénales.
+Il faut noter que les patients originaires d'Afrique subsaharienne ou des Antilles développent plus fréquemment des maladies rénales."
+---
+
 ## I. Comment évaluer la fonction rénale
 
 La fonction rénale est classiquement estimée par le **dosage de la créatininémie**. Plus le débit de filtration glomérulaire (DFG) diminue, plus la créatininémie augmente, et inversement. Cependant, la créatininémie n'augmente pas de façon linéaire avec la baisse du DFG car elle dépend aussi du poids et de l'âge du patient.

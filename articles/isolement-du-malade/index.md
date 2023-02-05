@@ -2,12 +2,12 @@
 title: "Isolement du malade"
 author: "Philippe Reinert Pédiatre, Créteil, France"
 date: "2011-10-14"
----
-
-L’isolement du malade a deux buts :
+teaser: "L’isolement du malade a deux buts :
 
 *   Eviter qu’un malade infecté ne contamine les autres patients ou le personnel soignant : c’est l’isolement septique.
-*   Le protéger contre les germes qui l’entourent, et qui sont souvent dangereux à l’hôpital car de plus en plus résistants aux antibiotiques : c’est l’isolement protecteur.
+*   Le protéger contre les germes qui l’entourent, et qui sont souvent dangereux à l’hôpital car de plus en plus résistants aux antibiotiques : c’est l’isolement protecteur."
+---
+
 ## I. Isolement septique (ancienne quarantaine)
 
 Suivant la dangerosité du germe infectant le malade, l’isolement sera plus ou moins strict.

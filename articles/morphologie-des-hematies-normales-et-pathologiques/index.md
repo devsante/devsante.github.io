@@ -2,11 +2,11 @@
 title: "Morphologie des hématies normales et pathologiques"
 author: "Françoise Balédent Biologiste, Centre Hospitalier de Saint-Denis, 93205, France."
 date: "2002-10-02"
+teaser: "Les hématies, encore appelées érythrocytes, ou globules rouges, sont des éléments figurés du sang dont la fonction essentielle est le transport de l'oxygène, à partir des poumons jusqu'aux différents tissus de l'organisme.
+
+L'étude de la morphologie de ces cellules vient compléter la numération globulaire, apportant souvent une aide au diagnostic de différentes pathologies concernées par ces cellules."
 ---
 
-Les hématies, encore appelées érythrocytes, ou globules rouges, sont des éléments figurés du sang dont la fonction essentielle est le transport de l'oxygène, à partir des poumons jusqu'aux différents tissus de l'organisme.
-
-L'étude de la morphologie de ces cellules vient compléter la numération globulaire, apportant souvent une aide au diagnostic de différentes pathologies concernées par ces cellules.
 Les hématies peuvent être observées à l'état frais, entre lame et lamelle ou sur un frottis sanguin, après coloration.
 
 Selon les techniques de coloration utilisées, elles apparaissent rouge-brun (coloration de Wright) ou roses (May-Grünwald-Giemsa). En cas de variations de pH des colorants, elles peuvent apparaître plus grises, voire verdâtres.

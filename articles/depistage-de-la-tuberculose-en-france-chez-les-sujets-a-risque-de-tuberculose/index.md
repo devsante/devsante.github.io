@@ -2,9 +2,9 @@
 title: "Dépistage de la tuberculose en France, chez les sujets à risque de tuberculose"
 author: "Dr Isabelle Caubarrère*, Dr Christine Poirier**, Dr Gérard Gonnot*** * Pneumologue Médecin du Monde, ** Pneumologue hôpital AVICENNE (Bobigny), *** Centre de Lutte Anti Tuberculose (Paris)."
 date: "2008-07-04"
+teaser: "En France, le dépistage de la tuberculose maladie repose sur la radiographie de thorax. Les exa­mens bactériologiques pour la recherche de BK, prescrits selon les données radiologiques, confir­ment le diagnostic dans 80 % des cas."
 ---
 
-En France, le dépistage de la tuberculose maladie repose sur la radiographie de thorax. Les exa­mens bactériologiques pour la recherche de BK, prescrits selon les données radiologiques, confir­ment le diagnostic dans 80 % des cas.
 Les signes cliniques de la tuberculose sont connus (et décrits dans les autres articles traitant de ce sujet),  la maladie est alors symptomatique. La tuberculose maladie peut aussi être asymptomatique ; dans ce cas le sujet concerné ignore et son risque personnel et son éventuelle contagiosité. Les sujets à risque dont il s'agit ici regroupent tous ceux ayant une difficulté d'accès aux soins et ne bénéficiant d'aucun environnement sanitaire.
 
 La politique de santé en France, associée à certains facteurs socio-économiques, a entraî­né une diminution de l'incidence nationale de la tuberculose pour atteindre le chiffre de 8.9/100 000 mais il existe une grande disparité au sein de la population française : l'incidence diminue chez les personnes nées en France mais non chez les personnes nées à l'étranger : 45% des tuberculoses survien­nent dans la population étrangère qui elle ne représente que 6% de la population totale. Il découle de ce fait une disparité régionale, découlant elle même de la disparité ethnique (incidence Paris : 27/100 000, Ile de France : 17.3/100 000, Seine-Saint-Denis : 32.6/ 100 000).

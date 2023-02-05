@@ -2,9 +2,9 @@
 title: "Une ectoparasitose des sables chauds : la tungose"
 author: "Patrice Bourée, Aliréza Ensaf Service de Parasitologie, hôpital Cochin, Paris"
 date: "2015-09-15"
+teaser: "La marche pieds nus dans le sable chaud provoque sans doute des sensations agréables pour les pieds, mais n'est pas sans risque. En effet, cela favorise les infestations par certains ecto-parasites du sable, comme les puces-chiques."
 ---
 
-La marche pieds nus dans le sable chaud provoque sans doute des sensations agréables pour les pieds, mais n'est pas sans risque. En effet, cela favorise les infestations par certains ecto-parasites du sable, comme les puces-chiques.
 ## Une puce d'Amérique du sud
 
 La tungose, affection tropicale fréquente et douloureuse, est due à l'infestation par une des plus petites puces connues, la puce chique ou _Tunga penetrans_, ou encore _Sarcopsylla penetrans_ (du grec _sarkos_ = chair et _psulla_= puce). Cette parasitose est connue depuis le quinzième siècle, chez les marins espagnols sur l’ile d’Hispaniola, lors du premier voyage de Christophe Colomb.  

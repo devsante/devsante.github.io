@@ -2,11 +2,11 @@
 title: "Le rôle des infirmiers en vaccinovigilance"
 author: "Elisabeth Loupi, SANOFI-PASTEUR, Lyon, France"
 date: "2009-04-27"
+teaser: "Dans de nombreux pays ou dans certaines circonstances, les infirmiers peuvent pratiquer des vaccinations. Ils doivent pour cela disposer d'une bonne connaissance des vaccins, de leur composition, de leur utilisation et de leurs contre-indications.
+
+Ils peuvent aussi jouer un rôle important en vaccinovigilance en collectant et en rapportant l'information dont ils auront eu connaissance."
 ---
 
-Dans de nombreux pays ou dans certaines circonstances, les infirmiers peuvent pratiquer des vaccinations. Ils doivent pour cela disposer d'une bonne connaissance des vaccins, de leur composition, de leur utilisation et de leurs contre-indications.
-
-Ils peuvent aussi jouer un rôle important en vaccinovigilance en collectant et en rapportant l'information dont ils auront eu connaissance.
 ## I. Qu'est ce que la vaccinovigilance ?
 
 Le groupe de travail du CIOMS/OMS a donné en 2007 la définition suivante :  

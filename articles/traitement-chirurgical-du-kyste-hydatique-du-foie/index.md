@@ -2,10 +2,10 @@
 title: "Traitement chirurgical du kyste hydatique du foie"
 author: "Denis Gallot Chirurgien, Hôpital Rothschild, Paris, Médecins sans Frontières."
 date: "1998-10-14"
+teaser: "Histoire naturelle et traitement chirurgical du kyste hydatique du foie  
+ou: comprendre une maladie pour mieux la soigner"
 ---
 
-Histoire naturelle et traitement chirurgical du kyste hydatique du foie  
-ou: comprendre une maladie pour mieux la soigner
 ## I. Qu'est-ce que le kyste hydatique du foie ?
 
 ### À quoi correspondent ses multiples aspects ?

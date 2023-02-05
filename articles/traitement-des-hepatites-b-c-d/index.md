@@ -2,16 +2,16 @@
 title: "Traitement des hépatites B, C, D"
 author: "Françoise Lunel-Fabiani, A. Ducancelle Laboratoire de Virologie, CHU, Angers, France."
 date: "2012-10-17"
----
-
-Les hépatites virales sont un problème majeur de santé publique au niveau international. Environ 2 milliards de sujets dans le monde ont été en contact avec le VHB, soit qu'ils aient une infection, soit qu'ils aient éliminé partiellement le virus [1]. Quatre cents millions d'individus sont porteurs chroniques d'une infection par le virus de l'hépatite B (VHB) et parmi ceux-ci, environ à 15 millions sont co-infectés par un virus satellite du virus de l'hépatite B appelé le virus de l'hépatite Delta (VHD).  
+teaser: "Les hépatites virales sont un problème majeur de santé publique au niveau international. Environ 2 milliards de sujets dans le monde ont été en contact avec le VHB, soit qu'ils aient une infection, soit qu'ils aient éliminé partiellement le virus [1]. Quatre cents millions d'individus sont porteurs chroniques d'une infection par le virus de l'hépatite B (VHB) et parmi ceux-ci, environ à 15 millions sont co-infectés par un virus satellite du virus de l'hépatite B appelé le virus de l'hépatite Delta (VHD).  
 Dans le monde, près de 200 millions de sujets sont également infectés par le virus de l'hépatite C [2]. Les chiffres concernant la mortalité et la morbidité globale de ces infections sont partiellement  
-connus. L'OMS estime qu'environ 2 millions de décès par an sont dus aux infections par les virus des hépatites C ([http://www.who.int/fr/](http://www.who.int/fr/ "http://www.who.int/fr/")).  
+connus. L'OMS estime qu'environ 2 millions de décès par an sont dus aux infections par les virus des hépatites C ([http://www.who.int/fr/](http://www.who.int/fr/ \"http://www.who.int/fr/\")).  
 On sait également que les patients porteurs d'une infection chronique ont un risque majeur d'évoluer vers la cirrhose du foie et le carcinome hépato-cellulaire (le risque serait de 200 par rapport à un sujet non infecté [3, 4] ).  
 Dans les pays développés, les hépatites B et C sont également responsables d'une grande partie des transplantations hépatiques [1] .  
 L'objectif de cette revue est de faire le point sur le traitement des hépatites B, C et Delta en envisageant les schémas thérapeutiques les plus adaptés à l'Afrique.  
 Nous aborderons d'abord le traitement des hépatites B, le traitement des co-infections B-Delta, le traitement des hépatites B chez les patients VIH puis le traitement des hépatites C et celui des   
-hépatites C chez les patients vivant avec le VIH.
+hépatites C chez les patients vivant avec le VIH."
+---
+
 ## I. Traitement des hépatites B
 
 ### 1. Le virus de l'hépatite B

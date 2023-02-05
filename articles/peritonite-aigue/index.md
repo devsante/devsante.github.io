@@ -2,9 +2,9 @@
 title: "Péritonite aiguë"
 author: "Huguette Perrin, Xavier Pouliquen"
 date: "2014-02-15"
+teaser: "C’est l’infection aiguë du péritoine. Elle retentit vite sur l’état général. C’est donc une affection grave qui demande à être reconnue tout de suite et traitée d’urgence."
 ---
 
-C’est l’infection aiguë du péritoine. Elle retentit vite sur l’état général. C’est donc une affection grave qui demande à être reconnue tout de suite et traitée d’urgence.
 ## I. Devant quels signes l’infirmier  
 doit-il penser à une péritonite aiguë ?
 

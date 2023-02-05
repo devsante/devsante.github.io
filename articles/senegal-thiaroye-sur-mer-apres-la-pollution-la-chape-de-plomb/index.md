@@ -2,9 +2,9 @@
 title: "Sénégal/Thiaroye-sur-Mer: après la pollution, la chape de plomb"
 author: "Mélanie Lemaire, Association des vctimes du saturnisme Source : Rapport de l'OMS (juin 2008)"
 date: "2009-10-07"
+teaser: "En juin 2008, l'Organisation Mondiale de la Santé (OMS) révèle qu'une intoxication au plomb est à l'origine du décès, en quelques mois, de 18 enfants. En cause : une activité de recyclage de piles et batteries usagées contenant du plomb, qui contaminent l'air et le sol des alentours. Depuis, plusieurs dizaines d'enfants ont été hospitalisés, mais au total, près de 1.000 personnes sont exposées au risque."
 ---
 
-En juin 2008, l'Organisation Mondiale de la Santé (OMS) révèle qu'une intoxication au plomb est à l'origine du décès, en quelques mois, de 18 enfants. En cause : une activité de recyclage de piles et batteries usagées contenant du plomb, qui contaminent l'air et le sol des alentours. Depuis, plusieurs dizaines d'enfants ont été hospitalisés, mais au total, près de 1.000 personnes sont exposées au risque.
 ## 1. Les constats
 
 En quatre mois, de novembre 2007 à février 2008, plusieurs décès d'enfants sont constatés dans un même quartier de Thiaroye-sur-Mer, près de Dakar (Sénégal). En tout, 18 enfants de moins de 6 ans meurent de maladie inconnue. Alertées, les autori­tés sanitaires et environnementales enquêtent. Elles révèlent rapidement que le sol du quartier de Ngagne Diaw est contaminé par des batteries au plomb, entreposées dans une décharge et recyclées par les habitants du quartier. Outre les décès, on constate que les membres des familles des enfants décédés ont un taux sanguin de plomb très élevé, souvent supérieur à 1000 µg/L.

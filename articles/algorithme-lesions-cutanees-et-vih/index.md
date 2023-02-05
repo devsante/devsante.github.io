@@ -1,10 +1,10 @@
 ---
 title: "Algorithme lésions cutanées et VIH"
 date: "1992-11-06"
+teaser: "Les lésions cutanés associés au VIH  
+Guide pour la prise en charge clinique de l'infection à VIH chez l'adulte\", OMS, décembre 1991 (programme de lutte contre le sida)."
 ---
 
-Les lésions cutanés associés au VIH  
-Guide pour la prise en charge clinique de l'infection à VIH chez l'adulte", OMS, décembre 1991 (programme de lutte contre le sida).
 ## I. Définition
 
 Ensemble des pathologies au niveau de la peau et des muqueuses.

@@ -2,9 +2,9 @@
 title: "Le lecteur de glycémie"
 author: "Françoise Balédent Médecin biologiste, hôpital de Saint-Denis, France."
 date: "2009-08-11"
+teaser: "Le lecteur de glycémie est un appareil qui permet de doser instantanément (quelques secondes) la glycémie et peut être utilisé par le patient lui-même."
 ---
 
-Le lecteur de glycémie est un appareil qui permet de doser instantanément (quelques secondes) la glycémie et peut être utilisé par le patient lui-même.
 ## **I. Utilités du lecteur de glycémie**
 
 ### **1. Pour le patient**

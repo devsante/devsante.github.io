@@ -19,6 +19,12 @@
   <p>Publié le <time datetime="{{page.date}}">{{page.date|date("DD/MM/YYYY")}}</time></p>
 </div>
 
+{% if page.teaser %}
+<div class="teaser">
+  {{page.teaser}}
+</div>
+{% endif %}
+
 {{ super() }}
 <div class="footer">
   Le contenu de ce site est mis à disposition selon les termes de la licence <a

@@ -2,9 +2,9 @@
 title: "Diagnostic des protozooses intestinales"
 author: "Patrice Bourée Unité des Maladies Parasitaires et Tropicales, Hôpital Bicêtre, Paris"
 date: "2007-10-16"
+teaser: "Les maladies parasitaires dues à des protozooses intestinales sont   l’amibiase, la giardiase et quelques autres parasitoses plus rares. Ces parasites provoquent des troubles digestifs de gravité variable. Le diagnostic est principalement basé sur l’examen parasitologique des selles."
 ---
 
-Les maladies parasitaires dues à des protozooses intestinales sont   l’amibiase, la giardiase et quelques autres parasitoses plus rares. Ces parasites provoquent des troubles digestifs de gravité variable. Le diagnostic est principalement basé sur l’examen parasitologique des selles.
 ## I. Amoebose
 
 L’amoebose (appelée antérieurement amibiase) est due à l’amibe _Entamoeba Histolytica_. Cette amibe essentiellement tropicale se présente sous trois formes avec une fonction différente.

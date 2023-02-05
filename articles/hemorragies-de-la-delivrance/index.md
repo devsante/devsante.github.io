@@ -2,10 +2,10 @@
 title: "Hémorragies de la délivrance"
 author: "Charlotte Epaka, Gynécologue-obstétricienne, Cameroun"
 date: "2014-09-30"
+teaser: "Les hémorragies de la délivrance sont définies par un saignement supérieur à 500 ml pour un accouchement par voie basse et à 1000 ml pour une césarienne. Elles sont responsables de la plupart des morts évitables.  
+Tout retard dans leur prise en charge peut être dramatique, le premier risque étant de dire \"on peut attendre\" : le mieux est d'**anticiper**."
 ---
 
-Les hémorragies de la délivrance sont définies par un saignement supérieur à 500 ml pour un accouchement par voie basse et à 1000 ml pour une césarienne. Elles sont responsables de la plupart des morts évitables.  
-Tout retard dans leur prise en charge peut être dramatique, le premier risque étant de dire "on peut attendre" : le mieux est d'**anticiper**.
 ## I. Traitement préventif
 
 *   Perfusion systématique des patientes à partir de 5 cm de dilatation.

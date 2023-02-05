@@ -1,9 +1,9 @@
 ---
 title: "Comment aménager le local de pharmacie ?"
 date: "2008-06-22"
+teaser: "Les médicaments et produits pharmaceutiques sont des produits chers et précieux, il faut en prendre soin sinon ils peuvent se détériorer. En cas de détérioration, les médicaments peuvent perdre de leur efficacité ou provoquer des effets indésirables chez les patients."
 ---
 
-Les médicaments et produits pharmaceutiques sont des produits chers et précieux, il faut en prendre soin sinon ils peuvent se détériorer. En cas de détérioration, les médicaments peuvent perdre de leur efficacité ou provoquer des effets indésirables chez les patients.
 ## I. Choix du local
 
 _Choisissez un endroit sûr pour en faire le local de pharmacie. Conserver les médica­ments dans ce local permet de conserver les produits en sécurité et de connaître en permanence l'état du stock._

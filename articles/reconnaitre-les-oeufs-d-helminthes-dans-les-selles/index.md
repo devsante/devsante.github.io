@@ -2,13 +2,13 @@
 title: "Reconnaître les oeufs d'helminthes dans les selles"
 author: "Françoise Balédent Biologiste, Centre Hospitalier de Saint-Denis, 93205, France."
 date: "2002-06-12"
----
-
-Les Nématodes (vers ronds) appartiennent aux Helminthes (vers). L'examen des selles permet de mettre en évidence la présence d'oeufs pour certains de ces vers : oxyure, trichocéphale, ascaris, ankylostome, trichostrongylus.
+teaser: "Les Nématodes (vers ronds) appartiennent aux Helminthes (vers). L'examen des selles permet de mettre en évidence la présence d'oeufs pour certains de ces vers : oxyure, trichocéphale, ascaris, ankylostome, trichostrongylus.
 
 Les oeufs des autres Helminthes (Cestodes et Trématodes) seront décrits dans un prochain numéro, ainsi que les formes larvaires. De même, les méthodes de prélèvement et les techniques de concentration feront l'objet d'un prochain article.
 
-L'examen microscopique direct des selles à l'état frais s'effectue sur un prélèvement dilué dans une goutte d'eau physiologique et examiné entre lame et lamelle. L'examen au faible grossissement (objectif 10) permet de retrouver rapidement les oeufs de grande taille. Cet examen doit toujours être complété par la recherche de parasites à un plus fort grossissement (objectif 40).
+L'examen microscopique direct des selles à l'état frais s'effectue sur un prélèvement dilué dans une goutte d'eau physiologique et examiné entre lame et lamelle. L'examen au faible grossissement (objectif 10) permet de retrouver rapidement les oeufs de grande taille. Cet examen doit toujours être complété par la recherche de parasites à un plus fort grossissement (objectif 40)."
+---
+
 **Aspect des oeufs à l'examen direct de selles étudiées à l'état frais, entre lame et lamelle.**
 
 ## I. OEufs d'oxyure _(Enterobius vermicularis)_

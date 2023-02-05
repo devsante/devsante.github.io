@@ -2,9 +2,9 @@
 title: "Oxyuroses infantiles"
 author: "Patrice Bourée Consultation des Maladies Parasitaires, Institut Alfred Fournier Paris, France"
 date: "2013-01-21"
+teaser: "L’oxyurose est une helminthiase cosmopolite, mais plus fréquente en zone tempérée qu’en zone tropicale, ce qui est dû sans doute au fait qu’en climat chaud et humide, bon nombre d’enfants sont peu vêtus et souvent en train de jouer dans l’eau."
 ---
 
-L’oxyurose est une helminthiase cosmopolite, mais plus fréquente en zone tempérée qu’en zone tropicale, ce qui est dû sans doute au fait qu’en climat chaud et humide, bon nombre d’enfants sont peu vêtus et souvent en train de jouer dans l’eau.
 ## I. Epidémiologie
 
 L’oxyure ou Enterobius vermicularis, est un petit nématode blanc de 1 cm de long environ, situé dans le caecum. L’infestation s’effectue par ingestion des œufs portés à la bouche par les mains sales, doigts ou objets sucés, ou avec les aliments. Localisées dans le caecum, les femelles parcourent le côlon pour aller pondre leurs œufs au niveau de la marge anale, phénomène responsable du prurit anal. Après contact avec l’anus, les doigts sont infestés, l’enfant va se recontaminer en portant les doigts à sa bouche. En outre, l’enfant va contaminer les autres par les jeux collectifs.

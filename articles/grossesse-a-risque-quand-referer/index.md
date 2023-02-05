@@ -2,14 +2,14 @@
 title: "Grossesse à risque : quand référer ?"
 author: "Par Olivier Bismuth Médecin généraliste, Créteil, France."
 date: "2010-12-04"
----
-
-Les soins de santé primaires dans le cadre des grossesses à risque consistent à :
+teaser: "Les soins de santé primaires dans le cadre des grossesses à risque consistent à :
 
 *   Prendre en charge le premier contact avec le demandeur de soins, qu'il soit malade ou non.
 *   Mettre en oeuvre les objectifs de santé accessibles au premier niveau d'intervention.
 *   Evaluer la nécessité de référer vers un deuxième niveau de compétences ou un niveau encore plus spécialisé.
-*   Organiser cette éventuelle référence.
+*   Organiser cette éventuelle référence."
+---
+
 Deux situations sont à distinguer :
 
 1.  La grossesse est franchement pathologique et l'hospitalisation est à l'évidence nécessaire. Exemples : grossesse extra-utérine, utérus cicatriciel en raison de césariennes itératives.

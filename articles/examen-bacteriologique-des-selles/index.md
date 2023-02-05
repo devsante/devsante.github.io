@@ -2,9 +2,9 @@
 title: "Examen bactériologique des selles"
 author: "Catherine Dupeyron Biologiste, Hôpital Albert-Chenevier, Créteil."
 date: "1997-04-04"
+teaser: "L'examen bactériologique des selles se fait par coproculture, c'est-à-dire par ensemencement des selles sur des milieux de culture appropriés. Le but est de rechercher parmi une flore commensale très abondante soit des bactéries habituellement absentes et réputées pour leur pouvoir pathogène, soit une espèce bactérienne anormalement prédominante."
 ---
 
-L'examen bactériologique des selles se fait par coproculture, c'est-à-dire par ensemencement des selles sur des milieux de culture appropriés. Le but est de rechercher parmi une flore commensale très abondante soit des bactéries habituellement absentes et réputées pour leur pouvoir pathogène, soit une espèce bactérienne anormalement prédominante.
 Les indications de la coproculture sont triples :
 
 *   la recherche de la cause infectieuse d'une diarrhée, qui est la plus fréquente,

@@ -2,10 +2,8 @@
 title: "Le nouveau-né de petit poids de naissance : 1. Le prématuré"
 author: "Par Jean-Bernard Joly Pédiatre, Angoulême, France."
 date: "2010-12-03"
----
-
-Il y a un siècle, les enfants d'Europe nés prématurément et de petit poids de naissance n'avaient aucune chance de survie. Il n'était même pas conseillé de les aider à vivre afin de ne pas prolonger inutilement une agonie douloureuse.  
-On sait maintenant que cette "sagesse des pauvres" n'est que l'acceptation d'une fatalité inévitable. On connaît aussi son coût exorbitant. La mort précoce d'un petit enfant est toujours une peine immense pour sa mère. Les convenances sociales ne lui permettent pas toujours de l'exprimer. La mort d'un petit enfant est un échec familial qu'on tentera de combler par une autre naissance. Naissances rapprochées et mortalité maternelle sont étroitement associées.  
+teaser: "Il y a un siècle, les enfants d'Europe nés prématurément et de petit poids de naissance n'avaient aucune chance de survie. Il n'était même pas conseillé de les aider à vivre afin de ne pas prolonger inutilement une agonie douloureuse.  
+On sait maintenant que cette \"sagesse des pauvres\" n'est que l'acceptation d'une fatalité inévitable. On connaît aussi son coût exorbitant. La mort précoce d'un petit enfant est toujours une peine immense pour sa mère. Les convenances sociales ne lui permettent pas toujours de l'exprimer. La mort d'un petit enfant est un échec familial qu'on tentera de combler par une autre naissance. Naissances rapprochées et mortalité maternelle sont étroitement associées.  
 C'est un Français, Budin, qui en 1900 environ, prouve le premier que la survie des prématurés est possible. Il décrit les trois conditions qui, à l'heure actuelle, restent encore les conditions primordiales :
 
 *   Créer autour de l'enfant une ambiance chaude. Conserver la chaleur de l'enfant. Il conseille de placer les enfants près du corps de leur mère. Il invente les premiers incubateurs.
@@ -17,7 +15,9 @@ Les objectifs : ils sont au nombre de trois :
 
 *   Assurer la survie pendant les premières semaines de la vie, suppléer les fonctions nutritionnelles et protectrices de l'utérus.
 *   Eviter les morts de la première année, qui sont pour la plupart favorisées par la malnutrition.
-*   Permettre un développement moteur, sensoriel, affectif et intellectuel optimal.
+*   Permettre un développement moteur, sensoriel, affectif et intellectuel optimal."
+---
+
 ## I. Prématurés ou dysmatures
 
 ### 1.Les enfants de petit poids ne sont pas tous des prématurés

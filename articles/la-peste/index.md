@@ -2,9 +2,9 @@
 title: "La peste"
 author: "Patrice Bourée Institut Alfred Fournier, Paris"
 date: "2015-06-07"
+teaser: "Connue depuis l’Antiquité, la peste est une maladie infectieuse qui a fait de très nombreuses victimes dans le monde au cours des vingt siècles précédents. Aujourd’hui, cette affection existe encore dans de nombreux pays tropicaux."
 ---
 
-Connue depuis l’Antiquité, la peste est une maladie infectieuse qui a fait de très nombreuses victimes dans le monde au cours des vingt siècles précédents. Aujourd’hui, cette affection existe encore dans de nombreux pays tropicaux.
 ## I. Madagascar : un foyer permanent
 
 Une épidémie de peste a débuté fin aout 2013 à Madagascar dans la région des hauts plateaux et s’est rapidement répandue dans l’île, ayant atteint 189 personnes dont 47 sont décédées. Mais en fait, la peste est connue depuis très longtemps à Madagascar où elle a été introduite en 1898 par les rats d’un navire marchand chargé de riz, en provenance de Bombay. Les premiers cas sont apparus à Antananarivo, puis la peste s’est décalée vers les hauts plateaux  du centre où elle persiste depuis à bas bruit (figure 1), le climat relativement frais et la promiscuité en ayant favorisé la transmission interhumaine.

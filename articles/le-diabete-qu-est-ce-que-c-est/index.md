@@ -2,9 +2,9 @@
 title: "Le diabète, qu'est-ce que c'est ?"
 author: "Maguy Nigri Médecin, Centre de Santé de Békamba, Tchad."
 date: "1996-10-02"
+teaser: "Le diabète est une maladie de plus en plus fréquente, en Afrique en particulier. Outre les médicaments l'éducation du malade est capitale qui permettra d'éviter la survenue de redoutables complications dégénératives."
 ---
 
-Le diabète est une maladie de plus en plus fréquente, en Afrique en particulier. Outre les médicaments l'éducation du malade est capitale qui permettra d'éviter la survenue de redoutables complications dégénératives.
 C'est devant une jeune femme de vingt-cinq ans, grabataire, se mourant d'un diabète insulino-dépendant, qu'en 1986, des infirmiers tchadiens et une amie française médecin cherchèrent les moyens de la sauver.
 
 L'insuline et le matériel d'injection, envoyés de France par une amie diabétologue, permirent d'obtenir un effet bénéfique rapide sur cette malade.

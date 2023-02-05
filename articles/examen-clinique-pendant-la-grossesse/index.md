@@ -2,9 +2,7 @@
 title: "Examen clinique pendant la grossesse"
 author: "Par Armel Brice Mapoukou Gynécologue-obstétricien, Brazzaville, Congo."
 date: "2010-12-04"
----
-
-L'examen clinique pendant la grossesse est un acte essentiel qui, pour être efficace, doit être mené dans de bonnes conditions, en respectant les principes de confort, d'hygiène, de sécurité et de confidentialité. Il associe donc un examen général et un examen obstétrical.
+teaser: "L'examen clinique pendant la grossesse est un acte essentiel qui, pour être efficace, doit être mené dans de bonnes conditions, en respectant les principes de confort, d'hygiène, de sécurité et de confidentialité. Il associe donc un examen général et un examen obstétrical.
 
 **Objectifs**
 
@@ -19,7 +17,9 @@ L'examen clinique pendant la grossesse est un acte essentiel qui, pour être eff
 **Intérêt thérapeutique**
 
 *   Préventif : pré-éclampsie, en administrant les antiagrégants plaquettaires ; prévention de spina bifida par l'apport d'acide folique.
-*   Curatif si nécessaire.
+*   Curatif si nécessaire."
+---
+
 _Les modalités de suivi de la grossesse (fréquence des consultations, des échographies et des autres examens complémentaires) varient d'un pays â l'autre en fonction de recommandations ministérielles et selon les structures de soins (CESCOM, hôpital de référence)._
 
 ## I. Préparation à la grossesse  examen prénuptial : c'est l'idéal

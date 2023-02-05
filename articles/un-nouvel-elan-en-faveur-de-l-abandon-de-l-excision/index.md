@@ -2,9 +2,9 @@
 title: "Un nouvel élan en faveur de l'abandon de l'excision"
 author: "Louis Guinamard Coordinateur de la mobilisation Excision, parlons-en !"
 date: "2014-06-23"
+teaser: "_Excision, parlons-en !_ est un rassemblement inédit d’actrices et d’acteurs francophones de la société civile souhaitant mutualiser leurs efforts et leurs ressources pour intensifier la mobilisation en faveur de l’abandon de l’excision/mutilations sexuelles féminines (MSF) tant à l’international qu’en France. Il s’agit d’un lieu de rencontre et de partage des expertises. Lieu virtuel, notamment grâce au site internet et aux réseaux sociaux. Lieu réel, qui prend corps lors des rencontres et des réunions ou des commissions, carrefours de savoirs, de compétences et d’initiatives."
 ---
 
-_Excision, parlons-en !_ est un rassemblement inédit d’actrices et d’acteurs francophones de la société civile souhaitant mutualiser leurs efforts et leurs ressources pour intensifier la mobilisation en faveur de l’abandon de l’excision/mutilations sexuelles féminines (MSF) tant à l’international qu’en France. Il s’agit d’un lieu de rencontre et de partage des expertises. Lieu virtuel, notamment grâce au site internet et aux réseaux sociaux. Lieu réel, qui prend corps lors des rencontres et des réunions ou des commissions, carrefours de savoirs, de compétences et d’initiatives.
 Les travaux de pionniers ont positionné la France comme un acteur incontournable de l’action en faveur de l’abandon de l’excision. La pugnacité de Maître Linda Weil-Curiel, qui a conduit aux premières condamnations pénales, a été un facteur clé pour la prise en compte de la question. La découverte et la mise au point du procédé de réparation du clitoris par le docteur Pierre Foldès, ainsi que son combat pour obtenir la prise en charge de cette intervention par la Sécurité Sociale au même titre que tout autre intervention médicale, sont reconnus dans le monde entier. De même, la Fédération nationale GAMS (Groupement pour l’Abolition des Mutilations Sexuelles) œuvre en France depuis plus de 30 ans pour sensibiliser et accompagner les femmes victimes.
 
 ## L’intuition de départ

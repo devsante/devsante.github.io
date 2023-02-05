@@ -2,9 +2,9 @@
 title: "Du bon usage des antibiotiques"
 author: "Abderrahmane Redjah Infectiologue, ESH.EL. Hadi Flici, Alger, Algérie."
 date: "2000-11-30"
+teaser: "Les maladies infectieuses ont été traitées pendant des siècles de façon empirique à partir d'extraits de plantes, comme celui de l'ipéca. C'est ainsi que les médecines traditionnelles africaine, asiatique et indienne ont longtemps fait référence à l'utilisation d'extraits végétaux."
 ---
 
-Les maladies infectieuses ont été traitées pendant des siècles de façon empirique à partir d'extraits de plantes, comme celui de l'ipéca. C'est ainsi que les médecines traditionnelles africaine, asiatique et indienne ont longtemps fait référence à l'utilisation d'extraits végétaux.
 Les premiers agents thérapeutiques utilisés furent les quinines extraites à partir de l'écorce de quinquina par Pelletier en 1819, et l'émétine isolée par Pelletier et Magendie en 1817. Quelques dizaines d'années plus tard, soit en 1889, un autre type de traitement des maladies infectieuses fut proposé. Il repose sur l'antagonisme de croissance entre deux micro-organismes, et est appelé par Villemin l'antibiose.
 
 La découverte des _sulfamides_ en 1935 fut la première révolution dans le traitement des infections bactériennes graves. Pour la première fois, en effet, un médicament guérissait les méningites à méningocoque et de nombreuses septicémies. Ils sont toujours utilisés actuellement (Bactrim®).

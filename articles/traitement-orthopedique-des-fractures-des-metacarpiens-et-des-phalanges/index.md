@@ -2,11 +2,11 @@
 title: "Traitement orthopédique des fractures des métacarpiens et des phalanges"
 author: "Christophe Oberlin"
 date: "1984-10-29"
+teaser: "Considérées à tort comme des fractures mineures, les fractures des métacarpiens et des phalanges, en cas de traitement incorrect, aboutissent immanquablement à une raideur d'un ou plusieurs doigts, entravant alors gravement la fonction de la main.
+
+Or, le traitement orthopédique, à condition d'être suivi et contrôlé, permet de traiter aisément la plupart de ces fractures avec de bons résultats."
 ---
 
-Considérées à tort comme des fractures mineures, les fractures des métacarpiens et des phalanges, en cas de traitement incorrect, aboutissent immanquablement à une raideur d'un ou plusieurs doigts, entravant alors gravement la fonction de la main.
-
-Or, le traitement orthopédique, à condition d'être suivi et contrôlé, permet de traiter aisément la plupart de ces fractures avec de bons résultats.
 **Rappel physiologique** _Schéma n° 1_
 
 ![](i143-1.jpg)

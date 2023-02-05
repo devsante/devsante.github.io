@@ -2,9 +2,9 @@
 title: "Infections bactériennes sévères chez les nourrissons de moins de 3 mois"
 author: "Gorette Dos Santos Médecin généraliste"
 date: "2001-04-02"
+teaser: "A propos d'une étude multicentrique de l'OMS"
 ---
 
-A propos d'une étude multicentrique de l'OMS
 ## I. Contexte
 
 Le taux de mortalité des jeunes enfants, en particulier des nourrissons demeure élevé dans les pays en développement (PED). En 1995, 47 pays avaient un taux de mortalité néonatale d'environ 40/1000 naissances vivantes. On estime que 5 millions de nouveau-nés meurent chaque année dans les PED. En dehors du premier mois après la naissance, la majorité des décès infantiles survient au cours des deuxième et troisième mois de vie. Par comparaison, le taux de mortalité néonatale dans les pays industrialisés est de 5/1000.

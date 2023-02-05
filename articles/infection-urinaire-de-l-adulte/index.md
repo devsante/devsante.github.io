@@ -2,16 +2,16 @@
 title: "Infection urinaire de l'adulte"
 author: "François Pernin"
 date: "1984-08-29"
----
-
-La présence de pus (pyurie) et de germes (bactériurie) définit l'infection urinaire ; ce symptôme pose plusieurs problèmes à résoudre:
+teaser: "La présence de pus (pyurie) et de germes (bactériurie) définit l'infection urinaire ; ce symptôme pose plusieurs problèmes à résoudre:
 
 *   Reconnaître l'infection urinaire en examinant les urines.
 *   Savoir de quelle partie de l'appareil urinaire provient l'infection en examinant le malade.
 *   Reconnaître rapidement les infections aiguës, le plus souvent accompagnées de fièvre, découvrir leur cause pour les traiter de façon urgente.
 *   Traiter cette infection, c'est-à-dire non seulement tuer le germe responsable par les antibiotiques mais aussi traiter la cause de cette infection, parfois par une intervention chirurgicale.
 
-Nous n'aborderons ici que l'infection urinaire de l'adulte,
+Nous n'aborderons ici que l'infection urinaire de l'adulte,"
+---
+
 ## **I. Diagnostic de l'infection des urines**
 
 Une infection urinaire, c'est la présence de pus et de germes dans les urines (pyurie et bactériurie) Cette infection est le plus souvent aisément reconnue par l'examen à l'oeil nu des urines. Cet examen fidèle, obéit à certaines règles:

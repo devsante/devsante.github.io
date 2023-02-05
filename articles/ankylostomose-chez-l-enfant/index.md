@@ -2,9 +2,9 @@
 title: "Ankylostomose chez l'enfant"
 author: "Patrice Bourée Consultation des Maladies Parasitaires, Institut Alfred Fournier, Paris"
 date: "2013-05-06"
+teaser: "Le parasitisme intestinal peut apparaître très tôt, dès l’âge de 3 semaines, et augmente avec l’âge. Il est lié à une hygiène alimentaire défectueuse et au contact avec le sol, favorisé par la marche en terrain le plus souvent humide. Le polyparasitisme fréquent, associé au paludisme et à une malnutrition, aggrave les symptômes. "
 ---
 
-Le parasitisme intestinal peut apparaître très tôt, dès l’âge de 3 semaines, et augmente avec l’âge. Il est lié à une hygiène alimentaire défectueuse et au contact avec le sol, favorisé par la marche en terrain le plus souvent humide. Le polyparasitisme fréquent, associé au paludisme et à une malnutrition, aggrave les symptômes. 
 ## Epidémiologie
 
 Il existe deux espèces d’ankylostomes : _Ankylostoma duodenale_ en zone subtropicale et _Necator americanus_ en région tropicale.

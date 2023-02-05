@@ -2,9 +2,9 @@
 title: "Conduite à tenir devant une polypnée fébrile de l'enfant"
 author: "Micheline Amzallag, pédiatre, Créteil, France"
 date: "2016-05-04"
+teaser: "C’est une situation fréquemment rencontrée qui demande une démarche diagnostique précise afin de ne pas passer à côté d’une pneumopathie à Pneumocoque dont le pronostic peut être redoutable, tout particulièrement lorsqu’il s’agit d’un enfant drépanocytaire. Il convient de différencier la conduite à tenir au regard de l’âge de l’enfant, et l’hospitalisation en urgence peut être la seule attitude possible s’il s’agit d’un nourrisson de moins de 3 mois. Toutefois, nous ne prendrons pas en compte la polypnée du nouveau-né (0-1 mois) qui nécessite une conduite particulière décrite dans la pathologie néo-natale."
 ---
 
-C’est une situation fréquemment rencontrée qui demande une démarche diagnostique précise afin de ne pas passer à côté d’une pneumopathie à Pneumocoque dont le pronostic peut être redoutable, tout particulièrement lorsqu’il s’agit d’un enfant drépanocytaire. Il convient de différencier la conduite à tenir au regard de l’âge de l’enfant, et l’hospitalisation en urgence peut être la seule attitude possible s’il s’agit d’un nourrisson de moins de 3 mois. Toutefois, nous ne prendrons pas en compte la polypnée du nouveau-né (0-1 mois) qui nécessite une conduite particulière décrite dans la pathologie néo-natale.
 ## Quand parle-t-on de fièvre ?
 
 La température normale est comprise entre 36°5 et 37°5. Entre 37°5 et 38°, il s’agit d’un état subfébrile qui demandera simplement, en l’absence de signe associé, de découvrir l’enfant et de le surveiller. Si la température est supérieure à 38°, il s’agit d’une fièvre. Toute élévation de la température centrale entraîne des signes associés, dont une tachycardie réflexe. La tachycardie se définit pour une fréquence cardiaque supérieure à la valeur en fonction de l’âge, en sachant que si l’enfant est endormi, elle peut être inférieure de 10 % à la borne inférieure.

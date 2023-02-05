@@ -2,9 +2,9 @@
 title: "Modes d'action et classification des vaccins : définition de la vaccinologie"
 author: "Pierre Salion, Vaccinologue, GISPE"
 date: "2009-04-27"
+teaser: "Avant d'envisager la vaccinologie dans la pratique quotidienne en Afrique, centrée essentiellement sur l'application du Programme Élargi de Vaccination (PEV), et de faire une revue des autres vaccins disponibles dans le monde en insistant sur ceux qui ont un intérêt pour les pays de la zone intertropicale, il convient de rappeler le plus simplement possible quel est le mode d'action des vaccins, comment ils sont classés, et de définir le mot \"vaccinologie\"."
 ---
 
-Avant d'envisager la vaccinologie dans la pratique quotidienne en Afrique, centrée essentiellement sur l'application du Programme Élargi de Vaccination (PEV), et de faire une revue des autres vaccins disponibles dans le monde en insistant sur ceux qui ont un intérêt pour les pays de la zone intertropicale, il convient de rappeler le plus simplement possible quel est le mode d'action des vaccins, comment ils sont classés, et de définir le mot "vaccinologie".
 ## I. Mode d'action des vaccins
 
 Un vaccin est une préparation antigénique dont l'inoculation à un sujet réceptif induit une réponse immunitaire protectrice (formation d'anticorps) spécifique à un agent infectieux donné (bactérie ou virus).  

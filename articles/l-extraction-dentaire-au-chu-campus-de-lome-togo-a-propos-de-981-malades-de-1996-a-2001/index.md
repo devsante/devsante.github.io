@@ -2,16 +2,16 @@
 title: "L'extraction dentaire au CHU-campus de Lomé (Togo) : à propos de 981 malades, de 1996 à 2001"
 author: "P. Agoda(1), E. Boko(2), P. Tchamdja(3), D. Djagba(1) [1]Chirurgien-dentiste - service de stomatologie CHU-Campus Lomé. [2]Maître-assistant chef du service d'ORL CHU-Campus Lomé. [3]Économie de santé, FMMP : Université de Lomé. Travail réalisé dans le service de stomatologie du CHU-Campus de Lomé au Togo Docteur P. Agoda CHU-Campus : Service de stomatologie - B.P. 30.006 Lomé-Togo Tél. 00(228) 9046168 / 2251441 - E-mail : agodager@yahoo.fr"
 date: "2005-08-04"
----
-
-L'extraction dentaire est une thérapeutique bucco-dentaire, remarquable par le phénomène important de la perte des dents qu'elle crée et le déséquilibre qu'elle provoque dans le système oro-facial du malade développant ainsi un besoin en chirurgie réparatrice au plan fonctionnel et esthétique, nécessitant la confection de prothèses dentaires dont la prise en charge est difficile dans les pays en développement.
+teaser: "L'extraction dentaire est une thérapeutique bucco-dentaire, remarquable par le phénomène important de la perte des dents qu'elle crée et le déséquilibre qu'elle provoque dans le système oro-facial du malade développant ainsi un besoin en chirurgie réparatrice au plan fonctionnel et esthétique, nécessitant la confection de prothèses dentaires dont la prise en charge est difficile dans les pays en développement.
 
 On assiste dans les pays développés, à la valorisation des soins conservateurs au détriment de l'extraction dentaire dont la fréquence a sensiblement diminué de nos jours [3,4]. Ceci n'est pas le cas en Afrique où l'extraction dentaire présente encore des fréquences relativement élevées ayant pour conséquences, l'expression d'importants besoins en prothèses dentaires dans un contexte économique et social souvent précaire.
 
 Les données de la littérature sont absentes à ce sujet sur le Togo d'où les objectifs de la présente étude sont les suivants :
 
 *   Apprécier l'importance de l'extraction dentaire au CHU-Campus de Lomé.
-*   Analyser les facteurs déterminants de la fréquence de ces extractions dentaires.
+*   Analyser les facteurs déterminants de la fréquence de ces extractions dentaires."
+---
+
 ## I. Méthodologie
 
 C'est une étude rétrospective dans le service de stomatologie du CHU-Campus de Lomé de janvier 1996 à décembre 2001. Le matériel d'étude était composé de dossiers de malades ayant bénéficié d'une extraction dentaire. Les renseignements recueillis au niveau des dossiers concernaient la nature du traitement, le motif de la consultation, la date de la consultation, l'âge et le sexe des malades, le diagnostic, le siège de l'extraction, le type de dent victime et le besoin prothétique créé par l'extraction dentaire.

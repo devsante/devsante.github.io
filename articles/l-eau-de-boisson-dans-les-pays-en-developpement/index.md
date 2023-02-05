@@ -2,9 +2,9 @@
 title: "L'eau de boisson dans les pays en développement"
 author: "Pascal Empereur-Bissonnet \"Médecine, Eau, Agriculture et Santé en milieu Tropical\", Paris."
 date: "2007-10-03"
+teaser: "L'approvisionnement en eau potable des communautés rurales des pays pauvres est un problème majeur."
 ---
 
-L'approvisionnement en eau potable des communautés rurales des pays pauvres est un problème majeur.
 ## I. Le traitement de l'eau de boisson
 
 Il est avant tout d'ordre **qualitatif.** On estime que la mauvaise qualité microbiologique de l'eau alimentaire est à l'origine de la moitié des pathologies infectieuses qui sont enregistrées ; les seules maladies diarrhéiques tuent, chaque année, dix millions d'individus, dont quatre millions d'enfants de moins de cinq ans. Les ressources traditionnelles (marigots, rivières et puits) fournissent une eau contaminée par des matières fécales d'origine humaine et animale. Cette pollution est due, au sein de sociétés qui ignorent les fondements de l'hygiène, à la dissémination des excreta dans le milieu extérieur et à l'absence de protection sanitaire des sites d'exhaure (sites d'extraction).

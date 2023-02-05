@@ -2,10 +2,10 @@
 title: "Lombosciatique commune"
 author: "Hélène de Saxcé Neurologue, ancien chef de service adjoint, Hôpital Saint-Joseph, Paris."
 date: "1998-08-03"
+teaser: "Il s'agit d'une crise douloureuse affectant le trajet du nerf sciatique depuis son origine jusqu'à ses extrémités. Qui dit sciatique dit toujours douleur, empruntant le trajet du nerf du même nom.  
+Le nerf sciatique a ses origines dans les racines nerveuses lombaires qui partent de la terminaison de la moelle épinière (queue de cheval) et sortent par les trous de conjugaison en dessous des vertèbres correspondantes. La sciatique résulte d'un conflit entre l'une des racines du nerf sciatique L5 ou S1 et le disque correspondant. Il y a deux racines, à chaque niveau, l'une postérieure sensitive et l'autre antérieure motrice, se rejoignant avant la sortie du canal vertébral, innervant des territoires différents, cutanés, musculaires."
 ---
 
-Il s'agit d'une crise douloureuse affectant le trajet du nerf sciatique depuis son origine jusqu'à ses extrémités. Qui dit sciatique dit toujours douleur, empruntant le trajet du nerf du même nom.  
-Le nerf sciatique a ses origines dans les racines nerveuses lombaires qui partent de la terminaison de la moelle épinière (queue de cheval) et sortent par les trous de conjugaison en dessous des vertèbres correspondantes. La sciatique résulte d'un conflit entre l'une des racines du nerf sciatique L5 ou S1 et le disque correspondant. Il y a deux racines, à chaque niveau, l'une postérieure sensitive et l'autre antérieure motrice, se rejoignant avant la sortie du canal vertébral, innervant des territoires différents, cutanés, musculaires.
 Nous aborderons essentiellement la lombosciatique commune, qui représente la grande majorité des cas, sans oublier cependant les autres causes possibles à évoquer pour les éliminer.
 
 ## I. Signes et diagnostic de la lombosciatique commune

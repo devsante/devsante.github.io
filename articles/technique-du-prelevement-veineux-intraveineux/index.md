@@ -2,9 +2,9 @@
 title: "Technique du prélèvement veineux (intraveineux)"
 author: "Philippe Reinert Pédiatre, Hôpital Intercommunal, Créteil, France."
 date: "2006-03-17"
+teaser: "La ponction veineuse permettant un prélèvement de sang est un acte quotidien indispensable pour rechercher une anomalie sanguine ; c'est aussi le premier temps du traitement d'urgence qu'est l'administration intra-veineuse d'un médi­cament. Ce geste ne souffre pas la médiocrité."
 ---
 
-La ponction veineuse permettant un prélèvement de sang est un acte quotidien indispensable pour rechercher une anomalie sanguine ; c'est aussi le premier temps du traitement d'urgence qu'est l'administration intra-veineuse d'un médi­cament. Ce geste ne souffre pas la médiocrité.
 ## I. Matériel
 
 **Il nécessite :**

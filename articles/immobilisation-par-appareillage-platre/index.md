@@ -2,9 +2,9 @@
 title: "Immobilisation par appareillage plâtré"
 author: "par Taçkin Özalp*, Alain Lavabre**, Philippe Pietri** * Chirurgien-orthopédiste, hôpital Avicenne, Bobigny, France. ** Plâtrier, hôpital Avicenne, Bobigny, France."
 date: "2000-10-05"
+teaser: "Le plâtre est utilisé depuis très longtemps comme matériel d'immobilisation pour les fractures, luxations et les entorses. L'immobilisation plâtrée est un geste médical très important et nécessite minutie et savoir-faire pour éviter les complications. Le patient doit être informé sur les premiers symptômes qui annoncent ces complications. Une surveillance stricte est indispensable pour vérifier la tolérance et l'efficacité du plâtre."
 ---
 
-Le plâtre est utilisé depuis très longtemps comme matériel d'immobilisation pour les fractures, luxations et les entorses. L'immobilisation plâtrée est un geste médical très important et nécessite minutie et savoir-faire pour éviter les complications. Le patient doit être informé sur les premiers symptômes qui annoncent ces complications. Une surveillance stricte est indispensable pour vérifier la tolérance et l'efficacité du plâtre.
 L'immobilisation plâtrée peut être réalisée par deux types d'appareillage :
 
 **1)** Le plâtre circulaire entourant complètement le membre.

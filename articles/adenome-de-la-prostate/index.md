@@ -2,9 +2,9 @@
 title: "Adénome de la prostate"
 author: "François Pernin Chirurgien urologue, Centre Hospitalier, Ajaccio, France."
 date: "2003-06-02"
+teaser: "Encore appelée hypertrophie ou hyperplasie bénigne de la prostate, cette tumeur bénigne, d'une extrême fréquence, peut être parfois responsable de complications graves : rétention d'urine et insuffisance rénale."
 ---
 
-Encore appelée hypertrophie ou hyperplasie bénigne de la prostate, cette tumeur bénigne, d'une extrême fréquence, peut être parfois responsable de complications graves : rétention d'urine et insuffisance rénale.
 ![](i831-1.jpg)
 
 

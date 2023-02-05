@@ -2,15 +2,15 @@
 title: "Les infections chez l'enfant malnutri"
 author: "Philippe Reinert Pédiatre, hôpital intercommunal, Créteil, France"
 date: "2011-08-31"
----
-
-La malnutrition constitue l'un des grands problèmes de santé dans le monde : elle est, chaque année, responsable de la mort de millions d'enfants. Or, cette mortalité est, pour la moitié des cas, causée par une infection.
+teaser: "La malnutrition constitue l'un des grands problèmes de santé dans le monde : elle est, chaque année, responsable de la mort de millions d'enfants. Or, cette mortalité est, pour la moitié des cas, causée par une infection.
 
 Le but de cette mise au point est :
 
 *   de préciser les raisons de cette fragilité aux infections de l'enfant malnutri,
 *   d'identifier les principaux germes responsables,
-*   de proposer quelques solutions.
+*   de proposer quelques solutions."
+---
+
 ## I. Pourquoi tant d'infections ?
 
 La carence alimentaire, et plus particulièrement en protéines, entraîne de graves perturbations du système immunitaire.

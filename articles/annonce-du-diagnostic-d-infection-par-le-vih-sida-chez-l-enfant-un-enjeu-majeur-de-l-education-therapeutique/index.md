@@ -2,9 +2,9 @@
 title: "Annonce du diagnostic d'infection par le VIH/SIDA chez l'enfant, un enjeu majeur de l'éducation thérapeutique"
 author: "Par Dr. Alexandra Peltier Pédiatre. Initiative ESTHER Luxembourg au Rwanda / Lux-Development. Correspondance : alexandrapeltier@hotmail.com - Site web : enfance-et-sida.org."
 date: "2007-11-12"
+teaser: "Proposition d'une méthode d'annonce et d'outils didactiques utilisés depuis 1999 dans de nombreux pays"
 ---
 
-Proposition d'une méthode d'annonce et d'outils didactiques utilisés depuis 1999 dans de nombreux pays
 La prise régulière stricte des antirétroviraux est difficile mais indispensable pour éviter l'émergence de résistance. Une bonne adhésion au traitement antirétroviral est encore plus difficile à obtenir chez l'enfant car il dépend des adultes ainsi que de sa compréhension de l'importance de cette prise médicamenteuse très régulière (1,2). Le plus souvent, l'enfant ne connaît pas son diagnostic et ne saisit pas l'enjeu vital des médicaments malgré leurs effets secondaires (3). Ensuite, lors de la compréhension de la gravité de la pathologie, l'enfant doit traverser les difficultés liées à la période de l'adolescence où les traitements sont particulièrement difficiles à accepter (4-5). Les effets à long terme des antirétroviraux touchent l'intégrité de l'image corporelle et la projection dans le futur de l'enfant et de l'adolescent"' compliquant l'acceptation de la maladie.
 
 ## I. Historique du projet

@@ -2,11 +2,11 @@
 title: "Groupes sanguins et transfusion"
 author: "Jean-Bruno Lobut"
 date: "1983-04-02"
+teaser: "Les règles de la transfusion découlent de la connaissance des groupes sanguins. Elles sont impératives. Leur inobservance risque d'entraîner la mort du malade.  
+La transfusion est le transfert de sang d'un sujet donneur vers un sujet receveur. Elle n'est possible que si ces deux sujets ont des sangs compatibles.  
+Cette notion de compatibilité repose sur la connaissance des groupes sanguins."
 ---
 
-Les règles de la transfusion découlent de la connaissance des groupes sanguins. Elles sont impératives. Leur inobservance risque d'entraîner la mort du malade.  
-La transfusion est le transfert de sang d'un sujet donneur vers un sujet receveur. Elle n'est possible que si ces deux sujets ont des sangs compatibles.  
-Cette notion de compatibilité repose sur la connaissance des groupes sanguins.
 ## I. Les groupes sanguins
 
 ### 1. Définition

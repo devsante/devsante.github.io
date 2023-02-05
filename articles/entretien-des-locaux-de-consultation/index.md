@@ -2,16 +2,16 @@
 title: "Entretien des locaux de consultation"
 author: "Olivier Bismuth Médecin généraliste, Créteil, France"
 date: "2011-11-17"
----
-
-La prise en compte de l’hygiène est tout aussi importante dans un cabinet de consultation que dans une structure hospitalière. Des mesures simples et efficaces permettent de réduire le risque de transmission de germes et d’infection.  
+teaser: "La prise en compte de l’hygiène est tout aussi importante dans un cabinet de consultation que dans une structure hospitalière. Des mesures simples et efficaces permettent de réduire le risque de transmission de germes et d’infection.  
 L’entretien du cabinet de consultation est essentiel. Viennent s’y ajouter les mesures générales d’hygiène préconisées quel que soit le lieu de prise en charge des patients.  
 Nous envisagerons l’entretien d’un dispensaire périphérique, extra-hospitalier, quelle que soit l’importance du centre car les principes sont les mêmes. Il faut en effet prévoir :
 
 *   Le matériel dont on a besoin
 *   La réalisation du ménage
 *   L’élimination des déchets
-*   La programmation de l’entretien
+*   La programmation de l’entretien"
+---
+
 ## I. Matériel
 
 <table>

@@ -2,9 +2,9 @@
 title: "Prévention des accidents domestiques infantiles"
 author: "Mohamed Nguer* et Olivier Isaac Bismuth** * Chef du poste médical de N'Diop, Sénégal. ** Médecin, Développement et Santé.  "
 date: "1992-10-03"
+teaser: "Les accidents domestiques chez les enfants, en particulier de zéro à quatre ans, constituent aujourd'hui un véritable problème de santé publique, dans tous les pays du monde. Tout agent de santé est sollicité fréquemment par une famille affolée car son enfant vient de se brûler, a avalé du pétrole ou a subi un accident à l'intérieur de la concession familiale."
 ---
 
-Les accidents domestiques chez les enfants, en particulier de zéro à quatre ans, constituent aujourd'hui un véritable problème de santé publique, dans tous les pays du monde. Tout agent de santé est sollicité fréquemment par une famille affolée car son enfant vient de se brûler, a avalé du pétrole ou a subi un accident à l'intérieur de la concession familiale.
 Quelle est l'ampleur du problème ? On la connaît mal, faute de collecte d'informations et de données statistiques sur ce sujet. Mais, par expérience, on sait que les accidents sont nombreux, certainement plus qu'on ne le pense, car tous ne sont pas déclarés ou ne font pas l'objet d'une consultation au dispensaire.
 
 Les causes habituelles relevées sont les suivantes :

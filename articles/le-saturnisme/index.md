@@ -2,9 +2,9 @@
 title: "Le saturnisme"
 author: "Mady Denantes Médecin généraliste"
 date: "2002-08-04"
+teaser: "Le saturnisme est une intoxication aiguë ou chronique par le plomb ou ses composés."
 ---
 
-Le saturnisme est une intoxication aiguë ou chronique par le plomb ou ses composés.
 ## I. Ou trouve-t-on du plomb ?
 
 On trouve du plomb :

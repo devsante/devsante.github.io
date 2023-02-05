@@ -2,9 +2,9 @@
 title: "L'examen de l'oeil dans le cadre des soins de santé primaire en Afrique sahélienne"
 author: "Marie-Thérèse Banos Ophtalmologiste, Programme National de Lutte contre la Cécité, Niamey, Niger. \" Les illustrations sont de Y. Jaffré et M. Négrel, d'après le \" Guide de santé villageois \"."
 date: "1993-06-02"
+teaser: "Au Niger, la prévalence de la cécité est de 2 % ; 80 % de ces cécités sont curables (c'est-à-dire qu'elles peuvent bénéficier d'un traitement essentiellement chirurgical : c'est le cas de la cataracte), ou évitables (c'est-à-dire qu'elles auraient pu être évitées par un traitement précoce et/ou une prévention efficace : ce sont des cécités d'origine cornéenne, infectieuse (trachome, conjonctivite gonoccocique néonatale), et/ou carentielle (rougeole, avitaminose A). En outre, les traumatismes sont une cause très importante de cécités unilatérales, le plus souvent par retard de prise en charge."
 ---
 
-Au Niger, la prévalence de la cécité est de 2 % ; 80 % de ces cécités sont curables (c'est-à-dire qu'elles peuvent bénéficier d'un traitement essentiellement chirurgical : c'est le cas de la cataracte), ou évitables (c'est-à-dire qu'elles auraient pu être évitées par un traitement précoce et/ou une prévention efficace : ce sont des cécités d'origine cornéenne, infectieuse (trachome, conjonctivite gonoccocique néonatale), et/ou carentielle (rougeole, avitaminose A). En outre, les traumatismes sont une cause très importante de cécités unilatérales, le plus souvent par retard de prise en charge.
 ## I. Rappels
 
 ### 1. Apprendre à reconnaître les éléments essentiels

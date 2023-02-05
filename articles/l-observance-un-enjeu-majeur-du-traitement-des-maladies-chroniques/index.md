@@ -2,21 +2,21 @@
 title: "L'observance, un enjeu majeur du traitement des maladies chroniques"
 author: "Christian Mongin Médecin généraliste"
 date: "2004-08-05"
----
-
-Quelles sont les qualités d'un "bon traitement" ?
+teaser: "Quelles sont les qualités d'un \"bon traitement\" ?
 
 Quand un médecin prescrit à un patient des médicaments, il veut d'abord être efficace. Il va donc utiliser des molécules qui ont prouvé leur efficacité contre une maladie donnée après des essais thérapeutiques bien menés. Mais il faut aussi que ce traitement soit bien supporté par le patient c'est à dire qu'il ne doit pas provoquer des effets secondaires cliniques ou biologiques insupportables pour le patient ou plus dangereux que la maladie que l'on veut soigner. Donc un bon traitement, c'est aussi un traitement bien toléré avec des risques calculés. Cela ne suffit pas. Un traitement efficace et bien toléré que le malade ne prend pas n'est pas un bon traitement.
 
 Quand un patient prend correctement le traitement prescrit, on dit qu'il est observant ou qu'il adhère à son traitement.
 
-Efficacité, Tolérance et Observance sont les trois principales qualités d'un " bon traitement " et trop souvent l'évaluation des conditions favorisant cette observance sont oubliées par les médecins quand ils prescrivent un traitement.
+Efficacité, Tolérance et Observance sont les trois principales qualités d'un \" bon traitement \" et trop souvent l'évaluation des conditions favorisant cette observance sont oubliées par les médecins quand ils prescrivent un traitement.
 
 L'évolution de la médecine a conféré ces dernières années un rôle majeur à l'observance des traitements.
 
 En effet, il est plus facile de respecter les modalités d'un traitement lors d'un épisode aigu qu'au cours d'une maladie chronique. Lorsqu'il s'agit d'une affection aiguë, le traitement est ponctuel, et son efficacité est perçue (ce qui peut conduire à un arrêt prématuré). A l'inverse, le dépistage d'une maladie chronique va induire un traitement prolongé, aux bénéfices non directement ressentis par le patient (mais qui perçoit paradoxalement les effets secondaires de ce traitement).
 
-Cette non-observance pourrait concerner 30 à 60 % des prescriptions et serait responsable de 10 % des hospitalisations. Le degré d'observance des traitements s'échelonnerait ainsi de 50 % dans le traitement de l'arthrite rhumatoïde à 82 % dans le traitement de l'hyperlipidémie. Elle induit une augmentation de la mortalité et de la morbidité. Elle entraîne d'autre part des dépenses évitables : les médicaments les plus chers sont ceux qui sont mal utilisés ou non pris. Ainsi, aux Etats-Unis, on estime à plus de 37 milliards de dollars par an le montant des frais hospitaliers liés à la non observance thérapeutique. En Suisse, le coût de la non observance s'élèverait à 200 millions de francs. Il s'agit donc d'un problème important de santé publique en terme de morbidité et de coûts. Ce problème n'est certes pas nouveau : Hippocrate n'affirmait-il pas déjà que "les malades mentent souvent lorsqu'ils disent qu'ils prennent leurs médicaments". L'importance de l'observance a cependant pris récemment une dimension beaucoup plus grande.
+Cette non-observance pourrait concerner 30 à 60 % des prescriptions et serait responsable de 10 % des hospitalisations. Le degré d'observance des traitements s'échelonnerait ainsi de 50 % dans le traitement de l'arthrite rhumatoïde à 82 % dans le traitement de l'hyperlipidémie. Elle induit une augmentation de la mortalité et de la morbidité. Elle entraîne d'autre part des dépenses évitables : les médicaments les plus chers sont ceux qui sont mal utilisés ou non pris. Ainsi, aux Etats-Unis, on estime à plus de 37 milliards de dollars par an le montant des frais hospitaliers liés à la non observance thérapeutique. En Suisse, le coût de la non observance s'élèverait à 200 millions de francs. Il s'agit donc d'un problème important de santé publique en terme de morbidité et de coûts. Ce problème n'est certes pas nouveau : Hippocrate n'affirmait-il pas déjà que \"les malades mentent souvent lorsqu'ils disent qu'ils prennent leurs médicaments\". L'importance de l'observance a cependant pris récemment une dimension beaucoup plus grande."
+---
+
 ## 1. Définition de l'observance
 
 L'observance a d'abord eu un sens religieux "pratique d'une règle en matière religieuse" _(Dictionnaire Le Littré)._

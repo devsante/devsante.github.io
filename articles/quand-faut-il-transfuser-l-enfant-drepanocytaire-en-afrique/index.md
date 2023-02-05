@@ -2,9 +2,9 @@
 title: "Quand faut-il transfuser l'enfant drépanocytaire en Afrique ?"
 author: "le Dr Ibrahima Magne Maître de Conférences Agrégé en Pédiatrie, Centre Hospitalier National d'Enfants Albert Royer de Dakar - Sénégal, E-mail : ibdiagne@refer.sn  "
 date: "2006-12-10"
+teaser: "Les formes graves de la drépanocytose ou syndromes drépanocytaires majeurs (SDM) sont associées à une anémie hémolytique chronique de degré variable d'un sujet à l'autre. Son évaluation au cours du suivi est essentielle, car elle permet de déterminer le taux d'hémoglobine du patient en l'absence de toute manifestation critique ou de complication (taux d'hémoglobine à l'état basal ou taux d'hémoglobine de base)."
 ---
 
-Les formes graves de la drépanocytose ou syndromes drépanocytaires majeurs (SDM) sont associées à une anémie hémolytique chronique de degré variable d'un sujet à l'autre. Son évaluation au cours du suivi est essentielle, car elle permet de déterminer le taux d'hémoglobine du patient en l'absence de toute manifestation critique ou de complication (taux d'hémoglobine à l'état basal ou taux d'hémoglobine de base).
 Cette anémie peut s'aggraver, soit de façon progressive du fait d'une carence d'apport en folate ou en fer, soit de façon brutale à l'occasion d'une séquestration splénique, d'une érythroblastopénie transitoire ou d'une hyper hémolyse. Ces différentes situations constituent autant d'indications d'une transfusion urgente de concentrés de globules rouges.
 
 Par ailleurs, la préparation de certaines interventions chirurgicales (liées ou non à la drépanocytose), la prise en charge adéquate de complications évolutives graves en lien avec la maladie, peuvent nécessiter une baisse significative du taux d'hémoglobine S par un échange transfusionnel partiel, éventuellement répété.

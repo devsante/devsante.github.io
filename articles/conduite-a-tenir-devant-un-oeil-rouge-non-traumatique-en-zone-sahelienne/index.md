@@ -2,9 +2,7 @@
 title: "Conduite à tenir devant un oeil rouge non traumatique en zone sahélienne"
 author: "Marie-Thérèse Banos Médecin, Programme National de Lutte contre la Cécité, Niamey, Niger."
 date: "2002-02-28"
----
-
-Un œil rouge est un œil qui "souffre". C'est toujours une urgence.  
+teaser: "Un œil rouge est un œil qui \"souffre\". C'est toujours une urgence.  
 Un examen soigneux vous permettra de :
 
 *   garder le malade et de le traiter sur place, ou
@@ -13,7 +11,9 @@ Un examen soigneux vous permettra de :
 Un traitement bien conduit et une surveillance régulière permettront au malade :
 
 *   de guérir,
-*   ou d'être référé dans de bonnes conditions donc de guérir avec des séquelles amoindries
+*   ou d'être référé dans de bonnes conditions donc de guérir avec des séquelles amoindries"
+---
+
 ## Rappels
 
 L'interrogatoire doit préciser :

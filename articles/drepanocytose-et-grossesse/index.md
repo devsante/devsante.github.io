@@ -2,13 +2,13 @@
 title: "Drépanocytose et grossesse"
 author: "B. C. Tendobi, W. M. Mbombo, L. Tshilolo"
 date: "2018-08-06"
----
-
-La drépanocytose est un problème majeur de santé publique.
+teaser: "La drépanocytose est un problème majeur de santé publique.
 L’association drépanocytose et grossesse est à haut risque car elle met en jeu le pronostic vital  de la mère ainsi que celui du fœtus.
 Autrefois, la grossesse de la femme drépanocytaire était considérée impossible à cause, entre autres considérations, des conditions socio-économiques défavorables, des hospitalisations prolongées, etc.  Aujourd’hui, avec l’amélioration de l’espérance de vie grâce à un diagnostic précoce, à une prise en charge adéquate et multidisciplinaire précoce, l’association drépanocytose et grossesse est devenue non seulement possible mais aussi fréquente dans un contexte défavorisé.
 
-La grossesse chez la femme atteinte de syndrome drépanocytaire majeur aggrave l’anémie, l’expose à des crises vaso-occlusives plus fréquentes et à des infections à répétition : urogénitales (pyélonéphrite, cystite, cervicite), paludisme, pneumonie, etc. Elle expose également le fœtus à la prématurité, au faible poids de naissance, à la souffrance fœtale (SF) et à la mort  *in utero* (MIU).
+La grossesse chez la femme atteinte de syndrome drépanocytaire majeur aggrave l’anémie, l’expose à des crises vaso-occlusives plus fréquentes et à des infections à répétition : urogénitales (pyélonéphrite, cystite, cervicite), paludisme, pneumonie, etc. Elle expose également le fœtus à la prématurité, au faible poids de naissance, à la souffrance fœtale (SF) et à la mort  *in utero* (MIU)."
+---
+
 Dans la prise en charge de la femme enceinte atteinte de drépanocytose, l’élément le plus important, qui semble superflu mais ne l’est pas du tout, est le fait de ** confirmer le diagnostic **avec la concernée. Pour cela, il faut l’écouter, savoir si elle comprend sa maladie et en être sûr. Bien souvent, étant donné que la pathologie a été diagnostiquée depuis l’enfance, du fait d’antécédents transfusionnels multiples, les femmes connaissent plus ou moins leur maladie. Inversement, on est surpris par le fait que la « connaissance de la maladie » se limite parfois à des croyances, ce qui ne favorise pas les actions de prévention.
 Fort heureusement, grâce à de grandes campagnes de sensibilisation organisées pour améliorer la connaissance de la maladie dans la population, ces cas sont en nette régression.
 

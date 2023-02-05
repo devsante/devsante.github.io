@@ -2,9 +2,7 @@
 title: "Vaccination contre l'hépatite B : aspects théoriques"
 author: "Philippe Reinert Pédiatre, Créteil, France."
 date: "2012-10-12"
----
-
-Quand un sujet est infecté par le virus de l’hépatite B, il peut :
+teaser: "Quand un sujet est infecté par le virus de l’hépatite B, il peut :
 
 *   soit être porteur chronique dans 8 à 10 % des cas, avec un risque ultérieur de développer une cirrhose et un cancer du foie (80 % des cancers du foie sont dus aux virus B ou C) ;
 *   soit guérir et éliminer le virus en produisant des anticorps anti-HBs dirigés contre l’enveloppe du virus.
@@ -12,7 +10,9 @@ Quand un sujet est infecté par le virus de l’hépatite B, il peut :
 On a pu démontrer que le sérum des sujets guéris avait un effet protecteur contre l’infection expérimentale du chimpanzé. L’idée de fabriquer un vaccin en utilisant comme antigène l’enveloppe du virus était séduisante : ainsi, en 1975, on isola du plasma de porteurs chroniques du virus l’enveloppe qui fut inactivée puis injectée  
 à l’homme. Les premiers résultats furent remarquables, avec une production élevée d’anticorps anti-enveloppe et surtout une protection clinique supérieure à 90 % (vaccin plasmatique).  
 Par cette technique, il n’était pas possible de produire des quantités importantes de vaccins.  
-On a ensuite fait produire l’antigène par des cellules de mammifères ou des levures (incorporation du gène de la protéine d’enveloppe dans l’ADN de ces cellules), ce qui a permis la mise au point de vaccins recombinants aussi efficaces que les vaccins plasmatiques et à moindre coût.
+On a ensuite fait produire l’antigène par des cellules de mammifères ou des levures (incorporation du gène de la protéine d’enveloppe dans l’ADN de ces cellules), ce qui a permis la mise au point de vaccins recombinants aussi efficaces que les vaccins plasmatiques et à moindre coût."
+---
+
 ## I. Immunogénicité
 
 Le pouvoir immunogène du vaccin peut être évalué par le dosage des anticorps anti-Hbs.  

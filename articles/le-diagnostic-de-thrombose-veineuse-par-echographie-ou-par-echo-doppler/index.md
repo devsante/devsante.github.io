@@ -2,9 +2,9 @@
 title: "Le diagnostic de thrombose veineuse par échographie ou par écho-doppler"
 author: "Marie-Thérèse Barrellier Laboratoire d'Explorations Fonctionnelles - CHU Côte de Nacre - 14033 CAEN cedex e.mail : barrellier-mt@chu-caen.fr"
 date: "2003-04-03"
+teaser: "L'écho-doppler (ED) associe une imagerie doppler des flux circulants à une imagerie échographiques des structures fixes. Alors que le doppler couplé est indispensable en exploration artérielle, l'échographie mode B sans doppler couplé peut suffire pour le diagnostic de thrombose veineuse."
 ---
 
-L'écho-doppler (ED) associe une imagerie doppler des flux circulants à une imagerie échographiques des structures fixes. Alors que le doppler couplé est indispensable en exploration artérielle, l'échographie mode B sans doppler couplé peut suffire pour le diagnostic de thrombose veineuse.
 Bien que l'ED ait remplacé dans la pratique la phlébographie pour le diagnostic de thrombose, il n'est cependant pas devenu pour autant l'examen de référence pour juger de l'efficacité de nouvelles molécules anti-thrombotiques du fait de 3 handicaps principaux : le caractère opérateur-dépendant, une sensibilité réputée mauvaise pour le diagnostic de thrombose asymptomatique, et l'absence de document objectif qui autoriserait une relecture facile de l'ensemble de l'exploration. Ces handicaps peuvent être surmontés en utilisant une bonne méthodologie d'exploration et en présentant les résultats sur un schéma anatomique.
 
 ## I. Méthodologie d'examen

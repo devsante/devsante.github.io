@@ -2,9 +2,9 @@
 title: "Grossesse extra-utérine (GEU)"
 author: "François Pernin"
 date: "1983-10-29"
+teaser: "La nidation de l'oeuf et son développement en dehors de la cavité utérine, dans la trompe utérine le plus souvent, est une complication fréquente. Elle aboutit tôt ou tard, à la rupture de la trompe et à l'hémorragie interne parfois cataclysmique mettant en danger la vie de la malade."
 ---
 
-La nidation de l'oeuf et son développement en dehors de la cavité utérine, dans la trompe utérine le plus souvent, est une complication fréquente. Elle aboutit tôt ou tard, à la rupture de la trompe et à l'hémorragie interne parfois cataclysmique mettant en danger la vie de la malade.
 La grossesse extra-utérine est une **urgence chirurgicale** à laquelle il faut toujours penser chez une femme en âge d'être enceinte et présentant des douleurs abdominales, a fortiori un état de choc hémorragique.
 
 ![](i93-1.jpg)

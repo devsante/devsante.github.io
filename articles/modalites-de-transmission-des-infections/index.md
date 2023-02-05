@@ -2,9 +2,9 @@
 title: "Modalités de transmission des infections"
 author: "Catherine Dupeyron, biologiste, Créteil, France"
 date: "2018-09-17"
+teaser: "Bien connaître ces modalités permet de prévenir efficacement la transmission à l’homme des infections humaines ou animales."
 ---
 
-Bien connaître ces modalités permet de prévenir efficacement la transmission à l’homme des infections humaines ou animales.
 Il existe 4 possibilités de transmission :
 - Voie aérienne
 - Voie orale

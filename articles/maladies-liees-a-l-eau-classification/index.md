@@ -2,14 +2,14 @@
 title: "Maladies liées à l'eau : classification"
 author: "Olivier Rogeaux Médecine Interne Infectiologie : centre hôspitalier de Chambéry 73011. Infection@ch-chambery.fr"
 date: "2005-06-03"
----
-
-L'eau est indispensable à toute vie mais elle peut être également source ou vecteur de nombreuses maladies et donc provoquer la mort.
+teaser: "L'eau est indispensable à toute vie mais elle peut être également source ou vecteur de nombreuses maladies et donc provoquer la mort.
 
 Les relations entre l'homme et l'eau sont complexes et variées.  
 L'eau est nécessaire au développement économique mais les barrages ou les réseaux d'irrigation peuvent être néfastes à la santé par les maladies qu'ils apportent.
 
-Nous allons étudier les différentes manières dont l'eau peut être liée à la maladie.
+Nous allons étudier les différentes manières dont l'eau peut être liée à la maladie."
+---
+
 L'eau n'est apparue que tardivement comme pouvant jouer un rôle dans la santé. Elle a été identifiée comme facteur de transmission de maladie seulement en 1854 lors d'une épidémie de choléra à Londres. Progressivement l'accès correct à l'eau potable a permis d'augmenter l'espérance de vie à condition que dans le même temps les conditions d'hygiène s'améliorent. Les maladies liées à l'eau sont très diverses par leur rapport avec celle-ci et le mode de transmision.
 
 ![](i1007-1.jpg)

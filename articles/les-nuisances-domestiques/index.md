@@ -2,9 +2,9 @@
 title: "Les nuisances domestiques"
 author: "Micheline Amzallag, pédiatre, Créteil Isabelle Roustang, médecin, Paris"
 date: "2015-07-02"
+teaser: "Ce sont tous les insectes parasites susceptibles d’envahir les lieux domestiques et d’être soit à l’origine de lésions spécifiques, soit hôte ou vecteurs de maladies transmissibles. Il est donc important de savoir repérer leur présence afin d’en assurer l’éradication rapide et d’éviter leur pathogénie. Ces insectes appartiennent à la catégorie des arthropodes."
 ---
 
-Ce sont tous les insectes parasites susceptibles d’envahir les lieux domestiques et d’être soit à l’origine de lésions spécifiques, soit hôte ou vecteurs de maladies transmissibles. Il est donc important de savoir repérer leur présence afin d’en assurer l’éradication rapide et d’éviter leur pathogénie. Ces insectes appartiennent à la catégorie des arthropodes.
 ## I. Leurs caractéristiques pathogéniques sont les suivantes
 
 *   Transmission d’un agent pathogène d’un hôte à un autre (par exemple, germes pathogènes transmis à l’homme à partir d’un cadavre d’animal).

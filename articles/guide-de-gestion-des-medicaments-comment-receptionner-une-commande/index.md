@@ -1,9 +1,9 @@
 ---
 title: "Guide de gestion des médicaments : comment réceptionner une commande ?"
 date: "2007-06-23"
+teaser: "Bien qu'il s'agisse d'un évènement fréquent, la réception d'une commande de produits destinés à la pharmacie n'est jamais un évènement banal. Il faut lui accorder une grande attention et exé­cuter méthodiquement les tâches qui s'y rapportent, car la majeure partie de l'activité du centre de santé repose sur un approvisionnement correct."
 ---
 
-Bien qu'il s'agisse d'un évènement fréquent, la réception d'une commande de produits destinés à la pharmacie n'est jamais un évènement banal. Il faut lui accorder une grande attention et exé­cuter méthodiquement les tâches qui s'y rapportent, car la majeure partie de l'activité du centre de santé repose sur un approvisionnement correct.
 Les centres de santé de premier niveau sont en général approvisionnés par la pharmacie centrale, régionale ou de district. Les produits proviennent parfois d'autres sources comme les grossistes ou les donateurs.  
 
 Dans tous les cas, il y a un certain nombre de vérifications à faire, de précautions à prendre et de documents à établir.

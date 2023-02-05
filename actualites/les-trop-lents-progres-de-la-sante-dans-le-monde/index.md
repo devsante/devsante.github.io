@@ -22,8 +22,7 @@ Cependant, selon les tendances observées, seulement la moitié des pays atteind
 Mais les résultats les plus inquiétants concernent les pays d’Afrique subsaharienne, notamment la République centrafricaine et la Somalie, qui sont les derniers de la liste avec l’Afghanistan.
 
 Ces résultats sont confirmés et précisés par une autre étude : *The path to longer and healthier lives for all Africans*
- <<http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(17)31509-X.pdf>> 
-Cette étude met en avant le contexte particulier de l’Afrique et ses facteurs de vulnérabilité, malgré un dynamisme indiscutable dans de nombreux domaines :
+<http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(17)31509-X.pdf>. Cette étude met en avant le contexte particulier de l’Afrique et ses facteurs de vulnérabilité, malgré un dynamisme indiscutable dans de nombreux domaines :
 - Nombreux pays fragiles économiquement, zones rurales isolées, bidonvilles, guerres, réfugiés ;
 - Existence d’une « double peine » : persistance de pathologies anciennes : maladies infectieuses, malnutrition, mortalité infantile et maternelle qui s’associent maintenant à l’apparition de maladies chroniques non transmissibles : HTA, diabète, obésité, cancers ,santé mentale, et pathologie liée au réchauffement climatique et à la dégradation de l’environnement ,
 - Et surtout, l’inadéquation et l’inefficacité de la mise en oeuvre en Afrique de démarches ou d’organisation importées de pays du Nord (qui , d’ailleurs, ne savent plus comment faire face à l’augmentation des coûts de la santé chez eux).

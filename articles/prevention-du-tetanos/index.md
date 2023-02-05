@@ -2,12 +2,12 @@
 title: "Prévention du tétanos"
 author: "Philippe Reinert Pédiatre, Créteil, France"
 date: "2005-08-25"
----
-
-Le tétanos demeure une maladie redoutable qui, une fois déclarée, nécessite un traitement difficile et onéreux. Sa prévention, par contre, est facile et découle, en premier lieu, du traitement correct des portes d'entrées possibles. Toute plaie peut constituer une porte d'entrée, surtout si elle est souillée par la terre qui contient le bacille tétanique en spores. Le deuxième élément de prévention est la vaccination
+teaser: "Le tétanos demeure une maladie redoutable qui, une fois déclarée, nécessite un traitement difficile et onéreux. Sa prévention, par contre, est facile et découle, en premier lieu, du traitement correct des portes d'entrées possibles. Toute plaie peut constituer une porte d'entrée, surtout si elle est souillée par la terre qui contient le bacille tétanique en spores. Le deuxième élément de prévention est la vaccination
 
 *   vaccination devant toute plaie,
-*   vaccination systématique de masse.
+*   vaccination systématique de masse."
+---
+
 ## **I. Les portes d'entrée**
 
 ### ****1. **Dans près de la moitié des cas, l'inoculation  

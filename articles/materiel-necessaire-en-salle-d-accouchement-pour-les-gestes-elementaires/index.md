@@ -2,16 +2,16 @@
 title: "Matériel nécessaire en salle d’accouchement pour les gestes élémentaires"
 author: "Par Philippe Reinert Pédiatre, Créteil, France."
 date: "2010-12-03"
----
-
-Six à huit pour cent des nouveau-nés ont, à la naissance, des difficultés respiratoires. Cette asphyxie peut avoir des conséquences dramatiques pour l'enfant; lésions cérébrales définitives, voire la mort.  
+teaser: "Six à huit pour cent des nouveau-nés ont, à la naissance, des difficultés respiratoires. Cette asphyxie peut avoir des conséquences dramatiques pour l'enfant; lésions cérébrales définitives, voire la mort.  
 Pour éviter ce drame, tout infirmier doit installer un coin réanimation avec un matériel simple, disponible 24 heures sur 24.  
 Quant aux autres personnes, de la sage-femme à la matrone, elles doivent savoir :
 
 *   libérer les voies aériennes,
 *   provoquer la respiration,
 *   aider la circulation défaillante,
-*   travailler avec propreté.
+*   travailler avec propreté."
+---
+
 ## I. Matériel souhaitable
 
 *   Lavabo pour les mains avec du savon liquide.

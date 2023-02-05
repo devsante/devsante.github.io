@@ -2,13 +2,13 @@
 title: "Faux médicaments"
 author: "Philippe Reinert Pédiatre, hôpital Intercommunal, Créteil, France"
 date: "2002-08-17"
----
-
-Vaccins, antibiotiques, antipaludéens, contraceptifs : 7% des produits pharmaceutiques sont des contrefaçons, selon l'OMS. Ce trafic lucratif, en pleine expansion touche toute la planète, mais surtout l'Asie et l'Afrique.
+teaser: "Vaccins, antibiotiques, antipaludéens, contraceptifs : 7% des produits pharmaceutiques sont des contrefaçons, selon l'OMS. Ce trafic lucratif, en pleine expansion touche toute la planète, mais surtout l'Asie et l'Afrique.
 
 Entre 1982 et 1999, l'OMS a relevé 770 affaires de contrefaçons à grande échelle ayant entraîné près de 10 000 morts en 10 ans !
 
-D'après les firmes pharmaceutiques, tout ou presque tout peut être copié : les substances, la composition, la notice, l'emballage, le nom du fabricant et même les certificats de contrôle de qualité.
+D'après les firmes pharmaceutiques, tout ou presque tout peut être copié : les substances, la composition, la notice, l'emballage, le nom du fabricant et même les certificats de contrôle de qualité."
+---
+
 ## Que contiennent les médicaments **contrefaits ?**
 
 Soixante pour cent ne contiennent aucun principe actif récemment, en Colombie, des vitamines et des antitussifs ne contenaient que... du ciment !

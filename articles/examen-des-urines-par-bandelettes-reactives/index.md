@@ -2,9 +2,9 @@
 title: "Examen des urines par bandelettes réactives"
 author: "Micheline Amzallag Pédiatre, Créteil, France"
 date: "2011-06-24"
+teaser: "Méthode simple, fiable, rapide,  peu onéreuse, nécessitant de la rigueur, mais permettant une mesure immédiate de 10 paramètres urinaires."
 ---
 
-Méthode simple, fiable, rapide,  peu onéreuse, nécessitant de la rigueur, mais permettant une mesure immédiate de 10 paramètres urinaires.
 ## I. Les paramètres étudiés
 
 *   Leucocyturie

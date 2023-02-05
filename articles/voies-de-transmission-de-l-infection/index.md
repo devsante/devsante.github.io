@@ -2,9 +2,7 @@
 title: "Voies de transmission de l'infection"
 author: "Catherine Dupeyron Biologiste, Créteil, France"
 date: "2011-09-07"
----
-
-Ce sont les chemins empruntés par les agents pathogènes pour passer d’une personne à une autre.  
+teaser: "Ce sont les chemins empruntés par les agents pathogènes pour passer d’une personne à une autre.  
 Il est important de connaître ces voies car c’est le seul moyen de prévenir la transmission des maladies infectieuses.
 
 Il existe 4 voies de transmission :
@@ -12,7 +10,9 @@ Il existe 4 voies de transmission :
 *   Voie aérienne
 *   Voie orale
 *   Voie parentérale
-*   Voie de contact
+*   Voie de contact"
+---
+
 ## I. Voie aérienne
 
 ### 1. Transmission par les gouttelettes de salive  

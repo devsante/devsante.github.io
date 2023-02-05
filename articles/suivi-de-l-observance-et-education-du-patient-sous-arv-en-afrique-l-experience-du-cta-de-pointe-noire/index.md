@@ -2,9 +2,9 @@
 title: "Suivi de l'observance et éducation du patient sous ARV en Afrique : l'expérience du CTA de Pointe-Noire"
 author: "Olivier Marcyl*, Nazaire Bakala** *Médecin coordinateur, Croix-Rouge Française, Programmes SIDA CONGO **Conseiller thérapeutique, CTA de POINTE-NOIRE"
 date: "2004-08-05"
+teaser: "L'accès élargi au traitement antirétroviral (ARV) pour les PvVIH a débuté en juin 2002 au Centre de Traitement Ambulatoire de Pointe-Noire avec un programme initié par la Croix-Rouge Française et l'OPALS. Dès le début des activités, le suivi de l'observance a été intégré comme une composante majeure de ce programme car il était un facteur essentiel de succès de la prise en charge et un enjeu important face aux critiques des détracteurs de ces programmes d'accès aux ARV qui estimaient que l'observance ne pouvait être satisfaisante dans les pays en développement. Ce soutien de l'observance s'est mis en place avec le développement de nouveaux rôles, outils, et méthodes ainsi que l'implication des patients et de l'ensemble de l'équipe comme acteurs dans la prise en charge."
 ---
 
-L'accès élargi au traitement antirétroviral (ARV) pour les PvVIH a débuté en juin 2002 au Centre de Traitement Ambulatoire de Pointe-Noire avec un programme initié par la Croix-Rouge Française et l'OPALS. Dès le début des activités, le suivi de l'observance a été intégré comme une composante majeure de ce programme car il était un facteur essentiel de succès de la prise en charge et un enjeu important face aux critiques des détracteurs de ces programmes d'accès aux ARV qui estimaient que l'observance ne pouvait être satisfaisante dans les pays en développement. Ce soutien de l'observance s'est mis en place avec le développement de nouveaux rôles, outils, et méthodes ainsi que l'implication des patients et de l'ensemble de l'équipe comme acteurs dans la prise en charge.
 ## I. Création d'un nouveau rôle dans l'équipe :  
 le conseiller thérapeutique
 

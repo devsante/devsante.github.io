@@ -2,12 +2,12 @@
 title: "Projet commun Femmes Solidaires et Karera-Gamissa de lutte contre les MGF en région Afar d'Ethiopie"
 author: "Aïcha Dabalé Vice-présidente de l'association Excision, parlons-en !"
 date: "2014-06-22"
----
-
-La pratique de l’excision est antérieure au judaïsme, au christianisme et à l’islam  : on a en effet retrouvé des momies excisées en Egypte.  
+teaser: "La pratique de l’excision est antérieure au judaïsme, au christianisme et à l’islam  : on a en effet retrouvé des momies excisées en Egypte.  
 Dans la Corne de l’Afrique, deux pratiques coexistent actuellement : l’excision et l’infibulation, celle-ci étant la forme radicale des mutilations génitales féminines (MGF). En Somalie, où l’infibulation est généralisée, vingt années de révolution n’ont pas pu mettre fin à ces pratiques. En Éthiopie, l’excision est pratiquée par les adeptes de toutes les religions - animiste, juive, chrétienne et musulmane -, l’infibulation est spécifique aux Afars et aux Somalis.  
 L'expérience de lutte contre les MGF dont il est question ici est menée en région afar d’Ethiopie où 98 % des petites filles sont excisées et infibulées. Il s’agit d’une région laissée pour compte et en marge du développement, et où les facteurs négatifs (maladies, mortalité infantile, nombreux décès en couches, famine, sécheresse, soif) l'emportent sur les facteurs positifs.  
-Dans cette région d’Éthiopie, les conséquences des MGF s'ajoutent à ces facteurs négatifs et sont désastreuses sur le plan de la santé des femmes et ce, tout au long de leur vie 
+Dans cette région d’Éthiopie, les conséquences des MGF s'ajoutent à ces facteurs négatifs et sont désastreuses sur le plan de la santé des femmes et ce, tout au long de leur vie "
+---
+
 ## Le marrainage : une idée des femmes pour aider d’autres femmes
 
 Un projet de marrainage  a été mis en place par Femmes Solidaires (à travers ses 180 comités) pour les petites filles non excisées que les mères avaient réussi à soustraire à ces pratiques.  

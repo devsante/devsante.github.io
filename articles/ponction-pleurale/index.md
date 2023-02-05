@@ -2,12 +2,12 @@
 title: "Ponction pleurale"
 author: "Philippe Reinert, pédiatre, Hôpital Intercommunal, Créteil, France"
 date: "2006-03-17"
----
-
-Tout épanchement dans la cavité pleurale doit être ponctionné :
+teaser: "Tout épanchement dans la cavité pleurale doit être ponctionné :
 
 *   pour en reconnaître la cause (tuberculose, pleurésie purulente, etc.),
-*   pour soulager le malade si l'importance de l'épanchement le gêne pour respirer.
+*   pour soulager le malade si l'importance de l'épanchement le gêne pour respirer."
+---
+
 ## I. Matériel
 
 *   Alcool iodé.

@@ -2,9 +2,7 @@
 title: "Le conseil et le dépistage volontaire du VIH"
 author: "Kemal Chérabi et Joëlle Nicolas"
 date: "2004-10-05"
----
-
-Le conseil pour un dépistage prénatal volontaire de l'infection par le VIH est la première étape d'un long processus ciblé sur la prévention de la TME mais aussi sur les soins de familles infectées. Il doit être intégré si possible à l'ensemble du dispositif d'offre de soins, public et parapublic (Hôpital, Maternités, Centres de santé, Cliniques, Médecins de ville et laboratoires...) et à toutes les actions de prévention et d'éducation pour la santé, pour maintenir les femmes dans une dynamique préventive. Chaque site intervenant dans le cadre d'un programme TME doit se concerter pour construire un argumentaire collectif et organiser un circuit cohérent des femmes dépistées.
+teaser: "Le conseil pour un dépistage prénatal volontaire de l'infection par le VIH est la première étape d'un long processus ciblé sur la prévention de la TME mais aussi sur les soins de familles infectées. Il doit être intégré si possible à l'ensemble du dispositif d'offre de soins, public et parapublic (Hôpital, Maternités, Centres de santé, Cliniques, Médecins de ville et laboratoires...) et à toutes les actions de prévention et d'éducation pour la santé, pour maintenir les femmes dans une dynamique préventive. Chaque site intervenant dans le cadre d'un programme TME doit se concerter pour construire un argumentaire collectif et organiser un circuit cohérent des femmes dépistées.
 
 L'objectif à atteindre est que toutes les femmes s'engageant dans une maternité bénéficient d'un test de dépistage du VIH afin d'avoir accès aux soins qui préservent leur santé et celle de leur enfant.
 
@@ -16,9 +14,11 @@ Actuellement, l'acceptabilité d'une telle démarche se situe à trois niveaux q
 
 Elle est globalement de 65 %, d'après une étude réalisée à partir de 10 sites africains participants à des essais thérapeutiques de réduction de la TME.
 
-Augmenter ce taux d'acceptabilité partout où c'est possible demande une amélioration des pratiques, en particulier celle du "counseling", mot anglo-saxon que l'on peut définir ainsi "entretien d'écoute active et de conseil en vue d'amener l'interlocuteur à un changement de comportement et à une prise de décision favorables à sa santé ou à celle de sa famille"
+Augmenter ce taux d'acceptabilité partout où c'est possible demande une amélioration des pratiques, en particulier celle du \"counseling\", mot anglo-saxon que l'on peut définir ainsi \"entretien d'écoute active et de conseil en vue d'amener l'interlocuteur à un changement de comportement et à une prise de décision favorables à sa santé ou à celle de sa famille\"
 
-Cette article propose une aide pour la mise en place d'un circuit de santé permettant de proposer puis d'effectuer le test de dépistage au plus grand nombre de femmes enceintes venant consulter dans un centre de Consultation prénatale (CCPN).
+Cette article propose une aide pour la mise en place d'un circuit de santé permettant de proposer puis d'effectuer le test de dépistage au plus grand nombre de femmes enceintes venant consulter dans un centre de Consultation prénatale (CCPN)."
+---
+
 ## I. Conseils éducatifs collectifs
 
 Dès l'accueil dans le Centre où elles sont enregistrées, les femmes enceintes et les membres de la famille qui les accompagnent sont orientées vers une salle d'attente ou une salle prévue pour les séances d'IEC (information-éducation-communication.

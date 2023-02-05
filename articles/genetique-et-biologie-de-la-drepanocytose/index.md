@@ -2,9 +2,7 @@
 title: "Génétique et biologie de la drépanocytose"
 author: "Dr Françoise Balédent, Biologiste, Paris, Pr Robert Girot, pédiatre, Paris"
 date: "2016-12-01"
----
-
-La drépanocytose, encore appelée anémie falciforme, est une maladie génétique de l'hémoglobine caractérisée par une grande hétérogénéité clinique et qui se manifeste biologiquement par une anémie hémolytique chronique. Un diagnostic précis peut être établi dans la majorité des cas à partir d’une anamnèse rigoureuse et à l’aide de techniques simples.
+teaser: "La drépanocytose, encore appelée anémie falciforme, est une maladie génétique de l'hémoglobine caractérisée par une grande hétérogénéité clinique et qui se manifeste biologiquement par une anémie hémolytique chronique. Un diagnostic précis peut être établi dans la majorité des cas à partir d’une anamnèse rigoureuse et à l’aide de techniques simples.
 Formules moléculaires, ontogénie* et gènes* des hémoglobines humaines
 Les hémoglobines humaines fœtales et adultes normales sont des doubles dimères faits de :
 2 chaînes α-globine et de 2 chaînes γ (hémoglobine F-α2γ2), 
@@ -17,7 +15,9 @@ Les chromosomes 11 portent chacun 1 gène β-globine. Chaque individu possède a
 *Schéma de l'hémoglobine*
 (image: image001.jpg)
 Tableau I : Formules moléculaires des hémoglobines humaines
-(image: tableau-i.jpg)
+(image: tableau-i.jpg)"
+---
+
 ##  I. Physiopathologie 
 L'hémoglobine est une protéine complexe riche en fer contenue dans les globules rouges et chargée du transport de l’oxygène depuis les poumons vers les tissus.
 Les hémoglobinopathies ou hémoglobinoses regroupent l'ensemble des pathologies liées à une anomalie génétique de l'hémoglobine.

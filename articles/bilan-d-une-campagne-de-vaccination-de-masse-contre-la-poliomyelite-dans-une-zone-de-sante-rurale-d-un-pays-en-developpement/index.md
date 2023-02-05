@@ -2,9 +2,9 @@
 title: "Bilan d'une campagne de vaccination de masse contre la poliomyélite dans une zone de santé rurale d'un pays en développement"
 author: "Béatrice Gohier, Bâ Abderrahmane Infirmière et médecin en mission avec Médecins du Monde à Ngandajika, Zaïre."
 date: "1996-06-02"
+teaser: "La zone de santé rurale de Ngandajika est située dans la sous-région de Kabinda, au Sud-Est de Mbuji-Mayi, dans le Kasaï oriental, au Zaïre. Elle comprend 234 315 habitants, essentiellement ruraux (cultivateurs). La population des enfants de 0 à 5 ans est de 53 891, population cible."
 ---
 
-La zone de santé rurale de Ngandajika est située dans la sous-région de Kabinda, au Sud-Est de Mbuji-Mayi, dans le Kasaï oriental, au Zaïre. Elle comprend 234 315 habitants, essentiellement ruraux (cultivateurs). La population des enfants de 0 à 5 ans est de 53 891, population cible.
 ## **I. L'épidémie**
 
 L'épidémie de poliomyélite qui a atteint la ville de Mbuji-Mayi s'est étendue à la zone de Ngandajika, distante de quatre-vingt-dix kilomètres. Une cinquantaine de cas a été recensée dans les centres de santé (CS) et à l'hôpital. Devant l'importance de la propagation de la maladie, une campagne de masse a été organisée. Le virus incriminé est le poliovirus de type 1, qui se trouve être le plus redoutable.

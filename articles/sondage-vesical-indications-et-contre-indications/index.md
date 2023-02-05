@@ -2,11 +2,11 @@
 title: "Sondage vésical : indications et contre-indications"
 author: "François Pernin Chirurgien, Centre hospitalier, Ajaccio, France."
 date: "2002-04-13"
+teaser: "Il existe deux façons de drainer la vessie d'un malade : le sondage vésical et le cathétérisme sus-pubien.
+
+Le plus souvent, le médecin a le choix entre ces deux méthodes. Il existe parfois des contre-indications formelles de l'une ou de l'autre méthode."
 ---
 
-Il existe deux façons de drainer la vessie d'un malade : le sondage vésical et le cathétérisme sus-pubien.
-
-Le plus souvent, le médecin a le choix entre ces deux méthodes. Il existe parfois des contre-indications formelles de l'une ou de l'autre méthode.
 ## I. Indications du sondage vésical
 
 Le sondage comporte cinq grands types d'indications :

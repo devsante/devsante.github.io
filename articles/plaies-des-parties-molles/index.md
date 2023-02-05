@@ -2,11 +2,11 @@
 title: "Plaies des parties molles"
 author: "Marc Lelclerc du Sablon, Chirurgien"
 date: "2015-12-06"
+teaser: "Avec la communication par Internet, il devient possible d’accéder à toutes sortes d’informations, d’articles et de traités concernant le traitement des plaies. Malgré cela, de nombreuses complications continuent de grever lourdement le pronostic de certaines plaies et pas seulement dans les situations d’isolement ou de guerre, mais aussi là où les moyens paraissent a priori suffisants. Il est impossible, dans un seul article, d’exposer même brièvement tous les types de plaies rencontrées. Le but de ce travail est de rappeler les grands principes du diagnostic et du traitement de ces plaies et de préciser le plus simplement possible les pièges rencontrés et les erreurs à éviter.  
+Il faut tout d’abord bien distinguer les plaies aiguës traumatiques récentes et les plaies passées à la chronicité, dont  
+le traitement pose des problèmes bien différents. Nous ne traitons ici que des plaies récentes."
 ---
 
-Avec la communication par Internet, il devient possible d’accéder à toutes sortes d’informations, d’articles et de traités concernant le traitement des plaies. Malgré cela, de nombreuses complications continuent de grever lourdement le pronostic de certaines plaies et pas seulement dans les situations d’isolement ou de guerre, mais aussi là où les moyens paraissent a priori suffisants. Il est impossible, dans un seul article, d’exposer même brièvement tous les types de plaies rencontrées. Le but de ce travail est de rappeler les grands principes du diagnostic et du traitement de ces plaies et de préciser le plus simplement possible les pièges rencontrés et les erreurs à éviter.  
-Il faut tout d’abord bien distinguer les plaies aiguës traumatiques récentes et les plaies passées à la chronicité, dont  
-le traitement pose des problèmes bien différents. Nous ne traitons ici que des plaies récentes.
 ## Les plaies aiguës récentes traumatiques
 
 Avant de commencer, voici deux petites histoires bien banales, quel que soit le pays où l’on se trouve.

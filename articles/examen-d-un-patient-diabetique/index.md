@@ -2,10 +2,10 @@
 title: "Examen d'un patient diabétique"
 author: "Par Angélique Thierry Médecin généraliste, Créteil, France."
 date: "2009-08-09"
+teaser: "Un diabétique doit bénéficier d'un examen médical initial complet et d'un contrôle régulier, au moins annuel. Les professionnels paramédicaux spécialisés en diabétologie - diététiciens, infirmières, podologues - ont une place essentielle dans le suivi.  
+Toute consultation doit être l'occasion de s'assurer de la bonne compréhension (et plus tard de l'observance) des différentes mesures hygiéno-diététiques et thérapeutiques. C'est la part la plus importante de la prise en charge, elle permet une meilleure acceptation du caractère chronique de la maladie."
 ---
 
-Un diabétique doit bénéficier d'un examen médical initial complet et d'un contrôle régulier, au moins annuel. Les professionnels paramédicaux spécialisés en diabétologie - diététiciens, infirmières, podologues - ont une place essentielle dans le suivi.  
-Toute consultation doit être l'occasion de s'assurer de la bonne compréhension (et plus tard de l'observance) des différentes mesures hygiéno-diététiques et thérapeutiques. C'est la part la plus importante de la prise en charge, elle permet une meilleure acceptation du caractère chronique de la maladie.
 ## I. Examen initial
 
 ### 1. L’interrogatoire

@@ -2,9 +2,9 @@
 title: "Diagnostic biologique de l'hydatidose"
 author: "Vincent Estève Médecin-biologiste, Laboratoire de Biologie Médicale, Centre Hospitalier, Aulnay-sous-Bois."
 date: "1998-10-02"
+teaser: "L'hydatidose est une échinococcose due au développement, chez l'homme, de larves d'_Echinococcus granulosus_. À l'état adulte, le parasite est hébergé dans l'intestin d'animaux domestiques, surtout le chien. Le diagnostic repose sur des arguments cliniques, radiologiques et biologiques. Parmi les examens biologiques, les sérologies apportent les éléments étiologiques les plus importants."
 ---
 
-L'hydatidose est une échinococcose due au développement, chez l'homme, de larves d'_Echinococcus granulosus_. À l'état adulte, le parasite est hébergé dans l'intestin d'animaux domestiques, surtout le chien. Le diagnostic repose sur des arguments cliniques, radiologiques et biologiques. Parmi les examens biologiques, les sérologies apportent les éléments étiologiques les plus importants.
 ## I. Les examens d'orientation
 
 La numération formule sanguine :

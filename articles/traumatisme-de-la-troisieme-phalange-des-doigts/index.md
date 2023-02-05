@@ -2,11 +2,11 @@
 title: "Traumatisme de la troisième phalange des doigts"
 author: "François Pernin"
 date: "1983-03-01"
+teaser: "Les blessures des doigts et en particulier de la dernière phalange (qui porte l'ongle) sont fréquentes.
+
+Bien les connaître et les traiter permet d'éviter les séquelles de ces blessures (ankylose, infection, amputation) souvent gênantes pour un travailleur manuel."
 ---
 
-Les blessures des doigts et en particulier de la dernière phalange (qui porte l'ongle) sont fréquentes.
-
-Bien les connaître et les traiter permet d'éviter les séquelles de ces blessures (ankylose, infection, amputation) souvent gênantes pour un travailleur manuel.
 **Anatomie**
 
 Chaque doigt est formé de trois os ou phalanges numérotés P1, P2, P3 de la main vers l'ongle (sauf le pouce qui a deux phalanges). Le doigt s'étend grâce à un tendon extenseur situé à la face dorsale du doigt qui se termine, d'une part au niveau de P1, et d'autre part sur P3, sur la partie osseuse la plus proche de l'articulation P2-P3.

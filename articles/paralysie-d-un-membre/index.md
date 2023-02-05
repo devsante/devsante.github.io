@@ -2,9 +2,7 @@
 title: "Paralysie d'un membre"
 author: "Philippe Reinert Pédiatre, Hôpital Intercommunal de Créteil."
 date: "1996-06-27"
----
-
-Quand un patient consulte pour une perte de la mobilité volontaire d'un bras ou d'une jambe, qu'il s'agisse :
+teaser: "Quand un patient consulte pour une perte de la mobilité volontaire d'un bras ou d'une jambe, qu'il s'agisse :
 
 *   d'une paralysie : abolition de la force musculaire,
 *   ou d'une parésie : simple diminution,
@@ -13,7 +11,9 @@ il est urgent de découvrir la cause car un nerf lésé peut ne jamais récupér
 
 *   faire un rappel anatomique des nerfs moteurs,
 *   préciser l'examen clinique à effectuer,
-*   envisager, enfin, les principales causes des paralysies.
+*   envisager, enfin, les principales causes des paralysies."
+---
+
 ## I. Rappel anatomique
 
 Deux neurones conduisent l'influx du cerveau au muscle.

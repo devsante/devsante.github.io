@@ -2,9 +2,9 @@
 title: "Pourquoi le diabète est-il si dangereux ?"
 author: "Par Olivier Bismuth Médecin généraliste, Thiais, France.  "
 date: "2009-08-10"
+teaser: "Le diabète non insulinodépendant (DNID) est défini, selon les normes OMS, par une glycémie supérieure ou égale à 1,26 g/L. Cette définition biologique sous-entend que cette affection est longtemps silencieuse, alors que les risques de complications sont présents. La difficulté est de faire admettre au patient qu'un traitement est indispensable pour éviter, ou au moins limiter, les multiples conséquences qui menacent la qualité comme la durée de vie. Le diabétique doit comprendre les risques de cette affection."
 ---
 
-Le diabète non insulinodépendant (DNID) est défini, selon les normes OMS, par une glycémie supérieure ou égale à 1,26 g/L. Cette définition biologique sous-entend que cette affection est longtemps silencieuse, alors que les risques de complications sont présents. La difficulté est de faire admettre au patient qu'un traitement est indispensable pour éviter, ou au moins limiter, les multiples conséquences qui menacent la qualité comme la durée de vie. Le diabétique doit comprendre les risques de cette affection.
 Le diabète sucré est défini par une glycémie a jeun (au moins 8 h de jeune) supérieure à 1,26 g/L (7 mmol/L), vérifiée à 2 reprises.  
 
 <table>

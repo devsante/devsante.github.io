@@ -2,9 +2,9 @@
 title: "Des examens biologiques : pourquoi ?"
 author: "Jean-Loup Rey"
 date: "2006-03-17"
+teaser: "Les examens biologiques jouent un rôle majeur dans la démarche de soins. Dans de nombreux pays africains, ce rôle est négligé, le \"laboratoire\" a une mauvaise image et de nombreux soignants et patients se demandent souvent quel est son intérêt. Pourtant, _a priori_, l'acte biologique a une image favorable. Il semble donc utile de réfléchir à cette contradiction."
 ---
 
-Les examens biologiques jouent un rôle majeur dans la démarche de soins. Dans de nombreux pays africains, ce rôle est négligé, le "laboratoire" a une mauvaise image et de nombreux soignants et patients se demandent souvent quel est son intérêt. Pourtant, _a priori_, l'acte biologique a une image favorable. Il semble donc utile de réfléchir à cette contradiction.
 ## I. Que demande-t-on à un examen biologique ?
 
 1.  Qu'il aide ou permette un diagnostic le plus proche possible de la réalité.

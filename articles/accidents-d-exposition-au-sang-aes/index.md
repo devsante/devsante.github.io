@@ -2,13 +2,13 @@
 title: "Accidents d'exposition au sang (AES)"
 author: "Françoise Balédent Biologiste, Saint-Denis, France"
 date: "2011-11-09"
----
-
-Tous les personnels de santé, d’intervention urgente ou de nettoyage sont exposés au risque de contact avec le sang contenant des agents infectieux.  
+teaser: "Tous les personnels de santé, d’intervention urgente ou de nettoyage sont exposés au risque de contact avec le sang contenant des agents infectieux.  
 Les accidents d’exposition au sang (AES) sont potentiellement graves car ils exposent la victime à une transmission éventuelle d’agents infectieux, en particulier les virus des hépatites B ou C (HBV et HCV), ou du virus du SIDA (HIV), ces transmissions pouvant être associées. De nombreux autres agents pathogènes ont été mis en cause dans des cas de transmission, responsables d’infections au pronostic parfois grave.  
 Le risque de « piqûre septique » est bien documenté. Tout patient peut transmettre un agent pathogène à un soignant,  par accident percutané (APC) ou par contact cutanéo-muqueux (CCM).  
 Le risque pour les soignants de « rencontrer » un pathogène donné augmente avec sa prévalence (nombre de cas dans la population) parmi les patients soignés et avec le caractère chronique de l’infection.  
-Le risque d’AES ne concerne pas seulement les personnels soignants mais toute personne en contact avec du sang ou des produits souillés par du sang. De nombreux cas ont été décrits chez des personnels de laboratoire, et quelques cas ont été relevés chez des personnels de secours d’urgence, des forces de police ou des personnels chargés de l’élimination des déchets de soins. Par ailleurs, les personnels travaillant au contact d’animaux encourent un risque d’infection après AES par des pathogènes zoonotiques.
+Le risque d’AES ne concerne pas seulement les personnels soignants mais toute personne en contact avec du sang ou des produits souillés par du sang. De nombreux cas ont été décrits chez des personnels de laboratoire, et quelques cas ont été relevés chez des personnels de secours d’urgence, des forces de police ou des personnels chargés de l’élimination des déchets de soins. Par ailleurs, les personnels travaillant au contact d’animaux encourent un risque d’infection après AES par des pathogènes zoonotiques."
+---
+
 ## I. Définition
 
 Un accident d'exposition au sang (AES) est défini comme tout contact avec du sang, ou du liquide biologique contenant du sang, à la suite :

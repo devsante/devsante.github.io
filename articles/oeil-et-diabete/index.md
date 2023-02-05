@@ -2,11 +2,11 @@
 title: "Oeil et diabète"
 author: "Fatoumata Sylla Ophtalmologiste, Institut d'Ophtalmologie Tropicale de l'Afrique (I.O.T.A.), Bamako, Mali."
 date: "2009-08-12"
+teaser: "Le diabète est à l'origine de complications ophtalmologiques redoutables, d'autant plus sévères que l'équilibre du diabète est précaire. Ces complications, qui représentent Lin problème majeur de la mala­die, sont l'une des principales causes de cécité dans les pays industrialisés, cécité le plus souvent due à une rétinopathie.
+
+Les autres complications du diabète sont moins fréquentes et habituellement moins lourdes de consé­quences, aussi bien dans le diabète de type I que dans celui de type II, Toutefois, la fréquence et la sévérité des atteintes rétiniennes ne doivent pas faire négliger la survenue d'affections extrarétiniennes."
 ---
 
-Le diabète est à l'origine de complications ophtalmologiques redoutables, d'autant plus sévères que l'équilibre du diabète est précaire. Ces complications, qui représentent Lin problème majeur de la mala­die, sont l'une des principales causes de cécité dans les pays industrialisés, cécité le plus souvent due à une rétinopathie.
-
-Les autres complications du diabète sont moins fréquentes et habituellement moins lourdes de consé­quences, aussi bien dans le diabète de type I que dans celui de type II, Toutefois, la fréquence et la sévérité des atteintes rétiniennes ne doivent pas faire négliger la survenue d'affections extrarétiniennes.
 **NB** : Le lexique est en fin d'article.
 
 ## **I. L'examen ophtalmologique du diabétique**

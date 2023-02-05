@@ -2,11 +2,11 @@
 title: "Drépanocytose : prise en charge de la douleur"
 author: "Philippe Reinert Pédiatre, Créteil, France"
 date: "2013-08-17"
+teaser: "La douleur est un problème constant chez le drépanocytaire. Si, le plus souvent, elle est le témoin d’une crise vaso-occlusive bénigne qui va disparaitre spontanément en quelques jours, elle peut aussi annoncer une complication grave.  
+Par son caractère récidivant, elle peut profondément perturber la vie quotidienne, provoquant un absentéisme scolaire et un état anxieux, en particulier chez l’adolescent qui redoute une crise, après avoir joué au foot par exemple !  
+Il est donc important que le malade et ses parents sachent prévenir et gérer la crise douloureuse pour éviter au maximum consultations et hospitalisations."
 ---
 
-La douleur est un problème constant chez le drépanocytaire. Si, le plus souvent, elle est le témoin d’une crise vaso-occlusive bénigne qui va disparaitre spontanément en quelques jours, elle peut aussi annoncer une complication grave.  
-Par son caractère récidivant, elle peut profondément perturber la vie quotidienne, provoquant un absentéisme scolaire et un état anxieux, en particulier chez l’adolescent qui redoute une crise, après avoir joué au foot par exemple !  
-Il est donc important que le malade et ses parents sachent prévenir et gérer la crise douloureuse pour éviter au maximum consultations et hospitalisations.
 ## I. Histoire naturelle de la crise
 
 Dans 40 % des cas, la crise est précédée de prodromes durant 4 jours : fatigue inexpliquée, étourdissements, vertiges, pâleur, troubles digestifs, gêne respiratoire, subictère conjonctival.

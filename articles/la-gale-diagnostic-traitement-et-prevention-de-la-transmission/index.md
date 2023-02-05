@@ -2,9 +2,9 @@
 title: "La gale : diagnostic, traitement et prévention de la transmission"
 author: "Catherine Dupeyron Biologiste, Hôpital Albert Chenevier, 94010 Créteil, France."
 date: "2002-08-09"
+teaser: "La gale est une maladie contagieuse, se manifestant par des démangeaisons intenses, provoquée par un ectoparasite, _Sarcoptes scabiei_."
 ---
 
-La gale est une maladie contagieuse, se manifestant par des démangeaisons intenses, provoquée par un ectoparasite, _Sarcoptes scabiei_.
 ## I. Le parasite
 
 ![](i725-1.jpg)

@@ -2,10 +2,10 @@
 title: "Epidémiologie de l'infection par le virus de l'hépatite B en Afrique"
 author: "Pr Konaté Anselme Service d'hépato-gastro-entérologie, CHU Gabriel Touré, Bamako, Mali"
 date: "2012-08-04"
+teaser: "L’infection par le virus de l’hépatite B (VHB) pose un problème de santé publique dans plusieurs régions du globe, par sa fréquence, ses complications et ses conséquences socio-économiques. L’Afrique sub-saharienne, avec un taux de prévalence compris entre 8 % et 18 %, constitue une zone de haute endémicité. Dans cette région, la propension de l’infection par le VHB à la chronicité en fait la principale cause de cirrhose et de carcinome hépato-cellulaire. Ces affections sont responsables d’une mortalité élevée malgré l’existence d’un vaccin efficace et anodin contre ce virus. La distribution géographique du VIH/SIDA en Afrique, superposable à celle du VHB, peut influencer l’histoire naturelle de cette dernière.  
+L’épidémiologie de l’infection par le VHB en Afrique est difficile à apprécier car la plupart des études n’ont recherché que l’Ag HBs et le plus souvent sur des populations limitées."
 ---
 
-L’infection par le virus de l’hépatite B (VHB) pose un problème de santé publique dans plusieurs régions du globe, par sa fréquence, ses complications et ses conséquences socio-économiques. L’Afrique sub-saharienne, avec un taux de prévalence compris entre 8 % et 18 %, constitue une zone de haute endémicité. Dans cette région, la propension de l’infection par le VHB à la chronicité en fait la principale cause de cirrhose et de carcinome hépato-cellulaire. Ces affections sont responsables d’une mortalité élevée malgré l’existence d’un vaccin efficace et anodin contre ce virus. La distribution géographique du VIH/SIDA en Afrique, superposable à celle du VHB, peut influencer l’histoire naturelle de cette dernière.  
-L’épidémiologie de l’infection par le VHB en Afrique est difficile à apprécier car la plupart des études n’ont recherché que l’Ag HBs et le plus souvent sur des populations limitées.
 ## I- Le Virus de l’hépatite B
 
 ### 1. Structure

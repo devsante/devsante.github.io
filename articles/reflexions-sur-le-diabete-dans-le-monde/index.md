@@ -2,9 +2,9 @@
 title: "Réflexions sur le diabète dans le monde"
 author: "Nicole Horeau"
 date: "2009-10-07"
+teaser: "Le diabète est une maladie chronique qui apparaît quand le pancréas ne sécrète pas assez d'insuline ou quand l'organisme utilise mal l'insuline qu'il produit. L'insuline est une hormone qui régule la concentration de sucre dans le sang. L'hyperglycémie, soit une trop grande concentration de sucre clans le sang, est un effet courant du diabète qui, avec le temps, provoque de graves lésions affectant de nombreuses parties du corps, en particulier les nerfs et les vaisseaux sanguins (définition OMS)."
 ---
 
-Le diabète est une maladie chronique qui apparaît quand le pancréas ne sécrète pas assez d'insuline ou quand l'organisme utilise mal l'insuline qu'il produit. L'insuline est une hormone qui régule la concentration de sucre dans le sang. L'hyperglycémie, soit une trop grande concentration de sucre clans le sang, est un effet courant du diabète qui, avec le temps, provoque de graves lésions affectant de nombreuses parties du corps, en particulier les nerfs et les vaisseaux sanguins (définition OMS).
 Le nombre de diabétiques dans le monde est un pleine expansion : évalué à 110 millions en 1994, il atteindra 240 millions en 2010, l'Afrique et l'Asie rejoignant peu à peu les USA et l'Europe. En effet, selon l'OMS, pendant cette période de 16 ans, l'Afrique connaîtra une augmentation de 55% du nombre de ses diabétiques, et l'Asie de 46 %... En Afrique, l'importance du diabète a été longtemps sous-évaluée car la maladie n'était ni recherchée ni prise en charge.
 
 Le diabète est une maladie où interviennent des facteurs génétiques (dont le rôle exact n'est pas encore totalement défini). Il est caractérisé par une élévation de la concentration de sucre (glucose) dans le sang.

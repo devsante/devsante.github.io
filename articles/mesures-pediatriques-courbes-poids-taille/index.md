@@ -2,11 +2,11 @@
 title: "Mesures pédiatriques (courbes poids-taille)"
 author: "Jean-Loup Rey"
 date: "2006-03-17"
+teaser: "La mesure de la croissance est un moyen simple de surveiller la santé des enfants. En effet, l'enfant est par définition un individu qui grandit et après la naissance, sa taille augmente jusqu'à l'âge adulte. Ce processus est influencé d'une part par des facteurs génétiques, d'autre part par des facteurs externes qui sont la nutrition, les infections ou les intoxications. Un apport insuffisant d'aliments perturbe la croissance ; les infections et maladies ont le même effet.
+
+Le ralentissement de la croissance peut être décelé bien avant les premiers signes de la malnutrition. De même ce ralentissement peut être la première manifestation d'une infection ou autre maladie. Ce suivi de la croissance servira également à évaluer la gravité d'une maladie. Aussi, dans les soins aux enfants, il est très important de savoir ce qu'est une croissance normale et comment on peut en déceler les écarts en temps voulu."
 ---
 
-La mesure de la croissance est un moyen simple de surveiller la santé des enfants. En effet, l'enfant est par définition un individu qui grandit et après la naissance, sa taille augmente jusqu'à l'âge adulte. Ce processus est influencé d'une part par des facteurs génétiques, d'autre part par des facteurs externes qui sont la nutrition, les infections ou les intoxications. Un apport insuffisant d'aliments perturbe la croissance ; les infections et maladies ont le même effet.
-
-Le ralentissement de la croissance peut être décelé bien avant les premiers signes de la malnutrition. De même ce ralentissement peut être la première manifestation d'une infection ou autre maladie. Ce suivi de la croissance servira également à évaluer la gravité d'une maladie. Aussi, dans les soins aux enfants, il est très important de savoir ce qu'est une croissance normale et comment on peut en déceler les écarts en temps voulu.
 ## I. Quelles mesures ?
 
 *   La longueur en hauteur (ou taille) est une mesure très stable qui reflète l'augmentation totale de taille mais elle change trop lentement pour être utilisée seule.

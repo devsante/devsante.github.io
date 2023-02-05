@@ -2,16 +2,16 @@
 title: "Examen du genou chez l'adulte"
 author: "Olivier Bismuth Médecin généraliste"
 date: "2002-06-11"
----
-
-Examiner un genou douloureux est une démarche diagnostique complexe qui implique :
+teaser: "Examiner un genou douloureux est une démarche diagnostique complexe qui implique :
 
 *   un interrogatoire recherchant plusieurs informations : caractéristiques de la douleur, (appelée gonalgie), signes particuliers, signes généraux ou à distance;
 *   un examen orientant vers divers syndromes (entorse, lésion méniscale, arthrose ... ) ;
 *   de tenir compte d'atteintes loco-régionales (sciatique);
 *   de considérer le genou comme l'élément d'un tout (la gonalgie déséquilibre la statique de tout le squelette, à l'inverse, une attitude scoliotique accentue le poids du corps sur un genou). Cette souffrance va agir sur la vie de la personne, son dynamisme, ses activités professionnelles...
 
-Nous proposons dans l'article les différents éléments à rechercher puis un rappel clinique de différents tableaux pathologiques.
+Nous proposons dans l'article les différents éléments à rechercher puis un rappel clinique de différents tableaux pathologiques."
+---
+
 **Examen du genou chez l'adulte**
 
 ## I. Rappel anatomique _(voir schémas 1 et 2)_

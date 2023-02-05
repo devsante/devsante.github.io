@@ -2,10 +2,10 @@
 title: "Mutilations sexuelles féminines, le cas de Tostan au Sénégal : les droits humains comme fondement des changements sociaux"
 author: "Marine Casaux-Bussière Tostan France"
 date: "2014-06-19"
+teaser: "Née au Sénégal, l’organisation non gouvernementale Tostan met en œuvre depuis vingt-cinq ans sur le territoire africain un programme d’éducation non formelle en langues nationales. La problématique de l’excision et de son abandon n’a surgi dans les activités de l’organisation qu’au milieu des années 1990, au Sénégal. Le premier abandon collectif dans le pays, par le village de Malicounda Bambara, a été l’un des points de départ pour comprendre les mécanismes qui sous-tendent les dynamiques de changement social au sein des communautés.  
+Tostan a depuis étendu son modèle à huit pays africains où des communautés se mobilisent à leur tout pour l'abandon de l'excision."
 ---
 
-Née au Sénégal, l’organisation non gouvernementale Tostan met en œuvre depuis vingt-cinq ans sur le territoire africain un programme d’éducation non formelle en langues nationales. La problématique de l’excision et de son abandon n’a surgi dans les activités de l’organisation qu’au milieu des années 1990, au Sénégal. Le premier abandon collectif dans le pays, par le village de Malicounda Bambara, a été l’un des points de départ pour comprendre les mécanismes qui sous-tendent les dynamiques de changement social au sein des communautés.  
-Tostan a depuis étendu son modèle à huit pays africains où des communautés se mobilisent à leur tout pour l'abandon de l'excision.
 ## I. Le Programme de Renforcement des Capacités Communautaires (PRCC) : l’éducation basée sur les droits humains
 
 Tostan travaille dans la durée avec les populations des villages qui reçoivent son Programme de Renforcement des Capacités Communautaires (PRCC). D’une durée de trois ans, ce programme communautaire n’est pas centré sur la question de l’excision. Il aborde des thèmes transversaux tels que la gouvernance, l’éducation, la santé, l’économie et l’environnement.

@@ -1,11 +1,11 @@
 ---
 title: "Le WATA"
 date: "2005-06-03"
+teaser: "Antenna Technologies lance un nouvel outil pour potabiliser l'eau à moindre coût : le WATA, Water Antenna Technologies Apparel.
+
+Aujourd'hui, 3 à 4 millions d'enfants meurent chaque année de diarrhées et d'infections provoquées par une eau souillée (Office Fédéral de l'environnement et du Paysage/ Direction du Développement et de la Coopération/ Secrétariat à l'Economie, éd. 2003 : Au cœur de l'eau, Berne)."
 ---
 
-Antenna Technologies lance un nouvel outil pour potabiliser l'eau à moindre coût : le WATA, Water Antenna Technologies Apparel.
-
-Aujourd'hui, 3 à 4 millions d'enfants meurent chaque année de diarrhées et d'infections provoquées par une eau souillée (Office Fédéral de l'environnement et du Paysage/ Direction du Développement et de la Coopération/ Secrétariat à l'Economie, éd. 2003 : Au cœur de l'eau, Berne).
 **Le WATA**
 
 ![](i1009-1.jpg)

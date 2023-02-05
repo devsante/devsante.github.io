@@ -2,9 +2,9 @@
 title: "L'éducation thérapeutique du patient : quelle démarche ?"
 author: "Jacqueline Iguenane Docteur en Sciences de l'Education, Format Santé."
 date: "2007-11-10"
+teaser: "Pour structurer l'éducation thérapeutique du patient vivant avec le VIH nous prenons appui sur une démarche qui s'organise autour de quatre principaux volets : le diagnostic éducatif, le contrat d'éducation, la mise en oeuvre de l'apprentissage du patient et l'évaluation. (1)"
 ---
 
-Pour structurer l'éducation thérapeutique du patient vivant avec le VIH nous prenons appui sur une démarche qui s'organise autour de quatre principaux volets : le diagnostic éducatif, le contrat d'éducation, la mise en oeuvre de l'apprentissage du patient et l'évaluation. (1)
 ## I. Le diagnostic éducatif
 
 Ce temps de rencontre entre le patient et le soignant donne au patient l'occasion de faire connaître ses besoins, ses préoccupations, son projet, d'expliquer ce qu'il sait sur sa maladie, comment il vit avec, ce qu'il souhaiterait améliorer, ce qui lui pose problème et comment il pense pouvoir agir sur sa maladie. L'ensemble des informations recueillies feront l'objet d'une synthèse qui permet à l'équipe d'être au plus près des besoins du patient et d'identifier les compétences d'auto soins et d'adaptation (psychosociales) qui lui seront utiles pour mieux vivre avec sa maladie<sup>(2)</sup>.

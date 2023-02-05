@@ -2,9 +2,9 @@
 title: "L’appendicite aiguë en situation isolée ou précaire"
 author: "Xavier Pouliquen,  Chirurgie Solidaire ; François Pernin, chirurgien, France"
 date: "2018-11-26"
+teaser: "L'appendicite aiguë, inflammation infectieuse de l'appendice iléo-cæcal, est une maladie très fréquente en Europe. Un peu plus rare en Afrique, elle demeure cependant l'une des causes les plus habituelles de péritonite. Non reconnue à temps, elle risque d’évoluer vers une péritonite, toujours grave et souvent mortelle. En situation isolée ou précaire, le diagnostic n'est pas toujours facile ni certain et, comme lui, la conduite à tenir repose avant tout sur la clinique."
 ---
 
-L'appendicite aiguë, inflammation infectieuse de l'appendice iléo-cæcal, est une maladie très fréquente en Europe. Un peu plus rare en Afrique, elle demeure cependant l'une des causes les plus habituelles de péritonite. Non reconnue à temps, elle risque d’évoluer vers une péritonite, toujours grave et souvent mortelle. En situation isolée ou précaire, le diagnostic n'est pas toujours facile ni certain et, comme lui, la conduite à tenir repose avant tout sur la clinique.
 ## Qu'est-ce que l'appendice ?
 L'appendice est un organe non indispensable à la vie, formation tubulaire appendue au cæcum. Sa structure histologique est riche en tissu lymphoïde (semblable aux ganglions). 
 

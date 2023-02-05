@@ -2,12 +2,12 @@
 title: "La dracunculose, une maladie en voie de disparition"
 author: "Christian Mongin Médecin généraliste"
 date: "2000-12-27"
----
-
-" Ne laisse pas le ver sinueux me frapper et blesser mon pied"  
+teaser: "\" Ne laisse pas le ver sinueux me frapper et blesser mon pied\"  
 Poème sanskrit du Rig Veda (XV ème siècle avant J.-C.)
 
-La dracunculose sera-t-elle, après la variole, la seconde maladie humaine à être éradiquée de la surface de la terre grâce à une démarche sanitaire efficace ? Cette maladie, connue dès le 15ème siècle avant J.-C. en Inde et en Egypte, retrouvée dans l'abdomen d'une momie d'adolescente, importée sur le continent américain par des esclaves originaires du Golfe de Guinée (d'où son autre nom : le ver de Guinée) sera-t-elle bientôt reléguée dans un obscur bocal d'un musée de médecine tropicale ?
+La dracunculose sera-t-elle, après la variole, la seconde maladie humaine à être éradiquée de la surface de la terre grâce à une démarche sanitaire efficace ? Cette maladie, connue dès le 15ème siècle avant J.-C. en Inde et en Egypte, retrouvée dans l'abdomen d'une momie d'adolescente, importée sur le continent américain par des esclaves originaires du Golfe de Guinée (d'où son autre nom : le ver de Guinée) sera-t-elle bientôt reléguée dans un obscur bocal d'un musée de médecine tropicale ?"
+---
+
 La disparition de la dracunculose est un formidable enjeu de santé publique, non pas tant à cause de sa mortalité que par les handicaps souvent lourds et les souffrances qu'elle entraîne dans la population la plus active. Elle est enjeu de santé publique aussi par la stratégie d'éradication mondiale mise en oeuvre par l'OMS en 1988 et confiée aux communautés villageoises. Le succès de cette démarche permettra de montrer qu'une action de santé publique ne peut être efficace sans la participation effective de ceux qui en sont les bénéficiaires.
 
 Les résultats de cette campagne d'éradication paraissent d'ores et déjà très positifs. L'incidence de la dracunculose serait passée de 10 à 15 millions de cas au début des années 80 à moins de 90 000 cas en 1999. Mais cette maladie persiste encore dans 13 pays d'Afrique sub-saharienne. Un dernier effort est nécessaire !

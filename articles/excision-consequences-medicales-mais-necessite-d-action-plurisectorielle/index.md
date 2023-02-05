@@ -2,9 +2,9 @@
 title: "Excision, conséquences médicales mais nécessité d'action plurisectorielle"
 author: "Par Isabelle Huguet-Wachsmuth, OMS, Genève"
 date: "2014-09-21"
+teaser: "A l'invitation du collectif _Excision, parlons-en !_ et de l'association Formation permanente Développement et Santé, nous proposons ici notre éclairage sur la situation de l'excision et formulons quelques propositions pour l'avenir."
 ---
 
-A l'invitation du collectif _Excision, parlons-en !_ et de l'association Formation permanente Développement et Santé, nous proposons ici notre éclairage sur la situation de l'excision et formulons quelques propositions pour l'avenir.
 ## I. L'intérêt de l'excision pour l'initiative HIFA-EVIPNET de l'OMS
 
 HIFA-EVIPNet-French est un forum international de l’Organisation Mondiale de la Santé pour l’ensemble des pays francophones permettant de soutenir, promouvoir et renforcer la prise de décision reposant sur des bases factuelles et ainsi faciliter l’amélioration de la formulation des politiques de santé.  

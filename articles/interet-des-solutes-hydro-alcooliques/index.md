@@ -2,15 +2,15 @@
 title: "Intérêt des solutés hydro-alcooliques"
 author: "Philippe Reinert Pédiatre, Créteil, France"
 date: "2011-10-12"
----
-
-Situation du problème  
+teaser: "Situation du problème  
 Les infections nosocomiales constituent une priorité en santé publique par la morbidité, la mortalité et les coûts importants qu’elles entraînent :
 
 *   la majorité d’entre elles se transmettent directement par le contact des mains : plusieurs études ont montré que 80% des infections nosocomiales sont manuportées
 *   certaines infections, virales ou bactériennes, sont aussi transmises par les surfaces : sols des crèches par exemple pour le cytomégalovirus.
 
-Il a été bien démontré qu’un renforcement dans la rigueur du lavage des mains associé à la désinfection des surfaces freinait la plupart des infections nosocomiales.
+Il a été bien démontré qu’un renforcement dans la rigueur du lavage des mains associé à la désinfection des surfaces freinait la plupart des infections nosocomiales."
+---
+
 En pratique, les solutions hydro-alcooliques utilisées comme antiseptique cutané, et de façon plus récente comme désinfectant pour les surfaces, sont de plus en plus employées, du fait de leur efficacité et de la simplification qu’elles entraînent par rapport aux méthodes classiques de désinfection.
 
 Leur usage est maintenant recommandé par l’OMS, dans le plan de lutte contre les infections nosocomiales.  

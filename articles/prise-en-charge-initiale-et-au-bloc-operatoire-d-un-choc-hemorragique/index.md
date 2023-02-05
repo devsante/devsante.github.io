@@ -2,10 +2,10 @@
 title: "Prise en charge initiale et au bloc opératoire d'un choc hémorragique"
 author: "Dr. Djibo Diango*, Dr. Christophe Denantes** *Médecin anesthésiste-réanimateur. CHU Gabriel Touré, Bamako, Mali. ** Médecin anesthésiste-réanimateur. Hôpital Avicenne, Bobigny, France."
 date: "2008-01-21"
+teaser: "Le choc hémorragique est une insuffisance circulatoire aiguë due à une spoliation sanguine majeure (diminution de la masse sanguine circulante de plus de 40 %) et durable, rencontrée dans des circonstances aussi variées que la traumatologie - première cause de mortalité dans ces cas - la pathologie digestive ou l'obstétrique. La mortalité en est élevée s'il est sous-estimé ou non reconnu.  
+Le pronostic dépend de la durée et de la gravité du choc. La rapidité du diagnostic et de la mise en route du traitement est essentielle, l'objectif étant de rétablir un apport en oxygène adapté aux besoins cellulaires."
 ---
 
-Le choc hémorragique est une insuffisance circulatoire aiguë due à une spoliation sanguine majeure (diminution de la masse sanguine circulante de plus de 40 %) et durable, rencontrée dans des circonstances aussi variées que la traumatologie - première cause de mortalité dans ces cas - la pathologie digestive ou l'obstétrique. La mortalité en est élevée s'il est sous-estimé ou non reconnu.  
-Le pronostic dépend de la durée et de la gravité du choc. La rapidité du diagnostic et de la mise en route du traitement est essentielle, l'objectif étant de rétablir un apport en oxygène adapté aux besoins cellulaires.
 ## I. Physiopathologie
 
 La survenue d'un choc hémorragique, princi­pale cause de choc hypovolémique, est liée à l'importance et à la vitesse de la spoliation sanguine, ainsi qu'à l'efficacité des méca­nismes compensateurs. La diminution du volu­me sanguin circulant provoque, par la mise en jeu de certains réflexes (système sympathique) une augmentation de la contractilité de la fibre musculaire, notamment cardiaque, (inotropis­me) et de la fréquence cardiaque (chronotro­pisme), une vasoconstriction (contraction des vaisseaux) artérielle et veineuse, une stimula­tion du système rénine-angiotensine (ensemble physiolo­gique hypertenseur formé par la rénine, enzyme sécré­tée par le rein, et l'angiotensine, qui toutes deux pro­voquent une vasoconstriction donc une augmentation de la pression artérielle), et une tachycardie. Les mécanismes compensateurs peuvent être réduits par diverses affections ou certains traitements en cours.

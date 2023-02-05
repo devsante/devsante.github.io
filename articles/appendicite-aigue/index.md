@@ -2,10 +2,10 @@
 title: "Appendicite aiguë"
 author: "François Pernin Chirurgien, Centre hospitalier, Ajaccio, France"
 date: "2004-11-30"
+teaser: "L'appendicite, inflammation de l'appendice iléo-cæcal, est une maladie très fréquente en Europe, un peu plus rare en Afrique, elle demeure cependant l'une des causes les plus habituelles de péritonite. Non reconnue à temps, elle évolue le plus souvent vers une péritonite mortelle.  
+Le diagnostic n'est pas toujours facile, mais le moindre doute doit faire surveiller attentivement le malade pour l'opérer au plus tôt si le diagnostic se confirme."
 ---
 
-L'appendicite, inflammation de l'appendice iléo-cæcal, est une maladie très fréquente en Europe, un peu plus rare en Afrique, elle demeure cependant l'une des causes les plus habituelles de péritonite. Non reconnue à temps, elle évolue le plus souvent vers une péritonite mortelle.  
-Le diagnostic n'est pas toujours facile, mais le moindre doute doit faire surveiller attentivement le malade pour l'opérer au plus tôt si le diagnostic se confirme.
 ## I. Qu'est-ce que l'appendice ?
 
 L'appendice est un organe non indispensable à la vie, formation tubulaire appendue au cæcum. Sa structure histologique est riche en tissu lymphoïde (semblable aux ganglions).  

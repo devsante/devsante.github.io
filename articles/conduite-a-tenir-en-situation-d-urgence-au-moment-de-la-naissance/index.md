@@ -2,9 +2,9 @@
 title: "Conduite à tenir en situation d’urgence au moment de la naissance"
 author: "Micheline Amzallag Pédiatre, Créteil, France."
 date: "2010-12-03"
+teaser: "A la naissance, il est possible d'être confronté à une situation d'urgence mettant en jeu le pronostic vital de l'enfant alors qu'une prise en charge adaptée avec un minimum de matériel peut permettre d'inverser totalement le pronostic. Les gestes sont simples et doivent être connus à l'avance pour ne pas perdre des secondes précieuses."
 ---
 
-A la naissance, il est possible d'être confronté à une situation d'urgence mettant en jeu le pronostic vital de l'enfant alors qu'une prise en charge adaptée avec un minimum de matériel peut permettre d'inverser totalement le pronostic. Les gestes sont simples et doivent être connus à l'avance pour ne pas perdre des secondes précieuses.
 ## I. Le matériel
 
 Dans la mesure du possible, il est indispensable d'avoir à sa disposition le matériel, que ce soit en milieu médicalisé ou à domicile. Cette "trousse de naissance" doit toujours être prête et régulièrement contr8lée (pour le moins après chaque utilisation pour en remplacer le matériel et s'assurer que rien n'est périmé).  

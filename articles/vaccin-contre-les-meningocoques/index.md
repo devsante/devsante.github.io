@@ -2,9 +2,9 @@
 title: "Vaccin contre les méningocoques"
 author: "Micheline Amzallag Pédiatre, Créteil, France"
 date: "2009-04-27"
+teaser: "Depuis la mise en place de la vaccination contre l'_Haemophilus influenzae_, _Neisseria meningitidis_ partage avec _Streptococcus pneumoniae_ la responsabilité de la grande majorité des méningites purulentes chez l'enfant."
 ---
 
-Depuis la mise en place de la vaccination contre l'_Haemophilus influenzae_, _Neisseria meningitidis_ partage avec _Streptococcus pneumoniae_ la responsabilité de la grande majorité des méningites purulentes chez l'enfant.
 ## I. Épidémiologie
 
 _Neisseria meningitidis_ est à l'origine d'épidémies de méningites.  

@@ -2,9 +2,9 @@
 title: "Covid-19 : perspectives vaccinales"
 author: "Pr Pierre Saliou, vaccinologue, GISPE"
 date: "2020-05-12"
+teaser: "Il est très vraisemblable qu’un vaccin contre le Covid 19 dû au Sars-Cov 2, administrable à la population mondiale, deviendra une réalité. Mais quand ? Il est vraiment impossible de le prévoir aujourd’hui malgré les allégations optimistes (pour ne pas écrire irréalistes) des médias reprenant souvent les communiqués des différents laboratoires qui annoncent un délai de quelques mois à 12 ou 18 mois au maximum."
 ---
 
-Il est très vraisemblable qu’un vaccin contre le Covid 19 dû au Sars-Cov 2, administrable à la population mondiale, deviendra une réalité. Mais quand ? Il est vraiment impossible de le prévoir aujourd’hui malgré les allégations optimistes (pour ne pas écrire irréalistes) des médias reprenant souvent les communiqués des différents laboratoires qui annoncent un délai de quelques mois à 12 ou 18 mois au maximum.
 ## Trois problèmes sont à considérer
 1- Certes la recherche vaccinale est bouillonnante dans le domaine  avec plus de 100 projets recensés par l’OMS dont certains progressent rapidement *in vitro* à tel point que quelques essais cliniques de phase 1 sont même déjà en cours. 
 

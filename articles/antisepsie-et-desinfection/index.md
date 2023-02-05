@@ -2,12 +2,12 @@
 title: "Antisepsie et désinfection"
 author: "Catherine Dupeyron Biologiste, Créteil. France"
 date: "2011-10-11"
----
-
-Les antiseptiques et les désinfectants sont des produits capables d’éliminer ou de tuer par action directe les micro-organismes indésirables.  
+teaser: "Les antiseptiques et les désinfectants sont des produits capables d’éliminer ou de tuer par action directe les micro-organismes indésirables.  
 Les désinfectants sont utilisés sur des surfaces inertes, les antiseptiques sont destinés à être appliqués sur les tissus vivants.  
 Ce qui fait leur différence, c’est que les antiseptiques doivent être bien tolérés par la peau et les muqueuses. Ce sont des médicaments, fabriqués et contrôlés par des pharmaciens, alors que les désinfectants restent des produits d’hygiène.  
-Néanmoins, selon les doses et les conditions d’utilisation, de nombreux produits peuvent être utilisés aussi bien comme désinfectants que comme antiseptiques.
+Néanmoins, selon les doses et les conditions d’utilisation, de nombreux produits peuvent être utilisés aussi bien comme désinfectants que comme antiseptiques."
+---
+
 ## I. Antiseptiques
 
 Les antiseptiques sont des préparations pharmaceutiques actives sur les micro-organismes présents sur le revêtement cutané et muqueux. Ils sont antibactériens, antifongiques et antiviraux. Selon leur nature chimique, certains seront plus actifs que d’autres sur les bactéries, les champignons ou les virus.

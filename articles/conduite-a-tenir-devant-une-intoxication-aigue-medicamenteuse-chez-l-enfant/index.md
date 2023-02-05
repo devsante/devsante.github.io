@@ -2,9 +2,9 @@
 title: "Conduite à tenir devant une intoxication aiguë médicamenteuse chez l'enfant"
 author: "Laurence Desplanques Pédiatre, Medicus Mundi, Paris."
 date: "1995-08-02"
+teaser: "Les intoxications aiguës médicamenteuses de l'enfant sont, dans la majorité des cas, accidentelles: l'enfant trouve souvent des substances qui lui sont ou non destinées et les ingère. Le diagnostic est facile quand l'ingestion se fait en présence de témoins, ou quand la boîte de comprimés est retrouvée vide auprès de l'enfant... Le diagnostic est plus complexe quand la notion d'intoxication est méconnue."
 ---
 
-Les intoxications aiguës médicamenteuses de l'enfant sont, dans la majorité des cas, accidentelles: l'enfant trouve souvent des substances qui lui sont ou non destinées et les ingère. Le diagnostic est facile quand l'ingestion se fait en présence de témoins, ou quand la boîte de comprimés est retrouvée vide auprès de l'enfant... Le diagnostic est plus complexe quand la notion d'intoxication est méconnue.
 ## **I.** **Démarche diagnostique**
 
 L'intoxication évolue en trois phases :

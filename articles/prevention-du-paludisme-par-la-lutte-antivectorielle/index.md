@@ -2,10 +2,10 @@
 title: "Prévention du paludisme par la lutte antivectorielle"
 author: "Par Ole Skovmand, Intelligent Insect Control - Montpellier, France www.insectcontrol.net"
 date: "2008-07-03"
+teaser: "Le paludisme est une maladie des moustiques, des reptiles, oiseaux et mammifères, parmi les­quels les humains. Toutes les espèces de plasmodium, parasite du paludisme humain, sont trans­mises par un seul genre de moustiques : les anophèles.  
+Les moustiques du genre Anopheles pondent dans des gîtes d'eau non polluées, mais chaque espèce a ses préférences propres. En Afrique, les trois principales espèces vectrices du paludis­me sont Anopheles gambiae, Anopheles arabiensis et Anopheles funestus."
 ---
 
-Le paludisme est une maladie des moustiques, des reptiles, oiseaux et mammifères, parmi les­quels les humains. Toutes les espèces de plasmodium, parasite du paludisme humain, sont trans­mises par un seul genre de moustiques : les anophèles.  
-Les moustiques du genre Anopheles pondent dans des gîtes d'eau non polluées, mais chaque espèce a ses préférences propres. En Afrique, les trois principales espèces vectrices du paludis­me sont Anopheles gambiae, Anopheles arabiensis et Anopheles funestus.
 ## I. Biologie des vecteurs
 
 Pour comprendre comment on peut prévenir le paludisme en évitant les piqûres des mous­tiques qui transmettent le paludisme, il est nécessaire de connaître la bioécologie de ces trois espèces.

@@ -2,14 +2,14 @@
 title: "Dyspnées obstructives de l'enfant"
 author: "Antoine Perrin et Yves Manach"
 date: "1986-07-31"
----
-
-Les dyspnées obstructives représentent toutes les gênes à la respiration dues à un obstacle situé sur les voies aéro-digestives supérieures.  
+teaser: "Les dyspnées obstructives représentent toutes les gênes à la respiration dues à un obstacle situé sur les voies aéro-digestives supérieures.  
 Ces dyspnées sont relativement fréquentes chez l'enfant, et constituent des urgences pédiatriques, le pronostic vital pouvant être rapidement mis en cause.  
 Les étiologies sont variées mais peuvent le plus souvent être retrouvées par un examen clinique simple mais rigoureux.  
 Le traitement, qui est fonction de l'étiologie et du siège de l'obstacle, est parfois difficile à mener lorsque les moyens médicaux sont limités. Il repose dans la majorité des cas sur des bases simples qui permettent au moins le transfert dans un centre mieux équipé.
 
-Nous ne parlerons pas des dyspnées survenant dans un contexte d'anesthésie générale.
+Nous ne parlerons pas des dyspnées survenant dans un contexte d'anesthésie générale."
+---
+
 ## I. Anatomie _(schéma n° 1)_
 
 ![](i234-1.jpg)

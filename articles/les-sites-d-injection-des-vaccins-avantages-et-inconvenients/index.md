@@ -2,9 +2,9 @@
 title: "Les sites d'injection des vaccins : avantages et inconvénients"
 author: "Philippe Reinert, Pédiatre, Créteil, France"
 date: "2009-04-27"
+teaser: "La voie d'administration des vaccins - intramusculaire, sous-cutanée, intradermique ou orale - a une influence importante tant sur la qualité de la protection induite (taux d'anticorps le plus souvent) que sur la fréquence et l'intensité des effets secondaires locaux éventuels. Ces effets dépendent néanmoins de la nature des vaccins."
 ---
 
-La voie d'administration des vaccins - intramusculaire, sous-cutanée, intradermique ou orale - a une influence importante tant sur la qualité de la protection induite (taux d'anticorps le plus souvent) que sur la fréquence et l'intensité des effets secondaires locaux éventuels. Ces effets dépendent néanmoins de la nature des vaccins.
 ## I. Quelle voie utiliser ?
 
 La voie **intramusculaire** (IM) est recommandée pour les vaccins adsorbés (tués), c'est-à-dire les vaccins contre la diphtérie, le tétanos, la coqueluche, la poliomyélite, le pneumocoque, la typhoïde, les hépatites B et A, les infections à méningocoque AC C conjugué, ACW135Y, la rage et les infections à papillomavirus.

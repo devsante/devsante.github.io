@@ -2,11 +2,11 @@
 title: "La maladie de Lyme"
 author: "Dr Patrice Bourée, Institut Alfred Fournier, Paris"
 date: "2019-03-07"
+teaser: "La maladie de Lyme a été décrite en 1977 par AC Steere aux USA, dans la ville de Lyme (Connecticut), chez des enfants atteints d’arthralgies. Le germe responsable (spirochète) (figure 1) a été découvert chez les tiques en 1981 par W. Burgdorfer, puis il sera décelé dans la peau, le sang et le LCR des patients atteints de maladie de Lyme.
+(image: image004.jpg)
+**Figure 1. Le spirochète**"
 ---
 
-La maladie de Lyme a été décrite en 1977 par AC Steere aux USA, dans la ville de Lyme (Connecticut), chez des enfants atteints d’arthralgies. Le germe responsable (spirochète) (figure 1) a été découvert chez les tiques en 1981 par W. Burgdorfer, puis il sera décelé dans la peau, le sang et le LCR des patients atteints de maladie de Lyme.
-(image: image004.jpg)
-**Figure 1. Le spirochète**
 ## Due aux morsures de tiques
 En fonction de la conformation de leurs mandibules, les tiques « mordent » et ne piquent pas. La maladie de Lyme est une zoonose ayant un grand polymorphisme clinique. La prévalence en est très variable, estimée à 60 000 cas par an aux USA (figure 2), et 10 000 par an en France (surtout le centre et l’Alsace). 
 ![](image005.png)

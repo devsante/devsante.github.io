@@ -1,10 +1,10 @@
 ---
 title: "Prophylaxie par le cotrimoxazole chez l'adulte en Afrique sub-saharienne : avantages, risques et conseils pratiques"
 date: "2003-12-14"
+teaser: "Toure Siaka, Xavier Anglaret  
+Programme Pac-ci, Abidjan, Côte d'Ivoire et Unité INSERM 593, Bordeaux, France."
 ---
 
-Toure Siaka, Xavier Anglaret  
-Programme Pac-ci, Abidjan, Côte d'Ivoire et Unité INSERM 593, Bordeaux, France.
 ## I. Notions de base sur les infections liées au VIH  
 et leur prévention
 

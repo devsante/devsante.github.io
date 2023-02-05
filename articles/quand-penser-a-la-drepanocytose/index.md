@@ -2,10 +2,10 @@
 title: "Quand penser à la drépanocytose ?"
 author: "Dr Françoise Bernaudin, pédiatre, Créteil, France"
 date: "2016-10-26"
+teaser: "La drépanocytose est une maladie génétique transmise par les parents porteurs du gène mais non malades.
+Par contre, dans une famille, lorsque les 2 parents AS sont porteurs, un enfant sur 4 en moyenne est atteint de la maladie drépanocytaire SS. (image: penser-drepano-image002.gif)"
 ---
 
-La drépanocytose est une maladie génétique transmise par les parents porteurs du gène mais non malades.
-Par contre, dans une famille, lorsque les 2 parents AS sont porteurs, un enfant sur 4 en moyenne est atteint de la maladie drépanocytaire SS. (image: penser-drepano-image002.gif)
 L’hémoglobine normale A contenue dans le globule rouge transporte l’oxygène aux tissus mais est remplacée, en cas de drépanocytose, par l’hémoglobine anormale S qui polymérise (se solidifie au lieu de rester soluble) à l’intérieur du globule rouge. Celui-ci, au lieu de rester souple et capable de passer dans des petits vaisseaux de 2 µ, devient rigide et se déforme en faucille et se coince dans les petits vaisseaux. Le sang, et donc l’oxygène, n’arrivent plus dans les extrémités, comme les mains et les pieds par exemple, qui deviennent douloureux : c’est ce qu’on appelle la « crise vaso-occlusive ».
 
 La **rate**, qui est l’organe dans lequel les vaisseaux sont les plus petits, retient ces globules rouges "falciformés" et les détruit. On parle de **"crise de séquestration splénique"** lorsque ces globules rouges sont emprisonnés dans la rate. Leur destruction est responsable de l’anémie (manque de globules rouges) et donc de la pâleur et des signes d’hémolyse avec libération de la bilirubine colorant le blanc des yeux en jaune (ictère).

@@ -2,9 +2,9 @@
 title: "Vaccins chez le drépanocytaire"
 author: "Philippe Reinert, pédiatre, Créteil, France"
 date: "2016-04-15"
+teaser: "Plus que chez l’enfant sain, les vaccins ont une importance capitale chez le drépanocytaire. En effet, les infections, en particulier à pneumocoque, sont une des causes majeures de complications graves (pneumonies, méningites), surtout pendant les premières années de la vie. On sait que l’association antibiotiques (pénicillines) + vaccin pneumococcique a transformé la vie du drépanocytaire. On doit donc faire de ces deux traitements une priorité."
 ---
 
-Plus que chez l’enfant sain, les vaccins ont une importance capitale chez le drépanocytaire. En effet, les infections, en particulier à pneumocoque, sont une des causes majeures de complications graves (pneumonies, méningites), surtout pendant les premières années de la vie. On sait que l’association antibiotiques (pénicillines) + vaccin pneumococcique a transformé la vie du drépanocytaire. On doit donc faire de ces deux traitements une priorité.
 ## Vaccins pneumococciques
 
 ### Vaccin polysaccharidique conjugué : PREVENAR*

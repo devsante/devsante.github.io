@@ -2,10 +2,10 @@
 title: "Le noma :  une affection grave, conséquence de la pauvreté"
 author: "Patrice Bourée, médecin, Paris"
 date: "2018-10-22"
+teaser: "Le noma, ou *cancrus oris*, est une gangrène oro-faciale survenant essentiellement chez les enfants en mauvais état généra, vivant dans les pays tropicaux défavorisés. Elle est responsable d’une assez lourde mortalité et d’importantes séquelles esthétiques et fonctionnelles chez les enfants qui survivent. 
+Le noma, du grec *numein *= dévorer, était déjà connu d’Hippocrate, sous le nom de *sphakelos *(gangrène sèche). Cette affection était connue depuis très longtemps en Europe et aux Etats-Unis et dès 1649, cette maladie a été inscrite dans le premier ouvrage sur les maladies négligées. Vers la fin du XIXème, la prévalence du noma a décru avec l’amélioration de l’hygiène générale. L’arrivée de la pénicilline a fait considérablement chuter la mortalité et la chirurgie réparatrice, quand elle est possible, a donné de bons résultats depuis une cinquantaine d’années. Néanmoins, le noma reste encore très présent dans les pays tropicaux."
 ---
 
-Le noma, ou *cancrus oris*, est une gangrène oro-faciale survenant essentiellement chez les enfants en mauvais état généra, vivant dans les pays tropicaux défavorisés. Elle est responsable d’une assez lourde mortalité et d’importantes séquelles esthétiques et fonctionnelles chez les enfants qui survivent. 
-Le noma, du grec *numein *= dévorer, était déjà connu d’Hippocrate, sous le nom de *sphakelos *(gangrène sèche). Cette affection était connue depuis très longtemps en Europe et aux Etats-Unis et dès 1649, cette maladie a été inscrite dans le premier ouvrage sur les maladies négligées. Vers la fin du XIXème, la prévalence du noma a décru avec l’amélioration de l’hygiène générale. L’arrivée de la pénicilline a fait considérablement chuter la mortalité et la chirurgie réparatrice, quand elle est possible, a donné de bons résultats depuis une cinquantaine d’années. Néanmoins, le noma reste encore très présent dans les pays tropicaux.
 ### Epidémiologie
 La maladie  atteint surtout les enfants de 2 à 7 ans, en Afrique sub-saharienne, dans les pays défavorisés, où la pauvreté est très répandue et avec un faible taux de vaccination contre la rougeole. 
 L’incidence est inconnue, estimée entre 30 000 et 140 000 cas. Mais il  est très difficile de disposer de chiffres précis qui sont sous-estimés en raison du manque de moyens de diagnostic et de soins et de la stigmatisation des patients qui se dissimulent. 

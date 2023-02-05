@@ -1,9 +1,7 @@
 ---
 title: "Le moustique"
 date: "2008-07-02"
----
-
-L'essentiel
+teaser: "L'essentiel
 
 *   Le moustique vecteur du paludisme est l'anophèle femelle. Il pique l'homme pour absorber le sang essentiel aux besoins de sa reproduction.
 *   Le cycle de l'anophèle comprend quatre stades : oeuf, larve, nymphe et âge adulte. Les larves se développent dans une eau quasi-stagnante et peu polluée.
@@ -14,7 +12,9 @@ L'anophèle femelle est dit vecteur du paludis­me car c'est lui qui assure une 
 
 *   il absorbe les parasites sous forme de gamé­tocytes chez le sujet parasité ;
 *   il est le lieu de la fécondation et du dévelop­pement des parasites ;
-*   il les inocule à l'homme lors de ses piqûres.
+*   il les inocule à l'homme lors de ses piqûres."
+---
+
 ## I. Le cycle de vie de l'anophèle
 
 Il passe par deux grandes phases, une phase aquatique d'une dizaine de jours (oeuf, larve, nymphe) et une phase aérienne (moustique adulte). L'anophèle femelle adulte vit en moyenne un mois.

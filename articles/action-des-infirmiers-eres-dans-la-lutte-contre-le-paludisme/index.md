@@ -2,13 +2,13 @@
 title: "Action des infirmiers(ères) dans la lutte contre le paludisme"
 author: "Blanche Toé, Ouagadougou, Burkina-Faso toebiana@yahoo.fr"
 date: "2008-07-02"
----
-
-Au Burkina Faso le paludisme représente 40% des motifs de consultation, 53% des motifs d'hospitalisation et 45% des causes de décès.
+teaser: "Au Burkina Faso le paludisme représente 40% des motifs de consultation, 53% des motifs d'hospitalisation et 45% des causes de décès.
 
 Le rôle des infirmiers est donc primordial dans la lutte contre ce fléau même si institu­tionnellement ce rôle n'a pas été réellement pris en compte. En effet, outre le diagnostic précoce et la prise en charge correcte des cas, l'infirmier est le mieux placé pour pro­mouvoir les moyens de prévention et infor­mer tous les parents et surtout les femmes des conduites à tenir pour prévenir et traiter le paludisme.
 
-Aussi l'association burkinabe "infirmières sans frontières" créée il y a 5 ans a décidé de participer activement à cette lutte.
+Aussi l'association burkinabe \"infirmières sans frontières\" créée il y a 5 ans a décidé de participer activement à cette lutte."
+---
+
 ## Plan de lutte et infirmiers
 
 Le plan de lutte comporte 3 volets essentiels :

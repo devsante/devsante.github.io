@@ -2,9 +2,9 @@
 title: "Oxygénothérapie"
 author: "J.-P. Homasson Centre Hospitalier Spécialisé en Pneumologie, Chevilly-Larue, France."
 date: "1999-02-02"
+teaser: "Après un rappel physiologique sur le transport et la mesure de l'oxygène dans le sang qui intéresse plus particulièrement les médecins, nous traitons, dans cet article, des moyens d'approvisionnement en oxygène et des indications. Ces informations aideront nos lecteurs à s'équiper et à utiliser au mieux l'oxygénothérapie, surtout en situation d'urgence."
 ---
 
-Après un rappel physiologique sur le transport et la mesure de l'oxygène dans le sang qui intéresse plus particulièrement les médecins, nous traitons, dans cet article, des moyens d'approvisionnement en oxygène et des indications. Ces informations aideront nos lecteurs à s'équiper et à utiliser au mieux l'oxygénothérapie, surtout en situation d'urgence.
 ## I. Transfert des gaz
 
 Les gaz respiratoires, oxygène et gaz carbonique, sont véhiculés par le sang depuis le capillaire pulmonaire jusqu'au capillaire périphérique. L'oxygène est transporté dans le plasma sous forme dissoute (1 %) ou combinée à l'hémoglobine (99 %). L'oxygénation du sang et par voie de conséquence des tissus est donc sous la dépendance de 2 facteurs : la pression partielle de gaz (forme dissoute), des propriétés de combinaison à l'hémoglobine.

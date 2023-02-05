@@ -2,14 +2,14 @@
 title: "Rôle de la sage-femme dans le suivi de la grossesse"
 author: "Par Marie-Laurence Diamouténé-Sangaré Assistante médicale, Cellule Sectorielle de Lutte Contre le VIH/SIDA, Bamako, Mali."
 date: "2010-11-30"
----
-
-Le rôle central de la sage-femme dans les soins prénataux repose sur :
+teaser: "Le rôle central de la sage-femme dans les soins prénataux repose sur :
 
 *   La détection et le traitement précoces des anomalies et complications.
 *   La prévention des complications et des maladies.
 *   La préparation à l'accouchement et les préparatifs en cas de complications.
-*   La promotion de la santé.
+*   La promotion de la santé."
+---
+
 ## Préparation à l'accouchement et préparatifs en cas de complications
 
 ### Aider la femme et sa famille à développer un plan pour l'accouchement

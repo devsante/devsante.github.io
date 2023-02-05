@@ -2,9 +2,9 @@
 title: "Attitude pratique devant des douleurs abdominales d'origine gastrique ou oesophagienne"
 author: "Abraham David et Kuka Abigaël Tamar Médecins généralistes"
 date: "1998-10-14"
+teaser: "On dispose pour le traitement des pathologies de l'oesophage et de l'estomac de dizaines de molécules qui, en fonction de leurs mécanismes d'action, peuvent être regroupées en cinq ou six catégories. Le problème, pour un infirmier exerçant dans les conditions d'un dispensaire de campagne ou de faubourg, et confronté à des plaintes relevant de ces pathologies, est de savoir quel produit prescrire et surtout comment."
 ---
 
-On dispose pour le traitement des pathologies de l'oesophage et de l'estomac de dizaines de molécules qui, en fonction de leurs mécanismes d'action, peuvent être regroupées en cinq ou six catégories. Le problème, pour un infirmier exerçant dans les conditions d'un dispensaire de campagne ou de faubourg, et confronté à des plaintes relevant de ces pathologies, est de savoir quel produit prescrire et surtout comment.
 ## I. Rappel clinique
 
 De façon volontairement simplificatrice, nous proposons les tableaux suivants :

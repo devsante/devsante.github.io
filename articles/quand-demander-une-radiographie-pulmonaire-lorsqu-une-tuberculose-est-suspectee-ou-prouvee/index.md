@@ -2,9 +2,9 @@
 title: "Quand demander une radiographie pulmonaire lorsqu'une tuberculose est suspectée ou prouvée"
 author: "D'après TB/HIV : Clinical manual,WHO Genève 2004, 2ème édition/juillet 2008"
 date: "2008-04-26"
+teaser: "Le diagnostic de la tuberculose (TB) est basé sur la recherche de BAAR (bacilles acido-alcoolo-résistants) dans les crachats. La radiographie peut cependant être nécessaire. "
 ---
 
-Le diagnostic de la tuberculose (TB) est basé sur la recherche de BAAR (bacilles acido-alcoolo-résistants) dans les crachats. La radiographie peut cependant être nécessaire. 
 La radiographie peut être nécessaire dans les cas suivants.  :
 
 Pour une **TB avec crachats positifs** si :

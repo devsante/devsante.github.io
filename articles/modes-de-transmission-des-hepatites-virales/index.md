@@ -2,14 +2,14 @@
 title: "Modes de transmission des hépatites virales"
 author: "Amine  SI-ALI Médecin hygiéniste, Créteil, France"
 date: "2012-04-07"
----
-
-Les hépatites sont des lésions inflammatoires du foie dont les causes peuvent être multiples : infectieuses, médicamenteuses, auto-immunes, etc. Les hépatites virales sont fréquentes, souvent asymptomatiques, liées soit à une action cytopathique directe du virus causal, soit plus souvent à la réaction immunitaire dirigée contre les cellules hépatiques infectées.
+teaser: "Les hépatites sont des lésions inflammatoires du foie dont les causes peuvent être multiples : infectieuses, médicamenteuses, auto-immunes, etc. Les hépatites virales sont fréquentes, souvent asymptomatiques, liées soit à une action cytopathique directe du virus causal, soit plus souvent à la réaction immunitaire dirigée contre les cellules hépatiques infectées.
 
 De nombreux virus sont capables d’entraîner occasionnellement des lésions hépatiques, en particulier le CMV, l’EBV, l’HSV, le virus de la fièvre jaune. Mais cinq virus, les virus des hépatites A, B, C, Delta et E (HAV, HBV, HCV, HDV, HEV), ont véritablement un tropisme hépatique quasi-exclusif et sont reconnus comme responsables de ce que l’on appelle communément « hépatites virales ».  
 Récemment, deux nouveaux virus, le virus dit de l’hépatite G (HGV ou GBV-C) et le TTV ont été incriminés comme agents d’hépatites. Mais leur rôle n’est pas démontré.
 
-Les hépatites virales, bien que dues à des virus appartenant à des familles bien différentes, s’individualisent surtout par leur mode de transmission et leur évolution.
+Les hépatites virales, bien que dues à des virus appartenant à des familles bien différentes, s’individualisent surtout par leur mode de transmission et leur évolution."
+---
+
 ## I. Hépatite A et hépatite E
 
 Elles sont transmises par voie fécale-orale. Elles sont endémo-épidémiques dans les régions à bas niveau socio-économique où elles frappent surtout les enfants. En France, on assiste à une forte diminution de l’endémie à HAV et à un recul de l’age de l’hépatite.  

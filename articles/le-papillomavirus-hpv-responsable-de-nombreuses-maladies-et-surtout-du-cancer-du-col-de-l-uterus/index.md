@@ -2,9 +2,9 @@
 title: "Le papillomavirus (HPV) responsable de nombreuses maladies et surtout du cancer du col de l'utérus"
 author: "Philippe Reinert Pédiatre, Créteil, France"
 date: "2016-04-03"
+teaser: "Le papillomavirus (HPV) est un virus à ADN que l’on retrouve chez de nombreux vertébrés. Chez l’homme, plus de 100 génotypes sont pathogènes et 13 d’entre eux sont hautement cancérigènes."
 ---
 
-Le papillomavirus (HPV) est un virus à ADN que l’on retrouve chez de nombreux vertébrés. Chez l’homme, plus de 100 génotypes sont pathogènes et 13 d’entre eux sont hautement cancérigènes.
 Transmis directement ou indirectement, le papillomavirus a un tropisme pour les muqueuses ou la peau où il peut survivre longtemps. En 20 ans, il est devenu le virus "vedette" depuis que l’on a découvert que, dans plus de 90 % des cas, il est responsable du cancer du col de l’utérus. Mais il est aussi impliqué dans les cancers anaux, vulvaires et oropharyngés (Tableau 1).
 
 <table>

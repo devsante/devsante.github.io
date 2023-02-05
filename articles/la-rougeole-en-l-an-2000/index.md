@@ -2,14 +2,14 @@
 title: "La rougeole en l'an 2000"
 author: "Philippe Reinert"
 date: "2000-10-14"
----
-
-La rougeole demeure l'une des maladies infantiles les plus meurtrières, puisqu'elle tue plus d'enfants que toute autre maladie évitable par la vaccination.  
+teaser: "La rougeole demeure l'une des maladies infantiles les plus meurtrières, puisqu'elle tue plus d'enfants que toute autre maladie évitable par la vaccination.  
 L'OMS estime qu'en 1994, plus d'un million d'enfants sont morts de la rougeole, chiffre supérieur à l'ensemble des décès d'enfants imputables à toutes les maladies cibles du programme élargi de vaccination (PEV).  
 La maladie est responsable de plus de 10 % des décès chez les enfants âgés de moins de 5 ans, la moitié se produisant chez ceux ayant moins de 1 an.  
 La maladie tue par ses complications : pneumonie, diarrhée, malnutrition, elle peut aussi laisser des séquelles définitives : cécité, surdité, convulsions, retard mental.
 
-Sur les 40 millions de cas annuels, la majorité survient dans les villes, et en particulier dans les quartiers défavorisés (zones où la couverture vaccinale est faible).
+Sur les 40 millions de cas annuels, la majorité survient dans les villes, et en particulier dans les quartiers défavorisés (zones où la couverture vaccinale est faible)."
+---
+
 ## I. De quelles armes disposons-nous ?
 
 *   La vaccination.

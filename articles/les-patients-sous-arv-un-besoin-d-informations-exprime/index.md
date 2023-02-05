@@ -2,9 +2,9 @@
 title: "Les patients sous ARV : un besoin d'informations exprimé"
 author: "Ursule Nziengui Educatrice pour la santé, Libreville, Gabon."
 date: "2003-12-05"
+teaser: "Dans le cadre de l'étude réalisée au centre de traitement ambulatoire (CTA) de Libreville, les patients ont émis le souhait d'avoir davantage d'informations sur plusieurs points concernant l'infection par le VIH et le SIDA. En effet, même s'ils sont sous traitement depuis un certain temps, des zones d'ombres et des interrogations subsistent, surtout en ce qui concerne la durée de la maladie."
 ---
 
-Dans le cadre de l'étude réalisée au centre de traitement ambulatoire (CTA) de Libreville, les patients ont émis le souhait d'avoir davantage d'informations sur plusieurs points concernant l'infection par le VIH et le SIDA. En effet, même s'ils sont sous traitement depuis un certain temps, des zones d'ombres et des interrogations subsistent, surtout en ce qui concerne la durée de la maladie.
 L'étude menée au CTA de Libreville était destinée à apprécier les problèmes rencontrés par des malades sous ARV pour appliquer les prescriptions établies par le personnel soignant du centre. Au cours des entretiens dirigés, comme au cours des dialogues ouverts engagés avec les patients, la question de l'information est apparue comme une question majeure, c'est pourquoi nous pensons utile de relater ici leurs interrogations.
 
 ## I. La durée du traitement

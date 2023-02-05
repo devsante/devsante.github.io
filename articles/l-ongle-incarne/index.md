@@ -2,9 +2,9 @@
 title: "L'ongle incarné"
 author: "Djawad Selka, Chirurgien, Oran, Algérie."
 date: "2001-06-13"
+teaser: "Un ongle est incarné lorsqu'il s'incruste dans les tissus qui limitent ses bords latéraux c'est-à-dire dans le sillon ou dans le bourrelet périunguéal. Le premier orteil est de loin le plus fréquemment atteint. Les causes ne sont pas toujours évidentes : chaussures trop serrées, mauvaise coupe de l'ongle, conformation particulière sont généralement incriminées."
 ---
 
-Un ongle est incarné lorsqu'il s'incruste dans les tissus qui limitent ses bords latéraux c'est-à-dire dans le sillon ou dans le bourrelet périunguéal. Le premier orteil est de loin le plus fréquemment atteint. Les causes ne sont pas toujours évidentes : chaussures trop serrées, mauvaise coupe de l'ongle, conformation particulière sont généralement incriminées.
 ## **I.** Causes
 
 **Elles regroupent en général :**

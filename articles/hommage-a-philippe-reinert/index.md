@@ -2,11 +2,11 @@
 title: "Hommage au professeur Philippe Reinert"
 author: "Toute l'équipe de Développement et Santé"
 date: "2018-08-07"
+teaser: "Il y a tout juste un an, le professeur Philippe Reinert  (1938-2017) nous quittait.
+Externe des Hôpitaux de Paris (1960-1963,) interne des Hôpitaux de Paris (1965-1969), Chef de Clinique Assistant (1969-1975), il a été le chef du service de pédiatrie du Centre Hospitalier Intercommunal de Créteil (CHIC) de 1977 à 2004. 
+Philippe Reinert était un médecin hors pair, de par sa curiosité  qui l’a conduit vers des domaines d’intérêt extrêmement variés."
 ---
 
-Il y a tout juste un an, le professeur Philippe Reinert  (1938-2017) nous quittait.
-Externe des Hôpitaux de Paris (1960-1963,) interne des Hôpitaux de Paris (1965-1969), Chef de Clinique Assistant (1969-1975), il a été le chef du service de pédiatrie du Centre Hospitalier Intercommunal de Créteil (CHIC) de 1977 à 2004. 
-Philippe Reinert était un médecin hors pair, de par sa curiosité  qui l’a conduit vers des domaines d’intérêt extrêmement variés.
 ### L’immunologie et l’infectiologie étaient ses domaines de prédilection
 Très tôt, il s’est intéressé à la virologie et a participé à de nombreux essais sur la vidarabine, puis l’aciclovir dans les varicelles et zonas de l’immunodéprimé. Son service a reçu pendant des années toutes les maladies virales chez l’immunodéprimé provenant des services d’hématologie et d’oncologie pédiatrique de Paris et parfois de province.
 La rougeole a été l’un de ses pôles d’intérêt, avec une attention particulière pour l’encéphalopathie de Von Bogaert (ou leucoencéphalite subaigüe sclérosante). Il recevait des enfants de toute l’Europe, en particulier de Grèce. Inlassablement, il combattait et espérait gagner sur cette maladie en leur donnant des immunostimulants. Il portait les parents avec un soin peu commun.

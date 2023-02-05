@@ -2,12 +2,12 @@
 title: "Convulsions du nourrisson"
 author: "Sophie Lemerle-Gruson Pédiatre, Créteil, France"
 date: "2014-09-23"
----
-
-Les convulsions du nourrisson sont une urgence absolue car elles peuvent mettre en jeu l’avenir neurologique, voire la vie, en évoluant vers un état de mal convulsif.  
+teaser: "Les convulsions du nourrisson sont une urgence absolue car elles peuvent mettre en jeu l’avenir neurologique, voire la vie, en évoluant vers un état de mal convulsif.  
 Elles nécessitent donc un traitement non spécifique (traitement de la convulsion elle-même) tandis qu’on en recherche la cause qui peut, elle, demander un traitement spécifique (par exemple, traitement d’une méningite).  
 Mais tous ces symptômes se réunissent en un point commun : l’enfant perd connaissance (en dehors de certaines causes que nous reverrons).  
-Quels que soient les symptômes, la crise convulsive est une urgence et impose un traitement immédiat, après avoir pris la température. En effet, la fièvre est le facteur déclenchant ou aggravant de la plupart des convulsions du nourrisson.
+Quels que soient les symptômes, la crise convulsive est une urgence et impose un traitement immédiat, après avoir pris la température. En effet, la fièvre est le facteur déclenchant ou aggravant de la plupart des convulsions du nourrisson."
+---
+
 ## I. Le diagnostic
 
 ###   

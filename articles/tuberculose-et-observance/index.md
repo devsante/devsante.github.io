@@ -2,9 +2,9 @@
 title: "Tuberculose et observance"
 author: "Jean-Loup Rey"
 date: "2008-07-04"
+teaser: "Dans les programmes de lutte, on parle de défaillants, d'irréguliers et de perdus de vue ; il s'agit en fait de patients qui, pour diverses raisons, ont abandonné la prise de leurs médicaments ou suivent ce traitement avec des arrêts et retards plus ou moins répétés."
 ---
 
-Dans les programmes de lutte, on parle de défaillants, d'irréguliers et de perdus de vue ; il s'agit en fait de patients qui, pour diverses raisons, ont abandonné la prise de leurs médicaments ou suivent ce traitement avec des arrêts et retards plus ou moins répétés.
 Les experts reconnus de l'union qui ont évalué ces phénomènes arrivent tous aux conclusions suivantes :
 
 "Le malade normal est celui qui faillit" A. Rouillon.  

@@ -2,9 +2,9 @@
 title: "Maladies sexuellement transmissibles 1ère partie"
 author: "Eric Caumes*, Gorette Dos Santos** *Médecin infectiologue, hôpital Pitié Salpétrière, Paris, France **Médecin généraliste."
 date: "2001-10-30"
+teaser: "Cet article aborde en particulier la démarche diagnostique et thérapeutique de l'ulcération génitale et du bubon inguinal. La conduite à tenir face à l'urétrite masculine, à des leucorrhées, à une tuméfaction scrotale sera proposée dans une prochaine édition de Développement et Santé."
 ---
 
-Cet article aborde en particulier la démarche diagnostique et thérapeutique de l'ulcération génitale et du bubon inguinal. La conduite à tenir face à l'urétrite masculine, à des leucorrhées, à une tuméfaction scrotale sera proposée dans une prochaine édition de Développement et Santé.
 ## I. Généralités
 
 Les maladies sexuellement transmissibles (MST) sont des maladies infectieuses dues à des agents microbiens qui se transmettent exclusivement ou principalement par les rapports sexuels. Il s'agit de bactéries, virus, parasites et champignons qui peuvent être associés entre eux à des degrés divers (une MST peut en cacher une autre). Les MST se manifestent par une atteinte de la sphère génitale et/ou par une infection généralisée. La gravité des MST est liée à la virulence de certains des agents responsables, à la longue durée d'incubation, au potentiel contagieux, à la méconnaissance fréquente de l'infection permettant une évolution à bas bruit et à l'absence de traitement. Chez la femme, _Chlamydia trachomatis_ est à l'origine de stérilité, et les papillomavirus à l'origine des cancers du col utérin. Les MST peuvent aussi se transmettre au foetus (syphilis congénitale) ou au nouveau-né lors de l'accouchement par voie basse (formes néonatales d'herpès, de conjonctivite et de pneumonie). Les virus sexuellement transmissibles sont responsables de maladies sévères par leur virulence (VIH et Sida, VHB et hépatite chronique) et leur potentiel oncogène (EBV et lymphomes, HPV et carcinome utérin, VHB et hépatocarcinome ... ).

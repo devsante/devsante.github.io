@@ -2,10 +2,10 @@
 title: "La lutte contre les glossines"
 author: "J.M. Milleliri Institut de Médecine Tropicale du Service de Santé des Armées - Le Pharo, Marseille.  "
 date: "2004-06-05"
+teaser: "Pour lutter contre la maladie du sommeil il faut aussi lutter contre son vecteur, la glossine ou mouche tsé tsé. Cette mouche vit et se reproduit dans les endroits humides et ombragés, elle se déplace peu. Glossines mâles et femelles piquent (piqûre douloureuse) mais heureusement rares sont celles qui transmettent le parasite.  
+Tout ceci explique que la lutte contre ces vecteurs est très efficace et a permis d'arrêter les épidémies."
 ---
 
-Pour lutter contre la maladie du sommeil il faut aussi lutter contre son vecteur, la glossine ou mouche tsé tsé. Cette mouche vit et se reproduit dans les endroits humides et ombragés, elle se déplace peu. Glossines mâles et femelles piquent (piqûre douloureuse) mais heureusement rares sont celles qui transmettent le parasite.  
-Tout ceci explique que la lutte contre ces vecteurs est très efficace et a permis d'arrêter les épidémies.
 Les moyens traditionnels de lutte sont la "prophylaxie agronomique" et l'épandage d'insecticides. La lutte agronomique est encore utile dans les sites où hommes, animaux et glossines se retrouvent en grand nombre, c'est-à-dire les points d'eau, les gués, les bords de cours d'eau où se déroulent les activités humaines, elle consiste à couper plantes et arbustes autour de ces sites.
 
 Les épandages d'insecticides se font soit à partir d'avions ou hélicoptères, soit à partir d'équipes de déplaçant au sol. Mais la sécheresse a provoqué un déplacement des hommes et des animaux vers les zones plus humides, et dans ces zones préforestières et forestières, l'épandage aérien des insecticides est difficile, voire impossible. Pour le travail au sol, les techniciens spécialisés dans la lutte ne sont plus assez nombreux pour ce travail difficile.

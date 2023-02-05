@@ -2,13 +2,13 @@
 title: "La rage"
 author: "Catherine Dupeyron, Biologiste, Créteil, France Philippe Reinert, pédiatre, Créteil, France"
 date: "2015-02-15"
----
-
-La rage est responsable encore actuellement de plus de 55 000 décès par an dans le monde, la majeure partie en Asie et en Afrique, sans compter les nombreux cas non diagnostiqués. Dans 30 % à 50 % des cas, elle survient chez des enfants de moins de quinze ans. Cette maladie est mal contrôlée, elle est de plus en plus fréquente dans les plus de 100 pays où elle sévit.
+teaser: "La rage est responsable encore actuellement de plus de 55 000 décès par an dans le monde, la majeure partie en Asie et en Afrique, sans compter les nombreux cas non diagnostiqués. Dans 30 % à 50 % des cas, elle survient chez des enfants de moins de quinze ans. Cette maladie est mal contrôlée, elle est de plus en plus fréquente dans les plus de 100 pays où elle sévit.
 
 C'est une maladie provoquée par un virus qui peut atteindre l'homme et de nombreux animaux. Elle est le plus souvent transmise à l'homme par la salive, lors d'une morsure par un chien enragé.  
 Le **nettoyage de la plaie et la vaccination**, effectués le plus rapidement possible après contact ou morsure par un animal suspect et en suivant les recommandations de l'OMS, permettent de prévenir l'apparition de la rage dans près de 100 % des cas.  
-Une fois que la maladie est déclarée, que les signes et symptômes de la rage commen­cent à apparaître, aucun traitement n'est efficace et la maladie est toujours mortelle.
+Une fois que la maladie est déclarée, que les signes et symptômes de la rage commen­cent à apparaître, aucun traitement n'est efficace et la maladie est toujours mortelle."
+---
+
 ## I. Le virus
 
 Le virus de la rage fait partie de la famille des _Rhabdoviridae_, il appartient au genre _Lyssavirus_ (du grec lussa, la folie), son génome est constitué d'un ARN. C'est un virus fragile.

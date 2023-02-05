@@ -2,9 +2,9 @@
 title: "Communication pour la vaccination"
 author: "Philippe Jaillard Agence pour la Médecine Préventive (AMP), Ouagadougou, Burkina Faso"
 date: "2009-04-29"
+teaser: "Pour que le programme de vaccination atteigne ses objectifs, il est nécessaire de favoriser la participation conjointe de tous les acteurs et institutions et de créer un environnement favorable. La communication pour le développementt agit sur le changement de comportement des bénéficiaires directs de la vaccination, la mobilisation des groupes sociaux (associations, groupes religieux...), le plaidoyer adressé aux décideurs politiques et religieuxx et aux partenaires techniques et financiers."
 ---
 
-Pour que le programme de vaccination atteigne ses objectifs, il est nécessaire de favoriser la participation conjointe de tous les acteurs et institutions et de créer un environnement favorable. La communication pour le développementt agit sur le changement de comportement des bénéficiaires directs de la vaccination, la mobilisation des groupes sociaux (associations, groupes religieux...), le plaidoyer adressé aux décideurs politiques et religieuxx et aux partenaires techniques et financiers.
 ## I. Les stratégies de la communication pour le développement
 
 ### 1.Communication pour le changement de comportement

@@ -2,9 +2,9 @@
 title: "Arrêt cardio-respiratoire"
 author: "Jean-Claude Tanniou Instructeur de secourisme, SMUR de Saint-Denis"
 date: "1998-08-26"
+teaser: "Après avoir vu la technique et l'attitude à adopter par un secouriste isolé dépourvu de matériel face à un arrêt cardio-respiratoire, nous traitons, dans cet article, de la conduite à tenir face au même problème par des secouristes agissant en équipe organisée."
 ---
 
-Après avoir vu la technique et l'attitude à adopter par un secouriste isolé dépourvu de matériel face à un arrêt cardio-respiratoire, nous traitons, dans cet article, de la conduite à tenir face au même problème par des secouristes agissant en équipe organisée.
 ## I. Conduite à tenir
 
 Examiner rapidement la victime : vérifier la présence ou non d'hémorragie, puis faire le bilan des fonctions vitales. La victime étant inconsciente, en arrêt ventilatoire, le pouls carotidien absent, il est nécessaire de démarrer la réanimation cardio-pulmonaire _(tableau_ _n° 1_), le plus rapidement possible.

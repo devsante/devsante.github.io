@@ -2,9 +2,9 @@
 title: "Fibromyomes utérins"
 author: "Marie Bredon"
 date: "1981-08-02"
+teaser: "Tumeurs bénignes, très fréquentes, développées aux dépens du muscle utérin pendant la seule période génitale, les fibromyomes n'existent pas avant la puberté et involuent après la ménopause. Leur nombre et leur volume sont très variables."
 ---
 
-Tumeurs bénignes, très fréquentes, développées aux dépens du muscle utérin pendant la seule période génitale, les fibromyomes n'existent pas avant la puberté et involuent après la ménopause. Leur nombre et leur volume sont très variables.
 Les fibromyomes peuvent s'associer à :
 
 *   des polypes muqueux intra-utérins,

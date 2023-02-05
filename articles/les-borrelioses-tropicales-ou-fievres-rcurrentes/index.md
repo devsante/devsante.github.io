@@ -2,9 +2,9 @@
 title: "Les borrélioses tropicales ou fièvres récurrentes"
 author: "Patrice Bourée, Institut Alfred Fournier"
 date: "2020-02-10"
+teaser: "Les fièvres récurrentes, ou borrélioses, sont  des anthropozoonoses, dues à des *Borrelia*,  bactéries de la famille des *Spirochaetacea*. Outre la maladie de Lyme, les fièvres récurrentes sont dues à différents spirochètes transmis par des arthropodes."
 ---
 
-Les fièvres récurrentes, ou borrélioses, sont  des anthropozoonoses, dues à des *Borrelia*,  bactéries de la famille des *Spirochaetacea*. Outre la maladie de Lyme, les fièvres récurrentes sont dues à différents spirochètes transmis par des arthropodes.
 ## 1. Les fièvres récurrentes à poux
 Les fièvres récurrentes à poux sont cosmopolites et surviennent par épidémie dans un contexte de mauvaises conditions d’hygiène et de promiscuité. Les fièvres récurrentes à tiques sont régionales, dont la répartition suit celle des tiques molles ou ornithodores (tableau I).
 
@@ -128,4 +128,4 @@ Parmi les **effets secondaires des traitements**, il y a  un risque d’exacerba
 - Elbir H, Raoult D, Drancourt M. Relapsing fever borreliae in Africa. Am J Trop Med Hyg. 2013 Aug;89(2):288-92.
 - Wilting KR, Stienstra Y, Sinha B, Braks M, Cornish D, Grundmann H. Louse-borne relapsing fever (Borrelia recurrentis) in asylum seekers from Eritrea, the Netherlands, July 2015. Euro Surveill. 2015;20(30):pii=21196.
 
-Pour accéder au quiz sur les borrélioses tropicales ou fièvres tropicales, cliquer ici : (link:(link: https://docs.google.com/forms/d/e/1FAIpQLScfAWfcAdMyCEE3IoyWmDUp5zMLlPgiazlvRJBbXD9QPHxeZQ/viewform text: Quiz borrélioses tropicales ou fièvres récurrentes)
+Pour accéder au quiz sur les borrélioses tropicales ou fièvres tropicales, cliquer ici : <a href="https://docs.google.com/forms/d/e/1FAIpQLScfAWfcAdMyCEE3IoyWmDUp5zMLlPgiazlvRJBbXD9QPHxeZQ/viewform" target="_blank" rel="noopener">Quiz borrélioses tropicales ou fièvres récurrentes</a>

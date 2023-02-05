@@ -2,13 +2,13 @@
 title: "Les cristaux urinaires"
 author: "Françoise Balédent"
 date: "2019-04-24"
----
-
-L'analyse des cristaux urinaires par examen microscopique est un examen simple, pouvant apporter des renseignements précieux.
+teaser: "L'analyse des cristaux urinaires par examen microscopique est un examen simple, pouvant apporter des renseignements précieux.
 Dans la majorité des cas, la présence de cristaux ne correspond pas à un état pathologique, et, selon le pH de l'urine, on pourra mettre en évidence, dans l'urine acide : des urates, cristaux d'acide urique, ou oxalates de calcium et dans l'urine alcaline : phosphates, carbonates de calcium, ou urates d'ammonium. Les phosphates, oxalates et urates sont très communs.
 Plus rarement, d'autres cristaux sont retrouvés anormalement dans les urines.
 La détermination du pH urinaire est donc un préalable nécessaire à l'analyse des cristaux urinaires. Le plus souvent elle peut être effectuée à l'aide de bandelettes réactives.
-L'étude des cristaux sera d'autant plus facilitée que l'on pourra disposer de filtres polarisants.
+L'étude des cristaux sera d'autant plus facilitée que l'on pourra disposer de filtres polarisants."
+---
+
 ## I. Matériel et méthode 
 ### Matériel
 - Microscope avec objectifs 10x et 40x. 

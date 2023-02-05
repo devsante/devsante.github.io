@@ -2,9 +2,9 @@
 title: "Diagnostic des nématodes"
 author: "Patrice Bourée Unité des Maladies Parasitaires et Tropicales, Hôpital Bicêtre, Paris"
 date: "2007-10-18"
+teaser: "Les nématodes sont des helminthes très fréquents dans le monde, et particulièrement en zone tropicale. Parmi les parasitoses intestinales, six nématodoses sont fréquentes, dont 4 sont cosmopolites (oxyures, ascaris, trichocéphale, trichine) et 2 sont exclusivement tropicales (ankylostome, anguillules)."
 ---
 
-Les nématodes sont des helminthes très fréquents dans le monde, et particulièrement en zone tropicale. Parmi les parasitoses intestinales, six nématodoses sont fréquentes, dont 4 sont cosmopolites (oxyures, ascaris, trichocéphale, trichine) et 2 sont exclusivement tropicales (ankylostome, anguillules).
 ## I. Oxyurose
 
 Les oxyures (Enterobius vermicularis) sont des petits vers blancs d’environ 1 cm de long ( figure 1). Les vers femelles, situés dans le caecum, migrent vers  l’anus pour pondre. Les œufs émis, contenant les embryons, sont  directement  infestants.

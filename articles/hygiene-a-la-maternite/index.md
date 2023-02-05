@@ -2,9 +2,7 @@
 title: "Hygiène à la maternité"
 author: "Par Catherine Dupeyron* et Philippe Reinert** * Biologiste, Créteil, **Pédiatre, Créteil, France."
 date: "2010-12-03"
----
-
-La hantise des infections nosocomiales et des accidents d'exposition au sang explique la nécessité absolue d'une hygiène des plus rigoureuses dans les divers secteurs de la maternité, tous à haut risque.
+teaser: "La hantise des infections nosocomiales et des accidents d'exposition au sang explique la nécessité absolue d'une hygiène des plus rigoureuses dans les divers secteurs de la maternité, tous à haut risque.
 
 En effet, le nouveau-né, et encore plus le prématuré, a des faibles moyens de défense contre les infections :
 
@@ -13,7 +11,9 @@ En effet, le nouveau-né, et encore plus le prématuré, a des faibles moyens de
 *   L'immaturité immunologique enfin, au niveau des muqueuses respiratoires et digestives, est la cause de l'importante mortalité périnatale par infections pulmonaires ou digestives : d'où la règle d'or de débuter l'allaitement au sein le plus tôt possible.
 
 En maternité, les infections nosocomiales ont la même définition que dans les autres secteurs : elles recouvrent un vaste champ, allant pour la mère de l'infection urinaire à l'endométrite, voire au choc septique ; pour le nouveau-né, il peut s'agir d'une conjonctivite, d'une infection cutanée, d'une omphalite, voire d'une infection générale ou d'une entérocolite.  
-La difficulté est de faire la part de la transmission materno-foetale et de l'acquisition post-natale du germe.
+La difficulté est de faire la part de la transmission materno-foetale et de l'acquisition post-natale du germe."
+---
+
 ## En pratique  
 I. Réduire la transmission manuportée par un lavage des mains
 

@@ -2,10 +2,10 @@
 title: "Anesthésie chez un malade porteur d'une drépanocytose"
 author: "Christophe Denantes et Hanane Chikhaoui Anesthésistes-réanimateurs, Hôpital Avicenne - Bobigny, France"
 date: "2006-12-10"
+teaser: "Le risque de l'anesthésie chez le patient drépanocytaire est lié à l'anémie,  aux complications aiguës les plus fréquentes que sont la crise douloureuse drépanocytaire et l'infection,  aux complications dégénératives en rapport avec les atteintes viscérales multiples qui caractérisent l'évolution de la maladie.  
+Les impératifs anesthésiques sont la correction de l'anémie, le maintien de la volémie, de la température et de l'oxygénation, le traitement de la douleur et de l'infection."
 ---
 
-Le risque de l'anesthésie chez le patient drépanocytaire est lié à l'anémie,  aux complications aiguës les plus fréquentes que sont la crise douloureuse drépanocytaire et l'infection,  aux complications dégénératives en rapport avec les atteintes viscérales multiples qui caractérisent l'évolution de la maladie.  
-Les impératifs anesthésiques sont la correction de l'anémie, le maintien de la volémie, de la température et de l'oxygénation, le traitement de la douleur et de l'infection.
 **Cet article a été mis à jour, pour le consulter cliquer ici** <https://devsante.org/articles/anesthesie-chez-un-patient-drpanocytaire#teaser>
 
 ## **I. Rappel sur la drépanocytose**

@@ -2,14 +2,14 @@
 title: "Conduite à tenir devant un choc septique"
 author: "Dr. Dramane Goïta*, Pr. Youssouf Coulibaly*, Dr. Mohamed Keita*, Dr. Djeneba Doumbia*, Pr. Abdoulaye Diallo ** Médecins anesthésistes-réanimateurs * Hôpital du Point G, Bamako, Mali. **Hôpital Gabriel Touré, Bamako, Mali."
 date: "2008-01-28"
----
-
-Le choc septique constitue une urgence thérapeutique. L'examen clinique est une étape essen­tielle dont la qualité conditionne la prise en charge. Il doit être divisé en deux étapes distinctes :
+teaser: "Le choc septique constitue une urgence thérapeutique. L'examen clinique est une étape essen­tielle dont la qualité conditionne la prise en charge. Il doit être divisé en deux étapes distinctes :
 
 *   reconnaissance du choc, évaluation de sa sévérité et évocation de l'étiologie septique, ce qui permet de conduire dès l'admission le traitement symptomatique ;
 *   recherche minutieuse du foyer infectieux.
 
-L'examen du patient,organe après organe, permet le plus souvent de localiser le foyer infectieux et de débuter immédiatement le traitement, augmentant ainsi la probabilité d'être efficace d'emblée. L'étiologie la plus fréquente de l'état de choc fébrile est le choc d'origine infectieuse ou choc septique.
+L'examen du patient,organe après organe, permet le plus souvent de localiser le foyer infectieux et de débuter immédiatement le traitement, augmentant ainsi la probabilité d'être efficace d'emblée. L'étiologie la plus fréquente de l'état de choc fébrile est le choc d'origine infectieuse ou choc septique."
+---
+
 ## I. Définition
 
 Véritable urgence médicale, le choc septique est une insuffisance circulatoire aiguë repré­sentant la réponse systémique de l'organisme . à la présence de micro-organismes, et carac­térisée par une pression artérielle systolique inférieure à 90 mmHg malgré une expansion volémique adéquate, associée à des dysfonc­tions d'organes.

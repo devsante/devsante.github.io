@@ -2,9 +2,9 @@
 title: "Complications médicales, obstétricales et psychologiques des mutilations sexuelles féminines"
 author: "Béatrice Cuzin Chirurgien, urologue, sexologue, Lyon, France"
 date: "2014-06-11"
+teaser: "Les mutilations génitales féminines (MGF) consistent en l’ablation partielle ou totale des organes génitaux externes ou toute autre lésion pratiquée pour des raisons non médicales. Entre 100 et 140 millions de jeunes filles et de femmes ont subi ces MGF, essentiellement en Afrique et en Asie, et trois millions de jeunes filles sont à risque chaque année (1)."
 ---
 
-Les mutilations génitales féminines (MGF) consistent en l’ablation partielle ou totale des organes génitaux externes ou toute autre lésion pratiquée pour des raisons non médicales. Entre 100 et 140 millions de jeunes filles et de femmes ont subi ces MGF, essentiellement en Afrique et en Asie, et trois millions de jeunes filles sont à risque chaque année (1).
 L’Organisation Mondiale de la Santé (1) a classé les mutilations sexuelles féminines en quatre catégories :
 
 *   Type I : ablation partielle ou totale du clitoris et/ou du prépuce (le type Ia, l’ablation du capuchon du clitoris/prépuce seulement, semble rare et est généralement effectué dans un contexte médical plutôt que traditionnel).

@@ -2,10 +2,10 @@
 title: "Prise en soin des plaies dans le contexte togolais"
 author: "Vincent Kokou KOUAMI, Infirmier en Service de chirurgie du CHU-Kara, formateur à l’Ecole Nationale des Auxiliaires Médicaux (ENAM) de Kara, (Togo) Louise FOREST-LALANDE, Inf. M. Éd., stomathérapeute et infirmière clinicienne spécialisée (Canada) SIDIIEF"
 date: "2015-01-29"
+teaser: "Au Togo, la prise en soin adéquate des plaies est confrontée à des difficultés en termes de représentations locales de la maladie, d’insuffisances thérapeutiques en lien avec le développement des compétences infirmières en la matière, d’environnements précaires de soins et de déficit de moyens. Les conséquences se traduisent en longues durées d’hospitalisation, décès multiples, échecs de traitement et invalidités. L’absence même d’études statuant sur la situation au Togo et de statistiques sur les différents cas rencontrés ainsi que leurs variations, note le peu d’intérêt consacré à la question.  
+Cet article est pour nous l'occasion de partager notre expérience des actions infirmières pour la prise en soin des plaies dans le contexte togolais, dans un souci d’enrichissement et afin de contribuer à donner à nos populations plus de moyens pour maîtriser leur santé."
 ---
 
-Au Togo, la prise en soin adéquate des plaies est confrontée à des difficultés en termes de représentations locales de la maladie, d’insuffisances thérapeutiques en lien avec le développement des compétences infirmières en la matière, d’environnements précaires de soins et de déficit de moyens. Les conséquences se traduisent en longues durées d’hospitalisation, décès multiples, échecs de traitement et invalidités. L’absence même d’études statuant sur la situation au Togo et de statistiques sur les différents cas rencontrés ainsi que leurs variations, note le peu d’intérêt consacré à la question.  
-Cet article est pour nous l'occasion de partager notre expérience des actions infirmières pour la prise en soin des plaies dans le contexte togolais, dans un souci d’enrichissement et afin de contribuer à donner à nos populations plus de moyens pour maîtriser leur santé.
 ##  I. Les plaies
 
 ### 1. Les plaies aiguës

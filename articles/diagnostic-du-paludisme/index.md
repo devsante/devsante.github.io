@@ -2,11 +2,11 @@
 title: "Diagnostic du paludisme"
 author: "Anne-Marie Deluol, H. Levillayer, jean-Louis Poirot Hôpital Saint-Antoine, Paris."
 date: "1998-12-02"
+teaser: "Le paludisme reste un des principaux problèmes de santé dans le monde. Même si des approches existent sur le plan vaccinai, son éradication ne sera probablement pas possible dans un avenir proche. Du point de vue thérapeutique, des molécules nouvelles ont été élaborées et d'autres seront nécessaires en raison des résistances qui s'installent.  
+Parallèlement à ces développements, des avancées existent également sur le plan diagnostique et il est important de préciser la place actuelle de chacune des nouvelles possibilités.  
+Cependant, l'examen microscopique d'un frottis mince et/ou d'une goutte épaisse colorée par le Giemsa est bien souvent la seule technique à notre disposition et demeure la référence pour l'évaluation des nouvelles méthodes diagnostiques apparues au cours de la dernière décennie."
 ---
 
-Le paludisme reste un des principaux problèmes de santé dans le monde. Même si des approches existent sur le plan vaccinai, son éradication ne sera probablement pas possible dans un avenir proche. Du point de vue thérapeutique, des molécules nouvelles ont été élaborées et d'autres seront nécessaires en raison des résistances qui s'installent.  
-Parallèlement à ces développements, des avancées existent également sur le plan diagnostique et il est important de préciser la place actuelle de chacune des nouvelles possibilités.  
-Cependant, l'examen microscopique d'un frottis mince et/ou d'une goutte épaisse colorée par le Giemsa est bien souvent la seule technique à notre disposition et demeure la référence pour l'évaluation des nouvelles méthodes diagnostiques apparues au cours de la dernière décennie.
 ## I. Diagnostic microscopique classique : frottis, goutte épaisse
 
 Ils permettent d'établir un diagnostic d'espèce en ne nécessitant qu'un microscope optique et des colorants d'un coût modéré. La qualité du résultat dépend cependant beaucoup de l'expérience de la personne réalisant cet examen.

@@ -2,9 +2,7 @@
 title: "Physiologie de l'hémostase"
 author: "Françoise Balédent Biologiste, Centre Hospitalier de Saint-Denis, 93205, France."
 date: "2001-08-14"
----
-
-La survenue d'une plaie vasculaire entraîne immédiatement une réaction de défense de l'organisme, visant à lutter contre le saignement.
+teaser: "La survenue d'une plaie vasculaire entraîne immédiatement une réaction de défense de l'organisme, visant à lutter contre le saignement.
 
 Si la plaie est peu importante, au niveau de petits vaisseaux, cette réaction peut suffire pour arrêter une hémorragie. Dans d'autres cas, section d'une artère ou d'une veine de gros calibre, la réaction est insuffisante et seule la suture du vaisseau peut arrêter l'hémorragie.
 
@@ -12,7 +10,9 @@ L'hémostase comprend classiquement plusieurs étapes qui sont en fait étroitem
 
 *   l'hémostase primaire comportant deux temps : un temps vasculaire et un temps plaquettaire,
 *   la coagulation plasmatique aboutissant à la formation d'un caillot de fibrine insoluble,
-*   la fibrinolyse qui permet la dissolution du caillot de fibrine lorsque la plaie est cicatrisée.
+*   la fibrinolyse qui permet la dissolution du caillot de fibrine lorsque la plaie est cicatrisée."
+---
+
 ## I. Hémostase primaire _(figure 1)_
 
 Au cours de cette étape interviennent le vaisseau, en particulier la paroi vasculaire, les plaquettes et au moins deux protéines plasmatiques : le facteur Willebrand et le fibrinogène, ces deux protéines étant également présentes à l'intérieur des plaquettes.

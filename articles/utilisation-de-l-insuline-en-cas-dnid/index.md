@@ -2,14 +2,14 @@
 title: "Utilisation de l'insuline en cas DNID"
 author: "Olivier Bismuth Médecin généraliste, Thiais, France. (D'après un diaporama de C.Richard et G.Reumont)"
 date: "2009-08-11"
----
-
-L'insuline, découverte dans les années 1920, a sauvé la vie de nombreux patients, mais elle a malheureusement une mauvaise réputation chez les diabétiques non insulino-dépendants. Elle est assimilée a un traitement palliatif de fin de vie, annonçant une mort prochaine. On a tous entendu "ah non, je ne veux pas d'insuline, ma mère en a eu et elle est morte ensuite". Cette représentation négative auprès de nombreux diabétiques nuit a son utilisation. Elle est très mal acceptée en raison de la dépendance liée aux injections quotidiennes, parfois douloureuses. La survenue d'effets indésirables, comme les accidents hypoglycémiques ou la prise de poids, contribue à ce rejet.  
+teaser: "L'insuline, découverte dans les années 1920, a sauvé la vie de nombreux patients, mais elle a malheureusement une mauvaise réputation chez les diabétiques non insulino-dépendants. Elle est assimilée a un traitement palliatif de fin de vie, annonçant une mort prochaine. On a tous entendu \"ah non, je ne veux pas d'insuline, ma mère en a eu et elle est morte ensuite\". Cette représentation négative auprès de nombreux diabétiques nuit a son utilisation. Elle est très mal acceptée en raison de la dépendance liée aux injections quotidiennes, parfois douloureuses. La survenue d'effets indésirables, comme les accidents hypoglycémiques ou la prise de poids, contribue à ce rejet.  
 Cependant, depuis une quinzaine d'années, des progrès notables ont été réalisés.
 
-D'une part, grâce à l'amélioration des produits : aiguilles plus fines et plus courtes rendant les injections quasiment indolores, mise sur le marché d'insulines nouvelles - les "analogues lents" - de prescription et d'utilisation plus faciles.
+D'une part, grâce à l'amélioration des produits : aiguilles plus fines et plus courtes rendant les injections quasiment indolores, mise sur le marché d'insulines nouvelles - les \"analogues lents\" - de prescription et d'utilisation plus faciles.
 
-D'autre part, les efforts d'information des diabétiques - par les soignants, les patients eux-mêmes et surtout les associations de diabétiques, dont il faut saluer les efforts - ont amélioré l'image de ce médicament. Cependant, le traitement peut-être dangereux si l'on ne peut pas surveiller régulièrement la glycémie (lecteur de glycémie laboratoire...).
+D'autre part, les efforts d'information des diabétiques - par les soignants, les patients eux-mêmes et surtout les associations de diabétiques, dont il faut saluer les efforts - ont amélioré l'image de ce médicament. Cependant, le traitement peut-être dangereux si l'on ne peut pas surveiller régulièrement la glycémie (lecteur de glycémie laboratoire...)."
+---
+
 ## I. Quand envisager l'utilisation de l'insuline chez un diabétique non insulinodépendant
 
 ### Lors de l'échec de la bithérapie aux doses optimales

@@ -2,12 +2,12 @@
 title: "La maladie ulcéreuse gastro-duodénale"
 author: "Lotfi Fandi Médecin, hôpital de Provins, France."
 date: "2000-06-02"
----
-
-La maladie ulcéreuse gastro-duodénale est une affection universelle, sa prévalence est estimée à 10 % de la population adulte dans le monde. Elle englobe en fait deux entités :
+teaser: "La maladie ulcéreuse gastro-duodénale est une affection universelle, sa prévalence est estimée à 10 % de la population adulte dans le monde. Elle englobe en fait deux entités :
 
 *   L'ulcère gastro-duodénal chronique caractérisé par son profil évolutif marqué par des rechutes fréquentes et son histologie, appelé encore maladie de Cruveilhier et associé dans la grande majorité des cas à une infection par _Helicobacter pylori_ (Hp).
-*   L'ulcère gastrique ou duodénal aigu lié à la prise de médicaments gastrotoxiques.
+*   L'ulcère gastrique ou duodénal aigu lié à la prise de médicaments gastrotoxiques."
+---
+
 L'ulcère duodénal est plus fréquent que l'ulcère gastrique.  
 La maladie ulcéreuse est plus fréquente chez l'homme que chez la femme avec un ratio de 4/1 pour l'ulcère duodénal et 2/1 pour l'ulcère gastrique.  
 L'ulcère gastrique justifie une surveillance histo-endoscopique stricte.  

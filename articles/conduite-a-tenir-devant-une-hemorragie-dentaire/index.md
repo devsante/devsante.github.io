@@ -2,11 +2,11 @@
 title: "Conduite à tenir devant une hémorragie dentaire"
 author: "Nadia Kessi Stomatologue, Attaché aux hôpitaux de Paris, France."
 date: "1999-04-03"
+teaser: "Une hémorragie dentaire est une urgence vraie qui nécessite une prise en charge rapide.
+
+C'est également une urgence assez fréquente dans les services hospitaliers pendant la nuit."
 ---
 
-Une hémorragie dentaire est une urgence vraie qui nécessite une prise en charge rapide.
-
-C'est également une urgence assez fréquente dans les services hospitaliers pendant la nuit.
 ## **I.** Examen du malade
 
 *   État général du patient : prise de tension artérielle, faciès état fébrile, aspect des yeux et des lèvres, asthénie.

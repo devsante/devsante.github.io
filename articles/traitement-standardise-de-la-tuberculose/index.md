@@ -2,9 +2,7 @@
 title: "Traitement standardisé de la tuberculose"
 author: "Jean-Loup Rey"
 date: "2008-08-03"
----
-
-Pour tout le monde (médecins, infirmiers et malades), il s'agit de traitements standardisés au niveau mondial avec des régimes qui ont été rigoureusement évalués.
+teaser: "Pour tout le monde (médecins, infirmiers et malades), il s'agit de traitements standardisés au niveau mondial avec des régimes qui ont été rigoureusement évalués.
 
 L'objectif de ce traitement standardisé est de :
 
@@ -12,7 +10,9 @@ L'objectif de ce traitement standardisé est de :
 *   Prévenir le décès ou les complications.
 *   Prévenir les rechutes.
 *   Eviter l'apparition de résistances.
-*   Diminuer la transmission des BK à d'autres sujets.
+*   Diminuer la transmission des BK à d'autres sujets."
+---
+
 D'après TB/HIV : A Clinical Manual, WHO Genève 2004, 2° Edition.  
 
 Pour la première ligne de traitement cinq (5) antituberculeux sont disponibles : voir tableau sui­vant (dans le cadre du VI,H nous ne parlerons pas de la thiacétazone qui doit être abandonnée).  

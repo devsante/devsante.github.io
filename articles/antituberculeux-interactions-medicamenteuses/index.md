@@ -1,9 +1,9 @@
 ---
 title: "Antituberculeux : interactions médicamenteuses"
 date: "2008-07-04"
+teaser: "La plupart des médicaments antituberculeux interagissent avec d'autres médicaments sou­vent prescrits, pouvant diminuer où augmenter les taux sériques donc l'activité de ces der­niers. Il est donc très important de connaître ces interactions."
 ---
 
-La plupart des médicaments antituberculeux interagissent avec d'autres médicaments sou­vent prescrits, pouvant diminuer où augmenter les taux sériques donc l'activité de ces der­niers. Il est donc très important de connaître ces interactions.
 ## 1. Rifampicine
 
 C'est un inducteur de plusieurs enzymes hépa­tiques qui dégradent certains médicaments. Cet effet inducteur apparaît dès la dose de 600 mg/jour au bout de quelques jours. Cet effet persiste 1 à 4 semaines après l'arrêt du traitement.

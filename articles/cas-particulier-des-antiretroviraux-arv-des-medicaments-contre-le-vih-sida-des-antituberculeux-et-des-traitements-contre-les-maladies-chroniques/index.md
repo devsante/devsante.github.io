@@ -1,9 +1,9 @@
 ---
 title: "Cas particulier des antirétroviraux (ARV), des médicaments contre le VIH/SIDA, des antituberculeux et des traitements contre les maladies chroniques"
 date: "2007-06-23"
+teaser: "Les recommandations qui suivent s'attachent particulièrement aux ARV mais peuvent être trans­posées à tous les médicaments de prophylaxie du VIH/SIDA et tous les traitements des maladies chroniques (hypertension, diabète, cancers, asthme). Pour la tuberculose ou la lèpre, il faudra procéder de même jusqu'à la guérison."
 ---
 
-Les recommandations qui suivent s'attachent particulièrement aux ARV mais peuvent être trans­posées à tous les médicaments de prophylaxie du VIH/SIDA et tous les traitements des maladies chroniques (hypertension, diabète, cancers, asthme). Pour la tuberculose ou la lèpre, il faudra procéder de même jusqu'à la guérison.
 ## I. Gestion
 
 Les règles de base de gestion de la pharmacie sont applicables à tous les médicaments (connaître l'état du stock à chaque instant ; déclencher, passer, suivre et réceptionner une commande ; valider le stock théorique par un inventaire...) mais des règles de gestion spéci­fique s'appliquent aux médicaments ARV, car :

@@ -2,11 +2,11 @@
 title: "Sauvetage vasculaire des membres en traumatologie"
 author: "Bruno Tremblay* et Frédéric Gigou** * Service de Chirurgie vasculaire et thoracique, Hôpital Avicenne, Bobigny. ** Service de Chirurgie vasculaire, Centre Hospitalier de Meaux."
 date: "1998-08-14"
+teaser: "Les traumatismes graves des membres peuvent être associés à des lésions de leurs vaisseaux (schéma n° 1) : ces lésions artérielles et/ou veineuses peuvent aboutir à l'occlusion immédiate ou retardée, ou être associées à une hémorragie. Les lésions des parties molles peuvent exposer l'axe vasculaire. La revascularisation sur un membre ischémique entraîne des problèmes généraux et locaux dont la gestion est d'autant plus lourde que les masses musculaires intéressées sont importantes.
+
+Les axes de la stratégie de prise en charge de ce type de patient sur le plan vasculaire tout au long de l'évolution seront marqués par ces trois préoccupations : assurer la continuité des axes vasculaires, lutter contre les conséquences de l'oedème de revascularisation, maintenir couverts les axes vasculo-nerveux."
 ---
 
-Les traumatismes graves des membres peuvent être associés à des lésions de leurs vaisseaux (schéma n° 1) : ces lésions artérielles et/ou veineuses peuvent aboutir à l'occlusion immédiate ou retardée, ou être associées à une hémorragie. Les lésions des parties molles peuvent exposer l'axe vasculaire. La revascularisation sur un membre ischémique entraîne des problèmes généraux et locaux dont la gestion est d'autant plus lourde que les masses musculaires intéressées sont importantes.
-
-Les axes de la stratégie de prise en charge de ce type de patient sur le plan vasculaire tout au long de l'évolution seront marqués par ces trois préoccupations : assurer la continuité des axes vasculaires, lutter contre les conséquences de l'oedème de revascularisation, maintenir couverts les axes vasculo-nerveux.
 **Deux tableaux doivent être individualisés :**
 
 *   _Le délabrement de membre_ _est isolé et_ _le pronostic fonctionnel est au premier plan_. Si le délabrement et l'ischémie de membre sont notables, le pronostic vital peut progressivement être mis en jeu et il ne faut pas laisser passer l'heure de l'amputation, au terme d'une évaluation régulière. Le pronostic fonctionnel est lié lui-même à l'importance des lésions locales associées (nerfs, peau, muscles) qui peuvent aussi conduire à une amputation.

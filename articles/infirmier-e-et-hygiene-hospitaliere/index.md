@@ -2,12 +2,12 @@
 title: "Infirmier(e) et hygiène hospitalière"
 author: "Aline Christiany Infirmière - Hôpital Saint-Antoine - Service du Pr. Girard - Maladies infectieuses et tropicales - Paris"
 date: "2003-12-14"
----
-
-La prise en charge infirmière des personnes vivant avec le VIH (PVVIH) nécessite un certain nombre de règles d'hygiène et d'asepsie favorisant ainsi la dispensation de soins spécifiques :
+teaser: "La prise en charge infirmière des personnes vivant avec le VIH (PVVIH) nécessite un certain nombre de règles d'hygiène et d'asepsie favorisant ainsi la dispensation de soins spécifiques :
 
 *   sur prescription médicale : prélèvements, injections, dispensation des médicaments antirétroviraux, pansements, soins de cathéter central, surveillance des constantes...
-*   relevant du rôle propre infirmier : hygiène (toilette, soins de bouche, bains de pieds...), éducation du patient (pathologie, traitements...).
+*   relevant du rôle propre infirmier : hygiène (toilette, soins de bouche, bains de pieds...), éducation du patient (pathologie, traitements...)."
+---
+
 ## I. Le lavage simple des mains
 
 C'est un lavage au savon doux. Son but est de réduire la flore transitoirement par une action mécanique détergente. Sa durée totale est de 30 secondes. Il est réalisé avant et après chaque soin.

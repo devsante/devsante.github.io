@@ -2,9 +2,9 @@
 title: "La coqueluche"
 author: "Marie-Hélène Akou'ou* et Philippe Reinert** * Interne en pédiatrie, hôpital intercommunal de Créteil, France. ** Pédiatre, hôpital intercommunal de Créteil, France.  "
 date: "1999-06-06"
+teaser: "La coqueluche, malgré la vaccination, reste une pathologie cosmopolite. Sa fréquence est particulièrement élevée dans les pays en développement. Il s'agit d'une pathologie extrêmement contagieuse. Il est important de renforcer l'effort vaccinai auprès des jeunes nourrissons et d'effectuer les rappels vaccinaux chez les grands enfants."
 ---
 
-La coqueluche, malgré la vaccination, reste une pathologie cosmopolite. Sa fréquence est particulièrement élevée dans les pays en développement. Il s'agit d'une pathologie extrêmement contagieuse. Il est important de renforcer l'effort vaccinai auprès des jeunes nourrissons et d'effectuer les rappels vaccinaux chez les grands enfants.
 ## I. Épidémiologie
 
 La transmission de la maladie est strictement interhumaine, par voie aérienne au contact d'un sujet qui tousse, par l'intermédiaire de gouttelettes de Pflügge.

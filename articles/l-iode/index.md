@@ -2,11 +2,11 @@
 title: "L'iode"
 author: "Philippe Reinert Pédiatre, Hôpital intercommunal de Créteil, France."
 date: "2001-04-01"
+teaser: "L'iode est présent dans le corps humain en très faible quantité (15 à 20 mg chez l'adulte). Son seul rôle est de constituer un élément indispensable à la synthèse des hormones thyroïdiennes qui interviennent dans le métabolisme cellulaire, dans la croissance et en particulier dans la maturation du cerveau.
+
+Un déficit en iode (ou en hormone thyroïdienne) aura pour conséquences un ralentissement des fonctions métaboliques cellulaires, mais surtout une altération du développement intellectuel. Le déficit en iode est un problème de santé publique qui concerne 1 milliard et demi d'individus dans le monde, dont 20 millions ont un retard mental. Plusieurs études ont suggéré que la mortalité infantile est plus élevée en cas de déficit en iode dans une population et la supplémentation en iode du nourrisson déficient a été associée à une réduction de la mortalité. A l'inverse, un excès d'apport en iode s'accompagne d'augmentation de la morbidité thyroïdienne : hyperthyroïdie, hypothyroïdie, goitre, thyroïdite auto immune."
 ---
 
-L'iode est présent dans le corps humain en très faible quantité (15 à 20 mg chez l'adulte). Son seul rôle est de constituer un élément indispensable à la synthèse des hormones thyroïdiennes qui interviennent dans le métabolisme cellulaire, dans la croissance et en particulier dans la maturation du cerveau.
-
-Un déficit en iode (ou en hormone thyroïdienne) aura pour conséquences un ralentissement des fonctions métaboliques cellulaires, mais surtout une altération du développement intellectuel. Le déficit en iode est un problème de santé publique qui concerne 1 milliard et demi d'individus dans le monde, dont 20 millions ont un retard mental. Plusieurs études ont suggéré que la mortalité infantile est plus élevée en cas de déficit en iode dans une population et la supplémentation en iode du nourrisson déficient a été associée à une réduction de la mortalité. A l'inverse, un excès d'apport en iode s'accompagne d'augmentation de la morbidité thyroïdienne : hyperthyroïdie, hypothyroïdie, goitre, thyroïdite auto immune.
 ## I. Cycle de l'iode dans la nature et source de l'iode pour l'homme
 
 L'eau de mer est le réservoir terrestre de l'iode à la surface du globe. La teneur en iode de l'atmosphère et de l'eau de pluie diminue en s'éloignant des côtes. L'iode présent dans le sol est entraîné vers les rivières par les eaux de ruissellement et les fontes glacières. Les régions les plus pauvres en iode sont donc les zones montagneuses et les régions éloignées des océans.

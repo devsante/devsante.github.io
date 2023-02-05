@@ -1,15 +1,15 @@
 ---
 title: "Prise en charge de la douleur chez les patients VIH +"
 date: "2006-11-05"
----
-
-Selon le rapport 2004 de l'ONUSIDA relatif à l'épidémie de SIDA, plus de 50 % des personnes HIV+ souffriraient de douleurs au cours de la maladie.
+teaser: "Selon le rapport 2004 de l'ONUSIDA relatif à l'épidémie de SIDA, plus de 50 % des personnes HIV+ souffriraient de douleurs au cours de la maladie.
 
 Les douleurs peuvent être en lien avec les pathologies opportunistes, ou en lien avec le VIH lui-même.
 
 La gestion de la douleur constitue une priorité dans la prise en charge globale d'un patient VIH+. Du fait de son caractère subjectif la douleur est parfois difficile à évaluer, en effet, elle est un signe clinique que l'infirmier ne peut pas voir. C'est pourquoi, dans le but d'objectiver la douleur, il est nécessaire pour l'infirmier de posséder des outils d'évaluation standardisés.
 
-**L'infirmier doit évaluer la douleur pour proposer une réponse thérapeutique adaptée au malade.**
+**L'infirmier doit évaluer la douleur pour proposer une réponse thérapeutique adaptée au malade.**"
+---
+
 ## I. Evaluation de la douleur
 
 Evaluer = mesurer

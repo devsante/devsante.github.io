@@ -2,11 +2,11 @@
 title: "Mesure de la pression artérielle"
 author: "Gorette Dos Santos Médecin généraliste."
 date: "2006-03-17"
+teaser: "La mesure de la pression artérielle constitue très vraisemblablement l'un des gestes les plus pratiqués en clinique quotidienne. Sa réalisation permet une appréciation globale de l'hémody­namique cardio-vasculaire et constitue l'élément de référence pour le dépistage et la prise en charge de l'hypertension artérielle. À des chiffres tensionnels élevés correspondent une plus grande morbidité et mortalité cardio-vasculaire.
+
+La mesure de la pression artérielle par la méthode auscultatoire reste la méthode de référence internationale. Cependant, malgré son caractère simple et pratique, elle reste entachée de nom­breuses causes d'erreurs. Nous aborderons quelques points susceptibles d'améliorer la fiabilité et la reproductibilité des chiffres tensionnels, afin d'éviter de porter un faux diagnostic très lourd de conséquences (traitement pendant plusieurs années)."
 ---
 
-La mesure de la pression artérielle constitue très vraisemblablement l'un des gestes les plus pratiqués en clinique quotidienne. Sa réalisation permet une appréciation globale de l'hémody­namique cardio-vasculaire et constitue l'élément de référence pour le dépistage et la prise en charge de l'hypertension artérielle. À des chiffres tensionnels élevés correspondent une plus grande morbidité et mortalité cardio-vasculaire.
-
-La mesure de la pression artérielle par la méthode auscultatoire reste la méthode de référence internationale. Cependant, malgré son caractère simple et pratique, elle reste entachée de nom­breuses causes d'erreurs. Nous aborderons quelques points susceptibles d'améliorer la fiabilité et la reproductibilité des chiffres tensionnels, afin d'éviter de porter un faux diagnostic très lourd de conséquences (traitement pendant plusieurs années).
 ## I. Employer une technique de mesure rigoureuse
 
 En pratique clinique, la méthode utilisée est celle de l'auscultation, la méthode de la palpa­tion peut parfois rendre service.

@@ -2,9 +2,9 @@
 title: "Sténose hypertrophique du pylore chez le nourrisson : une urgence vitale"
 author: "Philippe Reinert, pédiatre, Créteil, France"
 date: "2017-04-30"
+teaser: "La sténose hypertrophique du pylore touche le nourrisson, entre 3 et 6 semaines. Sa fréquence est évaluée à 5/1000, avec une nette prédominance pour le garçon (4/1)."
 ---
 
-La sténose hypertrophique du pylore touche le nourrisson, entre 3 et 6 semaines. Sa fréquence est évaluée à 5/1000, avec une nette prédominance pour le garçon (4/1).
 Considérée comme plus rare en Afrique, une publication récente de Tanzanie a rapporté  102 cas en 5 ans !
 Non diagnostiquée, non opérée, elle conduit toujours à la mort par obstruction totale du transit digestif.
 L’intervention - pylorotomie extra-muqueuse - entraîne une guérison complète en quelques jours.

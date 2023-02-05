@@ -2,10 +2,10 @@
 title: "Crise d'asthme de l'enfant"
 author: "Dr. Sophie Jundt, pédiatre, France"
 date: "2008-01-27"
+teaser: "Il s'agit bien d'une urgence, plus ou moins grave selon les crises, et nécessitant toujours un traitement rapide.  
+Il faut d'abord en faire le diagnostic, puis en apprécier la gravité pour adapter le traitement, enfin mettre en oeuvre les différentes thérapeutiques."
 ---
 
-Il s'agit bien d'une urgence, plus ou moins grave selon les crises, et nécessitant toujours un traitement rapide.  
-Il faut d'abord en faire le diagnostic, puis en apprécier la gravité pour adapter le traitement, enfin mettre en oeuvre les différentes thérapeutiques.
 ## I. Reconnaître la crise
 
 ### 1. Chez le grand enfant

@@ -2,9 +2,7 @@
 title: "Les infections respiratoires de l'adulte (à l'exception de la tuberculose)"
 author: "Christian Mongin Médecin généraliste, Évry, France"
 date: "1991-08-01"
----
-
-Les infections respiratoires sont, en Afrique, très répandues. Leurs causes sont le plus souvent cosmopolites mais certaines d'entre-elles sont plus spécifiques (mycoses, parasitoses), d'autres prennent une importance de plus en plus grande avec l'extension du SIDA (tuberculose, pneumocystose).
+teaser: "Les infections respiratoires sont, en Afrique, très répandues. Leurs causes sont le plus souvent cosmopolites mais certaines d'entre-elles sont plus spécifiques (mycoses, parasitoses), d'autres prennent une importance de plus en plus grande avec l'extension du SIDA (tuberculose, pneumocystose).
 
 La pathologie respiratoire est encore du domaine de la clinique et la plupart des diagnostics peuvent être faits sans avoir recours à des investigations sophistiquées.
 
@@ -12,7 +10,9 @@ Nous verrons donc d'abord comment il est possible de parvenir à ces diagnostics
 
 Le tabac est un facteur favorisant l'éclosion de la plupart des infections respiratoires.
 
-Enfin, bien que cela ne soit pas le sujet de cet article, il faut devant tout signe pulmonaire penser à la tuberculose.
+Enfin, bien que cela ne soit pas le sujet de cet article, il faut devant tout signe pulmonaire penser à la tuberculose."
+---
+
 ## **I. Les syndromes**
 
 Les infections respiratoires varient selon :

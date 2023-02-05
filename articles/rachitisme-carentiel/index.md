@@ -2,13 +2,13 @@
 title: "Rachitisme carentiel"
 author: "Philippe Reinert Pédiatre, Hôpital intercommunal de Créteil, France."
 date: "2001-08-02"
----
-
-La carence en vitamine D entraîne chez l'enfant de moins de 5 ans, mais aussi chez l'adolescent, des déformations osseuses surtout aux membres inférieurs et, parfois, une hypocalcémie pouvant entraîner des convulsions.
+teaser: "La carence en vitamine D entraîne chez l'enfant de moins de 5 ans, mais aussi chez l'adolescent, des déformations osseuses surtout aux membres inférieurs et, parfois, une hypocalcémie pouvant entraîner des convulsions.
 
 Chez le nourrisson, elle entraîne aussi une hypotonie responsable d'un retard de la marche, voire d'un retard psychomoteur.
 
-Prévenir et traiter le rachitisme est facile et... peu coûteux !
+Prévenir et traiter le rachitisme est facile et... peu coûteux !"
+---
+
 ## I. Qu'est-ce que la vitamine D ?
 
 Vitamine ou hormone ? Le calciférol tient une place à part parmi les vitamines puisqu'il peut être :

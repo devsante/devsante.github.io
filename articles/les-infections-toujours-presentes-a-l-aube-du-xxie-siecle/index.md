@@ -2,9 +2,9 @@
 title: "Les infections toujours présentes à l'aube du XXIè siècle"
 author: "Philippe Reinert Pédiatre, hôpital intercommunal, Créteil, France"
 date: "1997-12-17"
+teaser: "À l'aube du XXIe siècle, malgré tous les progrès scientifiques de ces dernières années, les maladies infectieuses demeurent un problème majeur (rapport OMS 1996). En effet, si la variole a été éradiquée voici plus de dix ans, et si la poliomyélite et la lèpre sont en voie de disparition, les maladies infectieuses sont toujours la principale cause de mort prématurée dans le monde."
 ---
 
-À l'aube du XXIe siècle, malgré tous les progrès scientifiques de ces dernières années, les maladies infectieuses demeurent un problème majeur (rapport OMS 1996). En effet, si la variole a été éradiquée voici plus de dix ans, et si la poliomyélite et la lèpre sont en voie de disparition, les maladies infectieuses sont toujours la principale cause de mort prématurée dans le monde.
 Le combat contre l'infection devient de plus en plus difficile. Ainsi la tuberculose et le paludisme qui semblaient maîtrisés opèrent un retour en force. Le choléra et la fièvre jaune frappent des pays qui jusque là étaient à l'abri. D'autres maladies résistent maintenant aux antibiotiques et sont parfois devenues incurables.
 
 Enfin de nouvelles maladies voient le jour comme la fièvre hémorragique à virus Ebola (pour laquelle il n'existe aucun traitement), les pneumonies à Hantavirus. Ces grands fléaux ont un impact non seulement sur la santé humaine, mais sur le développement économique des pays.

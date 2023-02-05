@@ -2,9 +2,9 @@
 title: "Techniques de réhydratation chez l'enfant"
 author: "Marie-Claude Angélique"
 date: "1984-12-29"
+teaser: "Faire le choix d'une technique de réhydratation est un acte thérapeutique; ce geste implique que les avantages pour le petit patient soient supérieurs aux inconvénients qu'il faudra donc savoir évaluer préalablement."
 ---
 
-Faire le choix d'une technique de réhydratation est un acte thérapeutique; ce geste implique que les avantages pour le petit patient soient supérieurs aux inconvénients qu'il faudra donc savoir évaluer préalablement.
 On peut schématiquement considérer deux grands groupes:
 
 ## **A. La déshydratation légère ou modérée**

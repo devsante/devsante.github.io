@@ -2,9 +2,7 @@
 title: "Reconnaître les oeufs de cestodes dans les selles"
 author: "Anne-Marie Deluol Parasitologue"
 date: "2007-10-24"
----
-
-La mise en évidence des œufs se fera :
+teaser: "La mise en évidence des œufs se fera :
 
 *   2 à 3 mois après le repas infestant pour les tænia (_saginata_ et _solium_) et pour le bothriocéphale,
 *   15 à 20 jours après la contamination pour _Hymenolepis nana_.
@@ -13,7 +11,9 @@ L’examen parasitologique des selles comprendra :
 
 *   un examen direct,
 *   une recherche à l’aide des techniques de concentration  des selles classiques (Bailenger ou Ritchie par exemple),
-*   la technique de Willis donne de bons résultats pour la recherche des œufs d’_Hymenolepis nana_.
+*   la technique de Willis donne de bons résultats pour la recherche des œufs d’_Hymenolepis nana_."
+---
+
 ## I. _Tænia saginata_ et _tænia solium_
 
 ### Morphologie

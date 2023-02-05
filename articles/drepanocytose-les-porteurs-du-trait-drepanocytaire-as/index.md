@@ -2,11 +2,11 @@
 title: "Les porteurs du trait drépanocytaire AS"
 author: "Assa Niakaté, Aurélie Stanislas, Christelle Rémus, Robert Girot"
 date: "2019-01-10"
+teaser: "La drépanocytose est une maladie génétique de l’hémoglobine à transmission autosomique récessive due à la mutation S du gène de la β-globine. Il résulte de cette mutation la présence de l’hémoglobine S dans le globule rouge. La drépanocytose est une maladie génétique fréquente dans le monde. 
+L’Organisation Mondiale de la Santé estime à 230 000 le nombre d’enfants naissant chaque année atteints d’un syndrome drépanocytaire majeur.
+Le risque génétique auquel sont exposés les porteurs des traits AS ou AC de donner naissance à un enfant atteint d’un syndrome drépanocytaire majeur étant identique, nous considérons dans ce travail comme porteurs du trait les sujets soit AS, soit AC (AS/AC). Nous préciserons cependant dans le texte les considérations ne concernant que les porteurs du trait AS."
 ---
 
-La drépanocytose est une maladie génétique de l’hémoglobine à transmission autosomique récessive due à la mutation S du gène de la β-globine. Il résulte de cette mutation la présence de l’hémoglobine S dans le globule rouge. La drépanocytose est une maladie génétique fréquente dans le monde. 
-L’Organisation Mondiale de la Santé estime à 230 000 le nombre d’enfants naissant chaque année atteints d’un syndrome drépanocytaire majeur.
-Le risque génétique auquel sont exposés les porteurs des traits AS ou AC de donner naissance à un enfant atteint d’un syndrome drépanocytaire majeur étant identique, nous considérons dans ce travail comme porteurs du trait les sujets soit AS, soit AC (AS/AC). Nous préciserons cependant dans le texte les considérations ne concernant que les porteurs du trait AS.
 ## I. Les circonstances du dépistage des porteurs du trait AS/AC
 Elles sont nombreuses :
 - C’est encore trop fréquemment à l’occasion de la naissance d’un enfant atteint d’un syndrome drépanocytaire majeur que les parents apprennent qu’ils sont porteurs du trait. 
@@ -108,7 +108,7 @@ ou β-thalassémique :
 ### Conclusion 
 L’information des porteurs AS/AC occupe une place croissante dans les pratiques quotidiennes de nombreux professionnels de santé. Cette information est simple à délivrer dans la plupart des cas ; elle doit faire appel à des généticiens compétents dans le domaine du conseil génétique appliqué aux maladies génétiques de l’hémoglobine face à un couple exposé au risque de donner naissance à un enfant atteint d’un syndrome drépanocytaire majeur.
 
-**Pour tester vos connaissances sur le trait drépanocytaire AS, cliquez ici** :(link: https://docs.google.com/forms/d/1EpP_SvDkfWzx-dfeYZ4F1lZpYmFPo9QPmmgboB4xXvo/edit text: Quiz trait AS)
+**Pour tester vos connaissances sur le trait drépanocytaire AS, cliquez ici** :<a href="https://docs.google.com/forms/d/1EpP_SvDkfWzx-dfeYZ4F1lZpYmFPo9QPmmgboB4xXvo/edit" target="_blank" rel="noopener">Quiz trait AS</a>
 
 ***Bibliographie***
 - Naik RP, Haywood C Jr. Sickle cell disease trait diagnosis : clinical and social implications. *Hematology Am Soc Hematol Educ Program*, 2015 ; 2015 : 160-7.

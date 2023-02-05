@@ -2,9 +2,7 @@
 title: "Arrêt cardio-respiratoire chez l'enfant et l'adulte"
 author: "Dr Christophe Denantes Anesthésiste-réanimateur, hopital Avicenne, Bobigny, France"
 date: "2013-12-30"
----
-
-Les causes et la prise en charge de l'arrêt cardiaque de l'enfant et de l’adulte sont différentes. L'arrêt cardiaque de l'enfant (tableau 1) est le plus souvent la conséquence d'une hypoxie, et il s’agit dans plus de 75 % des cas d'une asystolie*. L'arrêt cardiaque de l'adulte est dans la grande majorité des cas la conséquence d’une ischémie coronarienne, et il s’agit dans plus de 40 % des cas d’une fibrillation ventriculaire* (FV).
+teaser: "Les causes et la prise en charge de l'arrêt cardiaque de l'enfant et de l’adulte sont différentes. L'arrêt cardiaque de l'enfant (tableau 1) est le plus souvent la conséquence d'une hypoxie, et il s’agit dans plus de 75 % des cas d'une asystolie*. L'arrêt cardiaque de l'adulte est dans la grande majorité des cas la conséquence d’une ischémie coronarienne, et il s’agit dans plus de 40 % des cas d’une fibrillation ventriculaire* (FV).
 
 Le pronostic à court et moyen termes de l'arrêt cardiaque est sombre. Les chances de survie des victimes d’arrêt cardiorespiratoire survenant hors de l’hôpital sont nulles en l’absence d’un témoin lors de l’arrêt cardiorespiratoire, de mise en oeuvre des gestes de survie par un témoin et de reprise d’une activité circulatoire spontanée avant le transport.
 
@@ -15,7 +13,9 @@ Le concept de “chaîne de survie” décrit les actions nécessaires pour amé
 *   l'alerte immédiate ;
 *   la réanimation cardiopulmonaire (RCP) de base ;
 *   la défibrillation précoce ;
-*   la réanimation médicalisée.
+*   la réanimation médicalisée."
+---
+
 Le pronostic à court et moyen terme de l'arrêt cardiaque est sombre. Les chances de survie des victimes d’arrêt cardiorespiratoire survenant hors de l’hôpital sont nulles en l’absence d’un témoin lors de l’arrêt cardiorespiratoire, de mise en œuvre des gestes de survie par un témoin et de reprise d’une activité circulatoire spontanée avant le transport.  
 Un effort important doit porter sur sa prévention, c'est-à-dire sur l'identification précoce des situations à risque.
 

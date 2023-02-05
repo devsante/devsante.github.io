@@ -2,9 +2,9 @@
 title: "Syndromes drépanocytaires et risque infectieux"
 author: "Brigitte Rétali, Béatrice Quinet"
 date: "2019-07-08"
+teaser: "Les enfants atteints de drépanocytose sont menacés en premier lieu par le risque infectieux qui représente l'une des principales causes de mortalité avant l'âge de 5 ans. En effet,  l’asplénie fonctionnelle  s’installe dès les premiers mois de vie et  expose à la survenue de pneumococcies mais aussi d' infections à *Haemophilus*,  salmonelles et méningocoque."
 ---
 
-Les enfants atteints de drépanocytose sont menacés en premier lieu par le risque infectieux qui représente l'une des principales causes de mortalité avant l'âge de 5 ans. En effet,  l’asplénie fonctionnelle  s’installe dès les premiers mois de vie et  expose à la survenue de pneumococcies mais aussi d' infections à *Haemophilus*,  salmonelles et méningocoque.
 L’asplénie fonctionnelle, liée à l’infarcissement splénique, diminue fortement la capacité du système immunitaire à lutter contre les bactéries circulantes et certains parasites. En outre, des anomalies du complément, des immunoglobulines, de la fonction leucocytaire et de l’immunité à médiation cellulaire ont été suggérées. 
 Les dégâts tissulaires et la nécrose osseuse sont aussi probablement des facteurs aggravant le risque de colonisation bactérienne. 
 

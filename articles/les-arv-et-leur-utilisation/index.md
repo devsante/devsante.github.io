@@ -2,11 +2,11 @@
 title: "Les ARV et leur utilisation"
 author: "Jean-Loup Rey ESTHER (Ensemble pour une Solidarité Thérapeutique Hospitalière En Réseau)"
 date: "2003-12-14"
+teaser: "Comme tous les virus, le VIH possède un cycle de vie qui lui permet de se reproduire en parasitant une cellule ; cette phase du cycle s'appelle la réplication (ou multiplication virale).
+
+Les anti rétroviraux (ARV) sont des médicaments qui bloquent le cycle du virus à différentes étapes essentielles de sa réplication."
 ---
 
-Comme tous les virus, le VIH possède un cycle de vie qui lui permet de se reproduire en parasitant une cellule ; cette phase du cycle s'appelle la réplication (ou multiplication virale).
-
-Les anti rétroviraux (ARV) sont des médicaments qui bloquent le cycle du virus à différentes étapes essentielles de sa réplication.
 ## I. Rappel physiopathologique
 
 Le virus, pour parasiter une cellule, doit reconnaître des récepteurs spécifiques qui sont situés au niveau de la membrane externe des cellules. Ce sont essentiellement le récepteur CD4, secondairement CD25 et autres.

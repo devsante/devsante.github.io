@@ -2,9 +2,9 @@
 title: "Infections de la main"
 author: "Arnaud Colom Chirurgien orthopédique, hôpital Avicenne, Bobigny, France."
 date: "2000-04-02"
+teaser: "Les infections de la main sont fréquentes et peuvent entraîner des séquelles fonctionnelles graves si elles sont négligées. On distingue les panaris et les phlegmons."
 ---
 
-Les infections de la main sont fréquentes et peuvent entraîner des séquelles fonctionnelles graves si elles sont négligées. On distingue les panaris et les phlegmons.
 ## I. Panaris
 
 Le panaris est défini par l'infection aiguë primitive de n'importe quelle partie constituante d'un doigt. il touche fréquemment le travailleur manuel. Il est souvent consécutif à des micro-traumatismes ou à des piqûres au niveau de zones particulièrement exposées.

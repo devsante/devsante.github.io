@@ -2,15 +2,15 @@
 title: "Prévention et traitement des diarrhées aiguës du nourrisson"
 author: "Bernard Lagardère, Pédiatre , Paris, France"
 date: "2009-10-07"
----
-
-Les diarrhées aiguës sont l'une des premières causes de mort des nourrissons dans le monde. Leur rôle considérable et les difficultés fréquentes du traitement curatif justifient des mesures (le prévention.
+teaser: "Les diarrhées aiguës sont l'une des premières causes de mort des nourrissons dans le monde. Leur rôle considérable et les difficultés fréquentes du traitement curatif justifient des mesures (le prévention.
 
 Trois buts doivent être visés :
 
 *   expliquer les causes des diarrhées et comment les combattre ;
 *   expliquer les éléments de protection de l'enfant contre les diarrhées graves et comment les favoriser ;
-*   expliquer les risques de la déshydratation et comment les contrôler.
+*   expliquer les risques de la déshydratation et comment les contrôler."
+---
+
 <table>
 
 <tbody>

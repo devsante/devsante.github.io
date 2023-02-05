@@ -2,9 +2,9 @@
 title: "Prise en charge de la douleur aiguë de l'adulte en urgence"
 author: "Dr. Michel Galinski SAMU 93 - EA 3409, Hôpital Avicenne, France. Centre National de Ressources de lutte contre la Douleur (CNRD), Hôpital Trousseau, Paris, France."
 date: "2008-01-22"
+teaser: "L'Association Internationale pour l'Étude de la Douleur (IASP) a donné une définition de la douleur : \"C'est une expérience sensorielle et émotionnelle désagréable liée à un dommage tissulaire réel ou potentiel ou décrite en ces termes\". La douleur aiguë est utile et protectrice car elle constitue un signal d'alarme et de sauvegarde de l'intégrité de l'organisme. Les objectifs de la prise en charge de la douleur sont : sa reconnaissance, un traitement adapté à son intensité, au patient et à la pathologie, la réévaluation systématique et régulière avec un outil reproductible permettant d'apprécier l'efficacité du traitement entrepris."
 ---
 
-L'Association Internationale pour l'Étude de la Douleur (IASP) a donné une définition de la douleur : "C'est une expérience sensorielle et émotionnelle désagréable liée à un dommage tissulaire réel ou potentiel ou décrite en ces termes". La douleur aiguë est utile et protectrice car elle constitue un signal d'alarme et de sauvegarde de l'intégrité de l'organisme. Les objectifs de la prise en charge de la douleur sont : sa reconnaissance, un traitement adapté à son intensité, au patient et à la pathologie, la réévaluation systématique et régulière avec un outil reproductible permettant d'apprécier l'efficacité du traitement entrepris.
 ## I. Évaluation de la douleur
 
 La première démarche est de demander au patient s'il a mal ou non. S'il s'agit d'un petit enfant (moins de 3 ans) ou d'une personne non communicante, on s'appuiera sur les symptômes présents et les signes comporte­mentaux.

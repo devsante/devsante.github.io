@@ -2,9 +2,9 @@
 title: "Abcès du foie"
 author: "Olivier Rogeaux Médecin, Centre hospitalier de Chambéry, France."
 date: "1994-06-05"
+teaser: "Les abcès du foie correspondent à la présence de pus collecté en une ou plusieurs poches à l'intérieur du foie. Ils peuvent être bactériens ou amibiens et sont plus fréquents en pays tropical que dans les pays du Nord. Actuellement leur traitement est médical."
 ---
 
-Les abcès du foie correspondent à la présence de pus collecté en une ou plusieurs poches à l'intérieur du foie. Ils peuvent être bactériens ou amibiens et sont plus fréquents en pays tropical que dans les pays du Nord. Actuellement leur traitement est médical.
 ## I. Pathogénie
 
 Le foie est un organe particulièrement résistant à l'infection, probablement grâce au système de défense réticulo-endothélial hépatique qui assure la destruction des bactéries arrivant par le système porte.

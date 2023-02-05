@@ -2,9 +2,7 @@
 title: "Douleurs chroniques du bas ventre chez une femme"
 author: "Olivier Isaac Bismuth Médecin généraliste"
 date: "1998-02-26"
----
-
-Les douleurs chroniques du bas-ventre chez une femme constituent un vécu:
+teaser: "Les douleurs chroniques du bas-ventre chez une femme constituent un vécu:
 
 Pénible pour la femme parce que :
 
@@ -22,7 +20,9 @@ Nous proposons donc une conduite à tenir pratique visant à :
 
 *   départager les principales causes et tendre vers une orientation diagnostique,
 *   valoriser l'interrogatoire et l'examen clinique,
-*   soulager et aider la patiente, en attendant un traitement plus adapté et radical.
+*   soulager et aider la patiente, en attendant un traitement plus adapté et radical."
+---
+
 ## **I.** Recommandation préalable
 
 Tout ce qui a été dit dans l'introduction, à savoir la multiplicité des causes, le vécu pénible et angoissant, la nécessité d'un interrogatoire et d'un examen clinique soigneux fait que la première consultation prendra du temps. Donc, si la patiente vient un matin en même temps que cinquante autres personnes, il vaut mieux lui remettre quelques comprimés d'antalgiques et lui donner un rendez-vous, en dehors des heures de consultation normales, afin de pouvoir passer suffisamment de temps avec elle.

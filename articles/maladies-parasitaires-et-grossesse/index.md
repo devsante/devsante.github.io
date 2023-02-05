@@ -2,9 +2,9 @@
 title: "Maladies parasitaires et grossesse"
 author: "Patrice Bourée Unité des Maladies Parasitaires et Tropicales, Institut Fournier, Paris"
 date: "2013-07-06"
+teaser: "Outre le paludisme ([traité dans un autre article](http://devsante.org/base-documentaire/gynecologie-obstetrique/paludisme-et-grossesse)), principale parasitose retentissant sur la grossesse, d’autres parasitoses, intestinales ou générales, fréquentes en zone tropicales, peuvent interférer avec la grossesse, avec habituellement une aggravation des troubles."
 ---
 
-Outre le paludisme ([traité dans un autre article](http://devsante.org/base-documentaire/gynecologie-obstetrique/paludisme-et-grossesse)), principale parasitose retentissant sur la grossesse, d’autres parasitoses, intestinales ou générales, fréquentes en zone tropicales, peuvent interférer avec la grossesse, avec habituellement une aggravation des troubles.
 ## I. Amoébose
 
 L’amoébose (nouvelle appellation de l’amibiase) est extrêmement répandue dans les pays tropicaux, atteignant environ 10 % de la population mondiale. L’homme s’infeste par ingestion de kystes d_’Entamoeba histolytica_ avec les crudités, les fruits ou l’eau de boisson. Chez les sujets en bonne santé, les kystes se transforment en formes _minuta_, non pathogènes, puis ces formes se multiplient et s’enkystent. Ces kystes sont éliminés dans les selles et disséminés dans la nature. En cas de résistance amoindrie du sujet, les amibes grossissent, prennent la forme hématophage et attaquent la muqueuse intestinale (abcès en « bouton de chemise ») puis diffusent vers le foie ou le poumon.

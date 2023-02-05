@@ -2,9 +2,9 @@
 title: "Tuberculose"
 author: "Philippe Reinert, pédiatre, hôpital intercommunal, Créteil, France."
 date: "2008-04-26"
+teaser: "L'OMS estime que 8 à 10 millions de nouveaux cas de tuberculose surviennent chaque année dans le monde. Elle provoque 2 millions de décès dont 300 000 enfants. Près de 60 % de ces cas surviennent en Afrique dont 20 à 25 % chez l'enfant. Depuis la dernière décennie, on observe une augmentation de la fréquence la tuberculose en Afrique, due à la dégradation de la situation socio-économique, à la dénutrition, aux guerres, au VIH et aux défaillances de certains programmes nationaux antituberculeux."
 ---
 
-L'OMS estime que 8 à 10 millions de nouveaux cas de tuberculose surviennent chaque année dans le monde. Elle provoque 2 millions de décès dont 300 000 enfants. Près de 60 % de ces cas surviennent en Afrique dont 20 à 25 % chez l'enfant. Depuis la dernière décennie, on observe une augmentation de la fréquence la tuberculose en Afrique, due à la dégradation de la situation socio-économique, à la dénutrition, aux guerres, au VIH et aux défaillances de certains programmes nationaux antituberculeux.
 ## **I. Bases fondamentales**
 
 La tuberculose est une maladie bactérienne, contagieuse, essentiellement par voie aérienne. Elle se transmet d'homme à homme. L'agent responsable est le _Mycobactérium tuberculosis_ ou bacille de KOCH, appelé BK. Si cette maladie demeure un des grands fléaux de l'humanité, alors que nous disposons de médicaments efficaces, c'est qu'elle est parti­culièrement grave chez le sujet immuno­déprimé par la dénutrition et/ou par le VIH. De plus, à la différence des autres infections bactériennes, le traitement, pour être efficace, doit être prolongé plusieurs mois. On com­prend donc pourquoi l'observance est souvent difficile, en particulier chez le malade en état de précarité socio-économique, provoquant ainsi souvent des résultats insuffisants.

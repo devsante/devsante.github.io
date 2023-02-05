@@ -2,9 +2,9 @@
 title: "Contre–indications des vaccinations"
 author: "Par Philippe Reinert Pédiatre, Créteil, France."
 date: "2009-04-30"
+teaser: "Les purifications des vaccins de plus en plus poussées, ainsi que leur plus faible concentration ont considérablement diminué les risques vaccinaux. Les contre-indications (CI) des vaccins sont donc maintenant bien codifiées et de plus en plus rares."
 ---
 
-Les purifications des vaccins de plus en plus poussées, ainsi que leur plus faible concentration ont considérablement diminué les risques vaccinaux. Les contre-indications (CI) des vaccins sont donc maintenant bien codifiées et de plus en plus rares.
 Avant d'aborder les contre-indications spécifiques pour chaque vaccin, quelques règles générales s'imposent. Trois situations contre-indiquent la vaccination :
 
 *   **Une réaction allergique importante** survenue dans les suites de l'injection du vaccin que l'on doit administrer.

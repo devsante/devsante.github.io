@@ -2,13 +2,13 @@
 title: "Calculs de la vessie"
 author: "François Pernin"
 date: "1984-02-28"
----
-
-Les calculs de la vessie sont fréquents, chez l'homme adulte lorsqu'il existe une gêne à l'écoulement de l'urine (adénome de la prostate, sténose de l'urèthre ... ) et chez le petit garçon dans les pays en voie de développement (causes nutritionnelles).
+teaser: "Les calculs de la vessie sont fréquents, chez l'homme adulte lorsqu'il existe une gêne à l'écoulement de l'urine (adénome de la prostate, sténose de l'urèthre ... ) et chez le petit garçon dans les pays en voie de développement (causes nutritionnelles).
 
 Le diagnostic, évoqué cliniquement, est confirmé par la radio.
 
-Le traitement est chirurgical, relativement aisé ... mais, chez l'adulte, il faut aussi lever l'obstacle à l'origine du calcul, sous peine de le voir récidiver.
+Le traitement est chirurgical, relativement aisé ... mais, chez l'adulte, il faut aussi lever l'obstacle à l'origine du calcul, sous peine de le voir récidiver."
+---
+
 ## **I. Epidémiologie**
 
 ### **1. Age**

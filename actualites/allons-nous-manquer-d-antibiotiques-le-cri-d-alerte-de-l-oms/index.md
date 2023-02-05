@@ -20,4 +20,4 @@ Mais, seuls, les nouveaux médicaments ne suffiront pas à limiter l’apparitio
 
 Réf. ANTIBACTERIAL AGENTS IN CLINICAL DEVELOPMENT
 An analysis of the antibacterial clinical development pipeline, including tuberculosis, WHO reference number: WHO/EMP/IAU/2017.11
-(link: http://www.who.int/medicines/areas/rational_use/antibacterial_agents_clinical_development/en/ text: Antibacterial agents in clinical development)
+<a href="http://www.who.int/medicines/areas/rational_use/antibacterial_agents_clinical_development/en/" target="_blank" rel="noopener">Antibacterial agents in clinical development</a>

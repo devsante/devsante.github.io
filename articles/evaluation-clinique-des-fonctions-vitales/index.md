@@ -2,9 +2,9 @@
 title: "Evaluation clinique des fonctions vitales"
 author: "Emmanuelle Lesprit Pédiatre"
 date: "2006-03-16"
+teaser: "Face à un patient, il est utile de pouvoir rapidement par quelques constantes simples donner l'état de ses fonctions vitales. Cette évaluation, qui prend quelques minutes, va permettre rapidement d'identifier le malade qui présente un risque vital. Il faut éventuellement reprendre régulièrement ces constantes pour les patients instables afin de détecter précocement une aggravation de leur état."
 ---
 
-Face à un patient, il est utile de pouvoir rapidement par quelques constantes simples donner l'état de ses fonctions vitales. Cette évaluation, qui prend quelques minutes, va permettre rapidement d'identifier le malade qui présente un risque vital. Il faut éventuellement reprendre régulièrement ces constantes pour les patients instables afin de détecter précocement une aggravation de leur état.
 ## I. La conscience
 
 Toute baisse de la perfusion des organes (état de choc) va se traduire précocement par des troubles de l'état de vigilance du patient. Chez l'adulte cela va se traduire par une baisse de la conscience puis un coma plus ou moins profond. On va l'évaluer d'abord en appelant le patient (stimulation verbale) puis par des stimulations au niveau de la peau (stimulation nociceptive) comme par exemple un pince­ment de la peau au niveau du thorax. On peut chiffrer la profondeur de son coma par le score de Glasgow ci-dessous :

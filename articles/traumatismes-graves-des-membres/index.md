@@ -2,15 +2,15 @@
 title: "Traumatismes graves des membres"
 author: "Christophe Oberlin"
 date: "1984-06-29"
----
-
-Les véritables délabrements des membres ne sont pas rares en pratique civile.
+teaser: "Les véritables délabrements des membres ne sont pas rares en pratique civile.
 
 Ce sont des contusions, écrasements ou étirements dus à des accidents de la voie publique, à des impacts par arme à feu, à des écrasements par chute d'objet lourd (arbres), voire à des morsures animales.
 
 Les lésions sont beaucoup plus graves que dans les simples fractures ouvertes des membres, mettent parfois en jeu le pronostic vital, obligent souvent à amputer.
 
-Or, de nombreux blessés sont amenés à être reçus et traités dans de petits hôpitaux régionaux aux moyens souvent limités. Si certaines interventions réparatrices compliquées ne peuvent être envisagées dans de telles structures, il n'en demeure pas moins qu'un traitement initial correct, guidé avant tout par le bon sens, peut souvent être institué, permettre au patient d'éviter le sacrifice du membre et d'espérer même un résultat fonctionnel utile.
+Or, de nombreux blessés sont amenés à être reçus et traités dans de petits hôpitaux régionaux aux moyens souvent limités. Si certaines interventions réparatrices compliquées ne peuvent être envisagées dans de telles structures, il n'en demeure pas moins qu'un traitement initial correct, guidé avant tout par le bon sens, peut souvent être institué, permettre au patient d'éviter le sacrifice du membre et d'espérer même un résultat fonctionnel utile."
+---
+
 ## I. Conduite à tenir sur les lieux de l'accident
 
 Le pronostic vital peut être en jeu. Il faut:

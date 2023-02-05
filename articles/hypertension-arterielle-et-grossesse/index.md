@@ -2,9 +2,9 @@
 title: "Hypertension artérielle et grossesse"
 author: "Stéphane Saint-Léger* et Kamel Rezig** * Gynécologue-obstétricien, ** Anesthésiste-réanimateur, CHI André-Grégoire, Montreuil, France.  "
 date: "2000-02-02"
+teaser: "L'hypertension artérielle (HTA) chez la femme enceinte est une des causes majeures de mortalité et morbidité dans le monde. Le plus souvent l'HTA retentit aussi bien chez la mère que chez l'enfant : il y a donc un double objectif à gérer : la survie d'un enfant, souvent prématuré, si possible sans séquelle notamment cérébrale, et le contrôle maternel. Cette pathologie, par définition fait intervenir plusieurs spécialistes : l'obstétricien, l'anesthésiste-réanimateur et le pédiatre."
 ---
 
-L'hypertension artérielle (HTA) chez la femme enceinte est une des causes majeures de mortalité et morbidité dans le monde. Le plus souvent l'HTA retentit aussi bien chez la mère que chez l'enfant : il y a donc un double objectif à gérer : la survie d'un enfant, souvent prématuré, si possible sans séquelle notamment cérébrale, et le contrôle maternel. Cette pathologie, par définition fait intervenir plusieurs spécialistes : l'obstétricien, l'anesthésiste-réanimateur et le pédiatre.
 ## I. Définition
 
 Une HTA se définit par une pression artérielle systolique (PAS) supérieure à 140 mm Hg et/ou une pression artérielle diastolique (PAD) supérieure à 90 mm Hg, prise en décubitus latéral gauche après un repos de 30 min.

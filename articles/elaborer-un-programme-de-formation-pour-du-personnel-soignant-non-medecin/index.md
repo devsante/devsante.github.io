@@ -2,17 +2,17 @@
 title: "Elaborer un programme de formation pour du personnel soignant non médecin"
 author: "Renée Leleu-Perrin"
 date: "1981-08-14"
----
-
-Formation du personnel de santé non médecin
+teaser: "Formation du personnel de santé non médecin
 
 par Renée Leleu-Perrin
 
-"Car l'enseignement doit l'être d'un cadre, d'une armature.
+\"Car l'enseignement doit l'être d'un cadre, d'une armature.
 
-Non d'un contenu toujours faux."  
+Non d'un contenu toujours faux.\"  
 Citadelle XLIII  
-A. de Saint-Exupéry
+A. de Saint-Exupéry"
+---
+
 Durant ces dernières décades et jusqu'à présent, les pays du tiers monde ont bénéficié d'une assistance étrangère ou internationale, matérielle et technique qui a aidé à leur développement.
 
 Sur le plan Santé publique, des écoles de formation ont été créées avec à leur tête des cadres nationaux très compétents.

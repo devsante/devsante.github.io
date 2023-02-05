@@ -2,10 +2,10 @@
 title: "Questionnaire sur la drépanocytose"
 author: "Dr Brigitte Rétali, pédiatre, Pontoise"
 date: "2017-02-11"
+teaser: "Nous remercions toutes les personnes, nombreuses, d'avoir répondu à notre questionnaire sur la drépanocytose. Vous nous aidez ainsi à mieux répondre à vos attentes.
+Nous vous présentons ici les commentaires sur vos réponses."
 ---
 
-Nous remercions toutes les personnes, nombreuses, d'avoir répondu à notre questionnaire sur la drépanocytose. Vous nous aidez ainsi à mieux répondre à vos attentes.
-Nous vous présentons ici les commentaires sur vos réponses.
 **Quelle est votre fonction : médecin, infirmier, autre soignant ou non soignant (préciser) ?**
 **Quel est votre lieu d'exercice : hôpital, centre de santé, autre ? Dans quel pays ?**
 

@@ -1,9 +1,9 @@
 ---
 title: "Les prélèvements en hémostase"
 date: "2003-12-02"
+teaser: "Les conditions de prélèvement sont primordiales, leur qualité conditionne la fiabilité des résultats !"
 ---
 
-Les conditions de prélèvement sont primordiales, leur qualité conditionne la fiabilité des résultats !
 ## **I.** Conditions optimales de prélèvements
 
 **1.** Garrot modérément serré et maintenu peu de temps.

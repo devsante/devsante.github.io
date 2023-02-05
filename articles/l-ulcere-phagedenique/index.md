@@ -2,13 +2,13 @@
 title: "L'ulcère phagédénique"
 author: "Mohamed Chérif-Deen Rahimy"
 date: "1984-10-03"
----
-
-L'ulcère phagédénique, encore appelé ulcère tropical, est une ulcération siégeant habituellement sur les membres inférieurs, parfois sur le tronc, à extension rapide en surface et en profondeur, déterminant un processus qui infiltre les tissus en les nécrosant.
+teaser: "L'ulcère phagédénique, encore appelé ulcère tropical, est une ulcération siégeant habituellement sur les membres inférieurs, parfois sur le tronc, à extension rapide en surface et en profondeur, déterminant un processus qui infiltre les tissus en les nécrosant.
 
 C'est une infection fréquente en zones tropicales, notamment en climat chaud et humide ; ainsi plusieurs synonymes sont utilisés selon les régions pour désigner cette même affection: _ulcus tropicum_, _tropical_ _sloughing phagedera_, _Mozambic ulcer_, _Yemen ulcer_, _nafa sore_.
 
-Maladie souvent bénigne dont l'évolution peut cependant être émaillée de complications (gangrène, septicémie, cancérisation), l'ulcère phagédénique pose un problème de santé publique dans les régions où il sévit, par sa chronicité parfois désespérante avec les répercussions socio-économiques que cela entraîne.
+Maladie souvent bénigne dont l'évolution peut cependant être émaillée de complications (gangrène, septicémie, cancérisation), l'ulcère phagédénique pose un problème de santé publique dans les régions où il sévit, par sa chronicité parfois désespérante avec les répercussions socio-économiques que cela entraîne."
+---
+
 ## **I. Facteurs étiologiques**
 
 L'ulcère phagédénique serait une complication liée à la surinfection des plaies par une association de deux germes: bacille fusiforme et spirochète de Vincent, avec possibilité de contamination interhumaine expliquant le caractère endémique de la maladie dans certaines régions. Mais à la phase de chronicité, de nombreux germes opportunistes sont retrouvés au niveau de la plaie.

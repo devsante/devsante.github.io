@@ -2,9 +2,7 @@
 title: "Ligature et soins du cordon ombilical"
 author: "Micheline Amzallag Pédiatre, Créteil, France"
 date: "2011-06-29"
----
-
-Etape délicate et fondamentale à la période néo-natale  
+teaser: "Etape délicate et fondamentale à la période néo-natale  
 ayant pour but la prévention :
 
 *   des infections néo-natales (omphalite, tétanos néo-natal)
@@ -14,7 +12,9 @@ Son intérêt :
 
 *   technique de ligature simple et peu coûteuse, testée avec succès dans la banlieue de Dakar
 *   chute rapide du cordon (réduction du risque infectieux et hémorragique sur cordon sec)
-*   absence de pansement au retour à domicile, prise en charge  maternelle exclusive en l'absence de complication
+*   absence de pansement au retour à domicile, prise en charge  maternelle exclusive en l'absence de complication"
+---
+
 ## I. Technique de ligature du cordon ombilical
 
 ### 1. Matériel nécessaire

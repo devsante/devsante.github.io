@@ -2,9 +2,7 @@
 title: "Conduite à tenir devant un blessé victime d'un accident de la voie publique"
 author: "François Pernin"
 date: "1983-04-29"
----
-
-Les accidents de la voie publique sont de plus en plus fréquents et posent des problèmes de conduite à tenir :
+teaser: "Les accidents de la voie publique sont de plus en plus fréquents et posent des problèmes de conduite à tenir :
 
 *   sur les lieux de l'accident,
 *   à l'hôpital une fois le malade évacué.
@@ -13,7 +11,9 @@ Problèmes d'autant plus difficiles lorsqu'il y a plusieurs blessés à la fois 
 
 Comment ne pas méconnaître une lésion grave chez un blessé se portant bien dans les premières heures après l'accident? Quels sont les gestes à faire et surtout à ne pas faire sur les lieux de l'accident ?
 
-Nous tenterons de répondre schématiquement à ces questions.
+Nous tenterons de répondre schématiquement à ces questions."
+---
+
 ## **A. Conduite à tenir sur les lieux de l'accident**
 
 ### **1. Organiser les secours**

@@ -2,15 +2,15 @@
 title: "Eczema chez l'enfant : conseils aux parents"
 author: "Olivier Isaac Bismuth Généraliste, Développement et Santé.  "
 date: "1998-01-31"
----
-
-Objectifs de cette éducation sanitaire :
+teaser: "Objectifs de cette éducation sanitaire :
 
 *   Impliquer les parents pour qu'ils reconnaissent une poussée d'eczéma.
 *   Impliquer les parents pour qu'ils comprennent les principes du traitement.
 *   Les rendre capables de traiter leur enfant.
 *   Les rendre aptes à suspecter une cause allergique et/ou psychologique.
-*   Faire la différence entre les crèmes et pommades hydratantes et les dermo-corticoïdes.
+*   Faire la différence entre les crèmes et pommades hydratantes et les dermo-corticoïdes."
+---
+
 ## I. Reconnaître une poussée d'eczéma  
 **et une surinfection :** **bref rappel**
 

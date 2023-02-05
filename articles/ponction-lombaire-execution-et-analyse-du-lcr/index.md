@@ -2,9 +2,9 @@
 title: "Ponction lombaire : exécution et analyse du LCR"
 author: "Nathalie Chambon* et Jean Michon** *Pharmacien, ** Médecin"
 date: "2006-03-11"
+teaser: "Il s'agit d'un geste simple dont il faut maîtriser la technique, les indications et les risques, et qui est effectué pour le diagnostic des méningites et de la trypanosomose."
 ---
 
-Il s'agit d'un geste simple dont il faut maîtriser la technique, les indications et les risques, et qui est effectué pour le diagnostic des méningites et de la trypanosomose.
 ## I. Rappel d'anatomie et de physiologie
 
 Le LCR (liquide céphalorachidien) est un liquide clair, sécrété dans les ventricules cérébraux. Il circule et passe dans les espaces méningés de la base du crâne où il est réabsorbé. Il circule également dans les espaces méningés situés autour de la moelle épinière, à l'intérieur du canal formé par l'empilement des vertèbres. L'étui méningé qui contient le LCR descend jusqu'à la deuxième vertèbre sacrée (S2) alors que la moelle s'arrête à la deuxième lombaire (L2). Il est ainsi possible de recueillir avec une aiguille le LCR entre L2 et S2, sans risque de toucher la moelle. On pique le plus souvent entre L4 et L5, mais on peut très bien piquer également un espace en dessous ou un à deux espaces au-dessus.

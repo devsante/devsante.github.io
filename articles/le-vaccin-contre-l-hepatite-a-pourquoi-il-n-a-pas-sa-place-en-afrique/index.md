@@ -2,10 +2,10 @@
 title: "Le vaccin contre l'hépatite A : pourquoi il n'a pas sa place en Afrique"
 author: "Par Catherine Dupeyron Biologiste, Créteil, France.  "
 date: "2012-10-14"
+teaser: "L’hépatite A est une infection aiguë du foie, qui évolue en général spontanément vers la guérison et qui est provoquée par le virus de l’hépatite A (HAV).  
+La transmission du virus d’une personne à l’autre est principalement   féco-orale. On estime à 1,5 millions le nombre de cas cliniques d’hépatite A survenant chaque année. La prévalence des anticorps anti-HAV varie de 15 % à 100 % selon les régions du monde. L’incidence de l’hépatite A est  étroitement liée au niveau de développement socio-économique du pays."
 ---
 
-L’hépatite A est une infection aiguë du foie, qui évolue en général spontanément vers la guérison et qui est provoquée par le virus de l’hépatite A (HAV).  
-La transmission du virus d’une personne à l’autre est principalement   féco-orale. On estime à 1,5 millions le nombre de cas cliniques d’hépatite A survenant chaque année. La prévalence des anticorps anti-HAV varie de 15 % à 100 % selon les régions du monde. L’incidence de l’hépatite A est  étroitement liée au niveau de développement socio-économique du pays.
 ## I. Hépatite A dans le monde
 
 ![](page-51-carte-hepatite.jpg)

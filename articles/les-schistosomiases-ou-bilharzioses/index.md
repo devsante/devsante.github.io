@@ -2,9 +2,9 @@
 title: "Les schistosomiases (ou bilharzioses)"
 author: "Jean-Loup Rey Santé publique, GISPE"
 date: "2011-11-20"
+teaser: "Il s’agit d’une maladie parasitaire très liée à la présence d’eau de surface."
 ---
 
-Il s’agit d’une maladie parasitaire très liée à la présence d’eau de surface.
 ## I. Les schistosomes
 
 Les schistosomes sont des vers plats, hématophages, à sexe séparé, vivant accouplés dans le système circulatoire.  

@@ -2,11 +2,11 @@
 title: "Urgence en oto-rhino-laryngologie"
 author: "Dr. Mohamed Keita, Dr. Kadiatou Doumbia, Pr. Albousséïny Ag Mohamed \"Médecins ORL, Service ORL, Hôpital Gabriel Touré, Bamako, Mali."
 date: "2008-01-28"
+teaser: "Les pathologies en oto-rhino-laryngologie (ORL) nécessitant une prise en charge urgente sont nombreuses et sont classées en urgences hémorragiques, traumatiques, infectieuses et neuro­sensorielles.  
+Certaines peuvent mettre en jeu le pronostic vital, d'autres peuvent être responsables de com­plications loco-régionales et générales.  
+Le traitement de ces urgences peut être médical et/ou chirurgical."
 ---
 
-Les pathologies en oto-rhino-laryngologie (ORL) nécessitant une prise en charge urgente sont nombreuses et sont classées en urgences hémorragiques, traumatiques, infectieuses et neuro­sensorielles.  
-Certaines peuvent mettre en jeu le pronostic vital, d'autres peuvent être responsables de com­plications loco-régionales et générales.  
-Le traitement de ces urgences peut être médical et/ou chirurgical.
 ## I. Urgences hémorragiques
 
 ### 1. Epistaxis

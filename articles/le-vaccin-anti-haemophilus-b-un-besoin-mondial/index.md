@@ -2,12 +2,12 @@
 title: "Le vaccin anti-Haemophilus b : un besoin mondial"
 author: "Philippe Reinert Pédiatre, hôpital Intercommunal, Créteil, France.  "
 date: "2002-08-04"
----
-
-_Haemophilus influenzae_ b est l'un des grands responsables d'infections sévères chez l'enfant entre 3 mois et 5 ans. Le fait que ce germe soit spécifique à cette tranche d'âge vient du fait :
+teaser: "_Haemophilus influenzae_ b est l'un des grands responsables d'infections sévères chez l'enfant entre 3 mois et 5 ans. Le fait que ce germe soit spécifique à cette tranche d'âge vient du fait :
 
 *   que les anticorps maternels transplacentaires protègent l'enfant entre 0 et 3 mois,
-*   que pratiquement tous les enfants de plus de 5 ans s'immunisent spontanément contre Haemophilus b.
+*   que pratiquement tous les enfants de plus de 5 ans s'immunisent spontanément contre Haemophilus b."
+---
+
 Toutes les études épidémiologiques effectuées dans les pays industrialisés ont montré qu'_Haemophilus_ était responsable de :
 
 *   30 à 45 % des méningites purulentes,

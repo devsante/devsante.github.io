@@ -2,10 +2,10 @@
 title: "L'ulcère de jambe : la conduite de l'infirmier au dispensaire"
 author: "jean-Nicolas Gbegjanhoungbo Infirmier, Centre de santé de Gbahouete, Bénin"
 date: "1998-04-26"
+teaser: "L'ulcère de jambe est une pathologie fréquente dans nos villages d'Afrique, à cause de la consultation trop tardive après les petites blessures lors des travaux champêtres.  
+L'infirmier étant le premier contact avec le malade, il doit connaître les conduites diagnostique et thérapeutique à tenir en vue d'un bon traitement, ou pour éventuellement décider l'évacuation précoce vers un centre mieux équipé."
 ---
 
-L'ulcère de jambe est une pathologie fréquente dans nos villages d'Afrique, à cause de la consultation trop tardive après les petites blessures lors des travaux champêtres.  
-L'infirmier étant le premier contact avec le malade, il doit connaître les conduites diagnostique et thérapeutique à tenir en vue d'un bon traitement, ou pour éventuellement décider l'évacuation précoce vers un centre mieux équipé.
 ## I. Définition et causes
 
 ### 1. Définition

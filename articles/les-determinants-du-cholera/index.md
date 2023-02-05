@@ -2,13 +2,13 @@
 title: "Les déterminants du choléra"
 author: "Michèle Lavallée Médecins du Monde"
 date: "2001-04-14"
----
-
-Dans le cadre des épidémies de choléra, les déterminants sont tous les facteurs influençant favorablement ou défavorablement l'évolution d'une épidémie. Avant une épidémie, l'analyse des déterminants peut permettre de prévoir l'émergence ou la réémergence d'une épidémie dans un pays ou une région.
+teaser: "Dans le cadre des épidémies de choléra, les déterminants sont tous les facteurs influençant favorablement ou défavorablement l'évolution d'une épidémie. Avant une épidémie, l'analyse des déterminants peut permettre de prévoir l'émergence ou la réémergence d'une épidémie dans un pays ou une région.
 
 Au début d'une épidémie, lors du diagnostic de la situation initiale, cette analyse est primordiale : elle va permettre de mettre en évidence les facteurs de risques importants, qu'il faudra évaluer, hiérarchiser et sur lesquels il faudra agir en priorité.
 
-Cette analyse des déterminants à été réalisée grâce aux données bibliographiques et aux données d'expérience du terrain lors de plusieurs missions exploratoires de Médecins du Monde.
+Cette analyse des déterminants à été réalisée grâce aux données bibliographiques et aux données d'expérience du terrain lors de plusieurs missions exploratoires de Médecins du Monde."
+---
+
 ## I. Déterminants économiques
 
 Les grandes épidémies de choléra arrivent toujours dans les pays pauvres du monde. Des études ont montré une corrélation, d'une part entre le nombre élevé de cas cumulés de choléra dans les 'pays d'Amérique latine et l'I.D.H.(1), d'autre part entre le taux important de mortalité par choléra et le faible revenu annuel par habitant (inférieur à 600 dollars). Les épidémies de choléra surviennent surtout dans les zones pauvres de ces pays, cumulant plusieurs facteurs de risque : densité de la population, promiscuité, dégradation des conditions d'hygiène, problèmes d'assainissement et d'accès à l'eau potable.

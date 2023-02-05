@@ -2,10 +2,10 @@
 title: "La vaccination contre l'hépatite B"
 author: "François Denis Service de bactériologie-virologie-hygiène, CHU Dupuytren, Limoges, France"
 date: "2001-02-21"
+teaser: "Parmi les sujets infectés par le virus de l'hépatite B (VHB), 8 à 10 % d'entre eux deviennent porteurs chroniques du virus, les autres parviennent à l'éliminer de leur organisme, ils guérissent et produisent des anticorps anti-HBs dirigés contre l'enveloppe du virus (AgHBs). Ces anticorps sont protecteurs. On a très tôt pu démontrer que l'administration de ces anticorps anti-HBs purifiés (immunoglobulines spécifiques), quand ils étaient administrés dans les heures qui suivaient une contamination par le VHB, protégeaient les sujets qui n'avaient pas rencontré jusque là le virus.  
+C'est donc très logiquement que cet antigène de surface l'AgHBs est devenu le «candidat» le plus sérieux pour élaborer un vaccin. Malheureusement on s'est heurté à une difficulté majeure, l'impossibilité de cultiver le virus en laboratoire, donc d'obtenir facilement l'antigène vaccinal."
 ---
 
-Parmi les sujets infectés par le virus de l'hépatite B (VHB), 8 à 10 % d'entre eux deviennent porteurs chroniques du virus, les autres parviennent à l'éliminer de leur organisme, ils guérissent et produisent des anticorps anti-HBs dirigés contre l'enveloppe du virus (AgHBs). Ces anticorps sont protecteurs. On a très tôt pu démontrer que l'administration de ces anticorps anti-HBs purifiés (immunoglobulines spécifiques), quand ils étaient administrés dans les heures qui suivaient une contamination par le VHB, protégeaient les sujets qui n'avaient pas rencontré jusque là le virus.  
-C'est donc très logiquement que cet antigène de surface l'AgHBs est devenu le «candidat» le plus sérieux pour élaborer un vaccin. Malheureusement on s'est heurté à une difficulté majeure, l'impossibilité de cultiver le virus en laboratoire, donc d'obtenir facilement l'antigène vaccinal.
 ## I. Les vaccins contre l'hépatite B
 
 Tous les vaccins antiviraux avaient, avant 1975, été obtenus par culture. L'idée origina¬le de Philippe Maupas, père du premier vaccin mondial contre l'hépatite B, a été d'obtenir le précieux antigène à partir d'un produit biolo¬gique où il se trouvait en quantité importante... en l'occurrence, le plasma des porteurs chro-niques du virus !  

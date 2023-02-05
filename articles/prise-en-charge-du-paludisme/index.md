@@ -2,9 +2,9 @@
 title: "Prise en charge du paludisme"
 author: "JK. Assiznadi, O.A. Agbodjan-Djossou, K. Ayewada, 0. Cisse-Amegatse, B. Balaka, D.Y. Atakouma, A.D. Gbadoe Service de Pédiatrie, CHU Tokoin, Togo"
 date: "2001-06-05"
+teaser: "Le paludisme est la première cause de morbidité dans les pays africains et souvent une fréquente cause de mortalité, en particulier dans les groupes vulnérables que sont les enfants, les femmes enceintes et les voyageurs."
 ---
 
-Le paludisme est la première cause de morbidité dans les pays africains et souvent une fréquente cause de mortalité, en particulier dans les groupes vulnérables que sont les enfants, les femmes enceintes et les voyageurs.
 ## I. Introduction
 
 Le paludisme est une maladie parasitaire endémo-épidémique due à un hématozoaire, le _Plasmodium_ _(falciparum_, _vivax, ovale, malariae)_ ; ce _Plasmodium_ est transmis à l'homme par la piqûre d'un moustique, l'anophèle femelle _(figure 1_).

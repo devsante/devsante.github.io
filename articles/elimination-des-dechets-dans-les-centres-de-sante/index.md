@@ -2,9 +2,9 @@
 title: "Elimination des déchets dans les centres de santé"
 author: "Jean-Loup Rey"
 date: "2011-11-14"
+teaser: "Toutes les activités de soins génèrent des déchets qui sont potentiellement dangereux pour les employés du centre, pour les patients et pour l’environnement extérieur. Les éliminer correctement est une activité importante dans l’intérêt de la communauté, des patients et des soignants."
 ---
 
-Toutes les activités de soins génèrent des déchets qui sont potentiellement dangereux pour les employés du centre, pour les patients et pour l’environnement extérieur. Les éliminer correctement est une activité importante dans l’intérêt de la communauté, des patients et des soignants.
 Une structure de soins, quelle que soit sa taille, produit trois types de déchets :
 
 *   Les déchets contaminés ou potentiellement contaminés : sont considérés comme tels tous les déchets solides provenant de soins (pansements, seringues), les vêtements et la literie des malades, et des déchets liquides, les produits  biologiques (urines, sang, selles).

@@ -2,9 +2,9 @@
 title: "Comment évoquer une lèpre en 2014 ?"
 author: "Patrice Bourée Institut Alfred Fournier, Paris"
 date: "2014-02-16"
+teaser: "Quand faut-il évoquer le diagnostic de lèpre ?  La lèpre est en nette régression dans le monde, mais reste toujours présente dans les pays tropicaux. Aussi est-il important de faire le diagnostic pour mettre en route un traitement rapide afin d’en éviter les complications, en particulier les amputations."
 ---
 
-Quand faut-il évoquer le diagnostic de lèpre ?  La lèpre est en nette régression dans le monde, mais reste toujours présente dans les pays tropicaux. Aussi est-il important de faire le diagnostic pour mettre en route un traitement rapide afin d’en éviter les complications, en particulier les amputations.
 La lèpre, ou maladie de Hansen, seconde mycobactériose mondiale après la tuberculose, est connue depuis l’antiquité et a traversé les siècles, en provoquant des sentiments de peur avec des mesures d’exclusion sociale. Les lépreux étaient exclus des villes et quand ils y revenaient, ils devaient signaler leur présence avec une crécelle (figure 1). En effet, à l’époque des croisades, le lépreux était considéré, comme impur mais craint, car revenant des lieux saints, il représentait l’image vivante du Christ souffrant. La prévalence de la lèpre a considérablement régressé depuis une vingtaine d’années, grâce à la polychimiothérapie, qui est rapidement efficace avec néanmoins le risque de réactions secondaires parfois handicapantes.
 
 ![](fig-1-lepreux-et-sa-crecelle.JPG)

@@ -2,10 +2,10 @@
 title: "Aide à l'organisation d'un réseau périnatal en Côte d'Ivoire : témoignage"
 author: "Dr Eric BOEZ, pédiatre néonatologue ; Dr Dominique LEYRONNAS, pédiatre néonatologue ; Dr Robert DEVAUX, pédiatre ; Camille DUJARDIN, sage-femme"
 date: "2014-11-03"
+teaser: "Pédiatres du monde (PDM) est une ONG d’aide au développement à spécificité pédiatrique, fondée en 2003 à partir du groupe “humanitaire” de l’Association Française de Pédiatrie.  
+Créée par des pédiatres libéraux, elle fonctionne avec des missions courtes, compatibles avec l’exercice libéral (une à trois semaines), sans que la cohérence du projet global ne s’en trouve affectée. Elle a intégré avec le temps d’autres professionnels médicaux ou paramédicaux qui ont permis de développer des projets variés."
 ---
 
-Pédiatres du monde (PDM) est une ONG d’aide au développement à spécificité pédiatrique, fondée en 2003 à partir du groupe “humanitaire” de l’Association Française de Pédiatrie.  
-Créée par des pédiatres libéraux, elle fonctionne avec des missions courtes, compatibles avec l’exercice libéral (une à trois semaines), sans que la cohérence du projet global ne s’en trouve affectée. Elle a intégré avec le temps d’autres professionnels médicaux ou paramédicaux qui ont permis de développer des projets variés.
 Un gros travail de coordination est réalisé en amont et en aval de ces missions, permettant de mener des programmes cohérents, en partenariat avec les acteurs locaux; selon les pays et les missions, l’aide sera centrée sur la formation, la logistique, l’accès à l’eau, la nutrition, la santé de la mère et de l’enfant, l’hygiène, l’apport de petit matériel, notamment consommables ...  
 Ceux qui souhaitent plus de détails sur Pédiatres du Monde et les différentes missions peuvent se rendre sur le site  
 [www.pediatres-du-monde.org](http://www.pediatres-du-monde.org/)

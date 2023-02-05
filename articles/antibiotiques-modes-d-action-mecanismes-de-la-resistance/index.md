@@ -2,13 +2,13 @@
 title: "Antibiotiques : modes d'action, mécanismes de la résistance"
 author: "Pascale Lesseur, pharmacien, Paris"
 date: "2014-04-07"
----
-
-Les bactéries pathogènes pour l'homme sont à l'origine de multiples maladies infectieuses qui, en particulier dans les pays en voie de développement, font encore des ravages. En 1995, ces maladies ont été responsables d'un tiers (17 millions de personnes) des décès dans le monde.
+teaser: "Les bactéries pathogènes pour l'homme sont à l'origine de multiples maladies infectieuses qui, en particulier dans les pays en voie de développement, font encore des ravages. En 1995, ces maladies ont été responsables d'un tiers (17 millions de personnes) des décès dans le monde.
 
 Les antibiotiques sont utilisés en médecine pour lutter contre des infections bactériennes et doivent être choisis en fonction de leur efficacité sur la [bactérie](http://www.futura-sciences.com/magazines/sante/infos/dico/d/medecine-bacterie-101/) responsable de l’infection. Il en existe de très nombreux, répartis en différentes familles. **Ils sont très efficaces contre les infections bactériennes, mais n’ont aucun effet sur les infections virales**. Ces [molécules](http://www.futura-sciences.com/magazines/matiere/infos/dico/d/chimie-molecule-783/) ont la propriété de tuer les bactéries (antibiotiques bactéricides)  ou d’en limiter la multiplication (antibiotiques bactériostatiques).
 
-Malheureusement, leur utilisation inadaptée a conduit à une émergence très inquiétante de bactéries de plus en plus résistantes, il est donc essentiel de prévenir cette résistance.
+Malheureusement, leur utilisation inadaptée a conduit à une émergence très inquiétante de bactéries de plus en plus résistantes, il est donc essentiel de prévenir cette résistance."
+---
+
 ## I. Qu’est-ce qu’une bactérie ?
 
 Les  bactéries sont des micro-organismes invisibles à l’œil nu, visibles au microscope (leur taille varie de moins de 1 micromètre à plus de 2 pour les plus grosses), Elles  sont unicellulaires et n’ont pas de noyau.

@@ -2,13 +2,13 @@
 title: "Fractures du poignet"
 author: "Christophe Oberlin, chirurgien orthopédique, Paris"
 date: "2015-05-19"
----
-
-Comme la grande majorité des fractures, les fractures du poignet peuvent être confiées au seul traitement orthopédique avec un excellent résultat si celui-ci est bien conduit et bien surveillé. Deux types de fractures seront envisagés ici :
+teaser: "Comme la grande majorité des fractures, les fractures du poignet peuvent être confiées au seul traitement orthopédique avec un excellent résultat si celui-ci est bien conduit et bien surveillé. Deux types de fractures seront envisagés ici :
 
 − les fractures de l’extrémité inférieure du radius en compression-extension les plus fréquentes, ou fractures de Pouteau-Colles ;
 
-− les fractures en compression-flexion, fractures de Goyrand et fractures de la marge antérieure du radius.
+− les fractures en compression-flexion, fractures de Goyrand et fractures de la marge antérieure du radius."
+---
+
 ## I. La fracture de Pouteau-Colles
 
 Elle est due à une chute sur le poignet en hyperextension (schéma n° 1). Le déplacement fracturaire doit être bien connu car il conditionne les manœuvres de réduction :

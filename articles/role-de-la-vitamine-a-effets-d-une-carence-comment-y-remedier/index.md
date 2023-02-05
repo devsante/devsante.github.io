@@ -2,12 +2,12 @@
 title: "Rôle de la vitamine A, effets d'une carence, comment y remédier"
 author: "Micheline Amzallag Pédiatre, Créteil, France"
 date: "2012-06-02"
----
-
-Dans le monde, 250 millions d’enfants de moins de 5 ans sont exposés au risque de carence en vitamine A, augmentant ainsi pour eux le risque de maladie et de décès.  
+teaser: "Dans le monde, 250 millions d’enfants de moins de 5 ans sont exposés au risque de carence en vitamine A, augmentant ainsi pour eux le risque de maladie et de décès.  
 Le fait de corriger cette carence permet de diminuer de 23 % la mortalité des jeunes enfants, et contribue également à réduire la mortalité maternelle.
 
-Au début des années 2000, en Afrique occidentale francophone, cette carence était en partie responsable de 57 000 décès d’enfants de moins de 59 mois.
+Au début des années 2000, en Afrique occidentale francophone, cette carence était en partie responsable de 57 000 décès d’enfants de moins de 59 mois."
+---
+
 ![](carte-carence-vitamine-a.jpg)
 
 

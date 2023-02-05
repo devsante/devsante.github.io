@@ -2,9 +2,9 @@
 title: "Les accidents domestiques chez l'enfant"
 author: "Martine Camacho"
 date: "2009-04-27"
+teaser: "Phénomène dont la visibilité et la prévention commencent à prendre corps en Occident, les accidents domestiques touchant les enfants sont encore très peu étudiés, recensés et prévenus sur le continent africain. Se passant clans la sphère domestique et familiale, ils échappent sou­vent aux statistiques, sauf lorsque leur gravité nécessite un recours aux urgences hospitalières. Même dans ce cas, l'épidémiologie est loin d'être totalement documentée et la prévention est inexistante. Si des campagnes sont régulièrement menées pour la prévention des maladies de l'enfance et de l'adolescence, ce n'est pas le cas pour les accidents domestiques qui ne font l'objet d'aucune action particulière de sensibilisation des parents."
 ---
 
-Phénomène dont la visibilité et la prévention commencent à prendre corps en Occident, les accidents domestiques touchant les enfants sont encore très peu étudiés, recensés et prévenus sur le continent africain. Se passant clans la sphère domestique et familiale, ils échappent sou­vent aux statistiques, sauf lorsque leur gravité nécessite un recours aux urgences hospitalières. Même dans ce cas, l'épidémiologie est loin d'être totalement documentée et la prévention est inexistante. Si des campagnes sont régulièrement menées pour la prévention des maladies de l'enfance et de l'adolescence, ce n'est pas le cas pour les accidents domestiques qui ne font l'objet d'aucune action particulière de sensibilisation des parents.
 ## **I. Pourtant, les accidents domestiques ne sont jamais accidentels**
 
 Ils ne sont pas dus au hasard. Ils résultent de la négligence des adultes et de leur manque d'infor­ination sur les comportements à risques. Le foyer familial est supposé offrir la sécurité d'un cocon dans lequel l'enfant peut s'épanouir loin des dan­gers de la rue, et de la vie en général. La protection que les parents et le milieu familial sont censés garantir aux enfants est prise en défaut là où on l'at­tend le moins, c'est-à-dire clans la maison et la cour.

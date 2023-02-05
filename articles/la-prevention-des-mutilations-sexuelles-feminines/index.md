@@ -2,9 +2,9 @@
 title: "La prévention des mutilations sexuelles féminines"
 author: "Emmanuelle Piet Médecin, présidente du Collectif Féministe Contre le Viol (CFCV)"
 date: "2014-06-15"
+teaser: "J’ai été confrontée pour la première fois à une infibulation en 1974, lorsque je faisais fonction d’interne à la maternité de l’hôpital de la Cité Universitaire : une étudiante Somalienne était infibulée. J’avais été très impressionnée ! Là commence ma lutte contre l’excision et les mutilations sexuelles féminines."
 ---
 
-J’ai été confrontée pour la première fois à une infibulation en 1974, lorsque je faisais fonction d’interne à la maternité de l’hôpital de la Cité Universitaire : une étudiante Somalienne était infibulée. J’avais été très impressionnée ! Là commence ma lutte contre l’excision et les mutilations sexuelles féminines.
 ## **Regard sur la situation 40 ans plus tard**
 
 En PMI, on découvre l’excision à la fin des années 1970. Une pétition initiée par le docteur Marie-Hélène FRANJOU circule pour mobiliser les équipes dans la lutte contre les mutilations sexuelles en 1980.
