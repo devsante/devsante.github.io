@@ -28,7 +28,7 @@ Depuis 2009, certaines situations de signalement ont été bien vécues par les 
 Les objectifs de cette recherche étaient les suivants: :
 
 1.  Avoir une meilleure image de la situation : combien de signalements depuis 2009 ? Qui les effectue ? Pour quelles situations ? Quels acteurs ont été impliqués ? Quels enseignements peut-on retirer des pratiques de terrain ?
-2.  Dégager les grands enjeux dans le suivi des signalements et formuler des recommandations pour contribuer à l’écriture de lignes directrices de prévention et de protection des filles et des femmes à risque d’excision.
+2.  Dégager les grands enjeux dans le suivi des signalements et formuler des recommandations pour contribuer à l’écriture de lignes directrices de prévention et de protection des filles et des femmes à risque d’excision.  
 3.  Améliorer la prise en charge des situations de signalement au sein des différentes institutions/organisations concernées. 
 
 Pour atteindre les objectifs fixés, nous avons opté pour une approche mixte (5) combinant les méthodes quantitatives et qualitatives. Plusieurs devis d’étude sont possibles avec les études mixte nous avons choisi un devis transformatif : une collecte et une analyse de données quantitatives (relevé exhaustif des cas de signalements) suivie d’une collecte et d’une analyse de données qualitatives (interview d’une sélection de situations parmi les signalements recensés).
@@ -41,11 +41,13 @@ Pour atteindre les objectifs fixés, nous avons opté pour une approche mixte (5
 
 C’est à partir de 2009 que le GAMS a commencé à recenser systématiquement les cas de signalements. Il existe des cas antérieurs mais ils n’ont pas pu être exploités faute d’une documentation. L’étude a permis de recenser, entre 2009 et 2013, 62 signalements aux associations spécialisées (graphique 1) avec une forte augmentation ces deux dernières années (15 signalements en 2012 et 31 en 2013).
 
+
 ![](f-richard-graph-1.jpg)
 
 
 Ceci s’explique sans doute par le nombre de formations dispensées auprès des actrices et acteurs de première et seconde ligne par les associations spécialisées et par la reconnaissance croissante de la problématique des MGF.  
 La majorité des signalements concernait des enfants à risque d’excision (figure 1).
+
 
 ![](f-richard-graph-2.jpg)
 

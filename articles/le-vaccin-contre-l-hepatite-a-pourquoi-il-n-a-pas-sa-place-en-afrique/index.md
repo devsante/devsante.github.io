@@ -8,6 +8,7 @@ La transmission du virus d’une personne à l’autre est principalement   f�
 
 ## I. Hépatite A dans le monde
 
+
 ![](page-51-carte-hepatite.jpg)
 
 

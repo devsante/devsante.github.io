@@ -168,6 +168,7 @@ L'oeuf peut être entouré d'un amas de leucocytes pouvant cacher en partie l'é
 
 Sur les coupes anatomopathologiques, un diagnostic avec une autre espèce est parfois difficile si la coupe ne passe as au niveau de l'éperon. La paroi de l'oeuf est Ziehl négative, contrairement aux autres espèces.
 
+
 ![](i768-1.jpg)
 
 
@@ -182,6 +183,7 @@ Sur les coupes anatomopathologiques, un diagnostic avec une autre espèce est pa
 - Forme : ovoïde, un pôle plus arrondi et l'autre plus conique,
 
 - Éperon : net, latéral, en " épine de rose", de 15 microns environ. Il peut être difficilement visible si l'oeuf est mal disposé, il faut alors faire varier la vis micrométrique ou tapoter sur la lamelle de manière à le faire tourner.
+
 
 ![](i768-2.jpg)
 
@@ -200,6 +202,7 @@ Le miracidium présente deux dépressions de chaque côté, à hauteur du centre
 Rappelons que sur une biopsie, en cas de doute avec S. h., la paroi des oeufs de  
 _S. i. est Ziehl positive alors que celle des oeufs de S. h. est négative._
 
+
 ![](i768-3.jpg)
 
 
@@ -212,6 +215,7 @@ Ce sont des oeufs de petite taille par rapport aux précédents :
 - Couleur : transparents à jaune clair,
 
 - Éperon : latéral, petit, arrondi, difficile à repérer, il peut être caché par des précipités granuleux.
+
 
 ![](i768-4.jpg)
 

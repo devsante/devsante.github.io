@@ -15,12 +15,14 @@ La forme sanguine de _T_._brucei_ est représentée par un parasite flagellé ex
 
 La surface cellulaire des trypanosomes africains est constamment remodelée. Dans les formes sanguines, la membrane est complètement recouverte à sa partie externe d'une couche épaisse de glycoprotéines. Ces glycoprotéines initient une réponse immunitaire efficace, mais la variation des épitopes de ces molécules très antigéniques permet au trypanosome d'échapper à la réponse humorale de l'hôte, d'où leur appellation de glycoprotéines variables de surface (VSG).
 
+
 ![](i983-1.jpg)
 
 
 ## II. Les glossines ou mouches tsé tsé
 
 La distribution géograhique de la THA est dépendante de celle de son vecteur, la mouche tsé-tsé. Les mouches tsé-tsé appartiennent au genre _Glossina_ qui est habituellement divisé en trois groupes d'espèces. Le groupe _fusca_ inclut des vecteurs transmettant des trypanosomes responsables de maladies animales. Les deux autres groupes ont une importance en médecine humaine : les espèces du groupe _palpalis_ transmettent _T. gambiense_ en Afrique de l'Ouest et en Afrique centrale, celles du groupe _morsitans_ _T. rhodesiense_ en Afrique de l'Est _(Figure 2)._
+
 
 ![](i983-2.jpg)
 
@@ -30,6 +32,7 @@ Les glossines sont des mouches de grande taille, 6 à 15 mm de longueur. Durant 
 L'habitat des espèces du groupe _palpalis est_ constitué par les rives des lacs et les berges des rivières en zone forestière ou anciennement forestière. Certaines espèces de ce groupe se sont adaptées au changement d'environnement lié aux activités humaines, en particulier agricoles (plantations de caféiers, de cacaoyers). Ce groupe comprend _G._ _palpalis, G. tachinoides_ et _G. fuscipes._ L'homme constitue le réservoir principal de parasites, bien que certaines espèces animales, en particulier domestiques (cochons, moutons), puissent jouer un rôle dans le cycle dans quelques foyers de transmission.
 
 L'habitat des espèces du groupe _morsitans_ est constitué par les grandes étendues de savane arborée. Ce groupe comprend les espèces _G._ _morsitans,_ _G. pallidipes et G. swynnertoni_. L'infection humaine est sporadique _chez des_ sujets qui font des incursions dans la savane à l'occasion d'activités de chasse ou de cueillette.
+
 
 ![](i983-3.jpg)
 
@@ -41,6 +44,7 @@ Au moment de la piqûre, les trypanosomes présents dans les glandes salivaires 
 ## IV. La distribution géographique actuelle de la maladie
 
 Au décours des années 1960, le relâchement de la lutte systématique contre la THA par les nouvelles autorités nationales de santé publique, l'instabilité politique, les troubles sociaux et les difficultés économiques entraînent la résurgence de ce fléau africain particulièrement dans les anciens foyers, suggérant l'existence d'un réservoir résiduel de _T._ _b. gambiense_ chez l'animal.
+
 
 ![](i983-4.jpg)
 
@@ -61,6 +65,7 @@ De plus, la plupart des foyers actifs se trouvent dans des zones reculées, diff
 Devant l'ampleur que prend l'extension de la résurgence de la maladie du sommeil, devant les difficultés de la lutte, du diagnostic et du traitement, la majorité des pays africains concernés semble impuissante à (re)mettre en place des mesures de lutte efficaces dont les principes sont connus depuis longtemps et ont fait leur preuve. Malgré les progrès réalisés dans la connaissance du trypanosome, il existe encore pour cette maladie, d'importants problèmes relatifs à son dépistage, son diagnostic et son traitement. Cependant, l'implication croissante de sources de financement publiques et privées, sous l'impulsion de l'OMS, permet de voir une lueur d'espoir. Les équipes mobiles sont remises sur pied et recommencent leurs " prospections " à la recherche des malades dans les villages et les campements reculés des foyers traditionnels de la maladie.
 
 WHO (1998) Control and surveillance of African trypanosiomasis. Report of a WHO Expert committee. Technical report series n° 881. Geneva . Switzerland,114 p
+
 
 ![](i983-5.jpg)
 

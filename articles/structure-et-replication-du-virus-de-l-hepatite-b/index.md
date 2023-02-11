@@ -13,12 +13,13 @@ _(figure 1)_
 
 Avec ses 3 200 paires de bases, c'est le plus petit des virus humains à ADN. Il code seule­ment 4 gènes :
 
-1.  **Le gène C,** avec une zone pré-C, pour la capside ou core, constituée de l'antigène HBc de 21 000 de poids moléculaire (21 kDa).
-2.  **Le gène S**, avec une zone pré-S1 et une zone pré-S2, pour l'enveloppe, constituée d'antigène HBs (s pour surface). Cet antigène HBs se présente sous trois formes : petite, moyenne et grande, de 24, 33 et 39 kDa, selon qu'il vient de l'expression du gène S, de pré-S2 + S, ou pré-S1 + pré-S2 + S.
-3.  **Le gène P,** pour la polymérase, plus préci­sément l'ADN polymérase, de 90 kDa.
+1.  **Le gène C,** avec une zone pré-C, pour la capside ou core, constituée de l'antigène HBc de 21 000 de poids moléculaire (21 kDa).  
+2.  **Le gène S**, avec une zone pré-S1 et une zone pré-S2, pour l'enveloppe, constituée d'antigène HBs (s pour surface). Cet antigène HBs se présente sous trois formes : petite, moyenne et grande, de 24, 33 et 39 kDa, selon qu'il vient de l'expression du gène S, de pré-S2 + S, ou pré-S1 + pré-S2 + S.  
+3.  **Le gène P,** pour la polymérase, plus préci­sément l'ADN polymérase, de 90 kDa.  
 4.  **Le gène X**, aux fonctions mal connues, transactivatrices, peut-être impliqué dans la cancérogenèse par le VHB.
 
 Quatre gènes dans un si petit génome, cela implique une organisation particulière, très économe : l'ADN viral est circulaire, à 2 brins sur 50 à 80 % de sa longueur, et surtout, ses 3 cadres de lecture sont mis à contribution, de sorte que les gènes se chevauchent, utilisant au mieux les capacités génétiques réduites de ce virus. Le gène P, le plus long des quatre, cor­respondant aux trois quarts du génome, chevauche ainsi entièrement le gène S et par­tiellement les gènes C et X.
+
 
 ![](image002-9.jpg)
 
@@ -89,7 +90,9 @@ Cela étant, la multiplication _in vitro_ du VHB, que l'on peut obtenir en cultu
 
 Après entrée dans l'hépatocyte, la forme cir­culaire ouverte et partiellement bicaténaire de l'ADN viral se trouve, sous l'action de l'ADN polymérase virale incluse dans la particule virale, transformée en forme bicaténaire circu­larisée sous tension : c'est le cccDNA, pour _covalently closed circular_ DNA, appelé aussi supercoiled DNA, pour ADN surenroulé ou torsadé. Cet ADN surenroulé est une sorte de minichromosome détecté dans le noyau où il sert de matrice pour la transcription d'ARN viraux de différentes tailles : le plus long de ces transcrits, qui contient toute l'information génétique du virus, est un "progénome", tandis que des transcrits plus courts sont les ARN messagers correspondant aux 4 gènes du virus et sont bientôt traduits en protéines virales. Ultérieurement, le progénome ARN est encap­sidé par l'antigène HBc avec l'ADN polymérase qui, fonctionnant comme RT, douée également d'une action ARNase H, fabrique, à partir de ce progénome d'ARN, le génome d'ADN définitif et digère le progénome. Cette opération est très particulière aux hepadnavirus et à un virus des plantes, le virus de la mosaïque du chou-fleur. Elle n'est pas identique à la rétrotranscription du VIH car, si l'on observe parfois de l'ADN viral intégré dans l'ADN cellulaire, cette intégration n'est pas indispensable, ni à la réplication du VHB en phase active, ni à son pouvoir cancérigène. D'autre part, le VHB, contrairement au VIH, ne code pas d'intégrase. Cependant, il y a une homologie de séquence entre VIH et VHB, dont la polymérase partage le site catalytique caractérisé par la séquence YMDD.
 
+
 ![](image004.jpg)
+
 
 
 ![](image006-hepb-2.jpg)

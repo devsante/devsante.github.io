@@ -24,7 +24,7 @@ du réservoir d’agent infectieux
     *   les produits d’excrétion : salives, mucosités nasales, matières fécales…
     *   la peau infectée : plaie, liquide de vésicules,
     *   les cheveux infectés ou parasités,
-    *   Le sang.
+    *   Le sang.  
 *   L’animal malade ou porteur sain
 *   L’environnement : terre, eau, air, objets qui peuvent aussi être vecteurs d’agents infectieux
 
@@ -38,16 +38,17 @@ La contamination se fait de personne à personne (ou de l’animal à l’homme)
 **De personne à personne**
 
 *   Aérienne pour les germes des infections respiratoires (rougeole, grippe, tuberculose, pneumonies…) les méningites bactériennes, par la toux, les éternuements…
-*   Manu-portée : transmise par les mains pour les germes des infections des gastro-entérites, à transmission féco-orale (quand les conditions d’hygiène sont mauvaises, entre les matières fécales et la bouche, par les mains).
-*   Sexuelle pour les maladies vénériennes (syphilis, VIH, hépatite B…).
-*   Par le sang à l’occasion d’une transfusion, d’une blessure, d’une injection avec du matériel souillé (hépatites B et C, VIH…).
-*   De peau à peau (gale, poux…).
+*   Manu-portée : transmise par les mains pour les germes des infections des gastro-entérites, à transmission féco-orale (quand les conditions d’hygiène sont mauvaises, entre les matières fécales et la bouche, par les mains).  
+*   Sexuelle pour les maladies vénériennes (syphilis, VIH, hépatite B…).  
+*   Par le sang à l’occasion d’une transfusion, d’une blessure, d’une injection avec du matériel souillé (hépatites B et C, VIH…).  
+*   De peau à peau (gale, poux…).  
 *   Une transmission “verticale” de la mère à l’enfant existe également.
 
 D’un animal contagieux à une personne, par exemple :
 
 *   par voie cutanée (morsure transmettant la rage…),
 *   par voie aérienne (grippe aviaire)…
+
 
 ![](vecteurs-de-transmission-nhygiene.jpg)
 

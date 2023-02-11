@@ -7,7 +7,7 @@ teaser: "Les infections respiratoires aiguës représentent une des causes les p
 
 Une classification simple distingue:
 
-*   **L'angine et l'otite** dont l'infection ne se propage en général pas aux voies respiratoires inférieures, et dont l'incidence varie peu selon les saisons.
+*   **L'angine et l'otite** dont l'infection ne se propage en général pas aux voies respiratoires inférieures, et dont l'incidence varie peu selon les saisons.  
 *   **Les rhumes, affections bronchiques et** **pneumopathies** qui sont beaucoup plus fréquents durant la saison froide.
 
 La malnutrition ne semble pas jouer un rôle fondamental dans la gravité de ces infections, mais elles-mêmes peuvent retentir sur l'état nutritionnel par les difficultés d'alimentation qui les accompagnent.
@@ -17,7 +17,7 @@ L'âge est un facteur plus important car c'est chez le nourrisson essentiellemen
 Les infirmiers et médecins doivent savoir distinguer les différents types d'infection respiratoire aiguë pour les surveiller et traiter de façon adaptée. A ce niveau, le rôle de l'éducation sanitaire est autre; c'est de:
 
 *   **Limiter la contamination.**
-*   **Déceler les signes de gravité** qui doivent conduire l'enfant en urgence dans un centre de soins ou un hôpital plus équipé.
+*   **Déceler les signes de gravité** qui doivent conduire l'enfant en urgence dans un centre de soins ou un hôpital plus équipé.  
 *   "**Mettre en condition" l'enfant au domicile** par des mesures simples qui peuvent empêcher ou limiter certaines complications.
 
 ### **1. La contamination**

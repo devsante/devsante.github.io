@@ -31,6 +31,7 @@ Lors de la piqûre d'un homme sain, l'anophè­le femelle infectée va inoculer 
 
 Les mérozoïtes vont se multiplier à l'intérieur des globules rouges entraînant leur éclate­ment. Les parasites libérés vont chercher à atteindre d'autres globules rouges non atteints jusque-là et ainsi de suite. Certains mérozoïtes évoluent ensuite pour donner des gamétocytes mâles et femelles que le moustique ingère lors­qu'il vient piquer cet homme parasité.
 
+
 ![](image002-10.jpg)
 
 
@@ -38,8 +39,8 @@ Les mérozoïtes vont se multiplier à l'intérieur des globules rouges entraîn
 
 L'éclatement des globules rouges parasités (rosaces) s'accompagne de multiples conséquences :
 
-*   La fièvre qui résulte de la libération dans la circulation d'une substance malarique pyo­gène. En cas d'éclatement asynchrone des rosaces, on observe une fièvre irrégulière ou apparemment continue. Mais si l'éclatement est synchrone, la fièvre est intermittente, tierce ou quarte, selon l'espèce.
-*   L'anémie et l'ictère résultent de la lyse des hématies parasitées. Mais les hématies saines peuvent également être détruites surtout dans les infections à _Plasmodium falciparum_ sans doute par un mécanisme immunologique.
+*   La fièvre qui résulte de la libération dans la circulation d'une substance malarique pyo­gène. En cas d'éclatement asynchrone des rosaces, on observe une fièvre irrégulière ou apparemment continue. Mais si l'éclatement est synchrone, la fièvre est intermittente, tierce ou quarte, selon l'espèce.  
+*   L'anémie et l'ictère résultent de la lyse des hématies parasitées. Mais les hématies saines peuvent également être détruites surtout dans les infections à _Plasmodium falciparum_ sans doute par un mécanisme immunologique.  
 *   La splénomégalie et accessoirement l'hépa­tomégalie sont témoins d'une hyperplasie des cellules macrophages de ces organes, destinées à la phagocytose des hématies parasitées.
 
 ### 3. Particularités du nourrisson et de l'enfant
@@ -55,7 +56,8 @@ Sur le plan clinique, on distingue 2 types de paludisme :
 
 Il n'y a pas de signes cliniques spécifiques au paludisme simple. Il s'agit d'un ensemble de signes fonctionnels, polymorphes pouvant simuler n'importe quelle maladie infectieuse, mais dont la particularité est l'absence de signes physiques. Parmi ces signes fonction­nels, la fièvre est présente, associée à un frisson, des courbatures, une asthénie et des céphalées.
 
-**![](image002.jpg)
+**
+![](image002.jpg)
 **
 
 Le diagnostic positif repose sur un faisceau d'arguments :

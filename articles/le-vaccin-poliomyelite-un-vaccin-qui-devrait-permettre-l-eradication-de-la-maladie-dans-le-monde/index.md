@@ -148,6 +148,7 @@ bivalent</td>
 </tbody>
 
 </table>
+
 <table>
 <caption>Tableau II. Comparaison bénéfices/risques du vaccin oral et injectable</caption>
 
@@ -371,10 +372,12 @@ En 2011, l’Inde réussit à éradiquer la maladie malgré les grandes difficul
 
 **Figure 1. Nombre mondial de cas dus au virus polio sauvage, 2012**
 
+
 ![](d-s-polio-1-nb-mond.jpg)
 
 
 **Figure 2. Districts où les activités d'éradication ont obtenu les moins bons résultats (dans les trois pays d'endémie restants)**
+
 
 ![](d-s-polio-2-districts.jpg)
 
@@ -392,6 +395,7 @@ Un plan d’action mondial a été mis en place par l’OMS avec la participatio
 Le modèle préconisé a permis de juguler une flambée de la maladie au Mali :en plus de la vaccination à la naissance telle qu’elle est pratiquée, il est mis en place une extension de la vaccination à des tranches d’âge supérieures, au moins jusqu’à 15 ans, voire plus selon les cas. Puis l’incidence de la maladie est réévaluée 6 mois après afin de juger de l’efficacité des mesures prises. En cas d’échec, une vaccination plus étendue sera pratiquée. Les résultats de telles mesures permettent l’arrêt de la flambée et ce modèle a été repris en RDC et en République Centrafricaine.
 
 **Figure 3. Déploiement des ressources humaines par l'OMS et l'UNICEF (personnels nationaux et internationaux), 2012-2013**
+
 
 ![](d-s-polio-deploiement-2.jpg)
 
@@ -426,6 +430,7 @@ peuvent-ils s'investir dans ce plan mondial ?
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -438,7 +443,8 @@ Le Tchad a notifié 132 cas en 2011, 129 dus au PVS1 et 3 dus au PVS3, le plus g
 
 </td>
 
-<td>![](d-s-polio-tchad-2.jpg)
+<td>
+![](d-s-polio-tchad-2.jpg)
 </td>
 
 </tr>
@@ -474,6 +480,7 @@ Le Tchad a notifié 132 cas en 2011, 129 dus au PVS1 et 3 dus au PVS3, le plus g
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -486,7 +493,8 @@ La RDC a notifié en 2011 93 cas dus au poliovirus sauvage, tous de type 1. Comm
 
 </td>
 
-<td>![](d-s-polio-congo-2.jpg)
+<td>
+![](d-s-polio-congo-2.jpg)
 </td>
 
 </tr>
@@ -509,7 +517,8 @@ L’Angola n’a notifié en 2011 que cinq cas dus au poliovirus sauvage, soit u
 
 </td>
 
-<td>![](d-s-polio-angola-2.jpg)
+<td>
+![](d-s-polio-angola-2.jpg)
 </td>
 
 </tr>
@@ -517,6 +526,7 @@ L’Angola n’a notifié en 2011 que cinq cas dus au poliovirus sauvage, soit u
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -547,11 +557,11 @@ Dans tous ces pays et lors de flambée épidémique, il faut le renforcement d�
 
 ### L’analyse de la mise en échec montre :
 
-*   La faiblesse des systèmes : en effet, ceux-ci nécessitent l’implication de tous les acteurs de santé, même non directement impliqués dans le programme OMS, car ce sont ces acteurs de terrain qui sont au plus près des populations et peuvent être les plus réactifs dans la participation des populations.
-*   La difficulté d’accès géographique de certaines zones, d’où l’importance du relai joué par les officiers de santé de terrain.
-*   L’insécurité dans certaines zones.
-*   Les migrations de populations qui échappent alors aux campagnes menées localement et restent donc des contaminateurs potentiels.
-*   La corruption.
+*   La faiblesse des systèmes : en effet, ceux-ci nécessitent l’implication de tous les acteurs de santé, même non directement impliqués dans le programme OMS, car ce sont ces acteurs de terrain qui sont au plus près des populations et peuvent être les plus réactifs dans la participation des populations.  
+*   La difficulté d’accès géographique de certaines zones, d’où l’importance du relai joué par les officiers de santé de terrain.  
+*   L’insécurité dans certaines zones.  
+*   Les migrations de populations qui échappent alors aux campagnes menées localement et restent donc des contaminateurs potentiels.  
+*   La corruption.  
 *   Les changements politiques.
 
 ### Le rôle essentiel des officiers de santé

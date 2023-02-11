@@ -38,8 +38,8 @@ Le même calcul doit être fait pour chaque vaccin en tenant compte du calendrie
 
 Les **besoins en consommables** sont évalués d'après le nombre de doses de vaccins :
 
-*   Seringues d'injection = nombre de doses de vaccin injectable.
-*   Seringues de dilution = nombre de flacons à reconstituer.
+*   Seringues d'injection = nombre de doses de vaccin injectable.  
+*   Seringues de dilution = nombre de flacons à reconstituer.  
 *   Boîtes de sécurité = nombre de seringues/100.
 
 Les **besoins mensuels** représentent un douzième des besoins annuels.  
@@ -97,8 +97,8 @@ Vaccin antitétanique :       5 injections 1 flacon de 10 doses
 Un système efficace d e gestion des stocks doit être en place afin de connaître à tout moment la quantité de vaccins disponibles, la date de péremption, le numéro de lot et le statut de la pastille de contrôle de chaque flacon. Ces éléments doivent apparaître dans un **registre de stock** et actualisés à chaque mouvement de vaccins.  
 Le registre de stock doit être divisé en autant de parties qu'il y a de vaccins et de consommables dans la formation sanitaire. Pour chaque item, les éléments suivants doivent être spécifiés :
 
-*   Nom de l'item.
-*   Présentation (nombre de doses par flacon).
+*   Nom de l'item.  
+*   Présentation (nombre de doses par flacon).  
 *   Pour chaque mouvement de stock :
     *   date et nature des mouvements de stock
     *   provenance ou destination
@@ -111,11 +111,12 @@ Le registre de stock doit être divisé en autant de parties qu'il y a de vaccin
 Le stock de vaccins et consommables disponible dans la formation sanitaire doit être régulièrement vérifié et les résultats du contrôle (mensuel) inscrits dans le registre de stock si besoin.  
 La gestion minutieuse des stocks permet d'éviter d'une part les ruptures de stock conduisant à l'arrêt des activités de vaccination, d'autre part de limiter les surstocks qui exposent à des risques de perte de vaccins. Le stock doit être inclus entre le seuil mini¬mal et le seuil maximal. Pour chaque vaccin, ces seuils doivent être déterminés pour l'année :
 
-*   Seuil minimal : il représente la quantité minimale de vaccins devant être en stock afin d'éviter la rupture. Il est fixé à 25 % des besoins en vaccins de la période (le mois, généralement).
+*   Seuil minimal : il représente la quantité minimale de vaccins devant être en stock afin d'éviter la rupture. Il est fixé à 25 % des besoins en vaccins de la période (le mois, généralement).  
 *   Seuil maximal : il représente la quantité maximale de vaccins devant être en stock afin de limiter le risque de perte. Il est généralement fixé à 125 % des besoins en vaccins pour la période.
 
 **Figure 1 : seuils minimal et maximal**  
 La commande de vaccins doit intervenir avant que le seuil minimal ne soit atteint. La méthode la plus simple pour calculer la quantité de vaccins à com-mander est indiquée dans le tableau ci-dessous. Quantité à commander = stock maximal - stock actuel.
+
 
 ![](i2185-1.jpg)
 

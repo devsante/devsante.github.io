@@ -10,6 +10,7 @@ La conduite à tenir devant une fièvre aiguë du nourrisson nécessite tout d'a
 
 **L'homéothermie** est le résultat d'un équilibre entre thermogenèse et thermolyse, régulé par un centre thermorégulateur, véritable thermostat (_figure n° 1_).
 
+
 ![](i860-1.jpg)
 
 
@@ -25,7 +26,9 @@ Le **centre thermorégulateur,** situé dans le cerveau, est réglé à 37° : i
 
 Il est indispensable de bien distinguer la **fièvre** _(figures n°2 et n°3_) et **l'hyperthermie :** l'hyperthermie est provoquée par une augmentation de la thermogenèse (exemples : température extérieure élevée, exercices musculaires intenses) et surtout par une diminution de la thermolyse (enfant trop couvert, arrêt de la sudation du fait d'une déshydratation).
 
+
 ![](i860-2.jpg)
+
 ![](i860-4.jpg)
 
 
@@ -38,7 +41,9 @@ Dans ce cas, le thermostat envoie des ordres de **thermogenèse :**
 *   frissons,
 *   vasoconstriction cutanée pour diminuer les échanges thermiques.
 
+
 ![](i860-3.jpg)
+
 ![](i860-5.jpg)
 
 
@@ -75,7 +80,9 @@ La voie IV est justifiée en cas d'urgence (41°): l'aspirine IV 10 à 20 mg/kg 
 
 5. Une fois ces mesures urgentes prises, il faudra **rechercher et traiter les causes** _(tableau)._
 
+
 ![](i860-6.jpg)
+
 ![](i860-7.jpg)
 
 

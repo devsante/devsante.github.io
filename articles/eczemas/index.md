@@ -63,7 +63,9 @@ Les principales causes d'eczéma de contact sont les suivantes :
 
 Certains eczémas sont dus à l'action conjointe sur la peau d'une substance dite **photosensibilisante** et des rayons lumineux. L'éruption atteint les parties découvertes.
 
+
 ![](i391-1.jpg)
+
 ![](i391-2.jpg)
 
 
@@ -82,6 +84,7 @@ C'est une variété particulière l'eczéma siégeant aux mains et aux pieds (pa
 *   facteur contact (allergique et irritatif),
 *   foyers infectieux à distance,
 *   prise médicamenteuse.
+
 
 ![](i391-3.jpg)
 

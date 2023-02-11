@@ -52,7 +52,7 @@ L'interrogatoire de la mère et d'elle seule permet souvent de comprendre l'orig
 
 ### Le mode alimentaire de l'enfant est fondamental à préciser :
 
-*   _en cas de marasme_, il s'agit le plus souvent d'un enfant âgé d'un an ou moins, sevré trop rapidement (dans les premiers mois) et nourri de façon inadaptée au lait artificiel par biberon.
+*   _en cas de marasme_, il s'agit le plus souvent d'un enfant âgé d'un an ou moins, sevré trop rapidement (dans les premiers mois) et nourri de façon inadaptée au lait artificiel par biberon.  
 *   _en_ cas de _Kwashiorkor,_ il s'agit le plus souvent d'un enfant âgé de plus de 18 mois et dont le sevrage s'est effectué à l'âge normal (entre 1 et 2 ans) mais trop brutalement.
 
 ### Une pathologie associée a pu aggraver le déséquilibre alimentaire
@@ -66,9 +66,9 @@ Toute infection doit être reconnue et traitée d'emblée sous peine de rendre l
 La recherche doit donc en être systématique au niveau des organes le plus souvent en cause :
 
 *   _les oreilles :_ l'absence de douleur et d'écoulement ne suffisent pas à éliminer une otite. L'examen à l'otoscope est indispensable ;
-*   le _poumon_ : même en l'absence de dyspnée et de toux, l'auscultation doit être minutieuse, sans oublier le dos et les creux axillaires. Une radiographie du thorax pourrait montrer des images d'ampleur inattendue.
+*   le _poumon_ : même en l'absence de dyspnée et de toux, l'auscultation doit être minutieuse, sans oublier le dos et les creux axillaires. Une radiographie du thorax pourrait montrer des images d'ampleur inattendue.  
 *   _les urines_ : sans dysurie ou pyurie clinique, un examen simple à la bandelette (protéinurie modérée) ou mieux au microscope peut montrer des leucocytes en faveur d'une infection urinaire ;
-*   _le paludisme :_ en pays d'endémie doit être traité systématiquement, même sans expression clinique ni biologique (Chloroquine 10 mg/kg/j).
+*   _le paludisme :_ en pays d'endémie doit être traité systématiquement, même sans expression clinique ni biologique (Chloroquine 10 mg/kg/j).  
 *   _les parasites intestinaux_ : doivent également être recherchés et traités systématiquement (Solaskyl 3 mg/kg en une prise, ou Mintézo150 mg/kg en une prise selon les parasites prédominant dans la région).
 
 ## Le traitement
@@ -117,8 +117,11 @@ En cas d'échec, dans un troisième temps, ' l'hospitalisation peut _être_ jug�
 
 L'ampleur des problèmes économiques et sociaux n'est pas seule en cause dans l'apparition de la malnutrition de l'enfant. L'éducation nutritionnelle et la prévention des infections permettent au moindre frais de limiter le problème : elles sont le rôle essentiel des structures de santé.
 
+
 ![](i966-1.jpg)
+
 ![](i966-2.jpg)
+
 ![](i966-3.jpg)
 
 

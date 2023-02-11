@@ -7,8 +7,8 @@ teaser: "Les purifications des vaccins de plus en plus poussées, ainsi que leur
 
 Avant d'aborder les contre-indications spécifiques pour chaque vaccin, quelques règles générales s'imposent. Trois situations contre-indiquent la vaccination :
 
-*   **Une réaction allergique importante** survenue dans les suites de l'injection du vaccin que l'on doit administrer.
-*   **Une maladie infectieuse grave en pleine évolution**, mais certainement pas un syndrome grippal banal ou une crise de paludisme et a fortiori une rhinopharyngite chez l'enfant.
+*   **Une réaction allergique importante** survenue dans les suites de l'injection du vaccin que l'on doit administrer.  
+*   **Une maladie infectieuse grave en pleine évolution**, mais certainement pas un syndrome grippal banal ou une crise de paludisme et a fortiori une rhinopharyngite chez l'enfant.  
 *   **L'existence d'un déficit immunitaire inné** (affections exceptionnelles) **ou acquis** (c'est le cas fréquent de l'infection à VIH au stade avancé de SIDA) contre-indique les vaccins viraux vivants et le BCG. C'est aussi le cas des vaccins contre la rougeole, les oreillons, la rubéole, la fièvre jaune, la varicelle, et enfin le vaccin oral contre la poliomyélite (Sapin). En effet, si l'immunité du sujet est effon¬drée, le vaccin peut diffuser dans tout l'organisme et provoquer des complications parfois mortelles (encéphalites, paralysies, pneumonies, etc.).  
     Pour l'infection à VIH, le problème est délicat : ne pas protéger un enfant contre la rougeole, la tuberculose ou la fièvre jaune dans une région où ces infections sont fréquentes est risqué. En pratique, on admet que le taux de CD4 est discriminant. Un taux supérieur à 200/mm<sup>3</sup> autorise les vaccins vivants, ce qui est le cas de la majorité des notrrYissans de moins d'un an infectés par le VIH. Associations de vaccins il est possible, lors d'une même séance de vaccination, d'administrer, en d'autres sites, différents vaccins y compris des vaccins viraux vivants (rougeole et vaccin amarile par exemple). **_Il est par contre formellement contre-indiqué d'injecter un vaccin viral vivant dans le mois qui suit l’administrationd'un autre vaccin viral vivant_**. En pratique, cela ne concerne que les vaccins rougeole, fièvre jaune et polio oral (Sabin). En effet, le second vaccin injecté à moins d'un mois d'intervalle sera inefficace.
 
@@ -131,6 +131,7 @@ Antécédent de Tuberculose, même limitée au stade de primo-infection.</td>
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>

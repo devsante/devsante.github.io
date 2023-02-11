@@ -20,10 +20,10 @@ Voir "Maladies sexuellement transmissibles, 1ère partie".
 
 ### En rapport avec
 
-*   **_N. gonorrhoeae_ (gonocoque).** Le frottis urétral coloré au Gram (ou au bleu de méthylène) montre la présence de diplocoques Gram négatif intra et extracellulaires. Chez l'homme, sa sensibilité est de 90 % et sa spécificité supérieure à 95 %. Dans le meilleur des cas, le diagnostic est confirmé par la culture.
-*   **_Chlamydia trachomatis._** La culture est difficile et coûteuse. Les tests de diagnostic rapide ont un intérêt croissant mais sont également coûteux. Le sérodiagnostic est inutile du fait d'un manque de sensibilité (en cas d'urétrite non compliquée) et d'un manque de spécificité (présence d'anticorps pouvant être la conséquence d'une infection ancienne ou d'une infection à Chlamydia d'un autre sérotype).
-*   **_Ureaplasma urealyticum._** Sa pathogénicité est discutable et le diagnostic ne peut être retenu que s'il existe en culture des titres supérieurs ou égaux à 10<sup>4</sup> UCC/mI.
-*   **Mycoplasma genitalium.** La pathogénicité est probablement supérieure à _Ureaplasma urealyticum,_ autre mycoplasme. D'autres bactéries pyogènes (streptocoques, _Haemophilus_ ... ) peuvent être à l'origine d'urétrite bactérienne. Leur pathogénicité est retenue s'il existe une flore monomorphe et une culture supérieure à 10<sup>4</sup>/mI.
+*   **_N. gonorrhoeae_ (gonocoque).** Le frottis urétral coloré au Gram (ou au bleu de méthylène) montre la présence de diplocoques Gram négatif intra et extracellulaires. Chez l'homme, sa sensibilité est de 90 % et sa spécificité supérieure à 95 %. Dans le meilleur des cas, le diagnostic est confirmé par la culture.  
+*   **_Chlamydia trachomatis._** La culture est difficile et coûteuse. Les tests de diagnostic rapide ont un intérêt croissant mais sont également coûteux. Le sérodiagnostic est inutile du fait d'un manque de sensibilité (en cas d'urétrite non compliquée) et d'un manque de spécificité (présence d'anticorps pouvant être la conséquence d'une infection ancienne ou d'une infection à Chlamydia d'un autre sérotype).  
+*   **_Ureaplasma urealyticum._** Sa pathogénicité est discutable et le diagnostic ne peut être retenu que s'il existe en culture des titres supérieurs ou égaux à 10<sup>4</sup> UCC/mI.  
+*   **Mycoplasma genitalium.** La pathogénicité est probablement supérieure à _Ureaplasma urealyticum,_ autre mycoplasme. D'autres bactéries pyogènes (streptocoques, _Haemophilus_ ... ) peuvent être à l'origine d'urétrite bactérienne. Leur pathogénicité est retenue s'il existe une flore monomorphe et une culture supérieure à 10<sup>4</sup>/mI.  
 *   **Trichomonas vaginalis.** Le diagnostic repose sur l'examen direct (état frais entre lame et lamelle) de l'écoulement et sur les cultures (sur milieux appropriés) à partir d'un prélèvement urétral et du premier jet d'urine.
 
 ### Pour en savoir plus
@@ -38,6 +38,7 @@ Idéalement, le diagnostic étiologique repose sur des examens complémentaires,
 
 En pratique, la démarche diagnostique s'appuie sur un algorithme décisionnel (algorithmes _1 et 2). N. gonorrhoeae, C. trachomatis_ et un mycoplasme sont à eux trois responsables de plus de 90 % des urétrites chez l'homme. La répartition de chacun de ces agents pathogènes est variable selon la région.
 
+
 ![](i944-1.jpg)
 
 
@@ -48,6 +49,7 @@ Le traitement d'une urétrite est double : d'abord traitement antigonococcique m
 Le traitement minute antigonococcique par les penicillines doit être abandonné du fait de la résistance du gonocoque aux pénicillines.
 
 Voir ci-après traitement des leucorrhées.
+
 
 ![](i944-2.jpg)
 
@@ -68,8 +70,9 @@ Voir ci-après traitement des leucorrhées.
 
 ### Ne pas confondre avec
 
-*   Les vulvo-vaginites d'origine non infectieuses hormonales (grossesse, post-partum, préménopause, postménopause, prépuberté ... ), caustiques (cosmétiques, produits d'hygiène, de nettoyage, sous-vêtements, douches vaginales, corps étrangers ... ), allergiques (eczéma de contact au latex des préservatifs ... ), ou correspondant à des localisations génitales de dermatoses (eczéma, psoriasis, lichen plan ... ).
+*   Les vulvo-vaginites d'origine non infectieuses hormonales (grossesse, post-partum, préménopause, postménopause, prépuberté ... ), caustiques (cosmétiques, produits d'hygiène, de nettoyage, sous-vêtements, douches vaginales, corps étrangers ... ), allergiques (eczéma de contact au latex des préservatifs ... ), ou correspondant à des localisations génitales de dermatoses (eczéma, psoriasis, lichen plan ... ).  
 *   Les cervicites d'origine traumatique, postabortive, hormonale ou caustique partageant les mêmes causes que les vulvo-vaginites non infectieuses.
+
 
 ![](i944-3.jpg)
 
@@ -104,7 +107,7 @@ Hospitalisations, céfotaxime  1g/8h IV lente pendant 10 jours.
 
 #### Trichomonase
 
-*   métronidazole (Flagyl®) : 2g en dose unique ou 500mg x 2/j pendant 7 jours.
+*   métronidazole (Flagyl®) : 2g en dose unique ou 500mg x 2/j pendant 7 jours.  
 *   en cas de grossesse : traitement local par Flagyl® : 1 ovule x 2/j pendant 10 jours.
 
 #### Infections à mycoplasmes
@@ -125,6 +128,7 @@ Hospitalisations, céfotaxime  1g/8h IV lente pendant 10 jours.
 
 *   éconazole (Pévaryl® crème) : sur la vulve matin et soir pendant 3 semaines
 *   et Pévaryl® : 1 ovule 3 à 6 jours de suite à renouveler après les règles suivantes.
+
 
 ![](i944-4.jpg)
 
@@ -166,6 +170,7 @@ Les examens complémentaires recherchent en priorité le germe responsable par u
 Le principal diagnostic différentiel de l'orchi-épididymite infectieuse est la torsion du cordon spermatique, urgence chirurgicale.
 
 Le traitement de l'orchi-épididymite infectieuse associe le repos au lit, une suspension scrotale, des anti-inflammatoires non stéroïdiens, et une antibiothérapie adaptée. En l'absence d'examen complémentaire, l'antibiothérapie doit couvrir les entérobactéries et les bactéries responsables d'urétrite : gonocoque et _Chlamydia trachomatis._
+
 
 ![](i944-5.jpg)
 

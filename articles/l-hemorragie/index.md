@@ -25,7 +25,7 @@ le malade saigne d'un point quelconque de son corps sans que le sang s'extérior
 
 Si le sang est rouge, s'écoule par saccade: c'est une plaie artérielle, si le sang est sombre, s'écoule en flot permanent: c'est une plaie veineuse. Les plaies à l'origine de ces hémorragies sont:
 
-*   plaie par arme blanche: couteau, coupe coupe, flèche...
+*   plaie par arme blanche: couteau, coupe coupe, flèche...  
 *   plaie par balle,
 *   coup de corne,
 *   fracture ouverte...
@@ -100,8 +100,8 @@ pendant plusieurs jours, le sang épanché est résorbé par l'organisme en part
 
 enfin donne ses propres signes:
 
-*   Douleur abdominale, pertes vaginales sanglantes, douleur au toucher vaginal lors d'une grossesse extra-utérine.
-*   Volumineux hématome de la cuisse lors des fractures du fémur.
+*   Douleur abdominale, pertes vaginales sanglantes, douleur au toucher vaginal lors d'une grossesse extra-utérine.  
+*   Volumineux hématome de la cuisse lors des fractures du fémur.  
 *   Troubles respiratoires lors des hémothorax
 
 *   (saignement dans la cavité pleurale).
@@ -113,6 +113,7 @@ C'est-à-dire la quantité de sang perdu par le malade.
 Chez un adulte, la quantité de sang présente dans les vaisseaux (masse sanguine) est de quatre à cinq litres, les premiers signes cliniques d'hémorragie apparaîtront pour des pertes supérieures à un demi-litre et seront très franches pour des pertes supérieures à un litre. Mais la rapidité avec laquelle la perte s'est faite joue aussi. Si l'hémorragie se fait en quelques minutes ou heures, les signes seront francs, rapidement perçus par le malade.
 
 Si au contraire, la perte se fait en plusieurs jours, comme dans certaines grossesses extra-utérines, le saignement est compensé peu à peu par l'organisme et les signes seront moins brutalement installés et plus difficiles à reconnaître.
+
 
 ![](i24-1.jpg)
 

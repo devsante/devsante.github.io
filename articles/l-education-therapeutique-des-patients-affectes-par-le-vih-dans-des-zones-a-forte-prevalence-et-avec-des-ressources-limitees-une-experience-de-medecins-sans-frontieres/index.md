@@ -8,11 +8,12 @@ Les projets VIH Médecins Sans Frontières (MSF) basés en Afrique Australe sont
 
 **Prenons l'exemple du Malawi :**
 
-*   La prévalence du VIH est estimée dans le pays à 14 %. Fin 2006, 82.000 patients sont sous traitement ARV dans 102 sites grâce aux initiatives du Ministère de la santé et des ONG présentes dans le pays.
-*   La prise en charge des patients est compliquée du fait des ressources humaines insuffisantes. En comparaison à d'autres pays d'Afrique, le ratio soignant par 100.000 habitants y est le plus bas (2) (voir tableau cidessous).
-*   Dans un des districts où MSF travaille, on estime qu'environ 3.000 personnes ont besoin de démarrer un traitement ARV chaque année parmi une population totale estimée à 280.000 personnes. Actuellement, 350 nouveaux patients en besoin immédiat d'ARV sont admis chaque mois.
-*   88 % des patients sont sous une première ligne d'ARV génériques : D4T + 3TC + NVP (Triomune, Nevilast).
+*   La prévalence du VIH est estimée dans le pays à 14 %. Fin 2006, 82.000 patients sont sous traitement ARV dans 102 sites grâce aux initiatives du Ministère de la santé et des ONG présentes dans le pays.  
+*   La prise en charge des patients est compliquée du fait des ressources humaines insuffisantes. En comparaison à d'autres pays d'Afrique, le ratio soignant par 100.000 habitants y est le plus bas (2) (voir tableau cidessous).  
+*   Dans un des districts où MSF travaille, on estime qu'environ 3.000 personnes ont besoin de démarrer un traitement ARV chaque année parmi une population totale estimée à 280.000 personnes. Actuellement, 350 nouveaux patients en besoin immédiat d'ARV sont admis chaque mois.  
+*   88 % des patients sont sous une première ligne d'ARV génériques : D4T + 3TC + NVP (Triomune, Nevilast).  
 *   Fin 2006, cinq années après le démarrage des ARV, les résultats du programme sont les suivants :
+
 
 ![](i1085-1.jpg)
 
@@ -105,6 +106,7 @@ Aujourd'hui, pour pallier au manque de personnel et au nombre croissant de patie
 
 Au démarrage du programme, les cliniciens et infirmiers avaient tendance à rejeter sur les counselors toute la responsabilité de l'ETP et de l'adhérence. Il aura fallu du temps et une session de formation spécifique pour voir les mentalités changer et chacun se sentir responsable d'agir, même à minima. Aujourd'hui, l'ETP est reconnue par tous comme un élément clé de la prise en charge des patients. Tous les soignants y participent et sont concernés. Les cliniciens et infirmiers vont lors des consultations s'assurer de la compréhension du malade sur son traitement, sa maladie, vérifier son mode de prise des médicaments et prendre le temps de répondre à ses questions.
 
+
 ![](i1085-2.jpg)
 
 
@@ -114,7 +116,7 @@ Certains éléments favorisent une approche multi-professionnelle :
 *   Des réunions d'équipe :
     *   cliniciens et counselors pour discuter des cas de patients suspects d'une résistance aux ARV de première ligne,
     *   entre counselors : pour évoquer les activités ETP ensemble, partager sur le cas d'un patient posant problème,
-    *   coordination : pour aborder les orientations du programme.
+    *   coordination : pour aborder les orientations du programme.  
 *   La stabilité des équipes qui permet un lien entre les soignants et favorise ainsi la communication,
 *   Le "qui fait quoi" est précisé dans le protocole détaillant les activités ETP.
 
@@ -126,13 +128,13 @@ Le projet bénéficie d'un protocole ETP qui structure et formalise le suivi des
 
 En 5 ans et au fur et à mesure de l'inclusion de nouveaux patients, il a fallu simplifier, alléger le protocole pour permettre de voir plus de patients :
 
-*   Initiation des ARV : le nombre des visites auprès du counselor est passé de 3 sessions avant de démarrer les ARV à 2 sessions. La première consultation a aujourd'hui lieu en groupe, alors que la deuxième reste toujours individuelle.
-*   Dans les 6 premiers mois sous ARV : les rencontres étaient fréquentes et rapprochées (quasiment une fois par mois). Aujourd'hui, les consultations sont réalisées à J15 après le démarrage, 6 semaines, 3 mois puis 6 mois.
+*   Initiation des ARV : le nombre des visites auprès du counselor est passé de 3 sessions avant de démarrer les ARV à 2 sessions. La première consultation a aujourd'hui lieu en groupe, alors que la deuxième reste toujours individuelle.  
+*   Dans les 6 premiers mois sous ARV : les rencontres étaient fréquentes et rapprochées (quasiment une fois par mois). Aujourd'hui, les consultations sont réalisées à J15 après le démarrage, 6 semaines, 3 mois puis 6 mois.  
 *   Suivi "long terme" : les visites se sont espacées de plus en plus : tous les 4 mois au début à un suivi obligatoire tous les 6 mois avec le counselor. Malgré cet assouplissement, en 2005, seuls environ 30 % des "vieux patients" (>18 mois de traitement) avaient été vus lors de leur rencontre semestrielle. Les consultations médicales (et le renouvellement des ARV) se sont espacés, de 1 mois au début du programme à maintenant 3 mois pour les patients stables. Bien sûr, entre ces visites, les patients peuvent consulter par eux-mêmes le counselor ou être adressés par le clinicien en cas de problème d'adhérence, de changement de régime ou de re-démarrage de traitement.
 
 La formalisation de l'ETP inclut aussi le recours à des outils d'éducation spécifiques(4):
 
-*   Des outils éducationnels existent maintenant et ont été soit créés par l'équipe, soit développés par le Ministère de la santé.
+*   Des outils éducationnels existent maintenant et ont été soit créés par l'équipe, soit développés par le Ministère de la santé.  
 *   Un dossier de soin, chose rare au Malawi, reste en possession du patient qui l'apporte lors de chaque consultation.
 
 ## III. Education thérapeutique centrée  

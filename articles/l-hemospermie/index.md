@@ -54,6 +54,7 @@ Le sperme, une fois éjaculé, parcourt l'urètre qui représente donc une voie 
 
 L'urètre, au moment de l'éjaculation, sécrète un liquide fluide, transparent et peu abondant. Cependant, la pathologie urétrale ne peut pas être retenue dans les causes d'hémospermie, les maladies de l'urètre donnant plus facilement lieu à des écoulements ou à des urétrorragies (saignement d'origine urétrale).
 
+
 ![](i941-1.jpg)
 
 
@@ -69,7 +70,7 @@ En tout cas, quel que soit le degré d inquiétude du malade, l'abondance de cet
 
 L'évolution se fait le plus souvent vers la cédation spontanée de l'hémorragie. Mais le fait que le sperme a pour particularité d'être stocké et éliminé à intervalle plus ou moins régulier explique que :
 
-*   même si l'origine de l'hémorragie a cessé, du sperme sanglant peut continuer à être éliminé pendant un certain temps (parfois quelques semaines).
+*   même si l'origine de l'hémorragie a cessé, du sperme sanglant peut continuer à être éliminé pendant un certain temps (parfois quelques semaines).  
 *   le sang accumulé commence à s'hémolyser au fil du temps et prend alors une teinte brunâtre qui inquiète encore plus le malade.
 
 Quel que soit l'aspect du saignement (couleur, abondance), sa signification est la même : les vésicules séminales ou la prostate sont, ou ont été, le siège d'un saignement dont il convient de rechercher la cause.
@@ -177,13 +178,13 @@ Ces prostatites sont souvent dues à des urétrites négligées, mais parfois au
 
 Le toucher rectal montre une prostate un peu molle et douloureuse.
 
-*   La prostatite bilharzienne est à évoquer chez un bilharzien connu car ce n'est pas un signe révélateur habituel.
+*   La prostatite bilharzienne est à évoquer chez un bilharzien connu car ce n'est pas un signe révélateur habituel.  
 *   La prostatite tuberculeuse, bien que rare, doit être évoquée devant une petite prostate indurée au toucher rectal.
 
 ### c) Autres causes plus rares
 
-*   l'adénome de la prostate est fréquemment palpé au toucher rectal chez l'homme à partir de 50 ans mais rarement en cause.
-*   le cancer de la prostate : ildonne une volumineuse prostate pierreuse au toucher rectal, ce cancer est fréquent, mais l'hémospermie rare.
+*   l'adénome de la prostate est fréquemment palpé au toucher rectal chez l'homme à partir de 50 ans mais rarement en cause.  
+*   le cancer de la prostate : ildonne une volumineuse prostate pierreuse au toucher rectal, ce cancer est fréquent, mais l'hémospermie rare.  
 *   le cancer d'une vésicule séminale : il est exceptionnel.
 
 ## Conclusion

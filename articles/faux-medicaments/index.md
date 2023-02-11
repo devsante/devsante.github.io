@@ -15,8 +15,8 @@ Soixante pour cent ne contiennent aucun principe actif récemment, en Colombie, 
 
 Plus grave : lors d'une grande épidémie de méningite à méningocoque A au Niger, des milliers d'ampoules de vaccins provenant du Nigeria ne contenaient que de l'eau. Plus de 60 000 personnes avaient déjà été vaccinées... avec de l'eau. Ce crime a entraîné de nombreux morts !
 
-*   19 % des imitations sont mal dosées.
-*   16 % contiennent d'autres substances.
+*   19 % des imitations sont mal dosées.  
+*   16 % contiennent d'autres substances.  
 *   5 % seulement des faux médicaments testés présentent la même qualité que l'original.
 
 ## Comment lutter contre ce fléau ?

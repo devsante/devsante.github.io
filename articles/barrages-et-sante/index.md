@@ -5,6 +5,7 @@ date: "2005-06-03"
 teaser: "Durant les 40 dernières années, un grand nombre de barrages ont été construits en Afrique. Ils sont de taille très variable, allant du grand barrage créant un lac de plusieurs Km2 à de petites retenues d'eau créées par des villageois aux environs de leur village. Mais tous ont une influence sur la santé des hommes qui habitent à côté, ou y viennent pour différentes raisons ou en dépendent indirectement."
 ---
 
+
 ![](i999-1.jpg)
 
 
@@ -69,6 +70,7 @@ Enfin il est anormal qu'un aménagement agricole pour cultures de rentes ne pré
 Toutes ces actions sont à envisager le plus tôt possible avec les responsables de l'aménagement et concernent tous les villageois mais, il est certain que l'infirmier de la zone aura un rôle primordial à jouer. Si, dès la conception du projet la communauté propose des actions argumentées il est possible d'obtenir des moyens. Les concepteurs de ces projets ne connaissent pas les questions de santé et seront enchantés de trouver des interlocuteurs.
 
 Si le projet agricole ou de barrage est ancien le débat est plus difficile mais il doit avoir lieu. Et il est possible de convaincre les responsables du barrage que si, les problèmes de santé surpassent en inconvénients les retombées positives du barrage, les habitants des alentours quitteront la région ou que les coûts de prise en charge des malades surpasseront les bénéfices du barrage. Ensuite des actions d'assainissement des villages et des projets d'amélioration de l'accès aux soins primaires sont envisageables.
+
 
 ![](i999-2.jpg)
 

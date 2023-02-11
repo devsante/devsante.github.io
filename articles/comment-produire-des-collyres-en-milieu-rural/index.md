@@ -78,6 +78,7 @@ Pour préparer du collyre à la polyvidone iodée, on dissout 1 g de poudre de p
 
 Pour faciliter les choses, on peut prendre une solution aqueuse à 10 % de vidone iodée, que l'on trouve partout sous le nom de Bétadine, pour préparer du collyre à 1 % de vidone iodée : on dilue 1 ml de Bétadine dans 9 ml de soluté salin.
 
+
 ![](i574-1.jpg)
 
 

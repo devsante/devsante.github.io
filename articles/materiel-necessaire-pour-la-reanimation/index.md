@@ -21,13 +21,13 @@ Il ne tolère aucun délai. Il se fait essentiellement :
 
 ### **2. Conduite à tenir**
 
-*   Appeler à l'aide et noter l'heure.
-*   Placer le sujet sur un plan dur.
+*   Appeler à l'aide et noter l'heure.  
+*   Placer le sujet sur un plan dur.  
 *   S'assurer de l'absence de mouvements respiratoires, luxer le maxillaire inférieur vers l'avant et nettoyer au doigt le pharynx.
 
 *   Deux gestes simultanés sont indispensables :
     *   le rétablissement de la ventilation alvéolaire,
-    *   le massage cardiaque externe.
+    *   le massage cardiaque externe.  
 *   Mettre en place une perfusion percutanée sur une grosse veine périphérique avec un cathéter 16 ou 18 G, puis remplissage vasculaire en cas d'hémorragie.
 
 *   Évaluer les résultats de la réanimation précoce, active et efficace au bout de quelques minutes.
@@ -42,6 +42,7 @@ C'est la plus rapide à mettre en oeuvre. Le rétablissement de la ventilation a
 
 En ce qui concerne les techniques de bouche à bouche et de ventilation au masque avec Ambu, on peut s'aider en insérant une canule oro-pharyngée (type Mayo ou Guedel) : de taille adaptée à l'âge, elle facilite le passage de l'air et évite la chute de la langue sur le larynx _(schéma n° 1)_.
 
+
 ![](i948-1.jpg)
 
 
@@ -50,6 +51,7 @@ La canule est glissée sur la langue, tournée vers le haut, puis retournée afi
 ### **2. Ventilation au masque avec ballon auto-gonflable (Ambu)**
 
 Cette technique rend de grands services dans trois circonstances particulières et devrait être connue de tous les médecins ou infirmiers exerçant dans un hôpital (_schéma n°_ _3)._
+
 
 ![](i948-2.jpg)
 
@@ -64,9 +66,9 @@ Cette technique rend de grands services dans trois circonstances particulières 
 
 Elle doit être rigoureuse :
 
-*   Tête en hyper extension modérée.
-*   Masque adapté au massif facial de l'adulte ou de l'enfant (pas de fuites au niveau de la bouche et du nez).
-*   Luxer la mâchoire inférieure vers l'avant et le haut à l'aide de la main gauche en maintenant le masque sur le visage.
+*   Tête en hyper extension modérée.  
+*   Masque adapté au massif facial de l'adulte ou de l'enfant (pas de fuites au niveau de la bouche et du nez).  
+*   Luxer la mâchoire inférieure vers l'avant et le haut à l'aide de la main gauche en maintenant le masque sur le visage.  
 *   Ventiler avec le ballon (main droite) au rythme de :
     *   10 à 12/minute pour l'adulte
     *   20/minute pour l'enfant,
@@ -76,21 +78,22 @@ Elle doit être rigoureuse :
 
 Nous détaillerons ici le matériel nécessaire à une intubation et vous rappelons que lors de toute anesthésie, ce matériel doit être à portée de la main et en bon état de fonctionnement _(schéma n° 4_) _:_
 
-*   Un laryngoscope avec un jeu de lames (courbes pour l'adulte, droites pour l'enfant), des ampoules et des piles de 1,5 V de rechange (attention : l'ampoule du laryngoscope se dévisse fréquemment et risque de tomber au fond de la gorge lors de la manoeuvre d'intubation).
-*   Lidocaïne visqueuse pour enduire le bout de la sonde d'intubation.
+*   Un laryngoscope avec un jeu de lames (courbes pour l'adulte, droites pour l'enfant), des ampoules et des piles de 1,5 V de rechange (attention : l'ampoule du laryngoscope se dévisse fréquemment et risque de tomber au fond de la gorge lors de la manoeuvre d'intubation).  
+*   Lidocaïne visqueuse pour enduire le bout de la sonde d'intubation.  
 *   Sondes d'intubation stériles avec raccords :
 *   **6,5 - 7 - 7,5 avec ballonnets** pour l'adulte (vérifier l'étanchéité du ballonnet),
 *   **2,5 à 5 sans ballonnet** pour l'enfant. Pour déterminer le calibre de la sonde à insérer chez un enfant, on choisit celle dont le diamètre se rapproche le plus du petit doigt de l'enfant.
 
 *   Aspirateur à pied et sondes d'aspiration stériles.
 
+
 ![](i948-3.jpg)
 
 
-*   Canules oro-pharyngées (Mayo ou Guedel) de différentes tailles.
-*   Pinces de Magill ; pince de Kelly ou Kocher.
-*   Seringue de 10 ml.
-*   Sparadrap.
+*   Canules oro-pharyngées (Mayo ou Guedel) de différentes tailles.  
+*   Pinces de Magill ; pince de Kelly ou Kocher.  
+*   Seringue de 10 ml.  
+*   Sparadrap.  
 *   Ambu avec une valve s'adaptant sur les raccords des sondes d'intubation (vérifier +++)
 
 **Technique (pour les droitiers)**
@@ -101,13 +104,13 @@ Tête en hyper extension (_schéma n° 5, (a))_ :
 
 *   Gonfler le ballonnet avec 7-8 ml d'air, clamper en dessous du ballonnet témoin avec la pince de Kocher _(e)._
 
-*   Adapter l'Ambu avec la valve et ausculter les deux poumons : la sonde est en place et la ventilation est symétrique des deux côtés.
+*   Adapter l'Ambu avec la valve et ausculter les deux poumons : la sonde est en place et la ventilation est symétrique des deux côtés.  
 *   A l'inverse, l'auscultation de l'épigastre doit être silencieuse.
 
 Si un seul poumon est ventilé, retirer la sonde de 1 à 2 cm après avoir dégonflé le ballonnet et recommencer la vérification par l'auscultation. En cas d'inefficacité ventilatoire (pas de bruit à l'auscultation), cela signifie que la sonde a été placée dans l'oesophage ; recommencer la manoeuvre d'intubation.
 
-*   Mettre en place une canule oropharyngée.
-*   Fixer très soigneusement la sonde en place avec du sparadrap.
+*   Mettre en place une canule oropharyngée.  
+*   Fixer très soigneusement la sonde en place avec du sparadrap.  
 *   La fréquence ventilatoire est la même que pour une ventilation au masque (10 à 12 par minute pour l'adulte).
 
 L'extubation se fait lorsque le patient a récupéré une conscience normale, une ventilation spontanée efficace et un état hémodynamique satisfaisant (ne pas oublier de dégonfler le ballonnet et d'aspirer dans la trachée avant l'extubation) .
@@ -129,6 +132,7 @@ Utiliser l'épinéphrine (Adrénaline®) (1 mg = 1 ml). Chez l'enfant (0,01 ml/k
 Si le coeur ne repart plus, malgré un massage cardiaque externe et une ventilation corrects, le problème de l'arrêt des mesures de réanimation se pose. La décision se fondera sur une maladie causale et le délai qui a précédé la mise en oeuvre de la réanimation.
 
 **Il est indispensable de vérifier toutes les semaines le bon fonctionnement de tout le matériel de réanimation (même et surtout s'il ne sert pas souvent). Toute négligence en ce domaine peut coûter la vie à un malade.**
+
 
 ![](i948-4.jpg)
 

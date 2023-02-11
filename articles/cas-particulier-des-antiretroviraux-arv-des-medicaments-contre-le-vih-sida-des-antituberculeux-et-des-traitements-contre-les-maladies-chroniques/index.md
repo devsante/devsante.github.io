@@ -8,9 +8,9 @@ teaser: "Les recommandations qui suivent s'attachent particulièrement aux ARV m
 
 Les règles de base de gestion de la pharmacie sont applicables à tous les médicaments (connaître l'état du stock à chaque instant ; déclencher, passer, suivre et réceptionner une commande ; valider le stock théorique par un inventaire...) mais des règles de gestion spéci­fique s'appliquent aux médicaments ARV, car :
 
-*   **Ce sont des traitements chroniques** : un patient débutant un traitement ARV le renouvellera chaque mois pendant une longue période ou toute sa vie. Ainsi pour chaque approvisionnement de la pharmacie en ARV l'évaluation des besoins est basée sur le nombre de patients déjà sous traite­ment auquel s'ajoute le nombre de patients qui vont démarrer un traitement ARV.
-*   Ce sont des traitements qui **deviennent inefficaces et peuvent favoriser l'appa­rition de virus résistants si l'observan­ce du patient est inférieure à 95 % des prises**, c'est-à-dire si le patient rate plus de 1 prise sur 10 (dans le cas des traitements ARV contre le VIH). L'observance est égale­ment cruciale dans le cas de tuberculose ou de la lèpre. Les ruptures de stock d'ARV et autres médicaments spécifiques sont donc à éviter absolument car elles représentent une cause majeure de non observance.
-*   **Les sources et procédures de finance­ment**des médicaments ARV et antitubercu­leux sont souvent spécifiques et différentes de celles des autres médicaments.
+*   **Ce sont des traitements chroniques** : un patient débutant un traitement ARV le renouvellera chaque mois pendant une longue période ou toute sa vie. Ainsi pour chaque approvisionnement de la pharmacie en ARV l'évaluation des besoins est basée sur le nombre de patients déjà sous traite­ment auquel s'ajoute le nombre de patients qui vont démarrer un traitement ARV.  
+*   Ce sont des traitements qui **deviennent inefficaces et peuvent favoriser l'appa­rition de virus résistants si l'observan­ce du patient est inférieure à 95 % des prises**, c'est-à-dire si le patient rate plus de 1 prise sur 10 (dans le cas des traitements ARV contre le VIH). L'observance est égale­ment cruciale dans le cas de tuberculose ou de la lèpre. Les ruptures de stock d'ARV et autres médicaments spécifiques sont donc à éviter absolument car elles représentent une cause majeure de non observance.  
+*   **Les sources et procédures de finance­ment**des médicaments ARV et antitubercu­leux sont souvent spécifiques et différentes de celles des autres médicaments.  
 *   Les médicaments ARV et les médicaments antituberculeux doivent être stockés et gérés de façon spécifique car ils sont **fragiles et précieux** : rangés dans un endroit sécurisé et gérés dans des registres séparés des autres médicaments.
 
 ### Evaluation des besoins en ARV  
@@ -221,9 +221,9 @@ de stock en médicaments ARV ?
 
 **Un médicament ARV ne doit jamais être supprimé d'une combinaison d'ARV ni remplacé spontanément par un autre médicament ARV.**
 
-1.  Signaler cette rupture aux responsables du programme.
-2.  Estimer le nombre de patients concernés par cette rupture.
-3.  Estimer la quantité d'ARV à commander en urgence et déclencher une commande d'urgence auprès du fournisseur habituel.
+1.  Signaler cette rupture aux responsables du programme.  
+2.  Estimer le nombre de patients concernés par cette rupture.  
+3.  Estimer la quantité d'ARV à commander en urgence et déclencher une commande d'urgence auprès du fournisseur habituel.  
 4.  Bien noter le délai d'approvisionnement annoncé et, en attendant la livraison en urgence, se faire dépanner si possible par des structures voisines.
 
 <table>

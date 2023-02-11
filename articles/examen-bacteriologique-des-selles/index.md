@@ -17,24 +17,24 @@ _Vibrio cholerae_ est le plus souvent recherché dans un contexte clinique parti
 
 ### 1. Prélèvement
 
-*   Une noix de selles, dans un récipient stérile.
+*   Une noix de selles, dans un récipient stérile.  
 *   Examen dans les 4 heures (conservation maximale 8 heures à 4°C).
 
 ### 2. Fiche de renseignements cliniques
 
 Elle est demandée dans les pays industrialisés de façon à orienter judicieusement les recherches en fonction des renseignements suivants
 
-*   Âge.
-*   Signes cliniques : fièvre, douleurs, vomissements.
-*   Origine géographique ou voyage récent.
-*   Antibiothérapie.
+*   Âge.  
+*   Signes cliniques : fièvre, douleurs, vomissements.  
+*   Origine géographique ou voyage récent.  
+*   Antibiothérapie.  
 *   Cas de diarrhée dans l'entourage.
 
 Elle est plus difficile à obtenir dans les pays en développement, mais une fiche même succincte est utile.
 
 ### **3. Examen macroscopique**
 
-*   Noter l'aspect de la selle : purulent, présence de mucus, présence de sang.
+*   Noter l'aspect de la selle : purulent, présence de mucus, présence de sang.  
 *   Sa consistance : liquide, molle, moulée.
 
 ### **4. Examen microscopique**
@@ -99,8 +99,11 @@ Pour les Shigella_,_ il existe quatre sérums pour l'identification antigénique
 
 - sérum C3 anti 5, 7, 9, 11, 15 (indole +)
 
+
 ![](i724-1.jpg)
+
 ![](i724-2.jpg)
+
 ![](i724-3.jpg)
 
 
@@ -109,6 +112,7 @@ Pour les Shigella_,_ il existe quatre sérums pour l'identification antigénique
 - sérum D
 
 Dans de nombreux pays, les souches de _Salmonella_ et _Shigella_ isolées doivent être adressées à un Centre de Référence, qui collecte les données épidémiologiques (Institut Pasteur).
+
 
 ![](i724-4.jpg)
 
@@ -131,7 +135,9 @@ Ces bactéries peuvent être isolées sur milieu Hektoen si on les observe aprè
 
 Dans les cas de choléra, l'examen direct montre une flore constituée uniquement de vibrions. Pour la recherche de porteurs sains, l'examen direct n'est pas nécessaire.
 
+
 ![](i724-5.jpg)
+
 ![](i724-6.jpg)
 
 
@@ -144,6 +150,7 @@ Sur gélose TCBS, les colonies de _Vibrio cholerae_ sont jaunes, plates, de 2 à
 L'identification est faite par les caractères biochimiques (galerie API 20 E ou autre) _Tableau n°_ 7, et par agglutination avec les sérums anti-_Vibrio cholerae_ anti 0<sub>1</sub> et anti 0<sub>139</sub>, à partir de colonies repiquées sur gélose nutritive.
 
 Pour la détermination de la sensibilité au composé vibriostatique 0/129, ensemencer un milieu gélosé Mueller-Hinton sur toute la surface de la boîte et déposer un disque de composé. Après 24 heures à 37° C la crois sance de _Vibrio cholerae_ est inhibée (diamètre > 15 mm).
+
 
 ![](i724-7.jpg)
 
@@ -197,6 +204,7 @@ Les résultats d'une coproculture doivent être interprétés et confrontés aux
 Le résultat complet d'une coproculture ne peut être donné, dans les meilleures conditions que le troisième jour suivant le prélèvement. La mise en route du traitement se fait avant, et peut être orientée par les premières indications données par l'examen direct.
 
 L'étude bactériologique des selles est un examen techniquement délicat. Le prélèvement doit être fait et conservé dans de bonnes conditions. Les milieux de cultures doivent être de bonne qualité, et de préparation récente. Le non-respect des conditions opératoires peut conduire à des résultats faussement négatifs. Elle nécessite un laboratoire de bactériologie bien équipé, disposant de tout le matériel pour réaliser des cultures et d'un personnel entraîné.
+
 
 ![](i724-8.jpg)
 

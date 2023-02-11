@@ -12,10 +12,10 @@ par Olivier Isaac Bismuth*
 
 L'expression _"pathologie iatrogène"_ correspond aux troubles et maladies provoqués par l'intervention médicale du médecin et pourtant, hélas, personne probablement n'a pu l'éviter, qu'il soit bon ou moins bon thérapeute. Avant d'aller plus loin dans la définition, voyons quelques exemples significatifs.
 
-*   Il a été prescrit de l'Aspirine à un patient souffrant de fièvre et de céphalées. Il revient trois jours plus tard vomissant du sang. On n'avait pas tenu compte de ses antécédents récents d'ulcère de l'estomac contre indiquant les anti-inflammatoires.
-*   Cet autre présente une fièvre à 40°C, une toux et des crachats mêlés de sang évocateurs de " pneumonie ". À juste titre, il est prescrit de la Pénicilline injectable. À la seconde injection, le patient fait un choc brutal au dispensaire et meurt. C'est un choc anaphylactique dû à l'allergie à la Pénicilline.
-*   Cet autre souffre d'une crise de paludisme. La chloroquine _per- os_ est mal tolérée, elle lui occasionne une sensation de prurit l'empêchant de continuer son traitement.
-*   Ce nourrisson vient de recevoir son vaccin DTCP. La nuit, il a soudainement une fièvre à 40°C et il convulse. Cette convulsion hyper pyrétique est peut-être un neuropaludisme et il faut le traiter en tant que tel, mais il est possible aussi qu'il s'agisse d'une poussée fébrile secondaire à sa vaccination.
+*   Il a été prescrit de l'Aspirine à un patient souffrant de fièvre et de céphalées. Il revient trois jours plus tard vomissant du sang. On n'avait pas tenu compte de ses antécédents récents d'ulcère de l'estomac contre indiquant les anti-inflammatoires.  
+*   Cet autre présente une fièvre à 40°C, une toux et des crachats mêlés de sang évocateurs de " pneumonie ". À juste titre, il est prescrit de la Pénicilline injectable. À la seconde injection, le patient fait un choc brutal au dispensaire et meurt. C'est un choc anaphylactique dû à l'allergie à la Pénicilline.  
+*   Cet autre souffre d'une crise de paludisme. La chloroquine _per- os_ est mal tolérée, elle lui occasionne une sensation de prurit l'empêchant de continuer son traitement.  
+*   Ce nourrisson vient de recevoir son vaccin DTCP. La nuit, il a soudainement une fièvre à 40°C et il convulse. Cette convulsion hyper pyrétique est peut-être un neuropaludisme et il faut le traiter en tant que tel, mais il est possible aussi qu'il s'agisse d'une poussée fébrile secondaire à sa vaccination.  
 *   On entend souvent parler du drame du sang contaminé par le virus du Sida. Des milliers d'individus sont devenus séropositifs à la suite de transfusions non contrôlées. Des gouvernements ont été ébranlés dans leurs assises.
 
 **Amis lecteurs, essayez de vous remémorer des cas de pathologie iatrogène** **auxquels vous avez assisté ou même** **été impliqués.**
@@ -52,12 +52,12 @@ Ajoutons encore la grossesse évaluée à risque pour malformation du bassin et 
 
 **2. Traitement nocif**
 
-*   Cet enfant a une fièvre évoquant un paludisme. Il lui est injecté de la Quinine par voie intramusculaire dans la fesse. Or, nous savons que ce mode d'administration est responsable parfois de paralysie du membre inférieur et que de nombreuses prétendues "poliomyélites" sont en fait les séquelles de ce traitement. Il s'agit dans cet exemple d'un traitement dangereux, voire inutile car un traitement _per os_ aurait fait aussi bien l'affaire.
-*   Cet homme a une lombalgie. Des anti-inflammatoires sont prescrits par voie intramusculaire. Un abcès de la fesse survient. C'est regrettable d'autant que les AINS _per_ os sont d'efficacité égale aux injectables.
-*   Dans ce dispensaire, les seringues sont bouillies tous les matins. En admettant qu'elles le soient pendant vingt minutes dès le début de l'ébullition, il n'en reste pas moins que le risque de transmission de l'hépatite B persiste.
-*   Cet homme âgé a un adénome prostatique, cause de troubles urinaires rétentionnels importants. On ne peut le faire opérer, on installe une sonde à demeure. Le risque de surinfection des urines par ce corps étranger est accru, mais il est inévitable afin de soulager le patient.
-*   Dans plusieurs numéros (DS n° 107-108) on a attiré l'attention sur les dangers des couveuses (surchauffe, surinfection ...) surtout si la surveillance et l'hygiène ne sont pas attentives et rigoureuses.
-*   **Les complications d'un acte opératoire sont multiples et parfois graves.** Citons le choc anesthésique, l'abcès de paroi, la surinfection osseuse avec des germes hospitaliers résistants aux antibiotiques...
+*   Cet enfant a une fièvre évoquant un paludisme. Il lui est injecté de la Quinine par voie intramusculaire dans la fesse. Or, nous savons que ce mode d'administration est responsable parfois de paralysie du membre inférieur et que de nombreuses prétendues "poliomyélites" sont en fait les séquelles de ce traitement. Il s'agit dans cet exemple d'un traitement dangereux, voire inutile car un traitement _per os_ aurait fait aussi bien l'affaire.  
+*   Cet homme a une lombalgie. Des anti-inflammatoires sont prescrits par voie intramusculaire. Un abcès de la fesse survient. C'est regrettable d'autant que les AINS _per_ os sont d'efficacité égale aux injectables.  
+*   Dans ce dispensaire, les seringues sont bouillies tous les matins. En admettant qu'elles le soient pendant vingt minutes dès le début de l'ébullition, il n'en reste pas moins que le risque de transmission de l'hépatite B persiste.  
+*   Cet homme âgé a un adénome prostatique, cause de troubles urinaires rétentionnels importants. On ne peut le faire opérer, on installe une sonde à demeure. Le risque de surinfection des urines par ce corps étranger est accru, mais il est inévitable afin de soulager le patient.  
+*   Dans plusieurs numéros (DS n° 107-108) on a attiré l'attention sur les dangers des couveuses (surchauffe, surinfection ...) surtout si la surveillance et l'hygiène ne sont pas attentives et rigoureuses.  
+*   **Les complications d'un acte opératoire sont multiples et parfois graves.** Citons le choc anesthésique, l'abcès de paroi, la surinfection osseuse avec des germes hospitaliers résistants aux antibiotiques...  
 *   **Toxicité médicamenteuse:** n'importe quel médicament peut entraîner des effets secondaires, soit allergiques (urticaire, diarrhée, choc), soit toxiques (constipation d'un atropinique, convulsions sous Théophylline, troubles du rythme cardiaque avec des digitaliques ...).
 
 Rappelons les impressionnants mouvements extrapyramidaux avec le métoclopramide (Primpéran (R), Anausin (R) ...), ou le prurit au début d'un traitement par la diéthylcarbamazine (Notézine (R)), mais ici c'est un effet secondaire attendu, accepté et combattu par la prescription d'antihistaminiques.
@@ -138,12 +138,12 @@ Dans cet article, le mot de risque est de ceux qui reviennent le plus souvent. E
 
 **1.** **Insuffisance d'examens cliniques**
 
-*   Ce nourrisson est amené pour fièvre, toux, diarrhée. Il est prescrit: antithermique, sirop antitoux et antidiarrhéiques, sans que l'on ait soulevé sa chemise et recherché une dyspnée et un pli cutané. On passe donc à côté de deux risques majeurs.
+*   Ce nourrisson est amené pour fièvre, toux, diarrhée. Il est prescrit: antithermique, sirop antitoux et antidiarrhéiques, sans que l'on ait soulevé sa chemise et recherché une dyspnée et un pli cutané. On passe donc à côté de deux risques majeurs.  
 *   Cet homme jeune se plaint de violentes douleurs abdominales et de vomissements. Il a eu des selles la veille au soir. L'abdomen est souple, dépressible. Il y a une cicatrice d'appendicectomie. Il est prescrit un antispasmodique et un antivomitif par voie injectable. Deux jours plus tard, le patient est opéré en urgence pour occlusion intestinale aiguë par étranglement sur bride post-appendicectomie. Le risque d'occlusion dite " à ventre plat " avait été sous-estimé.
 
 **2. Insuffisance d'examens complémentaires**
 
-*   Cet homme tousse depuis un mois. On ne lui fait pas une recherche de BK à l'examen direct de crachats et il continue à contaminer son entourage par les BK.
+*   Cet homme tousse depuis un mois. On ne lui fait pas une recherche de BK à l'examen direct de crachats et il continue à contaminer son entourage par les BK.  
 *   Cette femme est fatiguée, dyspnéique et a des oedèmes aux membres inférieurs. On lui prescrit des diurétiques. Il aurait fallu prescrire une numération formule sanguine qui aurait révélé une anémie grave, responsable des symptômes et requérant un autre traitement.
 
 **VI. Prévention de la pathologie iatrogène**

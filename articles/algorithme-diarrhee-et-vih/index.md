@@ -5,7 +5,7 @@ date: "2008-11-05"
 
 ## I. Définition
 
-*   **Diarrhée aiguë** : au moins trois selles liquides par jour, pendant plus de deux jours.
+*   **Diarrhée aiguë** : au moins trois selles liquides par jour, pendant plus de deux jours.  
 *   **Diarrhée chronique** : au moins 3 selles liquides par jour, pendant plus d'un mois.
 
 Elle est responsable d'une **dégradation physique** importante et a un impact sur la vie sociale.
@@ -25,9 +25,9 @@ Elles sont nombreuses : infections, sarcome de Kaposi, VIH, traitements antirét
 
 ## III. Actions et surveillance
 
-*   Préciser **le nombre** de selles par jour et la date de début des troubles.
-*   Regarder **l'aspect** des selles : liquides, molles, présence de sang, de glaires.
-*   Relever les constantes : température, pouls, tension.
+*   Préciser **le nombre** de selles par jour et la date de début des troubles.  
+*   Regarder **l'aspect** des selles : liquides, molles, présence de sang, de glaires.  
+*   Relever les constantes : température, pouls, tension.  
 *   Peser la personne et suivre la courbe de poids.
 
 **Lorsque l'infirmier a la possibilité de garder la personne pendant 24 h en observation :**
@@ -79,7 +79,7 @@ Il faut donc évaluer les signes de déshydratation
 
 *   diluer 1 sachet dans un litre d'eau pure
 *   donner à boire des petites quantités, fréquemment
-*   à partir de 15 ans, faire boire de 2 à 4 litres par 24 heures.
+*   à partir de 15 ans, faire boire de 2 à 4 litres par 24 heures.  
 *   conseiller à la personne de boire de l'eau propre
 
 **Si vous n'avez pas de SRO en sachet**
@@ -116,10 +116,10 @@ pour un patient atteint de diarrhée
 Le patient **doit continuer a s'alimenter**. L'infirmier doit **l'aider.**
 
 *   Le malade doit manger des aliments, **hypercaloriques,** par exemple, **soupe de riz** (eau de cuisson), **carotte cuite, manioc, bananes...**
-*   Le patient peut boire du soda à base de cola auquel on aura retiré les bulles en remuant avec une cuillère.
-*   Il faut dire au malade de **bien se laver les mains** après chaque diarrhée et avant de manger.
-*   Les fesses et l'anus du malade doivent rester propres et secs.
-*   Si absence de gants, se protéger les mains avec un sac en plastique et, pour attraper les objets souillés, utiliser des grandes feuilles d'arbre (bananier...) puis les jeter dans un endroit prévu à cet effet ou les brûler. Si elle est souillée, la literie sera changée et nettoyée en respectant les rèqles d'hyqiène.
+*   Le patient peut boire du soda à base de cola auquel on aura retiré les bulles en remuant avec une cuillère.  
+*   Il faut dire au malade de **bien se laver les mains** après chaque diarrhée et avant de manger.  
+*   Les fesses et l'anus du malade doivent rester propres et secs.  
+*   Si absence de gants, se protéger les mains avec un sac en plastique et, pour attraper les objets souillés, utiliser des grandes feuilles d'arbre (bananier...) puis les jeter dans un endroit prévu à cet effet ou les brûler. Si elle est souillée, la literie sera changée et nettoyée en respectant les rèqles d'hyqiène.  
 *   Les endroits tachés de sang, de selles ou de tout autre liquide biologique devront être nettoyés à l'eau de Javel ou un produit similaire.
 
 **ATTENTION**
@@ -142,5 +142,7 @@ Surveillance des effets secondaires : attention à,
 *   somnolence
 *   bouche sèche.
 
+
 ![](i997-1.jpg)
+
 ![](i997-2.jpg)

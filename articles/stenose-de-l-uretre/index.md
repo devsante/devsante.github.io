@@ -36,6 +36,7 @@ Cette zone est souvent blessée lors des " fausses routes " des sondes urinaires
 
 C'est la portion d'urètre qui parcourt le pénis. La portion postérieure ou périnéale est relativement fixe et peut se trouver traumatisée lors des chutes à califourchon (chute brutale à cheval sur une poutre ou une selle de bicyclette, fréquent chez l'enfant). Il est palpable entre les deux bourses profondément. La portion antérieure est contenue dans toute la partie externe de la verge et est facilement palpable. Tout l'urètre pénien est particulièrement sensible aux infections : infection vénérienne (Ménorragie), ou provoquée par des sondes. Ces infections se compliquent alors souvent de sténose.
 
+
 ![](i378-1.jpg)
 
 
@@ -159,6 +160,7 @@ C'est souvent la circonstance révélatrice de la sténose. Elle succède à une
 
 En dehors de la rétention complète, la sténose entraîne une accumulation de l'urine au-dessus de son niveau (stase). Cette stase va pouvoir progressivement distendre la vessie, les urtères et les cavités rénales (hydronéphrose). Elle se surinfecte très facilement et l'infection urinaire conduit rarement à un phlegmon péri-urétral, mais plus souvent à une diffusion des germes jusqu'au rein (pyélonéphrite) ou au-delà (septicémie). L'association de distension et de surinfection des cavités rénales évolue spontanément vers la destruction progressive des reins (insuffisance rénale) et la mort. La stase et l'infection favorisent aussi la formation de calculs.
 
+
 ![](i378-2.jpg)
 
 
@@ -176,6 +178,7 @@ sous peine de provoquer des lésions plus graves. Il peut être pratiqué sous s
 
 Des sondes souples droites ou béquillées, de calibre croissant existent, permettant de dilater peu à peu la sténose, le plus délicat étant de passer la première à travers la sténose sans faire fausse route.
 
+
 ![](i378-3.jpg)
 
 
@@ -186,6 +189,7 @@ Il s'agit d'un jeu de bougies métalliques béquillées de calibre croissant. Bi
 **c. Dilatation avec des sondes** **filiformes**
 
 C'est la moins traumatisante et la plus précise des méthodes aveugles... mais elle nécessite de posséder le minimum de matériel constitué par des bougies très fines et de différentes formes pouvant ainsi traverser la sténose. Leur bout est muni d'un pas de vis qui permet d'adapter à leur extrémité des bougies (bougies de Philipe) de calibre croissant. L'intérêt étant qu'au cours de manoeuvres de changement de sonde, la bougie filiforme reste en place à travers la sténose, ce qui évite les incidents, toujours possibles de fausse route avec les autres méthodes à chaque fois que l'on change de sonde.
+
 
 ![](i378-4.jpg)
 
@@ -231,6 +235,7 @@ La sténose de l'urètre constitue donc une maladie très invalidante pour les m
 **3.** Sonder de façon aseptique et douce avec du matériel de bonne qualité, bien rincer s'il a séjourné dans un produit irritant.
 
 **4.** Si on suspecte une rupture de l'urètre lors d'un traumatisme du bassin et que survient une rétention, ne pas sonder mais mettre un cathéter sus-pubien.
+
 
 ![](i378-5.jpg)
 

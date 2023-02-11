@@ -13,8 +13,8 @@ La contagiosité est possible pendant les 30 premiers jours d'évolution. Ce dé
 
 En Afrique, les enfants jeunes sont touchés pour plusieurs raisons :
 
-*   Le programme vaccinal est mal suivi.
-*   Il existe de grandes familles avec de nombreux jeunes enfants vivant sous le même toit.
+*   Le programme vaccinal est mal suivi.  
+*   Il existe de grandes familles avec de nombreux jeunes enfants vivant sous le même toit.  
 *   Les mères emmènent leur bébé partout avec elles (risque plus élevé de contamination).
 
 Dans les pays en voie de développement, la coqueluche survient souvent sur un terrain de malnutrition, lui-même aggravé par la maladie, et s'associe fréquemment à des surinfections pulmonaires.
@@ -41,9 +41,10 @@ Les quintes de toux peuvent provoquer une cyanose, des crises de suffocation et 
 
 ### Tableau clinique chez le nourrisson de moins de 6 mois :
 
-*   L'écoulement rhinopharyngé et la toux sont moins marqués.
-*   Les quintes sont peu nombreuses.
+*   L'écoulement rhinopharyngé et la toux sont moins marqués.  
+*   Les quintes sont peu nombreuses.  
 *   Les apnées et les accès de cyanose sont au premier plan, nécessitant une surveillance de tous les instants _(voir figure n° 1)._
+
 
 ![](i836-1.jpg)
 
@@ -54,8 +55,9 @@ Elles demeurent fréquentes et redoutables touchant souvent le jeune nourrisson.
 
 - Malnutrition et déshydratation liées aux vomissements sévères.
 
-*   Complications respiratoires : surinfections broncho-pulmonaires, atélectasies, otites moyennes aiguës, hémoptysies, forme suraiguë dyspnéisante.
+*   Complications respiratoires : surinfections broncho-pulmonaires, atélectasies, otites moyennes aiguës, hémoptysies, forme suraiguë dyspnéisante.  
 *   Complications neurologiques : convulsions, encéphalopathies en rapport avec des hémorragies cérébro-méningées ou des anoxies prolongées _(voir figure n°2)._
+
 
 ![](i836-2.jpg)
 
@@ -84,7 +86,7 @@ Les sirops antitussifs sont très peu utiles, ceux contenant de la codéine ne d
 
 En revanche, l'antibiothérapie présente un double intérêt :
 
-*   Éviter la contamination de l'entourage (l'expectoration n'étant plus contaminante après 6 jours de traitement).
+*   Éviter la contamination de l'entourage (l'expectoration n'étant plus contaminante après 6 jours de traitement).  
 *   Diminuer les risques de surinfections chez le sujet atteint.
 
 ### 2. Traitement des surinfections pulmonaires  
@@ -122,6 +124,7 @@ Cette mauvaise tolérance a fait que, sous la pression des familles, certains pa
 
 _(figure n° 3)._
 
+
 ![](i836-3.jpg)
 
 
@@ -140,6 +143,7 @@ Aussi, certains pays (USA) ont définitivement abandonné le vaccin classique po
 Dans le cadre du PEV, l'OMS conseille la vaccination DTC + polio oral à 6 semaines, 10 semaines, 14 semaines.
 
 Mais dans la mesure du possible un rappel vers 2 ans est souhaitable.
+
 
 ![](i836-4.jpg)
 

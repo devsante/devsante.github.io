@@ -100,10 +100,10 @@ Le traitement est **prescrit dans les services spécialisés de lutte contre la 
 
 Il est long, de **6 à 8 mois** et comprend toujours une association de 3 ou 4 antituberculeux respectant les protocoles établis dans chaque pays, dont :
 
-*   **Rifampicine** : antibiotique antituberculeux majeur, actif sur les bacilles de Koch intra et extra cellulaires.
-*   **Isoniazide (INH)** : antibiotique antituberculeux de base dans le traitement des tuberculoses, administré par voie buccale, parentérale ou locale.
-*   **Ethambutol**, antibiotique antituberculeux, administré par voie buccale ou parentérale.
-*   **Pyrazinamide**.
+*   **Rifampicine** : antibiotique antituberculeux majeur, actif sur les bacilles de Koch intra et extra cellulaires.  
+*   **Isoniazide (INH)** : antibiotique antituberculeux de base dans le traitement des tuberculoses, administré par voie buccale, parentérale ou locale.  
+*   **Ethambutol**, antibiotique antituberculeux, administré par voie buccale ou parentérale.  
+*   **Pyrazinamide**.  
 *   **Streptomycine** par voie parentérale.
 
 <table>

@@ -12,6 +12,7 @@ En réponse à ce constat, un projet pilote d'Education à la Santé -projet EAS
 
 Il s'est déroulé sur deux aires de santé conjointement à la mise en place de centres de santé communautaire selon les directives du programme de développement sanitaire et social (PRODESS) du gouvernement malien.
 
+
 ![](i774-1.jpg)
 
 
@@ -33,12 +34,12 @@ Ces différents acteurs sont d'ailleurs regroupés au sein d'un comité de pilot
 
 ### Le processus comprend plusieurs étapes **:**
 
-*   Le recueil de données, en privilégiant l'approche anthropologique par rapport aux démarches classiques des enquêtes épidémiologiques. Cette première phase s'accompagne également d'une présentation à la population du projet en cours.
-*   L'identification et la création des groupes de discussion.
-*   La sélection des thématiques abordées par la population (début de motion proprement dite).
-*   La recherche des causes (arbres à problèmes).
-*   La recherche de solutions adaptées et simples d'application (arbres à objectifs).
-*   La planification des actions et la constitution des groupes.
+*   Le recueil de données, en privilégiant l'approche anthropologique par rapport aux démarches classiques des enquêtes épidémiologiques. Cette première phase s'accompagne également d'une présentation à la population du projet en cours.  
+*   L'identification et la création des groupes de discussion.  
+*   La sélection des thématiques abordées par la population (début de motion proprement dite).  
+*   La recherche des causes (arbres à problèmes).  
+*   La recherche de solutions adaptées et simples d'application (arbres à objectifs).  
+*   La planification des actions et la constitution des groupes.  
 *   L'évaluation suivie du réajustement des actions en cours.
 
 ## II. Deux exemples concrets
@@ -71,6 +72,7 @@ Cela explique qu'il n'est pas rare de voir les parents des patients se présente
 Cette réflexion a conduit les groupes de discussion a imaginer un système de caisses de santé au niveau des villages. Les ressources des caisses proviennent de cotisations des adhérents, mais aussi de dons. L'objectif de ces caisses est de permettre aux adhérents d'assurer la prise en charge rapide de frais de soins par la mise à disposition de fonds nécessaires. Les fonds sont accessibles à tous, soit sous forme de prêts remboursables, avec ou sans intérêts, soit par une prise en charge totale des frais pour les personnes démunies (identifiées comme telles car bien connues des membres des comités locaux de santé).
 
 Certains comités de santé villageois sont devenus à ce point dynamiques qu'il est possible aujourd'hui de les charger de la coordination de toutes les actions communautaires entreprises dans leur zone. Ils effectuent le suivi des actions, mobilisent les populations autour de ces actions et entreprennent des contacts avec l'Asaco, le personnel soignant et les autres partenaires. Leur encadrement est assuré par les facilitateurs qui les préparent aussi à leur propre succession.
+
 
 ![](i774-2.jpg)
 

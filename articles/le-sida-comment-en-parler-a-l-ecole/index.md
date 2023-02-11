@@ -24,9 +24,9 @@ Celui-ci a commencé par une enquête dans les écoles pour mieux cerner les att
 
 ### Il ressort de cette enquête que :
 
-*   Les écoliers ont une information parfois juste, mais souvent très partielle ou même erronée.
-*   Pour certains, le sida est transmis par les vêtements, la vaisselle, les moustiques...
-*   Le sida est parfois associé à la sorcellerie ou à une influence malveillante, d'autres fois il est associé à certains groupes sociaux (prostituées, chômeurs) ou à certains comportements (homosexuels).
+*   Les écoliers ont une information parfois juste, mais souvent très partielle ou même erronée.  
+*   Pour certains, le sida est transmis par les vêtements, la vaisselle, les moustiques...  
+*   Le sida est parfois associé à la sorcellerie ou à une influence malveillante, d'autres fois il est associé à certains groupes sociaux (prostituées, chômeurs) ou à certains comportements (homosexuels).  
 *   Les écoliers ne faisant pas partie de ces groupes ne se sentent pas concernés. Ils ne courent donc aucun risque, pensent-ils !
 
 Ces résultats ont convaincu les concepteurs du projet de la nécessité, pour les adultes et les éducateurs en charge des adolescents en milieu scolaire, de se mobiliser pour fournir aux jeunes une information simple, scientifiquement sûre et facile à retenir.
@@ -73,7 +73,7 @@ Les 4 brochures précédentes devaient être distribuées à **chaque écolier.*
 
 #### On peut résumer ainsi le but de l'ensemble de ce projet :
 
-*   Ne pas recevoir le VIH (danger mortel).
+*   Ne pas recevoir le VIH (danger mortel).  
 *   Ne pas donner le VIH ("tu ne tueras pas").
 
 *Atelier-Théatr'Actions, 3e rue N° 253, Q. Industriel, BP 1549, Kinshasa-Limete, République démocratique du Congo. E-mail : [jovias-ata@hotmail.com](mailto:jovias-ata@hotmail.com)
@@ -119,7 +119,7 @@ Il a fallu ajuster la pédagogie en fonction de ce qui intéresse les jeunes et 
 
 #### En revanche, ce qui intéresse les jeunes, ce sont :
 
-*   Les bandes dessinées, la brochure Monzeli intéresse surtout les jeunes filles, c'est la brochure la plus lue et la plus commentée.  La "flottille de l'espoir" intéresse surtout les garçons. Les deux brochures constituent une base utile de discussions.
+*   Les bandes dessinées, la brochure Monzeli intéresse surtout les jeunes filles, c'est la brochure la plus lue et la plus commentée.  La "flottille de l'espoir" intéresse surtout les garçons. Les deux brochures constituent une base utile de discussions.  
 *   Les messages proposés par la troupe théâtrale ont été bien perçus par les jeunes car ils apprécient l'humour et la caricature. Ils acceptent les conseils d'un comédien qui dit la même chose que le moraliste, parce que le comédien propose les choses autrement, parce qu'il présente des situations concrètes et donne aux jeunes l'occasion de s'identifier.
 
 #### Ce qui pose problème :
@@ -127,7 +127,7 @@ Il a fallu ajuster la pédagogie en fonction de ce qui intéresse les jeunes et 
 *   le sentiment d'invulnérabilité, une fausse perception du risque : "Je suis encore jeune, le sida, c'est pour les adultes",
 *   la recherche d'une cause exogène : on constate rarement la mise en cause de leur propre comportement tant chez les enseignants que chez les élèves, d'où la projection, spécialement dans le milieu familial (influence malveillante de l'oncle maternel, entre autres),
 *   le faible souci de la protection des autres "ce n'est pas mon problème, les autres se préoccupent-ils de ma protection ?"
-*   la nécessité des "bonnes relations" : une écolière doit satisfaire son professeur, même sans pression de sa part, cela va de soi..."Il est mon professeur, il m'explique tout ce que je ne comprends pas. Il me donne même des cours supplémentaires, il est très gentil avec moi, pourquoi vais-je lui refuser mes faveurs ? Il est donc normal que je réponde à ses avances, en agissant ainsi, je ne sens absolument aucune contrainte, c'est très bien comme cela..." Des réflexions de ce genre ont été entendues par l'animatrice.
+*   la nécessité des "bonnes relations" : une écolière doit satisfaire son professeur, même sans pression de sa part, cela va de soi..."Il est mon professeur, il m'explique tout ce que je ne comprends pas. Il me donne même des cours supplémentaires, il est très gentil avec moi, pourquoi vais-je lui refuser mes faveurs ? Il est donc normal que je réponde à ses avances, en agissant ainsi, je ne sens absolument aucune contrainte, c'est très bien comme cela..." Des réflexions de ce genre ont été entendues par l'animatrice.  
 *   Les obstacles viennent aussi de la situation économique, du manque de revenus des familles : comment les filles vont-elles payer les frais scolaires si elles n'ont pas "d'amis" plus âgés ? Et pourtant, les études sont prioritaires pour celles et ceux qui ont un projet d'avenir. Par contre, il est difficile de demander à quelqu'un de se préoccuper de sa santé et de celle des autres dans la situation actuelle où l'avenir est incertain, il faut d'abord survivre aujourd'hui. Dans une situation où "il n'y a pas d'avenir", il est illusoire de proposer un changement de comportement dès maintenant pour un espoir de survie dans 10 ou 20 ans !...
 
 En résumé, les jeunes ont-ils la possibilité réelle de changer de comportement en face de la sexualité ? Une des armes préventives contre le sida est, pour les filles, la possibilité de dire Il non " à une proposition de relation qu'elles ne souhaitent pas, mais il y a pour cela beaucoup d'obstacles socioculturels à surmonter.

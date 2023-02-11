@@ -24,6 +24,7 @@ C'est un projet pilote qui a été initialement mis en place en janvier 2000 à 
 
 D'autres sections de l'ALCS ont été ensuite concernées par la prise en charge des personnes vivant avec le VIH ; une commission constituée principalement de volontaires a progressivement été mise en place dans les centres référents de Rabat, Tanger, Marrakech et Agadir. En 2006, grâce aux fonds de Sidaction Maroc 2005, ces commissions ont pu se professionnaliser en recrutant une assistante sociale et des éducateurs permanents, afin d'améliorer les conditions de prise en charge des patients et de l'éducation thérapeutique.
 
+
 ![](i124-1.jpg)
 
 
@@ -164,6 +165,7 @@ Au cours de leur formation, les éducateurs ont conçu un guide qui permet à to
 </tbody>
 
 </table>
+
 
 ![](i124-2.jpg)
 

@@ -10,7 +10,7 @@ Les reins exercent deux fonctions au plan métabolique, en excrétant une urine 
 
 *   Fonction d'épuration sélective qui permet :
     *   l'élimination de déchets du métabolisme,
-    *   la récupération de métabolites utiles (glucose ... ).
+    *   la récupération de métabolites utiles (glucose ... ).  
 *   Fonction de régulation du volume d'eau de l'organisme.
 
 L'urine normale contient en quantités variables des électrolytes (Na, K, Mg, Ca ... ) et certains constituants organiques (urée, acide urique, créatinine ... ).
@@ -51,9 +51,9 @@ Toute protéinurie dépistée lors d'un examen par bandelette urinaire devrait �
 *   Le dosage de la protéinurie doit être fait sur les urines des 24 heures.
 
 *   La technique du recueil des urines des 24 heures doit être expliquée au patient :
-    *   vider la vessie le matin au lever, aux toilettes.
-    *   à partir de ce moment, recueillir les urines de toutes les mictions dans un récipient propre, soigneusement rincé.
-    *   le lendemain matin, au lever, vider la vessie dans le récipient.
+    *   vider la vessie le matin au lever, aux toilettes.  
+    *   à partir de ce moment, recueillir les urines de toutes les mictions dans un récipient propre, soigneusement rincé.  
+    *   le lendemain matin, au lever, vider la vessie dans le récipient.  
     *   apporter le récipient au laboratoire pour dosage de la protéinurie des 24 heures (résultat exprimé en mg ou g/24 heures). Il existe une protéinurie pathologique, si le dosage des protéines est **supérieur à 150 mg** **(ou 0,15 g) par 24 heures.**
 
 ### 3. Après affirmation de la présence d'une protéinurie
@@ -81,7 +81,7 @@ Ces protéinuries disparaissent spontanément ou après le traitement de leur ca
 
 #### b) Protéinurie contemporaine d'une infection urinaire
 
-*   infection urinaire basse (cystite) ou haute (pyélonéphrite) : l'ECBU retrouve des leucocytes et des germes. Il faudra s'assurer de la disparition de la protéinurie après le traitement de l'infection urinaire.
+*   infection urinaire basse (cystite) ou haute (pyélonéphrite) : l'ECBU retrouve des leucocytes et des germes. Il faudra s'assurer de la disparition de la protéinurie après le traitement de l'infection urinaire.  
 *   Cas particulier de la **tuberculose urinaire :** présence d'une protéinurie et surtout d'une leucocyturie sans germes retrouvée à l'ECBU.
 
 #### c) Protéinurie orthostatique
@@ -156,9 +156,9 @@ Il s'agit d'une atteinte rénale faisant suite à une infection habituellement s
 
 #### b) Traitement
 
-*   Régime sans sel strict.
-*   Restriction hydrique (en fonction des oedèmes).
-*   Traitement de tous les foyers infectieux, notamment ORL (angine ... ).
+*   Régime sans sel strict.  
+*   Restriction hydrique (en fonction des oedèmes).  
+*   Traitement de tous les foyers infectieux, notamment ORL (angine ... ).  
 *   Il n'y a pas d'indication à la corticothérapie dans le syndrome néphritique post-streptococcique.
 
 ### 5. Les autres protéinuries

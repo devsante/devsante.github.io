@@ -47,6 +47,7 @@ Valeurs normales :
 *   chez la femme et l'enfant : 4 à 5,4 x 10<sup>6</sup> /mm<sup>3</sup>,
 *   chez l'homme : 4.5 à 6 x 10<sup>6</sup>/mm<sup>3</sup>.
 
+
 ![](image002-labo-anemie-n183.jpg)
 
 
@@ -61,6 +62,7 @@ Valeurs normales :
 *   nouveau-né : 14 à 20 g/100ml
 *   femme et enfant : 12 à 16 g/100ml
 *   homme : 13 à 18 g/100ml
+
 
 ![](image004.jpg)
 
@@ -112,7 +114,7 @@ TCMH = hémoglobine        exprimé en gamma (ou en pg = picogramme)
 La valeur normale le la TCMH est de 29 plus ou moins 2 gamma.  
 Ainsi :
 
-*   Le taux d'hémoglobine définit l'anémie et son degré de gravité.
+*   Le taux d'hémoglobine définit l'anémie et son degré de gravité.  
 *   Les constantes permettent de mieux préciser les caractères de cette anémie (normochrome normocytaire, hypochrome macrocytaire...).
 
 #### **b) l'analyse morphologique permet par­fois à elle seule d'établir un diagnostic  
@@ -156,7 +158,7 @@ Par cette technique, le nombre normal de réticulocytes est situé entre 25 000 
 
 Les réticulocytes peuvent également être comptés sur certains automates (en cytométrie de flux), les valeurs normales étant alors plus élevées.
 
-*   Un taux de réticulocytes élevé signifie que la moelle produit plus de GR et que la cause de l'anémie est une augmentation excessive des pertes, soit par saignement, soit par hémolyse : **l'anémie est alors régénérative** et d'origine périphérique.
+*   Un taux de réticulocytes élevé signifie que la moelle produit plus de GR et que la cause de l'anémie est une augmentation excessive des pertes, soit par saignement, soit par hémolyse : **l'anémie est alors régénérative** et d'origine périphérique.  
 *   Si les réticulocytes sont bas, on dit que **l'ané­mie est arégénérative** et d'origine centrale : elle correspond à une diminution de la pro­duction médullaire.
 
 Le seul cas où le compte des réticulocytes n'a pas d'intérêt est le cas des anémies hypo­chromes et microcytaires. Il s'agit dans ce cas d'une carence en fer, et en fonction du degré de carence, les réticulocytes peuvent être élevés (au début, la moelle régénère), puis normaux, et enfin diminués (car la moelle manque de fer pour effectuer une érythropoïèse efficace).

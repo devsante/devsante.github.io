@@ -30,12 +30,14 @@ On doit toujours stériliser à la vapeur d’eau ce qui peut l’être, en part
 
 On doit vérifier le bon déroulement du cycle. Des témoins de stérilisation doivent être ajoutés au matériel à chaque cycle. Le bon fonctionnement de l’autoclave doit être contrôlé chaque année, pour la qualité des opérations et la sécurité des utilisateurs.
 
+
 ![](autoclave.jpg)
 
 
 **Autoclave**
 
-###![](autocuiseur.jpg)
+### 
+![](autocuiseur.jpg)
 
 
 ### Autocuiseur
@@ -57,6 +59,7 @@ Cette méthode est contre-indiquée pour :
 
 A chaque opération, il convient de vérifier le bon déroulement du protocole : températures atteintes, au moyen de témoins de stérilisation ajoutés au matériel, et durée de l’opération.
 
+
 ![](poupinel.jpg)
 
 
@@ -75,7 +78,9 @@ Nous citerons seulement ici les modes de stérilisation au gaz plasma (basse tem
 Lorsque l’on ne dispose pas des matériels précédents, on peut effectuer une désinfection poussée en faisant bouillir les instruments et les seringues pendant 20 minutes au moins.  
 **Cette méthode n’est pas préconisée dans les procédures standard, elle ne doit être employée que lorsqu’aucune autre solution n’est possible.**
 
+
 ![](bullition-1.jpg)
+    
 ![](bullition-2.jpg)
 
 

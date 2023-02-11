@@ -112,7 +112,9 @@ Elles se résument à une diarrhée banale (gastroentérite). Elles sont beaucou
 
 La prévention est essentielle dans la lutte contre le choléra, surtout dans les pays où le niveau sanitaire est rudimentaire. L'hygiène de l'eau, de l'alimentation, des mains, des selles et les méthodes de chloration par l'eau de Javel sont les meilleurs -outils de prévention du choléra, en zone d'endémie. Ils doivent être enseignés aux populations menacées dans des programmes de Santé publique: information de la population (radio locale, affiches), formation des agents de santé à l'éducation sanitaire de la population et participation de la population aux mesures préventives par des comités villageois bénévoles. La prophylaxie générale en zone d'endémie repose aussi sur l'amélioration des conditions de vie, l'aménagement de réseaux protégés d'eau potable et de réseaux d'eaux usées, le dépistage des porteurs sains.
 
+
 ![](i850-1.jpg)
+
 ![](i850-2.jpg)
 
 

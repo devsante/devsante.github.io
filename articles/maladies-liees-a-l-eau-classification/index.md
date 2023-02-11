@@ -12,6 +12,7 @@ Nous allons étudier les différentes manières dont l'eau peut être liée à l
 
 L'eau n'est apparue que tardivement comme pouvant jouer un rôle dans la santé. Elle a été identifiée comme facteur de transmission de maladie seulement en 1854 lors d'une épidémie de choléra à Londres. Progressivement l'accès correct à l'eau potable a permis d'augmenter l'espérance de vie à condition que dans le même temps les conditions d'hygiène s'améliorent. Les maladies liées à l'eau sont très diverses par leur rapport avec celle-ci et le mode de transmision.
 
+
 ![](i1007-1.jpg)
 
 
@@ -23,8 +24,8 @@ En se servant de deux plantes, l'une dans l'eau et l'autre sans eau, les agents 
 
 Il s'agit de maladies transmises directement par l'ingestion d'eau ou d'aliments contaminés par celle-ci. Elles sont donc directement liées à la qualité de l'eau.
 
-*   **Maladies bactériennes :** les infections à Salmonella (typhoïde) ou à entérobactéries (Campylobacter. E. coli), le choléra, les shigelloses.. .
-*   **Infections virales :** l'hépatite A (et E), la poliomyélite, les rotavirus responsables de diarrhées, les entérovirus...
+*   **Maladies bactériennes :** les infections à Salmonella (typhoïde) ou à entérobactéries (Campylobacter. E. coli), le choléra, les shigelloses.. .  
+*   **Infections virales :** l'hépatite A (et E), la poliomyélite, les rotavirus responsables de diarrhées, les entérovirus...  
 *   **Infections parasitaires :** dracunculose, amibiases, giardiase et autres flagellés intestinaux essentiellement.
 
 Ce mode de transmission concerne la plupart des agents étiologiques de diarrhée. La contamination de l'eau se fait par les excreta (péril fécal).
@@ -35,13 +36,14 @@ Un traitement simple de l'eau, (chloration, Javel) supprime le risque de contami
 
 Ce sont les infections favorisées par le manque d'eau. Il s'agit de :
 
-*   Dermatoses : gales, teignes, pyodermite.
-*   Conjonctivite : trachome.
-*   Otites.
-*   Le Plan et le Bejel.
+*   Dermatoses : gales, teignes, pyodermite.  
+*   Conjonctivite : trachome.  
+*   Otites.  
+*   Le Plan et le Bejel.  
 *   Certaines entérites : diarrhées, oxyures.
 
 Ces différentes infections sont favorisées par un lavage corporel insuffisant, en particulier celui des mains. Le manque d'hygiène provoqué par le peu de disponibilité de l'eau est le plus souvent en cause. Un apport satisfaisant en eau fait disparaître la majeure partie de ces pathologies à condition que conjointement l'hygiène corporelle soit améliorée.
+
 
 ![](i1007-2.jpg)
 
@@ -56,7 +58,7 @@ Cet hôte intermédiaire peut être un mollusque pour la bilharziose, un poisson
 
 #### 1. Infection dont l'agent est véhiculé passivement par l'eau, liée à la qualité de l'eau (Water borne)**.**
 
-*   Salmonelles, choléra, amibes, rotavirus, diarrhées.
+*   Salmonelles, choléra, amibes, rotavirus, diarrhées.  
 *   Hépatite A, poliomyélite...
 
 #### 2. Infections dont la fréquence diminue quand augmente la quantité d'eau disponible (Water washed)**.**
@@ -69,8 +71,8 @@ Cet hôte intermédiaire peut être un mollusque pour la bilharziose, un poisson
 
 #### 4. Maladies dont le vecteur se reproduit ou pique à proximité de l'eau (Water related).
 
-*   Moustique : paludisme, fièvre jaune...
-*   Glossine : trypanosomiase.
+*   Moustique : paludisme, fièvre jaune...  
+*   Glossine : trypanosomiase.  
 *   Simulie : onchocercose.
 
 Ces maladies ne peuvent pas persister en l'absence d'eau. Elles sévissent généralement après un contact avec l'eau ou à proximité de celle-ci, parfois par l'intermédiaire d'un aliment d'origine aquatique contaminé (poisson).
@@ -137,6 +139,7 @@ La construction d'un barrage, la mise en culture de nouvelles terres par défric
 conséquences néfastes sur l'état sanitaire, en particulier en augmentant la fréquence des maladies liées à l'eau. Un barrage va créer un lac qui constitue un gîte pour les moustiques et pour les mollusque aquatiques, hôtes intermédiaires des douves et bilharzies. Ainsi la fréquence du paludisme, de la bilharziose augmente rapidement. Ceci est d'autant plus grave qu'il existe une concentration humaine importante autour de ces étendues d'eau. L'irrigation pose les mêmes problèmes. Le fleuve en aval du barrage présente souvent un courant rapide qui est un gîte favorable aux simulies, vecteurs de l'onchocercose. L'apparition de bidonvilles ou de zones d'urbanisation incontrôlée dans la périphérie des villes dépourvues de conditions sanitaires satisfaisantes (eau potable, traitement des eaux usées) provoque une augmentation des maladies liées à l'eau, en particulier des diarrhées (amibiase).
 
 Le besoin vital en eau est associé à un ensemble de dangers variés qui doivent être connus pour être mieux contrôlés.
+
 
 ![](i1007-3.jpg)
 

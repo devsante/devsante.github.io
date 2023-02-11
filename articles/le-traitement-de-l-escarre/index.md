@@ -138,7 +138,7 @@ Il doit être refait chaque jour, sauf au stade d'épidermisation (Corticotulleg
 
 *   Travailler en asepsie.
 
-*   Nettoyer soigneusement l'escarre au Mercryl® et si possible faire mousser le produit. Si nécessaire, faire un second nettoyage à l'eau oxygénée (germes anaérobies).
+*   Nettoyer soigneusement l'escarre au Mercryl® et si possible faire mousser le produit. Si nécessaire, faire un second nettoyage à l'eau oxygénée (germes anaérobies).  
 *   Rincer au sérum physiologique.
 
 *   Appliquer le ou les produits indiqués en fonction du stade évolutif de la lésion.
@@ -152,6 +152,7 @@ Il doit être refait chaque jour, sauf au stade d'épidermisation (Corticotulleg
 Le traitement de l'escarre est l'affaire de tous, il est essentiellement préventif.
 
 Quand malheureusement la lésion est constituée, il faudra la traiter efficacement.
+
 
 ![](i403-1.jpg)
 

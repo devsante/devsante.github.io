@@ -18,7 +18,7 @@ Nous insisterons donc, dans ce chapitre, sur tout ce qui peut être mis en place
 
 **Points particuliers**
 
-*   Les infections suivantes ne sont pas abordées dans ce chapitre :Infections **virales**, notamment par le VIH : se référer au chapitre concernant la PTME et la prise en charge post-natale.
+*   Les infections suivantes ne sont pas abordées dans ce chapitre :Infections **virales**, notamment par le VIH : se référer au chapitre concernant la PTME et la prise en charge post-natale.  
 *   Infections **parasitaires**, plus particulièrement le paludisme. Néanmoins, il est important de rappeler que, dès la naissance, il convient de mettre en ceuvre tous les moyens physiques pour éviter une contamination de l'enfant, gravissime à cet âge (lutte contre les moustiques, utilisation d'une moustiquaire dès la naissance).
 
 ## II. Savoir identifier les situations à risque
@@ -26,14 +26,14 @@ Nous insisterons donc, dans ce chapitre, sur tout ce qui peut être mis en place
 L'officier de santé (infirmier, sage-femme), dont le champ de travail est à distance d'une structure hospitalière équipée, n'a le plus souvent que peu de moyens diagnostiques. Il faut donc impérativement, lors de l'accouchement et avant si possible, savoir repérer les situations à risque. Cela nécessite d'interroger régulièrement la future mère à la recherche de petits signes pouvant faire évoquer la possibilité d'une infection néonatale. Il faut également pratiquer, à chaque consultation, un examen clinique soigneux. Au moindre doute, il conviendra d'orienter la mère vers un centre équipé, avant l'accouchement si possible. En effet, passée la naissance, en cas d'infection néonatale, chaque minute est précieuse pour prévenir de conséquences en général gravissimes en l'absence de traitement approprié.  
 Les situations qu'il faudra savoir repérer pour anticiper l'infection néonatale sont les suivantes :
 
-*   Chorio-amniotite.
-*   Fièvre maternelle > 38°C avant le travail.
-*   Risque de prématurité spontanée.
-*   Rupture prématurée de la poche des eaux (RPPE) surtout si elle a **plus de 12 heures**, en l'absence d'antibiothérapie maternelle.
-*   Rupture prématurée des membranes (fissuration) avant 37 SA.
-*   Antécédent d'infection à streptocoque B (SB) chez la mère, en l'absence d'antibioprophylaxie par de l'amoxycilline (s'assurer que celle-ci a été correctement suivie, sinon le risque persiste).
-*   Portage de SB connu, sans aucune mesure prise (notamment antécédent d'accouchement en contexte d'infection à SB et absence de traitement de la mère).
-*   Anomalies du rythme cardiaque foetal.
+*   Chorio-amniotite.  
+*   Fièvre maternelle > 38°C avant le travail.  
+*   Risque de prématurité spontanée.  
+*   Rupture prématurée de la poche des eaux (RPPE) surtout si elle a **plus de 12 heures**, en l'absence d'antibiothérapie maternelle.  
+*   Rupture prématurée des membranes (fissuration) avant 37 SA.  
+*   Antécédent d'infection à streptocoque B (SB) chez la mère, en l'absence d'antibioprophylaxie par de l'amoxycilline (s'assurer que celle-ci a été correctement suivie, sinon le risque persiste).  
+*   Portage de SB connu, sans aucune mesure prise (notamment antécédent d'accouchement en contexte d'infection à SB et absence de traitement de la mère).  
+*   Anomalies du rythme cardiaque foetal.  
 *   A l'amnioscopie : liquide amniotique teinté ou méconial avant la rupture de la poche des eaux.
 
 D'autres éléments des **antécédents maternels** peuvent conduire à orienter la mère, cette liste n'est pas exhaustive : tout élément orientant vers une pathologie gravidique maternelle est un facteur de risque potentiel d'infection materno-foetale ou d'infection retardée, du fait de la iatrogénie liée à cette pathologie.
@@ -51,36 +51,36 @@ Teint gris, impression d'enfant en souffrance, geignard, hypotonique, avec des d
 
 ### 2.Signes respiratoires
 
-*   Apnée.
-*   Accès de cyanose, parfois fugaces et discrets (cyanose péribuccale, il faut penser à surveiller la paume des mains et la plante des pieds de ces enfants suspects).
+*   Apnée.  
+*   Accès de cyanose, parfois fugaces et discrets (cyanose péribuccale, il faut penser à surveiller la paume des mains et la plante des pieds de ces enfants suspects).  
 *   Détresse respiratoire aiguë, qui peut être décalée par rapport à la naissance et oriente dans ce cas vers une infection à streptocoque B ou une pneumopathie (souvent dans le cadre d'un syndrome d'inhalation).
 
 ### 3. Signes neurologiques
 
-*   Hypotonie ou hypertonie.
-*   Convulsions.
+*   Hypotonie ou hypertonie.  
+*   Convulsions.  
 *   Tension anormale de la fontanelle.
 
 ### 4. Troubles hémodynamiques
 
-*   Accès de tachycardie ou de bradycardie.
+*   Accès de tachycardie ou de bradycardie.  
 *   Temps de recoloration allongé, supérieur à 3 secondes.
 
 ### 5. Signes digestifs
 
-*   Difficultés de mise au sein.
-*   Régurgitations, ballonnement abdominal.
+*   Difficultés de mise au sein.  
+*   Régurgitations, ballonnement abdominal.  
 *   Diarrhées, parfois sérosanglantes.
 
 ### 6. Signes cutanéo-muqueux évocateurs d’infection néonatale
 
-*   Omphalite dans les jours suivant la naissance.
-*   Conjonctivite purulente (lorsqu'elle est précoce, elle peut être le témoin d'une infection à _chlamydiae_; son apparition retardée de quelques semaines est plutôt en faveur d'une infection à mycoplasme, en l'absence de surinfection liée à l'étroitesse d'un canal lacrymal).
+*   Omphalite dans les jours suivant la naissance.  
+*   Conjonctivite purulente (lorsqu'elle est précoce, elle peut être le témoin d'une infection à _chlamydiae_; son apparition retardée de quelques semaines est plutôt en faveur d'une infection à mycoplasme, en l'absence de surinfection liée à l'étroitesse d'un canal lacrymal).  
 *   Purpura, pétéchies (à différencier des pétéchies faciales post-accouchement, témoins de traumatisme lors du passage de la filière vaginale).
 
 ### 7. Autres signes
 
-*   Hépato-splénomégalie.
+*   Hépato-splénomégalie.  
 *   Ictère précoce (attention, d'autres étiologies sont possibles en particulier les incompatibilités ABO-Rhésus), prolongé ou qui rechute secondairement.
 
 **Attention** : ces signes ne sont pas spécifiques et c'est leur conjonction qui doit conduire à l'évocation rapide de ce diagnostic et à mettre en place le plus rapidement possible une prise en charge adaptée.
@@ -119,12 +119,12 @@ Il vaut mieux traiter pour rien que de perdre de précieuses minutes.
 *   En l'absence d'éléments d'orientation, on institue une antibiothérapie probabiliste couvrant les germes les plus fréquemment en cause dans ce type d'infection :
     *   Streptocoque B
     *   _Escherichia coli_
-*   L'antibiothérapie est double au départ pour éviter une pression de sélection de germe ainsi que l'apparition d'un mutant résistant.
+*   L'antibiothérapie est double au départ pour éviter une pression de sélection de germe ainsi que l'apparition d'un mutant résistant.  
 *   Cette antibiothérapie doit satisfaire aux règles suivantes :
-    *   L'antibiotique choisi doit être le plus ancien possible et le plus utilisé (application de consensus thérapeutique) pour garder en réserve l'utilisation d'antibiotiques plus récents et plus efficaces si besoin (ceci évite l'apparition rapide de germes résistants pouvant poser secondairement des problèmes thérapeutiques gravissimes en cas d'infection nosocomiale).
-    *   L'antibiothérapie doit être la moins toxique pour l'enfant : attention à l'immaturité rénale du prématuré, au risque d'ototoxicité lié à l'utilisation exagérée d'aminosides.
-    *   Elle doit être la plus diffusible, d'où l'importance de l'utilisation impérative de la voie N, afin d'avoir la distribution la plus rapide dans tout l'organisme.
-    *   L'antibiotique prescrit doit, dans la mesure du possible, être le plus facile à administrer car, dès que la phase aiguë est passée et l'état de l'enfant stabilisé, il peut être discuté le choix d'une voie orale.
+    *   L'antibiotique choisi doit être le plus ancien possible et le plus utilisé (application de consensus thérapeutique) pour garder en réserve l'utilisation d'antibiotiques plus récents et plus efficaces si besoin (ceci évite l'apparition rapide de germes résistants pouvant poser secondairement des problèmes thérapeutiques gravissimes en cas d'infection nosocomiale).  
+    *   L'antibiothérapie doit être la moins toxique pour l'enfant : attention à l'immaturité rénale du prématuré, au risque d'ototoxicité lié à l'utilisation exagérée d'aminosides.  
+    *   Elle doit être la plus diffusible, d'où l'importance de l'utilisation impérative de la voie N, afin d'avoir la distribution la plus rapide dans tout l'organisme.  
+    *   L'antibiotique prescrit doit, dans la mesure du possible, être le plus facile à administrer car, dès que la phase aiguë est passée et l'état de l'enfant stabilisé, il peut être discuté le choix d'une voie orale.  
     *   La moins coûteuse : les médicaments génériques ont la même efficacité (à condition d'avoir une traçabilité sûre du produit utilisé).
 
 **Consensus thérapeutique**  
@@ -140,11 +140,12 @@ Il vaut mieux traiter pour rien que de perdre de précieuses minutes.
 
 **Durée du traitement :**
 
-*   Pour une infection systémique : 8 à 10 jours.
-*   Pour une méningite à SB : 15 jours.
-*   Pour une méningite à _E. coli_ : 21 jours.
-*   En cas de non confirmation d'une infection néonatale (clinique et résultats biologiques), l'antibiothérapie peut être arrêtée au bout de 48 heures.
+*   Pour une infection systémique : 8 à 10 jours.  
+*   Pour une méningite à SB : 15 jours.  
+*   Pour une méningite à _E. coli_ : 21 jours.  
+*   En cas de non confirmation d'une infection néonatale (clinique et résultats biologiques), l'antibiothérapie peut être arrêtée au bout de 48 heures.  
 *   L'association d'aminosidcs n'est indiquée que dans le cas d'IIiF a\,érée ; dans les autres cas, il est possible d'administrer une monothérapie, à choisir en fonction de l'orientation clinique.
+
 
 ![](13196-1.jpg)
 
@@ -162,6 +163,7 @@ Il vaut mieux traiter pour rien que de perdre de précieuses minutes.
 </tbody>
 
 </table>
+
 
 ![](13196-2-web.jpg)
   

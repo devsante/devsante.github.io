@@ -72,6 +72,7 @@ Le nombre de leucocytes oriente vers les différentes pathologies (_tableau n°1
 
 Un liquide clair peut également s'observer dans les méningites purulentes décapitées par un traitement antibiotique insuffisant, avec une proportion variable de polynucléaires et lymphocytes et ceci doit être considéré comme un cas de méningite purulente.
 
+
 ![](i641-1.jpg)
 
 
@@ -93,6 +94,7 @@ Les liquides clairs contiennent en général une majorité de lymphocytes, alors
 
 Il faut noter que dans les premières heures d'une méningite purulente, on peut observer une prédominance lymphocytaire ou une formule mixte et à l'inverse, au début des méningites virales, une majorité de polynucléaires.
 
+
 ![](i641-2.jpg)
 
 
@@ -107,6 +109,7 @@ La deuxième lame est utilisée pour la coloration de Gram. Les bactéries sont 
 - s'il s'agit de cocci à Gram positif, de cocci à Gram négatif, de bacilles à Gram négatif, de bacilles à Gram positif.
 
 Il existe également des méningites à levures non capsulées _(Candida),_ ou capsulées _(Cryptococcus neoformans)._ Ces dernières sont recherchées dans le culot de centrifugation avec de l'encre de Chine: leur taille varie de 5 à 30 micro grammes. La présence de la capsule se traduit par un halo clair autour de la levure, limité à la périphérie par l'encre de Chine.
+
 
 ![](i641-3.jpg)
 

@@ -12,6 +12,7 @@ Les deux variétés de forceps utilisés habituellement sont :
 
 _(figures: 1 et 2)._
 
+
 ![](i49-1.jpg)
 
 
@@ -19,12 +20,12 @@ _(figures: 1 et 2)._
 
 Elles sont impératives et doivent toutes être réunies sous peine de voir I'application du forceps se transformer en une manoeuvre difficile et dangereuse pour la mère et l'enfant
 
-1.  L'application du forceps doit s'effectuer sur une **tête,** et uniquement la tête, quelle soit première ou dernière.
+1.  L'application du forceps doit s'effectuer sur une **tête,** et uniquement la tête, quelle soit première ou dernière.  
 2.  Là tête doit être **engagée** (+++)
-3.  Il ne doit pas y avoir de disproportion foeto-pelvienne.
+3.  Il ne doit pas y avoir de disproportion foeto-pelvienne.  
 4.  Les membranes doivent être **rompues.**
 5.  La dilatation doit être **complète.**
-6.  On doit connaître la variété de position de la tête fœtale.
+6.  On doit connaître la variété de position de la tête fœtale.  
 7.  La vessie de la patiente doit être vide (sondage).
 
 ## II. Indications du forceps
@@ -46,9 +47,9 @@ Elles sont impératives et doivent toutes être réunies sous peine de voir I'ap
 
 ### 2. Indications maternelles
 
-1.  Fatigue maternelle empêchant la mère de pousser.
-2.  Inconscience maternelle : anesthésie générale.
-3.  Absence de poussées maternelles, en particulier sous anesthésie péri anale.
+1.  Fatigue maternelle empêchant la mère de pousser.  
+2.  Inconscience maternelle : anesthésie générale.  
+3.  Absence de poussées maternelles, en particulier sous anesthésie péri anale.  
 4.  Contre-indications des efforts de poussée : cardiopathies, affections neurologiques...
 
 ## III. Technique du forceps
@@ -57,17 +58,20 @@ L'application d'un forceps nécessite une asepsie rigoureuse : le périnée est 
 
 On installe quatre champs stériles ou un champ hotte, puis on réalise l'anesthésie locale, régionale. Enfin, on effectue le sondage de la vessie maternelle. es temps de la technique sont variables:
 
-1.  Vérification du bon montage et du bon fonctionnement du forceps.
-2.  Application simulée dans l'espace des cuillers du forceps (la première cuiller est la gauche).
-3.  Mise en place des cuillers.
-4.  Vérification de la pose : la tête **seule** et **bien** prise.
-5.  Extraction de la tête.
+1.  Vérification du bon montage et du bon fonctionnement du forceps.  
+2.  Application simulée dans l'espace des cuillers du forceps (la première cuiller est la gauche).  
+3.  Mise en place des cuillers.  
+4.  Vérification de la pose : la tête **seule** et **bien** prise.  
+5.  Extraction de la tête.  
 6.  Sous couvert d'une épisiotomie.
 
 L'application du forceps sur une présentation en occipito-pubienne est l'application la plus simple et la plus courante : en voici le protocole en dessins _(figures 3 à 10_).
 
+
 ![](i49-2.jpg)
+
 ![](i49-3.jpg)
+
 ![](i49-4.jpg)
 
 

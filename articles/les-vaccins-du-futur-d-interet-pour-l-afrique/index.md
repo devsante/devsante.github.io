@@ -11,9 +11,9 @@ Due à un arbovirus dont il existe 4 sérotypes pour les quels il n'y a pas d'im
 Il n'y a pas de traitement spécifique et, fait le plus préoccupant, les préventions sont en échec. En effet, en raison de l'augmentation de la résistance aux insecticides type DDT et de l'échec des larvicides organophosphorés et des adulticides, la recherche pour la mise au point d'un vaccin est devenue une priorité.  
 Malheureusement, de nombreux obstacles existent :
 
-*   Il n'y a pas de modèle animal de la dengue, si utile pour la mise au point d'un vaccin. Pour obtenir une protection de longue durée, il faut un vaccin vivant atténué (comme pour la rougeole).
-*   Le vacccin doit contenir les antigènes de 4 sérotypes pathogènes pour l'homme car il n'y a pas d'immunité croisée.
-*   Il semble ne pas y avoir de corrélation entre le taux des anticorps et la protection réelle.
+*   Il n'y a pas de modèle animal de la dengue, si utile pour la mise au point d'un vaccin. Pour obtenir une protection de longue durée, il faut un vaccin vivant atténué (comme pour la rougeole).  
+*   Le vacccin doit contenir les antigènes de 4 sérotypes pathogènes pour l'homme car il n'y a pas d'immunité croisée.  
+*   Il semble ne pas y avoir de corrélation entre le taux des anticorps et la protection réelle.  
 *   Enfin, la gravité de la maladie semble due à la réponse immunitaire provoquée par l'infection en effet, les chocs hypovolémiques avec hémorragie surviennent de façon retardée, quand l'organisme réagit à l'infection. Paradoxalement, les enfants dénutris, aux faibles réponses immunitaires, auraient rarement ces formes graves.
 
 Malgré toutes ces contraintes, il semble qu'un vaccin tétravalent (après l'administration de 3 doses) ait réussi à induire des taux d'anticorps virulicides chez près de 100 % des vaccinés. Sa tolérance chez l'adulte a été acceptable.  
@@ -55,6 +55,7 @@ Ces vaccins ont pour but d'empêcher l'invasion des hématies et donc de contrô
 La molécule MSP3 (_merozoïte surface protein_) exprimée en surface de la membrane parasitaire joue un'r81e primordial. En effet, des études immuno-épidémiologiques récentes ont démontré que, chez le sujet ayant une infection chronique, la majorité des anticorps protecteurs sont de type IgG 3 anti MSP3. Au Sénégal, chez l'enfant, il existe une corrélation directe entre le taux d'anticorps et la rareté de paludismes graves (neuropaludisme en particulier). _In vitro_, ces mêmes IgG 3 sont capables de provoquer une lyse parasitaire. Des essais d'immunisation chez les primates ont donné des résultats en encourageants. Les phases I et II sont en cours chez l'homme.  
 D'autres antigènes parasitaires sont impliqués dans la physiopathologie du paludisme, par exemple le GPI (_glycosyl phosphatidil inositol_) responsable de la libération de médiateurs pro-inflammatoires lors de la rupture des schizontes. Parmi les autres candidats vaccins pour lesquels des essais sont en cours, MSP I(meirozoïte surface protein 1) et surtout FMP 2 AMA 1(_atypical membrane ctntigen 1_). Ce candidat vaccin induit un taux d'anticorps anti-AMA1 cent fois supérieur aux taux initiaux, ce qui laisse espérer une protection clinique impor-tante. Mais il est trop tôt pour savoir si l'immtmité induite est plus durable. Curieusement, certains antigènes tels que MSP1 donnent de très bons résultats chez le primate alors qu'ils sont décevants chez l'homme.  
 Enfin, différents essais, combinant plusieurs antigènes tels que MSPII + RES A semblent donner de bons résultats dans la prévention des paludismes graves.
+
 
 ![](i2189-1.jpg)
 

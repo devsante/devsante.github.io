@@ -22,13 +22,17 @@ Notre association "Des pas pour la vie" souhaite diffuser une information fiable
 *   réalisation d’un CD audio de relaxation pour femmes enceintes ;
 *   réalisation d'une vidéo pour les exercices de préparation à l'accouchement.
 
-*![](broch-10-reco-verso.jpg)
+*   
+![](broch-10-reco-verso.jpg)
+
 
 
 ![](broch-10-reco-recto.jpg)
 
 
+
 ![](broch-10-cons-allaitement-verso.jpg)
+
 
 
 ![](broch-10-cons-allaitement-recto.jpg)

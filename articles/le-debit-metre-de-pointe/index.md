@@ -32,7 +32,9 @@ Trois mesures consécutives sont nécessaires mais seule la meilleure valeur est
 
 Tous ces points sont expliqués au patient avant de prescrire un débit-mètre.
 
+
 ![](i617-1.jpg)
+
 
 
 ![](i617-2.jpg)

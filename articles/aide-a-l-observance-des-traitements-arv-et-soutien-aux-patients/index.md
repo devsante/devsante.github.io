@@ -37,9 +37,9 @@ Un bon résultat thérapeutique pour un traitement difficile et long (à vie) es
 
 Ces facteurs peuvent être liés aux patients (confiance aux médicaments), à la relation soignant/soigné (contrat, confiance), au contexte thérapeutique (qualité du centre, effets secondaires), au contexte socioculturel (problèmes matériels, familiaux, discrimination, etc..)
 
-*   Les principaux déterminants de la non observance sont liés à des occupations multiples qui entraînent de vrais oublis ; ce facteur est en rapport souvent avec les contraintes de prise (le soir après une journée fatigante, aux heures de travail).
-*   Ils sont liés aussi aux croyances du patient vis-à-vis de la maladie ou des médicaments donc envers la médecine traditionnelle.
-*   Interviennent également les modifications dues au traitement ; une amélioration peut entraîner une désaffection thérapeutique mais aussi un trop lent retour à la santé.
+*   Les principaux déterminants de la non observance sont liés à des occupations multiples qui entraînent de vrais oublis ; ce facteur est en rapport souvent avec les contraintes de prise (le soir après une journée fatigante, aux heures de travail).  
+*   Ils sont liés aussi aux croyances du patient vis-à-vis de la maladie ou des médicaments donc envers la médecine traditionnelle.  
+*   Interviennent également les modifications dues au traitement ; une amélioration peut entraîner une désaffection thérapeutique mais aussi un trop lent retour à la santé.  
 *   Les facteurs socio économiques interviennent fortement comme l'éloignement, coûts annexes, le soutien familial ou communautaire.
 
 ## VII. Niveaux d'intervention

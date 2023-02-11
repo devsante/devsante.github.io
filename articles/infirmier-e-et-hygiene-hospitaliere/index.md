@@ -25,8 +25,8 @@ Ils sont utilisés lorsqu'il y a un risque de contact avec du liquide biologique
 ## III. L'élimination des objets piquants, tranchants  
 et coupants dans les containers adaptés
 
-*   Ne jamais recapuchonner les aiguilles.
-*   Ne jamais désadapter les aiguilles des seringues à mains nues.
+*   Ne jamais recapuchonner les aiguilles.  
+*   Ne jamais désadapter les aiguilles des seringues à mains nues.  
 *   Les récipients ajourés ou en carton sont à proscrire.
 
 Eliminer au plus près le matériel (placer le container près du lieu du soin).
@@ -39,16 +39,16 @@ Les déchets ménagers (papiers, restes de nourriture, compresses, cotons non so
 
 ## V. L'entretien des surfaces souillées
 
-*   Neutraliser à l'eau de Javel pendant 15 minutes et essuyer la surface.
-*   Nettoyer et rincer.
+*   Neutraliser à l'eau de Javel pendant 15 minutes et essuyer la surface.  
+*   Nettoyer et rincer.  
 *   Désinfecter à l'eau de Javel, les surfaces souillées par des projections de sang ou liquide biologique.
 
 L'eau de Javel n'est pas un détergent, il faut donc procéder à un lavage préalable. Un berlingot de 250 ml forme concentrée titrant 48<sup>°</sup> chlorométriques ne doit jamais être utilisé pur, mais sous forme d'eau de Javel. Ajouter 750 ml d'eau froide pour obtenir une solution de Javel à 12°Cl. Pour la désinfection des sols préalablement nettoyés : verser un verre d'eau de Javel à 12° dans 8 litres d'eau. Passer la serpillière et laisser en contact 5 à 15 minutes. Pour les surfaces (paillasses, chariots...) : verser un demi litre d'eau de Javel à 12° dans 10 litres d'eau. Nettoyer la surface et laisser en contact 10 à 15 minutes.
 
 ## VI. Quelques généralités
 
-*   Proscrire le coton cardé et utiliser le coton hydrophile.
-*   Eviter les transferts multiples de déchets.
+*   Proscrire le coton cardé et utiliser le coton hydrophile.  
+*   Eviter les transferts multiples de déchets.  
 *   Eviter l'utilisation de l'alcool iodé pour les soins quotidiens. Préférer l'alcool à 70 °
 *   Le matériel réutilisé doit faire l'objet de décontamination à l'eau de javel.
 

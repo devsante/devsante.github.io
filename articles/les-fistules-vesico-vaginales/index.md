@@ -33,6 +33,7 @@ Les FVV se voient surtout chez les femmes jeunes, en âge de procréer, et dans 
 
 Parmi les causes favorisantes, il y a des facteurs ethniques, liés à la morphologie (femmes petites au bassin étroit) ou à la culture (excision et cicatrices vulvaires rétractiles). Mais c'est surtout le sous-équipement et le manque de maternités et de sages-femmes dans les zones rurales qui sont en cause, ainsi que les difficultés d'évacuation vers un hôpital.
 
+
 ![](i417-1.jpg)
 
 
@@ -54,6 +55,7 @@ Les orifices urétéraux sont parfois sur les berges mêmes de la fistule, lorsq
 
 L'infection est presque constante, à la fois locale et urinaire.
 
+
 ![](i417-2.jpg)
 
 
@@ -70,6 +72,7 @@ Le chirurgien fait alors un bilan complet des lésions pour choisir un mode de t
 Par ailleurs il faut apprécier le rentissement sur l'état général de la femme, son désir de grossesses ultérieures, son environnement familial.
 
 Après ce bilan la femme doit être adressée dans un hôpital où l'on opère ce type d'affection, sachant que le traitement est parfois long (quelques semaines à quelques mois).
+
 
 ![](i417-3.jpg)
 
@@ -103,6 +106,7 @@ Dans les cas les plus simples, heureusement assez fréquents, l'opération compr
 Lorsque la fistule est plus importante, des procédés plastiques particuliers permettent de refermer la paroi vésicale et de restaurer la continence sphinctérienne. Citons, par exemple, l'utilisation du muscle grand droit de l'abdomen comme lambeau pédiculé pour doubler et renforcer la région de la réparation vésico-urétrale. Citons aussi les plasties réalisées à l'aide d'un lambeau de grande lèvre.
 
 Enfin les très importantes pertes de substance vésico-urétrales seront réparées par divers procédés plastiques, sous couvert d'une dérivation temporaire des urines, par l'intermédiaire d'une anse intestinale par exemple. Ce sont alors des opérations complexes et en plusieurs temps. Dans un premier temps on réalise la dérivation des uretères (dans une anse grêle, par exemple comme dans l'opération de Bricker); puis on opère la fistule "au sec"; enfin, quand la fistule est cicatrisée, on remet la vessie en circuit. Ces opérations complexes sont cependant rarement indiquées.
+
 
 ![](i417-4.jpg)
 

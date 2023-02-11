@@ -14,10 +14,10 @@ Que l'accouchement ait lieu au domicile ou dans une structure prévue à cet eff
 
 Elle doit être constamment orientée vers la recherche des complications.
 
-*   La femme ayant été levée dès le premier jour.
-*   L'état général doit rester satisfaisant.
-*   Le pouls régulier et la température autour de 37°.
-*   La palpation du fond utérin le retrouve chaque jour plus bas. A la fin de la première semaine, il est à mi-chemin entre l'ombilic et la symphyse. A la fin de la deuxième semaine, il est derrière la symphyse et le col est fermé.
+*   La femme ayant été levée dès le premier jour.  
+*   L'état général doit rester satisfaisant.  
+*   Le pouls régulier et la température autour de 37°.  
+*   La palpation du fond utérin le retrouve chaque jour plus bas. A la fin de la première semaine, il est à mi-chemin entre l'ombilic et la symphyse. A la fin de la deuxième semaine, il est derrière la symphyse et le col est fermé.  
 *   Des contractions utérines - " les tranchées " peuvent se manifester les deux ou trois premiers jours et sont d'autant plus fréquentes que la multiparité est avancée. Souvent déclenchées par la mise au sein, elles nécessitent rarement de prescription d'un antalgique.
 
 *   Les " lochies " sont sanglantes et fluides les premiers jours avec parfois un ou plusieurs caillots; puis, elles deviennent moins abondantes et rosées. Une recrudescence vers le quinzième jour n'est pas rare.
@@ -127,6 +127,7 @@ L'embolie pulmonaire, bien que rare, reste la complication majeure de la phlébi
 
 *   **Les anti-inflammatoires** généraux sont indispensables.
 
+
 ![](i79-1.jpg)
 
 
@@ -161,6 +162,7 @@ En l'absence de traitement, l'infection peut évoluer vers une extension loco-r�
 **II - dans les semaines ultérieures**
 
 **D. Les complications mammaires**
+
 
 ![](i79-2.jpg)
 
@@ -225,6 +227,7 @@ Le plus souvent il convient d'attendre sans s'inquiéter. Si l'aménorrhée pers
 *   si la courbe thermique est plate au-dessous de 37°, il s'agit le plus souvent d'un syndrome anovulatoire qui va se corriger grâce à un cycle artificiel oestro-progestatif (Norquentiol, Ovanon, Physiostat),
 
 *   si la courbe thermique est biphasique, il y a sécrétion de progestérone et donc probablement ovulation. En l'absence de manoeuvres endo-utérines intempestives (curetage), il convient alors de prendre patience.
+
 
 ![](i79-3.jpg)
 

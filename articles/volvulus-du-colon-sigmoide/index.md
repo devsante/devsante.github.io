@@ -24,6 +24,7 @@ On distingue deux types de volvulus :
 
 *   Plus rarement le volvulus survient sur un côlon sigmoïde peu remanié. Dans ce cas il est plus brutal et plus grave, l'ischémie et la gangrène étant plus rapides, quoique la distension soit moindre.
 
+
 ![](i458-1.jpg)
 
 
@@ -141,6 +142,7 @@ Elle a lieu en salle d'opération; elle facilite la montée d'une sonde rectale 
 
 *   Si c'est impossible, elle est laissée en attente et le patient est remis sur le dos pour être endormi et opéré.
 
+
 ![](i458-2.jpg)
 
 
@@ -157,6 +159,7 @@ On procèdera de la façon suivante :
 *   Médiane sous-ombilicale agrandie à gauche de l'ombilic. Il faut faire une assez grande incision pour extérioriser sans risque l'énorme anse distendue (_schéma 3)._
 
 *   Extériorisation très prudente de l'énorme ballon colique et confirmation du diagnostic en visualisant la spire à la base de l'anse tordue (180 ou 360 degrés).
+
 
 ![](i458-3.jpg)
 
@@ -192,6 +195,7 @@ Dans ce cas tous les moyens peuvent être mis en oeuvre selon des indications pr
 *   **Colectomie " à froid "** avec rétablissement immédiat de la continuité, si une simple détorsion a déjà été réalisée ailleurs.
 
 *   **Rétablissement de la continuité,** après six semaines, si une colectomie avec colostomie a été réalisée en urgence.
+
 
 ![](i458-4.jpg)
 

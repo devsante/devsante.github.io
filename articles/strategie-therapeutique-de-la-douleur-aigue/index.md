@@ -76,6 +76,7 @@ Un certain nombre de points sont alors à considérer :
 *   l_'intensité_ : pour ce dernier point, il est souhaitable d'utiliser des échelles qui permettent de la quantifier. Par exemple, on demandera au malade de lui attribuer un chiffre allant de zéro à dix, zéro correspondant à l'absence de douleur et dix correspondant à la douleur la plus atroce qu'il puisse imaginer. Parfois ces scores de douleur varient énormément dans le temps, d'où la nécessité d'évaluations rapprochées ;
 *   _l'existence de signes généraux_ : tachycardie, augmentation de la tension artérielle et de la fréquence respiratoire, sueurs, vomissements, pâleur...
 
+
 ![](i748-1-web.jpg)
 
 
@@ -89,7 +90,7 @@ Ainsi, il existe des **complications** :
 
 *   pulmonaires : la douleur va gêner la toux, favorisant la survenue d'atélectasies et l'apparition d'une hypoxie ;
 *   cardiovasculaires : l'hyperactivité est sympathique, responsable d'une augmentation de la fréquence cardiaque et de la tension artérielle ainsi que du travail cardiaque ;
-*   digestives : l'hyperfonctionnement sympathique augmente les sécrétions intestinales et le tonus des sphincters, et diminue la mobilité gastrique pouvant être responsable d'une stase gastrique et intestinale.
+*   digestives : l'hyperfonctionnement sympathique augmente les sécrétions intestinales et le tonus des sphincters, et diminue la mobilité gastrique pouvant être responsable d'une stase gastrique et intestinale.  
 *   des mécanismes analogues peuvent être responsables de certaines rétentions d'urines ;
 *   hormonales, source d'une rétention hydrosodée avec oedème et d'une hyperglycémie,
 *   manifestations psychiatriques : agitation, délire, troubles du sommeil, troubles psychotiques, agressivité ;
@@ -112,7 +113,7 @@ Les AINS ont une action antalgique, anti-inflammatoire et antipyrétique ; le pa
 *   digestifs : ulcère, perforation,
 *   rénaux : possibilité d'une insuffisance rénale aiguë chez un patient hypovolémique,
 *   allergiques : asthme, diarrhées,
-*   anti-agrégant plaquettaire pour les salicylés.
+*   anti-agrégant plaquettaire pour les salicylés.  
 *   Des précautions particulières s'imposent chez l'enfant.
 
 #### b. Le paracétamol
@@ -130,6 +131,7 @@ Les morphiniques : ils ne sont pas tous identiques. On les classe en fonction de
     *   agonistes partiels qui se lient aussi aux récepteurs qu'ils activent mais qui n'entraînent jamais une réponse maximale malgré l'augmentation des doses (effet plafond) (exemple la buprénorphine),
     *   les antagonistes qui sont des morphiniques n'ont pas d'action propre mais ils sont capables de lever l'action d'un agoniste en le déplaçant de son récepteur (exemple la naloxone) : il s'agit des produits que l'on utilise dans les surdosages morphiniques,
     *   les agonistes antagonistes qui agissent en même temps sur des récepteurs différents, pouvant être agonistes sur un récepteur et antagonistes sur un autre, leur activité étant partielle ou totale (exemple : la pentazocine).
+
 
 ![](i748-2-web.jpg)
 

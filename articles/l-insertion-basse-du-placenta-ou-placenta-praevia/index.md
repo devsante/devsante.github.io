@@ -8,7 +8,7 @@ date: "1984-04-29"
 
 On dit que le placenta est praevia lorsqu'il s'insère en totalité ou en partie sur le segment inférieur de l'utérus:
 
-*   anatomiquement, le petit côté des membranes est inférieur à 10 cm.
+*   anatomiquement, le petit côté des membranes est inférieur à 10 cm.  
 *   cliniquement, cette insertion basse se manifeste par des hémorragies souvent très graves.
 
 Toute grossesse qui saigne au cours des derniers mois doit être adressée à un centre hospitalier.
@@ -32,6 +32,7 @@ Notons que l'âge de la femme ne joue aucun rôle dans la survenue d'un placenta
 ## **III. Différentes variétés de placenta praevia**
 
 Au cours du travail, on distinguera les variétés non recouvrantes, c'est-à-dire qui n'empiètent jamais sur la surface de dilatation, des variétés recouvrantes dont il faut souligner d'emblée la gravité (schéma).
+
 
 ![](i119-1.jpg)
 

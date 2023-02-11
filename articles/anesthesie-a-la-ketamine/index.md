@@ -105,6 +105,7 @@ L'administration intraveineuse peut se faire soit en bolus, soit en perfusion co
 
 *   _Administration en intraveineuse conti_nue. On administre en perfusion rapide une dose starter de 2 à 5 mg/kg puis dès la perte de conscience on ralentit le débit à 0,01 à 0,05 mg/kg/min.
 
+
 ![](i833-1.jpg)
 
 
@@ -184,7 +185,9 @@ La kétamine est classiquement contre-indiquée en cas d'hypertension intracrân
 
 La kétamine est un agent anesthésique sûr, assurant une perte de conscience, une analgésie et une amnésie, dont les principaux effets secondaires que sont la stimulation cardio-vasculaire et les manifestations psychiques au réveil ont limité l'utilisation en routine. Elle conserve cependant des indications privilégiées que sont l'anesthésie en situation précaire, l'anesthésie de courte durée en ventilation spontanée, l'anesthésie pour tout acte chirurgical permettant de sauver un sujet en état de choc et non à jeun en associant une ventilation assistée, l'anesthésie pédiatrique, l'anesthésie obstétricale et l'anesthésie du patient asthmatique. Dans ces indications les effets secondaires peuvent être atténués en l'associant à des benzodiazépines administrées en pré- et per- opératoire.
 
+
 ![](i833-2.jpg)
+
 ![](i833-3.jpg)
   
 

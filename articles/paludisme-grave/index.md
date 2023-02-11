@@ -19,6 +19,7 @@ Par ailleurs, la présence de _P.falciparum_ dans l'organisme humain est respons
 
 **Figure 1: physiopathologie du paludisme grave**
 
+
 ![](image002-8.jpg)
 
 
@@ -401,6 +402,7 @@ La surveillance du traitement comprend un monitorage cardioscopique, un électro
 
 **Figure 2 : conduite à tenir thérapeutique devant un accès palustre en milieu hospitalier**
 
+
 ![](image004-8.jpg)
 
 
@@ -415,7 +417,7 @@ Ces dérivés sont très utilisés en Asie du sud-­est dans le cadre du paludis
 
 **Artésunate IV :**
 
-*   2,4 mg/kg à l'admission puis à la douzième heure.
+*   2,4 mg/kg à l'admission puis à la douzième heure.  
 *   2,4 mg/kg toutes les 24 heures pendant 4 jours.
 
 #### b) Traitement symptomatique
@@ -447,7 +449,7 @@ Le paludisme grave est une urgence absolue dont le pronostic est directement li�
 
 En milieu endémique, sa prise en charge impose à tout personnel médical :
 
-*   De **savoir le reconnaître** par une parfaite connaissance des signes de gravité, en parti­culier des signes cliniques.
+*   De **savoir le reconnaître** par une parfaite connaissance des signes de gravité, en parti­culier des signes cliniques.  
 *   De savoir **entreprendre en urgence un traitement par quinine injectable** qui, en l'absence de possibilité rapide d'une confir­mation parasitologique, sera probabiliste.
 
 Développement et Santé, n°191/192, 2008

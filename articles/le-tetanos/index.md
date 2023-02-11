@@ -70,6 +70,7 @@ Il existe également parfois de la fièvre, une constipation et une déshydratat
 
 _(cf. tableau )_
 
+
 ![](i383-1.jpg)
 
 
@@ -153,7 +154,7 @@ Relaxants musculaires : diazépam (Valium®)
 
 *   soit en gouttes par la sonde gastrique à dose de 1 à 4 mg/kg/jour à adapter à l'état clinique (respiration, contraction). Par exemple : quatre gouttes trois fois par jour au départ,
 
-*   *   soit intramusculaire : 0,5 mg toutes les trois heures au départ dans les formes graves.
+*   *   soit intramusculaire : 0,5 mg toutes les trois heures au départ dans les formes graves.  
 *   **Sérothérapie :** 1 500 à 3 000 unités internationales en sous-cutané.
 
 *   **Antibiothérapie :** Pénicilline G : 50 000 à 100000 unités internationales/kg/jour, c'est à dire 100000 unités internationales trois fois par jour en intramusculaire.
@@ -174,7 +175,7 @@ C'est le moyen le plus simple et le plus efficace.
 
 Le vaccin :
 
-*   chez les enfants : à partir de trois mois, trois injections à un intervalle de un à trois mois, puis rappel dans un délai de un à deux ans, puis rappel tous les cinq à dix ans.
+*   chez les enfants : à partir de trois mois, trois injections à un intervalle de un à trois mois, puis rappel dans un délai de un à deux ans, puis rappel tous les cinq à dix ans.  
 *   chez l'adulte et en particulier chez la femme enceinte : deux injections à un à deux mois d'intervalle, puis rappel à un an, puis tous les dix ans.
 
 Le vaccin protège très efficacement contre le tétanos. La vaccination de la femme enceinte protège la femme mais aussi l'enfant à naître.

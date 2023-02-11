@@ -35,17 +35,17 @@ Il s'agit de ne pas nuire à l'utilisatrice donc :
 
 **Pilule œstro-progestative**
 
-*   Hypertension artérielle vraie.
-*   Phlébite, embolie pulmonaire.
-*   Diabète, hypercholestérolémie.
-*   Antécédents familiaux de cancers de l'utérus et/ou du sein, ou découverte à l'examen gynécologique préalable d'une lésion suspecte. Rappelons que la pilule œstro-progestative ne provoque pas le cancer, mais qu'elle peut faciliter le développement d'une tumeur cancéreuse préexistante (cf. "Idées fausses").
+*   Hypertension artérielle vraie.  
+*   Phlébite, embolie pulmonaire.  
+*   Diabète, hypercholestérolémie.  
+*   Antécédents familiaux de cancers de l'utérus et/ou du sein, ou découverte à l'examen gynécologique préalable d'une lésion suspecte. Rappelons que la pilule œstro-progestative ne provoque pas le cancer, mais qu'elle peut faciliter le développement d'une tumeur cancéreuse préexistante (cf. "Idées fausses").  
 *   Prudence chez les femmes qui fument, surtout après quarante ans, celles qui ont une hépatite, de violentes migraines ou qui prennent certains médicaments (rifamycine, phénobarbital, etc.).
 
 **Dispositif intra-utérin**
 
-*   Une grossesse débutante : c'est la raison pour laquelle on pose le stérilet après les règles.
-*   La nullipare.
-*   Les antécédents d'infection pelvienne ou la constatation, à l'examen gynécologique, d'une infection génitale actuelle.
+*   Une grossesse débutante : c'est la raison pour laquelle on pose le stérilet après les règles.  
+*   La nullipare.  
+*   Les antécédents d'infection pelvienne ou la constatation, à l'examen gynécologique, d'une infection génitale actuelle.  
 *   Impossibilité d'assurer un suivi médical régulier deux fois, puis une fois par an.
 
 **Les effets indésirables**
@@ -62,11 +62,11 @@ La diversité des raisons alléguées des préférences, repose sur les représe
 
 ### **2. Par rapport à la situation particulière**
 
-*   Un couple stable qui espace régulièrement les naissances bénéficiera plutôt des contraceptifs œstro-progestatifs, du dispositif intra-utérin s'il n'y a pas d'antécédents infectieux.
-*   Une femme à partenaires multiples ou potentiellement en multi partenariat sexuel devrait bénéficier de préservatifs, diaphragmes et éventuellement d'ovules, afin de limiter les risques de maladies sexuellement transmissibles.
-*   Une femme avec une activité sexuelle épisodique et rare pourra utiliser les ovules ou une crème contraceptive.
-*   Une femme avec des cycles irréguliers ou des règles anormales aura plus de tranquillité avec des œstro-progestatifs.
-*   Une femme qui a eu beaucoup d'enfants, dont les dernières grossesses ont posé des problèmes et dont l'âge est proche de quarante ans, pourra faire pratiquer une ligature des trompes (ou des canaux déférents chez le mari), après mûre réflexion et plusieurs entretiens.
+*   Un couple stable qui espace régulièrement les naissances bénéficiera plutôt des contraceptifs œstro-progestatifs, du dispositif intra-utérin s'il n'y a pas d'antécédents infectieux.  
+*   Une femme à partenaires multiples ou potentiellement en multi partenariat sexuel devrait bénéficier de préservatifs, diaphragmes et éventuellement d'ovules, afin de limiter les risques de maladies sexuellement transmissibles.  
+*   Une femme avec une activité sexuelle épisodique et rare pourra utiliser les ovules ou une crème contraceptive.  
+*   Une femme avec des cycles irréguliers ou des règles anormales aura plus de tranquillité avec des œstro-progestatifs.  
+*   Une femme qui a eu beaucoup d'enfants, dont les dernières grossesses ont posé des problèmes et dont l'âge est proche de quarante ans, pourra faire pratiquer une ligature des trompes (ou des canaux déférents chez le mari), après mûre réflexion et plusieurs entretiens.  
 *   Une femme allaitante prendra plutôt des progestatifs micro dosés.
 
 À bien réfléchir sur toutes les méthodes proposées dans ces situations particulières, on voit que tout se discute. Pourquoi ne pas prescrire, par exemple, l'abstention de la deuxième semaine du mois menstruel chez un couple stable dont la femme a des cycles réguliers. Ne serait-il pas plus sûr de préconiser la pilule œstro-progestative chez une adolescente, qui, à l'approche de ses vingt ans, a une forte fécondité? Et qu'en est-il des familles aux mauvaises conditions socio-économiques, compte tenu de la nécessité d'un suivi médical et de la possibilité d'un approvisionnement régulier? Cela rappelle donc qu'il n'existe pas en matière de contraception d'attitude systématique et qu'il s'agit de situations individuelles, dans lesquelles le milieu et la relation de confiance entre la femme et le prescripteur vont interagir.
@@ -93,8 +93,8 @@ Dans tel pays, la prescription est-elle autorisée par le gouvernement ? Dans te
 
 Rappelons quelques principes de la délégation des tâches.
 
-*   Déléguer des responsabilités n'est pas s'en décharger.
-*   Déléguer implique de confier une tâche en fonction de l'aptitude, des capacités et de la motivation du délégué.
+*   Déléguer des responsabilités n'est pas s'en décharger.  
+*   Déléguer implique de confier une tâche en fonction de l'aptitude, des capacités et de la motivation du délégué.  
 *   Déléguer impose de superviser régulièrement et continuellement.
 
 ### **2. Que prescrit-on ?**
@@ -124,5 +124,6 @@ Dans certains cas, le moment de la prescription doit être bien réfléchi. Par 
 La prescription d'une contraception est un acte complexe, demandant de la pratique, de l'expérience, de l'écoute, de l'évaluation. Mais lorsque l'on dispose de quelques repères, que l'on suit une démarche bien codifiée, cela devient plus simple.
 
 Que l'on soit pour ou contre une politique de planification familiale, il faut au moins que tous les participants au système de santé se posent la question et en discutent. S'ils sont pour, qu'ils aient à disposition des outils aisément maniables par eux-mêmes.
+
 
 ![](i714-1.jpg)

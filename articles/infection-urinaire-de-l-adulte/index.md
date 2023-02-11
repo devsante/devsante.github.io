@@ -47,6 +47,7 @@ Certaines bandelettes plus récentes, permettent de diagnostiquer la présence o
 
 Ainsi, le simple examen à l'oeil nu permet-il en quelques secondes d'affirmer dans la plupart des cas, l'existence ou non d'une infection urinaire. Des urines troubles ne s'éclaircissant pas après acide sont infectées et si le laboratoire vient vous dire le contraire deux jours plus tard, c'est souvent lui qui a tord. Des urines parfaitement limpides à l'oeil nu ne sont pas infectées et, si le laboratoire vient vous dire deux jours plus tard que des microbes y poussent, il s'agira le plus souvent d'une souillure et non d'une infection.
 
+
 ![](i134-1.jpg)
 
 
@@ -56,7 +57,7 @@ S'il est possible pour vous de faire examiner ces urines en laboratoire, cet exa
 
 *   En montrant la présence de pus et de germes en quantité suffisante, on parlera en effet d'infection que s'il existe:
 
-*   des leucocytes altérés en amas (pus) en quantité supérieure ou égale à 10<sup>5</sup>, leucocytes par ml.
+*   des leucocytes altérés en amas (pus) en quantité supérieure ou égale à 10<sup>5</sup>, leucocytes par ml.  
 *   des germes en quantité suffisante sur des urines fraîchement émises et examinées: supérieur ou égal à 10 <sup>5</sup>
 
 *   Surtout en identifiant le germe en cause et en testant sa sensibilité aux antibiotiques et aux antiseptiques urinaires (antibiogramme).
@@ -74,6 +75,7 @@ Sur l'ECBU, on ne découvre que des germes sans pus: si les urines étaient limp
 **_les examens spécifiques_**
 
 La découverte de protéus doit faire suspecter l'existence d'un calcul urinaire car ces germes ont le pouvoir de provoquer leur formation.
+
 
 ![](i134-2.jpg)
 
@@ -136,6 +138,7 @@ Cette urographie n'est pas toujours facile à obtenir si vous êtes éloignés d
 
 Cependant, il faut savoir que chez la femme enceinte, la pyélonéphrite aiguë par reflux est fréquente et la radio dangereuse; on la traitera donc le plus souvent sans radio, mais il faudra la pratiquer après la grossesse, ou prendre le risque de faire deux ou trois clichés si la fièvre ne régresse pas.
 
+
 ![](i134-3.jpg)
 
 
@@ -143,7 +146,9 @@ Cependant, il faut savoir que chez la femme enceinte, la pyélonéphrite aiguë 
 
 **1. Urines troubles + fïèvre**
 
+
 ![](i134-4.jpg)
+
 
 
 ![](i134-5.jpg)

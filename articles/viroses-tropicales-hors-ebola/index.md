@@ -209,6 +209,7 @@ moustique
 </tbody>
 
 </table>
+
 <table>
 <caption>Tableau II. Formes cliniques particulières de certains virus</caption>
 

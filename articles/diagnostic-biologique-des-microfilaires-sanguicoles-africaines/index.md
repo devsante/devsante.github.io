@@ -13,6 +13,7 @@ _Wucheria bancrofti_ en est l'agent responsable en Afrique (_figure n°1_). Les 
 
 L'émission de microfilaires nocturnes dans le sang circulant permet la dissémination de la maladie par l'intermédiaire du vecteur, un moustique généralement du genre Culex. La recherche de ces microfilaires par ponction veineuse au milieu de la nuit est à la base du diagnostic biologique.
 
+
 ![](i761-1.jpg)
 
 
@@ -25,6 +26,7 @@ _Loa-loa_ est responsable de cette filariose exclusivement africaine (_figure n�
 Le ver adulte vit dans le tissu cellulaire sous-cutané. Il est la cause de symptômes plus spectaculaires que graves : oedème migrateur, prurigineux et fugace de Calabar, passage sous-conjonctival ou sous-cutané du ver, manisfestations allergiques qui peuvent devenir graves en cas de lyse brutale des microfilaires par un traitement sans précaution à la diéthylcarbamazine.
 
 L'émission diurne des microfilaires, en phase avec la piqûre du taon Chrysops, vecteur de la loase, boucle le cycle parasitaire. Leur recherche dans le sang capillaire ou veineux affirme le diagnostic.
+
 
 ![](i761-2.jpg)
 
@@ -233,6 +235,7 @@ non visible</td>
 </tbody>
 
 </table>
+
 ![](i761-3.jpg)**Figure n° 3. Éléments caractéristiques des microfilaires (MGG)
 .**
 

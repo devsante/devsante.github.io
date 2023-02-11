@@ -15,6 +15,7 @@ Le virus inoculé est transporté par les nerfs périphériques vers le système
 
 La rage est une zoonose virale dont le reservoir naturel est principalement constitué des carnivores et des chauves-souris. En l'absence de traitement, la maladie est mortelle dès l'apparition des signes cliniques. Les chiens sont à l'origine de 99 % des décès dus à la rage. Plus de 3,3 milliards de personnes vivent en zone d'endémie rabique, 35 000 décès annuels sont dus à cette maladie (OMS 2007), principalement en Asie et en Afrique. **L'enfant est particulièrement exposé**. Chaque année, plus de 10 millions de personnes sont traitées en post-exposition (surtout en Asie).
 
+
 ![](12182-1.jpg)
 
 
@@ -46,6 +47,7 @@ La prévention repose sur une intervention à plusieurs niveaux qui doit être m
 Ces vaccins de référence sont constitués de virus inactivés après multiplication sur cultures cellu¬laires (lignée continue Vero ou fibroblastes d'em¬bryons de poulet). Ils induisent une réponse rapide en anticorps neutralisants. Ils sont administrés par voie IM ou ID selon les protocoles de l'OMS _(voir tableau 1_).
 
 #### a) Schémas de vaccination post-exposition (voir tableau ci-dessous)
+
 
 ![](12182-2.jpg)
 
@@ -161,10 +163,10 @@ Le traitement doit être appliqué même si le contact date de plusieurs mois.
 
 #### a) Le traitement local des plaies doit être immédiat
 
-*   Lavage minutieux des plaies à l'eau savonneuse et rinçage abondant.
-*   Désinfection avec un produit ayant une action rabicide : éthanol 700ml/l, dérivés iodés.
-*   Rapprochement des berges des plaies sans suture.
-*   Traitement antibiotique.
+*   Lavage minutieux des plaies à l'eau savonneuse et rinçage abondant.  
+*   Désinfection avec un produit ayant une action rabicide : éthanol 700ml/l, dérivés iodés.  
+*   Rapprochement des berges des plaies sans suture.  
+*   Traitement antibiotique.  
 *   Protection antitétanique.
 
 #### b) Le traitement antirabique

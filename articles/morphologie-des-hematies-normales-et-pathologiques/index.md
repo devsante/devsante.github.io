@@ -19,14 +19,14 @@ Il existe une zone centrale plus claire, l'hémoglobine se répartissant de faç
 
 ## Il. Anomalies de taille
 
-*   La _microcytose_ caractérise des hématies de taille inférieure à la normale et s'observe surtout au cours des anémies ferriprives et des thalassémies.
-*   La _macrocytose_ correspond à des hématies de taille supérieure à la normale. Elle s'observe au cours de différentes dysérythropoïèses (anomalie de synthèse au niveau de la moelle, avec érythropoïèse inefficace) : carences en folates ou vitamine B12, alcoolisme, traitement par AZT. Les hématies de grande taille observées sur frottis peuvent également correspondre à des réticulocytes qui seront mis en évidence après coloration au bleu de Crésyl.
+*   La _microcytose_ caractérise des hématies de taille inférieure à la normale et s'observe surtout au cours des anémies ferriprives et des thalassémies.  
+*   La _macrocytose_ correspond à des hématies de taille supérieure à la normale. Elle s'observe au cours de différentes dysérythropoïèses (anomalie de synthèse au niveau de la moelle, avec érythropoïèse inefficace) : carences en folates ou vitamine B12, alcoolisme, traitement par AZT. Les hématies de grande taille observées sur frottis peuvent également correspondre à des réticulocytes qui seront mis en évidence après coloration au bleu de Crésyl.  
 *   _L'anisocytose_ est définie par une grande diversité de taille des hématies sur un même frottis.
 
 ## III. Anomalies de coloration
 
-*   L'_hypochromie_ est une diminution de coloration des hématies, souvent associée à une microcytose au cours de anémies ferriprives, ou à une macrocytose au cours des dysérythropoïèses.
-*   L'_anisochromie_ est définie par la variabilité de l'intensité de coloration des hématies sur un même frottis.
+*   L'_hypochromie_ est une diminution de coloration des hématies, souvent associée à une microcytose au cours de anémies ferriprives, ou à une macrocytose au cours des dysérythropoïèses.  
+*   L'_anisochromie_ est définie par la variabilité de l'intensité de coloration des hématies sur un même frottis.  
 *   La _polychromatophilie_ est caractérisée par une variabilité de coloration des hématies qui peuvent présenter des teintes différentes sur un même frottis, de façon plus ou moins homogène. Elle s'observe au cours des anémies hémolytiques et des dysérythropoïèses.
 
 ## IV. Anomalies de forme
@@ -148,10 +148,13 @@ L'étude de la morphologie des hématies vient compléter les résultats de la n
 
 Les hématies peuvent présenter des aspects morphologiques variables, parfois associés. Certains aspects sont spécifiques d'une pathologie (drépanocytes), d'autres permettent une orientation diagnostique.
 
+
 ![](i745-1.jpg)
 
 
+
 ![](i745-2.jpg)
+
 ![](i745-3.jpg)
 
 

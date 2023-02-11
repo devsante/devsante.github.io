@@ -43,6 +43,7 @@ Principe : repas équilibré, en fonction de l'état physiologique de la personn
 
 **III. Exemple de régime**
 
+
 ![](i846-1.jpg)
 
 

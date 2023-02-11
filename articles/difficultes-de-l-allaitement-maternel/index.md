@@ -21,6 +21,7 @@ Elle doit faire cet exercice plusieurs minutes par jour. Ses mamelons deviendron
 
 Une fois le bébé né, les mamelons peuvent être encore étirés davantage. La mère doit pincer délicatement l'aréole entre deux doigts avant de mettre le bout du sein dans la bouche du bébé. Si le sein est bien plein, il convient d'en exprimer d'abord un peu de lait.
 
+
 ![](i695-1.jpg)
 
 
@@ -35,6 +36,7 @@ Il faut apprendre à la mère à tirer son lait quand ses seins sont pleins au p
 Ensuite, elle comprime le bout du sein entre les doigts et le pouce de sa main droite pour faire jaillir le lait dans la tasse. Le lait doit être exprimé de toutes les parties du sein. Vider le sein de son lait prend du temps. Un sein vidé de son lait est ramolli et ne doit pas comporter de boules. Si un sein engorgé n'est pas vidé, le volume de lait qu'il produit diminuera rapidement. Le lait tiré du sein peut être donné au nourrisson de diverses manières _(figure n° 4_).
 
 S'il y a une boule douloureuse dans le sein au cours de la première semaine d'allaitement, cela peut être dû au blocage d'un vaisseau galactophore. Il faut vider le sein, puis presser doucement sur la boule pour la vider. Cela évitera l'apparition ultérieure de problèmes graves.
+
 
 ![](i695-2.jpg)
 
@@ -104,6 +106,7 @@ Voici quelques précautions à prendre pour que l'alimentation artificielle du b
 *   Si l'on doit diluer le lait et le préparer (dans le cas de lait en poudre, par exemple), utiliser de l'eau bouillie.
 
 *   Ne préparer que la quantité nécessaire pour un repas. Si l'on en prépare trop et que l'on en met de côté pour le repas suivant, le danger de contamination est grand.
+
 
 ![](i695-3.jpg)
 

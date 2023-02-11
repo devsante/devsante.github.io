@@ -33,18 +33,18 @@ Elle comporte un examen clinique complet des deux époux et la prescription d'ex
 
 #### Examens biologiques systématiques
 
-*   Sérologie VIH, à proposer systématiquement.
-*   Recherche de drépanocytose.
-*   Groupe sanguin ABO et Rhésus du couple + recherche d'agglutinines irrégulières (RAI) chez la femme.
-*   Sérologie syphilitique (TPHA-VDRL).
-*   Sérologie hépatite B.
+*   Sérologie VIH, à proposer systématiquement.  
+*   Recherche de drépanocytose.  
+*   Groupe sanguin ABO et Rhésus du couple + recherche d'agglutinines irrégulières (RAI) chez la femme.  
+*   Sérologie syphilitique (TPHA-VDRL).  
+*   Sérologie hépatite B.  
 *   Si possible sérologie de la toxoplasmose et de la rubéole (voir encadré).
 
 ### 2. Deuxième consultation
 
-*   Remise à chacun des époux et à lui seul (respect du secret médical +++) des résultats des examens complémentaires.
-*   Education des futurs époux (remise d'une information orale et écrite).
-*   Remise du certificat prénuptial en mains propres à chacun des futurs époux et rempli par un médecin.
+*   Remise à chacun des époux et à lui seul (respect du secret médical +++) des résultats des examens complémentaires.  
+*   Education des futurs époux (remise d'une information orale et écrite).  
+*   Remise du certificat prénuptial en mains propres à chacun des futurs époux et rempli par un médecin.  
 *   Si nécessaire et si possible : vaccination antirubéolique.
 
 ## II. Diagnostic de la grossesse
@@ -53,19 +53,19 @@ Elle comporte un examen clinique complet des deux époux et la prescription d'ex
 
 #### a) Interrogatoire
 
-*   Aménorrhée secondaire +++.
+*   Aménorrhée secondaire +++.  
 *   Signes sympathiques de la grossesse : nausées, vomissements, hypersialorrhée, constipation, hypersomnie, pollakiurie.
 
 #### b) Examen gynécologique
 
-*   **Seins** : augmentés de volume, tendus, sensibles, apparition des tubercules de Montgomery (petits nodules rouges apparaissant sur l'aréole des seins et persistant toute la grossesse).
-*   **Organes génitaux externes** : hyperpigmentation et œdème de la vulve.
-*   Examen **au spéculum (si possible)** **: il est utile, mais le matériel doit être rigoureusement nettoyé et stérilisé après chaque utilisation**. Le col est violacé et la glaire épaisse.
+*   **Seins** : augmentés de volume, tendus, sensibles, apparition des tubercules de Montgomery (petits nodules rouges apparaissant sur l'aréole des seins et persistant toute la grossesse).  
+*   **Organes génitaux externes** : hyperpigmentation et œdème de la vulve.  
+*   Examen **au spéculum (si possible)** **: il est utile, mais le matériel doit être rigoureusement nettoyé et stérilisé après chaque utilisation**. Le col est violacé et la glaire épaisse.  
 *   **TV** : l'utérus est augmenté de volume, antéfléchi, le col est mou (consistance du lobe d'oreille, alors qu'il a habituellement la consistance du bout de nez), les culs-de-sac vaginaux sont comblés par le corps utérin.
 
 ### 2. Examens complémentaires (si possible)
 
-*   Dosage plasmatique de la ßHCG, positive dès le 10ème jour de la grossesse.
+*   Dosage plasmatique de la ßHCG, positive dès le 10ème jour de la grossesse.  
 *   Echographie-pelvienne : importante dans le diagnostic de la grossesse, sa localisation (GIU, GEU), sa datation et sa vitalité (l'activité cardiaque est visible à 7 semaines).
 
 ## III. Suivi de la grossesse (les recommandations ministérielles varient d'un pays à l'autre)
@@ -77,15 +77,15 @@ Les éléments de surveillance à chaque consultation sont : hauteur utérine, T
 
 #### a) Examen général
 
-*   **Interrogatoire** : recherche des nouveaux signes fonctionnels et généraux.
+*   **Interrogatoire** : recherche des nouveaux signes fonctionnels et généraux.  
 *   **Pesée (poids)** : si possible, toujours sur la même balance. La prise de poids, qui doit être harmonieuse, ne doit pas excéder 12 Kg en moyenne à terme. Elle est de :
     *   **500g/mois au 1er trimestre**
     *   **1kg/ mois au 2ème trimestre**
     *   **2kg/ mois au 3ème trimestre**
 *   **Mesure de la pression artérielle (TA**) : à chaque CPN (plus souvent si nécessaire), la TA est prise avant l'examen obstétrical, après une phase de repos, en position assise, bras nus, avec un brassard adapté (brassard pour obèse si la circonférence du bras est supérieure à 30 cm).  
-    La TA normale est inférieure à **140/90 mmHg**, au-delà de ces valeurs, il s'agit d'une Il"TA chez une femme enceinte.
-*   **Inspection générale** : IMC, examen de la peau (lésion, cicatrice), des conjonctives, des dents et des gencives. Recherche de pathologies veineuses, ophtalmologiques, recherche d'une boiterie à la marche.
-*   **Auscultation cardio-pulmonaire** : systématique lors de la première CPN.
+    La TA normale est inférieure à **140/90 mmHg**, au-delà de ces valeurs, il s'agit d'une Il"TA chez une femme enceinte.  
+*   **Inspection générale** : IMC, examen de la peau (lésion, cicatrice), des conjonctives, des dents et des gencives. Recherche de pathologies veineuses, ophtalmologiques, recherche d'une boiterie à la marche.  
+*   **Auscultation cardio-pulmonaire** : systématique lors de la première CPN.  
 *   **Seins** : recherche d'anomalies des mamelons (mamelon ombiliqué), de tumeur et d'adénopathies axillaires.
 
 #### b) Examen obstétrical
@@ -139,7 +139,7 @@ Il doit être pratiqué avant le T'V (en respectant les règles d'hygiène : net
 Il est effectué selon les indications médicales : en cas de leucorrhées pathologiques, d'écoulement clé liquide ou pour objectiver une métrorragie.  
 Un frottis cervico-vaginal (FCV) est réalisé à l'occasion de cet examen si le dernier date de plus de 2 ans.
 
-*   **Examen du col** : son aspect, sa couleur, en recherchant des anomalies de la muqueuse, des vésicules d'herpès, des condylomes ou un écoulement sanglant provenant de l'endocol.
+*   **Examen du col** : son aspect, sa couleur, en recherchant des anomalies de la muqueuse, des vésicules d'herpès, des condylomes ou un écoulement sanglant provenant de l'endocol.  
 *   **Examen du vagin** : réalisé en déplissant ses parois lors du retrait progressif du spéculum.
 
 #### g) Toucher vaginal
@@ -147,8 +147,8 @@ Un frottis cervico-vaginal (FCV) est réalisé à l'occasion de cet examen si le
 L'utilisation d'un doigtier stérile à usage unique, lubrifié ou non, est de rigueur.  
 La femme est en position gynécologique, sur un plan dur, la vessie et (si possible) le rectum étant vides. La main abdominale permet de combiner le palper au toucher. Le TN,' a différents objectifs suivant le terme auquel il est réalisé :
 
-*   **Au 1er trimestre** : il permet le diagnostic de la grossesse.
-*   **Au 2ème trimestre** : il permet de noter les modifications cervicales.
+*   **Au 1er trimestre** : il permet le diagnostic de la grossesse.  
+*   **Au 2ème trimestre** : il permet de noter les modifications cervicales.  
 *   **Au 3ème trimestre** : il s'attache à explorer le col utérin, le segment inférieur, la présentation fcztale, l'état des membranes, l'orifice cervical, le bassin osseux et le tractus génital.
 
 ### 2. Examens paracliniques
@@ -157,9 +157,9 @@ La femme est en position gynécologique, sur un plan dur, la vessie et (si possi
 
 *   Groupe sanguin-Rhésus. 
 *   TPHA-VDRL (syphilis). 
-*   Bandelette urinaire (recherche d'une glycosurie et d'une protéinurie).
-*   HIV (si la femme ne manifeste pas son désaccord).
-*   HVB (hépatite B).
+*   Bandelette urinaire (recherche d'une glycosurie et d'une protéinurie).  
+*   HIV (si la femme ne manifeste pas son désaccord).  
+*   HVB (hépatite B).  
 *   NFS (numération formule sanguine).
 
 **A chaque consultation, effectuer une recherche de protéinurie et de glycosurie par bandelettes.**
@@ -198,9 +198,9 @@ Si le retour de couches a eu lieu, on envisage avec la femme la prescription d'u
 
 ## **V. Conseils d’hygiène de vie durant la grossesse .**
 
-*   Alimentation équilibrée, riche en calcium et en légumes frais.
-*   Eviter de manger des viandes crues.
-*   Arrêt du tabac et de l'alcool.
+*   Alimentation équilibrée, riche en calcium et en légumes frais.  
+*   Eviter de manger des viandes crues.  
+*   Arrêt du tabac et de l'alcool.  
 *   Maintien d'une activité adaptée au terme de la grossesse.
 
 <table>

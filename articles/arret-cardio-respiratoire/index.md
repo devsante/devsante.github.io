@@ -13,10 +13,15 @@ L'alerte des secours médicalisés doit être immédiate. En équipe, la techniq
 
 D'une manière générale, un premier équipier examine la victime afin de déterminer l'état des fonctions vitales, il déclenche ensuite l'alerte, tandis que les deux autres pratiquent la réanimation cardio-pulmonaire proprement dite _(tableau n° 2),_ selon le rythme de 5 appuis sternaux pour 1 insufflation.
 
+
 ![](i795-1.jpg)
+
 ![](i795-2.jpg)
+
 ![](i795-3.jpg)
+
 ![](i795-4.jpg)
+
 ![](i795-5.jpg)
 
 

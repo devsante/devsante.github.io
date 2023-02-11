@@ -18,6 +18,7 @@ Nous vous proposons d'illustrer cette démarche en situation et de confronter vo
 
 Vous avez accepté la charge de technicien sanitaire dans une équipe médicale humanitaire intervenant en Afrique rurale. À votre arrivée (vous êtes le premier arrivé), un responsable du village vous dit que beaucoup d'enfants meurent avec la fièvre et que les gens pensent que c'est le paludisme.
 
+
 ![](i806-1.jpg)
 
 
@@ -57,6 +58,7 @@ Le but est de considérer l'écologie vectorielle : un repas sanguin est nécess
 
 diminue lorsqu'elle abonde, elle s'éloigne difficilement de son lieu de naissance (vitesse de vol 30 m/min), elle pique la nuit puis se repose dans ou hors des maisons (endophile/exophile), elle préfère l'homme ou les animaux (anthropophile/zoophile), elle abonde dans certains quartiers et pas dans d'autres (ses larves n'apprécient pas l'eau polluée) _(encadré n° 2)._
 
+
 ![](i806-2.jpg)
 
 
@@ -94,6 +96,7 @@ pour essayer de trouver la différence qui les distingue. L'ensemble le plus fr�
 
 Question posée à l'infirmier du centre de soins. Il faut savoir que les chiffres du centre de soins ne sont qu'une approche de ces taux car on ne peut pas prendre comme dénominateur la population générale (une variation de fréquentation du centre de soins est possible) et la population consultante n'est pas le reflet de la population générale (particulièrement si la consultation est payante).
 
+
 ![](i806-3.jpg)
 
 
@@ -110,6 +113,7 @@ Question à poser au responsable du village. Le taux brut de mortalité (chiffre
 (question posée au microscopiste)
 
 Ces indicateurs ne sont souvent recueillis que de façon transversale. Ils constituent un instantané d'une population, à un moment donné, mais ne renseignent pas sur les variations (_encadré n° 4_).
+
 
 ![](i806-4.jpg)
 
@@ -135,6 +139,7 @@ Notez-y les gîtes potentiellement importants pour les moustiques : rivières, m
 **Quatrième démarche**
 
 Votre équipe a visité la zone que vous avez identifiée à risque plus élevé et vous rapporte l'absence de marais ou étangs mais signale qu'autour des maisons sont creusées des fosses dont la profondeur a augmenté régulièrement à mesure qu'y était prélevée la terre pour la réparation ou la construction des maisons. Ils ont trouvé beaucoup de larves de moustiques dans l'eau des fosses. Cependant, les habitants ne déclarent pas être gênés par les moustiques. Quel problème évoque cette information ? Que proposez-vous pour diminuer l'exposition aux moustiques ?
+
 
 ![](i806-5.jpg)
 

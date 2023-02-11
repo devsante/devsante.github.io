@@ -15,10 +15,12 @@ Le _Tænia saginata_ est un ver mesurant de 5 à 10 mètres ( figure 1), situé
 
 **Figure 1 : _Tænia saginata_**
 
+
 ![](page-27-fig-1.jpg)
 
 
 **Figure 2 : scolex de _Tænia saginata_**
+
 
 ![](page-27-fig-2.jpg)
 
@@ -27,6 +29,7 @@ Les anneaux terminaux se détachent et sont éliminés avec les selles. En outr
 Eliminés dans la nature, les anneaux éclatent et libèrent des embryophores. Ceux-ci sont ingérés par les bovidés et vont se localiser  dans les muscles (cysticerques). L’homme s’infeste par ingestion de viande de bœuf mal cuite (figure 3).  Les muscles sont digérés, libérant les parasites qui vont se développer dans la lumière intestinale pour devenir un ver adulte en 3 mois.
 
 **Figure 3 : cycle du _Tænia saginata_**
+
 
 ![](page-28-figure-3-cyclesia-saginata.jpg)
 
@@ -98,6 +101,7 @@ L’homme s’infeste par ingestion de viande de porc mal cuite. Après ingesti
 
 **Figure 4 : cycle du _Tænia solium _**
 
+
 ![](page-28-fig-4.jpg)
 
 
@@ -111,6 +115,7 @@ Le traitement du _taenia_ est basé sur le niclosamide ou le praziquantel. Mais
 Ce tænia est un petit taenia de 2 à 4 mm, situé dans l’intestin  grêle.  Il  est  très  fréquent  sur  le  pourtour méditerranéen. Ce tænia est le plus petit des tænia, d’où le nom de _Hymenolepis nana_, mais existe le plus souvent en grand nombre. Le scolex est muni d’un rostre court, de 4 ventouses et d’une couronne de crochets (Figure 5).
 
 **Figure 5 : scolex d'_Hymenolepis nana_**
+
 
 ![](page-29-figure-5-scolexsolepis-nana.jpg)
 
@@ -181,6 +186,7 @@ Le bothriocéphale ou _Diphyllobothrium latum_ est un grand tænia de 3 à 20 m
 
 **Figure 6 : scolex de bothriocéphale**
 
+
 ![](page-30-figure-6-scoleshriocephale.jpg)
 
 
@@ -189,6 +195,7 @@ L’homme s’infeste en ingérant du poisson mal cuit.
 Chez l’homme, le parasite se fixe sur la muqueuse intestinale et grandit en 3 à 5 semaines (Figure 7).
 
 **Figure 7 : cycle du bothriocéphale**
+
 
 ![](page-30-fig-7-cycle-bothriocephale.jpg)
 
@@ -215,6 +222,7 @@ L’échinococcose alvéolaire est due au développement chez l’homme de la f
 L’homme s’infeste par ingestion de fruits ramassés dans la nature et situés à  moins de 1 m de hauteur. La larve va gagner le foie où il forme de très nombreuses cavités de diverses tailles, donnant l’aspect, en coupe, de tranche de pain (Figure 8).
 
 **Figure 8 : echinococcose alvéolaire (coupe de foie)**
+
 
 ![](page-31-figure-8-coupes-alveolaire.jpg)
 

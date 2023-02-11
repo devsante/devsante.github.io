@@ -46,6 +46,7 @@ On note :
 
 Face à un tel tableau, le diagnostic est quasiment certain.
 
+
 ![](i640-1.jpg)
 
 
@@ -83,13 +84,13 @@ Une réanimation visant à corriger les perturbations décrites _(tableau n°2)_
 
 *   _Perfusion_ de sérum physiologique ou Ringer Lactate altemant avec du sérum glucosé à 5 ou 10 %. La quantité de liquide par 24heures est déterminée par l'état et la réponse clinique du malade; mais elle commence sur une base de 3 à 4 litres/24 heures chez l'adulte et 120 millilitres/kg/24 heures chez l'enfant de moins de 25 kg.
 
-*   _Sonde nasogastrique_ de bonne taille et surveillance des sorties.
-*   _Sonde vésicale_ et surveillance de la diurèse horaire et de l'aspect des urines.
+*   _Sonde nasogastrique_ de bonne taille et surveillance des sorties.  
+*   _Sonde vésicale_ et surveillance de la diurèse horaire et de l'aspect des urines.  
 *   _Antibiothérapie intraveineuse_ au chloramphénicol d'emblée, à la dose de 3 g/jour (50 mg/kg/jour).
 
 *   _Les corticoïdes_ (hydrocortisone) ne sont utilisés que dans les plus mauvais cas (choc).
 
-*   _La correction de l'anémie_ si l'hémoglobine est inférieure à 9 g pour cent (transfusion).
+*   _La correction de l'anémie_ si l'hémoglobine est inférieure à 9 g pour cent (transfusion).  
 *   Prévision d'une autre unité de sang pour l'opération.
 
 Cette réanimation doit être la plus courte possible car la mortalité augmente avec le délai opératoire. Cependant, la réanimation doit au moins atteindre des objectifs essentiels tels que la restauration d'une bonne hydratation et d'une diurèse adéquate de 50 ml/heure chez l'adulte et 2 ml/kg/heure chez l'enfant jusqu'à 25 kg, la levée de l'état de choc et la correction de l'anémie. Nombre de patients perforés depuis plusieurs jours arrivent à l'hôpital moribonds. L'acte opératoire dans ce cas est parfaitement inutile !

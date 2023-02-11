@@ -30,6 +30,7 @@ La transmission se fait en plusieurs étapes, selon le schéma suivant :
 
 _**Figure 1. Transmission de l'animal à l'homme** (Cours de virologie systématique. Université René Descartes, Paris)_
 
+
 ![](image001-5.jpg)
 
 
@@ -58,6 +59,7 @@ La rage des chiens sévit à l'état endémique dans les régions défavorisées
 
 **Figure 2. Zones d'endémie de la rage dans le monde**
 
+
 ![](image004-10.jpg)
 
 
@@ -73,15 +75,16 @@ La multiplication du virus déclenche une encépha­lite toujours mortelle.
 
 ### **1. Chez les animaux**
 
-*   Le renard, le chacal ou l'hyène devient agressif, perd sa méfiance habituelle, se rapproche de l'homme et des animaux domestiques qu'il pour­ra contaminer par morsure.
+*   Le renard, le chacal ou l'hyène devient agressif, perd sa méfiance habituelle, se rapproche de l'homme et des animaux domestiques qu'il pour­ra contaminer par morsure.  
 *   Le chien et le chat peuvent présenter une forme furieuse ou une forme paralytique. La forme furieuse se traduit, chez le chien, par une grande agitation, un aboiement particulier se terminant par un ton aigu (appelé voix rabique), par l'inges­tion de substances diverses et surtout par des mor­sures répétées de l'homme ou des animaux. La forme paralytique est plus difficile à reconnaître. La paralysie peut prédominer aux mâchoires ou revêtir l'aspect d'une paralysie ascendante. Le chien enragé meurt habituellement entre le 3ème et le 8ème jour, toujours avant le 15ème jour _(Figure 3)._
 
 _**Figure 3. Chien enragé**_ (cours de virologie systématique. Université René Descartes, Paris)
 
+
 ![](image005-2.jpg)
 
 
-*   Les bovins ont habituellement une forme paraly­tique.
+*   Les bovins ont habituellement une forme paraly­tique.  
 *   Les chauves-souris sont prostrées et montrent des difficultés à voler.
 
 ### **2. Chez l'homme**
@@ -113,13 +116,13 @@ C'est pour cette raison que la PPE est indispensable chez les individus suscepti
 
 Ils sont très importants, à faire en urgence :
 
-*   Désinfecter la plaie en lavant à grande eau la région mordue avec du savon ou du détergent.
-*   Appliquer de l'alcool à 60°, de la povidone iodée ou de l'eau de Javel diluée.
+*   Désinfecter la plaie en lavant à grande eau la région mordue avec du savon ou du détergent.  
+*   Appliquer de l'alcool à 60°, de la povidone iodée ou de l'eau de Javel diluée.  
 *   Ne pas suturer la plaie.
 
 ### 2. Soins généraux
 
-*   Pour la prévention du tétanos, faire un rappel de vaccin (sauf si vaccination récente).
+*   Pour la prévention du tétanos, faire un rappel de vaccin (sauf si vaccination récente).  
 *   Donner une antibiothérapie pour prévenir l'infec­tion de la blessure par d'autres agents pathogènes pouvant être transmis par l'animal, _Pasteurella_ en particulier (amoxicilline ou tétracycline, érythro­mycine, cefotaxime).
 
 ### 3. Traitement spécifique
@@ -207,7 +210,7 @@ selon le type d'immunoglobulines
 **Modalités d’administration des immunoglobulines antirabiques**
 
 *   Infiltration dans la profondeur de la blessure et ses environs. Il faut infiltrer la quantité anatomiquement maximale d’IGAR sur le pourtour de la blessure.  
-    Le reste doit être injecté en IM dans un site distant de l’inoculation du vaccin (muscle antérolatéral de la cuisse).
+    Le reste doit être injecté en IM dans un site distant de l’inoculation du vaccin (muscle antérolatéral de la cuisse).  
 *   Il ne faut pas dépasser la dose totale recommandée : si les blessures sont trop étendues ou nombreuses, la dose calculée doit être diluée dans une solution saline stérile (2 ou 3 fois le volume de la dose de l’IGAR) et faire alors une infiltration minutieuse de toutes les blessures.
 
 **Modalités du traitement**
@@ -225,7 +228,7 @@ On dispose maintenant de vaccins modernes préparés sur des cultures cellulaire
 
 **Trois protocoles sont proposés par l'OMS **
 
-1.  Cinq injections IM (dans l’épaule au niveau du deltoïde ou, chez l'enfant, à la face antérolatérale de la cuisse. **Jamais** d'injection dans la fesse) d’une dose (2,5 UI) de vaccin respectivement  à J0, J3, J7, J14, J28.
+1.  Cinq injections IM (dans l’épaule au niveau du deltoïde ou, chez l'enfant, à la face antérolatérale de la cuisse. **Jamais** d'injection dans la fesse) d’une dose (2,5 UI) de vaccin respectivement  à J0, J3, J7, J14, J28.  
 2.  Schéma simplifié (même posologie)  
     Deux injections IM à J0 en 2 sites différents, puis une à J7 et une à J 21
 3.  En l’absence d’immunoglobulines, vaccination intradermique.
@@ -246,11 +249,11 @@ En IM on injecte toute la dose, soit 0,5 ml ou 1 ml selon le type de vaccin. En 
 
 Devant toute morsure de chien (ou léchage) il faut :
 
-*   Rechercher le chien mordeur et surtout ne pas l'abattre.
-*   Si l'abattage a eu lieu ou s'avère nécessaire, ne pas abîmer la tête et la conserver.
-*   Considérer le risque comme maximal si l'animal a disparu.
-*   Mettre le chien sous surveillance, même s'il est vacciné, pendant deux semaines.
-*   Chercher tout changement de comportement du chien.
+*   Rechercher le chien mordeur et surtout ne pas l'abattre.  
+*   Si l'abattage a eu lieu ou s'avère nécessaire, ne pas abîmer la tête et la conserver.  
+*   Considérer le risque comme maximal si l'animal a disparu.  
+*   Mettre le chien sous surveillance, même s'il est vacciné, pendant deux semaines.  
+*   Chercher tout changement de comportement du chien.  
 *   Si le chien meurt, faire un prélèvement d'encéphale.
 
 _Il faut ensuite décider de débuter une vaccination ou non, la décision est variable selon le niveau et la stratégie nationale. _
@@ -268,7 +271,7 @@ Néanmoins, la réalisation du diagnostic biologique relève de laboratoires sp�
 
 #### Chez l’homme
 
-*   Biopsie cutanée : effectuée à la base de la nuque, région riche en filets nerveux infectés, il s’agit d’un micro-prélèvement de 4 mm (Punch).
+*   Biopsie cutanée : effectuée à la base de la nuque, région riche en filets nerveux infectés, il s’agit d’un micro-prélèvement de 4 mm (Punch).  
 *   Salive : les prélèvements doivent être répétés car l’excrétion est intermittente.
 
 #### Chez l’animal mort
@@ -286,8 +289,8 @@ Prélèvements cérébraux au niveau du bulbe rachidien, les plus productifs.
 
 #### Détection des ARN viraux
 
-*   Elle permet d’identifier les 11 types de virus.
-*   Son intérêt est épidémiolgique.
+*   Elle permet d’identifier les 11 types de virus.  
+*   Son intérêt est épidémiolgique.  
 *   Elle est réalisée par une méthode de biologie moléculaire d’amplification génique, la RT-PCR.
 
 #### Détection des anticorps antirabiques
@@ -302,7 +305,7 @@ La rage est un grave problème de santé publique dans certaines régions d'Afri
 
 *   La lutte contre les réservoirs, c'est-à-dire l'abattage des animaux errants. _Il faut éviter de nourrir les chiens on chats sauvages dans les villes et appeler les services spécifiques pour leur abattage._
 *   La vaccination des animaux domestiques ; _si elle n'est pas possible, il faut interdire la présence de carnassiers domestiques dans les concessions._
-*   La surveillance et l'éducation des enfants pour la sup­pression des contacts avec les animaux non connus.
+*   La surveillance et l'éducation des enfants pour la sup­pression des contacts avec les animaux non connus.  
 *   _Posséder un chien est une responsabilité, le pro­priétaire doit faire en sorte qu'il soit vacciné et qu'il demeure dans la concession_.
 
 La rage est une maladie fantasmagorique, entourée de superstition et d'excitation collective. L'éducation dans les villages et les quartiers est très importante, il est nécessaire non seulement d'informer du carac­tère gravissime de cette maladie, mais aussi d'expli­quer que ce n'est pas une fatalité, et qu'elle peut être traitée à condition que la prise en charge soit rapide. Soulignons une fois de plus ici l'importance pour la santé de l'éducation et de la formation des respon­sables des centres de soins et des communautés.

@@ -258,6 +258,7 @@ Le traitement est indiqué lorsque la modification des habitudes de vie ne suffi
 
 L’infirmier(ère) a une place essentielle dans le suivi et le soutien des personnes diabétiques. Le suivi ne se résume pas à vérifier l’adhérence au traitement médicamenteux. Il comporte un grand travail de partenariat, d’éducation, d’accompagnement et de soutien par rapport à la médication certes, mais aussi pour la nutrition, l’activité physique et la surveillance glycémique afin de permettre au patient d’être capable de s’autogérer. Il est important de vérifier le niveau de compréhension du patient et d’impliquer la famille pour s’assurer que le patient puisse bénéficier du maximum d’informations et de support pour la prise en charge de sa maladie. L’engagement des infirmiers(ères) autant que des personnes diabétiques permet d’assurer une meilleure gestion de la maladie à long terme et permet au patient de développer ses capacités d’autogestion qui lui permettront de poser les meilleures actions pour sa santé. 
 
+
 ![](image002-20.jpg)
 
 

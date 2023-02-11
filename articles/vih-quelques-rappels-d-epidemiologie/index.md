@@ -99,12 +99,12 @@ Le virus VIH est transmis essentiellement par voie sexuelle ; le plus souvent, l
 
 #### a. Les facteurs favorisants
 
-*   Les IST (infections sexuellement transmissibles) favorisent très fortement la contamination par le VIH.
-*   Inversement, l'infection par le VIH favorise les IST, particulièrement les IST ulcératives et les infections à _Trichomonas_ chez la femme.
-*   Rapports violents (viols), maladroits, rapides.
-*   Rapports au cours des règles.
-*   La non circoncision des hommes.
-*   Le stade de la maladie chez le donneur (si la virémie est élevée ou si le nombre de CD4 est bas).
+*   Les IST (infections sexuellement transmissibles) favorisent très fortement la contamination par le VIH.  
+*   Inversement, l'infection par le VIH favorise les IST, particulièrement les IST ulcératives et les infections à _Trichomonas_ chez la femme.  
+*   Rapports violents (viols), maladroits, rapides.  
+*   Rapports au cours des règles.  
+*   La non circoncision des hommes.  
+*   Le stade de la maladie chez le donneur (si la virémie est élevée ou si le nombre de CD4 est bas).  
 *   La contamination par un patient non traité par ARV par rapport à un patient traité.
 
 Certains comportements favorisent les infections dans une population : nombre élevé de partenaires différents, fréquence des rapports sexuels, fréquentation des prostitués.
@@ -165,11 +165,12 @@ Le continent africain est de loin le plus touché dans le monde, et il est admis
 
 #### Les faits confirmés
 
-*   L'Afrique est le continent où le virus VIH-1 circule depuis le plus longtemps.
-*   L'Afrique est le continent où les 2 virus sont apparus et circulent depuis longtemps.
-*   La séroprévalence est d'autant plus élevée que la séroprévalence au virus herpès 2 l'est aussi.
-*   La séroprévalence est d'autant plus élevée que l'âge des conjoints lors du mariage est élevé et la différence d'âge entre femme et homme est grande (plus l'homme est âgé et la femme jeune, plus le risque est grand).
+*   L'Afrique est le continent où le virus VIH-1 circule depuis le plus longtemps.  
+*   L'Afrique est le continent où les 2 virus sont apparus et circulent depuis longtemps.  
+*   La séroprévalence est d'autant plus élevée que la séroprévalence au virus herpès 2 l'est aussi.  
+*   La séroprévalence est d'autant plus élevée que l'âge des conjoints lors du mariage est élevé et la différence d'âge entre femme et homme est grande (plus l'homme est âgé et la femme jeune, plus le risque est grand).  
 *   La séroprévalence VIH est d'autant plus importante que le taux de circoncision des hommes est bas.
+
 
 ![](image002.gif)
 
@@ -229,6 +230,7 @@ Après 18 mois : on peut, comme chez l'adulte, faire le diagnostic sur les antic
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>

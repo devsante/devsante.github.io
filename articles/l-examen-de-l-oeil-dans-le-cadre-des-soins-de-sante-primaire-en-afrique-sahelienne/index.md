@@ -9,6 +9,7 @@ teaser: "Au Niger, la prévalence de la cécité est de 2 % ; 80 % de ces cécit
 
 ### 1. Apprendre à reconnaître les éléments essentiels
 
+
 ![](i562-1.jpg)
 
 
@@ -21,6 +22,7 @@ Les paupières, organes de protection s'ouvrent et se ferment spontanément, ré
 *   **Le segment antérieur de l'œil :** c'est la partie visible de l'œil.
 
 *   Au centre, la **cornée** est une lentille transparente qui permet d'apercevoir l'iris, de couleur sombre, et percé en son centre d'un trou rond et noir : la **pupille.**
+
 
 ![](i562-2.jpg)
 
@@ -48,6 +50,7 @@ Le cristallin s'opacifie physiologiquement avec l'âge : c'est la cataracte. Il 
 
 Par contre, toute atteinte de la cornée est pathologique, les garants de la **transparence cornéenne** sont la conjonctive, les **larmes** sécrétées par les cellules conjonctivales et étalées par le **clignement palpébral** (grâce au **nerf facial).** La cornée, avasculaire est par contre très sensible : le **réflexe cornéen** sous la dépendance du nerf trijumeau est un important facteur de protection.
 
+
 ![](i562-3.jpg)
 
 
@@ -74,6 +77,7 @@ Les cotons ou compresses qui auront servi à l'examen doivent être **individuel
 *   lampe électrique (avec piles),
 *   pince à épiler les cils,
 *   deux écarteurs "trombone" pour écarter les paupières : déplier un trombone 32 mm et en couder une extrémité à la manière d'un écarteur de Desmarres.
+
 
 ![](i562-4.jpg)
 
@@ -116,6 +120,7 @@ Faire préciser :
 *   notion de traumatisme récent,
 *   notion de chirurgie oculaire récente.
 
+
 ![](i562-5.jpg)
 
 
@@ -149,6 +154,7 @@ Les deux yeux sont de taille identique et parallèle
 *   les deux yeux sont parallèles dans le regard au loin : déviation oculaire, strabisme, paralysie neuromotrice.
 
 ### 3. Examiner l'œil
+
 
 ![](i562-6.jpg)
 
@@ -188,6 +194,7 @@ Indispensable à la recherche de :
 
 NB. C'est plus facile si vous demandez au patient de regarder vers le bas.
 
+
 ![](i562-7.jpg)
 
 
@@ -207,6 +214,7 @@ Toujours vérifier les cornées et la pupille en s'aidant au besoin des écarteu
 *   déviation d'un œil,
 *   une ou deux cornées opaques,
 *   une ou deux pupilles blanches ou roses.
+
 
 ![](i562-8.jpg)
 
@@ -228,6 +236,7 @@ Placez-vous à six mètres du patient :
 *   changer d'œil.
 
 NB. Un patient qui compte les doigts à six mètres a au moins 1/10.
+
 
 ![](i562-9.jpg)
 

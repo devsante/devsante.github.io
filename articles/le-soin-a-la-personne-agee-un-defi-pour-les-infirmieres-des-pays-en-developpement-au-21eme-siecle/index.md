@@ -611,22 +611,22 @@ Attention au rôle des pathologies et de certains médicaments sur la perte du g
 
 **_Référence bibliographiques_**
 
-1.  Eliopoulos C. (2001), Gerontological nursing. Third edition. Lippincott Company. Philadelphia.
-2.  Gelabert R.C. (2008), Dépression: traitement scientifiques et naturels. 3ème édition Vidasana. Espagne.
-3.  Gelabert R.C. (2008), Stress et anxiété. 3ème édition. Vidasana. Espagne.
-4.  Hanson S.M.H. (2001), Family health care nursing. 2nd edition.  Hanson, Philadelphia.
-5.  Honga F. (2013), Maltraitance, pourquoi les personnes âgées sont-elles considérées comme sorcières? Cameroun info-net.com, 04 février 2014.
-6.  Kozier & Erb, (2005), Soins infirmiers, théorie et pratique. Erpi. Québec. P 528. Ministère de la santé Publique du Cameroun (2010). Plan stratégique 2010-2015. Imprimerie Nationale, Yaoundé.
-7.  Monekosso G.L. (2010) « Soin à la personne âgée, quel passé, quel présent, quel avenir ?» Palais des Congrès, Yaoundé. Intervention comme président d’honneur.
-8.  Morin D. (2010) «Le soin à la personne âgée, quel passé, quel présent, quel avenir?».Allocution lors au colloque international sur le vieillissement. Palais des Congrès, Yaoundé.
-9.  Organisation Mondiale de la Santé (2002). Vieillir en restant actif-cadre d’orientation, Deuxième assemblée mondiale des Nations Unies sur le vieillissement. Madrid, Espagne.
-10.  Organisation Mondiale de la Santé (2010). Personnes âgées, une nouvelle force pour le développement. Bulletin OMS 2010, journée mondiale de la personne âgée.
-11.  Organisation Mondiale de la Santé (2012), Vieillissement et qualité de vie. Journée mondiale de la santé. Bulletin de l’OMS, Avril 2012.
-12.  Organisation Mondiale de la Santé (2012), aide-mémoire n° 381.
-13.  Pauchet–Traversat A.F. (2006), Soins infirmiers, fiches techniques soins de base centrés sur la personne soignée. 5ème édition. Maloine. Paris P 630-631. 740-741.
-14.  Pitre A. (1995) maladies chroniques, aider la personne âgée à soulager leur douleur. l’infirmière du Québec, avril 2/4 p 22-23.
-15.  Stanley M., Bear P.G. (1995), Gerontological nursing. Davis Company, Philadelphia. P 522-528.
-16.  Tapitch B.J., Lyer P., Berrochi-Losey D. (1983) Nursing diagnosis and care planning. Saunders. Philadelphia. Pp 58-60.
-17.  Takanostone J., Cheritz W. C. (1191), Clinical gerontological nursing, a guide to advanced practice. Saunders. Philadelphia.
-18.  www.health24.com/dietnfood_as_medecine 30 décembre 2013.
+1.  Eliopoulos C. (2001), Gerontological nursing. Third edition. Lippincott Company. Philadelphia.  
+2.  Gelabert R.C. (2008), Dépression: traitement scientifiques et naturels. 3ème édition Vidasana. Espagne.  
+3.  Gelabert R.C. (2008), Stress et anxiété. 3ème édition. Vidasana. Espagne.  
+4.  Hanson S.M.H. (2001), Family health care nursing. 2nd edition.  Hanson, Philadelphia.  
+5.  Honga F. (2013), Maltraitance, pourquoi les personnes âgées sont-elles considérées comme sorcières? Cameroun info-net.com, 04 février 2014.  
+6.  Kozier & Erb, (2005), Soins infirmiers, théorie et pratique. Erpi. Québec. P 528. Ministère de la santé Publique du Cameroun (2010). Plan stratégique 2010-2015. Imprimerie Nationale, Yaoundé.  
+7.  Monekosso G.L. (2010) « Soin à la personne âgée, quel passé, quel présent, quel avenir ?» Palais des Congrès, Yaoundé. Intervention comme président d’honneur.  
+8.  Morin D. (2010) «Le soin à la personne âgée, quel passé, quel présent, quel avenir?».Allocution lors au colloque international sur le vieillissement. Palais des Congrès, Yaoundé.  
+9.  Organisation Mondiale de la Santé (2002). Vieillir en restant actif-cadre d’orientation, Deuxième assemblée mondiale des Nations Unies sur le vieillissement. Madrid, Espagne.  
+10.  Organisation Mondiale de la Santé (2010). Personnes âgées, une nouvelle force pour le développement. Bulletin OMS 2010, journée mondiale de la personne âgée.  
+11.  Organisation Mondiale de la Santé (2012), Vieillissement et qualité de vie. Journée mondiale de la santé. Bulletin de l’OMS, Avril 2012.  
+12.  Organisation Mondiale de la Santé (2012), aide-mémoire n° 381.  
+13.  Pauchet–Traversat A.F. (2006), Soins infirmiers, fiches techniques soins de base centrés sur la personne soignée. 5ème édition. Maloine. Paris P 630-631. 740-741.  
+14.  Pitre A. (1995) maladies chroniques, aider la personne âgée à soulager leur douleur. l’infirmière du Québec, avril 2/4 p 22-23.  
+15.  Stanley M., Bear P.G. (1995), Gerontological nursing. Davis Company, Philadelphia. P 522-528.  
+16.  Tapitch B.J., Lyer P., Berrochi-Losey D. (1983) Nursing diagnosis and care planning. Saunders. Philadelphia. Pp 58-60.  
+17.  Takanostone J., Cheritz W. C. (1191), Clinical gerontological nursing, a guide to advanced practice. Saunders. Philadelphia.  
+18.  www.health24.com/dietnfood_as_medecine 30 décembre 2013.  
 19.  [www.americanheart.org.presenter.jhtml?identifier=4716](http://www.americanheart.org.presenter.jhtml?identifier=4716 "www.americanheart.org.presenter.jhtml?identifier=4716"). 30 décembre 2013

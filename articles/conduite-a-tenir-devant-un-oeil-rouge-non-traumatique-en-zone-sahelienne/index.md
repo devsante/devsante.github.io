@@ -79,14 +79,15 @@ Souvenez-vous des cinq règles de l'examen normal :
 
 Ces règles vous permettront de reconnaître les critères de gravité :
 
-*   Les paupières ne se ferment pas totalement (lagophtalmie).
-*   Les cils frottent sur la cornée (trichiasis).
-*   La rougeur est limbique (cercle périkératique).
-*   La cornée est blanche.
+*   Les paupières ne se ferment pas totalement (lagophtalmie).  
+*   Les cils frottent sur la cornée (trichiasis).  
+*   La rougeur est limbique (cercle périkératique).  
+*   La cornée est blanche.  
 *   La pupille est blanche,
     *   et/ou irrégulière,
     *   et/ou petite (myosis),
     *   et/ou élargie (mydriase).
+
 
 ![](i575-1.jpg)
 
@@ -107,13 +108,13 @@ Ces règles vous permettront de reconnaître les critères de gravité :
 
 Au terme de votre examen vous pourrez :
 
-*   Faire le diagnostic du siège de la lésion.
+*   Faire le diagnostic du siège de la lésion.  
 *   Traiter sur place
     *   les atteintes de la conjonctive,
-    *   les atteintes superficielles de la cornée.
+    *   les atteintes superficielles de la cornée.  
 *   Mettre en route un traitement sur place
     *   en assurer la surveillance régulière,
-    *   référer en l'absence d'amélioration.
+    *   référer en l'absence d'amélioration.  
 *   Référer les autres cas en précisant les critères de gravité.
 
 ## I. L'oeil rouge **non douloureux**
@@ -161,6 +162,7 @@ L'examen peut être rendu difficile par l'oedème palpébral :
 *   retournez la paupière supérieure à la recherche d'un corps étranger passé inaperçu, de follicules trachomateux.
 
 ###   
+
 ![](i575-2.jpg)
   
 
@@ -170,8 +172,9 @@ L'examen peut être rendu difficile par l'oedème palpébral :
 
 *   Expliquer et montrer comment nettoyer l'oeil **avant chaque traitement :**
     *   avec une eau propre, sans savon,
-    *   avec la main propre : c'est l'idéal car elle pourra être relavée.
+    *   avec la main propre : c'est l'idéal car elle pourra être relavée.  
 *   **Traiter** avec un collyre ou une pommade antibiotique quatre fois par jour pendant huit jours.
+
 
 ![](i575-3.jpg)
 
@@ -218,6 +221,7 @@ Si la conjonctivite survient après le septième jour, si les sécrétions et l'
 
 **La douleur est majorée par la** **lumière et/ou le clignement des paupières** (le malade se présente souvent avec l'oeil fermé).
 
+
 ![](i575-4.jpg)
 
 
@@ -263,7 +267,7 @@ Toujours vérifier la composition du collyre ou de la pommade que vous prescrive
 
 **Mettre un pansement oculaire**
 
-*   But du pansement : maintenir les paupières fermées.
+*   But du pansement : maintenir les paupières fermées.  
 *   Danger du pansement : le pansement frotte sur la cornée et aggrave les lésions. Chez l'enfant, il doit être laissé le moins longtemps possible entravant le passage de lumière, il peut être source d'amblyopie séquellaire (baisse de vision).
 
 **Comment fabriquer un pansement** **oculaire :**
@@ -277,6 +281,7 @@ Toujours vérifier la composition du collyre ou de la pommade que vous prescrive
 *   placer la rondelle (ou la compresse pliée) sur l'oeil,
 *   mettre les sparadrap,
 *   demander au malade d'ouvrir les yeux l'oeil sous le pansement doit rester fermé. Dans le cas contraire, recommencer depuis le début.
+
 
 ![](i575-5.jpg)
 
@@ -295,6 +300,7 @@ Il s'agit d'une conjonctivite " allergique "
 *   la pommade auréomycine 1 % sera prescrite matin et soir pendant un mois,
 *   en l'absence d'amélioration ou en cas d'altération de la vision, il faudra référer le malade au spécialiste.
 
+
 ![](i575-6.jpg)
 
 
@@ -302,6 +308,7 @@ Le **ptérygion inflammatoire :** c'est une prolifération conionctivale qui, de
 
 *   l'acuité visuelle diminue,
 *   le traitement par antibiotique est inefficace.
+
 
 ![](i575-7.jpg)
 
@@ -316,6 +323,7 @@ La paupière ne se ferme pas totalement on parle de **lagophtalmie soit par para
 
 *   ne jamais mettre de pansement oculaire qui frottera directement sur la cornée,
 *   fabriquer une coque et la fixer.
+
 
 ![](i575-8.jpg)
 
@@ -360,6 +368,7 @@ L'atteinte cornéenne est profonde : traitement antibiotique, pansement oculaire
 
 **il s'agit d'une uvéite :** référer au spécialiste.
 
+
 ![](i575-9.jpg)
 
 
@@ -372,6 +381,7 @@ L'atteinte cornéenne est profonde : traitement antibiotique, pansement oculaire
 *   la pupille peut être blanche,
 
 **il s'agit d'une hypertonie (glaucome** **aigu) :** référer le plus vite possible au spécialiste. Si vous avez du Diamox, donner 1 cp 3 fois par jour.
+
 
 ![](i575-10.jpg)
 
@@ -403,7 +413,7 @@ Mais rappelez-vous que :
 *   Le pansement est une prescription médicale :
     *   il doit être correctement mis,
     *   il doit être propre,
-    *   il doit être surveillé.
+    *   il doit être surveillé.  
     *   les paupières sont le pansement idéal.
 
 **Jamais de pansement chez l'enfant** **sans avis du spécialiste.**
@@ -532,6 +542,7 @@ Non
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>

@@ -84,7 +84,7 @@ Seuil de commande :
 
 #### Case "Article"
 
-1.  _**nom du produit**_ : dénomination com­mune internationale (DCI).
+1.  _**nom du produit**_ : dénomination com­mune internationale (DCI).  
 2.  **_sa forme galénique_** : comprimé, gélule ou sirop, etc.,
 3.  **_son dosage_** : on peut avoir des com­primés à 250 mg ou à 500 mg. Il ne faut **jamais mélanger** les dosages différents d'un même produit.
 
@@ -313,7 +313,7 @@ Destination du produit, nom du lieu où les médicaments seront dispensés aux p
 
 Nombre d'unités restant dans le stock.
 
-*   S'il s'agit d'une **entrée** (quantité reçue), on ajoute la "**quantité reçue**" au "**stock res­tant**" de la ligne précédente.
+*   S'il s'agit d'une **entrée** (quantité reçue), on ajoute la "**quantité reçue**" au "**stock res­tant**" de la ligne précédente.  
 *   S'il s'agit d'une **sortie** (quantité delivrée), on retranche la "**quantité délivrée**" du "**stock restant**" de la ligne précédente.
 
 #### **Colonne "Remarques"**
@@ -364,13 +364,13 @@ Les fiches de stock doivent être remplies très lisiblement et avec soin, certa
 
 Une fiche de stock peut tomber, être mal positionnée par erreur ; il peut arriver qu'on les déplace, par exemple pour rassembler les éléments nécessaires pour faire une commande. Il faut donc prendre le temps de remplir ces cases d'identification correctement et lisiblement.
 
-*   **Pour un nouveau produit** qui n'était pas en stock indiquez avec soin : DCI, forme galénique, dosage, numéro d'identification et conditionnement au stylo, prix d'achat au crayon de papier.
+*   **Pour un nouveau produit** qui n'était pas en stock indiquez avec soin : DCI, forme galénique, dosage, numéro d'identification et conditionnement au stylo, prix d'achat au crayon de papier.  
 *   **Pour un produit déjà en stock**, il s'agit d'une fiche de remplacement : reportez soigneusement les indications inscrites sur l'ancienne fiche. Vous pouvez reporter le seuil de commande.
 
 #### Remplissez la première ligne du tableau des mouvements
 
-*   **Pour un nouveau produit** qui n'était pas en stock, comme le produit n'existait pas, il faut reporter dans la case "**_stock res­tant_**" le nombre que l'on a inscrit dans la case "**_quantité reçue_**".
-*   **Pour un produit déjà en stock**, il s'agit d'une fiche qui vient en remplacement d'une fiche dont toutes les lignes sont rem­plies, ou d'une fiche qui correspond à une nouvelle unité de compte.
+*   **Pour un nouveau produit** qui n'était pas en stock, comme le produit n'existait pas, il faut reporter dans la case "**_stock res­tant_**" le nombre que l'on a inscrit dans la case "**_quantité reçue_**".  
+*   **Pour un produit déjà en stock**, il s'agit d'une fiche qui vient en remplacement d'une fiche dont toutes les lignes sont rem­plies, ou d'une fiche qui correspond à une nouvelle unité de compte.  
 *   Sur la première ligne du tableau des mou­vements :
     *   dans la colonne "**date"** : notez la **date**,
     *   dans la colonne "**provenance**" inscri­vez la mention "**fiche**" si vous reportez le stock restant de la fiche terminée ou "**inventaire**" si vous avez procédé à l'inventaire physique,
@@ -625,11 +625,11 @@ Le nouveau stock est bien de **33 plaquettes** (11 boîtes de 3 plaquettes de 10
 
 **Effectuez l'inventaire proprement dit :**
 
-1.  **Tracez une double ligne** en dessous de la dernière opération enregistrée sur la fiche de stock. Vous pouvez utiliser un **stylo de couleur différente (rouge)** pour tracer ces lignes et noter les informations relatives à l'inventaire.
-2.  Inscrivez la date à laquelle l'inventaire a été effectué.
-3.  Inscrivez le mot "inventaire" sur toute la largeur des colonnes.
-4.  Comptez le nombre d'unités du pro­duitdisponible sur les étagères (par exemple, de boîtes). Le nombre d'unités décomptées constitue le résultat de l'inven­taire dans la case "stock restant".
-5.  Si le résultat de l'inventaire est différent du résultat attendu, c'est-à-dire du nombre inscrit dans la case "stock restant" de la dernière ligne avant l'inventaire, mentionnez "écart" dans la colonne "remarques". Faites une vérification et si la différence se confirme, calculez la différence entre la quantité attendue et la quantité réelle et notez-la sur la fiche. Après l'inventaire, vous vous efforcerez de déterminer pourquoi cet écart existe.
+1.  **Tracez une double ligne** en dessous de la dernière opération enregistrée sur la fiche de stock. Vous pouvez utiliser un **stylo de couleur différente (rouge)** pour tracer ces lignes et noter les informations relatives à l'inventaire.  
+2.  Inscrivez la date à laquelle l'inventaire a été effectué.  
+3.  Inscrivez le mot "inventaire" sur toute la largeur des colonnes.  
+4.  Comptez le nombre d'unités du pro­duitdisponible sur les étagères (par exemple, de boîtes). Le nombre d'unités décomptées constitue le résultat de l'inven­taire dans la case "stock restant".  
+5.  Si le résultat de l'inventaire est différent du résultat attendu, c'est-à-dire du nombre inscrit dans la case "stock restant" de la dernière ligne avant l'inventaire, mentionnez "écart" dans la colonne "remarques". Faites une vérification et si la différence se confirme, calculez la différence entre la quantité attendue et la quantité réelle et notez-la sur la fiche. Après l'inventaire, vous vous efforcerez de déterminer pourquoi cet écart existe.  
 6.  Le résultat de l'inventaire sera bien sûr le stock de référence pour le mouvement suivant.
 
 <table>

@@ -10,6 +10,7 @@ L'équipe sanitaire de Békamba (district de Koumra, Moyen Chari, Tchad), compos
 
 Le début de l'expérience de prise en charge des diabétiques insulino-dépendants remonte à dix ans. Durant cette période, quinze malades ont fréquenté le centre de santé. Le _tableau n° 1_ réunit différents paramètres concernant ces quinze malades.
 
+
 ![](i701-1.jpg)
 
 
@@ -171,10 +172,10 @@ Le calcul des doses se fait en fonction des croix de glucose.
 
 **Quand le malade fait trois examens d'urines par jour**, il utilise la méthode suivante :
 
-*   La première injection de début de traitement se fait avec 10 à 20 Ul selon l'état du malade.
-*   Tant que le malade a une forte glucosurie (entre 6 et 10 croix ou plus/24 heures), on augmente l'insuline chaque matin de 2 unités. Le médecin est juge pour augmenter plus vite surtout si la cétonurie persiste.
-*   Dès que la glucosurie se stabilise autour de 4 à 5 croix / 24 heures, on n'augmente plus. On garde la même dose d'insuline.
-*   Si la glucosurie remonte (supérieure à 5 croix par 24 heures), on attend la confirmation de cette remontée le jour suivant pour augmenter la dose de 2 Ul. On n'est pas pressé d'augmenter.
+*   La première injection de début de traitement se fait avec 10 à 20 Ul selon l'état du malade.  
+*   Tant que le malade a une forte glucosurie (entre 6 et 10 croix ou plus/24 heures), on augmente l'insuline chaque matin de 2 unités. Le médecin est juge pour augmenter plus vite surtout si la cétonurie persiste.  
+*   Dès que la glucosurie se stabilise autour de 4 à 5 croix / 24 heures, on n'augmente plus. On garde la même dose d'insuline.  
+*   Si la glucosurie remonte (supérieure à 5 croix par 24 heures), on attend la confirmation de cette remontée le jour suivant pour augmenter la dose de 2 Ul. On n'est pas pressé d'augmenter.  
 *   Par contre, si la glucosurie tombe à 1 ou 0 croix/24 h, on baisse tout de suite de 2 Ul.
 
 **Quand le malade ne fait qu'un examen d'urine par jour**, le matin à 7 heures, il utilise la règle suivante :
@@ -187,15 +188,18 @@ Le calcul des doses se fait en fonction des croix de glucose.
 
 Le _tableau n°2_ donne un exemple de tenue de cahier et de calcul des doses avec trois glucosuries. Retenir que la glucosurie de 24 heures en croix correspond à l'addition des croix de glucose de 13 h et de 19 h la veille et celles de 7 h le matin avant l'injection d'insuline injectée le matin.
 
+
 ![](i701-2.jpg)
 
 
 Le _tableau n°3_ donne un exemple de tenue de cahier et de calcul des doses avec une glucosurie par 24 heures le matin à 7 heures. Les urines reflètent l'action de l'insuline injectée la veille au matin.
 
+
 ![](i701-3.jpg)
 
 
 En cas de présence de corps cétoniques, il faut augmenter l'insuline de 2 Ul, même si le chiffre de glucosurie n'indique pas une augmentation. Exemple: glucosurie égale à 2 croix; corps cétonique à 1 croix, on augmente l'insuline de 2 unités le jour même _(tableau n°4)._
+
 
 ![](i701-4.jpg)
 
@@ -210,12 +214,12 @@ En conclusion du chapitre du calcul des doses d'insuline :
 
 #### g) L'injection
 
-*   Le malade apprend progressivement à manipuler le stylo ou la seringue, à aspirer le liquide au niveau voulu ou régler le stylo à la bonne dose.
-*   Nous demandons au malade de nettoyer à l'eau et au savon l'endroit où il va se piquer. Le " désinfectant " n'est pas obligatoire.
+*   Le malade apprend progressivement à manipuler le stylo ou la seringue, à aspirer le liquide au niveau voulu ou régler le stylo à la bonne dose.  
+*   Nous demandons au malade de nettoyer à l'eau et au savon l'endroit où il va se piquer. Le " désinfectant " n'est pas obligatoire.  
 *   Le malade apprend à se piquer en différents sites. Chaque jour, une zone différente
     *   bras droit puis bras gauche (zone deltoïdienne),
-    *   puis cuisse droite, cuisse gauche, abdomen (région péri-ombilicale large).
-*   L'injection est sous-cutanée et non intramusculaire : l'insuline diffuse vite dans le muscle. Les aiguilles ne doivent pas dépasser 12 mm de long. Chez les sujets très maigres, il faut bien pincer la peau avant de piquer. Piquer obliquement et non verticalement (risque d'aller trop profond dans le muscle).
+    *   puis cuisse droite, cuisse gauche, abdomen (région péri-ombilicale large).  
+*   L'injection est sous-cutanée et non intramusculaire : l'insuline diffuse vite dans le muscle. Les aiguilles ne doivent pas dépasser 12 mm de long. Chez les sujets très maigres, il faut bien pincer la peau avant de piquer. Piquer obliquement et non verticalement (risque d'aller trop profond dans le muscle).  
 *   La même aiguille peut servir trois à quatre fois de suite sans risque d'infection, à condition qu'elle soit bien recapuchonnée sans faute d'asepsie. Après plusieurs exercices, les malades sont, en général, très habiles dans cette opération.
 
 #### h) Le suivi du malade
@@ -243,7 +247,7 @@ Cependant, nous estimons qu'il n'est pas impossible de se procurer régulièreme
 
 *   filières classiques dans les pays ayant des programmes de santé développés : hôpitaux, pharmacies, diabétologues ;
 *   firmes pharmaceutiques à but humanitaire telles que IDA;
-*   organismes humanitaires tels que MSF, Médecins du Monde, Pharmaciens sans Frontières, etc.
+*   organismes humanitaires tels que MSF, Médecins du Monde, Pharmaciens sans Frontières, etc.  
 *   dans notre expérience à Békamba, c'est une femme médecin diabétologue, sollicitée en 1986, qui s'est engagée à nous envoyer régulièrement insuline et matériel à injection. Nous n'avons jamais eu de rupture de stock. Nous estimons avec cette amie que d'autres diabétologues seraient favorables pour soutenir un projet en faveur des malades insulino-dépendants. Il faut les solliciter.
 
 Nous envisageons aussi de créer une association de diabétiques du Moyen Chari. Celle-ci pourrait être jumelée à une association de diabétiques en France.
@@ -258,8 +262,8 @@ D'autres malades restent proches d'un centre de santé ou d'un agent de santé v
 
 L'acquisition de cette autonomie est favorisée par :
 
-*   Le constat de l'amélioration de l'état général et la possibilité de reprendre ou acquérir une activité normale.
-*   La valorisation apportée par la confiance donnée au malade dans l'apprentissage de la technique du traitement.
+*   Le constat de l'amélioration de l'état général et la possibilité de reprendre ou acquérir une activité normale.  
+*   La valorisation apportée par la confiance donnée au malade dans l'apprentissage de la technique du traitement.  
 *   L'empathie instaurée entre soignant et malade, empathie stimulante pour une participation active.
 
 ### **Conclusions**

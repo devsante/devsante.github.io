@@ -11,6 +11,7 @@ Le principal rôle du globule rouge est de transporter l'oxygène des poumons ve
 
 Chez le sujet atteint de drépanocytose, cette hémoglobine est remplacée par une hémoglobine S dort les propriétés sont très différentes : quand elle est déchargée de son oxygène, l'hémoglobine S est très peu soluble et se cristallise, ce qui entraîne une déformation des globules rouges en forme ce faucille.
 
+
 ![](image012-drepano.jpg)
 
 
@@ -32,6 +33,7 @@ Les globules rouges ne contiennent que de l'hémoglobine anormale (Hb S) l'évol
 Ici les globules rouges ne contiennent qu'une petite quantité d'Hb S anormale et peuvent donc assurer à peu près correctement le transport de I'oxygène.
 
 Cette forme n'entraîne le plus souvent aucun trouble : .le sujet est dit porteur SAIN de l'anomalie drépanocytaire.
+
 
 ![](image002-12.jpg)
 
@@ -61,20 +63,24 @@ Calculons les risques de la maladie en sachant que l'entant hérite au hasard d'
 
 #### a. Parents normaux
 
+
 ![](image004-drepano.jpg)
 
 
 #### b. L'un des parents a le trait drépanocytaire
+
 
 ![](image006-drepano.jpg)
 
 
 #### c. Le père et la mère ont le trait drépanocytaire
 
+
 ![](image008-drepano.jpg)
 
 
 #### d. L'un des parents est porteur de la forme SS grave
+
 
 ![](image010-drepano.jpg)
 
@@ -84,6 +90,7 @@ Calculons les risques de la maladie en sachant que l'entant hérite au hasard d'
 #### e. L'un des parents est drépanocytaire SS
 
 L'autre n'ayant que le trait drépanocytaire (situation bien sûr très rare)
+
 
 ![](image008-drepano.jpg)
 
@@ -98,6 +105,7 @@ Répartition de la maladie à Kinshasa.
 
 ## III. Aspects cliniques
 
+
 ![](image014-drepano.jpg)
 
 
@@ -107,7 +115,7 @@ _Dès les premiers_ _mois_, l'enfant est en état d'anémie permanente avec pâl
 
 Les enfants survivants sont de petite taille contrastant avec une grosse tête. L'anémie persiste mais est mieux tolérée que chez le nourrisson. Les accidents douloureux ou _crises drépanocytaires sont_ _fréquentes._
 
-*   Crise osseuse : avec douleur et fièvre surtout localisées aux os longs (fémur, tibia, radius).
+*   Crise osseuse : avec douleur et fièvre surtout localisées aux os longs (fémur, tibia, radius).  
 *   Crises articulaires : gonflement du genou surtout
 *   Crises douloureuses abdominales. douleur périe ombilicale avec fièvre souvent prise pour une appendicite.
 
@@ -123,7 +131,7 @@ Les infections sont favorisées par le ralentissement du sang : ostéomyélite, 
 
 Le plus souvent les sujets porteurs de cette anomalie sanguine n'ont pas de signes clinique : le seul danger est le risque d'avoir un enfant atteint de forme grave.
 
-*   Un quart des sujets A S souffre de maux de tête, de douleur osseuse, articulaire ou vertébrale.
+*   Un quart des sujets A S souffre de maux de tête, de douleur osseuse, articulaire ou vertébrale.  
 *   On note aussi des douleurs du flanc gauche et une fatigabilité à l'effort, mais ces incidents n'empêchent pas de mener une vie normale,
 
 ## IV. Examen de laboratoire
@@ -150,7 +158,7 @@ _On_ peut par contre :
 
 En apportant des globules rouges normaux qui vont durer quelques semaines, la transfusion constitue le vrai traitement de la drépanocytose grave
 
-*   L'idéal serait des transfusions régulières _3_ à 4 fois par an mais cela n'est qu'exceptionnellement réalisable.
+*   L'idéal serait des transfusions régulières _3_ à 4 fois par an mais cela n'est qu'exceptionnellement réalisable.  
 *   Les transfusions risquent de provoquer l'hépatite virale.le SIDA, le paludisme et une véritable intoxication le fer (hématochromatose) entraînant une insuffisance cardiaque et hépatique par dépôt de fer dans les tissus.
 
 Devant de tels risques, la TRANSFUSION DOIT ETRE EXCEPTIONELLE
@@ -190,6 +198,7 @@ Cet examen a pour but de reconnaître d'une façon très simple les sujets attei
 
 On prend une goutte de sang du malade prélevée au doigt par exemple à l'aide d'un vaccinostyle stérile. Cette goutte est placée sur une lame puis recouverte d'une lamelle. Il faut que la goutte de sang soit suffisamment grosse pour qu'il n'y ait plus d'air sous la lamelle. On dépose alors sur les quatre bords de la lamelle en débordant bien sur la lame, une couche de pommade de vaseline ou de paraffine " lutant " ainsi la préparation ; ces substances empêchent l'air, donc l'oxygène extérieur d'être en contact avec les globules rouges du sang situés sous la lamelle.
 
+
 ![](image018-drepano.jpg)
 
 
@@ -200,6 +209,7 @@ DREPANOCYTOSE est un mot ancien qui veut dire " cellule en faux " Chez les malad
 Le plus souvent, cependant, le frottis ne montre pas cette anomalie et l'on aura recourt au test d'Emmel. La recherche des hématies en croissant sous le microscope est réalisée à la 2<sup>ème</sup> heure, et surtout à la 24<sup>ème</sup> heure.
 
 La falciformation des hématies est subtotale (la presque totalité des hématies ont une forme de faucille) en 2 heures chez les homozygote, elle est plus lente et souvent partielle chez les hétérozygotes.
+
 
 ![](image020-drepano.jpg)
 

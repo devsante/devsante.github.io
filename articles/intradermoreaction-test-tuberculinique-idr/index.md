@@ -11,20 +11,20 @@ Face antérieure de l'avant-bras ou face exté­rieure du bras.
 
 ## II. Matériel
 
-*   Petite seringue à tuberculine (de lml, gra­duée au centième de ml) à **usage unique**.
-*   Aiguille fine et courte à biseau court N° 25 ou 26 à **usage unique**.
+*   Petite seringue à tuberculine (de lml, gra­duée au centième de ml) à **usage unique**.  
+*   Aiguille fine et courte à biseau court N° 25 ou 26 à **usage unique**.  
 *   Alcool et non teinture d'iode.
 
 ## III. Technique
 
-*   Désinfecter la peau avec l'alcool et laisser sécher.
-*   Tendre la peau avec le pouce de la main gauche (si l'on est droitier).
-*   Pique la peau presque tangentiellement, et introduire l'aiguille environ 2 mm dans le derme.
-*   Injecter 0,1 ml de tuberculine.
-*   L'intradermo est réussie quand une papule est visible.
-*   Retirer l'aiguille rapidement.
-*   Avertir le patient de ne pas gratter l'endroit de l'injection.
-*   Entourer au stylo à bille l'emplacement de l'injection, et demander au patient de ne pas l'effacer jusqu'à la lecture.
+*   Désinfecter la peau avec l'alcool et laisser sécher.  
+*   Tendre la peau avec le pouce de la main gauche (si l'on est droitier).  
+*   Pique la peau presque tangentiellement, et introduire l'aiguille environ 2 mm dans le derme.  
+*   Injecter 0,1 ml de tuberculine.  
+*   L'intradermo est réussie quand une papule est visible.  
+*   Retirer l'aiguille rapidement.  
+*   Avertir le patient de ne pas gratter l'endroit de l'injection.  
+*   Entourer au stylo à bille l'emplacement de l'injection, et demander au patient de ne pas l'effacer jusqu'à la lecture.  
 *   Noter la date et l'heure dans le dossier du patient.
 
 ## IV. Lecture

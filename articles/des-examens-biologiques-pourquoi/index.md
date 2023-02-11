@@ -7,7 +7,7 @@ teaser: "Les examens biologiques jouent un rôle majeur dans la démarche de soi
 
 ## I. Que demande-t-on à un examen biologique ?
 
-1.  Qu'il aide ou permette un diagnostic le plus proche possible de la réalité.
+1.  Qu'il aide ou permette un diagnostic le plus proche possible de la réalité.  
 2.  Qu'il apporte la preuve de l'efficacité (ou non) du traitement prescrit et suivi.
 
 ### 1. Il faut qu'il soit :

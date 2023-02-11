@@ -12,6 +12,7 @@ Nous ne parlerons pas des dyspnées survenant dans un contexte d'anesthésie gé
 
 ## I. Anatomie _(schéma n° 1)_
 
+
 ![](i234-1.jpg)
 
 
@@ -68,6 +69,7 @@ Par ailleurs, l'examen trop brutal d'un enfant présentant une dyspnée obstruct
 
 Si l'enfant est vu avec un tableau gravissime et que l'on ne dispose d'aucun matériel d'intubation ni de trachéotomie, il faut mettre en trans-trachéal deux à trois aiguilles intraveineuses ou cathlons n) 14 _(cf. schéma n° 2)_ ce qui shunte toutes les causes de dyspnée jusqu'à la sous-glotte comprise, et permet d'avoir un minimum d'oxygénation compatible avec un transfert vers un centre de santé équipé de réanimation.
 
+
 ![](i234-2.jpg)
 
 
@@ -86,6 +88,7 @@ L'enfant lutte pour inspirer alors que l'expiration se fait sans problème. Il *
 #### b. Sémiologie à prédominance expiratoire
 
 **Il s'agit d'un obstacle intra-thoracique.** Ceci se manifeste essentiellement par une contracture abdominale à l'expiration. **Mais** **_attention_** : un obstacle situé à la limite intra ou extra-thoracique peut donner une symptomatologie mixte.
+
 
 ![](i234-3.jpg)
 
@@ -133,6 +136,7 @@ La dysphonie signe une atteinte glottique.
 De toutes façons, devant un tableau de dyspnée aiguë obstructive, il faut arrêter toute alimentation par la bouche afin de ne pas gêner le traitement ultérieur éventuel.
 
 Déjà la recherche de ces éléments donne une idée précise de l'origine de la dyspnée. D'autres signes sont à rechercher, mais il faut à ce stade de l'examen tenir compte de l'âge de l'enfant. En effet, les étiologies en dépendent pour la plupart.
+
 
 ![](i234-4.jpg)
 
@@ -188,6 +192,7 @@ C'est la cause la plus fréquente des dyspnées obstructives de l'enfant, la sou
 
 Infection de l'épiglotte, avec augmentation de volume, diffusion de l'œdème dans le larynx et dyspnée progressivement croissante; elle est rare mais gravissime. L'enfant est très fébrile, il est assis penché en avant, la langue pendante, ne pouvant avaler sa salive, et ne supportant pas le décubitus dorsal qui peut même provoquer un arrêt cardio-respiratoire.
 
+
 ![](i234-5.jpg)
 
 
@@ -223,12 +228,12 @@ Elle peut survenir quel que soit l'âge. Il s'agit d'une lésion muqueuse du pha
 
 Cette pathologie est fréquente et son histoire, qui suit trois phases d'importance variable, doit être bien connue.
 
-*   **Le syndrome de pénétration** lorsque l'enfant inhale le corps étranger avec toux, cyanose.
+*   **Le syndrome de pénétration** lorsque l'enfant inhale le corps étranger avec toux, cyanose.  
 *   **La phase d'enclavemen t:** fonction du siège de l'enclavement et avec une dyspnée variable en intensité :
     *   au niveau du carrefour : troubles de la déglutition;
     *   au niveau du larynx : dysphonie;
     *   au niveau de la trachée : toux avec changements de position si le corps étranger est encore mobile ;
-    *   au niveau de l'arbre bronchique : cliniquement le plus souvent muet (d'où l'importance de la notion de syndrome de pénétration) mais avec parfois une asymétrie à l'auscultation, et à la radio: un emphysème puis une atélectasie.
+    *   au niveau de l'arbre bronchique : cliniquement le plus souvent muet (d'où l'importance de la notion de syndrome de pénétration) mais avec parfois une asymétrie à l'auscultation, et à la radio: un emphysème puis une atélectasie.  
 *   **La phase des complications inflammatoires infectieuses :** Après plusieurs semaines ou mois, des épisodes inflammatoires et infectieux peuvent survenir et le diagnostic étiologique est difficile à faire si manque la notion de syndrome de pénétration et de phase d'enclavement (importance de l'interrogatoire précis :
     *   une laryngite traînante,
     *   un syndrome asthmatiforme,

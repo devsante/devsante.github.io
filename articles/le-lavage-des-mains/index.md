@@ -36,7 +36,7 @@ Tube digestif
 ## I. Quand se laver les mains
 
 *   En prenant et en quittant son service
-*   Pendant le service après chaque geste de la vie courante : repas, coiffure, éternuements, mouchage et, passage aux toilettes, etc.
+*   Pendant le service après chaque geste de la vie courante : repas, coiffure, éternuements, mouchage et, passage aux toilettes, etc.  
 *   Après avoir touché des surfaces contaminées (poubelles, torchons)
 *   Après un contact avec du sang ou des liquides physiologiques
 *   Avant de préparer des médicaments
@@ -59,13 +59,14 @@ Savon ordinaire et eau.
 *   rincer à l’eau pour faire disparaître toute trace de mousse,
 *   s’essuyer les mains avec une serviette propre ou une serviette en papier, en séchant bien entre les doigts.
 
+
 ![](image001-lavage-mains.gif)
 
 
 ### 2. Lorsqu’il n’y a pas d’eau courante
 
-*   On peut utiliser deux récipients ouverts (seau et cuvette par exemple), le premier sert de réserve et le deuxième sert à laver les mains.
-*   Jeter l’eau qui a servi à se laver les mains à chaque utilisation.
+*   On peut utiliser deux récipients ouverts (seau et cuvette par exemple), le premier sert de réserve et le deuxième sert à laver les mains.  
+*   Jeter l’eau qui a servi à se laver les mains à chaque utilisation.  
 *   Nettoyer le récipient et le mettre à sécher à chaque fois.
 
 ### 3. Lorsqu’il n’y a pas d’eau propre
@@ -85,8 +86,8 @@ Il est toutefois indispensable d’éliminer toute souillure visible des mains a
 
 Enlever bagues, montres et relever les manches jusqu’au coude.
 
-*   Se laver les mains au savon et à l’eau disponibles si elles sont visiblement souillées (saleté, huile, sang, liquides physilogiques, etc.), et les sécher pour ne pas diluer ensuite l’alcool.
-*   Déposer suffisamment de désinfectant dans la paume d’une main en forme de coupe pour pouvoir humidifier les deux mains.
+*   Se laver les mains au savon et à l’eau disponibles si elles sont visiblement souillées (saleté, huile, sang, liquides physilogiques, etc.), et les sécher pour ne pas diluer ensuite l’alcool.  
+*   Déposer suffisamment de désinfectant dans la paume d’une main en forme de coupe pour pouvoir humidifier les deux mains.  
 *   Appliquer le liquide soigneusement dans les paumes, sur le dos de la main, entre les doigts et sous les ongles.
 
 Suivre la notice du fabricant pour l’utilisation et la conservation, afin de réduire les risques d’évaporation et d’inflammabilité.
@@ -236,6 +237,7 @@ La flore de la main a deux origines :
 </tbody>
 
 </table>
+
 <table>
 
 <thead>

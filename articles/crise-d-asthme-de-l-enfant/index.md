@@ -44,6 +44,7 @@ Il existe une échelle indiquant les normes de l'enfant en fonction de sa taille
 
 **Un exemple de débit-mètre**
 
+
 ![](image002-13.jpg)
 
 
@@ -139,6 +140,7 @@ Si on ne dispose d'aucun appareil, on peut fabri­quer une chambre "de fortune" 
 *   il faut utiliser deux bouteilles en plastique dont on coupe le tiers inférieur pour les emboîter l'une dans l'autre ; la jonction est rendue hermétique par du sparadrap ;
 *   l'enfant prend une extrémité dans sa bouche et on place l'aérosol à l'autre extrémité.
 
+
 ![](image004-2.jpg)
 
 
@@ -148,8 +150,8 @@ En dehors de l'aérosol, il existe d'autres présentations de salbutamol, ou de 
 
 On fait inhaler deux bouffées de Ventoline® (une seule pour les spécialités comme Venti­lastin® ou Bricanyl Turbuhaler® (_cf Tableau 2_). On renouvelle les bouffées 5 à 10 minutes plus tard et, souvent encore, une troisième fois. Si la cessation de la crise n'est pas par­faite, on peut renouveler 6 fois, sans dépasser 15 bouffées.
 
-*   **Si ce traitement est efficace**, on poursuit la bronchodilatation seule toutes les 4 à 6 heures pendant une journée, puis 3 fois par jour pendant 3 à 4 jours.
-*   **S'il est inefficace ou si la crise était d'emblée grave**, on recourt aux corticoïdes par voie orale, 1 mg/kg en une prise pour le Solupred® ou le Cortancy®l par exemple, puis la même dose pendant 3 - 4 jours (_cf tableau 3_).
+*   **Si ce traitement est efficace**, on poursuit la bronchodilatation seule toutes les 4 à 6 heures pendant une journée, puis 3 fois par jour pendant 3 à 4 jours.  
+*   **S'il est inefficace ou si la crise était d'emblée grave**, on recourt aux corticoïdes par voie orale, 1 mg/kg en une prise pour le Solupred® ou le Cortancy®l par exemple, puis la même dose pendant 3 - 4 jours (_cf tableau 3_).  
 *   **Si l'enfant va très mal**, on peut faire une injection sous-cutanée de Ventoline® ou de Bricanyl®avant de le transférer en milieu hospitalier où l'on utilisera les mêmes pro­duits : nébulisations de bronchodilatateurs avec oxygène, corticoïdes en perfusion...
 
 **La crise liée à l'effort** est souvent rapide­ment guérie par une ou deux inhalations de bronchodilatateurs.

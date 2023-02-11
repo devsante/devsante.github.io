@@ -9,12 +9,13 @@ Les axes de la stratégie de prise en charge de ce type de patient sur le plan v
 
 **Deux tableaux doivent être individualisés :**
 
-*   _Le délabrement de membre_ _est isolé et_ _le pronostic fonctionnel est au premier plan_. Si le délabrement et l'ischémie de membre sont notables, le pronostic vital peut progressivement être mis en jeu et il ne faut pas laisser passer l'heure de l'amputation, au terme d'une évaluation régulière. Le pronostic fonctionnel est lié lui-même à l'importance des lésions locales associées (nerfs, peau, muscles) qui peuvent aussi conduire à une amputation.
+*   _Le délabrement de membre_ _est isolé et_ _le pronostic fonctionnel est au premier plan_. Si le délabrement et l'ischémie de membre sont notables, le pronostic vital peut progressivement être mis en jeu et il ne faut pas laisser passer l'heure de l'amputation, au terme d'une évaluation régulière. Le pronostic fonctionnel est lié lui-même à l'importance des lésions locales associées (nerfs, peau, muscles) qui peuvent aussi conduire à une amputation.  
 *   _Le délabrement est associé à_ un _polytraumatisme_ : l'atteinte vasculaire doit être reconnue, traitée et le degré d'urgence doit être apprécié en fonction de l'atteinte des autres organes (crâne, thorax, abdomen) mettant en jeu le pronostic vital.
 
 **Mécanismes**
 
 Les plaies de guerre ont permis de se forger une bonne expérience des délabrements de membre. En dehors de circonstances assimilables à la guerre (attentat, explosion), il en est de multiples qui peuvent être pourvoyeuses de délabrement : les accidents de " chasse " (par " fusil à pompe " ou par plombs de chasse), les accidents de la voie publique (motocycliste, piéton, automobiliste), les accidents du travail ou équivalent (écrasement par rouleau compresseur, par compacteur par roue de chemin de fer...) .
+
 
 ![](i794-1.jpg)
 
@@ -55,10 +56,11 @@ Le plus souvent, un geste chirurgical d'hémostase et/ou de reconstruction arté
 
 #### b. Temps opératoires
 
-*   _Lors de l'installation_, les deux membres inférieurs seront systématiquement préparés (possibilité de prélèvement du greffon saphène interne opposé ) et mis dans le champ opératoire. Avant l'ablation d'un garrot, les anesthésistes sont sensibilisés à la nécessité d'un bon remplissage vasculaire (macromolécules ou sang). La récupération sanguine est réalisée dès que cela est possible. Une antibiothérapie à large spectre est instaurée et la prévention antitétanique réalisée.
+*   _Lors de l'installation_, les deux membres inférieurs seront systématiquement préparés (possibilité de prélèvement du greffon saphène interne opposé ) et mis dans le champ opératoire. Avant l'ablation d'un garrot, les anesthésistes sont sensibilisés à la nécessité d'un bon remplissage vasculaire (macromolécules ou sang). La récupération sanguine est réalisée dès que cela est possible. Une antibiothérapie à large spectre est instaurée et la prévention antitétanique réalisée.  
 *   _Dans un premier temps_, il est réalisé un parage _a minima_, et surtout le bilan lésionnel artériel, nerveux et osseux est établi. L'artériographie sur table, si elle n'a pu être réalisée préalablement, est réalisée. En cas de lésions ostéo-articulaires associées à des lésions vasculaires, le premier temps doit toujours être un temps de réduction. Dès lors l'état vasculaire du membre est réévalué, et le plus souvent le second temps chirurgical consiste en la fixation des foyers de fractures. Le geste orthopédique doit être rapide, et laisser la place à l'abord artériel. Mais en cas d'ischémie sévère, de retard de prise en charge, de nécessité de geste associé (abdomino-thoracique ou neurochirurgical) ou de geste orthopédique complexe, la mise en place préalable d'un shunt peut s'imposer.
 
 _Le_ _traitement chirurgical (schéma n° 2)_ respecte les impératifs habituels : résection des zones contuses, suture en zone saine, réparation directe avec ou sans patch, selon la lésion et le diamètre du vaisseau ; en cas de perte de substance, revascularisation par l'intermédiaire d'un greffon (saphène interne), préservation au maximum des collatérales, pontage en position plutôt anatomique qu'extra-anatomique, sauf défaut de couverture. La nécessité d'une héparinothérapie per-opératoire est discutée (habituellement à la dose de 1/2 mg/kg) et devra de toute façon être adaptée en fonction des lésions associées. La suture directe sur plaie franche n'est qu'exceptionnellement possible et est pourvoyeuse de sténose et de rupture secondaire. Une résection avec suture termino-terminale est de réalisation plus fréquente mais la perte de substance artérielle ne peut être que limitée (< 3 cm) et la suture doit se faire sans traction. En cas de lésions complexes ou de perte de substance artérielle importante, un pontage est réalisé, le plus souvent au moyen d'un segment de veine saphène interne inversée. Le choix de la saphène à utiliser doit être la saphène homolatérale si celle-ci a été interrompue par le traumatisme et s'il reste un segment utilisable suffisamment long ; dans le cas contraire, la saphène controlatérale est utilisée. La préservation de principe de la saphène interne controlatérale permet la réalisation facile d'un éventuel deuxième temp vasculaire. Parfois, les veines du bras sont utilisables (surtout la veine radio-céphalique) parfois seule la veine jugulaire a le diamètre suffisant.
+
 
 ![](i794-2.jpg)
 
@@ -95,7 +97,9 @@ La couverture des segments vasculaires est obligatoire, et doit être immédiate
 
 Sur artère saine, une héparinisation post-opératoire peut être instaurée, mais uniquement en l'absence de risque hémorragique. Après revascularisation, la fonction rénale est surveillée, d'autant que l'ischémie peut se doubler d'un " crush syndrome ". L'indication d'une aponévrotomie s'impose devant tout oedème compressif, qu'un geste de revascularisation ait été effectué ou non. Si la revascularisation a été tardive, elle est réalisée d'emblée. Ces aponévrotomies (_schéma_ _n° 3)_ doivent permettre l'ouverture de toutes les loges (3 à la jambe et 2 aux pieds). Parfois les aponévrotomies doivent aussi concerner la main et le pied. Ces réparations doivent être surveillées cliniquement et par écho-doppler, à un rythme variable selon l'ancienneté du geste (6 mois à 3 ans).
 
+
 ![](i794-4.jpg)
+
 ![](i794-5.jpg)
 
 
@@ -125,7 +129,9 @@ En cas de problème hémorragique lors de la dissection, le clampage vasculaire 
 
 En raison de la richesse du réseau de suppléance, il convient de se méfier devant un tableau d'ischémie modérée tant au niveau du membre supérieur (lésions sous-clavières, axillaires, humérales, anté-brachiales) qu'au niveau du membre inférieur (lésions fémorales communes et superficielles, fémorales profondes, poplitées, sous-poplitées). En cas de lésion proximale, la réparation ne s'impose qu'en cas d'hémorragie ou d'ischémie. En cas de lésion distale, on s'attache à rétablir un flux correct dans l'un des axes, parmi les deux axes (radial et cubital) du membre supérieur en privilégiant l'axe radial et parmi les trois axes (péronier, tibial postérieur et tibial antérieur) du membre inférieur.
 
+
 ![](i794-6.jpg)
+
 ![](i794-7.jpg)
 
 

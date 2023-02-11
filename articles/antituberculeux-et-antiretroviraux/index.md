@@ -194,6 +194,7 @@ Streptomycine
 </tbody>
 
 </table>
+
 <table>
 <caption>Antituberculeux en combinaisons à doses fixes (CDF)</caption>
 
@@ -293,7 +294,7 @@ Une interaction importante entre la rifampicine et la névirapine oblige à ne p
 
 Deux solutions sont envisageables :
 
-*   Si le patient n'a pas encore commencé son traitement ARV et que son taux de CD4 1e permet, le médecin peut décaler le traitement ARV après la fin du traitement.
+*   Si le patient n'a pas encore commencé son traitement ARV et que son taux de CD4 1e permet, le médecin peut décaler le traitement ARV après la fin du traitement.  
 *   Si le médecin choisit de traiter les 2 pathologies en même temps, il devra donc substituer la NVP par l'EFV. La stratégie de référence en première ligne est donc la suivante : ZDV + 3TC + EFV.
 
 **Schéma de trithérapie préférentiel en cas de traitement simultané ARV/ATB (2RHZE + 4RHE).**

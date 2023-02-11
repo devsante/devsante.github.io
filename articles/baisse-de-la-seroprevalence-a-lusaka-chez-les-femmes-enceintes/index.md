@@ -289,6 +289,7 @@ Total
 </tbody>
 
 </table>
+
 <table>
 <caption>Données de la surveillance sur le sang du cordon dans maternités</caption>
 

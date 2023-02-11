@@ -183,6 +183,7 @@ Le "liquide Bouin alcoolique" est l'un des plus utilisés, permettant une bonne 
 
 Le " fixateur de Harmann-Lowy " donne une excellente histologie, non seulement pour les biopsies cutanées, mais pour beaucoup d'autres organes (biopsies médullaires, ganglionnaires, tumeurs, conjonctivites, etc.). Il faut se souvenir qu'avec ce fixateur mercurique, on a intérêt à recouper les pièces au bout de 5 à 10 minutes de fixation pour une pénétration plus rapide du fixateur. Les biopsies sont recoupées en fragments ne dépassant pas 2 mm d'épaisseur. Elles doivent fixer environ deux heures. On met ensuite le fragment dans de l'alcool à 70&deg; où il pourra rester plusieurs jours sans problème et subir un transport pour être envoyé dans un laboratoire d'anatomie pathologique.
 
+
 ![](i734-1.jpg)
 
 

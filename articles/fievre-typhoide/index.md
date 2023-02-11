@@ -51,7 +51,9 @@ Une partie des germes va se disséminer dans la lymphe et le sang du malade et v
 
 L'autre partie des germes va être détruite localement dans les ganglions libérant les **endotoxines** dont l'effet s'exerce à distance expliquant les signes neurologiques, l'atteinte cardiaque mais également les signes digestifs (_schémas 1 et 2)._
 
+
 ![](i457-1.jpg)
+
 
 
 ![](i457-2.jpg)
@@ -81,16 +83,16 @@ L'attention doit être attirée par la persistance ou l'aggravation de la fièvr
 
 Elle s'installe après une semaine de phase d'invasion.
 
-*   La _fièvre_ persiste en plateau autour de 40°.
-*   Le _pouls_ _est dissocié_ le plus souvent.
-*   Céphalées, anorexie, asthénie marquées.
+*   La _fièvre_ persiste en plateau autour de 40°.  
+*   Le _pouls_ _est dissocié_ le plus souvent.  
+*   Céphalées, anorexie, asthénie marquées.  
 *   Le _tuphos_ apparaît: c'est un comportement anormal avec conscience altérée, parfois un délire.
 
 Une _diarrhée_ est souvent, présente, parfois remplacée par une constipation.
 
 L'examen clinique retrouve :
 
-*   Un ventre douloureux, la présence inconstante d'une **splénomégalie**.
+*   Un ventre douloureux, la présence inconstante d'une **splénomégalie**.  
 *   Les taches rosées lenticulaires (signe de grande certitude) sont rares. Il s'agit de macules érythémateuses peu nombreuses, difficiles à voir sur peau noire.
 
 Tout malade ayant une fièvre qui se prolonge, qui est fatigué, avec des signes digestifs et/ou neurologiques doit être considéré comme ayant éventuellement une typhoïde et faire débuter un traitement antibiotique adapté.
@@ -98,6 +100,7 @@ Tout malade ayant une fièvre qui se prolonge, qui est fatigué, avec des signes
 ## **Les complications**
 
 Elles peuvent parfois être révélatrices de la maladie, mais le plus souvent elles surviennent à la troisième semaine de la maladie.
+
 
 ![](i457-3.jpg)
 
@@ -187,6 +190,7 @@ Une surveillance de la numération sanguine est nécessaire en raison des cytop�
 - le cotrimaxozole (Bactrim®).
 
 Plus récemment certaines céphalosporines de troisième génération (ceftriaxone = Rocéphine®) et les nouvelles quinolones se sont révélées très efficaces et ont permis de diminuer la durée du traitement et la fréquence des rechutes. Mais leur coût élevé reste un obstacle à une utilisation plus large _(tableau 1)._
+
 
 ![](i457-4.jpg)
 

@@ -108,9 +108,9 @@ Les "jeunes" AT nouvellement venues dans le métier se sont montrées en génér
 
 L'âge des accoucheuses se situe entre 40 et 70 ans. L'âge moyen est de 57 ans.
 
-*   18 avaient reçu leur première formation en 1999.
-*   4 en 1994 suivie de 1 à 3 recyclages.
-*   1 en 1990 avec 4 recyclages.
+*   18 avaient reçu leur première formation en 1999.  
+*   4 en 1994 suivie de 1 à 3 recyclages.  
+*   1 en 1990 avec 4 recyclages.  
 *   5 en 1986, avec 2 à 5 recyclages.
 
 Les 10 AT formées avant 1999 l'ont été par d'autres organismes, avant le recyclage de la Fondation Leïla Fodil.
@@ -135,7 +135,7 @@ Le questionnaire utilisé par les évaluateurs comportait trois chapitres.
 *   L'exercice de cette fonction Vous donne-t-il plus de considération dans le village ?
 *   Les habitants du village sont-ils reconnaissants à votre endroit ?
 *   Comment se manifeste cette reconnaissance ?
-*   Quelles suggestions avez-vous à faire pour une meilleure réussite de votre action.
+*   Quelles suggestions avez-vous à faire pour une meilleure réussite de votre action.  
 *   Accepteriez-vous d'être secondée par une plus jeune ?
 
 **c) Contrôle des connaissances théoriques et pratiques** **:**
@@ -147,7 +147,7 @@ Le questionnaire utilisé par les évaluateurs comportait trois chapitres.
 *   Que faites-vous devant une femme en travail ?
 *   Que faites-vous pendant l'accouchement et après la sortie de l'enfant ?
 *   Quels sont les soins que vous donnez à la mère et à l'enfant le premier jour et les jours suivants ?
-*   Citez les cas dans lesquels vous évacuez la femme vers une maternité, pendant et après l'accouchement.
+*   Citez les cas dans lesquels vous évacuez la femme vers une maternité, pendant et après l'accouchement.  
 *   Citez quelques avantages de l'espacement des naissances
 *   Quelles sont les différentes méthodes d'espacement des naissances ?
 *   Qu'est-ce que vous avez retenu de la méthode d'auto-observation ?
@@ -155,7 +155,7 @@ Le questionnaire utilisé par les évaluateurs comportait trois chapitres.
 
 #### b) Opinion sur la formation reçue dans **le cadre du projet**
 
-*   L'infirmier reconnaît qu'il n'a pas abordé le thème de la planification familiale.
+*   L'infirmier reconnaît qu'il n'a pas abordé le thème de la planification familiale.  
 *   25 AT disent que la formation leur a paru suffisante. Mais 19 souhaitent une formation plus approfondie avec plus de détails sur l'explication des images du livret.
 
 ####   
@@ -167,12 +167,12 @@ Vingt six disent que les habitants du village leur sont reconnaissants, mais la 
 
 Pour l'aide apportée à une naissance :
 
-*   7 reçoivent un don d'argent de 50 à 500 F CFA.
-*   2 reçoivent un repas.
-*   12 un vieux pagne.
-*   13 un peu de mil.
-*   9 un savon.
-*   1 de la kola.
+*   7 reçoivent un don d'argent de 50 à 500 F CFA.  
+*   2 reçoivent un repas.  
+*   12 un vieux pagne.  
+*   13 un peu de mil.  
+*   9 un savon.  
+*   1 de la kola.  
 *   5 ne reçoivent jamais rien.
 
 #### d) Connaissances et attitudes pratiques
@@ -181,17 +181,17 @@ Pour l'aide apportée à une naissance :
 
 **Conseils de vie**
 
-*   19 seulement donnent des conseils positifs.
-*   10, c'est-à-dire moins de la moitié, conseillent la vaccination antitétanique.
-*   14 proposent la nivaquinisation préventive.
+*   19 seulement donnent des conseils positifs.  
+*   10, c'est-à-dire moins de la moitié, conseillent la vaccination antitétanique.  
+*   14 proposent la nivaquinisation préventive.  
 *   2 indiquent le repos et 2 donnent des directives alimentaires.
 
 L'attitude de conseil est difficile. La rencontre systématique des femmes et de l'AT au cours d'une consultation n'est pas coutumière. L'intérêt de la vaccination antitétanique n'a pas été bien compris. 0 Interdits
 
 Les réponses sont unanimes
 
-*   28 déclarent interdits les gros travaux fendre le bois, porter des fardeaux...
-*   3 déconseillent les épices.
+*   28 déclarent interdits les gros travaux fendre le bois, porter des fardeaux...  
+*   3 déconseillent les épices.  
 *   2 interdisent d'acheter les médicaments "par terre", ceux que l'on achète sans ordonnance au marché.
 
 Ces propositions contribuent à la prévention des naissances prématurées.
@@ -200,7 +200,9 @@ Ces propositions contribuent à la prévention des naissances prématurées.
 
 Les réponses de chacun des deux groupes définis ci-dessus doivent être exposées séparément. Les 10 AT du groupe 2 qui ont reçu leur formation par la sage-femme connaissent les principales maladies rencontrées au cours de la grossesse et donnent des réponses adaptées. 4 AT seulement des 18 AT du groupe 1 citent le paludisme. Une seule d'entre elles indique le traitement par la nivaquine. _(tableau_ _1)._
 
+
 ![](i949-1.jpg)
+
 
 
 ![](i949-2.jpg)
@@ -216,14 +218,15 @@ Dix neuf autres réponses concernent la taille de la femme, la position du foetu
 **Rôle de l'AT pendant la naissance**
 
 *   Préparation de la naissance : deux règles d'hygiène sont appliquées par l'ensemble des AT :
-    *   L'accouchement sur une natte : 23 sur 28.
-    *   Le flambage de la lame de rasoir destinée à couper le cordon : 27 sur 28.
-    *   Le lavage des mains est appliqué seulement par les AT du groupe 2.
+    *   L'accouchement sur une natte : 23 sur 28.  
+    *   Le flambage de la lame de rasoir destinée à couper le cordon : 27 sur 28.  
+    *   Le lavage des mains est appliqué seulement par les AT du groupe 2.  
 *   Surveillance du travail et de l'expulsion
-    *   16 AT disent rester auprès de la femme en travail.
+    *   16 AT disent rester auprès de la femme en travail.  
     *   L'aide à l'expulsion de l'enfant est pratiquée par 16 AT. 3 du groupe 2 précisent qu'elles aident au dégagement de la tête et des épaules.
 
 L'aide à l'expulsion du placenta n'est plus pratiquée. C'est un excellent résultat. Une mauvaise habitude traditionnelle consistait en effet à tirer sur le cordon pour le faire sortir.
+
 
 ![](i949-3.jpg)
 
@@ -244,12 +247,12 @@ L'objectif principal de la formation était de donner aux AT la possibilité de 
 
 Les 28 AT ont donné 80 réponses, dont l'ensemble figure sur le _tableau 4._
 
-*   5 en ont cité 6.
-*   3 en ont cité 5.
-*   3 en ont cité 4.
-*   3 en ont cité 3.
-*   5 en ont cité 2.
-*   4 n'en ont cité qu'une.
+*   5 en ont cité 6.  
+*   3 en ont cité 5.  
+*   3 en ont cité 4.  
+*   3 en ont cité 3.  
+*   5 en ont cité 2.  
+*   4 n'en ont cité qu'une.  
 *   5 n'ont cité aucune complication.
 
 L'analyse des réponses suivant les deux groupes de formation est intéressante.
@@ -259,6 +262,7 @@ Les 10 AT du groupe 2 totalisent 51 réponses sur 80.
 Chaque AT de ce groupe donne en moyenne 5 réponses.
 
 Les AT de ce groupe sont capables de discerner les complications dangereuses de l'accouchement. Elles savent que ces complications imposent le transfert.
+
 
 ![](i949-4.jpg)
 
@@ -318,12 +322,12 @@ Les ONG étrangères peuvent encore participer à cet enseignement. Elles ne doi
 
 La formation que nous avons donnée a des points faibles :
 
-*   Les séances ont été en général trop brèves. Pour bien comprendre la totalité du livret, document de base conservé par l'AT et qu'elle pourrait "relire", il aurait fallu beaucoup plus de temps.
+*   Les séances ont été en général trop brèves. Pour bien comprendre la totalité du livret, document de base conservé par l'AT et qu'elle pourrait "relire", il aurait fallu beaucoup plus de temps.  
 *   Certains sujets semblent ne pas avoir retenu l'attention des AT.
 
 Nous nous demandons pourquoi la vaccination antitétanique n'est citée que par moins de la moitié des AT.
 
-*   L'enseignement donné n'a pas toujours été complet.
+*   L'enseignement donné n'a pas toujours été complet.  
 *   La planification familiale a été peu enseignée. L'infirmier dit clairement qu'il ne l'a pas fait.
 
 -Ceci nous amène à penser que l'enseignement devrait être fait par des personnes très expérimentées, les sages-femmes étant les mieux placées pour le faire. Les réponses concernant les soins au cours du travail et de l'accouchement ainsi que dans les jours qui suivent sont en effet plus détaillées et plus précises chez les AT formées par la sage-femme, que chez celles formées par l'infirmier. Il faudrait adjoindre au livret un manuel du moniteur plus détaillé que ce qui existe actuellement, précisant ce que l'AT doit impérativement retenir de chaque leçon.
@@ -339,6 +343,7 @@ Les gestes simples de soins et d'hygiène sont possibles.
 Mais les activités ne doivent pas dépasser ce niveau. Au delà, le recours aux sages-femmes est indispensable.
 
 Le seul traitement possible des complications détectées est l'évacuation vers une maternité. Le problème n'est plus alors celui de la compétence, mais de la distance entre le domicile des femmes et la maternité, ainsi que des moyens de transport.
+
 
 ![](i949-5.jpg)
 

@@ -10,6 +10,7 @@ Il est nécessaire de souligner que, dans la plupart des cas, le traitement éti
 
 Il est souhaitable que, dès le premier entretien, on explique au patient les objectifs du traitement et la façon dont sera conduite l'analgésie (voie d'administration, posologie, intervalles de prise, prévention des effets secondaires et évaluation régulière de l'efficacité thérapeutique). Le contrôle de la douleur demande une adaptation au malade et sa participation active.
 
+
 ![](i749-1.jpg)
 
 

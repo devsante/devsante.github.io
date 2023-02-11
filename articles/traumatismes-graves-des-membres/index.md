@@ -23,7 +23,9 @@ Le pronostic vital peut être en jeu. Il faut:
 
 **b.** Au membre inférieur, il faut immobiliser dans une grande attelle cruro-pédieuse: deux morceaux de bois, une planche, peuvent faire l'affaire. A défaut immobiliser le membre sur le membre controlatéral, le blessé reposant sur le côté sain.
 
+
 ![](i127-1.jpg)
+
 
 
 ![](i127-2.jpg)
@@ -65,7 +67,9 @@ positionner la main +++
 
 - pouce en rectitude et en opposition maximum. Pour cela, il faut caler un gros paquet de compresses ou un gros morceau de coton entre le pouce et les autres doigts. Si la main doit s'enraidir, le patient pourra toujours glisser un objet dans une main qui aura été maintenue en bonne position.
 
+
 ![](i127-3.jpg)
+
 
 
 ![](i127-4.jpg)

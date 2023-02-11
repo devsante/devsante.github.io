@@ -49,7 +49,9 @@ Trois types de circonstances peuvent être décrits :
 2.  objet introduit dans la bouche et inhalé fortuitement à l'occasion d'un choc, d'un effet de surprise, etc. (capuchon de stylo, bonbon par exemple) ;
 3.  inhalation d'un jouet ou d'un fragment de jouet nécessitant des efforts inspiratoires (embout de trompette, fléchettes de sarbacane, etc.).
 
-##![](radio-1.jpg)
+## 
+![](radio-1.jpg)
+    
 ![](radio-2.jpg)
 
 
@@ -73,7 +75,7 @@ de l'urgence.
 Il est particulier en raison de la gravité du tableau clinique et du risque de blocage dans la région glottique et sous-glottique (cricoïdienne), zones de rétrécissement anatomique.  
 Le tableau clinique est dramatique, réalisant :
 
-*   Soit une asphyxie aiguë, immédiate, foudroyante.
+*   Soit une asphyxie aiguë, immédiate, foudroyante.  
 *   Soit une dyspnée laryngée majeure d'installation brutale avec tirage très intense, aphonie et cyanose importante.
 
 Ce tableau, rebelle au traitement corticoïde, nécessite une extraction de toute urgence sous endoscopie, par les voies naturelles. L'extraction par voie endoscopique est impérative, de toute urgence. Elle nécessite un centre spécialisé, une instrumentation  
@@ -83,7 +85,7 @@ Seule, en cas d'asphyxie suraiguë avec mort imminente, la manoeuvre de Heimlic
 
 Le diagnostic différentiel est aisé :
 
-*   La laryngite striduleuse — accès de dyspnée laryngée brutal, passager, spontanément réduit —, est différente d'un syndrome de pénétration. Elle survient en général la nuit.
+*   La laryngite striduleuse — accès de dyspnée laryngée brutal, passager, spontanément réduit —, est différente d'un syndrome de pénétration. Elle survient en général la nuit.  
 *   L'épiglottite associe un syndrome fébrile intense, une dysphagie et une dyspnée progressive aboutissant à une détresse respiratoire rapide.
 
 ### 2. Corps étranger trachéo-bronchique
@@ -103,8 +105,8 @@ Dans la plupart des cas, le syndrome de pénétration est un accident brutal et
 **Signes de gravité**
 
 *   **Généraux** : : position assise ou semi-assise, extension
-*   Respiratoires :: détresse respiratoire aiguë, disparition du murmure vésiculaire, tirage, cyanose (se méfier d'une apparente amélioration des signes respiratoires traduisant un épuisement de l'enfant).
-*   **Cardiovasculaires** : bradycardie, arrêt cardiocirculatoire.
+*   Respiratoires :: détresse respiratoire aiguë, disparition du murmure vésiculaire, tirage, cyanose (se méfier d'une apparente amélioration des signes respiratoires traduisant un épuisement de l'enfant).  
+*   **Cardiovasculaires** : bradycardie, arrêt cardiocirculatoire.  
 *   **Neurologiques** : convulsions, coma.
 
 Ces signes seront à rechercher pendant toute la surveillance car à tout moment, un CE peut de déplacer et s’enclaver dans le  
@@ -112,6 +114,7 @@ larynx. De même si le CE est trachéal et non obstructif initialement, l’oed
 deuxième temps.
 
 ### **Corps étrangers : trois situations**
+
 
 ![](corps-etranger-3-situations.jpg)
 
@@ -124,7 +127,7 @@ Tout va dépendre des circonstances dans lesquelles on se trouve.
 
 *   **En milieu non médical**  
     Il faut faire la **manoeuvre de Heimlich**. Le sauveteur se place derrière le sujet en enserrant sa taille avec ses bras. Il place ses deux mains jointes dans le creux épigastrique puis appuie brutalement de bas en haut. La manoeuvre est répétée 3 à 5 fois de suite. La poussée sous-diaphragmatique, en augmentant de façon brutale la pression trachéo-bronchique, a pour but de désenclaver le corps étranger sus ou sous-glottique. Le siège du coup doit être épigastrique et non latéralisé (risques de lésions hépatiques et spléniques).  
-    Chez le nouveau-né ou le petit enfant, on préfère la manoeuvre de Mofenson, moins traumatisante au niveau du thorax. Il faut lui appuyer sur le ventre en maintenant une main à plat sur le dos, et maintenir la tête vers le bas après l'avoir posé à plat ventre sur l’avant-bras.
+    Chez le nouveau-né ou le petit enfant, on préfère la manoeuvre de Mofenson, moins traumatisante au niveau du thorax. Il faut lui appuyer sur le ventre en maintenant une main à plat sur le dos, et maintenir la tête vers le bas après l'avoir posé à plat ventre sur l’avant-bras.  
 *   **En milieu médical non spécialisé**  
     Si l'état respiratoire d'un sujet qui a inhalé un corps étranger s'aggrave, soit d'emblée, soit secondairement, il faut l'intuber.Si le corps étranger est sus-glottique, il sera mis en évidence au cours de l'exposition du larynx puis enlevé avec une pince (pince de Magil servant à l’intubation). S'il n'est pas visible, le corps étranger est sous-glotto-trachéal. On peut espérer le refouler dans une bronche souche et permettre une ventilation. Après amélioration de la ventilation, le patient sera immédiatement dirigé vers un service ORL où sera extrait le CE sous bronchoscopie au tube rigide.
 
@@ -134,19 +137,21 @@ Tout va dépendre des circonstances dans lesquelles on se trouve.
 
 **Si l'enfant n'est pas asphyxique**
 
-*   Soit la présence du corps étranger ne fait pas de doute, il faut réaliser une endoscopie au tube rigide sous anesthésie générale car un CE ne peut être enlevé qu'avec un tube rigide.
+*   Soit la présence du corps étranger ne fait pas de doute, il faut réaliser une endoscopie au tube rigide sous anesthésie générale car un CE ne peut être enlevé qu'avec un tube rigide.  
 *   Si les conditions ventilatoires sont satisfaisantes et que le CE semble d’origine végétale ou en place depuis longtemps, une endoscopie au tube souple (fibroscopie) peut être réalisée pour explorer soigneusement la totalité de l'arbre aérien. En cas de sténose trop importante, ou lorsque l'extraction risque de blesser la bronche, on préférera différer l'extraction de quelques jours le temps de réaliser un traitement antibiotique et corticoïde. On vérifie toujours les 2 arbres bronchiques après l'extraction afin de s'assurer qu'il n'y a pas d'autres fragments et pour faire le bilan d’éventuelles lésions bronchiques en aval de la zone d'enclavement.
 
 ## VI. Que faire devant un CE asphyxique ?
 
 ### 1. Réaliser 5 tapes dans le dos
 
-*   Appliquer la face antérieure du thorax sur la cuisse fléchie du sauveteur :enfant à califourchon ventral (sauveteur: pied au sol ou sur une chaise pour les moins de un an ou au sol pour les plus de un an).
-*   Tête penchée en avant plus basse que le thorax dépassant les genoux.
-*   Interposer votre main gauche entre votre cuisse et le thorax de l’enfant soutenu par la paume de votre main.
+*   Appliquer la face antérieure du thorax sur la cuisse fléchie du sauveteur :enfant à califourchon ventral (sauveteur: pied au sol ou sur une chaise pour les moins de un an ou au sol pour les plus de un an).  
+*   Tête penchée en avant plus basse que le thorax dépassant les genoux.  
+*   Interposer votre main gauche entre votre cuisse et le thorax de l’enfant soutenu par la paume de votre main.  
 *   5 tapes dans le dos avec le plat de la main entre les deux omoplates.
 
+
 ![](208-tapes-ds-le-dos-1.jpg)
+
 ![](208-tapes-ds-dos-2.jpg)
 
 
@@ -156,6 +161,7 @@ _**Enfant de moins de 1 an                                    
 2. Si échec des tapes dorsales
 
 #### Moins de un an : 5 compressions thoraciques
+
 
 ![](208-compressions-thoraciques.jpg)
 
@@ -174,7 +180,9 @@ Examiner la bouche : Si CE visible le retirer Si l’enfant respire, continuer �
 À l'issue de ces manoeuvres, il importe de vérifier très vite si l'enfant respire ou non, de dégager les voies aériennes en vérifiant si le CE est extractible sous contrôle de la vue et de débuter sans tarder, si possible, une ventilation artificielle (bouche-à-bouche).  
 Si celle-ci s'avère impossible ou inefficace, les manoeuvres décrites ci-dessus seront renouvelées en attendant les secours médicalisés.
 
+            
 ![](heimlich-1.jpg)
+   
 ![](heimlich-2.jpg)
 
 
@@ -192,7 +200,9 @@ Notion de syndrome de pénétration = endoscopie des voies aériennes.
 Manoeuvres d’extraction uniquement si asphyxie aiguë.  
 Absence d’asphyxie = respecter la toux, enfant demi-assis, aucune manoeuvre !
 
+
 ![](d-s-n-208-conduite-a-tenir.jpg)
+
 
 
 ![](d-s-n-208-schema-page-9.jpg)

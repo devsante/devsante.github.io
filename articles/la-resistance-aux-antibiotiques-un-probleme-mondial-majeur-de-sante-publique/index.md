@@ -18,6 +18,7 @@ Cette situation est rendue d’autant plus inquiétante que les nouveaux antibio
 
 **Figure 1. Evolution du nombre de nouveaux antibiotiques mis sur le marché.**
 
+
 ![](image006-0.png)
 
 
@@ -35,7 +36,7 @@ Le risque de sélection de résistance est plus fréquent pour certains antibiot
 
 On distingue **2 types principaux de résistance** bactérienne : 
 
-*   La résistance d’origine chromosomique, qui résulte d’une mutation spontanée et reste en général limitée à une famille d’antibiotiques.
+*   La résistance d’origine chromosomique, qui résulte d’une mutation spontanée et reste en général limitée à une famille d’antibiotiques.  
 *   La résistance d’origine extra-chromosomique qui correspond à l’acquisition de gènes de résistances transférables entre bactéries et codant souvent pour des résistances multiples.
 
 Les différents mécanismes de résistance sont décrits dans l’[article sur les antibiotiques](http://devsante.org/base-documentaire/traitements-vaccins/antibiotiques-modes-daction-mecanismes-de-la-resistance) ([Antibiotiques : modes d'action, mécanismes de la résistance](http://devsante.org/base-documentaire/traitements-vaccins/antibiotiques-modes-daction-mecanismes-de-la-resistance)).
@@ -120,7 +121,7 @@ Une sensibilisation de tous est indispensable, du prescripteur au consommateur.
 
 Il est important d’améliorer le diagnostic des maladies bactériennes pour :
 
-*   Confirmer qu’il s’agit d’une infection bactérienne et non virale grâce aux tests de diagnostic rapide (voir l’article « Tests de diagnostic rapide » [http://devsante.org/base-documentaire/examens-complementaires/tests-de-d...](http://devsante.org/base-documentaire/examens-complementaires/tests-de-diagnostic-rapide-en-pathologie-infectieuse-interet "http://devsante.org/base-documentaire/examens-complementaires/tests-de-diagnostic-rapide-en-pathologie-infectieuse-interet")) à un laboratoire permettant l’isolement des bactéries et si possible leur antibiogramme. Beaucoup d’antibiotiques sont encore prescrits de façon inutile ou inadaptée.
+*   Confirmer qu’il s’agit d’une infection bactérienne et non virale grâce aux tests de diagnostic rapide (voir l’article « Tests de diagnostic rapide » [http://devsante.org/base-documentaire/examens-complementaires/tests-de-d...](http://devsante.org/base-documentaire/examens-complementaires/tests-de-diagnostic-rapide-en-pathologie-infectieuse-interet "http://devsante.org/base-documentaire/examens-complementaires/tests-de-diagnostic-rapide-en-pathologie-infectieuse-interet")) à un laboratoire permettant l’isolement des bactéries et si possible leur antibiogramme. Beaucoup d’antibiotiques sont encore prescrits de façon inutile ou inadaptée.  
 *   Les antibiotiques doivent être préservés. Le choix de l’antibiotique est donc fondamental.
 
 ### 3. Renforcer l’hygiène
@@ -151,6 +152,7 @@ La tuberculose multirésistante (MDR), qui correspond à une résistance à l’
 
 **Figure 2. Nouveaux cas de tuberculose multirésistante (pourcentages) dans le monde **
 
+
 ![](resistance-antibiotiques-carte-fig-2.jpg)
 
 
@@ -177,14 +179,17 @@ La pandémie de ces souches est mondiale et en progression rapide, en milieu aus
 
 **En 2004**
 
+
 ![](image003.png)
 
 
 **En 2012**
+
 
 ![](image004-0.png)
 
 
 Plus récemment sont apparues des souches hautement résistantes avec présence de carbapenemases, rendant les possibilités thérapeutiques extrêmement limitées. Ces souches sont en progression au niveau mondial. Les données épidémiologiques sont encore rares en Afrique subsaharienne mais ces souches sont présentes en Afrique du nord.
 
-**Figure 4. Pourcentages de souches de** **_Klebsiella pneumoniae_** **résistantes aux carbapénèmes en 2012**![](image005.png)
+**Figure 4. Pourcentages de souches de** **_Klebsiella pneumoniae_** **résistantes aux carbapénèmes en 2012**
+![](image005.png)

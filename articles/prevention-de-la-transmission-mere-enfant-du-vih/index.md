@@ -18,12 +18,12 @@ L'intervention la plus courante de prévention de la TME (PTME) était l'adminis
 Puis a été utilisée la NVP (névirapine) au jour de l'accouchement pour la mère et pour le nouveau-né. l:nfin, la prescription de bi ou trithérapie a permis de réduire davantage la TME.  
 Quelques mesures complémentaires, bien qu'elles n'aient pas apporté de résultats très significatifs, doivent être recommandées :
 
-*   Systématiquement : asepsie et prophylaxie par Vitamine A, zinc ou fer.
+*   Systématiquement : asepsie et prophylaxie par Vitamine A, zinc ou fer.  
 *   Au cas par cas : césarienne programmée.
 
 Ces interventions montrent rapidement leurs limites :
 
-*   Intervention sur la transmission seule.
+*   Intervention sur la transmission seule.  
 *   Intervention tenant peu compte de la mère, car centrée sur l'enfant (UNICEF).
 
 Seul le résultat compte : abaisser le taux de TME.  
@@ -37,7 +37,7 @@ D'où l'idée de PTME+ dans laquelle était incluse une prise en charge :
 
 **Il s'agit d'un programme spécifique :**
 
-*   Peu d'intérêts des acteurs de santé non spécialistes pour le SIDA.
+*   Peu d'intérêts des acteurs de santé non spécialistes pour le SIDA.  
 *   Activité nécessitant davantage de temps et de personnel. - Activité demandant une grande motivation (risque d'épuisement).
 
 **L'intégration avec d'autres programmes (Santé de la Reproduction, PEV, PMI, nutrition) est difficile pour plusieurs raisons :**
@@ -48,8 +48,8 @@ D'où l'idée de PTME+ dans laquelle était incluse une prise en charge :
 
 **Problèmes de l'alimentation du nouveau-né**
 
-*   Allllaitement artificiel strict : c'est la référence, mais il est difficile à appliquer dans les pays en développement, notamment en raison du coût (supérieur à celui des ARV.
-*   L’allaitement maternel strict ne comporte guère plus de risques de transmission, mais il est rarement strict.
+*   Allllaitement artificiel strict : c'est la référence, mais il est difficile à appliquer dans les pays en développement, notamment en raison du coût (supérieur à celui des ARV.  
+*   L’allaitement maternel strict ne comporte guère plus de risques de transmission, mais il est rarement strict.  
 *   Allaitement mixte : c'est à la fois le plus dangereux et le plus fréquemment utilisé.
 
 **Le dépistage**  
@@ -57,8 +57,8 @@ L'étape la plus importante, le dépistage du VIH, a été sous-estimée. C'est 
 
 Plusieurs conditions sont nécessaires à la réussite de cette étape de dépistage :
 
-*   Le "conseil" post-test doit être de qualité : un entretien individualisé permet d'informer les femmes séronégatives sur les moyens de le rester et de donner accès à la PTME à celles qui sont séropositives.
-*   Les tests rapides doivent être généralisés et les résultats rendus le plus rapidement possible.
+*   Le "conseil" post-test doit être de qualité : un entretien individualisé permet d'informer les femmes séronégatives sur les moyens de le rester et de donner accès à la PTME à celles qui sont séropositives.  
+*   Les tests rapides doivent être généralisés et les résultats rendus le plus rapidement possible.  
 *   Ce test doit être intégré au bilan prénatal traditionnel qui comporte également : sérologie de la syphilis, groupe sanguin, recherche d'une anémie, de sucre et d'albumine dans les urines.
 
 ## III. Les actions
@@ -70,53 +70,53 @@ La stratégie recommandée est la trithérapie prophylactique chez la mère pend
 
 Cette stratégie se déroule en 4 étapes :
 
-*   Prévention primaire (infections VIH et grossesses non désirées).
-*   Accès à la consultation prénatale.
-*   Dépistage du VIH pour toutes les femmes enceintes lors des CPN.
+*   Prévention primaire (infections VIH et grossesses non désirées).  
+*   Accès à la consultation prénatale.  
+*   Dépistage du VIH pour toutes les femmes enceintes lors des CPN.  
 *   Traitement préventif de toutes les femmes enceintes infectées.
 
 Il faut donc, pour atteindre cet objectif, que toute politique du "mieux naître", toute politique de la mère et de l'enfant adhère à cette volonté et parvienne à la réalisation de ces 4: tapes qui concrètement comportent les actions suivantes.
 
 ### 1. Prévention primaire
 
-*   Prévention de l'infection par le VIH.
-*   La TME est secondaire à la transmission sexuelle.
-*   On manque de moyen autonome de protection pour les femmes (la recherche dans ce domaine est insuffisante).
-*   Il est nécessaire de modifierle statut des femmes (âge du mariage, droit de dire non, divorce, veuvage, etc.).
+*   Prévention de l'infection par le VIH.  
+*   La TME est secondaire à la transmission sexuelle.  
+*   On manque de moyen autonome de protection pour les femmes (la recherche dans ce domaine est insuffisante).  
+*   Il est nécessaire de modifierle statut des femmes (âge du mariage, droit de dire non, divorce, veuvage, etc.).  
 *   Prévention des grossesses non désirées et non des grossesses.
 
 ### 2. Au moins une consultation prénatale (CPN) pour toutes les femmes enceintes
 
-*   Actuellement, seulement 10 à 30% des femmes enceintes ont accès à une CPN, mais 30 à 40%, bénéficient d'un suivi par les matrones.
+*   Actuellement, seulement 10 à 30% des femmes enceintes ont accès à une CPN, mais 30 à 40%, bénéficient d'un suivi par les matrones.  
 *   Il faut donc :
-    *   Augmenter le nombre de centres SMI (les bailleurs doivent financer autant le système de santé que les seuls médicaments).
-    *   Augmenter la rentabilité de ces centres (davantage de personnel, ouverture toute la journée).
-    *   Augmenter le personnel (rentabiliser ce qui existe, tout le monde participe).
+    *   Augmenter le nombre de centres SMI (les bailleurs doivent financer autant le système de santé que les seuls médicaments).  
+    *   Augmenter la rentabilité de ces centres (davantage de personnel, ouverture toute la journée).  
+    *   Augmenter le personnel (rentabiliser ce qui existe, tout le monde participe).  
     *   Améliorer l'accessibilité en zones périphériques (PMI mobiles, interventions des matrones).
 
 ### 3. Tester pour le VIH toutes les femmes enceintes vues en CPN
 
 La réalisation de ce test comporte les actions suivantes :
 
-*   Proposer le test.
-*   Réaliser le test.
-*   Rendre les résultats négatifs.
-*   Rendre les résultats positifs.
+*   Proposer le test.  
+*   Réaliser le test.  
+*   Rendre les résultats négatifs.  
+*   Rendre les résultats positifs.  
 *   Accompagncr les femmes séropositives vers la PTME.
 
 Pour augmenter le nombre de femmes testées, il faut :
 
-*   Améliorer l'accueil, donc aménager les locaux et stimuler la motivation de tout le personnel.
-*   Adapter l'organisation des séances d'EPS et réduire les attentes.
-*   Généraliser l'utilisation des tests rapides.
-*   Réorganiser les consultations des sages-femmes.
-*   Dynamiser le rendu (rapide ou immédiat) des résultats.
-*   Intégrer l'ensemble du bilan (résultats des examens biologiques).
+*   Améliorer l'accueil, donc aménager les locaux et stimuler la motivation de tout le personnel.  
+*   Adapter l'organisation des séances d'EPS et réduire les attentes.  
+*   Généraliser l'utilisation des tests rapides.  
+*   Réorganiser les consultations des sages-femmes.  
+*   Dynamiser le rendu (rapide ou immédiat) des résultats.  
+*   Intégrer l'ensemble du bilan (résultats des examens biologiques).  
 *   Améliorer la gestion et les approvisionnements des intrants pharmaceutiques.
 
 ### 4. Faire bénéficier de la PTME toutes les femmes enceintes infectées
 
-*   Si la femme a un statut de patiente à traiter, elle rejoint le circuit de prise en charge avec traitement par ARV.
+*   Si la femme a un statut de patiente à traiter, elle rejoint le circuit de prise en charge avec traitement par ARV.  
 *   Si la femme n'est pas immunodéprimée, elle doit bénéficier des ARV mais :
     *   Comment ?
     *   Combien de temps ?
@@ -126,11 +126,11 @@ La réponse à ces questions doit s'élaborer à partir d'un schéma général, 
 
 ### 5. Une étape supplémentaire:  le suivi
 
-*   Suivi prénatal (tolérance et efficacité du traitement).
-*   Suivi post-natal clinique (état général, anémie).
-*   Suivi biologique (si possible).
-*   Surveillance de l'alimentation et surtout du sevrage.
-*   Prise en charge et prophylaxie des infections opportunistes.
+*   Suivi prénatal (tolérance et efficacité du traitement).  
+*   Suivi post-natal clinique (état général, anémie).  
+*   Suivi biologique (si possible).  
+*   Surveillance de l'alimentation et surtout du sevrage.  
+*   Prise en charge et prophylaxie des infections opportunistes.  
 *   Conseil, aides, planification familiale (PF).
 
 ## Au total
@@ -145,10 +145,10 @@ La PTME est différente de la prise en charge des enfants infectés : un enfant 
 
 ### **Donc**
 
-*   Il faut un vrai travail d'équipe.
-*   Tout le monde doit agir (sages-femmes, médecins, aides-soignants, administratifs, manoeuvres).
-*   Il faut oublier son étiquette (vaccinations, PF, nutrition, prénatal, post-natal).
-*   Travailler ensemble quelle que soit son administration (ministère de la santé, de la femme, des affaires sociales, etc.).
+*   Il faut un vrai travail d'équipe.  
+*   Tout le monde doit agir (sages-femmes, médecins, aides-soignants, administratifs, manoeuvres).  
+*   Il faut oublier son étiquette (vaccinations, PF, nutrition, prénatal, post-natal).  
+*   Travailler ensemble quelle que soit son administration (ministère de la santé, de la femme, des affaires sociales, etc.).  
 *   Il faut innover !
     *   Mobilités
     *   Rôle des associations

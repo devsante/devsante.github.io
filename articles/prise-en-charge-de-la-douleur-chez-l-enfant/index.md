@@ -34,6 +34,7 @@ Face à un enfant qui répond " non " à la question " _est-ce que tu as mal ?_ 
 
 Lorsque des facteurs psychologiques semblent déclencher la douleur, il ne faut pas confondre la cause et les effets. Les crises migraineuses peuvent parfaitement apparaître à la suite d'une tension psychique, d'une " contrariété " ; la plupart des douleurs récurrentes apparaissent souvent en équilibre instable ; on connaît bien l'intrication et l'importance du niveau d'anxiété et du seuil de perception douloureuse.
 
+
 ![](i750-1.jpg)
 **Figure n°1. Échelle EVA pour évaluation de la douleur chez l'enfant.**
 
@@ -64,6 +65,7 @@ _Un traitement antalgique sera inadapté ou insuffisant pour les cas suivants :_
 _L'enfant 'présente un tableau de somatisation lié à un conflit psychologique, à des difficultés relationnelles._
 
 _L'utilisation systématique ou trop fréquente par l'enfant du symptôme douleur dans ses relations avec les parents (manipulation)._
+
 
 ![](i750-2.jpg)
 **Figure n° 2.**
@@ -261,7 +263,8 @@ Contrairement à l'opinion trop largement répandue, il est fréquent de rencont
 
 - certains ont mal compris la méthode d'auto-évaluation proposée, malgré la simplicité d'utilisation de la réglette EVA.
 
-**Annexe. Posologie moyenne des principaux antalgiques utilisés chez l'enfant en France**![](i750-3.jpg)
+**Annexe. Posologie moyenne des principaux antalgiques utilisés chez l'enfant en France**
+![](i750-3.jpg)
 <table>
 
 <tbody>

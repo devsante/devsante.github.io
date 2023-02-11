@@ -24,6 +24,7 @@ Le paludisme est dû à un parasite sanguin, le <em>Plasmodium</em>, transmis pa
 
 <td style="width: 229px;">
 
+
 ![](image002-0.gif)
 
 
@@ -410,6 +411,7 @@ Il est certain qu’un paludisme transforme une grossesse normale en grossesse p
 
 Le placenta est un important réservoir de parasites, même sans parasitémie décelable. Les lésions placentaires à type de réponse inflammatoire et hormonale sont plus fréquentes chez la primipare. Les placentas de mères impaludées ont habituellement un poids plus faible que les placentas sains. L’étude microscopique a montré un épaississement de la membrane basale du trophoblaste, une infiltration inflammatoire intervilleuse importante une dégénérescence hyaline des villosités des foyers de nécrose syncytiale et la présence très fréquente de pigment malarique dans les espaces intervilleux. Enfin, il a été montré récemment une capacité particulière de cytoadhérence des hématies infestées à la couche de syncytiotrophoblastes du placenta par le récepteur chondroïtine sulfate A, ce qui provoque une séquestration des parasites dans le placenta (figure 1).
 
+
 ![](schema-palu-grossesse-4.jpg)
 
 
@@ -665,6 +667,7 @@ La vaccination est encore à l’étude. Elle est complexe, car le parasite se m
 </tbody>
 
 </table>
+
 <table>
 
 <thead>

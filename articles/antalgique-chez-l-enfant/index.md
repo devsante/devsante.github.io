@@ -54,12 +54,14 @@ _" Guérir rarement,_ _Soulager parfois, Consoler toujours_.... " Ambroise Paré
 
 - Après cinq ans, il peut en parler et évaluer, par exemple avec " le thermomètre de la douleur " _(schéma 1)._ Il s'agit d'une réglette à deux faces: l'enfant peut déplacer le curseur de la position " pas mal " à " très mal ". On peut ainsi mesurer l'intensité de 0 à 100, répéter l'examen et juger du traitement (chez l'enfant drépanocytaire hospitalisé, ce moyen simple nous sert chaque jour).
 
+
 ![](i627-1.jpg)
 
 
 ## **II. Quels médicaments utiliser**
 
 Selon l'Organisation Mondiale de la Santé, on définit trois niveaux d'analgésie devant conduire à des traitements spécifiques _(schéma 2)._
+
 
 ![](i627-2.jpg)
 

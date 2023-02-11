@@ -9,15 +9,15 @@ teaser: "Le diabète de type 2 (80 % des cas), longtemps asymptomatique, est le 
 
 **Le diabète de type 2 est découvert :**
 
-*   Le plus souvent lors d'un bilan systématique ou d'un dépistage effectué chez un patient ayant d'autres facteurs de risque cardio-vasculaire : HTA, obésité, dyslipidémie, tabagisme.
-*   A l'occasion d'une complication, spécifique ou non.
+*   Le plus souvent lors d'un bilan systématique ou d'un dépistage effectué chez un patient ayant d'autres facteurs de risque cardio-vasculaire : HTA, obésité, dyslipidémie, tabagisme.  
+*   A l'occasion d'une complication, spécifique ou non.  
 *   Plus rarement, il est révélé par l'association de plusieurs signes qui constituent le syndrome cardinal : polyurie, polydipsie, asthénie, polyphagie et amaigrissement, témoin d'une carence profonde en insuline.
 
 Il s'agit généralement d'un sujet d'âge mûr et obèse, hypertendu, dyslipidémique ou hyperuricémique (pathologie goutteuse). Les **antécédents personnels ou familiaux** de diabète de type 2, d'intolérance au glucose ou de diabète gestationnel orientent le diagnostic.
 
 **Deux examens permettent le diagnostic :**
 
-*   La glycémie, effectuée sur un prélèvement veineux ou capillaire.
+*   La glycémie, effectuée sur un prélèvement veineux ou capillaire.  
 *   L'examen des urines par bandelette urinaire, qui retrouve une glycosurie et recherche une cétonurie.
 
 ## II. Les complications métaboliques aiguës du diabète
@@ -43,7 +43,7 @@ Le diagnostic, évoqué sur la clinique, est confirmé par l'examen urinaire a l
 
 L'hypoglycémie est souvent liée au traitement par sulfamides hypoglycémiants ou par insuline.
 
-*   Les manifestations cliniques **- pâleur, sueurs, faim douloureuse, tremblements, palpitations** - peuvent être masquées (prise associée de certains médicaments comme les bêta-bloquants).
+*   Les manifestations cliniques **- pâleur, sueurs, faim douloureuse, tremblements, palpitations** - peuvent être masquées (prise associée de certains médicaments comme les bêta-bloquants).  
 *   Il existe un trouble de la conscience réalisant un "coma vigile". Tout trouble de conscience chez un diabétique doit être considéré comme une hypoglycémie jusqu'a preuve du contraire et impose de pratiquer une glycémie au doigt, de corriger l'hypoglycémie immédiatement par l'ingestion de boissons très sucrées ou mieux encore par une perfusion de glucosé hypertonique à 20 %.
 
 L'hypoglycémie peut être due à un jeûne, une erreur dans la prise médicamenteuse, un exercice physique, un stress, une insuffisance rénale, ou une interaction médicamenteuse (avec les sulfamides hypoglycémiants) ou l'administration d'une dose trop élevée d'insuline.
@@ -69,19 +69,19 @@ Les complications chroniques représentent les causes essentielles de morbi-mort
 
 C'est l'atteinte des vaisseaux de gros et moyen calibre, qui conditionne donc le pronostic de la maladie. Les manifestations cliniques sont identiques à celles de l'athérome mais souvent sévères et plus précoces :
 
-*   Artériopathie oblitérante des membres inférieurs (AOMI) : elle se manifeste par de violentes douleurs du mollet survenant lors de la marche, disparaissant lorsque le patient s'arrête et réapparaissant lorsqu'il reprend la marche. Les pouls pédieux et tibiaux postérieurs sont diminués ou abolis.
-*   Plus grave encore est **l'occlusion des artères distales du pied**, marquée par des douleurs très intenses des orteils, un pied blanc et froid, une abolition des pouls pédieux et tibial postérieur. Il faut en urgence administrer un antalgique type morphine, réchauffer le pied et hospitaliser en raison du risque de gangrène nécessitant une amputation.
-*   Accidents vasculaires cérébraux, de nature ischémique (thrombose d'une artère cérébrale), avec troubles neurologiques : hémiplégie, hémiparésie...
+*   Artériopathie oblitérante des membres inférieurs (AOMI) : elle se manifeste par de violentes douleurs du mollet survenant lors de la marche, disparaissant lorsque le patient s'arrête et réapparaissant lorsqu'il reprend la marche. Les pouls pédieux et tibiaux postérieurs sont diminués ou abolis.  
+*   Plus grave encore est **l'occlusion des artères distales du pied**, marquée par des douleurs très intenses des orteils, un pied blanc et froid, une abolition des pouls pédieux et tibial postérieur. Il faut en urgence administrer un antalgique type morphine, réchauffer le pied et hospitaliser en raison du risque de gangrène nécessitant une amputation.  
+*   Accidents vasculaires cérébraux, de nature ischémique (thrombose d'une artère cérébrale), avec troubles neurologiques : hémiplégie, hémiparésie...  
 *   Insuffisance coronarienne/infarctus du myocarde
-    *   Insuffisance coronarienne : marquée par des douleurs rétrosternales en étau, irradiant vers la mâchoire et vers l'épaule et le bras gauches, apparaissant généralement à l'effort dont elles imposent l'arrêt.
-    *   Infarctus du myocarde : la douleur, de même type, survient souvent au repos, persiste plus longtemps, s'accompagne d'un malaise et d'une sensation d'angoisse. Le risque de complications (collapsus cardio-vasculaire avec chute tensionnelle et différentielle pincée, troubles du rythme) justifie l'hospitalisation en urgence. Chez le diabétique, il s'agit souvent d'infarctus silencieux : le patient ne se plaint d'aucune douleur, mais l'électrocardiogramme retrouve des signes électriques de nécrose myocardique. L'insuffisance coronarienne, souvent associée à une hypertension artérielle, peut aboutir à une insuffisance cardiaque avec dyspnée d'effort, puis de repos, voire oedème aigu du poumon.
+    *   Insuffisance coronarienne : marquée par des douleurs rétrosternales en étau, irradiant vers la mâchoire et vers l'épaule et le bras gauches, apparaissant généralement à l'effort dont elles imposent l'arrêt.  
+    *   Infarctus du myocarde : la douleur, de même type, survient souvent au repos, persiste plus longtemps, s'accompagne d'un malaise et d'une sensation d'angoisse. Le risque de complications (collapsus cardio-vasculaire avec chute tensionnelle et différentielle pincée, troubles du rythme) justifie l'hospitalisation en urgence. Chez le diabétique, il s'agit souvent d'infarctus silencieux : le patient ne se plaint d'aucune douleur, mais l'électrocardiogramme retrouve des signes électriques de nécrose myocardique. L'insuffisance coronarienne, souvent associée à une hypertension artérielle, peut aboutir à une insuffisance cardiaque avec dyspnée d'effort, puis de repos, voire oedème aigu du poumon.  
 *   Sténose de l'artère rénale : la diminution de la circulation rénale aboutit progressivement une insuffisance rénale chronique avec HTA, anémie, asthénie et protéinurie.
 
 ### 2. La micro-angiopathie
 
 L'atteinte des petits vaisseaux (l'hyperglycémie chronique altère la membrane basale des capillaires) à deux conséquences sévères :
 
-*   **la rétinopathie diabétique** : elle concerne 50 % des diabétiques de type 2 après 15 ans d'évolution. C'est une cause fréquente de cécité. Tout diabétique devrait avoir un examen annuel du fond de l'oeil à la recherche de micro-anévrysmes rétiniens, voire d'hémorragies.
+*   **la rétinopathie diabétique** : elle concerne 50 % des diabétiques de type 2 après 15 ans d'évolution. C'est une cause fréquente de cécité. Tout diabétique devrait avoir un examen annuel du fond de l'oeil à la recherche de micro-anévrysmes rétiniens, voire d'hémorragies.  
 *   **la néphropathie diabétique** : atteignant 15 % des patients, elle conduit aussi à une insuffisance rénale chronique.
 
 ### 3. La neuropathie diabétique
@@ -89,7 +89,7 @@ L'atteinte des petits vaisseaux (l'hyperglycémie chronique altère la membrane 
 Touchant environ la moitié des patients après plus de 20 ans d'évolution, elle est due à l'atteinte de la myéline (elle-même liée a l'hyperglycémie chronique et aux lésions ischémiques provoquées par la micro-angiopathie). Les manifestations cliniques en sont :
 
 *   **la polynévrite** : atteinte des nerfs périphériques responsable d'un déficit sensitif associé à des douleurs à type de décharges électriques, à des paresthésies (sensations de fourmillements, de picotements, de brûlures), à un déficit moteur avec atrophie musculaire ;
-*   **la neuropathie végétative** : atteinte du système nerveux végétatif (appelé aussi système nerveux autonome), qui contrôle le fonctionnement de divers organes : coeur, tube digestif (possibilité notamment de retard à l'évacuation gastrique appelé gastroparésie), voies urinaires...
+*   **la neuropathie végétative** : atteinte du système nerveux végétatif (appelé aussi système nerveux autonome), qui contrôle le fonctionnement de divers organes : coeur, tube digestif (possibilité notamment de retard à l'évacuation gastrique appelé gastroparésie), voies urinaires...  
 *   **les atteintes du pied :**
     *   plaies diverses, traumatiques ou non,
     *   troubles trophiques (callosités que le patient traite souvent lui-même sans asepsie) ;
@@ -112,9 +112,9 @@ Il convient de rechercher régulièrement un foyer infectieux, souvent inapparen
 
 _**Définitions**_
 
-*   Polyurie : augmentation du volume des urines émises par 24 heures.
-*   Polydipsie : sensation de soif exagérée poussant le patient à boire de grandes quantités de liquide.
-*   Polyphagie : augmentation de la quantité d'aliments ingérée.
+*   Polyurie : augmentation du volume des urines émises par 24 heures.  
+*   Polydipsie : sensation de soif exagérée poussant le patient à boire de grandes quantités de liquide.  
+*   Polyphagie : augmentation de la quantité d'aliments ingérée.  
 *   Thyrotoxicose : manifestations liées à une sécrétion anormalement importante d'hormones thyroïdiennes.
 
 _Développement et Santé n°193, 2009_

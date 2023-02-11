@@ -56,6 +56,7 @@ La reprise inspiratoire sera contrôlée, lente et nasale pour permettre un réc
 
 Il faudra veiller à respecter la fatigabilité du patient en organisant des temps de repos multiples.
 
+
 ![](i621-1.jpg)
 
 

@@ -16,7 +16,7 @@ et implications psychologiques
 
 De cette définition, nous pouvons comprendre que c'est une activité qui est d'un soutien capi­tal dans l'équilibre psychologique du patient dans la mesure où :
 
-*   Le patient est mis au centre des séances. Il ne s'agit pas ici de tenir forcément un discours de "médecin" où tout est imposé pratiquement au patient sans explications. Les explications lui permettent de mieux s'intégrer dans son suivi et dans son traite­ment et de comprendre le bien fondé des soins.
+*   Le patient est mis au centre des séances. Il ne s'agit pas ici de tenir forcément un discours de "médecin" où tout est imposé pratiquement au patient sans explications. Les explications lui permettent de mieux s'intégrer dans son suivi et dans son traite­ment et de comprendre le bien fondé des soins.  
 *   Une marge de manoeuvre est offerte au patient : il pourra poser des questions, obte­nir des explications nécessaires à sa compré­hension, et s'engager dans une dynamique d'acteur de ses soins à travers le processus d'apprentissage. Cette acquisition et cette transformation lui donnent un certain senti­ment de "puissance" pour pouvoir faire face à sa maladie.
 
 Ainsi le patient, par la consultation d'ETP, bénéficie d'un soutien psychologique si les séances se déroulent selon les règles de l'art. Il s'agit donc de savoir bien mener les séances avec des outils pouvant permettre d'atteindre les buts fixés dans le contrat thérapeutique.

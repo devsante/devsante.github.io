@@ -13,6 +13,7 @@ L'OMS estime à 2 milliards le nombre de sujets exposés à la maladie. Chaque a
 
 Il s'agit donc d'un problème majeur de santé publique, cause d'absentéisme scolaire et de gène considérable des activités de production et un frein potentiel au développement des pays d'endémie palustre.*
 
+
 ![](i924-1.jpg)
 
 
@@ -153,7 +154,7 @@ Certaines erreurs sont souvent rencontrées lors de la prise en charge du paludi
 *   retard de la mise en route du traitement antipaludique,
 *   croire qu'avec des mesures "préventives correctes" on ne peut pas faire une crise de paludisme,
 *   utilisation abusive de la voie parentérale,
-*   utilisation non justifiée des antipaludiques de 2<sup>e</sup> intention....
+*   utilisation non justifiée des antipaludiques de 2<sup>e</sup> intention....  
 *   utilisation de traitements accessoires coûteux et potentiellement dangereux ("remontants", corticoïdes ... ).
 
 ## IV. Paludisme grave
@@ -186,10 +187,12 @@ Une étude effectuée à Lomé en 1998 et portant sur 540 enfants malades a perm
 
 <tr>
 
-<td valign="top">![](i924-3.jpg)
+<td valign="top">
+![](i924-3.jpg)
 </td>
 
-<td valign="top">![](i924-4.jpg)
+<td valign="top">
+![](i924-4.jpg)
 </td>
 
 </tr>
@@ -197,6 +200,7 @@ Une étude effectuée à Lomé en 1998 et portant sur 540 enfants malades a perm
 </tbody>
 
 </table>
+
 <table>
 <caption>Tableau 2. Manifestations les plus fréquentes</caption>
 
@@ -265,6 +269,7 @@ Hypoglycémie
 </tbody>
 
 </table>
+
 <table>
 <caption>Tableau 3. Manifestations les plus meurtrières</caption>
 
@@ -421,6 +426,7 @@ Hématuries, hémoglobinuries des autres causes d'hémolyse intravasculaire (inf
 Une crise hémolytique drépanocytaire.
 
 Rôle de l'infirmier dans la pr
+
 
 ![](i924-5.jpg)
 
@@ -606,6 +612,7 @@ b) Principales manifestations cliniques du PCM par ordre de fréquence :
 ## Conclusion
 
 En zone d'endémie palustre, les manifestations cliniques pathologiques et la densité parasitaire ne permettent ni d'identifier le paludisme congénital-maladie ni de le distinguer d'un paludisme congénital-infestation associé à une infection néonatale.
+
 
 ![](i924-6.jpg)
 

@@ -11,7 +11,7 @@ Cependant il ne faut pas s'imaginer que l'eau, parce qu'elle coule à travers un
 
 Quel que soit son mode d'acheminement, une eau, pour pouvoir être consommée sans danger, doit répondre à un certain nombre de critères stricts, appelés critères de potabilité :
 
-*   La potabilité microbiologique, est l'absence de micro-organismes susceptibles de provoquer des maladies.
+*   La potabilité microbiologique, est l'absence de micro-organismes susceptibles de provoquer des maladies.  
 *   La potabilité chimique, est l'absence de substances toxiques.
 
 Pour pouvoir être consommée agréablement l'eau doit être limpide, claire et ne doit présenter ni saveur, ni odeur désagréable. Cependant une eau qui ne satisfait pas pleinement à ces critères ne présente pas forcément de risque pour la santé.
@@ -34,7 +34,7 @@ Le risque chimique est différent du risque bactériologique. Il y a peu de circ
 
 Le risque chimique est le plus souvent un risque de toxicité chronique par une ingestion répétée. Un dépassement ponctuel n'a pas de conséquence sur la santé, mais les dépassements quotidiens peuvent être préjudiciables, en particulier pour les personnes fragiles (nourrissons, personnes âgées, malades). Les substances chimiques autres que les sels minéraux font l'objet de normes très sévères. On distingue :
 
-*   Les substances indésirables, leur présence est tolérée tant qu'elle reste inférieure à un certain seuil (le fluor et les nitrates par exemple).
+*   Les substances indésirables, leur présence est tolérée tant qu'elle reste inférieure à un certain seuil (le fluor et les nitrates par exemple).  
 *   Les substances aux effets toxiques, le plomb et le chrome, l'arsenic, le cadmium en font partie. Les teneurs tolérées sont extrêmement faibles, parfois de l'ordre du millionième de gramme par litre.
 
 Ces analyses relèvent de laboratoires spécialisés.
@@ -113,24 +113,24 @@ Deux géloses TTC + Tergitol
 
 **Technique par incorporation en gélose (NFR 90-401 et NFT 90-402)**
 
-*   Déposer dans 2 boites de Pétri (90 mm de diamètre), 1 ml d'eau et y ajouter la gélose trypticase en surfusion à 56°C.
-*   Agiter les boites par rotation pour répartir uniformément l'eau au sein de la gélose et laisser reprendre en masse.
+*   Déposer dans 2 boites de Pétri (90 mm de diamètre), 1 ml d'eau et y ajouter la gélose trypticase en surfusion à 56°C.  
+*   Agiter les boites par rotation pour répartir uniformément l'eau au sein de la gélose et laisser reprendre en masse.  
 *   Incuber une boite à 37°C pendant 24 heures et l'autre à 22°C pendant 72 heures.
 
 **_Recherche et dénombrement de coliformes et coliformes thermotolérants_**
 
 **Technique par filtration sur membrane (NFT 90-414)**, membranes filtrantes stériles de porosité 0,45µm et de diamètre 47 mm.
 
-*   Filtrer deux fois 100 ml d'eau sur deux membranes millipores et les déposer sur les géloses TTC+Tergitol.
-*   Incuber les boites 24 à 48 heures, l'une à 37°C pour la recherche des coliformes totaux et l'autre à 44°C pour la recherche des coliformes fécaux.
-*   Dénombrer les colonies lactose + (jaunes).
+*   Filtrer deux fois 100 ml d'eau sur deux membranes millipores et les déposer sur les géloses TTC+Tergitol.  
+*   Incuber les boites 24 à 48 heures, l'une à 37°C pour la recherche des coliformes totaux et l'autre à 44°C pour la recherche des coliformes fécaux.  
+*   Dénombrer les colonies lactose + (jaunes).  
 *   Identifier selon les méthodes bactériologiques classiques, les colonies lactose + et oxydase.
 
 **_Recherche et dénombrement des streptocoques fécaux_**
 
 **Technique par filtration sur membrane (NFT 90-416)**
 
-*   Filtrer 100 ml d'eau et déposer la membrane sur un milieu de Slanetz et Bartley. - Incuber 48 h à 37°C.
+*   Filtrer 100 ml d'eau et déposer la membrane sur un milieu de Slanetz et Bartley. - Incuber 48 h à 37°C.  
 *   Dénombrer et identifier les colonies rouges avec un halo blanc.
 
 #### Interprétation des résultats

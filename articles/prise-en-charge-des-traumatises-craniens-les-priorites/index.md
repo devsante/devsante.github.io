@@ -13,6 +13,7 @@ date: "1998-06-14"
 
 L'aggravation en chaîne des lésions initiales du cerveau (contusion, attrition, cisaillement) débute immédiatement après le traumatisme crânien. L'origine de cette agression cérébrale secondaire est soit intra-, soit extracrânienne (_tableau n° 1_). S'il n'est pas possible à l'heure actuelle de protéger directement le cerveau par l'utilisation de médicaments spécifiques, il est réaliste, en revanche, de concentrer ses efforts sur l'amélioration de la prise en charge initiale des patients victimes d'un traumatisme cranio-cérébral (TCC) grave. L'objectif est de diminuer l'incidence des agressions cérébrales secondaires d'origine systémique qui alourdissent la morbidité* et la mortalité*. Contrôler les agressions cérébrales secondaires d'origine extracrânienne passe par l'amélioration des traitements symptomatiques initiaux qui doivent être débutés dès la prise en charge du patient, poursuivis pendant le transport, à l'arrivée dans un service d'urgences, lors de la réalisation d'examens complémentaires puis à l'admission dans un service spécialisé. Cette notion de "chaine de protection cérébrale continue", doit être respectée en permanence. Notre exercice quotidien nous montre à l'évidence qu'il existe de nombreuses périodes à " risque " lors, par exemple, des transferts extra- et intrahospitaliers ou encore pendant la réalisation d'examens complémentaires (angiographie, scanner) : le patient peut alors perdre tout ou partie de ses chances de récupération.
 
+
 ![](i787-1.jpg)
 
 
@@ -54,7 +55,9 @@ L'examen évaluera le niveau de conscience par le score de Glasgow. Cette échel
 
 ouvrir les yeux pour des raisons externes (hématome, traumatisme direct), le score est compté 1. Si la réponse aux stimulus est asymétrique - par exemple le patient évite le stimulus à gauche et ne réagit pas à droite -, le score est compté 4. La stimulation doit être réalisée par un frottement appuyé sur le sternum pendant 5 à 10 secondes. Le pincement du mamelon ne doit pas être le stimulus douloureux car non symétrique.
 
+
 ![](i787-2.jpg)
+
 ![](i787-3.jpg)
 
 
@@ -71,6 +74,7 @@ Certains auteurs nient toute indication des agents vasopresseurs dans la phase i
 Tout patient ayant un score de Glasgow inférieur à 8 doit bénéficier d'une intubation trachéale et d'une ventilation contrôlée compte tenu du retentissement majeur des variations de pression artérielle en oxygène (PaO<sub>2</sub>) et surtout de PaCO<sub>2</sub> sur le débit sanguin cérébral. D'autres indications sont résumées dans le _tableau n°_ 4. La fréquence d'une lésion cervicale associée au traumatisme cranio-cérébral est estimée entre 1,8 et 10 %. Aussi, toute manoeuvre visant au rétablissement de la liberté des voies aériennes supérieures doit prendre en considération le risque potentiel de déplacement secondaire d'une fracture cervicale instable. Différentes techniques ont été décrites. Les points importants résident dans le maintien de l'axe tête-tronc et la détection d'une difficulté à l'intubation (corps étranger, traumatisme facial, fracture mandibulaire). Un exemple de séquence rapide d'intubation trachéale peut être proposé _(tableau n° 5_). En l'absence de détresse respiratoire aiguë, plusieurs techniques sont possibles : intubation nasale à l'aveugle, intubation rétrograde, fibroscopie bronchique lorsque c'est possible.
 
 Dès que la liberté des voies aériennes supérieures est assurée, la majorité des patients développe une hyperventilation centrale neurogénique qui peut induire une hypocapnie parfois importante (risque d'ischémie cérébrale). Ailleurs, une respiration anarchique peut être observée. Dans ces différents contextes, la ventilation mécanique aidée d'une sédation permet d'optimiser au mieux la PaCO<sub>2</sub> d'autant que la marge thérapeutique (35 mmHg < PaCO<sub>2</sub> < 40 mmHg) est étroite.
+
 
 ![](i787-4.jpg)
 
@@ -104,6 +108,7 @@ Aussi, la prescription systématique **d'oxygénateur cérébral (piracétam), d
 Une amélioration de la prise en charge des paramètres vitaux respiratoires (intubation trachéale, ventilation assistée) et hémodynamiques (remplissage vasculaire adapté), et surtout une sensibilisation des équipes de transfert dans leur rôle crucial de surveillance ont abouti à une diminution des épisodes d'hypoxie et d'hypotension avec une amélioration corollaire du pronostic. Aussi, la majorité des progrès résultent directement de l'éducation et de l'entraînement des médecins et infirmiers, et peu des nouvelles technologies.
 
 Il faut bien reconnaître qu'en matière de traumatisme cranio-cérébral, nous ne possédons aucun traitement spécifique à disposition mais que, seul, un ensemble de petits moyens, directement inspiré des connaissances actuelles de la physiopathologie, permet au mieux d'améliorer la survie, au pire, de ne pas aggraver le pronostic déjà sombre d'un patient atteint d'un traumatisme cranio-cérébral.
+
 
 ![](i787-5.jpg)
 

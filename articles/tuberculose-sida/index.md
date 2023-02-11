@@ -36,6 +36,7 @@ Ce modèle qui permet l'analyse de l'ensemble des activités d'un programme de l
 
 Les principales étapes, chacune pouvant être exprimée sous forme de probabilité, sont résumées dans le _tableau n° 1_.
 
+
 ![](i677-1.jpg)
 
 
@@ -48,6 +49,7 @@ La réalité est bien entendu très différente ; à chaque étape, des problèm
 On pourrait essayer de mesurer la probabilité de chacune des étapes de ce modèle. Certaines étapes sont essentiellement techniques : sensibilité du test diagnostique, efficacité du traitement, et leur probabilité est assez bien connue. D'autres étapes vont varier d'une situation à l'autre et dépendre avant tout de la qualité du fonctionnement du programme contre la tuberculose. Ces étapes dites opérationnelles sont les suivantes : Motivation, Sélection, Examen, Prescription, Traitement, Régularité. Par exemple, une étude a montré que la qualité de la prescription était de l'ordre de x, autrement dit, y % des prescriptions ne correspondaient pas au traitement recommandé.
 
 Le _tableau_ _n°_ 2 indique, pour chacune des étapes du modèle, les problèmes les plus fréquemment rencontrés dans le fonctionnement quotidien des programmes de lutte contre la tuberculose.
+
 
 ![](i677-2.jpg)
 

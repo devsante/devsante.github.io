@@ -54,6 +54,7 @@ Post-partum
 </tbody>
 
 </table>
+
 <table>
 
 <thead>
@@ -89,7 +90,7 @@ Post-partum
 Il se définit comme l'expulsion du produit de , conception avant 28 semaines d'aménorrhée.  
 On distingue :
 
-*   La menace d'avortement : les métrorragies sont parfois minimes, parfois abondantes faites de sang rouge, noirâtre ou rosé, surve­nant sur une aménorrhée inférieure ou égale à 14 semaines. Le saignement peut être accompagné de douleurs pelviennes ou lom­baires à type de colique, ou de contractions utérines douloureuses. L'examen au spécu­lum confirme l'origine du saignement. Au toucher vaginal, le col est peu modifié.
+*   La menace d'avortement : les métrorragies sont parfois minimes, parfois abondantes faites de sang rouge, noirâtre ou rosé, surve­nant sur une aménorrhée inférieure ou égale à 14 semaines. Le saignement peut être accompagné de douleurs pelviennes ou lom­baires à type de colique, ou de contractions utérines douloureuses. L'examen au spécu­lum confirme l'origine du saignement. Au toucher vaginal, le col est peu modifié.  
 *   L'avortement en cours : les métrorragies sont importantes, faites de sang rouge avec des caillots, les douleurs à type de contrac­tions ou de coliques expulsives sont de plus en plus intenses. L'examen au spéculum met en évidence des débris ovulaires ou des produits de conception dans le vagin. Au toucher vaginal, le col est court, ouvert aux deux orifices ; le corps utérin, rétracté, a un volume inférieur à l'âge gestationnel.
 
 Les **avortements compliqués** sont redou­tables. **Ils ne concernent que les avorte­ments provoqués.** Certaines complications sont encore mortelles : septicémies à _perfrin­gens_ ou bacilles Gram négatifs, infarctus utérin, embolie gazeuse et plus rarement téta­nos. Les séquelles sont fréquentes : douleurs, troubles du cycle, stérilité secondaire, acci­dents obstétricaux divers, troubles psychiques.
@@ -109,12 +110,12 @@ Elle se manifeste par des douleurs pelviennes, des métrorragies et des troubles
 
 Les vomissements gravidiques (qui surviennent pendant la grossesse) ne sont pas dus à des causes organiques. Il en existe deux types :
 
-*   Les **vomissements gravidiques simples**, qui ne sont pas une urgence le plus souvent.
+*   Les **vomissements gravidiques simples**, qui ne sont pas une urgence le plus souvent.  
 *   **Les vomissements gravidiques graves,** dits incoercibles, mettent en jeu le pronostic vital maternel en raison de leur retentissement sur l'état général de la patiente.
 
 L'examen clinique montre :
 
-*   Une intolérance gastrique : c'est le signe essentiel. La malade vomit immédiatement tout ce qu'elle tente d'absorber par la bouche, même les liquides.
+*   Une intolérance gastrique : c'est le signe essentiel. La malade vomit immédiatement tout ce qu'elle tente d'absorber par la bouche, même les liquides.  
 *   Une altération de l'état général avec des signes de déshydratation : soif, langue sèche, plis cutanés persistants et, dans les formes graves, oligurie, signes de dénutri­tion. Celle-ci apparaît en quelques jours et se caractérise par un amaigrissement, un faciès émacié, des yeux excavés et cernés. Il existe une asthénie extrême.
 
 ### 2. Urgences au cours du deuxième trimestre
@@ -123,18 +124,18 @@ Elles sont dominées par l'**avortement molaire** lors d'une grossesse _a priori
 
 #### Signes fonctionnels
 
-*   Hémorragie : faite de sang rouge, parfois mêlé de caillots, et d'importance variable. L'abondance et la répétition de ces hémor­ragies vont entraîner une anémie.
-*   Exagération des signes sympathiques de grossesse : sialorrhée, nausées, vomisse­ments. Ceux-ci sont graves ou incoercibles, ou ils persistent au-delà du troisième mois.
-*   Atteinte rénale : cedème, oligurie, albuminurie.
+*   Hémorragie : faite de sang rouge, parfois mêlé de caillots, et d'importance variable. L'abondance et la répétition de ces hémor­ragies vont entraîner une anémie.  
+*   Exagération des signes sympathiques de grossesse : sialorrhée, nausées, vomisse­ments. Ceux-ci sont graves ou incoercibles, ou ils persistent au-delà du troisième mois.  
+*   Atteinte rénale : cedème, oligurie, albuminurie.  
 *   Signes discrets d'atteinte hépatique : subictère.
 
 #### A l'examen physique
 
-*   L'état général est souvent altéré.
-*   L'utérus est mou et, surtout, il est plus gros que ne le voudrait l'âge présumé de la grossesse.
-*   Il n'y a ni mouvements actifs ni bruit du coeur du foetus.
-*   L'examen au spéculum permet de noter un col violacé ou, en cas d'avortement molaire, des vésicules.
-*   Au toucher vaginal : l'utérus est mou et il peut exister des kystes ovariens souvent bilatéraux.
+*   L'état général est souvent altéré.  
+*   L'utérus est mou et, surtout, il est plus gros que ne le voudrait l'âge présumé de la grossesse.  
+*   Il n'y a ni mouvements actifs ni bruit du coeur du foetus.  
+*   L'examen au spéculum permet de noter un col violacé ou, en cas d'avortement molaire, des vésicules.  
+*   Au toucher vaginal : l'utérus est mou et il peut exister des kystes ovariens souvent bilatéraux.  
 *   Les ß HCG (très élevées) et l'échographie (qui montre des images en flocons de neige) permettent de faire le diagnostic.
 
 ### 3. Urgences au cours du troisième trimestre
@@ -155,7 +156,7 @@ Les **signes fonctionnels** sont :
 
 **L'examen gynécologique :**
 
-*   Il révèle une **hypertonie utérine permanente**, l'utérus est dur et douloureux au pal­per. Il existe une véritable contracture.
+*   Il révèle une **hypertonie utérine permanente**, l'utérus est dur et douloureux au pal­per. Il existe une véritable contracture.  
 *   **Au toucher vaginal, le segment infé­rieur est dur, tendu**, témoignant de la contracture utérine. Le col est comme cerclé. Les complications sont, pour la mère : les troubles de la coagulation, la nécrose corticale rénale et la mort.
 
 #### _Rupture utérine_
@@ -184,7 +185,7 @@ Les différentes formes cliniques de l'infection urinaire sont la cystite, la py
 
 L'infection urinaire alourdit la morbidité foeto-maternelle et risque de provoquer :
 
-*   Pour le foetus : un accouchement prématuré, une hypotrophie ou une mort in utero.
+*   Pour le foetus : un accouchement prématuré, une hypotrophie ou une mort in utero.  
 *   Pour la mère : un choc septique ou une néphrite interstitielle après l'accouchement.
 
 #### _Paludisme grave_
@@ -194,21 +195,21 @@ En Afrique, cette affection accroît la mortalité des femmes en période gravid
 **Cliniquement, on distingue :**
 
 *   Le paludisme simple (voir l'article correspondant)
-*   L'accès pernicieux ou neuro-paludisme.
-*   Le paludisme viscéral évolutif : il survient chez les sujets non prémunis, sans prophylaxie. Les signes sont une anémie, avec retentissement cardiaque, une asthénie, une splénomégalie, une élévation thermique à 38° C.
+*   L'accès pernicieux ou neuro-paludisme.  
+*   Le paludisme viscéral évolutif : il survient chez les sujets non prémunis, sans prophylaxie. Les signes sont une anémie, avec retentissement cardiaque, une asthénie, une splénomégalie, une élévation thermique à 38° C.  
 *   La fièvre bilieuse hémoglobinurique : son début est brutal, marqué par une lombalgie violente et un état de prostration. Les vomis­sements sont alimentaires puis bilieux, les urines sont rouge-noir, un ictère hémolytique apparaît, avec anémie et oligo-anurie. Le pronostic, qui est lié à la diurèse, est fatal dans 30 % des cas.
 
 **Le diagnostic repose sur :**
 
-*   La clinique : des accès épisodiques de fièvre élevée paroxystique avec céphalées et myal­gies constituent les principaux signes.
-*   La goutte épaisse, qui permet d'identifier le parasite au microscope.
+*   La clinique : des accès épisodiques de fièvre élevée paroxystique avec céphalées et myal­gies constituent les principaux signes.  
+*   La goutte épaisse, qui permet d'identifier le parasite au microscope.  
 *   Le test de diagnostic rapide, qui permet de diagnostiquer _P.falciparum_ en quelques minutes et sans microscope.
 
 **Les complications liées au paludisme** :
 
-*   _La grossesse favorise la survenue des compli­cations graves de la maladie paludéenne_ : accès palustre avec albumine et hyperazoté­mie pouvant évoluer vers la néphrite chro­nique, psychoses diverses, myocardites palustres, rupture de rate paludéenne.
-*   _Le paludisme complique directement la grossesse, mais aussi indirectement_ par l'anémie qu'il engendre, entraînant, au début de la grossesse, une accentuation des phé­nomènes "d'auto-intoxication" avec aggrava­tion de tous les signes sympathiques de la grossesse ; plus tard, il peut provoquer des avortements, des accouchements prématu­rés, des morts _in utero_, et la naissance d'enfants hypotrophiques ayant parfois une hépatosplénomégalie.
-*   _Le paludisme peut compliquer l'accouche­ment_(aggravation d'une anémie préexistan­te) et les suites de couches (accès palustre, moindre résistance aux infections bacté­riennes).
+*   _La grossesse favorise la survenue des compli­cations graves de la maladie paludéenne_ : accès palustre avec albumine et hyperazoté­mie pouvant évoluer vers la néphrite chro­nique, psychoses diverses, myocardites palustres, rupture de rate paludéenne.  
+*   _Le paludisme complique directement la grossesse, mais aussi indirectement_ par l'anémie qu'il engendre, entraînant, au début de la grossesse, une accentuation des phé­nomènes "d'auto-intoxication" avec aggrava­tion de tous les signes sympathiques de la grossesse ; plus tard, il peut provoquer des avortements, des accouchements prématu­rés, des morts _in utero_, et la naissance d'enfants hypotrophiques ayant parfois une hépatosplénomégalie.  
+*   _Le paludisme peut compliquer l'accouche­ment_(aggravation d'une anémie préexistan­te) et les suites de couches (accès palustre, moindre résistance aux infections bacté­riennes).  
 *   Au cours du dernier trimestre, l'impaludation peut aboutir à l'infection du foetus qui naîtra avec un paludisme congénital.
 
 #### c) Dystocies
@@ -270,6 +271,7 @@ Le traitement est étiologique et nécessite le repos en cas de menace d'avortem
 
 Les anti-spasmodiques et/ou les bêta-mimétiques, les myorelaxants utérins, en perfusion veineuses ou par voie intramusculaire, luttent contre les contractions utérines. Dans les hémorragies importantes engageant le pronostic vital immédiat, l'évacuation rapide par aspiration est indiquée. Les complications les plus graves (toxi-infection à _perfringens_, à germes Gram négatif, tétanos) sont la conséquence d'un curetage hâtif. Il ne faut intervenir qu'après un délai de 24 à 48 heures après un traitement anti-infectieux, la patiente étant apyrétique. A ces mesures s'ajouteront la thérapeutique antitétanique préventive et la prévention de l'iso-immunisa­tion par l'injection de gamma-globuline antiD chez les femmes de groupe sanguin Rhésus négatif.
 
+
 ![](d-s191-2008-gyneco-1.jpg)
 
 
@@ -279,10 +281,11 @@ C'est une extrême urgence. La patiente est groupée ; elle est perfusée et op�
 
 #### Conduite à tenir
 
-*   Voie veineuse sûre ou **mieux deux, aux membres supérieurs de préférence**. - Remplissage vasculaire avec macromolécules et sérum salé.
-*   En urgence : groupe et Rhésus, hémoglobine.
-*   Transfusion en cas d'état de choc ou si le taux d'hémoglobine est < 7g/dl. - Laparotomie et envoi de la pièce opératoire à l'anatomopathologie.
+*   Voie veineuse sûre ou **mieux deux, aux membres supérieurs de préférence**. - Remplissage vasculaire avec macromolécules et sérum salé.  
+*   En urgence : groupe et Rhésus, hémoglobine.  
+*   Transfusion en cas d'état de choc ou si le taux d'hémoglobine est < 7g/dl. - Laparotomie et envoi de la pièce opératoire à l'anatomopathologie.  
 *   Surveillance de la tension artérielle, du pouls, de la conscience et de la diurèse dans la période post-opératoire.
+
 
 ![](d-s191-2008-gyneco-2.jpg)
 
@@ -299,7 +302,7 @@ Il faut hospitaliser la patiente et mettre en place :
 
 **Eléments de surveillance**
 
-*   Au plan clinique : le degré de déshydratation, l'état de conscience, la présence d'ictère, le pouls, la température, la courbe de poids quotidien, le nombre de vomissements par jour, enfin la courbe de diurèse qui est un élément fondamental de surveillance.
+*   Au plan clinique : le degré de déshydratation, l'état de conscience, la présence d'ictère, le pouls, la température, la courbe de poids quotidien, le nombre de vomissements par jour, enfin la courbe de diurèse qui est un élément fondamental de surveillance.  
 *   Au plan biologique : ionogramme sanguin, dosage des protides sanguins, urée sanguine dont l'élévation est un signe de gravité.
 
 Bien traités, l'évolution est favorable. Dans le cas contraire, elle se fera vers les complica­tions : tachycardie, ictère, oligurie et signes nerveux tels que la torpeur, le coma qui peut entraîner la mort.
@@ -307,6 +310,7 @@ Bien traités, l'évolution est favorable. Dans le cas contraire, elle se fera v
 ### 4. La rupture utérine (RU)
 
 Toute rupture utérine reconnue doit être opé­rée. Mais le traitement chirurgical est à lui seul insuffisant et doit être complété par le traite­ment du choc hypovolémique et de l'infection. Les ruptures utérines sont opérées par voie abdominale, ce qui permet d'apprécier l'éten­due des lésions et de décider du type d'inter­vention. On pourra réaliser une hystérectomie ou une hystérorraphie. Le traitement préven­tif repose sur le diagnostic et la prise en charge des dystocies.
+
 
 ![](d-s191-2008-gyneco-3.jpg)
 
@@ -321,9 +325,9 @@ Il a pour but immédiat de restaurer les pertes sanguines et d'assurer l'hémost
 
 Le traitement est mis en oeuvre en urgence, en salle de travail.
 
-*   Une voie d'abord veineuse est prise.
-*   Une sonde urinaire est mise en place.
-*   Le bilan sanguin initial comporte un groupa­ge, une détermination de l'hématocrite et un bilan de la crase sanguine.
+*   Une voie d'abord veineuse est prise.  
+*   Une sonde urinaire est mise en place.  
+*   Le bilan sanguin initial comporte un groupa­ge, une détermination de l'hématocrite et un bilan de la crase sanguine.  
 *   La patiente est déchoquée à l'aide de solutés de remplissage : sang frais, concentrés glo­bulaires, plasma frais congelé.
 
 **Traitement obstétrical**
@@ -334,12 +338,13 @@ L'accouchement par voie basse peut être accepté :
 *   Quand le foetus est vivant :
 *   S'il n'y a pas de signe de choc ;
 *   S'il n'y a pas de signe de souffrance foetale ;
-*   Si l'accouchement évolue rapidement après rupture des membranes et perfusion d'ocy­tocine.
+*   Si l'accouchement évolue rapidement après rupture des membranes et perfusion d'ocy­tocine.  
 *   Quand le foetus est mort ou non viable.
 
 #### b) Prévention des récidives
 
 Chez les femmes ayant un antécédent d'héma­tome rétroplacentaire ou de complication grave responsable d'une HTA gravidique, prévoir un traitement par acide acétylsalicylique entre la 14ème et la 35ème semaines d'aménorrhée.
+
 
 ![](d-s191-2008-gyneco-4.jpg)
 
@@ -348,7 +353,9 @@ Chez les femmes ayant un antécédent d'héma­tome rétroplacentaire ou de comp
 
 Comme pour tout syndrome hémorragique, on met en place une réanimation. La conduite à tenir est indiquée sur les figures 5 et 6.
 
+
 ![](d-s191-2008-gyneco-5.jpg)
+
 
 
 ![](d-s191-2008-gyneco-6.jpg)
@@ -357,6 +364,7 @@ Comme pour tout syndrome hémorragique, on met en place une réanimation. La con
 ### 7. Hémorragies du post-partum
 
 La prise en charge dépend de l'étiologie et se fera selon la figure ci-dessous. La prévention repose sur l'utilisation du partogramme afin de dépister le travail prolongé, et sur la prescription adaptée des ocytocines.
+
 
 ![](d-s191-2008-gyneco-7.jpg)
 
@@ -367,15 +375,15 @@ La prise en charge dépend de l'étiologie et se fera selon la figure ci-dessous
 
 **Prévention**
 
-*   Lutter contre la constipation.
-*   Faire correctement la toilette vulvaire.
-*   Boire beaucoup d'eau : 1,5 litre d'eau/j.
+*   Lutter contre la constipation.  
+*   Faire correctement la toilette vulvaire.  
+*   Boire beaucoup d'eau : 1,5 litre d'eau/j.  
 *   Vider la vessie après les rapports sexuels.
 
 **Traitement**
 
 *   La bactériurie asymptomatique  
-    Il faut instituer une antibiothérapie par voie orale pendant 10 jours et prescrire des mesures hygiéno-diététiques, contrôler l'ECBU 48 h après l'arrêt du traitement puis tous les mois jusqu'à l'accouchement.
+    Il faut instituer une antibiothérapie par voie orale pendant 10 jours et prescrire des mesures hygiéno-diététiques, contrôler l'ECBU 48 h après l'arrêt du traitement puis tous les mois jusqu'à l'accouchement.  
 *   La pyélonéphrite aiguë :  
     Hospitalisation : repos, pose d'une voie veineuse, apport hydrique abondant (≥ 21/j) et traitement antipyrétique.  
     ECBU et hémoculture.  
@@ -395,26 +403,27 @@ Au cours des deux premiers trimestres, on peut associer un antipyrétique, un an
 
 **Traitement préventif**
 
-*   Protection contre les piqûres de moustiques par moustiquaires imprégnées.
+*   Protection contre les piqûres de moustiques par moustiquaires imprégnées.  
 *   Traitement intermittent avec SP deux fois au cours de la grossesse.
 
 ### 9. Hypertension artérielle sévère
 
 Le traitement médical actuel de la toxémie gravidique repose sur :
 
-*   La mise au repos.
-*   L'administration de sulfate de magnésie, qui agit sur la fonction neuromusculaire, s'oppo­se à l'oedème cérébral et améliore le flux utéro-placentaire.
-*   Les médicaments anti-hypertenseurs par voie parentérale.
+*   La mise au repos.  
+*   L'administration de sulfate de magnésie, qui agit sur la fonction neuromusculaire, s'oppo­se à l'oedème cérébral et améliore le flux utéro-placentaire.  
+*   Les médicaments anti-hypertenseurs par voie parentérale.  
 *   L'hospitalisation en cas de complication ou d'hypertension artérielle sévère.
 
 Le traitement de l'**éclampsie** comporte  :
 
-*   Traitement médical pour la mère.
-*   Arrêt des convulsions par le sulfate de magnésium.
-*   Réduction de l'hypertension artérielle et de l'oedème cérébral par le sulfate de magnésie et la dihydralazine (ou la clonidine).
+*   Traitement médical pour la mère.  
+*   Arrêt des convulsions par le sulfate de magnésium.  
+*   Réduction de l'hypertension artérielle et de l'oedème cérébral par le sulfate de magnésie et la dihydralazine (ou la clonidine).  
 *   Traitement obstétrical : évacuation utérine rapide du foetus et du placenta, générale­ ment par césarienne.
 
 Cependant, un tiers des éclampsies survien­nent dans les suites de couches et près de la moitié des crises se répètent après l'extraction du foetus et du placenta.
+
 
 ![](d-s191-2008-gyneco-9.jpg)
 

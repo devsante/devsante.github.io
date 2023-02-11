@@ -89,6 +89,7 @@ Chez le malade atteint d'un empyème chronique, les symptômes énumérés ci-de
 
 *   gants stériles, 2 paires
 
+
 ![](i603-1.jpg)
 
 

@@ -16,8 +16,8 @@ Il faut donc prescrire avec prudence et être sûr que tous les médicaments pre
 
 Indépendamment du mécanisme ou de la cause, on définit trois types d’interactions entre deux ou plusieurs substances administrées simultanément :
 
-*   Synergie (ou additivité) : les effets des substances s’additionnent. Il peut s'agir des effets thérapeutiques mais aussi des effets indésirables.
-*   Antagonisme : une substance réduit (ou annule) les effets de l’autre.
+*   Synergie (ou additivité) : les effets des substances s’additionnent. Il peut s'agir des effets thérapeutiques mais aussi des effets indésirables.  
+*   Antagonisme : une substance réduit (ou annule) les effets de l’autre.  
 *   Potentialisation : une substance augmente les effets d’une autre.
 
 ### **2. Les mécanismes des interactions**
@@ -32,9 +32,9 @@ Liées aux mécanismes d’action des médicaments, elles sont observées lorsqu
 
 Elles peuvent intervenir aux différentes étapes de la vie du médicament dans l’organisme :
 
-*   **Absorption** depuis le lieu d’administration : un médicament peut modifier la vitesse d’absorption ou la quantité absorbée d’un autre (on dit que la biodisponibilité du médicament est modifiée).
-*   **Diffusion** dans l’organisme : le médicament circule généralement dans le sang en partie sous forme liée aux protéines plasmatiques, en partie sous forme libre (non liée aux protéines). Seule cette dernière est active. Si un médicament A déplace un médicament B de sa liaison aux protéines plasmatiques, la forme libre (active) de B augmente, son activité est donc accrue, ce qui entraîne un risque de surdosage.
-*   Métabolisme : un médicament peut modifier l’activité d’un autre en stimulant ou en inhibant les enzymes qui le métabolisent (donc le dégradent).En effet, la plupart des médicaments sont hydrophobes et ne peuvent donc être éliminés (par voie urinaire ou biliaire) qu'après transformation en métabolites plus hydrosolubles. Ce métabolisme a lieu surtout dans le foie (mais aussi au niveau de l'intestin).
+*   **Absorption** depuis le lieu d’administration : un médicament peut modifier la vitesse d’absorption ou la quantité absorbée d’un autre (on dit que la biodisponibilité du médicament est modifiée).  
+*   **Diffusion** dans l’organisme : le médicament circule généralement dans le sang en partie sous forme liée aux protéines plasmatiques, en partie sous forme libre (non liée aux protéines). Seule cette dernière est active. Si un médicament A déplace un médicament B de sa liaison aux protéines plasmatiques, la forme libre (active) de B augmente, son activité est donc accrue, ce qui entraîne un risque de surdosage.  
+*   Métabolisme : un médicament peut modifier l’activité d’un autre en stimulant ou en inhibant les enzymes qui le métabolisent (donc le dégradent).En effet, la plupart des médicaments sont hydrophobes et ne peuvent donc être éliminés (par voie urinaire ou biliaire) qu'après transformation en métabolites plus hydrosolubles. Ce métabolisme a lieu surtout dans le foie (mais aussi au niveau de l'intestin).  
 *   Elimination : des interactions peuvent intervenir lors des deux étapes de l'élimination rénale : la filtration glomérulaire, et l'excrétion tubulaire active ou en cas de modification du pH urinaire.
 
 Il convient de préciser que le risque d’interaction est augmenté en cas de pathologies associées (insuffisance rénale, hépatique…), notamment chez le sujet âgé, et lorsque plusieurs autres traitements sont associés (parfois indispensables…). 
@@ -53,7 +53,7 @@ C’est le cas le plus général. L’association est possible en respectant les
 
 ### Recommandations en cas d’interaction médicamenteuse :
 
-*   Remplacement du médicament associé à l’anticoagulant par une substance ayant un effet thérapeutique comparable et n’interagissant pas avec l’anticoagulant.
+*   Remplacement du médicament associé à l’anticoagulant par une substance ayant un effet thérapeutique comparable et n’interagissant pas avec l’anticoagulant.  
 *   Si l’association est inévitable, il faut :
     *   informer  le patient,
     *   et mettre en place une surveillance renforcée clinique, voire biologique.
@@ -64,8 +64,8 @@ Pour la surveillance biologique : l’effet anticoagulant des antivitamine K es
 
 Les interactions médicamenteuses avec les anticoagulants essentiels seront évoquées :
 
-*   Anticoagulants oraux : antivitamine K (acénocoumarol, warfarine, fluindione).
-*   Anticoagulants injectables = héparine (héparine sodique).
+*   Anticoagulants oraux : antivitamine K (acénocoumarol, warfarine, fluindione).  
+*   Anticoagulants injectables = héparine (héparine sodique).  
 *   Médicaments administrés par voie orale comme antiagrégants plaquettaires = acide acétylsalicylique, clopidogrel, ticlopidine.
 
 ### 1. Interactions avec les antivitamine K

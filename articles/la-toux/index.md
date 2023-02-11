@@ -129,7 +129,9 @@ C'est seulement lorsque les autres étiologies ont pu être éliminées que l'on
 
 Devant une toux chronique (plus de 15 jours), avec ou sans expectorations, toujours **penser à la tuberculose**.
 
+
 ![](i866-1.jpg)
+
 
 
 ![](i866-2.jpg)

@@ -12,9 +12,9 @@ Les pleurésies purulentes compliquent l'évolution d'environ 10 % des pneumonie
 
 L'évolution spontanée d'une pleurésie bactérienne se fait typiquement en quatre stades. L'aspect clinique et radiologique, de même que la thérapeutique, vont dépendre du stade au moment du diagnostic.
 
-*   **Stade initial de diffusion :** la plèvre est encore souple et fine, le liquide peu abondant. La guérison avec un traitement simple sans évacuation est possible.
-*   **Stade de collection :** l'épaississement pleural débute et le liquide purulent et épais diffuse dans les culs-de-sac postérieurs et dans les scissures.
-*   **Stade d'enkystement :** il est la conséquence de l'organisation fibreuse. La plèvre épaissie se transforme en une coque rigide incarcérant plus ou moins le poumon.
+*   **Stade initial de diffusion :** la plèvre est encore souple et fine, le liquide peu abondant. La guérison avec un traitement simple sans évacuation est possible.  
+*   **Stade de collection :** l'épaississement pleural débute et le liquide purulent et épais diffuse dans les culs-de-sac postérieurs et dans les scissures.  
+*   **Stade d'enkystement :** il est la conséquence de l'organisation fibreuse. La plèvre épaissie se transforme en une coque rigide incarcérant plus ou moins le poumon.  
 *   **Stade de fistulisation :** ouverture de la poche pleurale purulente à la peau ou plus fréquemment dans une bronche.
 
 Seul un traitement précoce et bien conduit avec une évacuation parfaite du liquide pleural permet d'éviter les séquelles fonctionnelles. L'antibiothérapie seule ne suffit pas en général.
@@ -85,6 +85,7 @@ Les signes cliniques d'épanchement liquidien de la plèvre sont :
 
 Elle montre classiquement une opacité homogène déclive comblant le cul de sac pleural qui apparaît grisâtre au stade de diffusion (_voir_ _figure ci-après)._ Avec l'évolution vers l'enkystement vont apparaître des opacités périphériques plus denses, le plus souvent fusiformes ou ovoïdes avec raccordement obtus correspondant à des poches de pus cloisonnées. Les radiographies en décubitus latéral permettent de mettre en évidence des épanchements sous-pulmonaires où l'immobilité des opacités pleurales confirme ainsi le cloisonnement. Une clarté est possible au sein de ces opacités. Elle est due, soit à une fistulisation, soit à la présence de germes anaérobies.
 
+
 ![](i954-1.jpg)
 
 
@@ -117,7 +118,7 @@ Le plus souvent on utilise :
 
 *   soit l'association amoxycilline + acide clavulanique,
 *   soit une céphalosporine de 2<sup>e</sup> ou de 3 <sup>e</sup> génération, type cefotaxime, ceftriaxone, cefuroxime associée au metronidazole,
-*   soit la clindamycine qui a une bonne activité sur les germes liés à une pneumopathie de déglutition.
+*   soit la clindamycine qui a une bonne activité sur les germes liés à une pneumopathie de déglutition.  
 *   soit le chloramphénicol qui associe une bonne diffusion et une activité sur les, germes le plus souvent rencontrés. Seule sa toxicité en fait un antibiotique de 2 <sup>e</sup> choix.
 
 Les fluoroquinolones manquent d'efficacité sur les streptocoques, notamment le pneumocoque, et sur les germes anaérobies. Elles ne sont donc pas indiquées. De même, la pénicilline G injectable en monothérapie est insuffisante pour traiter la majorité des germes rencontrés.

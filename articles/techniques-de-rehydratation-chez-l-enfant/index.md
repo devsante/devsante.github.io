@@ -29,6 +29,7 @@ En revanche, si l'enfant prend du poids et si son état s'améliore, la RVO peut
 
 **Modalités pratiques:** préconisée chez les enfants qui vomissent constamment ou qui refusent de boire; un système de tubulure à perfusion peut être fixé à la sonde et relié à la solution de réhydratation, évitant les injections à la seringue souvent trop rapides. On administre 100 ml/kg pendant les six premières heures fractionnés en douze gavages continus d'une demi-heure chacun. **Mêmes contre-indications que la RVO.**
 
+
 ![](i151-1.jpg)
 
 
@@ -57,6 +58,7 @@ Il est à usage unique et de deux types:
 ### **2. Fixation**
 
 Il est important de ne pas laisser le matériel mis en place coulisser à travers l'orifice cutané: les germes de surface pénètrent alors directement dans la circulation, source d'infection ; la fixation est effectuée à l'aide de deux sparadraps _(schéma n° 3)_ qui ne doivent pas cacher le trajet.
+
 
 ![](i151-2.jpg)
 
@@ -115,10 +117,12 @@ Quelle que soit la méthode utilisée, la technique doit être aseptique: lavage
 
 *   **Le cathéter à aiguille-guide interne** (_schéma 4_): il écarte toute possibilité du cathéter de se sectionner sur l'aiguille et donc évite le risque grave d'embolies.
 
+
 ![](i151-3.jpg)
 
 
 *   **Le cathéter à aiguille-guide externe** _(schéma 5):_ il coulisse à l'intérieur d'une aiguille-trocart métallique; une fois le reflux obtenu lors de la ponction, le cathéter est alors poussé à travers l'aiguille.
+
 
 ![](i151-4.jpg)
 

@@ -30,7 +30,7 @@ Les ARV peuvent bloquer la réplication virale dans tous (ou presque) les lympho
 ### 1. Les inhibiteurs de la RT
 
 *   Inhibiteurs nucléosidiques : un acide aminé (= nucléoside) de l'ARN viral est remplacé (comme pour les anticancéreux) par un autre apporté par le médicament => INRT
-*   Inhibiteurs nucléotidiques : un nucléoside phosphate est remplacé.
+*   Inhibiteurs nucléotidiques : un nucléoside phosphate est remplacé.  
 *   Inhibiteurs non nucléosidiques : la RT est bloquée par un autre mécanisme => INNRT
 
 ### 2. Les autres médicaments
@@ -40,7 +40,9 @@ Les ARV peuvent bloquer la réplication virale dans tous (ou presque) les lympho
 
 **ACTUELLEMENT, TRAITEMENT A VIE**
 
+
 ![](i843-1.jpg)
+
 ![](i843-2.jpg)
 
 
@@ -74,15 +76,17 @@ Le suivi de la réplication virale se fait par l'évaluation du nombre de virus 
 
 Le suivi du traitement comporte aussi la surveillance de la tolérance médicamenteuse aux plans hématologique, hépatique, pancréatique et rénal.
 
+
 ![](i843-3.jpg)
 
 
 ## V. Effets secondaires
 
-*   Tous les ARV provoquent de nombreux effets secondaires ; ils sont souvent pénibles à supporter, mais rarement graves.
-*   Un seul ARV peut avoir un effet secondaire grave (vital), c'est **l'abacavir,** avec le risque de réaction cutanée pouvant être mortelle.
-*   Les effets secondaires sont fréquents le premier mois, mais la plupart s'estompent dès la troisième semaine de traitement, un suivi doit se faire tous les 15 jours au début du traitement.
+*   Tous les ARV provoquent de nombreux effets secondaires ; ils sont souvent pénibles à supporter, mais rarement graves.  
+*   Un seul ARV peut avoir un effet secondaire grave (vital), c'est **l'abacavir,** avec le risque de réaction cutanée pouvant être mortelle.  
+*   Les effets secondaires sont fréquents le premier mois, mais la plupart s'estompent dès la troisième semaine de traitement, un suivi doit se faire tous les 15 jours au début du traitement.  
 *   Pour éviter les conséquences de ces effets, il faut adapter soigneusement les horaires de prise, en fonction des habitudes de vie du patient. Par exemple, **l'efavirenz** qui provoque des vertiges et des étourdissements, doit être pris au moment de se coucher. Si le malade travaille la nuit, il prend son **efavirenz** à 6 heures du matin avant d'aller au lit. Cela nécessite un dialogue sincère et empathique entre soignant et malade.
+
 
 ![](i843-4.jpg)
 
@@ -104,6 +108,7 @@ Trois types d'associations sont possibles avec une efficacité similaire, sachan
 Ces trois associations possibles correspondent à la première ligne, c'est-à-dire le traitement initial d'un patient jamais traité auparavant. Le choix entre les trois associations se fait en fonction de leur disponibilité, de leur coût et de leurs inconvénients éventuels (horaires, conservation, effets secondaires).
 
 Des études récentes réalisées dans des conditions idéales de suivi ont montré que l'association C était un peu moins efficace, mais compte tenu de sa facilité d'emploi, elle reste globalement efficace.
+
 
 ![](i843-5.jpg)
 
@@ -132,10 +137,12 @@ B. Si intolérance.
 
 #### Comment ?
 
+
 ![](i843-6.jpg)
 
 
 Dans les deux cas précités, comme lors de rupture de médicaments ou de mauvaise observance, la décision doit être prise par le service proscripteur.
+
 
 ![](i843-7.jpg)
 

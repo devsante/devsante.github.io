@@ -6,6 +6,7 @@ date: "1996-08-02"
 
 Les conséquences de la carence en iode sur l'organisme sont connus depuis longtemps : goitre endémique, retard intellectuel chez l'enfant, crétinisme (_photo n° 1)._
 
+
 ![](i696-1.jpg)
 
 
@@ -69,6 +70,7 @@ Thyroïde volumineuse, nettement visible à plus de cinq mètres.
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -101,10 +103,12 @@ L'idée forte en est que l'apport d'iode se fera au mieux grâce à l'eau.
 
 C'est un vecteur universel qui concerne des collectivités et non pas des individus. Ce vecteur, indispensable à la vie, permet de traiter la cause (la carence d'apport) et non les conséquences. Il entre dans la chaîne alimentaire. Le problème pour les chimistes et les industriels fut de concevoir un système permettant de fournir des doses physiologiques et régulières d'iode, pour subvenir à des besoins constants, sans engendrer de surcharge iodée. Il a donc été mis au point un système dit " matriciel silicone-iodure de sodium,, (Rhodifuse Iode®) _(photo n° 2_) permettant une libération prolongée, constante et régulière d'iode.
 
+
 ![](i696-2.jpg)
 
 
 Ce système a été expérimenté dans trois villages du Mali, pays enclavé, dont le nombre de carencés en iode a été estimé à deux millions d'habitants. Les résultats ont été concluants. Au bout d'un an, les taux d'iode urinaires sont élevés dans les échantillons de populations bénéficiant de l'iodation par l'eau. Dans les villages témoins non iodés, ce ne fut pas le cas. Sur 2 645 personnes, le taux de goitres est passé de 60,9 à 44,4 %, soit près d'un quart de diminution de prévalence. Ces résultats se maintiennent au bout de cinq ans. Les meilleurs taux concernent les formes peu ou moyennement évoluées (forme Gla, Glb, GII) (_schémas n° 1 et 2)._
+
 
 ![](i696-3.jpg)
 

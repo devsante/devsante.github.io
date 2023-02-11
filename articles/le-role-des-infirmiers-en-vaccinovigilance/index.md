@@ -77,6 +77,7 @@ Description des signes cliniques avec dates de début et de fin, en séparant le
 La vaccinovigilance est nécessaire pour fournir des indications sur le profil de tolérance des vaccins dans chaque population.  
 Les infirmiers ont un rôle important à jouer en rapportant les événements indésirables dont ils ont connaissance aux structures mises en place dans chaque pays.
 
+
 ![](12188-1.jpg)
 
 

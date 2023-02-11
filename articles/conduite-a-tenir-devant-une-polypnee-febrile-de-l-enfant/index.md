@@ -284,7 +284,9 @@ Il faut **rechercher des signes associés** qui peuvent être absents mais qui, 
 
 Nous tenons à souligner que cet arbre diagnostique n'est pas exhaustif et que nous avons mis en évidence les schémas les plus courants à côté desquels il ne faut absolument pas passer, ce d’autant qu’une fois le diagnostic établi, le traitement curatif est le plus souvent connu et facile à mettre en place, même sans hospitaliser l’enfant.
 
+
 ![](polypnee-febrile-nourrisson.jpg)
+
 
 
 ![](polypnee-febrile-enfant-apres-1-an.jpg)

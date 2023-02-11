@@ -10,15 +10,16 @@ teaser: "Tout épanchement dans la cavité pleurale doit être ponctionné :
 
 ## I. Matériel
 
-*   Alcool iodé.
-*   Compresses stériles.
-*   Aiguille munie d'un mandrin (type aiguille à ponction lombaire).
-*   Seringue de 20 cm<sup>3</sup>.
-*   Tubulure stérile.
-*   Bocal.
-*   Tubes stériles pour prélèvements.
-*   Xylocaïne à 1 %.
+*   Alcool iodé.  
+*   Compresses stériles.  
+*   Aiguille munie d'un mandrin (type aiguille à ponction lombaire).  
+*   Seringue de 20 cm<sup>3</sup>.  
+*   Tubulure stérile.  
+*   Bocal.  
+*   Tubes stériles pour prélèvements.  
+*   Xylocaïne à 1 %.  
 *   Seringue de 10 cm<sup>3</sup> et aiguille fine pour anesthésie locale.
+
 
 ![](image002-19.jpg)
 
@@ -77,6 +78,7 @@ De nombreux modèles existent :
 *   cathéter monté sur mandrin métallique,
 *   drain semi-rigide avec mandrin.
 
+
 ![](image004-14.jpg)
 
 
@@ -91,9 +93,9 @@ Prémédication : elle est souhaitable.
 
 **Drainage** _(type drain avec mandrin)_ :
 
-*   La peau est rigoureusement désinfectée.
-*   Anesthésie locale à la Xylocaïne à 1 % (10 à 20 cc).
-*   Le drain monté sur le trocart est alors enfon­cé perpendiculairement à la peau.
+*   La peau est rigoureusement désinfectée.  
+*   Anesthésie locale à la Xylocaïne à 1 % (10 à 20 cc).  
+*   Le drain monté sur le trocart est alors enfon­cé perpendiculairement à la peau.  
 *   L'irruption dans la plèvre se traduit par un ressaut. Le mandrin est alors retiré de 2 à 3 cm et le drain enfoncé de 2 à 3 cm.
 
 La répétition de cette opération permet de mettre en place le drain sans risquer de léser le poumon avec le mandrin. Lorsque le drain est en bonne position, il est clampé **pour éviter l'entrée d'air dans la plèvre**.

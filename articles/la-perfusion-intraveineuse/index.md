@@ -28,15 +28,18 @@ date: "2003-06-02"
 *   *   isotoniques (de " concentration équivalente " au sang)
     *   chlorure de sodium à 9 %o
     *   sérum glucosé à 5 %
-    *   Ringer®, Lactate®, etc.
-*   De grosses molécules : Rhéomacrodex®, Dextran®, Plasmagel®.
-*   Du sang ou du plasma avec des précautions particulières.
+    *   Ringer®, Lactate®, etc.  
+*   De grosses molécules : Rhéomacrodex®, Dextran®, Plasmagel®.  
+*   Du sang ou du plasma avec des précautions particulières.  
 *   D'autres produits, plus rarement (hypertoniques contenant des acides aminés, des lipides, etc.).
 
 ## **II. Les sites _(Figures 1, 2, 3, 4)_**
 
+
 ![](i835-1.jpg)
+
 ![](i835-2.jpg)
+
 ![](i835-3.jpg)
 
 
@@ -55,6 +58,7 @@ Jugulaires internes, sous-clavières, fémorales, basiliques, sinus longitudinal
 Les abords veineux profonds sont réalisés par des médecins expérimentés. Un cathéter placé dans la veine cave permet la surveillance de la pression veineuse centrale. Les veines fines n'assurent pas un débit important. Il vaut mieux éviter de poser un abord veineux à proximité d'une articulation. Le choix d'un tel site expose au risque de transpercer la veine, de perfusion extravasculaire et d'irrégularité de débit lors de flexion du bras, l'immobilisation du membre perfusé est alors nécessaire. Le respect du capital veineux impose de commencer les ponctions par les veines les plus distales.
 
 ## **III. Matériel _(figure_ 5)**
+
 
 ![](i835-4.jpg)
 
@@ -84,12 +88,14 @@ En matière plastique, stérile, elle comprend :
 *   un régulateur ou une pince pour régler le débit,
 *   un dispositif permettant les injections intraveineuses directes au cours de la perfusion.
 
+
 ![](i835-5.jpg)
 
 
 ## **III. Technique**
 
 La voie percutanée est la plus courante. Dans certains cas, on peut avoir recours à une dénudation : il s'agit alors d'un acte chirurgical à ne faire qu'exceptionnellement (échec de la voie percutanée) car, respectant moins le capital veineux.
+
 
 ![](i835-6.jpg)
 
@@ -108,24 +114,24 @@ Le geste doit être effectué avec une **asepsie** **rigoureuse.**
 
 *   Vérifier le flacon ou la poche : date de péremption, intégrité (s'assurer qu'il n'a pas été ouvert), correspondance avec le malade.
 
-*   Vérifier la prescription.
-*   Après désinfection du bouchon, enfoncer la prise d'air, enfoncer la tubulure. Si des solutés sont à rajouter au flacon de perfusion, éviter les effractions multiples du bouchon.
-*   Fermer le régulateur de débit, placer le flacon sur le pied à sérum, remplir la chambre du styligoutte en la comprimant légèrement, sans la noyer, ce qui empêcherait de pouvoir compter les gouttes.
+*   Vérifier la prescription.  
+*   Après désinfection du bouchon, enfoncer la prise d'air, enfoncer la tubulure. Si des solutés sont à rajouter au flacon de perfusion, éviter les effractions multiples du bouchon.  
+*   Fermer le régulateur de débit, placer le flacon sur le pied à sérum, remplir la chambre du styligoutte en la comprimant légèrement, sans la noyer, ce qui empêcherait de pouvoir compter les gouttes.  
 *   Oter le capuchon protégeant l'embout terminal, ne pas toucher cet embout, purger la tubulure et remettre le capuchon.
 
 La perfusion doit être mise en place rapidement.
 
 ### **3. Pose de la perfusion au lit du malade**
 
-*   Noter le pouls et la tension.
-*   vérifier si le soluté préparé correspond bien au malade.
-*   Se laver les mains.
-*   Repérer soigneusement au toucher l'endroit où l'on va piquer.
-*   Mettre en place le garrot.
-*   Désinfecter largement la zone de ponction et ne plus y toucher.
-*   Se désinfecter les doigts.
-*   Tendre la peau et immobiliser la veine ; tenir l'aiguille entre le pouce et l'index (ailettes repliées, si matériel avec ailettes), pénétrer le plan cutané, enfoncer l'aiguille dans la veine : on sent une résistance vaincue et du sang reflue dans la chambre de visualisation.
-*   Desserrer le garrot.
+*   Noter le pouls et la tension.  
+*   vérifier si le soluté préparé correspond bien au malade.  
+*   Se laver les mains.  
+*   Repérer soigneusement au toucher l'endroit où l'on va piquer.  
+*   Mettre en place le garrot.  
+*   Désinfecter largement la zone de ponction et ne plus y toucher.  
+*   Se désinfecter les doigts.  
+*   Tendre la peau et immobiliser la veine ; tenir l'aiguille entre le pouce et l'index (ailettes repliées, si matériel avec ailettes), pénétrer le plan cutané, enfoncer l'aiguille dans la veine : on sent une résistance vaincue et du sang reflue dans la chambre de visualisation.  
+*   Desserrer le garrot.  
 *   Brancher la tubulure, fixer soigneusement le cathéter, la tubulure.
 
 ### **4. Vérifier la bonne situation du cathéter ou bien de l'aiguille**
@@ -137,8 +143,11 @@ La perfusion doit être mise en place rapidement.
 
 ### **6. Jeter le matériel souillé**
 
+
 ![](i835-7.jpg)
+
 ![](i835-8.jpg)
+
 ![](i835-9.jpg)
 
 

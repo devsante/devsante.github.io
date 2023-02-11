@@ -8,15 +8,15 @@ Tout retard dans leur prise en charge peut être dramatique, le premier risque �
 
 ## I. Traitement préventif
 
-*   Perfusion systématique des patientes à partir de 5 cm de dilatation.
-*   Mise en place d'un système fiable de recueil des pertes sanguines (aspiration pour les césariennes, champ triangulaire sous fessier pour la voie basse).
+*   Perfusion systématique des patientes à partir de 5 cm de dilatation.  
+*   Mise en place d'un système fiable de recueil des pertes sanguines (aspiration pour les césariennes, champ triangulaire sous fessier pour la voie basse).  
 *   Vérification à l’entrée en salle de travail de la disponibilité du groupe sanguin
 
 ### Prise en charge active de la délivrance 
 
-*   Délivrance dirigée (injection de 5 UI d’oxytocine) au dégagement de l’épaule antérieure dans les tous les cas.
-*   Délivrance artificielle : si non décollement après 30 minutes.
-*   Révision utérine : si placenta incomplet.
+*   Délivrance dirigée (injection de 5 UI d’oxytocine) au dégagement de l’épaule antérieure dans les tous les cas.  
+*   Délivrance artificielle : si non décollement après 30 minutes.  
+*   Révision utérine : si placenta incomplet.  
 *   Surveillance stricte des signes vitaux (pouls, tension, coloration) et des saignements durant au moins deux heures après la délivrance. 
 *   Surveillance des pertes sanguines par poche de recueil graduée
 
@@ -37,10 +37,10 @@ Tout retard dans leur prise en charge peut être dramatique, le premier risque �
 **Si placenta complet et impression de simple atonie utérine :**
 
 *   Faire 10 UI d’oxytocine IVD  
-    Attention : vasodilatation, donc hypotension et tachycardie.
-*   Mettre en place ou accélérer la perfusion d’oxytocine 10 à 20 UI dans 500 ml de Ringer- Lactate.
-*   Masser l’utérus.
-*   Préparer le matériel pour délivrance ou révision et examen sous valve et des comprimés de misoprostol.
+    Attention : vasodilatation, donc hypotension et tachycardie.  
+*   Mettre en place ou accélérer la perfusion d’oxytocine 10 à 20 UI dans 500 ml de Ringer- Lactate.  
+*   Masser l’utérus.  
+*   Préparer le matériel pour délivrance ou révision et examen sous valve et des comprimés de misoprostol.  
 *   Sinon : délivrance artificielle par le médecin (ou la sage-femme en cas d'extrême urgence)
 
 ### 2. Gynécologue
@@ -68,7 +68,7 @@ Tout retard dans leur prise en charge peut être dramatique, le premier risque �
 
 *   Clinique : pouls, TA, saturation, diurèse
 *   Biologique
-    *   Groupe, RAI : si non réalisés avant le travail….
+    *   Groupe, RAI : si non réalisés avant le travail….  
     *   NFS, TP, PCA, Fibrinogène, D-dimères
     *   Demander Antithrombine III, si possibilité d’un dosage en urgence
     *   Protidémie, calcémie, ionogramme et créatinine
@@ -78,7 +78,7 @@ Tout retard dans leur prise en charge peut être dramatique, le premier risque �
 *   Ringer- Lactate puis macromolécules
 *   Culots globulaires : si Hb < 7 g / 100 ml  
     NB : Une anémie de cette importance entraîne en elle-même des troubles de la coagulation.  
-    Attention à l’hypocalcémie, en cas de transfusion et/ou de dilution importantes qui diminuent la contraction utérine et l’efficacité de l’ocytocine.
+    Attention à l’hypocalcémie, en cas de transfusion et/ou de dilution importantes qui diminuent la contraction utérine et l’efficacité de l’ocytocine.  
 *   Fibrinogène (clottagène) si < 1 g / l
 *   PFC si TP < 60 % et retentissement clinique
 *   Plaquettes si < 50 000 / mm<sup>3</sup> et retentissement clinique
@@ -103,7 +103,7 @@ Néanmoins, en cas d’hémorragie massive en présence d’une de ces contre-in
 
 *   Une ampoule (500 mg à diluer dans 50 ml de SSI)
 *   Débuter à 10 ml/h et augmenter rapidement par paliers de 10 ml / h sans dépasser 50 ml/h
-*   Redescendre à 10 ml/h une fois l’hémorragie jugulée.
+*   Redescendre à 10 ml/h une fois l’hémorragie jugulée.  
 *   Si nécessaire, possibilité d’utiliser une deuxième ampoule.
 
 **Il est donc nécessaire :**

@@ -36,7 +36,7 @@ Le diagnostic repose sur l’examen de selles mettant les œufs caractéristique
 
 Il repose sur :
 
-*   le pamoate de pyrantel : 6 comprimés par jour (3 le matin, 3 le soir) pendant 3 jours.
+*   le pamoate de pyrantel : 6 comprimés par jour (3 le matin, 3 le soir) pendant 3 jours.  
 *   ou le flubendazole : 2 comprimés par jour (1 matin et soir) pendant 3 jours.
 
 Si l’anémie est modérée, le traitement antihelminthique suffit, l’hémoglobine se normalisant rapidement dès la disparition des parasites. Mais en cas d’anémie importante, grevant le pronostic vital de la mère ou de l’enfant, outre l’antihelminthique, une transfusion est indiquée, suivie d’un traitement de quelques semaines par de l’acide folique et du fer (Ferograd® 1 cp/j).
@@ -312,6 +312,7 @@ Ainsi, de nombreux parasites peuvent être constatés chez une femme enceinte, a
 </tbody>
 
 </table>
+
 <table>
 <caption>Risques des principales affections tropicales transmissibles au fœtus</caption>
 
@@ -419,6 +420,7 @@ les punaises</td>
 </tbody>
 
 </table>
+
 <table>
 <caption>Caractéristiques des nématodoses intestinales</caption>
 

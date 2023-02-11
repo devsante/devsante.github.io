@@ -85,13 +85,13 @@ Le syndrome infectieux se caractérise par :
 
 Réalisables dans le cadre d'une mise en observation de 24 heures au dispensaire ou de soins à domicile :
 
-*   faire préciser au patient depuis combien de temps il a de la fièvre.
-*   prendre les constantes vitales (pouls, tension, température).
+*   faire préciser au patient depuis combien de temps il a de la fièvre.  
+*   prendre les constantes vitales (pouls, tension, température).  
 *   dévêtir au maximum le patient tout en respectant sa pudeur (le couvrir d'un simple drap)
-*   veiller à la bonne ventilation des locaux.
-*   réhydrater si nécessaire.
-*   rafraîchir la peau (exemple : enveloppement dans un linge humide, vessie de glace...), si possible faire prendre un bain (température de l'eau de 2°C plus basse que la température du patient).
-*   si l'état de conscience le permet, faire boire le patient +++.
+*   veiller à la bonne ventilation des locaux.  
+*   réhydrater si nécessaire.  
+*   rafraîchir la peau (exemple : enveloppement dans un linge humide, vessie de glace...), si possible faire prendre un bain (température de l'eau de 2°C plus basse que la température du patient).  
+*   si l'état de conscience le permet, faire boire le patient +++.  
 *   chez les patients couchés surveiller l'état de la peau et mettre en oeuvre les actions préventives de l'apparition d'escarres (changements de position, frictions, hygiène de la peau).
 
 ### 1. Traitement
@@ -102,8 +102,8 @@ Réalisables dans le cadre d'une mise en observation de 24 heures au dispensaire
 
 Par voie :
 
-*   rectale (thermomètre dans l'anus), mesure très fiable mais à éviter car risque de lésion anale.
-*   cutanée (thermomètre sous le bras, dans le creux axillaire), le patient doit garder le bras le long du corps. Le thermomètre reste en place 10 mn et il faut ajouter 0.5°C au résultat trouvé.
+*   rectale (thermomètre dans l'anus), mesure très fiable mais à éviter car risque de lésion anale.  
+*   cutanée (thermomètre sous le bras, dans le creux axillaire), le patient doit garder le bras le long du corps. Le thermomètre reste en place 10 mn et il faut ajouter 0.5°C au résultat trouvé.  
 *   orale si le patient est conscient (thermomètre sous la langue, bouche fermée).
 
 Les thermomètres doivent être utilisés pour un seul patient ou être nettoyés de manière rigoureuse.
@@ -130,8 +130,11 @@ Les signes cliniques sont :
 
 **En présence de ces signes cliniques l'infirmier doit prévenir un médecin ou organiser le transfert du malade vers un centre de traitement adapté.**
 
+
 ![](i993-1.jpg)
+
 ![](i993-2.jpg)
+
 ![](i993-3.jpg)
 
 

@@ -21,6 +21,7 @@ C'est la raison pour laquelle ce vaccin est entré dans le calendrier vaccinal d
 
 **Qu'en est-il _d'Haemophilus_ b dans le** **reste du monde ? _(figure 1)_**
 
+
 ![](i727-1.jpg)
 
 
@@ -39,10 +40,12 @@ En pratique, il est donc évident que les jeunes enfants de toute la planète do
 
 On oppose les souches entourées d'une capsule polyosidique, dont la plupart, pathogènes, sont de type b responsables d'infections graves avant cinq ans, à la souche non capsulée, hôte de la sphère ORL à tous les âges de la vie : bien que peu pathogène, elle est responsable de 90% des otites à _Haemophilus_, de sinusites, de bronchites. C'est elle également qui provoque certaines surinfections bronchiques dans la mucoviscidose (_tableau_ _1)._
 
+
 ![](i727-2.jpg)
 
 
 L'incidence des infections graves à Hib est, pour une raison inconnue, très variable d'un pays à l'autre : ainsi aux Etats-Unis, elle se situe entre 19/100 000/an entre zéro et quatre ans ; elle atteint 400/100 000 en Alaska ; en France, elle n'est que de 15 à 20/100 _000 (Figure 2)._
+
 
 ![](i727-3.jpg)
 
@@ -66,6 +69,7 @@ C'est en couplant une protéine T dépendante que le résultat fut obtenu. Cette
 Ainsi, en France, une réponse sérologique est observée chez le nourrisson dès le troisième mois avec le vaccin PRP tétanos. Un effet rappel-franc est noté après les deuxième et troisième injections effectuées au quatrième et cinquième mois _(figure 4)._ La tolérance du vaccin est celle des autres vaccins, polyosidiques, c'est-à-dire bonne : 5 % de réactions fébriles (température supérieure à 38°5 C) et 20 % d'érythème local sans lendemain.
 
 Il reste à prouver l'efficacité clinique des vaccins conjugués : en Finlande, le PRP diphtérie a entraîné une protection de 90 %. En Alaska, les taux ont été franchement plus faibles. Depuis janvier 1990, tous les enfants de Finlande sont vaccinés avec le vaccin anti-_Haemophilus_ PRP tétanos et seulement deux cas d'infections graves ont été notifiés ; la protection est de l'ordre de 99 %. En France (Val-de-Marne), en vaccinant 60 % des enfants, nous avons obtenu 90 % de protection.
+
 
 ![](i727-4.jpg)
   

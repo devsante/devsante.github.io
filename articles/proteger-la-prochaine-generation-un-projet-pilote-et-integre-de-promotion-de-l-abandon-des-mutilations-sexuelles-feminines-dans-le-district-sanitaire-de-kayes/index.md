@@ -11,7 +11,8 @@ teaser: "Depuis 2006, l’ONG française Equilibres & Populations (EquiPop) et s
 
 <tr>
 
-<td>![](carte-equipop.jpg)
+<td>
+![](carte-equipop.jpg)
 </td>
 
 <td>
@@ -41,13 +42,13 @@ communautés pour atteindre 100 villages au total. Dans sa version actuelle, le 
 
 Le projet est guidé par 8 principes directeurs reliés entre eux :
 
-1.  Une **approche non coercitive et non critique** dont l’objectif premier est le respect des droits humains et l’autonomisation des femmes et des filles.
-2.  Une **prise de conscience, de la part de la communauté,** des préjudices entraînés par la pratique de l’excision.
-3.  La **décision collective** d’abandonner la pratique dans un groupe au sein duquel se font les mariages ou qui est étroitement lié d’autres façons.
-4.  Une **déclaration explicite et publique** de la part des communautés, qui s’engagent collectivement à abandonner l’excision.
-5.  Un **processus de communication méthodique** pour promouvoir la diffusion rapide et  durable de la décision d’abandonner l’excision d’une communauté à l’autre.
-6.  Une **approche genre** à tous les stades du projet.
-7.  Une **Intégration graduelle** des villages dans le projet.
+1.  Une **approche non coercitive et non critique** dont l’objectif premier est le respect des droits humains et l’autonomisation des femmes et des filles.  
+2.  Une **prise de conscience, de la part de la communauté,** des préjudices entraînés par la pratique de l’excision.  
+3.  La **décision collective** d’abandonner la pratique dans un groupe au sein duquel se font les mariages ou qui est étroitement lié d’autres façons.  
+4.  Une **déclaration explicite et publique** de la part des communautés, qui s’engagent collectivement à abandonner l’excision.  
+5.  Un **processus de communication méthodique** pour promouvoir la diffusion rapide et  durable de la décision d’abandonner l’excision d’une communauté à l’autre.  
+6.  Une **approche genre** à tous les stades du projet.  
+7.  Une **Intégration graduelle** des villages dans le projet.  
 8.  Un **contexte propice** au changement.
 
 <table>

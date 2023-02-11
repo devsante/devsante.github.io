@@ -24,6 +24,7 @@ Les fibres issues de la racine S1 permettent :
 *   de marcher sur la pointe des pieds,
 *   de sentir la piqûre et le toucher sur la partie postérieure de la jambe, le talon, la plante du pied jusqu'au petit orteil _(schéma n° 2)._
 
+
 ![](i377-1.jpg)
 
 
@@ -48,7 +49,7 @@ Quelle que soit la topographie de la douleur, l'interrogatoire du patient permet
 
 Une fois la sciatique reconnue par la topographie de la douleur, il faut s'assurer de l'absence de complications urgentes à traiter :
 
-*   paralysie de la jambe avec impossibilité de la marche, pied tombant....
+*   paralysie de la jambe avec impossibilité de la marche, pied tombant....  
 *   signes d'atteinte de toutes les racines sacrées avec troubles sphinctériens (incontinence urinaire ou fécale, rétention urinaire) et anesthésie " en selle " (insensibilité cutanée sur les régions génitales).
 
 En présence de telles complications, le patient doit être transféré au centre hospitalier le plus proche, afin d'éviter une paralysie irréversible.
@@ -68,6 +69,7 @@ Enfin l'examen neurologique, explorant les territoires des racines L5 et S1 pour
 *   étude de la force musculaire : extension du pied et du gros orteil (racine L5), flexion du pied et marche sur la pointe (racine S1),
 *   étude de la sensibilité, diminuée à la piqûre ou au toucher, soit dans le territoire L5, soit dans le territoire S1 _(schéma n° 2),_
 *   étude des réflexes: absence de réflexe achilléen en cas de sciatiques.
+
 
 ![](i377-2.jpg)
 
@@ -104,7 +106,7 @@ Toutes les sciatiques d'origine inflammatoire devront être transférées à l'h
 Le traitement des sciatiques discales fait appel:
 
 *   au repos strict au lit, allongé à plat, 24 heures sur 24, tant que dure la douleur: c'est l'élément essentiel du traitement,
-*   aux médicaments antalgiques : Aspirine 2 à 3 g/j chez l'adulte, Paracétamol....
+*   aux médicaments antalgiques : Aspirine 2 à 3 g/j chez l'adulte, Paracétamol....  
 *   aux anti-inflammatoires non stéroïdiens, en l'absence d'antécédent d'ulcère gastrique.
 
 Ce n'est que dans certains cas rebelles au repos bien conduit que l'on pourra proposer l'hospitalisation du patient afin de rechercher une cause non discale, et pour utiliser des traitements complémentaires, voire proposer une intervention chirurgicale.

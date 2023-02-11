@@ -19,8 +19,8 @@ Les principales conséquences sont les suivantes : douleurs, hémorragies, infec
 
 Selon l'UNICEF, le taux de prévalence baisse d'une manière globale mais lentement, les résultats sont très différenciés selon les pays.
 
-*   Le niveau éducatif a un impact très positif sur le taux de prévalence.
-*   Le nombre exact de victimes est relativement difficile à connaître. L'impact sur la santé également en raison des modifications intervenant dans l'accès aux soins.
+*   Le niveau éducatif a un impact très positif sur le taux de prévalence.  
+*   Le nombre exact de victimes est relativement difficile à connaître. L'impact sur la santé également en raison des modifications intervenant dans l'accès aux soins.  
 *   Du fait de la croissance démographique, il est possible que le nombre de victimes continue d'augmenter actuellement avant d'entamer une décrue ;
 *   Nous ne sommes pas encore en mesure de donner une date pour la fin totale de l'excision, certains pays pourraient assez rapidement l'atteindre quand pour d'autres l'horizon semble plus lointain.
 

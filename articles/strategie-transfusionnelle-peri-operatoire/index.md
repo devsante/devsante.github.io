@@ -112,6 +112,7 @@ La conduite à tenir est la même, que l'hémorragie intervienne avant, pendant 
 
 Les solutés de remplissage ont un effet volume immédiat et une durée d'action variable. Pour les cristalloïdes _(ringer lactate,_ _sérum salé à 0,99%),_ le volume à perfuser est trois à quatre fois le volume de sang perdu et la durée d'action est de trente minutes. Pour les gélatines _(haemacel, plasmagel, plasmion),_ le volume à perfuser est de 1,2 fois le volume de sang perdu et la durée d'action de trois heures. Pour les dextrans _(dextran 40, dextran_ 70) et amidons _(amidons 450 et amidons 250),_ l'effet volume est supérieur ou égal au volume perfusé, qui ne doit pas dépasser 20 ml/kg, et la durée d'action est variable, de trois heures à vingt-quatre heures, selon les produits _(tableau 1)._
 
+
 ![](i608-1.jpg)
 
 
@@ -181,6 +182,7 @@ Dans le cas d'une drépanocytose homozygote diagnostiquée par une électrophor�
 
 La transfusion homologue du sang d'un donneur à un receveur expose aux risques de contamination massive par le virus du _Sida_ et d'accidents transfusionnels (2, 3, 4) infectieux et immunologiques qui peuvent mettre en jeu la vie du malade, et ne doit être pratiquée que si l'indication est absolue _(tableau 2)._
 
+
 ![](i608-2.jpg)
 
 
@@ -212,6 +214,7 @@ L'épreuve sérique de Simonin, non obligatoire, se fait avec des hématies tém
 
 Toute discordance entre les deux épreuves empêche une conclusion de groupe et il faudra transfuser en sang du groupe 0, appelé groupe "donneur universel", que l'on peut donner à tous les autres groupes comme le résume le schéma de compatibilité dans le système ABO _(tableau 3)._
 
+
 ![](i608-3.jpg)
 
 
@@ -222,6 +225,7 @@ Le groupe AB, dit " receveur universel " peut recevoir du sang de tous les autre
 Le groupe rhésus se fait avec un sérum anti-D, si possible salin car actif sans artifice. Les conditions de réaction doivent être respectées, certains réactifs agissant à une température de 37°, d'autres à température ambiante. Il est accompagné d'un témoin de réaction qui doit être négatif.
 
 S'il y a agglutination, le groupe est Rh+, s'il n'y a pas agglutination, il est Rh-. Un patient Rh+ peut être transfusé en sang Rh- ou Rh+ _(tableau 4)._ Si le témoin de réaction est positif, il faut transfuser en Rh-.
+
 
 ![](i608-4.jpg)
 
@@ -366,6 +370,7 @@ Le matériel nécessaire à préparer en kit stérile comprend: un flacon en ver
 
 Le sang est recueilli par le chirurgien au moyen d'une louche dans un haricot contenant l'anticoagulant venant du flacon, puis filtré à travers quatre à six épaisseurs de gaze stérile dans le flacon en verre stérile. Le flacon est hermétiquement fermé au moyen d'un bouchon. Le sang est retransfusé en plaçant un filtre classique sur la tubulure. Une fiche technique tirée du _Guide des_ _bonnes pratiques transfusionnelles,_ édité par le Comité de Transfusion du Kenya _(tableau 5),_ propose un protocole.
 
+
 ![](i608-5.jpg)
 
 
@@ -378,6 +383,7 @@ Le sang est aspiré au moyen du tuyau d'aspiration solidarisé à un flacon sté
 Le sang recueilli dans ce flacon est porté dans un deuxième flacon après filtration à travers quatre à six épaisseurs de gaze stérile placées dans un entonnoir. Le flacon est hermétiquement fermé au moyen du bouchon. Le sang est retransfusé en utilisant un filtre classique, une tubulure à sang et une prise d'air.
 
 _e. En cas de doute sur l'utilité d'une récupération de sang per-opératoire,_ soit que le volume ne soit pas suffisant, soit que le caractère aseptique ne soit pas certain, il est possible de procéder en deux temps, en recueillant d'abord les pertes dans un réservoir et en décidant ultérieurement de leur destruction ou de leur réinjection, en respectant le délai de six heures entre le recueil et la transfusion.
+
 
 ![](i608-6.jpg)
 

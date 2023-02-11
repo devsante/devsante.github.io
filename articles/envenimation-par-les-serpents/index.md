@@ -22,8 +22,11 @@ Quatre cents espèces (protéroglyphes et solénoglyphes) seraient susceptibles 
 
 Voir _tableau n°1_ _:_ **Classification générale** et _tableau n°2 :_ **Cinq genres res_ponsables d'accidents graves._**
 
+
 ![](i783-1.jpg)
+
 ![](i783-2.jpg)
+
 ![](i783-3.jpg)
 
 
@@ -112,6 +115,7 @@ L'atteinte des muscles du carrefour glosso-pharyngo-laryngé et des muscles resp
 
 *   La mort consécutive à toutes ces atteintes peut être rapide (quelques minutes, en particulier dans les morsures du cou et de la tête) ou plus longue (quelques heures) dans les douleurs et l'angoisse.
 
+
 ![](i783-4.jpg)
 
 
@@ -119,9 +123,9 @@ L'atteinte des muscles du carrefour glosso-pharyngo-laryngé et des muscles resp
 
 **Dans tous les cas**
 
-*   Victime au repos complet, allongée.
-*   Sérothérapie antitétanique et vaccin antitétanique au moindre doute.
-*   Désinfection locale soigneuse (Dakin).
+*   Victime au repos complet, allongée.  
+*   Sérothérapie antitétanique et vaccin antitétanique au moindre doute.  
+*   Désinfection locale soigneuse (Dakin).  
 *   Immobilisation du membre avec légère gêne au retour veineux :
 
 - bande non compressive,
@@ -133,6 +137,7 @@ L'atteinte des muscles du carrefour glosso-pharyngo-laryngé et des muscles resp
 **Grade 0**
 
 Absence d'envenimation : retour au domicile après vingt-quatre heures de surveillance.
+
 
 ![](i783-5.jpg)
 
@@ -182,10 +187,15 @@ Prévoir l'éventualité rare de choc anaphylactique :
 *   1 seringue avec 0,25 mg adrénaline dans 10 ml de sérum physiologique (1ml lV à renouveler)
 *   1 flacon d'albumine 4 % ou Haemaccel® (20 mg/kg en 30 minutes)
 
+
 ![](i783-6.jpg)
+
 ![](i783-7.jpg)
+
 ![](i783-8.jpg)
+
 ![](i783-9.jpg)
+
 ![](i783-10.jpg)
 
 
@@ -232,6 +242,7 @@ Parage précoce:
 *   Excision secondaire des plaques de nécrose en restant le plus conservateur possible : mise à nu de larges surfaces (la mise à nu risque d'être étendue).
 
 *   Secondairement, on pratiquera, si nécessaire, des réparation-sutures, des greffes dermo-épidermiques, et une rééducation fonctionnelle.
+
 
 ![](i783-11.jpg)
 

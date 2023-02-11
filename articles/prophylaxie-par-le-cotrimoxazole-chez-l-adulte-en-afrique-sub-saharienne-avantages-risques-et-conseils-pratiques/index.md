@@ -19,7 +19,7 @@ Certaines de ces pathologies opportunistes ont des fréquences différentes suiv
 
 Très schématiquement, il existe des différences importantes entre le spectre observé en France et celui décrit en Afrique sub-saharienne :
 
-*   En France, les affections opportunistes graves les plus fréquentes sont par ordre décroissant : la pneumocystose pulmonaire, la toxoplasmose cérébrale, la candidose oesophagienne, la tuberculose, le sarcome de Kaposi, les mycobactérioses atypiques, les infections invasives à cytomégalovirus (CMV), les lymphomes, la cryptosporidiose et la cryptococcose neuroméningée. A l'exception de la tuberculose pouvant survenir à tous les chiffres de CD4, ces pathologies surviennent principalement chez des personnes ayant un nombre de CD4 inférieur à 200/mm<sup>3</sup>.
+*   En France, les affections opportunistes graves les plus fréquentes sont par ordre décroissant : la pneumocystose pulmonaire, la toxoplasmose cérébrale, la candidose oesophagienne, la tuberculose, le sarcome de Kaposi, les mycobactérioses atypiques, les infections invasives à cytomégalovirus (CMV), les lymphomes, la cryptosporidiose et la cryptococcose neuroméningée. A l'exception de la tuberculose pouvant survenir à tous les chiffres de CD4, ces pathologies surviennent principalement chez des personnes ayant un nombre de CD4 inférieur à 200/mm<sup>3</sup>.  
 *   En Afrique sub-saharienne, les trois affections opportunistes graves les plus fréquentes sont par ordre décroissant : la tuberculose, les maladies bactériennes sévères et le paludisme. Le risque de développer ces trois infections commence tôt dans la maladie, bien avant que les CD4 ne passent en dessous de 200/mm<sup>3</sup>. Lorsque les CD4 descendent ensuite sous ce seuil de 200/mm<sup>3</sup> on retrouve (dans un ordre de fréquence variable suivant les pays) : la candidose oesophagienne, l'isosporose, la toxoplasmose, les mycobactérioses atypiques, la cryptococcose neuroméningée et le sarcome de Kaposi. La pneumocystose pulmonaire est rare chez l'adulte en Afrique.
 
 ### 2. Prophylaxie des infections opportunistes
@@ -151,7 +151,7 @@ La prophylaxie par le cotrimoxazole est facile à prendre (1 comprimé par jour)
 Dans les essais thérapeutiques réalisés, ils étaient toujours inférieurs aux avantages. Autrement dit, le rapport bénéfices/risques est favorable, sinon on ne recommanderait pas ce traitement. Comme tout traitement médicamenteux, des risques individuels existent néanmoins. Ils sont :
 
 *   cutanés : risque d'allergie (le plus souvent prurit isolé pendant le premier mois, rarement fièvre et éruption ou érythème pigmenté fixe, et très rarement syndrome de Lyell);
-*   hématologiques : risque de cytopénies, principalement de neutropénies (en général modérées).
+*   hématologiques : risque de cytopénies, principalement de neutropénies (en général modérées).  
 *   hépatiques : risque d'hépatite (très rare, en général en association avec d'autres médicaments hépatotoxiques).
 
 Par ailleurs, par précaution le cotrimoxazole n'est pas recommandé au cours du premier trimestre de la grossesse, et pendant les six premières semaines d'allaitement. Pendant le reste de la grossesse et de l'allaitement, il peut être prescrit.

@@ -30,12 +30,12 @@ Aujourd'hui nous appuyons la prise en charge des PWIH dans le département de Ou
 
 Nos principaux objectifs sont :
 
-*   D'accompagner les équipes de soin pour la prise en charge clinique, biologique et socia­le des PVVIH.
+*   D'accompagner les équipes de soin pour la prise en charge clinique, biologique et socia­le des PVVIH.  
 *   De créer un réseau départemental de soin des PVVIH et de formation des acteurs de la prise en charge afin de rapprocher l'offre de soin vers les patients éloignés des grands centres, pour le dépistage et le suivi.
 
 ### _Quelles sont les principales activités déve­loppées au travers des jumelages ESTHER ?_
 
-*   La formation du personnel soignant. Notre objectif est que l'ensemble des acteurs soit formé à la prise en charge globale. L'éduca­tion thérapeutique est par conséquent pour nous un axe majeur au sein de nos formations.
+*   La formation du personnel soignant. Notre objectif est que l'ensemble des acteurs soit formé à la prise en charge globale. L'éduca­tion thérapeutique est par conséquent pour nous un axe majeur au sein de nos formations.  
 *   La mise à niveau des plateaux techniques. Dans le cadre du réseau départemental, notre objectif est d'améliorer le plateau technique en mutualisant les moyens des différents centres de soin.
 
 ### _Quel processus de formation avez-vous mis en place ?_
@@ -71,7 +71,7 @@ Quatre aides-soignantes ont été formées et enca­drées par le directeur de l
 
 Grâce à une subvention de la fondation GSK nous avons pu valoriser l'éducation thérapeu­tique :
 
-*   en finançant les consultations : les éduca­trices bénéficient donc d'une rémunération complémentaire pour leurs activités d'édu­cation. L'une d'entre elles est aujourd'hui détachée à plein temps pour cette activité.
+*   en finançant les consultations : les éduca­trices bénéficient donc d'une rémunération complémentaire pour leurs activités d'édu­cation. L'une d'entre elles est aujourd'hui détachée à plein temps pour cette activité.  
 *   en mettant à la disposition de tous les sites des mallettes pédagogiques créées pour l'Afrique par la fondation GSK.
 
 Aujourd'hui, grâce à l'initiative ESTHER, nous développons à partir de la clinique Louis Pasteur les activités d'éducation thérapeutique pour le réseau de soin du département de Ouémé et Plateau ; **les éducatrices de la clinique Louis Pasteur sont tuteurs des autres sites. L'éducation thérapeutique constitue donc le premier élément concret du réseau.**
@@ -81,6 +81,7 @@ La réussite de la clinique Louis Pasteur a créé une émulation auprès des au
 ## II. La formation des soignants à l'éducation thérapeutique
 
 Christiane Chervet
+
 
 ![](image005.jpg)
 
@@ -122,27 +123,28 @@ La Clinique Louis Pasteur (CLP) est aujour­d'hui un modèle en ETP ; elle appor
 
 ### Objectifs pédagogiques :
 
-*   Acquérir des notions sur la dynamique de l'infection par le VIH.
-*   Connaître les différents types de traite­ments antirétroviraux, leur modes d'action, objectifs, contraintes de prise et effets secondaires.
+*   Acquérir des notions sur la dynamique de l'infection par le VIH.  
+*   Connaître les différents types de traite­ments antirétroviraux, leur modes d'action, objectifs, contraintes de prise et effets secondaires.  
 *   Mener un diagnostic éducatif
-*   Utiliser différents outils d'éducation thérapeutique.
+*   Utiliser différents outils d'éducation thérapeutique.  
 *   Réaliser une séance d'éducation thérapeu­tique individualisée, répétée et évaluée régulièrement.
 
 ### Techniques pédagogiques :
 
-*   Jeux de rôles ; utilisation d'outils pédago­giques : chevalets, planning...
+*   Jeux de rôles ; utilisation d'outils pédago­giques : chevalets, planning...  
 *   Discussions, échanges en sous-groupes.
 
 ### Documents pédagogiques remis :
 
-*   Définition sur l'éducation thérapeutique.
-*   Dossier d'éducation.
+*   Définition sur l'éducation thérapeutique.  
+*   Dossier d'éducation.  
 *   Documents sur le VIH/SIDA et les traite­ments.
 
 ### Matériel pédagogique :
 
-*   Mallette d'éducation thérapeutique com­prenant les différents outils pédagogiques.
+*   Mallette d'éducation thérapeutique com­prenant les différents outils pédagogiques.  
 *   Questions/réponses pour l'évaluation des connaissances des personnes formées.
+
 
 ![](image006.jpg)
 

@@ -90,6 +90,7 @@ Le danger est maximal quand existe la possibilité de corps étranger intraocula
 
 Il doit toujours être doux et rassurant. Ne jamais appuyer sur le globe ou les paupières. Si l'examen est impossible, les circonstances de l'accident suffisent à référer le malade vers le centre spécialisé le plus proche, en prenant les mesures indiquées ci-dessous.
 
+
 ![](i599-1.jpg)
 
 
@@ -172,6 +173,7 @@ Ces signes sont le témoin d'une perforation. Les possibilités de récupératio
 - le venin du serpent cracheur n'est théoriquement pas toxique. Un bon lavage à l'eau est néanmoins indiqué.
 
 _3. Les brûlures thermiques_ sont moins dangereuses pour l'oeil, les paupières servant de protection. Mais les brûlures conjonctivales induites peuvent être responsables de complications secondaires (symblépharon, ectropion ou entropion cicatriciels) imposant un bilan spécialisé.
+
 
 ![](i599-2.jpg)
 
@@ -292,6 +294,7 @@ Vous n'avez pas de Novésine :
 
 3. Vous ne trouvez rien sur la cornée : pensez à retourner la paupière supérieure à la recherche d'un _corps étranger conjonctival._ Dégagez le CE à l'aide d'un objet mousse, toujours tangentiellement comme indiqué sur le schéma 4.
 
+
 ![](i599-3.jpg)
 
 
@@ -326,6 +329,7 @@ La démarche diagnostique est la même que précédemment.
 _1. La chambre antérieure est blanche, le_ malade souffre, y voit mal : il s'agit d'une infection grave du globe oculaire _ou panophtalmie._ Faire une antibiothérapie générale (Pénicilline, sérovaccination antitétanique), évacuer très rapidement le malade vers un centre spécialisé.
 
 _2. La chambre antérieure est rouge, le_ malade souffre et y voit mal : il s'agit d'un hyphéma, se reporter au chapitre " contusion oculaire ".
+
 
 ![](i599-4.jpg)
 

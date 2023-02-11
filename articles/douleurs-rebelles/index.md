@@ -20,13 +20,13 @@ Cette écoute, suivie d’un examen clinique orienté mais complet, autorise le 
 Il convient de reprendre patiemment tous les éléments de la démarche diagnostique.
 
 *   Le mécanisme : existe-t-il une composante neurogène, vasculaire ou sympathique qui a été méconnue jusqu’alors, associée à la douleur de nociception ?
-*   La topographie lésionnelle : décalage des irradiations douloureuses (ex. douleurs du genou et arthrose de hanche), projection cutanée des douleurs viscérales.
+*   La topographie lésionnelle : décalage des irradiations douloureuses (ex. douleurs du genou et arthrose de hanche), projection cutanée des douleurs viscérales.  
 *   L’étiologie : toute douleur chez un cancéreux n’est pas nécessairement d’origine tumorale.
 
 Voici quelques exemples :
 
-*   La douleur chez un amputé du membre inférieur peut être autre qu’une algohallucinose (douleurs dans le membre fantôme) : lombo-sciatique, arthrose de hanche ou du genou...
-*   Des douleurs fessières chez un diabétique ayant un passé de lombo-sciatique peuvent être en réalité dues à une artérite.
+*   La douleur chez un amputé du membre inférieur peut être autre qu’une algohallucinose (douleurs dans le membre fantôme) : lombo-sciatique, arthrose de hanche ou du genou...  
+*   Des douleurs fessières chez un diabétique ayant un passé de lombo-sciatique peuvent être en réalité dues à une artérite.  
 *   Une recrudescence de douleurs lombaires et pelviennes chez un patient cancéreux alité sous morphine pour métastases rachidiennes, peuvent correspondre non pas à une évolution tumorale, mais à un globe vésical, personne n’ayant songé à examiner l’abdomen.
 
 ## III. Deuxième possibilité : le traitement n’est pas adapté
@@ -35,9 +35,9 @@ Chaque prescription est une négociation visant à proposer le traitement le plu
 
 ### 1. Les nombreuses anomalies à éviter
 
-*   Prescription de deux médicaments similaires : deux opiacés faibles identiques, deux voire trois antiépileptiques.
-*   Confusion entre anxiolytiques et antidépresseurs.
-*   Non adaptation des prises en fonction de l’activité ou de la non activité : travailleurs de nuit, chronobiologie, doses de secours contre les douleurs cancéreuses intercurrentes (mobilisation, soins).
+*   Prescription de deux médicaments similaires : deux opiacés faibles identiques, deux voire trois antiépileptiques.  
+*   Confusion entre anxiolytiques et antidépresseurs.  
+*   Non adaptation des prises en fonction de l’activité ou de la non activité : travailleurs de nuit, chronobiologie, doses de secours contre les douleurs cancéreuses intercurrentes (mobilisation, soins).  
 *   Ordonnance mal suivie pour différentes raisons : peur de s’habituer au antalgiques, influence de ce que dit la famille/amis/médias, refus d’être sous la dépendance d’un produit, difficultés physiques (vue, handicap), financières, renoncement partiel aux soins en situation de précarité.
 
 ### 2.  Non ou sous-utilisation des traitements à visée spécifique et des co-analgésiques

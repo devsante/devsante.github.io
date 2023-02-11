@@ -28,6 +28,7 @@ Il faut référer au médecin.
 
 Il s'agit le plus souvent de séquelles de fracture, d'une ancienne phlébite non guérie, d'un éléphantiasis, etc.
 
+
 ![](i633-1.jpg)
 
 
@@ -38,6 +39,7 @@ On évoque les différents organes qui peuvent être touchés, l'un après l'aut
 - des signes positifs en rapport avec l'organe atteint,
 
 - des signes négatifs concernant les autres organes.
+
 
 ![](i633-2.jpg)
 
@@ -53,6 +55,7 @@ Deux choses sont à comprendre:
 **1.** _Le gradient de pression hydrostatique_ entre les artérioles et les veinules. Le sang arrive dans les artérioles à haute pression. Dans les capillaires, la pression diminue pour être basse dans les veinules. En conséquence, dans les capillaires dont la paroi est poreuse, l'eau intra vasculaire va sortir et occuper l'espace extra vasculaire dit interstitiel.
 
 **2.** _La pression oncotique_ représente la pression d'aspiration des grosses protéines, comme l'albumine dans le sérum. Plus le taux de protéines est élevé, plus l'eau et les électrolytes seront attirés; plus ce taux est bas comme dans le kwashiorkor, plus cette pression sera faible et l'aspiration moindre. L'eau qui était sortie vers le secteur extra vasculaire va repasser dans les veinules à basse pression, grâce à cette pression oncotique. Dans les conditions normales, les deux pressions se neutralisent et il n'y aura pas d'œdème. En revanche, dans une insuffisance cardiaque, la pression du sang est élevée: l'origine de l'œdème est mécanique. De même pour une cirrhose ou une insuffisance veineuse.
+
 
 ![](i633-3.jpg)
 

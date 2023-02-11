@@ -111,7 +111,7 @@ Il est le plus souvent dominé par une riche symptomatologie sensitive associant
 
 *   Des paresthésies/dysesthésies (environ 30 % des cas) et
 *   Surtout des douleurs des membres inférieurs, présentes chez environ 60 % des patients. Il s'agit en général de brûlures intenses des pieds,
-*   D'autres types de sensations plus élaborées (sensations de morsures, de lacérations, sensations de marcher sur des cailloux acérés ... ) sont souvent rapportées.
+*   D'autres types de sensations plus élaborées (sensations de morsures, de lacérations, sensations de marcher sur des cailloux acérés ... ) sont souvent rapportées.  
 *   Les phénomènes d'allodynie (douleur provoquée par des stimulations non nociceptives) et hyperalgésie (réponse exagérée à des stimulations nociceptives) sont extrêmement fréquents et invalidants. Ces douleurs peuvent rendre la marche totalement impossible et confiner ces patients dans un fauteuil roulant. Il n'existe pas de traitement spécifique de cette polyneuropathie (vraisemblablement liée au VIH).
 
 ## **III. Principe du traitement des douleurs du sida**

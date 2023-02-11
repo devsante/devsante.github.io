@@ -41,8 +41,8 @@ Nous comptons soumettre aux autorités camerounaises le projet suivant : vérifi
 
 Elle pourrait tenir en trois points :
 
-1.  L’OMS  recommande  maintenant la vaccination universelle de tous les nouveau-nés, même dans les pays de faible endémie [3] .
-2.  L’expérience de Tokombéré, présentée en juillet 2011 à la conférence internationale des acteurs de lutte contre les hépatites en Afrique francophone, va dans ce sens, c’est le moins que l’on puisse dire.
+1.  L’OMS  recommande  maintenant la vaccination universelle de tous les nouveau-nés, même dans les pays de faible endémie [3] .  
+2.  L’expérience de Tokombéré, présentée en juillet 2011 à la conférence internationale des acteurs de lutte contre les hépatites en Afrique francophone, va dans ce sens, c’est le moins que l’on puisse dire.  
 3.  Cette conférence a eu pour point d’orgue "l’Appel de Dakar  du 28 juillet", adressé à tous les Etats d’Afrique francophone, prônant en première place la vaccination universelle de tous les bébés africains dès la naissance [4] (voir l'article Conférence internationale des acteurs de lutte contre les hépatites en Afrique francophone. Appel de Dakar).
 
 Ajoutons qu’au-delà de la PTME VHB, la sécurisation des dons de sang contribue à éviter de nouvelles infections à VHB et que le dépistage du VHC est, lui aussi, à faire systématiquement.  

@@ -34,6 +34,7 @@ On comprend donc pourquoi il s'agit d'une urgence absolue.
 
 Quels que soient leur taille et leur type anatomique, toutes les hernies peuvent s'étrangler un jour ou l'autre ; certaines plus que d'autres, cependant (_fig_. _1)._
 
+
 ![](i504-1.jpg)
 
 
@@ -50,6 +51,7 @@ Avec le temps et en dehors de tout accident aigu et douloureux, la hernie devien
 **Il.** **Diagnostic**
 
 La hernie inguinale étranglée, la plus fréquente, est prise ici pour exemple _(fig. 2)._
+
 
 ![](i504-2.jpg)
 
@@ -169,6 +171,7 @@ Prévoir de quoi réaliser une résection intestinale (clamps) et une suture int
 **c.** En cas de doute, (grêle violet foncé) il faut attendre, réchauffer avec des compresses et du sérum tiède pendant 15 minutes, et apprécier ensuite l'amélioration obtenue. Bien souvent, ainsi, le grêle peut être conservé.
 
 - on doit ensuite vérifier un long segment de grêle en amont et en aval pour ne pas méconnaître une autre lésion ;
+
 
 ![](i504-3.jpg)
 

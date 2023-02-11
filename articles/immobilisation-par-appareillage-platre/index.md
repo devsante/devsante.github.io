@@ -53,6 +53,7 @@ L'eau préparée pour l'immersion doit être à 20-25 °C pour assurer un sécha
 
 Au niveau proximal, le plâtre commence à trois travers de doigt sous l'aisselle ; au niveau distal, il s'arrête sur les têtes des métacarpiens en dorsal et sur le second pli transversal en palmaire. Si le plâtre s'arrête en proximal des têtes métacarpiennes en dorsal, on risque d'avoir un blocage du retour veineux voir un syndrome de loge et si on dépasse le second pli transversal en palmaire on risque de bloquer J'articulation métacarpophalangienne favorisant une raideur de l'articulation voire une algodystrophie du membre supérieur.
 
+
 ![](i897-1.jpg)
 
 
@@ -65,6 +66,7 @@ Au niveau proximal, le plâtre commence à trois travers de doigt sous l'aissell
 **Matériel :** jersey tubulaire, une bande de coton de 10 cm, deux bandes de plâtre de 10 cm.
 
 **Application :** au niveau distal on pratique les même gestes que pour le plâtre brachial anté-brachial. Au niveau proximal, le plâtre débute à deux travers de doigt en dessous du coude et doit être oblique d'avant en arrière.
+
 
 ![](i897-2.jpg)
 
@@ -89,6 +91,7 @@ poignet en légère flexion dorsale, articulations métacarpo-phalangiennes à 9
 
 Le plâtre doit couvrir les premières phalanges et laisser libres les articulations interphalangiennes proximales (IPP) et interphalangiennes distales (IPD). En cas de fracture isolée d'un métacarpien on syndactylise* le doigt fracturé et un doigt voisin, par exemple le quatrième et le cinquième doigt en cas de fracture du 5<sup>e</sup> métacarpien
 
+
 ![](i897-3.jpg)
 
 
@@ -103,6 +106,7 @@ Le plâtre doit couvrir les premières phalanges et laisser libres les articulat
 **Matériel :** jersey tubulaire, deux bandes de coton de 15 cm, deux bandes plâtrées de 20 cm pour la cuisse et de quatre à cinq bandes plâtrées de 15 cm pour la jambe.
 
 **Application :** la position du membre inférieur est le genou fléchi à 10°-15° et la cheville à 90°. Le plâtre commence au niveau proximal à la racine de la cuisse au niveau du grand trochanter et doit être oblique de l'extérieur à l'intérieur, parallèle au pli inguinal. Au niveau distal, il se termine sur les articulations métatarso-phalangiennes en laissant libre ces dernières comme pour le membre supérieur.
+
 
 ![](i897-4.jpg)
 
@@ -126,6 +130,7 @@ Le plâtre doit couvrir les premières phalanges et laisser libres les articulat
 **Matériel :** jersey tubulaire, une bande de coton de 15 cm, quatre bandes de plâtre de 15 cm.
 
 **Application :** le plâtre commence sur la tubérosité tibiale en antérieur et à deux travers de doigt du pli de flexion du genou en postérieur et se termine sur les articulations métatarso-phalangiennes. La position de la cheville doit être maintenue à 90°.
+
 
 ![](i897-5.jpg)
 
@@ -167,6 +172,7 @@ Avant le départ de l'hôpital, le patient doit être informé sur les élément
 **Les complications cutanées** vont de la simple irritation cutanée aux escarres profonds. Une douleur sur les plis avec augmentation de température doit alerter le patient. La confection minutieuse du plâtre, et les contrôles fréquents peuvent éliminer cette complication.
 
 **Les compressions nerveuses** entraînent des troubles de la sensibilité ou de la motricité. Au niveau du membre supérieur, le nerf cubital et radial ; au niveau du membre inférieur, le sciatique poplité externe sont les plus souvent touchés.
+
 
 ![](i897-6.jpg)
 

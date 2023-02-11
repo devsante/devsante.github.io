@@ -68,7 +68,9 @@ En conclusion, chez les patients ayant un taux de CD4 supérieur à 200/mm<sup>3
 
 **ANNEXE :**  
 
+
 ![](12177-1.jpg)
+
 
 
 ![](12177-2.jpg)
@@ -115,6 +117,7 @@ Du fait de la fréquence des transfusions et parce que l'incidence de l'hépatit
 #### 3. Vaccination contre le méningocoque
 
 Le risque accru d'infections à **méningocoque** A dans les pays à risque impose la vaccination antiméningococcique A-C ou mieux la vaccination Y, car des épidémies de méningites à méningocoque W135 ont été observées.
+
 
 ![](12177-3.jpg)
 

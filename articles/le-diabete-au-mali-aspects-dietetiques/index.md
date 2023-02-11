@@ -15,7 +15,7 @@ A la nourriture quotidienne, qu'on appellera sùman, s'opposent les nègelafen, 
 
 Tout semble opposer les sùman et les nègelafen :
 
-*   Les premiers sont imposés par l'habitude, par la vie de famille. En tant qu'alimentation com­munautaire, le sùman n'a pas de prix : la famille nourrit les proches, les dépendants, les cousins lointains, les visiteurs. Du fait qu'il doit nourrir beaucoup de bouches, le sùman est frugal.
+*   Les premiers sont imposés par l'habitude, par la vie de famille. En tant qu'alimentation com­munautaire, le sùman n'a pas de prix : la famille nourrit les proches, les dépendants, les cousins lointains, les visiteurs. Du fait qu'il doit nourrir beaucoup de bouches, le sùman est frugal.  
 *   Les nègelafen sont individuels, on les achète avec l'argent personnel. Personne n'est contraint de les partager. Cependant, on n'est jamais sûr de pouvoir s'en procurer tous les jours.
 
 Les sùman répondent à la faim "normale", celle dite kôngo. Les nègelafen, quant à eux, sont une nourriture de qualité. Le repas familial est pris dans la concession, à heures régulières, selon un rituel bien précis : chaque participant est assis, silencieux, devant sa part. Les nègelafen sont consommés individuellement ou en groupe, avec des amis plutôt que des membres de la famille : pas de manières, on discute et on plaisante, on est en dehors de la maison.
@@ -50,8 +50,8 @@ Le travail sur l'alimentation des patients doit s'adapter à leurs modes de vie 
 
 Pour mettre en oeuvre ces recommandations théo­riques, le Mali s'appuie sur des outils issus des tra­vaux de recherche des scientifiques nationaux, des médecins spécialisés et de l'ONG Santé Diabète Mali (SDM) :
 
-*   Table de composition des aliments du Mali.
-*   Enquête sur la consommation alimentaire des patients diabétiques par la méthode du rappel des 24 h.
+*   Table de composition des aliments du Mali.  
+*   Enquête sur la consommation alimentaire des patients diabétiques par la méthode du rappel des 24 h.  
 *   Table des index glycémiques des principales céréales et sauces consommées au Mali.
 
 ## III. Les difficultés de mise en pratique  
@@ -121,17 +121,17 @@ Grâce aux études réalisées au Mali sur la qualité des glucides et des sauce
 
 ### 3. Index glycémiques (IG) et types de bases céréalières
 
-*   Les aliments à IG bas, tels que le couscous de mil et le couscous de fonio, semblent être davantage indiqués pour les patients diabétiques.
-*   Les tô (préparation sous forme de pâte) doivent être moins consommés afin d'éviter une éléva­tion importante de la glycémie.
-*   Aucune des céréales n'est à déconseiller, mais il faut tenir compte de la quantité ingérée : elle devrait être moins importante pour les t8 que pour le couscous, afin de limiter l'hyperglycémie post-prandiale.
+*   Les aliments à IG bas, tels que le couscous de mil et le couscous de fonio, semblent être davantage indiqués pour les patients diabétiques.  
+*   Les tô (préparation sous forme de pâte) doivent être moins consommés afin d'éviter une éléva­tion importante de la glycémie.  
+*   Aucune des céréales n'est à déconseiller, mais il faut tenir compte de la quantité ingérée : elle devrait être moins importante pour les t8 que pour le couscous, afin de limiter l'hyperglycémie post-prandiale.  
 *   De même, face aux problèmes de coût et de modalités de préparation, il ne semble pas néces­saire de demander aux malades de centrer leur alimentation céréalière sur le fonio et le riz étuvé, qui restent intéressants dans une alimentation variée et équilibrée.
 
 ### 4. Les sauces accompagnant les bases céréalières
 
-*   A l'exception de la sauce arachide, les sauces tes­tées n'ont pas d'influence notable sur la glycémie post-prandiale.
-*   La sauce arachide pose un important problème car elle est consommée massivement. D'une part elle élève la glycémie post-prandiale, d'autre part sa composition à base de pâte d'arachide semble totalement inadaptée pour les patients diabé­tiques. En effet, le plat complet est constitué (-l'une base très riche en glucides et d'une sauce riche en protéines et en lipides.
-*   Il est conseillé, pour l'apport en fibres, de favori­ser des sauces contenant des légumes, comme la sauce à base de feuilles d'épinards ou la sauce gombo.
-*   Il faut éviter au maximum d'ajouter de grandes quantités de sel dans les sauces préparées (sel "classique", concentré de tomate, cubes alimen­taires, etc.).
+*   A l'exception de la sauce arachide, les sauces tes­tées n'ont pas d'influence notable sur la glycémie post-prandiale.  
+*   La sauce arachide pose un important problème car elle est consommée massivement. D'une part elle élève la glycémie post-prandiale, d'autre part sa composition à base de pâte d'arachide semble totalement inadaptée pour les patients diabé­tiques. En effet, le plat complet est constitué (-l'une base très riche en glucides et d'une sauce riche en protéines et en lipides.  
+*   Il est conseillé, pour l'apport en fibres, de favori­ser des sauces contenant des légumes, comme la sauce à base de feuilles d'épinards ou la sauce gombo.  
+*   Il faut éviter au maximum d'ajouter de grandes quantités de sel dans les sauces préparées (sel "classique", concentré de tomate, cubes alimen­taires, etc.).  
 *   Il est recommandé de ne pas utiliser plus de 3 grandes cuillères d'huile pour faire revenir les légumes et la viande contenus dans la sauce, et il n'est pas utile d'en ajouter en cours (le cuisson.
 
 D'une manière générale, pour les repas de midi et du soir, lorsque les moyens financiers des patients le permettent, il est conseillé de consom­mer de la salade verte et des crudités en entrée, avec une petite quantité de sauce contenant peu d'huile, mais sans mayonnaise. Pour améliorer la qualité nutritionnelle des sauces, il est bon d'y ajouter davantage de légumes.
@@ -358,10 +358,13 @@ Sorgo : 74
 
 </table>
 
+
 ![](untitled2.jpg)
 
 
+
 ![](untitled3.jpg)
+
 
 
 ![](untitled4.jpg)

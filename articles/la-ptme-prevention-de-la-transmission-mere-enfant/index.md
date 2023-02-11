@@ -43,7 +43,7 @@ Il faudrait que soit proposé un test à toute femme enceinte venant à une CPN 
 
 L'infirmier doit donc :
 
-*   agir pour que toute femme enceinte soit testée lors de sa première CPN. Il doit donc connaître les centres de PMI où cet examen est proposé et/ou réalisé.
+*   agir pour que toute femme enceinte soit testée lors de sa première CPN. Il doit donc connaître les centres de PMI où cet examen est proposé et/ou réalisé.  
 *   s'assurer que toute femme enceinte venant à sa consultation, pour quelque motif que ce soit, a eu un test VIH au cours de sa grossesse et en connaît le résultat.
 
 Dans un centre PMI, il est maintenant admis que le test VIH fait partie du bilan habituel d'une grossesse. Les femmes sont informées de la pratique de ce test et, si elles ne manifestent pas leur opposition, il est considéré qu'elles l'acceptent.

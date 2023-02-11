@@ -11,6 +11,7 @@ Désormais, les patients traités précocement par antibiothérapie peuvent êtr
 Savoir y penser, le reconnaître pour le traiter précocement seront les gages de la survie du patient."
 ---
 
+
 ![](i930-1.jpg)
 
 
@@ -46,8 +47,8 @@ Il est essentiel de connaître le terrain et les facteurs généraux.
 
 La malnutrition protéino-calorique et vitaminique, les maladies précédant cette pathologie, et le mauvais état bucco-dentaire constituent le trépied sur lequel s'asseoit le noma.
 
-*   Le sevrage souvent réalisé brutalement à l'âge de 2 ans est une étape critique, passage d'une alimentation déjà carencée, en un apport hypoprotidique et hypocalorique.
-*   Les maladies précédent cette pathologie sont principalement la rougeole mais aussi le paludisme et le poly parasitisme. On trouve également toutes les maladies infectieuses infantiles.
+*   Le sevrage souvent réalisé brutalement à l'âge de 2 ans est une étape critique, passage d'une alimentation déjà carencée, en un apport hypoprotidique et hypocalorique.  
+*   Les maladies précédent cette pathologie sont principalement la rougeole mais aussi le paludisme et le poly parasitisme. On trouve également toutes les maladies infectieuses infantiles.  
 *   Les nombreuses parodontopathies dues au manque d'hygiène bucco-dentaire (absence de brossage dentaire) et les lésions buccales dues aux carences vitaminiques (Vitamines C, PP et B).
 
 C'est à ce niveau que doit jouer la prévention.
@@ -88,10 +89,11 @@ L'évolution sans traitement est, dans 80 % des cas, la mort dans un tableau de 
 
 En 1992, le Docteur Montandon a classé les séquelles en 4 catégories en fonction des pertes de substance _(Figure 2)._ Cette classification a surtout comme intérêt la planification des traitements chirurgicaux :
 
-1.  Perte de substance localisée à la lèvre, à la commissure ou à la joue, qui peut être comblée par le tissu local et qui peut être couvert par un seul lambeau.
-2.  Perte de substance de la lèvre supérieure et du nez.
-3.  Perte de substance de la lèvre inférieure et de la région mandibulaire.
+1.  Perte de substance localisée à la lèvre, à la commissure ou à la joue, qui peut être comblée par le tissu local et qui peut être couvert par un seul lambeau.  
+2.  Perte de substance de la lèvre supérieure et du nez.  
+3.  Perte de substance de la lèvre inférieure et de la région mandibulaire.  
 4.  Perte de substance étendue et complexe de la joue, du nez, des paupières, des lèvres et de l'os du maxillaire supérieur.
+
 
 ![](i930-2.jpg)
 
@@ -108,11 +110,11 @@ Elles sont représentées par des pertes de substance, des limitations permanent
 
 D'après la classification de Larroque, on distingue :
 
-*   Les séquelles du noma muqueux qui correspond en une bride fibreuse entre la face interne de la joue et en arrière le bord antérieur de la branche montante.
+*   Les séquelles du noma muqueux qui correspond en une bride fibreuse entre la face interne de la joue et en arrière le bord antérieur de la branche montante.  
 *   Les séquelles du noma perforant, avec :
 
-*   les perforations sans lésion osseuse, responsables d'orostome, avec écoulement salivaire gênant.
-*   les perforations avec destructions osseuses minimes, l'os alvéolaire est atteint avec chute des dents.
+*   les perforations sans lésion osseuse, responsables d'orostome, avec écoulement salivaire gênant.  
+*   les perforations avec destructions osseuses minimes, l'os alvéolaire est atteint avec chute des dents.  
 *   les perforations avec perte de substance osseuse majeure, intéressant le plateau palatin, le sinus maxillaire, détruisant la pommette et souvent accompagné d'une constriction permanente des maxillaires.
 
 *   La constriction permanente des maxillaires (CPM) : c'est une complication redoutable car le patient ne peut plus ouvrir la bouche, empêchant l'alimentation, obligeant à des artifices, nourriture liquide ou passage des aliments par l'orostome. Elle est due à la fibrose des tissus jugaux et des muscles (masséters et ptérygoïdiens internes).

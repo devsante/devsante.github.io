@@ -31,6 +31,7 @@ Actuellement, la prévalence de l’ulcère de Buruli est devenue la deuxième c
 
 </table>
 
+
 ![](image016.jpg)
 
 
@@ -94,10 +95,12 @@ Figure 2. Œdème 
 
 <tr>
 
-<td>![](fig-1-papule-stade-de-debut-jpg.JPG)
+<td>
+![](fig-1-papule-stade-de-debut-jpg.JPG)
 </td>
 
-<td>![](fig-2-oedeme.jpg)
+<td>
+![](fig-2-oedeme.jpg)
 </td>
 
 </tr>
@@ -121,10 +124,12 @@ Le nodule évolue lentement vers une ulcération cutanée importante, avec un fo
 
 **Figure 3. **Ulcère de Buruli typique  ****
 
+
 ![](fig-3-ulcere-de-buruli-typique.jpg)
 
 
 **Figure 4. Ulcère de Buruli étendu du thorax**
+
 
 ![](03-0.jpg)
 
@@ -132,6 +137,7 @@ Le nodule évolue lentement vers une ulcération cutanée importante, avec un fo
 Puis l’ulcère cicatrise en formant un tissu fibreux avec surtout des complications invalidantes (figure 5), telles que des déformations par contracture, des ankyloses, des amputations de membres ou d’organes (œil, seins, organes génitaux), des septicémies, des infections osseuses (ostéomyélites 14% des cas) ou un tétanos d’évolution mortelle (Tableau II). 
 
 **Figure 5. Séquelle invalidante de l'ulcère de Buruli**
+
 
 ![](01-0.jpg)
 
@@ -261,12 +267,14 @@ Un test de diagnostic rapide est en cours d’évaluation.
 
 **Figure 6. Biopsie : nombreux bacilles acido-alcoolo-résistants**
 
+
 ![](fig-6-biopsie-avec-de-nombreux-bacilles-acido-alcoolo-resistants-jpg.JPG)
 
 
 En cas de lésion osseuse, la moelle est nécrosée et les travées osseuses sont amincies, voire détruites (figure 7). Les bacilles sont retrouvés dans la moelle. Les radiographies de la zone atteinte révèlent souvent une calcification de la graisse sous-cutanée ou des lésions d’ostéomyélite.
 
 **Figure 7. Lyse osseuse du pied**
+
 
 ![](fig-7-lyse-osseuse-du-pied-jpg.JPG)
 
@@ -330,7 +338,7 @@ Des rechutes sont possibles dans 15 à 30 % des cas sans antibiotiques et dans 3
 
 *   **Petites lésions et lésions précoces :**  antibiotiques sans chirurgie
 *   **Larges lésions : **antibiotiques + chirurgie
-*   L’**utilité** et le **moment** de la chirurgie devraient être clarifiés.
+*   L’**utilité** et le **moment** de la chirurgie devraient être clarifiés.  
 *   **Le soin des plaies** après antibiothérapie doit être amélioré
 
 Le séquençage récent du génome de _M._ _ulcerans_ a permis d’identifier les gènes responsables de la production de la mycolactone, et va permettre la mise au point de tests diagnostiques et de traitements. 

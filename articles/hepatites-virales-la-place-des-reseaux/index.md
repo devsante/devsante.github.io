@@ -81,11 +81,11 @@ Depuis sa création, l’association s’est attaquée à tous ces problèmes e
 surtout ceux du conseil scientifique dont les membres sont des professeurs leaders d’opinion, de nombreuses actions de sensibilisation :
 
 *   **Grand public**
-    *   Journée nationale (12 janvier) et mondiale (19 mai, puis 28 juillet) : campagnes médiatiques et d’affichage sur les dangers de l’hépatite.
-    *   Journées d’étude avec les principaux acteurs de la santé pour une meilleure prise  en charge du patient, médiatisées afin d’informer les patients sur leurs droits à la prise en charge totale.
-    *   Opérations de dépistage : la première expérience menée par SOS hépatites eut lieu en juillet 2011. L’association a profité de la présence d’estivants sur la plage algéroise pour faire une opération de dépistage rapide. Cette expérience va être structurée dans les prochains mois afin d’aider à l’effort de dépistage.
+    *   Journée nationale (12 janvier) et mondiale (19 mai, puis 28 juillet) : campagnes médiatiques et d’affichage sur les dangers de l’hépatite.  
+    *   Journées d’étude avec les principaux acteurs de la santé pour une meilleure prise  en charge du patient, médiatisées afin d’informer les patients sur leurs droits à la prise en charge totale.  
+    *   Opérations de dépistage : la première expérience menée par SOS hépatites eut lieu en juillet 2011. L’association a profité de la présence d’estivants sur la plage algéroise pour faire une opération de dépistage rapide. Cette expérience va être structurée dans les prochains mois afin d’aider à l’effort de dépistage.  
 *   **Parlementaires**  
-    A la suite d’une campagne ciblée de sensibilisation auprès des parlementaires, SOS hépatites a organisé en juin 2009, conjointement avec la commission parlementaire de santé, une journée parlementaire, dans l’enceinte de l’Assemblée Populaire Nationale. Cette journée a donné lieu à des recommandations pour le ministère de la santé, essentiellement pour la mise en place du plan national de lutte contre les hépatites. Depuis, un travail parlementaire important est effectué pour la mise en œuvre de ces recommandations, surtout par la commission de la santé qui suit les actions du ministère de la santé et attire son attention sur les rapports qui lui parviennent des régions internes du pays.
+    A la suite d’une campagne ciblée de sensibilisation auprès des parlementaires, SOS hépatites a organisé en juin 2009, conjointement avec la commission parlementaire de santé, une journée parlementaire, dans l’enceinte de l’Assemblée Populaire Nationale. Cette journée a donné lieu à des recommandations pour le ministère de la santé, essentiellement pour la mise en place du plan national de lutte contre les hépatites. Depuis, un travail parlementaire important est effectué pour la mise en œuvre de ces recommandations, surtout par la commission de la santé qui suit les actions du ministère de la santé et attire son attention sur les rapports qui lui parviennent des régions internes du pays.  
 *   **Ministère de la santé**  
     Réunions régulières et soutenues depuis deux ans afin de mettre en place une cellule de travail sur les hépatites. Un comité ministériel, dirigé par la conseillère du ministre, a été installé depuis près d’un an, et SOS hépatites en est membre. Il a pour objectif la préparation d’un plan complet, qui doit être finalisé au mois de décembre 2011. Les principaux axes en sont, au vu de la situation des hépatites en Algérie : l’affectation de médecins spécialistes dans les régions endémiques ; l’installation de deux appareils pour PCR à l’est et à l’ouest du pays pour la décentralisation des examens complémentaires, la création de centres de référence dans les principales régions.
 
@@ -138,27 +138,27 @@ Au regard de tous ces aspects, les réseaux et associations,  en conjuguant leu
     *   Les conséquences sur les malades et les familles,
     *   Les  conséquences sur les futures générations, l’hépatite B étant une infection sexuellement transmissible,
     *   Le manque à gagner en termes de productivité,
-    *   Le manque à gagner sur les caisses d’assurance maladie.
-*   Des acteurs-clés de l’information, de la sensibilisation et de la communication pour le changement de comportement à tous les niveaux restent les malades eux-mêmes ; car à l’instar des associations de personnes vivant avec le VIH et le SIDA, les associations de personnes vivant avec les hépatites ont un rôle important à jouer dans la lutte contre leur maladie, entre autres.
+    *   Le manque à gagner sur les caisses d’assurance maladie.  
+*   Des acteurs-clés de l’information, de la sensibilisation et de la communication pour le changement de comportement à tous les niveaux restent les malades eux-mêmes ; car à l’instar des associations de personnes vivant avec le VIH et le SIDA, les associations de personnes vivant avec les hépatites ont un rôle important à jouer dans la lutte contre leur maladie, entre autres.  
 *   S’identifier pour des questions de statistiques pour la perception de l’ampleur de la problématique :
     *   Connaître la prévalence réelle des hépatites au niveau national,
     *   Estimer l’ampleur de la problématique,
-    *   Identifier les groupes vulnérables.
+    *   Identifier les groupes vulnérables.  
 *   Des focus pour la mobilisation, la collecte des informations, des statistiques, la conception des messages et de leur dissémination en vue de jouer le rôle de groupe de soutien et de parole pour les membres :
     *   Appui aux médecins dans l’acceptation du diagnostic par les patients,
     *   Autosoutien aux membres grabataires,
-    *   Prise en charge psychosociale.
-*   Une coalition de forte pression pouvant fédérer les efforts/énergies pour porter les débats et la prise en compte des hépatites au niveau régional, sous-régional et mondial (Nord-Sud) par la création de fonds privés pour mener de activités de prévention et de promotion.
+    *   Prise en charge psychosociale.  
+*   Une coalition de forte pression pouvant fédérer les efforts/énergies pour porter les débats et la prise en compte des hépatites au niveau régional, sous-régional et mondial (Nord-Sud) par la création de fonds privés pour mener de activités de prévention et de promotion.  
     *   Cotisation,
     *   Téléthon,
     *   Formulation des requêtes de financement,
-    *   Développement du partenariat avec les gouvernements.
+    *   Développement du partenariat avec les gouvernements.  
 *   Moyen de redevabillité pour :
     *   Suivre l’utilisation des fonds,
     *   Suivre l’utilisation des stocks de médicaments destinés aux malades,
     *   Dénoncer les malversations,
-    *   Valoriser les bonnes pratiques.
-*   Des cibles pour rendre le système de santé réactif.
+    *   Valoriser les bonnes pratiques.  
+*   Des cibles pour rendre le système de santé réactif.  
     *   Opportunité d’amélioration des plateaux techniques des structures de soins pour un meilleur diagnostic,
     *   Opportunité d’amélioration du système d’information sanitaire pour une meilleure prise de décision,
     *   Amélioration de la qualité de prise en charge.

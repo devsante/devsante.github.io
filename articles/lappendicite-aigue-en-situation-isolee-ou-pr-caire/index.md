@@ -13,19 +13,20 @@ L'appendice s'implante pratiquement toujours :
 - à la face interne du bas fond cæcal,
 - au point de convergence des trois bandelettes musculaires longitudinales qui parcourent le cæcum (ce qui permet au chirurgien, dans les cas difficiles, de le retrouver en suivant les bandelettes),
 - au- dessous et en arrière de la valvule iléo-cæcale, point d'arrivée de l'iléon (terminaison de l'intestin grêle) dans le cæcum.
+
 ![](appendice-anato.jpg)
 
 En effet, si cette implantation de l’appendice est constante, il n’en va pas de même pour son corps et pour sa pointe qui peuvent donc siéger très à distance si l’appendice est long, par exemple dans le pelvis (P), dans la région meso-cœliaque (MC) au milieu des anses grêles, dans la région sous-hépatique (SH), ou encore derrière le cæcum (RC) auquel il reste alors le plus souvent fixé sous la séreuse colique. Nous verrons que ces variations anatomiques peuvent être alors responsables de pièges dans le diagnostic clinique et de difficultés pour trouver l’appendice au début de l’opération. 
 
 ## Histoire naturelle de l'appendicite
-L'inflammation de l'appendice est souvent due à une infection intestinale banale, l'appendice réagissant alors comme le ferait un ganglion. Parfois aussi à une obstruction de l'appendice par un stercolithe (petite masse dure de matières fécales) ou par des parasites (oxyures, ascaris). La typhoïde peut aussi se localiser à ce niveau.
+L'inflammation de l'appendice est souvent due à une infection intestinale banale, l'appendice réagissant alors comme le ferait un ganglion. Parfois aussi à une obstruction de l'appendice par un stercolithe (petite masse dure de matières fécales) ou par des parasites (oxyures, ascaris). La typhoïde peut aussi se localiser à ce niveau.  
 Une fois infecté, l'appendice va évoluer par les étapes habituelles de l'infection : 
-### 1. Stade inflammatoire. 
-L'appendice est turgescent, hypervascularisé et tendu. Autour de lui, le péritoine est peu ou pas touché par cette inflammation.
+### 1. Stade inflammatoire.  
+L'appendice est turgescent, hypervascularisé et tendu. Autour de lui, le péritoine est peu ou pas touché par cette inflammation.  
 ### 2. Suppuration . L’infection devient purulente, pouvant évoluer : 
 - Soit vers la **péritonite généralisée** (en un temps) par propagation de l’infection de proche en proche dans la cavité péritonéale,
-- Soit vers **l’abcès appendiculaire franc** qui peut lui-même s’ouvrir secondairement en provoquant une péritonite (en deux temps). 
-- Soit vers le **plastron appendiculaire**, sorte de masse mal limitée englobant avec l’appendice le cæcum, les anses grêle et l’épiploon de voisinage, où le facteur inflammatoire (infiltration œdémateuse et hypervascularisée) l’emporte sur le facteur suppuratif (diffus et sans abcès prédominant). Ce plastron peut lui aussi évoluer vers la péritonite généralisée. Son traitement chirurgical « à chaud » peut être malaisé et dangereux (risque de blessure intestinale) et dans un premier temps, si l’on est sûr du diagnostic, on peut lui préférer un traitement médical (cf. infra : « Conduite à tenir »).
+- Soit vers **l’abcès appendiculaire franc** qui peut lui-même s’ouvrir secondairement en provoquant une péritonite (en deux temps).  
+- Soit vers le **plastron appendiculaire**, sorte de masse mal limitée englobant avec l’appendice le cæcum, les anses grêle et l’épiploon de voisinage, où le facteur inflammatoire (infiltration œdémateuse et hypervascularisée) l’emporte sur le facteur suppuratif (diffus et sans abcès prédominant). Ce plastron peut lui aussi évoluer vers la péritonite généralisée. Son traitement chirurgical « à chaud » peut être malaisé et dangereux (risque de blessure intestinale) et dans un premier temps, si l’on est sûr du diagnostic, on peut lui préférer un traitement médical (cf. infra : « Conduite à tenir »).  
 En l’absence de traitement, l’évolution d’une appendicite suppurée se fait vers la mort par septicémie secondaire à un abcès ou à une péritonite.
 
 ## La clinique 
@@ -33,47 +34,48 @@ En situation précaire ou isolée, c’est sur elle qu’il faut compter avant t
 
 ### Symptômes
 #### La douleur abdominale spontanée (exprimée par le patient)
-Le plus souvent : elle est iliaque droite mais parfois médio-abdominale ou épigastrique, notamment chez l’enfant. Elle est continue et rarement très intense au début (contrairement à l’intensité et les paroxysmes des coliques hépatiques et néphrétiques et des occlusions par volvulus du grêle).
+Le plus souvent : elle est iliaque droite mais parfois médio-abdominale ou épigastrique, notamment chez l’enfant. Elle est continue et rarement très intense au début (contrairement à l’intensité et les paroxysmes des coliques hépatiques et néphrétiques et des occlusions par volvulus du grêle).  
 #### Les signes digestifs associés
-Nausées, vomissements, diarrhée ou constipation sont classiques mais n’ont rien de spécifique et peuvent manquer.
+Nausées, vomissements, diarrhée ou constipation sont classiques mais n’ont rien de spécifique et peuvent manquer.  
 ####La fièvre et l’hyperleucocytose
 Ce sont des critères d’infection, utiles pour évaluer la gravité et l’urgence opératoire quand ils existent et quand le diagnostic d’appendicite est évoqué en premier, mais ils peuvent manquer, y compris dans des formes graves…
 
 ### Examen physique
-Il n’a de valeur que si sa technique est rigoureuse (détaillée dans [2]).
-**La langue** est rarement normale, blanche ou brune, signant un problème digestif.
-**La douleur provoquée de la fosse iliaque droite** est le seul signe pratiquement constant, y compris dans les formes ectopiques car, rappelons-le, si la pointe de l’appendice peut être en situation anormale et correspondre à une douleur provoquée hors de la FID, sa base reste en règle localisée dans la FID. 
-*On peut donc* a priori *éliminer le diagnostic d’appendicite si toute la fosse iliaque est souple et indolore*. 
+Il n’a de valeur que si sa technique est rigoureuse (détaillée dans [2]).  
+**La langue** est rarement normale, blanche ou brune, signant un problème digestif.  
+**La douleur provoquée de la fosse iliaque droite** est le seul signe pratiquement constant, y compris dans les formes ectopiques car, rappelons-le, si la pointe de l’appendice peut être en situation anormale et correspondre à une douleur provoquée hors de la FID, sa base reste en règle localisée dans la FID.  
+*On peut donc* a priori *éliminer le diagnostic d’appendicite si toute la fosse iliaque est souple et indolore*.  
 Pour sensibiliser la douleur provoquée, quand elle est peu importante, il faut placer le patient en décubitus latéral gauche de 3/4, de façon à laisser dernières anses grêles quitter la FID, la cuisse droite étant étendue de façon à déplacer vers l’avant l’ensemble caecum-appendice. Cette douleur provoquée n’a de valeur que si elle est retrouvée de façon permanente au cours de l’examen, et d’un examen à l’autre. D’où l’importance, en cas de doute, de répéter l’examen clinique. 
+
 ![](appendpalpation.jpg)
 
 **L’existence d’une défense pariétale ou *a fortiori* d’une contracture** (telles qu’elles sont définies dans l’article [1]) signifie « péritonite ». Il importe alors d’en apprécier l’étendue, notamment au delà de la ligne médiane, pour le choix de la voix d’abord chirurgicale.
 
 **Les touchers pelviens** (rectal et vaginal) ne sont utiles que si l’on maîtrise bien la technique rigoureuse et douce de ces examens, et la faculté de les interpréter. Ils recherchent essentiellement une douleur en haut et à droite. Cette douleur provoquée n’est pas nécessaire au diagnostic de l’appendicite mais elle signe son extension vers le bas s’il existe par ailleurs une douleur provoquée nette de la FID. Le toucher vaginal est aussi utile pour éliminer une masse pelvienne ou une infection pelvienne de la femme si le diagnostic d’appendicite reste incertain.
 
-## Examens complémentaires.
+## Examens complémentaires.  
 **Une hyperleucocytose** sur la numération-formule sanguine (10 000 à 12 000 GB au début, puis 20 000 et plus au stade d'abcès) peut manquer. Elle est surtout un critère de décision opératoire rapide quand elle est associée à une douleur provoquée nette de la FID . 
 
 **Le dosage de la CRP**, s’il et réalisable, est rarement normal dans une appendicite aigue. Au dessus de 12 mg/L, il est surtout utile (comme l’hyperleucocytose) pour décider une opération rapide s’il existe une douleur provoquée nette de la FID.
 
 **L’échographie**
-Elle est facile à faire, mais pas toujours facile à interpréter. Elle est surtout utile pour rechercher une collection abcédée de la FID. Un examinateur entraîné peut parfois reconnaître un appendice élargi avec des parois épaissies, ce qui permet pratiquement alors d’affirmer le diagnostic (sans pour autant préciser le degré d’urgence opératoire). Dans les mêmes mains expérimentées, la constatation d’un épaississement pariétal de l’iléon terminal et  de grosses adénopathies mésentérique plaide en faveur d’une adénolymphite et contre une appendicite. 
+Elle est facile à faire, mais pas toujours facile à interpréter. Elle est surtout utile pour rechercher une collection abcédée de la FID. Un examinateur entraîné peut parfois reconnaître un appendice élargi avec des parois épaissies, ce qui permet pratiquement alors d’affirmer le diagnostic (sans pour autant préciser le degré d’urgence opératoire). Dans les mêmes mains expérimentées, la constatation d’un épaississement pariétal de l’iléon terminal et  de grosses adénopathies mésentérique plaide en faveur d’une adénolymphite et contre une appendicite.  
 *Mais une échographie normale ne permet pas  d’éliminer le diagnostic*.
 
 **Les radiographies d’abdomen**
 Elles ne sont pas utiles pour le diagnostic  de l’appendicite en elle-même, mais peuvent l’être :
 - quand il existe une suspicion de péritonite (défense ou contracture) pour éliminer un pneumopéritoine qui orienterait vers une perforation digestive (et modifierait la voie d’abord) ;
-- quand il existe des signes cliniques d’occlusion, pour confirmer cette occlusion (images hydro-aériques), signant alors une appendicite évoluée ou une occlusion d’une autre cause.
+- quand il existe des signes cliniques d’occlusion, pour confirmer cette occlusion (images hydro-aériques), signant alors une appendicite évoluée ou une occlusion d’une autre cause.  
 *NB. La constatation échographique ou radiologique d’un stercolithe  dans la FID n’est qu’un signe d’orientation et ne suffit en aucun cas à lui seul au diagnostic d’appendicite*. 
 
 **Le scanner ?**
-Dans les pays industrialisés, il a fait la preuve de son grand intérêt diagnostique et décisionnel ; et malgré son caractère irradiant et son coût, il a permis d’éliminer un grand nombre d’appendicectomies inutiles. Dans les pays en développement, il ne peut profiter encore qu’à une infime minorité de patients. Il n’a donc malheureusement pas sa place dans le contexte de précarité ou d’isolement dans lequel se place cet article.
+Dans les pays industrialisés, il a fait la preuve de son grand intérêt diagnostique et décisionnel ; et malgré son caractère irradiant et son coût, il a permis d’éliminer un grand nombre d’appendicectomies inutiles. Dans les pays en développement, il ne peut profiter encore qu’à une infime minorité de patients. Il n’a donc malheureusement pas sa place dans le contexte de précarité ou d’isolement dans lequel se place cet article.  
  
 ## Conduite à tenir en pratique
 Au terme de l’examen clinique et des éventuels examens complémentaires :
 
 ### 1- Ou bien le tableau clinique est net : 
-Il existe une douleur provoquée vive, restant localisée à la FID, et sans autre diagnostic apparent.
+Il existe une douleur provoquée vive, restant localisée à la FID, et sans autre diagnostic apparent.  
 **Il faut se baser sur l’existence ou non de trois facteurs de gravité :**
 - défense ou contracture (signant la péritonite) ;
 - *fièvre supérieure à 38 ° ;
@@ -83,8 +85,8 @@ Il existe une douleur provoquée vive, restant localisée à la FID, et sans aut
 **S’il existe au moins un des facteurs**, il faut opérer en urgence (dans les 24 heures). La voie d’abord peut alors être une voie localisée iliaque droite de type Mc Burney ou Jalaguier. Mais s’il existe une défense ou une contracture dépassant la ligne médiane, une voie d’abord médiane est indiquée.
 
 **En l’absence de ces trois signes de gravité**, on peut s’abstenir d’opérer d’emblée. On peut prescrire un antispasmodique, mais pas d’antibiotiques car ils risquent de masquer les critères de gravité ci-dessus. Il faut garder le patient pour surveillance (notamment sa douleur provoquée), en se donnant le temps de rechercher une autre cause, médicale. Par exemple : 
-- une typhoïde, en cas de diarrhée aiguë. Pratiquer alors un test de sérodiagnostic si l’hémoculture n’est pas possible.
-- une adénolymphite aiguë chez l’enfant (inflammation des ganglions du mésentère, le plus souvent sans gravité et spontanément résolutive) pouvant parfois être soupçonnée, voire confirmée, à l’échographie. Elle permet alors d’éviter une appendicectomie inutile et de vérifier la disparition progressive des adénopathies en quelques semaines.
+- une typhoïde, en cas de diarrhée aiguë. Pratiquer alors un test de sérodiagnostic si l’hémoculture n’est pas possible.  
+- une adénolymphite aiguë chez l’enfant (inflammation des ganglions du mésentère, le plus souvent sans gravité et spontanément résolutive) pouvant parfois être soupçonnée, voire confirmée, à l’échographie. Elle permet alors d’éviter une appendicectomie inutile et de vérifier la disparition progressive des adénopathies en quelques semaines.  
 En l’absence de certitude sur un autre diagnostic, l’intervention reste justifiée et prudente si la douleur provoquée persiste au delà de 2-3 jours sans autre explication ou s’il apparaît un des trois signes de gravité indiqués ci-dessus.
 
 ### 2- Ou bien le tableau clinique est moins net 
@@ -94,7 +96,7 @@ On pense à l’appendicite parce qu’il existe une douleur provoquée de la FI
 
 **La douleur provoquée siège aussi ailleurs :**
 - **Vers le haut**, dans le flanc et l’hypochondre droit. On peut alors imaginer une autre lésion, et principalement :
-    - une perforation d’ulcère duodénal. Voir l’article « Péritonite aiguë » sur ce site [2]. Il y a alors en règle une défense ou une contracture, et la douleur provoquée est souvent étendue au reste de l’abdomen. Il faut opérer en choisissant alors une voie d’abord médiane pour pouvoir faire face aux deux diagnostics.
+    - une perforation d’ulcère duodénal. Voir l’article « Péritonite aiguë » sur ce site [2]. Il y a alors en règle une défense ou une contracture, et la douleur provoquée est souvent étendue au reste de l’abdomen. Il faut opérer en choisissant alors une voie d’abord médiane pour pouvoir faire face aux deux diagnostics.  
     - une cholécystite aiguë, surtout s’il n’existe pas d’intervalle libre, indolore, entre la douleur provoquée et le rebord costal (car l’existence de cet intervalle libre permet d’éliminer une cholécystite aigue). L’échographie est alors utile si elle montre une lithiase vésiculaire. L’opération par médiane s’impose dans le doute, surtout s’il existe une grosse vésicule palpable ou une défense.
 
 - **Vers le bas**, jusqu’au pubis sans intervalle libre (l’existence de cet intervalle libre et l’absence de douleur aux touchers pelviens permettent d’éliminer une infection pelvienne). Chez la femme, on hésite alors avec une infection utéro-salpingienne droite, surtout si l’on constate des leucorrhées et une douleur à la mobilisation utérine. S’il existe une défense sus-pubienne ou hypogastrique, ou une collection visible à l’échographie, l’opération par médiane est justifiée. Sinon un traitement médical (antibiotique + glace sur le bas-ventre) peut être tenté, et poursuivi s’il est efficace au bout de 24 heures.
@@ -129,7 +131,7 @@ Si l'intervention retrouve un appendice sain, il est de toute façon enlevé. Ma
 - des difficultés pour découvrir l’appendice. Pour le chirurgien, la règle est alors d’exposer d’abord la jonction iléo-cæcale et, à partir d’elle de se fier aux trois critères énoncés au chapitre d’anatomie (cf. supra) pour retrouver l’appendice à partir du cæcum ; 
 - des difficultés pour apprécier l’étendue des lésions, ou pour maîtriser leur traitement. La règle pour le chirurgien est alors d’agrandir l'incision, voire de repasser par une incision médiane s’il s’agit d’une péritonite dont l’étendue avait été sous-évaluée avant l’intervention.
 
-**En cas de défense ou de contracture étendues au delà de la FID**, la prudence est de passer d’emblée par une voie d’abord médiane.
+**En cas de défense ou de contracture étendues au delà de la FID**, la prudence est de passer d’emblée par une voie d’abord médiane.  
 L’antibiothérapie curative de complément doit être poursuivie plusieurs jours, jusqu’à l’apyrexie
 
 

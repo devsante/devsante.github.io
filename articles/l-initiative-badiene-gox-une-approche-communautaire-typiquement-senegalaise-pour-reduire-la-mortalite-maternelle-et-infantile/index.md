@@ -8,6 +8,7 @@ date: "2014-03-25"
 
 La promotion de la santé représente un processus social et politique global, qui comprend non seulement des actions visant à renforcer les aptitudes et les capacités des individus mais également des mesures visant à changer la situation sociale, environnementale et économique, de façon à réduire ses effets négatifs sur la santé publique et sur la santé des personnes. La promotion de la santé est le processus qui consiste à permettre aux individus de mieux maîtriser les déterminants de la santé et d’améliorer ainsi leur santé. La participation de la population est essentielle dans toute action de promotion de la santé. » (OMS 1999).
 
+
 ![](mh-strat-determinants-of-health-fr.jpg)
 
 
@@ -20,6 +21,7 @@ Le texte qui suit est un exemple concret d'application des principes de promotio
 Chaque année, un demi-million de femmes meurt à travers le monde. La mortalité et la morbidité maternelles et infantiles  restent un fléau qui frappe durement les pays en développement et plus particulièrement ceux d'Afrique qui comptent à eux seuls 56% des décès mondiaux de mères à l'accouchement (OMS, 2013). Toujours sur le continent africain, on note en moyenne un taux de mortalité maternelle atteignant 429 cas pour 100 000 naissances vivantes (OMS 2013). La mortalité des nouveau-nés reste très préoccupante, de même que la prévalence des maladies infectieuses et la malnutrition (OMS/UNICEF, 2012).  Au Sénégal,  l’objectif de la réduction de la morbidité et de la mortalité maternelles et infantiles est un objectif prioritaire pour l’atteinte des OMD 4 et 5 d’ici 2015, soit: baisser de 2/3 le taux de mortalité des enfants de moins de 5 ans et diminuer de ¾ la mortalité maternelle. En 2011, la mortalité maternelle s’élevait à 392/100 000 naissances vivantes (EDSV). Cette situation demeure préoccupante malgré des acquis notoires. La santé de la mère et de l’enfant demeure le problème de santé publique le plus important au Sénégal. Malgré les efforts consentis, plusieurs sources mentionnent la stagnation des indicateurs de mortalité maternelle et néonatale (MSP, 2010). Des soins appropriés de la santé de la reproduction existent mais, paradoxalement, il y a une insuffisance de l’utilisation des services par cette cible. Le manque d’information et d’assistance aux FAR en est la raison principale.
 
 Pour apporter des solutions à ce problème, le gouvernement du Sénégal a créé « l’initiative Badiène Gox (B.G.) », une approche typiquement sénégalaise qui s’inscrit dans un cadre global, continu et intégré des expériences communautaires de lutte contre la mortalité maternelle et néonatale à travers le soutien aux activités de communication et de mobilisation des ressources de la communauté. Le district sanitaire de Tivaouane, sous l’appui du ministère de la santé et du partenaire _Child Fund, _a intégré les BG dans le dispositif communautaire au niveau des cases de santé, en plus du dispositif des quartiers et des villages.
+
 
 ![](image002-21.jpg)
 
@@ -140,6 +142,7 @@ De plus, l'organisation « en réseaux » étant une nécessité, il faut donc 
 *   Susciter  la création de réseaux  BG pour favoriser des échanges entre elles et consolider les liens de collaboration avec les autres acteurs communautaires ;
 *   Favoriser la création de groupes de pression aptes à négocier avec les autorités et les partenaires pour la mobilisation de ressources.
 
+
 ![](image005-0.jpg)
 
 
@@ -148,5 +151,6 @@ De plus, l'organisation « en réseaux » étant une nécessité, il faut donc 
 En somme, les infirmier(ère)s doivent être au cœur de la pratique en promotion de la santé et être les accompagnatrices des personnes, des familles et des communautés. Il importe d'intégrer une perspective de promotion de la santé dans leurs interventions quotidiennes, c'est-à-dire: reconnaître que la personne est un coproducteur de sa santé et que notre rôle est de favoriser l’empowerment  afin de diminuer les inégalités en matière de santé. Malgré l’insuffisance des ressources, les résultats observés de la stratégie BG à l’échelle du district sanitaire de Tivaouane peuvent être en effet améliorés grâce notamment à une mobilisation des acteurs à tous les niveaux.
 
 De par leur proximité avec les communautés, les infirmières et les infirmiers sont des intervenants de premier plan et doivent affirmer leur rôle pivot entre tous les acteurs, favorisant ainsi le décloisonnement et le travail de collaboration des différents secteurs. L'optimisation des stratégies de promotion de la santé a été désignée comme une condition _sine qua non_ à une meilleure santé des populations. Ses interventions ont pour but de réduire les écarts actuels caractérisant l'état de santé des populations, notamment celui de la mère et de l’enfant, et d'offrir à tous les individus les mêmes ressources et possibilités pour réaliser pleinement leur potentiel de santé (SIDIIEF, 2014).
+
 
 ![](image004-5.jpg)

@@ -10,11 +10,11 @@ Les moustiques du genre Anopheles pondent dans des gîtes d'eau non polluées, m
 
 Pour comprendre comment on peut prévenir le paludisme en évitant les piqûres des mous­tiques qui transmettent le paludisme, il est nécessaire de connaître la bioécologie de ces trois espèces.
 
-*   Toutes les trois piquent aussi les animaux et A. arabiensis préfère piquer les animaux alors que _A. funestus et A. gambiae_ préfè­rent piquer les hommes.
-*   Toutes les espèces se reposent à l'intérieur des habitations que les hommes construisent pour eux-mêmes ou pour les animaux domestiques.
-*   Les femelles prennent, le plus souvent, leur repas de sang à l'intérieur des maisons, mais elles peuvent aussi piquer à l'extérieur.
-*   Elles piquent entre le coucher et le lever du soleil avec un pic de fréquence aux alentours de minuit.
-*   Après son repas de sang, la femelle se repo­sera pour digérer, en général sur le mur de la maison.
+*   Toutes les trois piquent aussi les animaux et A. arabiensis préfère piquer les animaux alors que _A. funestus et A. gambiae_ préfè­rent piquer les hommes.  
+*   Toutes les espèces se reposent à l'intérieur des habitations que les hommes construisent pour eux-mêmes ou pour les animaux domestiques.  
+*   Les femelles prennent, le plus souvent, leur repas de sang à l'intérieur des maisons, mais elles peuvent aussi piquer à l'extérieur.  
+*   Elles piquent entre le coucher et le lever du soleil avec un pic de fréquence aux alentours de minuit.  
+*   Après son repas de sang, la femelle se repo­sera pour digérer, en général sur le mur de la maison.  
 *   Ensuite, elle s'envolera vers un endroit où elle pourra pondre ses oeufs, en général une mare, une rizière ou un champ irrigué sui­vant l'espèce ou la sous-espèce, mais il s'agi­ra toujours d'eau ou de boue humide
 *   Après la ponte, elle regagnera son gîte de repos et cherchera une nouvelle cible où trouver son prochain repas de sang.
 
@@ -101,7 +101,7 @@ Sur le terrain, l'expérience montre que lorsque les gens s'habituent à manipul
 
 Les moustiquaires ont essentiellement deux formes : conique (à base ronde) ou rectangu­laire.
 
-*   Les moustiquaires **coniques** n'ont qu'un point d'attache et sont donc faciles à installer et les gens les apprécient parce qu'on peut les déployer sur un lit à une ou plusieurs places. La moustiquaire pend d'un cerceau ou d'un point unique, elle peut donc facilement s'éta­ler sur la peau du dormeur pendant la nuit et l'exposer aux piqûres des moustiques. Il est donc très important que ces moustiquaires soient soigneusement bordées, c'est-à-dire bien passées sous le matelas de façon à main­tenir la moustiquaire loin de la peau.
+*   Les moustiquaires **coniques** n'ont qu'un point d'attache et sont donc faciles à installer et les gens les apprécient parce qu'on peut les déployer sur un lit à une ou plusieurs places. La moustiquaire pend d'un cerceau ou d'un point unique, elle peut donc facilement s'éta­ler sur la peau du dormeur pendant la nuit et l'exposer aux piqûres des moustiques. Il est donc très important que ces moustiquaires soient soigneusement bordées, c'est-à-dire bien passées sous le matelas de façon à main­tenir la moustiquaire loin de la peau.  
 *   Les moustiquaires **rectangulaires** sont plus difficiles à installer, car il faut quatre points pour les fixer et il faut prendre garde que les liens de fixation soient suffisamment longs pour que la moustiquaire descende de 15 à 20 cm au-dessous du niveau du sommier afin de la border sous le matelas. Pour les personnes dormant par terre, sans matelas, il faudra laisser la moustiquaire traîner sur le sol. Les moustiquaires sont faites pour être utilisées à l'intérieur de la maison ; jusqu'à présent, aucune de celles qui ont été mises sur le mar­ché n'a été testée pour un usage à l'extérieur.
 
 ### 1. Le lavage des moustiquaires

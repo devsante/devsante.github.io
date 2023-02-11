@@ -12,6 +12,7 @@ _**Taille** _: 20 à 30 µm - 40 µm.
 
 _**Mobilité**_ : +; dans les selles, l'amibe se déplace en émettant des pseudopodes courts, un peu transparents qui se forment lentement autour d'elle ; elle bouge peu et fait du "sur place".
 
+
 ![](16.jpg)
 
 
@@ -22,6 +23,7 @@ Chromatine périphérique irrégulièrement répartie le long de la membrane nuc
 
 **Cytoplasme** : endoplasme et ectoplasme distincts. Endoplasme plus ou moins granuleux. Présence de grosses vacuoles bourrées d'inclusions (bactéries, levures, etc.).
 
+
 ![](10.jpg)
 
 
@@ -29,6 +31,7 @@ Chromatine périphérique irrégulièrement répartie le long de la membrane nuc
 
 _Technique de Junod (flottation sur une solution d'iodomercurate de potassium)  
 Ce cliché permet de bien visualiser le noyau qui est du genre Entamoeba. Le caryosome est épais et la chromatine périphérique est irrégulièrement répartie autour de la membrane nucléaire._
+
 
 ![](18.jpg)
 
@@ -49,6 +52,7 @@ Dans la majorité des cas on trouve le kyste mûr à 8 noyaux
 **Cytoplasme** : clair, hyalin réfringent +++  
 8 noyaux petits (faire varier la mise au point du microscope pour les distinguer) : chromatine fine, caryosome souvent central mais épais.
 
+
 ![](09.jpg)
 
 
@@ -68,6 +72,7 @@ Elle existe sous 2 formes :
 **Taille** : 12 à 15 µm (peut mesurer jusqu'à 20 ou 25 µm).
 
 **Mobilité** : ++ ; pseudopode hyalin et transparent qui avance dans une direction déterminée.  
+
 
 ![](15.jpg)
 
@@ -96,10 +101,12 @@ _**Contenu** :_ dans le cytoplasme, présence irrégulière de cristalloïdes à
 
 **Kyste à 4 noyaux :** La vacuole a disparu. Dans le cytoplasme réfringent les noyaux sont difficiles à voir sans coloration.
 
+
 ![](13.jpg)
 
 
 **_Cliché 6_**
+
 
 ![](20.jpg)
 
@@ -107,6 +114,7 @@ _**Contenu** :_ dans le cytoplasme, présence irrégulière de cristalloïdes à
 _**Cliché 7 (gr x 660) :**_  
 **Entamoeba histolytica minuta/dispar _forme végétative_**  
 _MIF coloration. Noyau du genre Entamoeba, régulier avec un caryosome central et punctiforme et une chromatine régulièrement répartie autour de la membrane nucléaire._
+
 
 ![](23.jpg)
 
@@ -137,10 +145,12 @@ Le diagnostic de cette forme se fera essentiellement à l'examen direct.
 
 On doit prélever un échantillon de selles au niveau des glaires dès l'émission des selles. Il faut faire l'examen très rapidement après l'émission des selles car les amibes hématophages sont fragiles, sensibles à la dessiccation et elles meurent rapidement ; elles s'arrondissent, deviennent granuleuses, peuvent se confondre avec les macrophages ; il est alors difficile de faire le diagnostic.
 
+
 ![](11.jpg)
 
 
 **_Cliché 9_**
+
 
 ![](19.jpg)
 
@@ -150,6 +160,7 @@ _Examen direct sans coloration. L'amibe est au centre du cliché,
 allongée et elle contient des hématies digérées. Elle est très active et  
 les pseudopodes qu'elle émet dans une même direction lui permettent  
 de traverser le champ du microscope très rapidement._
+
 
 ![](14.jpg)
 
@@ -172,6 +183,7 @@ _**Cytoplasme** _: présence de petites vacuoles mais peu d'inclusions.
 
 _**Noyau**_ : difficile à voir à l'état frais ; on distingue une chromatine périphérique épaisse, en amas, avec un caryosome de grande taille en général central.
 
+
 ![](24.jpg)
 
 
@@ -185,6 +197,7 @@ _**Cytoplasme**_ : contient de nombreuses petites vacuoles.
 Kyste mature à 4 noyaux difficiles à voir
 
 ##    
+
 ![](25.jpg)
 
 
@@ -218,6 +231,7 @@ _**Cytoplasme**_ : nombreuses petites vacuoles qui se colorent mal à l'iode, no
 _**Noyau**_ : un noyau unique visible à l'état frais. Chromatine périphérique _régulièrement répartie le long de la membrane nucléaire.  
 **Caryosome**_ : en général central ; punctiforme.
 
+
 ![](21.jpg)
 
 
@@ -241,6 +255,7 @@ _**Noyau** _: non visible à l'état frais. Après coloration : on distingue une
 
 _**Caryosome**_ : de grande taille, ovalaire, excentré, qui occupe presque tout le noyau.
 
+
 ![](12.jpg)
 
 
@@ -255,6 +270,7 @@ _**Cytoplasme**_ : hyalin, ni vacuole ni cristalloïde.
 **_Noyaux_** : on distingue bien les caryosomes très réfringents.  
 Les kystes à 3 ou 4 noyaux sont le plus souvent rencontrés; les noyaux sont groupés par 2 aux extrémités du kyste.
 
+
 ![](28.jpg)
 
 
@@ -263,6 +279,7 @@ _**Cliché 17 (gr x 990) - Endolimax nana.** __**Kystes.**_
 _Technique de Junod sans coloration.  
 Sur ce cliché on remarque plusieurs petits kystes, réfringents, avec dans leur cytoplasme des petits points noirs qui correspondent aux caryosomes des noyaux. Ces kystes sont ovalaires ou arrondis.  
 Cliché Dr. A.M. Deluol_
+
 
 ![](07.jpg)
 
@@ -282,6 +299,7 @@ _**Mobilité**_ : + ; pseudopodes à base large. Résistance : lyse rapide.
 
 **_Noyau_ **: Gros et vésiculeux ; membrane périphérique mince ; gros caryosome central arrondi, irrégulier, entouré de granules réfringents.
 
+
 ![](26.jpg)
 
 
@@ -298,10 +316,12 @@ _**Forme**_ : toutes les formes peuvent exister : arrondie, ovale, triangulaire,
 
 _**Noyau** _: unique, de grande taille, qui se voit bien à l'état frais. Caryosome de grande taille entouré d'un halo clair et en général excentré.
 
+
 ![](08.jpg)
 
 
 **_Cliché 19_**
+
 
 ![](22.jpg)
 
@@ -329,10 +349,12 @@ _**Mobilité** _:+; pseudopodes courts et nets en aspect de dentelle.
 **_Cytoplasme_ **: vacuoles peu visibles ; granulations fines +++. Nombreuses inclusions (bactéries, levures).  
 _**2 noyaux** _: difficilement visibles à l'état frais. Après coloration : membrane nucléaire mince, caryosome central formé de 4 à 5 granules chromatiques.
 
+
 ![](17.jpg)
 
 
 _**Cliché 21**_
+
 
 ![](27.jpg)
 

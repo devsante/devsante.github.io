@@ -9,8 +9,8 @@ teaser: "Les maladies parasitaires dues à des protozooses intestinales sont   
 
 L’amoebose (appelée antérieurement amibiase) est due à l’amibe _Entamoeba Histolytica_. Cette amibe essentiellement tropicale se présente sous trois formes avec une fonction différente.
 
-*   forme minuta (12 à 15 microns) mobile, agent d’infestation.
-*   forme histolytica (20 à 30 microns) hématophage, très mobile dans toutes les directions, responsable de la maladie.
+*   forme minuta (12 à 15 microns) mobile, agent d’infestation.  
+*   forme histolytica (20 à 30 microns) hématophage, très mobile dans toutes les directions, responsable de la maladie.  
 *   forme kystique (12 à 14 microns), immobile, arrondie, à 4 noyaux, agent de transmission.
 
 L’homme s’infeste par ingestion des kystes avec l’eau et les crudités. Dans l’intestin, les kystes se transforment en forme minuta qui se multiplient puis s’arrondissent,  deviennent  des  kystes  et  sont  éliminés dans les selles.  
@@ -19,6 +19,7 @@ avec les selles.
 
 **Figure 1 : abcès en "bouton de chemise".**
 
+
 ![](page-35-fig-1.jpg)
 
 
@@ -26,10 +27,12 @@ Les  patients se plaignent de douleurs abdominales avec des diarrhées glairo-s
 
 **Figure 2 : amibiase aiguë, selles glairo-sanglantes**
 
+
 ![](page-35-fig-2.jpg)
 
 
 **Figure 3 : scanner montrant des lacunes hépatiques**
+
 
 ![](page-35-fig-3.jpg)
 
@@ -244,12 +247,14 @@ La giardiose (ou ex-giardiase) est une parasitose cosmopolite due à la présenc
 
 **Figure 4 : schéma de forme végétative et de kyste de _Giardia intestinalis_**
 
+
 ![](page-37-fig-4.jpg)
 
 
 L’homme s’infeste par ingestion de kystes avec l’eau et les crudités. Les Giardia s’accolent sur la paroi duodénale par leur ventouse et provoquent des microtraumatismes. Les formes végétatives se multiplient puis s’enkystent et sont éliminées avec les selles sous forme de kystes (figure 5).
 
 **Figure 5 : cycle de _Giardia intestinalis_**
+
 
 ![](page-37-fig-5.jpg)
 
@@ -258,6 +263,7 @@ Les  patients présentent des épigastralgies, plus ou moins rythmées par les
 Le  diagnostic  est  basé  sur  l’examen  parasitologique des selles qui met en évidence les formes végétatives et les kystes et sur l’aspiration duodénale qui retrouve de nombreuses formes végétatives  (figure 6). Le traitement par les dérivés  imidazolés est rapidement efficace. La prophylaxie est basée sur le respect de l’hygiène alimentaire.
 
 **Figure 6 : formes végétatives de _Giardia intestinalis_**
+
 
 ![](page-38-fig-6.jpg)
 
@@ -269,10 +275,12 @@ Le diagnostic est basé sur l’examen parasitologique des selles qui met en é
 
 **Figure 7 : forme végétative de _Balantidium coli_**
 
+
 ![](page-38-fig-7.jpg)
 
 
 **Figure 8 : biopsie colique avec _Balantidium coli_**
+
 
 ![](page-38-fig-8.jpg)
 
@@ -285,6 +293,7 @@ Il faut bien différencier Cryptosporidium et Cyclospora (Tableau III). Le trait
 
 **Figure 9 : _Cryptosporidium_, coloration de Ziehl-Neelsen**
 
+
 ![](page-39-fig-9.jpg)
 
 
@@ -294,6 +303,7 @@ Cette coccidiose est une zoonose cosmopolite due à _Cyclospora cayetanensis,_ 
 
 **Figure 10 : cycle de _Cyclospora cayentannensis_**
 
+
 ![](page-39-fig-10.jpg)
 
 
@@ -301,6 +311,7 @@ Le diagnostic est établi par l’examen parasitologique des selles ou l’aspi
 Le traitement est basé sur le sulfaméthoxazole-triméthoprime et la prophylaxie sur le respect de l’hygiène alimentaire.
 
 **Figure 11 : _Cyclospora_ dans les selles**
+
 
 ![](page-39-fig-11.jpg)
 
@@ -312,6 +323,7 @@ Le diagnostic est établi par le frottis de selles avec une coloration au trich
 Le traitement n’est que symptomatique et nécessite surtout de renforcer l’immunité du sujet.
 
 **Figure 12 : frottis de selles avec _Microsporidium_**
+
 
 ![](page-39-fig-12.jpg)
 
@@ -429,7 +441,8 @@ chacun 2 sporozoïtes</td>
 
 <tr>
 
-<td colspan="3" rowspan="1">![](page-40-tableau-iii.jpg)
+<td colspan="3" rowspan="1">
+![](page-40-tableau-iii.jpg)
 </td>
 
 </tr>
@@ -462,10 +475,12 @@ Oocystes à 2 sporoblastes (fig. 14). Examen direct sans coloration. Cette forme
 
 <tr>
 
-<td>![](page-40-diapo-a.jpg)
+<td>
+![](page-40-diapo-a.jpg)
 </td>
 
-<td>![](page-40-fig-14.jpg)
+<td>  
+![](page-40-fig-14.jpg)
 </td>
 
 </tr>
@@ -473,6 +488,7 @@ Oocystes à 2 sporoblastes (fig. 14). Examen direct sans coloration. Cette forme
 <tr>
 
 <td class="rtecenter" colspan="2" style="">
+
 
 ![](page-40-dessins-d-isospora-belli1.jpg)
 

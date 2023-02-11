@@ -30,7 +30,9 @@ Malgré la banalité de ces gestes, il semble nécessaire de préciser quelques 
 
 - à la face externe du bras (deltoïde), seulement si le volume à injecter est inférieur à 3 centimètres cube.
 
+
 ![](i591-1.jpg)
+
 ![](i591-2.jpg)
 
 
@@ -40,8 +42,8 @@ Après désinfection de la peau à l'alcool, l'aiguille **seule de préférence,
 
 Avant d'injecter le produit, s'assurer que l'aiguille n'a pas pénétré un vaisseau en aspirant légèrement avec la seringue.
 
-*   L'injection doit être faite lentement.
-*   L'aiguille doit être retirée d'un seul coup.
+*   L'injection doit être faite lentement.  
+*   L'aiguille doit être retirée d'un seul coup.  
 *   Appliquer au point d'injection un tampon alcoolisé et masser légèrement.
 
 **Il. Injection sous-cutanée**
@@ -64,9 +66,10 @@ Cutané est abondant, sans risque de lésion vasculaire ou nerveuse:
 
 Faire, entre le pouce et l'index, un pli cutané et enfoncer rapidement l'aiguille à la base du pli, en la maintenant parallèle à la peau, le biseau vers le haut.
 
-*   Aspirer légèrement pour vérifier l'absence de sang dans la seringue.
-*   Relâcher la peau et injecter lentement.
+*   Aspirer légèrement pour vérifier l'absence de sang dans la seringue.  
+*   Relâcher la peau et injecter lentement.  
 *   Retirer l'aiguille d'un coup sec, puis masser légèrement.
+
 
 ![](i591-3.jpg)
 
@@ -84,6 +87,7 @@ Faire, entre le pouce et l'index, un pli cutané et enfoncer rapidement l'aiguil
 Lors de l'injection, la peau se soulève formant une papule (type peau d'orange) témoignant de la réussite de l'injection intradermique.
 
 Pour l'intradermoréaction à la tuberculine, si une papule n'est pas obtenue, il faut la refaire à un autre endroit.
+
 
 ![](i591-4.jpg)
 

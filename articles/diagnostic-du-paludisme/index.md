@@ -34,11 +34,11 @@ Solution de Giemsa : Giemsa : 1 ml, eau neutre qsp : 10 ml.
 
 Il s'agit d'une technique de concentration utilisable également pour les recherches de trypanosomes et microfilaires :
 
-*   _Dépôt du sang:_ déposer, sur une lame de verre dégraissée, une grosse goutte de sang (2 fois le volume utilisé pour un frottis).
-*   _Défibrination :_ en cas de prélèvement capillaire, pour empêcher la coagulation, avec le coin d'une autre lame ou la pointe d'un vaccinostyle, étaler régulièrement le sang sur une surface de 1 cm de diamètre, en tournant régulièrement pendant 2 minutes.
-*   _Séchage_ : retourner la lame et laisser sécher à plat sur un support, soit pendant 24 heures à la température ambiante soit pendant 1 heure à l'étuve à 37 °C. Ne jamais fixer à la chaleur ou à l'alcool.
-*   _Déshémoglobinisation_ : recouvrir abondamment la goutte épaisse du mélange Giemsa : 3 gouttes, eau neutre : 2 ml.
-*   Laisser agir pendant 5 à 10 minutes jusqu'à décoloration complète. Fixer ensuite à l'alcool méthylique.
+*   _Dépôt du sang:_ déposer, sur une lame de verre dégraissée, une grosse goutte de sang (2 fois le volume utilisé pour un frottis).  
+*   _Défibrination :_ en cas de prélèvement capillaire, pour empêcher la coagulation, avec le coin d'une autre lame ou la pointe d'un vaccinostyle, étaler régulièrement le sang sur une surface de 1 cm de diamètre, en tournant régulièrement pendant 2 minutes.  
+*   _Séchage_ : retourner la lame et laisser sécher à plat sur un support, soit pendant 24 heures à la température ambiante soit pendant 1 heure à l'étuve à 37 °C. Ne jamais fixer à la chaleur ou à l'alcool.  
+*   _Déshémoglobinisation_ : recouvrir abondamment la goutte épaisse du mélange Giemsa : 3 gouttes, eau neutre : 2 ml.  
+*   Laisser agir pendant 5 à 10 minutes jusqu'à décoloration complète. Fixer ensuite à l'alcool méthylique.  
 *   _Coloration_ : jeter le liquide avec précaution (risque de décollement de la pellicule de sang) et remplacer immédiatement par le mélange : Giemsa : 1 ml, eau neutre qsp : 10 ml. Laisser agir 20 minutes puis rejeter le liquide avec précaution. Laver à l'eau du robinet, en faisant couler le liquide très délicatement sur la lame. Sécher à l'air.
 
 ### 3. Étapes successives du diagnostic parasitologique
@@ -54,16 +54,16 @@ L'aspect du parasite varie en effet avec l'espèce en cause et avec son stade d'
 
 _Formes asexuées :_
 
-*   Trophozoïtes : ce sont les formes les plus jeunes, mobiles, forme annulaire pour toutes les espèces. Aspect de bague à châton : anneau bleu, châton rouge, partie interne incolore (vésicule nutritive). Ces formes très jeunes sont sensiblement identiques pour toutes les espèces.
+*   Trophozoïtes : ce sont les formes les plus jeunes, mobiles, forme annulaire pour toutes les espèces. Aspect de bague à châton : anneau bleu, châton rouge, partie interne incolore (vésicule nutritive). Ces formes très jeunes sont sensiblement identiques pour toutes les espèces.  
 *   Schizontes : formes parasitaires débutant au moment où la chromatine commence à se diviser. En vieillissant, les schizontes perdent leur mobilité, augmentent de taille et subissent des divisions nucléaires.  
     À maturité, ils prennent la forme de rosaces :
-    *   Rosaces. La rosace occupe la totalité de l'hématie parasitée. Les noyaux sont rejetés à la périphérie, le pigment parasitaire est ramassé en amas central. À maturité complète, l'hématie éclate et libère un nombre variable de mérozoïtes.
+    *   Rosaces. La rosace occupe la totalité de l'hématie parasitée. Les noyaux sont rejetés à la périphérie, le pigment parasitaire est ramassé en amas central. À maturité complète, l'hématie éclate et libère un nombre variable de mérozoïtes.  
     *   Mérozoïtes. Ils sont de forme ovalaire ou arrondie ; ils possèdent un cytoplasme bleu et une masse de chromatine rouge ou violette après coloration (= noyau).
 
 _Formes sexuées (gamétocytes) :_
 
-*   Formes rondes ou ovalaires remplissant presque entièrement l'hématie. Ils se rencontrent plus tardivement que les formes asexuées. Leur diagnostic est important pour l'épidémiologie et la prophylaxie du paludisme.
-*   Microgamétocytes (mâles) : cytoplasme pâle, mauve ou rose. Les noyaux de _P. vivax, P. malariae et P. ovale,_ sont en masses granuleuses colorées en rouge par le Giemsa.
+*   Formes rondes ou ovalaires remplissant presque entièrement l'hématie. Ils se rencontrent plus tardivement que les formes asexuées. Leur diagnostic est important pour l'épidémiologie et la prophylaxie du paludisme.  
+*   Microgamétocytes (mâles) : cytoplasme pâle, mauve ou rose. Les noyaux de _P. vivax, P. malariae et P. ovale,_ sont en masses granuleuses colorées en rouge par le Giemsa.  
 *   Macrogamétocytes (femelles) : cytoplasme bleu sombre. _P. vivax, P. ovale et P. malariae_ noyau dense, coloré en rouge par le Giemsa.
 
 #### Identification de l'espèce en cause :
@@ -142,6 +142,7 @@ _**A**spect général du frottis_: très panaché, avec présence de tous les st
 
 _**A**spect des hématies parasitées_: taille normale. Lors de la confection du frottis, la pression provoque souvent une ovalisation des hématies parasitées, avec un aspect frangé des contours.
 
+
 ![](i811-1.jpg)
 
 
@@ -206,6 +207,7 @@ Le diagnostic biologique du paludisme devrait pouvoir être effectué devant cha
 Des techniques indirectes ont fait leur apparition : la sérologie n'est pas adaptée au diagnostic d'accès palustre, les techniques de biologie moléculaire doivent être réservées à des laboratoires de recherche, la technique QBC nécessite un matériel approprié et une habitude pour la lecture, quant aux techniques par bandelettes, elles sont apparemment très attractives mais présentent un certain nombre d'inconvénients dont un des principaux est le coût.
 
 **Pour toutes ces raisons, la méthode** **de référence reste encore l'examen** **microscopique d'un frottis-goutte épaisse coloré par le Giemsa.**
+
 
 ![](i811-2.jpg)
 

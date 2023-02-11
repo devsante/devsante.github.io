@@ -23,7 +23,7 @@ Le panaris évolue en trois stades :
 
 Suivant la localisation, le panaris peut être **superficiel ou sous-cutané**.
 
-*   Le panaris **superficiel** siège dans l'épaisseur du revêtement cutané. Il peut être localisé au niveau de la région unguéale ; il s'agit du classique panaris péri-unguéal pouvant s'étendre en sous-unguéal. C'est le panaris le plus fréquemment rencontré. Il peut également se situer a la face palmaire du doigt, c'est le panaris phlycténoïde ou en bouton de chemise s'il communique avec un panaris sous-cutané par un étroit pertuis. Enfin, il peut atteindre la face dorsale du doigt. Il s'agit d'un panaris anthracoïde où le panaris est centré sur un follicule pilo-sébacé réalisant un furoncle de la face dorsale de la première phalange, d'évolution classique.
+*   Le panaris **superficiel** siège dans l'épaisseur du revêtement cutané. Il peut être localisé au niveau de la région unguéale ; il s'agit du classique panaris péri-unguéal pouvant s'étendre en sous-unguéal. C'est le panaris le plus fréquemment rencontré. Il peut également se situer a la face palmaire du doigt, c'est le panaris phlycténoïde ou en bouton de chemise s'il communique avec un panaris sous-cutané par un étroit pertuis. Enfin, il peut atteindre la face dorsale du doigt. Il s'agit d'un panaris anthracoïde où le panaris est centré sur un follicule pilo-sébacé réalisant un furoncle de la face dorsale de la première phalange, d'évolution classique.  
 *   Le panaris **sous-cutané** peut toucher indifféremment une phalange mais le plus fréquent est le panaris de la pulpe, très douloureux, faisant disparaître la pseudo-fluctuation de cette région qui est augmentée de volume au stade phlegmasique et sous tension au stade de collection.
 
 #### b. Diagnostic paraclinique
@@ -42,13 +42,17 @@ Le traitement est chirurgical, avec excision complète de tous les tissus nécro
 
 Un panaris péri-unguéal ou penonyxis situé superficiellement doit être excisé _(figure n° 1_). Il faut enlever un petit croissant de peau en respectant le bord de l'ongle, nettoyer et laver la petite zone infectée qui guérira spontanément en quelques jours. lorsque la suppuration est plus profonde (figures n° 2, 3 et 4) et qu'elle est passée sous l'ongle, il faut alors l'évacuer complètement en soulevant l'ongle.
 
+
 ![](i874-1.jpg)
 
 
 On effectue une incision qui peut être unilatérale ou bilatérale, verticale, et qui permet de soulever le replis unguéal et l'ongle. Il faut faire attention à ne pas abîmer la matrice unguéale. Tout le segment d'ongle qui a été soulevé et décollé du lit par l'infection doit être réséqué, la zone largement lavée avec un antiseptique et laissée ouverte à la cicatrisation spontanée. La repousse de l'ongle recouvrira rapidement cette zone.
 
+
 ![](i874-2.jpg)
+
 ![](i874-3.jpg)
+
 ![](i874-4.jpg)
 
 
@@ -75,6 +79,7 @@ Il existe deux modes de contamination :
 
 On retrouve les mêmes germes que pour les panaris et, il peut exister le même terrain prédisposant. Les doigts les plus fréquemment atteints sont, par ordre de fréquence décroissante, le médius, l'index puis le pouce,
 
+
 ![](i874-5.jpg)
 
 
@@ -85,7 +90,7 @@ Ils siègent sur les gaines synoviales des fléchisseurs des doigts. Anatomiquem
 #### Les lésions synoviales évoluent en trois stades :
 
 *   _stade I_, inflammatoire caractérisé par l'apparition d'une sérosité exsudative, distendant progressivement la gaine. Le liquide est louche, la synoviale hypervascularisée ;
-*   _stade II_, purulent caractérisé par une synovite purulente. La synoviale et granuleuse hypertrophiée et hypervascularisée. Si le liquide est franchement purulent, le tendon est encore intact.
+*   _stade II_, purulent caractérisé par une synovite purulente. La synoviale et granuleuse hypertrophiée et hypervascularisée. Si le liquide est franchement purulent, le tendon est encore intact.  
 *   _stade III,_ de fistulisation caractérisé par la nécrose infectieuse du tendon, devenu un véritable séquestre infectant la gaine qui est rompue au cul-de-sac supérieur, et laisse diffuser l'infection.
 
 Cliniquement, le doigt est gonflé, rouge, douloureux spontanément, adopte une position fléchie et toute tentative de l'étendre est fort douloureuse. La pression directe sur la gaine est également douloureuse. il peut exister des adénopathies satellites. Enfin, le patient présente de la fièvre .
@@ -98,6 +103,7 @@ Il existe deux espaces celluleux à la main _(figure n° 7_) :
 *   l'espace palmaire subdivisé par l'aponévrose palmaire superficielle en un espace sus-aponévrotique, siège du phlegmon phlycténutaire et un espace sous-aponévrotique. Celui-ci comprend les loges thénarienne, hypo-thénarienne et palmaire moyenne.
 
 Ces deux espaces communiquent entre eux et avec l'espace dorsal, au niveau de la racine des doigts, siège du phlegmon commissural. Le phlegmon celluleux associe du pus en quantité variable et une nécrose de tissu cellulaire de l'espace. Les risques de diffusion sont grands par les communications anatomiques entre les espaces et par les voies lymphatiques.
+
 
 ![](i874-6.jpg)
 
@@ -121,12 +127,14 @@ L'intervention est réalisée sous garrot pneumatique mais sans vidange, à l'ai
 
 En cas de phlegmon des gaines _(figure n° 8),_ une première incision transversale dans la paume permet d'aborder directement la gaine qui est gonflée. Elle est alors ouverte, permettant l'écoulement d'un liquide qui peut être simplement trouble et purulent. Un prélèvement est effectué. Une deuxième incision est effectuée au niveau de la porte d'entrée qui est excisée. Cette contre-incision permet également d'ouvrir la gaine au niveau du doigt. On introduit un cathéter dans la gaine du fléchisseur touché, afin de pratiquer un lavage abondant au sérum physiologique. L'incision digitale peut être alors fermée. Au niveau de la paume, les tendons fléchisseurs sont explorés à la recherche d'une atteinte directe. Lorsque l'infection date, on retrouve parfois des nécroses partielles voire totales du tendon fléchisseur superficiel nécessitant une excision. L'incision de la paume est fermée par un ou deux points, et la main est mobilisée en légère flexion des doigts, poignet en rectitude par une attelle plâtrée.
 
+
 ![](i874-7.jpg)
 
 
 #### b. Phlegmon des espaces celluleux
 
 En cas de phlegmon des espaces celluleux _(figure n°_ 9), on pratique une excision de tous les tissus infectés et un drainage sur le même principe.  
+
 ![](i874-8.jpg)
   
 Une antibiothérapie générale est mise en route ou poursuivie. Enfin, il faut, bien entendu, ne pas oublier la prophylaxie antitétanique.
@@ -144,6 +152,7 @@ Les complications sont représentées par la nécrose tendineuse, la nécrose cu
 ## III. Conclusion
 
 Les infections de la main sont des urgences chirurgicales et celles-ci ne doivent pas être négligées afin de ne pas risquer d'avoir des séquelles fonctionnelles et esthétiques importantes sur cet organe social majeur qu'est la main.
+
 
 ![](i874-9.jpg)
 

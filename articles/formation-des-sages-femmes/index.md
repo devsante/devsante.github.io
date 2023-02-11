@@ -135,9 +135,9 @@ Cela nécessite du temps, du calme, du respect, des paroles de part et d'autre e
 
 Ce troisième point se situe en amont des deux points précédents. Il regroupe un autre aspect du travail de la sage-femme dans le domaine de la prévention.
 
-*   Évaluation-connaissance de l'état sanitaire du pays (de la région).
-*   Planification familiale.
-*   Dépistage des grossesses à hauts risques.
+*   Évaluation-connaissance de l'état sanitaire du pays (de la région).  
+*   Planification familiale.  
+*   Dépistage des grossesses à hauts risques.  
 *   Informations :
 
 *   au niveau "tête" : connaissance du déroulement de la grossesse, de l'accouchement, des soins aux nouveau-nés ;

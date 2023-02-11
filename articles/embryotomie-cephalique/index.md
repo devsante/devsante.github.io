@@ -55,6 +55,7 @@ L'état du bassin maternel importe peu. En effet, la mort foetale intrapartum da
 
 - 1 porte-aiguille et une pince à disséquer.
 
+
 ![](i732-1.jpg)
 
 
@@ -70,7 +71,9 @@ On y a rarement recours. Si on l'utilise, il faut préférer le Fluothane® qui 
 
 - l'opérateur réalise une incision transversale du cuir chevelu foetal sur 3 à 4 cm,
 
+
 ![](i732-2.jpg)
+
 
 
 ![](i732-3.jpg)
@@ -104,6 +107,7 @@ Après l'extraction du foetus, on complète la manoeuvre par une délivrance art
 ### **Conclusion**
 
 Entre les mains d'un opérateur bien entraîné, cette technique permet d'éviter de recourir à la césarienne sur enfant mort, césarienne dont les risques ne sont pas négligeables dans notre contexte.
+
 
 ![](i732-4.jpg)
 

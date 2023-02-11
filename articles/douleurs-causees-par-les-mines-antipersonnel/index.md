@@ -61,8 +61,8 @@ La réinsertion familiale et sociale des amputés passe par la mise en place d'u
 
 Les douleurs sont de plusieurs types :
 
-*   Douleurs secondaires à la chirurgie : moignon mal reconstitué, section osseuse insuffisante, etc.
-*   Douleurs secondaires à des phénomènes inflammatoires ou infectieux.
+*   Douleurs secondaires à la chirurgie : moignon mal reconstitué, section osseuse insuffisante, etc.  
+*   Douleurs secondaires à des phénomènes inflammatoires ou infectieux.  
 *   Douleurs secondaires à l'amputation elle-même : douleurs du membre fantôme ou algohallucinose.
 
 La sensation de la présence du membre amputé ou sensation fantôme ou hallucinose est très fréquente puisqu'elle se retrouve chez 8 amputés sur 10 environ. Il s'agit de sensations non douloureuses très variées à type de chaud, froid, toucher et de mouvements incontrôlables. En revanche l'algohallucinose est plus rare puisqu'elle intéresse, à terme, 40 à 50 % des amputés.

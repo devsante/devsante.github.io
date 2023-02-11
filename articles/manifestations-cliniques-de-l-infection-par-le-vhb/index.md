@@ -17,7 +17,7 @@ Alors, 4 évolutions sont possibles :
 
 *   Guérison complète, clinique et biologique, avec disparition du virus dans le sang et dans les sécrétions sexuelles...
 
-*   A l'inverse, dans 1% des cas se déclare une hépatite fulminante dont la mortalité est proche de 1 00 % en quelques jours.
+*   A l'inverse, dans 1% des cas se déclare une hépatite fulminante dont la mortalité est proche de 1 00 % en quelques jours.  
 *   On peut voir une hépatite chronique avec dégradation progressive du foie, installation d'une cirrhose se compliquant, dans 30 % à 40 % des cas, d'un cancer du foie toujours mortel.
 
 *   Le portage chronique est la dernière possibilité pouvant à tout moment évoluer vers une forme aiguë ou une cirrhose.
@@ -32,7 +32,9 @@ C'est dire si la vaccination est impérative dans l'entourage d'un sujet infect�
 **La clinique seule ne permet absolument pas  
 d'affirmer que l'on est en présence d'une infection à VHB.**
 
+
 ![](i911-1.jpg)
+
 ![](i911-2.jpg)
 
 
@@ -53,6 +55,7 @@ S'il existe une antigénémie HBe associée à l'antigène HBs, le risque de con
 Si la mère est HBe négative, le risque n'est que de 30 %.
 
 Cliniquement, le nouveau né infecté n'est pas immédiatement malade, mais comme tous les porteurs chroniques, il risque de développer une hépatite chronique, une cirrhose ou un cancer du foie quelques années plus tard. A l'inverse, un petit nombre de nouveau-nés infectés (moins de 3 %) développent vers 3 mois une hépatite aiguë, parfois mortelle. La vaccination, dès la naissance, est le seul traitement préventif qui évite, dans 98 % des cas, toutes ces complications redoutables. Sur 100 nouveau nés infectés à la naissance, 40 feront un cancer du foie vers 40 ans.
+
 
 ![](i911-3.jpg)
 
@@ -136,6 +139,7 @@ Les veines intra-hépatiques étant comprimées par la fibrose, la pression dans
 *   une splénomégalie,
 *   surtout des varices oesophagiennes dont la rupture peut entraîner une hémorragie digestive qui peut être mortelle _(figure 5)._
 
+
 ![](i911-4.jpg)
 
 
@@ -152,6 +156,7 @@ Elle entraîne :
 Au stade suivant, c'est l'encéphalopathie avec troubles du comportement : alternance d'apathie et d'agitation, instabilité, désorientation puis état confusionnel et somnolence croissante.
 
 A l'examen, il existe un tremblement lent des extrémités, c'est le _flapping tremor_ s'accompagnant d'une odeur ammoniacale de l'haleine. L'hypertonie extrapyramidale au niveau des membres est fréquente.
+
 
 ![](i911-5.jpg)
 
@@ -204,6 +209,7 @@ Pour éviter les conséquences de l'infection par le VHB, pensons VACCINATION !
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>

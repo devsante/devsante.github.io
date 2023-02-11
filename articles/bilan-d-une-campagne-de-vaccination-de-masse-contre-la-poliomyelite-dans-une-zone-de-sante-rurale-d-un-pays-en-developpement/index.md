@@ -29,16 +29,16 @@ Les infirmiers-chefs de centre ont vacciné chez eux, aidés de leurs comités d
 
 #### **b. Matérielles**
 
-*   Les vaccins, accumulateurs de froid et glacières ont été fournis par l'Unicef, par l'intermédiaire de l'antenne régionale du PEV (Plan Elargi de Vaccination).
-*   Les réfrigérateurs : le BCZ n'en possède qu'un seul, déjà occupé par les vaccins du programme normal. Celui du centre de santé de référence et celui de l'équipe de MDM ont été utilisés.
+*   Les vaccins, accumulateurs de froid et glacières ont été fournis par l'Unicef, par l'intermédiaire de l'antenne régionale du PEV (Plan Elargi de Vaccination).  
+*   Les réfrigérateurs : le BCZ n'en possède qu'un seul, déjà occupé par les vaccins du programme normal. Celui du centre de santé de référence et celui de l'équipe de MDM ont été utilisés.  
 *   Les congélateurs : étant en zone rurale, non électrifiée, il a été très difficile de trouver un congélateur.
 
 À la première phase, deux particuliers ont permis d'utiliser les leurs chez eux : les congélateurs, comme les réfrigérateurs, sont à pétrole, ils refroidissent donc moins bien, d'autant que la charge était importante et le temps de refroidissement limité (retour tard le soir et départ tôt le matin).
 
 À la deuxième phase, nous avons pu louer, à notre domicile, deux congélateurs. Le travail a été d'autant plus facilité et le temps de refroidissement largement augmenté.
 
-*   Les cupules et plateaux ont été prêtés par le BCZ.
-*   Les seringues (jetables) de dilution (2 800 à 5 cc) et d'injection (40 000 à 1 cc), les sacs poubelles (140) pour la récupération des aiguilles que nous brûlions tous les jours, les savons (80), le coton (9 000 g) ont ;été financés par MDM.
+*   Les cupules et plateaux ont été prêtés par le BCZ.  
+*   Les seringues (jetables) de dilution (2 800 à 5 cc) et d'injection (40 000 à 1 cc), les sacs poubelles (140) pour la récupération des aiguilles que nous brûlions tous les jours, les savons (80), le coton (9 000 g) ont ;été financés par MDM.  
 *   Les véhicules : trois Land Rover et une moto (pour les endroits inaccessibles en voiture) ont été utilisés.
 
 ## **III. Déroulement** **de la campagne**

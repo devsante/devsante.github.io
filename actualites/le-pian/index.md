@@ -13,8 +13,8 @@ Le diagnostic se fait essentiellement sur la clinique :
 
 On observe deux phases principales dans la maladie: la phase précoce (infectieuse) et la phase tardive (non infectieuse).
 
-*   La phase précoce qui dure 3 à 6 mois est contagieuse. Elle est constituée d’ulcérations et de papillomes humides « en framboise » avant de guérir spontanément. Des douleurs et des lésions osseuses peuvent aussi intervenir pendant la première phase.
-*   La phase suivante est composée de lésions sèches et non contagieuses qui évoluent dans 10% des cas vers la phase tardive.
+*   La phase précoce qui dure 3 à 6 mois est contagieuse. Elle est constituée d’ulcérations et de papillomes humides « en framboise » avant de guérir spontanément. Des douleurs et des lésions osseuses peuvent aussi intervenir pendant la première phase.  
+*   La phase suivante est composée de lésions sèches et non contagieuses qui évoluent dans 10% des cas vers la phase tardive.  
 *   Celle ci  se manifeste environ cinq ans après l’infection initiale et se caractérise par des mutilations du nez et des os et par un épaississement des paumes et de la plante des pieds (hyperkératose palmo-plantaire) qui sont très invalidants.
 
 Il est possible d’éradiquer le pian puisque les êtres humains sont le seul réservoir de la maladie. Des programmes de traitement de grande envergure, couvrant l’ensemble des populations à risque moyennant l’administration d’azithromycine par voie orale, permettront d’interrompre la transmission et d’éliminer la maladie dans une zone donnée.

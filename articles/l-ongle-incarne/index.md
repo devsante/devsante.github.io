@@ -10,9 +10,9 @@ teaser: "Un ongle est incarné lorsqu'il s'incruste dans les tissus qui limitent
 **Elles regroupent en général :**
 
 *   Ongle : anomalie de la courbure de la plaque unguéale (tuile de provence, volute, plicature, mauvaise coupe de l'ongle)
-*   Bourrelets et sillons : hypertrophie d'un ou des deux bourrelets qui s'empalent sur l'ongle et fragilité du sillon péri-unguéal.
-*   Troubles statiques du pied : déviations d'orteils (ex. hallux associé à une rotation externe du gros orteil qui entraîne un problème dans le sillon interne du gros orteil).
-*   Pied valgus important avec surcharge du bord interne qui entraîne un hyper-appui du bord interne du gros orteil.
+*   Bourrelets et sillons : hypertrophie d'un ou des deux bourrelets qui s'empalent sur l'ongle et fragilité du sillon péri-unguéal.  
+*   Troubles statiques du pied : déviations d'orteils (ex. hallux associé à une rotation externe du gros orteil qui entraîne un problème dans le sillon interne du gros orteil).  
+*   Pied valgus important avec surcharge du bord interne qui entraîne un hyper-appui du bord interne du gros orteil.  
 *   Traumatique : Choc sur la plaque unguéale avec possibilités d'esquilles.
 
 ## II. Clinique
@@ -21,8 +21,8 @@ L'ongle incarné peut toucher tous les orteils mais siège surtout sur le gros o
 
 Il existe 3 stades :
 
-1.  Stade initial. Pas d'infection ni inflammation. Douleur réveillée par le chaussage.
-2.  _Onyxis incipiens._ Douloureux avec bourrelet inflammatoire.
+1.  Stade initial. Pas d'infection ni inflammation. Douleur réveillée par le chaussage.  
+2.  _Onyxis incipiens._ Douloureux avec bourrelet inflammatoire.  
 3.  _Perionyxis._ Ongle incarné infecté. Douleur permanente. Hypertrophie du bourrelet pouvant coiffer une partie de l'ongle.
 
 ## III. Traitement médical
@@ -53,10 +53,12 @@ Pendant trois jours, ne pas trop marcher ni rester debout, surélever le pied af
 
 La cicatrisation se fera vers le 15<sup>e</sup>/21<sup>e</sup> jour.
 
+
 ![](i926-1.jpg)
 
 
 Nous ne voyons guère de catastrophes succédant au traitement inadéquat des ongles incarnés mais il faut avoir vu ces malheureux patients ayant subi d'abord l'ablation de l'ongle (qui aggrave les troubles lors de la repousse) puis l'ablation de la matrice (toujours incomplète avec repousse de cornes) pour comprendre le mal que peut faire un acte chirurgical illogique.
+
 
 ![](i926-2.jpg)
 

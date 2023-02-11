@@ -14,7 +14,7 @@ Les premières séances du programme de Tostan facilitent la prise de confiance 
 
 En pratique, un « facilitateur » ou une « facilitatrice », issu(e) de la zone d’intervention et formé(e) par Tostan aux techniques de facilitation, anime trois fois par semaine deux classes de 40 à 50 participants, l’une composée d’adultes et l’autre d’adolescents. Le programme est organisé en deux phases, décomposées en modules :
 
-*   Phase 1 : le Kobi (_préparer la terre pour la semence_ en langue mandingue) : réflexion et apprentissage des concepts relatifs à la démocratie, aux droits humains, au processus de résolution des problèmes mais également sessions d’informations sur l’hygiène et la santé.
+*   Phase 1 : le Kobi (_préparer la terre pour la semence_ en langue mandingue) : réflexion et apprentissage des concepts relatifs à la démocratie, aux droits humains, au processus de résolution des problèmes mais également sessions d’informations sur l’hygiène et la santé.  
 *   Phase 2 : l’Aawde (_semer_ en langue pulaar) : alphabétisation, calcul, gestion, techniques de mobilisation sociale et de leadership.
 
 La représentation des concepts des droits humains par des images faciles à comprendre permet de les employer dans des sketches, des chansons, des poèmes et d’autres éléments de la tradition orale. Les participants peuvent ainsi s’impliquer pleinement dans le processus d’apprentissage.
@@ -66,6 +66,7 @@ Quelques chiffres sur le Sénégal
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -83,6 +84,7 @@ Quelques clés du programme Tostan
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>

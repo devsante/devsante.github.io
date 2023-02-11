@@ -9,7 +9,7 @@ L'albendazole (Zentel®) est un puissant médicament actif contre les vers intes
 ##   
 **I. Caractéristiques du médicament**
 
-*   Il existe en pays francophone sous forme de comprimés (400 mg) et de suspension buvable (400 mg pour 10 ml).
+*   Il existe en pays francophone sous forme de comprimés (400 mg) et de suspension buvable (400 mg pour 10 ml).  
 *   Après ingestion, une faible partie est absorbée et transformée en un dérivé (sulfoxyde) actif sur les vers. Son absorption est augmentée si l'ingestion se fait avec des aliments gras (huile, beurre).
 
 ## **II.** **Actions anti-parasitaires**
@@ -79,6 +79,7 @@ L'albendazole, en raison de son passage, même partiel, dans le sang, est propos
 L'albendazole a sa place dans la gamme des médicaments antiparasitaires. Il parait surtout utile en médecine de masse dans les régions où un poly parasitisme a été prouvé. Dans ces conditions, l'amélioration des données nutritionnelles de l'ensemble des enfants traités est un argument important à la fois pour la responsabilité des vers intestinaux dans l'équilibre nutritionnel des enfants, et pour l'efficacité d'une thérapeutique globale.
 
 Son utilisation sur les kystes hydatiques et la cysticercose reste à adapter à chaque situation particulière.
+
 
 ![](i642-1.jpg)
 

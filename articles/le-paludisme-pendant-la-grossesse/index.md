@@ -10,7 +10,7 @@ au cours de la grossesse
 
 Elle dépend de l'intensité de la transmission :
 
-*   Dans les **zones a transmission élevée ou stable** (continue) : les femmes ont développé une immunité suffisante qui leur évite une infection palustre symptômatique. Par contre la maladie se manifeste générale­ment par une anémie secondaire et la pré­sence de parasites dans le placenta.
+*   Dans les **zones a transmission élevée ou stable** (continue) : les femmes ont développé une immunité suffisante qui leur évite une infection palustre symptômatique. Par contre la maladie se manifeste générale­ment par une anémie secondaire et la pré­sence de parasites dans le placenta.  
 *   **Dans les zones a transmission faible et épidémique**, les femmes enceintes n'ayant pas acquis un niveau d'immunité élevé ont un risque deux ou trois fois plus important de développer une maladie grave découlant de l'infection palustre que les femmes adultes non enceintes vivant dans la même zone. Dans ces zones, la mortalité maternelle peut découler soit directement du paludisme (forme grave), soit indirectement d'une ané­mie grave liée au paludisme.
 
 C'est ainsi que, dans les zones à transmission palustre, l'infection palustre chez la femme enceinte, provoque des effets néfastes : accès palustre, anémie maternelle, retard de crois­sance intra utérine, avortement spontané, décès néonatal et insuffisance pondérale à la naissance. Dans ces zones, le paludisme est à l'origine de 10 000 décès maternels par an pour 325 000 naissances, de 8 à 14 % des faible poids de naissance et de 3 à 8 % des décès de nourrissons.

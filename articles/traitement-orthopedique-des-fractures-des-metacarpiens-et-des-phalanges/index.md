@@ -9,6 +9,7 @@ Or, le traitement orthopédique, à condition d'être suivi et contrôlé, perme
 
 **Rappel physiologique** _Schéma n° 1_
 
+
 ![](i143-1.jpg)
 
 
@@ -28,6 +29,7 @@ D'autre part, il faut savoir que les ligaments latéraux des articulations des d
 
 C'est la position dite " intrinsèque<sup>+</sup> ", car les petits muscles de la main, inter-osseux et lombricaux, sont des fléchisseurs des articulations métacarpo-phalangiennes et des extenseurs des inter-phalangiennes. L'immobilisation de la main est réalisée dans une position reproduisant l'action des muscles intrinsèques _(cf. photos 1_ _et 2)._
 
+
 ![](i143-2.jpg)
 
 
@@ -37,10 +39,12 @@ Enfin, il faut éviter absolument dans les positions d'immobilisation, tout **tr
 
 *   soit à l'aide de sparadrap souple circularisant les phalanges analogues et laissant les articulations inter-phalangiennes libres, c'est la **syndactylisation;** la mobilisation active en flexion extension par le blessé, évitera toute consolidation en position vicieuse _(cf. photos 4 et 5)._
 
+
 ![](i143-3.jpg)
 
 
 ## **Traitement des fractures des métacarpiens** _Schéma n° 2_
+
 
 ![](i143-4.jpg)
 
@@ -53,6 +57,7 @@ Les fractures peu déplacées dun métacarpien ne nécessitent pas d'immobilisat
 
 ## **Traitement des fractures** **de la première phalange** _Schéma n° 3_
 
+
 ![](i143-5.jpg)
 
 
@@ -61,6 +66,7 @@ Une attelle dorsale ou palmaire est mise en place, laissant le poignet et l'arti
 ## **Traitement des fractures** **de la deuxième phalange** _Schéma n° 5_
 
 On met en place une attelle dorsale ou palmaire sur le doigt en rectitude pour trois semaines. L'articulation métacarpo-phalangienne est libre. Le traitement est poursuivi par une syndactylisation de quinze jours.
+
 
 ![](i143-6.jpg)
 

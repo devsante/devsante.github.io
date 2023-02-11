@@ -25,6 +25,7 @@ Depuis cette date, de nombreux antibiotiques ont été découverts. Ils sont cla
 
 **Figure 1. Cellule bactérienne et modes d'action des antibiotiques**
 
+
 ![](antibiotique-fig-1.jpg)
 
 
@@ -45,7 +46,7 @@ Les bactéries ont un grand pouvoir d’adaptation qui leur permet d’acquérir
 
 On distingue la **résistance naturelle et la résistance acquise** : 
 
-*   **La résistance naturelle** concerne toutes les souches d’une espèce bactérienne et pré-existe à l’usage des antibiotiques. Cette résistance est chromosomique et a un caractère permanent transmissible aux cellules filles lors de la réplication bactérienne.
+*   **La résistance naturelle** concerne toutes les souches d’une espèce bactérienne et pré-existe à l’usage des antibiotiques. Cette résistance est chromosomique et a un caractère permanent transmissible aux cellules filles lors de la réplication bactérienne.  
 *   **La résistance acquise** ne concerne qu’une partie des souches d’une espèce bactérienne normalement sensible et apparait à la suite de l’utilisation des antibiotiques. L’acquisition d’un nouveau mécanisme de résistance résulte :
     *   soit d’une mutation survenant sur le chromosome bactérien,
     *   soit de l’acquisition d’une information génétique  provenant d’une bactérie déjà résistante. 
@@ -54,17 +55,18 @@ On distingue la **résistance naturelle et la résistance acquise** : 
 
 Trois principaux mécanismes de résistance sont actuellement connus :
 
-*   **Inactivation de l’antibiotique** par une enzyme bactérienne : c’est la situation la plus fréquente.
+*   **Inactivation de l’antibiotique** par une enzyme bactérienne : c’est la situation la plus fréquente.  
 *   **Diminution de la quantité d’antibiotique atteignant la cible**  
     L’antibiotique n’est pas modifié, mais il ne peut pas accéder à sa cible au sein de la bactérie :
-    *   Soit parce qu’il ne peut plus y pénétrer en raison de la **baisse de la perméabilité membranaire**.
-    *   Soit parce qu’il est **expulsé activement vers l’extérieur de la bactérie** par des protéines jouant le rôle de pompe (systèmes d’efflux).
+    *   Soit parce qu’il ne peut plus y pénétrer en raison de la **baisse de la perméabilité membranaire**.  
+    *   Soit parce qu’il est **expulsé activement vers l’extérieur de la bactérie** par des protéines jouant le rôle de pompe (systèmes d’efflux).  
 *   **Modification de la cible**
-    *   **Modifications quantitatives :** par exemple, l’absence de paroi chez les bactéries du genre _Mycoplasma_ est responsable de leur résistance naturelle aux β-lactamines.
-    *   **Modifications qualitatives :** la modification de la structure de la cible peut diminuer son affinité pour l’antibiotique. C’est un mécanisme fréquent de résistance acquise.
+    *   **Modifications quantitatives :** par exemple, l’absence de paroi chez les bactéries du genre _Mycoplasma_ est responsable de leur résistance naturelle aux β-lactamines.  
+    *   **Modifications qualitatives :** la modification de la structure de la cible peut diminuer son affinité pour l’antibiotique. C’est un mécanisme fréquent de résistance acquise.  
     *   **Protection de la cible :** c’est une protection réversible de la cible (par des protéines empêchant la fixation des quinolones, par exemple).
 
 **Figure 2. Les différents mécanismes de la résistabnce aux antibiotiques**
+
 
 ![](antibiotiques.jpg)
 

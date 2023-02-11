@@ -30,17 +30,17 @@ en forêt, il peut être infecté, transporter ensui­te la maladie au village e
 
 ### 3. Traitement
 
-*   Réhydratation par voie orale s'il n'y a pas de vomissements.
-*   Antalgiques : paracétamol, pas d'aspirine.
+*   Réhydratation par voie orale s'il n'y a pas de vomissements.  
+*   Antalgiques : paracétamol, pas d'aspirine.  
 *   Antihémorragiques : vitamine K.
 
 ### 4. Autres mesures
 
 Alerter les autorités du district ou du départe­ment. Il faut prévenir très rapidement le niveau départemental et par tous les moyens disponibles.
 
-*   Faire un **prélèvement de sang** et recueillir du sérum - à conserver à+4°C ou -20°C - chez les premiers patients afin de confirmer virologiquement le diagnostic.
-*   Dénombrer les cas et les décès, en les distri­buant, sur une carte, par âge et selon leur origine géographique.
-*   Il est important, pour limiter l'extension de l'épidémie, de promouvoir l'utilisation des moustiquaires pour tous et en particulier pour les enfants. Si celles-ci sont disponibles dans le cadre de la lutte contre le paludisme, elles doivent être distribuées à l'occasion des consultations pré- et post-natales, dans les écoles et les centres de santé eux même. Tous les malades hospitalisés, même pour quelques heures, doivent être sous une moustiquaire.
+*   Faire un **prélèvement de sang** et recueillir du sérum - à conserver à+4°C ou -20°C - chez les premiers patients afin de confirmer virologiquement le diagnostic.  
+*   Dénombrer les cas et les décès, en les distri­buant, sur une carte, par âge et selon leur origine géographique.  
+*   Il est important, pour limiter l'extension de l'épidémie, de promouvoir l'utilisation des moustiquaires pour tous et en particulier pour les enfants. Si celles-ci sont disponibles dans le cadre de la lutte contre le paludisme, elles doivent être distribuées à l'occasion des consultations pré- et post-natales, dans les écoles et les centres de santé eux même. Tous les malades hospitalisés, même pour quelques heures, doivent être sous une moustiquaire.  
 *   Enfin, il faut prévoir rapidement l'organisa­tion d'une vaccination de masse. Il est donc utile de prévenir les responsables des villages, de faire le bilan des matériels néces­saires (réfrigérateurs, seringues, coton, alcool, etc..) et, éventuellement, de retarder les séances prévues d'autres vaccinations pour y associer celle de la fièvre jaune.
 
 ## II. Conduite à tenir devant un cas de méningite épidé­mique à méningocoque
@@ -51,9 +51,9 @@ La méningite épidémique à recrudescence saisonnière est due au méningocoqu
 
 Chez l'enfant et l'adulte, la méningite associe un syndrome infectieux et des signes d'hyper­tension cérébrale soit :
 
-*   Fièvre, parfois masquée.
-*   Céphalées avec photophobie.
-*   Raideur de la nuque avec signe de Kernig.
+*   Fièvre, parfois masquée.  
+*   Céphalées avec photophobie.  
+*   Raideur de la nuque avec signe de Kernig.  
 *   Vomissements, provoqués par les mouve­ments.
 
 Chez le petit enfant, on observe une nuque molle et un bombement de la fontanelle, sou­vent associés à des troubles de la conscience ou des convulsions.
@@ -200,7 +200,7 @@ de 11 à 14 ans
 
 #### b. Traitements adjuvants
 
-*   Anticonvulsivants : diazépam par voie intra­rectale ; 0,25 mg par kg de poids, à renou­veler 30 minutes plus tard si nécessaire.
+*   Anticonvulsivants : diazépam par voie intra­rectale ; 0,25 mg par kg de poids, à renou­veler 30 minutes plus tard si nécessaire.  
 *   Antitpyrétiques : paracétamol ; 50 mg par kg de poids par jour en 3 prises.
 
 S'il n'est pas possible d'utiliser le chloramphé­nicol huileux, on le remplace par ceftriaxone 50 mg/Kg par voie intramusculaire.
@@ -248,7 +248,7 @@ Les quantités à perfuser sont les suivantes :
 *   **Pour les sujets de plus de 1 an  :**
     *   100 ml par kg en 3 heures,
     *   30 ml par kg en 30 minutes puis,
-    *   70 ml par kg les 150 minutes suivantes.
+    *   70 ml par kg les 150 minutes suivantes.  
 *   **• Pour les sujets de moins de 1 an :**
     *   100 ml par kg en 6 heures,
     *   30 ml par kg pendant la 1° heure puis,
@@ -556,7 +556,7 @@ en ml par jour
 
 #### Confirmer le diagnostic
 
-*   Uniquement pour les premiers cas. Recueillir des selles liquides avec un écou­villon qui est ensuite introduit dans le milieu de transport ; étiqueter le tube et l'adresser au laboratoire national ou départemental.
+*   Uniquement pour les premiers cas. Recueillir des selles liquides avec un écou­villon qui est ensuite introduit dans le milieu de transport ; étiqueter le tube et l'adresser au laboratoire national ou départemental.  
 *   Si l'on ne dispose pas de matériel de trans­port spécifique, il est possible de tremper un morceau de buvard dans les selles liquides, de le mettre dans un sachet plastique que l'on ferme soigneusement (par collage ou chaleur) puis de l'expédier en le mettant dans un 2ème sachet plastique également fermé. Il faut utiliser des gants pour ces manipula­tions.
 
 #### Alerter

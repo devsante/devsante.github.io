@@ -157,6 +157,7 @@ Ainsi, un sujet de groupe A marié à une femme de groupe B pourra avoir des enf
 
 **Tableau n° 3**
 
+
 ![](i741-1-web.jpg)
 
 
@@ -181,6 +182,7 @@ _Matériel :_
 - Plaque d'opaline (verre blanc opaque, carré blanc, ou carton laqué blanc),  
 - Tubes secs.
 
+
 ![](i741-2-web.jpg)
 
 
@@ -202,6 +204,7 @@ _Disposer 3 fois 1 goutte de sérum du patient , sue chaque goutte, déposer u
 
 **Tableau N° 4. Détermination des groupes sanguins A, B, O et AB sur plaque d'opaline**
 
+
 ![](i741-3-web.jpg)
 
 
@@ -220,6 +223,7 @@ Réaction négative : le mélange globules rouges/sérum donne une teinte homog�
 Les résultats des deux techniques (Beth Vincent et Simonin) doivent être concordants pour valider le groupage (_tableau n° 5_).
 
 **Tableau n° 5. Interprétation**
+
 
 ![](i741-4-web.jpg)
 
@@ -267,6 +271,7 @@ Bannir autant que possible le recopiage (inutile) des résultats.
 En dehors de l'urgence vitale, il est préférable de contrôler le groupe sur un nouvel échantillon, avant d'effectuer la transfusion.
 
 En l'absence de sang du groupe du patient, se rappeler le schéma de compatibilité suivant (c'est l'anticorps du receveur qui compte : ne pas lui apporter l'antigène correspondant).
+
 
 ![](i741-5-web.jpg)
 

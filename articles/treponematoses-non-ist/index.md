@@ -38,6 +38,7 @@ Une petite lésion cutanée unique se développe au point d’entrée de la bact
 La lésion essentielle est le « pianome ». C’est une lésion cutanée sous forme de tuméfaction bourgeonnante, rosée, humide évoluant vers la périphérie donnant souvent une image en anneau. Cette lésion est légèrement inflammatoire et douloureuse. Elle peut être unique ou au multiple. Au niveau des muqueuses on la retrouve dans la bouche et au niveau des organes génitaux externes ou l’anus.  
 Un autre type de lésion est la pianide qui est une lésion cutanée sèche souvent difficile à distinguer de lésions cutanées plus banales. Elles sont papulo-croûteuses, écailleuses. Les localisations palmaires ou plantaires peuvent être extrêmement douloureuses.
 
+
 ![](pian-congo-1971-jlr-retouche-3.jpg)
 
 
@@ -76,6 +77,7 @@ Toutes ces maladies présentent un bilan biologique commun, le laboratoire ne pe
 
 Les examens biologiques courants ne permettent pas de distinguer le tréponème de la syphilis de celui du pian ou du béjel.  
 Ces bacilles sont très nombreux au niveau des chancres, des lésions humides ou muqueuses. On les observe directement au microscope à fond noir ou à contraste de phase ou, après coloration spécifique, au microscope normal.
+
 
 ![](treponemes-fb.jpg)
 

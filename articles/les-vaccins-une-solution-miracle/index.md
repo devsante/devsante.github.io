@@ -26,7 +26,7 @@ _**La réussite d'une politique vaccinale passe par le respect des recommandatio
 Il n'est pas raisonnable de penser que la résolution de toute pathologie infectieuse puisse être obtenue par la vaccination.  
 Si l'on prend l'exemple du SIDA :
 
-*   Même si un vaccin existait, était applicable et accessible, il ne serait certainement pas le seul outil qui ferait reculer l'épidémie.
+*   Même si un vaccin existait, était applicable et accessible, il ne serait certainement pas le seul outil qui ferait reculer l'épidémie.  
 *   Si ce vaccin existait, qui en bénéficierait nouveau-nés, adolescents, adultes à risque, à quelle fréquence devrait-il être administré, quels en seraient les risques, les effets induits ?
 
 La qualité exceptionnelle des vaccins actuels a un effet pervers : elle incite à penser que la vaccination est la seule solution aux problèmes de santé ; on parle même de vaccins contre des maladies non infectieuses comme la maladie d'Alzheimer ou le diabète !

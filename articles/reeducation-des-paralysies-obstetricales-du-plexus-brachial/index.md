@@ -6,6 +6,7 @@ date: "1989-12-02"
 
 La paralysie obstétricale du plexus brachial est la conséquence d'un traumatisme par étirement des racines nerveuses à leur origine, consécutif à une traction excessive lors de l'accouchement (_fig_. _1)._
 
+
 ![](i402-1.jpg)
 
 
@@ -23,15 +24,17 @@ Ces racines se réunissent en troncs (primaires puis secondaires) qui émettent 
 
 Trois degrés d'atteinte du système nerveux périphérique :
 
-1.  **L'étirement est faible**, il n'y a pas de lésion anatomique, mais une simple interruption fonctionnelle de la transmission nerveuse. La récupération est totale en quelques jours à quelques semaines.
-2.  Un **traumatisme plus important** lèse l'axone mais laisse intacte la gaine. Le bout distal dégénère. Le bout proximal repousse, guidé par la gaine intacte. Cette repousse peut néanmoins aboutir à la ré-innervation de deux muscles antagonistes (d'action contraire: par exemple le biceps fléchit le bras et le triceps qui l'étend) par un même filet nerveux, créant le phénomène des co-contractions.
+1.  **L'étirement est faible**, il n'y a pas de lésion anatomique, mais une simple interruption fonctionnelle de la transmission nerveuse. La récupération est totale en quelques jours à quelques semaines.  
+2.  Un **traumatisme plus important** lèse l'axone mais laisse intacte la gaine. Le bout distal dégénère. Le bout proximal repousse, guidé par la gaine intacte. Cette repousse peut néanmoins aboutir à la ré-innervation de deux muscles antagonistes (d'action contraire: par exemple le biceps fléchit le bras et le triceps qui l'étend) par un même filet nerveux, créant le phénomène des co-contractions.  
 3.  **Étirement majeur**, **rupture** complète. La repousse spontanée n'est plus guidée, la récupération fonctionnelle est très compromise, en dehors d'une chirurgie nerveuse par suture des gaines pour guider la repousse _(fig. 2)._
 
 ## III. Bilan kinésithérapique
 
 La prise en charge kinésithérapique doit être la plus précoce possible. Elle a pour but de lutter contre la tendance au blocage des articulations qui se produit spontanément et rapidement au cours de la paralysie _(fig. 3)._
 
+
 ![](i402-2.jpg)
+
 ![](i402-3.jpg)
 
 
@@ -65,6 +68,7 @@ Toutes les articulations du membre supérieur doivent être mobilisées dans tou
 
 *   en pronation-supination.
 
+
 ![](i402-4.jpg)
 
 
@@ -81,6 +85,7 @@ De nombreux objets doivent être offerts à la palpation de l'enfant. (_fig. 7).
 _(schéma n° 8)_
 
 Il faut d'abord essayer de stimuler les muscles du membre supérieur de façon réflexe ou automatique. Stimulations par brosse à dents (1), caresses, grattage... et motricité spontanée du nouveau-né: dégagement du bras, suspension latérale, grasping, réflexe de Moro (2)... Avant d'obtenir plus tard des gestes volontaires précis et de les diriger par le jeu et la curiosité naturelle de l'enfant (3).
+
 
 ![](i402-5.jpg)
 

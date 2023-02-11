@@ -19,7 +19,7 @@ Elle peut être essentielle ou symptomatique d'une affection locale ou général
 Le diagnostic est le plus souvent évident : extériorisation du sang par l'une ou les deux fosses nasales.  
 L'examen **général** :
 
-*   Apprécie le retentissement de l'hémorragie (pression artérielle, pouls, coloration des conjonctives, aspect du patient : sueurs, agi­tation, pâleur).
+*   Apprécie le retentissement de l'hémorragie (pression artérielle, pouls, coloration des conjonctives, aspect du patient : sueurs, agi­tation, pâleur).  
 *   Recherche des facteurs favorisants et/ou affections en cours.
 
 L'examen **ORL**, quand il est possible, sera effectué après avoir fait moucher un patient rassuré. La rhinoscopie antérieure est réalisée après rétraction de la muqueuse par la xylo­caïne naphazolinée à 5 %.
@@ -29,14 +29,16 @@ L'examen **ORL**, quand il est possible, sera effectué après avoir fait mouche
 **Epistaxis de faible abondance**  
 Elles ne nécessitent pas d'hospitalisation. Elles sont jugulées par des moyens d'hémosta­se appliqués localement.
 
-*   Compression bidigitale (entre le pouce et l'index) de l'aile narinaire, réalisée par le patient lui-même durant une dizaine de minutes. Ce geste suffit le plus souvent. Les cautérisations sont parfois nécessaires.
-*   En cas d'échec, un tamponnement antérieur peut être fait avec des mèches. Une couver­ture antibiotique est nécessaire durant la durée du méchage qui est enlevé au bout de 48-72 heures.
-*   Le tamponnement antérieur et postérieur, le plus rarement pratiqué, doit être effectué par un spécialiste ORL.
+*   Compression bidigitale (entre le pouce et l'index) de l'aile narinaire, réalisée par le patient lui-même durant une dizaine de minutes. Ce geste suffit le plus souvent. Les cautérisations sont parfois nécessaires.  
+*   En cas d'échec, un tamponnement antérieur peut être fait avec des mèches. Une couver­ture antibiotique est nécessaire durant la durée du méchage qui est enlevé au bout de 48-72 heures.  
+*   Le tamponnement antérieur et postérieur, le plus rarement pratiqué, doit être effectué par un spécialiste ORL.  
 *   Les sondes hémostatiques (tube muni de ballonnets), qui peuvent être placées par un médecin généraliste, ont une action équi­valente à celle d'un double tamponnement (utile si aucun ORL n'est disponible).
 
 **Figures 1 : tamponnement antérieur**
 
+
 ![](image002.jpg)
+
 
 
 ![](image002-5.jpg)
@@ -44,10 +46,12 @@ Elles ne nécessitent pas d'hospitalisation. Elles sont jugulées par des moyens
 
 **Figure 2 : tamponnement postérieur**
 
+
 ![](image002-5.jpg)
 
 
-**![](image004.jpg)
+**
+![](image004.jpg)
 **
 
 **Epistaxis grave**  
@@ -69,10 +73,10 @@ L'examen du pharynx montre la présence du caillot dans l'une ou les deux loges 
 
 #### Conduite à tenir :
 
-*   Poser une voie veineuse périphérique et effectuer le bilan biologique.
-*   Apprécier le retentissement de l'hémorragie sur l'état général et rechercher des signes de choc hémorragique (PA, conscience...).
-*   Préciser l'aspect des saignements (en nappe ou salive striée de sang).
-*   S'assurer de la disponibilité immédiate des produits de remplissage.
+*   Poser une voie veineuse périphérique et effectuer le bilan biologique.  
+*   Apprécier le retentissement de l'hémorragie sur l'état général et rechercher des signes de choc hémorragique (PA, conscience...).  
+*   Préciser l'aspect des saignements (en nappe ou salive striée de sang).  
+*   S'assurer de la disponibilité immédiate des produits de remplissage.  
 *   Prévenir le chirurgien ORL et l'anesthésiste et préparer un bloc opératoire.
 
 ## II. Urgences traumatiques
@@ -99,7 +103,7 @@ L'auscultation peut découvrir le classique "bruit de drapeau" à l'inspiration 
 
 **Corps étranger bronchique :**
 
-*   Les signes cliniques sont variés et non spécifiques : toux chronique, productive ou non, dyspnée expiratoire.
+*   Les signes cliniques sont variés et non spécifiques : toux chronique, productive ou non, dyspnée expiratoire.  
 *   Lorsque le corps étranger a séjourné dans les bronches, le diagnostic sera évoqué devant les manifestations broncho-pulmo­naires (abcès pulmonaire, pleurésie purulente, pneumothorax, dilatation des bronches...)
 *   En complément de la radio du thorax, une endoscopie peut être nécessaire en urgence.
 
@@ -109,7 +113,7 @@ L'auscultation peut découvrir le classique "bruit de drapeau" à l'inspiration 
 
 **En milieu non médicalisé :**
 
-*   En cas de signes d'asphyxie, la manoeuvre de Heimlich est le premier geste à réaliser. Elle consiste à exercer une compression abdominale sous-sternale ascendante, pro­voquant l'expulsion du corps étranger par hyperpression. Ce geste n'est pas anodin (risque d'enclavement sous-glottique, d'inondation trachéobronchique par vidan­ge gastrique, de fracture des côtes...).
+*   En cas de signes d'asphyxie, la manoeuvre de Heimlich est le premier geste à réaliser. Elle consiste à exercer une compression abdominale sous-sternale ascendante, pro­voquant l'expulsion du corps étranger par hyperpression. Ce geste n'est pas anodin (risque d'enclavement sous-glottique, d'inondation trachéobronchique par vidan­ge gastrique, de fracture des côtes...).  
 *   Dans les autres cas : le patient doit être calmé et placé dans une position la plus confortable possible en évitant de le mobiliser. Aucune manoeuvre intempestive ne doit être tentée (extraction au doigt, tête en bas...).
 
 Toute boisson ou alimentation doit être proscrite.
@@ -140,6 +144,7 @@ Les corps étrangers de l'oesophage se rencon­trent le plus souvent chez l'enfa
 
 La principale complication, la perforation de l'oesophage avec risque de médiastinite, est sur­tout due aux corps étrangers piquants ou acérés.
 
+
 ![](image006-3.jpg)
 
 
@@ -169,12 +174,12 @@ La plaie vasculaire est soupçonnée devant :
 
 #### b. Conduite à tenir en urgence
 
-*   Placer le malade en décubitus dorsal ou laté­ral, installer une voie d'abord veineuse et effectuer un bilan sanguin (groupe Rh, NFS, coagulation...).
-*   Faire un pansement compressif stérile.
-*   Rassembler les produits de remplissage.
-*   Préparer le bloc chirurgical et appeler les équipes d'anesthésie et d'ORL.
-*   Libérer la cavité buccale des sécrétions digestives ou sanglantes.
-*   Mettre une canule de Guedel.
+*   Placer le malade en décubitus dorsal ou laté­ral, installer une voie d'abord veineuse et effectuer un bilan sanguin (groupe Rh, NFS, coagulation...).  
+*   Faire un pansement compressif stérile.  
+*   Rassembler les produits de remplissage.  
+*   Préparer le bloc chirurgical et appeler les équipes d'anesthésie et d'ORL.  
+*   Libérer la cavité buccale des sécrétions digestives ou sanglantes.  
+*   Mettre une canule de Guedel.  
 *   En cas de plaie veineuse, mettre le patient en position de Trendelenbourg afin de limiter le risque d'embolie gazeuse.
 
 ## **III. Urgences infectieuses**

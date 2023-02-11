@@ -115,6 +115,7 @@ Il faut :
 *   les emboîter l'une dans l'autre
 *   arrimer avec du sparadrap.
 
+
 ![](i618-1.jpg)
 
 
@@ -128,10 +129,12 @@ On peut l'utiliser pour l'administration des bêta 2 mimétiques, des corticoïd
 
 ### **1. Chez l'adulte**
 
+
 ![](i618-2.jpg)
 
 
 ### **2. Chez l'enfant**
+
 
 ![](i618-3.jpg)
 
@@ -139,6 +142,7 @@ On peut l'utiliser pour l'administration des bêta 2 mimétiques, des corticoïd
 ### **3. Chez le nourrisson**
 
 Le jeune enfant est peu coopérant: l'administration des thérapeutiques inhalées est peu efficace, voire impossible. Les schémas thérapeutiques sont différents et utilisent plus volontiers les formes orales.
+
 
 ![](i618-4.jpg)
 
@@ -173,7 +177,9 @@ La prise en charge en milieu hospitalier repose sur les mêmes médicaments, ave
 
 ## **III. Le traitement de fond**
 
+
 ![](i618-5.jpg)
+
 
 
 ![](i618-6.jpg)

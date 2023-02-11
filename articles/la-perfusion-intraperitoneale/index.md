@@ -11,8 +11,8 @@ La PIP est une technique simple, mais exi­geant une grande maîtrise, et la pos
 
 ## **I. Contre-indications**
 
-*   La présence d'anses intestinales dilatées (météorisme).
-*   L'ascite.
+*   La présence d'anses intestinales dilatées (météorisme).  
+*   L'ascite.  
 *   L'impossibilité d'assurer une asepsie absolue.
 
 Dans ces cas, il faut renoncer à utiliser la PIP.
@@ -72,6 +72,7 @@ Les volumes à perfuser sont les suivants :
 *   attendre deux heures ;
 *   recommencer si nécessaire, en fonction de la correction apportée par la première PIP, et de la possibilité de reprendre une autre voie d'abord, notamment la voie orale.
 
+
 ![](12020-1.jpg)
 
 
@@ -85,13 +86,14 @@ Immobiliser le malade, en particulier les enfants à faire tenir par la mère.
 
 On choisit de préférence un point situé à mi-distance entre l'épine iliaque antéro-posté­rieure gauche et l'ombilic. Il est possible d'utili­ser la région sus et sous ombilicale dans l'axe médian _(schéma 2)_.
 
-*   Pratiquer une asepsie large et rigoureuse de la région choisie.
-*   Quand l'aiguille est fixée sur la tubulure, la faire pénétrer en maintenant la peau avec l'autre main.
-*   Ouvrir le débit de la perfusion qui coule alors goutte à goutte, le liquide en sous-cuta­né entraînant un gonflement local.
-*   Incliner l'aiguille perpendiculairement au corps ; l'enfoncer très lentement jusqu'à voir le débit s'accélérer brusquement au moment où elle pénètre l'espace situé entre le muscle et le péritoine (schéma 3). Ceci se traduit par une moindre résistance à l'enfoncement de l'aiguille ; cesser immédiatement la pres­sion sur celle-ci.
-*   Régler le débit.
-*   Maintenir l'aiguille à l'aide de sparadrap.
+*   Pratiquer une asepsie large et rigoureuse de la région choisie.  
+*   Quand l'aiguille est fixée sur la tubulure, la faire pénétrer en maintenant la peau avec l'autre main.  
+*   Ouvrir le débit de la perfusion qui coule alors goutte à goutte, le liquide en sous-cuta­né entraînant un gonflement local.  
+*   Incliner l'aiguille perpendiculairement au corps ; l'enfoncer très lentement jusqu'à voir le débit s'accélérer brusquement au moment où elle pénètre l'espace situé entre le muscle et le péritoine (schéma 3). Ceci se traduit par une moindre résistance à l'enfoncement de l'aiguille ; cesser immédiatement la pres­sion sur celle-ci.  
+*   Régler le débit.  
+*   Maintenir l'aiguille à l'aide de sparadrap.  
 *   Laisser une boucle de la tubulure en-dessous du niveau de l'abdomen.
+
 
 ![](12020-3.jpg)
 
@@ -101,6 +103,7 @@ On choisit de préférence un point situé à mi-distance entre l'épine iliaque
 Surveiller le patient, ne pas s'inquiéter de l'aug­mentation du volume abdominal pendant la perfusion, rassurer les mères souvent inquiètes à cause de cela pour leur enfant.
 
 L'absorption du liquide, et donc le retour à un volume abdominal, se font très rapidement après la fin de la perfusion.
+
 
 ![](12020-6.jpg)
 

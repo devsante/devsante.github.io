@@ -26,12 +26,12 @@ Cette approche permet de dédramatiser l'annonce du diagnostic et permet à l'en
 
 Les enjeux de l'éducation thérapeutique chez l'enfant sont de pouvoir le maintenir dans son milieu de vie et d'assurer ses besoins fondamentaux. On observe que les familles vivant avec le VIH/SIDA sont confrontées à de nombreuses difficultés :
 
-*   Niveau élevé de stress et de tension chez les parents.
-*   Détresse économique.
-*   Crainte de contamination.
-*   Non-divulgation entraînant le silence et l'isolement.
-*   Culpabilité parentale et crainte de la honte sociale.
-*   Pertes multiples.
+*   Niveau élevé de stress et de tension chez les parents.  
+*   Détresse économique.  
+*   Crainte de contamination.  
+*   Non-divulgation entraînant le silence et l'isolement.  
+*   Culpabilité parentale et crainte de la honte sociale.  
+*   Pertes multiples.  
 *   Rejet et perte de soutien de la famille élargie et de la communauté.
 
 **Cette réalité demande à l'équipe de prise en charge, une vision plus psychosociale de son approche d'éducation thérapeutique.**
@@ -40,14 +40,14 @@ Les enjeux de l'éducation thérapeutique chez l'enfant sont de pouvoir le maint
 
 La clinique TRAC a des objectifs définis par le Ministère de la Santé Rwandais, qui sont :
 
-*   Fournir un appui technique et les informations pour la réduction du VIH /SIDA.
-*   Surveiller, coordonner et évaluer l'exécutionnationale des programmes VIH/SIDA.
-*   Augmenter les activités de surveillance et leur utilisation.
-*   Etre identifié en tant que chef régional dans le domaine du VIH/SIDA.
-*   Éditer les rapports techniques et les articles scientifiques.
-*   Développer les ressources pour assurer le succès, la croissance et la durabilité de TRAC et de ses programmes.
-*   Promouvoir l'accessibilité aux services de dépistage et de conseils sur le VIH/SIDA.
-*   Améliorer la prise en charge clinique des personnes infectées par le VIH/SIDA.
+*   Fournir un appui technique et les informations pour la réduction du VIH /SIDA.  
+*   Surveiller, coordonner et évaluer l'exécutionnationale des programmes VIH/SIDA.  
+*   Augmenter les activités de surveillance et leur utilisation.  
+*   Etre identifié en tant que chef régional dans le domaine du VIH/SIDA.  
+*   Éditer les rapports techniques et les articles scientifiques.  
+*   Développer les ressources pour assurer le succès, la croissance et la durabilité de TRAC et de ses programmes.  
+*   Promouvoir l'accessibilité aux services de dépistage et de conseils sur le VIH/SIDA.  
+*   Améliorer la prise en charge clinique des personnes infectées par le VIH/SIDA.  
 *   Conduire des études de surveillance épidémiologiques et de recherche.
 
 L'éducation thérapeutique développée à la clinique TRAC est inscrite dans un projet-pilote. Actuellement, cette approche est adoptée dans 5 sites pilotes au Rwanda.
@@ -73,11 +73,12 @@ Nous utilisons le terme de "**counselor**", qui n'est ni un éducateur, ni un co
 
 Le counselor est celui qui maîtrise les techniques de relation d'aide du counseling et c'est à travers ces techniques que nous faisons de "l'éducation thérapeutique". Les techniques et attitudes utilisées sont les mêmes que celles utilisées par Catherine Tourette-Turgis et Marilyne Rebillion pour la prise en charge des adultes,"' c'est-à-dire :
 
-*   L'écoute.
-*   L'acceptation.
-*   L'absence de jugement.
-*   L'empathie.
+*   L'écoute.  
+*   L'acceptation.  
+*   L'absence de jugement.  
+*   L'empathie.  
 *   La congruence.
+
 
 ![](i1095-1.jpg)
 
@@ -116,9 +117,9 @@ Les parents et les enfants sont alors conviés à une éducation thérapeutique 
 
 Tous les jeudis à 14 heures, est organisée une séance d'éducation thérapeutique de groupe avec l'outil "Le CD4 contre-attaque". Les enfants viennent accompagnés de leurs parents ou tuteurs. Ils sont rencontrés en individuel, avant la séance, afin d'évaluer s'ils sont prêts à recevoir l'information sur leur maladie. On cherche aussi à savoir ce qu'ils savent déjà de leur diagnostic et des raisons de leur suivi médical. Les séances ont plusieurs objectifs :
 
-*   Donner l'occasion à l'enfant de mieux comprendre son corps.
-*   Permettre à l'enfant de vivre un moment privilégié avec son parent, pour qu'ils comprennent ensemble l'importance du suivi médical et de l'observance au traitement.
-*   Annoncer le diagnostic de séropositivité au VIH à l'enfant (à partir de l'âge de 6 ans).
+*   Donner l'occasion à l'enfant de mieux comprendre son corps.  
+*   Permettre à l'enfant de vivre un moment privilégié avec son parent, pour qu'ils comprennent ensemble l'importance du suivi médical et de l'observance au traitement.  
+*   Annoncer le diagnostic de séropositivité au VIH à l'enfant (à partir de l'âge de 6 ans).  
 *   Permettre à l'enfant de réaliser qu'il n'est pas seul face à cette dure réalité (les séances se font en groupe, ce qui dédramatise l'annonce de la séropositivité).
 
 Le travail d'éducation thérapeutique se fait essentiellement en groupe pour des raisons pratiques, étant donné le très grand nombre d'enfants à suivre. **Mais nous avons pu observer que cette approche en groupe dédramatise énormément la prise en charge.**
@@ -127,9 +128,9 @@ Les enfants sont répartis dans les différentes activités thérapeutiques selo
 
 Les groupes sont répartis comme suit :
 
-*   De 6 à 9 ans : on travaille beaucoup avec des activités ludiques, des chansons, des dessins ou encore des histoires.
-*   De 10 à 12 ans : on mélange les activités ludiques avec des activités sur le corps, la santé.
-*   De 13 à 15 ans : les groupes travaillent plus autour de la parole. Ils ont écrit des chansons, des pièces de théâtre sur leur vécu de la maladie.
+*   De 6 à 9 ans : on travaille beaucoup avec des activités ludiques, des chansons, des dessins ou encore des histoires.  
+*   De 10 à 12 ans : on mélange les activités ludiques avec des activités sur le corps, la santé.  
+*   De 13 à 15 ans : les groupes travaillent plus autour de la parole. Ils ont écrit des chansons, des pièces de théâtre sur leur vécu de la maladie.  
 *   De 15à 18 ans et de 16 à 20 ans : les jeunes de plus de 15 ans ne sont plus considérés comme faisant partie des groupes des enfants. Pourtant c'est dans ces tranches d'âge que l'on rencontre le plus de difficultés. Un mal de vivre qui entraîne très souvent une mauvaise observance aux traitements. L'équipe doit faire face à de nombreux challenges pour reconstruire l'espoir en l'avenir avec ces jeunes.
 
 ### Les groupes de soutien
@@ -158,6 +159,7 @@ Daniela a la charge de son petit frère de 3 ans et tous deux doivent prendre de
 
 </table>
 
+
 ![](i1095-2.jpg)
 
 
@@ -167,10 +169,12 @@ Lors des visites à domicile et des échanges au sein des groupes de paroles et 
 
 L'observance au traitement et le suivi des enfants ne doit pas se limiter à des séances d'éducation thérapeutique.
 
+
 ![](i1095-4.jpg)
 
 
 Pour qu'un enfant prenne ses traitements, il faut qu'il comprenne pourquoi il doit vivre avec cette contrainte. Mais il doit aussi être accompagné pour qu'il puisse donner un sens à cette prise de traitement et cela passe par l'espoir qu'il aura un "futur", que tous ses efforts ne sont pas inscrits dans la fatalité de sa mort. Il faut donc lui garantir un avenir, c'est-à-dire, qu'il puisse manger correctement, qu'il puisse suivre une scolarité normale, et qu'il puisse vivre dans un milieu affectif où il est respecté.
+
 
 ![](i1095-3.jpg)
 <table>

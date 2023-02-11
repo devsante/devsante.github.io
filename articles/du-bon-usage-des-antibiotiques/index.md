@@ -11,7 +11,7 @@ La découverte des _sulfamides_ en 1935 fut la première révolution dans le tra
 
 Plus tard, vint la découverte de la _pénicilline_ qui inaugure l'ère des antibiotiques. C'est ainsi que les recherches dans le domaine de la chimiothérapie antibactérienne se sont faites dans deux directions :
 
-*   Les antibiotiques extraits de la fermentation de moisissures, des actinomycètes, ou d'autres agents bactériens, comme les pénicillines.
+*   Les antibiotiques extraits de la fermentation de moisissures, des actinomycètes, ou d'autres agents bactériens, comme les pénicillines.  
 *   Les antibiotiques de synthèse, (c'est le cas de la plupart des nouvelles molécules), qui sont des dérivés semi-synthétiques préparés par modifications chimiques des produits de base naturels.
 
 Les antibiotiques peuvent être classés en fonction de leur spectre d'action, de leur structure chimique, mais également selon leur mode d'action sur les bactéries. Ces modes d'action sont au nombre de cinq (_Tableau 1_).

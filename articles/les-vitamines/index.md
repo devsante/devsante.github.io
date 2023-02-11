@@ -47,6 +47,7 @@ Dans ce groupe, on trouve aussi les vitamines:
 
 **B6  B8  B9** et **B12.**
 
+
 ![](i4-1.jpg)
 
 
@@ -96,7 +97,9 @@ Enfin **la vitamine B12: **se trouve dans de très nombreux aliments et les bes
 
 En consultant les tableaux suivants, on peut retenir aisément les besoins journaliers nécessaires en vitamines.
 
+
 ![](i4-2.jpg)
+
 
 
 ![](i4-3.jpg)

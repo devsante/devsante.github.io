@@ -21,6 +21,7 @@ L'âge de découverte a été obtenu a partir des dates de naissance et d'enregi
 **Figure 1. Evolution de l'enregistrement de nouveaux patients  
 au CADA de 1977 à** **2004**
 
+
 ![](12082-1-0.jpg)
 
 

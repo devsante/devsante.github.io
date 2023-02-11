@@ -19,18 +19,18 @@ L'expérience de l'initiative HIFA-EVIPNET de l'OMS montre bien que la santé d�
 L'OMS s'est intéressée depuis de nombreuses années à la pratique de l'excision. Plusieurs des études qu’elle a menées font aujourd'hui référence quant à ses conséquences médicales sur la santé des populations.  
 Nous pouvons ainsi suggérer la lecture de quelques-unes d'entre elles. Les points clés suivants ont été listés par l’OMS en 2014 ([http://www.who.int/mediacentre/factsheets/fs241/fr/](http://www.who.int/mediacentre/factsheets/fs241/fr/ "http://www.who.int/mediacentre/factsheets/fs241/fr/")) :
 
-*   Les mutilations génitales féminines sont des interventions qui altèrent ou lèsent intentionnellement les organes génitaux externes de la femme pour des raisons non médicales.
-*   Ces pratiques ne présentent aucun avantage pour la santé des jeunes filles et des femmes.
-*   Elles peuvent provoquer de graves hémorragies et des troubles urinaires, et par la suite des kystes, des infections, une stérilité, des complications lors de l'accouchement, et accroître le risque de décès du nouveau-né.
-*   Plus de 125 millions de jeunes filles et femmes sont victimes de mutilations sexuelles pratiquées dans 29 pays d’Afrique et du Moyen-Orient où sont concentrées ces pratiques(1).
-*   Ces mutilations sont le plus souvent pratiquées sur des jeunes filles entre l'enfance et l'âge de 15 ans.
+*   Les mutilations génitales féminines sont des interventions qui altèrent ou lèsent intentionnellement les organes génitaux externes de la femme pour des raisons non médicales.  
+*   Ces pratiques ne présentent aucun avantage pour la santé des jeunes filles et des femmes.  
+*   Elles peuvent provoquer de graves hémorragies et des troubles urinaires, et par la suite des kystes, des infections, une stérilité, des complications lors de l'accouchement, et accroître le risque de décès du nouveau-né.  
+*   Plus de 125 millions de jeunes filles et femmes sont victimes de mutilations sexuelles pratiquées dans 29 pays d’Afrique et du Moyen-Orient où sont concentrées ces pratiques(1).  
+*   Ces mutilations sont le plus souvent pratiquées sur des jeunes filles entre l'enfance et l'âge de 15 ans.  
 *   Les mutilations sexuelles féminines sont une violation des droits des jeunes filles et des femmes.
 
 L'OMS propose une classification des formes de mutilation génitale féminine en quatre catégories :
 
-1.  La clitoridectomie : ablation partielle ou totale du clitoris (petite partie sensible et érectile des organes génitaux féminins) et, plus rarement, seulement du prépuce (repli de peau qui entoure le clitoris).
-2.  L’excision : ablation partielle ou totale du clitoris et des petites lèvres, avec ou sans excision des grandes lèvres (qui entourent le vagin).
-3.  L’infibulation : rétrécissement de l'orifice vaginal par la création d'une fermeture, réalisée en coupant et en repositionnant les lèvres intérieures, et parfois extérieures, avec ou sans ablation du clitoris.
+1.  La clitoridectomie : ablation partielle ou totale du clitoris (petite partie sensible et érectile des organes génitaux féminins) et, plus rarement, seulement du prépuce (repli de peau qui entoure le clitoris).  
+2.  L’excision : ablation partielle ou totale du clitoris et des petites lèvres, avec ou sans excision des grandes lèvres (qui entourent le vagin).  
+3.  L’infibulation : rétrécissement de l'orifice vaginal par la création d'une fermeture, réalisée en coupant et en repositionnant les lèvres intérieures, et parfois extérieures, avec ou sans ablation du clitoris.  
 4.  Les autres types de MGF : toutes les autres interventions néfastes sur les organes génitaux féminins à des fins non médicales, par exemple piquer, percer, inciser, racler et cautériser les organes génitaux
 
 Les principales conséquences à court, moyen ou long terme sont graves. L'article du Dr Béatrice Cuzin, dans ce numéro spécial de Développement et Santé, donne une bonne synthèse des complications.
@@ -67,8 +67,8 @@ L'OMS recommande sans ambigüité l'abandon de l'excision, quelle que soit la fo
 
 Pour les professionnels de santé, l'OMS recommande :
 
-*   De ne participer en aucun cas à la médicalisation de la pratique. L'OMS est particulièrement préoccupée par le fait que les mutilations sexuelles féminines sont de plus en plus pratiquées par du personnel médical qualifié. L'OMS engage vivement les professionnels de santé à ne pas se livrer à de telles pratiques.
-*   Une stratégie mondiale visant à empêcher le personnel de santé de pratiquer des mutilations sexuelles féminines implique de nombreux acteurs internationaux : OMS, ONUSIDA, PNUD, UNFPA, UNHCR, UNICEF, UNIFEM, FIGO, ICN, IOM, MWIA, WCPT, WMA.
+*   De ne participer en aucun cas à la médicalisation de la pratique. L'OMS est particulièrement préoccupée par le fait que les mutilations sexuelles féminines sont de plus en plus pratiquées par du personnel médical qualifié. L'OMS engage vivement les professionnels de santé à ne pas se livrer à de telles pratiques.  
+*   Une stratégie mondiale visant à empêcher le personnel de santé de pratiquer des mutilations sexuelles féminines implique de nombreux acteurs internationaux : OMS, ONUSIDA, PNUD, UNFPA, UNHCR, UNICEF, UNIFEM, FIGO, ICN, IOM, MWIA, WCPT, WMA.  
 *   De diffuser largement aux familles, et également aux différents décideurs, une information médicale sur les méfaits de la pratique.
 
 Les professionnels de santé peuvent ainsi favoriser l'abandon de l'excision par la diffusion d'une information élaborée sur des bases factuelles.
@@ -98,6 +98,7 @@ Cette prise en compte des déterminants sociaux de la santé dans l’approche d
 
 Le schéma ci-dessous montre de manière synthétique comment les différentes étapes d'action ou de conscientisation des acteurs doivent pleinement intervenir pour diminuer la charge de mortalité et de morbidité qui affecte les populations.
 
+                               
 ![](schema-oms.jpg)
 
 

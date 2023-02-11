@@ -61,7 +61,7 @@ Métaux lourds, monoxyde de carbone
 
 ### 1. Deux types d’intoxications
 
-*   L'intoxication aiguë résulte de la toxicité immédiate et de la quantité de produit dans l'organisme.
+*   L'intoxication aiguë résulte de la toxicité immédiate et de la quantité de produit dans l'organisme.  
 *   L'intoxication chronique est consécutive à l'exposition répétée ou prolongée à un toxique. Les manifestations cliniques sont dues à l'accumulation du produit dans l'organisme ou au contact répété.
 
 ### 2. Les voies de pénétration dans l’organisme
@@ -118,13 +118,13 @@ Certains signes sont évocateurs :
 
 *   digestifs : eau de Javel, soude, produits de lessive ;
 *   neurologiques : insecticides, organophosphorés, alcool, tranquillisants ;
-*   pulmonaires : pétrole, essence, etc.
+*   pulmonaires : pétrole, essence, etc.  
 *   sanguins : hémorragie avec les anticoagulants et certains raticides.
 
 #### d) Les examens complémentaires
 
-*   Bilan standard : NFS, ionogramme...
-*   Recherche du toxique dans les urines, le sang et, le cas échéant, le liquide de lavage gastrique.
+*   Bilan standard : NFS, ionogramme...  
+*   Recherche du toxique dans les urines, le sang et, le cas échéant, le liquide de lavage gastrique.  
 *   Examens à valeur d'orientation : glycémie, gaz du sang, transaminases, méthémoglobinémie, anomalies ECG...
 
 ### 2. Apprécier la gravité
@@ -137,8 +137,8 @@ Ces situations nécessitent un transfert en Unité de Soins Intensifs.
 
 #### a) Mesures générales
 
-*   Surveillance continue : conscience, pupilles, TA, saturation 0<sup>2</sup>, diurèse, coloration des téguments.
-*   Maintien des fonctions vitales.
+*   Surveillance continue : conscience, pupilles, TA, saturation 0<sup>2</sup>, diurèse, coloration des téguments.  
+*   Maintien des fonctions vitales.  
 *   Traitement de la fièvre, des convulsions.
 
 Le but du traitement est d'éviter la progression de l'absorption du produit et de favoriser son élimination. Les moyens associent les mesures symptomatiques, la prévention de l'absorption du toxique, l'épuration du toxique et l'administration de l'antidote, s'il existe.  
@@ -150,7 +150,7 @@ Certains produits non dangereux - la plupart des antibiotiques, les corticoïdes
 Elle est contre-indiquée dans les cas d'ingestion de produits caustiques, volatils ou moussants et/ou de troubles de la conscience ou de convulsions.  
 Elle peut être réalisée de plusieurs façons :
 
-*   Par les **vomissements provoqués** dans la 1<sup>ère</sup> heure : soit par attouchement du pharynx à l'aide du dos d'une cuillère, méthode facile et pouvant être rapidement mise en oeuvre par l'entourage ; par administration de **sirop d'Ipéca** : 1 cuillère à café/10 kg de poids, diluée dans dix fois son volume d'eau (5 ml chez le nourrisson de 6 à 9 mois, 10 ml de 9 à 12 mois, 15 ml de 1 à 12 ans), à répéter éventuellement 20 minutes après ; par administration d'**apomorphine** : 0,06 mg à 0,1 mg/kg de poids par voie sous-cutanée.
+*   Par les **vomissements provoqués** dans la 1<sup>ère</sup> heure : soit par attouchement du pharynx à l'aide du dos d'une cuillère, méthode facile et pouvant être rapidement mise en oeuvre par l'entourage ; par administration de **sirop d'Ipéca** : 1 cuillère à café/10 kg de poids, diluée dans dix fois son volume d'eau (5 ml chez le nourrisson de 6 à 9 mois, 10 ml de 9 à 12 mois, 15 ml de 1 à 12 ans), à répéter éventuellement 20 minutes après ; par administration d'**apomorphine** : 0,06 mg à 0,1 mg/kg de poids par voie sous-cutanée.  
 *   Par le **lavage gastrique** effectué au plus tard dans les 2 ou 3 heures suivant l'ingestion. Il est réalisé à l'aide d'une sonde bucco-gastrique (tube de Ffaucher) de calibre suffisant chez un enfant conscient en position latérale de sécurité. Il est effectué par cycles de 100 à 200 ml pour un total de 150 ml/kg de sérum physiologique jusqu'à l'obtention d'un liquide clair. Le contenu de la 1ère seringue est gardé pour l'analyse toxicologique.  
     En cas de troubles de la conscience, de convulsions, d'accès de contracture, il est réalisé après intubation trachéale.
 
@@ -203,21 +203,21 @@ Leur fréquence s'explique par l'accessibilité des médicaments dans nos maison
 
 #### a) Intoxication à l'acide acétylsalicylique (aspirine)
 
-*   Elle est fréquente chez l'enfant (ingestion massive ou absorption répétée de doses quotidiennes excessives).
-*   La dose toxique est de 100-120 mg/kg en une journée, mais il existe une sensibilité particulière chez certains enfants.
+*   Elle est fréquente chez l'enfant (ingestion massive ou absorption répétée de doses quotidiennes excessives).  
+*   La dose toxique est de 100-120 mg/kg en une journée, mais il existe une sensibilité particulière chez certains enfants.  
 *   L'acide acétylsalicylique est métabolisé par le foie : 25 % sont oxydés, 75 % sont éliminés sous forme d'acide salicylique dans les urines. Cette excrétion urinaire dépend beaucoup du pH urinaire (elle est multipliée par 5 si le pH est <  7,5).Trois organes sont atteints : le foie, le rein, le système nerveux.
 
 **Clinique**  
 Dépendant du degré d'intoxication, elle est marquée par différents signes :
 
-*   Troubles digestifs : gastralgies, gastrites, hémorragies, ulcères.
-*   Troubles neurologiques : vertiges, hallucinations, agitation, hyperexcitabilité neuromuscuiaire, coma.
-*   Troubles respiratoires : hyperapnée ample par acidose.
+*   Troubles digestifs : gastralgies, gastrites, hémorragies, ulcères.  
+*   Troubles neurologiques : vertiges, hallucinations, agitation, hyperexcitabilité neuromuscuiaire, coma.  
+*   Troubles respiratoires : hyperapnée ample par acidose.  
 *   Sueurs abondantes, fièvre, déshydratation.
 
 L'association coma et hyperpnée dans un contexte fébrile doit faire penser à une intoxication salicylée. Dans les formes sévères :
 
-*   Atteinte hépatique avec cytolyse et syndrome hémorragique.
+*   Atteinte hépatique avec cytolyse et syndrome hémorragique.  
 *   Atteinte pulmonaire avec OAP.
 
 **Biologie**  
@@ -226,7 +226,7 @@ Les dosages ne sont pas toujours possibles dans les centres de santé.
 **Traitement**
 
 *   Evacuation gastrique
-*   Administration de charbon végétal activé.
+*   Administration de charbon végétal activé.  
 *   Traitement symptomatiyue de l'hyperthermie, des convulsions, de la déshydratation (voir le site : [www.devsante.org](http://www.devsante.org "www.devsante.org")).
 
 #### b) Intoxication au paracétamol
@@ -243,7 +243,7 @@ Le diagnostic est confirmé par le dosage sanguin du toxique (réalisé si le pa
 **Traitement**  
 Lavage gastrique avant la 6ème heure et en cas de prise supérieure à 150 mg/kg.
 
-*   Administration de l'antidote spécifique. la : Nacétylcystéine, avant la 10ème heure : dose d'attaque 140 mg/kg par voie orale, dose d'entretien : 70 mg/kg/4 heures, jusqu'à 17 doses.
+*   Administration de l'antidote spécifique. la : Nacétylcystéine, avant la 10ème heure : dose d'attaque 140 mg/kg par voie orale, dose d'entretien : 70 mg/kg/4 heures, jusqu'à 17 doses.  
 *   En cas de troubles de la conscience, l'antidote est administré en perfusion dans du sérum glucosé à 5% à la dose de :
     *   150 mg/kg pendant 15 minutes
     *   puis 50 mg/kg en 4 heures
@@ -254,7 +254,7 @@ Lavage gastrique avant la 6ème heure et en cas de prise supérieure à 150 mg/k
 **Clinique**  
 La dose toxique est de 25 mg/kg. L'intensité des symptômes dépend de la quantité absorbée et du type de barbiturique :
 
-*   Stade précomateux avec troubles digestifs, état pseudo- ébrieux.
+*   Stade précomateux avec troubles digestifs, état pseudo- ébrieux.  
 *   Stade de coma avec troubles neurovégétatifs : coma barbiturique (coma calme, peu profond avec une résolution musculaire, diminution ou abolition totale des réflexes ostéo-tendineux).
 
 **Traitement**
@@ -270,9 +270,9 @@ Les principaux caustiques rencontrés sont :
 
 *   Les caustiques majeurs :
     *   Acides : acide chlorhydrique (HCI) ou acide muriatique,
-    *   Basiques : soude (NaOH) ou lessive de soude.
+    *   Basiques : soude (NaOH) ou lessive de soude.  
 *   Les caustiques faibles :
-    *   Acides : acide acétique (CH<sub>3</sub> COOH). Basiques ammoniaque (NH<sub>4</sub>,OH).
+    *   Acides : acide acétique (CH<sub>3</sub> COOH). Basiques ammoniaque (NH<sub>4</sub>,OH).  
     *   Divers : hvpochlorite de soude (NaCIO) ou eau de Javel.
 
 **Clinique**  
@@ -310,6 +310,7 @@ Il doit être entrepris d'extrême urgence. Il se propose de limiter l'étendue 
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -341,7 +342,7 @@ Conduite à tenir
 Elle est marquée par des troubles :
 
 *   digestifs : douleurs abdominales, vomissements, diarrhées,
-*   respiratoires : toux, dyspnée.
+*   respiratoires : toux, dyspnée.  
 *   neurologiques.
 
 #### b) Traitement
@@ -359,14 +360,14 @@ Ce sont des insecticides très utilisés : DDT (dichloro-diphényl-trichloroéth
 **Clinique**  
 En cas d'absorption digestive, les troubles sont précoces :
 
-*   Signes d'une gastro-entérite aiguë : douleurs, épigastriques, vomissements, diarrhées.
+*   Signes d'une gastro-entérite aiguë : douleurs, épigastriques, vomissements, diarrhées.  
 *   Troubles neurologiques après quelques heures : céphalées, vertiges, paresthésies des lèvres, de la langue, fourmillements des extrémités, convulsions toniques et cloniques.
 
 **Traitement**
 
-*   Pas d'administration de lait, d'alcool, de purgatif huileux qui augmentent l'absorption digestive de l'insecticide.
-*   Elimination du toxique par lavage gastrique.
-*   Traitement symptomatique.
+*   Pas d'administration de lait, d'alcool, de purgatif huileux qui augmentent l'absorption digestive de l'insecticide.  
+*   Elimination du toxique par lavage gastrique.  
+*   Traitement symptomatique.  
 *   Pas d'antidote.
 
 #### b) Les organophosphorés
@@ -391,17 +392,17 @@ Signes non spécifiques : troubles du métabolisme glucidique (hypo ou hyperglyc
 
 **Traitement**
 
-*   Hospitalisation (réanimation).
-*   Lavage cutané ou oculaire en cas de contact avec la peau ou de projection dans les yeux.
-*   Administration de sulfate d'atropine : 0,5 à 2 mg par voie sous-cutanée ou IV, à renouveler dans les formes graves toutes les 30 minutes jusqu'à l'apparition de signes d'atropinisation (bouche sèche, tachycardie, mydriase).
-*   Traitement par antidote : pralidoxime : 200 à 400 mg par voie IV directe ou en solution dans 250 cc de sérum glucosé isotonique, renouvelable selon la symptomatologie.
+*   Hospitalisation (réanimation).  
+*   Lavage cutané ou oculaire en cas de contact avec la peau ou de projection dans les yeux.  
+*   Administration de sulfate d'atropine : 0,5 à 2 mg par voie sous-cutanée ou IV, à renouveler dans les formes graves toutes les 30 minutes jusqu'à l'apparition de signes d'atropinisation (bouche sèche, tachycardie, mydriase).  
+*   Traitement par antidote : pralidoxime : 200 à 400 mg par voie IV directe ou en solution dans 250 cc de sérum glucosé isotonique, renouvelable selon la symptomatologie.  
 *   Traitement symptomatique.
 
 #### c) Les pyréthoïdes
 
 Insecticides ayant remplacé les organochlorés, dont le DDT, les dérivés synthétiques sont peu toxiques, à la différence des extraits naturels (peu utilisés). Ils peuvent cependant entraîner de graves troubles nerveux en cas d'ingestion de produit à dose sublétale (1g/kg) et, plus souvent, une irritation de la peau et des muqueuses par contact.
 
-*   En cas d'ingestion : nausées, vomissements, puis vertiges, maux de tête, tremblements, fourmillements des extrémités, somnolence, voire coma et convulsions.
+*   En cas d'ingestion : nausées, vomissements, puis vertiges, maux de tête, tremblements, fourmillements des extrémités, somnolence, voire coma et convulsions.  
 *   En cas de contact : rougeurs cutanées, conjonctivite, paresthésies du visage et des lèvres (fourmillements douloureux).
 
 Il n'y a pas d'antidote spécifique, il faut mettre en place des traitements symptomatiques, et administrer des sédatifs en cas de troubles neurologiques et une hydratation intraveineuse en cas de troubles digestifs majeurs.

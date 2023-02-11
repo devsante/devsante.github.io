@@ -12,7 +12,9 @@ Nous présenterons les blocs au coude et au poignet qui permettent d'anesthésie
 
 Le **matériel nécessaire** se résume à une aiguille courte à biseau court, une seringue plastique de 10 ml, des compresses, de l'alcool iodé et des gants stériles. Le patient est installé en décubitus dorsal le bras en abduction à 90°. La voie veineuse et l'ECG ne sont pas nécessaires car les blocs périphériques sont exempts de tout retentissement neurologique, cardiovasculaire et respiratoire. Le repérage par neurostimulation a un intérêt pour les nerfs mixtes, permettant d'abandonner la technique de repérage par recherche de paresthésies, et d'injecter de faibles volumes (0,15 ml/kg avec un maximum de 7 ml chez l'adulte au coude et 0,10 ml/kg avec un maximum de 5 ml chez l'adulte au poignet) à proximité du nerf avec un délai d'installation court. Les réponses musculaires motrices lors de la neuro-stimulation sont, pour le médian une flexion-pronation du poignet et une flexion des 2è et 3è doigts, pour le cubital une inclinaison cubitale du poignet et une flexion des 4è et 5è doigts ; pour le radial : une extension du coude, du poignet et des doigts. Pour les nerfs sensitifs ou en absence de neurostimulateur on fait un repérape par recherche de paresthésie ou une infiltration régionale avec l'injection d'un plus grand volume (7 à 8 ml) qui réalise un barrage d'anesthésique local sur le trajet du nerf.
 
+
 ![](i723-1.jpg)
+
 ![](i723-2.jpg)
 
 
@@ -32,6 +34,7 @@ L'aiguille (de 23 G et 32 mm) est insérée au bord médial de l'artère qui est
 
 Les complications sont la tranfixiation du nerf, la ponction de l'artère humérale qui expose à un hématome avec ischémie du membre en aval et la pénétration dans l'articulation du coude.
 
+
 ![](i723-3.jpg)
 
 
@@ -42,6 +45,7 @@ Le membre supérieur est en extension et en supination. L'opérateur se place du
 Le poignet est mis en légère extension, l'aiguille (de 25 G et 16 mm) est insérée perpendiculairement à la peau d'une profondeur d'environ 1 cm. Dans la loge antérieure de l'avant-bras, le nerf médian est à une profondeur de moins de 1 cm. On injecte, après avoir obtenu des paresthésies ou une réponse motrice, qui est limitée à une opposition et une antépulsion du pouce, si l'on dispose d'un stimulateur. Si les paresthésies ne sont pas obtenues, elles doivent être recherchées dans une direction plus cubitale, sous le tendon du long palmaire.
 
 Lors du retrait de l'aiguille, mais nous conseillons de repiquer pour être sûr d'être en sus-aponévrotique, on injecte 1 ml pour bloquer le rameau palmaire du nerf médian. Cette branche qui innerve l'éminence thénar et la face palmaire du pouce naît parfois au-dessus du point de ponction. En pratique, l'aiguille est orientée à 90° par rapport à l'axe du poignet vers la face externe de l'avant-bras et insérée en sous-cutanée sur toute sa Iongueur.
+
 
 ![](i723-4.jpg)
 **Figure n°4. Bloc des nerfs médian et cubital au poignet.**
@@ -73,6 +77,7 @@ Une ponction au niveau de la gouttière peut être à l'origine d'une neuropathi
 Le membre supérieur est en supination avec le poignet en légère extension. L'opérateur se place face au bord ulnaire du poignet. On repère l'apophyse styloïde de I'ulna (cubitus), le tendon du fléchisseur Ulnaire du carpe. Le nerf ulnaire est bloqué sous ce tendon avant qu'il se divise en ses branches terminales profonde et superficielle.
 
 Le nerf est abordé deux travers de doigts au-dessus du pli de flexion distal du poignet, soit au bord radial du tendon du fléchisseur cubital du carpe, l'aiguille (25 G et 16 mm) étant dirigée perpendiculairement à la peau (dorsalement) sur une profondeur de moins d'un cm, soit du
+
 
 ![](i723-5.jpg)
 **Figure n° 5. Bloc du nerf ulnaire au** **coude.**
@@ -106,6 +111,7 @@ Il s'agit d'une infiltration anesthésique des branches sensitives superficielle
 Le membre supérieur est en extension, le poignet en pronation. Une ligne est tracée 2 cm au-dessus de la styloïde radiale, de part et d'autre du bord radial du poignet.
 
 L'aiguille (de 23 G et 32 mm) est insérée au bord postéro-externe du poignet et enfoncée jusqu'au milieu de la face dorsale du poignet. Durant ce trajet, 3 à 5 ml d'anesthésique local sont injectés. Puis l'aiguille est retirée vers le point d'insertion et réaxée perpendiculairement à l'axe du poignet et enfoncée vers le bord antérieur du poignet. On injecte 3 à 5 ml d'anesthésique local. On réalise une infiltration sous-cutanée hémicirconférencielle postérieure et externe du poignet.
+
 
 ![](i723-6.jpg)
 **Figure n° 6. Bloc du nerf radial au poignet**
@@ -156,9 +162,12 @@ Les nerfs collatéraux dorsaux, issus des nerfs radial et ulnaire innervent la f
 
 C'est un bloc des nerfs collatéraux palmaires et dorsaux de chaque côté de la base du doigt. Il permet une anesthésie des trois phalanges.
 
-Le patient est installé en décubitus dorsal de préférence, la main en pronation.![](i723-7.jpg)
-**Figure n° 7. Pédicules vasculo-nerveux collatéro-palmaires de part et d'autre des tendons fléchisseurs.**![](i723-8.jpg)
-**Figure n° 8. Gaines des tendons fléchisseurs.**![](i723-9.jpg)
+Le patient est installé en décubitus dorsal de préférence, la main en pronation.  
+![](i723-7.jpg)
+**Figure n° 7. Pédicules vasculo-nerveux collatéro-palmaires de part et d'autre des tendons fléchisseurs.**
+![](i723-8.jpg)
+**Figure n° 8. Gaines des tendons fléchisseurs.**
+![](i723-9.jpg)
 **Figure n° 9. Anesthésie en bague.**1 . nerf collatéral dorsal - 2. nerf et artère collatéro-palmaires
 
 L'opérateur saisit le doigt entre le pouce et l'index gauche, le pouce étant placé sur la face dorsale et l'index sous la face palmaire. Le point de ponction est au niveau de la base de la 1ère phalange.
@@ -174,6 +183,7 @@ C'est un bloc du nerf inter-digital en amont de la division en nerfs collatérau
 Le patient est installé en décubitus dorsal de préférence, la main en pronation et les doigts étendus et écartés.
 
 On utilise une aiguille de 25 G et de 16 mm. Le point de ponction est dans la commissure à 2-3 mm de la jonction avec la peau palmaire. On dirige l'aiguille en arrière vers la main avec une direction parallèle aux doigts. On injecte 2 ml de solution après avoir enfoncé l'aiguille jusqu'à la garde. On redirige J'aiguille en direction des nerfs dorsaux, si leur anesthésie est nécessaire. Il faut faire la technique au bord latéral et au bord médian du doigt.
+
 
 ![](i723-10.jpg)
 **Figure n°10. Anesthésie inter-commissurale.**
@@ -203,6 +213,7 @@ Cette technique n'expose pas aux complications vasculo-nerveuses, mais au risque
 Le pouce est innervé par les branches superficielles du nerf radial et les branches digitales du nerf médian.
 
 Une anesthésie complète du pouce est obtenue par un bloc du médian associé à un bloc du radial au poignet. On peut aussi faire une anesthésie en bague.
+
 
 ![](i723-11.jpg)
 **Figure n°11. Anesthésie par la gaine des fléchisseurs**

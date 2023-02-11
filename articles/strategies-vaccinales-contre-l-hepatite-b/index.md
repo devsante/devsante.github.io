@@ -105,7 +105,7 @@ La vaccination doit être pratiquée à la nais­sance (dans les 24 premières h
 
 ### 4. Le problème du rappel
 
-*   En principe le rappel est indiqué tous les 5 ans.
+*   En principe le rappel est indiqué tous les 5 ans.  
 *   Actuellement, la tendance est de contrôler chez l'adulte la sérologie et de ne faire un rappel que si le titre est très bas (inférieur à 10 mUI/ml).
 
 Dans les zones de très forte endémie, le rappel est peu utile car les enfants et les adultes antérieurement vaccinés sont exposés et ren­forcent leur immunité par des contacts succes­sifs avec le virus.
@@ -309,6 +309,7 @@ _1. Le schéma A est recommandé dans les pays où la transmission périnatale d
 _2. Dans les pays à risque de fièvre jaune._
 
 **En conclusion**, il faut montrer à toutes les familles à quel point le vaccin contre l'hépatite B est efficace et bien supporté pour vacciner selon les stratégies de chaque pays.
+
 
 ![](image002.jpg)
 

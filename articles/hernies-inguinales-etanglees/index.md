@@ -10,6 +10,7 @@ Cet étranglement interrompt non seulement le transit intestinal, ce qui provoqu
 
 **Figure 1 : hernie inguinale**
 
+
 ![](image002-7.jpg)
 
 
@@ -29,6 +30,7 @@ Une hernie inguinale non compliquée se manifeste par une tuméfaction :
 *   réductible : son contenu est facilement repoussé dans l'abdomen par pression de la main.
 
 **Figure 2 : hernie étranglée**
+
 
 ![](image004-7.jpg)
 
@@ -79,11 +81,11 @@ Une fois le diagnostic fait, il faut adresser le patient en urgence à l'hôpita
 
 ### 2. Conduite à tenir
 
-*   Mise en place d'une voie veineuse périphé­rique.
-*   Bilan biologique : NFS, ionogramme san­guin, bilan pré-opératoire.
-*   Pose d'une sonde nasogastrique en cas d'occlusion intestinale associée, en aspira­tion douce continue si possible, sinon en siphonage (reliée à une poche posée au sol). Elle permettra d'évaluer les pertes dues aux vomissements et d'éviter l'inhalation de liqui­de gastrique en cas de vomissements au moment de l'anesthésie.
-*   Antibiothérapie pour éviter la multiplication bactérienne dans le liquide de stase dans l'intestin (pénicilline et métronidazole).
-*   Correction des pertes hydro-électrolytiques (stase intestinale, vomissements, aspiration gastrique).
+*   Mise en place d'une voie veineuse périphé­rique.  
+*   Bilan biologique : NFS, ionogramme san­guin, bilan pré-opératoire.  
+*   Pose d'une sonde nasogastrique en cas d'occlusion intestinale associée, en aspira­tion douce continue si possible, sinon en siphonage (reliée à une poche posée au sol). Elle permettra d'évaluer les pertes dues aux vomissements et d'éviter l'inhalation de liqui­de gastrique en cas de vomissements au moment de l'anesthésie.  
+*   Antibiothérapie pour éviter la multiplication bactérienne dans le liquide de stase dans l'intestin (pénicilline et métronidazole).  
+*   Correction des pertes hydro-électrolytiques (stase intestinale, vomissements, aspiration gastrique).  
 *   Antalgiques et antispasmodiques.
 
 ## IV. Traitement chirurgical

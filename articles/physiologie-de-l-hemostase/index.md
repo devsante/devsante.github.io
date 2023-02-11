@@ -27,6 +27,7 @@ Elle constitue le temps vasculaire et facilite l'adhésion des plaquettes au col
 
 Elle s'effectue par l'intermédiaire du facteur Willebrand, fixé sur son récepteur membranaire : la protéine GPIb. Ce phénomène est très rapide. Il provoque l'activation des plaquettes.
 
+
 ![](i934-1.jpg)
 
 
@@ -107,6 +108,7 @@ Le facteur Xa active le facteur V et va former un complexe avec le facteur Va, e
 
 C'est la thrombine qui va transformer le fibrinogène en fibrine, qui se polymérise.
 
+
 ![](i934-2.jpg)
 
 
@@ -134,7 +136,9 @@ En cas de lyse localisée d'un caillot, seuls les produits de dégradation de la
 
 En pathologie, en cas de coagulation intravasculaire disséminée (CIVD), on retrouve dans la circulation des complexes solubles résultant de l'accolement des monomères de fibrine aux PDF.
 
+
 ![](i934-3.jpg)
+
 
 
 ![](i934-4.jpg)
@@ -157,5 +161,6 @@ L'hémostase est assurée par un ensemble de réactions faisant intervenir de no
  Ces mécanismes physiologiques, hémostase primaire, coagulation et fibrinolyse sont essentiels, permettant d'assurer une prévention du risque hémorragique, mais également du risque thromboembolique. Le rôle des inhibiteurs physiologiques est en effet très important, réalisant un contrôle permanent de ces réactions, qui risqueraient d'aboutir à une exagération des phénomènes de coagulation.
 
 Ainsi un déficit en facteur de la coagulation entraînera plutôt un risque hémorragique, tandis qu'un déficit en inhibiteur sera responsable d'accidents thrombotiques.
+
 
 ![](i934-5.jpg)

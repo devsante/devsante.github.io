@@ -91,11 +91,11 @@ toute infection ou fièvre isolée (listériose+++)</li><li>Infection urinaire (
 
 ## II. Pour prévenir la prématurité
 
-*   Rechercher et prévenir les facteurs prédisposants lors de la première visite prénatale.
-*   Traiter les infections urinaires et cervico-vab nales.
-*   Réaliser un cerclage du col à 15 SA en cas de béance cervico-isthmique confirmée.
-*   Conseiller le repos et une limitation des longs trajets.
-*   Conseiller une aide ménagère.
+*   Rechercher et prévenir les facteurs prédisposants lors de la première visite prénatale.  
+*   Traiter les infections urinaires et cervico-vab nales.  
+*   Réaliser un cerclage du col à 15 SA en cas de béance cervico-isthmique confirmée.  
+*   Conseiller le repos et une limitation des longs trajets.  
+*   Conseiller une aide ménagère.  
 *   Améliorer les conditions de travail, voire prescrire un arrêt de travail.
 
 ##   
@@ -104,8 +104,8 @@ d'accouchement prématuré (MAP)
 
 ### 1. Reconnaître la MAP
 
-*   Terme inférieur à 37 SA.
-*   Contractions utérines régulières et douloureuses.
+*   Terme inférieur à 37 SA.  
+*   Contractions utérines régulières et douloureuses.  
 *   Modifications du col utérin (au TV, à l'échographie endovaginale du col).
 
 ### 2. Rechercher une étiologie
@@ -119,8 +119,8 @@ On recherche le signe de TARNIER : mobilisation de la présentation au TV si éc
 ### 4. Rechercher une contre-indication à la tocolyse  
 (pour les béta 2 mimétiques : salbutamol)
 
-*   Antécédent cardiovasculaire (auscultation cardiaque ou ECG).
-*   Ionogramme sanguin (K+).
+*   Antécédent cardiovasculaire (auscultation cardiaque ou ECG).  
+*   Ionogramme sanguin (K+).  
 *   Glycémie.
 
 ### 5. Faire un bilan fœtal
@@ -133,10 +133,10 @@ On recherche le signe de TARNIER : mobilisation de la présentation au TV si éc
 
 #### a) MAP avant 32 semaines d'aménorrhée
 
-*   Orientation pour hospitalisation dans une maternité de niveau III (si difficulté d'évacuation en attendant).
-*   Repos au lit en décubitus latéral gauche +++.
-*   Corticothérapie destinée à la maturation pulmonaire foetale (12 mg/jour de bétaméthasone par voie IM pendant 2 jours).
-*   Traitement de la cause, notamment traitement systématique de toute infection maternelle.
+*   Orientation pour hospitalisation dans une maternité de niveau III (si difficulté d'évacuation en attendant).  
+*   Repos au lit en décubitus latéral gauche +++.  
+*   Corticothérapie destinée à la maturation pulmonaire foetale (12 mg/jour de bétaméthasone par voie IM pendant 2 jours).  
+*   Traitement de la cause, notamment traitement systématique de toute infection maternelle.  
 *   Traitement tocolytique afin d'inhiber des contractions utérines : salbutamol.
 
 #### b) MAP entre 32 et 34 SA
@@ -147,8 +147,8 @@ Orientation en maternité de niveau II (en attendant l'évacuation, si possible 
 
 La maturation pulmonaire foetale est a priori acquise, on peut donc se passer de la corticothérapie, néanmoins :
 
-*   Repos au lit en décubitus latéral gauche.
-*   Traitement de la cause.
+*   Repos au lit en décubitus latéral gauche.  
+*   Traitement de la cause.  
 *   Tocolyse.
 
 ### 7. Surveillance
@@ -157,13 +157,13 @@ La maturation pulmonaire foetale est a priori acquise, on peut donc se passer de
 
 Efficacité et tolérance du traitement :
 
-*   Contractions utérines.
-*   Echographie.
+*   Contractions utérines.  
+*   Echographie.  
 *   Recherche d'effets secondaires du tocolytique.
 
 #### b) Surveillance foetale
 
-*   Mouvements actifs du foetus.
+*   Mouvements actifs du foetus.  
 *   Rythme cardiaque foetal.
 
 ## Conclusion

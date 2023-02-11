@@ -21,8 +21,8 @@ Cette définition académique élimine les hémorragies d'origine traumatique pr
 
 #### Elle évolue en trois phases :
 
-*   **Phase de décollement :** le décollement s'amorce sitôt l'expulsion du foetus : la rétraction utérine provoque un hématome physiologique qui finalise le décollement ; la contraction utérine le termine.
-*   **Phase d'expulsion :** sous l'influence de la contraction et de son poids, le placenta migre à travers la filière génitale avant d'être expulsé.
+*   **Phase de décollement :** le décollement s'amorce sitôt l'expulsion du foetus : la rétraction utérine provoque un hématome physiologique qui finalise le décollement ; la contraction utérine le termine.  
+*   **Phase d'expulsion :** sous l'influence de la contraction et de son poids, le placenta migre à travers la filière génitale avant d'être expulsé.  
 *   **Hémostase :** d'abord musculotrope par la contraction utérine, elle est complétée par les mécanismes normaux de la coagulation. Cette phase requiert un utérus vide, des fibres musculaires de bonne qualité et un bilan biologique d'hémostase normal.
 
 #### Chaque étape peut être perturbée :
@@ -101,7 +101,7 @@ Au total, après que la grossesse ait préparé un terrain propice à la CIV, l'
 Elle résulte le plus souvent de plusieurs circonstances :
 
 *   troubles de la dynamique utérine (inertie ou hypertonie) spontanées ou provoquées par un surdosage en ocytociques;
-*   anomalies de la caduque: cicatrice, lésion d'endométrite, malformation utérine...
+*   anomalies de la caduque: cicatrice, lésion d'endométrite, malformation utérine...  
 *   anomalie du placenta, en forme (cotylédon aberrant), en insertion ou en implantation (basse sur le segment inférieur, accreta ou percreta), nécessitant dans tous les cas un examen minutieux du placenta et une révision utérine au moindre doute.
 
 ### 2. Atonie utérine
@@ -172,14 +172,14 @@ Comme le diagnostic, il nécessite une étroite collaboration entre les équipes
 
 C'est la principale cause du choc hypovolémique. Plusieurs gestes immédiats sont à faire, évitant ainsi la mise en place du cercle vicieux :
 
-*   **Décubitus latéral gauche :** dans le cas d'hémorragie massive, la position en Trendelenburg est recommandée.
-*   **Oxygénation** **nasale** ou au masque (6 à 8 I/min).
-*   **Mise en place d'une ou deux voies** **veineuses périphériques :** elles doivent être sûres et efficaces : 14 à 16 Gauges. Parfois une dénudation chirurgicale peut être réalisée. Si une voie centrale est nécessaire, elle ne doit être posée qu'en dehors de troubles de l'hémostase.
-*   **Bilan sanguin minimal :** Groupe-Rhésus, RAI*, NFS, plaquettes, fibrinogène.
-*   **Remplissage de première intention :** Ringer-lactate, remplissage rapide 500 mI/15 min. Le volume à perfuser représente environ 4 fois le volume supposé perdu.
-*   **Remplissage par des macromolécules :** surtout s'il existe une hypotension artérielle ou un état de choc. Colloïdes de type Plasmion®, Haemaccel®, ou produits de bas poids moléculaire de type Elohes® : à utiliser associés au solutés de base, remplissage rapide, 500 ml/15 à 30 min.
-*   **Surveillance tensionnelle :** établissement d'une feuille de surveillance à la recherche d'une TA normale, signe d'une bonne évolution sous remplissage.
-*   **Le sang total frais (culots, plasma** **frais congelé, voire concentrés plaquettaires si plaquettes < 25 000) :** massif, précoce, nécessaire si la perte sanguine dépasse 30 % de la volémie ou s'il existe des troubles de la coagulation. Il permet d'apporter les facteurs de coagulation déficients et complète la restauration volémique.
+*   **Décubitus latéral gauche :** dans le cas d'hémorragie massive, la position en Trendelenburg est recommandée.  
+*   **Oxygénation** **nasale** ou au masque (6 à 8 I/min).  
+*   **Mise en place d'une ou deux voies** **veineuses périphériques :** elles doivent être sûres et efficaces : 14 à 16 Gauges. Parfois une dénudation chirurgicale peut être réalisée. Si une voie centrale est nécessaire, elle ne doit être posée qu'en dehors de troubles de l'hémostase.  
+*   **Bilan sanguin minimal :** Groupe-Rhésus, RAI*, NFS, plaquettes, fibrinogène.  
+*   **Remplissage de première intention :** Ringer-lactate, remplissage rapide 500 mI/15 min. Le volume à perfuser représente environ 4 fois le volume supposé perdu.  
+*   **Remplissage par des macromolécules :** surtout s'il existe une hypotension artérielle ou un état de choc. Colloïdes de type Plasmion®, Haemaccel®, ou produits de bas poids moléculaire de type Elohes® : à utiliser associés au solutés de base, remplissage rapide, 500 ml/15 à 30 min.  
+*   **Surveillance tensionnelle :** établissement d'une feuille de surveillance à la recherche d'une TA normale, signe d'une bonne évolution sous remplissage.  
+*   **Le sang total frais (culots, plasma** **frais congelé, voire concentrés plaquettaires si plaquettes < 25 000) :** massif, précoce, nécessaire si la perte sanguine dépasse 30 % de la volémie ou s'il existe des troubles de la coagulation. Il permet d'apporter les facteurs de coagulation déficients et complète la restauration volémique.  
 *   **Une antibiothérapie large sera instaurée :** l'infection pouvant générer ou compliquer tous les troubles de l'hémostase, l'antibiothérapie couvrira les bacilles à Gram négatif, les coccis et les anaérobies (par exemple Augmentin® + Gentalline® ou Totapen® + Flagyl® + Gentalline®).
 
 ### 2. Traitement obstétrical
@@ -213,7 +213,7 @@ Il faut savoir attendre l'effet des manoeuvres réanimatoires (restauration de l
 #### a. Les ligatures vasculaires
 
 *   ligature des artères utérines;
-*   méthode de Tsirulnikov: ligature des pédicules utérins, des ligaments ronds et utéro-ovariens après extériorisation de l'utérus : diminution du débit sanguin de 90 % et rétraction utérine par spasme anoxique.
+*   méthode de Tsirulnikov: ligature des pédicules utérins, des ligaments ronds et utéro-ovariens après extériorisation de l'utérus : diminution du débit sanguin de 90 % et rétraction utérine par spasme anoxique.  
 *   ligature des artères hypogastriques: chute du débit de 50 %, importance du réseau collatéral.
 
 Dans tous les cas, les ligatures peuvent se pratiquer au fil à résorption rapide permettant une reperméabilisation au bout de 10 jours et donc une potentialité de grossesse ultérieure.
@@ -236,7 +236,7 @@ Dépister les pathologies et les risques;
 
 Coopération anesthésico-obstétricale :
 
-*   respecter le bon déroulement et la physiologie du travail et de la délivrance. Ne pas vouloir extraire trop prématurément un placenta non décollé.
+*   respecter le bon déroulement et la physiologie du travail et de la délivrance. Ne pas vouloir extraire trop prématurément un placenta non décollé.  
 *   surveiller la délivrance: ne pas avoir de retard
 *   avant l'expulsion, délivrance si hémorragie supérieure à 500 ml ou si délai supérieur à 30 mn,
 *   après l'expulsion, révision utérine à chaque fois que le placenta est incomplet ou douteux, qu'il existe un risque inertiel (utérus surdistendu, siège, utérus malformé ou fibromateux... On vérifiera la filière cervicovaginale aisément s'il existe un soupçon de lésion traumatique la mise sous ocytociques sera facile;
@@ -245,16 +245,16 @@ Coopération anesthésico-obstétricale :
 #### Après l'accouchement
 
 *   surveillance 2 heures en salle de travail
-*   surveillance 24 heures minimum de toute accouchée en milieu hospitalier.
+*   surveillance 24 heures minimum de toute accouchée en milieu hospitalier.  
 *   évaluation régulière des pratiques professionnelles, surtout en cas d'incident.
 
 ### **5. Complications**
 
-*   **Décès maternel :** la fréquence dépend de l'étiologie; l'embolie amniotique est mortelle dans plus de 70 %.
-*   **Syndrome de Sheehan :** responsable d'un panhypopituitarisme qui nécessitera une hormonothérapie substitutive.
-*   **Insuffisance rénale :** par nécrose corticale pouvant indiquer des dialyses voire une transplantation.
-*   **Risque virémique majeur :** hépatite B et C post-transfusionnelles, transmission du virus HIV, pathologies majeures en pays en voie de développement.
-*   **Risque** **thromboembolique** **majoré :** nécessitant une héparinothérapie dès le retour à la normale de la coagulation.
+*   **Décès maternel :** la fréquence dépend de l'étiologie; l'embolie amniotique est mortelle dans plus de 70 %.  
+*   **Syndrome de Sheehan :** responsable d'un panhypopituitarisme qui nécessitera une hormonothérapie substitutive.  
+*   **Insuffisance rénale :** par nécrose corticale pouvant indiquer des dialyses voire une transplantation.  
+*   **Risque virémique majeur :** hépatite B et C post-transfusionnelles, transmission du virus HIV, pathologies majeures en pays en voie de développement.  
+*   **Risque** **thromboembolique** **majoré :** nécessitant une héparinothérapie dès le retour à la normale de la coagulation.  
 *   **Risque infectieux.**
 
 ## Conclusion
@@ -262,6 +262,7 @@ Coopération anesthésico-obstétricale :
 Le dépistage des grossesses à haut risque, l'importance de la précocité du traitement symptomatique, la nécessité des vérifications locales, une étroite collaboration entre les différents acteurs de l'accouchement permettront de ne pas prendre de retard, de rompre le cercle vicieux des troubles de coagulation et enfin de réduire l'incidence et la gravité des hémorragies en obstétrique en général, et du _post partum_ en particulier. La clinique doit rester le principal guide, les critères biologiques ne devant pas constituer un carcan dogmatique mais rester un indicateur de suivi thérapeutique efficace.
 
 * Recherche d'agglutinines irrégulières.
+
 
 ![](i776-1.jpg)
 

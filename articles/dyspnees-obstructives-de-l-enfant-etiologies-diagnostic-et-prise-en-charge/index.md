@@ -8,12 +8,12 @@ date: "2015-07-02"
 
 ### 1. L'interrogatoire des parents doit préciser
 
-*   L'âge de l'enfant : plus il est jeune plus c'est grave.
-*   Les circonstances d'apparition de la dyspnée.
-*   Notion de syndrome de pénétration, traumatisme, contexte infectieux.
-*   Le début brutal ou progressif.
-*   La durée d'évolution: quelques minutes ou quelques heures.
-*   L'évolution spontanée: aggravation, stabilité.
+*   L'âge de l'enfant : plus il est jeune plus c'est grave.  
+*   Les circonstances d'apparition de la dyspnée.  
+*   Notion de syndrome de pénétration, traumatisme, contexte infectieux.  
+*   Le début brutal ou progressif.  
+*   La durée d'évolution: quelques minutes ou quelques heures.  
+*   L'évolution spontanée: aggravation, stabilité.  
 *   Les antécédents: stridor*, rhino-pharyngite, laryngite, fausses routes − Les troubles associés: modification de la voix, toux, troubles de la déglutition, fièvre, troubles de la conscience.
 
 *Stridor : bruit aigu anormal émis lors de la respiration, témoin d’un obstacle le plus souvent laryngé, rarement trachéal.
@@ -107,6 +107,7 @@ On appréciera l'aspect général de l'enfant : signes d'épuisement, pâleur in
 
 **Le temps inspiratoire ou expiratoire, les bruits et le tirage associés amènent à préciser au moins le site de l'obstacle, au mieux l'étiologie.**
 
+
 ![](anatomy-du-larynx.jpg)
 
 
@@ -154,13 +155,13 @@ Généralement dans un contexte fébrile, elles peuvent toucher les trois étage
     L'attitude de l'enfant est évocatrice : assis, tête penchée en avant, bouche ouverte, hypersialorrhée claire, altération de l'état général.  
     Le traitement repose sur l'association antibiotiques : cefotaxime 200 mg/kg/j et corticoïdes prednisolone 1 mg/kg intra veineux.  
     En l'absence d'amélioration rapide, transfert d'urgence dans un service spécialisé pour intubation.  
-    L’épiglottite ne devrait plus se voir car le vaccin anti-_Haemophilus_ B a été introduit dans le PEV (en 1998).
+    L’épiglottite ne devrait plus se voir car le vaccin anti-_Haemophilus_ B a été introduit dans le PEV (en 1998).  
 *   **La laryngite aiguë striduleuse  et la laryngite œdémateuse**  
     Ce sont les causes les plus fréquentes des dyspnées laryngées de l’enfant, heureusement les plus bénignes.  
     Elles se manifestent par une dyspnée obstructive de début brutal, volontiers nocturne, un  tirage sus sternal  et un cornage. La fièvre modérée, l’état général conservé. La toux rauque et aboyante, en quinte.  
     Traitement : 1 mg/Kg de prednisolone à renouveler  une demi-heure après si les signes persistent  
-    On peut associer des aérosols : 2 à 3 mg d'adrénaline par aérosol 3 à 4 fois par jour. En l'absence d'amélioration rapide, transfert vers un service spécialisé.
-*   **La laryngite spasmodique** peut accompagner l’éruption de la rougeole.Elle ne devrait plus se voir grace à la vaccination. ou bien s'associer à une varicelle. Dans ces cas, elle un facteur de mauvais pronostic pouvant annoncer une forme de grave avec encéphalopathie.
+    On peut associer des aérosols : 2 à 3 mg d'adrénaline par aérosol 3 à 4 fois par jour. En l'absence d'amélioration rapide, transfert vers un service spécialisé.  
+*   **La laryngite spasmodique** peut accompagner l’éruption de la rougeole.Elle ne devrait plus se voir grace à la vaccination. ou bien s'associer à une varicelle. Dans ces cas, elle un facteur de mauvais pronostic pouvant annoncer une forme de grave avec encéphalopathie.  
 *   **La laryngite diphtérique**  
     Elle ne devrait plus se voir, la vaccination antidiphtérique faisant partie du PEV.  
     La laryngite est secondaire à une angine diphtérique à fausses membranes. L’état général est altéré, avec fièvre et tachycardie. La dyspnée s'associe à une toux rauque et une voix éteinte.  
@@ -172,15 +173,15 @@ Généralement dans un contexte fébrile, elles peuvent toucher les trois étage
     Contexte fébrile à 39-40 °C avec, à l’ouverture de la bouche, un bombement de la paroi pharyngée postérieure et, au toucher, une masse mollasse. Il faut alors :  
     Mettre en œuvre un traitement antibiotique  
     Ponctionner le phlegmon  
-    Et si du pus vient, inciser sous couvert d’une intubation pour éviter les inhalations.
+    Et si du pus vient, inciser sous couvert d’une intubation pour éviter les inhalations.  
 *   **L’hypertrophie amygdalienne**  
     Elle survient le plus souvent au cours d’une poussée d’amygdalite. Il s’agit d’une pathologie du carrefour dont le diagnostic est fait aisément avec un abaisse-langue. Il faut instaurer une antibiothérapie et placer une canule de Mayo pour libérer le carrefour. L’amygdalectomie sera faite au décours du processus infectieux.
 
 #### d. Autres causes plus rares
 
-*   La **papillomatose laryngée** : lésion tumorale bénigne d'origine virale qui devient dyspnéisante après une longue période de dysphonie.
+*   La **papillomatose laryngée** : lésion tumorale bénigne d'origine virale qui devient dyspnéisante après une longue période de dysphonie.  
 *   Les **traumatismes laryngés** sont suspectés devant un contexte de traumatisme, des lésions cutanées cervicales et un emphysème sous-cutanée
-*   **L'ingestion de liquide caustique ou bouillant** survient généralement dans un contexte évocateur avec présence de lésions buccales.
+*   **L'ingestion de liquide caustique ou bouillant** survient généralement dans un contexte évocateur avec présence de lésions buccales.  
 *   **L'œdème laryngé allergique**, par exemple consécutif à une piqûre d'insecte, survient dans un contexte évocateur. Traitement par adrénaline sous-cutanée ¼ mg et corticothérapie : 1 mg/kg de prednisolone.
 
 ## Conclusion

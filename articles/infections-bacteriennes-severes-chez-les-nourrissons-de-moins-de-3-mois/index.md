@@ -43,6 +43,7 @@ La possibilité d'un début précoce voire anténatal de la maladie donne toute 
 *   score d'APGAR bas _(voir tableau 1)_
 *   détresse vitale secondaire inexpliquée.
 
+
 ![](i917-1.jpg)
 
 
@@ -83,13 +84,13 @@ L'examen clinique recherche en particulier les signes de gravité :
 
 #### Signes de détresse respiratoire :
 
-*   troubles du rythme respiratoire : polypnée, irrégularités, pauses (pauses respiratoires "physiologiques": ne doivent pas excéder 10 secondes et doivent être asymtomatiques, c'est-à-dire sans changement de teint, ni cyanose ni bradycardie).
+*   troubles du rythme respiratoire : polypnée, irrégularités, pauses (pauses respiratoires "physiologiques": ne doivent pas excéder 10 secondes et doivent être asymtomatiques, c'est-à-dire sans changement de teint, ni cyanose ni bradycardie).  
 *   signes de lutte : tirage intercostal, sus et sous-sternal, entonnoir xyphoïdien, battement des ailes du nez, geignement expiratoire, Score de silverman _(voir tableau 2)_
 *   signes auscultatoires crépitants lors de l'inspiration.
 
 #### Autres signes
 
-*   une déshydratation peut accompagner une infection : pli cutané au niveau de la région sous claviculaire, dépression de la fontanelle, yeux creux, excavés, sécheresse des muqueuses...
+*   une déshydratation peut accompagner une infection : pli cutané au niveau de la région sous claviculaire, dépression de la fontanelle, yeux creux, excavés, sécheresse des muqueuses...  
 *   palpation abdominale : ballonnement, hépatomégalie ou hépatosplénomégalie.
 
 L'un des objectifs principaux de cette étude de l'OMS était de créer un arbre décisionnel clinique simple pouvant aider les agents de santé à identifier les jeunes enfants à haut risque de décès et pouvant servir de guide de traitement. Pour le moment, il n'a pas été possible de réaliser un algorithme à proprement parler.
@@ -113,6 +114,7 @@ Le pneumocoque est un agent pathogène majeur, particulièrement après la premi
 Le plus grand nombre d'infections à _staphylococcus aureus_ provenait de Gambie (69 %), où sévissait une épidémie de gale. Historiquement, il y a une grande variabilité, dans le temps et l'espace, des infections néonatales à staphylocoque, la majorité des épidémies étant hospitalières. Il faut penser à ce germe devant une septicémie accompagnée de lésions cutanées inflammatoires ou si une épidémie de gale (typiquement associée, chez le nourrisson, à des éruptions pustuleuses surinfectées au niveau des paumes et des plantes) sévit dans la population.
 
 L'importance des infections à _Salmonella spp_ est un résultat important de cette étude. Elles sont fréquemment associées à la malnutrition. Comme dans les pays industrialisés, le virus respiratoire syncitial est le virus le plus fréquemment en cause chez les enfants de cet âge. Les infections virales causent une grande morbidité, notamment respiratoire, mais un faible taux de mortalité.
+
 
 ![](i917-2.jpg)
 
@@ -161,7 +163,7 @@ Sauf urgence, le premier temps de l'examen clinique est le recueil d'information
 *   causes des décès éventuels
 *   les données de la grossesse :
 *   immunité maternelle (pour le VIH, la syphilis, l'hépatite B), vaccinations (hépatite B, tétanos)
-*   évènements survenus pendant la grossesse épisodes de fièvre, prise de médicaments par la mère, prophylaxie anti-paludéenne, notion de prise de drogues,...
+*   évènements survenus pendant la grossesse épisodes de fièvre, prise de médicaments par la mère, prophylaxie anti-paludéenne, notion de prise de drogues,...  
 *   déroulement de l'accouchement : vérification du terme, de l'état du nouveau-né à la naissance et lors des premières heures de vie _(score DAPGAR voir tableau 1.)_
 
 *   le déroulement de l'allaitement
@@ -210,7 +212,7 @@ Etude du comportement
 
 #### Examen respiratoire
 
-*   Fréquence respiratoire _(voir tableau 3)._ Une respiration périodique normale : à une pause respiratoire brève de 10 secondes, succède une série de respirations plus amples.
+*   Fréquence respiratoire _(voir tableau 3)._ Une respiration périodique normale : à une pause respiratoire brève de 10 secondes, succède une série de respirations plus amples.  
 *   Recherche de signes de lutte, normalement absents :
 
 *   tirage intercostal, sus et sous-sternal,
@@ -227,6 +229,7 @@ L'obstruction nasale ne doit pas être négligée car le nouveau-né au repos re
 *   Inspection : l'ombilic ne doit pas être inflammatoire, le cordon chute en moyenne en 7 jours ; une hernie ombilicale est banale, ne nécessite aucune contention et disparaît au cours des deux premières années de vie.
 
 *   Palpation : le foie est normalement palpé : il déborde de 1 à 2 cm le rebord costal, un pôle inférieur de rate est souvent perçu à bout de doigts. Palpation des reins (normalement non perçus) : entre un pouce sur l'abdomen et l'index dans la fosse lombaire.
+
 
 ![](i917-3.jpg)
 

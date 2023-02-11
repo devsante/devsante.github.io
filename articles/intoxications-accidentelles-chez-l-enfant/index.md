@@ -79,7 +79,9 @@ Si l'évacuation gastrique n'est pas possible sur place, il faut au moins mettre
 
 à part, le Permanganate de Potassium en paillettes ou en comprimés, dont l'intoxication est très grave.
 
+
 ![](i67-1.jpg)
+
 
 
 ![](i67-2.jpg)

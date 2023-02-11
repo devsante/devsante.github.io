@@ -19,6 +19,7 @@ L'indépendance des Comores en 1975 entraîna l'arrêt des programmes jusqu'en 1
 
 Ainsi, en quelques dizaines d'années, les conditions nécessaires à l'installation d'un paludisme hyperendémique se sont trouvées remplies : multiplication des citernes à proximité des maisons, prolifération d'un vecteur anthropophile et accroissement du nombre de porteurs. Parallèlement, les programmes de lutte antivectorielle, qui entre 1925 et 1975, avaient maintenu l'endémie à un niveau tolérable (sans toutefois parvenir à éradiquer la maladie), sont pratiquement abandonnés depuis 20 ans.
 
+
 ![](i823-1.jpg)
 
 
@@ -33,6 +34,7 @@ Pour tenir compte des patients non vus dans les structures de soins, une enquêt
 De nombreux enfants (245 sur 419) ont présenté des problèmes médicaux justifiant l'avis d'un infirmier (ou d'un guérisseur) dans le mois précédant l'enquête. Il s'agissait de fièvres isolées dans 22 % des cas, étiquetées paludisme (56 cas) ou fièvre inexpliquée (38 cas). Les problèmes digestifs et les affections des voies respiratoires arrivaient loin derrière avec respectivement 42 et 35 cas. L'interrogatoire des mères a montré que seulement 49 % d'entre elles reliaient le paludisme aux moustiques. À peine 65 femmes (16 %) utilisaient une moustiquaire (non imprégnée). L'examen des citernes a montré que près de 60 % étaient empoissonnées avec des poissons larvivores, vestiges d'une ancienne campagne de prévention.
 
 En extrapolant à la population totale des enfants de moins de cinq ans dans le district (environ 4 200), on peut estimer que 5 à 600 d'entre eux ont, selon leur maman, présenté un accès palustre dans le mois précédent l'enquête, soit dix fois plus que ceux amenés dans les structures de soins pour suspicion de paludisme. L'enquête ne permet pas de savoir dans quelle mesure il s'agissait réellement de paludisme, mais il est très probable que, comme pour les consultations, le diagnostic était souvent porté par excès. En admettant que le diagnostic ne soit juste que dans un peu plus du tiers des cas (par analogie avec les contrôles effectués lors des consultations), on peut estimer à 2 500 par an, le nombre de cas de paludisme chez des enfants de moins de cinq ans. Ceci peut expliquer l'acquisition précoce d'une prémunition.
+
 
 ![](i823-2.jpg)
 

@@ -73,6 +73,7 @@ Avec prudence et sans douleur, la mobilisation est d'abord réalisée de façon 
 
 Par la suite, le travail est uniquement réalisé activement par le patient et l'on utilise le regard; on pourra par exemple confectionner une "longue vue" avec une feuille de papier roulée et demander à la personne, en utilisant cette dernière, de suivre les contours d'une fenêtre ou de figures géométriques de tailles variables dessinées sur un mur; ces exercices ont pour but de solliciter le rachis cervical dans ses amplitudes les plus limitées ainsi que les muscles qui y sont associés _(figure)._
 
+
 ![](i635-1.jpg)
 
 

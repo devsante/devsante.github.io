@@ -46,8 +46,8 @@ Le premier problème est que c'est très difficile d'être vraiment bien soigné
 
 Vraiment nous, les enfants diabétiques, on a trop de difficultés pour pouvoir se traiter et survivre avec cette maladie. Si je prends mon cas :
 
-*   Je dois faire des analyses régulièrement pour suivre mon taux de sucre et pour voir si j'ai ou pas des complications. La plupart du temps, je ne peux pas payer ces analyses donc je ne les fais pas. Je sais s'il y a un problème quand j'ai des complications.
-*   Il faut payer mes ordonnances. Je dois m'injecter de l'insuline tous les jours. Une ampoule d'insu­' line coûte en moyenne 4 500 CFA (soit 7 euros) c'est très cher. En plus, il faut pouvoir la conser­ver au frais, ce n'est pas toujours évident.
+*   Je dois faire des analyses régulièrement pour suivre mon taux de sucre et pour voir si j'ai ou pas des complications. La plupart du temps, je ne peux pas payer ces analyses donc je ne les fais pas. Je sais s'il y a un problème quand j'ai des complications.  
+*   Il faut payer mes ordonnances. Je dois m'injecter de l'insuline tous les jours. Une ampoule d'insu­' line coûte en moyenne 4 500 CFA (soit 7 euros) c'est très cher. En plus, il faut pouvoir la conser­ver au frais, ce n'est pas toujours évident.  
 *   Je dois surveiller ma glycémie quand j'injecte de l'insuline mais, comme je ne peux pas payer le lecteur de glycémie ni les bandelettes pour aller avec le lecteur, je ne le fais pas. J'injecte et inch'allah !
 *   Enfin, il faut de l'argent pour payer le transport pour aller voir mon diabétologue. Quand je n'ai pas cet argent, je rate ma consultation. Moi, j'ai quand même de la chance car mon diabétologue est très gentil et souvent, il me donne personnel­lement l'argent pour que je puisse me déplacer.
 

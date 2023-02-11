@@ -1,6 +1,6 @@
 # Summary
 ## Archive devsante.org (1976 - 2022)
-- [Avant-propos](README.md)
+- [Avant-propos](INTRO.md)
 - [Quelle lutte contre la Covid-19 ?](articles/lutte-contre-le-covid-19/index.md)
 - [Le CoVID-19 dans l’Océan Indien : Mayotte en rouge, la Réunion en vert](articles/le-covid-19-dans-locean-indien-mayotte-en-rouge-la-r-union-en-vert/index.md)
 - [COVID-19 : quelles priorités pour les pays du Sud ?](articles/covid-19-quelles-priorites-pour-les-pays-du-sud/index.md)

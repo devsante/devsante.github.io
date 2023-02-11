@@ -101,9 +101,9 @@ Tuberculose de la colonne vertébrale, ou mal de Pott : son principal risque est
 Rare chez l'enfant, elle survient 5 à 15 ans après la primo-infection :
 
 *   **Tuberculose rénale**  
-    Unilatérales, les lésions débutent à la partie externe du rein, pour ensuite créer des cavités dans tout le parenchyme. Elle s'étend ensuite aux uretères provoquant des fibroses, pouvant aboutir à la destruction totale du rein par hydronéphrose. On doit y penser devant tout signe urinaire chronique.
+    Unilatérales, les lésions débutent à la partie externe du rein, pour ensuite créer des cavités dans tout le parenchyme. Elle s'étend ensuite aux uretères provoquant des fibroses, pouvant aboutir à la destruction totale du rein par hydronéphrose. On doit y penser devant tout signe urinaire chronique.  
 *   **Tuberculose génitale**
-    *   Chez la femme, elle atteint l'endomètre et les trompes, entraînant des douleurs pelviennes et des troubles du cycle menstruel. La complication majeure est la stérilité.
+    *   Chez la femme, elle atteint l'endomètre et les trompes, entraînant des douleurs pelviennes et des troubles du cycle menstruel. La complication majeure est la stérilité.  
     *   Chez l'homme, l'affection se manifeste par une grosseur anormale au niveau du testi­cule, sensible à la palpation, mais non dou­loureuse. Dans 50 % des cas une tubercu­lose rénale est associée.
 
 **Au total**, on constate que la tuberculose peut revêtir bien des aspects, souvent trompeurs, souvent sans signes spécifiques et qu'elle touche pratiquement tous les organes : c'est dire qu'il faut toujours y penser devant des signes généraux non expliqués par une cause aigüe.

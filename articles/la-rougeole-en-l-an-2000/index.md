@@ -12,8 +12,8 @@ Sur les 40 millions de cas annuels, la majorité survient dans les villes, et en
 
 ## I. De quelles armes disposons-nous ?
 
-*   La vaccination.
-*   La prévention de la dénutrition, car la plupart des évolutions mortelles surviennent chez l'enfant carencé en protéines.
+*   La vaccination.  
+*   La prévention de la dénutrition, car la plupart des évolutions mortelles surviennent chez l'enfant carencé en protéines.  
 *   Les antibiotiques, qui n'agissent que sur les surinfections bactériennes secondaires.
 
 **Aucun médicament ne détruit le virus** **de la rougeole**
@@ -26,8 +26,8 @@ Avec une couverture vaccinale de 80 %, les progrès ont été spectaculaires. Ma
 
 ## III. Quelques points fondamentaux
 
-*   Le virus de la rougeole n'est présent que chez l'homme et se transmet par la salive.
-*   Bien que facilement détruit par la chaleur, il est extrêmement contagieux.
+*   Le virus de la rougeole n'est présent que chez l'homme et se transmet par la salive.  
+*   Bien que facilement détruit par la chaleur, il est extrêmement contagieux.  
 *   Il entraîne l'apparition d'anticorps qui vont protéger le sujet toute sa vie.
 
 ## IV. Manifestations cliniques
@@ -135,6 +135,7 @@ Il faut :
 
 </table>
 
+
 ![](i895-2.jpg)
 
 
@@ -144,6 +145,7 @@ Dès la moindre suspicion de surinfection bactérienne, une antibiothérapie doi
 
 *   _per os_ : cotrimoxazole ou amoxicilline-acide clavulanique ;
 *   parentérale si troubles digestifs.
+
 
 ![](i895-3.jpg)
 

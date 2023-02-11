@@ -17,11 +17,13 @@ Exemples : avocat, noix de coco, lait en poudre entier, yaourt ou lait fermenté
 
 ## II. Comment évaluer la perte de poids ?
 
-*   Peser la personne une fois par semaine toujours le même jour.
-*   Noter son poids et la date sur une feuillespéciale qui sera gardée pour permettre à l'infirmier de suivre l'évolution de la maladie (pour un adulte moyen, une perte de poids de 10 % du poids corporel soit environ 6-7 kg sur un mois est une perte de poids sérieuse).
+*   Peser la personne une fois par semaine toujours le même jour.  
+*   Noter son poids et la date sur une feuillespéciale qui sera gardée pour permettre à l'infirmier de suivre l'évolution de la maladie (pour un adulte moyen, une perte de poids de 10 % du poids corporel soit environ 6-7 kg sur un mois est une perte de poids sérieuse).  
 *   Observer si les vêtements deviennent amples.
 
+
 ![](i169-1.jpg)
+
 
 
 ![](i169-2.jpg)
@@ -31,11 +33,11 @@ Exemples : avocat, noix de coco, lait en poudre entier, yaourt ou lait fermenté
 
 ## III. Que faut-il faire pour reprendre du poids ?
 
-*   Augmenter la quantité et la fréquence des repas.
-*   Manger plus de féculents (riz, maïs, millet, sorgho, blé, pain, patates douces, manioc et banane).
-*   Augmenter la consommation de haricots secs, de denrées à base de soja, de lentilles, de pois, d'arachides...
-*   Inclure tous les types de viande, volaille, poisson et oeufs aussi souvent que possible.
-*   Manger entre les repas.
+*   Augmenter la quantité et la fréquence des repas.  
+*   Manger plus de féculents (riz, maïs, millet, sorgho, blé, pain, patates douces, manioc et banane).  
+*   Augmenter la consommation de haricots secs, de denrées à base de soja, de lentilles, de pois, d'arachides...  
+*   Inclure tous les types de viande, volaille, poisson et oeufs aussi souvent que possible.  
+*   Manger entre les repas.  
 *   Si la personne en est encore capable, il faut l'encourager à continuer ses activités quotidiennes (ménage, travail agricole).
 
 ## IV. Actions et surveillance infirmières en cas de perte d'appétit :

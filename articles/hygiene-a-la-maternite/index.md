@@ -23,6 +23,7 @@ Il est indispensable de se laver les mains après tout acte de la vie courante a
 *   **Lavage à l'eau et au savon lorsqu'on dispose d'eau propre.**
 *   **Lavage avec des désinfectants lorsqu'on n'a pas d'eau propre**. Le désinfectant doit être à base d'alcool, il doit contenir au moins 60 % d'alcool en volume (éthanol ou isopropanol) et peut contenir des émollients. Il est toutefois impératif d'éliminer toute souillure des mains avant d'utiliser le désinfectant si l'on veut qu'il soit efficace.
 
+
 ![](13189-2.jpg)
 
 
@@ -41,9 +42,9 @@ Ne pas oublier que les produits iodés sont contre indiqués chez le nouveau-né
 Ils doivent être désinfectés régulièrement. I; eau de Javel est un désinfectant majeur et peu coûteux. Elle est délivrée dans le commerce sous forme d'une solution à 2,6 % de chlore actif, concentration pour laquelle nous indiquons les dilutions à effectuer. Elles doivent être faites au moment de l'emploi. L'eau de javel à 2,6 % de chlore actif se conserve pendant 3 ans, au frais et à l'abri du soleil et de la lumière.  
 (Il existe aussi des solutions à 9,6 % de chlore actif, qui nécessiteront alors une prédilution, bien vérifier la teneur sur l'emballage).
 
-*   **Locaux, mobilier, linge** : 15 ml d'eau de Javel à 2,6 % de chlore actif (eau de Javel du commerce) diluée dans un litre d'eau. Contact 5 minutes.
-*   **Lavabos, éviers, WC, siphons** : verser 300 ml d'eau de javel à 2,6 % de chlore actif non diluée. Contact 5 minutes.
-*   **Instruments, matériel** : 30 à 50 ml d'eau de Javel à 2,6 % de chlore actif pour un litre d'eau. Contact 15 minutes.
+*   **Locaux, mobilier, linge** : 15 ml d'eau de Javel à 2,6 % de chlore actif (eau de Javel du commerce) diluée dans un litre d'eau. Contact 5 minutes.  
+*   **Lavabos, éviers, WC, siphons** : verser 300 ml d'eau de javel à 2,6 % de chlore actif non diluée. Contact 5 minutes.  
+*   **Instruments, matériel** : 30 à 50 ml d'eau de Javel à 2,6 % de chlore actif pour un litre d'eau. Contact 15 minutes.  
 *   **Placenta** : même concentration que pour les instruments, mais dans un bac à part.
 
 Les équipements et matériels en inox doivent être ensuite rincés sous peine d'altération par l'eau de Javel.
@@ -53,14 +54,14 @@ Les équipements et matériels en inox doivent être ensuite rincés sous peine 
 Elle s'effectue après la décontamination par l'eau de Javel.  
 Elle doit respecter les normes.
 
-*   **La stérilisation par la vapeur d'eau** est la méthode de choix. Autoclavage 15 minutes à 121° C.
+*   **La stérilisation par la vapeur d'eau** est la méthode de choix. Autoclavage 15 minutes à 121° C.  
 *   **La stérilisation par la chaleur sèche** est employée pour le matériel thermorésistant risquant d'être détérioré en présence de vapeur d'eau ou si l'on ne dispose pas d'autoclave. Poupinel, une heure à 180° C.
 
 ### 3. Elimination des déchets de soins
 
 Elle doit être faite de façon rationnelle pour :
 
-*   Eviter la transmission des infections et les blessures au personnel qui manipule les déchets.
+*   Eviter la transmission des infections et les blessures au personnel qui manipule les déchets.  
 *   Eviter la transmission des infections à la communauté locale.
 
 **Déchets liquides**  
@@ -79,6 +80,7 @@ _Se reporter aux normes OMS, applicables aux différentes structures de soins :
 .whqlibdoc.who.int/publications/2005/9242592749_free.pdf
 
 Le maintien d'une hygiène rigoureuse en maternité est l'affaire de TOUS, soignants, personnels techniques, personnels d'entretien. Seule une évaluation rigoureuse régulière des infections permettra de comprendre les failles du système, de trouver des solutions et ainsi de faire diminuer la mortalité périnatale.
+
 
 ![](13189-1.jpg)
 

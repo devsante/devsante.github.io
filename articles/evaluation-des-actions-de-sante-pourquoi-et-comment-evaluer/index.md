@@ -49,6 +49,7 @@ En fait, l'équipe sanitaire est un peu prise au dépourvu par cette proposition
 
 _- Que nos enfants soient moins malades, qu'ils soient plus gras, qu'ils meurent moins. Que nos femmes accouchent dans de meilleures conditions, qu'elles ne meurent plus en donnant naissance à nos enfants. Que nous dépensions moins d'argent pour les médicaments, car se soigner coûte cher. Que la vie soit moins dure ici._
 
+
 ![](i421-1.jpg)
 
 
@@ -78,12 +79,14 @@ Plus concrètement, l'évaluation d'une action de santé va conduire à répondr
 
 Ces différentes étapes décrivent un cheminement. C'est un canevas pour aider à penser et à faire l'évaluation. Ce n'est pas un cadre rigide auquel il faille se tenir absolument.
 
+
 ![](i421-2.jpg)
 
 
 **Interrogations complémentaires**
 
 Si l'on considère que l'action menée dans le domaine de la santé (ou de l'agriculture ou de l'hydraulique, peu importe) peut dépasser ses objectifs et intervenir plus généralement sur la disposition au changement social (ce qu'il est convenu d'appeler "participation au développement", dans le langage des institutions nationales et internationales), il va aussi falloir analyser cette articulation entre l'action entreprise et le développement de manière plus globale.
+
 
 ![](i421-3.jpg)
 
@@ -112,7 +115,7 @@ L'activité de protection materno-infantile (PMI), à Tokombéré concerne les e
 
 La séance mensuelle se déroule près de la case de santé du village. Elle comporte deux temps principaux :
 
-*   **L'animation sanitaire,** par les responsables villageois, parfois aidés de l'agent itinérant (qui est un infirmier venu du centre de santé dont dépend la case de santé) ; elle se fait sur un thème choisi selon les problèmes d'actualité (diarrhée, conjonctivite, nutrition, etc.) ; cette animation permet une discussion et débouche sur des conseils pratiques.
+*   **L'animation sanitaire,** par les responsables villageois, parfois aidés de l'agent itinérant (qui est un infirmier venu du centre de santé dont dépend la case de santé) ; elle se fait sur un thème choisi selon les problèmes d'actualité (diarrhée, conjonctivite, nutrition, etc.) ; cette animation permet une discussion et débouche sur des conseils pratiques.  
 *   **La pesée et le dépistage des enfants** **malnutris** grâce à la courbe de poids; lorsqu'un enfant est dépisté, il est adressé à la responsable de nutrition du village qui suivra ensuite l'enfant en coordination avec le centre nutritionnel du centre de santé.
 
 Il est à noter que les vaccinations se déroulent en dehors de la PMI, dans le cadre de campagnes régulières.
@@ -127,6 +130,7 @@ Pour comprendre que la réponse à la première question n'est pas évidente, il
 
 De même, pour saisir la nécessité de répondre à la seconde question, on peut se dire qu'une PMI qui existe, mais n'a eu qu'une séance au cours de l'année écoulée, aura probablement moins de résultats sur la santé des enfants qu'une autre qui aura travaillé chaque mois pendant cette même période. Dans la mesure où l'un des objectifs de la PMI est de réunir les enfants mensuellement, on pourra choisir **comme critère d'activité : le nombre de séances de** **PMI par an** pour chaque village ayant effectivement eu lieu (théoriquement, il doit être compris entre zéro et douze).
 
+
 ![](i421-4.jpg)
 
 
@@ -138,7 +142,9 @@ Qu'un responsable villageois fasse une séance mensuelle de PMI n'est pas suffis
 
 Mais une mère qui ne conduit son enfant qu'une fois ne profite pas réellement de l'animation sanitaire et ne fait pas régulièrement peser son enfant; le résultat n'est donc peut-être pas celui attendu. Afin de prendre en compte cet élément, on peut retenir seulement le nombre d'enfants d'un à cinq ans venus au moins trois fois dans l'année.
 
+
 ![](i421-5.jpg)
+
 ![](i421-6.jpg)
 
 
@@ -164,8 +170,8 @@ L'objectif réel de la PMI n'est certes ni de rassembler des mères, ni d'avoir 
 
 Pour cela, on peut utiliser plusieurs indicateurs complémentaires :
 
-*   La proportion d'enfants pour lequel une courbe de poids est réalisée et correctement interprétée (indicateur d'activité).
-*   La proportion d'enfants identifiés comme malnutris, c'est-à-dire présentant une courbe de poids inférieure à la normale ou diminuant anormalement (indicateur d'activité).
+*   La proportion d'enfants pour lequel une courbe de poids est réalisée et correctement interprétée (indicateur d'activité).  
+*   La proportion d'enfants identifiés comme malnutris, c'est-à-dire présentant une courbe de poids inférieure à la normale ou diminuant anormalement (indicateur d'activité).  
 *   La proportion d'enfants parmi les malnutris dépistés à la PMI, qui ont été suivis par le responsable de nutrition jusqu'au retour à un poids satisfaisant (indicateur d'activité et de résultat).
 
 Le premier indicateur permet de savoir si le dépistage est effectivement réalisé. Le second donne une information sur le taux de dépistage de la malnutrition parmi les enfants présents à la séance : on peut comparer ce taux à la prévalence connue au niveau du pays ou de la région. Le troisième ajoute une donnée concernant le programme de lutte contre la malnutrition : on cherchera à ce que la proportion d'enfants suivis correctement parmi les malnutris dépistés soit proche de un. On peut ainsi mesurer dans quelle mesure les objectifs de dépistage et de suivi ont été atteints. Mais ce n'est pas encore suffisant.
@@ -179,6 +185,7 @@ C'est la partie la plus difficile de l'évaluation. Il faut pouvoir prendre du r
 Au niveau de la santé, on a constaté que l'incidence et la mortalité de la rougeole diminuaient à Tokombéré durant les années de fonctionnement de la PMI. C'est bien sûr principalement grâce au programme élargi de vaccination, lequel ne fait pas partie de l'action de PMI. Cependant, l'action de PMI a participé très probablement à la réduction de la fréquence et surtout de la gravité de la rougeole de deux façons indirectes : d'une part, à travers les séances d'animation qui ont rappelé aux femmes l'importance de la vaccination (action éducation), et d'autre part, grâce à la réduction de la malnutrition, l'efficacité du vaccin est augmentée et la sévérité de la rougeole diminuée (action nutritionnelle). On voit bien que la lutte contre la rougeole n'était pas inscrite dans les objectifs de PMI et que pourtant le recul de cette maladie est à mettre en partie au compte de cette action. Le programme de PMI intervient ainsi sur plusieurs maladies, directement (malnutrition) ou indirectement (rougeole), ce qui permet d'utiliser l'indicateur mortalité infanto-juvénile (taux de décès avant cinq ans) comme l'un des outils de l'évaluation - lorsqu'on peut le calculer.
 
 Au niveau du développement du village, le programme de PMI a eu des conséquences de divers ordres. On peut penser que le dépistage et le traitement précoces de la malnutrition ont permis de réduire le nombre d'enfants conduits dans un état grave au centre de santé: outre le bien sur la meilleure santé et vie des enfants, il y a eu aussi gain de temps et d'argent pour les parents; ce qu'on peut tenter de vérifier auprès de quelques familles. On peut avancer également que le travail d'animation et de participation a favorisé un espace de réflexion d'où est partie, par exemple, l'idée de construire un puits faisant suite à des discussions sur les causes de la diarrhée. Enfin, et plus directement, la nécessité de trouver des aliments pour les enfants à renutrir a conduit à la création de champs cultivés en commun permettant des récoltes qui sont utilisées pour les enfants; de là est parti ensuite le projet d'introduction de nouvelles cultures et de nouvelles techniques. Bien entendu, l'action de la PMI, et même l'action sanitaire plus généralement, ne sont pas seules en cause, mais elles ont participé à l'éclosion de ces formes de développement.
+
 
 ![](i421-7.jpg)
 
@@ -203,7 +210,7 @@ L'évaluation, malgré la diversité des actions et des situations auxquelles on
 
 L'action menée à Tokombéré (Nord Cameroun) pour le suivi des femmes enceintes repose sur un travail préalable de formation des accoucheuses traditionnelles ou de matrones bénévoles. Celles-ci, choisies par le village, bénéficient d'une préparation ou d'un recyclage auprès des sages-femmes des centres de santé. Une fois formées, elles vont être chargées de la réalisation de la consultation prénatale mensuelle et des accouchements concernant les grossesses normales. La consultation prénatale se déroule sous la supervision des sages-femmes de centres de santé et comprend deux temps :
 
-*   L'animation sanitaire par les accoucheuses traditionnelles ou matrones se prolonge souvent par une discussion avec les femmes présentes à la consultation; les thèmes abordés touchent le déroulement de la grossesse et de l'accouchement, la santé de la mère et de l'enfant, la prévention de certaines maladies, la nutrition.
+*   L'animation sanitaire par les accoucheuses traditionnelles ou matrones se prolonge souvent par une discussion avec les femmes présentes à la consultation; les thèmes abordés touchent le déroulement de la grossesse et de l'accouchement, la santé de la mère et de l'enfant, la prévention de certaines maladies, la nutrition.  
 *   La consultation proprement dite qui permet de dépister les grossesses à haut risque (correspondant à l'un des facteurs suivants : primiparité, multiparité supérieure à six, antécédent de grossesse pathologique, oedèmes des membres inférieurs) et de prendre quelques mesures préventives (du paludisme en donnant de la chloroquine, de l'anémie en donnant du fer, et du tétanos en vaccinant).
 
 L'accouchement, en cas de grossesse normale a lieu au village avec l'aide de l'accoucheuse traditionnelle ou de la matrone qui surveillera également les suites de couches et effectue les soins du cordon. En revanche, en cas de grossesse à haut risque, il a lieu au centre de santé. Il est à noter que seules les grossesses suivies peuvent bénéficier d'un accouchement par une accoucheuse traditionnelle recyclée ou une matrone bénévole.
@@ -254,6 +261,7 @@ comparé au rapport idéal défini dans chaque contexte.
 
 Il apprécie la qualité du travail de dépistage par les accoucheuses traditionnelles et les matrones bénévoles; pour une région donnée, la proportion de grossesses à haut risque est à peu près constante; par conséquent, un chiffre trop bas fera craindre un dépistage insuffisant.
 
+
 ![](i421-8.jpg)
 
 
@@ -270,6 +278,7 @@ Pour mesurer l'efficacité du suivi des grossesses à haut risque, on calcule le
 Le second indicateur apprécie la qualité du lien entre les structures villageoises et le centre de santé, et en particulier le transfert des grossesses à haut risque; idéalement, il doit tendre vers un.
 
 D'autres indicateurs d'efficacité pourraient être retenus: proportion de femmes enceintes sous chloroquine ou sous fer ou ayant reçu le vaccin antitétanique.
+
 
 ![](i421-9.jpg)
 
@@ -289,6 +298,6 @@ programme qui rassemble les femmes chaque mois pour parler avec elles. On pourra
 
 Les deux illustrations de l'évaluation - le programme de PMI et le programme de santé maternelle - ont permis de montrer concrètement comment se fait ce travail. Pour que l'évaluation soit réellement utile, on doit ajouter quelques points :
 
-*   Tout d'abord, il ne faut pas se contenter de mesurer la valeur ou les variations des indicateurs ; il est également nécessaire de s'interroger sur les raisons d'une valeur ou des variations de façon à pouvoir intervenir de manière appropriée en cas d'évolution défavorable de l'un des indicateurs; il faut également regarder le côté qualitatif de l'action et de ses indicateurs.
-*   Les résultats de l'évaluation seront un support pour les échanges et la coordination avec les autres projets locaux, régionaux ou nationaux.
+*   Tout d'abord, il ne faut pas se contenter de mesurer la valeur ou les variations des indicateurs ; il est également nécessaire de s'interroger sur les raisons d'une valeur ou des variations de façon à pouvoir intervenir de manière appropriée en cas d'évolution défavorable de l'un des indicateurs; il faut également regarder le côté qualitatif de l'action et de ses indicateurs.  
+*   Les résultats de l'évaluation seront un support pour les échanges et la coordination avec les autres projets locaux, régionaux ou nationaux.  
 *   Il ne faut pas que l'évaluation ne concerne que les praticiens de la santé (médecins, infirmiers ... ); il est également nécessaire d'associer les populations, ou tout au moins leurs représentants, à l'ensemble du processus, de façon à faire de l'évaluation une activité contribuant au développement.

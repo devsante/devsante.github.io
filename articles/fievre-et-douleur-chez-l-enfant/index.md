@@ -48,7 +48,9 @@ Comme tous les anti-inflammatoires, il peut provoquer des **douleurs gastriques,
 
 L'intoxication est possible aux doses supérieures à 125 mg/kg/jour (insuffisance hépatique aiguë). Cette intoxication est bien combattue par la N-acétylcystéine si le traitement est précoce.
 
+
 ![](i882-1.jpg)
+
 ![](i882-2.jpg)
 
 

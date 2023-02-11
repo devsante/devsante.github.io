@@ -13,7 +13,7 @@ La rupture de la rate peut entraîner une grave **hémorragie intrapéritonéale
 
 Cependant, la rate a un rôle hématologique et immunologique important. Les malades qui sont splénectomisés courent un risque accru d'infections graves, rares mais parfois foudroyantes. Pour cette raison, on essaie aujourd'hui d'avoir une attitude moins radicale :
 
-*   Certaines plaies sont minimes et le saignement peut se tarir de lui-même, sans qu'il soit nécessaire d'opérer.
+*   Certaines plaies sont minimes et le saignement peut se tarir de lui-même, sans qu'il soit nécessaire d'opérer.  
 *   Dans d'autres cas il est possible, en opérant, de faire l'hémostase en conservant la rate. Ce traitement conservateur est certainement le meilleur, quand il est possible.
 
 Malheureusement, ce n'est pas toujours si simple, loin de là. La rupture de la rate survient de plus en plus souvent au cours d'accidents de la route. Il s'agit alors d'un polytraumatisme et le diagnostic de rupture de la rate peut être difficile, masqué au début par d'autres lésions.
@@ -32,9 +32,10 @@ Elles sont de gravité très variable.
 
 #### a) Plaie de la rate
 
-*   Petite plaie superficielle ou décapsulation, par arrachement d'une frange épiploïde ou d'une adhérence péritonéale.
+*   Petite plaie superficielle ou décapsulation, par arrachement d'une frange épiploïde ou d'une adhérence péritonéale.  
 *   Plaie parenchymateuse, simple et linéaire ou au contraire complexe et étoilée, plus ou moins profonde (_figure 1)._
 *   Plaie du hile de la rate avec lésion ou désinsertion d'une artère ou d'une veine avec souvent une plaie du parenchyme associée.
+
 
 ![](i955-1.jpg)
 
@@ -47,6 +48,7 @@ C'est une contusion de la rate avec formation d'un hématome sans effraction de 
 
 *   Conséquence _(figure 2)_ : cet hématome sous tension, peut se rompre après quelques jours (un à dix) entraînant une hémorragie intra-abdominale retardée.
 
+
 ![](i955-2.jpg)
 
 
@@ -56,8 +58,8 @@ Elles sont fréquentes et on doit toujours les rechercher en examinant ces bless
 
 *   Traumatisme thoracique, avec fracture des dernières côtes gauches, hémothorax.
 
-*   Contusion rénale gauche.
-*   Fracture du rachis.
+*   Contusion rénale gauche.  
+*   Fracture du rachis.  
 *   Plaies et contusions du côlon (angle colique gauche), du grêle, du pancréas, du diaphragme, qui seront découvertes à l'intervention, lors d'un examen systématique rigoureux de tout l'abdomen.
 
 ## III. Conduite à tenir
@@ -91,6 +93,7 @@ Un éventuel transfert ne se conçoit que sur de faibles distances (moins d'une 
 
 Lorsqu'il existe plusieurs lésions sévères (fractures, etc.), l'origine d'une hémorragie non extériorisée peut ne pas être claire. Pour mettre en évidence un saignement intrapéritonéal, on peut alors réaliser une ponction lavage du péritoine (voir _encadré_). Si ce test est franchement positif, il faut prévoir une laparotomie en urgence.
 
+
 ![](i955-3.jpg)
 
 
@@ -109,7 +112,7 @@ Quelquefois le saignement est progressif et pendant un jour ou deux les signes c
 
 Dans ces formes progressives, la conduite à tenir est fonction des conditions techniques dont on dispose :
 
-*   **Poste isolé :** si l'on ne dispose pas des conditions nécessaires pour opérer, il vaut mieux prévoir l'évacuation le plus tôt possible vers l'hôpital équipé le plus proche, en sachant bien qu'à tout moment ce malade peut se décompenser.
+*   **Poste isolé :** si l'on ne dispose pas des conditions nécessaires pour opérer, il vaut mieux prévoir l'évacuation le plus tôt possible vers l'hôpital équipé le plus proche, en sachant bien qu'à tout moment ce malade peut se décompenser.  
 *   **Hôpital équipé :** si l'on peut opérer sur place, il faut garder ce blessé en observation et repos strict, à l'hôpital :
     *   parfois tout s'arrange progressivement, l'hémostase se fait d'elle-même, et l'on peut éviter une laparotomie (il faudra que ce blessé reste très prudent et évite tout traumatisme pendant plusieurs semaines);
     *   ailleurs les symptômes persistent ou s'accentuent et il faut se résoudre à opérer.
@@ -132,6 +135,7 @@ Lorsqu'elle est rendue nécessaire par l'hémorragie intra-abdominale, **l'opér
 
 La médiane est l'incision qui permettra de s'adapter à toutes les lésions _(figure 3)_
 
+
 ![](i955-4.jpg)
 
 
@@ -149,7 +153,7 @@ En postopératoire, il faut surveiller les courbes du pouls, de la tension, de l
 
 **Il faut aussi rechercher les complications :**
 
-*   Reprise de l'hémorragie : chute tensionnelle, sang rouge par le drain : il faut réopérer rapidement pour compléter l'hémostase.
+*   Reprise de l'hémorragie : chute tensionnelle, sang rouge par le drain : il faut réopérer rapidement pour compléter l'hémostase.  
 *   **Abcès sous-phrénique :** fièvre, mauvais état général, douleurs ou point de côté, écoulement purulent par le drain.
 
 Il faut aussi ré-opérer, souvent par une voie d'abord latérale, pour laver abondamment et drainer. Il faudra particulièrement veiller à l'alimentation de ces blessés dénutris, pour aider à leur guérison.

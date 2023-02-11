@@ -12,6 +12,7 @@ ou: comprendre une maladie pour mieux la soigner"
 
 Le kyste hydatique du foie (KHF) est la forme intermédiaire d'un parasite au cycle complexe _(Taenia Echinococcus granulosus_). La forme adulte de ce parasite est un petit ver qui vit dans l'intestin du chien : il y pond des oeufs. Ceux-ci, évacués avec les selles, sont ingérés par un hôte intermédiaire, le plus souvent un mouton, qui s'infeste en se nourrissant d'herbe souillée. L'homme est un hôte intermédiaire accidentel, avant tout par contacts avec des chiens parasités : l'hydatidose est une maladie des mains sales (_figure n° 1_) !
 
+
 ![](i798-1.jpg)
 
 
@@ -21,6 +22,7 @@ Une fois ingérés, les oeufs (extrêmement résistants à la chaleur, à la des
 est d'importance essentielle pour le chirurgien
 
 En se développant dans le parenchyme hépatique, l'oeuf se ballonnise : la sphère que constitue le KHF se compose de deux membranes parasitaires (la cuticule externe et la membrane proligère interne) ; elle est remplie de liquide initialement limpide " comme de l'eau ", dans lequel sédimente du sable hydatique (constitué par une multitude d'oosphères ou scolex, formes larvaires (" oeufs ") du parasite, formées par la membrane proligère) _(figure n° 2)._
+
 
 ![](i798-2.jpg)
 
@@ -52,6 +54,7 @@ Le volume important du KHF peut enfin entraîner une compression des organes de 
 **La connaissance de l'histoire naturelle permet de comprendre les différents aspects cliniques des KHF :** **formes pseudo-tumorales, formes à** **symptomatologie biliaire, ictériques ou angiocholitiques, pseudo-abcès** **du foie, suppurations de la base pulmonaire droite.**
 
 **Elle permet aussi de schématiser les** **tactiques chirurgicales.**
+
 
 ![](i798-3.jpg)
 

@@ -40,9 +40,10 @@ La conception d'outils, les réunions de suivi et les activités promotionnelles
 
 **_Qu'est-ce qui a favorisé le développement de l'ETP au sein de votre service ?_**
 
-*   **L'identification d'une personne chargée spécialement de cette activité** après la phase prépilote, l'appui et la stimulation par les experts de Format Santé ainsi que la motivation du personnel ont été les facteurs clés du développement du programme.
-*   **Une stagiaire, étudiante du Master en éducation à la santé de l'Université de Paris 13**, a aidé à la formation plus approfondie de l'éducatrice, au transfert de méthodes de conception et d'élaboration des outils et à la prise en compte de la recherche en matière d'ETP de l'enfant.
+*   **L'identification d'une personne chargée spécialement de cette activité** après la phase prépilote, l'appui et la stimulation par les experts de Format Santé ainsi que la motivation du personnel ont été les facteurs clés du développement du programme.  
+*   **Une stagiaire, étudiante du Master en éducation à la santé de l'Université de Paris 13**, a aidé à la formation plus approfondie de l'éducatrice, au transfert de méthodes de conception et d'élaboration des outils et à la prise en compte de la recherche en matière d'ETP de l'enfant.  
 *   **L'implication effective de l'administration de l'Hôpital d'Instruction des Armées et de la Direction du Service de Santé des Armées**, a été un facteur d'accélération du processus. Ces 2 entités sont à l'origine de l'évaluation du programme à mi-parcours et de la conception d'un logo pour le programme d'éducation thérapeutique qui a été baptisé "WEZIZA". "WEZIZA" est un mot de la langue nationale Fon qui veut dire "éclairage" dans le sens du passage de l'obscurité à la lumière, de la nuit au jour par le lever du soleil. Le logo qui a été conçu dans un esprit de promotion du programme traduit bien cette vision en montrant une femme, un enfant, le soleil au lever.
+
 
 ![](i1091-1.jpg)
 
@@ -54,6 +55,7 @@ Nos objectifs à court terme sont :
 *   de concevoir des outils d'éducation (boîtes imagées, dessins animés, bandes dessinées),
 *   d'évaluer à mi-parcours les stratégies du programme d'ETP pédiatrique : programmation, compétences des éducateurs et des patients. La recherche en ETP pédiatrique assurera la pérennité du programme.
 
+
 ![](i1091-2.jpg)
 **Dr Alain Azondékon. 2007.**
 
@@ -63,8 +65,8 @@ Nous prévoyons aussi d'introduire l'ETP pédiatrique dans les sessions de forma
 
 Après une courte expérience, l'ETP a permis :
 
-*   Sur le plan du paquet minimum de service : la disponibilité d'un service d'écoute médicalisé pour l'enfant.
-*   Sur le plan de l'organisation : une meilleure référence interne et un début de bon ancrage entre les diverses sections de l'unité (médicale, sociale, psychologique et de dispensation des médicaments).
+*   Sur le plan du paquet minimum de service : la disponibilité d'un service d'écoute médicalisé pour l'enfant.  
+*   Sur le plan de l'organisation : une meilleure référence interne et un début de bon ancrage entre les diverses sections de l'unité (médicale, sociale, psychologique et de dispensation des médicaments).  
 *   Au niveau du patient : une meilleure observance dans le suivi grâce à une compréhension de leur perception de la maladie et des facteurs de rupture du suivi. De plus, l'entourage du patient est davantage pris en compte du fait de la disponibilité du service d'éducation.
 
 ## Les outils d'éducation et l'animation des séances d'éducation
@@ -113,6 +115,7 @@ Il est adapté à la mère ou aux adultes et adolescents responsables de l'enfan
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -147,6 +150,7 @@ Ils sont surtout adaptés aux petits enfants car ils captent plus leur attention
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -213,9 +217,9 @@ L'éducation thérapeutique peut donc désamorcer plusieurs situations même com
 
 Les difficultés sont nombreuses.
 
-*   **La compréhension de l'activité par l'équipe** soignante est la première difficulté ; en effet, pour certains, l'éducation thérapeutique sert à évaluer uniquement l'observance des enfants alors que pour nous éducateur, cela va au-delà de cette attente. Mais une bonne information nous a permis de baliser le terrain et de susciter l'adhésion de tout le monde.
-*   **L'ancrage de l'éducation thérapeutique dans le suivi clinique** : l'ETP est déjà incluse dans les activités de soins habituels : mais si on n'y prend pas garde, elle sera étouffée par les activités cliniques. Il faut donc une explication claire sur le circuit des malades pour une bonne référence vers l'ETP.
-*   Au niveau des patients, il y a le **non respect des rendez-vous** ; même si, au départ, un contrat éducationnel est conclu, les parents et surtout les substituts n'honorent pas leur rendez-vous car cela constitue un rendez-vous de plus. Ce qui fait que certains répondent à l'apprentissage mais ne viennent plus pour l'évaluation. Cette difficulté est en train d'être maîtrisée grâce à l'appui financier institué depuis mars 2007 pour les frais de déplacement (500 à 2 000 cfa).
+*   **La compréhension de l'activité par l'équipe** soignante est la première difficulté ; en effet, pour certains, l'éducation thérapeutique sert à évaluer uniquement l'observance des enfants alors que pour nous éducateur, cela va au-delà de cette attente. Mais une bonne information nous a permis de baliser le terrain et de susciter l'adhésion de tout le monde.  
+*   **L'ancrage de l'éducation thérapeutique dans le suivi clinique** : l'ETP est déjà incluse dans les activités de soins habituels : mais si on n'y prend pas garde, elle sera étouffée par les activités cliniques. Il faut donc une explication claire sur le circuit des malades pour une bonne référence vers l'ETP.  
+*   Au niveau des patients, il y a le **non respect des rendez-vous** ; même si, au départ, un contrat éducationnel est conclu, les parents et surtout les substituts n'honorent pas leur rendez-vous car cela constitue un rendez-vous de plus. Ce qui fait que certains répondent à l'apprentissage mais ne viennent plus pour l'évaluation. Cette difficulté est en train d'être maîtrisée grâce à l'appui financier institué depuis mars 2007 pour les frais de déplacement (500 à 2 000 cfa).  
 *   La dernière difficulté concerne les **outils utilisés** : nous devons sans cesse adapter les outils pédagogiques que nous avons et en créer parfois même en cours de séance. En effet les objectifs pédagogiques sont nombreux et parfois notre outil ne peut couvrir l'objectif traité ; il faut aussi s'adapter au niveau d'étude ou au degré de compréhension de la personne qui se trouve en face de vous.
 
 Il revient donc à l'éducateur d'avoir une imagination fertile mais aussi d'user de tact pour réussir ses séances d'éducation.
@@ -226,9 +230,9 @@ Ma manière de conduire mes entretiens avec plus de structuration. L'éducation 
 
 **_Quels conseils donneriez-vous à de futurs éducateurs ?_**
 
-*   Maîtriser la méthodologie de l'éducation thérapeutique.
-*   Maîtriser l'outil de chaque séance : compréhension, public, avantages et difficultés. Préparer les séances : l'improvisation n'est pas souhaitable.
-*   Assurer l'ancrage de l'activité avec les autres unités du service.
+*   Maîtriser la méthodologie de l'éducation thérapeutique.  
+*   Maîtriser l'outil de chaque séance : compréhension, public, avantages et difficultés. Préparer les séances : l'improvisation n'est pas souhaitable.  
+*   Assurer l'ancrage de l'activité avec les autres unités du service.  
 *   Susciter l'adhésion de toute l'équipe de soins.
 
 <table>

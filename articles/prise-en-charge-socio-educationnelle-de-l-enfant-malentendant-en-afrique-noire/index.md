@@ -22,6 +22,7 @@ Notre étude s'est orientée sur trois axes.
 
 3 - Mener une enquête sur le devenir des élèves qui quittent le système d'éducation.
 
+
 ![](i893-1.jpg)
 
 
@@ -46,6 +47,7 @@ Beaucoup d'enfants abandonnent l'école dès la première année par faute de so
 **3. Insertion à la vie** **professionnelle**
 
 La plupart des enfants ont abandonné l'école à un moment ou à un autre de leur scolarité. Mais le cas de 27 élèves (13,70 %) qui avec cette formation de base ont pu apprendre un métier a retenu particulièrement notre attention. Les métiers appris et exercés sont divers _(tableau n° 1_).
+
 
 ![](i893-2.jpg)
 

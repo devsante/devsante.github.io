@@ -6,7 +6,7 @@ date: "2002-08-15"
 
 **Les détresses circulatoires** **par Marie-Noëlle Durand** Infirmière-anesthésiste, SAMU, Hôpital Avicenne, Bobigny. **I. Les causes** La fonction circulatoire peut être perturbée de plusieurs façons :
 
-*   La pompe cardiaque est malade : infarctus du myocarde.
+*   La pompe cardiaque est malade : infarctus du myocarde.  
 *   Le volume du sang est diminué par écoulement du sang hors des vaisseaux : hémorragie :
 
 - hémorragie externe : le sang s'écoule à l'extérieur du corps par une plaie, - hémorragie interne : le sang reste à l'intérieur du corps dans la cavité abdominale par exemple. **Il. Conduite à tenir** **1. Devant une hémorragie externe**
@@ -34,8 +34,8 @@ date: "2002-08-15"
 
 - si le secouriste est seul : après 2 insufflations initiales, il doit effectuer 15 compressions sternales pour 2 insufflations ; **Figure n° 4. Point de compression.** - à deux secouristes : le couplage devient 5 compressions sternales pour une insufflation. Le rôle respectif de chaque intervenant peut être inversé à condition de ne pas interrompre la réanimation cardio-pulmonaire plus de 5 secondes. L'efficacité du massage cardiaque externe est affirmée devant la perception d'un pouls carotidien synchrone de chacune des compressions. L'état du patient doit être régulièrement réévalué (pouls, respiration) et la réanimation poursuivie jusqu'à l'arrivée des secours. **Conclusion** **Devant un patient présentant un état de** **choc** associant : un pouls rapide et faible, un état d'agitation ou de somnolence, une pâleur, des extrémités froides et cyanosées, toujours craindre l'hémorragie interne.
 
-*   Allonger horizontalement, couvrir et mettre au calme.
-*   Évacuer d'extrême urgence sous surveillance médicale.
+*   Allonger horizontalement, couvrir et mettre au calme.  
+*   Évacuer d'extrême urgence sous surveillance médicale.  
 *   L'hémorragie interne peut apparaître à retardement et il faut garder en surveillance le blessé.
 
 **Devant un patient en arrêt cardio-respiratoire :** associer un massage cardiaque externe et une ventilation artificielle en réévaluant régulièrement le patient et l'efficacité de la réanimation. _Développement et Santé, n° 132, décembre 1997_

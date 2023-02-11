@@ -20,6 +20,7 @@ Les fibromyomes peuvent s'associer à :
 
 _schéma n° 1_
 
+
 ![](i1-1.jpg)
 
 
@@ -46,14 +47,14 @@ C'est lors d'un examen gynécologique systématique que l'on pourra faire le dia
 Parfois, c'est lors d'une complication **révélatrice** que l'on est amené à découvrir le fibrome.
 
 *   Soit **hémorragies :** ce peut être tous les types d'hémorragies mais plus volontiers des :
-    *   **méno-métrorragies:** c'est-à-dire des règles qui frappent par leur **durée** anormale, de dix à quinze jours. Leur caractère **indolore** au début, leur **abondance** dont la conséquence à long terme est une altération de l'état général avec **anémie** parfois importante.
+    *   **méno-métrorragies:** c'est-à-dire des règles qui frappent par leur **durée** anormale, de dix à quinze jours. Leur caractère **indolore** au début, leur **abondance** dont la conséquence à long terme est une altération de l'état général avec **anémie** parfois importante.  
 *   Soit **signes de compression :**
     *   vésicale en avant, entraînant une dysurie, pollakiurie,
     *   rectale en arrière, entraînant constipation, pesanteur anale,
-    *   exceptionnellement: urétérale, gravissime car elle évolue à bas bruit, entraînant une **mort** **lente du rein** si l'obstacle que constitue le fibrome n'est pas levé chirurgicalement.
-*   Soit **torsion :** c'est l'apanage des fibromes **pédiculés,** le diagnostic différentiel se pose avec celui du kyste de l'ovaire qui peut lui aussi se compliquer de torsion. Elle se manifeste par un syndrome douloureux abdominal, volontiers **pseudo-appendiculaire** et la confirmation du diagnostic se fait souvent à ventre ouvert.
-*   Soit **nécrobiose aseptique :** évolution plus volontiers propre à l'utérus gravide car le fibrome se **ramollit.** Elle associe fièvre et douleur pelvienne; le diagnostic n'est fait qu'à l'ouverture de la pièce devant une coloration violette caractéristique.
-*   Soit **infection :** associée à une endométrite, une salpingite, source de difficultés opératoires extrêmes.
+    *   exceptionnellement: urétérale, gravissime car elle évolue à bas bruit, entraînant une **mort** **lente du rein** si l'obstacle que constitue le fibrome n'est pas levé chirurgicalement.  
+*   Soit **torsion :** c'est l'apanage des fibromes **pédiculés,** le diagnostic différentiel se pose avec celui du kyste de l'ovaire qui peut lui aussi se compliquer de torsion. Elle se manifeste par un syndrome douloureux abdominal, volontiers **pseudo-appendiculaire** et la confirmation du diagnostic se fait souvent à ventre ouvert.  
+*   Soit **nécrobiose aseptique :** évolution plus volontiers propre à l'utérus gravide car le fibrome se **ramollit.** Elle associe fièvre et douleur pelvienne; le diagnostic n'est fait qu'à l'ouverture de la pièce devant une coloration violette caractéristique.  
+*   Soit **infection :** associée à une endométrite, une salpingite, source de difficultés opératoires extrêmes.  
 *   Soit enfin, de façon très exceptionnelle, **dégénérescence maligne :** il s'agit alors d'un sarcome.
 
 #### c. Stérilité
@@ -74,7 +75,7 @@ Tantôt le diagnostic est aisé, par le seul examen de la paroi abdominale qui p
 
 Le **toucher vaginal combiné au palper abdominal** montre :
 
-1.  Un **utérus** augmenté de volume, bosselé par une ou plusieurs masses arrondies, lisses, fermes, indolores.
+1.  Un **utérus** augmenté de volume, bosselé par une ou plusieurs masses arrondies, lisses, fermes, indolores.  
 2.  Une masse latéro-utérine déviant le col dans un cul-de-sac et dont le caractère **essentiel** est de faire corps avec l'utérus, sans sillon de séparation, mobilisable avec lui par la main abdominale et les doigts vaginaux.
 
 Dans tous les cas, on n'aura pas oublié :
@@ -111,6 +112,7 @@ On complète l'examen par :
 Et si on redoute une compression urétérale :
 
 *   une urographie intraveineuse.
+
 
 ![](i1-2.jpg)
 
@@ -155,10 +157,11 @@ Le traitement chirurgical et ses modalités ne sont fonction que:
 
 **Myomectomie** réalisée par énucléation du fibrome, hémostase et capitonnage de la loge.
 
-*   _Avantage:_ conserve et même restitue les possibilités de grossesse, de règles normales.
+*   _Avantage:_ conserve et même restitue les possibilités de grossesse, de règles normales.  
 *   _Inconvénients:_ - récidive possible, impossibilité technique entraînant l'obligation d'une:
 
 **Hystérectomie totale ou subtotale** (c'est-à-dire conservant le col, à la condition qu'il soit sain) avec ou sans conservation des trompes et des ovaires.
+
 
 ![](i1-3.jpg)
 

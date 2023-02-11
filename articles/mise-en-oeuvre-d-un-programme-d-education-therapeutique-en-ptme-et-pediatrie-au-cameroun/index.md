@@ -41,7 +41,7 @@ Parmi les autres facteurs de succès de l'activité on peut relever : les compé
 
 Si l'impact de ce programme n'est pas encore évalué, il n'en demeure pas moins que certains effets sont déjà observables :
 
-*   **L'amélioration de la gestion du traitement** (horaires de prise, prise hors du domicile).
+*   **L'amélioration de la gestion du traitement** (horaires de prise, prise hors du domicile).  
 *   **L'amélioration de l'adhérence au traitement** (surtout dans les situations de reprise éducative ou d'indication d'ETP pour baisse de l'adhésion au traitement).
 
 A cette étape du programme (12 mois), de nombreux défis demeurent dans les sites déjà existants : **la stabilisation du personnel formé et la formation complémentaire de personnel** pour prendre en charge un plus grand nombre de patients, **l'introduction de séances d'ETP de groupe** tant pour les enfants que pour les parents réticents à l'annonce (elles sont actuellement assez limitées).
@@ -249,6 +249,7 @@ expérience de l'hôpital Laquintinie
 
 Le traitement de l'enfant doit être efficace le plus longtemps possible pour éviter l'acquisition des résistances. L'observance thérapeutique est donc capitale car peu de molécules sont disponibles en pédiatrie. Le traitement pédiatrique à vie est souvent sujet à une lassitude surtout si l'enfant se sent mieux et ne comprend pas l'intérêt de poursuivre sa thérapie.
 
+
 ![](i1093-1.jpg)
 
 
@@ -281,6 +282,7 @@ Avoir du personnel formé et oeuvrant seulement pour cette activité. Intégrer 
 
 1- Les compétences des soignants en éducation thérapeutique, Rémi Gagnayre, adap, Septembre 2005.  
 2- Rapport de progrès CNLS n°4, 2007.
+
 
 ![](i1093-2.jpg)
 **Séance d'éducation thérapeutique****lors de la dispensation de médicaments au Cameroun, 2007**

@@ -43,7 +43,7 @@ Celui-ci précisera :
 
 *   le contexte de survenue : épistaxis brutale ou récidivante (contexte de grattage de la tache vasculaire à chercher), les prises médicamenteuses (sachant que certains médicaments peuvent agir sur l'hémostase, par exemple l'Aspirine®, la notion de traumatisme (immédiatement suite au traumatisme ou retardé par rapport au traumatisme) ;
 *   les caractères du saignement, notamment la quantité de sang perdu ;
-*   les antécédents personnels et familiaux, le terrain du patient : dans sa famille retrouve t-on quelqu'un qui saigne souvent de la narine ? Le patient lui-même a-t-il l'habitude de saigner de la narine ? Quand il se blesse, le sang s'arrête-t-il en général rapidement où est-ce toujours délicat ? etc.
+*   les antécédents personnels et familiaux, le terrain du patient : dans sa famille retrouve t-on quelqu'un qui saigne souvent de la narine ? Le patient lui-même a-t-il l'habitude de saigner de la narine ? Quand il se blesse, le sang s'arrête-t-il en général rapidement où est-ce toujours délicat ? etc.  
 *   l'état de lucidité : le patient est-il confus ou non ?
 
 ### 2. L'examen clinique
@@ -119,12 +119,14 @@ Il consiste à combler les fosses nasales en avant des choanes.
 
 Plusieurs tampons existent. Le plus simple consiste à utiliser des mèches grasses, tel le tulle gras, ou à imprégner de pommade hémostatique des compresses chirurgicales coupées en oblique donnant deux épaisseurs en triangle. Et, à l'aide d'une source de lumière et d'une pince de Lubet-Barbon, tasser alternativement, de haut en bas et d'arrière en avant, les mèches (_figures 1_).
 
+
 ![](i925-1.jpg)
 
 
 #### Tamponnement postérieur
 
 Si, malgré cette tentative, le patient saigne, on peut appliquer le tamponnement postérieur :après une prémédication légère (anxiolytique), on fera passer par la narine une petite sonde urinaire à ballonnet jusqu'aux choanes _(figure 2)._ Ensuite, on gonfle cette sonde de 3 à 5 cm<sup>3</sup> d'air et on tire le ballonnet doucement vers l'avant, il viendra ainsi buter sur les choanes. On refait le même geste en controlatéral et on le complète par un tamponnement antérieur bilatéral. En l'absence de sonde à ballonnet, il faut pratiquer un tamponnement postérieur à l'aide de biogaze _(figures 3)._
+
 
 ![](i925-2.jpg)
 
@@ -167,6 +169,7 @@ Là aussi, le contrôle de l'arrêt du saignement se fait avec un abaisse langue
 Le méchage, qu'il soit antérieur ou postérieur, est gardé trois jours. Son ablation se fait en douceur pour les mèches antérieures qui risquent d'éroder la muqueuse septale.  
 Quant au méchage postérieur, il est enlevé après section des fils de fixation antérieure et ablation du bourdonner par traction sur le fil de rappel.  
 Après le déméchage, il est impératif de vérifier l'absence de reprise du saignement en avant et en arrière. Un suintement sanglant est fréquent mais sans gravité. Il s'arrête spontanément en quelques minutes. La reprise franche de l'hémorragie impose par contre un nouveau méchage.
+
 
 ![](i925-3.jpg)
   

@@ -62,7 +62,7 @@ Il doit être apprécié ensuite : il est parfois massif, plus souvent incomplet
 *   _Les deux membres tendus horizontalement_
     *   les yeux fermés,
     *   normalement les deux membres demeurent à la même hauteur,
-    *   un déficit se traduit par l'abaissement progressif d'un membre.
+    *   un déficit se traduit par l'abaissement progressif d'un membre.  
 *   _Les doigts écartés_ _au maximum,_ _les deux_ _paumes étant face à face sans se toucher_
     *   le déficit se traduit par un écartement moindre des doigts.
 
@@ -121,6 +121,7 @@ La contracture entraîne :
 
 *   une extension irréductible du membre inférieur, le malade marchant sur le pointe du pied.
 
+
 ![](i681-1.jpg)
 
 
@@ -148,9 +149,9 @@ La lésion responsable des troubles ne peut pas se situer à l'intérieur du cer
 
 *   Si la lésion siège près de la corne antérieure, le déficit moteur sera isolé (exemple poliomyélite).  
     Les réflexes ostéotendineux sont ici diminués ou abolis.  
-    Enfin, l'amyotrophie est souvent importante.
+    Enfin, l'amyotrophie est souvent importante.  
 *   Si la lésion siège aux racines ou en périphérie, les nerfs sensitifs sont aussi touchés : au tableau précédent s'ajoutent des troubles sensitifs :
-    *   Subjectifs : douleurs spontanées, fourmillements, engourdissements.
+    *   Subjectifs : douleurs spontanées, fourmillements, engourdissements.  
     *   Objectifs : hypo ou anesthésie à la piqûre, au chaud, au froid.
 
 En conclusion, l'interrogatoire et l'examen clinique soigneux permettent souvent de repérer le siège et la nature de la lésion.
@@ -182,8 +183,11 @@ Il peut aussi s'agir :
 *   de tumeur de la moelle ou des annexes,
 *   d'infection médullaire (myélite), plus rare.
 
+
 ![](i681-2.jpg)
+
 ![](i681-3.jpg)
+
 ![](i681-4.jpg)
 
 

@@ -28,7 +28,7 @@ En effet, certains de ces pathogènes peuvent être concentrés dans d’autres 
 
 **Selon les circonstances de survenue des AES, on distingue :** **Les AES dits professionnels (accidents de travail):**
 
-*   touchant essentiellement le personnel de santé exposé lors de la réalisation de soins plus ou moins invasifs mettant en jeu différents liquides biologiques, les personnels de laboratoire qui manipulent les échantillons.
+*   touchant essentiellement le personnel de santé exposé lors de la réalisation de soins plus ou moins invasifs mettant en jeu différents liquides biologiques, les personnels de laboratoire qui manipulent les échantillons.  
 *   les personnels d’entretien sont également concernés : ils peuvent être en contact avec du matériel contaminé, en particulier par piqûre avec du matériel injectable jeté dans une poubelle…
 *   mais aussi  toute profession potentiellement exposante (sportifs, forces de police...).
 
@@ -254,6 +254,7 @@ l'Immunodéficience Humaine</th>
 </tbody>
 
 </table>
+
 <table>
 <caption>Tableau 2 : bactéries décrites comme ayant été transmises suite à un AES</caption>
 
@@ -336,6 +337,7 @@ l'Immunodéficience Humaine</th>
 </tbody>
 
 </table>
+
 <table>
 <caption>Tableau 3 : parasites décrits comme ayant été transmis suite à un AES</caption>
 
@@ -418,6 +420,7 @@ l'Immunodéficience Humaine</th>
 </tbody>
 
 </table>
+
 <table>
 <caption>Tableau 4 : agents fongiques décrits comme ayant été transmis suite à un AES</caption>
 
@@ -461,9 +464,9 @@ Le personnel doit connaître à l’avance les règles de prise en charge de son
 
 En cas de piqûre, blessure, contact avec une peau lésée :
 
-*   Stopper l’activité en cours, laisser saigner, ne pas comprimer.
-*   Nettoyer rapidement à l’eau et au savon, rincer abondamment, sécher.
-*   Réaliser l’antisepsie de la plaie par trempage 10 minutes dans de l’hypochlorite de sodium ou l’alcool à 70°.
+*   Stopper l’activité en cours, laisser saigner, ne pas comprimer.  
+*   Nettoyer rapidement à l’eau et au savon, rincer abondamment, sécher.  
+*   Réaliser l’antisepsie de la plaie par trempage 10 minutes dans de l’hypochlorite de sodium ou l’alcool à 70°.  
 *   En cas de projection sur les muqueuses ou l’œil, rincer abondamment à l’eau ou au sérum physiologique durant 10 minutes.
 
 ### 2. Rechercher le statut sérologique de la personne source
@@ -530,16 +533,16 @@ IV - Surveillance
 
 #### Si le patient source est séropositif ou de statut inconnu pour le VIH :
 
-*   surveilllance nécessaire jusqu'au 4ème mois en cas de traitement post-exposition.
+*   surveilllance nécessaire jusqu'au 4ème mois en cas de traitement post-exposition.  
 *   Puis, suivant l’instauration ou non d’un traitement prophylactique post-exposition (TPE):
     *   si la personne n'a pas été mise sous traitement prophylactique, sérologie aux premier et troisième mois à compter de la date de l'accident;
     *   si la victime a été mise sous traitement prophylactique, sérologie aux deuxième et quatrième mois à compter de la date de l'accident.
 
 ### 2. Pour le VHC
 
-*   Suivi effectué si le patient source est infecté par le VHC : diagnostic par recherche de l'ARN du VHC en cas d'anticorps anti-VHC positifs chez le patient source.
-*   Suivi effectué également si le statut sérologique VHC est inconnu.
-*   Le traitement post-exposition du VHC n’est pas indiqué.
+*   Suivi effectué si le patient source est infecté par le VHC : diagnostic par recherche de l'ARN du VHC en cas d'anticorps anti-VHC positifs chez le patient source.  
+*   Suivi effectué également si le statut sérologique VHC est inconnu.  
+*   Le traitement post-exposition du VHC n’est pas indiqué.  
 *   Il faut cependant dépister une éventuelle séroconversion qui serait une indication du traitement anti-VHC (interféron).
 
 ### 3. Pour le VHB
@@ -602,7 +605,7 @@ Matériel souillé : pour tout matériel piquant ou tranchant à usage unique :
 
 *   ne jamais recapuchonner les aiguilles,
 *   ne pas les désadapter à la main,
-*   déposer dans un conteneur adapté, situé au plus près du soin, immédiatement après usage. Le niveau maximal du conteneur de remplissage doit être vérifié : le conteneur ne doit jamais être totalement rempli.
+*   déposer dans un conteneur adapté, situé au plus près du soin, immédiatement après usage. Le niveau maximal du conteneur de remplissage doit être vérifié : le conteneur ne doit jamais être totalement rempli.  
 *   Matériel réutilisable : manipuler avec précaution ce matériel souillé.
 
 #### Surfaces souillées
@@ -622,8 +625,8 @@ Porter des gants.
 
 #### Au bloc opératoire
 
-*   Changer régulièrement de gants, porter 2 paires de gants, notamment pour l'opérateur principal, lors de la suture des plans pariétaux.
-*   Porter des masques à visière, ou des lunettes de protection.
+*   Changer régulièrement de gants, porter 2 paires de gants, notamment pour l'opérateur principal, lors de la suture des plans pariétaux.  
+*   Porter des masques à visière, ou des lunettes de protection.  
 *   Utiliser des techniques opératoires limitant les risques (coordination, protection de la main controlatérale, aiguilles à bout mousse quand c'est possible).
 
 <table>
@@ -653,6 +656,7 @@ Le soluté d’hypochlorite de sodium est adapté aux 3 cas.
 </tbody>
 
 </table>
+
 <table>
 <caption>Tableau 6 : prévention des AES</caption>
 
@@ -677,8 +681,11 @@ Lors de tout contact ou risque de contact :
 **Exemples de conteneurs pour  
 Déchets d'Activités de Soins à Risques Infectieux (DASRI)**
 
+
 ![](image001-aes.jpg)
+
 ![](image003-aes.jpg)
+
 
 
 ![](image004-aes.jpg)

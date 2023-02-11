@@ -26,6 +26,7 @@ La dracunculose est une maladie provoquée par un ver Nématode (ver rond) appel
 
 Le cyclops est un hôte intermédiaire où l'embryon se transforme en larve infectieuse en 4 à 6 semaines. L'homme se contamine en buvant de l'eau contenant des cyclops infectés. Les cyclops sont détruits quand ils arrivent dans l'estomac, les larves sont alors libérées et traversent la paroi intestinale pour migrer dans les tissus. Au bout d'un an, la femelle adulte commence à voyager à travers le corps du malade provoquant les symptômes de la maladie, bouclant ainsi le cycle.
 
+
 ![](i903-1.jpg)
 
 
@@ -74,10 +75,10 @@ La disparition de cette maladie ne peut donc reposer que sur une politique de pr
 
 Quels sont les points forts de cette stratégie ?
 
-1.  L'isolement et l'accompagnement des malades.
-2.  Un système de surveillance communautaire.
-3.  Un approvisionnement en eau potable.
-4.  L'éducation sanitaire.
+1.  L'isolement et l'accompagnement des malades.  
+2.  Un système de surveillance communautaire.  
+3.  Un approvisionnement en eau potable.  
+4.  L'éducation sanitaire.  
 5.  La coordination des actions au niveau national.
 
 ### 1. Surveillance et isolement des malades par la communauté
@@ -121,7 +122,9 @@ Au terme de cet article, je pense que tout ce que vous avez appris sur la dracun
 
 *   qu'une **action apparemment limitée** peut avoir des conséquences plus importantes que prévues. Ainsi la dynamique impulsée par la campagne d'éradication de la dracunculose aura des conséquences sur le contrôle d'autres maladies transmises par l'eau. Elle a surtout des conséquences sur le plan socio économique en améliorant, dans certaines régions, la production agricole et la fréquentation scolaire. La santé coûte cher mais il coûte encore plus cher de la négliger. Il est donc important que tous ceux qui font de la médecine la calculatrice à la main puissent évaluer les- effets indirects et les bénéfices induits par certaines actions de santé publique et non pas seulement le coût de chacune de ces actions. L'éradication de la variole et de la dracunculose aujourd'hui, celle de la poliomyélite et de l'hépatite B demain ne doit cependant pas masquer les difficultés que présentent des maladies plus complexes comme le paludisme ou des maladies émergentes comme l'infection à HIV, les nouvelles fièvres hémorragiques ou les maladies à prions.
 
+
 ![](i903-2.jpg)
+
 
 
 ![](i903-3.jpg)

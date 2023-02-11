@@ -20,9 +20,9 @@ Véritable urgence médicale, le choc septique est une insuffisance circulatoire
 **Choc septique** = sepsis + hypotension  
 **SIRS si réponse à 3 des 4 critères suivants :**
 
-*   Température > 38° C.
-*   Fréquence cardiaque > 90/min.
-*   Fréquence respiratoire > 20/min ou ventila­tion mécanique pour détresse respiratoire.
+*   Température > 38° C.  
+*   Fréquence cardiaque > 90/min.  
+*   Fréquence respiratoire > 20/min ou ventila­tion mécanique pour détresse respiratoire.  
 *   GB > 12 000/mm<sup>3</sup> ou < 4 000/mm<sup>3</sup>.
 
 ## II. Rappel physiopathologique
@@ -50,35 +50,35 @@ L'atteinte cardiovasculaire est responsable d'une vasoplégie associée à une d
 
 **Dysfonction myocardique**
 
-*   Diminution voire effondrement de la fraction d'éjection ventriculaire.
+*   Diminution voire effondrement de la fraction d'éjection ventriculaire.  
 *   Altération du couplage entre le coeur et les résistances vasculaires systémiques (RVS).
 
 **Atteintes vasculaires périphériques**
 
-*   Hyporéactivité vasculaire aux catéchola­mines par atteinte de l'endothélium vascu­laire.
+*   Hyporéactivité vasculaire aux catéchola­mines par atteinte de l'endothélium vascu­laire.  
 *   Augmentation de la perméabilité capillaire responsable d'une extravasation liquidienne.
 
 #### b. Anomalies pulmonaires
 
-*   Atteinte alvéolaire diffuse responsable de l'hypoxie.
-*   Exsudat alvéolaire et oedème interstitiel.
-*   Perturbation des rapports ventilation/perfu­sion.
+*   Atteinte alvéolaire diffuse responsable de l'hypoxie.  
+*   Exsudat alvéolaire et oedème interstitiel.  
+*   Perturbation des rapports ventilation/perfu­sion.  
 *   Tableau de syndrome de détresse respiratoi­re aiguë dans les formes les plus sévères (40 % des cas).
 
 #### c. Anomalies hépatiques
 
-*   Atteinte de la fonction immunitaire et d'épu­ration du foie.
-*   Cytolyse hépatique.
+*   Atteinte de la fonction immunitaire et d'épu­ration du foie.  
+*   Cytolyse hépatique.  
 *   Dysfonction secondaire de mauvais pronostic.
 
 #### d. Anomalies digestives
 
-*   Lésions hémorragiques et nécrotiques des muqueuses.
+*   Lésions hémorragiques et nécrotiques des muqueuses.  
 *   Translocation bactérienne probablement à l'origine des défaillances multiviscérales.
 
 #### **e. Anomalies hématologiques**
 
-*   Chute des facteurs de coagulation avec une CIVD (coagulation intravasculaire dissémi­née).
+*   Chute des facteurs de coagulation avec une CIVD (coagulation intravasculaire dissémi­née).  
 *   Phénomènes de micro-thrombose, altérant la microcirculation.
 
 #### f. Anomalies rénales
@@ -90,6 +90,7 @@ Hypoperfusion responsable d'une insuffisance rénale aiguë.
 Elles sont souvent précoces, liées à l'hypoxie, à l'accumulation de faux neurotransmetteurs toxiques, l'acidose et l'oedème se manifestant par des troubles de la conscience, une agitation.
 
 **Le cercle vicieux du choc septique**
+
 
 ![](image002-12067.jpg)
 
@@ -151,13 +152,13 @@ L'évaluation de la sévérité repose d'abord sur les données de l'examen clin
 
 ### 3. Diagnostic différentiel
 
-*   Choc hypovolémique.
+*   Choc hypovolémique.  
 *   Chocs d'allure septique (états lymphoma­teux, cancéreux).
 
 ### 4. Formes cliniques
 
-*   Purpura fulminans, lié à une meningococcé­mie associant choc septique et purpura nécrotique extensif avec signes biologiques de CIVD et signes méningés.
-*   Choc staphylococcique associant sepsis, érythrodermie scarlatiniforme des paumes et des plantes, atteinte de plusieurs organes.
+*   Purpura fulminans, lié à une meningococcé­mie associant choc septique et purpura nécrotique extensif avec signes biologiques de CIVD et signes méningés.  
+*   Choc staphylococcique associant sepsis, érythrodermie scarlatiniforme des paumes et des plantes, atteinte de plusieurs organes.  
 *   Selon le terrain, fréquence et gravité du choc septique chez le patient splénectomisé, immunodéprimé, diabétique, cirrhotique, âgé ou dénutri.
 
 ## **IV. Principes thérapeutiques**
@@ -181,15 +182,15 @@ Le traitement vise à rétablir une volémie et un débit cardiaque efficaces po
 
 #### Les produits les plus utilisés
 
-*   Cristalloïdes : sérum salé 0,9 %, Ringer lactate (35 ml/kg/J).
-*   Colloïdes (macromolécules) en fonction de leur disponibilité : les gélatines (HAEMACEL®) : 500 ml/20 minutes à répéter selon la réponse hémodynamique obtenue, sans dépasser 30 ml/kg.
-*   Transfusion en cas d'hémorragie.
+*   Cristalloïdes : sérum salé 0,9 %, Ringer lactate (35 ml/kg/J).  
+*   Colloïdes (macromolécules) en fonction de leur disponibilité : les gélatines (HAEMACEL®) : 500 ml/20 minutes à répéter selon la réponse hémodynamique obtenue, sans dépasser 30 ml/kg.  
+*   Transfusion en cas d'hémorragie.  
 *   Amines vasopressives.  
-    Elles sont utilisées après correction de la volémie.
-    *   La dopamine : elle est prescrite à des poso­logies ayant des effets a et (3 stimulants : 10 à 30 µg/kg/mn, afin de corriger la chute tensionnelle et la baisse du débit car­diaque.
-    *   La dobutamine (DOBUTREX®) : elle per­met d'améliorer la contractilité myocar­dique et d'augmenter le débit cardiaque : 5 à 15 µg/kg/mn.
-    *   La noradrénaline (LEVOPHED®) : sa puis­sante action vasoconstrictrice en fait le médicament de choix lors de l'effondre­ment des résistances vasculaires systé­miques : 0,5 µg/kg/mn.
-    *   L'adrénaline : c'est l'ultime recours lorsque les autres amines vasopressives sont ineffi­caces : 0,5 à 5 µg/kg/mn.
+    Elles sont utilisées après correction de la volémie.  
+    *   La dopamine : elle est prescrite à des poso­logies ayant des effets a et (3 stimulants : 10 à 30 µg/kg/mn, afin de corriger la chute tensionnelle et la baisse du débit car­diaque.  
+    *   La dobutamine (DOBUTREX®) : elle per­met d'améliorer la contractilité myocar­dique et d'augmenter le débit cardiaque : 5 à 15 µg/kg/mn.  
+    *   La noradrénaline (LEVOPHED®) : sa puis­sante action vasoconstrictrice en fait le médicament de choix lors de l'effondre­ment des résistances vasculaires systé­miques : 0,5 µg/kg/mn.  
+    *   L'adrénaline : c'est l'ultime recours lorsque les autres amines vasopressives sont ineffi­caces : 0,5 à 5 µg/kg/mn.  
 *   Corticothérapie : hémisuccinate d'hydrocor­tisone : 200 à 300 mg/jour en perfusion ou réparties en 3 ou 4 injections intraveineuses
 *   Antipyrétique : paracétamol injectable, PERFALGAN®, lg en cas de fièvre ≥ 38°C.
 
@@ -197,21 +198,21 @@ Le traitement vise à rétablir une volémie et un débit cardiaque efficaces po
 
 Il est effectué parallèlement pour éradiquer le foyer infectieux : antibiothérapie précoce (sans attendre les résultats microbiologiques), adaptée au terrain et au site d'infection puis, secondairement, à l'antibiogramme :
 
-*   Céfotaxime, 1 g/8 h IV + métronidazole, FLAGYL® 500 mg/8 h per­fusion chez l'adulte.
+*   Céfotaxime, 1 g/8 h IV + métronidazole, FLAGYL® 500 mg/8 h per­fusion chez l'adulte.  
 *   La gentamycine peut être associée en fonc­tion du bilan rénal.
 
 ### 3. Le traitement adjuvant
 
-*   Oxygénothérapie orotrachéale avec ventila­tion assistée, hémodialyse.
+*   Oxygénothérapie orotrachéale avec ventila­tion assistée, hémodialyse.  
 *   Nursing.
 
 ### 4. Surveillance du traitement
 
-*   Constantes hémodynamiques : PA, pouls.
-*   Paramètres respiratoires : fréquence respira­toire et Sa0<sub>2</sub> (oxymétrie de pouls).
-*   Diurèse si > 30 ml/h.
-*   Température.
-*   Etat de conscience.
+*   Constantes hémodynamiques : PA, pouls.  
+*   Paramètres respiratoires : fréquence respira­toire et Sa0<sub>2</sub> (oxymétrie de pouls).  
+*   Diurèse si > 30 ml/h.  
+*   Température.  
+*   Etat de conscience.  
 *   Régression des signes cutanés de vasocons­triction (marbrures).
 
 ## Conclusion

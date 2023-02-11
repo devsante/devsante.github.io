@@ -43,6 +43,7 @@ C'est la cause essentielle des calculs de la vessie chez l'homme adulte, ces obs
 
 Les urines stagnantes, souvent infectées, chargées de cristaux de calcium ou d'acide urique, précipitent sous forme de calcul.
 
+
 ![](i108-1.jpg)
 
 
@@ -100,6 +101,7 @@ Chez l'enfant, des douleurs dans la verge, la nécessité qu'il éprouve à tire
 L'examen clinique est pauvre, on palpe rarement la pierre au toucher rectal, mais on peut palper la grosse prostate responsable de la stase chez l'adulte. Les urines peuvent être sanglantes ou purulentes.
 
 Tous ces signes ont, en tout cas, le mérite d'orienter vers le bas appareil urinaire (vessie, prostate, urèthre) et de faire demander des examens complémentaires qui permettront d'assurer le diagnostic.
+
 
 ![](i108-2.jpg)
 

@@ -29,7 +29,7 @@ Elles sédimentent rapidement : ne vont pas plus loin qu’un mètre.
 Elles se déposent sur les conjonctives ou les muqueuses de l’hôte.  
 Toutes les maladies dues à  des micro-organismes de la sphère ORL peuvent être transmis de cette façon, mais c’est par cette seule voie que sont transmis les plus fragiles, ceux qui ne peuvent subsister dans le milieu extérieur comme :
 
-*   les agents de méningites à méningocoque, à _Haemophilus_ , les pneumonies.
+*   les agents de méningites à méningocoque, à _Haemophilus_ , les pneumonies.  
 *   les virus fragiles : oreillons, rubéole, grippe, fièvres hémorragiques.
 
 A titre d’exemple :  
@@ -135,6 +135,7 @@ C’est la connaissance des voies de transmission de l’infection qui va permet
 </tbody>
 
 </table>
+
 <table>
 <caption>MST dues à des bactéries</caption>
 

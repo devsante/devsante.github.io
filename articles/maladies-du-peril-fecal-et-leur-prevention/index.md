@@ -18,8 +18,8 @@ La rédaction de ces modules fait suite à une série de cours donnés à l'Alli
 
 L'enseignement se déclinera selon les modules suivants et de manière interactive, si possible :
 
-*   Module 1 le péril fécal.
-*   Module 2 le choléra.
+*   Module 1 le péril fécal.  
+*   Module 2 le choléra.  
 *   Module 3 mesures préventives, collectives et individuelles, vis-à-vis des maladies liées au péril fécal en général et du choléra en particulier.
 
 Les modules ne sont pas indépendants mais peuvent être enseignés en plusieurs étapes. Il convient cependant de respecter l'ordre des modules pour leur compréhension globale.
@@ -50,8 +50,8 @@ Tableau + craie.
 
 À la fin de l'enseignement, l'étudiant devra pouvoir :
 
-1.  Définir le péril fécal.
-2.  Citer des exemples simples de maladies liées au péril fécal.
+1.  Définir le péril fécal.  
+2.  Citer des exemples simples de maladies liées au péril fécal.  
 3.  Reproduire et expliquer le schéma de transmission générale des maladies du péril fécal.
 
 **Étape 1**
@@ -96,6 +96,7 @@ Sujet : quelques exemples de maladies liées au péril fécal pour les rendre pl
 
 - Dysenteries.
 
+
 ![](i907-1.jpg)
 
 
@@ -114,6 +115,7 @@ Sujet : les modes de transmission des maladies du péril fécal.
 - Porteur de maladie symptomatique (malade).
 
 - Porteur de maladie asymptomatique (porteur sain) mais contaminant.
+
 
 ![](i907-2.jpg)
 
@@ -146,6 +148,7 @@ Les numéros se rapportent à l'explication qui suit; celle-ci devra être faite
 
 C'est le **péril fécal** et la contamination se fait de proche en proche.
 
+
 ![](i907-3.jpg)
 
 
@@ -165,6 +168,7 @@ Sujet : comprendre que tout le monde peut être touché savoir ; que l'on peut �
 
 *   Portage.
 
+
 ![](i907-4.jpg)
 
 
@@ -182,10 +186,11 @@ Sujet : survie des germes dans le milieu extérieur.
 
 **Concepts clés**
 
-*   Milieu extérieur.
-*   Survie.
-*   Pouvoir pathogène et espace-temps.
+*   Milieu extérieur.  
+*   Survie.  
+*   Pouvoir pathogène et espace-temps.  
 *   _Tableau n° 2._
+
 
 ![](i907-5.jpg)
 
@@ -202,8 +207,8 @@ Sujet : la gravité potentielle des maladies du péril fécal.
 
 **Concepts clés**
 
-*   Diarrhée.
-*   Complications tardives.
+*   Diarrhée.  
+*   Complications tardives.  
 *   Mort.
 
 **Proposition**
@@ -262,9 +267,9 @@ Sujet : présentation du choléra.
 
 **Concepts clés**
 
-*   Épidémie.
+*   Épidémie.  
 *   _Vibrio cholerae._
-*   Péril fécal.
+*   Péril fécal.  
 *   Diarrhée.
 
 **Proposition**
@@ -279,8 +284,8 @@ Sujet: un peu d'épidémiologie.
 
 **Concepts clés**
 
-*   Historique.
-*   Epidémie, pandémie.
+*   Historique.  
+*   Epidémie, pandémie.  
 *   Situation à risque.
 
 **Proposition**
@@ -461,6 +466,7 @@ Les deux mesures doivent être faites en même temps, en fait et sans attendre. 
 
 Le **choléra** est une **urgence vitale** et des mesures sont à prendre pour l'entourage du malade et sa maison. Il est donc impératif de consulter le centre de tri devant tout cas suspect.
 
+
 ![](i907-6.jpg)
 
 
@@ -496,53 +502,53 @@ Faire réfléchir sur les moyens à mettre en oeuvre pour lutter contre chacun d
 
 **Porteur de la maladie (1),** surtout pour le choléra :
 
-*   Identification, hospitalisation, isolement et traitement des cas.
-*   Traitement des familles et des sujets contacts, désinfection des maisons.
-*   Déclaration des décès pour la mise en place des équipes de riposte qui iront traiter les contacts, désinfecter les habitations.
-*   Dépistage et traitement des porteurs sains.
+*   Identification, hospitalisation, isolement et traitement des cas.  
+*   Traitement des familles et des sujets contacts, désinfection des maisons.  
+*   Déclaration des décès pour la mise en place des équipes de riposte qui iront traiter les contacts, désinfecter les habitations.  
+*   Dépistage et traitement des porteurs sains.  
 *   Réseaux d'alerte renforcés et efficaces.
 
 **Matières-fécales (2)**
 
-*   Création de latrines.
-*   Développement de la voirie.
+*   Création de latrines.  
+*   Développement de la voirie.  
 *   Développement de réseaux d'égouts.
 
 *   Traitement des eaux sales, bassins de décantation...
 
 **Mains (3)**
 
-*   Cadre législatif des mesures d'hygiène en restauration publique, dans les écoles, sur les lieux de travail.
+*   Cadre législatif des mesures d'hygiène en restauration publique, dans les écoles, sur les lieux de travail.  
 *   Eau propre et savon dans chaque cuisine de restauration publique, écoles, lieux de travail.
 
 **Sol (4) :**
 
-*   Respect des permis de construire.
-*   Respect des lois, interdiction d'utiliser de l'engrais humain.
-*   Traitement systématique des récoltes de fruits et légumes.
-*   Regroupements des points d'eau et/ou des latrines.
-*   Distance minimum de 15 m entre les zones de défécation et les points d'eau.
+*   Respect des permis de construire.  
+*   Respect des lois, interdiction d'utiliser de l'engrais humain.  
+*   Traitement systématique des récoltes de fruits et légumes.  
+*   Regroupements des points d'eau et/ou des latrines.  
+*   Distance minimum de 15 m entre les zones de défécation et les points d'eau.  
 *   Développement des réseaux d'égouts.
 
 **Eau (5) :**
 
-*   La Jirama* pour tous, chloration systématique de l'eau.
-*   Adduction d'eau.
-*   Traitement et séparation des eaux usées.
+*   La Jirama* pour tous, chloration systématique de l'eau.  
+*   Adduction d'eau.  
+*   Traitement et séparation des eaux usées.  
 *   Mesures aux niveaux des écoles, des hôtels et des restaurants pour la qualité de l'eau.
 
 *La Jirama est l'entreprise publique chargé de la distribution de l'électricité et de l'eau à Madagascar
 
 **Mouches (6):**
 
-*   Lutte anti-vectorielle.
+*   Lutte anti-vectorielle.  
 *   Ramassage et traitement des ordures, décharges publiques.
 
 **Aliments (7) :**
 
-*   Création d'une police sanitaire.
-*   Cadre législatif régissant la vente des produits et l'assainissement : utilisation de vitrines réfrigérées ou de frigo pour la conservation des aliments préparés, respect de la chaîne du froid.
-*   Cadre législatif concernant la restauration collective.
+*   Création d'une police sanitaire.  
+*   Cadre législatif régissant la vente des produits et l'assainissement : utilisation de vitrines réfrigérées ou de frigo pour la conservation des aliments préparés, respect de la chaîne du froid.  
+*   Cadre législatif concernant la restauration collective.  
 *   Aménagement, nettoyage et hygiène des marchés.
 
 Ce sont des mesures collectives et elles ne sont pas exhaustives !
@@ -645,9 +651,9 @@ Sujet : mesures détaillées de prévention individuelle autour de l'eau.
 
 **Concepts clés**
 
-*   Cycle de transmission (Schéma).
-*   Désinfecter.
-*   Protéger.
+*   Cycle de transmission (Schéma).  
+*   Désinfecter.  
+*   Protéger.  
 *   Eviter la recontamination.
 
 **Proposition**
@@ -686,8 +692,8 @@ La bouteille d'eau de Javel (solution de chlore à 10 ou 12°) de 1 litre coûte
 
 *   **L'eau :**
 
-*   dans un récipient fermé (bouteille avec bouchon, seau avec couvercle).
-*   pour puiser l'eau dans le seau il faut utiliser une tasse propre ou une louche réservée uniquement à cet usage, en veillant à ne pas tremper les mains dans l'eau potable.
+*   dans un récipient fermé (bouteille avec bouchon, seau avec couvercle).  
+*   pour puiser l'eau dans le seau il faut utiliser une tasse propre ou une louche réservée uniquement à cet usage, en veillant à ne pas tremper les mains dans l'eau potable.  
 *   **La solution de chlore (Javel) :**
 
 *   dans un récipient en plastique opaque
@@ -781,6 +787,7 @@ Comment préparez-vous vos repas ?
 **Question 4 :**
 
 Citez quelques moyens pour protéger l'eau potable et les aliments préparés.
+
 
 ![](i907-7.jpg)
 

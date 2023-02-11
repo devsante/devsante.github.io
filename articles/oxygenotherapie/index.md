@@ -13,8 +13,11 @@ Bien que faible en pourcentage, la forme dissoute n'en demeure pas moins importa
 
 Bien que beaucoup plus soluble que l'oxygène dans le sang, le CO<sub>2</sub> est principalement transporté sous forme combinée (95 %). Cependant, comme pour l'oxygène, la fraction dissoute est la forme obligatoire que doit emprunter le CO<sub>2</sub> lors des échanges avec le milieu extérieur. La majeure partie du CO<sub>2</sub>, combiné est plasmatique, par le biais du système tampon des bicarbonates (85 %) alors que le reste est combiné à l'hémoglobine.
 
+
 ![](i819-1.jpg)
+
 ![](i819-2.jpg)
+
 ![](i819-3.jpg)
 
 
@@ -36,6 +39,7 @@ C'est une forme onéreuse qui n'a pas encore sa place dans les pays en développ
 
 Son principe est simple et consiste à séparer l'oxygène de l'azote de l'air pour laisser sortir un mélange gazeux enrichi en oxygène. La concentration en oxygène est alors voisine de 95 %.  
 C'est un matériel peu cher, avec une source inépuisable mais qui a l'inconvénient d'être peu mobile, assez bruyant et tributaire d'un courant électrique aussi uniforme que possible. Initialement conçu dans les pays développés pour une oxygénothérapie de longue durée à domicile, ils peuvent suppléer à l'absence ou à l'insuffisance des circuits d'oxygène dans les structures hospitalières. Leur débit est souvent limité à 5 I/mn mais il est possible de brancher deux extracteurs en Y pour délivrer des débits supérieurs. Ils doivent être régulièrement entretenus (changement des filtres) avec contrôle de débit de sortie. Quelques aménagements peuvent être nécessaires pour éviter leur colonisation possible par des hôtes indésirables, insectes (blattes) ou rongeurs (souris)... Dans notre expérience vietnamienne il s'agit de la solution idéale, tant au domicile qu'à l'hôpital _(figures n° 3 et 4)._
+
 
 ![](i819-4.jpg)
 

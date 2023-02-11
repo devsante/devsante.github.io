@@ -130,10 +130,11 @@ Les TDR reposent pour la plupart sur des techniques immunologiques classiques, a
 
 Antigènes et/ou anticorps sont déposés sur des supports : particules de latex, membranes ou bandelettes de compositions diverses. La lecture repose sur des réactions rendues visibles à l’œil nu : agglutination de particules, apparition de bandes colorées.
 
-*   **Les tests les plus anciennement proposés sont les réactions d’agglutination sur particule de latex**. Ils sont encore d’une grande utilité pour la recherche des antigènes solubles dans le sang, l’urine ou le LCR dans les méningites à méningocoque.
+*   **Les tests les plus anciennement proposés sont les réactions d’agglutination sur particule de latex**. Ils sont encore d’une grande utilité pour la recherche des antigènes solubles dans le sang, l’urine ou le LCR dans les méningites à méningocoque.  
 *   **Les plus répandus actuellement, développés grâce aux progrès technologiques, sont les tests immunochromatographiques sur membranes**. Celles-ci contiennent soit des antigènes, soit des anticorps marqués, selon la recherche effectuée. Ce sont des tests très simples à réaliser mais nécessitant une grande rigueur.
 
 ​Pour la recherche d’antigènes parasitaires, bactériens ou viraux, on dépose l’échantillon à tester (sang, urine, selles, LCR, secrétions rhinopharyngées, pus, etc.) à l’extrémité d’une membrane de nitrocellulose fixée sur un support. Si l’antigène recherché est présent dans le prélèvement, il se fixe à l’anticorps spécifique marqué à l’or colloïdal présent sur la bandelette en formant un complexe antigène-anticorps. Celui-ci va migrer par capillarité et être arrêté par des anticorps de capture fixés sur la membrane. Un résultat positif se traduit par une ligne colorée. Un autre système antigène-anticorps est aussi fixé sur la membrane pour réaliser un contrôle interne témoin du bon fonctionnement de la réaction, qui se traduit par l’apparition d’une autre ligne colorée plus éloignée.
+
 
 ![](schema-test-rapides.jpg)
 
@@ -377,22 +378,22 @@ Ce parasite est responsable de diarrhées parfois intenses et le diagnostic est 
 
 **Pour être fiables, les TDR doivent être exécutés correctement par des personnes formées et régulièrement supervisées.**
 
-*   La principale source d’erreur provient de la quantité de prélèvement déposée sur la bandelette : dépôt trop faible : risque de résultat faussement négatif ; dépôt trop important (surtout si sang total) : difficulté de lecture, faux positifs. Le manipulateur doit apprendre à se servir de la pipette calibrée fournie avec le test.
-*   Même difficulté à partir d’un frottis, qui doit être de bonne qualité.
-*   L’interprétation des bandes peut être délicate, le manipulateur doit être entraîné.
-*   Les réserves de tests doivent être conservées dans de bonnes conditions.
-*   Vérifier les températures indiquées pour la conservation.
-*   Vérifier les dates limites d’utilisation.
+*   La principale source d’erreur provient de la quantité de prélèvement déposée sur la bandelette : dépôt trop faible : risque de résultat faussement négatif ; dépôt trop important (surtout si sang total) : difficulté de lecture, faux positifs. Le manipulateur doit apprendre à se servir de la pipette calibrée fournie avec le test.  
+*   Même difficulté à partir d’un frottis, qui doit être de bonne qualité.  
+*   L’interprétation des bandes peut être délicate, le manipulateur doit être entraîné.  
+*   Les réserves de tests doivent être conservées dans de bonnes conditions.  
+*   Vérifier les températures indiquées pour la conservation.  
+*   Vérifier les dates limites d’utilisation.  
 *   Laisser les modes d’emploi dans les boîtes pour éviter de les égarer.
 
 **Interprétation**
 
-*   Ces tests ont été développés pour les situations d’urgence.
-*   L’examen clinique initial est indispensable.
-*   Le résultat obtenu doit souvent être confirmé par une autre méthode et, de toutes façons, les examens de référence restent nécessaires dans les cas de faux positif ou de faux négatif.
-*   Le test peut rester positif après destruction des agents pathogènes.
-*   Un résultat positif n’exclut pas la présence simultanée d’autres pathogènes non ciblés par le test.
-*   Un résultat négatif n’exclut pas toujours la présence de l’agent pathogène recherché par le test, dans le cas d’un examen trop précoce par exemple.
+*   Ces tests ont été développés pour les situations d’urgence.  
+*   L’examen clinique initial est indispensable.  
+*   Le résultat obtenu doit souvent être confirmé par une autre méthode et, de toutes façons, les examens de référence restent nécessaires dans les cas de faux positif ou de faux négatif.  
+*   Le test peut rester positif après destruction des agents pathogènes.  
+*   Un résultat positif n’exclut pas la présence simultanée d’autres pathogènes non ciblés par le test.  
+*   Un résultat négatif n’exclut pas toujours la présence de l’agent pathogène recherché par le test, dans le cas d’un examen trop précoce par exemple.  
 *   Pour le paludisme : le TDR suffit et il est obligatoire pour traiter ; il est gratuit.
 
 *   Pour le VIH : les tests peuvent suffire pour mettre au  traitement les femmes enceintes, ils sont gratuits pour tous (FM).

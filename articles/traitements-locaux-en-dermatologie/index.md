@@ -50,7 +50,9 @@ Deux à trois antiseptiques différents suffisent largement à la pratique médi
 
 • Attention aux dilutions des antiseptiques concentrés ou en poudre : risque de brûlure de la peau et de toxicité (pour le jeune enfant) si la concentration est trop importante et risque d'inefficacité si la dilution est trop faible.
 
+
 ![](i605-1.jpg)
+
 
 
 ![](i605-2.jpg)
@@ -60,10 +62,10 @@ Deux à trois antiseptiques différents suffisent largement à la pratique médi
 
 ### **1. Règles générales**
 
-*   Ils ne remplacent pas les antibiotiques par voie générale, même en cas d' infection localisée.
-*   Ils sont souvent allergisants.
-*   Ils sont moins efficaces que la plupart des antiseptiques pour la désinfection des plaies.
-*   Ils sont plus chers que les antiseptiques.
+*   Ils ne remplacent pas les antibiotiques par voie générale, même en cas d' infection localisée.  
+*   Ils sont souvent allergisants.  
+*   Ils sont moins efficaces que la plupart des antiseptiques pour la désinfection des plaies.  
+*   Ils sont plus chers que les antiseptiques.  
 *   De ces constatations, on déduit que les indications des antibiotiques locaux sont très réduites. En pratique, on utilise les antibiotiques locaux pour la prévention de la gonococcie néonatale à la naissance (collyre ou pommade ophtalmique à la tétracycline) et le traitement de la conjonctivite bactérienne.
 
 ### **2. Précautions d'usage**
@@ -151,6 +153,7 @@ Ne pas entreprendre de traitement antiparasitaire sans s'être assuré que la pe
 
 • Avant de conclure qu'un produit parasitaire est inefficace, s'assurer que les soins d'hygiène daccompagnement (bain ou douche, changement de vêtements et de literie) ont été effectués pour toute la famille en même temps.
 
+
 ![](i605-3.jpg)
 
 
@@ -171,7 +174,9 @@ Rappels :
 
 La première cause de prurit (démangeaison) est la gale (et les poux). Seul le naheI ment antlpaiasitaire est définitivement efficace dans ce cas.
 
+
 ![](i605-4.jpg)
+
 
 
 ![](i605-5.jpg)

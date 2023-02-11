@@ -17,6 +17,7 @@ Trois échelles d'auto-évaluation peuvent être utilisées l'échelle visuelle 
 
 **Figure 1 : représentation des échelles d'auto-évaluation, unidimensionnelles**
 
+
 ![](image001-1.jpg)
 
 
@@ -51,6 +52,7 @@ Chez les enfants de plus de 4 à 6 ans, on peut également utiliser l'échelle d
 
 **Figure 2 : évaluation de la douleur chez l'enfant**
 
+
 ![](image004-4.jpg)
 
 
@@ -61,6 +63,7 @@ Le traitement doit être adapté à l'intensité de la douleur, au patient et à
 Une échelle d'hétéro-évaluation spécifique pour la douleur aiguë en médecine d'urgence, nommée ALGOPLUS, vient d'être évaluée. Elle repose sur 5 items comportementaux _(Tableau 1)_. Elle est fiable en urgence. Pour les enfants, on utilisera l'échelle EVEN­DOL, validée pour l'urgence chez les enfants de 0 à 7 ans _(Tableau 2)_. Score de 0 à 15, seuil de traitement : 4 / 15.
 
 **Tableau 1 : échelle ALGOPLUS permettant l'évaluation de la douleur des patients non communicants**
+
 
 ![](image006-2.jpg)
 
@@ -238,8 +241,8 @@ Par ailleurs, le traitement doit être **précoce**. Dans ce sens, la mise en pl
 
 Les moyens physiques sont représentés par :
 
-*   **L'immobilisation** en cas de traumatisme (attelles, colliers, traction...). Toute fracture doit être immobilisée : cela calme la douleur et permet de limiter les risques de compli­cation (vasculaire et nerveuse).
-*   **Le froid**, pour son effet anti-inflammatoire local : douleurs traumatiques, viscérales, brûlures - toute brûlure doit être "refroidie" immédiatement, avec de l'eau courante, cela a un effet antalgique et permet de limi­ter l'extension des lésions cutanées - dou­leurs musculaires, dentaires, céphalées, lombalgies chroniques, douleurs après injec­tions intramusculaires.
+*   **L'immobilisation** en cas de traumatisme (attelles, colliers, traction...). Toute fracture doit être immobilisée : cela calme la douleur et permet de limiter les risques de compli­cation (vasculaire et nerveuse).  
+*   **Le froid**, pour son effet anti-inflammatoire local : douleurs traumatiques, viscérales, brûlures - toute brûlure doit être "refroidie" immédiatement, avec de l'eau courante, cela a un effet antalgique et permet de limi­ter l'extension des lésions cutanées - dou­leurs musculaires, dentaires, céphalées, lombalgies chroniques, douleurs après injec­tions intramusculaires.  
 *   **Le chaud** : douleurs spastiques abdomi­nales, contractures musculaires, destruction des venins thermolabiles.
 
 #### b) Approche psychologique
@@ -596,18 +599,18 @@ Voici quelques exemples d'applications de l'ALR
 
 **_Membres inférieurs_**
 
-*   Bloc du nerf fémoral : fracture de la diaphy­se fémorale, plaies du genou.
+*   Bloc du nerf fémoral : fracture de la diaphy­se fémorale, plaies du genou.  
 *   Blocs de la cheville et du pied : plaies (exploration, suture), extraction de corps étranger.
 
 **_Membres supérieurs_**
 
-*   Blocs tronculaires des nerfs médian, ulnaire et radial pratiqués au coude ou au poignet.
+*   Blocs tronculaires des nerfs médian, ulnaire et radial pratiqués au coude ou au poignet.  
 *   Bloc de la gaine des fléchisseurs pour des gestes d'urgence portant sur les doigts (plaies, luxations...).
 
 **_Face et cuir chevelu (en cas de plaies multiples)_**
 
-*   Bloc supra-orbitaire, supra-trochléaire : front et paupière supérieure.
-*   Bloc infra-orbitaire : joue et lèvre supérieure.
+*   Bloc supra-orbitaire, supra-trochléaire : front et paupière supérieure.  
+*   Bloc infra-orbitaire : joue et lèvre supérieure.  
 *   Bloc mentonnier.
 
 Pour une anesthésie purement locale : crème EMLA _(Eutetic Mixture of Local Anaesthetics)_ permettant la réalisation d'effractions cuta­nées (par exemple : ponctions veineuse, arté­rielle ou lombaire) non ou peu douloureuses (mais coût élevé).

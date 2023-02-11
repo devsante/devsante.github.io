@@ -27,6 +27,7 @@ Le mode de drainage et le type de drain choisi dépendent étroitement de la cav
 
 On oppose le drainage passif et le drainage actif.
 
+
 ![](i533-1.jpg)
 
 
@@ -44,10 +45,12 @@ Lorsque l'on utilise ce type de drainage aspiratif, il faut pouvoir contrôler e
 
 Les drains les plus utilisés sont les drains tubulaires, les lames, les drains aspiratifs et les mèches. D'autres systèmes sont parfois utilisés : faisceau de crins, système d'irrigation et aspiration ou sac de Mikulicz.
 
+
 ![](i533-2.jpg)
   
 
 C'est un simple tube de calibre variant de 2 à 10 mm. Il était souvent en caoutchouc mais ce matériau est irritant pour les tissus au contact et provoque une réaction inflammatoire et adhérentielle pas toujours souhaitée. Mais c'est un matériau que l'on trouve partout, peu onéreux, et qui peut rendre service. Actuellement le caoutchouc est remplacé par des plastiques silicones plus souples, inertes, mieux tolérés, et de plus transparents. Il y a toujours intérêt à choisir un tube de bon calibre qui n'aura pas tendance à se boucher (n° 30 ch. par exemple, pour un drain abdominal, calibre 6 à 10 mm).
+
 
 ![](i533-3.jpg)
 
@@ -65,6 +68,7 @@ Le plus connu est le drain de Jost-Redon, petit drain en plastique siliconé, mu
 #### Les drains aspiratifs avec prise d'air
 
 De très nombreux modèles sont décrits. Ils comportent en général une tubulure d'aspiration centrale et une tubulure externe ou latérale avec prise d'air pour éviter les phénomènes de succion des viscères abdominaux notamment. Certains ont en plus une tubulure d'irrigation et permettent d'aspirer et de laver en continu (en cas de péritonite ou de fistule par exemple) _(fig. 3)._
+
 
 ![](i533-4.jpg)
 
@@ -95,6 +99,7 @@ Les drains doivent être parfaitement fixés à la paroi de façon à ne pas pou
 
 mobilisés intempestivement (solide fil de nylon fixé à la peau). Ce drain ne pourra donc pas être arraché par erreur mais il faut aussi éviter qu'il se déplace vers l'intérieur de la cavité abdominale. Pour cela, il est habituel de l'entraver avec une épingle à nourrice placée en travers _(fig. 4)._
 
+
 ![](i533-5.jpg)
 
 
@@ -113,6 +118,7 @@ Chaque chirurgien et chaque école ayant ses habitudes il n'est pas possible d'e
 #### Abcès des parties molles et myosites
 
 Après incision et évacuation de l'abcès, une lame ondulée est placée par l'incision et ressort en zone déclive. L'incision elle-même n'est pas refermée. Le drain est retiré après trois à cinq jours _(fig. 5)._
+
 
 ![](i533-6.jpg)
 

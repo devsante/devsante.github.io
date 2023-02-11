@@ -18,6 +18,7 @@ Devant un oeil rouge, l'infirmier non ophtalmologiste:
 
 **Rappel anatomique**
 
+
 ![](i98-1.jpg)
 
 
@@ -25,11 +26,11 @@ Devant un oeil rouge, l'infirmier non ophtalmologiste:
 
 un centre de soins devrait comprendre:
 
-*   Echelle d'acuité représentant des dessins simples.
-*   Loupe.
-*   Lampe électrique.
-*   Pique à corps étranger.
-*   Paquets de Fluo-contact (Faure): petits bâtonnets de papier imprégnés de Fluorescéine. Placés dans le cul-de-sac conjonctival inférieur, ils colorent en vert les ulcérations de comée.
+*   Echelle d'acuité représentant des dessins simples.  
+*   Loupe.  
+*   Lampe électrique.  
+*   Pique à corps étranger.  
+*   Paquets de Fluo-contact (Faure): petits bâtonnets de papier imprégnés de Fluorescéine. Placés dans le cul-de-sac conjonctival inférieur, ils colorent en vert les ulcérations de comée.  
 *   Collyres:
 
 - anesthésiques: Novésine Chibret  
@@ -47,6 +48,7 @@ Gentalline...
 
 **Les gestes à connaître**
 
+
 ![](i98-2.jpg)
 
 
@@ -61,6 +63,7 @@ faire tomber la goutte. L'oeil ne contient qu'une goutte, inutile d'en mettre pl
 *   **Retourner une paupière supérieure:** faire regarder le malade en bas. Pincer les cils très fort entre deux doigts de la main droite, retourner la paupière en se servant de l'index gauche comme pivot _(cf. photos n° 2)._
 
 *   **Palper un globe oculaire:** on place les deux index l'un près de l'autre sur la paupière supérieure du malade qui regarde en bas. On appuie alternativement avec l'un puis l'autre doigt. Il faut s'entraîner sur des yeux normaux pour connaître la consistance normale qui est ferme mais souple _(cf. photo n°_ 3). Un oeil peut être trop dur (glaucome) ou trop mou (atrophie du globe, plaie perforante).
+
 
 ![](i98-3.jpg)
 
@@ -83,6 +86,7 @@ Cas où l'infirmier peut être immédiatement efficace
 
 **d.** Plaie superficielle de la cornée (par plante, branche d'arbre, griffe d'animal,  
 ongle d'enfant ... ): l'oeil est larmoyant et douloureux. La coloration à la Fluo dessine la plaie sur la cornée.
+
 
 ![](i98-4.jpg)
   
@@ -143,6 +147,7 @@ L'oeil est plus douloureux, plus larmoyant, plus sensible à la lumière que dan
 
 Parmi les plus graves, citons **l'herpès.** La Fluorescéine dessine sur la cornée une ulcération ramifiée.
 
+
 ![](i98-5.jpg)
 
 
@@ -162,12 +167,14 @@ Plaie perforante du globe, ou corps étranger intra-oculaire.
 
 *   Mettre une pommade antibiotique, un pansement et essayer de transférer d'urgence.
 
+
 ![](i98-6.jpg)
 
 
 **B. Atteintes profondes de la** **cornée**
 
 *   On voit une tache blanche sur l'oeil.
+
 
 ![](i98-7.jpg)
 

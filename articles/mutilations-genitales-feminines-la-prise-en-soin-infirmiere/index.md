@@ -23,10 +23,10 @@ Le **but de la prise en soin** visera à pallier les conséquences et à préven
 
 Plus concrètement, la prise en soin infirmière consistera à :
 
-1.  collecter des données pertinentes englobant non seulement l’aspect physique de la personne, mais ses aspects socio culturels et psychologiques.
-2.  poser un diagnostic infirmier pertinent selon la situation.
-3.  mettre en pratique des interventions infirmières.
-4.  évaluer ces interventions par la suite.
+1.  collecter des données pertinentes englobant non seulement l’aspect physique de la personne, mais ses aspects socio culturels et psychologiques.  
+2.  poser un diagnostic infirmier pertinent selon la situation.  
+3.  mettre en pratique des interventions infirmières.  
+4.  évaluer ces interventions par la suite.  
 5.  ### 1. Collecte de données
 
 <table>
@@ -190,14 +190,14 @@ Altération des interactions sociales
 
 **a. L'hémorragie**
 
-*   Allonger la victime.
-*   Réaliser l’hémostase par compression des vaisseaux saignant, si nécessaire.
-*   Ouvrir une voie veineuse pour prévenir un éventuel choc hypovolémique.
-*   Prendre et surveiller les paramètres vitaux : TA, fréquence cardiaque, température.
-*   Prélever du sang pour numération de formule sanguine (NFS), taux d’hémoglobine, groupage sanguin et facteur rhésus (GSRH).
-*   Arrêter le traitement anticoagulant s’il est en cours.
-*   Administrer des bains du siège à l’eau tiède salée.
-*   Administrer le traitement médicamenteux prescrit et surveiller les effets non désirables.
+*   Allonger la victime.  
+*   Réaliser l’hémostase par compression des vaisseaux saignant, si nécessaire.  
+*   Ouvrir une voie veineuse pour prévenir un éventuel choc hypovolémique.  
+*   Prendre et surveiller les paramètres vitaux : TA, fréquence cardiaque, température.  
+*   Prélever du sang pour numération de formule sanguine (NFS), taux d’hémoglobine, groupage sanguin et facteur rhésus (GSRH).  
+*   Arrêter le traitement anticoagulant s’il est en cours.  
+*   Administrer des bains du siège à l’eau tiède salée.  
+*   Administrer le traitement médicamenteux prescrit et surveiller les effets non désirables.  
 *   Expliquer leurs effets secondaires des médicaments et les interventions de soin à la personne soignée et à sa famille
 
 **b. La douleur et l'inflammation**
@@ -209,11 +209,11 @@ Altération des interactions sociales
 
 _Dans les deux cas, éviter les contacts trop prolongés et directs qui peuvent occasionner des brûlures._
 
-*   Recommander la position antalgique: celle où elle sent le moins mal.
-*   Éviter les mobilisations brutales et inutiles qui peuvent exacerber la douleur.
-*   Administrer le traitement médicamenteux tels que prescrit, et surveiller les effets non désirés des médicaments.
-*   Expliquer à la personne soignée et à sa famille les effets secondaires des médicaments et les interventions de soin.
-*   Favoriser la relaxation: éviter le bruit et les lumières trop vives.
+*   Recommander la position antalgique: celle où elle sent le moins mal.  
+*   Éviter les mobilisations brutales et inutiles qui peuvent exacerber la douleur.  
+*   Administrer le traitement médicamenteux tels que prescrit, et surveiller les effets non désirés des médicaments.  
+*   Expliquer à la personne soignée et à sa famille les effets secondaires des médicaments et les interventions de soin.  
+*   Favoriser la relaxation: éviter le bruit et les lumières trop vives.  
 *   Conseiller d’éviter de longs trajets en voiture, surtout en saison chaude, ainsi que la position assise prolongée sans mobilisation, avant guérison complète.
 
 #### Dans les conséquences à moyen terme
@@ -223,9 +223,9 @@ _Dans les deux cas, éviter les contacts trop prolongés et directs qui peuvent 
 *   Éviter les phénomènes de macération  par une hygiène stricte :
     *   bains de sièges à l’eau tiède salée ;
     *   séchage soigné de la zone blessée et des plis ;
-    *   port de sous-vêtements en coton non serrés.
-*   Administrer le traitement tel que prescrit, surveiller les effets non désirables des médicaments et expliquer les effets secondaires à  la personne malade et à sa famille.
-*   Risque d’infection VIH/sida : réaliser le test de départ, surveillance épidémiologique, et traitement d’urgence.
+    *   port de sous-vêtements en coton non serrés.  
+*   Administrer le traitement tel que prescrit, surveiller les effets non désirables des médicaments et expliquer les effets secondaires à  la personne malade et à sa famille.  
+*   Risque d’infection VIH/sida : réaliser le test de départ, surveillance épidémiologique, et traitement d’urgence.  
 *   Risque de tétanos : administrer le sérum antitétanique, et procéder plus tard à la vaccination si la femme n'est pas complètement ou pas du tout immunisée.
 
 #### Dans les conséquences à plus ou moins long terme
@@ -234,9 +234,9 @@ _Dans les deux cas, éviter les contacts trop prolongés et directs qui peuvent 
 
 L’infirmière s’engagera dans une **relation d’aide** à travers :
 
-*   Une écoute attentive pour déterminer l’état psychique et émotionnel de la femme excisée et la mettra en confiance en vue de lui permettre d’exprimer librement son ressenti social, psychologique et culturel.
-*   La compassion par laquelle l’infirmière montrera son intérêt et son souci de partager la souffrance de la femme, et la comprendra.
-*   Le soutien psychologique en encourageant la femme à transcender sa situation, et en favorisant la socialisation, l’aidera à rester positive. Elle l’aidera à retrouver le plaisir des petites choses, à apprendre à pardonner, à se reposer régulièrement.
+*   Une écoute attentive pour déterminer l’état psychique et émotionnel de la femme excisée et la mettra en confiance en vue de lui permettre d’exprimer librement son ressenti social, psychologique et culturel.  
+*   La compassion par laquelle l’infirmière montrera son intérêt et son souci de partager la souffrance de la femme, et la comprendra.  
+*   Le soutien psychologique en encourageant la femme à transcender sa situation, et en favorisant la socialisation, l’aidera à rester positive. Elle l’aidera à retrouver le plaisir des petites choses, à apprendre à pardonner, à se reposer régulièrement.  
 *   **Conseils contributifs à la réduction des manifestations psychologiques de l'excision**
 
 <table>
@@ -370,11 +370,11 @@ Aide à éliminer les toxines
 
 #### Autres interventions possibles
 
-*   Troubles mictionnels : référer à un urologue.
-*   Troubles psychiques : référer à un psychologue.
-*   Référer aux groupes de soutien s’il en existe.
-*   Éduquer les familles et les proches sur les risques et les complications liés à la pratique de l’excision.
-*   Faire valoir le rôle d’avocat et d’agent de relations de l’infirmière : en dénonçant les situations critiques et de non consentement (cf: conventions internationales des droits de l’homme, de la femme, de l’enfant (CIDE) sur l’élimination de toute forme de discriminations).
+*   Troubles mictionnels : référer à un urologue.  
+*   Troubles psychiques : référer à un psychologue.  
+*   Référer aux groupes de soutien s’il en existe.  
+*   Éduquer les familles et les proches sur les risques et les complications liés à la pratique de l’excision.  
+*   Faire valoir le rôle d’avocat et d’agent de relations de l’infirmière : en dénonçant les situations critiques et de non consentement (cf: conventions internationales des droits de l’homme, de la femme, de l’enfant (CIDE) sur l’élimination de toute forme de discriminations).  
 *   Accompagner la famille en cas de décès de la victime.
 
 ## Conclusion

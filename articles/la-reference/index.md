@@ -92,6 +92,7 @@ Par exemple, s'il s'avère qu'une femme dont le bassin est étroit doit accouche
 
 En somme, le bon fonctionnement du système de référence est une condition pour que les malades reçoivent le meilleur niveau de soins possible. Les problèmes à résoudre sont multiples. Mais pour qu'il soit efficace, une bonne qualité de soins est nécessaire à chaque niveau, et la prévention a là aussi un grand rôle à jouer.
 
+
 ![](i648-1.jpg)
 
 

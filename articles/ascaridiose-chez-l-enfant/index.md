@@ -8,13 +8,16 @@ date: "2013-01-27"
 
 L’ascaris (_Ascaris lumbricoïdes_) est un nématode cosmopolite, mais très fréquent en zone tropicale. Il mesure de 10 à 20 cm de long et est situé dans l’intestin grêle.
 
+
 ![](diapositive-dans-fig-4-ascaris-adulte-2.jpg)
+
 ![](page-6-fig-6-ascaris-ds-intestin.jpg)
 
 
 _                       ** Ascaris adulte**_                **_Coupe d'ascaris dans un intestin_**
 
 La contamination s’effectue par ingestion d’aliments souillés de matières fécales contenant les oeufs. Après ingestion, les larves traversent la paroi du tube digestif, gagnent le foie puis les veines sus-hépatiques, le cœur, les poumons, remontent l’arbre trachéo-bronchique et retombent dans le tube digestif où ils deviennent adultes et pondent les œufs qui sont éliminés avec les selles. Ce circuit s’effectue en deux mois.
+
 
 ![](page-6-fig-5-cycle-des-en-afrique.jpg)
 

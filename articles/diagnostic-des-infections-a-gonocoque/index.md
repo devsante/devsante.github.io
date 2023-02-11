@@ -19,7 +19,7 @@ Des formes asymptomatiques sont maintenant signalées aussi chez l'homme.
 
 ### 2. Autres localisations
 
-*   L'infection gonococcique de la femme enceinte peut provoquer une infection de l'enfant lors de l'accouchement. Celle-ci peut se traduire chez le nouveau-né par une infection généralisée, mais la manifestation la plus habituelle est une conjonctivite purulente. L'ophtalmie néonatale est prévenue par l'instillation oculaire systématique aux nouveau-nés d'une solution de nitrate d'argent à 1 pour cent.
+*   L'infection gonococcique de la femme enceinte peut provoquer une infection de l'enfant lors de l'accouchement. Celle-ci peut se traduire chez le nouveau-né par une infection généralisée, mais la manifestation la plus habituelle est une conjonctivite purulente. L'ophtalmie néonatale est prévenue par l'instillation oculaire systématique aux nouveau-nés d'une solution de nitrate d'argent à 1 pour cent.  
 *   On peut trouver chez l'adulte des formes anorectales et pharyngées.
 
 ### 3. Complications
@@ -67,13 +67,14 @@ Effectuer une coloration de Gram _(voir Développement et Santé, n° 127, 1997,
 Examiner la lame pour rechercher la présence :
 
 *   de pus qui se présente sous forme d'un amas de leucocytes altérés, à noyau rose vif et cytoplasme altéré,
-*   de gonocoques qui sont des cocci à gram négatif (rose clair), en forme de grains de café, disposés par paires pouvant être (voir schéma).
+*   de gonocoques qui sont des cocci à gram négatif (rose clair), en forme de grains de café, disposés par paires pouvant être (voir schéma).  
     *   intracellulaires : à l'intérieur du cytoplasme des leucocytes. (1)
     *   extracellulaires : amas entre les leucocytes, provenant de l'éclatement de ces derniers. (2).
 
 Cet examen permet de faire le diagnostic des urétrites aiguës de l'homme. Un étalement de pus montrant après coloration des diplocoques à gram négatif en majorité intraleucocytaires est très caractéristique et constitue un très fort élément de présomption. La confirmation par culture est cependant recommandée.
 
 Dans toutes les autres formes de gonococcie, en particulier l'urétrite chronique de l'homme et l'infection génitale de la femme, les germes sont rares et l'examen microscopique est peu révélateur. La culture du gonocoque est alors le seul moyen de diagnostic bactériologique.
+
 
 ![](i793-1.jpg)
 
@@ -92,12 +93,14 @@ Non réalisé autrefois, il doit maintenant être effectué quand cela est possi
 
 Tous les milieux de culture et les réactifs pour l'identification et l'antibiogramme sont commercialisés par différents laboratoires, accompagnés de fiches techniques.
 
+
 ![](i793-2.jpg)
 
 
 ## IV. Traitement
 
 Il devra tenir compte des résistances apparues dans de nombreuses régions et être établi en fonction des connaissances des résistances locales, des données éventuelles de l'antibiogramme, et de la présence possible d'autres pathologies sexuellement transmissibles associées, Chlamydiae ou syphilis par exemple.
+
 
 ![](i793-3.jpg)
 

@@ -11,6 +11,7 @@ L’oxyure ou Enterobius vermicularis, est un petit nématode blanc de 1 cm de l
 
 _**Cycle de l'oxyure**_
 
+
 ![](page-5-fig-2-0.jpg)
 
 
@@ -31,6 +32,7 @@ Le diagnostic est parfois évoqué par la mère ayant remarqué la présence de 
 Les œufs caractéristiques (50 x 30 µ, ovoïdes, asymétriques, incolores, embryonnés) sont parfois retrouvés à l’examen parasitologique des selles, mais beaucoup plus fréquemment sur le scotch-test anal.
 
 _**Oeufs d'oxyure (scotch test)**_
+
 
 ![](page-6-fig-3-oeufs-d-oxyure-scotch-test.jpg)
 

@@ -18,14 +18,16 @@ Pour chaque artère, il faut connaître :
 
 *   la position du blessé.
 
+
 ![](12018-1.jpg)
+
 ![](12018-3.jpg)
 
 
 ## Surveillance
 
-*   La compression sera maintenue jusqu'à l'arrivée en milieu chirurgical.
-*   Si cela ne suffit pas, comprimez davanta­ge avec les deux pouces ou les deux poings.
+*   La compression sera maintenue jusqu'à l'arrivée en milieu chirurgical.  
+*   Si cela ne suffit pas, comprimez davanta­ge avec les deux pouces ou les deux poings.  
 *   Ne mettez un garrot qu'après échec de la compression.
 
 _Développement et santé, n°184, 2006_

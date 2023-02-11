@@ -71,6 +71,7 @@ La cornée, la chambre antérieure, l'iris, le trabéculum, la sclère qui les s
 
 existe 3 paires de muscles extra-oculaires, soit 6 muscles, fixés sur l'oeil et responsables de ses mouvements: 2 muscles horizontaux, le droit externe et droit interne, 2 muscles verticaux, le droit supérieur et le droit inférieur, et 2 muscles obliques, le grand oblique (ou oblique supérieur) et le petit oblique (ou oblique inférieur). Tous les six s'insèrent sur l'orbite, d'une part, et sur la sclère, d'autre part. Chaque muscle oculo-moteur a un rôle spécifique et indépendant dans les mouvements de l'oeil.
 
+
 ![](i861-1.jpg)
 
 
@@ -142,27 +143,28 @@ Chez l'adulte, l'association des rayonnements ultraviolets à la malnutrition es
 *   _Selon l'âge:_
     *   nourrisson,
     *   adulte jeune (familiale),
-    *   sénile (la plus fréquente).
+    *   sénile (la plus fréquente).  
 *   _Selon l'étiologie:_
     *   congénitale, héréditaire ou après une infection de la mère (syphilis, rubéole pendant la grossesse) ;
     *   traumatique
-    *   secondaire à une uvéite, une endophtalmie ou à une corticothérapie.
+    *   secondaire à une uvéite, une endophtalmie ou à une corticothérapie.  
 *   _Selon l'anatomie :_
     *   nucléaire, durcissement du noyau lié à l'âge ;
     *   corticale, opacités dans le cortex ;
     *   cortico-nucléaire, association des deux ;
     *   zonulaire, à point de départ périphérique ;
-    *   sous-capsulaire, postérieure, très gênante et d'évolution rapide.
+    *   sous-capsulaire, postérieure, très gênante et d'évolution rapide.  
 *   _Selon la densité :_
     *   débutante, peu gênante _(figure 2) ;_
     *   immature, début de gêne ;
     *   mûre, aspect blanchâtre, acuité visuelle très réduite ;
     *   intumescente, cristallin laiteux et gonflé ;
     *   hypermûre, cristallin complètement blanc, contracté _(figure 3) ;_
-    *   morganienne, le noyau flotte dans le cortex liquide.
+    *   morganienne, le noyau flotte dans le cortex liquide.  
 *   _Selon la position :_
     *   luxée, le cristallin a perdu ses attaches
     *   subluxée partiellement déplacée.
+
 
 ![](i861-2.jpg)
 
@@ -176,8 +178,8 @@ Nous nous placerons dans la situation de dépistage de la cataracte par un perso
 *   Registre ou fiches individuelles conservés par l'équipe soignante, pour noter le lieu et la date de l'examen, nom, prénom, sexe, âge, et profession du patient ;
 *   Carnets de santé, pouvant prendre la forme rudimentaire de 2 feuilles pliées, découpées et agrafées, à distribuer à chaque patient. Dans la mesure du possible, une contribution financière modeste permet de responsabiliser le patient, qui devra rapporter le carnet à chaque consultation. Les renseignements sur le carnet devront être aussi précis et détaillés que sur le registre ou les fiches individuelles ;
 *   Lampe de poche ou (mieux) ophtalmoscope si le maniement en est connu, filtre bleu cobalt ;
-*   Système grossissant : lunettes loupes au mieux, sinon lunettes à verres convexes (+ 4 à + 6).
-*   Tonomètre: Schiotz (à indentation), Perkins (à aplanation, plus fragile et nécessitant un long apprentissage) ou Tonopen (à affichage digital, relativement onéreux).
+*   Système grossissant : lunettes loupes au mieux, sinon lunettes à verres convexes (+ 4 à + 6).  
+*   Tonomètre: Schiotz (à indentation), Perkins (à aplanation, plus fragile et nécessitant un long apprentissage) ou Tonopen (à affichage digital, relativement onéreux).  
 *   Collyres : mydriatiques (Tropicamide Mydriaticum® ; cyclopentolate : Skiacol® néosynéphrine 10 % ... ), fluorescéine, anesthésiques de contact (oxybuprocàine: Novésine® ; tétracaïne ... ) ;
 *   Echelles d'acuité visuelle de loin: échelle de Snellen, anneaux de Landolt, dessins de près: Rossano (dessins, échelles) ou en texte (si possible en langue vernaculaire);
 *   Solution hydro-alcoolique pour la désinfection des mains;
@@ -285,9 +287,9 @@ Une variante a été récemment proposée, l'injection d'alpha-chymotrypsine int
 
 #### Les inconvénients :
 
-*   Pratiquée le plus souvent par des opérateurs en dehors du circuit médical ou infirmier (" tradipraticiens ", relevant plutôt du statut de sorciers), le contrôle de la qualité et de l'éthique est impossible, les prix demandés sont souvent largement supérieurs à ceux de la chirurgie conventionnelle.
-*   La stérilisation du matériel est le plus souvent nulle.
-*   35 % de complications immédiates (hémorragies, ruptures capsulaires) ou dans les suites proches (hypertonie aiguë, uvéite, décollement de rétine, infections) pouvant entraîner la perte de l'oeil.
+*   Pratiquée le plus souvent par des opérateurs en dehors du circuit médical ou infirmier (" tradipraticiens ", relevant plutôt du statut de sorciers), le contrôle de la qualité et de l'éthique est impossible, les prix demandés sont souvent largement supérieurs à ceux de la chirurgie conventionnelle.  
+*   La stérilisation du matériel est le plus souvent nulle.  
+*   35 % de complications immédiates (hémorragies, ruptures capsulaires) ou dans les suites proches (hypertonie aiguë, uvéite, décollement de rétine, infections) pouvant entraîner la perte de l'oeil.  
 *   Glaucome secondaire plusieurs années après.
 
 #### Bilan
@@ -328,6 +330,7 @@ La récupération visuelle est acquise quelques heures après l'intervention.
 
 Le matériel est onéreux, fragile (le générateur à ultra-sons contenant beaucoup d'électronique, les pannes sont très fréquentes), les pièces à mains piezzo-électriques (coût environ de 3 000 $) sont prévues pour 150 à 200 procédures et doivent être autoclavées, le microscope coaxial doit posséder en plus des réglages électriques (déplacements , mise au point) car les 2 mains sont occupées lors de la phase d'ultrasons.
 
+
 ![](i861-3.jpg)
 
 
@@ -337,10 +340,10 @@ L'ablation du cristallin doit être compensée, pour obtenir une image nette sur
 
 Celui-ci peut prendre plusieurs formes:
 
-*   Les lunettes : elles sont épaisses (verres de + 12 dioptries en moyenne) et ne permettait qu'un champ de vision limité, avec une zone latérale d'environ 20 ° (en temporal) non perçue (angle mort). La fabrication des verres d'aphaque s'est raréfiée dans les pays où l'implantation est systématique, il faut donc trouver pour les pays du Sud des circuits locaux de fabrication des verres.
-*   Les lentilles de contact : lentilles à port permanent ou journalier, rigides ou souples, à renouvellement mensuel ou annuel. Elles sont indiquées dans le cas d'une intervention unilatérale, les lunettes entraînant une aniséiconie (différence de taille d'image entre les 2 yeux) invalidante.
-    *   Les lentilles rigides peuvent parfois compenser l'astigmatisme induit par l'intervention.
-    *   L'hygiène des mains et des yeux est indispensable chez les patients équipés de lentilles, et leur port dans une atmosphère poussiéreuse est totalement contre-indiquée.
+*   Les lunettes : elles sont épaisses (verres de + 12 dioptries en moyenne) et ne permettait qu'un champ de vision limité, avec une zone latérale d'environ 20 ° (en temporal) non perçue (angle mort). La fabrication des verres d'aphaque s'est raréfiée dans les pays où l'implantation est systématique, il faut donc trouver pour les pays du Sud des circuits locaux de fabrication des verres.  
+*   Les lentilles de contact : lentilles à port permanent ou journalier, rigides ou souples, à renouvellement mensuel ou annuel. Elles sont indiquées dans le cas d'une intervention unilatérale, les lunettes entraînant une aniséiconie (différence de taille d'image entre les 2 yeux) invalidante.  
+    *   Les lentilles rigides peuvent parfois compenser l'astigmatisme induit par l'intervention.  
+    *   L'hygiène des mains et des yeux est indispensable chez les patients équipés de lentilles, et leur port dans une atmosphère poussiéreuse est totalement contre-indiquée.  
 *   Les implants cristalliniens : systèmes de petite taille : optiques rondes ou ovales entre 5 et 7 mm de diamètre, haptiques (ou pattes de fixation) donnant un diamètre hors tout de 10 à 14 mm. Leur puissance standard varie selon leur type de 19 (ICA) à 21 (ICP) dioptries. La sécurité de leur pose est améliorée par le remplissage du segment antérieur avec un produit visco-élastique, qui protège l'endothélium cornéen. La méthylcellulose est une alternative acceptable aux produits plus élaborés car elle n'impose pas la non-rupture de la chaîne du froid.  
 
     Les implants de chambre antérieure (ICA) se placent entre l'iris et la cornée, fixés par l'extention des pattes dans l'angle irido-cornéen. Ils doivent être placés rigoureusement afin d'éviter les frottements sur l'endothélium cornéen. Ils ne sont plus posés en première intention qu'après les extractions intra-capsulaires, du fait de la fréquence de perte de vision par opacification de la cornée (kératopathie bulleuse), dont le seul traitement est la kératoplastie transfixiante (greffe de cornée), inenvisageable sans une infrastructure et un suivi adapté.  
@@ -363,9 +366,9 @@ Des lunettes, si elles sont disponibles, lui permettront des travaux fins (trava
 
 ### 4. Quelques contre-indications
 
-*   Vision nulle ou perception lumineuse douteuse, à fortiori en cas d'hypertonie oculaire pas de bénéfice à l'intervention.
-*   - Baisse modérée d'acuité visuelle, acuité restante supérieure à 1/20, si l'on n'envisage pas d'implantation ni de lunettes.
-*   Cataracte unilatérale : chez le nourrisson, surtout si elle est dépistée après 5 à 6 mois, l'amblyopie est déjà profonde (le cerveau n'a pas été stimulé) et ne récupérera pas. Inutile de prendre le risque de l'anesthésie générale. Chez l'adulte, seule une implantation (ou une lentille de contact) sera envisagée, sauf en cas de cataracte hypermûre ou intumescente (risque d'uvéite phako-anaphylactique).
+*   Vision nulle ou perception lumineuse douteuse, à fortiori en cas d'hypertonie oculaire pas de bénéfice à l'intervention.  
+*   - Baisse modérée d'acuité visuelle, acuité restante supérieure à 1/20, si l'on n'envisage pas d'implantation ni de lunettes.  
+*   Cataracte unilatérale : chez le nourrisson, surtout si elle est dépistée après 5 à 6 mois, l'amblyopie est déjà profonde (le cerveau n'a pas été stimulé) et ne récupérera pas. Inutile de prendre le risque de l'anesthésie générale. Chez l'adulte, seule une implantation (ou une lentille de contact) sera envisagée, sauf en cas de cataracte hypermûre ou intumescente (risque d'uvéite phako-anaphylactique).  
 *   Infection locale ou générale en cours (contre-indication temporaire).
 
 ### 5. L'anesthésie

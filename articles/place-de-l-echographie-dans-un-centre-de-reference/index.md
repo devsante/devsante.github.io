@@ -31,7 +31,7 @@ Nous notons à notre examen un utérus non gravide de petite taille. C'est à l'
 
 Une échographie morphologique est importante pour :
 
-*   Rechercher des malformations fcetales qui pourraient être incompatibles avec la poursuite de la grossesse.
+*   Rechercher des malformations fcetales qui pourraient être incompatibles avec la poursuite de la grossesse.  
 *   Indiquer la zone d'insertion placentaire (ex. placenta bas inséré, qui comporte un risque hémorragique).
 
 ### 3. Au troisième trimestre (30-32 SA) :  
@@ -39,10 +39,10 @@ Une échographie morphologique est importante pour :
 
 Elle permet de diagnostiquer :
 
-*   Un retard de croissance intra-utérin.
-*   Une macrosomie.
-*   Des anomalies de la quantité du liquide amniotique (hydramnios, oligo-amnios ou anamnios).
-*   Une anomalie d'insertion placentaire (placenta bas inséré).
+*   Un retard de croissance intra-utérin.  
+*   Une macrosomie.  
+*   Des anomalies de la quantité du liquide amniotique (hydramnios, oligo-amnios ou anamnios).  
+*   Une anomalie d'insertion placentaire (placenta bas inséré).  
 *   Des anomalies que l'on n'a pas pu diagnostiquer au 2ème trimestre de la grossesse.
 
 ### Conclusion

@@ -45,8 +45,8 @@ La glycémie est le résultat de l'équilibre entre la production et la consomma
 
 C'est essentiellement **l'insuline,** produite par les cellules bêta des îlots de Langherans du pancréas, qui règle le métabolisme du glucose.
 
-*   L'insuline réduit la production de glucose par le foie en freinant la transformation du glycogène (forme de stockage du glucose) en glucose et en favorisant, au contraire, le stockage du glucose en glycogène. Le glucose stocké dans le foie est une réserve pour les urgences, car il est immédiatement libéré et rapidement disponible en cas d'hypoglycémie.
-*   L'insuline stimule le transport du glucose dans le muscle. Le muscle est le deuxième lieu de stockage du glucose sous forme de glycogène. Cette réserve est plus lentement mobilisable que celle du foie. Elle sera sollicitée dans des demandes importantes, lors d'activités physiques très prolongées, par exemple.
+*   L'insuline réduit la production de glucose par le foie en freinant la transformation du glycogène (forme de stockage du glucose) en glucose et en favorisant, au contraire, le stockage du glucose en glycogène. Le glucose stocké dans le foie est une réserve pour les urgences, car il est immédiatement libéré et rapidement disponible en cas d'hypoglycémie.  
+*   L'insuline stimule le transport du glucose dans le muscle. Le muscle est le deuxième lieu de stockage du glucose sous forme de glycogène. Cette réserve est plus lentement mobilisable que celle du foie. Elle sera sollicitée dans des demandes importantes, lors d'activités physiques très prolongées, par exemple.  
 *   L'insuline favorise le transport du glucose par les transporteurs du glucose à travers la membrane cellulaire.
 
 En résumé, l'insuline est hypoglycémiante. Elle contribue à empêcher la glycémie d'augmenter en :
@@ -75,8 +75,8 @@ L'épreuve d'hyperglycémie provoquée orale n'est plus pratiquée.
 
 L'étude des facteurs de la régulation de la glycémie nous permet de dire que l'hyperglycémie est en rapport avec :
 
-*   soit un déficit plus ou moins profond du facteur hypoglycémiant : l'insuline. Exemples : ablation du pancréas, pancréatite diabète idiopathique (cause inconnue) de type **I** (diabète insulino-dépendant ou DID).
-*   soit, exceptionnellement, une augmentation de l'action des facteurs hyperglycémiants. Exemples : hypersécrétion de cortisol (syndrome de Cushing) ; ingestion abusive de certains médicaments tels que les corticoïdes, le salbutamol ; accessoirement : diurétiques thiazidiques, oestrogènes de synthèse.
+*   soit un déficit plus ou moins profond du facteur hypoglycémiant : l'insuline. Exemples : ablation du pancréas, pancréatite diabète idiopathique (cause inconnue) de type **I** (diabète insulino-dépendant ou DID).  
+*   soit, exceptionnellement, une augmentation de l'action des facteurs hyperglycémiants. Exemples : hypersécrétion de cortisol (syndrome de Cushing) ; ingestion abusive de certains médicaments tels que les corticoïdes, le salbutamol ; accessoirement : diurétiques thiazidiques, oestrogènes de synthèse.  
 *   soit une modification des récepteurs : alors qu'ils devraient être sensibles à l'insuline, ils sont devenus résistants (insulino-résistance). Il ne s'agit donc pas, au moins dans les premières années de la maladie, d'une insuffisance en insuline mais d'un blocage de l'action de l'insuline. C'est le cas du diabète de type **Il** non insulino-dépendant qui se voit chez tous les patients obèses.
 
 ## **IV. Traduction clinique** **de l'hyperglycémie** **chronique**
@@ -101,7 +101,7 @@ L'hyperglycémie chronique et ses complications sont le **point commun** des dif
 
 *   tuberculose ;
 
-*   infections cutanées (peau, pieds...
+*   infections cutanées (peau, pieds...  
 *   infections urinaires et génitales.
 
 #### c) Complications dégénératives
@@ -164,6 +164,7 @@ Il existe toutefois des impératifs :
 *   les apports en glucides doivent représenter 50 à 60 % de la ration calorique journalière, sous forme de **sucres lents :** riz, mil, sorgho, pâtes, pain, semoule de blé (couscous). Ces aliments doivent être répartis en quantité équivalente aux principaux repas ;
 *   apport normal en protéines (viande maigre, poisson, oeuf, lait demi-écrémé). Pas de régime hyperprotidique, en général.
 
+
 ![](i700-1.jpg)
 
 
@@ -191,7 +192,7 @@ Les **sulfamides hypoglycémiants** (par ordre croissant d'efficacité, nous cit
 
 Diamicron® (gliclazide) ; Glibénèse® (glipizide), Diabinèse® (Chlorpropamide) ; Daonil® (glibenclamide), Glucidoral® (carbutamide).
 
-*   Ils sont insulino-sécréteurs, il faut donc savoir qu'en cas de surdosage, il y a un risque d'hypoglycémie.
+*   Ils sont insulino-sécréteurs, il faut donc savoir qu'en cas de surdosage, il y a un risque d'hypoglycémie.  
 *   Il existe des interférences médicamenteuses avec les sulfamides hypoglycémiants, dans le sens d'une majoration de l'effet hypoglycémiant : Cotrimazole®, les salicylés, Probénécil®, Cirnétidine®.
 
 ## **VI.** **Éducation et responsabilisation** **du diabétique**

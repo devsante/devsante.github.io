@@ -83,6 +83,7 @@ Toujours utiles, ils agissent comme anti-inflammatoires.
 
 Ils agissent en fin de réaction en s'opposant à l'action de l'histamine sur la bronche. Ils ne sont bien sûr utiles que dans la crise d'asthme.
 
+
 ![](i614-1.jpg)
 
 

@@ -27,8 +27,8 @@ La plupart du temps, l'obstacle responsable de la rétention n'est pas connu au 
 
 #### a. La rétention peut être de cause prostatique
 
-*   Elle est le plus souvent due à un adénome de la prostate, tumeur bénigne et fréquente qui se laisse sonder facilement. Nous utilisons le plus souvent alors la sonde siliconée de Foley.
-*   Le cancer de la prostate, lui, peut proliférer au point de provoquer une rétention d'urine. Le sondage est parfois possible. Nous utilisons alors le même type de sonde ou une sonde de Dufour béquillée, un peu plus rigide. Si le sondage s'avère impossible dans cette cause, ce qui est parfois le cas, nous dérivons par cathétérisme sus-pubien.
+*   Elle est le plus souvent due à un adénome de la prostate, tumeur bénigne et fréquente qui se laisse sonder facilement. Nous utilisons le plus souvent alors la sonde siliconée de Foley.  
+*   Le cancer de la prostate, lui, peut proliférer au point de provoquer une rétention d'urine. Le sondage est parfois possible. Nous utilisons alors le même type de sonde ou une sonde de Dufour béquillée, un peu plus rigide. Si le sondage s'avère impossible dans cette cause, ce qui est parfois le cas, nous dérivons par cathétérisme sus-pubien.  
 *   Nous avons vu que si l'infection de la prostate, la prostatite aiguë, est la cause d'une rétention, nous devons dériver par cathétérisme sus-pubien.
 
 #### b. Les causes urétrales

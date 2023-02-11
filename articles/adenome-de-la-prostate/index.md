@@ -5,6 +5,7 @@ date: "2003-06-02"
 teaser: "Encore appelée hypertrophie ou hyperplasie bénigne de la prostate, cette tumeur bénigne, d'une extrême fréquence, peut être parfois responsable de complications graves : rétention d'urine et insuffisance rénale."
 ---
 
+
 ![](i831-1.jpg)
 
 
@@ -27,12 +28,14 @@ C'est une tumeur bénigne, c'est-à-dire qu'une partie des tissus constituant la
 **Schéma 4 : développement d'un**  
 **adénome prostatique** (d'après R. Couvelaire)
 
+
 ![](i831-3.jpg)
 
 
 La prostate normale pèse environ 15 à 20 grammes, un adénome de moyen volume pèse de 60 à 80 grammes, il peut être beaucoup plus gros (200 grammes et plus, parfois !), mais il n'y a aucun rapport entre la taille de l'adénome et la gêne qu'il peut entraîner : un petit adénome peut très bien provoquer une rétention et un très gros être très bien supporté. L'adénome prostatique se développe chez l'homme vers l'âge de 60 ans avec une **extrême fréquence**, près de 80 % des hommes en sont atteints à 60 ans ! Mais, sur ce grand nombre d'adénomes, peu vont entraîner des troubles et, parmi ceux-ci, 10 % seulement nécessiteront une intervention chirurgicale.
 
 Tout porteur d'adénome n'est pas forcément malade. Tout malade porteur d'adénome n'est pas forcément à opérer ! L'adénome se développe le plus souvent latéralement, de chaque côté de l'urètre, sous forme de deux lobes qui sont aisément palpés au toucher rectal, mais parfois aussi sous forme d'un lobe médian dont le développement se fera surtout à l'intérieur de la vessie et qui, bien que parfois très volumineux, ne sera pas toujours palpable au toucher rectal _(voir schéma 3)._
+
 
 ![](i831-2.jpg)
 
@@ -50,6 +53,7 @@ La prostate entoure l'urètre sous la vessie et, en augmentant de volume, va don
 #### a. La vessie de lutte
 
 La vessie n'est pas un sac à urine mais un **muscle** creux destiné à recueillir l'urine secrétée continuellement par les reins et à l'évacuer volontairement à intervalle régulier. L'urètre est plus fin, l'effort à fournir pour évacuer l'urine va donc être plus grand, et comme tout muscle qui travaille contre une résistance accrue, la vessie va s'épaissir (comme le biceps d'un sportif) de 3 à 4 mm en temps normal, elle peut s'épaissir jusqu'à 1 ou plusieurs cm. C'est une vessie musclée, une **vessie de lutte**. Les faisceaux musculaires sont hypertrophiés et dessinent sous la muqueuse des colonnes délimitant entre elles des cellules - vessie à cellules et colonnes - _(schéma 5)._
+
 
 ![](i831-4.jpg)
 
@@ -69,6 +73,7 @@ L'urètre, à l'occasion d'une poussée inflammatoire de l'adénome ou de son au
 
 Elle est la plus sournoise. La vessie se vide, mais incomplètement, la résistance urètrale a dépassé la force de la vessie, et, à la fin de la miction, il restera en permanence un volume plus ou moins important (300cc, 1 litre, et parfois plus). La vessie est distendue, a perdu sa capacité normale et ne récupérera pas une force de contraction normale après traitement.
 
+
 ![](i831-5.jpg)
 
 
@@ -83,6 +88,7 @@ Les uretères se trouvent gênés dans leur évacuation lorsque le muscle s'hype
 Les reins peuvent alors souffrir par gêne à l'évacuation de l'urine, avec risque d'infection du rein par reflux d'une urine infectée (souvent par des sondages intempestifs). A ce stade, l'insuffisance rénale s'installe peu à peu et peut entraîner la mort du malade... alors que, cliniquement, il ne se plaignait de rien tant il s'était habitué à des difficultés pour uriner, installées depuis des années et mises sur le compte de l'âge !
 
 Mais, répétons-le "le retentissement de l'adénome sur l'appareil urinaire n'est ni obligatoire, ni progressivement croissant", un grand nombre d'adénomes n'entraîneront aucun trouble.
+
 
 ![](i831-6.jpg)
 
@@ -120,6 +126,7 @@ C'est bien souvent elle qui amènera le malade à consulter, car le trouble est 
 ### 5. L'incontinence d'urine
 
 L'urine coule par la verge en permanence, le malade ne plus contrôler volontairement cet écoulement. Il s'agit aussi d'une rétention d'urine, la vessie est pleine en permanence, elle déborde ! La pression est telle qu'elle force le passage en permanence puisque l'urine vient du rein en permanence. Il s'agit d'une " incontinence par regorgement " _(voir schéma 10_).
+
 
 ![](i831-7.jpg)
 
@@ -234,7 +241,7 @@ Citons quelques médicaments anti-inflammatoires: Tadenan®, Pelvomagnésium®, 
 
 **4.** Le traitement curatif des adénomes est chirurgical mais il ne doit s'appliquer qu'aux adénomes mal tolérés, c'est-à-dire :
 
-*   Ceux entraînant un grand inconfort pour le malade : dysurie importante, pollakiurie nocturne fréquente. C'est le malade lui-même qui demande à être soulagé et, même en l'absence de retentissement rénal, l'opération est alors justifiée.
+*   Ceux entraînant un grand inconfort pour le malade : dysurie importante, pollakiurie nocturne fréquente. C'est le malade lui-même qui demande à être soulagé et, même en l'absence de retentissement rénal, l'opération est alors justifiée.  
 *   L'existence d'un retentissement vésical important (résidu post-mictionnel important, incontinence par regorgement, rétention complète d'urine ne régressant pas), _a fortiori_ un retentissement rénal, une insuffisance rénale, imposent l'opération. Si l'adénome est vu assez tôt, l'insuffisance rénale peut régresser.
 
 ## VIII. Technique chirurgicale

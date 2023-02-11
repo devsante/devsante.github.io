@@ -5,8 +5,11 @@ date: "2008-11-05"
 
 **Candidose buccale**
 
+
 ![](i996-1.jpg)![](i996_2.jpg)
+
 ![](i996-1.jpg)
+
 ![](i996-2.jpg)
 
 

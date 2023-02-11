@@ -5,6 +5,7 @@ date: "2005-06-03"
 teaser: "L'eau, absolument nécessaire à la vie, peut parallèlement introduire dans l'organisme humain des agents pathogènes qui peuvent être des substances chimiques ou des microorganismes pathogènes (virus, bactéries, parasites), comme l'expliquent d'autres articles de ce site."
 ---
 
+
 ![](i1003-1.jpg)
 
 

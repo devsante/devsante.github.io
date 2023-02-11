@@ -67,6 +67,7 @@ Nous allons maintenant pouvoir calculer la quantité d'énergie contenue dans 10
 
 Reprenons notre exemple : si ces 100 ml de bouillie sont préparés avec une farine céréale-légumineuse et qu'il reste, après dessèchement, 10 g de paillettes, on calcule : 4 kcal x 10 g = 40 kcal.
 
+
 ![](i713-1.jpg)
 
 
@@ -83,6 +84,7 @@ La comparaison de la valeur énergétique des bouillies avec la valeur de quelqu
 ### **6. La consistance des bouillies et leur valeur nutritive**
 
 Dans l'exemple précédent, nous avons calculé la valeur énergétique d'une bouillie céréale-légumineuse. Le _tableau n°_ 2 permet de situer la valeur énergétique de cette bouillie par rapport à celle d'un soda.
+
 
 ![](i713-2.jpg)
 

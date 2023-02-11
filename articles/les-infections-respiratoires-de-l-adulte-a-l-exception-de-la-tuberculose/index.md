@@ -48,6 +48,7 @@ Les frottements sont éventuellement d'origine pleurale _(cf. tableau 1)._
 
 Au terme de cet examen clinique, il est possible de classer les infections respiratoires en plusieurs grands syndromes _(cf. tableau 2)._
 
+
 ![](i479-1.jpg)
 
 
@@ -65,6 +66,7 @@ L'apparition d'une bronchite chronique est une des principales complications de 
 
 Cette maladie provoque une condensation pulmonaire. Elle est soit d'origine bactérienne, soit d'origine virale. Il est important d'apprécier sa cause car elle conditionne le traitement. Le _tableau 3_ permet de différencier ces deux types de pneumopathies. Enfin, des maladies parasitaires peuvent être à l'origine de pneumopathies : pneumocystose, aspergillose, filariose.
 
+
 ![](i479-2.jpg)
 
 
@@ -75,6 +77,7 @@ Il s'agit d'une inflammation de la plèvre aiguë ou chronique avec ou sans épa
 L'infection n'est pas la seule cause des pleurésies. Il existe des pleurésies traumatiques, cardiovasculaires et tumorales. Mais les plus fréquentes sont infectieuses et après avoir éliminé une tuberculose, il est là aussi possible de différencier les pleurésies d'origine bactérienne ou virale _(cf. tableau 4)._
 
 Certaines parasitoses peuvent aussi induire une pleurésie : distomatose, filariose, hydatidose, amibes.
+
 
 ![](i479-3.jpg)
 
@@ -95,7 +98,9 @@ A l'examen clinique, les signes sont de nature variable mais de siège fixe. Il 
 
 Là encore la radiologie et les prélèvements bactériologiques sont d'un appoint important. A noter l'existence exceptionnelle d'abcès amibiens.
 
+
 ![](i479-4.jpg)
+
 
 
 ![](i479-5.jpg)

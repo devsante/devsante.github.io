@@ -36,8 +36,11 @@ Si cette sonde ne passe pas, cela veut dire qu'il y a un problème. Il faut alor
 
 **A savoir :** des sondes conservées dans un sondier et stérilisées au gaz (type aldhylène) doivent obligatoirement être rincées avec de l'eau stérile car les vapeurs de formol sont très corrosives et risquent d'entraîner des sténoses de l'ensemble de l'urètre.
 
+
 ![](i957-1.jpg)
+
 ![](i957-2.jpg)
+
 ![](i957-3.jpg)
 
 
@@ -52,6 +55,7 @@ Pour qu'il soit **stérile**, il faut préparer une table avec des gants stéril
 L'huile de paraffine existe sur le marché en ampoule unitaire stérile qui permet une lubrification parfaite des sondes. Les flacons d'un litre sont à proscrire.
 
 Pour le recueil des urines, nous utilisons des résibacs non standards, mais de type Bioser SM 102, car ils permettent de ne jamais séparer le système poche-sonde et, de plus, on peut les vidanger. Le tuyau est rigide et de grosse section, évitant plis et coudes. Il existe un système antireflux et un site de prélèvement. Ils peuvent, sans problème, se conserver dix à quinze jours sans être changés. Le coût est, par contre, bien supérieur. Ce système paraît plus cher mais il est clos, vidangeable, possède un système antireflux et un site de prélèvement, ce qui diminue le risque infectieux.
+
 
 ![](i957-4.jpg)
   
@@ -71,20 +75,21 @@ Injecter doucement le gel de xylocaïne et placer le clamp pénien (ou comprimer
 
 Installer le malade (s'il s'agit d'une femme, l'installer en position gynécologique et prévoir un bon éclairage). Expliquer le soin au patient.
 
-*   Placer un haricot entre les jambes.
-*   Prévoir une aide.
-*   Mettre les gants stériles pour préparation de la table.
-*   Faire enlever le clamp pénien.
-*   Faire une petite toilette stérile à l'aide de compresses stériles et de Dakin. Laisser le gland entre deux compresses stériles.
-*   Poser le champ troué.
-*   Lubrifier la sonde largement sur toute sa longueur.
-*   Introduire la sonde dans l'urètre doucement, sans forcer.
-*   Pour l'homme, il faut bien tirer la verge vers le haut.
-*   Pousser la sonde au-delà de la longueur normale, gonfler le ballonnet à la contenance voulue (le volume est inscrit sur la sonde).
-*   Une fois le ballonnet gonflé, tirer sur la sonde jusqu'à ce qu'elle se bloque sur le col vésical.
-*   Vérifier l'écoulement de l'urine.
-*   Connecter le sac collecteur.
+*   Placer un haricot entre les jambes.  
+*   Prévoir une aide.  
+*   Mettre les gants stériles pour préparation de la table.  
+*   Faire enlever le clamp pénien.  
+*   Faire une petite toilette stérile à l'aide de compresses stériles et de Dakin. Laisser le gland entre deux compresses stériles.  
+*   Poser le champ troué.  
+*   Lubrifier la sonde largement sur toute sa longueur.  
+*   Introduire la sonde dans l'urètre doucement, sans forcer.  
+*   Pour l'homme, il faut bien tirer la verge vers le haut.  
+*   Pousser la sonde au-delà de la longueur normale, gonfler le ballonnet à la contenance voulue (le volume est inscrit sur la sonde).  
+*   Une fois le ballonnet gonflé, tirer sur la sonde jusqu'à ce qu'elle se bloque sur le col vésical.  
+*   Vérifier l'écoulement de l'urine.  
+*   Connecter le sac collecteur.  
 *   Recalotter le pénis.
+
 
 ![](i957-5.jpg)
 

@@ -182,7 +182,9 @@ L'outil élaboré a fait l'objet d'un prétest sur un site de mission de MSF en 
 
 Cependant, si la participation des professionnels peut être effectivement mobilisée grâce à la démarche retenue et à l'outil élaboré, celle des patients reste insuffisamment sollicitée, notamment parce qu'elle nécessite de concevoir des techniques et des outils adaptés. Ceci représente l'enjeu essentiel à prendre en compte dans les approches futures.
 
+
 ![](i1096-1.jpg)
+
 
 
 ![](i1096-2.jpg)

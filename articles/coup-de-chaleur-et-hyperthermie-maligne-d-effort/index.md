@@ -14,6 +14,7 @@ L'augmentation de la température centrale pendant un exercice est un phénomèn
 
 Le facteur principal de débordement des mécanismes adaptatifs reste cependant l'intensité de l'exercice mais d'autres facteurs favorisant sont régulièrement en cause _(tableau n° 1_). Dès lors, l'hyperthermie physiologique, typiquement asymptomatique et autolimitée, devient maligne. Ce syndrome est également appelé hyperthermie d'effort ou coup de chaleur d'effort.
 
+
 ![](i853-1.jpg)
 
 

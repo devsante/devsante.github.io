@@ -9,7 +9,9 @@ teaser: "Les chauves-souris sont des animaux mal connus et souvent craints en ra
 
 On distingue deux sous-ordres. Les microchiroptères (ou Yangochiroptères) (figure 1) regroupant 800 espèces de petite taille, sont insectivores, ont une activité nocturne et ont une faculté d’écholocation. Les mégachiroptères (ou Yinptérochiroptères) (ou « roussettes ») (figure 2), de grande taille (pouvant atteindre 2 mètres d’envergure), sont frugivores (fleurs, pollens, légumes) et ont une activité crépusculaire.
 
+
 ![](fig-1-chauve-souris.jpg)
+    
 ![](fig-2-roussette.jpg)
 
 
@@ -17,6 +19,7 @@ _**Figure 1. Chauve-souris                                    
 
 Le phénomène de l’écholocation des microchiroptères a été démontré en 1791 par Lazzaro Spallanzani : des chiroptères rendus aveugles continuent à voler normalement, alors que ces mêmes animaux rendus sourds ne peuvent plus se déplacer. Cette écholocation est due à une protéine de l’oreille interne, la prestine. Les microchiroptères, actifs la nuit, se dirigent dans l’obscurité en émettant, par la contraction des muscles laryngés, des ultra-sons par la bouche et le nez, dont elles captent le retour par les oreilles (principe du sonar) (figure 3). Ceci leur permet de localiser leurs proies et d’éviter les obstacles. Ils peuvent détecter un fil de 0,1mm de diamètre à 10 mètres de distance ! Les mégachiroptères se dirigent plus à la vue et à l’odorat. En outre, ces mammifères s’orientent grâce au champ magnétique terrestre. Ces animaux communiquent dans un spectre d’ultra-sons (de 10kHz à 120 kHz) non accessible à l’homme (dont le spectre d’audition va de 20Hz à 20kHz), ces sons étant propres à chaque espèce.
 
+                      
 ![](fig-3-echolocation.gif)
 
 
@@ -24,6 +27,7 @@ Le phénomène de l’écholocation des microchiroptères a été démontré en 
 
 Les chiroptères se reposent environ 20 heures par jour en se suspendant, la tête en bas,  aux aspérités par les griffes de leurs orteils (figure 4). Ils ne se posent qu’exceptionnellement sur le sol. L’aile des chiroptères est formée d’un tissu qui est le tissu du règne animal qui se régénère le plus vite du règne animal. Sa grande vascularisation permet la régulation thermique de l’animal. Par ailleurs, le vol des chiroptères est plus efficace et plus économe en énergie que celui des oiseaux de même taille. Ils peuvent vivre plusieurs dizaines d’années. Les distances de vol sont de quelques kilomètres par nuit pour la recherche de nourriture mais peuvent atteindre plusieurs milliers de kilomètres pour les espèces migratrices. 
 
+                       
 ![](fig-4-chauves-souris-au-repos.jpg)
 
 
@@ -41,7 +45,9 @@ Ces animaux ont peu de prédateurs. Cependant, en Europe, ils peuvent être la p
 
  Les microchiroptères, insectivores, sont d’excellents prédateurs d’insectes nuisibles dont ils avalent plusieurs millions chaque année, et ont donc un rôle important dans la régulation des populations d’insectes. Les mégachiroptères, frugivores, sont utiles comme pollinisateurs et disséminateurs de graines par leurs déjections en vol. Certains arbres, comme les  baobabs (figure 5) ou les cactus colonnaires ont des fleurs qui s’épanouissent la nuit, favorisant le travail des pollinisateurs nocturnes (figure 6).
 
+
 ![](fig-5-baobab.jpg)
+            
 ![](fig-6-pollinisation-nocturne-des-cactus.jpg)
 
 
@@ -55,6 +61,7 @@ Les chiroptères, comme beaucoup d’animaux sauvages, peuvent héberger des age
 
 Le genre _Lyssavirus_, dont il existe au moins douze génotypes, est très répandu chez les chauves-souris. Le génotype 1, ou virus de la rage (figure 7), est cosmopolite, mais retrouvé uniquement chez les chauves-souris d’Amérique du sud. Ce virus n’a pas été retrouvé chez les chauves-souris de l’Ancien Monde.
 
+
 ![](fig-7-virus-de-la-rage.jpg)
 
 
@@ -63,6 +70,7 @@ _**Figure 7. Virus de la rage**_
 Le génotype 2, ou virus Lagos bat, est répandu chez les mégachiroptères dans toute l’Afrique sub-saharienne, mais n’a pas encore été isolé chez l’homme. Le génotype 4, ou virus Duvenhage, a été retrouvé chez des microchiroptères d’Afrique de l’est et chez des cas humains, les génotypes 5 (ou European bat virus 1), 6 (ou _European bat virus 2_), et 7 (ou _Australian bat virus_), retrouvés chez les différents chiroptères, peuvent être à l’origine de cas humains. En Europe, les génotypes 5 et  6 ont été détectés chez les chiroptères dès 1954.
 
 En Amérique du sud, le virus de la rage a été constaté chez de nombreux chiroptères insectivores ou hématophages (vampires) (figure 8). Ce virus, bien toléré par les chauves-souris, peut être transmis par morsure, griffure, léchage ou aérosol. La contamination humaine est rare, mais les animaux domestiques constituent une réserve sanguine pour ces vampires, la perte économique due à la mortalité du bétail due à la rage étant estimée à 30 millions de dollars par an. En Asie, le _Lyssavirus_ est très rare chez les chauves-souris. Les lyssaviroses humaines dues à des morsures de chiroptères provoquent des symptômes proches de la rage. Ces _Lyssavirus_ ayant des génotypes assez différents, le vaccin contre la rage n’est pas efficace contre les génotypes 2 et 3.
+
 
 ![](fig-8-chauve-souris-vampire.jpg)
 
@@ -82,6 +90,7 @@ Le genre f_ilovirus_ comprend  les 5  virus _Ebola_, découverts en 1976 en R�
 
 Le SARS-CoV (ou syndrome  respiratoire aigu sévère du à un bétacoronavirus) a provoqué 900 décès humains (sur 8 400 cas) en Chine en 2003. Le réservoir a été détecté chez les chiroptères, qui étaient porteurs asymptomatiques d’anticorps pour 84% d’entre eux. Puis d’autres anticorps SARS-CoV-like ont été  retrouvés chez les chiroptères sur tous les continents. En 2012, le MERS-CoV (ou _Middle -East Respiratory syndrome_) est apparu en Arabie Saoudite, avec plus de 439 décès (sur 1100 cas). L’hôte habituel retenu a été le dromadaire (figure 9), et malgré les recherches, le virus n’a pas été retrouvé chez les chauves-souris locales.
 
+
 ![](fig-9-dromadaire.jpg)
 
 
@@ -94,6 +103,7 @@ Par ailleurs, un grand nombre d’autres virus, dont la pathogénicité est disc
 ### 6. _Histoplasma_
 
 Les spores d’_Histoplasma_ (champignon dimorphique) sont dans la nature et se développent particulièrement bien dans un sol riche en guano de chauves-souris ou en fientes de pigeons. L’homme s’infeste par inhalation des poussières contenant les spores d’histoplasme (maladie des spéléologues) (figure 10). Chez les sujets immuno-compétents, l’infestation passe le plus souvent inaperçue. Chez les sujets immuno-déficients, la maladie se manifeste par des troubles pulmonaires (forme américaine) ou par des troubles cutanés, osseux et ganglionnaires (forme africaine).   
+
 
 ![](fig-10-chlamydospores-d-histoplasme.jpeg)
 

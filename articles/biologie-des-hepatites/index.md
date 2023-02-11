@@ -11,15 +11,15 @@ et sur l'évolution de celle-ci."
 
 Les paramètres utiles à étudier sont :
 
-*   La  bilirubine  totale  :  inférieure  à  17  micromol/L chez le sujet normal, supérieure à 50 micromol/L au cours des ictères et comprise entre 30 et 50 micro- mol/L en cas de subictère.
+*   La  bilirubine  totale  :  inférieure  à  17  micromol/L chez le sujet normal, supérieure à 50 micromol/L au cours des ictères et comprise entre 30 et 50 micro- mol/L en cas de subictère.  
 *   Les transaminases sériques : aspartate aminotransférase (ASAT) et alanine aminotransférase (ALAT).
 
 Leur taux s’élève dans les hépatites :
 
 *   > à 10 fois la normale dans les hépatites aiguës ;
-*   < à 10 fois la normale dans les hépatites chroniques.
-*   Le taux de prothrombine (temps de Quick) et éventuellement  le  dosage  du  facteur  V,  très  diminués dans les hépatites fulminantes.
-*   L’albumine.
+*   < à 10 fois la normale dans les hépatites chroniques.  
+*   Le taux de prothrombine (temps de Quick) et éventuellement  le  dosage  du  facteur  V,  très  diminués dans les hépatites fulminantes.  
+*   L’albumine.  
 *   La numération formule sanguine, qui peut mettre en évidence une anémie, une thrombopénie et/ou une neutropénie avec éventuelle activation lymphocytaire.  Le frottis sanguin permet d’éliminer un paludisme à la phase aiguë de la maladie.
 
 ## II. Exploration virologique
@@ -63,6 +63,7 @@ Le  taux des IgG s’élève rapidement, il est à son maximum après 60  jou
 
 **Figure 1 : évolution des marqueurs au cours de l'hépatite A**
 
+
 ![](marqueurs-hepatite-a.jpg)
 
 
@@ -91,6 +92,7 @@ Les particules de 42 nm sont des particules virales infectieuses. Elles sont con
 
 **Figure 2 : virus de l'hépatite B, particules observées en microscopie électronique**
 
+
 ![](page-22-virus-de-l-hepatite-b.jpg)
 
 
@@ -98,9 +100,9 @@ Le diagnostic des différentes situations cliniques est effectué par la détec
 
 #### a. Marqueurs directs
 
-*   L'antigène  HBs  associé  aux  enveloppes  virales  est aisément mis en évidence dans le sérum des patients par des techniques immuno-enzymatiques de type ELISA.
-*   L'antigène  HBc  n'est  pas  retrouvé tel quel dans le sérum.
-*   L’antigène HBe est une protéine soluble, dérivée de la protéine de capside qui est détectée dans le sérum en cas de multiplication virale,  également  par  des techniques immuno-enzymatiques de type ELISA.
+*   L'antigène  HBs  associé  aux  enveloppes  virales  est aisément mis en évidence dans le sérum des patients par des techniques immuno-enzymatiques de type ELISA.  
+*   L'antigène  HBc  n'est  pas  retrouvé tel quel dans le sérum.  
+*   L’antigène HBe est une protéine soluble, dérivée de la protéine de capside qui est détectée dans le sérum en cas de multiplication virale,  également  par  des techniques immuno-enzymatiques de type ELISA.  
 *   L'ADN viral circulant associé aux particules virales infectieuses est mis en évidence par des techniques de biologie moléculaire (charge virale).
 
 #### b. Marqueurs indirects
@@ -118,10 +120,11 @@ Le taux de prothrombine est normal ou modérément abaissé, en tout cas toujou
 
 Des  examens  virologiques  permettent  d'affirmer  le diagnostic d'hépatite aiguë B :
 
-*   L'antigène  HBs  (qui peut être détecté 3 semaines environ avant les signes cliniques) est présent dans le sérum, ainsi que les anticorps anti-HBc de type IgM (les plus précoces) présents à un titre élevé.
+*   L'antigène  HBs  (qui peut être détecté 3 semaines environ avant les signes cliniques) est présent dans le sérum, ainsi que les anticorps anti-HBc de type IgM (les plus précoces) présents à un titre élevé.  
 *   Les anticorps anti-HBc de type IgM peuvent, dans certains cas, être seuls  présents  lorsque  l'antigène HBs a déjà disparu du sérum. Ceci se produit dans 10 % des cas environ.
 
 **Figure 3 : évolution des marqueurs de l'infection par le virus de l'hépatite B**
+
 
 ![](biologie-fig-2.jpg)
 
@@ -150,9 +153,9 @@ Deux tiers des patients porteurs de l'antigène HBs vont développer  des lési
 
 L'évolution se fait schématiquement selon **4 phases** de durée variable.
 
-*   La  **première phase**, qui dure de quelques  mois  à quelques années, est une phase de tolérance immunitaire.  Elle  est  marquée  par une multiplication active du virus avec un taux d'ADN sérique élevé et la présence d'antigène HBs dans le sérum.
-*   La  **deuxième phase** est une phase d'immuno-élimination  caractérisée par une flambée de la réponse immune, elle provoque la baisse de la multiplication  virale et génère les  lésions histologiques d'hépatite  chronique. On observe une  élévation transitoire, parfois très importante, des transaminases et la séroconversion antigène Hbe/anticorps anti-HBe,  c'est-à-dire la diminution de l'antigène HBe jusqu'à sa disparition et l'apparition des anticorps anti-HBe.
-*   La **troisième phase** est une phase de portage inactif marquée par la quasi absence de marqueurs de la multiplication virale. L'antigène HBs a disparu, l'ADN sérique est très bas, et l'anticorps anti-HBe est présent.
+*   La  **première phase**, qui dure de quelques  mois  à quelques années, est une phase de tolérance immunitaire.  Elle  est  marquée  par une multiplication active du virus avec un taux d'ADN sérique élevé et la présence d'antigène HBs dans le sérum.  
+*   La  **deuxième phase** est une phase d'immuno-élimination  caractérisée par une flambée de la réponse immune, elle provoque la baisse de la multiplication  virale et génère les  lésions histologiques d'hépatite  chronique. On observe une  élévation transitoire, parfois très importante, des transaminases et la séroconversion antigène Hbe/anticorps anti-HBe,  c'est-à-dire la diminution de l'antigène HBe jusqu'à sa disparition et l'apparition des anticorps anti-HBe.  
+*   La **troisième phase** est une phase de portage inactif marquée par la quasi absence de marqueurs de la multiplication virale. L'antigène HBs a disparu, l'ADN sérique est très bas, et l'anticorps anti-HBe est présent.  
 *   -La quatrième phase correspond à une élimination du virus qui devient indétectable.  
     Cependant,  lorsqu'une  cirrhose s'est développée, elle peut évoluer vers des complications et exposer le malade à la survenue d'un carcinome hépato-cellulaire.  
     Des  épisodes  de  réactivation  virale  sont  possibles, apparaissant soit spontanément, soit provoqués par des  traitements immunosuppresseurs. Ils se traduisent par la réapparition des marqueurs de multiplication virale : antigène HBe et ADN sérique.
@@ -447,6 +450,7 @@ Hépatite chronique à IT
 </tbody>
 
 </table>
+
 <table>
 
 <thead>
@@ -516,6 +520,7 @@ Les déterminations de l'antigène HBs, de l'antigène HBe et de l'anticorps ant
 
 </table>
 
+
 ![](page-26-schema-biologie-des-h-bat.jpg)
 
 
@@ -524,10 +529,12 @@ Les déterminations de l'antigène HBs, de l'antigène HBe et de l'anticorps ant
 Il peut s’agir d’une infection concomitante par le VHB et le VHD, ou d’une surinfection par le VHD au cours d’une hépatite B chronique.  
 Le  diagnostic  se  fait  par  recherche  des  anticorps totaux anti-VHD et des IgM ; il doit être complété par une recherche d’ARN-VHD qui ne se fait qu’en laboratoire spécialisé (voir figure 5).
 
+
 ![](image008-0.png)
 
 
 **Surinfection**
+
 
 ![](image010-0.png)
 
@@ -578,7 +585,7 @@ Exemple : une charge virale de 100 000 copies/mL, équivaut  à  une  charge
 
 D’autres virus peuvent être responsables d’une hépatite associée à d’autres signes cliniques et biologiques :
 
-*   Au cours des arboviroses (dengue, fièvre  jaune, Chikungunya).
+*   Au cours des arboviroses (dengue, fièvre  jaune, Chikungunya).  
 *   Au cours de la mononucléose infectieuse, des infections à CMV : dans ces cas, l’hépatite est le  plus souvent bénigne ou asymptomatique.
 
 ## Conclusion

@@ -12,9 +12,9 @@ Le diagnostic biologique sera réalisé soit devant une symptomatologie évocatr
 
 Les paramètres utiles à étudier sont :
 
-*   La bilirubine totale : inférieure à 17 micromol/I chez le sujet normal, supérieure à 50 micromol/I au cours des ictères et comprise entre 30 et 50 micromol/I en cas de sub-ictère.
-*   Les transaminases sériques : aspartate aminotransférase (ASAT) et alanine aminotransférase (ALAT).
-*   Les phosphatages alcalines sériques.
+*   La bilirubine totale : inférieure à 17 micromol/I chez le sujet normal, supérieure à 50 micromol/I au cours des ictères et comprise entre 30 et 50 micromol/I en cas de sub-ictère.  
+*   Les transaminases sériques : aspartate aminotransférase (ASAT) et alanine aminotransférase (ALAT).  
+*   Les phosphatages alcalines sériques.  
 *   Le taux de prothrombine (temps de Quick) et éventuellement le dosage du facteur V.
 
 <table>
@@ -38,6 +38,7 @@ Les particules de 42nm sont des particules virales infectieuses. Elles sont cons
 </tbody>
 
 </table>
+
 ![](i912-2.jpg)
 
 
@@ -47,7 +48,7 @@ Le diagnostic des différentes situations cliniques est effectué par la détect
 
 ### 1. Marqueurs directs
 
-*   L'antigène HBs associé aux enveloppes virales est aisément mis en évidence dans le sérum des patients par des techniques immuno-enzymatiques de type ELISA.
+*   L'antigène HBs associé aux enveloppes virales est aisément mis en évidence dans le sérum des patients par des techniques immuno-enzymatiques de type ELISA.  
 *   L'antigène HBc n'est pas retrouvé tel quel dans le sérum.
 
 Une protéine soluble, dérivée de la protéine de capside, porte un antigène appelé HBe qui est détecté dans le sérum en cas de multiplication virale, également par des techniques immuno-enzymatiques de type ELISA.
@@ -111,7 +112,7 @@ Le taux de prothrombine est normal ou modérément abaissé, en tout cas toujour
 
 Des examens virologiques permettent d'affirmer le diagnostic d'hépatite aiguë B :
 
-*   L'antigène HBs (qui peut être détecté 3 semaines environ avant les signes cliniques) est présent dans le sérum, ainsi que les anticorps anti-HBc de type IgM (les plus précoces) présents à un titre élevé.
+*   L'antigène HBs (qui peut être détecté 3 semaines environ avant les signes cliniques) est présent dans le sérum, ainsi que les anticorps anti-HBc de type IgM (les plus précoces) présents à un titre élevé.  
 *   Les anticorps anti-HBc de type IgM peuvent dans certains cas être seuls présents lorsque l'antigène HBs a déjà disparu du sérum, ce qui se produit dans 10% des cas environ.
 
 **L'existence d'une augmentation des** **transaminases associée à un anticorps** **IgM anti-HBc permet de poser le diagnostic d'une hépatite B aiguë.**
@@ -123,6 +124,7 @@ L'évolution est marquée dans plus de 90 % des cas par une disparition rapide d
 Les anticorps anti-HBc de type IgM disparaissent et seuls vont persister les anticorps antiHBc IgG et les anticorps anti-HBs.
 
 Le taux de ces anticorps diminue lentement et après de nombreuses années il ne subsiste qu'un anticorps anti-HBs ou anti-HBc. Ce profil sérologique est celui d'une infection par le virus de l'hépatite B, ancienne et guérie.
+
 
 ![](i912-4.jpg)
 
@@ -405,6 +407,7 @@ Réactivation
 
 </table>
 
+
 ![](i912-5.jpg)
 
 
@@ -443,6 +446,7 @@ L'étude des marqueurs virologiques nécessite l'emploi de réactifs commerciali
 **Les déterminations de l'antigène HBs,** **l'antigène HBe et l'anticorps anti-HBe** **sont nécessaires au suivi de l'hépatite** **chronique B.**
 
 Les techniques de biologie moléculaire, délicates et d'un coût important restent pour l'instant effectuées dans les laboratoires spécialisés.
+
 
 ![](i912-6.jpg)
 

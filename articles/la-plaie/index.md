@@ -18,6 +18,7 @@ La conduite à tenir est simple :
 
 La plaie doit être surveillée afin de prévenir tout début d'infection (rougeur, chaleur, douleur, gonflement) qui doit amener à consulter un médecin. Il est par ailleurs conseillé de renouveler le pansement au bout de 24 heures.
 
+
 ![](i771-1.jpg)
 
 
@@ -41,12 +42,14 @@ Evaluer l'importance du saignement,
 
 Installer la victime dans la position adaptée (_cf. tableau n° 1_).
 
-*   Oxygéner le patient si on dispose d'une source d'oxygène.
-*   Faire un bilan complet de la victime.
-*   La plaie est protégée au moyen d'un emballage stérile : compresses maintenues à l'aide de bandes ou de triangles de toile, voir si la surface est importante à l'aide d'un drap stérile.
+*   Oxygéner le patient si on dispose d'une source d'oxygène.  
+*   Faire un bilan complet de la victime.  
+*   La plaie est protégée au moyen d'un emballage stérile : compresses maintenues à l'aide de bandes ou de triangles de toile, voir si la surface est importante à l'aide d'un drap stérile.  
 *   La victime est adressée à un médecin le plus rapidement possible.
 
+
 ![](i771-2.jpg)
+
 
 
 ![](image004-plaie-n133.jpg)

@@ -9,6 +9,7 @@ Les causes principales en Afrique sont l'hydrocèle et la hernie inguino-scrotal
 
 Nous étudierons donc les différentes causes de grosse bourse et leur traitement, et la façon de conduire l'examen pour ne pas passer à côté des urgences chirurgicales qui sont: la hernie étranglée, la torsion du cordon spermatique, l'abcès scrotal, le cancer du testicule.
 
+
 ![](i149-1.jpg)
 
 
@@ -41,6 +42,7 @@ Hernie et kyste du cordon, nous le reverrons.
 
 Entre la vaginale et le péritoine, il n'existe pas de communication. Mais parfois, le canal qui reliait ces deux séreuses reste en partie ou totalement ouvert, donnant lieu alors à une hernie, c'est à dire un passage anormal du contenu abdominal (anse intestinale ou épiploon le plus souvent) vers la bourse.
 
+
 ![](i149-2.jpg)
 
 
@@ -70,7 +72,9 @@ Entre la vaginale et le péritoine, il n'existe pas de communication. Mais parfo
 
 *   Palpation du cordon spermatique en le faisant rouler entre les doigts, le canal déférent est bien senti, très ferme (_schéma n° 4_).
 
+
 ![](i149-3.jpg)
+
 
 
 ![](i149-4.jpg)
@@ -88,7 +92,7 @@ Entre la vaginale et le péritoine, il n'existe pas de communication. Mais parfo
 
 *   Recherche de signe d'occlusion (météorisme, nausées, arrêt du transit) si on suspecte une hernie étranglée.
 
-*   Examen des urines à l'oeil nu.
+*   Examen des urines à l'oeil nu.  
 *   Température.
 
 *   Recherche d'une gynécomastie (augmentation récente du volume d'un sein chez l'homme lors de certains cancers du testicule sécrétant des hormones).
@@ -118,6 +122,7 @@ Le traitement médical de la filariose à la phase aiguë est efficace et peut �
 ### **2. Varices et veines spermatiques : le varicocèle** (_schéma n°_ _6)_
 
 Les veines du testicule ont un long trajet vertical et se jettent dans la veine rénale à gauche, et dans la veine cave inférieure à droite. Comme pour les veines des membres inférieurs, lorsque les valves qui les rendent continentes sont insuffisantes, le sang reflue vers le bas et entraîne une stase et une dilatation du système veineux.
+
 
 ![](i149-5.jpg)
 
@@ -183,6 +188,7 @@ Si la torsion est vue tard, les douleurs ont souvent disparu, le testicule dimin
 Le traitement est celui de la maladie causale, localement les douleurs sont atténuées par le port d'un suspensoir.
 
 **Le cancer du testicule:** rare en Afrique, il touche l'homme jeune entre 20 et 35 ans. C'est un nodule qui grossit peu à peu, indolore, et déforme le testicule qui devient bosselé et dur. L'épididyme est distinct de cette tumeur, ce qui permet d'affirmer qu'elle est testiculaire et donc cancéreuse. Ce cancer est grave, il faut enlever le testicule et l'analyser puis le traitement fait appel à la radiothérapie ou à la chimiothérapie, ce qui n'est possible que dans les hôpitaux bien équipés.
+
 
 ![](i149-6.jpg)
 

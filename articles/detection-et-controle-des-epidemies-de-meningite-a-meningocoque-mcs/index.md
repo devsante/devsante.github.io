@@ -14,6 +14,7 @@ Les épidémies de méningite commencent habituellement en saison sèche et s'ac
 
 La Ceinture Africaine de la méningite ou Ceinture de Lapeyssonnie s'étend d'Est en Ouest de la mer Rouge à l'Atlantique, de l'Éthiopie au Sénégal.
 
+
 ![](i951-1.jpg)
 
 
@@ -199,6 +200,7 @@ Une fois l'épidémie confirmée, tout cas de maux de tête violents, associés 
 
 _Il est impératif d'ouvrir un registre spécial de méningite_. L'enregistrement des cas se fera de façon journalière et par zone géographique (inscrire les cas sur une carte). La déclaration doit être assurée par les moyens les plus rapides, au minimum de façon hebdomadaire.
 
+
 ![](i951-4.jpg)
 
 
@@ -214,7 +216,7 @@ Les données seront organisées selon le temps, le lieu et les caractéristiques
 
 L'analyse des données descriptives et de la courbe épidémique permet :
 
-*   d'identifier les groupes de la population particulièrement touchés par l'épidémie.
+*   d'identifier les groupes de la population particulièrement touchés par l'épidémie.  
 *   de prendre des mesures visant à réduire la létalité, diminuer l'incidence de la maladie et stopper l'épidémie.
 
 **d) Interprétation des données**
@@ -234,12 +236,12 @@ Dans un contexte d'épidémie notamment, l'objectif de la prise en charge est do
 
 La prise en charge devra respecter les principes suivants :
 
-1.  Le traitement doit être entrepris d'urgence.
-2.  La déclaration est obligatoire et immédiate.
-3.  L'admission au centre de soins le plus proche est nécessaire.
-4.  L'isolement du malade est inutile.
-5.  Le transfert dans un centre de santé éloigné est déconseillé.
-6.  En l'absence de centre de santé proche, le regroupement des malades dans un même local est recommandé.
+1.  Le traitement doit être entrepris d'urgence.  
+2.  La déclaration est obligatoire et immédiate.  
+3.  L'admission au centre de soins le plus proche est nécessaire.  
+4.  L'isolement du malade est inutile.  
+5.  Le transfert dans un centre de santé éloigné est déconseillé.  
+6.  En l'absence de centre de santé proche, le regroupement des malades dans un même local est recommandé.  
 7.  La chimioprophylaxie de l'entourage et de la communauté est fortement déconseillée.
 
 La prise en charge des cas sera adaptée aux conditions opérationnelles locales. On tiendra compte notamment des considérations d'efficacité, de coût du traitement, de facilité d'administration des produits, d'acceptabilité par les populations.
@@ -590,6 +592,7 @@ Le niveau central sera responsable de l'évaluation en termes d'efficience du pr
 *   le coût d'un décès évité.
 
 Au décours d'une épidémie notamment, il est important d'élaborer un rapport final sur l'épidémie. Les informations fournies serviront à réviser éventuellement les politiques et stratégies utilisées. Ces informations pourront, par ailleurs, faire l'objet d'une large diffusion à travers les rapports périodiques, des publications et des communications, afin de partager l'expérience acquise.
+
 
 ![](i951-7.jpg)
 

@@ -30,8 +30,8 @@ L'administration se fait en une seule injection sous¬cutanée ou intramusculair
 
 **Contre-indications**
 
-*   Hypersensibilité connue à l'un des composants du vaccin.
-*   Vaccination par le Pneumo 23 datant de moins de 3 ans.
+*   Hypersensibilité connue à l'un des composants du vaccin.  
+*   Vaccination par le Pneumo 23 datant de moins de 3 ans.  
 *   Un état fébrile > 38,5° C doit faire différer la vaccination.
 
 **Les effets indésirables** rapportés sont de légères réactions locales (douleur, érythème, oedème), une fièvre parfois importante chez l'adulte.  
@@ -50,10 +50,10 @@ Il doit être injecté par voie intramusculaire.
 
 **Schéma vaccinal**
 
-*   Chez le nourrisson à partir de 6 semaines : 2 doses injectées à 2 mois d'intervalle, le plus souvent à 2 et 4 mois en même temps que la première et la troisième injection du DTCP.Une troisième injection de rappel est recommandée à l'âge de 12 mois.
-*   Chez l'enfant âgé de 12 à 24 mois non vacciné : une dose unique de rattrapage peut être injectée.
-*   Le prématuré reçoit 3 doses à 1 mois d'intervalle, et un rappel à 12 mois.
-*   Les nourrissons à haut risque d'infection pneumococcique grave reçoivent 3 doses à 1 mois d'intervalle et un rappel à 12 mois, puis le Pneumo 23 à partir de 2 ans tous les 3 à 5 ans.
+*   Chez le nourrisson à partir de 6 semaines : 2 doses injectées à 2 mois d'intervalle, le plus souvent à 2 et 4 mois en même temps que la première et la troisième injection du DTCP.Une troisième injection de rappel est recommandée à l'âge de 12 mois.  
+*   Chez l'enfant âgé de 12 à 24 mois non vacciné : une dose unique de rattrapage peut être injectée.  
+*   Le prématuré reçoit 3 doses à 1 mois d'intervalle, et un rappel à 12 mois.  
+*   Les nourrissons à haut risque d'infection pneumococcique grave reçoivent 3 doses à 1 mois d'intervalle et un rappel à 12 mois, puis le Pneumo 23 à partir de 2 ans tous les 3 à 5 ans.  
 *   Les enfants de 2 à 5 ans à haut risque d'infection pneumococcique grave et qui n'ont pas été vaccinés peuvent recevoir 2 injections à 2 mois d'intervalle, puis être vaccinés 2 mois plus tard par le Pneumo 23, puis Pneumo 23 tous les 3 à 5 ans.
 
 **Effets indésirables**  
@@ -146,6 +146,7 @@ PNEUMO 23 : 2 mois plus tard puis tous les 3 à 5 ans</td>
 </tbody>
 
 </table>
+
 <table>
 
 <thead>
@@ -189,7 +190,7 @@ Les vaccins actuellement disponibles ont prouvé leur innocuité et leur efficac
 
 Il se conserve entre + 2° C et + 8° C à l'abri de la lumière et ne doit pas être congelé.
 
-*   C'est un vaccin lyophilisé, qui se reconstitue et est administré par voie orale.
+*   C'est un vaccin lyophilisé, qui se reconstitue et est administré par voie orale.  
 *   La vaccination se fait en deux prises. Les dates d'administration du vaccin ont été fixées pour éviter tout risque d'invagination, celle-ci épargnant généralement les nourrissons de moins de 12 semaines.  
     Ainsi, la première dose doit être administrée à partir de l'âge de 6 semaines, mais pas après 12 semaines.  
     La deuxième dose est administrée après un intervalle d'au moins 4 semaines, au plus tard à l'âge de 24 semaines.
@@ -207,10 +208,10 @@ Les risques d'invagination intestinale à la suite de ces vaccins ne sont pas au
 
 **Contre-indications**
 
-*   Hypersensibilité à l'un des composants des vaccins.
-*   Antécédents d'invagination intestinale.
-*   Malformation congénitale non opérée de l'appareil gastro-intestinal pouvant prédisposer à une invagination intestinale.
-*   Déficit immunitaire connu ou suspecté. Le vaccin reste non recommandé chez les nourrissons ayant une infection à VIH asymptomatique.
+*   Hypersensibilité à l'un des composants des vaccins.  
+*   Antécédents d'invagination intestinale.  
+*   Malformation congénitale non opérée de l'appareil gastro-intestinal pouvant prédisposer à une invagination intestinale.  
+*   Déficit immunitaire connu ou suspecté. Le vaccin reste non recommandé chez les nourrissons ayant une infection à VIH asymptomatique.  
 *   La vaccination doit être différée en cas de maladie fébrile sévère, de diarrhée ou de vomissements.
 
 **Efficacité**  
@@ -304,7 +305,7 @@ Le dépistage des lésions du col utérin repose sur le frottis cervical.
 Les vaccins sont préparés à partir de protéines virales et ne contiennent pas de produits vivants. Ils induisent une production d'anticorps neutralisants qui protègent contre l'infection mais n'ont pas d'effet thérapeutique sur des infections à HPV préexistantes.  
 Deux vaccins sont commercialisés :
 
-*   **Le vaccin quadrivalent** contient des pseudoparticules virales de types 6, 11, 16 et 18. Il permet de prévenir les lésions précancéreuses et les cancers du col de l'utérus, ainsi que les condylomes ano-génitaux dus aux virus HPV contenus dans le vaccin.
+*   **Le vaccin quadrivalent** contient des pseudoparticules virales de types 6, 11, 16 et 18. Il permet de prévenir les lésions précancéreuses et les cancers du col de l'utérus, ainsi que les condylomes ano-génitaux dus aux virus HPV contenus dans le vaccin.  
 *   **Le vaccin bivalent** contient des pseudo-particules virales de types 16 et 18.
 
 Il prévient les lésions précancéreuses et les cancers du col de l'utérus dus aux virus contenus dans le vaccin.  

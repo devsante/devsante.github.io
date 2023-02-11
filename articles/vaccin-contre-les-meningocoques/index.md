@@ -60,13 +60,13 @@ Le vaccin polyosidique monovalent contre le sérogroupe A sera le premier vaccin
 
 ### Seuil d'alerte
 
-*   Cinq cas de MCSm pour 100000 habitants en une semaine dans un district ayant une population comprise entre 30 000 et 100 000 habitants.
+*   Cinq cas de MCSm pour 100000 habitants en une semaine dans un district ayant une population comprise entre 30 000 et 100 000 habitants.  
 *   Deux cas en une semaine ou augmentation du nombre de cas par rapport aux années précédentes lorsque la population est inférieure à 30 000 habitants.
 
 ### Seuil épidémique
 
-*   **Quinze cas pour 100 000** habitants par semaine pen¬dant une semaine dans un district ayant une population comprise entre 30 000 et 100 000 habitants.
-*   **Cinq cas en une semaine ou doublement des cas en 3 semaines** pour une population de moins de 30 000 habitants. Toutefois, quand le risque épidémique est élevé (par exemple, aucune épidémie depuis 3 ans ou seuil d'alerte dépassé au début de la saison sèche), le seuil épidémique recommandé est de 10 cas/100 000 personnes par semaine.
+*   **Quinze cas pour 100 000** habitants par semaine pen¬dant une semaine dans un district ayant une population comprise entre 30 000 et 100 000 habitants.  
+*   **Cinq cas en une semaine ou doublement des cas en 3 semaines** pour une population de moins de 30 000 habitants. Toutefois, quand le risque épidémique est élevé (par exemple, aucune épidémie depuis 3 ans ou seuil d'alerte dépassé au début de la saison sèche), le seuil épidémique recommandé est de 10 cas/100 000 personnes par semaine.  
 *   A des fins opérationnelles, lorsqu'une épidémie est confirmée dans une zone limitée, le seuil d'alerte sert aussi de seuil épidémique.
 
 ## VI. Indications particulières de la vaccination
@@ -80,10 +80,10 @@ Dans la ceinture africaine, après l'âge de 2 ans, la recommandation pour ces e
 
 ## VII. Les différents vaccins
 
-*   Le vaccin méningococcique A + C, vaccin polyosidique non conjugué, est bien toléré, mais n'est efficace qu'à partir de l'âge de 2 ans. Il ne crée pas de mémoire immunologique et ne diminue pas le portage pharyngé. Le vaccin polyosidique A + C protège en principe pendant 4 ans. Il est utilisable à partir de l'âge de 9 mois et même de 6 mois en cas d'épidémie de méningocoque A. lI n'est pas utilisé dans les programmes de vaccination systématique du nourrisson.
-*   Le vaccin trivalent A + C + W135 est un vaccin polyosidique non conjugué qui a les mêmes caractéristiques que le vaccin A + C. Il est réservé aux épidémies dues à la souche du sérogroupe W135.
-*   Le vaccin tétravalent A + C + Y + W135 est destiné aux vaccinations des pélerins se rendant à La Mecque.
-*   Le vaccin C conjugué protège dès l'âge de 2 mois. Il a une mémoire immunologique (immunité T-dépendante avec possibilité de réponse anam-nestique), réduit le portage du germe et donc la contamination. Il est efficace et bien toléré dans toutes les classes d'âge, y compris chez le nourrisson, et est facile à introduire dans le calendrier des programmes de vaccination systématique de l'enfant.
+*   Le vaccin méningococcique A + C, vaccin polyosidique non conjugué, est bien toléré, mais n'est efficace qu'à partir de l'âge de 2 ans. Il ne crée pas de mémoire immunologique et ne diminue pas le portage pharyngé. Le vaccin polyosidique A + C protège en principe pendant 4 ans. Il est utilisable à partir de l'âge de 9 mois et même de 6 mois en cas d'épidémie de méningocoque A. lI n'est pas utilisé dans les programmes de vaccination systématique du nourrisson.  
+*   Le vaccin trivalent A + C + W135 est un vaccin polyosidique non conjugué qui a les mêmes caractéristiques que le vaccin A + C. Il est réservé aux épidémies dues à la souche du sérogroupe W135.  
+*   Le vaccin tétravalent A + C + Y + W135 est destiné aux vaccinations des pélerins se rendant à La Mecque.  
+*   Le vaccin C conjugué protège dès l'âge de 2 mois. Il a une mémoire immunologique (immunité T-dépendante avec possibilité de réponse anam-nestique), réduit le portage du germe et donc la contamination. Il est efficace et bien toléré dans toutes les classes d'âge, y compris chez le nourrisson, et est facile à introduire dans le calendrier des programmes de vaccination systématique de l'enfant.  
 *   Un nouveau vaccin antiméningococcique A conjugué, spécialement destiné aux pays afri¬cains, est en cours de mise au point par le projet MVP (Projet Vaccin Méningite). Sa disponibilité est attendue pour 2011.
 
 Il n'existe pas de vaccin contre les méningocoques des groupes B et X.
@@ -188,6 +188,7 @@ une injection assure une protection d'au moins 10 ans
 </tbody>
 
 </table>
+
 
 ![](afrique.jpg)
 

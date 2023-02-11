@@ -29,14 +29,15 @@ L'examen clinique en cas de traumatisme ou suspicion de traumatisme oculaire doi
 
 Devant un traumatisme, l'interrogatoire étudie :
 
-*   les **antécédents** du patient - surtout si une anesthésie générale est envisagée - l'âge, le statut vaccinal tétanique, l'heure du dernier repas, les allergies éventuelles...
+*   les **antécédents** du patient - surtout si une anesthésie générale est envisagée - l'âge, le statut vaccinal tétanique, l'heure du dernier repas, les allergies éventuelles...  
 *   les **circonstances de survenue** : elles orientent souvent le diagnostic des lésions (exemple : traumatisme par fil de fer arrivé en fouettant = érosion, ou par projection = plaie). Est-ce arrivé en meulant (CE alors superficiel), ou en tapant (CE profond) ?
+
 
 ![](12075-1.jpg)
 
 
 *   **la nature de l'agent impactant** : métal­lique (les patients connaissent souvent la nature du métal), végétal, ses dimensions, sa masse, la vitesse et la force du coup. On essaiera aussi de déterminer si le trau­matisme est contusif ou perforant ;
-*   **le contexte de survenue** : accident du travail (certificat initial d'AT à remplir), agres­sion (certificat médico-légal de coups et blessures ), accident domestique...
+*   **le contexte de survenue** : accident du travail (certificat initial d'AT à remplir), agres­sion (certificat médico-légal de coups et blessures ), accident domestique...  
 *   **les signes fonctionnels** : douleur, lar­moiement (parfois banal, parfois écoulement d'humeur aqueuse en cas de perforation), photophobie, baisse d'acuité visuelle ; leur évolution sera notée.
 
 ### 2. Examen clinique ophtalmologique
@@ -112,7 +113,7 @@ Le patient arrive en général avec son diagnostic et a souvent déjà rincé so
 
 En pratique, 2 types de brûlures :
 
-*   brûlure bénigne superficielle (99 % des cas) avec oeil rouge ou très rouge par irritation conjonctivale, cornée normale ou légère­ment désépithélialisée mais restant transpa­rente (test à la fluorescéine).
+*   brûlure bénigne superficielle (99 % des cas) avec oeil rouge ou très rouge par irritation conjonctivale, cornée normale ou légère­ment désépithélialisée mais restant transpa­rente (test à la fluorescéine).  
 *   brûlure grave profonde (0,5 % des cas) : conjonctivite "porcelaine", nécrotique et cornée blanche opalescente, voire perfora­tion d'emblée.
 
 #### b. Traitement
@@ -123,7 +124,7 @@ En cas de brûlure basique par ciment, enlever tous les corps étrangers, si bes
 
 Parfois, en cas de brûlure grave, un lavage des voies lacrymales est nécessaire pour limiter le risque de sténose secondaire. Un bilan précis des lésions est établi après lavage soigneux :
 
-*   si c'est bénin : le malade repart chez lui avec antibiotiques + cicatrisants en collyre.
+*   si c'est bénin : le malade repart chez lui avec antibiotiques + cicatrisants en collyre.  
 *   si c'est grave : adresser le malade à un centre spécialisé pour prévenir les séquelles (mal­heureusement fréquentes).
 
 #### c. Séquelles
@@ -159,8 +160,8 @@ En phase aiguë le CE peut être méconnu car la porte d'entrée est souvent min
 
 #### b. Diagnostic de localisation (où est le corps étranger ?)
 
-*   **radiographies systématiques avec diverses incidences :** incidence de Blon­deau, radio de l'orbite de profil, centrée sur l'orbite et dans les 4 directions du regard. Ces clichés permettront la localisation intra­ou extra-oculaire, postérieure ou antérieure.
-*   **échographie oculaire bidimensionnelle**: rarement faite en urgence, elle est plus utile au stade des séquelles. Elle retrouverait le CE qui est hyperéchogène avec artéfacts s'il est métallique, mais non s'il est si végétal.
+*   **radiographies systématiques avec diverses incidences :** incidence de Blon­deau, radio de l'orbite de profil, centrée sur l'orbite et dans les 4 directions du regard. Ces clichés permettront la localisation intra­ou extra-oculaire, postérieure ou antérieure.  
+*   **échographie oculaire bidimensionnelle**: rarement faite en urgence, elle est plus utile au stade des séquelles. Elle retrouverait le CE qui est hyperéchogène avec artéfacts s'il est métallique, mais non s'il est si végétal.  
 *   **scanner oculaire sans injection +++** examen roi qui permet une localisation très précise du CE.
 
 #### c. Traitement
@@ -261,7 +262,7 @@ Aucun collyre ne hâte la résorption spontanée (ex. collyre : DIOPARINE' penda
 
 **Comment utiliser un collyre** _(photos 1 et 2)_
 
-*   Se laver les mains entre chaque malade.
+*   Se laver les mains entre chaque malade.  
 *   Bien savoir mettre gouttes et pommade dans un oeil: faire regarder le malade en haut, écarter la paupière inférieure avec l'index, et, dans le creux ainsi constitué, faire tomber la goutte. L'oeil ne contient qu'une goutte, inutile d'en mettre plus.
 
 **Attention : ne pas toucher le bord de la paupière avec le bout du flacon.**
@@ -269,6 +270,7 @@ Aucun collyre ne hâte la résorption spontanée (ex. collyre : DIOPARINE' penda
 **Retourner une paupière supérieure** _(photo 3)_ : faire regarder le malade en bas. Pincer les cils très fort entre deux doigts de la main droite, retourner la paupière en se servant de l'index gauche comme pivot.
 
 Photos
+
 
 ![](12075-3.jpg)
 

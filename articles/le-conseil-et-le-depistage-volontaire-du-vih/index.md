@@ -27,7 +27,7 @@ Dès l'accueil dans le Centre où elles sont enregistrées, les femmes enceintes
 
 #### **La séance est animée :**
 
-*   Soit par une sage-femme du centre déléguée à cette tâche et dans ce cas, un calendrier doit être établi pour permettre à toutes les sages femmes du CCPN d'y participer chacune à leur tour.
+*   Soit par une sage-femme du centre déléguée à cette tâche et dans ce cas, un calendrier doit être établi pour permettre à toutes les sages femmes du CCPN d'y participer chacune à leur tour.  
 *   Soit par une animatrice, bénévole ou professionnelle ayant reçu une bonne formation à l'éducation pour la santé.
 
 La langue utilisée au cours de la séance sera la langue dominante du pays. Mais il faudra s'aider si besoin d'interprètes - souvent recrutées spontanément parmi les femmes présentes - capables de traduire le message dans la langue vernaculaire.
@@ -40,10 +40,10 @@ Il est bon de commencer par une présentation du personnel de CPN y compris les 
 
 *   L'importance de connaître son statut sérologique, la période de latence, et le processus du test.
 
-*   L'existence et l'accessibilité au prélèvement sur place pour un dépistage volontaire.
+*   L'existence et l'accessibilité au prélèvement sur place pour un dépistage volontaire.  
 *   La confidentialité et la notion de confidentialité partagée.
 
-*   Le programme PTME, la prophylaxie antirétrovirale et les précautions pour l'allaitement.
+*   Le programme PTME, la prophylaxie antirétrovirale et les précautions pour l'allaitement.  
 *   L'importance de toutes les CPN, le premier trimestre inclus.
 
 *   Les autres risques sanitaires liés à la grossesse et l'accouchement.
@@ -67,7 +67,7 @@ Des séances particulières peuvent être organisées avec des groupes spécifiq
 *   jeunes filles ou femmes en âge d'être mariées et de procréer : insister sur la physiologie génitale, l'exercice d'une sexualité responsable, la prévention des IST, le désir de grossesse, les traditions et les obstacles à l'évolution, les conséquences des mutilations sexuelles, les craintes et les questions, etc.
 
 *   femmes primipares : insister sur la physiologie de la grossesse et de l'accouchement, le risque des primo-infections VIH pendant la grossesse, leur capacité à prendre des décisions autonomes et toujours l'écoute des peurs et des questions,
-*   femmes plus âgées (grands-mères, tantes, belles-mères, matrones) sur les points délicats, nécessitant des changements de comportement des plus jeunes, afin de tester leurs facultés d'autonomie, les capacités d'évolution des traditions et surtout les facteurs de blocage à contourner...
+*   femmes plus âgées (grands-mères, tantes, belles-mères, matrones) sur les points délicats, nécessitant des changements de comportement des plus jeunes, afin de tester leurs facultés d'autonomie, les capacités d'évolution des traditions et surtout les facteurs de blocage à contourner...  
 *   Les conjoints et partenaires. Il est parfois difficile de les intégrer facilement dans une séance collective mixte, avec leurs épouses, au risque de bloquer l'expression libre de celles-ci. Et pourtant les messages, si on désire qu'ils soient appliqués doivent être agréés par eux...
 
 ## II. Le conseil pré-test
@@ -85,7 +85,7 @@ Des séances particulières peuvent être organisées avec des groupes spécifiq
 *   la réalisation pratique du test et ses conséquences,
 *   les moyens de prévention et d'accès aux médicaments,
 *   le choix libre pour le dépistage ainsi que les implications du suivi médical approprié,
-*   la possibilité de discuter ou non du résultat avec son conjoint et/ou autre membre intime, etc...
+*   la possibilité de discuter ou non du résultat avec son conjoint et/ou autre membre intime, etc...  
 *   les informations sur les ressources locales (associatives ou publiques) auprès de qui la patiente peut s'adresser pour mieux comprendre.
 
 **La sage-femme s'assure que les messages donnés dans la session de groupe ont été bien assimilés :**
@@ -117,9 +117,9 @@ Il faut souligner l'importance de retourner dans les délais (pas plus de 3 à 4
 
 ### 2. Si la patiente a décidé de ne pas subir le test
 
-*   Il faut tenter de comprendre les raisons et les motivations.
-*   Se mettre à disposition pour poursuivre les explications.
-*   Essayer de lever les obstacles individuels et subjectifs, ou environnementaux et objectifs.
+*   Il faut tenter de comprendre les raisons et les motivations.  
+*   Se mettre à disposition pour poursuivre les explications.  
+*   Essayer de lever les obstacles individuels et subjectifs, ou environnementaux et objectifs.  
 *   Respecter le rythme d'acceptation de la personne.
 
 **Certaines causes qui peuvent amener le refus ont été identifiées :**
@@ -137,13 +137,13 @@ Il faut souligner l'importance de retourner dans les délais (pas plus de 3 à 4
 
 *   Soyez attentifs et sensibles aux enjeux culturels de chaque patiente.
 
-*   Identifiez les facteurs de vulnérabilité, monogamie ou polygamie, la disparité entre le statut social de la femme et le statut social de l'homme dans chaque société.
+*   Identifiez les facteurs de vulnérabilité, monogamie ou polygamie, la disparité entre le statut social de la femme et le statut social de l'homme dans chaque société.  
 *   Explorez la compréhension de l'infection par le VIH, les interprétations et les représentations de la médecine, de la sexualité, de la mort, de la honte, de la réputation, les croyances culturelles au sujet du SIDA et de l'infection par le VIH.
 
 ### 3. Si la patiente n'est pas encore décidée
 
-*   Revenir à chaque consultation aux avantages et inconvénients du test au cours de la grossesse.
-*   Reformuler les informations.
+*   Revenir à chaque consultation aux avantages et inconvénients du test au cours de la grossesse.  
+*   Reformuler les informations.  
 *   Proposer un entretien avec un volontaire associatif, de préférence une personne vivant avec le VIH, capable de témoigner de son expérience et d'apporter un message réconfortant.
 
 Il est important d'approfondir l'avis de la femme et de lui laisser le temps nécessaire, pour sa décision.
@@ -179,7 +179,7 @@ Le conseil post-test individuel et confidentiel qui se tient trois à quatre jou
 Le conseil post-test en ce cas se base sur :
 
 *   La prévention du VIH/SIDA
-*   La notion de "la période fenêtre" en vue d'encourager les clientes à discuter du VIH/SIDA avec leur conjoint en vue d'une prévention optimale, et la possibilité d'être retestée en fin de grossesse.
+*   La notion de "la période fenêtre" en vue d'encourager les clientes à discuter du VIH/SIDA avec leur conjoint en vue d'une prévention optimale, et la possibilité d'être retestée en fin de grossesse.  
 *   Les risques accrus de contamination du bébé par une primoinfection VIH pendant la grossesse et l'allaitement, pour inciter le partenaire à se faire tester et adopter un comportement responsable.
 
 *   La promotion de l'allaitement maternel, exclusif jusqu'à 6 mois et pouvant être prolongé jusqu'à 24 mois après introduction d'une alimentation complémentaire.
@@ -192,16 +192,16 @@ Quelques recommandations générales sont nécessaires : faire attendre la patie
 
 L'entretien doit porter sur les notions suivantes :
 
-*   Information pratique sur le VIH/SIDA, ses manifestations.
-*   Insistance sur l'importance du suivi mensuel médical avec l'accès au traitement des Infections Opportunistes, et à la trithérapie...
-*   Information pratique sur le programme PTME (antirétroviraux, bénéfices et risques respectifs des différentes méthodes d'allaitement).
-*   L'importance d'accoucher à l'hôpital de référence.
-*   Encouragements à informer leur conjoint de la possibilité de réaliser le test VIH/SIDA et à faire tester leurs autres enfants.
-*   L'utilisation du préservatif est recommandée pour la protection du ou des partenaires et pour éviter une surcontamination.
-*   Discussion sur les difficultés éventuelles et les obstacles à lever concernant ces deux derniers points.
-*   Information pratique sur les possibilités de soutien, les partenaires du réseau.
-*   Information sur la notion de confidentialité partagée.
-*   Prise de rendez vous pour les conseils de suivi, incluant la visite du 8ème mois durant laquelle le traitement prophylactique sera fourni à la femme.
+*   Information pratique sur le VIH/SIDA, ses manifestations.  
+*   Insistance sur l'importance du suivi mensuel médical avec l'accès au traitement des Infections Opportunistes, et à la trithérapie...  
+*   Information pratique sur le programme PTME (antirétroviraux, bénéfices et risques respectifs des différentes méthodes d'allaitement).  
+*   L'importance d'accoucher à l'hôpital de référence.  
+*   Encouragements à informer leur conjoint de la possibilité de réaliser le test VIH/SIDA et à faire tester leurs autres enfants.  
+*   L'utilisation du préservatif est recommandée pour la protection du ou des partenaires et pour éviter une surcontamination.  
+*   Discussion sur les difficultés éventuelles et les obstacles à lever concernant ces deux derniers points.  
+*   Information pratique sur les possibilités de soutien, les partenaires du réseau.  
+*   Information sur la notion de confidentialité partagée.  
+*   Prise de rendez vous pour les conseils de suivi, incluant la visite du 8ème mois durant laquelle le traitement prophylactique sera fourni à la femme.  
 *   Prise de rendez-vous pour le bilan spécifique à la consultation VIH de référence.
 
 L'annonce d'un diagnostic est toujours un évènement marquant : l'information, l'écoute et le soutien du médecin jouent un rôle important. Sage-femme et médecin doivent former un binôme permettant la cohérence des décisions et de la prise en charge, facteurs essentiel pour limiter les pertes de suivi.
@@ -209,6 +209,7 @@ L'annonce d'un diagnostic est toujours un évènement marquant : l'information, 
 ## V. Recours possibles en cas de séropositivité
 
 Ils dépendent de chaque pays et contexte politique et culturel. Dans le but d'assurer une prise en charge optimale un réseau de personnes-ressources et d'institutions devrait partout être mis en place, permettant de couvrir les besoins essentiels des personnes et des familles vivant avec le VIH.
+
 
 ![](ii1062-1.jpg)
 
@@ -259,6 +260,7 @@ Pour atténuer les conséquences néfastes de cette perte de suivi pour la mère
 *   Etudiez la faisabilité des visites à domicile par une assistante sociale ou une volontaire associative dans le contexte local et programmez-les d'avance avec les familles, au rythme qui leur convient.
 
 Mais n'oubliez pas que la coercition en matière de soins n'est jamais un moyen efficace sur le long terme. Donc, soyez patients et diplomates...
+
 
 ![](i1062-2.jpg)
 

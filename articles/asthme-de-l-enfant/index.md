@@ -84,6 +84,7 @@ Il faudra craindre une crise grave chez l'enfant devant les arguments suivants _
 
 - traitements déjà pris.
 
+
 ![](i828-1.jpg)
 
 
@@ -143,7 +144,9 @@ Méthylprednisolone en intraveineuses 2 mg/kg/6 heures.
 
 Hémisuccinate en intraveineuses (Dirpcortisone® ) 5 mg/kg/4 heures.
 
+
 ![](i828-2.jpg)
+
 ![](i828-3.jpg)
 
 
@@ -180,6 +183,7 @@ Chez un asthmatique connu et traité, la sur venue de manifestations à l'effort
 - surinfection bronchique gênant l'action des thérapeutiques inhalées (?2 stimulants et corticoïdes).
 
 Des règles d'hygiène et de diététique sont à conseiller pour ne pas " installer " l'enfant asthmatique dans sa maladie _(voir encadré n°2)._
+
 
 ![](i828-4.jpg)
 

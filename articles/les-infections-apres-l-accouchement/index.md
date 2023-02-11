@@ -66,6 +66,7 @@ Toute rétention, même sans fièvre, doit être considérée comme potentiellem
 
 L'infection est fréquente dans les suites d'un avortement, spécialement lorsque celui-ci a été fait clandestinement et sans mesure d'asepsie; la vie de la femme ou sa future fertilité sont là encore en jeu; les infections de l'utérus sont les principales infections, on choisira donc un traitement par l'ampicilline : 3 g par jour pendant sept jours; il faut également suspecter une perforation ou une rétention ; en cas de rétention, le curage au doigt n'est généralement possible qu'après trois mois de grossesse ; les règles précédemment décrites pour le curetage (choix de la curette, asepsie, risque de perforation ... ) sont vraies là encore. Une pelvi-péritonite est possible, qui nécessite parfois une intervention chirurgicale. La vaccination antitétanique doit être vérifiée.
 
+
 ![](i962-1.jpg)
 
 

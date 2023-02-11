@@ -68,13 +68,15 @@ Troubles de la conscience, convulsions, nausées, vomissements, fièvre...
 
 ### Mise en observation au dispensaire pendant 1 jour
 
-*   Allonger le patient dans un endroit calme.
+*   Allonger le patient dans un endroit calme.  
 *   Prendre la tension, le pouls, la température.  
     Rappel une tension supérieure à 140/90 = hypertension artérielle
-*   Chercher des signes associés.
-*   Rassurer le patient.
-*   Calmer la douleur avec des antalgiques paracétamol : 500 mg x 3/j au maximum 3 jours.
+*   Chercher des signes associés.  
+*   Rassurer le patient.  
+*   Calmer la douleur avec des antalgiques paracétamol : 500 mg x 3/j au maximum 3 jours.  
 *   Evaluer l'efficacité du traitement antalgique en observant les attitudes du patient et en le questionnant.
 
+
 ![](i994-1.jpg)
+
 ![](i994-2.jpg)

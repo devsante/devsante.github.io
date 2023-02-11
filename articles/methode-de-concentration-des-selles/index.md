@@ -39,6 +39,7 @@ Le mélange éther-formol est détonant : manipuler loin des sources de chaleur.
 
 ## **Méthode au formol-éther**
 
+
 ![](i652-1.jpg)
 
 
@@ -104,6 +105,7 @@ Vigoureusement pour obtenir une solution homogène.
 
 5 min avec une centrifugeuse manuelle ou 2 min 30 avec une centrifugeuse électrique, à vitesse moyenne.
 
+
 ![](i652-2.jpg)
 
 
@@ -117,6 +119,7 @@ Vous obtenez quatre couches :
 ### **6. Éliminer**
 
 Les surnageants (1), (2), (3) pour recueillir le culot (4). Retourner le tube d'un coup brusque. Vous pouvez vous aider d'une pipette pour aspirer et rejeter les surnageants.
+
 
 ![](i652-3.jpg)
 

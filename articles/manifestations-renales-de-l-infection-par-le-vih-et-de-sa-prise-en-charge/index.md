@@ -48,6 +48,7 @@ L'utilisation d'une bandelette urinaire permet également de dépister une héma
 
 **Figure 1. Algorithme de dépistage de la maladie rénale chez un patient infecté par le VIH** (d'après "VIH : complications et comorbidités", coordonné par C. Katlama).
 
+
 ![](figure-1-vih-rein.jpg)
 
 
@@ -55,13 +56,13 @@ L'utilisation d'une bandelette urinaire permet également de dépister une héma
 
 ### 1. Au moment du diagnostic de l'infection à VIH
 
-*   Créatininémie, si possible clairance de la créatinine ou MDRD pour estimer le DFG.
+*   Créatininémie, si possible clairance de la créatinine ou MDRD pour estimer le DFG.  
 *   Bandelette urinaire : recherche d'une protéinurie.
 
 ### 2. Avant l'initiation d'un traitement
 
-*   Créatininémie, si possible clairance de la créatinine ou MDRD pour estimer le DFG.
-*   Bandelette urinaire : recherche d'une protéinurie et d'une glycosurie (si la protéinurie est positive, faire un dosage).
+*   Créatininémie, si possible clairance de la créatinine ou MDRD pour estimer le DFG.  
+*   Bandelette urinaire : recherche d'une protéinurie et d'une glycosurie (si la protéinurie est positive, faire un dosage).  
 *   Dosage de la phosphorémie en fonction du traitement
 
 ### 3.En suivi du traitement dans la durée
@@ -78,8 +79,8 @@ Il faut faire une échographie.
 
 Il existe, comme dans la population générale, trois types de causes :
 
-*   Causes prérénales : il s'agit d'IRA fonctionnelles favorisées par la déshydratation, la dénutrition et l'hypoalbuminémie.
-*   Causes rénales : elles sont nombreuses et complexes. Il faut surtout insister sur les infections, le rôle de certains médicaments (notamment les AINS), et le syndrome de restauration immunitaire.
+*   Causes prérénales : il s'agit d'IRA fonctionnelles favorisées par la déshydratation, la dénutrition et l'hypoalbuminémie.  
+*   Causes rénales : elles sont nombreuses et complexes. Il faut surtout insister sur les infections, le rôle de certains médicaments (notamment les AINS), et le syndrome de restauration immunitaire.  
 *   Causes post-rénales : il s'agit d'un obstacle sur les voies urinaires.
 
 Un épisode d'IRA augmente la mortalité et favorise l'apparition d'une IRC.

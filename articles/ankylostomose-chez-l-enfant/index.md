@@ -11,7 +11,9 @@ Il existe deux espèces d’ankylostomes : _Ankylostoma duodenale_ en zone subtr
 
 _**Necator                                    Ankylostoma**_
 
+
 ![](page-8-fig-10-necator-0.jpg)
+
 ![](page-8-fig-9-0.jpg)
 
 

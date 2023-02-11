@@ -24,7 +24,7 @@ Les causes habituelles relevées sont les suivantes :
 **C'est un risque majeur.**
 
 *   par des **liquides chauds,** soit la moitié des causes de brûlures : l'enfant renverse sur lui l'eau de préparation des repas (sauces ... );
-*   par des **objets chauds** : marmite posée sur le feu, gazinière, etc.
+*   par des **objets chauds** : marmite posée sur le feu, gazinière, etc.  
 *   par des **substances corrosives :** produits chimiques acides, alcalins ;
 *   et tout simplement par le **feu** : charbon incandescent.
 
@@ -56,13 +56,14 @@ Dans les causes précédentes, c'est la peau, enveloppe protectrice, qui est men
 
 *   La très dangereuse **graine d'arachide** L'enfant l'avale mal ; elle passe dans la trachée et les bronches et réalise un tableau d'obstruction pulmonaire totale ou partielle. Rappelons la manœuvre de Heimlich : l'enfant a avalé une graine, il tousse et étouffe. Il ne faut surtout pas le renverser mais le tenir debout, son dos contre soi, mettre le poing sous le sternum et appuyer en remontant brusquement afin de faire expulser la graine comme un bouchon de champagne (_fig_. _1)._
 
+
 ![](i536-1.jpg)
 
 
-*   Autre grand ennemi des parents : le **pétrole** auquel on peut adjoindre les produits chimiques. Combien de mères n'ont pas craint pour leur enfant à cause d'une bouteille de pétrole laissée dans un coin. Le risque est une pneumopathie toxique qui va se surinfecter. Les complications précoces sont les plus redoutables : asphyxie, état de choc, convulsions. Faire vomir est contre-indiqué.
+*   Autre grand ennemi des parents : le **pétrole** auquel on peut adjoindre les produits chimiques. Combien de mères n'ont pas craint pour leur enfant à cause d'une bouteille de pétrole laissée dans un coin. Le risque est une pneumopathie toxique qui va se surinfecter. Les complications précoces sont les plus redoutables : asphyxie, état de choc, convulsions. Faire vomir est contre-indiqué.  
 *   Les **intoxications par médicaments** sont multiples, heureusement souvent bénignes, mais deux sont à signaler pour leur extrême dangerosité :
 *   **l'aspirine :** sont associés une hyperpnée, des troubles de la conscience, des signes de déshydratation, des hémorragies digestives. Rappelons qu'il ne faut pas dépasser 50 mg/kg/jour) dans une prescription ;
-*   la **chloroquine :** malaise, coma, arrêt cardio-respiratoire.
+*   la **chloroquine :** malaise, coma, arrêt cardio-respiratoire.  
 *   Ajoutons les **intoxications alimentaires** lorsque les restes d'un repas sont resservis le lendemain.
 
 ### 6. L'électricité

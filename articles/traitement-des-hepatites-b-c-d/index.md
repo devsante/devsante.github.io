@@ -43,6 +43,7 @@ Au cours de cette phase de portage inactif, peuvent survenir des phases de  r�
 
 **Figure 1 : histoire naturelle de l'hépatite B chronique**
 
+
 ![](page-55-traitements.jpg)
 
 
@@ -50,6 +51,7 @@ Le  diagnostic  de  l'hépatite  B  est  rappelé  dans  la figure 2 qu
 stades de la maladie.
 
 **Figure 2 : diagnostic des formes cliniques de l'hépatite B**
+
 
 ![](page-56-diagnostic-p-56.jpg)
 
@@ -102,6 +104,7 @@ Comme indiqué dans les figures 3a et 3b, chez les patients Ag HBe+, probableme
 _**Figure 3a : résultats des essais thérapeutiques conduits  
 chez des patients Ag HBe+**_
 
+
 ![](page-58-trait-fig-3-bat.jpg)
 
 
@@ -112,7 +115,8 @@ La figure 3b montre les taux de disparition de l'ADN du VHB avec les différent
 Le  problème de la résistance sera traité dans le chapitre co-infections.
 
 _** Figure 3b : résultats des essais thérapeutiques conduits  
-chez des patients Ag HBe-**_![](page-61-trait-fig-4-bat.jpg)
+chez des patients Ag HBe-**_
+![](page-61-trait-fig-4-bat.jpg)
 
 
 ### 4. Co-infections par le VHB et le VIH
@@ -168,6 +172,7 @@ Un schéma de la prise en charge est proposé sur la figure 4 ci-dessous.
 
 _**Figure 4 : co-infections/surinfections Delta**_
 
+
 ![](page-62-trait-fig-5-bat.jpg)
 
 
@@ -213,6 +218,7 @@ réplication du virus par la recherche de l'ARN viral pour affirmer qu'il exist
 réaliser un bilan pour prendre en charge le patient. Ce bilan  comprend  un  bilan  virologique partiellement basé sur la recherche de génotype viral, qui  conditionne les indications thérapeutiques, et la quantification de la charge virale pour évaluer  les  chances de réponse et avoir une détermination de la charge virale pour suivre le traitement [40] .
 
 _**Figure 5 : histoire naturelle de l'infection par le VHC**_
+
 
 ![](fig-5-page-63.jpg)
   
@@ -270,6 +276,7 @@ En  ce  qui  concerne  les  effets  secondaires  rapportés chez les pati
 ### 4. Résultats des thérapeutiques anti-VHC chez les patients co-infectés
 
 Le tableau 1 résume les résultats des 5 grandes études contrôlées utilisant l'association interféron pégylé et ribavirine chez les patients co-infectés.
+
 
 ![](page-66-hepatite-traitements.jpg)
 

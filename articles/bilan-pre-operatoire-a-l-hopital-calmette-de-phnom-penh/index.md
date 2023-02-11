@@ -20,6 +20,7 @@ C'est un document obligatoire. Il doit comporter :
 
 Au terme de ce bilan, on peut déterminer les risques qui peuvent apparaître en per- et postopératoire d'après la classification de l'American Society of Anesthesiologist (ASA) (voir encadré).
 
+
 ![](i822-2.jpg)
 
 
@@ -61,6 +62,7 @@ Les éléments importants sont inscrits de façon détaillée sur la feuille d'a
 
 La prescription d'examens complémentaires pré-opératoires par le chirurgien ou par l'anesthésiste, en chirurgie programmée comme en urgence, est guidée par un protocole qui tient compte du risque clinique (tableau).
 
+
 ![](i822-1.jpg)
 
 
@@ -71,10 +73,12 @@ Voir, pour information, 3 documents utilisés dans le service Anesthésie-Réani
 Dossier patient :
 
 *   consultation pré-anesthésique,
-*   prescriptions postopératoires.
+*   prescriptions postopératoires.  
 *   feuille de surveillance Anesthésie.
 
+
 ![](i822-3.jpg)
+
 ![](i822-4.jpg)
 
 

@@ -70,7 +70,9 @@ L'EVS, dans sa présentation la plus usuelle, est constituée par 4 ou 5 catégo
 
 L'EVA dans sa forme habituelle, se présente sous la forme d'une ligne horizontale de 100 millimètres, orientée de gauche à droite. Les deux extrémités de la ligne sont définies par exemple, par "douleur - absente", "douleur maximale imaginable". Le patient répond en traçant une croix sur la ligne. La distance entre la position du trait et l'extrémité "douleur absente" sert d'indice numérique pour le trai­tement des données. La mesure s'effectue au millimètre près.
 
+
 ![](image002-eva-dlr-aigue-n-191-2.jpg)
+
 
 
 ![](image004.jpg)
@@ -82,6 +84,7 @@ Les échelles "globales", (EVS, EN, EVA) ont l'avantage d'être simples, rapides
 
 Echelle de visages - on dit à l'enfant : "Voici des bonshommes qui ont mal. Montre le visage qui a autant mal que toi".  
 Au dos de la règle apparaît la cotation en chiffre : 0, 2, 4, 6, 8, 10 en douleur croissante.
+
 
 ![](image004-dlr-aigue-eval-enfant-n-191-2.jpg)
 
@@ -108,6 +111,7 @@ Dans ces situations, l'observation du compor­tement du malade donne les informa
 *   savoir confier l'observation du malade à une personne de l'entourage (membre de la famil­le, de l'équipe soignante).
 
 Au terme d'une évaluation globale du malade, il sera possible de combiner diverses stratégies thérapeutiques adaptées à la symptomatologie douloureuse. L'évaluation de l'intensité de la douleur systématique, régulière, continue, est indispensable lors de l'adaptation d'un traite­ment antalgique notamment morphinique. Une évaluation commune à l'équipe, figurant dans le dossier, tenue à jour, est valable à l'hôpital comme au domicile et implique une collaboration étroite de chaque intervenant d'une équipe soignante.
+
 
 ![](image006.jpg)
 

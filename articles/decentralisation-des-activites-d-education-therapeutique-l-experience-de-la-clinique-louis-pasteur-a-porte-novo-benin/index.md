@@ -94,9 +94,9 @@ _Comment avez-vous procédé pour former les éducateurs des centres périphéri
 
 Notre module de formation s'est déroulé en quatre étapes :
 
-1.  Formation théorique et pratique à la CLP pendant 5 jours.
-2.  Formation pratique sur le site de l'agent formé : une éducatrice de la CLP se rend sur le site concerné pendant 5 jours.
-3.  La personne formée écrit un mémoire de 8 à 10 pages.
+1.  Formation théorique et pratique à la CLP pendant 5 jours.  
+2.  Formation pratique sur le site de l'agent formé : une éducatrice de la CLP se rend sur le site concerné pendant 5 jours.  
+3.  La personne formée écrit un mémoire de 8 à 10 pages.  
 4.  Délivrance d'une attestation de formation en éducation thérapeutique.
 
 Après la phase de formation, nous n'intervenons plus de manière spécifique sur le site. Mais des échanges se font avec ces centres dans le cadre du réseau régional de soins et de formation.
@@ -105,13 +105,13 @@ Après la phase de formation, nous n'intervenons plus de manière spécifique su
 
 Les 4 médecins de la CLP impliqués dans la prise en charge et les 3 éducatrices animent la formation théorique et pratique :
 
-*   Les médecins pour l'aspect théorique de la formation.
+*   Les médecins pour l'aspect théorique de la formation.  
 *   Les éducatrices pour les aspects pratiques notamment l'utilisation des outils lors des séances et l'accompagnement sur les sites respectifs dans le cadre de la formation.
 
 Le programme se décompose en deux modules :
 
 1.  Module tronc commun : destiné aux soignants des services de soins pratiquant ou non la prise en charge. L'objectif est de les sensibiliser à la prise en charge globale du VIH.  
-    Les principaux thèmes abordés sont : le VIH, les modalités de la transmission, la prévention de la transmission, l'histoire naturelle, la prise en charge globale (PCE) de l'adulte, de l'enfant et de la gestion avec introduction à l'éducation thérapeutique.
+    Les principaux thèmes abordés sont : le VIH, les modalités de la transmission, la prévention de la transmission, l'histoire naturelle, la prise en charge globale (PCE) de l'adulte, de l'enfant et de la gestion avec introduction à l'éducation thérapeutique.  
 2.  Module spécifique ETP : destiné aux futures éducatrices.  
     Les principaux thèmes abordés sont : l'historique du concept d'éducation thérapeutique, la faisabilité, la justification, les moments, les outils, la pérennisation.
 
@@ -125,7 +125,7 @@ Une éducatrice de la CLP accompagne les futures éducatrices au cours des premi
 
 Les sujets portent obligatoirement sur l'éducation thérapeutique en insistant sur des situations pratiques observées sur le site. Par exemple :
 
-1.  Établir une planification du programme d'éducation thérapeutique à mettre en place sur un site ayant formé 2 éducateurs et ayant déjà une file active de 400 PWIH sous ARV et qui souhaite impliquer absolument tous ses patients.
+1.  Établir une planification du programme d'éducation thérapeutique à mettre en place sur un site ayant formé 2 éducateurs et ayant déjà une file active de 400 PWIH sous ARV et qui souhaite impliquer absolument tous ses patients.  
 2.  Un patient de 50 ans, Yoruba, gardien est suivi sur votre site pour une infection par le VIH. Il est sous D4T + 3TC + EFZ. Depuis 6 mois il a arrêté de prendre les ARV car il ne trouve pas d'amélioration et dit que si les ARV ne guérissent pas la maladie à quoi bon continuer... d'ailleurs les ARV le fatiguent et l'empêchent de travailler. Que diriez vous à ce patient ? Sur quels points insister dans votre éducation thérapeutique ?
 3.  Les difficultés de mise en place d'un programme d'éducation thérapeutique sur votre site : formulation et approche de solutions.
 
@@ -146,8 +146,8 @@ Une bonne sélection des participants aux formations en éducation thérapeutiqu
 
 _Quels conseils donneriez vous à une structure hospitalière qui souhaite décentraliser les activités d'éducation thérapeutique ?_
 
-*   Disposer d'un pool de formateurs bien formés et connaissant bien le terrain, d'un équipement adapté à la formation (local, kit de vidéo projection), un programme et des modules de formation.
-*   Se rendre sur les sites concernés par la décentralisation.
+*   Disposer d'un pool de formateurs bien formés et connaissant bien le terrain, d'un équipement adapté à la formation (local, kit de vidéo projection), un programme et des modules de formation.  
+*   Se rendre sur les sites concernés par la décentralisation.  
 *   Identifier comme participants à former, des agents motivés.
 
 <table>
@@ -183,6 +183,7 @@ Respecter le secret médical, faire des recherches pour renforcer ses connaissan
 </tbody>
 
 </table>
+
 
 ![](i1089-1.jpg)
 

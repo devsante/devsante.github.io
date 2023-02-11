@@ -46,6 +46,7 @@ S'il existe aussi des formes cholestatiques prolongées et des formes à rechute
 Ce passage est défini par la persistance de l'antigène HBs, de l'antigène Hbe, et de titres élevés d'ADN du VHB six mois après l'infection aiguë.  
 Il est de coutume de dire qu'il y a un risque de passage à la chronicité de 5 à 10 %. mais ce taux ne concerne que les adultes immunocompétents de moins de 50 ans. Il est beaucoup plus élevé dans les autres tranches de la population : de 70 % à 90% chez les enfants nés de mère infectée,  de 20 % à 30 %  chez les enfants infectés avant 5 ans, de 30 % chez les adultes de plus de 50 ans, et de 30 %  à 100 % chez les sujets immunodéprimés.
 
+
 ![](page-8-1-tableau-hbv-noir.jpg)
 
 
@@ -66,13 +67,14 @@ Seule l'histologie permet de définir le type d'hépatite chronique dont il s'ag
 
 L'histoire naturelle de cette forme chronique a été schématisée en 4 phases :
 
-1.  Phase d'immunotolérance : forte multiplication virale et faible activité biologique et  histologique, correspondant à une réponse immune faible ou nulle.
-2.  Phase de rupture de tolérance après quelques années d'évolution : réponse immunitaire forte favorisant l'apparition de fibrose. Celle-ci peut aboutir à une cirrhose dans 10 % à 20 % des cas.
-3.  Elle peut aussi se terminer par un arrêt de la multiplication virale et une séroconversion Hbe, ce qui signifie la disparition de l'activité de l'hépatite.
+1.  Phase d'immunotolérance : forte multiplication virale et faible activité biologique et  histologique, correspondant à une réponse immune faible ou nulle.  
+2.  Phase de rupture de tolérance après quelques années d'évolution : réponse immunitaire forte favorisant l'apparition de fibrose. Celle-ci peut aboutir à une cirrhose dans 10 % à 20 % des cas.  
+3.  Elle peut aussi se terminer par un arrêt de la multiplication virale et une séroconversion Hbe, ce qui signifie la disparition de l'activité de l'hépatite.  
 4.  Phase de de non-réplication virale : contagiosité faible, disparition de l'activité nécro-inflammatoire hépatique. A ce stade, il peut exister une cirrhose ou un cancer du foie. Il est nécessaire de surveiller l'alphafoetoprotéine et l'échographie du foie tous les 6 mois.  
     Cette phase peut aboutir à la guérison de l'hépatite ou à une phase de réactivation virale.
 
 L'évaluation de ces différentes formes n'est pas facile et il faut en général un suivi de plusieurs mois pour différencier une hépatite aiguë, un portage chronique inactif et une hépatite chronique.
+
 
 ![](page-8-hbv.JPG)
 
@@ -128,6 +130,7 @@ En cas de cirrhose, l'apparition d'un cancer du foie est possible, avec une fré
 
 L'hépatite C est donc aussi un problème de santé publique majeur, d'autant plus grave qu'il n'existe pas encore de vaccin.
 
+
 ![](page-7-tableau-hcv-noir.jpg)
 
 
@@ -135,6 +138,6 @@ L'hépatite C est donc aussi un problème de santé publique majeur, d'autant pl
 
 D'autres virus hépatotropes peuvent être responsables d'hépatite :
 
-*   Le virus de l'**hépatite delta**, ou VHD, utilise l'enveloppe du VHB  pour sa réplication, c'est un virus symbiotique du VHB. L'infection par le VHD survient dans deux circonstances : il s'agit soit d'une infection concomitante avec le VHB avec un risque plus important d'hépatite fulminante, soit de la surinfection d'une hépatite chronique B avec un risque d'évolution plus péjorative (hépatite chronique active et cirrhose).
-*   Le **VHE**, à transmission féco-orale, surtout en Asie et en Afrique, donne en général une infection aiguë ictérique dont l'évolution est bénigne sauf chez les femmes enceintes (20 à 40 % de mortalité).
+*   Le virus de l'**hépatite delta**, ou VHD, utilise l'enveloppe du VHB  pour sa réplication, c'est un virus symbiotique du VHB. L'infection par le VHD survient dans deux circonstances : il s'agit soit d'une infection concomitante avec le VHB avec un risque plus important d'hépatite fulminante, soit de la surinfection d'une hépatite chronique B avec un risque d'évolution plus péjorative (hépatite chronique active et cirrhose).  
+*   Le **VHE**, à transmission féco-orale, surtout en Asie et en Afrique, donne en général une infection aiguë ictérique dont l'évolution est bénigne sauf chez les femmes enceintes (20 à 40 % de mortalité).  
 *   Enfin le VHG, qui se transmet comme le VHB, est présent en Afrique de l'Ouest ; il a un pouvoir pathogène mal connu.

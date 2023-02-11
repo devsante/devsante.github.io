@@ -87,9 +87,9 @@ Une fois que les cas infectieux à frottis positif ont été dépistés au micro
 
 Selon l'OMS, le DOTS est la stratégie la plus efficace actuellement disponible pour endiguer une épidémie de tuberculose :
 
-*   La stratégie DOTS donne des taux de guéri son allant jusqu'à 95 %, même dans les pays les plus pauvres.
-*   Elle permet d'éviter les nouvelles infections en guérissant les cas infectieux.
-*   Elle empêche l'apparition d'une tuberculose résistante à un ou plusieurs médicaments en veillant à ce que le traitement soit suivi jus qu'au bout.
+*   La stratégie DOTS donne des taux de guéri son allant jusqu'à 95 %, même dans les pays les plus pauvres.  
+*   Elle permet d'éviter les nouvelles infections en guérissant les cas infectieux.  
+*   Elle empêche l'apparition d'une tuberculose résistante à un ou plusieurs médicaments en veillant à ce que le traitement soit suivi jus qu'au bout.  
 *   Les médicaments nécessaires pour un traitement DOTS de six mois coûtent 11 dollars US par patient dans certaines parties du monde.
 
 La Banque mondiale considère la stratégie DOTS comme l'une des interventions sanitaires les plus rentables.

@@ -281,7 +281,7 @@ Total :
 
 Calcul de la CMM : 4 526 : 12 = **377,16** On arrondit à l'unité au-dessus : CMM = **378**
 
-*   Si vous calculez la consommation mensuelle moyenne pour la première fois, alors qu'on n'utilisait pas de fiche de stock avant, évaluez la consommation pour le premier mois, ou même les premières semaines. Vous recom­mencerez le calcul après 3 mois, puis 6 mois, etc., et vous aurez un résultat de plus en plus précis.
+*   Si vous calculez la consommation mensuelle moyenne pour la première fois, alors qu'on n'utilisait pas de fiche de stock avant, évaluez la consommation pour le premier mois, ou même les premières semaines. Vous recom­mencerez le calcul après 3 mois, puis 6 mois, etc., et vous aurez un résultat de plus en plus précis.  
 *   Si vous avez eu des ruptures de stocks de cer­tains produits pendant la période de calcul des consommations, vous n'avez pas pu uti­liser les produits puisque vous ne les aviez pas. Si cous calculez le total de ce que vous avez consommé sur toute la nériode de réfé­rence (les 12 derniers mois), vous arrivez à un total plus petit que ce dont vous auriez besoin. Pour ne pas sous-estimer la valeur de la CMM, vous devez calculer la CMM seulement à partir de la consommation des mois pendant lesquels vous avez disposé du produit pendant tout le mois. Mais attention : si un produit a été remplacé par un autre, on ne doit pas considérer qu'il y a eu rupture de stock. Il faut faire une éva­luation à partir de la consommation des deux produits.
 
 ### 2. Le facteur de réapprovisionnement
@@ -294,7 +294,7 @@ Il est recommandé de se faire livrer ou d'aller chercher les commandes tous les
 
 #### Calcul du facteur de réapprovisionne­ment de votre établissement.
 
-*   Si les produits sont livrés une fois par mois, l'intervalle entre deux livraisons est de 1 mois, et le **facteur de réapprovisionnement est de 2** (1 x 2 = 2).
+*   Si les produits sont livrés une fois par mois, l'intervalle entre deux livraisons est de 1 mois, et le **facteur de réapprovisionnement est de 2** (1 x 2 = 2).  
 *   Si les produits sont livrés tous les trois mois, l'intervalle entre deux livraisons est de 3 mois, et le **facteur de réapprovisionne­****ment est de 6** (3 x 2 = 6).
 
 ### 3. Seuil de commande
@@ -311,9 +311,9 @@ Il faut calculer le seuil de commande de chaque produit en stock et le noter dan
 
 #### Calcul du seuil de commande d'un produit
 
-*   Calculez la consommation moyenne men­suelle d'un produit (C.M.M.).
-*   Calculez le facteur de réapprovisionnement à partir de la fréquence des livraisons.
-*   Multipliez la C.M.M. par le facteur de réap­provisionnement.
+*   Calculez la consommation moyenne men­suelle d'un produit (C.M.M.).  
+*   Calculez le facteur de réapprovisionnement à partir de la fréquence des livraisons.  
+*   Multipliez la C.M.M. par le facteur de réap­provisionnement.  
 *   Le résultat est le seuil de commande du produit.
 
 **_Exemple :_**
@@ -336,7 +336,7 @@ Périodiquement, en général une fois par mois, il faut établir la liste des p
 
 Au moment de passer la commande de réap­provisionement, on consulte les fiches de stocks et on compare le nombre contenu dans la case "stock restant" de la dernière ligne avec le nombre inscrit dans la case "seuil de commande".
 
-*   Si le stock restant est **supérieur** au seuil de commande, **il ne faut pas commander** de ce produit.
+*   Si le stock restant est **supérieur** au seuil de commande, **il ne faut pas commander** de ce produit.  
 *   Si le stock restant est **inférieur** au seuil de commande, **il faut commander** de ce produit.
 
 ## III. Quelle quantité commander ?
@@ -361,22 +361,22 @@ Le seuil de surstock est fixé à **26** boîtes.
 
 **Premier cas :**
 
-*   **Il y a 17** boîtes de cotrimoxazole dans le stock.
-*   Le stock restant (inscrit sur la fiche de stock) est de **17** unités.
+*   **Il y a 17** boîtes de cotrimoxazole dans le stock.  
+*   Le stock restant (inscrit sur la fiche de stock) est de **17** unités.  
 *   Calculez **20 - 17 = 3**
 *   Commandez **3** boîtes pour revenir au seuil de commande de **20**.
 
 **- Deuxième cas :**
 
-*   **Il y a 21** boîtes de cotrimoxazole dans le stock.
-*   Le stock restant (inscrit sur la fiche de stock) est de **21** unités.
+*   **Il y a 21** boîtes de cotrimoxazole dans le stock.  
+*   Le stock restant (inscrit sur la fiche de stock) est de **21** unités.  
 *   Calculez **20 - 21 = -1**
 *   Ne **commandez pas** de cotrimoxazole.
 
 **Troisième cas :**
 
-*   **Il y a 29** boîtes de cotrimoxazole dans le stock.
-*   Le stock restant (inscrit sur la fiche de stock) est de **29** unités.
+*   **Il y a 29** boîtes de cotrimoxazole dans le stock.  
+*   Le stock restant (inscrit sur la fiche de stock) est de **29** unités.  
 *   Calculez **20 - 29 = - 9**
 *   Ne **commandez pas** de cotrimoxazole. Renvoyez 4 boîtes à l'organisme d'approvi­sionnement (il faut **revenir au-dessous de 26** boîtes).
 
@@ -386,13 +386,13 @@ _Voir l'article concernant la situation des com­mandes pour les maladies chroni
 
 Une bonne gestion des médicaments et autres produits de santé sert à éviter :
 
-*   Les ruptures de stock. Le patient trou­ve toujours les produits nécessaires.
-*   Le gaspillage. Aucun produit ne se périme ou est stocké dans de mauvaises conditions.
+*   Les ruptures de stock. Le patient trou­ve toujours les produits nécessaires.  
+*   Le gaspillage. Aucun produit ne se périme ou est stocké dans de mauvaises conditions.  
 *   Le surstockage provoquant des pertes. Gaspillage et surstockage n'ont pas qu'une importance administrative. Le gaspillage et le surstockage sont aussi nuisibles pour les patients. En effet, ce qui a été gaspillé n'est pas gratuit ; il a fallu l'acheter. L'argent ainsi perdu aurait pu servir à améliorer l'équipe­ment ou acheter d'autres médicaments.
 
 Comme nous l'avons vu dans les chapitres précédents, il est relativement aisé de limiter les ruptures de stock.
 
-*   Une pharmacie bien rangée permet souvent d'identifier d'un simple regard les risques de rupture de stock et les ruptures (fiche signa­létique sans produit).
+*   Une pharmacie bien rangée permet souvent d'identifier d'un simple regard les risques de rupture de stock et les ruptures (fiche signa­létique sans produit).  
 *   Des fiches de stock à jour et une commande estimée sur la comparaison seuil de com­mande/stock restant permettent une bonne quantification des besoins.
 
 Il semble évident que l'orsqu'un centre de santé a la possibilité d'être normalement approvisionné et que ses patients souffrent de pénurie de divers produits de soins, on est en droit de douter de la qualité de la gestion du stock de médicaments.
@@ -404,8 +404,8 @@ Il peut s'agir d'un problème de gestion, évitez les erreurs classiques qui abo
 *   répéter la même commande, sans ce sou­cier des besoins réels,
 *   constituer les stocks de sécurité disproportionnés avec les besoins réels par "peur de manquer",
 *   commander des produits théoriquement utiles, mais que l'on n'a pas l'occasion ou la possibilité d'utiliser :
-    *   produits destinés à traiter des affections qui n'existent pas dans la région ; mais com­mandés "au cas où, on ne sait jamais !".
-    *   produits destinés à des équipements non présents dans le centre (laboratoire), com­mandés en faisant le pari que si les produits en question sont dans le centre, on finira bien par être équipé en conséquence.
+    *   produits destinés à traiter des affections qui n'existent pas dans la région ; mais com­mandés "au cas où, on ne sait jamais !".  
+    *   produits destinés à des équipements non présents dans le centre (laboratoire), com­mandés en faisant le pari que si les produits en question sont dans le centre, on finira bien par être équipé en conséquence.  
     *   produits nécessitant une formation appropriée et non effectuée. Bien souvent, il s'agit de médicaments récents ou très coû­teux. Ces produits sont commandés parce que les patients sont au courant de leur existence et qu'on a l'impression que si on n'a pas le produit dans sa pharmacie, on perd sa crédibilité.
 
 Dans tous les cas, si vous commandez des quantités de certains produits, supérieures à vos besoins, vous allez mal utiliser vos ressources au détriment de vos patients. Si vous com­mandez des produits que vous **ne pouvez pas** ou **ne savez pas utiliser**, cela ne vas pas vous donner les équipements ou les connaissances qui vous manquent.  
@@ -435,10 +435,12 @@ Il faut commander quand le stock restant **(SR)** est inférieur au seuil de com
 
 La quantité à commander **(QAC)** est égale au seuil de commande **(SC)** moins le stock restant **(SR) : QAC = SC - SR**
 
+
 ![](image002.jpg)
 
 
 * * *
+
 
 ![](image002-11.jpg)
 

@@ -17,8 +17,8 @@ Avant l'âge de 10 ans c'est la prise régulière de pénicilline orale (Oracill
 
 Les vaccins sont aussi indispensables :
 
-*   diphtérie, tétanos, coqueluche, poliomyélite, rougeole, BCG, hépatite B.
-*   le vaccin antipneumococcique (Pneumo 23) est indispensable dès l'âge de 2 ans ; un rappel tous les 3 ans est nécessaire. En effet, le drépanocytaire est très sensible au pneumocoque qui provoque souvent chez lui pneumonie, septicémie ou méningite.
+*   diphtérie, tétanos, coqueluche, poliomyélite, rougeole, BCG, hépatite B.  
+*   le vaccin antipneumococcique (Pneumo 23) est indispensable dès l'âge de 2 ans ; un rappel tous les 3 ans est nécessaire. En effet, le drépanocytaire est très sensible au pneumocoque qui provoque souvent chez lui pneumonie, septicémie ou méningite.  
 *   la vaccination contre _Haemophilus_ b avant l'âge de 5 ans est aussi souhaitable.
 
 ## II. Prévention des crises vaso-occlusives
@@ -27,15 +27,15 @@ Elles sont souvent imprévisibles. On sait maintenant que la fatigue, la fièvre
 
 ### En pratique, 10 règles d'or sont à respecter :
 
-1.  Bien se laver le corps et les dents pour éviter les microbes provoquant les infections.
-2.  Surveiller sa température, donc avoir constamment à porté de la main un thermomètre.
-3.  Si la température est supérieure à 38C, aller vite consulter au dispensaire.
-4.  Boire beaucoup d'eau (environ 3 litres/jour pour un adulte).
-5.  Eviter les endroits mal aérés, enfumés, l'altitude et les voyages en avion.
-6.  Avoir une alimentation saine et variée.
-7.  Surveiller la couleur des yeux et des urines (consulter si ces dernières sont trop foncées).
-8.  Eviter ce qui peut ralentir ou bloquer la circulation du sang (vêtements trop serrés, jambes croisées).
-9.  Consulter régulièrement au dispensaire.
+1.  Bien se laver le corps et les dents pour éviter les microbes provoquant les infections.  
+2.  Surveiller sa température, donc avoir constamment à porté de la main un thermomètre.  
+3.  Si la température est supérieure à 38C, aller vite consulter au dispensaire.  
+4.  Boire beaucoup d'eau (environ 3 litres/jour pour un adulte).  
+5.  Eviter les endroits mal aérés, enfumés, l'altitude et les voyages en avion.  
+6.  Avoir une alimentation saine et variée.  
+7.  Surveiller la couleur des yeux et des urines (consulter si ces dernières sont trop foncées).  
+8.  Eviter ce qui peut ralentir ou bloquer la circulation du sang (vêtements trop serrés, jambes croisées).  
+9.  Consulter régulièrement au dispensaire.  
 10.  Dormir au moins 7 heures/nuit et maîtriser les efforts physiques (attention aux matchs de foot !).
 
 ## III. Lutte contre la douleur
@@ -71,6 +71,7 @@ En pratique, on commence par 10 mg par kilo et par jour pendant un mois, on effe
 D'autres médicaments capables d'élever l'hémoglobine foetale sont à l'étude.
 
 **Les transfusions :** elles sont souvent le dernier recours dans le traitement des crises et des infections. Il est bien sûr indispensable de s'assurer de la sécurité virologique du sang transfusé.
+
 
 ![](i902-1.jpg)
 

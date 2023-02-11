@@ -129,10 +129,10 @@ La commercialisation de produits alimentaires à base d’insectes augmentera l�
 
 _**Bibliographie**_
 
-1.  FAO. [http://www.fao.org/news/story/fr/item/243863/icode/](http://www.fao.org/news/story/fr/item/243863/icode/ "http://www.fao.org/news/story/fr/item/243863/icode/"). 2014.
-2.  PAM. Rapport de l’Analyse Globale de la Vulnérabilité et de la Sécurité Alimentaire (AGVSA) de la République du Bénin. Programme Alimentaire Mondiale (PAM). 2014;142 p.
-3.  World Bank. [http://www.banquemondiale.org/fr/news/press-release/2013/12/19/world-ban...](http://www.banquemondiale.org/fr/news/press-release/2013/12/19/world-bank-benin-malnutrition-motherschildren "http://www.banquemondiale.org/fr/news/press-release/2013/12/19/world-bank-benin-malnutrition-motherschildren"). 2014.
-4.  République du Bénin. Protocole national de prise en charge de la malnutrition aigue. Ministère de la Santé, Direction de la Santé de la Mère et de l’Enfant, Unicef et Oms. 2011;193 p.
+1.  FAO. [http://www.fao.org/news/story/fr/item/243863/icode/](http://www.fao.org/news/story/fr/item/243863/icode/ "http://www.fao.org/news/story/fr/item/243863/icode/"). 2014.  
+2.  PAM. Rapport de l’Analyse Globale de la Vulnérabilité et de la Sécurité Alimentaire (AGVSA) de la République du Bénin. Programme Alimentaire Mondiale (PAM). 2014;142 p.  
+3.  World Bank. [http://www.banquemondiale.org/fr/news/press-release/2013/12/19/world-ban...](http://www.banquemondiale.org/fr/news/press-release/2013/12/19/world-bank-benin-malnutrition-motherschildren "http://www.banquemondiale.org/fr/news/press-release/2013/12/19/world-bank-benin-malnutrition-motherschildren"). 2014.  
+4.  République du Bénin. Protocole national de prise en charge de la malnutrition aigue. Ministère de la Santé, Direction de la Santé de la Mère et de l’Enfant, Unicef et Oms. 2011;193 p.  
 5.  Lignet, CH. Comment développer une filière d’insectes comestibles au Bénin pour lutter durablement contre la malnutrition infantile? Mémoire de fin d’études. Istom, Ecole d’ingénieur en agro-développement international. 2012; 64 p.
 
 Remerciements: A Laurent Paternostre et Sabine Vico des Laboratoires d’analyses  du CARAH à Ath en Belgique pour avoir réduit les coûts d’analyses biochimiques des biscuits et des farines d’insectes.

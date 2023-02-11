@@ -109,14 +109,14 @@ Diabète
 
 L'insuline, produite par le pancréas, est une hormone qui abaisse la glycémie. Sa sécrétion dépend de la glycémie :
 
-*   En période de jeune, la glycémie est basse, le pancréas produit peu d'insuline.
+*   En période de jeune, la glycémie est basse, le pancréas produit peu d'insuline.  
 *   En période de digestion : les sucres sont absorbés par le tube digestif et la glycémie augmente, ce qui déclenche la sécrétion d'insuline. Lorsque la glycémie est revenue à sa valeur basale, le pancréas ne sécrète plus d'insuline.
 
 ### Le rôle de l'insuline
 
 L'insuline a différentes actions :
 
-*   Elle permet aux cellules de différents tissus (foie, tissu adipeux, muscle) d'assimiler le glucose.
+*   Elle permet aux cellules de différents tissus (foie, tissu adipeux, muscle) d'assimiler le glucose.  
 *   Elle est nécessaire a la formation de glycogène, forme sous laquelle le glucose est stocké dans le foie et les muscles et qui sert de réserve d'énergie.
 
 ### Chez le diabétique de type 2
@@ -161,14 +161,14 @@ De ce qui a été dit précédemment, il découle que certains organes et appare
 ### 1. L'appareil cardio-vasculaire
 
 *   Maladies coronariennes : angine de poitrine (angor), infarctus du myocarde,
-*   Hypertension artérielle : elle-même facteur de risque d'affections cardio-vasculaires.
+*   Hypertension artérielle : elle-même facteur de risque d'affections cardio-vasculaires.  
 *   Artérite des membres inférieurs, pouvant conduire a une gangrène des orteils nécessitant une amputation.
 
 Rappelons que ce risque est majoré si le diabétique a aussi les deux autres facteurs favorisant les affections cardio-vasculaires : tabagisme, hyperlipidémie.
 
 ### 2. Le système nerveux
 
-*   Accident vasculaire cérébral, parfois précédé par des accidents ischémiques transitoires, et pouvant laisser des séquelles : hémiplégie ou autres déficits neurologiques.
+*   Accident vasculaire cérébral, parfois précédé par des accidents ischémiques transitoires, et pouvant laisser des séquelles : hémiplégie ou autres déficits neurologiques.  
 *   Polynévrites très douloureuses et résistantes aux antalgiques usuels. Les déficits sensitifs sont responsables de brûlures ou d'infections cutanées, les troubles de la sensibilité empêchant le patient de percevoir les stimuli douloureux.
 
 ### 3. Les yeux
@@ -191,9 +191,9 @@ Elle est classiquement évoquée. Mais les troubles sexuels peuvent aussi être 
 
 #### **L**es comas
 
-*   Coma acido-cétosique, avec glycémie supérieure à 4 g/L, déshydratation, troubles hydro-électrolytiques, acidose, cétonurie, odeur particulière de l'haleine (comparable a celle de la pomme).
-*   Coma hypoglycémique, parfois dû à l'injection d'une dose trop élevée d'insuline.
-*   Coma hyperosmolaire avec hyperglycémie majeure (6 g/L), troubles neurologiques, acidose, déshydratation, pas de cétonurie.
+*   Coma acido-cétosique, avec glycémie supérieure à 4 g/L, déshydratation, troubles hydro-électrolytiques, acidose, cétonurie, odeur particulière de l'haleine (comparable a celle de la pomme).  
+*   Coma hypoglycémique, parfois dû à l'injection d'une dose trop élevée d'insuline.  
+*   Coma hyperosmolaire avec hyperglycémie majeure (6 g/L), troubles neurologiques, acidose, déshydratation, pas de cétonurie.  
 *   Coma dû a un accident vasculaire cérébral.
 
 #### Les atteintes du pied

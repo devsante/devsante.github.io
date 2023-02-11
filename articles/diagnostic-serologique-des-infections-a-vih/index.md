@@ -21,6 +21,7 @@ Le diagnostic des infections à VIH repose, chez l'adulte, sur la détection des
 
 Une bonne connaissance de la cinétique des anticorps et de l'antigène p24 est indispensable à l'interprétation des tests VIH. La _figure 1_ résume les différentes situations. Après la contamination, le virus est délectable, sous sa forme d'acide ribonucléique (ARN) dès le 10-12<sup>e</sup> jour et sous sa forme d'antigène p24 représentant juste une fraction du virus, vers le 12-14<sup>e</sup> jour. Les premiers anticorps sont délectables vers le 21<sup>e</sup> jour. Cette cinétique peut varier en fonction de chaque patient et aussi de la souche infectante. La positivité des tests de dépistage dépend donc de l'apparition des anticorps. Actuellement, les tests de dépistage utilisés en Occident sont le plus souvent capables de détecter, en plus des anticorps, simultanément, la fraction "antigène p24". L'utilisation de ces tests raccourcit donc la période de "silence" sérologique lors de la primo-infection. Une fois produits par la réponse immune, les anticorps anti-VIH persisteront toute la vie du patient.
 
+
 ![](i797-1.jpg)
 
 
@@ -28,7 +29,7 @@ Une bonne connaissance de la cinétique des anticorps et de l'antigène p24 est 
 
 Il existe deux types d'infection, par VIH-1 et VIH-2, qui ont une prise en charge spécifique. Le diagnostic de différenciation entre les deux types est fondamental. Ces virus proviennent de passages accidentels de virus de singes (SIV) dans l'espèce humaine.
 
-*   Le VIH-1 est divisé en 3 groupes, M, N et O. Le groupe M (pour Majeur) est responsable de la pandémie actuelle, les autres groupes étant rares. Le groupe Majeur est subdivisé en une dizaine de sous-types (nommé de A à K) et souches recombinantes. Le sous-type B est le plus répandu en Occident, dans les populations homosexuelles et toxicomanes. En Afrique centrale, tous les sous-types sont représentés. Le sous-type A et la forme recombinante entre sous-types A et G, dite CRF02, sont responsables d'un grand nombre d'infections en Afrique de l'Ouest. Les sous-types C et D sont majoritaires en Afrique de l'Est et en Afrique du Sud. Les virus du groupe O (pour Outlier), peu fréquents, sont trouvés presque exclusivement en Afrique centrale (Cameroun, Gabon, Guinée-Equatoriale).
+*   Le VIH-1 est divisé en 3 groupes, M, N et O. Le groupe M (pour Majeur) est responsable de la pandémie actuelle, les autres groupes étant rares. Le groupe Majeur est subdivisé en une dizaine de sous-types (nommé de A à K) et souches recombinantes. Le sous-type B est le plus répandu en Occident, dans les populations homosexuelles et toxicomanes. En Afrique centrale, tous les sous-types sont représentés. Le sous-type A et la forme recombinante entre sous-types A et G, dite CRF02, sont responsables d'un grand nombre d'infections en Afrique de l'Ouest. Les sous-types C et D sont majoritaires en Afrique de l'Est et en Afrique du Sud. Les virus du groupe O (pour Outlier), peu fréquents, sont trouvés presque exclusivement en Afrique centrale (Cameroun, Gabon, Guinée-Equatoriale).  
 *   Pour le VIH-2, plusieurs sous-types ont été décrits. Seuls les sous-types A (Cap-Vert, Guinée-Bissau, Guinée, Sénégal) et les sous-types B (Côte-d'Ivoire, Mali et Burkina-Faso) ont une diffusion épidémique.
 
 Les tests de dépistage, basés sur des antigènes du VIH-1 de sous-type B d'Occident et du VIH-2 de sous-type A peuvent présenter une sensibilité moindre pour la reconnaissance des autres sous-types, particulièrement lors de la primo-infection ou d'infection par des variants très "distants", comme les VIH-1 du groupe O.
@@ -42,6 +43,7 @@ Ces protéines correspondent aux épitopes immuno-dominants des deux virus, VIH-
 **Deux types de tests ELISA sont utilisés** **pour le dépistage :**
 
 *   **Tests ELISA " sandwich " :** la révélation de la réaction entre antigènes de la trousse (kit) et les anticorps anti-VIH du patient se fait, par un antigène marqué, se fixant sur les sites anticorps restés libres _(figure 2)_ Ce sont les tests les plus sensibles pour la détection des anticorps anti-VIH et la spécificité est également excellente. Ils sont les plus utilisés dans le cadre du dépistage des dons du sang. Ces tests ELISA sandwich peuvent être utilisés aussi pour la détection en plus des anticorps présents chez le patient, d'une fraction du virus appelé antigène p24 lorsque cette fraction est présente dans le plasma (test combiné). Cela est particulièrement intéressant lors des premiers jours de la primo-infection quand seule cette fraction antigène p24 peut être détectée par les tests sérologiques.
+
 
 ![](i797-2.jpg)
 
@@ -66,7 +68,7 @@ En effet de nombreux artefacts peuvent venir du prélèvement ayant servi au dé
 
 **La technique du _Western Blot_** (WB) est une méthode de référence, mais son interprétation peut être délicate. Le WB est une technique de transfert sur nitrocellulose, après migration électrophorétique en gel de polyacrylamide, de protéines d'un lysat viral VIH-1 ou VIH-2. Sur la bandelette de WB, différentes protéines constitutives des virus seront reconnues par des anticorps spécifiques anti-VIH-1 ou VIH-2. Le recours au WB pour une confirmation de sérologie VIH positive n'est pas systématique dans tous les pays, y compris dans les pays industrialisés. Il porte, en toute rigueur, sur un second prélèvement sérique, pour se mettre à l'abri d'une éventuelle erreur d'étiquetage du premier prélèvement. Il permet parfois d'évoquer une séroconversion récente ou une infection par des variants lors de profils incomplets. En cas d'infection à VIH, le WB sera le plus souvent pleinement réactif et donnera peu d'information complémentaire. Inversement, en cas de "non infection", des réactivités non spécifiques sont fréquentes et d'interprétation difficile. Aussi, des alternatives au WB sont nécessaires pour éviter un recours systématique à cet examen coûteux et pas toujours très informatif.
 
-*   **Les immunoblots utilisant des protéines** **de synthèse :** ces tests de commercialisation récente et d'un coût aussi élevé que le WB disposent différentes protéines recombinantes ou peptides de synthèse sur bandelette ou sur support plastique. Ces tests ne sont qu'une présentation sur un format différent des antigènes utilisés lors des examens de dépistage et ils n'apportent ainsi aucune information complémentaire.
+*   **Les immunoblots utilisant des protéines** **de synthèse :** ces tests de commercialisation récente et d'un coût aussi élevé que le WB disposent différentes protéines recombinantes ou peptides de synthèse sur bandelette ou sur support plastique. Ces tests ne sont qu'une présentation sur un format différent des antigènes utilisés lors des examens de dépistage et ils n'apportent ainsi aucune information complémentaire.  
 *   **Il. Tests disponibles**
 
 Les tests mis à la disposition des laboratoires soutenus par le ministère des affaires étrangères dans le cadre des programmes de soutien et de coopération sont des tests disponibles utilisés en France, ayant donc reçu l'agrément de l'AFSSAPS et régulièrement réévalués.
@@ -151,6 +153,7 @@ Si le test A de dépistage est négatif, le sérum est déclaré négatif. En ca
 
 Les trois tests employés dans cette stratégie doivent utiliser des préparations antigéniques différentes et/ou reposer sur des principes différents. Un sérum qui réagit dans les trois tests est considéré comme positif pour les anticorps anti-VIH. Un sérum donnant un résultat discordant entre les tests est considéré comme indéterminé.
 
+
 ![](i797-3.jpg)
 
 
@@ -160,6 +163,7 @@ La stratégie I ne peut être utilisée que pour confirmer le diagnostic cliniqu
 
 Pour les stratégies Il et III, le premier test de recherche des anticorps anti-VIH doit avoir la sensibilité la plus élevée possible, alors que les deuxième et troisième tests doivent avoir une spécificité plus élevée que le premier test.
 
+
 ![](i797-4.jpg)
 
 
@@ -167,7 +171,9 @@ Pour les stratégies Il et III, le premier test de recherche des anticorps anti-
 
 Elle doit respecter les règles qui assurent la sécurité des personnels et la validité des résultats. Ces règles très importantes sont rappelées dans les encadrés 1 à 4.
 
+
 ![](i797-5.jpg)
+
 ![](i797-6.jpg)
 
 

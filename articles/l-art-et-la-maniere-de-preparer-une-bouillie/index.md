@@ -22,10 +22,12 @@ Cet article montre que la consistance d'un aliment ne renseigne pas toujours sur
 
 Lors de la séance de travaux pratiques du séminaire, il est demandé aux agents de santé de préparer de la bouillie à partir de la farine composée Misola (b) selon la recette inscrite au dos des sachets (document N°7). On prélève 100 grammes de cette bouillie pour constituer le premier échantillon.
 
+
 ![](i772-1.jpg)
 
 
 Un deuxième échantillon est constitué de 100 grammes de bouillie enrichie (c) préparée selon la recette du document N°2 et prélevée lors d'une démonstration dans un CSPS (Centre de Santé et de Promotion Sociale). Un troisième échantillon de 100 grammes de soda (d) est également mesuré. Ces trois échantillons sont déshydratés par exposition au soleil jusqu'à obtention de paillettes ou de sucre de façon à évaluer leur valeur énergétique (documents N°3 et N°5).
+
 
 ![](i772-2.jpg)
 
@@ -33,6 +35,7 @@ Un deuxième échantillon est constitué de 100 grammes de bouillie enrichie (c)
 Les aliments sont constitués de matière sèche et d'eau, en proportions variables. La matière sèche seule apporte les calories, les protéines, les minéraux et les vitamines. Pour estimer la valeur énergétique d'un aliment, il faut connaître sa quantité de matière sèche. Les paillettes des bouillies desséchées et le sucre du soda objectivent la quantité de matière sèche de ces aliments. D'autre part, soda et bouillies étant essentiellement constitués de glucides, on estime que 1 gramme de matière sèche de ces aliments apporte 3,7 à 4,2 calories. Leur poids renseigne donc sur leur valeur énergétique.
 
 Les paillettes des bouillies et le sucre du soda provenant de la dessiccation de 100 grammes de chacun de ces aliments sont alors pesées : le premier échantillon fournit 25 grammes de paillettes (bouillie Misola), le second échantillon fournit 8 grammes de paillettes (bouillie enrichie) et l'échantillon de soda fournit 8 grammes de sucre.
+
 
 ![](i772-3.jpg)
 
@@ -44,6 +47,7 @@ Le calcul des valeurs énergétiques en Kcalories pour 100 g d'échantillon indi
 *   soda : 29,6 Kcal (3,7 X 8).
 
 Ces valeurs sont à comparer à celle du lait maternel qui a une valeur énergétique proche de 70 Kcal (document N°4).
+
 
 ![](i772-4.jpg)
 
@@ -63,6 +67,7 @@ Il n'est pas nécessaire d'avoir un laboratoire pour évaluer la valeur énergé
 Si les recettes données lors des séances d'éducation nutritionnelle répondent à la nécessité d'améliorer l'équilibre nutritionnel en ajoutant des ingrédients protéiques, lipidiques et vitaminiques, elles ne se préoccupent pas de la valeur énergétique de ces bouillies. Il faudrait pour cela augmenter la quantité de matière sèche. Et cela ne semble pas possible car la bouillie devient vite trop épaisse et non consommable par le jeune enfant.
 
 Comme l'illustre la recette citée dans le document N°2, la plupart des recettes de bouillies enrichies **n'indiquent pas la quantité** **d'eau** entrant dans la composition de ces bouillies. L'animatrice respecte les proportions entre les différents ingrédients indiquées sur la recette, mais n'ayant pas d'indication sur la quantité d'eau, elle ajuste celle-ci jusqu'à obtenir la consistance souhaitée. Si l'enfant est jeune ou prend mal la bouillie, celle-ci sera diluée pour la rendre plus "légère", et si l'enfant est nourri à la sonde naso-gastrique cette bouillie risque là encore d'être diluée. Il peut alors lui être administré des bouillies à 25 ou 20 Kcal pour 100 grammes, de valeur énergétique à peine plus élevée qu'un soluté de réhydratation Orale ! (Les SRO ont une valeur énergétique de 16 kcal/100ml) ! Comment espérer le faire grossir dans ces conditions !
+
 
 ![](i772-5.jpg)
 
@@ -87,10 +92,12 @@ L'art et la manière de préparer une bouillie c'est donc obtenir une bouillie d
 
 Lors du séminaire, la découverte de la possibilité de préparer des bouillies trois fois plus nutritives que les bouillies enrichies a suscité débats et questions. L'un des agents a proposé que toute bouillie enrichie soit préparée selon le même principe que Misola.
 
+
 ![](i772-6.jpg)
 
 
 Idée géniale ! C'est ainsi une recommandation que chacun peut mettre en pratique : **utiliser** **les recettes de bouillies enrichies de** **façon à obtenir une pâte épaisse, c'est-à-dire les préparer avec peu d'eau** **comme si on préparait la boule de mil et** **liquéfier cette pâte avec du malt.**
+
 
 ![](i772-7.jpg)
 
@@ -120,6 +127,7 @@ _**Quelques définitions :**_
 Equilibre nutritionnel et valeur énergétique sont deux indicateurs distincts et complémentaires de la qualité d'un aliment.  
 **Besoins énergétiques :** 120 à 100 Kcalories par kilo de poids corporel et par jour (nourrisson et jeune enfant).  
 **Dessication :** action d'enlever aux corps l'humidité qu'ils contiennent.
+
 
 ![](i772-8.jpg)
   

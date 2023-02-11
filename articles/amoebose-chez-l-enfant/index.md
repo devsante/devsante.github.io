@@ -8,6 +8,7 @@ date: "2013-08-10"
 
 L’amoebose est fréquente en milieu tropical, l’infestation s’effectuant par ingestion de kystes d’_Entamoeba histolytica_ avec l’eau ou les crudités, ou directement par les mains sales, en particulier chez les très jeunes enfants. Mais il semble qu’il y ait un certain mécanisme de défense, car une étude sur un grand nombre de mères infestées par _Entamoeba histolytica_ n’a montré qu’une faible contamination de leurs jeunes enfants. Après ingestion, les kystes se transforment en formes végétatives (forme minuta) qui se multiplient avant de s’enkyster pour être éliminés avec les selles (cycle non pathogène). En cas de moindre résistance de l’état général, les formes végétatives augmentent de volume et agressent la muqueuse en se nourrissant d’hématies (formes hématophages). Elles créent des foyers de nécrose dans la muqueuse colique, responsables de l’amibiase colique (abcès "en bouton de chemise").
 
+
 ![](page-35-fig-1-abces-ens-de-chemise.jpg)
  _**Abcès en "bouton de chemise"**_
 

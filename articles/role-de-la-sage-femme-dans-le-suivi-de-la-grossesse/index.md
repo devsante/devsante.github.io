@@ -14,10 +14,10 @@ teaser: "Le rôle central de la sage-femme dans les soins prénataux repose sur 
 
 ### Aider la femme et sa famille à développer un plan pour l'accouchement
 
-*   Présence d'un prestataire : s'assurer que la femme sait comment contacter le prestataire compétent ou la structure sanitaire au moment approprié.
+*   Présence d'un prestataire : s'assurer que la femme sait comment contacter le prestataire compétent ou la structure sanitaire au moment approprié.  
 *   Le transport/ transport d'urgence s'assurer que la femme a pris les dispositions spécifiques pour :
-    *   Le transport au lieu de l'accouchement.
-    *   Le transport d'urgence vers une structure appropriée en cas de signes faisant craindre une complication.
+    *   Le transport au lieu de l'accouchement.  
+    *   Le transport d'urgence vers une structure appropriée en cas de signes faisant craindre une complication.  
 *   Disponibilité des fonds nécessaires pour payer les soins d'un accouchement
     *   S'assurer qu'elle dispose de fonds (personnels ou autres) lui permettant de payer les soins d'un accou¬chement normal ou en urgence.
 
@@ -27,14 +27,14 @@ teaser: "Le rôle central de la sage-femme dans les soins prénataux repose sur 
 *   Qui prend les décisions ?
 *   Quelle autre personne peut les prendre en l'absence du décideur ?
 *   Compagnon de soutien pour l'accouchement : conseiller la femme pour qu'elle identifie et prépare toutes les per¬sonnes de soutien qui lui seront nécessaires, y compris
-    *   Une accompagnante pour l'aider pendant son travail et son accouchement, et pendant le transport si nécessaire.
+    *   Une accompagnante pour l'aider pendant son travail et son accouchement, et pendant le transport si nécessaire.  
     *   Une personne pour s'occuper de son ménage et de ses enfants durant son absence.
 
 ### Don de sang
 
-*   S'assurer que la femme et sa famille ont identifié un ou des donneurs de sang appropriés et que cette ou ces personnes seront accessibles et disponibles en cas d'urgence.
+*   S'assurer que la femme et sa famille ont identifié un ou des donneurs de sang appropriés et que cette ou ces personnes seront accessibles et disponibles en cas d'urgence.  
 *   Les articles nécessaires pour l'accouchement et les soins du nouveau-né, tous propres
-    *   Pour l'accouchement garniture/linge, savon, drap, récipient pour le placenta, lame neuve non utilisée, eau de javel, alèse, gants...
+    *   Pour l'accouchement garniture/linge, savon, drap, récipient pour le placenta, lame neuve non utilisée, eau de javel, alèse, gants...  
     *   Pour le nouveau-né : couverture, couches, vêtements.
 
 _NB : La liste des articles nécessaires n ést pas exhaustive et dépend des conditions individuelles et du lieu de l'accou¬chement._

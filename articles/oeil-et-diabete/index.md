@@ -23,8 +23,8 @@ Le diagnostic est fait :
 
 Il doit être complet et comporte :
 
-*   Fonction visuelle : mesure de l'acuité visuelle (AV) corrigée de loin et de près, vision des contrastes, vision des couleurs, adaptation à l'obscurité.
-*   Examen du segment antérieur avant et après dilatation, et mesure du tonus oculaire.
+*   Fonction visuelle : mesure de l'acuité visuelle (AV) corrigée de loin et de près, vision des contrastes, vision des couleurs, adaptation à l'obscurité.  
+*   Examen du segment antérieur avant et après dilatation, et mesure du tonus oculaire.  
 *   Examen du fond d'oeil, essentiel +++.
 
 ### **3. L'exploration de la rétinopathie diabétique (RD)**
@@ -73,6 +73,7 @@ Le traitement de la cataracte chez le diabétique est fait, si possible, après 
 
 **Orgelet, chalazion** et blépharites sont plus fréquents, d'où la règle de pratiquer glycémie face à des orgelets et des chalazions récidivants (mais pas au premier !)
 
+
 ![](12093-1.jpg)
 
 
@@ -95,12 +96,12 @@ On distingue 3 stades évolutifs de gravité crois­sante. L'évolution peut se 
 
 #### **a) La rétinopathie débutante**
 
-*   Signes fonctionnels : aucun ! Le sujet ne se plaint de rien.
+*   Signes fonctionnels : aucun ! Le sujet ne se plaint de rien.  
 *   Fond d'œil (FO) : l'examen est normal ou presque.
 
 #### **b) La rétinopathie non proliférante oedémateuse et/ou ischémique**
 
-*   Signes fonctionnels : parfois encore aucun... ou baisse visuelle en cas d'œdème maculaire ou d'hémorragie de la région maculaire.
+*   Signes fonctionnels : parfois encore aucun... ou baisse visuelle en cas d'œdème maculaire ou d'hémorragie de la région maculaire.  
 *   FO et angiographie : deux aspects possibles selon la prédominance de l'œdème ou de l'ischémie (les formes mixtes sont fréquentes). Ainsi, l'angiographie, mieux que l'examen du FO, précise la forme clinique.
 
 #### **c) Rétinopathie ischémique proliférante**
@@ -113,21 +114,22 @@ Il se développe une circulation collatérale, faite de néovaisseaux "anarchiqu
 
 Il est capital :
 
-*   Equilibrage du diabète : très efficace dans la pré­vention, voire la régression des signes de rétino­pathie débutante. Indispensable ensuite aussi pour éviter l'aggravation.
-*   Traitement des autres facteurs de risque : HTA surtout, arrêt du tabac.
+*   Equilibrage du diabète : très efficace dans la pré­vention, voire la régression des signes de rétino­pathie débutante. Indispensable ensuite aussi pour éviter l'aggravation.  
+*   Traitement des autres facteurs de risque : HTA surtout, arrêt du tabac.  
 *   Anti-agrégants : l'aspirine à faible dose permet de limiter les risques de thrombose.
 
 #### **b) Curatif**
 
 Il ne se conçoit que lorsque le diabète est bien équilibré... si possible...
 
-*   **Médical : il n'en existe pas**. Aucun médicament ne prévient la survenue ni n'améliore la rétinopathie.
-*   **Laser "semi-curatif** +++ : gigantesque progrès en ophtalmologie car il a permis d'éviter (le plus souvent) l'évolution vers la cécité. Il faut se rap­peler que l'on ne guérit pas mais on limite le risque de complications, ce qui sous-entend que l'équilibrage du diabète et la lutte contre les autres facteurs de risque vasculaire soient parfaits. On réalise une photocoagulation des zones de rétine ischémiques, ce qui permet de les exclure et d'éviter la prolifération des néovaisseaux.
+*   **Médical : il n'en existe pas**. Aucun médicament ne prévient la survenue ni n'améliore la rétinopathie.  
+*   **Laser "semi-curatif** +++ : gigantesque progrès en ophtalmologie car il a permis d'éviter (le plus souvent) l'évolution vers la cécité. Il faut se rap­peler que l'on ne guérit pas mais on limite le risque de complications, ce qui sous-entend que l'équilibrage du diabète et la lutte contre les autres facteurs de risque vasculaire soient parfaits. On réalise une photocoagulation des zones de rétine ischémiques, ce qui permet de les exclure et d'éviter la prolifération des néovaisseaux.  
 *   **Chirurgical : rarement pratiqué**. Il s'agit d'un "pis-aller" car il s'adresse aux complications qui auraient dû être prévenues par l'équilibrage du diabète ou traitées par photocoagulation...
 
 ### Conclusion
 
 Cette revue des complications dues au diabète met en évidence l'importance du suivi régulier des patients. L'amélioration importante du traitement de la maladie responsable et la possibilité d'offrir aux diabétiques des thérapeutiques oculaires effi­caces permettent de voir l'avenir ophtalmologique de ces patients avec beaucoup plus d'optimisme qu'il y a une vingtaine d'années. Il est probable que de nouvelles voies thérapeutiques s'ouvriront encore pour éviter aux diabétiques un handicap visuel qui les menaçait auparavant.
+
 
 ![](12093-3.jpg)
 

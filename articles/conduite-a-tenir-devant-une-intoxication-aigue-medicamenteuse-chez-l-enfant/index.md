@@ -9,8 +9,8 @@ teaser: "Les intoxications aiguës médicamenteuses de l'enfant sont, dans la ma
 
 L'intoxication évolue en trois phases :
 
-*   Une période muette, pouvant atteindre plusieurs heures pour certaines substances, pendant laquelle le toxique est présent dans l'organisme mais ne provoque aucun symptôme. Le danger principal est de sous-estimer la gravité de l'intoxication à ce moment et de négliger la prise en charge thérapeutique adaptée.
-*   Une période d'état symptomatique.
+*   Une période muette, pouvant atteindre plusieurs heures pour certaines substances, pendant laquelle le toxique est présent dans l'organisme mais ne provoque aucun symptôme. Le danger principal est de sous-estimer la gravité de l'intoxication à ce moment et de négliger la prise en charge thérapeutique adaptée.  
+*   Une période d'état symptomatique.  
 *   Une période de guérison.
 
 Dans la pratique, trois situations sont possibles :
@@ -150,6 +150,7 @@ organochlorés
 </tbody>
 
 </table>
+
 <table>
 <caption>Tableau 3. Atteintes cardiovasculaires toxiques (liste non exhaustive)</caption>
 
@@ -222,8 +223,8 @@ inhibiteurs calciques
 Quand on ne dispose d'aucun moyen permettant d'identifier et de doser le toxique, il faut :
 
 1.  Tenter de répondre par l'interrogatoire de l'entourage aux trois questions: quoi ? Combien? Quand ?
-2.  Évaluer l'état clinique, qui permettra rarement de faire le diagnostic de la nature de l'intoxication, mais surtout permettra d'en évaluer les conséquences et d'adapter le traitement symptomatique: assurer la survie de l'intoxiqué et éviter les complications (pneumopathie d'inhalation par exemple).
-3.  Évacuer le toxique au plus vite si cela est possible, ou bien en empêchant ou en limitant son absorption, ou bien en accélérant son élimination.
+2.  Évaluer l'état clinique, qui permettra rarement de faire le diagnostic de la nature de l'intoxication, mais surtout permettra d'en évaluer les conséquences et d'adapter le traitement symptomatique: assurer la survie de l'intoxiqué et éviter les complications (pneumopathie d'inhalation par exemple).  
+3.  Évacuer le toxique au plus vite si cela est possible, ou bien en empêchant ou en limitant son absorption, ou bien en accélérant son élimination.  
 4.  Administrer un antidote quand cela s'avère possible, c'est-à-dire le plus précocement possible, et quand il existe un antidote disponible pour le toxique en cause (tableau n°4).
 
 <table>
@@ -441,7 +442,7 @@ Chez le petit enfant, avant deux ans: le risque d'acidose métabolique et de tro
 
 #### Conduite à tenir
 
-1.  _Évacuation gastrique:_ lavage gastrique, efficace même plusieurs heures après l'ingestion.
+1.  _Évacuation gastrique:_ lavage gastrique, efficace même plusieurs heures après l'ingestion.  
 2.  _Charbon activé:_ diminuant l'absorption jéjunale de l'acide acétylsalicyliques
 3.  _Diurèse alcaline :_ améliore l'élimination rénale.
 
@@ -450,7 +451,7 @@ Prudence: se méfier du risque de surcharge (oedème pulmonaire aigu).
 ### 2. Paracétamol : acétaminophène
 
 *   analgésique, antipyrétique,
-*   absorption digestive rapide.
+*   absorption digestive rapide.  
 *   métabolisme hépatique.
 
 #### Posologies :
@@ -462,8 +463,8 @@ Prudence: se méfier du risque de surcharge (oedème pulmonaire aigu).
 
 Symptomatologie différée, débutant 12 à 24heures après l'intoxication.
 
-*   _Signes digestifs:_ nausées, vomissements, gastralgies.
-*   _Signes neurologiques:_ somnolence.
+*   _Signes digestifs:_ nausées, vomissements, gastralgies.  
+*   _Signes neurologiques:_ somnolence.  
 *   _Signes hépatiques:_ survenant après 24 heures,
     *   débutant par une cytolyse hépatique, se traduisant par des hépatalgies, un ictère,
     *   évoluant vers une insuffisance hépatocellulaire, le plus souvent irréversible, avec encéphalopathie hépatique, troubles hémorragiques, troubles cardiovasculaires et rénaux.
@@ -472,7 +473,7 @@ Symptomatologie différée, débutant 12 à 24heures après l'intoxication.
 
 La prise en charge doit être précoce. Elle est systématiquement dès qu'on suspecte une intoxication avec des doses supérieures à 100mg/kg.
 
-1.  _Évacuation gastrique_ par lavage gastrique, efficace jusqu'à six heures après l'ingestion.
+1.  _Évacuation gastrique_ par lavage gastrique, efficace jusqu'à six heures après l'ingestion.  
 2.  _Antidote:_ Nacétylcystéine (Mucomyst®, Fluimucil® ... ): son administration est débutée juste après le lavage gastrique selon le schéma suivant :
 
 *   140 mg/kg en dose de charge _per os,_
@@ -523,7 +524,7 @@ Anticonvulsivants, myorelaxants, hypnotiques classés en barbituriques d'action 
 
 *   Phénobarbital
     *   absorption digestive prolongée,
-    *   métabolisme hépatique (70%) et élimination urinaire sous forme inchangée (30%).
+    *   métabolisme hépatique (70%) et élimination urinaire sous forme inchangée (30%).  
 *   Autres barbituriques
     *   absorption digestive rapide,
     *   métabolisme hépatique.
@@ -535,7 +536,7 @@ _Signes **neurologiques** :_
 *   Phénobarbital :
     *   coma, parfois précédé d'une phase d'agitation,
     *   coma calme, hypotonique, sans signe de localisation, souvent prolongé (48 à 72 heures),
-    *   l'intoxication massive peut simuler une mort cérébrale.
+    *   l'intoxication massive peut simuler une mort cérébrale.  
 *   Autres barbituriques :
     *   - dépression neurologique centrale précoce, avec coma hypertonique, de brève durée.
 
@@ -595,11 +596,11 @@ La confirmation de l'intoxication serait donnée, si on en disposait, par un dos
 
 #### Conduite à tenir
 
-1.  Évacuation gastrique par lavage gastrique ou sirop d'ipéca si l'ingestion accidentelle est récente ou s'il s'agit de comprimés à libération prolongée.
-2.  Charbon activé, dont l'administration répétée accélère l'élimination de la théophylline.
-3.  Anti-vomitif, donné ensuite pour améliorer la tolérance du charbon activé en cas de vomissements non induits.
-4.  Le traitement des convulsions repose sur le diazépam ou sur le phénobarbital.
-5.  Les troubles cardiovasculaires requièrent une prise en charge hospitalière. Les arythmies sans retentissement hémodynamique ne nécessitent aucun traitement. Pour le traitement des arythmies ventriculaires symptomatiques, on peut discuter l'utilisation des bêtabloquants, mais on s'expose au risque de bronchospasmes.
+1.  Évacuation gastrique par lavage gastrique ou sirop d'ipéca si l'ingestion accidentelle est récente ou s'il s'agit de comprimés à libération prolongée.  
+2.  Charbon activé, dont l'administration répétée accélère l'élimination de la théophylline.  
+3.  Anti-vomitif, donné ensuite pour améliorer la tolérance du charbon activé en cas de vomissements non induits.  
+4.  Le traitement des convulsions repose sur le diazépam ou sur le phénobarbital.  
+5.  Les troubles cardiovasculaires requièrent une prise en charge hospitalière. Les arythmies sans retentissement hémodynamique ne nécessitent aucun traitement. Pour le traitement des arythmies ventriculaires symptomatiques, on peut discuter l'utilisation des bêtabloquants, mais on s'expose au risque de bronchospasmes.  
 6.  La diurèse forcée ne présente aucun intérêt : la théophylline est éliminée dans les urines sous forme de dérivés inactifs.
 
 ### 6. Chloroquine : antipaludéen

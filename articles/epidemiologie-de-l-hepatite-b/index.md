@@ -8,13 +8,14 @@ date: "2001-02-20"
 
 D'après les estimations de l'Organisation mondiale de la santé, 2 milliards de personnes sont infectées par le virus de l'hépatite B, dont 350 millions sont porteurs chroniques du virus. Ces derniers présentent un risque important de déclarer un jour une cirrhose ou un cancer du foie. Au moins 1 million en meurent chaque année.  Bien qu'ubiquitaire, la répartition géographique du virus de l'hépatite B n'est pas homogène. On peut (en tenant compte de la présence des marqueurs du virus de l'hépatite B) définir trois zones d'infections persistantes :
 
-*   les zones de haute endémicité, telles que l'Afrique et l'Asie du Sud-Est, 70 à 90 % de la population qui présentent des marqueurs du virus de l'hépatite B et plus de 8 % de la population sont constitués de porteurs chroniques (présence de l'antigène de surface HBS de l'hépatite B).
-*   les zones d'endémicité moyenne qui sont le Moyen-Orient, l'Amérique Centrale et l'Amérique du Sud. On y observe entre 2 et 7 % de porteurs chroniques et 20 à 55 % de personnes présentant des marqueurs du virus.
+*   les zones de haute endémicité, telles que l'Afrique et l'Asie du Sud-Est, 70 à 90 % de la population qui présentent des marqueurs du virus de l'hépatite B et plus de 8 % de la population sont constitués de porteurs chroniques (présence de l'antigène de surface HBS de l'hépatite B).  
+*   les zones d'endémicité moyenne qui sont le Moyen-Orient, l'Amérique Centrale et l'Amérique du Sud. On y observe entre 2 et 7 % de porteurs chroniques et 20 à 55 % de personnes présentant des marqueurs du virus.  
 *   les zones d'endémicité faible, telles que l'Amérique du Nord, l'Europe occidentale et du Nord, où le taux de porteurs chroniques est inférieur à 2 % et la présence des marqueurs du virus se retrouve chez moins de 20 % de la population.
 
 Au plan mondial, le taux d'infection est plus important chez les hommes que chez les femmes, chez les enfants que chez les adultes, dans les populations urbaines que dans les populations rurales.
 
 La transmission horizontale, très fréquente chez les enfants et les adolescents, serait responsable de la majorité des infections en Afrique et au Moyen-Orient.  En revanche, la transmission périnatale est beaucoup plus répandue en Asie.
+
 
 ![](image002-epidemio-hepatite-b.jpg)
 
@@ -43,7 +44,7 @@ Les sources d'infection sont le sang, les produits sanguins et dérivés, ainsi 
 
 Elle se fait :
 
-*   Par la transfusion du sang et de ses dérivés. Pour chaque donneur il faudrait pouvoir rechercher l'antigène HBS, l'anticorps antiHBC et doser les ALAT. Ce mode de transmission explique la forte prévalence chez les hémophiles.
+*   Par la transfusion du sang et de ses dérivés. Pour chaque donneur il faudrait pouvoir rechercher l'antigène HBS, l'anticorps antiHBC et doser les ALAT. Ce mode de transmission explique la forte prévalence chez les hémophiles.  
 *   Par piqûres. Dans ce dernier cas, on peut distinguer :
     *   la transmission par les aiguilles lorsqu'elles ne sont pas à usage unique ou lors de certaines pratiques (toxicomanie, tatouage, acupuncture, scarifications, piercing des oreilles... )
     *   la transmission accidentelle. Ce mode de transmission explique la contamination du personnel de santé.
@@ -128,6 +129,7 @@ Le personnel de santé doit connaître son statut sérologique. Tout soignant ay
 Idéalement, le matériel d'injection (et autres objets tranchants) devrait être à usage unique. Dans les cas où cela est impossible, les aiguilles et autres doivent être rigoureusement stérilisés après chaque usage par la chaleur humide (autoclave 121°C pendant 20mn). Les vêtements contaminés doivent être trempés dans un bain d'eau de Javel avant d'être lavés dans une machine à laver aux températures les plus élevées possibles.
 
 Le matériel souillé à jeter doit être recueilli dans des conteneurs spéciaux munis d'un couvercle, puis incinéré.  Si l'incinération n'est pas possible, il faut stériliser avant de jeter pour éviter une
+
 
 ![](image004-epidemio-hepatite-b.jpg)
 

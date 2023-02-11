@@ -57,18 +57,18 @@ Ce lavage prévient la transmission manupor­tée en éliminant la flore transit
 
 ### 1. Matériel (si possible)
 
-*   Savon liquide doux avec distributeur.
-*   Essuie main à usage unique, avec distributeur.
+*   Savon liquide doux avec distributeur.  
+*   Essuie main à usage unique, avec distributeur.  
 *   Poubelle.
 
 ### 2. Technique
 
-*   Mouiller les mains et les poignets.
-*   Appliquer une dose de savon.
-*   Masser chaque main, insister sur les parties entre les doigts.
-*   Rincer.
-*   Sécher avec l'essuie-mains à usage unique.
-*   Fermer le robinet avec l'essuie-mains après utilisation.
+*   Mouiller les mains et les poignets.  
+*   Appliquer une dose de savon.  
+*   Masser chaque main, insister sur les parties entre les doigts.  
+*   Rincer.  
+*   Sécher avec l'essuie-mains à usage unique.  
+*   Fermer le robinet avec l'essuie-mains après utilisation.  
 *   Jeter l'essuie-mains dans la poubelle sans la toucher.
 
 **Le temps minimum pour un bon lavage est de 30 secondes.**
@@ -81,18 +81,18 @@ Ce lavage élimine la flore transitoire et dimi­nue la flore commensale.
 
 ### 1. Matériel
 
-*   Savon liquide antiseptique avec distributeur.
-*   Essuie-main à usage unique, avec distributeur.
+*   Savon liquide antiseptique avec distributeur.  
+*   Essuie-main à usage unique, avec distributeur.  
 *   Poubelle.
 
 ### 2. Technique
 
-*   Mouiller les mains et les poignets.
-*   Appliquer une dose de savon.
-*   Masser chaque main, insister sur les parties entre les doigts et le pourtour des ongles.
+*   Mouiller les mains et les poignets.  
+*   Appliquer une dose de savon.  
+*   Masser chaque main, insister sur les parties entre les doigts et le pourtour des ongles.  
 *   Rincer abondamment, maintenir les paumes dirigées vers le haut
-*   Sécher avec l'essuie-mains à usage unique.
-*   Fermer le robinet avec l'essuie-mains après utilisation.
+*   Sécher avec l'essuie-mains à usage unique.  
+*   Fermer le robinet avec l'essuie-mains après utilisation.  
 *   Jeter l'essuie-mains dans la poubelle sans la toucher.
 
 **Le temps minimum pour un bon lavage est de 1 minute.**
@@ -105,11 +105,11 @@ Ce lavage élimine la flore transitoire et dimi­nue la flore commensale.
 
 ### 1. Matériel
 
-*   Savon antiseptique à large spectre.
-*   Brosse à usage unique stérile.
-*   Essuie-mains stérile.
-*   Robinetterie dégagée, à commande non manuelle.
-*   Eau bactériologiquement pure.
+*   Savon antiseptique à large spectre.  
+*   Brosse à usage unique stérile.  
+*   Essuie-mains stérile.  
+*   Robinetterie dégagée, à commande non manuelle.  
+*   Eau bactériologiquement pure.  
 *   Poubelle.
 
 ### 2. Technique
@@ -119,23 +119,24 @@ Ce lavage élimine la flore transitoire et dimi­nue la flore commensale.
 
 #### 1<sup>ere</sup> étape : prélavage
 
-*   Appliquer une dose antiseptique et faire mousser abondamment jusqu'aux coudes pendant une minute.
-*   Maintenir les mains au-dessus des coudes.
+*   Appliquer une dose antiseptique et faire mousser abondamment jusqu'aux coudes pendant une minute.  
+*   Maintenir les mains au-dessus des coudes.  
 *   Rincer abondamment les mains, les poignets et les avant-bras.
 
 #### 2<sup>ème</sup> étape
 
-*   Reprendre une brosse stérile.
+*   Reprendre une brosse stérile.  
 *   Brosser les ongles pendant une minute.
 
 #### 3<sup>ème</sup> étape
 
-*   Reprendre une dose de savon, masser chaque main pendant une minute, et chaque avant bras pendant 30 secondes.
+*   Reprendre une dose de savon, masser chaque main pendant une minute, et chaque avant bras pendant 30 secondes.  
 *   Rincer et sécher en tamponnant avec un essuie-mains stériles.
 
 **Le temps minimun est de 5 minutes.**
 
 **Six étapes bien orchestrées pour l'application des solutions moussantes ou des solutions hydro-alcooliques sur les mains**
+
 
 ![](image002.jpg)
 
@@ -153,6 +154,7 @@ Elles s'appliquent par friction sans rinçage sur des mains sèches, propres et 
 Avoir les mains propres (non souillées) et sèches.
 
 Verser 3 ml dans le creux de chaque main. Etaler la solution en suivant les 6 étapes décrites. **Schéma du lavage** (voir tableau)
+
 
 ![](image002-18.jpg)
 
@@ -255,7 +257,7 @@ Durée minimale de friction : 5 minutes.
 
 La flore de la main a deux origines :
 
-*   une flore commensale dite résidente, qui est celle des couches superficielles de la peau. Elle est peu pathogène pour l'homme sain, et sera incriminée seulement en cas de techniques invasives profondes chez le patient immunodéprimé (Staphylococcus epidermidis, Coryne­bacterium).
+*   une flore commensale dite résidente, qui est celle des couches superficielles de la peau. Elle est peu pathogène pour l'homme sain, et sera incriminée seulement en cas de techniques invasives profondes chez le patient immunodéprimé (Staphylococcus epidermidis, Coryne­bacterium).  
 *   une flore dite transitoire, qui est superficielle, de contamination récente, qui survit un temps limité sur la peau et peut être pathogène. Il s'agit de bactéries d'origine digestive (Esche­richia coli, Klebsiella pneumoniae, Proteus mirabilis etc), de bactéries provenant de la peau ou des muqueuses (Staphylococcus aureus etc), ou de bactéries d'origine exogène (Pseudo­monas, Acinetobacter etc). C'est cette flore qui est acquise lors de soins ou d'examens effec­tués chez des malades colonisés ou infectés qui est le plus souvent à l'origine d'infections noso­comiales, par transmission de malade à malade, les mains des soignants servant d'intermé­diaires. Elle survit pendant un temps limité à quelques heures et il a été démontré que le lava­ge correct des mains élimine ces bactéries et donc empêche la transmission interhumaine.
 
 <table>

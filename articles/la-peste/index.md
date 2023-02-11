@@ -11,6 +11,7 @@ Une épidémie de peste a débuté fin aout 2013 à Madagascar dans la région d
 
 **Figure 1. La peste à Madagascar**
 
+    
 ![](fig-1-carte-cas-madagascar.JPG)
 
 
@@ -18,10 +19,12 @@ Cependant, quelques épidémies sont survenues sporadiquement, comme en 1933 (re
 
 **Figue 2. La peste dans le monde**
 
+
 ![](fig-2-carte-des-foyers-de-peste.JPG)
 
 
 **Figure 3. Morbidité et mortalité de la peste dans le monde**
+
 
 ![](fig-3-morbidite-et-mortalite-de-la-peste-humaine-1987-2009.JPG)
 
@@ -32,12 +35,15 @@ La peste est une zoonose due à une bactérie, Yersinia pestis, découvert par A
 
 **Figure 4. A. Yersin devant son laboratoire de Hong-Kong**
 
+
 ![](fig-4-yersin-devant-son-laboratoire.jpeg)
 
 
 Ce bacille, Gram négatif, aéro-anaérobie facultatif, est très résistant dans la nature, peut rester plusieurs jours dans un organisme en décomposition et peut survivre dans les terriers des rongeurs infestés. _Y. pestis_, dont le séquençage du génome, réalisé en 2001, a détecté plus de 4 000 gènes codant des protéines, est transmis par un vecteur, une puce du rat, _Xenopsylla cheopis_ (figure 5) qui s’est préalablement contaminée en piquant l’animal réservoir, à savoir le rat noir (Rattus rattus) (figure  6).          
 
+
 ![](fig-5-xenppsylla-cheopis.jpg)
+                                             
 ![](fig-6-rattus-rattus.jpg)
 
 
@@ -54,6 +60,7 @@ La peste se présente sous trois formes qui peuvent se succéder dans le temps.
 C'est la plus fréquente. Une semaine après l’inoculation, le patient présente une fièvre élevée, des frissons, des vertiges et une sensation de malaise. L’examen clinique retrouve une adénopathie inflammatoire, œdémateuse (ou bubon) et très douloureuse à la palpation. Ce bubon est le plus souvent inguinal (figure 7) en raison des piqûres de puces au niveau des jambes ou parfois dans la région axillaire. Sans traitement, l’évolution est  souvent mortelle en quelques jours, mais certains patients peuvent en guérir spontanément avec une longue convalescence.
 
 **Figure 7. Bubon pesteux**
+
 
 ![](fig-7-bubon-pesteux-cdc.jpg)
 
@@ -72,6 +79,7 @@ Le diagnostic est établi sur la mise en évidence du bacille de Yersin dans le 
 
 **                                Figure 8. _Yersinias pestis_**
 
+                 
 ![](fig-8-yersinia-pestis.jpg)
 
 
@@ -79,7 +87,9 @@ Le diagnostic est établi sur la mise en évidence du bacille de Yersin dans le 
 
 Dans l’Antiquité, Hippocrate recommandait d’allumer des feux dans les places publiques pour « brûler les miasmes ». Au Moyen-âge, le traitement des sujets pestiférés se limitait à des prières à St Roch (patron des pesteux et d’ailleurs toujours représenté avec un bubon) (figure 9), des processions, des flagellations et le bûcher pour quelques personnes (les hérétiques et les lépreux) soupçonnées de propager la maladie (figure 10).
 
+
 ![](fig-9-st-roch.JPG)
+          
 ![](fig-10-procession.jpg)
 
 
@@ -87,6 +97,7 @@ Dans l’Antiquité, Hippocrate recommandait d’allumer des feux dans les place
 
 Les classiques purges et saignées aggravaient le patient au lieu de le soulager. A partir du XVIème siècle, les patients sont isolés, leurs habitations subissent des fumigations et les morts sont incinérés. La mise en quarantaine des navires ayant à bord un patient suspect d’avoir une peste a permis d’éviter la propagation de la maladie dans les ports puis dans les autre villes. Tout manquement à cette règle pouvait être responsable d’une épidémie (comme dans le cas de la peste de Marseille en 1720) (figure 11).
 
+                          
 ![](fig-11-peste-de-marseille.jpg)
 
 
@@ -114,6 +125,7 @@ pas ces odeurs.
 </td>
 
 <td>
+
 
 ![](fig-12-habits-medecins.jpg)
 

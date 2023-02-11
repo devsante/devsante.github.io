@@ -126,11 +126,11 @@ Dans le langage médical courant, c'est sous la dénomination de douleurs par d�
 
 Cliniquement, le diagnostic est facile, la description de ces douleurs engendrées par ces différentes lésions est évocatrice et assez comparable :
 
-*   Elles revêtent une tonalité de brûlure ou d'arrachement le plus souvent, qui évolue selon un fond douloureux permanent. Le déroulement se fait selon un mode continu avec des renforcements paroxystiques, en éclairs, décrits comme des élancements, des coups de poignard ou des décharges électriques. On peut également retrouver des paresthésies (fourmillements, sensations d'écoulement de liquide ou de peau cartonnée ... ).
-*   L'examen clinique met en évidence des signes déficitaires (hypoesthésie, anesthésie), ou des réponses exagérées : hyperesthésie, allodynie ou hyperpathie (présente dans 14 % des cas selon l'étude de Tasker). On constate tous les intermédiaires, de l'anesthésie douloureuse à l'hyperesthésie, les seuils aux différentes sensibilités sont altérés, mais également les modalités de réponse aux stimulations : allodynie, allochesthésie.
-*   Il existe très souvent un retentissement psychologique qui revêt une allure obsessionnelle.
-*   Par définition, ces douleurs surviennent en l'absence de processus évolutif initial.
-*   La douleur est perçue dans une région où l'examen clinique retrouve un déficit sensitif.
+*   Elles revêtent une tonalité de brûlure ou d'arrachement le plus souvent, qui évolue selon un fond douloureux permanent. Le déroulement se fait selon un mode continu avec des renforcements paroxystiques, en éclairs, décrits comme des élancements, des coups de poignard ou des décharges électriques. On peut également retrouver des paresthésies (fourmillements, sensations d'écoulement de liquide ou de peau cartonnée ... ).  
+*   L'examen clinique met en évidence des signes déficitaires (hypoesthésie, anesthésie), ou des réponses exagérées : hyperesthésie, allodynie ou hyperpathie (présente dans 14 % des cas selon l'étude de Tasker). On constate tous les intermédiaires, de l'anesthésie douloureuse à l'hyperesthésie, les seuils aux différentes sensibilités sont altérés, mais également les modalités de réponse aux stimulations : allodynie, allochesthésie.  
+*   Il existe très souvent un retentissement psychologique qui revêt une allure obsessionnelle.  
+*   Par définition, ces douleurs surviennent en l'absence de processus évolutif initial.  
+*   La douleur est perçue dans une région où l'examen clinique retrouve un déficit sensitif.  
 *   Si certains troubles sont directement en relation avec la lésion, d'autres semblent secondaires à des mécanismes " réflexes " mettant eu jeu le système nerveux sympathique, comme dans le syndrome de dystrophie sympathique réflexe.
 
 L'étude de ces mécanismes très différents permet de préciser que les traitements de ces deux grandes variétés de douleurs sont également différents.

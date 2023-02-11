@@ -36,7 +36,7 @@ Les premiers mots de la consultante, sa façon d'annoncer son problème sont tr�
 
 #### Quelques exemples :
 
-*   Telle femme consulte pour des " douleurs au ventre ". Dans quelle partie du ventre ? " Le bas-ventre ", répond-elle en montrant la partie concernée. Elle va parler de sa constipation ou de ses brûlures urinaires, et ensuite, petit à petit, elle évoquera des douleurs pendant les règles, puis son absence de maternité depuis quelques années.
+*   Telle femme consulte pour des " douleurs au ventre ". Dans quelle partie du ventre ? " Le bas-ventre ", répond-elle en montrant la partie concernée. Elle va parler de sa constipation ou de ses brûlures urinaires, et ensuite, petit à petit, elle évoquera des douleurs pendant les règles, puis son absence de maternité depuis quelques années.  
 *   Telle autre entre gênée, à petits pas, soucieuse que ses propos ne soient pas entendus par d'autres consultantes. Avec du tact et du temps, on apprendra que depuis son dernier accouchement très pénible, chaque fois qu'elle va à la selle, des matières sortent de " devant ". Cela évoque une fistule recto-vaginale.
 
 ###   
@@ -108,7 +108,7 @@ On pourra découvrir chez la femme constipée un gros boudin colique dans les fo
 
 #### Mais c'est surtout l'examen gynécologique qui demandera beaucoup d'attention :
 
-*   _Examen de la vulve_ : parfois des enseignants en gynécologie regrettent que le médecin ne sache pas regarder une vulve, comme si une pudeur gênait et voilait son regard. _La patiente détendue et mise en_ confiance, l'infirmier habitué à la gynécologie, ou la sage-femme, écartera doucement les grandes lèvres, tous les replis. Au lieu de parcourir d'un coup d'oeil, il arrêtera son regard sur toutes les parties de la vulve, à la recherche d'une lésion quelconque, qu'il palpera au besoin avec son doigt pour chercher une induration, une douleur exquise.
+*   _Examen de la vulve_ : parfois des enseignants en gynécologie regrettent que le médecin ne sache pas regarder une vulve, comme si une pudeur gênait et voilait son regard. _La patiente détendue et mise en_ confiance, l'infirmier habitué à la gynécologie, ou la sage-femme, écartera doucement les grandes lèvres, tous les replis. Au lieu de parcourir d'un coup d'oeil, il arrêtera son regard sur toutes les parties de la vulve, à la recherche d'une lésion quelconque, qu'il palpera au besoin avec son doigt pour chercher une induration, une douleur exquise.  
 *   _Observation de la cavité vaginale_ avec un spéculum. Là aussi, il faut rassurer la patiente sur l'instrument, et il faut s imposer de l'utiliser systématiquement. Après l'avoir lubrifié en l'ayant mouillé avec de l'eau, on le fait rentrer avec un léger mouvement de rotation. Suffisamment éclairé, on observera tout : les parois vaginales, le col, sa position, son orifice et l'aspect des leucorrhées, si elles existent ;
 *   Le _toucher vaginal_ combiné au palper _de_ _l'hypogastre :_ là encore, la femme détendue et en confiance, il ne faut pas être pressé, mal à l'aise. On tâchera de prendre le temps pour bien sentir ce que l'on cherche. Si l'examen est douloureux, en cas d'infection par exemple, on n'insistera pas.
 
@@ -170,7 +170,7 @@ Elles sont multiples. Nous n'en évoquerons que quelques-unes parce qu'elles son
 Citons quelques exemples :
 
 *   _Salpingite aiguë_ : fièvre et intense douleur dans un des culs-de-sac latéraux au toucher vaginal,
-*   _Grossesse extra-utérine_ : toujours y penser même si la patiente a été étiquetée stérile : douleurs aiguës, malaise, métrorragies, masse latéro-utérine douloureuse.
+*   _Grossesse extra-utérine_ : toujours y penser même si la patiente a été étiquetée stérile : douleurs aiguës, malaise, métrorragies, masse latéro-utérine douloureuse.  
 *   **Vulvite :** très souvent à _Candida albicans._ Cette forme de mycose se caractérise par un prurit, des leucorrhées blanchâtres comme du lait caillé, une dyspareunie d'intromission, un aspect rouge et blanc de la vulve. Une dysurie accompagne parfois l'inflammation. Le traitement consiste en une hygiène à l'eau et au savon, et à l'application de crèmes et d'ovules antimycosiques à la mycostatine, ou imidazolés (Daktarin®, Pévaryl®, Fazol®, Trosyd® ... )-
 
 *   **Vaginite,** se manifestant par des leucorrhées :
@@ -208,7 +208,7 @@ Tous ces diagnostics seront à confirmer par le médecin de référence.
 
 *   Une consultation pour douleurs hypogastriques chroniques demande du temps.
 
-*   Écouter d'abord, puis interroger.
+*   Écouter d'abord, puis interroger.  
 *   Recevoir l'explicite, laisser venir l'implicite.
 
 *   lnterroger et examiner systématiquement le gestif, l'urinaire, le génital.

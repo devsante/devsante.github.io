@@ -18,19 +18,19 @@ Dans ces situations, couper ou écraser un comprimé ou ouvrir une gélule peut 
 
 Inexactitude des doses réellement administrées par perte du médicament lors de la préparation ou par modification de l’absorption : sur ou sous-dosage.
 
-*   Toxicité locale avec irritation ou ulcération des muqueuses digestives.
+*   Toxicité locale avec irritation ou ulcération des muqueuses digestives.  
 *   Pour les formes galéniques spécifiques : modification des propriétés physico-chimiques (stabilité du principe actif, incompatibilité), des caractéristiques pharmacocinétiques (libération du principe actif, biodisponibilité) et/ou pharmacodynamiques (dose efficace, durée de l’effet) du médicament ; ces effets peuvent engendrer :
     *   une toxicité,
-    *   une perte d’effet (exemple des comprimés gastro-résistants dont le principe actif est détruit par le liquide gastrique).
-*   Interactions médicamenteuses en cas de mélange de plusieurs médicaments.
-*   Interactions entre le médicament et le produit utilisé pour l’administration.
-*   Variabilité des horaires d’administration (par rapport aux repas) et donc des intervalles entre deux administrations.
-*   Administration de médicaments non destinés à un patient (traçabilité).
+    *   une perte d’effet (exemple des comprimés gastro-résistants dont le principe actif est détruit par le liquide gastrique).  
+*   Interactions médicamenteuses en cas de mélange de plusieurs médicaments.  
+*   Interactions entre le médicament et le produit utilisé pour l’administration.  
+*   Variabilité des horaires d’administration (par rapport aux repas) et donc des intervalles entre deux administrations.  
+*   Administration de médicaments non destinés à un patient (traçabilité).  
 *   Interactions entre les médicaments de plusieurs patients.
 
 ### 2. Pour le personnel soignant et l’environnement
 
-*   Le personnel soignant peut être exposé à des accidents allergiques ou toxiques par contact cutané ou inhalation de particules médicamenteuses.
+*   Le personnel soignant peut être exposé à des accidents allergiques ou toxiques par contact cutané ou inhalation de particules médicamenteuses.  
 *   Le risque environnemental est lié à la non-destruction des médicaments mélangés à des aliments incomplètement consommés.
 
 ## III. Règles générales
@@ -53,9 +53,9 @@ En l’absence de rainure sur un comprimé, la division est difficile et aléato
     L’enrobage protège le principe actif contre la lumière et les agents atmosphériques. Il permet de masquer une saveur, un goût ou une odeur désagréables et rend le médicament facile à administrer.  
     _Si l’on considère que l'enrobage est un critère de confort et qu’il n’y a pas d’autre alternative, ces comprimés peuvent être écrasés._
 *   **Les comprimés linguaux**  
-    Les comprimés sont gardés dans la bouche jusqu’à complète dissolution, le principe actif résistant au pH de la salive. Leur administration est facile.
+    Les comprimés sont gardés dans la bouche jusqu’à complète dissolution, le principe actif résistant au pH de la salive. Leur administration est facile.  
 *   **Comprimés orodispersibles ou à sucer**  
-    Ils fondent sur la langue et sont avalés avec la salive. Leur absorption est digestive comme pour les comprimés simples. Ils peuvent aussi être dilués dans un peu d’eau.
+    Ils fondent sur la langue et sont avalés avec la salive. Leur absorption est digestive comme pour les comprimés simples. Ils peuvent aussi être dilués dans un peu d’eau.  
 *   **Les lyophilisats oraux : Lyoc ou comprimés sublinguaux**  
     Ils fondent sous la langue et ne doivent pas être avalés (inefficacité). Ils sont conçus pour une absorption du principe actif par la muqueuse buccale d’où ils passent rapidement dans la circulation générale.
 
@@ -74,28 +74,29 @@ En fonction de l’organisation du centre de soins, il est possible qu’elles p
 
 ### 1. La prescription
 
-*   S’assurer que la voie orale est la mieux adaptée (autre voie d’administration possible ?) et limiter la prescription aux médicaments indispensables.
+*   S’assurer que la voie orale est la mieux adaptée (autre voie d’administration possible ?) et limiter la prescription aux médicaments indispensables.  
 *   Vérifier si le médicament ne peut pas être remplacé par :
     *   Une autre forme galénique : solution buvable, sachet, comprimé effervescent ou dispersible (dissout dans l’eau) 
     *   Un autre médicament (principe actif équivalent avec une forme galénique adéquate)
-    *   Des alternatives non médicamenteuses.
+    *   Des alternatives non médicamenteuses.  
 *   Contacter le pharmacien pour les médicaments nécessitant des précautions particulières de préparation ou pour trouver une alternative thérapeutique
 
 ### 2. La préparation par le personnel soignant
 
-*   La préparation doit être assurée par le personnel soignant qui administre le médicament au patient.
-*   IVérifier auprès du pharmacien si le comprimé peut être écrasé ou coupé, si la gélule peut être ouverte.
-*   Se laver les mains avant et après la manipulation.
-*   Porter des gants et d’un masque dans la mesure du possible (risque d’inhalation du produit par le personnel soignant).
+*   La préparation doit être assurée par le personnel soignant qui administre le médicament au patient.  
+*   IVérifier auprès du pharmacien si le comprimé peut être écrasé ou coupé, si la gélule peut être ouverte.  
+*   Se laver les mains avant et après la manipulation.  
+*   Porter des gants et d’un masque dans la mesure du possible (risque d’inhalation du produit par le personnel soignant).  
 *   Utiliser un système écraseur-broyeur ou un mortier pour chaque patient.
 
-​![](02-0.jpg)
+​
+![](02-0.jpg)
 
 
-*   Les principes actifs pouvant être instables à l’air, à l’humidité ou à la lumière, ne pas écraser les comprimés à l’avance, mais immédiatement avant l’administration.
-*   Ne pas écraser plusieurs comprimés en même temps en raison du risque d’interaction.
-*   Pulvériser les médicaments le plus finement possible.
-*   Ajouter un volume suffisant de liquide ou d’aliment pour masquer un goût désagréable.
+*   Les principes actifs pouvant être instables à l’air, à l’humidité ou à la lumière, ne pas écraser les comprimés à l’avance, mais immédiatement avant l’administration.  
+*   Ne pas écraser plusieurs comprimés en même temps en raison du risque d’interaction.  
+*   Pulvériser les médicaments le plus finement possible.  
+*   Ajouter un volume suffisant de liquide ou d’aliment pour masquer un goût désagréable.  
 *   Laver le matériel à l’eau et savon après chaque préparation.
 
 ​
@@ -103,10 +104,10 @@ En fonction de l’organisation du centre de soins, il est possible qu’elles p
 ### 3. L'administration par le personnel soignant
 
 *   Éviter d’utiliser un récipient intermédiaire entre l’écrasement et le transfert dans la substance-véhicule. Sinon, en utiliser un sans relief, avec le nom du patient et du médicament (exemple : cupule en aluminium)
-*   Utiliser, pour l’administration des médicaments, le véhicule le plus neutre possible : eau ou eau épaissie.
-*   Pour une administration par sonde, rincer la sonde avant et après le passage du médicament.
-*   Administrer les médicaments un à un.
-*   Respecter les horaires d’administration par rapport aux repas.
+*   Utiliser, pour l’administration des médicaments, le véhicule le plus neutre possible : eau ou eau épaissie.  
+*   Pour une administration par sonde, rincer la sonde avant et après le passage du médicament.  
+*   Administrer les médicaments un à un.  
+*   Respecter les horaires d’administration par rapport aux repas.  
 *   Se laver les mains entre chaque patient.
 
 ## Conclusion

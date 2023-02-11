@@ -102,6 +102,7 @@ Le frottis peut être effectué après leucoconcentration.
 
 _- L'inoculation à la souris_ : elle reste la méthode de référence la plus fidèle et de loin la plus fiable malgré des échecs possibles (injection intrapéritonéale de 0,1 à 0,3 ml sang du patient recueilli sur anticoagulant chez des souris dont la bactériémie sera recherchée après 48 à 72 heures).
 
+
 ![](i856-1.jpg)
 
 

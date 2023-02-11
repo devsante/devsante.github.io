@@ -27,23 +27,27 @@ Les manifestations respiratoires (toux, douleur thoracique, difficultés respira
 
 Les objectifs infirmiers lors d'une mise en observation de 24 heures au dispensaire ou d'une prise en charge à domicile sont :
 
-*   Installer le patient en position demi assise, c'est-à-dire le buste surélevé. Placer des coussins, draps roulés... sous le dos du malade. (Attention de ne pas utiliser de moyens qui pourraient blesser le patient).
-*   Mettre à disposition du patient un récipient avec un couvercle dans lequel il pourra cracher.
-*   Si la personne est alitée, l'aider à se mobiliser dans le lit, s'asseoir, se retourner... cela améliorera le drainage pulmonaire.
-*   Apprendre au patient à respirer profondément et à expectorer.
-*   Il est possible de comprimer légèrement le thorax de la personne en cas de douleur intense lors des épisodes de toux.
-*   Penser à bien aérer les pièces.
-*   Conseiller au patient de boire de l'eau pure et des boissons chaudes qui permettront de fluidifier les sécrétions.
-*   Pratiquer des inhalations avec de la vapeur d'eau chaude (récipient d'eau chaude bouillie+linge propre sur la tête du malade) pour fluidifier les crachats épais.
+*   Installer le patient en position demi assise, c'est-à-dire le buste surélevé. Placer des coussins, draps roulés... sous le dos du malade. (Attention de ne pas utiliser de moyens qui pourraient blesser le patient).  
+*   Mettre à disposition du patient un récipient avec un couvercle dans lequel il pourra cracher.  
+*   Si la personne est alitée, l'aider à se mobiliser dans le lit, s'asseoir, se retourner... cela améliorera le drainage pulmonaire.  
+*   Apprendre au patient à respirer profondément et à expectorer.  
+*   Il est possible de comprimer légèrement le thorax de la personne en cas de douleur intense lors des épisodes de toux.  
+*   Penser à bien aérer les pièces.  
+*   Conseiller au patient de boire de l'eau pure et des boissons chaudes qui permettront de fluidifier les sécrétions.  
+*   Pratiquer des inhalations avec de la vapeur d'eau chaude (récipient d'eau chaude bouillie+linge propre sur la tête du malade) pour fluidifier les crachats épais.  
 *   Si le patient a mal à la gorge pressez un citron et ajoutez-y du miel. Le patient pourra prendre une grande cuillère de ce mélange aussi souvent que cela est nécessaire.
 
+
 ![](i166-1.jpg)
+
 ![](i166-2.jpg)
 
 
 ## II. Candidose buccale
 
+
 ![](i166-3.jpg)
+
 ![](i166-4.jpg)
 
 
@@ -86,6 +90,7 @@ paracétamol 50 mg/ kg/j x 3 ou AAS 500 mg x 3/ j  si douleur
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -110,7 +115,7 @@ Il faut toujours examiner la bouche de vos patients car de nombreuses lésions b
 
 ### 1. Définition
 
-*   **- Diarrhée aiguë** : au moins trois selles liquides par jour, pendant plus de deux jours.
+*   **- Diarrhée aiguë** : au moins trois selles liquides par jour, pendant plus de deux jours.  
 *   - **Diarrhée chronique** : au moins 3 selles liquides par jour, pendant plus d'un mois.
 
 Elle est responsable d'une **dégradation physique** importante et a un impact sur la vie sociale.
@@ -130,9 +135,9 @@ Elles sont nombreuses : infections, sarcome de Kaposi, VIH, traitements antirét
 
 ### 3. Actions et surveillance
 
-*   Préciser le **nombre** de selles par jour et la date de début des troubles.
-*   Regarder l'**aspect** des selles : liquides, molles, présence de sang, de glaires.
-*   Relever les constantes : température, pouls, tension.
+*   Préciser le **nombre** de selles par jour et la date de début des troubles.  
+*   Regarder l'**aspect** des selles : liquides, molles, présence de sang, de glaires.  
+*   Relever les constantes : température, pouls, tension.  
 *   Peser la personne et suivre la courbe de poids.
 
 _Lorsque l'infirmier à la possibilité de garder la personne pendant 24 h en observation :_
@@ -254,11 +259,11 @@ Evaluer régulièrement l'état général du malade. Les signes cliniques doiven
 
 Le patient **doit continuer a s'alimenter.** L'infirmier doit l'**aider**.
 
-*   Le malade doit manger des aliments, **hypercaloriques, par exemple, soupe de riz** (eau de cuisson), **carotte cuite, manioc, bananes**...
-*   Le patient peut boire du soda à base de cola auquel on aura retiré les bulles en remuant avec une cuillère.
-*   Il faut dire au malade de **bien se laver les mains** après chaque diarrhée et avant de manger.
-*   Les fesses et l'anus du malade doivent rester propres et secs.
-*   Si absence de gants, se protéger les mains avec un sac en plastique et pour attraper les objets souillés, utiliser des grandes feuilles d'arbre (bananier...) puis les jeter dans un endroit prévu à cet effet ou les brûler. Si elle est souillée la literie sera changée et nettoyée en respectant les rèqles d'hyqiène.
+*   Le malade doit manger des aliments, **hypercaloriques, par exemple, soupe de riz** (eau de cuisson), **carotte cuite, manioc, bananes**...  
+*   Le patient peut boire du soda à base de cola auquel on aura retiré les bulles en remuant avec une cuillère.  
+*   Il faut dire au malade de **bien se laver les mains** après chaque diarrhée et avant de manger.  
+*   Les fesses et l'anus du malade doivent rester propres et secs.  
+*   Si absence de gants, se protéger les mains avec un sac en plastique et pour attraper les objets souillés, utiliser des grandes feuilles d'arbre (bananier...) puis les jeter dans un endroit prévu à cet effet ou les brûler. Si elle est souillée la literie sera changée et nettoyée en respectant les rèqles d'hyqiène.  
 *   Les endroits tachés de sang, de selles ou de tout autre liquide biologique devront être nettoyés à l'eau de Javel ou un produit similaire.
 
 **ATTENTION**
@@ -279,7 +284,9 @@ Le patient **doit continuer a s'alimenter.** L'infirmier doit l'**aider**.
 *   somnolence
 *   bouche sèche.
 
+
 ![](i166-5.jpg)
+
 ![](i166-6.jpg)
 
 
@@ -297,19 +304,19 @@ Multiples : traitements médicamenteux (ARV), infections, lésions de l'appareil
 
 Dans le cadre d'une mise en observation de 24 heures au dispensaire ou de soins réalisés à domicile :
 
-*   Installer le malade dans une position confortable.
-*   Lui fournir un récipient propre avec un couvercle dans lequel il pourra vomir le cas échéant.
-*   S'assurer de la bonne hydratation du malade.
-*   Etre attentif aux signes cliniques de la déshydratation.
-*   Proposer un soin de bouche avec de l'eau fraîche après chaque vomissement.
-*   Préférer les boissons fraîches, eau, jus de fruit...
-*   Faire boire lentement et fréquemment, en petites quantités.
-*   Demander au patient quels sont les aliments à son goût (et disponibles localement).
-*   Fractionner les repas en petites quantités, plusieurs fois par jour.
-*   Ne pas forcer le malade à manger.
-*   Aider le malade à s'assoir avant le repas et lui dire d'attendre environ une heure avant de se recoucher.
-*   Eviter que le patient ne se retrouve en présence d'odeurs fortes (ex : cuisine...).
-*   Le gingembre peut être utilisé en tisane car il a une action bénéfique sur les troubles intestinaux **sauf chez les patients cachectiques** (Cf. troubles neurologiques) et ceux présentant une **occlusion intestinale**.
+*   Installer le malade dans une position confortable.  
+*   Lui fournir un récipient propre avec un couvercle dans lequel il pourra vomir le cas échéant.  
+*   S'assurer de la bonne hydratation du malade.  
+*   Etre attentif aux signes cliniques de la déshydratation.  
+*   Proposer un soin de bouche avec de l'eau fraîche après chaque vomissement.  
+*   Préférer les boissons fraîches, eau, jus de fruit...  
+*   Faire boire lentement et fréquemment, en petites quantités.  
+*   Demander au patient quels sont les aliments à son goût (et disponibles localement).  
+*   Fractionner les repas en petites quantités, plusieurs fois par jour.  
+*   Ne pas forcer le malade à manger.  
+*   Aider le malade à s'assoir avant le repas et lui dire d'attendre environ une heure avant de se recoucher.  
+*   Eviter que le patient ne se retrouve en présence d'odeurs fortes (ex : cuisine...).  
+*   Le gingembre peut être utilisé en tisane car il a une action bénéfique sur les troubles intestinaux **sauf chez les patients cachectiques** (Cf. troubles neurologiques) et ceux présentant une **occlusion intestinale**.  
 *   Faire sentir au patient une orange fraîche ou le zeste d'un citron peut aider à faire passer la nausée.
 
 ### 4. Traitement médicamenteux
@@ -325,6 +332,7 @@ Si pas efficace
 ou
 
 *   chlorpromazine (25-50 mg toutes les 6 à 12 heures)
+
 
 ![](i166-7.jpg)
 
@@ -406,13 +414,13 @@ La fréquence respiratoire normale d'un adulte est de 15 à 20 mouvements par mi
 
 Réalisables dans le cadre d'une mise en observation de 24 heures au dispensaire ou de soins à domicile :
 
-*   faire préciser au patient depuis combien de temps il a de la fièvre.
-*   prendre les constantes vitales (pouls, tension, température).
+*   faire préciser au patient depuis combien de temps il a de la fièvre.  
+*   prendre les constantes vitales (pouls, tension, température).  
 *   dévêtir au maximum le patient tout en respectant sa pudeur (le couvrir d'un simple drap)
-*   veiller à la bonne ventilation des locaux.
-*   réhydrater si nécessaire.
-*   rafraîchir la peau (exemple : enveloppement dans un linge humide, vessie de glace...), si possible faire prendre un bain (température de l'eau de 2°C plus basse que la température du patient).
-*   si l'état de conscience le permet, faire boire le patient +++.
+*   veiller à la bonne ventilation des locaux.  
+*   réhydrater si nécessaire.  
+*   rafraîchir la peau (exemple : enveloppement dans un linge humide, vessie de glace...), si possible faire prendre un bain (température de l'eau de 2°C plus basse que la température du patient).  
+*   si l'état de conscience le permet, faire boire le patient +++.  
 *   chez les patients couchés surveiller l'état de la peau et mettre en oeuvre les actions préventives de l'apparition d'escarres (changements de position, frictions, hygiène de la peau).
 
 #### 1) Traitement
@@ -421,8 +429,8 @@ Réalisables dans le cadre d'une mise en observation de 24 heures au dispensaire
 
 #### 2) Mesure de la température
 
-*   Par voie rectale (thermomètre dans l'anus), mesure très fiable mais à éviter car risque de lésion anale.
-*   Par voie cutanée (thermomètre sous le bras, dans le creux), le patient doit garder le bras le long du corps. Le thermomètre reste en place 10 mn et il faut ajouter 0.5°C au résultat trouvé.
+*   Par voie rectale (thermomètre dans l'anus), mesure très fiable mais à éviter car risque de lésion anale.  
+*   Par voie cutanée (thermomètre sous le bras, dans le creux), le patient doit garder le bras le long du corps. Le thermomètre reste en place 10 mn et il faut ajouter 0.5°C au résultat trouvé.  
 *   Par voie orale si le patient est conscient (thermomètre sous la langue, bouche fermée).
 
 Les thermomètres doivent être utilisés pour un seul patient ou être nettoyés de manière rigoureuse.
@@ -450,8 +458,11 @@ Les signes cliniques sont :
 
 **En présence de ces signes cliniques l'infirmier doit prévenir un médecin ou organiser le transfert du malade vers un centre de traitement adapté.**
 
+
 ![](i166-8.jpg)
+
 ![](i166-9.jpg)
+
 ![](i166-10.jpg)
   
 
@@ -539,14 +550,16 @@ La douleur est soulagée par les vomissements et aggravée par les efforts.</td>
 
 **Mise en observation au dispensaire pendant 1 jour**
 
-*   Allonger le patient dans un endroit calme.
+*   Allonger le patient dans un endroit calme.  
 *   Prendre la tension, le pouls, la température. **Rappel** une tension supérieure à 140/90 = hypertension artérielle
-*   Chercher des signes associés.
-*   Rassurer le patient.
-*   Calmer la douleur avec des antalgiques paracétamol : 500 mg x 3/j au maximum 3 jours.
+*   Chercher des signes associés.  
+*   Rassurer le patient.  
+*   Calmer la douleur avec des antalgiques paracétamol : 500 mg x 3/j au maximum 3 jours.  
 *   Evaluer l'efficacité du traitement antalgique en observant les attitudes du patient et en le questionnant.
 
+
 ![](i166-11.jpg)
+
 ![](i166-12.jpg)
 
 
@@ -568,6 +581,7 @@ La plupart des ganglions se trouvent :
 *   **dans le cou,**
 *   **sous le bras (au niveau des aisselles)** **= creux axillaire,**
 *   **au niveau du pli de l'aine** **= creux inguinal.**
+
 
 ![](i166-13.jpg)
 
@@ -633,15 +647,22 @@ _Dans le cadre de l'éducation à la santé_
 
 **Mode d'administration de certains médicaments :**
 
-*   _Comment utiliser Benzochloryl solution ?_ Badigeonner tout le corps sauf le visage après la toilette du soir, laisser sécher, rebadigeonner, laisser sécher et se coucher. Ne se laver que le soir suivant. Répéter l'opération 2 semaines après.
+*   _Comment utiliser Benzochloryl solution ?_ Badigeonner tout le corps sauf le visage après la toilette du soir, laisser sécher, rebadigeonner, laisser sécher et se coucher. Ne se laver que le soir suivant. Répéter l'opération 2 semaines après.  
 *   _Comment utiliser DDT en poudre ?_ Saupoudrer le linge et les draps de produits et enfermer le tout dans une caisse propre pendant 24 heures.
 
+
 ![](i166-14.jpg)
+
 ![](i166-15.jpg)
+
 ![](i166-16.jpg)
+
 ![](i166-17.jpg)
+
 ![](i166-18.jpg)
+
 ![](i166-19.jpg)
+
 ![](i166-20.jpg)
 
 

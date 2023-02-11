@@ -17,16 +17,16 @@ L’hépatite E sévit principalement  en Afrique, en Asie et au Mexique.
 
 ### Mode de transmission de l’hépatite A
 
-*   Par voie digestive (transmission féco-orale) : transmission par manuportage, à des personnes en contact étroit avec le cas (famille), ingestion d’aliments contaminés (par l’environnement, coquillages ou par manipulation par une personne contaminée) ou d’eau contaminée, plutôt dans les pays où l’hygiène est défectueuse.
-*   Exceptionnellement transmission par voie sanguine (transfusion de produits sanguins contaminés, pas de cas par AES documenté).
+*   Par voie digestive (transmission féco-orale) : transmission par manuportage, à des personnes en contact étroit avec le cas (famille), ingestion d’aliments contaminés (par l’environnement, coquillages ou par manipulation par une personne contaminée) ou d’eau contaminée, plutôt dans les pays où l’hygiène est défectueuse.  
+*   Exceptionnellement transmission par voie sanguine (transfusion de produits sanguins contaminés, pas de cas par AES documenté).  
 *   Par voie sexuelle (pratiques oro-anales).
 
 ### Population à risque d’hépatite A
 
 #### Activités exposantes
 
-*   Personnels travaillant dans des communautés infantiles : services de pédiatrie, crèches, garderies, écoles… et institutions pour handicapés.
-*   Techniciens des laboratoires effectuant des examens de selles. Personnels effectuant des travaux au contact d’eaux usées (réseaux d’assainissement, stations d’épuration…).
+*   Personnels travaillant dans des communautés infantiles : services de pédiatrie, crèches, garderies, écoles… et institutions pour handicapés.  
+*   Techniciens des laboratoires effectuant des examens de selles. Personnels effectuant des travaux au contact d’eaux usées (réseaux d’assainissement, stations d’épuration…).  
 *   Personnels de blanchisserie (manipulation de linge sale).
 
 **NB** : les personnels en contact avec les aliments ne sont pas exposés au risque mais peuvent être à l’origine d’une contamination alimentaire s’ils sont porteurs ; d’où les recommandations d’hygiène et de vaccination anti-VHA des personnels impliqués dans la préparation alimentaire en restauration collective.
@@ -51,8 +51,8 @@ L’infection à HDV sévit, elle aussi, dans le monde entier, mais tout particu
 
 ### Mode de transmission de l’hépatite B
 
-*   A la suite d’un Accident Exposant au Sang (AES), après exposition professionnelle au VHB par piqûre, le taux de transmission varie de 2 % à 40 % en fonction de la présence ou non de l'Ag HBe. Le taux de transmission est environ 10 fois plus faible après exposition sur muqueuse ou sur peau lésée.
-*   Par partage de matériel d'injection chez les usagers de drogues IV.
+*   A la suite d’un Accident Exposant au Sang (AES), après exposition professionnelle au VHB par piqûre, le taux de transmission varie de 2 % à 40 % en fonction de la présence ou non de l'Ag HBe. Le taux de transmission est environ 10 fois plus faible après exposition sur muqueuse ou sur peau lésée.  
+*   Par partage de matériel d'injection chez les usagers de drogues IV.  
 *   Par ailleurs, le VHB se transmet par voie sexuelle (taux de transmission de 30 % à 80 %) et la transmission materno-fœtale existe (entre 25 % et 90 % en fonction de la virémie chez la mère et en l'absence de séroconversion à la naissance).
 
 ### Population à risque d’hépatite B
@@ -75,9 +75,9 @@ Risque de transmission materno-fœtale au moment de l'accouchement.
 
 ### Mode de transmission de l’hépatite C
 
-*   A la suite d’un accident d'exposition au sang (AES) : après exposition professionnelle au VHC par piqûre, le taux de transmission est estimé à environ 1 à 3 %. Le taux de transmission est environ 10 fois plus faible après exposition sur muqueuse ou sur peau lésée.
-*   Par partage de matériel d'injection (seringue, cuiller, filtre, eau) chez les usagers de drogues IV. Il s'agit du mode de transmission majeur du VHC. L'usage de drogues par voie nasale (partage de la paille) ou par voie fumée (partage de la pipe à crack) est aussi une pratique à risque de transmission du VHC.
-*   Les transmissions nosocomiales sont en nette diminution du fait de l'amélioration du respect des précautions standard.
+*   A la suite d’un accident d'exposition au sang (AES) : après exposition professionnelle au VHC par piqûre, le taux de transmission est estimé à environ 1 à 3 %. Le taux de transmission est environ 10 fois plus faible après exposition sur muqueuse ou sur peau lésée.  
+*   Par partage de matériel d'injection (seringue, cuiller, filtre, eau) chez les usagers de drogues IV. Il s'agit du mode de transmission majeur du VHC. L'usage de drogues par voie nasale (partage de la paille) ou par voie fumée (partage de la pipe à crack) est aussi une pratique à risque de transmission du VHC.  
+*   Les transmissions nosocomiales sont en nette diminution du fait de l'amélioration du respect des précautions standard.  
 *   La transmission sexuelle est extrêmement faible, et la transmission materno-fœtale n'existe que quand la mère est virémique et est estimée à 5 % en France (majorée en cas de co-infection VIH).
 
 ### Population à risque d’hépatite C
@@ -96,5 +96,5 @@ Alcoolisme ; co-infections par le VHB ou le VIH, qui aggravent le risque de dév
 
 #### Grossesse
 
-*   Femme enceinte : pas de particularité.
+*   Femme enceinte : pas de particularité.  
 *   Enfant à naître : risque de contamination faible.

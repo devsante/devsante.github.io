@@ -84,10 +84,10 @@ La raison pour laquelle le nombre de bénéficiaires _de ces_ séances a consid�
 
 Cette augmentation de patients sous ARV constitue une difficulté majeure pour l'organisation des séances d'éducation. De plus en plus de patients nécessitent de suivre ces séances, or en termes de locaux, mais aussi d'apprentissage, il reste préférable de limiter le nombre de patients par séance. Reste donc à envisager de démultiplier le nombre de ces séances, pour permettre à un maximum de patients d'y participer. Dans cette perspective, un infirmier du CESAC est en cours de formation pour animer ces séances d'éducation. D'un point de vue qualitatif, notre expérience montre les résultats suivants :
 
-*   Nous notons une réelle amélioration de la relation patient-médecin. Ces séances permettent de rassurer les patients et de les mettre en confiance vis-à-vis de la prise en charge médicale. L'acquisition d'un vocabulaire médical par les patients permet petit à petit d'avoir un langage commun entre l'équipe soignante et les patients, ce qui améliore considérablement la communication.
-*   Les patients ayant participé aux séances d'éducation thérapeutique s'approprient mieux leur traitement et y adhèrent davantage.
-*   Ils sont très impliqués dans leur prise en charge et impliquent de plus en plus leur famille.
-*   Certains patients ont pris une part active dans l'accompagnement des autres patients. Par exemple, une patiente participe aux séances d'éducation et peut ainsi témoigner de son expérience, de son vécu du traitement. D'autres se sont engagés à soutenir et accompagner des patients à leur domicile pour les aider dans leur prise du traitement. Ils deviennent des relais entre ces patients en difficulté et les soignants.
+*   Nous notons une réelle amélioration de la relation patient-médecin. Ces séances permettent de rassurer les patients et de les mettre en confiance vis-à-vis de la prise en charge médicale. L'acquisition d'un vocabulaire médical par les patients permet petit à petit d'avoir un langage commun entre l'équipe soignante et les patients, ce qui améliore considérablement la communication.  
+*   Les patients ayant participé aux séances d'éducation thérapeutique s'approprient mieux leur traitement et y adhèrent davantage.  
+*   Ils sont très impliqués dans leur prise en charge et impliquent de plus en plus leur famille.  
+*   Certains patients ont pris une part active dans l'accompagnement des autres patients. Par exemple, une patiente participe aux séances d'éducation et peut ainsi témoigner de son expérience, de son vécu du traitement. D'autres se sont engagés à soutenir et accompagner des patients à leur domicile pour les aider dans leur prise du traitement. Ils deviennent des relais entre ces patients en difficulté et les soignants.  
 *   Leur perception se modifie vis-à-vis de la maladie et des effets secondaires des traitements. Le SIDA n'est plus vécu comme une maladie qui conduit inévitablement à la mort. Ils expriment leur satisfaction et le plaisir qu'ils ont à participer à ces réunions de groupe au cours desquelles ils ont trouvé un espace pour s'exprimer librement tout en partageant de façon conviviale un repas préparé par des pairs.
 
 ## III. Perspectives
@@ -117,6 +117,7 @@ Module 1 : Comprendre le VIH
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>

@@ -25,7 +25,7 @@ La palpation du pouls radial permet de repé­rer la TA systolique : le gonflage
 
 Quelques précautions sont nécessaires afin d'obtenir des chiffres exacts.
 
-*   Le patient doit être dans un **environnement calme**, au repos depuis au moins 5 à 10 minutes.
+*   Le patient doit être dans un **environnement calme**, au repos depuis au moins 5 à 10 minutes.  
 *   Il est souhaitable de mesurer la PA **à distan­ce des événements qui peuvent la faire varier** : émotion, effort physique, repas, consommation de tabac (15 minutes), de café (1 heure), d'alcool, de traitement par des dérivés sympathomimétiques, épisode doulou­reux, ponction veineuse, etc.
 
 En dehors de la grossesse, la PA peut indiffé­remment être mesurée en **position assise ou allongée**, jambes non croisées. Le bras du patient doit être nu (pas de vêtement retrous­sé), paume ouverte et tournée vers le haut. En position assise, l'avant bras doit être soutenu par une tablette, de manière à ce que la cloche du stéthoscope posée sur l'artère humérale, soit à la hauteur du coeur, il est nécessaire d'éviter toute contraction musculaire du bras.
@@ -79,7 +79,9 @@ La lecture peut se faire sur un appareil à mer­cure ou sur un appareil anéro�
 
 Il faut choisir un appareil gradué en milli­mètres, dont le brassard peut facilement être changé pour l'adapter à la taille du bras du patient. La colonne de mercure doit être verti­cale, placée à la hauteur des yeux de l'obser­vateur pour éviter les erreurs de lecture. Aucun étalonnage n'est nécessaire, mais l'ap­pareil doit être vérifié au moins une fois par an. Il faut en particulier s'assurer de la présen­ce d'une quantité adéquate de mercure (lorsque la valve de dégonflage est ouverte, le niveau doit être à zéro), de la propreté de la colonne de verre (du mercure oxydé peut s'y déposer), de l'étanchéité des tubulures (bras­sard gonflé et valve fermée, la chute de la pression doit être inférieure à 1 mmHg par seconde), de l'absence de fuite sur la poire de gonflage... _(figure 1)._
 
+
 ![](image002.jpg)
+
 
 
 ![](image002-16.jpg)
@@ -88,6 +90,7 @@ Il faut choisir un appareil gradué en milli­mètres, dont le brassard peut fac
 #### Appareils anéroïdes :
 
 Ils sont moins précis mais moins fragiles et plus faciles à transporter, ils demeurent utiles au domicile des patients. Ces appareils doi­vent être gradués en millimètres et pouvoir recevoir des brassards de plusieurs dimensions _(figure 2)._ Certains modèles ne peuvent être correctement étalonnés et doivent donc être évités : ceux sur lesquels une butée bloque l'ai­guille au zéro, ceux sur lesquels le cadran peut tourner et ceux sur lesquels une molette per­met de placer le zéro en n'importe quel point du cadran. Leur étanchéité doit être égale­ment contrôlée. Ils devraient être étalonnés au moins tous les six mois sur l'échelle des pres­sions à l'aide d'un manomètre à mercure.
+
 
 ![](image004-13.jpg)
 
@@ -101,7 +104,9 @@ Le stress du patient lors d'une visite médicale peut être la source d'une majo
 Utiliser un petit brassard adapté à la circonfé­rence du bras.  
 Comme chez l'adulte, l'hypertension ne doit pas être diagnostiquée sur la base d'une seule mesure. Il faut répéter les mesures afin de déterminer la stabilité de l'augmentation de la PA. La mesure doit être effectuée chez un enfant calme en position assise ou couchée, elle doit être répétée au moins trois fois à différentes consultations avant de retenir un diagnostic quelconque _(figures 3 et 4)._ La pression artérielle varie avec le poids, la taille, le sexe et l'âge.
 
+
 ![](image006-6.jpg)
+
 
 
 ![](image006.jpg)

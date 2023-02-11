@@ -10,10 +10,10 @@ L’accord pour une définition de la douleur ne date que de 1979, à l’initia
 
 Développons les termes de cette définition :
 
-*   **Expérience**. L’expression de la plainte dépend de nombreux facteurs : biographie et histoire de vie, facteurs culturels, sociaux, environnementaux. Son expression chez les petits enfants ou chez les patients atteints de démence sera surtout comportementale, appréciée en clinique par des échelles spécifiques d’hétéro-évaluation.
-*   **Emotionnelle**. La douleur a des conséquences physiologiques, motrices, mais aussi psychiques et elle entraîne analyse et interprétation de la part du sujet atteint.
+*   **Expérience**. L’expression de la plainte dépend de nombreux facteurs : biographie et histoire de vie, facteurs culturels, sociaux, environnementaux. Son expression chez les petits enfants ou chez les patients atteints de démence sera surtout comportementale, appréciée en clinique par des échelles spécifiques d’hétéro-évaluation.  
+*   **Emotionnelle**. La douleur a des conséquences physiologiques, motrices, mais aussi psychiques et elle entraîne analyse et interprétation de la part du sujet atteint.  
 *   **Lésions tissulaires présentes ou potentielles, ou douleur décrite comme relevant de telles lésions**. Il n’y a pas de correspondance entre lésions anatomiques et douleurs. Un patient peut avoir une hernie discale sans souffrir de sciatique…
-*   **Douleur chronique**. A la douleur aiguë, signe d’alerte, s’oppose la douleur qui persiste au-delà de trois mois, envahissant la vie quotidienne, dominant l’état clinique : c’est la douleur-maladie.
+*   **Douleur chronique**. A la douleur aiguë, signe d’alerte, s’oppose la douleur qui persiste au-delà de trois mois, envahissant la vie quotidienne, dominant l’état clinique : c’est la douleur-maladie.  
 *   **Douleur / Souffrance**. La douleur serait de l’ordre du somatique et la souffrance de l’ordre du psychisme. La souffrance est ce qui est ressenti comme insupportable à partir d’un certain seuil fonction de données physiologiques, psychologiques, socioculturelles. La peur, angoisse, culpabilité accompagnant la douleur.
 
 Le diagnostic de la douleur comporte quatre analyses menées simultanément :
@@ -26,6 +26,7 @@ Le diagnostic de la douleur comporte quatre analyses menées simultanément :
 Le  schéma ci-dessous résume ce que le clinicien doit conserver à l’esprit devant un patient douloureux.
 
 **Schéma : les voies de la douleur**
+
 
 ![](diapositive1.jpg)
 
@@ -48,9 +49,9 @@ Au niveau périphérique, la lésion tissulaire provoque la libération de diver
 
 Ils font appel à différents mécanismes :
 
-*   Modulation périphérique par les substances régulatrices de l’inflammation, le système immunitaire, le système sympathique.
-*   Contrôle de la porte d’entrée de l’information nociceptive dans la moelle. C’est ainsi que les applications de packs chauds ou froids peuvent soulager certaines douleurs.
-*   Il est possible aussi de soulager une douleur en créant une douleur contrôlée par la volonté dans une autre zone : « s’enfoncer les ongles dans la peau ou se mordre les lèvres jusqu’au sang ».
+*   Modulation périphérique par les substances régulatrices de l’inflammation, le système immunitaire, le système sympathique.  
+*   Contrôle de la porte d’entrée de l’information nociceptive dans la moelle. C’est ainsi que les applications de packs chauds ou froids peuvent soulager certaines douleurs.  
+*   Il est possible aussi de soulager une douleur en créant une douleur contrôlée par la volonté dans une autre zone : « s’enfoncer les ongles dans la peau ou se mordre les lèvres jusqu’au sang ».  
 *   Sécrétion d’enképhalines et d’endorphines, qui sont en quelque sorte notre « morphine naturelle » et empêchent la libération de substance P.
 
 ### 2. Douleurs par excès de nociception et douleurs neurogènes
@@ -70,9 +71,9 @@ Ces douleurs peuvent être continues ou intermittentes, d’intensité variable,
 Dans la plupart des cas, la genèse de ces douleurs chroniques est due à l'intrication de plusieurs mécanismes.
 
 *   _La lésion tissulaire_  
-    Une lésion tissulaire (traumatisme, tumeur…) entraîne des stimulations mécaniques importantes responsables de la mise en activité de nocicepteurs qui sont un point de contact entre le tissu et l'extrémité de la fibre nerveuse.
+    Une lésion tissulaire (traumatisme, tumeur…) entraîne des stimulations mécaniques importantes responsables de la mise en activité de nocicepteurs qui sont un point de contact entre le tissu et l'extrémité de la fibre nerveuse.  
 *   _Les substances algogènes_  
-    La lésion tissulaire, responsable de destructions cellulaires, va entraîner la libération de diverses substances en particulier de puissants médiateurs de l'inflammation (prostaglandines et leucotriènes) et de substances algogènes ainsi que la substance P.
+    La lésion tissulaire, responsable de destructions cellulaires, va entraîner la libération de diverses substances en particulier de puissants médiateurs de l'inflammation (prostaglandines et leucotriènes) et de substances algogènes ainsi que la substance P.  
 *   _L'hyperalgésie_  
     Il s'agit d'un phénomène que chacun a pu soi-même constater : une brûlure sur le revêtement cutané va entraîner une hypersensibilité qui va s'étendre progressivement, en quelques minutes, autour de la lésion initiale. Les stimuli qui dépassent le seuil à partir duquel on ressent une douleur seront perçus de façon plus intense s'ils sont appliqués sur la zone de la lésion : c'est la définition de l'hyperalgésie. 
 
@@ -96,7 +97,7 @@ a). Douleurs **spontanées**
 
 *   Fond permanent :
     *   douleurs superficielles : brûlures, prurit,
-    *   douleurs profondes : arrachement, broiement, étau, dilacération.
+    *   douleurs profondes : arrachement, broiement, étau, dilacération.  
 *   Paroxysmes : élancements fulgurants, décharges électriques.
 
 b) **Paresthésies, dysesthésies, autant spontanées que provoquées** : picotements, fourmillements, engourdissements, impression de striction.
@@ -138,14 +139,16 @@ Les outils d’évaluation – auto-évaluation ou hétéro-évaluation - doiven
 Ce sont des échelles globales qui apprécient ensemble les deux composantes de la douleur, sensorielle et émotionnelle.
 
 *   Echelle verbale simple : à chaque catégorie de douleur est affecté un score :  
-    0 = pas de douleur, 1 = douleur faible, 2 = moyenne, 3 = forte, 4 = très forte.
-*   Echelle numérique : le patient cote sa douleur de 0 (pas de douleur) à 10 (douleur maximale imaginable). Elle a l’avantage de ne pas nécessiter de support (réglette).
+    0 = pas de douleur, 1 = douleur faible, 2 = moyenne, 3 = forte, 4 = très forte.  
+*   Echelle numérique : le patient cote sa douleur de 0 (pas de douleur) à 10 (douleur maximale imaginable). Elle a l’avantage de ne pas nécessiter de support (réglette).  
 *   Echelle visuelle analogique EVA : une réglette de 10 cm, à deux faces, l’une millimétrée, l’autre vierge, et munie d’un index curseur est présentée au patient. Celui-ci déplace l’index en fonction de son ressenti douloureux et l’observateur lit au verso la mesure en millimètres de 0 à 100 mm. Chez les enfants, la réglette comporte une série de visages exprimant la sérénité ou une douleur de plus en plus sévère.
+
 
 ![](douleur-eva.jpg)
 
 
 **Echelle utilisée chez l'enfant**
+
 
 ![](echelle-chez-l-enfant.jpg)
 
@@ -163,14 +166,14 @@ Les patients résument trop souvent leur histoire à « j’ai mal, aucun médi
 **Apprécier le retentissement de la douleur**
 
 *   Sur l’activité physique
-    *   Attitudes antalgiques.
-    *   Habillage et déshabillage.
-    *   Activité professionnelle.
-    *   Activités ménagères.
-    *   Mobilité en intérieur et extérieur, marche et déplacements.
-*   Sur l’humeur, le goût de vivre.
-    *   Sommeil.
-    *   Relations aux autres, aux proches, dans le couple.
+    *   Attitudes antalgiques.  
+    *   Habillage et déshabillage.  
+    *   Activité professionnelle.  
+    *   Activités ménagères.  
+    *   Mobilité en intérieur et extérieur, marche et déplacements.  
+*   Sur l’humeur, le goût de vivre.  
+    *   Sommeil.  
+    *   Relations aux autres, aux proches, dans le couple.  
     *   Angoisse, dépression, qui peuvent être appréciées par les échelles qualité de vie et humeur-dépression.
 
 **Evaluer le sens que le patient donne à sa douleur**
@@ -216,21 +219,21 @@ Le patient cancéreux peut souffrir en plusieurs zones et d’étiologies diffé
 
 Ces douleurs rassemblent plusieurs des caractéristiques suivantes :
 
-*   Dissociation entre l’intensité de la plainte douloureuse, souvent ancienne, et la normalité des examens paracliniques ou montrant des anomalies qui ne peuvent pas à elles seules expliquer le syndrome douloureux.
-*   Le handicap fonctionnel ressenti et l’évitement d’activité sont en contraste avec la normalité de l’examen clinique.
-*   Le contexte social et économique est perturbé.
-*   Retentissement familial : soit rejet, soit sollicitude fusionnelle.
-*   Biographie personnelle perturbée : choc affectif ou physique, syndrome post-traumatique ou post-torture.
-*   Association fréquente à des troubles psychiques (anxiété, troubles obsessionnels compulsifs, déni des perturbations émotionnelles).
+*   Dissociation entre l’intensité de la plainte douloureuse, souvent ancienne, et la normalité des examens paracliniques ou montrant des anomalies qui ne peuvent pas à elles seules expliquer le syndrome douloureux.  
+*   Le handicap fonctionnel ressenti et l’évitement d’activité sont en contraste avec la normalité de l’examen clinique.  
+*   Le contexte social et économique est perturbé.  
+*   Retentissement familial : soit rejet, soit sollicitude fusionnelle.  
+*   Biographie personnelle perturbée : choc affectif ou physique, syndrome post-traumatique ou post-torture.  
+*   Association fréquente à des troubles psychiques (anxiété, troubles obsessionnels compulsifs, déni des perturbations émotionnelles).  
 *   Cumul d’ordonnances et de traitements, voire d’actes chirurgicaux, possible conduite toxicomane.
 
 ## VI. Accueillir le patient douloureux
 
 La relation douleur chronique/ souffrance peut s’inscrire dans quatre possibilités.
 
-*   La souffrance peut être en lien direct avec l’agressivité de la douleur et sa cause. C’est le cas de la douleur-maladie du cancer et de ses traitements, accompagnée de la représentation que s’en fait le patient.
-*   La souffrance peut être concomitante de la douleur chronique, davantage liée au terrain psychique et aux conséquences socio-économiques. C’est le cas par exemple dans les suites d’un accident.
-*   La souffrance peut s’exprimer par la projection d’une plainte physique : ce sont les troubles somatoformes.
+*   La souffrance peut être en lien direct avec l’agressivité de la douleur et sa cause. C’est le cas de la douleur-maladie du cancer et de ses traitements, accompagnée de la représentation que s’en fait le patient.  
+*   La souffrance peut être concomitante de la douleur chronique, davantage liée au terrain psychique et aux conséquences socio-économiques. C’est le cas par exemple dans les suites d’un accident.  
+*   La souffrance peut s’exprimer par la projection d’une plainte physique : ce sont les troubles somatoformes.  
 *   La douleur/ souffrance peut être muette physiquement, exprimée par un repli sur soi, une prostration, un abandon.
 
 Les réactions du malade pour donner du sens à sa douleur/souffrance sont diverses : révolte, culpabilité, relation punition/compensation, épreuve à subir ou à surmonter, sublimation, sentiment d’un sort jeté au sujet. La notion de maladie « méritée ou par faute » n’est pas exempte du discours médical lui-même ou de celui de l’entourage, stigmatisant un comportement : polynévrite due à l’alcoolisme ou à un diabète mal équilibré, retard d’un diagnostic ou faute médicale ayant laissé évoluer un cancer.

@@ -12,9 +12,9 @@ pour buts :
 - de transformer la relation patient/parent/soignant.
 
 #L'éducation thérapeutique	
-- Est un processus personnalisé, constructif et continu.
-- Tenant compte des besoins, du vécu, des croyances et des représentations.
-- Intégré dans la démarche de soins, établi par étapes.
+- Est un processus personnalisé, constructif et continu.  
+- Tenant compte des besoins, du vécu, des croyances et des représentations.  
+- Intégré dans la démarche de soins, établi par étapes.  
 • Nécessitant une relation de qualité entre patient, parents et soignants
 
 ##Pour l' enfant il faut tenir compte de :
@@ -39,9 +39,9 @@ pour buts :
 - Diminution de la culpabilité
 
 ##À propos des croyances, pour accepter de se soigner il faut :
-- Être **persuadé d’être atteint** de cette maladie.
-- Penser que **cette maladie et ses conséquences peuvent être graves**.
-- Penser que **le traitement peut avoir un effet bénéfique**.
+- Être **persuadé d’être atteint** de cette maladie.  
+- Penser que **cette maladie et ses conséquences peuvent être graves**.  
+- Penser que **le traitement peut avoir un effet bénéfique**.  
 - Penser que** les bienfaits du traitement vont contrebalancer avantageusement les contraintes psychologiques**, financières et sociales engendrées par le traitement.
 
 ##Comment le patient voit il sa place dans le contrôle de sa maladie ?
@@ -59,19 +59,19 @@ pour buts :
 – Modifiant ainsi sa structure cognitive
 
 ##Principes de psychologie cognitive
-- L’apprentissage est l’établissement de liens entre de nouvelles informations et des connaissances antérieures.
-- Ces connaissances antérieures constituent des points d’ancrage sur lesquelles le patient construit de nouvelles connaissances.
-- Le scénario efficace pour la construction du savoir part toujours des connaissances antérieures du patient.
-- L’éducateur doit valider les connaissances antérieures.
- -Si les connaissances sont erronées, l’éducateur doit chercher les événements qui ont donné de la validité à ces connaissances et ne pas chercher à contredire le patient.
+- L’apprentissage est l’établissement de liens entre de nouvelles informations et des connaissances antérieures.  
+- Ces connaissances antérieures constituent des points d’ancrage sur lesquelles le patient construit de nouvelles connaissances.  
+- Le scénario efficace pour la construction du savoir part toujours des connaissances antérieures du patient.  
+- L’éducateur doit valider les connaissances antérieures.  
+ -Si les connaissances sont erronées, l’éducateur doit chercher les événements qui ont donné de la validité à ces connaissances et ne pas chercher à contredire le patient.  
 - Les connaissances erronées ne sont modifiables que si le patient constate les limites de ses connaissances antérieures, ou s’il considère les nouvelles connaissances intelligibles ou utiles.
 
 ##Implications pour les soignants
-- Reconnaître les besoins des patients.
-- Aider les patients à organiser leur vie.
-- Communiquer de façon empathique.
-- Apprendre à apprendre.
-- Adapter les comportements.
+- Reconnaître les besoins des patients.  
+- Aider les patients à organiser leur vie.  
+- Communiquer de façon empathique.  
+- Apprendre à apprendre.  
+- Adapter les comportements.  
 - Evaluer les résultats et ajuster les pratiques.
 
 ##Quelques écueils à éviter

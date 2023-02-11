@@ -6,6 +6,7 @@ date: "1982-02-26"
 
 La survenue d'infections bactériennes graves, notamment à pneumocoques, est une cause importante de mortalité chez l'enfant atteint de drépanocytose homozygote SS (cf. D.S. n° 7, p. 3). Ce risque paraît considérable entre six mois et cinq ans.
 
+
 ![](i23-1.jpg)
 
 
@@ -114,6 +115,7 @@ Chez l'enfant, on considère que 3/4 des crises vaso-occlusives (dont le syndrom
 Quelle qu'en soit la forme, injectable ou orale, sa bonne tolérance à long terme est connue si on se réfère à la prévention du rhumatisme articulaire aigu.
 
 Elle diminue de façon significative le risque d'infection à pneumocoque puisque 80% de ces germes sont sensibles à la Pénicilline.
+
 
 ![](i23-2.jpg)
 

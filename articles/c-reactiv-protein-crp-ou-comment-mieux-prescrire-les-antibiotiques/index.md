@@ -24,8 +24,8 @@ Le tube capillaire est mis en présence d’une solution contenant des anticorps
 **Résultats**
 
 *   Le taux normal de la CRP est < 5 mg/litre
-*   Supérieur à 100, il signe avec une forte probabilité une infection bactérienne.
-*   Inférieur à 30, il oriente vers une infection virale ne justifiant pas une antibiothérapie.
+*   Supérieur à 100, il signe avec une forte probabilité une infection bactérienne.  
+*   Inférieur à 30, il oriente vers une infection virale ne justifiant pas une antibiothérapie.  
 *   Pour les chiffres intermédiaires, tout dépend du contexte clinique et il est souvent sage d’effectuer un dosage de CRP 6 à 8 heures plus tard.​
 
 #### Méthode semi-quantitative simplifiée : CRP Test
@@ -41,6 +41,7 @@ Lire le résultat 5 minutes plus tard
 *   CRP 40 à 80 mg/L
 *   CRP > 80 mg/L
 
+
 ![](methode-crp-semi-quantitative-reduc.jpg)
 
 
@@ -53,6 +54,7 @@ En revanche, elle est peu élevée dans les infections localisées cutanées, OR
 Elle peut être aussi légèrement élevée pendant la grossesse et la prise d’œstrogènes (pilule)
 
 **En pratique**, elle a l’avantage par rapport à la vitesse de sédimentation d’être le premier marqueur annonçant une infection ; elle sera aussi la première à se normaliser pour confirmer la guérison d’une infection (figure).
+
 
 ![](001.jpg)
 

@@ -11,8 +11,8 @@ La politique de santé en France, associée à certains facteurs socio-économiq
 
 Ces faits incitent "à cibler" le dépistage de la tuberculose pour une population dite à risque, celle ci comporte :
 
-*   Les personnes dont le risque de tuberculose est lié à une affection préexistante (VIH, autres immunodépressions, diabète) ou à un contact proche avec une personne atteinte de tuberculose contagieuse. Par leur nature, de tels faits donnent accès aux soins.
-*   Les migrants légaux : ils bénéficient systé­matiquement d'une radiographie de thorax et d'une consultation médicale au sein d'organismes officiels.
+*   Les personnes dont le risque de tuberculose est lié à une affection préexistante (VIH, autres immunodépressions, diabète) ou à un contact proche avec une personne atteinte de tuberculose contagieuse. Par leur nature, de tels faits donnent accès aux soins.  
+*   Les migrants légaux : ils bénéficient systé­matiquement d'une radiographie de thorax et d'une consultation médicale au sein d'organismes officiels.  
 *   Les personnes détenues dans les prisons, pour elles une radiographie de thorax est recommandée à leur entrée en détention.  
     Ces groupes ne nécessitent pas notre inter­vention.
 

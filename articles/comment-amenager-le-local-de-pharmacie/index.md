@@ -48,15 +48,15 @@ Faites réparer si besoin.
 
 ### 2. Evitez les dégâts liés à l'eau et contrôlez l'humidité
 
-*   Vérifiez le système de drainage des eaux autour du local.
-*   La toiture doit être munie de gouttières.
-*   Laissez l'air circuler librement.
-*   Sécurisez les bouches d'aération et les fenêtres (grilles pour les grandes ouvertures, grillage métallique serré pour les petites).
+*   Vérifiez le système de drainage des eaux autour du local.  
+*   La toiture doit être munie de gouttières.  
+*   Laissez l'air circuler librement.  
+*   Sécurisez les bouches d'aération et les fenêtres (grilles pour les grandes ouvertures, grillage métallique serré pour les petites).  
 *   Réparer les fuites dès qu'elles apparaissent.
 
 ### 3. Contrôlez la température dans le local
 
-*   Il est recommandé que le local possède un **double plafond,** cela diminue la tempéra­ture ambiante.
+*   Il est recommandé que le local possède un **double plafond,** cela diminue la tempéra­ture ambiante.  
 *   Laissez l'air chaud s'échapper de la pièce **en créant une bouche** d'aération donnant sous le toit ou au ras du plafond. **Un** **réfrigérareur** produit de la chaleur en fonctionnant, **donc il augmente la tem­pérature**.
 
 Mettez-le à un autre endroit et mettez une serrure de sécurité sur la porte du réfrigérateur.
@@ -71,10 +71,10 @@ Si la lumière entre par les fenêtres, évitez l'exposition directe du stock : 
 
 Chauves-souris, rats, cafards, fourmis, ter­mites ou guêpes peuvent endommager ou détruire les médicaments ou leur emballage ; il faut empêcher d'accéder à la pharmacie ou de s'y installer.
 
-*   Cimentez le sol.
-*   Posez un grillage fin aux ouvertures pour empêcher les insectes d'entrer.
-*   Ne laissez pas de cartons sur le sol (attention, les termites aiment beaucoup les cartons !).
-*   Nettoyez immédiatement les produits renversés.
+*   Cimentez le sol.  
+*   Posez un grillage fin aux ouvertures pour empêcher les insectes d'entrer.  
+*   Ne laissez pas de cartons sur le sol (attention, les termites aiment beaucoup les cartons !).  
+*   Nettoyez immédiatement les produits renversés.  
 *   N'introduisez pas d'aliments dans le local de stockage.
 
 ## III. Gardez votre local propre et rangé
@@ -89,7 +89,7 @@ Dans l'ordre :
 
 *   essuyez le plafond et les murs,
 *   dépoussiérez les étagères et
-*   nettoyez le sol.
+*   nettoyez le sol.  
 *   Figure 1 - Conditions de stockage :
 
     Drug supply management training, Illustrations for participants manuel and trainer's guide, section F WHO Division of Child Health and development 2002
@@ -99,13 +99,14 @@ entreposez-les sur des palettes et des étagères.
 
 Ne posez pas les cartons à même le sol :
 
-*   Ils peuvent être endommagés : le sol peut être humide et risque de provoquer le pou­rissement des produits et cela permet aux termites de s'attaquer aux cartons ou caisses.
+*   Ils peuvent être endommagés : le sol peut être humide et risque de provoquer le pou­rissement des produits et cela permet aux termites de s'attaquer aux cartons ou caisses.  
 *   Ils gênent le nettoyage du sol.
 
 Tous les **médicaments et autres fourni­tures** doivent être **conservés** dans leur **emballage**, récipient ou boîte **d'origine**. Ils doivent être rangés sur des **palettes ou des étagères.**
 
 **Figure 1 - Conditions de stockage**  
 Drug supply management training, Illustrations for participants manuel and trainer's guide, section F WHO Division of Child Health and development 2002
+
 
 ![](image002-local-pharmacie.jpg)
 

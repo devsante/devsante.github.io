@@ -21,15 +21,15 @@ Cela suppose la datation précise du début de la grossesse. La date de début �
 
 #### À l'interrogatoire, on recherche l'existence
 
-*   _Des causes obstétricales_: grossesse multiple (10 à 20 % des accouchements prématurés), placenta praevia, hydramnios, malformation utérine congénitale connue, malformation utérine acquise (fibrome, synéchie ... ), béance cervico-isthmique, curetages ou avortements tardifs antérieurs...
-*   _Des causes médico-sociales:_ infections urinaires ou cervico-vaginales, toxémie, diabète, facteurs sociaux (travail pénible, précarité, transports, grossesse illégitime ... ), âges extrêmes (inférieur à 18 ans, supérieur à 40 ans).
+*   _Des causes obstétricales_: grossesse multiple (10 à 20 % des accouchements prématurés), placenta praevia, hydramnios, malformation utérine congénitale connue, malformation utérine acquise (fibrome, synéchie ... ), béance cervico-isthmique, curetages ou avortements tardifs antérieurs...  
+*   _Des causes médico-sociales:_ infections urinaires ou cervico-vaginales, toxémie, diabète, facteurs sociaux (travail pénible, précarité, transports, grossesse illégitime ... ), âges extrêmes (inférieur à 18 ans, supérieur à 40 ans).  
 *   _Des causes idiopathiques_ : dans environ 40 %, on ne retrouvera rien à l'interrogatoire.
 
 #### À l'examen clinique
 
-*   _Contractions_fréquentes au moins toutes les 10 minutes, régulières souvent douloureuses, spontanées ou provoquées (voyage récent, déménagement ... ). On ne retrouve cependant que 17 % de concordance entre les dires de la patiente et le tracé tocographique.
-*   Rupture prématurée des membranes : le risque infectieux devient majeur.
-*   _Hémorragie_ génitale plus ou moins importante.
+*   _Contractions_fréquentes au moins toutes les 10 minutes, régulières souvent douloureuses, spontanées ou provoquées (voyage récent, déménagement ... ). On ne retrouve cependant que 17 % de concordance entre les dires de la patiente et le tracé tocographique.  
+*   Rupture prématurée des membranes : le risque infectieux devient majeur.  
+*   _Hémorragie_ génitale plus ou moins importante.  
 *   _Modifications_ cervico-segmentaires avec dilatation et/ou raccourcissement du col, formation éventuellement du segment inférieur et descente de la présentation qui appuie sur le col. Selon Andersen un toucher vaginal correctement effectué par un praticien d'expérience permet de détecter environ 71 % des patientes qui accoucheront prématurément. Cependant, le toucher vaginal est opérateur-dépendant donc peu reproductible ; d'autre part la multiplication des examens va nau augmente le risque d'infection vaginale, et donc de MAP !
 
 ### 2. Tenter de la confirmer objectivement  
@@ -63,7 +63,7 @@ Une menace d'accouchement prématuré a en général peu d'effet secondaire mate
 
 #### Fœtal et son bien-être
 
-*   Rythme _cardiaque f__œ__tal_ : rythme de base, bonnes oscillations et variabilité satisfaisante.
+*   Rythme _cardiaque f__œ__tal_ : rythme de base, bonnes oscillations et variabilité satisfaisante.  
 *   _Échographie_ : vitalité (mouvements respiratoires et des extrémités), croissance, environnement (quantité de liquide amniotique, qualité et localisation du placenta).
 
 Des scores de bien-être fœtal écho-cardiotocographique permettent de codifier et d'évaluer l'évolution.
@@ -72,25 +72,27 @@ Des scores de bien-être fœtal écho-cardiotocographique permettent de codifier
 
 #### Appréciation clinique
 
-*   Motif étiologique : l'infection étant à la fois la cause la plus fréquente et la moins contrôlable.
-*   L'association éventuelle avec une rupture prématurée des membranes (RPM).
-*   _Le coefficient_ du risque d'accouchement prématuré ou CRAP établi par Papiernik _(tableau n° 1_) qui introduit différents critères items médico-socio-économiques.
-*   La grille de risque en fonction des catégories socio-professionnelles établi par Mamelle _(tableau n° 2)_ (bas risque professionnel : taux de prématurité : 4 %, haut risque professionnel : 8 %).
-*   Score de tocolyse de Grüber (_tableau_ _n°3)_ associant les items contraction, rupture prématurée des membranes, saignement, degré de dilatation du col.
+*   Motif étiologique : l'infection étant à la fois la cause la plus fréquente et la moins contrôlable.  
+*   L'association éventuelle avec une rupture prématurée des membranes (RPM).  
+*   _Le coefficient_ du risque d'accouchement prématuré ou CRAP établi par Papiernik _(tableau n° 1_) qui introduit différents critères items médico-socio-économiques.  
+*   La grille de risque en fonction des catégories socio-professionnelles établi par Mamelle _(tableau n° 2)_ (bas risque professionnel : taux de prématurité : 4 %, haut risque professionnel : 8 %).  
+*   Score de tocolyse de Grüber (_tableau_ _n°3)_ associant les items contraction, rupture prématurée des membranes, saignement, degré de dilatation du col.  
 *   Score de Bishop _(tableau n° 4)_ évaluant le degré de modification cervico-vaginale.
+
 
 ![](i830-1.jpg)
 
 
 #### Appréciation paraclinique
 
-*   _Gravité de l'infection_ : CRP, leucocytose, numération des germes aux prélèvements urinaire, vaginal ou amniotique.
-*   _Présence de souffrance f__œ__tale_ au cardiotopographe ou à l'échographie.
+*   _Gravité de l'infection_ : CRP, leucocytose, numération des germes aux prélèvements urinaire, vaginal ou amniotique.  
+*   _Présence de souffrance f__œ__tale_ au cardiotopographe ou à l'échographie.  
 *   _Évolution_ _des modifications cervico-vaginales_ à l'étude échographique du col.
 
 Le bilan n'omettra pas de juger l'état général maternel à la recherche de contre-indications à une stratégie thérapeutique curative de la menace d'accouchement prématuré.
 
 Malgré les progrès dans l'élaboration des critères objectifs, il n'y a pas de méthode absolue pour, d'une part, différencier les vraies des fausses MAP et, d'autre part de juger de la gravité pronostique d'une MAP. La stratégie thérapeutique reste actuellement encore discutée mais repose plus sur une notion de fréquence (l'infection) que sur des données objectives.
+
 
 ![](i830-2.jpg)
 
@@ -103,24 +105,24 @@ La prématurité restant la première cause de mortalité et de morbidité péri
 
 #### Méthodes à disposition
 
-*   _Le repos_ reste pour certains le meilleur tocolytique associant arrêt de travail, allongement au lit, accompagnement psychologique, antispasmodiques simples, traitement de toute infection.
+*   _Le repos_ reste pour certains le meilleur tocolytique associant arrêt de travail, allongement au lit, accompagnement psychologique, antispasmodiques simples, traitement de toute infection.  
 *   _Bêta-mimétiques_ : utilisés pour la première fois en 1961, ce sont des dérivés des cathécolamines qui, en stimulant les récepteurs bêta-adrénergiques présents dans l'utérus sont responsables de l'effet utéro-relaxant. Ils ont pour principales contre-indications :
     *   Absolues : cardiopathie, coronaropathie, trouble du rythme cardiaque, myocardiopathie obstructive, allergie au produit ;
-    *   Relatives : hypertension artérielle sévère, diabète, hyperthyroïdie.
-    *   Utilisés principalement par voie parentérale, leur efficacité, jugée initialement sur l'intensité et la fréquence des contractions, doit être rapide. L'allongement de la durée de gestation obtenue est sans incidence sur la mortalité ou la morbidité néonatales.
-*   _Inhibiteurs calciques :_ en évitant l'élévation du calcium intracellulaire, ils empêchent la contraction de la fibre musculaire. Les plus efficaces sont ceux de la famille des dihydropyridines (Nifedipine, Nicardipine). Ils n'ont pas de contre-indication formelle en dehors des hypotensions réelles ou des allergies connues. Un des principaux écueils (ou effets secondaires) à leur utilisation pendant la grossesse est leur puissante action antihypertensive ayant fait craindre un effet délétère sur la circulation utéro-placentaire. Leur prescription se fait en deuxième intention après les bêta-mimétiques, notamment lorsqu'il existe une hypertension artérielle associée ou une contre-indication aux bêta-mimétiques.
+    *   Relatives : hypertension artérielle sévère, diabète, hyperthyroïdie.  
+    *   Utilisés principalement par voie parentérale, leur efficacité, jugée initialement sur l'intensité et la fréquence des contractions, doit être rapide. L'allongement de la durée de gestation obtenue est sans incidence sur la mortalité ou la morbidité néonatales.  
+*   _Inhibiteurs calciques :_ en évitant l'élévation du calcium intracellulaire, ils empêchent la contraction de la fibre musculaire. Les plus efficaces sont ceux de la famille des dihydropyridines (Nifedipine, Nicardipine). Ils n'ont pas de contre-indication formelle en dehors des hypotensions réelles ou des allergies connues. Un des principaux écueils (ou effets secondaires) à leur utilisation pendant la grossesse est leur puissante action antihypertensive ayant fait craindre un effet délétère sur la circulation utéro-placentaire. Leur prescription se fait en deuxième intention après les bêta-mimétiques, notamment lorsqu'il existe une hypertension artérielle associée ou une contre-indication aux bêta-mimétiques.  
 *   _Anti-inflammatoires non_ _stéroïdiens_ : ils agissent en inhibant la synthèse endogène des prostaglandines. Leurs contre-indications sont maternelles, celles des AINS en général (ulcère, hypersensibilité ... ) et fœtales (oligo-amnios, anamnios, rupture prématurée des membranes). En dehors des effets secondaires maternels, cette classe thérapeutique, représentée surtout par l'Indométacine, traverse la barrière placentaire et peut entraîner des effets secondaires fœtaux (fermeture du canal artériel, réduction de la diurèse foetale et donc du liquide amniotique, altération de la fonction rénale, allongement du temps de saignement).  
-    Préconisés principalement sous forme orale, il est classique de les prescrire sur une courte durée (48-72 heures) et pas au-delà de 34 SA.
+    Préconisés principalement sous forme orale, il est classique de les prescrire sur une courte durée (48-72 heures) et pas au-delà de 34 SA.  
 *   _Sulfate de magnésie_ : il agit probablement en diminuant la concentration du calcium cytoplasmique. Ces effets secondaires se rapportent surtout au surdosage (hyperexcitabilité, conséquences cardiaques).
 
 #### Mise en oeuvre pratique
 
 L'utilisation de la tocolyse curative d'une menace d'accouchement prématuré sera fonction de la vitalité foetale, du terme, de la sévérité et des contre-indications propres à chaque classe thérapeutique :
 
-*   _Devant une MAP modérée_ (quelques contractions avec modifications discrètes du col) on optera plutôt pour : arrêt de travail, recherche et traitement de toute cause infectieuse, repos à domicile, spasmolytiques musculaires, surveillance habituelle de l'évolution.
+*   _Devant une MAP modérée_ (quelques contractions avec modifications discrètes du col) on optera plutôt pour : arrêt de travail, recherche et traitement de toute cause infectieuse, repos à domicile, spasmolytiques musculaires, surveillance habituelle de l'évolution.  
 *   _Devant une MAP de gravité moyenne_ (score de tocolyse < 5, contractions importantes, modifications nettes du col) : hospitalisation et bilan systématique puis :
     *   si terme précoce : tentative d'hospitalisation à domicile avec repos strict et tocolyse dès le cap aigu passé;
-    *   si terme > 33-34 SA : hospitalisation jusqu'à 36-37 SA.
+    *   si terme > 33-34 SA : hospitalisation jusqu'à 36-37 SA.  
 *   _Devant une MAP de gravité sévère_ (score de tocolyse > 5, col largement ouvert et très raccourci à plus de 2 doigts) : hospitalisation systématique :
     *   si terme très précoce et col très modifié, envisager en sus de la tocolyse un cerclage,
     *   si terme > 26 SA repos strict et tocolyse parentérale ; après 36 SA, laisser accoucher.
@@ -144,12 +146,13 @@ La prévention de la prématurité repose sur plusieurs concepts fondamentaux :
 *   information des femmes sur les risques de prématurité et sur les moyens de les réduire ;
 *   information des équipes médico-sociales sur les outils de dépistage des facteurs de risque de prématurité, leur analyse et les moyens de les réduire ;
 *   utilisation d'outils médico-sociaux (adaptation du mode de vie, arrêt de travail, travail moins pénible, suivi social et/ou psychologique ... ) ;
-*   usage adapté des moyens de prévention secondaire hospitalisation, tocolytiques, corticoïdes...
+*   usage adapté des moyens de prévention secondaire hospitalisation, tocolytiques, corticoïdes...  
 *   régionalisation des soins périnatals avec orientation des grossesses vers des lieux de naissance adaptés à leurs niveaux de risque (établissements de niveau I, II, III selon les normes OMS) et mise en réseau interdisciplinaire des différentes structures pré et périnatales (Protection maternelle et infantile, centres médico-sociaux, généralistes, obstétriciens, pédiatres ... ).
 
 ## IV. Conclusion
 
 D'origine multifactorielle encore mal connue et donc difficile à contrôler une fois avérée, la prise en charge de la menace d'accouchement prématuré doit se pratiquer essentiellement en amont avant l'irruption de cet accident gravidique, principale cause de mortalité néonatale. La grossesse, bien qu'événement naturel, nécessite un véritable contrat médicopsycho-social entre la femme et les différents acteurs périnataux ; seul un réseau multidisciplinaire et étagé de professionnels et d'établissements, susceptibles d'intervenir à tout moment de la grossesse pour mieux l'orienter, permettra d'optimiser les chances pour la mère et le père d'obtenir dans les meilleures conditions " l'enfant parfait " désiré.
+
 
 ![](i830-3.jpg)
   

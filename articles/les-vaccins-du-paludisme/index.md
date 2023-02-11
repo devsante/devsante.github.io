@@ -16,6 +16,7 @@ Compte tenu de l'absence d'immunité stérilisante dans le paludisme, un vaccin 
 
 **I. Les cibles vaccinales (tableau n° 1)**
 
+
 ![](i813-1.jpg)
 
 

@@ -11,6 +11,7 @@ Outil exclusivement destiné à la surveillance et à la conduite du travail, il
 
 Le _tableau n°1_ montre les résultats que l'on peut obtenir en utilisant ce partogramme.
 
+
 ![](i889-1.jpg)
 
 
@@ -34,8 +35,11 @@ Mis en oeuvre dans les pays développés, il est promu par l'OMS à la suite d'u
 
 *   Les pertes sanguines ne doivent pas dépasser 500 cc (1/2 litre).
 
+
 ![](i889-2.jpg)
+
 ![](i889-3.jpg)
+
 ![](i889-4.jpg)
 
 
@@ -88,7 +92,7 @@ que l'on notera ainsi en ordonnées par rapport au temps (en abscisse).
 #### Toutes les heures :
 
 *   pouls, tension artérielle, température, urines (volume, couleur),
-*   événements intercurrents : métrorragies, comportement, tolérance à la douleur....
+*   événements intercurrents : métrorragies, comportement, tolérance à la douleur....  
 *   rubrique thérapeutique : toute administration de drogue _per os_ ou en perfusion est inscrite, datée et signée. En particulier une perfusion d'ocytocine est représentée par une ligne horizontale qui en indique le début et la durée.
 
 ## III. Construction du partogramme
@@ -97,22 +101,24 @@ Pour être un outil, et pas seulement une illustration, le partogramme doit êtr
 
 Dans les deux partogrammes, déjà pré-imprimés, la construction est similaire ; elle repose sur plusieurs temps.
 
+
 ![](i889-5.jpg)
+
 ![](i889-6.jpg)
 
 
 ### 1. Haut de page
 
-*   Le temps 0 correspond à l'heure d'entrée de la parturiente en salle de naissance.
-*   Identification de la maternité.
-*   Identification de la patiente (nom, prénom, date de naissance, parité).
-*   Date et heure d'admission en salle de travail.
+*   Le temps 0 correspond à l'heure d'entrée de la parturiente en salle de naissance.  
+*   Identification de la maternité.  
+*   Identification de la patiente (nom, prénom, date de naissance, parité).  
+*   Date et heure d'admission en salle de travail.  
 *   Nom du responsable en charge de la surveillance du travail.
 
 ### 2. Milieu de page
 
-*   Diagramme dilatation cervicale et descente foetale : en ordonnées sur la ligne verticale à gauche du graphique, les subdivisions notées de 0 à 10 représentent chacune un centimètre de dilatation. En abscisse, la ligne horizontale, en bas du graphique, numérotée de 0 à 24 représente les heures, chaque intervalle correspond à une heure.
-*   La dilatation, mesurée en centimètres est reportée sur le diagramme en cochant par un "x " l'endroit d'intersection, heure de l'examen et degré de dilatation.
+*   Diagramme dilatation cervicale et descente foetale : en ordonnées sur la ligne verticale à gauche du graphique, les subdivisions notées de 0 à 10 représentent chacune un centimètre de dilatation. En abscisse, la ligne horizontale, en bas du graphique, numérotée de 0 à 24 représente les heures, chaque intervalle correspond à une heure.  
+*   La dilatation, mesurée en centimètres est reportée sur le diagramme en cochant par un "x " l'endroit d'intersection, heure de l'examen et degré de dilatation.  
 *   La descente du mobile foetal (mesurée par la palpation abdominale ou par le toucher vaginal) est de la même façon cochée par un " o " au niveau de l'intersection, heure de l'examen et niveau de descente foetale.
 
 ### 3. Bas de page

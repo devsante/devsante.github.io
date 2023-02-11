@@ -11,9 +11,9 @@ Nous donnons ci-dessous quelques exemples, tirés de documents « L'Enfant pour 
 
 ### Par exemple, les enfants doivent :
 
-*   Comprendre que le paludisme est transmis par des moustiques, qui se reproduisent dans les eaux stagnantes et piquent surtout la nuit, transmettant les parasites des malades aux personnes saines.
-*   Savoir comment lutter contre le paludisme en empêchant les moustiques de se repro­duire et de piquer, et comprendre que les moustiquaires de lit imprégnées d'un produit insecticide sont le meilleur moyen de se pro­téger contre les piqûres de moustiques.
-*   Comprendre que le paludisme se traite par des médicaments antipaludiques, prescrits par un agent de santé, et qu'il faut suivre le traitement complet.
+*   Comprendre que le paludisme est transmis par des moustiques, qui se reproduisent dans les eaux stagnantes et piquent surtout la nuit, transmettant les parasites des malades aux personnes saines.  
+*   Savoir comment lutter contre le paludisme en empêchant les moustiques de se repro­duire et de piquer, et comprendre que les moustiquaires de lit imprégnées d'un produit insecticide sont le meilleur moyen de se pro­téger contre les piqûres de moustiques.  
+*   Comprendre que le paludisme se traite par des médicaments antipaludiques, prescrits par un agent de santé, et qu'il faut suivre le traitement complet.  
 *   Savoir comment aider un enfant qui a de la fièvre en le rafraîchissant et en lui donnant à boire pour remplacer l'eau et le sel qu'il perd par la transpiration.
 
 ## **II. Activités pour comprendre le paludisme**
@@ -22,7 +22,8 @@ Nous donnons ci-dessous quelques exemples, tirés de documents « L'Enfant pour 
 
 Observer l'eau d'une mare contenant des larves de moustiques pour comprendre que quand un oeuf de moustique éclôt, il en sort, non pas un moustique, mais une petite larve noire qui a besoin d'eau pour vivre et se transformer en moustique adulte. Garder l'eau dans un réci­pient recouvert d'un morceau de moustiquaire jusqu'à l'éclosion des moustiques _(figure n° 1)._
 
-_![](image002.jpg)
+_
+![](image002.jpg)
 _
 
 ### 2. Discussion des résultats de l'expérience
@@ -42,8 +43,8 @@ Avant de faire la carte, demander aux élèves de préparer leur activité : de 
 
 #### Organisation de l'activité
 
-*   Décider quel est le meilleur moment pour cette activité.
-*   Fixer une limite de temps.
+*   Décider quel est le meilleur moment pour cette activité.  
+*   Fixer une limite de temps.  
 *   Superviser l'activité sur le plan sécurité, sur­tout si elle est effectuée en dehors de l'en­ceinte de l'école.
 
 #### Aider les enfants à faire la carte
@@ -58,9 +59,9 @@ Où avons-nous trouvé des larves de mous­tiques ? Que pouvons-nous faire pour 
 
 Expliquer les quatre principales étapes du cycle du paludisme :
 
-*   Un moustique pique une personne atteinte de paludisme (surtout la nuit).
-*   Le moustique avale les parasites.
-*   Les parasites se développent à l'intérieur du moustique.
+*   Un moustique pique une personne atteinte de paludisme (surtout la nuit).  
+*   Le moustique avale les parasites.  
+*   Les parasites se développent à l'intérieur du moustique.  
 *   Ce moustique pique ensuite une personne saine et lui transmet le paludisme.
 
 ## III. Activités pour comprendre les dangers de la fièvre
@@ -90,7 +91,7 @@ Le conte peut servir d'introduction à une dis­cussion et à une enquête, pour
 #### Quelles questions poser ?
 
 *   Comment sait-on qu'un enfant a de la fièvre ? - Quand décide-t-on d'emmener un enfant au centre de santé ?
-*   Comment soigne-t-on à la maison un enfant qui a de la fièvre ? (Demander quels sont les médicaments et les boissons qu'on lui donne, si on rafraîchit l'enfant ou si on le couvre avec des couvertures).
+*   Comment soigne-t-on à la maison un enfant qui a de la fièvre ? (Demander quels sont les médicaments et les boissons qu'on lui donne, si on rafraîchit l'enfant ou si on le couvre avec des couvertures).  
 *   Que lui donne-t-on à boire et à manger ?
 
 #### Comment noter ces informations ?
@@ -99,8 +100,8 @@ Par exemple, écrire un questionnaire en lais­sant suffisamment de place entre 
 
 #### Une fois l'enquête terminée
 
-*   Discuter les résultats.
-*   Décider quels messages les enfants doivent transmettre, et à qui.
+*   Discuter les résultats.  
+*   Décider quels messages les enfants doivent transmettre, et à qui.  
 *   Terminer en rappelant les principaux élé­ments à retenir : un enfant qui a de la fièvre doit être déshabillé et rafraîchi ; il faut lui don­ner beaucoup à boire des boissons de réhy­dratation (sel de réhydratation oral).
 
 ## IV. Agir seuls ou en groupes
@@ -111,8 +112,8 @@ En petits groupes, les enfants décident de la meilleure façon de présenter ce
 
 ### 2. Actions dans les familles, le quartier ou le village
 
-*   Vérifier que les petits enfants restent toute la nuit à l'intérieur de la moustiquaire et qu'elle est bien bordée.
-*   Vérifier régulièrement les moustiquaires et recoudre les trous s'il y en a (mais, même avec quelques trous, une moustiquaire garde une efficacité relative contre les moustiques, quand elle est imprégnée par un insecticide).
+*   Vérifier que les petits enfants restent toute la nuit à l'intérieur de la moustiquaire et qu'elle est bien bordée.  
+*   Vérifier régulièrement les moustiquaires et recoudre les trous s'il y en a (mais, même avec quelques trous, une moustiquaire garde une efficacité relative contre les moustiques, quand elle est imprégnée par un insecticide).  
 *   Raconter le conte "La fièvre du Lion" ou en faire une pièce de théâtre.
 
 ## V. Questions d'évaluation

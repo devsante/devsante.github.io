@@ -22,7 +22,7 @@ Les principales circonstances de demande d'un ECBU sont :
 *   la présence de signes cliniques _(tableau n° 1)_ cystite, pyélonéphrite, prostatite ;
 *   une fièvre isolée surtout chez le nourrisson ;
 *   une hématurie, une pyurie, des tests de dépistage positifs ;
-*   une prescription systématique chez des patients à risque : diabétiques, grabataires, problèmes urologiques, porteurs de sonde, femmes enceintes, bilan pré-opératoire etc.
+*   une prescription systématique chez des patients à risque : diabétiques, grabataires, problèmes urologiques, porteurs de sonde, femmes enceintes, bilan pré-opératoire etc.  
 *   un contrôle de traitement.
 
 L'ECBU n'est pas obligatoire en cas de cystite aiguë de la femme de moins de 65 ans, sans antécédents, en dehors de la grossesse.
@@ -37,8 +37,8 @@ La toilette locale est très importante : gland prépuce relevé chez l'homme, p
 
 **_Cas particuliers :_**
 
-*   Chez l'homme, en cas de suspicion de prosta­tite, on recueillera le premier jet pour aug­menter les chances d'isolement de la bactérie responsable qui est souvent en faible quantité.
-*   Chez la femme, en cas de pertes ou de règles, on devra mettre en place une protection vaginale.
+*   Chez l'homme, en cas de suspicion de prosta­tite, on recueillera le premier jet pour aug­menter les chances d'isolement de la bactérie responsable qui est souvent en faible quantité.  
+*   Chez la femme, en cas de pertes ou de règles, on devra mettre en place une protection vaginale.  
 *   Chez le nourrisson, on peut utiliser une poche plastique stérile, que l'on applique sur la peau, mais qui ne doit pas rester en place plus de soixante minutes.
 
 <table>

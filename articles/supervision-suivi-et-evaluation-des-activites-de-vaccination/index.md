@@ -195,9 +195,9 @@ L'intérêt de recueillir toutes ces données est de les utiliser pour améliore
 
 Les éléments permettant d'identifier les problèmes prioritaires sont :
 
-*   Le nombre d'enfants non vaccinés par le vaccin anti-rougeoleux (nombre d'enfants non vaccinés = nombre d'enfants ciblés - nombre d'enfants ayant reçu le vaccin).
-*   Le taux d'abandon entre le BCG et le vaccin.
-*   Le taux d'abandon entre le pentavalent 1 et le pentavalent 3.
+*   Le nombre d'enfants non vaccinés par le vaccin anti-rougeoleux (nombre d'enfants non vaccinés = nombre d'enfants ciblés - nombre d'enfants ayant reçu le vaccin).  
+*   Le taux d'abandon entre le BCG et le vaccin.  
+*   Le taux d'abandon entre le pentavalent 1 et le pentavalent 3.  
 *   La couverture vaccinale en pentavalent 1.
 
 Les actions devront cibler en priorité les zones géo¬graphiques où le nombre d'enfants non vaccinés est important, celles où la couverture vaccinale en pentavalent 1 est faible et celles où le taux d'abandon penta 1 et penta 3 est élevé.
@@ -206,18 +206,19 @@ Les actions devront cibler en priorité les zones géo¬graphiques où le nombre
 
 L'évaluation du programme de vaccination permet de mesurer les performances du programme mais aussi le processus de mise en œuvre. Chaque com-posante du programme de vaccination peut être évaluée :
 
-*   Performance du programme (couverture vaccinale).
-*   Qualité des données du programme.
-*   Compétence des agents impliqués dans la vaccination.
-*   Gestion des vaccins, de la chaîne du froid et des déchets.
-*   Coût et financement du programme de vaccination.
-*   Réalisation du programme d'activité.
-*   Surveillance des maladies cibles et des effets indésirables.
-*   Communication pour la vaccination.
+*   Performance du programme (couverture vaccinale).  
+*   Qualité des données du programme.  
+*   Compétence des agents impliqués dans la vaccination.  
+*   Gestion des vaccins, de la chaîne du froid et des déchets.  
+*   Coût et financement du programme de vaccination.  
+*   Réalisation du programme d'activité.  
+*   Surveillance des maladies cibles et des effets indésirables.  
+*   Communication pour la vaccination.  
 *   ...
 
 Les méthodes d'évaluation reposent sur des enquêtes réalisées au sein de la population, la revue des documents du centre de santé, et l'entre¬tien avec les agents de santé, la population et les partenaires.  
 L'évaluation demande des moyens plus importants et l'appui du niveau supérieur. De même que pour le monitorage, les résultats de l'évaluation devront être analysés, discutés entre les agents de santé et avec les représentants de la population et les partenaires afin d'identifier les problèmes et leurs causes et de programmer les activités correctrices.
+
 
 ![](12169-1.jpg)
 

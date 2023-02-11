@@ -72,7 +72,7 @@ Dans les vastes zones impaludées d'Afrique, le parasite touche évidemment les 
 
 On peut distinguer :
 
-*   les facteurs de risque qui ont été détectés en cours de travail : ce sont les principaux. On peut citer l'hypertension, un travail long, une présentation non céphalique. Il faut ajouter les risques infectieux (rupture prolongée de la poche des eaux), une fièvre maternelle...
+*   les facteurs de risque qui ont été détectés en cours de travail : ce sont les principaux. On peut citer l'hypertension, un travail long, une présentation non céphalique. Il faut ajouter les risques infectieux (rupture prolongée de la poche des eaux), une fièvre maternelle...  
 *   les facteurs de risque avant l'accouchement apparaissent moins importants que les précédents. Il s'agit de la petite taille maternelle (< 1,50m), plus de trois fausses couches, et des antécédents de césarienne.
 
 Les décès des bébés sont trop souvent liés à la mauvaise santé de la mère, soit par insuffisance de surveillance pendant la grossesse, soit pour des raisons économiques et culturelles : la coutume de l'excision, par exemple, entraîne des risques plus grands pour les femmes excisées et pour leurs enfants. Des études faites au Mali, au Sénégal, au Bénin et au Burkina ont montré aussi le lien entre la malnutrition de la future mère, le faible poids de l'enfant à la naissance et les conséquences pour son avenir. Non seulement les risques d'infection sont plus élevés et fragilisent les premiers jours de la vie, mais un développement neurologique insuffisant peut entraîner une mauvaise vision, une surdité... avec toutes les conséquences qu'elles peuvent avoir sur la scolarité.

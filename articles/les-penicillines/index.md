@@ -76,6 +76,7 @@ Leur spectre d'activité est identique à celui des formes précédentes.
 
 **Posologie.** Voir tableaux.
 
+
 ![](i779-1.jpg)
 
 

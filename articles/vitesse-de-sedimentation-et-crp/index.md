@@ -22,12 +22,12 @@ La méthode de référence est la méthode de Westergren.
 
 #### Méthode
 
-*   Le prélèvement est effectué de préférence le matin à jeun.
+*   Le prélèvement est effectué de préférence le matin à jeun.  
 *   Le sang est recueilli dans un tube avec anti­coagulant soit 0,4 ml de solution de citrate + 1,6 ml de sang.  
-    Il est important d'agiter doucement le tube, immédiatement après le prélèvement afin de bien mélanger le citrate et le sang.
-*   Le sang citraté est ensuite aspiré dans un tube de Westergren, jusqu'à la graduation 0 (si possible à l'aide d'une poire ou d'un tube en caoutchouc pour éviter d'avaler du sang).
-*   Le tube est ensuite fixé au support, bien verticalement. La base du support doit être horizontale et disposée dans un lieu à l'abri de la chaleur.
-*   Le tube est laissé ainsi pendant une heure. Pendant le temps de sédimentation, il est important d'éviter les chocs et les vibrations (centrifugeuse de paillasse...).
+    Il est important d'agiter doucement le tube, immédiatement après le prélèvement afin de bien mélanger le citrate et le sang.  
+*   Le sang citraté est ensuite aspiré dans un tube de Westergren, jusqu'à la graduation 0 (si possible à l'aide d'une poire ou d'un tube en caoutchouc pour éviter d'avaler du sang).  
+*   Le tube est ensuite fixé au support, bien verticalement. La base du support doit être horizontale et disposée dans un lieu à l'abri de la chaleur.  
+*   Le tube est laissé ainsi pendant une heure. Pendant le temps de sédimentation, il est important d'éviter les chocs et les vibrations (centrifugeuse de paillasse...).  
 *   Après une heure, noter en millimètres, la hauteur du plasma surnageant, à partir de la graduation zéro.
 
 La mesure de la VS peut s'effectuer après une heure et deux heures de sédimentation.
@@ -84,6 +84,7 @@ Tube de mesure trop froid, ou trop court
 </tbody>
 
 </table>
+
 <table>
 <caption>Tableau 2 : variations pathologiques de la VS</caption>
 
@@ -157,7 +158,7 @@ Les techniques semi-quantitatives par agglutina­tion passive sur plaque, utilis
 
 #### Lecture de la première heure :
 
-*   Chez l'homme : 1 à 10 mm (< 16).
+*   Chez l'homme : 1 à 10 mm (< 16).  
 *   Chez la femme :3 à 14 mm (< 25).
 
 Il existe une augmentation physiologique de la VS avec _l'âge et au cours de la grossesse,_ de même au cours des traitements oestropro­gestatifs.
@@ -186,7 +187,7 @@ Les variations pathologiques se font toujours dans le sens d'une élévation. L'
 **Maladies infectieuses :**
 
 *   les infections bactériennes représentent les situations inflammatoires où les taux sont les plus élevés jusqu'à 400 mg/L, voire plus) : tuberculose, méningite bactérienne, septicé­mie E. coli+++, pneumopathies, pyéloné­phrites (taux très élevés) ;
-*   les infections virales ne donnent lieu qu'à une élévation modérée de la CRP (< 25 mg/L).
+*   les infections virales ne donnent lieu qu'à une élévation modérée de la CRP (< 25 mg/L).  
 *   les infections parasitaires (paludisme...)
 
 **Hépatopathies** : cirrhose (mais la CRP reste normale dans les hépatites cytolytiques).
@@ -298,5 +299,6 @@ VS augmentée avec CRP normale > élimine un syndrôme inflammatoire -> recherch
 CRP augmentée = inflammation
 
 CRP > 200 mg/L -> infection bactérienne
+
 
 ![](image002.jpg)

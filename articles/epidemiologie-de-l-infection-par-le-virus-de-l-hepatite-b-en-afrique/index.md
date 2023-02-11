@@ -18,6 +18,7 @@ Le VHB est un virus à ADN appartenant à la famille des Hepadnaviridae. Il est 
 
 **Schéma 1 : structure du VHB**
 
+
 ![](Page%2011-virus%20VHB.jpg "Schéma 1 : structure du VHB")
 
 
@@ -29,8 +30,8 @@ L’infection par le VHB peut être mise en évidence par 5 marqueurs immunologi
 
 Trois génotypes circulent en Afrique : les génotypes A, D et E.
 
-*   le génotype A est rencontré en Afrique australe. Au cours de l’infection par les sous types africains de ce génotype (A1 ou Aa) la séroconversion HBe est précoce (dès le jeune âge) et la charge virale est faible par rapport aux sous types européens (A2 ou Ae).
-*   le génotype D prévaut en Afrique du Nord ; avec ce génotype la séroconversion HBe est également précoce expliquant le taux élevé d’hépatite B active à Ag HBe négatif. L’Ag HBe n’est donc pas un marqueur fiable de réplication virale.
+*   le génotype A est rencontré en Afrique australe. Au cours de l’infection par les sous types africains de ce génotype (A1 ou Aa) la séroconversion HBe est précoce (dès le jeune âge) et la charge virale est faible par rapport aux sous types européens (A2 ou Ae).  
+*   le génotype D prévaut en Afrique du Nord ; avec ce génotype la séroconversion HBe est également précoce expliquant le taux élevé d’hépatite B active à Ag HBe négatif. L’Ag HBe n’est donc pas un marqueur fiable de réplication virale.  
 *   le génotype E (variant uniquement en Afrique subsaharienne) est observé en Afrique de l’Ouest et en Afrique centrale.
 
 ## III. Modes de transmission du virus
@@ -137,6 +138,7 @@ Une mesure préventive doit être prise à l’encontre de ces populations.
 Dans le monde, 350 à 400 millions d’individus sont porteurs chroniques du VHB. L’Afrique du nord, avec une prévalence de 2 à 7 %, est une zone d’endémicité intermédiaire tandis que l’Afrique sub-saharienne est une zone de haute endémicité avec une prévalence comprise entre 8 et 18 % de la population générale.
 
 **Schéma 2 : distribution géographique de la prévalence du VHB-www.hepatitis.sn**
+
 
 ![](page-13-epidmiologie-hpatite-b.jpg)
 
@@ -618,8 +620,8 @@ Les moyens utilisés dans les programmes de lutte contre le VHB doivent être :
 ### 1. Actions préventives générales
 
 *   Information du personnel de santé et des décideurs publics sur les dangers de l’infection à VHB
-*   Information sur les comportements favorisant la transmission du VHB (tout comme pour le VIH) en particulier : l’utilisation des drogues par injection IV, les rapports sexuels non protégés, les pratiques rituelles et les soins par matériels non stérilisés.
-*   Information sur les modes de transmission du VHB.
+*   Information sur les comportements favorisant la transmission du VHB (tout comme pour le VIH) en particulier : l’utilisation des drogues par injection IV, les rapports sexuels non protégés, les pratiques rituelles et les soins par matériels non stérilisés.  
+*   Information sur les modes de transmission du VHB.  
 *   Encourager la vaccination systématique chez les nouveau-nés et si possible chez toutes les populations à risque.
 
 ### 2. Précautions universelles

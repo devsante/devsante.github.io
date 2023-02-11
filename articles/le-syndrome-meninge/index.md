@@ -29,9 +29,9 @@ D'autres signes peuvent également être présents : troubles du rythme cardiaqu
 
 #### A l'examen clinique, les signes du syndrome méningé sont :
 
-*   La **raideur de la nuque** : c'est le signe de méningite le plus précoce et le plus constant. Elle se recherche par la flexion passive de la tête sur le thorax. Le mouvement est limité par la contracture douloureuse des muscles cervicaux postérieurs. Les mouvements latéraux sont moins douloureux et possibles.
-*   **L'attitude « en chien de fusil »** : elle est due à la contracture rachidienne.
-*   Le signe de Kernig : il se recherche en pliant les membres inférieurs sur le bassin, jambes étendues : une douleur s'oppose à ce mouvement et oblige le patient à plier les jambes.
+*   La **raideur de la nuque** : c'est le signe de méningite le plus précoce et le plus constant. Elle se recherche par la flexion passive de la tête sur le thorax. Le mouvement est limité par la contracture douloureuse des muscles cervicaux postérieurs. Les mouvements latéraux sont moins douloureux et possibles.  
+*   **L'attitude « en chien de fusil »** : elle est due à la contracture rachidienne.  
+*   Le signe de Kernig : il se recherche en pliant les membres inférieurs sur le bassin, jambes étendues : une douleur s'oppose à ce mouvement et oblige le patient à plier les jambes.  
 *   Le **signe de Brudzinski** : les tentatives de flexion de la tête vers l'avant entraînent une flexion involontaire des membres inférieurs.
 
 ### b) Evaluer la gravité
@@ -39,14 +39,14 @@ D'autres signes peuvent également être présents : troubles du rythme cardiaqu
 Les signes de gravité sont :
 
 *   Les troubles de la conscience (obnubilation, états confusionnels, coma)
-*   Les convulsions, surtout chez les enfants.
+*   Les convulsions, surtout chez les enfants.  
 *   Le purpura : toute éruption purpurique (taches de couleur violette) doit évoquer une méningite à méningocoques et faire débuter immédiatement une antibiothérapie avant le transfert.
 
 **_=>Alerter_** **et préparer le transfert**
 
 ### d) Agir
 
-*   Soulager : mettre le patient dans un local calme, aéré, dans l'obscurité, le couvrir avec des linges humides pour le rafraîchir et faire baisser la température.
+*   Soulager : mettre le patient dans un local calme, aéré, dans l'obscurité, le couvrir avec des linges humides pour le rafraîchir et faire baisser la température.  
 *   Traiter par paracétamol.
 
 Tout syndrome méningé doit, si possible, être confirmé par un examen du liquide céphalo-rachidien (LCR)  
@@ -103,6 +103,7 @@ Chloramphénicol retard en suspension huileuse et ceftriaxone sont actifs en inj
 </tbody>
 
 </table>
+
 
 ![](image001.gif)
 

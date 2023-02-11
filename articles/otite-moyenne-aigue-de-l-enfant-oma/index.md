@@ -72,6 +72,7 @@ Plus spécifiques sont :
 
 *   Une **paralysie faciale** impose une paracentèse en urgence.
 
+
 ![](i707-1.jpg)
 
 

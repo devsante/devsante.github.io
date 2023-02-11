@@ -89,6 +89,7 @@ Conseils de bonne utilisation des préservatifs masculins
 </tbody>
 
 </table>
+
 <table>
 
 <thead>
@@ -132,21 +133,21 @@ Il s'agit d'un étui en plastique que la femme introduit dans son vagin avant le
 
 **Avantages**
 
-*   Il permet à chaque femme de gérer elle-même sa double protection (IST et grossesse non désirée). C'est la décision de la femme et son autonomie.
-*   Il se place à l'intérieur du vagin avant chaque rapport sexuel.
-*   Il peut être placé juste avant le rapport sexuel ou quelques heures plus tôt.
-*   Il doit être jeté après chaque rapport, il n'est pas réutilisable.
-*   Il peut rester dans le vagin après le rapport sexuel.
-*   Il est en plastique (polyuréthane) et non en latex. ; il est donc utilisable même en cas d'allergie au latex.
-*   Le polyuréthane est plus robuste que le latex.
-*   Il peut être utilisé avec n'importe quel type de lubrifiant.
-*   Il convient à toute femme, même si elle porte un stérilet.
+*   Il permet à chaque femme de gérer elle-même sa double protection (IST et grossesse non désirée). C'est la décision de la femme et son autonomie.  
+*   Il se place à l'intérieur du vagin avant chaque rapport sexuel.  
+*   Il peut être placé juste avant le rapport sexuel ou quelques heures plus tôt.  
+*   Il doit être jeté après chaque rapport, il n'est pas réutilisable.  
+*   Il peut rester dans le vagin après le rapport sexuel.  
+*   Il est en plastique (polyuréthane) et non en latex. ; il est donc utilisable même en cas d'allergie au latex.  
+*   Le polyuréthane est plus robuste que le latex.  
+*   Il peut être utilisé avec n'importe quel type de lubrifiant.  
+*   Il convient à toute femme, même si elle porte un stérilet.  
 *   Il se place en position assise, couchée, ou debout un pied posé sur une chaise, comme un tampon périodique.
 
 **Inconvénients**
 
-*   Sa mise en place nécessite un petit apprentissage. Il est recommandé de s'entraîner tranquillement à le placer.
-*   Il est plus cher que le préservatif masculin.
+*   Sa mise en place nécessite un petit apprentissage. Il est recommandé de s'entraîner tranquillement à le placer.  
+*   Il est plus cher que le préservatif masculin.  
 *   Au moment du rapport, il faut s'assurer que le pénis entre bien dans le préservatif et non à côté
 *   Il ne doit pas être utilisé avec un préservatif masculin (frottement),
 

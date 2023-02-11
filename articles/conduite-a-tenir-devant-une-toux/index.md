@@ -98,6 +98,7 @@ Si la toux peut être gênante, voire constituer un handicap en perturbant le tr
 
 Par contre, si elle est récente et grasse (productive), il faut la respecter surtout aux âges extrêmes de la vie puisqu'elle a pour rôle vital de libérer les voies aériennes.
 
+
 ![](i659-1.jpg)
 
 

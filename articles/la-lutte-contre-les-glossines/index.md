@@ -109,6 +109,7 @@ L'objectif est de dépister et traiter les hommes malades ou les porteurs "sains
 *   renouvellement des tissus,
 *   participation nécessaire mais difficile des populations.
 
+
 ![](i980-1.jpg)
 
 

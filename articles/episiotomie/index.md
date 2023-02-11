@@ -19,6 +19,7 @@ Mal faite, elle est source de complications immédiates ( abcès) et ultérieure
 
 Le but est double. D'une part, prévenir les déchirures périnéales ; d'autre part, raccourcir la durée de l'expulsion.
 
+
 ![](i862-1.jpg)
 
 
@@ -58,6 +59,7 @@ excès de volume fœtal, présentation rendant difficile dégagement : sommet en
 - pour sauvegarder un enfant fragile (prématurité, souffrance fœtale)
 
 - pour abréger les efforts maternels en cas de cardiopathie, de pneumopathie ou surtout de fatigue maternelle au terme d'un long travail.
+
 
 ![](i862-2.jpg)
 
@@ -174,7 +176,9 @@ Mais il y a parfois des complications :
 
 cicatrice épaisse, irrégulière, inesthétique qui déforme l'orifice vulvaire qui devient agrandi et déhiscent ou au contraire rétréci, source de dyspareunie (rapport sexuel douloureux). La reprise opératoire est possible mais difficile. Enfin, des complications tardives peuvent se voir : bartholinite kystique, conséquences d'une épisiotomie transverse, elle oblige à l'intervention et enfin greffe d'une endométriose.
 
+
 ![](i862-3.jpg)
+
 ![](i862-4.jpg)
 
 

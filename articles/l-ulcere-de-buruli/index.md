@@ -77,6 +77,7 @@ Le plus souvent, il s'agit d'un seul nodule, invisible au début de son évoluti
 
 Un cedème douloureux, chaud, prenant un aspect de peau d'orange et qui donne à la peau en regard un aspect brillant et tendu, débute dans la zone où se fera l'ulcération. Cet oedème s'étend progressivement, pouvant prendre tout un membre quelquefois. La progression de cet oedème peut être très rapide [19]. Plus tard au cours de l'évolution, il devient plus facile de délimiter une zone indurée. La peau en regard desquame ; une bulle peut se former à la surface du revêtement cutané et se rompre pour évoluer vers l'ulcération [181. Il peut aussi apparaître une petite plaque violacée ou décolorée qui se nécrose et aboutit à un ulcère plus ou moins étendu [20] _(photo n° 1)._
 
+
 ![](i705-1.jpg)
 
 
@@ -88,7 +89,9 @@ La caractéristique de l'ulcère de Buruli réside dans le décollement des bord
 
 Le fond de l'ulcère est plus ou moins régulier, mais creusé uniformément et recouvert d'un enduit fibrino-leucocytaire jaunâtre, nauséabond et/ou d'un écoulement séro-purulent, qui se déterge lentement pour faire place à un tissu de granulation par endroits (photo _n° 2)._ L'aponévrose profonde et les plans musculaires sous-jacents sont en règle générale respectés. Cependant, l'ulcère peut découvrir le périoste des os sous-jacents, les tendons _(photo n° 3)._
 
+
 ![](i705-2.jpg)
+
 ![](i705-3.jpg)
 
 
@@ -100,8 +103,11 @@ L'ulcère peut évoluer durant des semaines, voire des mois. La cicatrisation pe
 
 À l'heure actuelle, les malades consultant à un stade très tardif, la cicatrisation laisse très souvent des séquelles esthétiques et fonctionnelles pouvant entraîner une impotence fonctionnelle marquée. La cicatrice est fibreuse et rétractile [23]. L'évolution prolongée de l'ulcère en regard d'une articulation, avec les complications septiques qu'il peut entraîner, va causer des dommages irrémédiables à l'articulation, tels que des rétractions articulaires et tendineuses (raideur en flexion, en extension), des brides, des ankyloses [19]. Le coude, fréquemment touché, est alors en flexum, ainsi que le genou ou les doigts. Le poignet peut être bloqué en hyperextension _(photo n° 6)._
 
+
 ![](i705-4.jpg)
+
 ![](i705-5.jpg)
+
 ![](i705-6.jpg)
 
 
@@ -124,6 +130,7 @@ Ce traitement n'a pas fait jusqu'à présent l'objet d'un consensus. Les initiat
 À la phase pré-ulcérative, l'exérèse du nodule sous-cutané se fait en " fuseau " : le nodule est enlevé avec les tissus environnants, découpés suivant une forme de fuseau. Ce type d'ablation a l'avantage d'être rapide et simple du point de vue de la réalisation technique. L'excision des nodules permet d'en confirmer l'origine mycobactérienne après examen anatomo-pathologique et bactériologique de la pièce opératoire, leur aspect clinique n'étant pas spécifique.
 
 **À** **la phase d'état, le traitement chirurgical, qui consiste en un parage de** **l'ulcère suivi d'une greffe de peau est** **efficace, à condition que l'exérèse des** **tissus s'étende bien en périphérie des** **ulcères, jusqu'en zone saine et bien** **vascularisée.** Une exérèse limitée entraîne immanquablement des " rechutes " comme en témoigne notamment une expérience récente menée en Allemagne sur un enfant angolais, qui a dû être hospitalisé plusieurs mois et subir trois opérations avant de pouvoir cicatriser [7]. Dans ce cas, l'exérèse des tissus a probablement été limitée dans le souci d'économiser la peau en périphérie de l'ulcère. Or, on sait que la nécrose se poursuit bien au-delà des berges de l'ulcère. En pratique, pour estimer la surface de tissus à enlever, on peut enfoncer un stylet sous les bords de l'ulcère jusqu'à buter contre les parois de l'ulcère ; marquer la peau à 2 cm au-delà de cette paroi et tracer ainsi " l'encadrement " de l'ulcère, qui sera la limite de l'exérèse [25] _(figure n° 1)._
+
 
 ![](i705-7.jpg)
 

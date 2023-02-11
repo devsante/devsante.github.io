@@ -21,6 +21,7 @@ Afin d'enrayer une situation véritablement dramatique, qui concerne le tiers de
 
 D'importants moyens techniques et financiers ont été mis en jeu dans l'objectif d'assainir l'environnement et de fournir à tous vingt litres d'eau potable par jour. Malheureusement, les efforts ont privilégié, d'une part, les populations urbaines et, d'autre part, la distribution d'eau au détriment des populations rurales, pourtant majoritaires, et de l'assainissement. En milieu rural, les programmes d'hydraulique villageoise se sont contentés de construire des points d'eau modernes, les forages ; il s'agit de puits étroits, équipés de pompes à motricité humaine, qui captent l'eau des nappes profondes.
 
+
 ![](i1000-1.jpg)
 **L'eau nécessaire à l'hygiène individuelle**
 
@@ -87,6 +88,7 @@ La deuxième option semble, _a priori_, la plus satisfaisante, d'autant que les 
 ### 3. L'organisation
 
 Le mythe de l'eau potable gratuite est définitivement révolu. Les promoteurs de l'hydraulique villageoise l'ont d'ailleurs bien compris et requièrent une participation des bénéficiaires pour la construction et l'entretien des ouvrages qu'ils réalisent. L'organisation des communautés autour de leur ressource en eau doit aussi, dès maintenant, inclure la mise en place de structures locales de traitement et de surveillance de la qualité de l'eau. L'autonomie financière, meilleure garante de leur longévité, soulève le problème du recouvrement des coûts par les usagers.
+
 
 ![](i1000-2.jpg)
 **Forage en zone sahélienne****Eau : réduire l'inégalité**

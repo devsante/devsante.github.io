@@ -14,8 +14,8 @@ Cela doit se faire sous la responsabilité d'une personne bien formée, qui conn
 
 #### 1. Paracétamol sous plusieurs formes
 
-*   Sirop : ne pas perdre la pipette, graduée selon le poids de l'enfant par kilo, et la maintenir [propre, ne](http://propre.ne) pas la tremper deux fois de suite dans le flacon pour le même enfant.
-*   Sachets à diluer dans de l'eau potable.
+*   Sirop : ne pas perdre la pipette, graduée selon le poids de l'enfant par kilo, et la maintenir [propre, ne](http://propre.ne) pas la tremper deux fois de suite dans le flacon pour le même enfant.  
+*   Sachets à diluer dans de l'eau potable.  
 *   Comprimés a avaler pour les plus grands.
 
 La dose de paracétamol est de 60 m,;/kg/jour, répartis en 4 à 6 prises, soit 15 mg/kg par prise toutes les 6 heures environ ou 10 mg/kg/prise toutes les 4 heures.
@@ -24,7 +24,7 @@ La dose de paracétamol est de 60 m,;/kg/jour, répartis en 4 à 6 prises, soit 
 
 On peut utiliser :
 
-*   L'acide acétylsalicylique (aspirine), sachant que la tolérance est moins sûre et qu'il faut l'éviter en cas de varicelle. La posologie est de 60 mg/kg/j répar­tis en 4 ou 6 prises.
+*   L'acide acétylsalicylique (aspirine), sachant que la tolérance est moins sûre et qu'il faut l'éviter en cas de varicelle. La posologie est de 60 mg/kg/j répar­tis en 4 ou 6 prises.  
 *   L'ibuprofène, aux posologies indiquée sur les notices (selon la spécialité).
 
 ### 2. En cas de troubles digestifs
@@ -42,8 +42,8 @@ Les antidiarrhéiques sont un bon appoint :
     *   de 1 à 9 mois :(< 9 kg) : un sachet de 10 mg par prise, 3 fois/jour
     *   de 9 à 30 mois (9-13 kg) : 2 sachets de 10 mg/prise, 3 fois/jour
     *   de 30 mois à 9 ans (13-27 kg) : un sachet de 30 mg/prise 3 fois/jour
-    *   au-delà de 27 kg : 2 sachets de 30 mg/prise, 3 fois/jour.
-*   Lopéramide : solution buvable à partir de 2 ans seulement : 0,03 mg/kg/jour en deux ou trois prises.
+    *   au-delà de 27 kg : 2 sachets de 30 mg/prise, 3 fois/jour.  
+*   Lopéramide : solution buvable à partir de 2 ans seulement : 0,03 mg/kg/jour en deux ou trois prises.  
 *   Diosmectite : sachets à diluer dans de l'eau ou des aliments :
     *   jusqu'à un an : 1 sachet/jour (voire 2)
     *   après un an : 2 sachets/jour (voire 4).
@@ -52,7 +52,7 @@ Les antidiarrhéiques sont un bon appoint :
 
 La pharmacie doit contenir :
 
-*   Un bronchodilatateur (par exemple salbutamol, terbutaline), avec une chambre d'inhalation.
+*   Un bronchodilatateur (par exemple salbutamol, terbutaline), avec une chambre d'inhalation.  
 *   Des corticoïdes oraux et injectables. Voir l'article "Asthme de l'enfant" pour les posologies.
 
 ### 4. En cas d'allergie grave : oedème de Quincke, urticaire géante
@@ -74,7 +74,7 @@ Un collyre antibiotique ou une pommade ophtal­mique peuvent aussi être utiles 
 
 Cela permettra de mieux pratiquer les soins :
 
-*   Codéine en sirop (1mg/ml), qui se donne avec une cuillère-mesure graduée de 1 à 15 mg, 0,5 mg/kg/prise (exceptionnellement, si la douleur est très intense, 0,75 mg/kg/prise), à renouveler toutes les 8 heures.
+*   Codéine en sirop (1mg/ml), qui se donne avec une cuillère-mesure graduée de 1 à 15 mg, 0,5 mg/kg/prise (exceptionnellement, si la douleur est très intense, 0,75 mg/kg/prise), à renouveler toutes les 8 heures.  
 *   Codéine + paracétamol à partir de 6 ans : 3 mg/kg/j en 4 à 6 prises.
 
 ### **2. Blessures, piqûres d'insectes, plaies plus ou moins infectées**
@@ -89,16 +89,16 @@ La pharmacie doit être bien pourvue en produits de soins :
 
 #### Pansements
 
-*   Stériles ou propres (compresses, linges propres, sparadrap... ).
-*   Le tulle gras est un bon produit pour les plaies car les changements de pansement se font sans gêner la cicatrisation.
+*   Stériles ou propres (compresses, linges propres, sparadrap... ).  
+*   Le tulle gras est un bon produit pour les plaies car les changements de pansement se font sans gêner la cicatrisation.  
 *   Si quelqu'un sait suturer une plaie, il faut prévoir le matériel nécessaire. Des bandelettes adhésives stériles (pour rapprocher les bords de la plaie) sont toujours bien utiles.
 
 Bien sûr, ciseaux et pinces seront toujours en place et en bon état.
 
 ### **3. Brûlures légères ou moyennes**
 
-*   Trolamine pour les brûlures de premier degré.
-*   Tulle gras, povidone iodée pour le 2ème degré.
+*   Trolamine pour les brûlures de premier degré.  
+*   Tulle gras, povidone iodée pour le 2ème degré.  
 *   Enveloppements stériles ou très propres en cas de brûlures graves étendues ou profondes pour assu­rer un transport dans des conditions d'hygiène maximales.
 
 ### 4. Morsures de chien

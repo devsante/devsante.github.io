@@ -9,9 +9,9 @@ Le ralentissement de la croissance peut être décelé bien avant les premiers s
 
 ## I. Quelles mesures ?
 
-*   La longueur en hauteur (ou taille) est une mesure très stable qui reflète l'augmentation totale de taille mais elle change trop lentement pour être utilisée seule.
-*   Le poids par rapport à la taille est plus rapi­de en fonction de l'âge et sensible à une éven­tuelle détérioration ou amélioration de la santé de l'enfant.
-*   Le poids par rapport à la taille est une mesu­re plus efficace car elle fait la différence entre un enfant grand mais lourd et un enfant grand et maigre. Elle ne nécessite pas de connaître l'âge exact de l'enfant.
+*   La longueur en hauteur (ou taille) est une mesure très stable qui reflète l'augmentation totale de taille mais elle change trop lentement pour être utilisée seule.  
+*   Le poids par rapport à la taille est plus rapi­de en fonction de l'âge et sensible à une éven­tuelle détérioration ou amélioration de la santé de l'enfant.  
+*   Le poids par rapport à la taille est une mesu­re plus efficace car elle fait la différence entre un enfant grand mais lourd et un enfant grand et maigre. Elle ne nécessite pas de connaître l'âge exact de l'enfant.  
 *   Le périmètre brachial _(voir plus loin)._
 
 ## II. Courbe poids - taille
@@ -33,7 +33,9 @@ Il faut un poids à la naissance ou au moins le plutôt possible dans les 7 jour
 Chaque fois que l'enfant est pesé doit être reporté sur la courbe un point correspondant, à l'aide d'une règle, si possible ; il faut partir de la date de la pesée, donc de l'âge de l'enfant à partir de l'axe horizontal et mettre un point au niveau du poids correspondant sur l'axe vertical.  
 Ensuite il faut tracer une ligne entre ce point et le point précédent.
 
+
 ![](image002-15.jpg)
+
 
 
 ![](image002.jpg)
@@ -50,6 +52,7 @@ Pour cela il faut considérer l'orientation de la courbe de croissance dessinée
 *   vers le bas : danger, l'enfant perd du poids, il a besoin de soins immédiatement.
 
 Cette orientation sert aussi à évaluer les mesures correctives, après constat d'une cour­be descendante et application de mesures (réhydratation, renutrition, etc.) la courbe doit s'orienter à nouveau vers le haut 2 à 4 semaines plus tard _(cf figure 2 d,e)._
+
 
 ![](image004-12.jpg)
 
@@ -70,6 +73,7 @@ Parmi toutes les mesures pour évaluer l'état nutritionnel, la mesure du périm
 Son principe se base sur le fait que ce péri­mètre brachial (PB) varie très peu avec l'âge entre 6 mois et 5 ans par contre il est très sen­sible à une malnutrition. Entre 1 et 5 ans il augmente de 1 cm alors que les différences entre enfants bien nourris et malnutris sont beaucoup plus grandes. Ceci est résumé sur le graphique extrait du livre de D.Morley. _(voir figure 3)_
 
 **Figure 3.**
+
 
 ![](image006-5.jpg)
 
@@ -93,6 +97,7 @@ Elle mesure environ 28 cm de long avec un repère "0" à 4 cm, une zone neutre d
 
 La bandelette de 3 couleurs est très utile pour dépister rapidement les enfants malnutris (zone rouge) ou à risque de malnutrition (zone jaune) des enfants normaux (zone verte). Elle permet de suivre les résultats d'une prise en charge nutritionnelle, on peut aussi utiliser les mesures en mm avec un mètre ruban.
 
+
 ![](image006.jpg)
 
 
@@ -101,7 +106,9 @@ La bandelette de 3 couleurs est très utile pour dépister rapidement les enfant
 Ces mesures permettent de faire une classifi­cation en 3 catégories.  
 Après une très rapide expérimentation sur des enfants sains, tout le monde est capable de diagnostiquer une malnutrition ou suivre le statut nutritionnel d'un enfant.
 
+
 ![](image008-0.jpg)
+
 
 
 ![](image008.jpg)

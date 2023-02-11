@@ -21,14 +21,14 @@ Pour détruire une bactérie, il sera utile quelquefois d'utiliser deux antibiot
 
 ### Exemples :
 
-*   Pénicilline-aminoside : la pénicilline agit sur la membrane bactérienne: elle facilite la pénétration de l'aminoside (gentamycine) qui agit au centre de la bactérie. L'aminoside sera donc beaucoup plus efficace s'il est associé à la pénicilline.
-*   Le sulfaméthoxazole et le triméthoprime sont de médiocres antibactériens bactériostatiques. Associés, ils constituent le un puissant sulfamide bactéricide (les deux substances bloquent la synthèse de l'acide folique à deux niveaux : or l'acide folique est indispensable à la croissance des bactéries).
+*   Pénicilline-aminoside : la pénicilline agit sur la membrane bactérienne: elle facilite la pénétration de l'aminoside (gentamycine) qui agit au centre de la bactérie. L'aminoside sera donc beaucoup plus efficace s'il est associé à la pénicilline.  
+*   Le sulfaméthoxazole et le triméthoprime sont de médiocres antibactériens bactériostatiques. Associés, ils constituent le un puissant sulfamide bactéricide (les deux substances bloquent la synthèse de l'acide folique à deux niveaux : or l'acide folique est indispensable à la croissance des bactéries).  
 *   L'association amoxicilline-acide clavulanique constitue l'exemple le plus démonstratif d'association bénéfique : cet antibiotique est certainement le plus utile dans de nombreuses infections bactériennes chez l'enfant.
 
 Ailleurs, la potentialisation de l'effet thérapeutique peut avoir des conséquences graves :
 
-*   L'action anticoagulante des antivitamine K peut être augmentée par de nombreux médicaments : aspirine, anti-inflammatoires non stéroïdiens ; à l'inverse, des aliments riches en vitamine K peuvent en diminuer les effets (choux, tomates, épinards).
-*   De nombreux médicaments provoquent une diminution de la vigilance : l'utilisation de tranquillisants (dériv"s le plus souvent des benzodiazépines), de plus en plus répandue, provoque cet effet, ce qui aboutit à de fréquents accidents de circulation.
+*   L'action anticoagulante des antivitamine K peut être augmentée par de nombreux médicaments : aspirine, anti-inflammatoires non stéroïdiens ; à l'inverse, des aliments riches en vitamine K peuvent en diminuer les effets (choux, tomates, épinards).  
+*   De nombreux médicaments provoquent une diminution de la vigilance : l'utilisation de tranquillisants (dériv"s le plus souvent des benzodiazépines), de plus en plus répandue, provoque cet effet, ce qui aboutit à de fréquents accidents de circulation.  
 *   L'action des antidiabétiques oraux (le diabète est de plus en plus fréquent en Afrique) est facilement perturbée par les inducteurs enzymatiques, tels que la rifampicine.
 
 ### **2. Antagonismes**
@@ -203,8 +203,8 @@ Chez le nouveau-né par exemple, les enzymes hépatiques sont à 25 % des taux a
 
 ## Conclusion
 
-*   En prescrivant un médicament, il est possible de savoir l'effet attendu.
-*   En en prescrivant deux, les incidents et accidents ne sont pas rares.
+*   En prescrivant un médicament, il est possible de savoir l'effet attendu.  
+*   En en prescrivant deux, les incidents et accidents ne sont pas rares.  
 *   Avec trois, quatre, cinq médicaments, vous devenez franchement dangereux !
 
 _Développement et Santé, n°89, octobre 1990_

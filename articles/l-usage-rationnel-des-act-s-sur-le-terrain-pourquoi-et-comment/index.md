@@ -21,8 +21,8 @@ ACT's = Artemisinin Combined Treatments
 
 Les échecs thérapeutiques et le développe­ment des résistances aux antipaludiques en monothérapie sont le résultat de mutations génétiques du parasite, la sélection des para­sites "mutants" étant le plus souvent favorisée par certaines caractéristiques des molécules actives, en particulier :
 
-*   La biodisponibilité : par exemple, des pro­blèmes d'absorption ont été rapportés pour la SP<sup>2</sup>.
-*   La demi-vie du produit dans l'organisme : par exemple, la longue demi-vie de la chloroquine dans la circulation sanguine a contribué à l'émergence des résistances aux amino-4 quinoléines.
+*   La biodisponibilité : par exemple, des pro­blèmes d'absorption ont été rapportés pour la SP<sup>2</sup>.  
+*   La demi-vie du produit dans l'organisme : par exemple, la longue demi-vie de la chloroquine dans la circulation sanguine a contribué à l'émergence des résistances aux amino-4 quinoléines.  
 *   L'index thérapeutique : par exemple, les doses thérapeutiques de la chloroquine étant relativement proches des doses toxiques, il est impossible d'augmenter les posologies pour contrer la résistance.
 
 De ces "points faibles" des antipaludiques est issu le principe d'associer plusieurs molécules actives ayant des caractéristiques complémen­taires pour :
@@ -133,8 +133,8 @@ Artésunate - SP
 
 Compte tenu de la transmission du paludisme uniquement due aux anopheles (_cf chapitre vecteurs)_, le cycle de l'eau sera indirectement responsable du pourcentage de fièvres asso­ciées à un paludisme :
 
-*   Dans une région présentant une longue saison sèche et une courte saison humide, le risque de développer un paludisme sera plus fréquent dans les 3 - 4 semaines suivant le début de la saison des pluies.
-*   Dans une région présentant une alternance de saisons sèches et humides (2 par an), le risque de développer un paludisme est plus étalé dans le temps et donc plus incertain.
+*   Dans une région présentant une longue saison sèche et une courte saison humide, le risque de développer un paludisme sera plus fréquent dans les 3 - 4 semaines suivant le début de la saison des pluies.  
+*   Dans une région présentant une alternance de saisons sèches et humides (2 par an), le risque de développer un paludisme est plus étalé dans le temps et donc plus incertain.  
 *   Dans une région équatoriale à pluviométrie permanente, le risque sera équivalent tout au long de l'année.
 
 Il convient donc de bien connaître la climato­logie d'une région pour évaluer le risque d'in­fection et donc la probabilité qu'une fièvre soit associée à une infection plasmodiale.
@@ -168,7 +168,9 @@ En cas de persistance de fièvre en fin de trai­tement (soit au 3<sup>ème</sup
 
 _(Remerciements à Andrea Bosman, WHO/Global Malaria Programme, 2008)._
 
+
 ![](12039-1.jpg)
+
 
 
 ![](12039-1.jpg)

@@ -19,6 +19,7 @@ Pour l'étage sural, le positionnement du malade et de l'opérateur sont essenti
 
 Dans ces conditions, l'ED devient un outil de dépistage fiable dont la sensibilité atteint 92 % pour des thromboses distales isolées avec une reproductibilité correcte. L'ED peut alors devenir plus sensible que la phlébographie en particulier en dépistage de thromboses asymptomatiques.
 
+
 ![](i837-1.jpg)
 
 
@@ -52,6 +53,7 @@ Après avoir bien positionné le malade (_Figure 1),_ la sonde est placée au cr
 
 Pour chacun des plans et pour chacun des muscles (jumeaux et soléaire), la sonde parcourt le mollet depuis le pli poplité jusqu'à la cheville. Pour l'exploration des veines péronières avec une sonde barrette, il faut choisir une incidence évitant que le relief osseux du péroné ne protège les veines péronières de la compression par la sonde, en positionnant la sonde à la face interne de jambe de façon à ce que les axes tibiaux postérieurs et péroniers soient sur une même ligne parallèlement à la sonde _(Figure 2)._
 
+
 ![](i837-2.jpg)
 
 
@@ -69,7 +71,7 @@ A l'écoute doppler, le flux veineux est comparé à un bruit de vent dans les a
 
 #### Les deux critères diagnostiques principaux sont échographiques :
 
-*   Le premier critère est l'incompressibilité veineuse sous la pression de la sonde en coupe transversale ou sous l'effet d'une contre-pression manuelle exercée à l'arrière des masses musculaires face à la sonde.
+*   Le premier critère est l'incompressibilité veineuse sous la pression de la sonde en coupe transversale ou sous l'effet d'une contre-pression manuelle exercée à l'arrière des masses musculaires face à la sonde.  
 *   Le deuxième critère est la visualisation directe du thrombus dans la lumière veineuse. Il n'est pas toujours présent car l'échogénicité d'un thrombus est variable et parfois identique à celle du sang circulant.
 
 #### Les critères secondaires sont :
@@ -93,6 +95,7 @@ Le compte-rendu gagne à être présenté sur un schéma anatomique _(Figure 3)_
 
 Un logiciel a été récemment mis au point qui permet d'avoir un compte-rendu informatisé avec un schéma anatomique et une exploitation statistique instantanée de la base de données ainsi constituée au fil des explorations.
 
+
 ![](i837-3.jpg)
 
 
@@ -103,6 +106,7 @@ L'ED permet le diagnostic de thrombose localisée aux affluents musculaires habi
 L'ED enfin peut découvrir un diagnostic différentiel ou fortuit dans 10 à 15 % des cas : rupture du muscle plantaire grêle avec épanchement dans l'espace inter-aponévrotique entre muscle jumeau interne et soléaire, rupture partielle du tendon d'Achille, désinsertion partielle du pôle inférieur du muscle jumeau interne, kyste poplité sous tension, rompu ou fissuré, anévrisme veineux, anévrisme artériel, thrombose artérielle, athéromatose, adénopathies, ascite, reflux systolique tricuspide entendu au doppler à la jonction fémoro-iliaque témoignant d'une insuffisance cardiaque droite.
 
 L'ED, bien qu'il n'ait pas acquis le statut d'examen de référence à la place de la phlébographie, est cependant désormais au premier plan dans le diagnostic et le suivi de la maladie thrombo-embolique veineuse.
+
 
 ![](i837-4.jpg)
 

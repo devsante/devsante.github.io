@@ -89,7 +89,7 @@ Les activités d'éducation proposées seront fondées sur les principes de l'ap
 
 L'évaluation comporte deux aspects : l'évaluation de programme et l'évaluation pédagogique du patient.
 
-*   L'évaluation de programme s'intéresse à l'ensemble du programme d'éducation thérapeutique, elle peut être par exemple : clinique (diminution des maladies opportunistes), psychosociale (amélioration de la qualité de vie des patients), pédagogique par l'appréciation des acquis du patient, et s'intéresser au programme dans son ensemble par le moyen des critères de qualité.
+*   L'évaluation de programme s'intéresse à l'ensemble du programme d'éducation thérapeutique, elle peut être par exemple : clinique (diminution des maladies opportunistes), psychosociale (amélioration de la qualité de vie des patients), pédagogique par l'appréciation des acquis du patient, et s'intéresser au programme dans son ensemble par le moyen des critères de qualité.  
 *   L'évaluation pédagogique du patient va se planifier dès que les compétences du patient seront identifiées et négociées avec lui. Seront évalués les changements opérés chez le patient à l'issue d'une période d'apprentissage donnée. Cette évaluation portera autant sur les compétences d'auto soins (faire face - décider : utiliser des moyens de prévention adaptés pour éviter de contaminer son entourage ou une surcontamination), que sur des compétences à dominante affective (exprimer ses valeurs, ses projets, ses attentes, ses émotions, le sentiment de confiance en soi, etc.).  
     Ce temps est important car il va permettre d'organiser le suivi du patient en fonction des compétences qu'il doit améliorer ou acquérir pour gérer au mieux sa maladie dans sa vie quotidienne.
 
@@ -117,13 +117,16 @@ La démarche éducative que nous proposons relève d'une approche systémique '4
 
 **Tableau 1 : dossier d'éducation réalisé par les éducateurs du CESAC à Bamako, au cours d'une formation à l'éducation thérapeutique animée par Format Santé dans le cadre d'un programme financé par la fondation GSK.**
 
+
 ![](i1081-1.jpg)
+
 
 
 ![](i1081-2.jpg)
 
 
 ### **Suivi et planification de l'ETP**
+
 
 ![](i1081-3.jpg)
 

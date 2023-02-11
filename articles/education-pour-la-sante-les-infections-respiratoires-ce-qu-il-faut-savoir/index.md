@@ -14,6 +14,7 @@ Pour cela, trois stratégies complémentaires :
 
 de la rougeole, la coqueluche et la diphtérie, qui, à elles seules, représentent le quart des décès par pneumonie des jeunes enfants. Il faut continuer les efforts de **vaccination dans le cadre du** **PEV.**
 
+
 ![](i420-1.jpg)
 
 
@@ -54,6 +55,7 @@ cotrimoxazole comprimés: 4 mg/kg (de triméthoprime) toutes les douze heures,
 *   chloramphénicol: 25 mg/kg (maximum 1 g par dose) en intramusculaire toutes les six heures,
 
 *   réhydrater.
+
 
 ![](i420-2.jpg)
 

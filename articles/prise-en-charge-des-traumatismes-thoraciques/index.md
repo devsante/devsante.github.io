@@ -27,6 +27,7 @@ Ils sont provoqués par des armes blanches, des projectiles divers (balles, écl
 
 Ils sont la conséquence de mécanismes de contusion, d'écrasement ou de chutes (accidents de la circulation ou d'abattage d'arbre, rixes, lynchages). La paroi du thorax est atteinte ainsi que son contenu mais il n'y a pas de communication avec le milieu extérieur.
 
+
 ![](i839-1.jpg)
 
 
@@ -80,6 +81,7 @@ La mise en place d'un drain thoracique est précédée chaque fois que possible 
 
 Deux sites sont classiques _(figure n° 2)_
 
+
 ![](i839-2.jpg)
 
 
@@ -96,6 +98,7 @@ Mais deux principes sont à respecter : jamais au-dessous de la ligne mamelonnai
 **_Quel matériel utiliser ?_**
 
 Un drain trocart de Joly (_figure n° 3_) ou un trocart de Monod _(figure n° 4),_ plus sûr, de bon calibre: 24 ou 28 CH (Charrière*). En fait, on utilise les tuyaux dont on dispose, éventuellement une sonde urinaire ou un simple tuyau sur lequel on crée des orifices supplémentaires, en choisissant toujours un gros calibre pour éviter qu'il ne soit bouché par les caillots.
+
 
 ![](i839-3.jpg)
 
@@ -132,7 +135,9 @@ _- Aspiratif_ : l'idéal est de raccorder le (ou les bocaux) à une aspiration, 
 
 Il faut souligner que lorsque l'on appareille un drain thoracique, un des principaux problèmes est celui des raccords. Si l'on ne dispose pas de raccords du commerce, il est généralement facile d'en fabriquer avec des bouts de tuyaux et de caoutchouc. Il est donc indispensable que tout médecin ou infirmier isolé ait prévu, avant de recevoir en urgence un traumatisé du thorax, et en fonction du matériel dont il dispose, les différents raccords nécessaires depuis le patient jusqu'au dispositif de recueil ou de retransfusion. Un système complet et cohérent doit ainsi être prêt et stérilisé. Il faut vérifier régulièrement le montage : drains, tuyaux, raccords. Tous les raccords doivent être apparents et non dissimulés par des pansements pour éviter qu'ils ne se désadaptent sans que l'on s'en aperçoive.
 
+
 ![](i839-4.jpg)
+
 ![](i839-5.jpg)
 
 
@@ -161,6 +166,7 @@ _- Complications._ Les drainages incomplètement surveillés peuvent être insuf
 - Palpation de l'abdomen à la recherche de signes évoquant une lésion abdominale associée.
 
 À l'issue de ce bilan, plusieurs tableaux peuvent être individualisés et la conduite à tenir en découle _(figure n° 7_).
+
 
 ![](i839-6.jpg)
 
@@ -193,7 +199,9 @@ Il faut s'assurer de la liberté des voies aériennes.
 
 - _Thorax soufflant évident :_ il faut en urgence obturer la plaie avec un gros pansement humide pour arrêter le cercle vicieux de la compression et il est impératif de mettre un drain pour éviter d'enfermer un épanchement compressif. Le drain peut être mis selon les modalités décrites précédemment ou si l'orifice de la plaie est très important, le drain peut être provisoirement introduit dans cet orifice sous contrôle visuel. En règle générale, il faut toujours éviter d'utiliser l'orifice de la plaie.
 
-- _Pneumothorax ou_ _hémothorax mal supporté_ : il faut ponctionner en urgence pour exsuffler puis mettre un drain qui le plus souvent améliorera rapidement l'état respiratoire.![](i839-7.jpg)
+- _Pneumothorax ou_ _hémothorax mal supporté_ : il faut ponctionner en urgence pour exsuffler puis mettre un drain qui le plus souvent améliorera rapidement l'état respiratoire.  
+![](i839-7.jpg)
+
 ![](i839-8.jpg)
 
 
@@ -293,7 +301,9 @@ médecin ou infirmier exerçant dans des conditions limitées doit donc, en fonc
 
 Les indications de thoracotomies restent réduites à moins de 20 % des blessés mais paradoxalement des conditions limitées de surveillance et de réanimation peuvent inciter à augmenter ces indications afin d'essayer de limiter les séquelles.
 
+
 ![](i839-9.jpg)
+
 ![](i839-10.jpg)
 
 

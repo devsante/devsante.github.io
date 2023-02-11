@@ -196,24 +196,24 @@ Traitement de six (6) mois => 2 RHEZ/6 HE ou 4 HR.
 
 Deux mois de quadrithérapie isoniazide + rifampi­cine + éthambutol + pyrazinamide.
 
-*   Prise quotidienne le matin 1 heure avant de manger.
-*   Hospitalisation ou ambulatoire en traitement directement observé (DOT).
+*   Prise quotidienne le matin 1 heure avant de manger.  
+*   Hospitalisation ou ambulatoire en traitement directement observé (DOT).  
 *   Examen de crachats à l'issue.
 
 ### 2. Phase de continuation
 
-*   Si BK négatif à la fin du 2° mois = 4 mois de bithérapie isoniazide + rifampicine ou 6 mois isoniazide + éthambutol.
-*   Si BK positif à la fin du 2° mois, 1 mois sup­plémentaire RHEZ puis RH 4 mois.
-*   Examen de crachats à la fin du 5° mois (compter à partir du début du traitement).
-    *   Si négatif finir les 6 mois.
+*   Si BK négatif à la fin du 2° mois = 4 mois de bithérapie isoniazide + rifampicine ou 6 mois isoniazide + éthambutol.  
+*   Si BK positif à la fin du 2° mois, 1 mois sup­plémentaire RHEZ puis RH 4 mois.  
+*   Examen de crachats à la fin du 5° mois (compter à partir du début du traitement).  
+    *   Si négatif finir les 6 mois.  
     *   Si positif = échec => retraitement.
 
 ## II. Schéma de retraitement
 
 Traitement supplémentaire de 8 mois => 2 RHSEZ/1 RHEZ/5 RHE.
 
-*   Phase initiale une prise quotidienne + injection de S (hospitalisation).
-*   Examen de crachats à la fin du 3° mois.
+*   Phase initiale une prise quotidienne + injection de S (hospitalisation).  
+*   Examen de crachats à la fin du 3° mois.  
 *   Phase de continuation
     *   si BK- : 5 mois de RHE
     *   si BK+ : 1 mois RHEZ puis 5 RHE.
@@ -243,6 +243,7 @@ Effets secondaires _(voir article "Médicaments antituberculeux")_
 Dans certains cas un **corticoide** est nécessaire ; les indications les plus fréquentes sont la méningite et la péricardite tuberculeuses (1-2 mg/Kg/j pendant 1 à 4 semaines). Il est aussi nécessaire de donner des corticoïdes en cas de pleurésie constrictive, d'atteinte des surrénales, de laryngite obstructive, d'hyper­sensibilisation grave, de lésion urétérale ou d'adénopathies massives.
 
 **Algorithme traitement standardisé de la tuberculose**
+
 
 ![](12057-1.jpg)
 

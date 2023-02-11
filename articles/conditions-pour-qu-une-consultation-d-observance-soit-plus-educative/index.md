@@ -56,7 +56,7 @@ en présence du soignant les solutions qu'il a identifiées
 
 #### Activité proposée :
 
-*   Demander au patient de résoudre une situation vécue par un patient porteur de l'infection par le VIH, dont les conditions de vie sont proches de celle du patient pour l'aider à s'approprier un raisonnement, à évoluer vers d'autres comportements face à son traitement.
+*   Demander au patient de résoudre une situation vécue par un patient porteur de l'infection par le VIH, dont les conditions de vie sont proches de celle du patient pour l'aider à s'approprier un raisonnement, à évoluer vers d'autres comportements face à son traitement.  
 *   Demander au patient de planifier la prise de son traitement sur une journée pour lui permettre d'anticiper d'éventuelles difficultés imprévues ou d'envisager de nouvelles possibilités.
 
 ## V. Conclure la consultation

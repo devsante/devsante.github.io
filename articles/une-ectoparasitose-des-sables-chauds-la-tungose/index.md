@@ -16,6 +16,7 @@ Avec les mouvements de population, _Sarcopsylla penetrans_ (Linné, 1758) a diff
 
 **Figure 1. Répartition géographique de la tungose**
 
+
 ![](fig-1-repartition-geographique-de-la-tungose.jpg)
 
 
@@ -27,6 +28,7 @@ L'agent responsable de cette affection, _Tunga penetrans_, est une petite puce m
 
 **Figure 2. _Tunga penetrans_**
 
+
 ![](fig-2-tunga-penetrans.JPG)
 
 
@@ -34,11 +36,13 @@ Les adultes vivent dans le sable et sautent sur des mammifères (dont l’homme)
 
 **Figure 3. Schéma de pnétration de la puce-chique ** 
 
+
 ![](fig-3-schema-de-penetration-de-la-puce.JPG)
   
 
 **Figure 4. Puce-chique gonflée**                     
 
+  
 ![](fig-4-fig-puce-chique-gonflee.JPG)
    
 
@@ -50,6 +54,7 @@ Lors du contact avec le sol, la puce chique se localise, dans la majorité des c
 
 **Figure 5. Tungose sous-ungueale**
 
+
 ![](fig-5-puce-chique-sous-unueale.JPG)
 
 
@@ -57,12 +62,14 @@ L’examen clinique des lésions constate une ou plusieurs tuméfactions enchâs
 
 **Figure 6. Aspect typique d'une tungose au niveau du pied**
 
+
 ![](fig-6-aspect-typique-d-une-tungose.jpg)
 
 
 Chez les sujets vivant dans des mauvaises conditions d’hygiène, peuvent coexister plusieurs dizaines de lésions, d’âges différents, donnant un aspect de nid d’abeille (figure 7).
 
 **Figure 7. Tungose multiple**
+
 
 ![](fig-7-tungose-multiple.JPG)
 
@@ -75,12 +82,14 @@ Le diagnostic est assez facile et bien connu des autochtones devant l’aspect d
 
 **Figure 8. Aspect anatomopathologique d'une tungose**
 
+
 ![](fig-8-coupe-anatomo-pcthologique.JPG)
 
 
 Après des essais mitigés de traitement par voie orale de thiabendazole ou de niridazole (ces produits ne sont plus disponibles), le traitement le plus efficace des formes simples consiste à pratiquer l’extraction de l’ensemble de la puce chique avec un vaccinostyle ou une curette, sans la blesser (figure 9). Cette énucléation est peu douloureuse. Si cette manoeuvre provoque une rupture du parasite, il faut alors pratiquer un curetage du cratère, ce qui est assez douloureux et nécessite souvent une anesthésie locale.
 
 **Figure 9. Extraction d'une puce-chique**
+
 
 ![](fig-9-extraction-de-la-puce-chique.jpg)
 

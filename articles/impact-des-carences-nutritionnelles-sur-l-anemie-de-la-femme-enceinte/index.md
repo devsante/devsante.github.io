@@ -37,6 +37,7 @@ Il est surtout préventif et doit permettre de ramener l'hémoglobine à un taux
 
 Insister sur une alimentation équilibrée, la connaissance des facteurs capables d'affaiblir ou de favoriser l'absorption du fer contenu dans les aliments _(cf. tableau n°_ 1).
 
+
 ![](i400-1.jpg)
 
 
@@ -48,10 +49,12 @@ Céréales, sel, sucre, condiments par du sulfate ferreux. C'est la méthode la 
 
 L'avantage de ce type de supplémentation est qu'il a un effet rapide sur les réserves en fer des populations à risque vues aux séances de PMI. L'efficacité peut être limitée par les problèmes d'intolérance digestive au fer observés dans un pourcentage non négligeable d'individus et le manque de motivation des bénéficiaires. Il est actuellement recommandé d'administrer 120 mg de fer élément (sous forme de sulfate ou de fumarate de fer) combiné avec 500 mg d'acide folique durant les quatre derniers mois de la grossesse _(cf. tableaux 2 et 3). Il_ faut, si possible, éviter de faire cette supplémentation trop tôt en raison des possibilités accrues d'intolérance digestive durant les premiers mois de la grossesse.
 
+
 ![](i400-2.jpg)
 
 
 Il faut aussi s'assurer que le traitement prescrit a été effectivement pris et au besoin le vérifier en recherchant sa conséquence: élévation du dosage de l'hémoglobine au bout d'un mois de traitement.
+
 
 ![](i400-3.jpg)
 

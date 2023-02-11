@@ -53,6 +53,7 @@ Quand le globule rouge meurt au bout de 120 jours, il est capté par la rate et 
 
 **Figure 1. Le circuit du fer dans l'organisme**
 
+
 ![](fer-1-002.jpg)
 
 
@@ -276,6 +277,7 @@ Concentration corpusculaire en hémoglobine (mesurant l’hémoglobine à l’in
 
 **Figure 2. Stades évolutifs de la carence martiale**
 
+
 ![](fer-3-003.jpg)
 
 
@@ -418,6 +420,7 @@ D’une façon générale, les protéines sont riches en fer, et parmi celles-ci
 Pour connaître la teneur en fer des rpincipaux aliments, se reporter au tableau IV.
 
 **Tableau III. Absorption du fer contenu dans différents aliments d'origine végétale et animale (moyenne géométrique)**
+
 
 ![](fer-7-1.jpg)
 
@@ -745,7 +748,7 @@ Cela est particulièrement utile pour le prématuré, le petit poids de naissanc
 
 **Le sulfate ferreux est ainsi préconisé à trois mois (date de l’anémie physiologique) et à neuf mois :**
 
-*   A trois mois : 2 mg/kg/jour suffisent, administrés en deux à trois prises pendant six semaines (par exemple 4 gouttes matin, midi et soir au moment des repas).
+*   A trois mois : 2 mg/kg/jour suffisent, administrés en deux à trois prises pendant six semaines (par exemple 4 gouttes matin, midi et soir au moment des repas).  
 *   A neuf mois (pour un poids de 8 kg environ), il faudra passer à 16 gouttes par jour de nouveau pendant six semaines.
 
 **​Ainsi, la carence en fer sera prévenue.**
@@ -754,7 +757,7 @@ Cela est particulièrement utile pour le prématuré, le petit poids de naissanc
 
 Trop souvent, la carence en fer est découverte au stade majeur qu’est l’anémie.
 
-*   Dans les cas extrêmes, l’hémoglobine peut chuter à 2 à 3 g/100 ml : une transfusion peut  être justifiée devant une menace vitale. Mais les risques de contamination par le VIH et l’hépatite B font que prescrire une transfusion est une lourde responsabilité.
+*   Dans les cas extrêmes, l’hémoglobine peut chuter à 2 à 3 g/100 ml : une transfusion peut  être justifiée devant une menace vitale. Mais les risques de contamination par le VIH et l’hépatite B font que prescrire une transfusion est une lourde responsabilité.  
 *   L’utilisation de fer injectable (IM) permet une correction de l’anémie en huit à dix jours. Malheureusement, cette voie d’administration est chère et semble augmenter transitoirement le risque d’infection bactérienne grave : cet effet paradoxal est dû à l’effondrement  transitoire du pouvoir bactéricide du sérum, un apport massif de fer inhibe ses protéines naturelles bactéricides.
 
 **En pratique**, la voie orale est la plus utilisée même si son action est plus lente.
@@ -762,7 +765,7 @@ Trop souvent, la carence en fer est découverte au stade majeur qu’est l’an�
 **Quelques notions sont fondamentales** :
 
 *   Seuls les sels ferreux sont à prescrire car mieux absorbés et mieux tolérés
-*   La durée du traitement doit être supérieure à 3 mois, 6 mois étant souhaitable.
+*   La durée du traitement doit être supérieure à 3 mois, 6 mois étant souhaitable.  
 *   L’absorption du fer au niveau duodénal est limitée à 150 mg de Fer métal par jour chez l’adulte : il est donc inutile et même dangereux de dépasser les doses recommandées, le surplus reste dans le tube digestif où il provoque  diarrhée, douleurs abdominales, vomissements et finalement refus du traitement par le patient !!
 *   Une prise le matin à jeun  entraîne une meilleure absorption, mais elle est souvent mal tolérée : mieux vaut  administrer le fer au cours des 2 principaux repas
 *   Certains aliments diminuent l’absorption du fer de 20 à 40 % : c’est le cas du thé et des laitages

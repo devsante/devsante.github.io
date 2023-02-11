@@ -39,6 +39,7 @@ S'il s'agit d'un "bassin limite" (diamètre promonto-sus-pubien entre 9,5 et 10,
 
 Fibrome ou kyste de l'ovaire volumineux, gênant le passage de l'enfant. Dans ce cas, la césarienne est suivie immédiatement de l'ablation de la tumeur, au cours de la même opération.
 
+
 ![](13192-1.jpg)
 
 
@@ -95,6 +96,7 @@ La césarienne n'est possible que si l'enfant est vivant, avec des bruits de aru
 
 Une césarienne est une intervention chirurgicale majeure et toutes les conditions de la chirurgie abdominale doivent être réunies pour pouvoir la pratiquer (aspiration, transfusion, réanimation, équipe chirurgicale).
 
+
 ![](13192-2.jpg)
 
 
@@ -123,7 +125,9 @@ Les complications des césariennes sont rares, si la technique du chirurgien et 
 
 Surtout en cas de déchirure d'une grosse veine. La suture utérine bien faite doit en venir à bout. Parfois, l'utérus saigne parce qu'il reste atone et ne se contracte pas; l'injection de méthylergométrine obtient généralement une contraction utérine suffisante. Il est rare que la persistance d'une hémorragie oblige à pratiquer une hystérectomie d'hémostase.
 
+
 ![](13192-3.jpg)
+
 
 
 ![](13192-4.jpg)

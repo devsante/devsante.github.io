@@ -9,8 +9,8 @@ teaser: "L'hydatidose est une échinococcose due au développement, chez l'homme
 
 La numération formule sanguine :
 
-*   Elle est le plus souvent normale.
-*   L'hyperéosinophilie peut s'observer dans le cadre de fissuration d'un kyste et peut être associée à des signes allergiques type urticaire.
+*   Elle est le plus souvent normale.  
+*   L'hyperéosinophilie peut s'observer dans le cadre de fissuration d'un kyste et peut être associée à des signes allergiques type urticaire.  
 *   La polynucléose traduit la surinfection kystique et est accompagnée d'un syndrome inflammatoire.
 
 Le bilan hépatique peut être lui aussi perturbé en cas de compression des voies biliaires hyperbilirubinémie, hypertransaminasémie...
@@ -30,7 +30,9 @@ Seuls les prélèvements per-opératoires du kyste, dit  "hydatide", peuvent pe
 
 À l'intérieur de l'hydatide, se trouve le liquide hydatique, eau de roche, constitué de produits de l'hôte dialysés à travers la cuticule externe, et de produits du métabolisme du parasite qui lui confèrent sa grande valeur antigénique. L'observation microscopique du culot de centrifugation de ce liquide permet de mettre en évidence, si le kyste est fertile, des crochets provenant de protoscolex abimés, des protoscolex invaginés ou dévaginés ou même des vésicules-filles endogènes. Chez l'homme, les protoscolex sont rarement observés (_cf. photos_). Certains kystes ne comportent pas de scolex.
 
+
 ![](i799-1.jpg)
+
 ![](i799-2.jpg)
 
 
@@ -56,12 +58,12 @@ Les antigènes solubles sont préparés à partir du liquide hydatique. Ils doiv
 
 #### Les principales techniques sérologiques sont :
 
-*   **L'immunofluorescence indirecte** (IFI) simple de réalisation pour les laboratoires qui préparent leur antigène, elle est sensible dans les localisations hépatiques. Le seuil de positivité est au 1/100. Il existe des réactions croisées avec l'échinococcose à _E. multilocularis_ et la cysticercose. C'est l'une des rares techniques utilisant des antigènes figurés.
-*   **L'agglutination** : des particules de latex sont recouvertes d'antigènes solubles. La méthode est très simple mais manque de spécificité.
-*   **L'hémagglutination indirecte** : des hématies de mouton sont recouvertes d'antigènes solubles. La méthode est simple et disponible en kits. Sa sensibilité est bonne et le seuil de positivité est de 1/320. Ce test peut être positif dans d'autres helminthiases.
-*   **L'immunoélectrophorèse** : elle permet de différencier les différents arcs de précipitation et la recherche de l'arc spécifique 5 pour le diagnostic de certitude d'échinococcose à _Echinococcus granulosus._ Cet arc 5 peut se voir dans la cysticercose ou dans l'échinococcose alvéolaire mais permet de poser le diagnostic dans plus de 90 % des hydatidoses hépatiques et 65 % des hydatidoses pulmonaires. L'inconvénient majeur de cette technique est la nécessité d'une grande quantité de sérum (au moins 1 ml).
-*   **L'électrosynérèse** : elle remplace l'immunoélectrophorèse grâce à la quantité moindre de sérum à prélever et au délai de réalisation inférieur (quelques heures). Elle consiste en une précipitation sur acétate de cellulose entre le sérum à tester et un antisérum anti-arc 5.
-*   L'**ELISA** : c'est une méthode immunoenzymatique. L'antigène spécifique est fixé sur un support solide. Si l'anticorps est présent dans le sérum à tester, il se forme un complexe immun par addition d'une antiglobuline humaine couplée à une enzyme. La lecture se fait par mesure de la densité optique à l'aide d'un spectrophotomètre. La réaction sera d'autant plus spécifique que l'antigène utilisé aura été parfaitement purifié (fragment 5).
+*   **L'immunofluorescence indirecte** (IFI) simple de réalisation pour les laboratoires qui préparent leur antigène, elle est sensible dans les localisations hépatiques. Le seuil de positivité est au 1/100. Il existe des réactions croisées avec l'échinococcose à _E. multilocularis_ et la cysticercose. C'est l'une des rares techniques utilisant des antigènes figurés.  
+*   **L'agglutination** : des particules de latex sont recouvertes d'antigènes solubles. La méthode est très simple mais manque de spécificité.  
+*   **L'hémagglutination indirecte** : des hématies de mouton sont recouvertes d'antigènes solubles. La méthode est simple et disponible en kits. Sa sensibilité est bonne et le seuil de positivité est de 1/320. Ce test peut être positif dans d'autres helminthiases.  
+*   **L'immunoélectrophorèse** : elle permet de différencier les différents arcs de précipitation et la recherche de l'arc spécifique 5 pour le diagnostic de certitude d'échinococcose à _Echinococcus granulosus._ Cet arc 5 peut se voir dans la cysticercose ou dans l'échinococcose alvéolaire mais permet de poser le diagnostic dans plus de 90 % des hydatidoses hépatiques et 65 % des hydatidoses pulmonaires. L'inconvénient majeur de cette technique est la nécessité d'une grande quantité de sérum (au moins 1 ml).  
+*   **L'électrosynérèse** : elle remplace l'immunoélectrophorèse grâce à la quantité moindre de sérum à prélever et au délai de réalisation inférieur (quelques heures). Elle consiste en une précipitation sur acétate de cellulose entre le sérum à tester et un antisérum anti-arc 5.  
+*   L'**ELISA** : c'est une méthode immunoenzymatique. L'antigène spécifique est fixé sur un support solide. Si l'anticorps est présent dans le sérum à tester, il se forme un complexe immun par addition d'une antiglobuline humaine couplée à une enzyme. La lecture se fait par mesure de la densité optique à l'aide d'un spectrophotomètre. La réaction sera d'autant plus spécifique que l'antigène utilisé aura été parfaitement purifié (fragment 5).  
 *   Les **dosages d'IgE totales et spécifiques** : ils permettent de poser le diagnostic dans 60 % des cas. La sensibilité semble meilleure dans les localisations hépatiques.
 
 ### 3. Discussion sur les techniques immuno-sérologiques

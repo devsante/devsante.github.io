@@ -24,6 +24,7 @@ Cliniquement, l'enfant présente un état de choc avec une très grosse rate. C'
 
 Sur le plan hématologique, on observe une baisse du taux d'Hb par rapport aux valeurs usuelles du patient, une augmentation du taux des réticulocytes et souvent aussi un taux élevé d'érythroblastes circulants.
 
+
 ![](i1022-1.jpg)
   
 
@@ -49,6 +50,7 @@ Il semble par ailleurs que l'image de boue biliaire ou "sludgge" soit en faveur 
 
 L'autre complication hépatobiliaire fréquente chez le drépanocytaire africain est **l'hépatite virale**, parfois d'origine transfusionnelle. Il faut évoquer ce diagnostic en cas d'aggravation rapide de l'ictère chez l'enfant drépanocytaire présentant ou non une hyperthermie, des douleurs abdominales, des vomissements, une réduction de l'appétit et une profonde asthénie. Les selles peuvent être acholiques. La prévalence des porteurs de l'hépatite B chez les sujets polytransfusés reste encore élevée dans beaucoup de pays d'Afrique tropicale où la sécurité transfusionnelle est insuffisante. La vaccination contre l'hépatite B devrait être obligatoire dans ces groupes à risque.
 
+
 ![](i1022-2.jpg)
 
 
@@ -59,6 +61,7 @@ A part les épistaxis, il faut rechercher systématiquement chez l'enfant drépa
 L'hypertrophie amygdalienne peut contribuer à l'hypoventilation qui contribuerait à provoquer des fréquentes crises vaso-occlusives chez ces patients.
 
 Les **caries dentaires** sont très fréquentes chez l'enfant drépanocytaire (Image 3) ; dans notre expérience, elles concernent près de 60 % de sujets homozygotes SS, dès l'âge de 3 ans (2). Ces caries témoignent, au-delà d'une mauvaise hygiène bucco-dentaire, d'une fragilité particulière à rattacher probablement à la maladie drépanocytaire. L'éducation à la santé en matière d'hygiène buccale et les mesures préventives des caries dentaires méritent une attention particulière dans le suivi de l'enfant drépanocytaire africain.
+
 
 ![](i1022-3.jpg)
 
@@ -93,10 +96,12 @@ Les infections sont responsables d'une part importante de la mortalité et de la
 
 Les **méningites** et les **septicémies** sont les infections les plus graves avec un pronostic souvent réservé en milieu tropical et souvent accompagnées de séquelles sévères (_Image 4_). Les germes responsables sont surtout le Streptococcus pneumoniae, _l'Haemophilus influenzae et la Samonella sp_.
 
+
 ![](i1022-4.jpg)
 
 
 Les **infections pulmonaires** sont particulièrement sévères et mortelles chez les nourrissons qui, pour la plupart, vont présenter un tableau de pneumonie massive (_Image 5_) avant même que le diagnostic de drépanocytose n'ait été évoqué. Les infections pulmonaires sont fréquentes chez le drépanocytaire africain et le diagnostic différentiel de crise thoracique aiguë n'est pas facile dans la pratique quotidienne; ce qui fait que cette dernière complication n'est que rarement retenue chez les drépanocytaires de moins de 15 ans.
+
 
 ![](i1022-5.jpg)
 

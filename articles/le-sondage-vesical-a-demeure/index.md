@@ -23,15 +23,16 @@ Elle se décompose en plusieurs étapes :
 
 ### 1. Installation
 
-*   Chez l'homme : installé sur le dos, les jambes légèrement écartées.
+*   Chez l'homme : installé sur le dos, les jambes légèrement écartées.  
 *   Chez la femme : pour un meilleur repérape du méat urétral, la patiente doit être installée en position gynécologique, au besoin prévoir une aide et de la lumière.
 
 ### 2. Soins d'hygiène
 
 Après une toilette à l'eau et au savon :
 
-*   Chez l'homme : décalotter et désinfecter avec un antiseptique (chlorexidine, dakin ... ). Laisser le gland entre 2 compresses imbibées d'antiseptique.
+*   Chez l'homme : décalotter et désinfecter avec un antiseptique (chlorexidine, dakin ... ). Laisser le gland entre 2 compresses imbibées d'antiseptique.  
 *   Chez la femme : écarter les petites lèvres, repérer la situation du méat urétral (_figure n° 1_), et désinfecter avec un antiseptique.
+
 
 ![](i876-1.jpg)
 
@@ -49,7 +50,9 @@ Le temps que l'anesthésiant agisse, préparer une table stérile comprenant : d
 Après la toilette antiseptique, placer le champ troué, lubrifier la sonde sur toute sa longueur et l'introduire doucement en tenant la verge au zénith. Pousser la sonde jusqu'à la garde, gonfler le ballonnet et tirer sur la sonde jusqu'à ce qu'elle se bloque sur le col vésical. Cette manoeuvre empêche de gonfler le ballonnet dans l'urètre _(figures n° 2 et 3)._  
 _Ne pas oublier de recalotter le patient (risque de paraphimosis)._  
 
+
 ![](i876-2.jpg)
+
 ![](i876-3.jpg)
 
 
@@ -59,29 +62,32 @@ Le matériel est identique, la seule difficulté est le repérage du méat, qui 
 
 ### **5. Conseils aux patients**
 
-*   Boire au moins 1,5 l par 24 h, la diurèse doit être abondante afin d'éviter l'obstruction de la sonde.
-*   Avoir une hygiène rigoureuse, faire une toilette antiseptique du gland au moins 2 fois par jour.
-*   Vérifier le bon écoulement des urines.
-*   Ne déconnecter la sonde du sac collecteur qu'en cas d'urgence et de manière aseptique.
-*   Respecter les dates de changement de sonde (toutes les 6 semaines).
+*   Boire au moins 1,5 l par 24 h, la diurèse doit être abondante afin d'éviter l'obstruction de la sonde.  
+*   Avoir une hygiène rigoureuse, faire une toilette antiseptique du gland au moins 2 fois par jour.  
+*   Vérifier le bon écoulement des urines.  
+*   Ne déconnecter la sonde du sac collecteur qu'en cas d'urgence et de manière aseptique.  
+*   Respecter les dates de changement de sonde (toutes les 6 semaines).  
 *   Vider régulièrement le sac collecteur à l'aide du robinet de vidange. Il peut rester en place 15 à 20 jours.
 
 Tout patient porteur d'une sonde à demeure voit ses urines infectées au bout de 3 jours si la règle du système clos n'a pas été respectée. Seules les infections urinaires symptomatiques (fièvre, douleurs, frissons, épididymite ... ) doivent être traitées par une antibiothérapie adaptée. Il est donc utile de faire un examen cytobactériologique des urines régulièrement afin de connaître les germes présents dans les urines ainsi que l'antibiogramme correspondant. L'ECBU doit s'effectuer uniquement par le site de prélèvement situé sur le sac collecteur, après désinfection, avec une seringue et une aiguille _(figure n° 4)._ Ne jamais prélever les urines dans la poche de recueil car les urines présentes dans le sac peuvent avoir stagné plusieurs heures, et l'ECBU peut être faux. S'il n'y a pas de site de prélèvement, recueillir les urines directement à la sortie de la sonde, en déconnectant la sonde du sac, de façon aseptique.
+
 
 ![](i876-4.jpg)
 
 
 ## III. Incidents en cours de sondage
 
-*   _La sonde bute._ La lubrification est insuffisante. Dans ce cas, il faut relubrifier la sonde sur toute sa longueur, et refaire une tentative. Si le sondage reste impossible, prévenir le médecin.
-*   Il peut exister une sténose de l'urètre, ou une courbure anatomique plus marquée. Dans ce cas, il faut utiliser une sonde béquillée (type Dufour) ou mettre un cathéter sus-pubien.
+*   _La sonde bute._ La lubrification est insuffisante. Dans ce cas, il faut relubrifier la sonde sur toute sa longueur, et refaire une tentative. Si le sondage reste impossible, prévenir le médecin.  
+*   Il peut exister une sténose de l'urètre, ou une courbure anatomique plus marquée. Dans ce cas, il faut utiliser une sonde béquillée (type Dufour) ou mettre un cathéter sus-pubien.  
 *   _La fausse route._ C'est la perforation de l'urètre par la sonde, elle se traduit par des douleurs, des urétrorragies, des difficultés à gonfler le ballonnet et il n'y a pas de retour d'urine franc (_figure n° 5_). Dans ce cas, il faut prévenir le médecin qui choisira de placer un cathéter sus-pubien, ou une sonde sous contrôle endoscopique.
+
 
 ![](i876-5.jpg)
 
 
 *   _Le ballonnet gonflé_ dans l'urètre. La sonde n'a pas été poussée jusqu'à la garde. C'est une erreur technique qui se traduit par des urétrorraqies, des douleurs, des difficultés à gonfler le ballonnet, il n'y a pas de mouvement de va-et-vient de la sonde, il n'y a pas d'urine (_figure_ _n° 6)._ Dans ce cas, il faut dégonfler le ballonnet, enfoncer la sonde jusqu'à la garde, et regonfler le ballonnet.  
     **Attention aux comateux et paraplégiques qui ne ressentent pas la douleur.**
+
 
 ![](i876-6.jpg)
 
@@ -90,12 +96,12 @@ Tout patient porteur d'une sonde à demeure voit ses urines infectées au bout d
 
 ## IV. Incidents à distance
 
-*   _Peu ou pas d'urine dans la poche de recueil_. Plusieurs cas de figures sont possibles. Soit la sonde est bouchée par des caillots ou des incrustations calcaires, soit la sonde est déplacée, soit le patient n'a pas assez bu.
-*   _La sonde est bouchée._ Le patient se plaint de douleurs pelviennes, et il y a des fuites autour de la sonde. Dans ce cas, il faut faire des lavages de vessie à la seringue et augmenter les boissons. Si la sonde ne peut être débouchée, il faut la remplacer.
-*   _La sonde est déplacée._ La longueur visible de la sonde est anormalement longue, le patient se plaint de douleurs, et il y a aussi des fuites autour de la sonde. Dans ce cas, la sonde doit être changée.
-*   _La sonde_ _arrachée_. Ceci provoque une urétrorragie importante, il faut remettre une sonde en place et la mettre en traction si le saignement persiste. Mise en traction : tirer sur la sonde et nouer une compresse sur la sonde au contact du méat urétral. Cette traction ne doit pas être maintenue plus d'une heure, car il y a risque d'escarre du méat.
+*   _Peu ou pas d'urine dans la poche de recueil_. Plusieurs cas de figures sont possibles. Soit la sonde est bouchée par des caillots ou des incrustations calcaires, soit la sonde est déplacée, soit le patient n'a pas assez bu.  
+*   _La sonde est bouchée._ Le patient se plaint de douleurs pelviennes, et il y a des fuites autour de la sonde. Dans ce cas, il faut faire des lavages de vessie à la seringue et augmenter les boissons. Si la sonde ne peut être débouchée, il faut la remplacer.  
+*   _La sonde est déplacée._ La longueur visible de la sonde est anormalement longue, le patient se plaint de douleurs, et il y a aussi des fuites autour de la sonde. Dans ce cas, la sonde doit être changée.  
+*   _La sonde_ _arrachée_. Ceci provoque une urétrorragie importante, il faut remettre une sonde en place et la mettre en traction si le saignement persiste. Mise en traction : tirer sur la sonde et nouer une compresse sur la sonde au contact du méat urétral. Cette traction ne doit pas être maintenue plus d'une heure, car il y a risque d'escarre du méat.  
 *   _Fuites autour de la sonde_. La sonde est bouchée ou déplacée. Il faut vérifier la perméabilité de la sonde, et la changer si nécessaire.  
-    Il peut s'agir de contractions involontaires de la vessie. Après avoir vérifié la perméabilité de la sonde, le médecin prescrira des antispasmodiques (oxybutynine ..).
+    Il peut s'agir de contractions involontaires de la vessie. Après avoir vérifié la perméabilité de la sonde, le médecin prescrira des antispasmodiques (oxybutynine ..).  
 *   _Hématurie_. Elle peut être due à une inflammation chronique de la vessie (due elle-même à la présence de la sonde), ou à une pathologie (tumeur de vessie, calcul ... ). Dans ce cas, il faut pratiquer des lavages de vessie à la seringue et augmenter les boissons. Si l'hématurie persiste, il faut prévenir le médecin.
 
 Même si les malades porteurs de sonde à demeure sont de plus en plus nombreux, il faut toujours se demander s'il n'existe pas une meilleure solution. L'indication du sondage à demeure peut être remis en question en fonction de l'évolution de la situation d'un patient. Il ne faut donc pas considérer le sondage à demeure comme une fatalité, mais il faut savoir qu'il est toujours préférable à la couche.

@@ -36,6 +36,7 @@ L'étalement doit être aussi mince que possible : la dilution des produits épa
 
 *   Lorsqu'il s'agit d'un liquide (urines, ascite, liquide pleural ... ), on effectue les frottis à partir de culots de centrifugation.
 
+
 ![](i715-1.jpg)
 
 
@@ -86,6 +87,7 @@ On peut utiliser :
 Les préparations chargées en graisses pourront être lavées au xylol avant d'être colorées. Ce traitement doit être précédé et suivi de rinçages à l'alcool.
 
 Quelle que soit la technique de fixation employée, la lame doit être rincée à l'eau distillée, égouttée et séchée avant d'être colorée.
+
 
 ![](i715-2.jpg)
 
@@ -262,6 +264,7 @@ On peut décomposer le temps de décoloration de la manière suivante :
 
 - décolorer le frottis lui-même en laissant couler l'alcool pendant 3 ou 4 secondes et rincer immédiatement,
 
+
 ![](i715-3.jpg)
 
 
@@ -383,7 +386,9 @@ _(figure n°_ 9),
 *   Les bacilles Gram positif, de taille variable : petits, isolés ou regroupés en palissade comme les corynébactéries _(figure n° 11)_ ; ou plus grand : _Bacillus (figure_ _n° 12)_ ou Clostridium aux extrémités plus arrondies, parfois sporulés _(figure_ _n° 13)._
 *   Les cocci Gram négatif pouvant être regroupés en " grain de café " _(Neisseria,_ _figure n° 14)._
 
+
 ![](i715-4.jpg)
+
 
 
 ![](i715-5.jpg)

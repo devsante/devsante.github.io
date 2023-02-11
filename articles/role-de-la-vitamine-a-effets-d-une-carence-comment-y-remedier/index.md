@@ -8,6 +8,7 @@ Le fait de corriger cette carence permet de diminuer de 23 % la mortalité des j
 Au début des années 2000, en Afrique occidentale francophone, cette carence était en partie responsable de 57 000 décès d’enfants de moins de 59 mois."
 ---
 
+
 ![](carte-carence-vitamine-a.jpg)
 
 
@@ -37,6 +38,7 @@ Cela explique pourquoi les signes cliniques de carence n’apparaissent que long
 Certaines périodes de la vie mobilisent davantage la vitamine A : les enfants, tout particulièrement au moment du sevrage et les femmes enceintes et allaitantes sont des populations à plus fort risque de carence en raison d’un accroissement des besoins, difficilement compensés par l’alimentation quotidienne
 
 Certains facteurs influent sur cette carence : sociaux, économiques, culturels, éducatifs et environnementaux. Une mauvaise promotion de l’allaitement maternel pendant les 6 premiers mois avec nécessité impérative de mettre l’enfant au sein avant la première heure de vie, les diarrhées et les parasitoses intestinales entraînent une réduction  de l’absorption de la vitamine A alors qu’en raison des risques infectieux, les besoins sont être accrus et les réserves hépatiques s’effondrent donc plus vite.
+
 
 ![](image004.png)
 
@@ -71,12 +73,13 @@ De façon systématique, il faut également demander à la mère si son enfant a
 
 Il faut également :
 
-*   demander à la mère si, pendant sa grossesse, il lui a été donné une supplémentation en vitamine A.
+*   demander à la mère si, pendant sa grossesse, il lui a été donné une supplémentation en vitamine A.  
 *   faire une enquête alimentaire pour rechercher une insuffisante d’apport. 
 
 Il faut toujours regarder les yeux d’un enfant.
 
 Au stade de début, on recherche la constitution de tache de Bitot : c’est une modification du blanc de l’œil.
+
 
 ![](image006.png)
 
@@ -89,10 +92,12 @@ Puis apparaissent des lésions de la partie foncée de l’œil, c’est-à-dire
 
 <tr>
 
-<td>![](image008.png)
+<td>
+![](image008.png)
 </td>
 
-<td>![](image010.png)
+<td>
+![](image010.png)
 </td>
 
 </tr>
@@ -183,8 +188,9 @@ d’administration</td>
 
 La prévention repose avant tout sur des conseils nutritionnels adaptés : adopter une alimentation riche en vitamine A :
 
-*   Le rétinol est présent à l’état naturel dans les produits laitiers, le foie et les abats.
+*   Le rétinol est présent à l’état naturel dans les produits laitiers, le foie et les abats.  
 *   Les précurseurs de la vitamine A sont retrouvés dans les végétaux : carottes, huile de palme rouge, patate douce à chair orangée, mangue, papaye, feuilles vertes.
+
 
 ![](image011.png)
 

@@ -24,6 +24,7 @@ L'image d'un objet situé à l'infini se projette normalement en un point situé
 
 L'opacification du cristallin entraîne dans un premier temps une myopisation par augmentation de l'indice de réfraction du cristallin : l'image ne se projette plus sur la rétine mais en avant de celle-ci. Ultérieurement, lorsque la cataracte progresse, la cécité devient totale avec toutefois une conservation des perceptions lumineuses.
 
+
 ![](i708-1.jpg)
 
 
@@ -42,6 +43,7 @@ Les autres étiologies sont beaucoup plus rares, mais il faut évoquer leur diag
 - cataractes secondaires à une affection générale souvent endocrinienne : diabète, hyper ou hypoparathyroïdie,
 
 - cataractes iatrogènes : corticothérapie prolongée par voie générale ou en collyres.
+
 
 ![](i708-2.jpg)
 
@@ -127,6 +129,7 @@ Beaucoup plus rarement, une cataracte hypermûre peut se luxer, soit dans la cha
 
 Grâce à un logiciel adapté, on pourra ainsi déterminer la puissance dioptique du cristallin artificiel qui sera implanté au cours de l'opération.
 
+
 ![](i708-3.jpg)
 
 
@@ -139,6 +142,7 @@ La technique la plus ancienne, connue depuis l'antiquité et pratiquée encore j
 Les techniques modernes introduites par Jacques Daviel en 1745 consistent en une extraction du cristallin, rétablissant ainsi la transparence des milieux.
 
 L'oeil privé du cristallin est dit aphake et perd une très grande partie de sa puissance réfractive. L'image d'un objet situé à l'infini se trouvera donc complètement défocalisée. Pour voir net, un aphake devra donc porter des verres correcteurs positifs très puissants, en général + 12 dioptries.
+
 
 ![](i708-4.jpg)
 
@@ -172,6 +176,7 @@ Certes, le sujet n'est plus aveugle mais il reste tout de même un handicapé vi
 Les lentilles de contact souples ou dures, beaucoup plus satisfaisantes d'un point de vue optique, nécessitent un entretien et une hygiène rigoureuse. Leur généralisation est difficilement envisageable en Afrique noire en raison de leur prix et aussi des conditions climatiques qui font qu'elles sont souvent mal supportées.
 
 Depuis le début des années 1980, la correction de l'aphakie par implantation de cristallin artificiel s'est généralisée.
+
 
 ![](i708-5.jpg)
 

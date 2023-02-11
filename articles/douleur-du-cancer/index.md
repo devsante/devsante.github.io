@@ -104,7 +104,7 @@ _5) Infiltration et occlusion des vaisseaux sanguins_
 
 _6) Les douleurs d'origine iatrogène_
 
-*   Les douleurs post-chimiothérapies (mucites, neuropathies périphériques, douleurs zostériennes et post-zostériennes et les complications des corticoïdes).
+*   Les douleurs post-chimiothérapies (mucites, neuropathies périphériques, douleurs zostériennes et post-zostériennes et les complications des corticoïdes).  
 *   Les douleurs post-radiothérapie (myélopathies post-radiques, plexites post-radiques, l'ostéoradionécrose).
 
 *   Les douleurs post-chirurgicales (douleurs post-thoracotomie, douleurs post-mastectomie, douleurs d'amputation).

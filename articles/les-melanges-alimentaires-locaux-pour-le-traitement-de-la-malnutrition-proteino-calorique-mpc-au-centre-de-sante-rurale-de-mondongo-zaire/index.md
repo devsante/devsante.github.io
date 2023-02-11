@@ -62,6 +62,7 @@ Il n'existe pas de plats spéciaux réservés aux enfants qui, récemment sevré
 
 En 1984, un groupe de chercheurs de l'ISEA-Mondongo mit au point une formule de mélange alimentaire pour enfants sevrés. Cinq ans plus tard, nos recherches ont révélé que la population s'était désintéressée de ce mélange qui associait mais, riz, soja : **Mariso.** Le soja, peu disponible et moins accepté, a été la contrainte majeure de sa vulgarisation.
 
+
 ![](i550-1.jpg)
 
 
@@ -93,7 +94,9 @@ D'une manière pratique, on utilise la formule venue du Malawi, d'une recette de
 *   3/8<sup>è</sup> d'aliments glucidiques
 *   3/8<sup>è</sup> d'aliments lipidiques.
 
+
 ![](i550-2.jpg)
+
 ![](i550-3.jpg)
 
 
@@ -131,6 +134,7 @@ Environ 6 g de lysine (contre 4,2 g pour 100 g de protéines de référence de l
 
 100 g de protéines contiennent 5,24 g de lysine et 3,62 g de méthionine. Comparée à la protéine de référence de la FAO, **Mariop** possède une valeur chimique de 124 % de lysine et de 164 % de méthionine.
 
+
 ![](i550-4.jpg)
 
 
@@ -148,7 +152,9 @@ en traitement curatif et préventif de la MPC
 
 Pour le petit enfant, la consistance semi liquide de la bouillie est parfaitement adaptée. Elle doit bouillir au moins quinze minutes.
 
+
 ![](i550-5.jpg)
+
 ![](i550-6.jpg)
 
 

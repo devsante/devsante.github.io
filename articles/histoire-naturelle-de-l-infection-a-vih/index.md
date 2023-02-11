@@ -7,16 +7,16 @@ teaser: "L'infection par le VIH est d'évolution lente et peut produire une trè
 
 ## I. Phase aiguë de primo-infection
 
-*   Elle survient quinze jours à deux mois après la contamination.
-*   Elle est cliniquement apparente seulement dans environ 30 % des cas.
-*   Les manifestations peuvent être variées : fièvre, céphalées, éruption cutanée, myalgie, adénopathies, parfois atteinte neurologique.
-*   Le tableau est peu spécifique et souvent proche d'une infection virale banale. L'évolution est favorable en quelques semaines spontanément. Le plus souvent cette phase passe inaperçue.
+*   Elle survient quinze jours à deux mois après la contamination.  
+*   Elle est cliniquement apparente seulement dans environ 30 % des cas.  
+*   Les manifestations peuvent être variées : fièvre, céphalées, éruption cutanée, myalgie, adénopathies, parfois atteinte neurologique.  
+*   Le tableau est peu spécifique et souvent proche d'une infection virale banale. L'évolution est favorable en quelques semaines spontanément. Le plus souvent cette phase passe inaperçue.  
 *   C'est durant cette période que l'organisme va fabriquer les anticorps spécifiques du VIH qui pourraient être décelés par le test de dépistage de l'infection.
 
 ## II. Phase asymptomatique ou d'infection chronique
 
-*   Elle correspond à une phase où le virus est présent mais n'engendre pas de symptôme.
-*   Le sujet est séropositif (test de dépistage positif).
+*   Elle correspond à une phase où le virus est présent mais n'engendre pas de symptôme.  
+*   Le sujet est séropositif (test de dépistage positif).  
 *   Le virus est présent, en multiplication mais contrôlé par le système immunitaire de l'organisme.
 
 Souvent il existe à ce stade des adénopathies généralisées et persistantes, correspondant à la stimulation des défenses de l'organisme. Leur présence n'est pas un signe de progression de la maladie.
@@ -42,6 +42,7 @@ Une liste de pathologies survenant chez le sujet infecté par le VIH définit le
 
 Il s'agit en général d'infections opportunistes qui se développent à la faveur du déficit immunitaire mais il peut également s'agir de tumeur (Kaposi, lymphome...) ou de pathologies liées au virus du VIH lui-même (atteinte cérébrale et neurologique périphérique, cachexie...).
 
+
 ![](i678-1.jpg)
 
 
@@ -53,10 +54,10 @@ Bien entendu, l'accès aux tests sérologiques VIH aide à poser le diagnostic _
 
 ## V. Temps de progression vers le sida
 
-*   L'histoire de la maladie est variable d'un individu à l'autre.
-*   La durée d'évolution de la maladie peut être étudiée à travers le suivi de cohortes de sujets contaminés.
-*   La difficulté est souvent de connaître la date de la contamination qui est différente de la date de la première sérologie positive.
-*   Peu d'études larges ont pu être menées.
+*   L'histoire de la maladie est variable d'un individu à l'autre.  
+*   La durée d'évolution de la maladie peut être étudiée à travers le suivi de cohortes de sujets contaminés.  
+*   La difficulté est souvent de connaître la date de la contamination qui est différente de la date de la première sérologie positive.  
+*   Peu d'études larges ont pu être menées.  
 *   Cette évolution est également influencée par la prise en charge thérapeutique éventuelle de l'infection. Taux de progression vers le sida (Études européennes, Etats-Unis) :
     *   5 ans après la contamination : 10-29 %,
     *   10 ans après la contamination : 35-55 %,
@@ -80,7 +81,7 @@ Pour les 20 % véritablement infectés, il existe deux types d'évolution vers l
 Heureusement 80 % ne sont pas contaminés par le virus : ils vont négativer leur sérologie vers 12-16 mois.
 
 *   Pour environ 20 % des enfants contaminés, il existe une forme rapidement évolutive avec apparition précoce du sida et un décès survenant le plus souvent à moins de cinq ans.  
-    Les facteurs de risque de cette évolution semblent être essentiellement le fait que la mère présente déjà une immunodépression sévère ou un sida, que la contamination est précoce, et que l'âge de la mère est plus élevé.
+    Les facteurs de risque de cette évolution semblent être essentiellement le fait que la mère présente déjà une immunodépression sévère ou un sida, que la contamination est précoce, et que l'âge de la mère est plus élevé.  
 *   Pour les 80 % des enfants restants, l'évolution se fait de façon lente comme chez l'adulte.
 
 ## VII. Facteurs prédictifs de l'évolution vers le sida
@@ -99,7 +100,7 @@ Il s'agit principalement de :
 
 Quand ils sont disponibles, les paramètres biologiques ont une valeur pronostique importante :
 
-*   _Lymphopénie T CD4+_ est le marqueur le plus habituel de l'importance de l'immunodépression.
+*   _Lymphopénie T CD4+_ est le marqueur le plus habituel de l'importance de l'immunodépression.  
 *   Quand elle est inférieure à 200/mm<sup>3</sup>, le risque de progression vers le sida dans les cohortes nord-américaines ou européennes est de 87 % à trois ans.  
     Cette mesure très utile se heurte en Afrique à un coût _élevé_ et une disponibilité rare. Un reflet indirect peut être le nombre absolu de lymphocytes.
 
@@ -113,10 +114,10 @@ Cela permet de savoir l'importance de la réplication virale mais l'intérêt de
 
 *   _L'âge supérieur à quarante_ ans au moment de la contamination est un facteur péjoratif d'évolution de la maladie quel que soit le mode de contamination.
 
-*   _L'existence d'une primo-infection clinique_ (c'est-à-dire avec manifestations cliniques décelables) est un facteur favorisant une évolution plus rapide vers le sida.
-*   _Le type de virus_ contaminant : il existe des virus plus pathogènes et favorisant une progression plus rapide de la maladie (virus résistant à l'AZT, producteur de Syncitia). Le virus venant d'un sujet au stade sida est potentiellement plus pathogène.
-*   L'état _nutritionnel :_ plusieurs études montrent que le mauvais état nutritionnel (carence vitaminique, en oligo-éléments) aggrave l'infection. Un meilleur état nutritionnel ralentirait l'évolution de la maladie.
-*   _Les autres facteurs sont_ hypothétiques : alcool, tabac, mode de transmission par toxicomanie ou transfusion.
+*   _L'existence d'une primo-infection clinique_ (c'est-à-dire avec manifestations cliniques décelables) est un facteur favorisant une évolution plus rapide vers le sida.  
+*   _Le type de virus_ contaminant : il existe des virus plus pathogènes et favorisant une progression plus rapide de la maladie (virus résistant à l'AZT, producteur de Syncitia). Le virus venant d'un sujet au stade sida est potentiellement plus pathogène.  
+*   L'état _nutritionnel :_ plusieurs études montrent que le mauvais état nutritionnel (carence vitaminique, en oligo-éléments) aggrave l'infection. Un meilleur état nutritionnel ralentirait l'évolution de la maladie.  
+*   _Les autres facteurs sont_ hypothétiques : alcool, tabac, mode de transmission par toxicomanie ou transfusion.  
 *   _De nombreuses études sont en cours sur le rôle des cofacteurs infectieux : cryptocoque, cytomégalouirus, mycoplasme... mais aucune conclusion claire n'a pu être avancée._
 
 ## IX. Conclusion

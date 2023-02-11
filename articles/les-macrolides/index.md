@@ -80,6 +80,7 @@ Les macrolides sont efficaces sur l'agent du trachome et la plupart des germes r
 
 Une gélule par semaine d'azithromycine prévient l'infection (conséquence de l'élimination très lente du produit).
 
+
 ![](i694-1.jpg)
 
 

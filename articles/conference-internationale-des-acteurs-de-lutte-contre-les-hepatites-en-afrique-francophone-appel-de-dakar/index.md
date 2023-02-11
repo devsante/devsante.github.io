@@ -22,15 +22,15 @@ missibles.
 
 **Appelons les Chefs d’Etat africains**, garants de la santé de leurs populations :
 
-*   A accorder une attention toute particulière aux hépatites virales qui tuent l’adulte productif et sont un frein au développement de nos pays.
-*   A mobiliser les ressources financières nécessaires pour la vaccination contre l’Hépatite B à la naissance de tous les nouveau-nés, et à subventionner fortement les diagnostics et traitements des malades atteints d’hépatites chroniques B et C.
-*   A court terme, à mettre en place des dispositifs communs pour garantir un approvisionnement régulier et suffisant en vaccins, réactifs et médicaments antiviraux de qualité.
+*   A accorder une attention toute particulière aux hépatites virales qui tuent l’adulte productif et sont un frein au développement de nos pays.  
+*   A mobiliser les ressources financières nécessaires pour la vaccination contre l’Hépatite B à la naissance de tous les nouveau-nés, et à subventionner fortement les diagnostics et traitements des malades atteints d’hépatites chroniques B et C.  
+*   A court terme, à mettre en place des dispositifs communs pour garantir un approvisionnement régulier et suffisant en vaccins, réactifs et médicaments antiviraux de qualité.  
 *   A moyen terme, à mutualiser les ressources pour une production endogène de vaccins anti-hépatite et d’antiviraux.
 
 **Appelons l’OMS** :
 
-*   A demander aux Etats membres, de manière claire et sans équivoque, la vaccination universelle complète débutant dès la naissance des nouveau-nés en Afrique.
-*   A fournir le soutien nécessaire à la mise en place et au développement des programmes de lutte contre les hépatites en Afrique.
+*   A demander aux Etats membres, de manière claire et sans équivoque, la vaccination universelle complète débutant dès la naissance des nouveau-nés en Afrique.  
+*   A fournir le soutien nécessaire à la mise en place et au développement des programmes de lutte contre les hépatites en Afrique.  
 *   A inviter les organisations et initiatives internationales, les institutions financières et les autres partenaires à apporter leur soutien et attribuer des ressources aux programmes de prévention et de lutte contre les hépatites dans la région africaine.
 
 **Appelons les laboratoires pharmaceutiques** à réduire les coûts des médicaments et à faciliter l’accès aux moyens de dépistage et de diagnostic pour une prise en charge efficiente des malades atteints d’hépatites chroniques B et C.

@@ -220,6 +220,7 @@ Le choléra restera longtemps encore une grave menace pour les pays en voie de d
 
 vu dans les deux pays que je viens de citer, augmenter le niveau de vie des populations, leur offrir une éducation solide en matière d'hygiène. L'utilisation de l'eau de Javel pour rendre l'eau potable, le lavage des mains avant de manger, la lutte contre le péril fécal par la construction et l'utilisation des latrines constituent des mesures qui devront retenir toute notre attention.
 
+
 ![](i647-1.jpg)
 
 

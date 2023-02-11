@@ -25,6 +25,7 @@ L'immuno-dépression par VIH diminue la capacité du sujet à contenir l'infecti
 
 **Risque de développer une TB selon le statut sérologique VIH**
 
+
 ![](12060-1.jpg)
 
 
@@ -183,7 +184,7 @@ C'est la protection d'un sujet non malade mais récemment exposé à la contagio
 La prophylaxie par INH réduit le risque de tuberculose maladie et la mortalité.  
 La décision sera prise suite à un examen clinique, radiologique et une IDR.
 
-*   S'il existe des signes cliniques ou radiologiques il faut envisager une TB active donc assurer sa décision par plusieurs investigations ,biolo giques (bacilloscopie, cytologie).
+*   S'il existe des signes cliniques ou radiologiques il faut envisager une TB active donc assurer sa décision par plusieurs investigations ,biolo giques (bacilloscopie, cytologie).  
 *   S'il n'existe pas de signe clinique et/ou radiologique :
     *   soit l'IDRT est positive (> 5 mm) la personne doit bénéficier d'une prophylaxie par INH 6 mois ;
     *   soit l'IDRT est négative (si le taux de CD4 est > 200/mm®) il faut envisager un traitement préventif de la TB.
@@ -199,6 +200,7 @@ Il est plus sûr de ne pas le pratiquer chez l'adulte. Il ne doit pas être admi
 
 ### 1. Situation actuelle
 
+
 ![](12060-2.jpg)
 
 
@@ -206,8 +208,8 @@ Il est plus sûr de ne pas le pratiquer chez l'adulte. Il ne doit pas être admi
 
 #### _1. Réduire la morbidité tuberculeuse chez les personnes vivant avec le VIH/SIDA :_
 
-*   Intensifier le dépistage des cas de tuberculose.
-*   Mettre en place le traitement préventif à l'isoniazide.
+*   Intensifier le dépistage des cas de tuberculose.  
+*   Mettre en place le traitement préventif à l'isoniazide.  
 *   Maîtriser l'infection tuberculeuse dans les services de santé et les établissements collectifs.
 
 #### 2. _Réduire la morbidité due à l'infection à VIH chez les malades tuberculeux :_
@@ -217,24 +219,24 @@ Il est plus sûr de ne pas le pratiquer chez l'adulte. Il ne doit pas être admi
 ### 2. Principes de la lutte
 
 *   Deux maladies, "un patient" :
-    *   soins axés sur le patient, contre les deux maladies à la fois.
+    *   soins axés sur le patient, contre les deux maladies à la fois.  
 *   Être réalistes :
     *   arrêter avec les "projets",
     *   généraliser immédiatement ce qui fonctionne,
-*   Appliquer des méthodes de prévention du VIH.
-*   Mettre en place le traitement préventif au cotrimoxazole.
-*   Dispenser des soins et assurer un accompagnement aux personnes touchées par le VIH/SIDA.
+*   Appliquer des méthodes de prévention du VIH.  
+*   Mettre en place le traitement préventif au cotrimoxazole.  
+*   Dispenser des soins et assurer un accompagnement aux personnes touchées par le VIH/SIDA.  
 *   Mettre en place le traitement ARV.
 
 ### 3. Mettre en place les mécanismes de collaboration :
 
-*   Créer un organe de coordination des activités TB/VIH à tous les niveaux.
-*   Surveiller la prévalence du VIH parmi les patients tuberculeux.
-*   Planifier conjointement les activités anti TB et anti-VIH.
-*   Assurer le suivi et l'évaluation.
-    *   réexaminer les interventions au fur et à mesure.
+*   Créer un organe de coordination des activités TB/VIH à tous les niveaux.  
+*   Surveiller la prévalence du VIH parmi les patients tuberculeux.  
+*   Planifier conjointement les activités anti TB et anti-VIH.  
+*   Assurer le suivi et l'évaluation.  
+    *   réexaminer les interventions au fur et à mesure.  
 *   Pas de programme séparé :
-    *   les activités conjointes s'ajoutent aux stratégies existantes de lutte contre la tuberculose et contre le VIH/SIDA.
+    *   les activités conjointes s'ajoutent aux stratégies existantes de lutte contre la tuberculose et contre le VIH/SIDA.  
 *   La politique doit être mondiale.
 
 <table>

@@ -23,7 +23,7 @@ Le malade doit pouvoir aussi être traité pour ces autres maladies mais le palu
 ### 1. Chercher les signes de danger consiste à :
 
 1.  demander si le malade peut manger et boire (ou téter), vomit tout ce qu'il consomme, a des convulsions, a pris des médicaments ?
-2.  observer si le malade est inconscient ou léthargique (prostration chez adulte).
+2.  observer si le malade est inconscient ou léthargique (prostration chez adulte).  
 3.  questionner pour savoir
 
 *   si le risque de paludisme est élevé (rési­dence actuelle et dans les semaines précé­dentes)

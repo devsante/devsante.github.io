@@ -12,7 +12,7 @@ On **meurt** plus vite de **soif** que de faim, 10 fois plus vite dans des expé
 
 L'eau est le principal constituant de l'homme: un adulte de 70 kg contient en moyenne 42 kg d'eau, soit **60 % du poids du corps**. Un embryon de quelques jours contient 97 % d'eau.
 
-*   **Quatre-vingts pour cent de toutes les maladies du globe** sont associées à l'eau.
+*   **Quatre-vingts pour cent de toutes les maladies du globe** sont associées à l'eau.  
 *   **Soixante quinze pour cent de la surface du globe** est recouverte d'eau.
 
 L'eau est le "**solvant biologique universel**": aucun autre liquide ne dissout un aussi grand nombre de corps [On appelle solvant le milieu de dispersion d'un ou plusieurs corps dissous (solutés), l'ensemble formant une solution].
@@ -25,7 +25,7 @@ L'eau résiste mieux que tout autre corps connu aux variations de température. 
 
 Ce pourcentage varie suivant l'individu avec :
 
-*   **l'âge** : il est plus élevé chez l'enfant et atteint 75% du poids chez le nourrisson.
+*   **l'âge** : il est plus élevé chez l'enfant et atteint 75% du poids chez le nourrisson.  
 *   **l'adiposité** : il est plus élevé chez un sujet maigre car la graisse est pauvre en eau.
 
 Mais chez un même individu ce pourcentage est stable et doit rester stable. La perte excessive d'eau est fréquente et grave, c'est la déshydratation.
@@ -64,8 +64,9 @@ De même que nous avons divisé l'organisme en appareils, organes, etc... on peu
 
 *   L'eau du **compartiment cellulaire** est facilement imaginable, c'est l'eau constitutive de chacune de nos cellules. Vu le nombre de celles-ci, il n'est pas étonnant que cette eau intra-cellulaire représente à elle seule près de la moitié du poids du corps : **40 %.**
 *   L'eau du **compartiment extra-cellulaire** forme le reste : **20 %** du poids du corps. Ce compartiment est plus difficile à imaginer et plus disparate :
-    *   Il comprend l'eau du **plasma**. En effet, le sang est composé de cellules et de liquide. Les cellules sont les globules rouges, les globules blancs et les plaquettes. Le liquide, est le plasma constitué de 80 % d'eau. Cette eau plasmatique représente **5%** du poids du corps.
+    *   Il comprend l'eau du **plasma**. En effet, le sang est composé de cellules et de liquide. Les cellules sont les globules rouges, les globules blancs et les plaquettes. Le liquide, est le plasma constitué de 80 % d'eau. Cette eau plasmatique représente **5%** du poids du corps.  
     *   Il comprend aussi l'eau qui existe entre les cellules, nos cellules ne sont pas cimentées les unes aux autres, il existe de petits espaces entre chacune d'elles. Cette eau inter-cellulaire ou **interstitielle** représente **15 %** du poids du corps.
+
 
 ![](i1006-1.jpg)
 
@@ -90,6 +91,7 @@ On constate alors, au bout de quelques temps, que le niveau de la solution dans 
 
 *   L'eau pure a traversé la membrane qui la séparait de la solution : c'est le phénomène d'osmose. Il se surajoute un phénomène de diffusion ou dialyse du sulfate de cuivre (flèche blanche sur le schéma).
 
+
 ![](i1006-2.jpg)
 
 
@@ -99,7 +101,7 @@ Cette force est appelée la pression osmotique de la solution.
 
 **Autrement dit, si de part et d'autre de la membrane on place deux solutions de concentrations différentes, l'eau traverse la membrane en allant de la solution la moins concentrée vers la solution la plus concentrée.**
 
-*   La solution la plus concentrée est dite **hypertonique** par rapport à la solution la moins concentrée qui, elle, est **hypotonique**. Les solutions de même concentration ont la même pression osmotique : elles sont **isotoniques**.
+*   La solution la plus concentrée est dite **hypertonique** par rapport à la solution la moins concentrée qui, elle, est **hypotonique**. Les solutions de même concentration ont la même pression osmotique : elles sont **isotoniques**.  
 *   Cette expérience peut être refaite en utilisant d'autres solutions qu'une solution de sulfate de cuivre.
 
 **Dans l'organisme, c'est le chlorure de sodium (le sel) qui a une influence prépondérante sur cette pression. C'est ce qui explique que les mouvements de l'eau et ceux du sel soient intimement liés.**

@@ -78,7 +78,7 @@ Métaux lourds, monoxyde de carbone
 
 ### 1.Deux types d'intoxications
 
-*   L'intoxication aiguë résulte de la toxicité immédiate et de la quantité de produit dans l'organisme.
+*   L'intoxication aiguë résulte de la toxicité immédiate et de la quantité de produit dans l'organisme.  
 *   L'intoxication chronique est consécutive à l'expo­sition répétée ou prolongée à un toxique. Les manifestations cliniques sont dues à l'accumula­tion du produit dans l'organisme ou au contact répété.
 
 ### 2. Les voies de pénétration dans l'organisme
@@ -137,13 +137,13 @@ Certains signes sont évocateurs :
 
 *   digestifs : eau de Javel, soude, produits de lessive ;
 *   neurologiques : insecticides, organophosphorés, alcool, tranquillisants ;
-*   pulmonaires : pétrole, essence, etc.
+*   pulmonaires : pétrole, essence, etc.  
 *   sanguins : hémorragie avec les anticoagulants et certains raticides.
 
 #### d) Les examens complémentaires
 
-*   Bilan standard : NFS, ionogramme...
-*   Recherche du toxique dans les urines, le sang et, le cas échéant, le liquide de lavage gastrique.
+*   Bilan standard : NFS, ionogramme...  
+*   Recherche du toxique dans les urines, le sang et, le cas échéant, le liquide de lavage gastrique.  
 *   Examens à valeur d'orientation : glycémie, gaz du sang, transaminases, méthémoglobinémie, anomalies ECG...
 
 **2. Apprécier la gravité**

@@ -4,6 +4,7 @@ author: "Joëlle Nicolas Service de Pédiatrie III, Hôpital Arnaud de Villeneuv
 date: "2004-10-05"
 ---
 
+
 ![](i1063-1.jpg)
 
 
@@ -16,6 +17,7 @@ Tous les rapports des dernières années montrent que l'impact de l'épidémie d
 ### 1. L'enfant et sa mère sont particulièrement vulnérables et paient un tribut très important à la maladie (3)
 
 Le tableau ci-dessous montre clairement l'ampleur des conséquences de l'épidémie dans la population d'Afrique Subsaharienne. La mortalité des enfants est liée étroitement à l'état de santé de ses parents, en particulier de sa mère. Celle-ci est aussi très vulnérable pour toutes sortes de raisons : prévalence du VIH chez les femmes africaines plus élevée (57 %) que chez les hommes ; âge plus jeune (76 % des jeunes de 15 à 25 ans infectés sont des femmes) ; transmission de l'homme vers la femme plus facile que l'inverse ; évolution de la maladie plus rapide. Dans bien des pays, le statut des femmes ne leur permet pas de proposer à leur partenaire une protection et elles ne peuvent pas en disposer pour elles-mêmes. Et partout, transmettre la maladie à leur propre enfant en lui donnant la vie et ne pas pouvoir le nourrir au sein est un vécu très culpabilisant, d'autant plus qu'elles sont dès le diagnostic connu, encore souvent rejetées, exclues de leur communauté(4).
+
 
 ![](i1063-2.jpg)
 

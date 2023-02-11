@@ -19,6 +19,7 @@ En réalité, les frontières nationales séparent souvent des groupes ethniques
 
 Dans la moitié des pays disposant de données, la majorité des filles subissent ces mutilations génitales avant l’âge de 5 ans. En Égypte, en République centrafricaine, en Somalie et au Tchad, au moins 80 % des filles sont excisées entre 5 et 14 ans, parfois dans le cadre de rites marquant le passage à l’âge adulte. La plupart des mères dont les filles ont subi des MGF/E indiquent que l’intervention a consisté à couper et retirer des morceaux de chair autour des organes génitaux. À Djibouti, en Érythrée, au Niger, au Sénégal et en Somalie, parmi les filles qui ont subi des MGF/E, plus d’une fille sur cinq a subi la forme la plus radicale de ces pratiques, l’infibulation, qui comprend l’ablation et la suture des parties génitales. Les MGF/E sont habituellement effectuées par des praticien(ne)s traditionnel(le)s et sont pratiquées à la maison à l’aide d’une lame ou d’un rasoir. Toutefois, en Égypte, au Kenya et au Soudan, une proportion importante de prestataires de santé réalise ces interventions. En Égypte, ce sont les médecins, par opposition à d’autres membres du personnel soignant, qui pratiquent la majorité des MGF/E. 
 
+
 ![](unicef-carte.jpg)
 
 

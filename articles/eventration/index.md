@@ -10,7 +10,7 @@ Ceci élimine du sujet les hernies, qui apparaissent au niveau des points de fai
 
 Le terme d'éventration recouvre en fait deux affections différentes :
 
-*   Les éventrations **spontanées,** qui sont en réalité un diastasis (écartement) anormal des muscles grands droits de l'abdomen, et que l'on rencontre surtout chez les femmes multipares.
+*   Les éventrations **spontanées,** qui sont en réalité un diastasis (écartement) anormal des muscles grands droits de l'abdomen, et que l'on rencontre surtout chez les femmes multipares.  
 *   Les éventrations **postopératoires** "incisionnal hemia " des anglophones ou **cicatricielles,** consécutives soit à une plaie de l'abdomen, plus souvent, à une laparotomie.
 
 ## **Anatomie pathologique**
@@ -19,12 +19,15 @@ Le terme d'éventration recouvre en fait deux affections différentes :
 
 Le _schéma n°_ 1 rappelle les différents plans qui constituent la paroi abdominale. Le plan musculaire, formé par les muscles grands droits, grands obliques, petits obliques et transverses, et leurs aponévroses, en sont les éléments les plus solides. La ligne blanche est un raphé tendineux très résistant situé sur la ligne médiane xypho-pubienne, entre les muscles grands droits. Elle est aussi le siège de la plupart des éventrations postopératoires.
 
+
 ![](i434-1.jpg)
 
 
 Anatomiquement une éventration est formée par (_schémas n° 2 et 3) :_
 
+
 ![](i434-2.jpg)
+
 
 
 ![](i434-3.jpg)
@@ -104,8 +107,8 @@ Les complications cutanées, ulcérations et surinfections, sont provoquées par
 
 **Terrain :**
 
-*   Age, poids, tares associées, en particulier insuffisance respiratoire, qui va nécessiter une kinésithérapie pré-opératoire (apprendre à respirer, à tousser et cracher, arrêt du tabac) ou un amaigrissement chez l'obèse.
-*   État de la peau qui peut aussi nécessiter un traitement: assèchement des lésions suintantes et surinfectées (éosine aqueuse, bétadine diluée, mitosyl), traitement d'une mycose des plis.
+*   Age, poids, tares associées, en particulier insuffisance respiratoire, qui va nécessiter une kinésithérapie pré-opératoire (apprendre à respirer, à tousser et cracher, arrêt du tabac) ou un amaigrissement chez l'obèse.  
+*   État de la peau qui peut aussi nécessiter un traitement: assèchement des lésions suintantes et surinfectées (éosine aqueuse, bétadine diluée, mitosyl), traitement d'une mycose des plis.  
 *   Bilan des troubles du transit (parasitoses, radiographies par lavement baryté pour dépister une tumeur).
 
 **b. Méthodes**
@@ -126,6 +129,7 @@ Elles peuvent être traitées par une intervention chirurgicale simple qui compr
 
 - réparation pariétale minutieuse plan par plan au fil à résorption lente (vicryl), ou non résorbable.
 
+
 ![](i434-4.jpg)
 
 
@@ -142,6 +146,7 @@ Les berges musculo-aponévrotiques sont parfaitement repérées et disséquées 
 Si les plans musculo-aponévrotiques paraissent trop faibles ou s'ils ne peuvent être rapprochés sans tension, il faut utiliser une prothèse de tissu synthétique (mersilène). Ce mince filet de dacron, très résistant et très bien toléré, est placé entre le plan péritonéal et le plan aponévrotique. Ces "plaques" de mersilène (ou autre) ne doivent être utilisées que lorsque toutes les conditions d'asepsie sont réunies (pas d'abcès de paroi). Leur utilisation nécessite une bonne expérience de cette chirurgie (_figure_ _5)._
 
 L'intervention se termine le plus souvent par un drainage aspiratif (drain de Redon).
+
 
 ![](i434-5.jpg)
 

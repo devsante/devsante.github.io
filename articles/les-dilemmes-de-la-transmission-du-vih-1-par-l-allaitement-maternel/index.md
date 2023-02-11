@@ -35,10 +35,12 @@ Dans les pays industrialisés, la mortalité attribuable à l'allaitement artifi
 
 La transmission du VIH par l'allaitement maternel pose donc de véritables dilemmes à la fois pour les interventions de santé publique et la recherche. En raison du risque de transmission du virus par l'allaitement maternel, les mères infectées par le VIH pourraient constituer une exception au principe de promotion universelle de l'allaitement maternel. Mais priver tous les nourrissons des bénéfices de ce type d'allaitement, pour n'en protéger que 15 % d'une contamination par le VIH- 1, pose un réel problème. Plusieurs interventions sont potentiellement envisageables afin de réduire ou de prévenir la transmission du VIH-1 par l'allaitement maternel. Certaines ont déjà été évaluées, mais la plupart doivent encore être validées _(voir tableau)._
 
+
 ![](i805-1.jpg)
 
 
 Un guide rédigé par les agences des Nations Unies à l'intention des agents de santé et des superviseurs apporte toutes les informations techniques nécessaires pour un allaitement (maternel ou artificiel) pratiqué dans des conditions optimales (WHO/UNICEF/UNAIDS. HIV and Infant Feeding : guidelines for health care workers. 1998: WHO/FRH/NUT/CHD/98.1) _(voir encadré)._
+
 
 ![](i805-2.jpg)
 
@@ -51,7 +53,7 @@ Le seul moyen de supprimer le risque de transmission du VIH-1 par l'allaitement 
 
 #### Cette méthode expose à plusieurs problèmes :
 
-*   L'excès de morbidité et de mortalité observé chez les enfants allaités artificiellement reflète à la fois la perte de la protection immunitaire conférée par l'allaitement maternel vis-à-vis des infections, mais aussi l'exposition du jeune enfant à des germes contaminant les préparations de lait artificiel. Ce dernier risque est particulièrement élevé quand les conditions d'hygiène sont médiocres.
+*   L'excès de morbidité et de mortalité observé chez les enfants allaités artificiellement reflète à la fois la perte de la protection immunitaire conférée par l'allaitement maternel vis-à-vis des infections, mais aussi l'exposition du jeune enfant à des germes contaminant les préparations de lait artificiel. Ce dernier risque est particulièrement élevé quand les conditions d'hygiène sont médiocres.  
 *   Par ailleurs, aucun lait artificiel disponible dans le commerce n'a une composition équivalente à celle du lait maternel (concentration en micronutriments, certains métaux, acides aminés essentiels, immunoglobulines, etc.) ce qui nécessite idéalement au moins un complément en micronutriments chez l'enfant allaité artificiellement.
 
 *   Les aspects économiques de l'allaitement artificiel sont loin d'être négligeables et dans plusieurs régions d'Afrique, l'achat dans le commerce de lait en poudre maternisé pour un mois d'allaitement artificiel représente plus que le salaire moyen mensuel ! Il est clair que, sans l'accès à du lait maternisé sous forme générique et subventionné, le recours aux substituts de lait maternel restera très limité.

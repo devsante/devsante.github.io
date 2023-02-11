@@ -12,12 +12,14 @@ Dans la présentation des aspects virologiques et immunologiques du VIH, nous ex
 
 Le VIH est un rétrovirus enveloppé, de 80 à 120 nm de diamètre, se présentant sous une forme sphérique (_figure 1_). L'enveloppe est faite d'une couche lipidique de laquelle sortent des boutons qui permettent la liaison au récepteur CD4 présent dans le lymphocyte auxiliaire ou " _helper_ ". Chaque bouton est composé d'une partie extramembranaire (gp120) et d'une partie transmembranaire (gp41). La protéine majeure est la p24 qui emballe l'ARN du virus et la transcriptase réverse (TR). Dans la _figure 1,_ la structure est simplifiée mais présente les composants les plus importants.
 
+
 ![](i668-1.jpg)
 
 
 ## **II. La réplication du VIH**
 
 La connaissance des séquences de la réplication virale _(figure 2)_ est indispensable pour comprendre la physiopathologie et les méthodes de diagnostic des infections à VIH. Les boutons à la surface du virus interagissent avec une très forte affinité avec les glycoprotéines CD4 (T4) qui se trouvent à la surface des lymphocytes auxiliaires ou _(" helper "_) T4, des monocytes et des macrophages _(figure 2, étape 1_). Cette interaction résulte en une fusion de l'enveloppe du virus avec la membrane du lymphocyte et l'éjection du centre du virus (le core) dans le cytoplasme de la cellule hôte _(figure 2, étape 2)._ L'ARN du virus est alors copié en ADN intermédiaire grâce à la transcriptase réverse _(figure 2, étape 3)._ Puis cet ADN migre vers le noyau et s'intègre sous forme de " provirus ", dans le génome cellulaire _(figure 2, étape 4)._ Une fois intégré, il peut rester latent sans donner signe de sa présence pendant des mois ou des années. Quel que soit le facteur qui provoque l'activation virale à un moment donné, il peut s'agir d'une infection par différents virus ou bactéries ou d'une réinfection par le virus VIH lui-même, l'ADN proviral est transcrit en ARN et donne naissance aux ARN messagers à partir desquels les différentes protéines virales sont synthétisées _(figure 2, étape 5)._ Les protéines de l'enveloppe virale migrent vers la membrane cytoplasmique _(figure 2, étape 6)._ Après bourgeonnement, les particules complètes sont libérées et vont alors infecter d'autres cellules cibles accélérant ainsi la dissémination _(figure 2, étape 7)._
+
 
 ![](i668-2.jpg)
 
@@ -60,6 +62,7 @@ _Du point de vue clinique, cette phase aiguë est souvent non symptomatique, ou 
 
 Comme l'action de l'interféron alpha et béta et des cellules NK ne suffit pas à arrêter l'infection VIH, le système immunitaire spécifique (les anticorps et les cellules T8) essaie de maîtriser le virus.
 
+
 ![](i668-3.jpg)
 
 
@@ -78,6 +81,7 @@ Pendant cette phase de la maladie, un équilibre fragile s'installe entre les m�
 L'interaction entre monocytes/CPA et lymphocytes T4 (tous deux cibles du VIH) devient de plus en plus déficiente.
 
 Sous la pression des anticorps neutralisants et VIH est obligé de raffinées de survie. est probablement la continuellement ses gènes.
+
 
 ![](i668-4.jpg)
 

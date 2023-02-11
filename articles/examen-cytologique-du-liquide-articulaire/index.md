@@ -28,6 +28,7 @@ Sa viscosité est en rapport avec la teneur du liquide en acide hyaluronique. El
 
 La formation d'un caillot est le propre des liquides pathologiques. En effet, le liquide synovial normal est dépourvu de fibrinogène et ne coagule donc pas. En revanche, tout liquide pathologique, surtout s'il est inflammatoire, contient de la fibrine et forme un caillot dont les mailles enserrent les éléments cellulaires. Il est donc essentiel d'éviter la coagulation du liquide par l'emploi d'anticoagulants.
 
+
 ![](i849-1.jpg)
 
 
@@ -49,6 +50,7 @@ On peut compléter cet examen par une numération cellulaire à la cellule de Ma
 
 Si l'examen immédiat est impossible il peut être différé - jusqu'à 24 heures, à condition de conserver le liquide à 4 °C ou, mieux encore, au congélateur à - 20 °C. Il est également possible de faire des étalements séchés à l'air ou des cytocentrifugations. Les cristaux persistent sur les lames qui peuvent être examinées secondairement soit directement, à l'état sec, en lumière polarisée, soit après coloration par le May Grünwald Giemsa (MGG).
 
+
 ![](i849-2.jpg)
 
 
@@ -60,12 +62,14 @@ L'examen à l'état frais est utilement complété par la coloration par le MGG 
 
 L'examen cytologique du liquide articulaire est un élément utile aux cliniciens pour orienter le diagnostic vers l'une ou l'autre des nombreuses affections articulaires dont le patient peut souffrir. Pour les arthropathies métaboliques ou microcristallines, cet examen constitue l'élément-clé du diagnostic (_tableau n° 3)._
 
+
 ![](i849-3.jpg)
 
 
 **1. Arthrites infectieuses**
 
 L'examen cytologique montre une très grande richesse cellulaire avec une forte proportion de polynucléaires, souvent altérés. Si l'infection est torpide ou décapitée par les antibiotiques, les polynucléaires sont moins nombreux et la preuve de l'infection repose sur l'examen bactériologique du liquide ou l'examen histologique d'une biopsie de synoviale. Si la cytologie est riche en polynucléaire éosinophiles, il est indispensable de rechercher la présence de microfilaires _(figure n° 1)._
+
 
 ![](i849-4.jpg)
 

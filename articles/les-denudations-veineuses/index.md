@@ -87,7 +87,9 @@ Elle est simple. On choisit le lieu de la dénudation avec soin.
 
 **3.** Incision de la peau au bistouri,
 
+
 ![](i964-1.jpg)
+
 
 
 ![](i964-2.jpg)
@@ -129,6 +131,7 @@ _(schéma n°_ _3)_
 
 La veine saphène interne au niveau de la cheville, passe en avant de la malléole interne, c'est-à-dire à un travers de doigt environ devant la saillie osseuse palpable à la face interne de la cheville. L'incision sera horizontale en avant de la malléole, la veine est très superficielle, de bon calibre, facilement accessible.
 
+
 ![](i964-3.jpg)
 
 
@@ -159,6 +162,7 @@ Pour repérer sa position, il faut sentir les battements de l'artère fémorale 
 La veine est découverte sous la graisse, au milieu de l'incision, parfois assez profonde chez l'obèse, mais en tout cas, on ne trouvera jamais de plan solide pour la découvrir. S'arrêter si on a l'impression d'avoir traversé une aponévrose.
 
 La veine reçoit des branches à ce niveau, c'est un bon signe distinctif avec la veine fémorale. Les noeuds seront particulièrement bien faits car le débit sanguin est important à ce niveau. Les règles d'aseptie seront strictes car le cathéter monte dans la veine fémorale puis la veine cave. Cette voie d'abord doit être réservée à un opérateur entraîné.
+
 
 ![](i964-4.jpg)
 

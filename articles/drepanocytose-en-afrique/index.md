@@ -155,6 +155,7 @@ C'est le cas de Régis, drépanocytaire SS référé, à l'âge de neuf mois. La
 
 La mère est revenue demander la prise en charge de son enfant que nous avons naturellement accepté de suivre. Après neuf mois de suivi régulier, une très nette amélioration de l'état général a été observée, avec un gain pondéral de 2 600 g et une croissance en taille de 16 cm.
 
+
 ![](i719-1.jpg)
 
 

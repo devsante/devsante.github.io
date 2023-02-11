@@ -67,7 +67,7 @@ Parfois les parents s'aperçoivent que la poussée d'eczéma est contemporaine d
     *   bien laver l'enfant avec de préférence un savon dit surgras et le sécher,
     *   couper et nettoyer les ongles à cause du prurit,
     *   désinfecter avec un colorant : éosine acqueuse, violet de gentiane, bleu de méthylène, etc., ou un antiseptique non colorant (Héxomédine® transcutanée),
-    *   éviter tout contact avec une personne atteinte d'herpès, afin d'éviter la très redoutable surinfection du syndrome de Kaposi Juliusberg.
+    *   éviter tout contact avec une personne atteinte d'herpès, afin d'éviter la très redoutable surinfection du syndrome de Kaposi Juliusberg.  
 *   Utiliser des pommades, crèmes et onguents :
 
 Il nous parait essentiel de faire la différence entre les dermocorticoïdes d'une part, et les crèmes hydratantes, cicatrisantes, protectrices, etc., d'autre part.
@@ -86,6 +86,7 @@ C'est pourquoi il faut expliquer aux parents qu'ils ne doivent les utiliser que 
 *   deux fois par jour et dès que cela s'améliore, ne pas arrêter brusquement, mais appliquer le produit une fois par jour pendant quelques jours ; ou alors utiliser en relais un dermocorticoïde moins fort (classe III ou IV).
 
 En cas d'eczéma localisé, ils peuvent aussi pratiquer un pansement occlusif avec une compresse recouvrante pendant la nuit : cela permet de réduire la dose de dermocorticoïdes.
+
 
 ![](i770-1.jpg)
 

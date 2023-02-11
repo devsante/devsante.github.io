@@ -148,11 +148,11 @@ C'est une complication aigue et grave associant de façon variable : douleur tho
 
 Le traitement comporte :
 
-*   Antibiothérapie : Cefotaxime ou Ceftriaxone IV +macrolides (Erythromycine).
-*   Transfusion : 2 à 3 ml/kg/heure.
-*   Antalgiques.
-*   Oxygénothérapie par voie nasale.
-*   Hydratation en limitant les volumes à 1,5 à 2 litres/m2/24 heures.
+*   Antibiothérapie : Cefotaxime ou Ceftriaxone IV +macrolides (Erythromycine).  
+*   Transfusion : 2 à 3 ml/kg/heure.  
+*   Antalgiques.  
+*   Oxygénothérapie par voie nasale.  
+*   Hydratation en limitant les volumes à 1,5 à 2 litres/m2/24 heures.  
 *   S'il existe des sibilants à l'auscultation témoins d'un bronchospasme (antécédents d'asthme ?) présents dans 1/4 des cas, il faut ajouter des broncho-dilatateurs (Type Ventoline).
 
 ### 3. Infections ostéo-articulaires
@@ -160,7 +160,7 @@ Le traitement comporte :
 Les manifestations ostéoarticulaires sont fréquentes dans la drépanocytose et relèvent de 3 mécanismes :
 
 *   **Hyperplasie médullaire** : dans toute anémie hémolytique chronique, il existe une prolifération des cellules souches des globules rouges dans la moelle osseuse : cette prolifération entraîne des déformations osseuses et des douleurs
-*   **Crises vaso-occlusives** : le petit calibre des vaisseaux osseux explique la fréquence de leurs occlusions : syndrome pied-main chez le nourrisson, infarctus diaphysaires chez le plus grand, enfin ostéonécrose de la tête fémorale chez l'adulte.
+*   **Crises vaso-occlusives** : le petit calibre des vaisseaux osseux explique la fréquence de leurs occlusions : syndrome pied-main chez le nourrisson, infarctus diaphysaires chez le plus grand, enfin ostéonécrose de la tête fémorale chez l'adulte.  
 *   **Infection hématogène** (ostéomyélite et arthrite).
 
 Les bactériémies sont fréquentes dans la drépanocytose : on comprend que la bactérie soit souvent "piégée" dans les vaisseaux osseux parfois obstrués.

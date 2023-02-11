@@ -15,8 +15,8 @@ C'est un point très important : les bandelettes sont imprégnées d'un réactif
 
 Il faut utiliser un récipient propre et sec, et ne pas y mettre d'antiseptiques ou de conserva­teurs qui peuvent modifier certains tests.
 
-*   Recueillir les urines de milieu de jet afin d'éviter les contaminations du carrefour uro-génital.
-*   Les urines doivent être analysées immédiatement ou le plus rapidement possible.
+*   Recueillir les urines de milieu de jet afin d'éviter les contaminations du carrefour uro-génital.  
+*   Les urines doivent être analysées immédiatement ou le plus rapidement possible.  
 *   En cas d'examen différé, l'urine sera conservée au réfrigérateur (à 4°C) et ramenée à température ambiante pour l'examen.
 
 Ne pas oublier que les leucor­rhées et les pertes menstruelles peuvent donner des résultats positifs (protéines, hématies, leuco­cytes) dont l'origine n'est pas urinaire.
@@ -25,8 +25,8 @@ Ne pas oublier que les leucor­rhées et les pertes menstruelles peuvent donner 
 
 Le délai indiqué pour la lecture est primordial. Son non-respect entraîne des réponses faus­sement positives ou faussement négatives.
 
-*   Toutes les zones réactives de la bandelette doivent être plongées dans l'urine et retirées immédiatement.
-*   L'excès d'urine doit être éli­miné en tapotant légèrement la bandelette sur le bord du récipient.
+*   Toutes les zones réactives de la bandelette doivent être plongées dans l'urine et retirées immédiatement.  
+*   L'excès d'urine doit être éli­miné en tapotant légèrement la bandelette sur le bord du récipient.  
 *   La bandelette doit être tenue horizontale pour éviter les interférences en cas de plusieurs recherches simultanées.
 
 Toutes les bandelettes sont livrées avec un mode d'emploi comportant, entre autres, le seuil de détection de chaque zone et l'interpré­tation des réactions. Ce mode d'emploi doit être soigneusement conservé, à portée de main afin de pouvoir être consulté par les utilisateurs.

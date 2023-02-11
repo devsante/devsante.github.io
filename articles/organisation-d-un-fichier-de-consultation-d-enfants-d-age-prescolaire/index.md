@@ -107,7 +107,9 @@ Deuxième injection DT Coq et deuxième vaccin polio.
 
 **8. ......................................................................................**
 
+
 ![](i70-1.jpg)
+
 
 
 ![](i70-2.jpg)
@@ -167,7 +169,9 @@ Lorsqu'un enfant sort d'une zone de danger, guérit d'une maladie, sa fiche reto
 
 Cet exposé n'a pas la prétention de donner une méthode utilisable dans tous les dispensaires. Elle est en effet d'autant plus utile que la population à suivre est importante. D'autre part, on peut varier les systèmes de cases, selon que l'on veut privilégier un classement permettant de toujours trouver facilement une fiche (ici) ou un classement permettant d'évaluer d'un coup d'oeil rapide l'efficacité d'un programme de vaccinations. L'équipe de rédaction est prête à discuter avec tout lecteur des problèmes d'organisation utilisant ces méthodes.
 
+
 ![](i70-3.jpg)
+
 
 
 ![](i70-4.jpg)

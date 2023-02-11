@@ -20,7 +20,7 @@ Dans certaines situations particulières Grossesse, diabète gravidique, glycém
 
 ### En pratique
 
-*   Le patient est traité avec les doses maximales d'ADO.
+*   Le patient est traité avec les doses maximales d'ADO.  
 *   Les glycémies restent supérieures à 2 g/L ; les glycosuries indiquent une ou deux + (rappelons que la glycosurie apparaît lorsque la glycémie dépasse 1,6g/L); l'hémoglobine glyquée dépasse 8 % à 2 ou 3 contrôles successifs.
 
 On réévalue le comportement alimentaire et il semble que l'on ne pourra pas Suffisamment améliorer la diététique.
@@ -55,7 +55,7 @@ Leur une durée d'action est de 12 à 14 heures, avec un pic d'efficacité à 3 
 
 Inconvénients :
 
-*   Deux injections par 24 h sont nécessaires.
+*   Deux injections par 24 h sont nécessaires.  
 *   Le pic d'efficacité peut provoquer une hypoglycémie, en particulier la nuit suivant l'injection du soir.
 
 #### b) Les analogues lents
@@ -74,7 +74,7 @@ Il est préférable de **commencer par une dose faible** et d'augmenter ensuite 
 
 L'adaptation des doses se fait par paliers de **deux unités** en plus ou en moins :
 
-*   en cas de malaise hypoglycémique.
+*   en cas de malaise hypoglycémique.  
 *   selon la glycémie au réveil,
 *   selon les données des trois mesures quotidiennes,
 *   en cas d'activité physique plus importante que d'habitude (sport, activité manuelle...) : on doit alors diminuer la dose ou, pour prévenir le risque hypoglycémique, conseiller d'ingérer des compléments diététiques.

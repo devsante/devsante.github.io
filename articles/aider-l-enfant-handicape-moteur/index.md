@@ -12,12 +12,14 @@ Avant tout, il faut choisir le siège qui répondra le mieux aux besoins de l'en
 
 *   Utiliser un centimètre de couturière ou à défaut un morceau de ficelle ou de corde. Toujours mesurer selon une ligne droite. Pour une chaise, il ne faut pas mesurer le long des contours du corps.
 
+
 ![](i540-1.jpg)
 
 
 ### A. Largeur du siège
 
 Mesurez l'enfant selon la plus grande largeur des hanches lorsqu'il est assis. Ajouter alors 25 centimètres pour obtenir la largeur du dossier au niveau des épaules.
+
 
 ![](i540-2.jpg)
 
@@ -82,12 +84,15 @@ On peut coller du papier de verre sur le cale-pied pour empêcher de glisser ou 
 
 ## III. Sièges en coin
 
+
 ![](i540-4.jpg)
 
 
 ## IV. Sièges de sol
 
+
 ![](i540-5.jpg)
+
 ![](i540-6.jpg)
 
 

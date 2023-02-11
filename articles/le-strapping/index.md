@@ -22,8 +22,8 @@ Il s'agit de traumatismes en inversion varus équin, c'est-à-dire le pied tourn
 
 Le matériel nécessaire est le suivant :
 
-*   Elastoplaste largeur 6 cm : 2 rouleaux.
-*   Elastoplaste 3 cm : 1 rouleau.
+*   Elastoplaste largeur 6 cm : 2 rouleaux.  
+*   Elastoplaste 3 cm : 1 rouleau.  
 *   Elastomousse ou sous bande : 1 rouleau.
 
 ### **3. Technique (figure 1)**
@@ -31,13 +31,13 @@ Le matériel nécessaire est le suivant :
 *   Mise en place de l'élastomousse et de 2 compresses protégeant le tendon du jambier antérieur et le tendon d'Achille _(1)._
 
 *   Mise en place de 2 ancrages en élastoplaste de 6 cm de largeur _(2)_ _:_
-    *   Un ancrage supérieur, à l'union du tiers inférieur et du tiers moyen de la jambe, sous la forme d'une circulaire appliquée sans tension.
-    *   Un ancrage inférieur, au niveau de l'avant pied, sous la forme d'une circulaire appliquée sans tension.
+    *   Un ancrage supérieur, à l'union du tiers inférieur et du tiers moyen de la jambe, sous la forme d'une circulaire appliquée sans tension.  
+    *   Un ancrage inférieur, au niveau de l'avant pied, sous la forme d'une circulaire appliquée sans tension.  
 *   Mise en place de 2 étriers verticaux en élastoplaste de 6 cm de largeur :
     *   Le premier étrier est appliqué à la face interne de la jambe, depuis l'ancrage supérieur, passant en arrière de la malléole interne, puis à la face inférieure du talon et revenant sur la face externe de la jambe, jusqu'à l'ancrage supérieur, en passant en arrière de la malléole externe. C'est sur la face externe que la tension mise dans la bande est importante. Il est nécessaire ici de bien étirer la bande pour éliminer partiellement son élasticité _(3 et 3bis)._
     *   Le second étrier vertical est appliqué selon le même principe, mais il doit passer en avant des 2 malléoles et chevauche le premier en tuile, de moitié _(4 et 4bis)._
 *   Fermeture avec de l'élastoplaste de 3 cm de largeur que l'on découpe en plusieurs bandes de même longueur _(5)_ _:_
-    *   Fermeture inférieure : on applique la première bande à la face plantaire, au niveau de l'ancrage inférieur, en rabattant les deux chefs latéraux sur le dessus du pied, sans tension. On procède de la même manière avec les autres bandes en les faisant chevaucher en tuile à demi, jusqu'à ce que l'on atteigne le devant de la jambe.
+    *   Fermeture inférieure : on applique la première bande à la face plantaire, au niveau de l'ancrage inférieur, en rabattant les deux chefs latéraux sur le dessus du pied, sans tension. On procède de la même manière avec les autres bandes en les faisant chevaucher en tuile à demi, jusqu'à ce que l'on atteigne le devant de la jambe.  
     *   Fermeture supérieure : on applique la première bande à la face postérieure de la jambe, en rabattant les deux chefs latéraux sur le devant de la jambe, depuis l'ancrage supérieur, jusqu'au niveau des malléoles. Les bandes successives doivent se chevaucher en tuile et être posées sans tension.
 
 ### **4. Durée d'immobilisation**
@@ -45,6 +45,7 @@ Le matériel nécessaire est le suivant :
 Elle est de 15 jours pour les entorses bénignes et de 5 semaines pour les entorses graves.
 
 Il faut souligner la gravité et l'importance du diagnostic de variété.
+
 
 ![](i935-1.jpg)
 
@@ -70,6 +71,7 @@ Dans les disjonctions acromio-claviculaires, comme pour les entorses de cheville
 
 4 semaines
 
+
 ![](i935-2.jpg)
   
 
@@ -83,8 +85,8 @@ C'est l'entorse du ligament latéral ulnaire de la métacarpo-phalangienne du po
 
 Le matériel nécessaire est le suivant :
 
-*   Elastoplaste largeur 6 cm : 1 rouleau.
-*   Elastoplaste 3 cm : 1 rouleau.
+*   Elastoplaste largeur 6 cm : 1 rouleau.  
+*   Elastoplaste 3 cm : 1 rouleau.  
 *   Elastomousse ou sous-bande : 1 rouleau.
 
 ### 3. Technique (figure 3)
@@ -100,6 +102,7 @@ Le matériel nécessaire est le suivant :
 ### 4. Durée de port
 
 Cette durée va de 12 à 15 jours pour les entorses bénignes, de 4 à 5 semaines pour les entorses graves.
+
 
 ![](i935-3.jpg)
   
@@ -123,13 +126,14 @@ Le matériel nécessaire est le suivant :
 *   Mise en place de 2 bandes d'élastoplaste d'ancrage 10-15 cm, au-dessus et au-dessous du genou, ouvertes en arrière pour ne pas comprimer les vaisseaux _(1)._
 
 *   Mise en place de 2 étriers verticaux en élastoplaste de 6 cm de largeur _(2)_ _:_
-    *   Le premier est appliqué à la face interne de la jambe, depuis l'ancrage supérieur jusqu'à l'ancrage inférieur.
+    *   Le premier est appliqué à la face interne de la jambe, depuis l'ancrage supérieur jusqu'à l'ancrage inférieur.  
     *   Le deuxième étrier vertical est appliqué à la face externe de la jambe _(3)._
 *   Alternance des circulaires et étriers. Enfin croisements antérieurs _(4)._
 
 ### 4. Durée de port
 
 Cette durée va de 12 à 15 jours pour les entorses bénignes, de 4 à 5 semaines pour les entorses graves.
+
 
 ![](i935-4.jpg)
 

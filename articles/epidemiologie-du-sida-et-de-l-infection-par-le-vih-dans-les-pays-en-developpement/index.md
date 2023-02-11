@@ -25,7 +25,7 @@ Il était possible de différencier grossièrement 8 zones géographiques :
 *   l'Afrique du sud pour laquelle les taux étaient mal connus, de 5 à 30 %,
 *   Madagascar où les taux sont inférieurs à 1 %. L'hétérogénéité existait aussi pour les caractéristiques socio démographiques :
     *   les taux de séroprévalence en milieu urbain étaient supérieurs à ceux du milieu rural,
-    *   les femmes étaient généralement plus atteintes que les hommes.
+    *   les femmes étaient généralement plus atteintes que les hommes.  
     *   l'âge le plus atteint se situait entre 1 5 et 39 ans,
     *   certaines catégories sociales étaient plus atteintes que les autres, comme les fonctionnaires, routiers ou lycéens, etc.
 

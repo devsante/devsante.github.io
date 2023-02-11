@@ -30,6 +30,7 @@ Le cathéter est composé d'une canule en plastique munie d'une aiguille introdu
 
 Précision pour le matériel à usage unique présenté sous sachet papier stérile : il faut vérifier l'intégrité du sachet, tant que celui-ci n'est pas perforé la stérilité est garantie.
 
+
 ![](i636-1.jpg)
 
 
@@ -93,6 +94,7 @@ Il est indispensable de réunir tout le matériel avant d'effectuer le geste, ca
 
 **c. Ponction intraveineuse avec aiguille****ou épicrânienne** _(figure 2)_
 
+
 ![](i636-2.jpg)
 
 
@@ -109,6 +111,7 @@ Il est indispensable de réunir tout le matériel avant d'effectuer le geste, ca
 *   Fixer soigneusement l'aiguille et la tubulure en passant une bande de sparadrap sous l'aiguille puis en rabattant les bouts alternativement en les croisant par dessus l'aiguille. Deux bandes sont ensuite posées en transversales pour consolider _(figures 3_ _et 4)._
 
 Pour les enfants et les adultes inconscients, il faut installer le bras sur une attelle _(figure 5)._
+
 
 ![](i636-3.jpg)
 
@@ -200,7 +203,8 @@ Au total, pour réussir la mise en place et le maintien d'une perfusion intravei
 *   maîtriser sa technique et surveiller:
 
 - le débit de la perfusion,  
-- l'état local du point de ponction.![](i636-4.jpg)
+- l'état local du point de ponction.  
+![](i636-4.jpg)
 
 
 _Développement et Santé, n°116, avril 1995_

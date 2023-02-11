@@ -15,12 +15,12 @@ Le diagnostic repose sur :
 
 #### Paralysie du nerf sciatique poplité externe (SPE)
 
-*   Pied tombant en varus équin avec impossibilité de faire une flexion dorsale par paralysie des muscles fléchisseurs dorsaux.
+*   Pied tombant en varus équin avec impossibilité de faire une flexion dorsale par paralysie des muscles fléchisseurs dorsaux.  
 *   Anesthésie de la face dorsale du pied.
 
 #### Paralysie du nerf sciatique poplité interne (SPI)
 
-*   Pied en talus valgus avec impossibilité de faire une flexion plantaire par paralysie des muscles fléchisseurs plantaires.
+*   Pied en talus valgus avec impossibilité de faire une flexion plantaire par paralysie des muscles fléchisseurs plantaires.  
 *   Anesthésie plantaire.
 
 #### Paralysie mixte du SPE et du SPI
@@ -36,16 +36,16 @@ et d'un oedème du pied
 
 ### 3. L'existence d'injection dans la fesse
 
-*   Souvent le moment exact de la paralysie peut être retrouvé car l'enfant a perçu une douleur en éclair dans le territoire sciatique.
-*   Ce peut être aussi le cas de l'enfant qui marchait et qui, dans les heures qui suivent l'injection, ne peut plus mettre le pied au sol.
+*   Souvent le moment exact de la paralysie peut être retrouvé car l'enfant a perçu une douleur en éclair dans le territoire sciatique.  
+*   Ce peut être aussi le cas de l'enfant qui marchait et qui, dans les heures qui suivent l'injection, ne peut plus mettre le pied au sol.  
 *   C'est chez l'enfant qui ne marche pas encore que le diagnostic est le plus difficile et chez lequel on constate, à partir du huitième jour, la paralysie et les troubles trophiques.
 
 ## II. Évolution spontanée
 
 Elle est imprévisible et dépend du degré d'atteinte des nerfs. La clinique, permet de la suivre.
 
-*   La récupération totale est possible en une durée qui va de 15 jours à 1 an.
-*   L'absence totale de récupération est fréquente : elle entraîne des déformations du pied liées à la topographie de l'atteinte par déséquilibre musculaire et rétractions tendineuses et articulaires.
+*   La récupération totale est possible en une durée qui va de 15 jours à 1 an.  
+*   L'absence totale de récupération est fréquente : elle entraîne des déformations du pied liées à la topographie de l'atteinte par déséquilibre musculaire et rétractions tendineuses et articulaires.  
 *   La récupération partielle est possible : elle entraîne également des déformations du pied.
 
 La récupération sensitive est souvent meilleure que la récupération motrice. Avec la croissance, ce pied déformé sera plus petit et souvent toute la jambe un peu plus courte.
@@ -99,13 +99,15 @@ Il faut également citer ce village de la 4e région où c'est un jeune adolesce
 
 ## VI. Pour quelles raisons le nerf est-il vulnérable ?
 
+
 ![](i873-1.jpg)
 
 
-1.  Le nerf se projette dans le quadrant inféro-interne de la fesse (figure n° 1). Il se situe à une certaine profondeur chez l'adulte, cette profondeur n est que de 2,5 cm chez le nourrisson.
-2.  Même si on respecte le point d'injection " non risqué " dans le quadrant supéro-externe, certains vont piquer à la limite inféro-interne de ce quadrant, se rapprochant dangereusement du trajet du nerf.
+1.  Le nerf se projette dans le quadrant inféro-interne de la fesse (figure n° 1). Il se situe à une certaine profondeur chez l'adulte, cette profondeur n est que de 2,5 cm chez le nourrisson.  
+2.  Même si on respecte le point d'injection " non risqué " dans le quadrant supéro-externe, certains vont piquer à la limite inféro-interne de ce quadrant, se rapprochant dangereusement du trajet du nerf.  
 3.  Même si l'on pique perpendiculairement au plan horizontal quand l'enfant est couché sur le ventre, un mouvement de l'enfant au moment de la piqûre peut entraîner une modification de l'orientation de l'aiguille qui se retrouve perpendiculaire au plan de la fesse et donc proche du nerf (figure _n° 2)._
 4.  Tout produit injecté peut être dangereux. Le Quinimax® est un produit toxique en lui-même. Très concentré et donc très lentement résorbé, son injection trop rapide et surtout les injections répétées accroissent le risque. On admet que ce produit peut être efficace dès la première ou la deuxième injection, mais force est de constater qu'une troisième injection est trop souvent faite " pour faire bonne mesure ".
+
 
 ![](i873-2.jpg)
 
@@ -125,9 +127,9 @@ Il faut également citer ce village de la 4e région où c'est un jeune adolesce
 
 2. Utiliser les alternatives au produit injecté par voie intra-fessière :
 
-*   Injection intraquadricipitale au tiers moyen de la face antéro-externe de la cuisse chez l'enfant maigre et en dessous de 3 ans. Si l'on ne risque pas de paralysies, il faut savoir que des fibroses progressives du quadriceps ont été décrites.
-*   Injection intraveineuse du produit dilué dans du sérum. Il comporte peu de risques ou d'effets secondaires mais nécessite une asepsie parfaite et la possibilité de faire des perfusions ce qui exige des moyens adaptés. De plus, son efficacité est moins rapide que la voie intramusculaire.
-*   Injection intra-rectale préconisée par Hubert Barennes : une ampoule de diluée dans 3 ou 4 fois son volume d'eau est injectée dans le rectum de l'enfant avec une seringue soit 20 mg/kg/12 h. L'efficacité est semblable à l'injection intramusculaire.
+*   Injection intraquadricipitale au tiers moyen de la face antéro-externe de la cuisse chez l'enfant maigre et en dessous de 3 ans. Si l'on ne risque pas de paralysies, il faut savoir que des fibroses progressives du quadriceps ont été décrites.  
+*   Injection intraveineuse du produit dilué dans du sérum. Il comporte peu de risques ou d'effets secondaires mais nécessite une asepsie parfaite et la possibilité de faire des perfusions ce qui exige des moyens adaptés. De plus, son efficacité est moins rapide que la voie intramusculaire.  
+*   Injection intra-rectale préconisée par Hubert Barennes : une ampoule de diluée dans 3 ou 4 fois son volume d'eau est injectée dans le rectum de l'enfant avec une seringue soit 20 mg/kg/12 h. L'efficacité est semblable à l'injection intramusculaire.  
 *   Utilisation de la voie orale dans les paludismes simples.
 
 ## VIII. Conclusion

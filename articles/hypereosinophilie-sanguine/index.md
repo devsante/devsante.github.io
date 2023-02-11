@@ -94,10 +94,12 @@ Par ailleurs, l’éosinophilie varie dans le temps en fonction de l’évolutio
 
 **Figure 1**
 
+
 ![](page-59-fig-1.jpg)
 
 
 **Figure 2**
+
 
 ![](page-59-fig-2.jpg)
 
@@ -551,6 +553,7 @@ Gale
 </table>
 
 Les vers intestinaux provoquent des troubles digestifs : nausées,  vomissements,  douleurs abdominales, diarrhées. Quelques symptômes sont plus évocateurs, comme le prurit anal (oxyures), la boulimie (tænia), le dermographisme (douve du foie),  une  hématurie  (bilharziose  urinaire), des œdèmes de la face et des myalgies (trichinellose). Les nématodes tissulaires (ou filaires) provoquent des troubles cutanés (prurit, œdèmes, sillon cutané) et lymphatiques (lymphangite, éléphantiasis).  Des examens complémentaires orientés permettent d’approcher du diagnostic.
+
 
 ![](page-60-tableau-iv.jpg)
 

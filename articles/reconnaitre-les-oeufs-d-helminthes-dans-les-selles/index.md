@@ -28,6 +28,7 @@ Ils contiennent une seule cellule.
 
 _**Oeufs d'oxyure (figure du haut) et de trichocéphale (figure du bas)**_
 
+
 ![](i885-1.jpg)
 
 
@@ -59,6 +60,7 @@ La membrane interne est plus ou moins mince. Les oeufs contiennent des granulati
 
 _**Oeufs d'ascaris fertiles et infertiles**_
 
+
 ![](i885-2.jpg)
 
 
@@ -87,10 +89,13 @@ Ils sont asymétriques, très segmentés (16 à 32 blastomères), pouvant être 
 
 _**Oeufs d'ankylostomes (haut) et de trichostrongylus (bas)**_
 
+
 ![](i885-3.jpg)
 
 
+
 ![](i885-4.jpg)
+
 
 
 ![](i885-5.jpg)

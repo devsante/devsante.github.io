@@ -19,6 +19,7 @@ Le choc hypovolémique survient pour une diminution de la volémie de l'ordre de
 
 Au cours du choc hémorragique, on distingue un stade précoce réversible avec une phase initiale dite compensée où la tachycardie est isolée puis une phase secondaire avec hypotension associée à une tachychardie ou plus rarement à une bradychardie et un stade tardif décompensé et irréversible où le patient décède dans un tableau de défaillance multiviscérale.
 
+
 ![](i857-1.jpg)
 
 
@@ -110,6 +111,7 @@ Poser 2 voies veineuses périphériques de fort calibre (14-16 G). Une voie vein
 
 Dès l'arrivée d'un patient en état de choc hémorragique, une demande de produits sanguins avec un délai de délivrance est faite _(tableau n° 2)_ : procédure de demande de produits sanguins en cas d'urgence vitale. En l'absence de banque du sang, il faut rechercher, prélever et grouper des donneurs volontaires et bénévoles qui peuvent être des parents.
 
+
 ![](i857-2.jpg)
 
 
@@ -137,7 +139,7 @@ _- Cristalloïdes_ Ce sont des solutions isotoniques (sérum physiologique à 9 
 
 _- Colloïdes de synthèse._ Le recours à un colloïde de synthèse est légitime au-delà de 2 000 ml de cristalloïde perfusé. On distingue 3 familles :
 
-*   Les gélatines fluides modifiées (Haemacel®, Plasmion®) sont caractérisées par leur effet volume (80%) et leur durée d'action de 34 heures. Le seul effet indésirable est la survenue de réactions anaphylactiques. On peut les utiliser sans limite de volume dans les hémorragies importantes.
+*   Les gélatines fluides modifiées (Haemacel®, Plasmion®) sont caractérisées par leur effet volume (80%) et leur durée d'action de 34 heures. Le seul effet indésirable est la survenue de réactions anaphylactiques. On peut les utiliser sans limite de volume dans les hémorragies importantes.  
 *   Les amidons (Hestéril® et Elohès®), sont caractérisés par leur effet volume
 
 (x 1,2) et leur durée d'action 4 à 8 heures pour l'Hestéril® et 12 à 24 heures pour l'Elohès®. En plus du risque allergique, moins important qu'avec les gélatines, il existe d'autres effets secondaires (troubles de l'hémostase, atteinte rénale et stéatose hépatique) qui limitent leur posologie à 30 ml/kg/24 h et leur durée d'utilisation. En pratique ils sont utilisés quand l'hémostase est faite.
@@ -214,6 +216,7 @@ Deux grandes situations peuvent se rencontrer, l'état de détresse extrême où
 
 La surveillance standard permet d'évaluer l'efficacité du traitement. Une surveillance hémodynamique complémentaire est proposée en cas d'inefficacité du traitement initial.
 
+
 ![](i857-3.jpg)
 
 
@@ -240,6 +243,7 @@ La pression veineuse centrale (PVC). Une voie veineuse centrale n'est pas posée
 **VI. Evolution**
 
 La rapidité et la qualité de la correction de l'hypovolémie sont des paramètres essentiels pour éviter les complications.
+
 
 ![](i857-4.jpg)
 
@@ -311,6 +315,7 @@ et une surveillance biologique si l'on dispose d'un laboratoire.
 **Évolution**
 
 L'évolution est favorable si le traitement permet la restauration rapide de la volémie et de la pression artérielle. Elle est défavorable en cas d'inefficacité du traitement initial qui peut être dû à une intrication de plusieurs mécanismes à l'origine du choc, à un remplissage vasculaire ou une hémostase chirurgicale insuffisante et en cas de complications secondaires dues à des défaillances d'organes : oedème pulmonaire lésionnel, insuffisance rénale aiguë, hémorragie digestive, infection.
+
 
 ![](i857-5.jpg)
 

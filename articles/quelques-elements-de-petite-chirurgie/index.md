@@ -18,6 +18,7 @@ Pour la peau, par contre, le parage est économique, ne sacrifiant que ce qui es
 
 Le parage des plaies du visage et des mains sera particulièrement économique pour des raisons esthétiques et fonctionnelles.
 
+
 ![](i60-1.jpg)
 
 
@@ -28,6 +29,7 @@ L'anesthésie locale n'est pas indispensable pour une plaie petite, nette, purem
 Il faut savoir attendre les quelques minutes nécessaires à l'effet de l'anesthésique.
 
 Certains sujets sont absolument réfractaires à l'anesthésie locale (alcooliques, malades habitués aux antalgiques).
+
 
 ![](i60-2.jpg)
 
@@ -61,6 +63,7 @@ Une plaie du cuir chevelu peut être **hémorragique** et entraîner une **perte
 Il est inutile d'essayer de faire l'hémostase autrement que par la suture. Simplement, il faut aller vite pour limiter les pertes sanguines.
 
 *   Suture en chargeant toute l'épaisseur des tissus au nylon 00, en serrant suffisamment les noeuds pour assurer l'hémostase.
+
 
 ![](i60-3.jpg)
 

@@ -14,6 +14,7 @@ Cet exposé situe le problème dans le strict cadre des missions humanitaires, p
 
 Nous avons schématisé ce traitement dans un tableau (_Tableau 1_), dont chaque case est numérotée : les commentaires sont développés ci-dessous, lorsqu'ils sont nécessaires, avec le rappel du numéro.
 
+
 ![](i920-1.jpg)
 
 
@@ -45,6 +46,7 @@ Mais une telle pratique n'est pas admissible dans les pays en développement, en
 
 **19 à 24** le plâtre est un pis aller dans les stades **2 et 3** (soins locaux trop aléatoires). Une attelle est concevable dans les cas **19** **20 22 23** mais surtout en traitement provisoire sauf lésions très distales.
 
+
 ![](i920-2.jpg)
 
 
@@ -54,10 +56,12 @@ Mais une telle pratique n'est pas admissible dans les pays en développement, en
 
 <tr>
 
-<td valign="top">![](i920-3.jpg)
+<td valign="top">
+![](i920-3.jpg)
 </td>
 
-<td valign="top">![](i920-4.jpg)
+<td valign="top">
+![](i920-4.jpg)
 </td>
 
 </tr>
@@ -65,6 +69,7 @@ Mais une telle pratique n'est pas admissible dans les pays en développement, en
 </tbody>
 
 </table>
+
 
 ![](i920-5.jpg)
 
@@ -89,6 +94,7 @@ Beaucoup de lésions maintenues en attelle ou en extension continue 3 ou 4 semai
 C'est un exemple dangereux, et un risque excessif.
 
 Il faut savoir qu'après cicatrisation, une ostéo-synthèse est possible même après fixation externe temporaire si la tolérance aux broches a été parfaite et si on laisse cicatriser les orifices quelques jours avant d'intervenir, sous une nouvelle couverture antibiotique.  
+
 ![](i920-6.jpg)
   
 
@@ -117,6 +123,7 @@ Inconvénient : immobilisation peu rigide.
 **6- Plâtre ouvert :** comporte une fenêtre au devant des lésions des parties molles. S'oppose au plâtre fermé, qui n'a pas sa place dans les fractures ouvertes, sauf dans une méthode contestée, dite "espagnole" car utilisée pendant la guerre d'Espagne, consistant à laisser évoluer sous plâtre les processus spontanés de cicatrisation. Il s'agit évidemment d'une arme à deux tranchants.
 
 **7- Polycriblage :** comme son nom le suggère, lacération cutanée par de multiples petites plaies, résultant par exemple de l'action de mine anti-personnel. Souvent superficielles mais toujours souillées, en général ces excoriations ne communiquent pas avec l'os qui s'est fracturé par effet de choc. Leur traitement est le brossage avec antiseptiques, et les pansements gras.
+
 
 ![](i920-7.jpg)
 

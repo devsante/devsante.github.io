@@ -16,7 +16,7 @@ L'éflornithine, ou DFMO (difluorométhylornithine), est la seule autre molécul
 
 L'éflornithine se présente sous la forme de flacon de 100 ml pour solution injectable. Chaque flacon contient 20 grammes d'éflornithine (200 mg/ml). Il est obligatoire de diluer l'éflornithine dans une solution normosaline (NaCI à 0.9 %) avant son administration par voie intra-veineuse. Les posologies les plus couramment utilisées sont :
 
-*   Chez l'adulte ou enfant = 12 ans 400 mg/kg/j en 4 perfusions intraveineuses lentes (2 heures) administrées toutes les 6 heures pendant 14 jours.
+*   Chez l'adulte ou enfant = 12 ans 400 mg/kg/j en 4 perfusions intraveineuses lentes (2 heures) administrées toutes les 6 heures pendant 14 jours.  
 *   Chez l'enfant < 12 ans : 600 mg/kg/j en 4 perfusions intraveineuses lentes (2 heures) administrées toutes les 6 heures pendant 14 jours.
 
 Un dosage plus _élevé_ chez l'enfant est justifié par une efficacité moindre du dosage journalier de 400 mg/kg/j observé dans cette catégorie d'âge, en raison de taux plasmatiques et céphalo-rachidiens plus faibles que _chez_ l'adulte. Il est important de respecter la durée de perfusion de 2 heures afin de minimiser le risque de convulsion. Une durée de traitement de 7 jours a été démontrée moins efficace que 14 jours chez des patients en 2"' stade traités pour la première fois mais pourrait être suffisante chez des patients traités pour une rechute après traitement de mélarsoprol. Les données existantes sur l'efficacité du traitement de 7 jours ne concernant qu'un nombre limité de ces patients, il est préconisé une durée de traitement de 14 jours pour tous les patients en 2<sup>ème</sup> stade, en particulier dans les régions où la résistance de _T. b. gambiense_ au mélarsoprol et/ou la prévalence du virus HIV sont élevées.
@@ -25,16 +25,17 @@ L'accès intraveineux prolongé dans les conditions de terrain expose les patien
 
 **Les mesures généralement recommandées sont les suivantes :**
 
-*   Réduction du délai entre la préparation de la perfusion d'éflornithine (respectant les règles d'asepsie) et son administration.
-*   Nettoyage des mains (du soignant) et de la zone d'insertion du cathéter par de l'eau et du savon.
-*   Environnement stérile autour du point d'insertion du cathéter : désinfection large (ex : povidone-iodine) et utilisation de compresses stériles.
-*   Fixation rigoureuse du cathéter par des rubans adhésifs et par une bande élastique.
-*   Limitation des manipulations trop proches du point d'insertion du cathéter ; l'utilisation d'un prolongateur est conseillée.
-*   Dilution de chaque dose unitaire d'éflornithine (100 ou 150 mg/kg) dans un soluté de perfusion normosaline de 250 ml au lieu de deux doses dans 500 ml. Cette mesure permet d'éviter l'interruption de la perfusion de plusieurs heures et ainsi le risque de contamination bactérienne du soluté de perfusion et une exposition prolongée de l'éflornithine à l'air ambiant. _Chez_ l'enfant en bas âge, diluer l'éflornithine dans des volumes plus faibles afin d'éviter une surcharge hydrosaline : dose unitaire dans 50 ml (poids < 10 kgs) ou 100 ml (poids : 10-25 kgs).
-*   Utilisation d'un bouchon obturateur stérile à usage unique à visser au bout du prolongateur ou du cathéter entre chaque perfusion.
+*   Réduction du délai entre la préparation de la perfusion d'éflornithine (respectant les règles d'asepsie) et son administration.  
+*   Nettoyage des mains (du soignant) et de la zone d'insertion du cathéter par de l'eau et du savon.  
+*   Environnement stérile autour du point d'insertion du cathéter : désinfection large (ex : povidone-iodine) et utilisation de compresses stériles.  
+*   Fixation rigoureuse du cathéter par des rubans adhésifs et par une bande élastique.  
+*   Limitation des manipulations trop proches du point d'insertion du cathéter ; l'utilisation d'un prolongateur est conseillée.  
+*   Dilution de chaque dose unitaire d'éflornithine (100 ou 150 mg/kg) dans un soluté de perfusion normosaline de 250 ml au lieu de deux doses dans 500 ml. Cette mesure permet d'éviter l'interruption de la perfusion de plusieurs heures et ainsi le risque de contamination bactérienne du soluté de perfusion et une exposition prolongée de l'éflornithine à l'air ambiant. _Chez_ l'enfant en bas âge, diluer l'éflornithine dans des volumes plus faibles afin d'éviter une surcharge hydrosaline : dose unitaire dans 50 ml (poids < 10 kgs) ou 100 ml (poids : 10-25 kgs).  
+*   Utilisation d'un bouchon obturateur stérile à usage unique à visser au bout du prolongateur ou du cathéter entre chaque perfusion.  
 *   Changement systématique du cathéter toutes les 48 heures (plus tôt si signe de phlébite).
 
 Ces mesures simples sont efficaces, comme le montre la diminution drastique de l'incidence de phlébite observée dans le centre de traitement de la THA à Kiri au Soudan après leur mise en place en avril 2003 _(figure 1)._ Par voie orale, l'éflornithine est partiellement absorbée et s'est montrée efficace chez certains patients lors d'utilisation à titre compassionnel. Grâce à l'OMS le développement d'une forme orale est en cours. A l'heure actuelle, l'utilisation de l'éflornithine par voie orale n'est pas recommandée.
+
 
 ![](i982-1.jpg)
 

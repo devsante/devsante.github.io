@@ -23,6 +23,7 @@ Sous l'action des rayons ultraviolets, la vitamine D est normalement synthétis�
 
 Si, de plus, l'alimentation est pauvre en vitamine D, le risque est maximal (_figure_ _1)._
 
+
 ![](i933-1.jpg)
 
 
@@ -30,7 +31,7 @@ Si, de plus, l'alimentation est pauvre en vitamine D, le risque est maximal (_fi
 
 Elle est indispensable au transport du calcium et du phosphore de l'intestin vers l'os et le système nerveux.
 
-*   Au niveau de l'os, elle permet la minéralisation de l'os en croissance (plus on grandit, plus les besoins en vitamine D sont importants). Sans cette vitamine, les os sont friables (ils se déforment sous le poids du corps et les fractures sont fréquentes).
+*   Au niveau de l'os, elle permet la minéralisation de l'os en croissance (plus on grandit, plus les besoins en vitamine D sont importants). Sans cette vitamine, les os sont friables (ils se déforment sous le poids du corps et les fractures sont fréquentes).  
 *   Au niveau du système nerveux, pour que les cellules nerveuses fonctionnent correctement, elles doivent recevoir un apport régulier en calcium.
 
 La calcémie doit être égale à 100mg/l. En l'absence de vitamine D, le calcium n'est pas absorbé par l'intestin d'où une hypocalcémie entraînant :
@@ -42,6 +43,7 @@ La calcémie doit être égale à 100mg/l. En l'absence de vitamine D, le calciu
 ## Il. Manifestations cliniques du rachitisme
 
 On distingue trois stades _(figure 2)_
+
 
 ![](i933-2.jpg)
 
@@ -74,6 +76,7 @@ Le retard psychomoteur est évident, l'enfant tient à peine assis.
 *   une déminéralisation diffuse,
 *   des fractures spontanées,
 *   un élargissement des métaphyses avec aspect en coquetier ou toit de pagode des extrémités _(figure 3)_.
+
 
 ![](i933-3.jpg)
 

@@ -30,7 +30,7 @@ Cet article vous donnera quelques gestes indispensables à faire dans votre labo
 
 ### **1. Entretien des oculaires**
 
-*   **Protection de la poussière:** après utilisation, mettre une housse sur le microscope.
+*   **Protection de la poussière:** après utilisation, mettre une housse sur le microscope.  
 *   **Nettoyage des oculaires :** la lentille externe (où on met l'oeil) se nettoie avec un chiffon sec ou un papier qui ne raye pas (papier spécial pour les lentilles, kleenex, sopalin, papier toilette). Ne jamais utiliser de xylène.
 
 Si la lentille est sale (empreintes de doigts, taches de gras), on peut imbiber le chiffon ou le papier avec de l'alcool (éthanol, méthanol).
@@ -49,7 +49,7 @@ Lorsque l'huile a séché, utiliser un papier imbibé légèrement avec du xylè
 
 ### **3. Entretien du condensateur**
 
-*   **Poussière:** essuyer la lentille du condensateur avec un chiffon ou un papier qui ne raye pas.
+*   **Poussière:** essuyer la lentille du condensateur avec un chiffon ou un papier qui ne raye pas.  
 *   **Diaphragme:** pour enlever la poussière, utiliser un pinceau fin ou souffler de l'air avec une poire (poire optique pour appareil photo).
 
 ### **4. Entretien du miroir**
@@ -59,6 +59,7 @@ Essuyer le miroir avec un chiffon ou un papier qui ne raye pas. On peut imbiber 
 ### **5. Entretien du système** **électrique**
 
 **Lampes, fusibles:** pas de réparation possible. Ce sont des pièces du microscope qui se changent, toujours en avoir en stock en faisant attention à avoir les bonnes références (il faut connaître les références de son microscope). Éviter de mettre les doigts sur la lampe en la changeant.
+
 
 ![](i610-1.jpg)
 
@@ -81,8 +82,9 @@ Cependant, certaines mesures peuvent être prises pour protéger son microscope 
 
 *   **Utilisation d'un dessicant** (silicagel): le microscope est placé dans une boîte fermée hermétiquement dans laquelle on placera du dessicant. Le dessicant est laissé dans une soucoupe et il est très important de bien refermer hermétiquement la boîte même lorsque le microscope n'est pas à l'intérieur. On utilisera de préférence du dessicant avec indicateur de saturation; bleu: il est bon à être utilisé, rose: il est trop chargé en humidité et n'est plus efficace. Il suffit de le chauffer (dans une poêle sur le feu) pour qu'il retrouve sa couleur bleue et soit à nouveau efficace.
 
-*   **En absence d'électricité ou de boîte** **hermétique avec dessicant:** il ne faut pas ranger le microscope dans sa boîte en bois, mieux vaut le laisser à l'air libre recouvert de sa housse.
+*   **En absence d'électricité ou de boîte** **hermétique avec dessicant:** il ne faut pas ranger le microscope dans sa boîte en bois, mieux vaut le laisser à l'air libre recouvert de sa housse.  
 *   **Comment se débarrasser des champignons:** seul un spécialiste peut débarrasser le microscope de ses champignons. Le spécialiste peut se trouver auprès du fabricant du microscope). L'idéal serait de faire nettoyer son microscope par un spécialiste au moins une fois par an.
+
 
 ![](i610-2.jpg)
 

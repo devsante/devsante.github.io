@@ -66,9 +66,9 @@ Le problème est difficile. Il est normal que des malades graves en évacuation 
 
 Il serait utile que ce temps mort soit mis à profit.
 
-1.  Tout d'abord le manoeuvre chargé de l'accueil, s'il sait écrire, pourrait fournir et vendre le carnet à ceux qui n'en ont pas ; ou demander celui de ceux qui en ont un déjà. Le carnet de santé, en tant que support d'information est un outil indispensable s'il est bien rempli et consulté. L'accueillant aura à noter la date de consultation et la plainte.
-2.  Ensuite, il pourrait prendre la température, mais est-ce bien utile ? De plus, les thermomètres sont coûteux, se cassent facilement (d'où pollution terrestre par le mercure) et il existe un risque théorique de contamination par le virus de l'hépatite B.
-3.  En revanche, la pesée systématique des enfants malades s'avère bien plus rentable. En effet, le dépistage des malnutritions protéino-caloriques est primordial. La pesée des enfants malades permet de dépister les enfants malnutris qui ne vont pas à la consultation de PMI, ce d'autant si le trouble nutritionnel est débutant. Elle est indispensable dans la surveillance de la diarrhée.
+1.  Tout d'abord le manoeuvre chargé de l'accueil, s'il sait écrire, pourrait fournir et vendre le carnet à ceux qui n'en ont pas ; ou demander celui de ceux qui en ont un déjà. Le carnet de santé, en tant que support d'information est un outil indispensable s'il est bien rempli et consulté. L'accueillant aura à noter la date de consultation et la plainte.  
+2.  Ensuite, il pourrait prendre la température, mais est-ce bien utile ? De plus, les thermomètres sont coûteux, se cassent facilement (d'où pollution terrestre par le mercure) et il existe un risque théorique de contamination par le virus de l'hépatite B.  
+3.  En revanche, la pesée systématique des enfants malades s'avère bien plus rentable. En effet, le dépistage des malnutritions protéino-caloriques est primordial. La pesée des enfants malades permet de dépister les enfants malnutris qui ne vont pas à la consultation de PMI, ce d'autant si le trouble nutritionnel est débutant. Elle est indispensable dans la surveillance de la diarrhée.  
 4.  Autre façon d'occuper le temps d'attente: si les effectifs en personnel le permettent, quelqu'un de l'équipe pourrait animer une petite causerie éducative (hygiène de l'eau, accidents de la voie publique ou domestiques, etc.) pendant un quart d'heure en retrait du dispensaire. Cela aussi implique une réunion d'organisation de tous avec le médecin coordinateur.
 
 ### 4. La circulation des patients
@@ -78,6 +78,7 @@ L'idéal serait que les malades et leurs accompagnants se déplacent d'un poste 
 ## Conclusion
 
 L'accueil des malades n'est pas que politesse ou gentillesse, mais en grande partie, écouter et organiser l'attente, le confort de ceux qui patientent et la discrétion des consultations. Un accueil agréable fera beaucoup pour la qualité et la réputation du centre médical. Certes, toutes les propositions précédentes ne sont pas des recommandations, mais nous souhaitons que cet article sensibilise à la notion d'accueil et surtout vous invite à réfléchir à votre propre accueil dans votre lieu de travail.
+
 
 ![](i871-1.jpg)
 

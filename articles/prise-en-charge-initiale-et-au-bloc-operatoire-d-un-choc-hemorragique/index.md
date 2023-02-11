@@ -151,9 +151,9 @@ Ainsi en cas de plaie du cuir chevelu, de plaie vasculaire, d'épistaxis, d'hém
 
 ### 2. Diagnostic plus difficile en cas de sai­gnement non extériorisé
 
-*   Intrathoracique : hémothorax, dissection aortique, tamponnade (compression du coeur par un épan­chement intra-péricardique.
-*   Intrapéritonéal : rupture de la rate ou du foie, grossesse extra-utérine rompue.
-*   Rétropéritonéal : rupture d'un anévrisme de l'aorte abdominale, fracture du bassin, hémorragie sous anticoagulants, pancréatite hémorragique.
+*   Intrathoracique : hémothorax, dissection aortique, tamponnade (compression du coeur par un épan­chement intra-péricardique.  
+*   Intrapéritonéal : rupture de la rate ou du foie, grossesse extra-utérine rompue.  
+*   Rétropéritonéal : rupture d'un anévrisme de l'aorte abdominale, fracture du bassin, hémorragie sous anticoagulants, pancréatite hémorragique.  
 *   Digestif : ulcère gastrique ou duodénal.
 
 Les examens complémentaires (échographie, scanner, endoscopie, opacifications vasculaires) peuvent permettre de localiser l'origine de l'hémorragie, mais ils ne doivent pas faire perdre de temps...
@@ -173,15 +173,15 @@ Il peut s'agir d'un acte chirurgical par lui­même hémorragique ou le devenant
 
 ### 1. Diagnostic relativement facile devant les signes suivants :
 
-*   Soif, bon signe, très précoce.
-*   Pâleur des téguments.
-*   Marbrures des genoux.
-*   Sueurs froides (mise en jeu du système adrénergique).
-*   Agitation, angoisse, confusion (en raison de la mauvaise perfusion du cerveau).
-*   Polypnée (mécanisme compensateur dû à la diminution des transporteurs d'O<sub>2</sub>).
-*   Pouls rapide et filant.
-*   Baisse de la pression artérielle avec pince­ment de la pression différentielle : maintien de la pression diastolique (reflète les résis­tances veineuses, la vasoconstriction) diminu­tion de la pression systolique (reflet de l'onde de choc du sang éjecté par le coeur).
-*   Collapsus.
+*   Soif, bon signe, très précoce.  
+*   Pâleur des téguments.  
+*   Marbrures des genoux.  
+*   Sueurs froides (mise en jeu du système adrénergique).  
+*   Agitation, angoisse, confusion (en raison de la mauvaise perfusion du cerveau).  
+*   Polypnée (mécanisme compensateur dû à la diminution des transporteurs d'O<sub>2</sub>).  
+*   Pouls rapide et filant.  
+*   Baisse de la pression artérielle avec pince­ment de la pression différentielle : maintien de la pression diastolique (reflète les résis­tances veineuses, la vasoconstriction) diminu­tion de la pression systolique (reflet de l'onde de choc du sang éjecté par le coeur).  
+*   Collapsus.  
 *   Oligurie, anurie (malade sondé).
 
 La surveillance doit immédiatement être mise en place _(cf paragraphe Prise en charge du choc hémorragique_).
@@ -207,12 +207,12 @@ Aucun examen paraclinique n'est nécessaire au diagnostic d'état de choc. Les e
 #### a) Deux prélèvements sanguins de référen­ce sont indispensables,  
 ils doivent porter clairement la mention "urgent":
 
-*   Numération Formule Sanguine (NFS). Le taux d'hémoglobine et le taux d'hématocrite sont de mauvais indices de l'hémorragie à la phase précoce, l'hémodilution n'intervient que secondairement, et ils doivent être inter­prétés selon l'expansion volémique associée.
+*   Numération Formule Sanguine (NFS). Le taux d'hémoglobine et le taux d'hématocrite sont de mauvais indices de l'hémorragie à la phase précoce, l'hémodilution n'intervient que secondairement, et ils doivent être inter­prétés selon l'expansion volémique associée.  
 *   Groupe sanguin ABO et phénotype Rhésus et recherche d'agglutinines irrégulières (RAI).
 
 #### b) Autres examens
 
-*   **Biologiques** : hémostase (plaquettes, TP­TCA, fibrinogène et facteurs de coagulation), bilan hydro-électrolytique à la recherche d'une insuffisance rénale ou d'une rhabdo­myolyse (phénomènes provoqués par une ischémie musculaire sévère) Na<sup>+</sup>, K<sup>+</sup>, urée et créatinine, CPK et myoglobine) ; gaz du sang et lactates artériels recherchant une hypoxie tissulaire.
+*   **Biologiques** : hémostase (plaquettes, TP­TCA, fibrinogène et facteurs de coagulation), bilan hydro-électrolytique à la recherche d'une insuffisance rénale ou d'une rhabdo­myolyse (phénomènes provoqués par une ischémie musculaire sévère) Na<sup>+</sup>, K<sup>+</sup>, urée et créatinine, CPK et myoglobine) ; gaz du sang et lactates artériels recherchant une hypoxie tissulaire.  
 *   **Imagerie**, selon les possibilités : cliché du thorax de face, abdomen sans préparation, échographie abdominale (selon les cas et les disponibilités : ponction-lavage péritonéale), bassin de face ou si possible scanner.
 
 ### 4. Surveillance de l'état hémodynamique
@@ -263,7 +263,7 @@ Le bilan initial doit comporter :
 
 #### Moyens mécaniques
 
-*   Position de Trendelenburg (tête en bas, déclive) : c'est une solution d'attente qui mobilise 500 à 1 000 ml de sang.
+*   Position de Trendelenburg (tête en bas, déclive) : c'est une solution d'attente qui mobilise 500 à 1 000 ml de sang.  
 *   Pantalon antichoc G-suit, qui agit par :
     *   compression du système veineux, aug­mentation du retour veineux, de la pré­charge (autotransfusion de 1000 à 1500 ml de sang), - compression des vaisseaux artériels,
     *   effet hémostatique par clampage aortique partiel dans les lésions sous-diaphragma­tiques (rupture d'anévrisme de l'aorte abdominale).
@@ -298,8 +298,8 @@ Le bilan initial doit comporter :
 
 Ce sont essentiellement : une hypothermie, des anomalies de l'hémostase, une dyskalié­mie, une hypocalcémie (troubles du rythme, anomalies de l'hémostase). **Le respect de la sécurité transfusionnelle** est fondamental, même dans l'urgence, avec hémovigilance et traçabilité.
 
-*   Extrême urgence : culot globulaire O négatif.
-*   Urgence : isogroupe si possible, sinon trans­fusion de groupe O pour O et B, de groupe A pour A et AB (Test de Beth Vincent).
+*   Extrême urgence : culot globulaire O négatif.  
+*   Urgence : isogroupe si possible, sinon trans­fusion de groupe O pour O et B, de groupe A pour A et AB (Test de Beth Vincent).  
 *   Si l'urgence est moindre : transfusion isogroupe.
 
 <table>
@@ -594,7 +594,7 @@ L'équipe anesthésique installe le monitorage et réalise un remplissage vascul
 
 Deux grandes situations peuvent se rencontrer :
 
-*   L'état de détresse extrême où la mise en condition initiale, inefficace, ne doit pas retarder l'hémostase chirurgicale.
+*   L'état de détresse extrême où la mise en condition initiale, inefficace, ne doit pas retarder l'hémostase chirurgicale.  
 *   L'état précaire mais stabilisé où le remplissa­ge vasculaire et le monitorage précèdent l'induction.
 
 À l'induction, le patient étant considéré comme ayant un estomac plein, une crash induction est associée à la technique de Sellick. Les hypnotiques recommandés pour leur stabilité cardiovasculaire sont l'étomidate et la kétamine. Les morphinomimétiques ont peu d'effets hémodynamiques, mais leur asso­ciation avec les hypnotiques risque de poten­tialiser leurs effets hypotenseurs. Les curares, dépolarisants et non dépolarisants, peuvent être utilisés, mais le relâchement abdominal secondaire à la curarisation peut brutalement majorer un saignement intra- ou surtout rétro­péritonéal et provoquer un arrêt cardiaque.
@@ -605,12 +605,12 @@ La surveillance standard permet d'évaluer l'efficacité du traitement. Une surv
 
 #### a) Surveillance standard
 
-*   **Pression artérielle** : la prise au brassard est moins fiable lorsque la pression artérielle systolique est effondrée.
-*   **Électrocardiogramme** : il permet de contrô­ler la fréquence cardiaque et de détecter une ischémie myocardique. À défaut d'un électro­cardiogramme, la fréquence cardiaque sera surveillée à l'aide un stéthoscope précordial ; celle du pouls carotidien ou fémoral est tou­jours possible.
-*   **Oxymétrie de pouls** ou saturométrie (SpO<sub>2</sub>) : le monitorage de l'oxygénation capillaire est fiable pour détecter une hypoxémie mais de nombreux facteurs peuvent altérer le signal : hypotension, vasoconstriction, hypothermie.
-*   **Capnogramme** ou monitorage du CO<sub>2</sub> expi­ré (FeCO<sub>2</sub>) : la pression télé-expiratoire en CO<sub>2</sub> (PETCO<sub>2</sub>) est le témoin de la production de gaz carbonique par le métabolisme cellu­laire. Une baisse brutale traduit toujours une complication grave en rapport avec une perturbation circulatoire. Elle peut être liée à une chute du débit cardiaque, à une dimi­nution du retour veineux ou à une oblitéra­tion artérielle pulmonaire.
-*   **Température**.
-*   **Diurèse** : une diurèse supérieure ou égale à 1,5 ml/kg/h indique le plus souvent une hémodynamique rénale satisfaisante.
+*   **Pression artérielle** : la prise au brassard est moins fiable lorsque la pression artérielle systolique est effondrée.  
+*   **Électrocardiogramme** : il permet de contrô­ler la fréquence cardiaque et de détecter une ischémie myocardique. À défaut d'un électro­cardiogramme, la fréquence cardiaque sera surveillée à l'aide un stéthoscope précordial ; celle du pouls carotidien ou fémoral est tou­jours possible.  
+*   **Oxymétrie de pouls** ou saturométrie (SpO<sub>2</sub>) : le monitorage de l'oxygénation capillaire est fiable pour détecter une hypoxémie mais de nombreux facteurs peuvent altérer le signal : hypotension, vasoconstriction, hypothermie.  
+*   **Capnogramme** ou monitorage du CO<sub>2</sub> expi­ré (FeCO<sub>2</sub>) : la pression télé-expiratoire en CO<sub>2</sub> (PETCO<sub>2</sub>) est le témoin de la production de gaz carbonique par le métabolisme cellu­laire. Une baisse brutale traduit toujours une complication grave en rapport avec une perturbation circulatoire. Elle peut être liée à une chute du débit cardiaque, à une dimi­nution du retour veineux ou à une oblitéra­tion artérielle pulmonaire.  
+*   **Température**.  
+*   **Diurèse** : une diurèse supérieure ou égale à 1,5 ml/kg/h indique le plus souvent une hémodynamique rénale satisfaisante.  
 *   **Surveillance biologique** : taux d'hématocrite mesuré par microcentrifugation à l'aide d'un appareil type Microspin et, si l'on dispose d'un laboratoire, hémostase (plaquettes, TP­TCA, fibrinogène et facteurs de la voie exo­gène de la coagulation), fonction rénale (Na+, K+, urée et créatinine, CPK et myo­globine), bilan hépatique (bilirubine, trans­aminases GOT-GPT, gaz du sang et lactates artériels.
 
 #### b) Surveillance hémodynamique complé­mentaire
@@ -629,8 +629,8 @@ Le traitement permet la restauration de la volémie et de la pression artériell
 
 Devant l'inefficacité ou le caractère partiel de l'efficacité du traitement, trois causes sont à évoquer :
 
-*   Une intrication de plusieurs mécanismes à l'origine de l'état de choc, par exemple l'as­sociation d'une composante cardiogénique en cas de contusion myocardique au décours d'un traumatisme thoracique.
-*   Une prise en charge thérapeutique inadé­quate qui peut être en rapport avec un rem­plissage vasculaire ou une hémostase chirur­gicale insuffisants du fait de l'importance des lésions et/ou des troubles de l'hémostase, avec coagulopathie de dilution.
+*   Une intrication de plusieurs mécanismes à l'origine de l'état de choc, par exemple l'as­sociation d'une composante cardiogénique en cas de contusion myocardique au décours d'un traumatisme thoracique.  
+*   Une prise en charge thérapeutique inadé­quate qui peut être en rapport avec un rem­plissage vasculaire ou une hémostase chirur­gicale insuffisants du fait de l'importance des lésions et/ou des troubles de l'hémostase, avec coagulopathie de dilution.  
 *   Des complications secondaires dues à des défaillances d'organes. Peuvent survenir : un oedème pulmonaire lésionnel, dans les 24 à 48 premières heures, avec hypoxémie et surcharge pulmonaire à pression normale, ou une insuffisance rénale aiguë par néphro­pathie tubulaire aiguë avec anurie transitoire (quelques jours à 3 semaines), voire définitive en cas de nécrose tubulaire. Les risques d'hémorragies digestives et de complications infectieuses sont d'autant plus importants que le choc a été prolongé.
 
 ## VII. Pour la pratique on retiendra
@@ -657,6 +657,7 @@ Elle vise trois objectifs plus ou moins intriqués : l'arrêt du saignement, le 
 *   remplissage avec des cristalloïdes et des col­loïdes de synthèse, caractérisés par un effet volume immédiat,
 *   demande de produits sanguins et, en l'absen­ce d'une banque du sang, recherche de don­neurs,
 *   transfusion, dont l'indication dépend du sai­gnement, de l'état de choc et du terrain (âge, pathologie associée), et pas seulement d'un seuil minimal d'hémoglobine ou d'hématocri­te. L'emploi des catécholamines (adrénaline) n'est indiqué qu'en ultime recours dans les situations proches de l'arrêt cardiaque.
+
 
 ![](12065-1.jpg)
 

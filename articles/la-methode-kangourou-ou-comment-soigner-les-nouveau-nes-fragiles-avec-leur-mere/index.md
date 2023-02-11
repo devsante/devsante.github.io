@@ -72,6 +72,7 @@ Il n'y a pas de critère de **poids** minimum cela dépend essentiellement des c
 
 Par rapport au **terme de la grossesse,** s'il est connu et a pu être déterminé par l'examen clinique de la maturation; il est également raisonnable de n'accepter dans le programme que des prématurés de trente-quatre semaines et plus, puis, progressivement selon l'état des enfants, proposer la méthode à des prématurés plus jeunes sans toutefois aller au-delà de trente-deux semaines (7 mois de grossesse). Ces enfants pourront entrer dans le programme dès qu'ils auront atteint une maturité suffisante quelques semaines plus tard ; en attendant, ils bénéficieront toujours du contact peau à peau discontinu avec la maman dans le service où il est soigné.
 
+
 ![](i736-1.jpg)
 
 

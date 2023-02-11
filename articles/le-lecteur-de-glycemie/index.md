@@ -9,10 +9,10 @@ teaser: "Le lecteur de glycémie est un appareil qui permet de doser instantané
 
 ### **1. Pour le patient**
 
-*   Tout d'abord, savoir évaluer son diabète par le dosage immédiat de sa glycémie qu'il peut ainsi contrôler à tout moment.
-*   Connaître la valeur glycémique (appelée index glycémique) d'un aliment en mesurant sa glycé­mie avant et après l'ingestion de cet aliment. Cette information permet ainsi d'adapter sa consommation (quelle quantité de riz, de pain ou de légumes type macabo ou plantain peut être absorbée lors du repas ?).
-*   Adapter chaque jour l'alimentation en fonction de l'activité physique, donc de la dépense calo­rique, et des résultats des trois mesures quoti­diennes.
-*   En cas de traitement par insuline, il pourra adap­ter les doses à injecter en fonction de la glycémie (en augmentant ou en réduisant la dose de une ou deux unités).
+*   Tout d'abord, savoir évaluer son diabète par le dosage immédiat de sa glycémie qu'il peut ainsi contrôler à tout moment.  
+*   Connaître la valeur glycémique (appelée index glycémique) d'un aliment en mesurant sa glycé­mie avant et après l'ingestion de cet aliment. Cette information permet ainsi d'adapter sa consommation (quelle quantité de riz, de pain ou de légumes type macabo ou plantain peut être absorbée lors du repas ?).  
+*   Adapter chaque jour l'alimentation en fonction de l'activité physique, donc de la dépense calo­rique, et des résultats des trois mesures quoti­diennes.  
+*   En cas de traitement par insuline, il pourra adap­ter les doses à injecter en fonction de la glycémie (en augmentant ou en réduisant la dose de une ou deux unités).  
 *   Permettre une meilleure implication du patient lui-même dans la prise en charge de sa maladie et ainsi lui donner une certaine autonomie.
 
 ### **2. Dans les centres de santé**
@@ -49,12 +49,14 @@ L'utilisation du lecteur de glycémie ne nécessite que quelques gestes, simples
 
 ### Le matériel
 
+
 ![](12088-1.jpg)
 
 
 ### L'hygiène doit être respectée
 
 Se laver les mains avec de l'eau et du savon, puis les sécher. Il ne faut jamais utiliser d'alcool pour désinfecter, cela risque de fausser les résultats de la glycémie.
+
 
 ![](12088-3.jpg)
 
@@ -68,11 +70,13 @@ On ne pique pas :
 *   le pouce ni l'index, doigts les plus fonctionnels,
 *   la pulpe des doigts, plus sensible.
 
-On pique :![](12088-5.jpg)
+On pique :
+![](12088-5.jpg)
 
 
 *   après avoir massé le doigt de la base vers la pulpe,
 *   au bout mais sur le côté du doigt, moins sensible.
+
 
 ![](12088-7.jpg)
 
@@ -80,6 +84,7 @@ On pique :![](12088-5.jpg)
 ### Lecture de la glycémie
 
 La goutte de sang est déposée sur la zone réactive de la bandelette, le résultat s'affiche sur le lecteur. Les résultats sont ensuite notés sur un carnet d'autosurveillance.
+
 
 ![](12088-9.jpg)
 

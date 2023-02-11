@@ -17,7 +17,7 @@ Le service de consultations externes de l'hôpital Calmette a ouvert ses portes 
 
 Dès le début de la consultation, en mai 2003, nous avons mis en place **une consultation d'information sur l'infection à VIH et les traitements antirétroviraux (ARV)** de manière à préparer les patients au traitement. Cette consultation était animée par les infirmiers après une formation théorique de 15 heures sous forme de cours théoriques et jeux de rôles. Les patients étaient adressés, sur prescription, à la suite de la consultation médicale afin de ne pas les faire revenir plusieurs fois.
 
-*   **Lors de la première consultation** : un questionnaire individuel permettait de cerner l'environnement psycho-social et le rapport à la maladie ainsi que l'état des connaissances du patient. Une note d'information sur les traitements était remise au patient et commentée.
+*   **Lors de la première consultation** : un questionnaire individuel permettait de cerner l'environnement psycho-social et le rapport à la maladie ainsi que l'état des connaissances du patient. Une note d'information sur les traitements était remise au patient et commentée.  
 *   **Au cours des deuxième et troisième consultations** : une évaluation des acquis des précédentes consultations était effectuée.
 
 Les compétences développées étaient les suivantes : citer et identifier les différents médicaments de son traitement, décrire la posologie et les modalités de prise de chacun des médicaments, comment rattraper une prise médicamenteuse en cas d'oubli, gérer son stock de médicament, comment gérer les effets secondaires...
@@ -34,7 +34,7 @@ Les ressources humaines, matérielles, logistiques et organisationnelles ont ét
 
 Suite à cette première mission, il est ressorti que :
 
-*   Les pratiques éducatives étaient caractérisées par une forte propension à dispenser des conseils et des informations au lieu de partir des connaissances du patient, de ses problématiques et de l'écouter.
+*   Les pratiques éducatives étaient caractérisées par une forte propension à dispenser des conseils et des informations au lieu de partir des connaissances du patient, de ses problématiques et de l'écouter.  
 *   Les équipes avaient des difficultés à travailler de manière multiprofessionnelle. Même si des projets de fiches de liaisons entre médecins et infirmiers étaient évoqués, il n'y avait pas de réunions abordant les problèmes médicaux psycho-sociaux et éducatifs de manière simultanée.
 
 #### Une première mission de 2 semaines a eu lieu en janvier 2004.
@@ -53,7 +53,7 @@ Au terme de ces 15 jours, 2 documents ont été élaborés et intégrés au doss
 
 *   Accompagner les infirmiers éducateurs sur le terrain professionnel au cours des séances d'éducation,
 *   Les aider à concevoir un support d'éducation et un support de transmission d'information entre médecin et infirmier,
-*   Aider les équipes à renforcer dans leur réunion les discussions portant sur les dimensions sociales et éducatives.
+*   Aider les équipes à renforcer dans leur réunion les discussions portant sur les dimensions sociales et éducatives.  
 *   Mettre en place un dispositif minimal d'évaluation de l'éducation thérapeutique.
 
 #### En février 2005, au cours d'une mission dans le cadre du programme ESTHER, nous avons travaillé avec les éducateurs sur la mise en place du dossier d'éducation.
@@ -78,7 +78,7 @@ Les infirmières ont pu progressivement s'intégrer dans les réunions de servic
 
 _La mise en place de cette activité dès le début de la prise en charge_ a été un facteur important :
 
-*   La prise en charge était neuve, les infirmiers aussi et peu de mauvaises habitudes avaient été prises.
+*   La prise en charge était neuve, les infirmiers aussi et peu de mauvaises habitudes avaient été prises.  
 *   D'autre part, la consultation d'éducation a pu tout de suite être intégrée dans le circuit du patient, avec une plage horaire, un lieu.
 
 _L'implication de l'ensemble du personnel soignant_ lors de la formation Format Santé a permis une adhésion progressive. L'éducation thérapeutique est alors devenue un projet de service. Aujourd'hui, les réunions mensuelles infirmières/médecins et l'existence du dossier d'éducation permettent de communiquer entre éducateurs et soignants.
@@ -189,10 +189,10 @@ Dans le même temps, des associations locales souvent en lien avec la société 
 
 La formation a été animée par des partenaires locaux, des intervenants d'ESTHER et l'association Sida Info Service selon le processus suivant :
 
-*   Vingt jours de formation théorique (150h) réparties en 3 sessions (3 modules : prendre soin, accompagner, travailler en réseau).
-*   Un stage pratique des participants dans les services de consultation et d'hospitalisation de l'hôpital, centré sur le parcours de soin des personnes : 10 jours (40h) validé par un rapport de stage.
-*   Une validation écrite des savoirs et un entretien personnalisé confidentiel préalable avec un counselor indépendant.
-*   Un suivi continu des pratiques des conseillers psychosociaux est réalisé deux fois par an, (2 fois une semaine) par les formateurs pour discuter de cas concrets, échanger et renforcer les pratiques.
+*   Vingt jours de formation théorique (150h) réparties en 3 sessions (3 modules : prendre soin, accompagner, travailler en réseau).  
+*   Un stage pratique des participants dans les services de consultation et d'hospitalisation de l'hôpital, centré sur le parcours de soin des personnes : 10 jours (40h) validé par un rapport de stage.  
+*   Une validation écrite des savoirs et un entretien personnalisé confidentiel préalable avec un counselor indépendant.  
+*   Un suivi continu des pratiques des conseillers psychosociaux est réalisé deux fois par an, (2 fois une semaine) par les formateurs pour discuter de cas concrets, échanger et renforcer les pratiques.  
 *   Tous les 2 mois, une supervision est effectuée par un counselor indépendant du dispositif de soin et d'accompagnement (vécu personnel à partir des difficultés et réussites rencontrées et mise à jour des connaissances).
 
 ### _Comment les éducateurs se coordonnent-ils auec les conseillers psycho-sociaux ?_
@@ -231,6 +231,7 @@ Notre langage doit être adapté aux patients. Il faut prendre du temps pour les
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -258,6 +259,7 @@ L'éducation thérapeutique a permis d'attirer l'attention des médecins sur l'o
 </table>
 
 **_Remerciements pour le recueil d'interview à Dr. LY Cheng Huy, coordinateur ESTHER Cambodge_**
+
 
 ![](i1087-1.jpg)
 

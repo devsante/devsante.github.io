@@ -20,4 +20,5 @@ La plupart des ganglions se trouvent :
 *   **sous le bras (au niveau des aisselles) = creux axillaire,**
 *   **au niveau du pli de l'aine = creux inguinal.**
 
+
 ![](i989-1.jpg)

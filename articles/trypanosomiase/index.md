@@ -10,6 +10,7 @@ La maladie du sommeil ou trypanosomiase humaine africaine est une maladie parasi
 
 La lutte contre cette maladie suppose la connaissance de l'épidémiologie, c'est-à-dire des conditions de contamination et de diffusion.
 
+
 ![](i88-1.jpg)
 
 
@@ -45,7 +46,7 @@ Il doit se faire dans les régions où l'on sait que la maladie existe, basé su
 
 **b.** Le dépistage clinique se fait à deux niveaux:
 
-*   Dans les structures de soins, tout malade ayant des signes compatibles avec la maladie doit être exploré, au besoin après évacuation sur un centre équipé, où le trypanosome pourra être identifié (dans le sang ou dans le liquide céphalorachidien).
+*   Dans les structures de soins, tout malade ayant des signes compatibles avec la maladie doit être exploré, au besoin après évacuation sur un centre équipé, où le trypanosome pourra être identifié (dans le sang ou dans le liquide céphalorachidien).  
 *   Au cours de campagnes systématiques des services des grandes endémies, même les sujets présumés sains doivent être examinés. Il faut fixer la date de l'examen avec les Autorités du village et convoquer toute la population. Les signes les plus évocateurs sont une fièvre prolongée inexpliquée, des troubles nerveux et surtout la palpation de ganglions mous et indolores dans la région postérieure du cou.
 
 **c.** Chez les sujets ainsi suspectés, surtout lors de campagnes de masse, l'examen biologique le plus simple est le dosage des immunoglobulines M (Ig-M). Il suffit de piquer le doigt pour avoir une goutte de sang, la recueillir sur papier buvard, mettre, lorsqu'il est sec ce fragment de papier buvard dans une enveloppe avec le nom et l'adresse du sujet, et l'acheminer sans précautions particulières vers le laboratoire central (en général dans la capitale). La découverte d'un taux élevé de Ig-M conduira à hospitaliser le malade dans un centre équipé pour retrouver le parasite (hôpital régional). Lorsque cet examen n'est pas possible, on se base sur la mise en évidence du trypanosome sur la goutte épaisse, la ponction ganglionnaire, éventuellement la ponction lombaire ; mais en cas de doute, une hospitalisation au centre régional est nécessaire.

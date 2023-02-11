@@ -7,6 +7,7 @@ teaser: "La nidation de l'oeuf et son développement en dehors de la cavité ut�
 
 La grossesse extra-utérine est une **urgence chirurgicale** à laquelle il faut toujours penser chez une femme en âge d'être enceinte et présentant des douleurs abdominales, a fortiori un état de choc hémorragique.
 
+
 ![](i93-1.jpg)
 
 
@@ -50,6 +51,7 @@ Devant ces deux signes, vous devez penser à la GEU et examiner minutieusement l
 
 l'utérus est parfois augmenté de volume, mais pas autant que le voudrait l'âge présumé de la grossesse. On perçoit, distincte de l'utérus, une masse latérale, d'un seul côté, souvent mal limitée, dont il est parfois difficile de préciser si elle est indépendante de l'utérus. Le cul-de-sac vaginal de son côté semble " empâté-. Mais surtout, cette masse est très douloureuse, la douleur empêchant parfois de prolonger l'examen. Ne pas hésiter à faire le toucher vaginal avec la main droite, puis la main gauche car on explore parfois mal l'un des culs-de-sac. Le doigtier est souillé de sang.
 
+
 ![](i93-2.jpg)
 
 
@@ -78,6 +80,7 @@ Dans ces cas plus difficiles, certains examens complémentaires sont utiles, mai
 **1.** La réaction de grossesse (biologique ou immunologique) peut montrer que la malade est enceinte. Mais une réaction négative n'élimine pas le diagnostic.
 
 **2.** La ponction du Douglas:
+
 
 ![](i93-3.jpg)
 
@@ -109,6 +112,7 @@ Mais bien souvent aucun examen sophistiqué n'est possible et les meilleurs él�
 La GEU rompt la trompe, la malade saigne de façon permanente mais peu abondante, le sang coule dans l'abdomen (hémopéritoine) et se collecte dans le cul-de-sac de Douglas (hématocèle rétro-utérine). Le tableau clinique est plus alarmant car:
 
 **1.** Cette femme souffre, elle se plaint depuis plusieurs heures ou plusieurs jours du bas-ventre, les douleurs vont en empirant. La palpation réveille cette douleur et dans certains cas on trouve une véritable défense ou une contracture faisant penser à une péritonite (ce signe n'est pas marqué dans les livres, mais il existe, je l'ai constaté plusieurs fois).
+
 
 ![](i93-4.jpg)
 
@@ -148,6 +152,7 @@ Le diagnostic est évident, il faut perfuser rapidement la malade avec si possib
 Il est simple, il sauve la vie. L'intervention consiste à enlever la trompe malade, jusqu'à sa portion intra-utérine pour éviter toute récidive sur un moignon laissé en place. En cas d'hémopéritoine important, on peut récupérer stérilement le sang pour le retransfuser à la malade.
 
 En dehors de l'urgence et dans certains centres très modernes on peut essayer de garder la trompe en enlevant simplement l'oeuf, cette intervention est même possible sous coelioscopie. Mais elle est risquée, car elle laisse une trompe porteuse de cicatrice et une deuxième GEU peut avoir lieu sur cette trompe lésée. Ce traitement n'est pas concevable chez une femme ne pouvant pas être facilement surveillée lors de grossesses ultérieures.
+
 
 ![](i93-5.jpg)
 

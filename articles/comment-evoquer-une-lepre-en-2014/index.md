@@ -7,6 +7,7 @@ teaser: "Quand faut-il évoquer le diagnostic de lèpre ?  La lèpre est en ne
 
 La lèpre, ou maladie de Hansen, seconde mycobactériose mondiale après la tuberculose, est connue depuis l’antiquité et a traversé les siècles, en provoquant des sentiments de peur avec des mesures d’exclusion sociale. Les lépreux étaient exclus des villes et quand ils y revenaient, ils devaient signaler leur présence avec une crécelle (figure 1). En effet, à l’époque des croisades, le lépreux était considéré, comme impur mais craint, car revenant des lieux saints, il représentait l’image vivante du Christ souffrant. La prévalence de la lèpre a considérablement régressé depuis une vingtaine d’années, grâce à la polychimiothérapie, qui est rapidement efficace avec néanmoins le risque de réactions secondaires parfois handicapantes.
 
+
 ![](fig-1-lepreux-et-sa-crecelle.JPG)
 
 
@@ -107,6 +108,7 @@ _Mycobacterium leprae,_ ou bacille de Hansen_,_ est un bacille intra-cellulaire,
 
 **Figure 2. _Mycobacterium leprae_ en globi**
 
+
 ![](fig-2-mycobacterium-leprae-en-globi.JPG)
 
 
@@ -116,6 +118,7 @@ La lèpre peut se manifester sous deux formes dites « polaires », tuberculo�
 
 **Figure 3. Classification de Ridley et Joppling**  
 (TT : lèpre tuberculoïde ;BT : l. borderline ; BB : l. borderline borderline ; BL : l. borderline lépromateuse ;  LLs : l. lépromateuse subpolaire ;  LL: l. lépromateuse)
+
 
 ![](fig-3-tableau-evolutif-de-la-lepre.JPG)
 
@@ -130,6 +133,7 @@ Elle se manifeste par quelques lésions cutanées maculeuses, mesurant  plusieu
 
 **Figure 4. Plaque de lèpre tuberculoïde**
 
+
 ![](fig-4-tache-de-lepre-tuberculoide.jpg)
 
 
@@ -138,6 +142,7 @@ Elle se manifeste par quelques lésions cutanées maculeuses, mesurant  plusieu
 Elle peut aussi se manifester sous forme de lésions maculeuses de petite taille légèrement hypochromiques ou érythémateuses, à limites floues. Ces macules peuvent être infiltrées en totalité pour former des lépromes de teinte cuivrée ou seulement en bordure donnant un aspect annulaire, mal limité, de 5 à 10 centimètres de diamètre (figure 5). Ces lésions sont nombreuses (plusieurs dizaines), avec une disposition bilatérale et symétrique, souvent au niveau du lobule des oreilles, des doigts et des orteils et ne sont pas anesthésiques. Une alopécie de la queue des sourcils est constatée dans les formes avancées. Là encore, ces lésions disparaissent sans cicatrice sous l’effet du traitement.
 
 **Figure 5. Lèpre lépromateuse**
+
 
 ![](fig-5-lepre-lepromateuse.jpg)
 
@@ -150,11 +155,14 @@ L’atteinte neurologique est constante dans toutes les formes de lèpre. Quelqu
 
 **Figure 6. Mal perforant plantaire                         Figure 7. Griffe cubitale**
 
+
 ![](fig-6-mal-perforant-plantaire.jpg)
+                
 ![](fig-7-griffe-cubitale.jpg)
 
 
 **Figure 8. Plexus cervical hypertrophié**
+
 
 ![](fig-8-plexus-cervical-hypertyrophie.jpg)
 
@@ -162,6 +170,7 @@ L’atteinte neurologique est constante dans toutes les formes de lèpre. Quelqu
 Les autres organes sont surtout atteints dans la forme lépromateuse. Une rhinite séreuse puis muco-purulente peut évoluer vers une rhinite atrophique puis une fonte des os propres du nez, donnant l’image de la racine du nez en «coup de hache» (figure 9).
 
 **Figure 9. Destruction de la cloison nasale en coup de hache**
+
 
 ![](fig-9-destruction-de-la-cloison-nasale-en-coup-de-hache.jpg)
 
@@ -199,6 +208,7 @@ La lèpre est affirmée par la mise en évidence des bacilles de Hansen dans le 
 Depuis 1998, la polychimiothérapie préconisée par l’OMS, comprend la rifampicine, la dapsone et/ou la clofazimine pour éviter l’apparition de résistance aux bacilles. La clofazimine provoque une coloration violacée de la peau, dont il faut prévenir le malade (figure 10).
 
 **Figure 10. Coloration violacée de la peau due à la clofazimine**
+
 
 ![](fig-10-coloration-violacee-de-la-peau-due-a-la-clofazimine.jpg)
 
@@ -287,6 +297,7 @@ et dapsone
 
 **Figure 11. Nette amélioration de l'aspect d'un patient lépromateux,  
 avant et après le traitement**
+
 
 ![](lepre-fig-11.jpg)
 

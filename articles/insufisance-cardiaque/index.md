@@ -6,6 +6,7 @@ date: "1984-02-01"
 
 L'insuffisance cardiaque est l'incapacité du coeur à assurer la circulation du sang et l'oxygénation des tissus. Il est important de savoir la reconnaître dès les premiers symptômes et de la traiter avant la défaillance complète du coeur. De plus,certaines maladies comme l'hypertension artérielle ou le rhumatisme articulaire aigu entraînent des maladies cardiaques et peuvent être prévenues par des moyens simples qu'il faut connaître.
 
+
 ![](i107-1.jpg)
 
 
@@ -22,6 +23,7 @@ Lorsque le muscle cardiaque devient **défaillant,** le retentissement se fait d
 Un coeur insuffisant ne parvient plus à éliminer **l'eau** et **le sel:** la diurèse baisse et il y a une surcharge hydrosodée.
 
 Ce n'est que quand le débit de sang éjecté par le ventricule gauche est très diminué que la **tension artérielle** commence à baisser, avec même apparition de signes de **choc,** lorsque les tissus ne reçoivent plus de sang oxygéné _(cf. schéma n° 2)._
+
 
 ![](i107-2.jpg)
 
@@ -42,7 +44,9 @@ Chez l'adulte d'âge mûr et le vieillard, c'est **l'hypertension artérielle** 
 
 Enfin, à tous les âges, on rencontre des **myocardites anémiques:** l'anémie profonde (par manque de fer, hémorragie, drépanocytose, etc.) entraîne une mauvaise oxygénation du myocarde et une insuffisance cardiaque. Nous n'étudierons ici que l'insuffisance cardiaque de l'adulte.
 
+
 ![](i107-3.jpg)
+
 
 
 ![](i107-4.jpg)

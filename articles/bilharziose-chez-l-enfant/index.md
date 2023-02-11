@@ -10,6 +10,7 @@ L’enfant s’infeste en se baignant dans l’eau douce (rivières ou marigots)
 
 _**Cycle de la bilharziose intestinale**_
 
+
 ![](page-16-fig-3-cycle-bilharz-intestinale.jpg)
 
 
@@ -22,6 +23,7 @@ La phase d’infestation est marquée par du prurit : "dermatite des nageurs". 
 L’hyperéosinophilie n’a rien de spécifique en milieu tropical. Le diagnostic n’est donc affirmé que par la découverte des œufs dans les selles ou les urines. Ces œufs sont ovoïdes, mesurant en moyenne 120 x 60 µ  et sont embryonnés. Ils sont munis d’éperon latéral (_S. mansoni_) ou terminal (_S. haematobium, S. intercalatum_). La rectoscopie montre une muqueuse inflammatoire avec des lésions granulomateuses. La biopsie de muqueuse rectale permet de retrouver toutes les espèces de schistosomes. Une échographie abdominale permet de préciser l’importance d’une hépatosplénomégalie.
 
 _**Oeuf de Schistosoma haematobium dans une urine hématurique**_
+
 
 ![](page-17-fig-6-oeuf-s-haematobium.jpg)
 

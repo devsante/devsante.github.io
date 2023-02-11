@@ -9,41 +9,41 @@ teaser: "Les consignes qui vont être données dans cet article s'adressent à l
 
 ### 1. Garantir un bon environnement
 
-*   Unvironnement propre, locaux nettoyés, propres (nettoyage à l'eau de javel si possible). - Source de chaleur si nécessaire.
-*   Lumière et intimité.
-*   Chaises ou escabeaux.
-*   Toile cirée (alèse en plastique) à mettre sur le lit ou la table d'accouchement.
-*   Surface ou place propre pour entreposer le matériel, à protéger si possible avec un champ stérile.
-*   Horloge, chronomètre ou montre avec trotteuse.
+*   Unvironnement propre, locaux nettoyés, propres (nettoyage à l'eau de javel si possible). - Source de chaleur si nécessaire.  
+*   Lumière et intimité.  
+*   Chaises ou escabeaux.  
+*   Toile cirée (alèse en plastique) à mettre sur le lit ou la table d'accouchement.  
+*   Surface ou place propre pour entreposer le matériel, à protéger si possible avec un champ stérile.  
+*   Horloge, chronomètre ou montre avec trotteuse.  
 *   Récipients de récupération du matériel souillé et containers pour.récupérer le matériel souillé.
 
 ### 2. Matériel et produits nécessaires pour la prévention des infections
 
-*   Eau potable, utilisation de savon liquide de préférence, gel hydro-alcoolique si possible.
-*   Brosse à ongles souple pour le lavage des mains.
-*   Séchage des mains à l'aide de papier jetable si possible, sinon, serviettes propres réservées à cet emploi.
+*   Eau potable, utilisation de savon liquide de préférence, gel hydro-alcoolique si possible.  
+*   Brosse à ongles souple pour le lavage des mains.  
+*   Séchage des mains à l'aide de papier jetable si possible, sinon, serviettes propres réservées à cet emploi.  
 *   Gants de ménage neufs et gants chirurgicaux stériles.
 
 ### 3. Linges pour la mère
 
-*   Literie et couvertures sèches (et chaudes au besoin), propres.
-*   Pagnes propres en coton si possible.
+*   Literie et couvertures sèches (et chaudes au besoin), propres.  
+*   Pagnes propres en coton si possible.  
 *   Serviettes propres et sèches.
 
 ### 4. Linges pour le nouveau-né
 
-*   Tissus ou serviettes propres et secs (chauds au besoin) pour sécher et nettoyer le nouveau-né.
-*   Tissus propres et secs en coton si possible pour couvrir le nouveau-né.
+*   Tissus ou serviettes propres et secs (chauds au besoin) pour sécher et nettoyer le nouveau-né.  
+*   Tissus propres et secs en coton si possible pour couvrir le nouveau-né.  
 *   Bonnets et habits, y compris couches, chaussons.
 
 ### 5. Matériel et produits pour l'accouchement
 
-*   Matériels de protection : gants stériles, tablier (en plastique si possible), lunettes de protection si possible.
-*   Kit d'accouchement comprenant des ciseaux stériles pour couper le cordon ombilical, des pinces de clamps et/ou des fils de ligature du cordon ombilical.
-*   Pèse-bébé, thermomètre.
-*   Seringues et aiguilles stériles à usage unique.
-*   Coton, alcool ou solution de désinfection pour néttoyer les points d'injection.
-*   Compresses stériles.
+*   Matériels de protection : gants stériles, tablier (en plastique si possible), lunettes de protection si possible.  
+*   Kit d'accouchement comprenant des ciseaux stériles pour couper le cordon ombilical, des pinces de clamps et/ou des fils de ligature du cordon ombilical.  
+*   Pèse-bébé, thermomètre.  
+*   Seringues et aiguilles stériles à usage unique.  
+*   Coton, alcool ou solution de désinfection pour néttoyer les points d'injection.  
+*   Compresses stériles.  
 *   Matériel pour réanimer le nouveau-né si besoin
 *   Prévoir une surface propre et chaude où installer le nouveau-né.
 
@@ -54,9 +54,9 @@ teaser: "Les consignes qui vont être données dans cet article s'adressent à l
 
 ## II. Quels sont les objectifs de soins du nouveau-né ?
 
-*   S'assurer que le nouveau-né est bien portant (maintient sa température, respire normalement, a un bon réflexe de succion sans difficulté de déglutition, par la suite, a une courbe de poids ascendante).
-*   Savoir détecter les signes d'urgence nécessitant une prise en charge spécifique en évaluant le score d'APGAR.
-*   Savoir conseiller la mère et la famille pour les soins , à apporter à ce nouveau-né.
+*   S'assurer que le nouveau-né est bien portant (maintient sa température, respire normalement, a un bon réflexe de succion sans difficulté de déglutition, par la suite, a une courbe de poids ascendante).  
+*   Savoir détecter les signes d'urgence nécessitant une prise en charge spécifique en évaluant le score d'APGAR.  
+*   Savoir conseiller la mère et la famille pour les soins , à apporter à ce nouveau-né.  
 *   Planifier les soins à venir et les éléments de surveillance indispensables.
 
 ## III. Les soins essentiels du nouveau-né: SENN
@@ -385,6 +385,7 @@ En cas de risque d'hypothermie, même si la mère est séropositive, il faut pr�
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>

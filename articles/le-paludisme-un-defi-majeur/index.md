@@ -14,6 +14,7 @@ De nombreux engagements ont été pris au niveau international ces dernières an
 
 Il est malheureusement probable que cet objectif ne sera pas atteint. Néanmoins ce programme témoigne d'une prise de conscience politique de l'importance de ce problème. Il faut maintenant mobiliser les fonds comme ceux qui sont dégagés par le Fond mondial de lutte contre le SIDA, la tuberculose et le paludisme. Cela ne sera pas non plus une mince affaire. Cependant, une volonté politique forte et des moyens financiers adaptés n'auront aucune efficacité sans profes­sionnels de santé bien formés et capables de mettre leurs compétences au service de ceux qui en ont le plus besoin. Ce numéro de la revue a l'ambition de participer à l'amélioration de ces compétences.
 
+
 ![](image002.jpg)
 
 

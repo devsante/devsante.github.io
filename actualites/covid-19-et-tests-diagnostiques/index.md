@@ -13,8 +13,8 @@ Les tests diagnostiques posent des problèmes différents selon qu'il s'agit de 
 - les tests sérologiques permettant d’identifier les individus ayant développé une réponse immunitaire contre le virus.
 
 ### Le diagnostic étiologique de l’infection 
-Il repose sur la mise en évidence de la présence de protéines spécifiques du SARS-CoV-2 par des tests antigéniques ou du génome de ce coronavirus par la technique RT-PCR. 
-Du fait de la plus faible performance des tests antigéniques, la technique recommandée en France pour le diagnostic de la maladie COVID-19 est le test moléculaire de détection du génome du virus par RT-PCR qui permet la mise en évidence de l’ARN viral.
+Il repose sur la mise en évidence de la présence de protéines spécifiques du SARS-CoV-2 par des tests antigéniques ou du génome de ce coronavirus par la technique RT-PCR.  
+Du fait de la plus faible performance des tests antigéniques, la technique recommandée en France pour le diagnostic de la maladie COVID-19 est le test moléculaire de détection du génome du virus par RT-PCR qui permet la mise en évidence de l’ARN viral.  
 Cette technique, sensible et spécifique, permet d'établir un diagnostic précoce de la maladie en phase aiguë chez les malades symptomatiques et de détecter des porteurs sains.
 
 Les résultats sont fiables, à condition de respecter les conditions de prélèvement préconisées (naso-pharyngés profonds nécessitant des écouvillons adaptés). 
@@ -26,24 +26,24 @@ Outre la qualité du prélèvement, la date à laquelle est effectué ce prélè
 
 Un résultat négatif sur un prélèvement naso-pharyngé n'exclut pas la possibilité de la persistance du virus dans l'arbre bronchique. Il pourrait s’agir de génotypes différents ayant une réplication indépendante. 
 
-La technique de RT-PCR a cependant des inconvénients : son coût, la nécessité de disposer d’un laboratoire équipé de matériel adapté, la durée de la technique ne permettant pas un diagnostic rapide (plusieurs heures). 
+La technique de RT-PCR a cependant des inconvénients : son coût, la nécessité de disposer d’un laboratoire équipé de matériel adapté, la durée de la technique ne permettant pas un diagnostic rapide (plusieurs heures).  
 Les tests antigéniques détectent le virus quand il est à un titre élevé. Ils sont donc moins sensibles et moins fiables que la RT-PCR mais permettent une orientation diagnostique rapide lorsque la RT-PCR n’est pas disponible.
 
 ### Les tests sérologiques
-Ils consistent à mettre en évidence la présence d'anticorps (IgG et IgM) dirigés contre des protéines du virus. 
+Ils consistent à mettre en évidence la présence d'anticorps (IgG et IgM) dirigés contre des protéines du virus.  
 Différents tests sont disponibles, automatisables (tests ELISA) ou non (TDR -Test de Diagnostic Rapide), utilisant des antigènes viraux variables. 
 
-La sensibilité et la spécificité de ces tests doivent être suffisantes pour permettre l'interprétation des résultats et leur utilisation. Ces résultats doivent donc être exacts, fiables et validés sur leurs performances analytiques.
+La sensibilité et la spécificité de ces tests doivent être suffisantes pour permettre l'interprétation des résultats et leur utilisation. Ces résultats doivent donc être exacts, fiables et validés sur leurs performances analytiques.  
 La présence d’IGM témoigne d'une infection en cours ou récente, celle d'IgG signe l'immunisation du patient.
 
-En théorie tout semble simple et il serait rassurant d’obtenir des résultats ne laissant pas de doute sur les conduites à tenir. 
+En théorie tout semble simple et il serait rassurant d’obtenir des résultats ne laissant pas de doute sur les conduites à tenir.  
 Malheureusement, dans le cas de l'infection par le SARS-CoV-2, les connaissances sont encore incomplètes concernant ce virus émergeant. Aussi,  l’interprétation des résultats et les recommandations qui en dépendent sont complexes et évolutives.
 
 **Les tests sérologiques posent les problèmes de la fiabilité des résultats et de leur interprétation** :
-- La date d’apparition des anticorps et leurs taux sont variables selon les patients, parfois très tardive ou avec persistance des IgM pendant plusieurs semaines.
+- La date d’apparition des anticorps et leurs taux sont variables selon les patients, parfois très tardive ou avec persistance des IgM pendant plusieurs semaines.  
 - Pourraient intervenir l’âge, le sexe, la localisation des symptômes, la gravité des signes cliniques, d’autres facteurs ?
-- Il existe des incertitudes sur la contagiosité des personnes, même si la sérologie est positive.
-- De même, on ne peut affirmer la potentielle immunité protectrice chez les personnes ayant des anticorps. 
+- Il existe des incertitudes sur la contagiosité des personnes, même si la sérologie est positive.  
+- De même, on ne peut affirmer la potentielle immunité protectrice chez les personnes ayant des anticorps.  
 - Si cette immunité protectrice est confirmée, il n’est pas possible d’en connaître la durée. 
 
 On peut seulement dire que les personnes ont été en contact avec le virus.
@@ -57,5 +57,5 @@ Les mesures préconisées seront modifiées en fonction  de l’évolution des c
 Ne disposant pas actuellement de traitement efficace validé ni de vaccin, la détection et l’isolement de tous les porteurs du virus, la mise en quarantaine des cas contacts et le respect par tous des mesures barrières préconisées, essentielles, permettraient idéalement une meilleure maîtrise de la diffusion de cette infection.
 
 *Documents consultables sur le site de la Haute Autorité de Santé* : www.has-sante.fr/
--  Cahier des charges définissant les modalités d'évaluation des performances des tests sérologiques détectant les anticorps contre le SARS-CoV-2 - Validé le 16/04/2020.
+-  Cahier des charges définissant les modalités d'évaluation des performances des tests sérologiques détectant les anticorps contre le SARS-CoV-2 - Validé le 16/04/2020.  
 - Place des tests sérologiques dans la stratégie de prise en charge de la maladie COVID-19 - Validé le 01/05/2020.

@@ -17,7 +17,7 @@ Deux mécanismes peuvent intervenir :
 
 Les complications des otites sont donc de deux ordres :
 
-*   Propres à l'infection : complications infectieuses.
+*   Propres à l'infection : complications infectieuses.  
 *   Propres aux causes de l'infection : le mauvais fonctionnement de la trompe d'Eustache.
 
 ## **II. Complications infectieuses**
@@ -29,6 +29,7 @@ L'infection de l'oreille moyenne peut dans les formes graves atteindre certains 
 Le nerf facial, dans la première partie de son trajet, traverse les cavités de l'oreille moyenne. Une paralysie faciale est donc possible au cours d'une OMAP. Elle est due à une simple congestion du nerf et régresse habituellement rapidement sous traitement antibiotique et corticoïde. En l'absence de régression rapide, il faut craindre une mastoïdite et envisager un geste chirurgical.
 
 Lorsque la paralysie faciale survient sur une otite traînante, il peut s'agir d'une tuberculose de l'oreille moyenne. Le diagnostic sera fait par un prélèvement bactériologique de l'écoulement avec recherche du BK.
+
 
 ![](i932-1.jpg)
 
@@ -53,7 +54,9 @@ Quant à l'extension de l'infection vers l'intérieur du crâne, elle peut about
 
 Il s'agit d'une forme grave de l'otite, mais sans extension aux organes de voisinage. L'infection atteint toutes les cavités aériennes de l'oreille moyenne et constitue un abcès collecté dans une cavité dont les parois sont osseuses. Cliniquement, il s'agit d'un enfant présentant depuis quelques jours une otite banale dont les signes s'aggravent brutalement avec apparition ou augmentation de la fièvre, altération de l'état général, écoulement abondant et surtout comblement du sillon rétro-auriculaire par une collection purulente qui décolle le pavillon. Ce tableau classique, dont le diagnostic est facile, nécessite une mastoïdectomie avec prélèvement bactériologique et antibiothérapie intraveineuse.
 
+
 ![](i932-2.jpg)
+
 
 
 ![](i932-3.jpg)
@@ -63,8 +66,8 @@ Il s'agit d'une forme grave de l'otite, mais sans extension aux organes de voisi
 
 Il s'agit là d'une forme d'otite résistant au traitement médical classique. Le comblement du sillon rétro-auriculaire est absent, et les autres signes sont très variables :
 
-*   Fièvre variable mais constante.
-*   Altération de l'état général avec perte de poids.
+*   Fièvre variable mais constante.  
+*   Altération de l'état général avec perte de poids.  
 *   Ecoulement purulent avec, à l'examen otoscopique sur un tympan inflammatoire, une petite perforation postérieure entourée de granulomes à l'origine de l'écoulement.
 
 Il faut, devant ce tableau, faire si possible un prélèvement bactériologique et mettre l'enfant sous double antibiothérapie intraveineuse (? lactamine et aminoside) en fonction de l'antibiogramme. Ce n'est qu'en l'absence d'am?lioration avec ce traitement médical complet pendant une semaine qu'il faut faire une mastoïdectomie.

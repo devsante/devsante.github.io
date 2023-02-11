@@ -9,7 +9,7 @@ C'est également une urgence assez fréquente dans les services hospitaliers pen
 
 ## **I.** Examen du malade
 
-*   État général du patient : prise de tension artérielle, faciès état fébrile, aspect des yeux et des lèvres, asthénie.
+*   État général du patient : prise de tension artérielle, faciès état fébrile, aspect des yeux et des lèvres, asthénie.  
 *   Qualité et importance de l'hémorragie depuis quand l'hémorragie est-elle survenue ?
 
 ## Il. Interrogatoire médical
@@ -27,7 +27,7 @@ Antécédents médicaux connus :
 
 ## **III.** **Interrogatoire** quant au déroulement **de l'acte chirurgical**
 
-*   Heure à laquelle a eu lieu l'avulsion dentaire.
+*   Heure à laquelle a eu lieu l'avulsion dentaire.  
 *   Durée approximative de cet acte.
 
 ## IV. Les examens complémentaires (si cela est possible)
@@ -47,7 +47,7 @@ Cela est nécessaire s'il existe une pathologie médicale décelée à l'interro
 
 ## V. Traitement
 
-*   Le patient doit être en position assise.
+*   Le patient doit être en position assise.  
 *   Le rassurer sur la non-gravité de son hémorragie, lui expliquer les étapes du traitement et tous les gestes que nous allons effectuer.
 
 On classe les hémorragies suivant leur survenance par rapport à l'avulsion dentaire :
@@ -56,42 +56,42 @@ On classe les hémorragies suivant leur survenance par rapport à l'avulsion den
 
 1 - Faire rincer la bouche du patient afin de nettoyer la cavité buccale.
 
-1.  Nettoyer avec des compresses afin d'apprécier l'hémorragie.
-2.  Si cela est nécessaire, refaire une anesthésie locale avec un vasoconstricteur (s'il n'y a pas de contre-indication médicale).
-3.  Nettoyer l'alvéole minutieusement.
-4.  Si le bilan radiographique l'a révélé, extraire l'apex résiduel. S'il existe une lésion apicale, la cureter.
-5.  Mettre en place une hémostase interne mais seulement après avoir levé l'agent causal. Bourrer l'alvéole par un hémostatique : Surgicel® ou Thrombase 500 en poudre.
-6.  Faire une compression qui sera maintenue pendant 20 minutes (on doit obtenir une bonne qualité du thrombus blanc ou caillot). Cette compression sera faite à l'aide d'un petit paquet de compresses roulées et placées au niveau de l'alvéole.
+1.  Nettoyer avec des compresses afin d'apprécier l'hémorragie.  
+2.  Si cela est nécessaire, refaire une anesthésie locale avec un vasoconstricteur (s'il n'y a pas de contre-indication médicale).  
+3.  Nettoyer l'alvéole minutieusement.  
+4.  Si le bilan radiographique l'a révélé, extraire l'apex résiduel. S'il existe une lésion apicale, la cureter.  
+5.  Mettre en place une hémostase interne mais seulement après avoir levé l'agent causal. Bourrer l'alvéole par un hémostatique : Surgicel® ou Thrombase 500 en poudre.  
+6.  Faire une compression qui sera maintenue pendant 20 minutes (on doit obtenir une bonne qualité du thrombus blanc ou caillot). Cette compression sera faite à l'aide d'un petit paquet de compresses roulées et placées au niveau de l'alvéole.  
 7.  Le contrôle de l'arrêt de l'hémorragie s'effectuera 20 minutes après la mise en place de la compression ; si nécessaire changer les compresses. Cela nous permettra de constater la qualité de l'hémostase locale et l'arrêt de l'hémorragie.
 
 ### b) L'hémorragie est causée par une lésion muqueuse
 
-1.  Procéder à une anesthésie locale.
-2.  Procéder à la remise en état de la muqueuse (régularisation du lambeau déchiré). Nettoyer la plaie.
-3.  Suture de cette plaie rigoureusement et soigneusement.
+1.  Procéder à une anesthésie locale.  
+2.  Procéder à la remise en état de la muqueuse (régularisation du lambeau déchiré). Nettoyer la plaie.  
+3.  Suture de cette plaie rigoureusement et soigneusement.  
 4.  Compression externe (cf. a6/a7).
 
 ### c) L'hémorragie est causée par une lésion osseuse
 
-1.  Procéder à une anesthésie locale.
-2.  Déposer le fragment osseux mobile en le détachant des tissus muqueux.
-3.  Mettre en place une hémostase locale de sécurité.
+1.  Procéder à une anesthésie locale.  
+2.  Déposer le fragment osseux mobile en le détachant des tissus muqueux.  
+3.  Mettre en place une hémostase locale de sécurité.  
 4.  Compression externe (cf. a6/a7).
 
 ### d) L'hémorragie survient plusieurs heures après l'acte chirurgical
 
 Le patient se présente un peu angoissé. Cette hémorragie peut être due à une infection locale qui a entraîné une dégradation de la qualité du caillot.
 
-1.  Procéder à une anesthésie locale après rinçage de la cavité buccale.
-2.  Nettoyer l'alvéole au sérum physiologique avec une petite seringue, il faut absolument que l'alvéole soit bien propre.
-3.  Mettre en place un hémostatique local (Surgicel®, etc.).
+1.  Procéder à une anesthésie locale après rinçage de la cavité buccale.  
+2.  Nettoyer l'alvéole au sérum physiologique avec une petite seringue, il faut absolument que l'alvéole soit bien propre.  
+3.  Mettre en place un hémostatique local (Surgicel®, etc.).  
 4.  Faire une compression externe de sécurité et une surveillance de 20 minutes.
 
 ## VI. La prescription médicale
 
 Elle est quasiment obligatoire pour éviter tous les problèmes infectieux.
 
-*   Antibiothérapie d'une durée de 5/6 jours. Amoxicilline : 1 g x 24 h ; Rodogyl : 6 comprimés x 24 h en 3 prises. Cette antibiothérapie sera adaptée à l'âge du patient (diminuer les doses pour les enfants).
+*   Antibiothérapie d'une durée de 5/6 jours. Amoxicilline : 1 g x 24 h ; Rodogyl : 6 comprimés x 24 h en 3 prises. Cette antibiothérapie sera adaptée à l'âge du patient (diminuer les doses pour les enfants).  
 *   Antalgique : Paracétamol (aspirine contre-indiquée). Le patient sera revu dans les 24 heures qui suivent pour apprécier la qualité alvéolaire. S'il y a une prescription de bain de bouche, ceux-ci peuvent débuter 24 heures après les soins d'urgence.
 
 Nous insistons sur les points suivants :

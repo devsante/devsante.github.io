@@ -17,7 +17,7 @@ Les antiseptiques sont des préparations pharmaceutiques actives sur les micro-o
 Dans le cas d’un antiseptique ou d’un antibiotique, on désigne par “**spectre d’activité**” l’ensemble des espèces sur lequel il est actif.  
 Il y a deux types d’effet :
 
-*   destruction irréversible : activité bactéricide, fongicide, virucide.
+*   destruction irréversible : activité bactéricide, fongicide, virucide.  
 *   inhibition de la croissance : activité bactériostatique, fongistatique.
 
 Il existe une grande quantité d’antiseptiques dont les classes chimiques et les activités sont résumées dans le tableau I.  
@@ -244,15 +244,15 @@ Chlorhexidine</th>
 
 **Précautions d’emploi**
 
-*   Les utiliser sur une peau ou une plaie préalablement nettoyée.
+*   Les utiliser sur une peau ou une plaie préalablement nettoyée.  
 *   Les conserver dans leur conditionnement d’origine pour :
     *   limiter les risques de contamination au cours des manipulations,
-    *   limiter les sources d’erreurs (nom du produit, concentration, mode d’utilisation, date de péremption).
-*   Ne pas mélanger ni appliquer successivement des antiseptiques de familles différentes.
-*   Respecter la date de péremption (durée de conservation du produit dans son conditionnement non ouvert).
-*   Noter la date d’ouverture sur le flacon.
-*   Reboucher le flacon après chaque usage.
-*   Privilégier les petits conditionnements ou les doses unitaires.
+    *   limiter les sources d’erreurs (nom du produit, concentration, mode d’utilisation, date de péremption).  
+*   Ne pas mélanger ni appliquer successivement des antiseptiques de familles différentes.  
+*   Respecter la date de péremption (durée de conservation du produit dans son conditionnement non ouvert).  
+*   Noter la date d’ouverture sur le flacon.  
+*   Reboucher le flacon après chaque usage.  
+*   Privilégier les petits conditionnements ou les doses unitaires.  
 *   S’informer du temps de conservation du flacon ouvert.
 
 **Utilisation des antiseptiques en pratique médicale**  
@@ -302,8 +302,8 @@ Préparations à base de zinc, de cuivre, colorants en solution alcoolique, solu
 
 Les antiseptiques sont généralement employés dilués à cause de la fragilité de ces tissus.
 
-*   Odontologie et stomatologie : solutions d’hexamidine ou de chlorhexidine.
-*   Gynécologie : solutions, et ovules pour traitement des infections vaginales.
+*   Odontologie et stomatologie : solutions d’hexamidine ou de chlorhexidine.  
+*   Gynécologie : solutions, et ovules pour traitement des infections vaginales.  
 *   Ophtalmologie et otorhinolaryngologie : collyres et pommades.
 
 Les antiseptiques ont leur place à côté des antibiotiques dans le traitement des maladies infectieuses.  
@@ -325,8 +325,8 @@ Le désinfectant le plus couramment utilisé, et le moins coûteux, est l’eau 
 La façon d’exprimer la concentration des solutions a changé, le tableau II donne la correspondance entre les anciennes et les nouvelles unités.  
 Autrefois elle était exprimée :
 
-*   en degrés chlorométriques : le degré chlorométrique est le nombre de litres de chlore gazeux libérés par un litre d’eau de Javel en milieu acide dans des conditions normales de température et de pression.
-*   en grammes de chlore actif par litre (1 degré chlorométrique correspond à 3,17 g de chlore libre par litre).
+*   en degrés chlorométriques : le degré chlorométrique est le nombre de litres de chlore gazeux libérés par un litre d’eau de Javel en milieu acide dans des conditions normales de température et de pression.  
+*   en grammes de chlore actif par litre (1 degré chlorométrique correspond à 3,17 g de chlore libre par litre).  
 *   en partie par million (ppm).
 
 L’unité de mesure est maintenant la quantité de chlore actif exprimée en pourcentage.  
@@ -341,11 +341,13 @@ Les solutions d’hypochlorite sont distribuées actuellement sous deux formes :
 
 <tr>
 
-<td class="rtecenter">![](javel-1-site.jpg)
+<td class="rtecenter">
+![](javel-1-site.jpg)
 Eau de Javel prête à l'emploi  
 2,6 % de chlore actif</td>
 
 <td>
+
 
 ![](javel-2.jpg)
 

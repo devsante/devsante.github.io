@@ -25,7 +25,7 @@ Depuis 1988, notre équipe a pratiqué plus de 140 enregistrements de 24 heures 
 
 C'est grâce à l'utilisation de la PSG pendant 24 heures consécutives que nous avons pu préciser le trouble de la distribution de la veille et du sommeil au cours de la THA. Les patients atteints de THA au stade de méningo-encéphalite présentent ce que nous pouvons appeler le syndrome du cycle veille-sommeil _(Figure_ 1) qui est constitué par deux signes majeurs
 
-*   Le dérèglement du cycle veille-sommeil sur 24 heures. Le sommeil devient de plus en plus polyphasique avec des épisodes de sommeil de plus en plus courts survenant à n'importe quel moment du jour et de la nuit.
+*   Le dérèglement du cycle veille-sommeil sur 24 heures. Le sommeil devient de plus en plus polyphasique avec des épisodes de sommeil de plus en plus courts survenant à n'importe quel moment du jour et de la nuit.  
 *   L'atteinte de la structure interne du sommeil. Le sommeil paradoxal précède souvent les épisodes de sommeil vrai (SOREM : Sleep Onset REM periods), d'autant plus fréquemment que l'atteinte est sévère, il est le premier à apparaître, le sommeil orthodoxe survenant après.
 
 ## II. Les effets du traitement sur  
@@ -45,6 +45,7 @@ Il semble donc bien que les SOREM puissent représenter un marqueur précoce de 
 **b)** Trente-deux patients ont été classés cliniquement et biologiquement comme étant en stade I ou en stade II. Ils ont tous eu un examen PSG à partir duquel un diagnostic de stade II (SOREM avec ou sans perturbation du cycle veille-sommeil)
 
 ou de stade I (absence de syndrome du cycle veille-sommeil) a été posé. Il apparaît que le diagnostic de stade I porté par l'examen bioclinique n'est corroboré par l'examen PSG que dans 40 % des cas.
+
 
 ![](i985-1.jpg)
 

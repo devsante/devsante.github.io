@@ -19,7 +19,7 @@ Les résultats sont obtenus rapidement grâce à des compteurs automatiques. La 
 
 #### Interprétation au bloc opératoire
 
-*   Permet la quantification de l'importance de la consommation et/ou de la dilution.
+*   Permet la quantification de l'importance de la consommation et/ou de la dilution.  
 *   Il est impossible de fixer une valeur limite en dessous de laquelle le risque hémorragique est en rapport avec la diminution du nombre de plaquettes (50 Giga/l n'est pas un critère absolu). La répétition de la numération plaquettaire à intervalles rapprochés permet de suivre l'évolution du patient et de la thérapeutique.
 
 <table>
@@ -66,19 +66,19 @@ La corrélation est inconstante avec la numération plaquettaire si < 100 Giga/l
 
 #### Méthode de Duke
 
-*   Incision du lobe de l'oreille avec un vaccinostyle ou une aiguille stérile.
-*   Recueil de la goutte de sang toutes les 30 secondes à l'aide d'un papier buvard.
+*   Incision du lobe de l'oreille avec un vaccinostyle ou une aiguille stérile.  
+*   Recueil de la goutte de sang toutes les 30 secondes à l'aide d'un papier buvard.  
 *   Normale : de 2 à 4 minutes.
 
 Cette technique est peu sensible et peu reproductible.
 
 #### Méthode d'Ivy
 
-*   Brassard gonflé à 40 mm Hg sur le bras.
-*   Légère incision horizontale de 1 cm sur l'avant-bras.
-*   Recueil de la goutte de sang toutes les 30 secondes sans toucher les bords de l'incision afin de ne pas altérer le clou plaquettaire.
-*   Test plus sensible.
-*   Meilleure reproductibilité.
+*   Brassard gonflé à 40 mm Hg sur le bras.  
+*   Légère incision horizontale de 1 cm sur l'avant-bras.  
+*   Recueil de la goutte de sang toutes les 30 secondes sans toucher les bords de l'incision afin de ne pas altérer le clou plaquettaire.  
+*   Test plus sensible.  
+*   Meilleure reproductibilité.  
 *   Normale : de 4 à 8 minutes.
 
 (Il existe des dispositifs à usage unique permettant une technique standardisée).
@@ -141,10 +141,10 @@ Il est automatisable, simple et peu coûteux.
 
 #### Sensibilité du TCA
 
-*   Bonne détection d'un déficit isolé (si taux de F VIII, IX, XI, XII < 40 % à 50 %).
-*   Moins bonne pour les facteurs de la voie finale commune.
-*   Sensibilité diminuée en cas de forte élévation du F VIII (stress, effort physique, inflammation, fin de grossesse).
-*   Le TCA est allongé en présence d'anticoagulant circulant, non corrigé par l'adjonction d'un plasma normal.
+*   Bonne détection d'un déficit isolé (si taux de F VIII, IX, XI, XII < 40 % à 50 %).  
+*   Moins bonne pour les facteurs de la voie finale commune.  
+*   Sensibilité diminuée en cas de forte élévation du F VIII (stress, effort physique, inflammation, fin de grossesse).  
+*   Le TCA est allongé en présence d'anticoagulant circulant, non corrigé par l'adjonction d'un plasma normal.  
 *   Le TCA n'a pas de valeur prédictive du risque hémorragique.
 
 <table>
@@ -173,7 +173,9 @@ Il va donc faire double emploi avec le TCA, puisqu'il teste les mêmes facteurs,
 *   soit en pourcentage d'activité : taux de prothrombine (TP), valeur normale : 70 à 100 _%, (voir tableau 1)_
 *   Soit en INR _(International Normalized Ratio_) permettant une standardisation du suivi des patients traités par antivitamines K (AVK) exclusivement.
 
+
 ![](i958-1.jpg)
+
 ![](i958-2.jpg)
 <table>
 
@@ -243,7 +245,7 @@ Pratiqué fréquemment en période pré-opératoire (normale : 2-4 g/l), son int
 
 ### 1. Facteurs de la coagulation
 
-*   Tous les facteurs de coagulation (voie intrinsèque et voie extrinsèque) peuvent être dosés séparément.
+*   Tous les facteurs de coagulation (voie intrinsèque et voie extrinsèque) peuvent être dosés séparément.  
 *   Le choix des facteurs à tester est fonction des résultats des tests globaux et du contexte clinique.
 
 ### 2. Recherche d'un anticoagulant **circulant**
@@ -254,8 +256,8 @@ Au moins un des tests de dépistage est allongé (TCA le plus souvent).
 
 **Test de correction (Malade + Témoin)**
 
-*   Ce test permet la distinction entre un déficit (T + M corrigé) et la présence d'un inhibiteur (T + M non corrigé).
-*   Il peut se pratiquer sur tous les tests de coagulation.
+*   Ce test permet la distinction entre un déficit (T + M corrigé) et la présence d'un inhibiteur (T + M non corrigé).  
+*   Il peut se pratiquer sur tous les tests de coagulation.  
 *   En cas d'anticoagulant circulant, l'addition à partie égale de plasma normal au plasma du sujet ne corrige pas, ou partiellement, l'allongement du test anormal.
 
 #### b. Les anticorps
@@ -276,8 +278,8 @@ _Il existe des examens plus spécifiques permettant d'étudier les fonctions pla
 
 Il n'est pas toujours possible de disposer de tous ces examens. En l'absence de TCA, TQ, TH, TT, dosage du fibrinogène ou de numération des plaquettes, et si l'interrogatoire, l'examen clinique, l'intervention prévue ou ses suites immédiates laissent apparaître un risque hémorragique réel, il convient, au minimum :
 
-*   de réaliser un temps de saignement au lobe de l'oreille (Duke). Ce test peut constituer une alternative intéressante à la numération plaquettaire. Il renseigne également plus généralement sur l'hémostase primaire. Il ne dispense toutefois pas d'une étude de la phase de coagulation.
-*   de réaliser un temps de coagulation qui permettra de quantifier grossièrement le trouble hémorragique sans pouvoir définir la cause du trouble.
+*   de réaliser un temps de saignement au lobe de l'oreille (Duke). Ce test peut constituer une alternative intéressante à la numération plaquettaire. Il renseigne également plus généralement sur l'hémostase primaire. Il ne dispense toutefois pas d'une étude de la phase de coagulation.  
+*   de réaliser un temps de coagulation qui permettra de quantifier grossièrement le trouble hémorragique sans pouvoir définir la cause du trouble.  
 *   de prévenir le chirurgien afin que l'hémostase chirurgicale soit la plus soigneuse possible.
 
 _Développement et Santé, n°158, avril 2002_

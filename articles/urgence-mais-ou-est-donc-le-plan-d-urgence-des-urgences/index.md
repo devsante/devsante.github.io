@@ -31,7 +31,7 @@ Le diagnostic est d'évaluer la fréquence des situations d'urgence et la maniè
 Le diagnostic étant fait, il s'agit de traiter, c'est-à-dire de mettre en place un programme dans lequel sont définies précisément toutes les activités requises pour un plan d'action urgence efficace. À titre indicatif :
 
 *   former le personnel au diagnostic et au traitement d'urgences,
-*   assurer la disponibilité des ressources (médicaments, matériels...
+*   assurer la disponibilité des ressources (médicaments, matériels...  
 *   assurer les modalités de transfert,
 *   évaluer l'efficacité du système.
 

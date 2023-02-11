@@ -95,6 +95,7 @@ L'incidence globale des complications est estimée à 3 à 5 % par an.
 
 Elles comprennent l'hémorragie digestive, la perforation et la sténose pyloro-duodénale.
 
+
 ![](i880-1.jpg)
 
 
@@ -104,7 +105,7 @@ Il s'agit de la complication la plus fréquente avec une incidence de 2 % par an
 
 L'hémorragie relève de deux mécanismes :
 
-*   L'hémorragie au niveau d'une gastrite ou d'une duodénite avec érosion des capillaires; dans ce cas elle est rarement grave.
+*   L'hémorragie au niveau d'une gastrite ou d'une duodénite avec érosion des capillaires; dans ce cas elle est rarement grave.  
 *   L'hémorragie par ulcère profond érodant un vaisseau de plus gros calibre ; les vaisseaux les plus exposés sont l'artère gastro-duodénale à la face postérieuse du bul6e duodénal, les branches de l'artère coronaire stomachique au niveau de la petite courbure verticale ; dans ce cas il s'agit d'une hémorragie grave récidivante mettant en danger la vie du patient.
 
 La survenue d'une hémorragie doit faire hospitaliser le patient en milieu spécialisé ; après rétablissement de l'hémodynamique, une endoscopie doit être réalisée précocement. Elle permet le diagnostic d'ulcère hémorragique dans 80 à 90 % des cas, la classification de Forrest est utilisée pour apprécier le risque de récidive :
@@ -126,6 +127,7 @@ Deuxième complication en fréquence de la maladie ulcéreuse gastro-duodénale 
 Le tableau le plus fréquent est celui de la perforation en péritoine libre avec survenue brutale de douleur en coup de poignard suivie de malaise général et de vomissements. Cette douleur s'étend à tout l'abdomen et s'accompagne rapidement de fièvre. L'examen clinique met en évidence une défense épigastrique puis généralisée à tout l'abdomen, voire un état de choc dans les cas évolués.
 
 Le diagnostic, généralement facile cliniquement, est confirmé par la présence d'un pneumopéritoine (_figure n° 1_) à la radiographie de l'abdomen sans préparation en station debout. Le tableau peut être trompeur chez les sujets âgés ou lorsqu'il y a perforation en péritoine cloisonné ou dans un organe de voisinage (perforation bouchée).
+
 
 ![](i880-2.jpg)
 
@@ -190,6 +192,7 @@ _Le traitement repose actuellement sur_ _une trithérapie de 7 jours_
 
 Le traitement d'éradication en cas d'association d'une infection à Hp à des lésions ulcéreuses justifie le recours à 2 antibiotiques et un inhibiteur de la pompe à proton donné à double dose (oméprazole 40 mg par jour) ; pour une durée d'une semaine. Lorsque le choix de l'antisécrétoire porte sur un anti-H<sub>2</sub> (ranitidine 300 mg deux fois par jour par exemple) la durée du traitement d'éradication est prolongée à 2 semaines. Le choix porte sur les antibiotiques suivants : amoxicilline 1 000 mg deux fois par jour, métronidazole 500 mg deux fois, par jour ; clarithromycine 500 mg deux fois par jour. En cas d'allergie à la pénicilline on remplace l'amoxicilline, par le métronidazole.
 
+
 ![](i880-1.jpg)
 
 
@@ -200,6 +203,7 @@ Ce traitement d'éradication est suivi d'un traitement antisécrétoire de 3 sem
 Les indications opératoires ont fortement diminué depuis l'avènement des antisécrétoires. Il est actuellement réservé aux formes compliquées.
 
 Pour l'ulcère gastrique, le traitement repose sur la gastrectomie des deux tiers enlevant l'ulcère avec un rétablissement de la continuité gastro-duodénale termino-terminale (intervention de Pean) ou gastro-jéjunale (intervention de Finsterer) _(figure n°2)._ Le traitement de l'ulcère duodénal repose le plus souvent sur la vagotomie-antrectomie _(figure n°3)._
+
 
 ![](i880-3.jpg)
 
@@ -213,6 +217,7 @@ La majorité des hémorragies s'arrêtent spontanément ; le traitement endoscop
 #### b. Perforation
 
 Le traitement par la méthode de Taylor peut être tenté en cas de perforation vue précocement à distance d'un repas: il associe une diète avec aspiration digestive à un traitement antisécrétoire par voie intraveineuse et à un traitement antibiotique avec une surveillance stricte clinique toutes les 4 heures en quête de la moindre aggravation. Le traitement chirurgical est de mise dans les autres cas, il associe une toilette péritonéale à une suture de l'ulcère et éventuellement un traitement de la maladie ulcéreuse (figure _n°4)._
+
 
 ![](i880-5.jpg)
 
@@ -232,6 +237,7 @@ L'uréase de la bactérie transforme l'urée en ammoniac et CO<sub>2</sub>, l'am
 ### 2. Sérologie
 
 Cet examen plus coûteux que le test à 1'uréase consiste à rechercher par méthode ELISA des IgG anti-_Helicobacter pylori_. La sensibilité et spécificité sont bonnes, et cet examen est très utile pour les études épidémiologiques.
+
 
 ![](i880-6.jpg)
 

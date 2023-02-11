@@ -16,14 +16,14 @@ A partir de ce constat, il est possible :
 Pour dépister, il faut disposer d’un examen biologique qui affirme que le sujet est porteur du  virus dans son organisme. La disponibilité d’un test PCR mettant en évidence la présence de virus (détection du génome) a permis de réaliser ce dépistage. 
 
 ### L'isolement
-L’isolement des sujets contaminants est soit contraint (avec des problèmes de liberté individuelle), soit volontaire (avec le risque d’une mauvaise application).
-Le confinement généralisé a été choisi par la majorité des pays ;  en permettant une bonne distanciation, il a donné de plus ou moins bons résultats. Mais il a des répercussions sanitaires, sociales et économiques qui font craindre que le remède ne soit pire que le mal (prise en charge insuffisante des autres affections, famines, problèmes psychologiques). 
+L’isolement des sujets contaminants est soit contraint (avec des problèmes de liberté individuelle), soit volontaire (avec le risque d’une mauvaise application).  
+Le confinement généralisé a été choisi par la majorité des pays ;  en permettant une bonne distanciation, il a donné de plus ou moins bons résultats. Mais il a des répercussions sanitaires, sociales et économiques qui font craindre que le remède ne soit pire que le mal (prise en charge insuffisante des autres affections, famines, problèmes psychologiques).  
 Par ailleurs, cette stratégie ne permet pas, ou mal, d’obtenir une immunité collective suffisante pour stopper l’épidémie. La dynamique des épidémies de maladie infectieuse se fait presque toujours selon une courbe en cloche (dans le cas de la Covid-19, la courbe épidémique paraît plus étalée, avec une phase descendante plus lente), et l’immunité de groupe participe à la phase descendante des cas.
 
 **Au plan communautaire**
  Il est possible d’envisager la fermeture des frontières mais cette mesure ne peut être efficace que dans le cadre des îles. Le virus étant transporté par les humains, il n’existe aucune frontière terrestre qui soit totalement imperméable.
 
-La fermeture des frontières terrestres a provoqué la fin des approvisionnements pour de nombreux produits de première nécessité sans empêcher certains de passer à pied ou en deux roues ; c’est une mauvaise solution, sauf pour les îles.
+La fermeture des frontières terrestres a provoqué la fin des approvisionnements pour de nombreux produits de première nécessité sans empêcher certains de passer à pied ou en deux roues ; c’est une mauvaise solution, sauf pour les îles.  
 **En Afrique**, le confinement est non seulement impossible mais contre-productif : il entraîne sous-alimentation, misère et violences plus graves que la Covid. La majorité des sujets travaille au jour le jour, et rester chez soi signifie  : pas d’argent et pas de nourriture pour la famille.
 
 ### Les mesures essentielles
@@ -38,20 +38,20 @@ Pour rappel, le savon ne tue pas les virus et microbes, il facilite l’élimina
 **Le port de masques**
 Reste le port de masques,  pour lequel il a été dit beaucoup de choses, avec la difficulté de passer des données de laboratoire à la vie quotidienne. Les seuls masques qui peuvent arrêter les virus sont les FFP3 (pas même les FFP2), très chers, il est illusoire d’en envisager l’utilisation massive par le public. 
 
-Les **masques chirurgicaux ou alternatifs en tissu**, s’ils n’arrêtent pas les virus directement, arrêtent très bien les gouttelettes émises lorsque l’on parle, éternue ou tousse. Le port de masques par un grand nombre de personnes permet d’une part de protéger les autres, d’autre part de diminuer le nombre de virus qui circulent. 
+Les **masques chirurgicaux ou alternatifs en tissu**, s’ils n’arrêtent pas les virus directement, arrêtent très bien les gouttelettes émises lorsque l’on parle, éternue ou tousse. Le port de masques par un grand nombre de personnes permet d’une part de protéger les autres, d’autre part de diminuer le nombre de virus qui circulent.  
 Quand on examine les courbes épidémiques des différents pays et quelles que soient les stratégies qui y sont préconisées, ceux où le port de masques est généralisé dans les lieux publics, en dehors de toute épidémie, ont vu des dynamiques moins agressives de l’épidémie de Covid, par exemple le Japon, Taïwan, la Corée et même la Chine. 
 
 ## Respecter les indications des autorités sanitaires 
 **Stimuler son immunité**
 Une vie saine stimule l’immunité de base de chacun il faut pratiquer tous les jours un moment d’activité physique (marche, sports, travail aux champs ou à la maison) ; il faut avoir une alimentation équilibrée avec le moins de toxiques possible (alcools, tabac). Attention à l’obésité qui est un facteur aggravant majeur du Covid !
-Les patients atteints d’une maladie chronique non transmissible (diabète, HTA, insuffisance cardiovasculaire) doivent être très attentif au maintien d'un bon équilibre de l’affection. S’il s’agit d’une autre infection, il faut la traiter rapidement.
+Les patients atteints d’une maladie chronique non transmissible (diabète, HTA, insuffisance cardiovasculaire) doivent être très attentif au maintien d'un bon équilibre de l’affection. S’il s’agit d’une autre infection, il faut la traiter rapidement.  
 Il faut poursuivre le programme de vaccinations des enfants surtout et des adultes.
 
 **La prise en charge**
 Les facteurs favorisants d’une manifestation grave du Covid, qui concerne  15% des personnes contaminées, sont l’âge avancé et les comorbidités citées plus haut.
 
 **Retard au diagnostic des formes graves**
-Environ 85 % des personnes contaminées feront une affection bénigne, l’important est de prendre en charge rapidement les autres. Les signes majeurs de gravité sont la **gêne respiratoire** : dès que le sujet a de la peine à respirer, s'il est obligé de reprendre son souffle au cours de la discussion ou de ses déplacements, il doit consulter rapidement. 
+Environ 85 % des personnes contaminées feront une affection bénigne, l’important est de prendre en charge rapidement les autres. Les signes majeurs de gravité sont la **gêne respiratoire** : dès que le sujet a de la peine à respirer, s'il est obligé de reprendre son souffle au cours de la discussion ou de ses déplacements, il doit consulter rapidement.  
 Dans notre contexte, le diagnostic sera essentiellement clinique. Une étude européenne * portant sur 1 430 patients présentant tous une forme non sévère de l’infection, confirmée par test PCR, a permis d'établir un tableau des signes cliniques les plus fréquemment retrouvés au cours de l’infection.                                                                       
 Les céphalées étaient le symptôme le plus souvent rapporté (70,3 %), suivies d'une perte de l'odorat (70,2 %),  d'une  obstruction nasale (67,8 %), d'une toux (63,2 %), d'une asthénie (63,3 %), de myalgies (62,5 %), de rhinorrhée (60,1 %), d'une dysfonction gustative (54,2 %), de maux de gorge (52,9 %). La fièvre, quant à elle, était signalée par 45,4% des patients. Les auteurs font remarquer que les signes varient selon le genre et qu’ils diffèrent des signes recensés dans les études chinoises.    
                                              

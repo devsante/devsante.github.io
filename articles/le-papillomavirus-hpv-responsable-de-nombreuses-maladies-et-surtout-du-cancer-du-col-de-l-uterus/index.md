@@ -105,6 +105,7 @@ Heureusement, la réponse immunitaire, et en particulier les lymphocytes T, va p
 
 Mais dans les autres cas, pour une raison inconnue, le virus persiste dans les cellules de la muqueuse, entraînant des dysplasies intra épithéliales puis des lésions précancéreuses de différents grades (CIN 2, CIN 3) qui, en quelques années, vont devenir des cancers du col utérin, dont la survenue est favorisée par d’autres facteurs : autre MST, tabagisme, contraceptifs oraux, multiparité et surtout infection à HIV (figure 2).
 
+
 ![](image003-1.png)
 
 
@@ -119,6 +120,7 @@ D’autres HPV provoquent des dysplasies bénignes : les condylomes ano-génita
 ### Cancers oropharyngés
 
 L’HPV est de plus en plus responsable de cancers de la sphère aérodigestive haute, aggravés par le tabagisme et l’alcool. Le rôle de l’HPV, dans ces cancers, augmente régulièrement (Tableau 3).
+
 
 ![](image005-0.png)
 

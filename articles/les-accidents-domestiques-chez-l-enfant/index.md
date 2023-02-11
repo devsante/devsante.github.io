@@ -67,7 +67,7 @@ En Afrique, les brûlures et l'ingestion de produits toxiques occupent la premi�
 
 Les enfants de moins de 5 ans sont les plus concer­nés, l'accident se produisant souvent lors de la préparation des repas (proximité des inarmites), ou à l'occasion de la chute d'une lampe à pétrole (sou­vent seul mode d'éclairage).
 
-*   La cuisson des repas sur des braseros à bois, à charbon, ou sur des réchauds à alcool ou à pétrole peut être dangereuse : l'enfant peut se brûler directement au contact des flammes ou des braises, mais aussi en renversant de l'eau ou de l'huile bouillante.
+*   La cuisson des repas sur des braseros à bois, à charbon, ou sur des réchauds à alcool ou à pétrole peut être dangereuse : l'enfant peut se brûler directement au contact des flammes ou des braises, mais aussi en renversant de l'eau ou de l'huile bouillante.  
 *   L'enfant peut également se brûler au contact de produits chimiques comme les produits phytosa­nitaires ou les caustiques.
 
 Les brûlures, d'étendue variable, sont souvent sources de séquelles irréversibles. Toutes ne sont pas adressées aux urgences du dispensaire ou de l'hôpital, mais soignées par le guérisseur local, ce qui favorise leur surinfection ou des cicatrices inesthétiques.
@@ -76,10 +76,10 @@ Les brûlures, d'étendue variable, sont souvent sources de séquelles irrévers
 
 **Lors de la préparation des repas**
 
-*   Lorsque l'on utilise une gazinière : ne pas laisser dépasser les queues des casseroles et utiliser de préférence des marmites en les posant sur les feux les plus éloignés du devant de la gazinière.
-*   Les braseros ou les réchauds doivent être placés dans une pièce où les enfants ne peuvent entrer ou à l'intérieur d'un petit enclos muni de barrières qu'ils ne peuvent franchir.
-*   Il ne faut pas laisser les enfants seuls à proximité d'un foyer qui n'est pas protégé.
-*   Laisser de petits enfants à la surveillance d'un enfant plus âgé n'est pas suffisant. L'aîné peut à tout moment s'absenter ou ne surveiller que distraite­ment ce que font les frères et soeurs en bas âge.
+*   Lorsque l'on utilise une gazinière : ne pas laisser dépasser les queues des casseroles et utiliser de préférence des marmites en les posant sur les feux les plus éloignés du devant de la gazinière.  
+*   Les braseros ou les réchauds doivent être placés dans une pièce où les enfants ne peuvent entrer ou à l'intérieur d'un petit enclos muni de barrières qu'ils ne peuvent franchir.  
+*   Il ne faut pas laisser les enfants seuls à proximité d'un foyer qui n'est pas protégé.  
+*   Laisser de petits enfants à la surveillance d'un enfant plus âgé n'est pas suffisant. L'aîné peut à tout moment s'absenter ou ne surveiller que distraite­ment ce que font les frères et soeurs en bas âge.  
 *   - Il ne faut pas demander à un enfant jeune de manipuler des marmites et récipients brûlants trop lourds qu'il risque de faire tomber sur lui.
 
 **En cas d'utilisation de produits chimiques**
@@ -149,8 +149,8 @@ en cas d'ingestion ou de contact avec la peau
 
 Les jeunes enfants sont attirés par les bouteilles, bidons... qui contiennent des liquides ou des poudres. Il faut donc :
 
-*   Ne pas laisser ces produits à leur portée mais les ranger soit dans un meuble ou une remise qui ferment à clef, soit sur une étagère placée en hau­teur, ou encore les attacher au plafond ou à une poutre.
-*   Utiliser le récipient d'origine et non une bouteille vide quelconque qui contient normalement une boisson. Il ne faut pas qu'un enfant puisse confondre une bouteille de produits dangereux avec une bouteille de boisson.
+*   Ne pas laisser ces produits à leur portée mais les ranger soit dans un meuble ou une remise qui ferment à clef, soit sur une étagère placée en hau­teur, ou encore les attacher au plafond ou à une poutre.  
+*   Utiliser le récipient d'origine et non une bouteille vide quelconque qui contient normalement une boisson. Il ne faut pas qu'un enfant puisse confondre une bouteille de produits dangereux avec une bouteille de boisson.  
 *   Si un produit dangereux n'est pas stocké dans le contenant d'origine, il faut impérativement mettre sur ce récipient une marque, une étiquette, un dessin, un tissu indiquant le danger.
 
 Si l'on ne peut faire autrement que stocker un pro­duit dans une bouteille ou un bidon quelconque, il faut obligatoirement le laver et le rincer à plu­sieurs reprises s'il doit être réutilisé.
@@ -190,8 +190,9 @@ Les petits enfants sont victimes d'**étouffement** et de blessures internes lor
 
 Si l'enfant avale de travers, tousse, suffoque, ne reprend pas sa respiration et devient bleu, il faut agir immédiatement :
 
-*   Placer le nourrisson à plat ventre sur le genou flé­chi, visage vers le sol. Frapper plusieurs fois entre ses omoplates, du plat de la main. C'est la manoeuvre de Mofenson.
+*   Placer le nourrisson à plat ventre sur le genou flé­chi, visage vers le sol. Frapper plusieurs fois entre ses omoplates, du plat de la main. C'est la manoeuvre de Mofenson.  
 *   Si cela n'est pas efficace, il faut effectuer des com­pressions thoraciques : retourner l'enfant sur le dos, l'allonger tête basse sur l'avant-bras et la cuisse. Effectuer 5 compressions sur le devant du thorax avec deux doigts au milieu de la poitrine, sur la partie inférieure du sternum _(voir schéma)._
+
 
 ![](i2096-2-1.jpg)
 
@@ -199,6 +200,7 @@ Si l'enfant avale de travers, tousse, suffoque, ne reprend pas sa respiration et
 **Chez l'enfant de plus de un an : la manoeuvre de Heimlich**
 
 Elle consiste à exercer une forte pression de bas en haut sur le diaphragme à travers la paroi abdomi­nale, ce qui provoque une hyperpression de l'air contenu clans les poumons et les bronches et tend à expulser le corps étranger à l'extérieur.
+
 
 ![](i2096-1-1.jpg)
 
@@ -223,15 +225,15 @@ Dans de nombreux pays africains, en milieu rural, la végétation entourant vill
 
 *   Essayer de déterminer l'espèce du serpent et son type pour savoir si l'on doit s'attendre a un syn­drome :
     *   vipérin : oedème local, douleurs intenses, hypo­tension artérielle, syndrome hémorragique
-    *   cobraïque : paralysie, cardiotoxicité.
+    *   cobraïque : paralysie, cardiotoxicité.  
 *   Calmer l'agitation, l'angoisse et la douleur :
     *   benzodiazépine (diazépam, clorazépate clipotas­sique...) ;
     *   paracétamol et éventuellement morphine ; ne pas donner d'aspirine en raison du risque hémorragique ;
-    *   rassurer et laisser parler l'enfant.
-*   Nettoyer et désinfecter la plaie.
-*   Apprécier la gravité, le grade d'envenimation.
-*   Poser une perfusion et débuter une antibiothérci­pie et une corticothérapie.
-*   Administrer sérum anti-tétanique et sérum anti­venimeux.
+    *   rassurer et laisser parler l'enfant.  
+*   Nettoyer et désinfecter la plaie.  
+*   Apprécier la gravité, le grade d'envenimation.  
+*   Poser une perfusion et débuter une antibiothérci­pie et une corticothérapie.  
+*   Administrer sérum anti-tétanique et sérum anti­venimeux.  
 *   Garder et surveiller, évacuation sanitaire en cas de signes de gravité.
 
 <table>
@@ -259,9 +261,9 @@ Le venin a des effets toxiques (neurologiques et cardiaques) marqués principale
 
 On propose d'administrer :
 
-*   En sous-cutané, près de la piqûre de scorpion : 1 ml de lidocaïne qui a un effet analgésique.
-*   Diazépam ou clorazépate dipotassique par voie orale.
-*   En sous-cutané : atropine 1 ml.
+*   En sous-cutané, près de la piqûre de scorpion : 1 ml de lidocaïne qui a un effet analgésique.  
+*   Diazépam ou clorazépate dipotassique par voie orale.  
+*   En sous-cutané : atropine 1 ml.  
 *   Antalgiques par voie orale.
 
 Surveillance très étroite pendant 48 heures. Sérum antitétanique indispensable.  
@@ -276,7 +278,7 @@ Il faut avant tout ramener l'enfant très rapidement à terre car le risque de n
 
 Le traitement :
 
-*   Administration d'un corticoïde ou à défaut, d'un anti-allergique (deschlorphénirunine, prométha­zine).
+*   Administration d'un corticoïde ou à défaut, d'un anti-allergique (deschlorphénirunine, prométha­zine).  
 *   Lavage de la plaie en retirant les débris de filament de méduse.
 
 **Prévention des morsures et piqûres**
@@ -299,9 +301,10 @@ Les traumatismes crâniens sont observés dans les trois quarts des cas de chute
 
 **Trois tableaux peuvent être observés**
 
-*   L'enfant pleure et il est conscient, ce qui est le cas le plus fréquent. Il faut le surveiller attentivement. Si des troubles de la conscience ou de la mobilité appa­raissent, il faut sans attendre le conduire à l'hôpital.
-*   L'enfant a eu une brève perte de connaissance puis a repris conscience : il doit être immédiate­ment conduit à l'hôpital pour un bilan.
+*   L'enfant pleure et il est conscient, ce qui est le cas le plus fréquent. Il faut le surveiller attentivement. Si des troubles de la conscience ou de la mobilité appa­raissent, il faut sans attendre le conduire à l'hôpital.  
+*   L'enfant a eu une brève perte de connaissance puis a repris conscience : il doit être immédiate­ment conduit à l'hôpital pour un bilan.  
 *   L'enfant ne reprend pas connaissance : il faut immédiatement le placer en position latérale (le sécurité et appeler les secours.
+
 
 ![](i2096-3-1.jpg)
 
@@ -318,10 +321,10 @@ Les parents doivent, lorsque leurs enfants commen­cent à parler et à marcher,
 
 Les quelques études menées sur le continent africain. à partir d'échantillons d'enfants amenés dans les structures sanitaires à la suite d'un accident domestique, font apparaître que certains facteurs de risque sont communs aux différents cas :
 
-*   La jeunesse de la mère et son faible niveau de scolarisation constituent un facteur de risque par manque d'information et de maturité. La jeune mère est moins attentive à ses enfants que la mère de famille dépassant la trentaine.
-*   L'importance de la fratrie : plus les enfants sont nombreux, moins la mère a le temps de s'occuper étroitement de chacun et plus elle délègue aux aînées, pas toujours attentives, la surveillance des plus jeunes.
-*   Le type de surveillance de l'enfant : confié aux soins d'une jeune bonne ou d'une parente à peine plus âgée.
-*   Le moment de la préparation des repas : les types d'énergie et de réchaud sont dangereux pour les jeunes enfants car ils sont à leur hauteur et ne disposent d'aucune protection.
+*   La jeunesse de la mère et son faible niveau de scolarisation constituent un facteur de risque par manque d'information et de maturité. La jeune mère est moins attentive à ses enfants que la mère de famille dépassant la trentaine.  
+*   L'importance de la fratrie : plus les enfants sont nombreux, moins la mère a le temps de s'occuper étroitement de chacun et plus elle délègue aux aînées, pas toujours attentives, la surveillance des plus jeunes.  
+*   Le type de surveillance de l'enfant : confié aux soins d'une jeune bonne ou d'une parente à peine plus âgée.  
+*   Le moment de la préparation des repas : les types d'énergie et de réchaud sont dangereux pour les jeunes enfants car ils sont à leur hauteur et ne disposent d'aucune protection.  
 *   Les enfants de 0 à 5 ans sont les plus vulnérables : ils ne sont pas scolarisés, ne fréquentent générale­ment pas, comme en occident, des structures telles que les jardins d'enfants ou les crèches. Souvent livrés à eux-mêmes, leur mère s'affairant aux tâches ménagères ou champêtres, ces enfants explorent maison et cour à la recherche de jeux ou d'objets quelconques qui deviennent à leurs yeux des jouets, même s'ils sont potentiellement dangereux.
 
 **Conclusion**

@@ -8,6 +8,7 @@ Aujourd'hui, 3 à 4 millions d'enfants meurent chaque année de diarrhées et d'
 
 **Le WATA**
 
+
 ![](i1009-1.jpg)
 
 

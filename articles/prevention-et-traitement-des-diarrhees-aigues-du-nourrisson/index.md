@@ -31,8 +31,8 @@ Il s'agit le plus souvent d'agents infectieux transmis avec l'alimentation en ra
 
 ### 1. Mesures générales
 
-*   L'usage des latrines, afin de bloquer la transmis­sion des microbes à partir des selles des malades, est surtout important chez le grand enfant. Il a peu d'effet chez le nourrisson.
-*   L'emploi d'une eau stérile dans l'alimentation de l'enfant est délicat à réaliser. L'usage de l'eau bouillie peut se heurter à des traditions contraires et se révèle parfois difficile lorsqu'il faut chercher et transporter du bois, faire chauffer et refroidir l'eau avec les ustensiles habituels.
+*   L'usage des latrines, afin de bloquer la transmis­sion des microbes à partir des selles des malades, est surtout important chez le grand enfant. Il a peu d'effet chez le nourrisson.  
+*   L'emploi d'une eau stérile dans l'alimentation de l'enfant est délicat à réaliser. L'usage de l'eau bouillie peut se heurter à des traditions contraires et se révèle parfois difficile lorsqu'il faut chercher et transporter du bois, faire chauffer et refroidir l'eau avec les ustensiles habituels.  
 *   Le nettoyage des récipients à grande eau est moins précis mais paraît plus facile et s'est révélé efficace pour réduire la fréquence des infections à shigelles. Mais tant qu'il faut aller chercher de l'eau à une colonne d'alimentation centrale, elle est employée en petite quantité. Il faut apporter l'eau par canalisation non seulement dans les villages, mais jusque dans les foyers.
 
 ### 2. Mesures individuelles
@@ -54,6 +54,7 @@ Si les microbes arrivent dans l'intestin du grand enfant, ils rencontrent une ba
 ### 2. Nutritionnels
 
 Pour se défendre contre les infections, en particu­lier digestives, l'organisme a besoin de disposer d'un bon état nutritionnel. Une malnutrition, même modérée, et passée inaperçue de la famille vient favoriser et aggraver la diarrhée infectieuse. Les pesées régulières et la vérification que la courbe de poids se situe bien dans le "chemin de la santé" apprécient la qualité de l'état nutritionnel et permettent de corriger les anomalies. Si la malnutrition favorise la diarrhée, chaque diar­rhée est une cause de malnutrition et peut ainsi enclencher un cercle vicieux redoutable. La pré­vention de la diarrhée ne se conçoit pas sans la pré­vention de la malnutrition.
+
 
 ![](image002-1.jpg)
 
@@ -101,12 +102,14 @@ Si la mère n'en dispose pas au début de la diarrhée de l'enfant, elle peut d'
 *   le jus d'une orange (contenant du potassium)
 *   pour un litre d'eau propre.
 
+
 ![](image004-0.jpg)
 
 
 **Le nécessaire de réhydratation consiste en  
 une gourde munie d'un bouchon pour conserver l'eau,  
 une tasse assez grande, une boîte de sel et une boîte de sucre.**
+
 
 ![](image006-0.jpg)
 
@@ -117,9 +120,9 @@ La majorité des enfants diarrhéiques peuvent être convenablement soignés à 
 
 L'éducation sanitaire visant la prévention des diarrhées aiguës doit avoir plusieurs impacts :
 
-*   La mère, lorsqu'elle est vue à l'occasion d'une diarrhée de son enfant, en consultation ou à l'hô­pital. L'accent doit alors être mis sur les risques de la déshydratation et leur contrôle, mais ne peut régler les autres buts.
-*   La mère, lors des séances régulières de PMI selon un programme pré-établi avec démonstrations pour apprendre à réaliser la "solution de réhydratation". Au cours des mêmes séances, on peut développer l'intérêt de l'allaitement maternel.
-*   A l'école, pour sensibiliser les enfants au problè­me de l'eau et de l'attitude à avoir devant les pre­miers troubles digestifs.
+*   La mère, lorsqu'elle est vue à l'occasion d'une diarrhée de son enfant, en consultation ou à l'hô­pital. L'accent doit alors être mis sur les risques de la déshydratation et leur contrôle, mais ne peut régler les autres buts.  
+*   La mère, lors des séances régulières de PMI selon un programme pré-établi avec démonstrations pour apprendre à réaliser la "solution de réhydratation". Au cours des mêmes séances, on peut développer l'intérêt de l'allaitement maternel.  
+*   A l'école, pour sensibiliser les enfants au problè­me de l'eau et de l'attitude à avoir devant les pre­miers troubles digestifs.  
 *   Les chefs de famille et les responsables pour per­mettre un meilleur approvisionnement en eau et la confection locale de sachets de poudre permet­tant de reconstituer la "solution OMS".
 
 _Développement et Santé, n°194, 2009_

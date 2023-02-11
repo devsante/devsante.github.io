@@ -72,7 +72,7 @@ Cette approche a permis d'organiser des consulta­tions diabète dans les 6 comm
 *   entre les médecins référents et les médecins des autres structures publiques et privées de leur zone de consultation ;
 *   entre les médecins et les pharmaciens des struc­tures de santé, pour un approvisionnement adé­quat en médicaments du diabète ;
 *   entre les médecins et les laborantins, pour assu­rer la disponibilité et la qualité des analyses pour le suivi des patients diabétiques ;
-*   entre tous ces acteurs et les associations de patients des zones où sont établies les consulta­tions décentralisées, afin que les associations puissent assurer leur rôle de veille sur la qualité des soins et sur l'approvisionnement en médica­ments, en matériel d'analyse etc....
+*   entre tous ces acteurs et les associations de patients des zones où sont établies les consulta­tions décentralisées, afin que les associations puissent assurer leur rôle de veille sur la qualité des soins et sur l'approvisionnement en médica­ments, en matériel d'analyse etc....  
 *   entre les patients diabétiques qui se regroupent en associations et entre les associations de patients diabétiques des différentes zones.
 
 Ces consultations reposent sur un réseau constitué de 22 médecins référents formés et 22 infirmiers travaillant en binôme avec eux. En parallèle à ces binômes, 500 agents de santé ont été formés dans les structures et les services où consultent les médecins référents. L'évaluation, en 2008 et 2009, de ces consultations décentralisées a montré que 3 000 malades étaient pris en charge dans ces struc­tures périphériques avec une qualité des soins for­tement améliorée. Cette évaluation de la qualité de la prise en charge a été effectuée en analysant :

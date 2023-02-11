@@ -61,7 +61,7 @@ Tandis que les premières mesures thérapeutiques ont été prises, il faut exam
     *   état d’hydratation ;
     *   recherche d’une grosse rate ;
     *   auscultation des poumons ;
-    *   couleur des conjonctives.
+    *   couleur des conjonctives.  
 *   L’interrogatoire de la mère recherche des anomalies ayant précédé les convulsions, la notion de traumatisme crânien ;
 *   Les examens complémentaires, s’ils sont possibles, pourront se limiter à :
     *   une ponction lombaire, d’autant plus que l’enfant est jeune (en dessous de 1 an) car les signes cliniques sont moins francs à cet âge ;
@@ -133,6 +133,6 @@ Citons :
 
 **En résumé, il faut insister sur :**
 
-*   L’urgence représentée par la convulsion fébrile.
-*   La possibilité d’un paludisme et surtout d’un accès pernicieux qui commence.
+*   L’urgence représentée par la convulsion fébrile.  
+*   La possibilité d’un paludisme et surtout d’un accès pernicieux qui commence.  
 *   Enfin sur l’éducation de la mère à qui on apprendra à baigner son enfant fébrile et à le faire boire et ainsi à éviter la survenue de convulsions.

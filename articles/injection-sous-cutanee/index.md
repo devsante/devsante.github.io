@@ -20,32 +20,32 @@ L'injection sous-cutanée permet d'injecter une faible quantité de produit thé
 
 ## **III. Indications**
 
-*   Produits médicamenteux injectables ne pou­vant être utilisés par voie veineuse.
-*   Injection de produits anticoagulants (ces traitements ne doivent pas être injectés par voie intramusculaire) et d'insuline.
+*   Produits médicamenteux injectables ne pou­vant être utilisés par voie veineuse.  
+*   Injection de produits anticoagulants (ces traitements ne doivent pas être injectés par voie intramusculaire) et d'insuline.  
 *   Vaccins.
 
 ## **IV. Prérequis indispensables**
 
-*   Utilisation du produit à injecter (voie d'injec­tion, posologie, précaution d'utilisation, mode de reconstitution...).
+*   Utilisation du produit à injecter (voie d'injec­tion, posologie, précaution d'utilisation, mode de reconstitution...).  
 *   Anatomie de la peau.
 
 ## **V. Matériel**
 
 ### **1. Pour le soin**
 
-*   Seringue et aiguille solidaires en monobloc (anticoagulant de bas poids moléculaire ou insuline, par exemple) ou stylo injectable (insuline) ou seringue adaptée à la quantité à injecter (2 ou 5 ml).
+*   Seringue et aiguille solidaires en monobloc (anticoagulant de bas poids moléculaire ou insuline, par exemple) ou stylo injectable (insuline) ou seringue adaptée à la quantité à injecter (2 ou 5 ml).  
 *   Aiguille en acier inoxydable ou en nickel à biseau long (moins douloureux) :
     *   aiguille de 2,5 à 3 cm de longueur (couleur orange);
     *   le diamètre varie de 0,6 à 0,8 mm;
-    *   aiguille de 12,7 mm et 8 mm (pour les insulines, la plus petite évite de pratiquer des injections en intramusculaire).
+    *   aiguille de 12,7 mm et 8 mm (pour les insulines, la plus petite évite de pratiquer des injections en intramusculaire).  
 *   Diluant de reconstitution si le produit est lyophilisé (préférer le diluant fourni avec le produit à l'eau pour préparation injectable).
 
 ### **2. Pour l'asepsie**
 
-*   Gants non stériles à usage unique.
-*   Compresse ou coton.
-*   Désinfectant (alcool modifié à 70°).
-*   Boîte à aiguilles souillées.
+*   Gants non stériles à usage unique.  
+*   Compresse ou coton.  
+*   Désinfectant (alcool modifié à 70°).  
+*   Boîte à aiguilles souillées.  
 *   Sac poubelle.
 
 ## **VI. Préparation du matériel**
@@ -60,8 +60,8 @@ Si nécessaire, reconstituer le produit lyophilisé à la dose prescrite.
 
 #### Insuline
 
-*   Prélever la quantité de produit nécessaire du flacon d'insuline de 100 Ul/ml (certains pays utilisent de l'insuline dosée à 40 UI/ml). Préparer l'insuline dans une seringue permet de mélanger deux insulines de concentrations différentes.
-*   Dans le cas de l'utilisation de stylos, intro­duire l'ampoule d'insuline dans le logement du stylo, revisser le capuchon et purger.
+*   Prélever la quantité de produit nécessaire du flacon d'insuline de 100 Ul/ml (certains pays utilisent de l'insuline dosée à 40 UI/ml). Préparer l'insuline dans une seringue permet de mélanger deux insulines de concentrations différentes.  
+*   Dans le cas de l'utilisation de stylos, intro­duire l'ampoule d'insuline dans le logement du stylo, revisser le capuchon et purger.  
 *   Adapter une nouvelle aiguille, régler la quan­tité à injecter en exerçant une rotation du capuchon (ce qui correspond au piston d'une seringue), à l'aide de l'indicateur de dose.
 
 ## **VII. Préparation du patient**
@@ -70,15 +70,16 @@ Le patient est en position assise, ou allongé sur le dos.
 
 ## **VIII. Réalisation technique du geste et surveillance**
 
-*   Reconstituer le produit si nécessaire en injectant la quantité de diluant dans le flacon de manière aseptique (désinfecter le bou­chon), mélanger le produit sans le secouer. Réchauffer le produit entre les mains si nécessaire.
-*   Mettre les gants.
-*   Choisir la zone de ponction : la face anté­rieure de la cuisse ; le quart supéro-externe de la fesse ; la partie antérieure et supérieu­re du bras ; l'abdomen (à environ 10 cm du nombril).
-*   Désinfecter la zone de ponction choisie en un seul passage de compresse imbibée d'alcool.
-*   Former un pli (pour éviter toute pénétration de l'aiguille en intramusculaire) en pinçant la peau avec le pouce, l'index et le majeur, sans pincer le muscle.
-*   Piquer perpendiculairement ou latéralement (45°) au plan de ponction selon la corpulen­ce de la personne, la taille de l'aiguille ou la zone (le pli est inutile pour l'injection dans le quart supéro-externe de la fesse). Introduire rapidement l'aiguille jusqu'à la garde. Pour les stylos à insuline, appuyer sur le bouton du stylo et laisser l'aiguille en place cinq secondes sous la peau après l'injection.
-*   Ne lâcher le pli qu'au moment du retrait de l'aiguille.
-*   Retirer rapidement l'aiguille et la seringue à la fin de l'injection, désinfecter le point de ponction.
+*   Reconstituer le produit si nécessaire en injectant la quantité de diluant dans le flacon de manière aseptique (désinfecter le bou­chon), mélanger le produit sans le secouer. Réchauffer le produit entre les mains si nécessaire.  
+*   Mettre les gants.  
+*   Choisir la zone de ponction : la face anté­rieure de la cuisse ; le quart supéro-externe de la fesse ; la partie antérieure et supérieu­re du bras ; l'abdomen (à environ 10 cm du nombril).  
+*   Désinfecter la zone de ponction choisie en un seul passage de compresse imbibée d'alcool.  
+*   Former un pli (pour éviter toute pénétration de l'aiguille en intramusculaire) en pinçant la peau avec le pouce, l'index et le majeur, sans pincer le muscle.  
+*   Piquer perpendiculairement ou latéralement (45°) au plan de ponction selon la corpulen­ce de la personne, la taille de l'aiguille ou la zone (le pli est inutile pour l'injection dans le quart supéro-externe de la fesse). Introduire rapidement l'aiguille jusqu'à la garde. Pour les stylos à insuline, appuyer sur le bouton du stylo et laisser l'aiguille en place cinq secondes sous la peau après l'injection.  
+*   Ne lâcher le pli qu'au moment du retrait de l'aiguille.  
+*   Retirer rapidement l'aiguille et la seringue à la fin de l'injection, désinfecter le point de ponction.  
 *   Eliminer l'aiguille dans le collecteur à aiguilles souillées.
+
 
 ![](12017.jpg)
 
@@ -101,12 +102,12 @@ Surveiller l'apparition d'un hématome, de signes inflammatoires (chaleur, rouge
 
 ## **X. Complications et risques**
 
-*   Vérifier que le patient n'est pas allergique au produit injecté (en lui demandant s'il a déjà bénéficié de ce traitement, par exemple...).
-*   Ne pas injecter si du sang remonte dans la seringue lors de la ponction, retirer l'aiguille de 1 ou 2 cm et repiquer en variant l'angle, revérifier l'absence de sang puis injecter. Eventuellement, s'il y a un retour franc, reti­rer l'aiguille et comprimer. Préparer une autre seringue.
-*   Ne pas piquer sur les faces latérales (risque d'atteinte de vaisseaux) ou postérieures de la cuisse (risque d'atteinte du nerf sciatique).
-*   Ne pas piquer sur les parties latérales de l'abdomen ou trop près du nombril, pour éviter d'être en intramusculaire.
-*   Commencer par l'insuline rapide, puis pré­lever l'insuline lente ou semi-lente, lors du mélange d'insulines dans la même seringue. En cas d'erreur de dosage, recommencer le mélange avec une nouvelle seringue.
-*   L'utilisation de chaque stylo est particulière, il convient de se conformer à leur mode d'emploi.
+*   Vérifier que le patient n'est pas allergique au produit injecté (en lui demandant s'il a déjà bénéficié de ce traitement, par exemple...).  
+*   Ne pas injecter si du sang remonte dans la seringue lors de la ponction, retirer l'aiguille de 1 ou 2 cm et repiquer en variant l'angle, revérifier l'absence de sang puis injecter. Eventuellement, s'il y a un retour franc, reti­rer l'aiguille et comprimer. Préparer une autre seringue.  
+*   Ne pas piquer sur les faces latérales (risque d'atteinte de vaisseaux) ou postérieures de la cuisse (risque d'atteinte du nerf sciatique).  
+*   Ne pas piquer sur les parties latérales de l'abdomen ou trop près du nombril, pour éviter d'être en intramusculaire.  
+*   Commencer par l'insuline rapide, puis pré­lever l'insuline lente ou semi-lente, lors du mélange d'insulines dans la même seringue. En cas d'erreur de dosage, recommencer le mélange avec une nouvelle seringue.  
+*   L'utilisation de chaque stylo est particulière, il convient de se conformer à leur mode d'emploi.  
 *   Conserver l'insuline au réfrigérateur entre 2 et 8°C pour les nouveaux flacons, les flacons entamés peuvent être maintenus à température ambiante, à l'abri de la lumiè­re, de la chaleur et dans de bonnes condi­tions d'hygiène une durée d'un mois au maximum. Ne pas congeler l'insuline, atten­tion aux soutes à bagages d'avion.
 
 <table>
@@ -133,13 +134,13 @@ Respecter scrupuleusement les pré­cautions d'accidents à l'exposition au sang
 
 ### **1. De la procédure de soin**
 
-*   L'injection est pratiquée de manière asep­tique et évite le tissu musculaire.
-*   La zone d'injection est respectée, en rap­port avec l'absorption d'insuline au cours de la journée.
+*   L'injection est pratiquée de manière asep­tique et évite le tissu musculaire.  
+*   La zone d'injection est respectée, en rap­port avec l'absorption d'insuline au cours de la journée.  
 *   Le port des gants a été respecté.
 
 ### **2. Du résultat ou des objectifs à atteindre**
 
-*   L'injection est efficace.
+*   L'injection est efficace.  
 *   Le patient, dans le cadre de l'éducation du diabétique, a reçu les informations nécessaires à l'auto-injection sous-cutanée d'insuline.
 
 _Développement et Santé, n°184, 2006_

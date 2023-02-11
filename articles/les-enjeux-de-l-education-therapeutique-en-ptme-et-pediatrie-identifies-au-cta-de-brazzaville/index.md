@@ -97,6 +97,7 @@ L'amélioration de l'observance thérapeutique et de la vie des patients avec la
 
 séances d'ETP qui doivent s'organiser régulièrement en fonction des besoins éducatifs des patients. Chaque cas d'inobservance doit faire l'objet d'une grande attention sans juger les causes d'inobservance, mais être régulièrement à l'écoute et trouver ensemble des solutions.
 
+
 ![](i1094-1.jpg)
 **Exemple d'image projective.**
 

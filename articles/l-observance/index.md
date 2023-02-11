@@ -9,7 +9,7 @@ date: "2013-03-03"
 L’observance est définie comme le degré de concordance entre le comportement d’un individu en termes de prise médicamenteuse, de suivi clinique et biologique, de respect du régime ou de changement de style de vie et la prescription médicale.  
 Les mots synonymes d’observance sont :
 
-*   La compliance, terme anglosaxon qui signifie « se plier à quelque chose ».
+*   La compliance, terme anglosaxon qui signifie « se plier à quelque chose ».  
 *   Les mots alliance, adhérence, ou adhésion mettent l’accent sur la démarche personnelle du patient, sur son autonomie et sur le partenariat entre le médecin, l’équipe soignante et le patient.
 
 Qui n’a pas « oublié »la fin d’un traitement jugé inutile puisqu’on se sent guéri…et ceci est vrai même chez les professionnels de santé !

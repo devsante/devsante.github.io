@@ -14,6 +14,7 @@ Ignorer ces particularités peut conduire à des accidents médicamenteux ou à 
 
 Dans l'organisme, les médicaments sont successivement résorbés, distribués, métabolisés puis éliminés.
 
+
 ![](i916-1.jpg)
 
 
@@ -117,6 +118,7 @@ Les médicaments administrés en fin de grossesse peuvent retentir chez le nouve
 *   intermédiaires entre le médecin et l'enfant.
 
 Ainsi, prescrire en pédiatrie nécessite plus qu'ailleurs **prudence et rigueur,** tant sur le choix du produit que sur les quantités et sur le mode d'administration. Des accidents liés à une intoxication médicamenteuse secondaire à une mauvaise utilisation de produits surviennent régulièrement et des enfants sont hospitalisés en réanimation à cause de ces erreurs évitables.
+
 
 ![](i916-2.jpg)
 

@@ -61,9 +61,9 @@ L’HTA est une maladie grave, progressive, évoluant à bas bruit, réduisant b
 
 ### 1. Complications aiguës, compromettant rapidement le pronostic vital
 
-*   **Œdème aigu du poumon** (OAP) : dyspnée aiguë avec sensation d’étouffement, râles crépitants diffus dans les deux champs pulmonaires à l’auscultation, apparition de mousse aux lèvres.
-*   **Accident vasculaire cérébral** : coma brutal, paralysie brutale de la moitié du corps (hémiplégie).
-*   **Encéphalopathie hypertensive** : céphalées intenses, agitation, troubles du comportement, convulsions et parfois coma.
+*   **Œdème aigu du poumon** (OAP) : dyspnée aiguë avec sensation d’étouffement, râles crépitants diffus dans les deux champs pulmonaires à l’auscultation, apparition de mousse aux lèvres.  
+*   **Accident vasculaire cérébral** : coma brutal, paralysie brutale de la moitié du corps (hémiplégie).  
+*   **Encéphalopathie hypertensive** : céphalées intenses, agitation, troubles du comportement, convulsions et parfois coma.  
 *   **Infarctus du myocarde** : douleur violente enserrant la poitrine, défaillance du cœur avec état de collapsus.
 
 ### 2. Complications progressives
@@ -86,7 +86,7 @@ Le diagnostic d’HTA est fait par la mesure de la TA, le plus souvent indirecte
 
 L’appareil utilisé est constitué de deux éléments :
 
-*   Un instrument de mesure, qui peut être un manomètre anéroïde ou un manomètre à mercure (le manomètre à mercure est plus fragile et moins maniable).
+*   Un instrument de mesure, qui peut être un manomètre anéroïde ou un manomètre à mercure (le manomètre à mercure est plus fragile et moins maniable).  
 *   Une poche en caoutchouc contenue dans un sac inextensible qui doit avoir une longueur et une largeur suffisantes (pour un adulte moyen : 30 cm x 13 cm), le manchon doit encercler complètement le bras.
 
 ### 2. Technique
@@ -95,8 +95,8 @@ Le brassard bien dégonflé, avec l’aiguille du manomètre stabilisée au zér
 L’artère humérale est repérée au milieu du pli du coude et en dedans (c’est-à-dire du côté du petit doigt).  
 Trois méthodes peuvent être utilisées :
 
-*   La méthode oscillométrique, qui n’est pas de pratique courante.
-*   La méthode palpatoire, très subjective et moins juste.
+*   La méthode oscillométrique, qui n’est pas de pratique courante.  
+*   La méthode palpatoire, très subjective et moins juste.  
 *   La méthode auscultatoire à l’aide d’un stéthoscope médical, méthode à utiliser et qui donne des résultats assez fiables.
 
 Le pavillon du stéthoscope est posé à l’endroit où l’artère humérale a été repérée. Le pavillon ne doit pas être glissé sous le manchon compressif en raison du risque d’inégalité des pressions qui peut conduire à de faux résultats.  
@@ -104,7 +104,7 @@ On gonfle et on dégonfle une ou deux fois le brassard afin de vérifier le bon 
 
 On gonfle alors le brassard jusqu’à ce qu’il dépasse ce niveau, puis on le dégonfle très progressivement. L’ondée systolique réapparaît graduellement quand la pression du brassard diminue.
 
-*   Le premier bruit entendu à l’auscultation fixe la pression maximale ou pression systolique.
+*   Le premier bruit entendu à l’auscultation fixe la pression maximale ou pression systolique.  
 *   La brusque diminution ou disparition des bruits établit la pression minimale ou pression diastolique.
 
 ### 3. Résultat
@@ -153,7 +153,7 @@ Il s’agira également de demander à une personne qui, en apparence, n’a auc
 
 ### **2. La surveillance médicale doit être indéfiniment poursuivie**
 
-*   Contrôle régulier de la TA.
+*   Contrôle régulier de la TA.  
 *   Bilan du retentissement.
 
 ### **3. Il faut dépister les complications aiguës**
@@ -247,6 +247,6 @@ Rapproché au début, puis tous les mois, puis tous les 3 mois
 
 ## Conclusion
 
-*   L’HTA est une maladie fréquente, même en milieu rural.
-*   Son diagnostic est facile, par la prise de la TA qui doit faire partie de l’examen clinique d’un malade.
+*   L’HTA est une maladie fréquente, même en milieu rural.  
+*   Son diagnostic est facile, par la prise de la TA qui doit faire partie de l’examen clinique d’un malade.  
 *   Dans la quasi-totalité des cas, one ne retrouve pas de cause à la maladie, le traitement et la surveillance doivent alors être indéfiniment poursuivis.

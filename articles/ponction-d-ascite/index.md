@@ -10,8 +10,8 @@ La ponction d'ascite consiste à retirer du liqui­de d'ascite, c'est-à-dire d'
 
 Normalement la cavité péritonéale ne doit pas être remplie de liquide. Le diagnostic clinique de cet épanchement se porte :
 
-*   A l'inspection : devant un gros abdomen qui retombe en besace, avec parfois l'ombilic déplissé.
-*   Sur la percussion qui montre une matité dif­fuse, franche, et on ne perçoit plus les sono­rités normales de l'estomac et des intestins.
+*   A l'inspection : devant un gros abdomen qui retombe en besace, avec parfois l'ombilic déplissé.  
+*   Sur la percussion qui montre une matité dif­fuse, franche, et on ne perçoit plus les sono­rités normales de l'estomac et des intestins.  
 *   Sur la palpation en cas de gros épanche­ment avec le signe du flot: une chiquenaude lancée sur un des flancs de l'abdomen est ressentie par une main posée sur l'autre flanc comme un mouvement de vague.
 
 Le diagnostic clinique est généralement aisé devant un gros épanchement. Il peut être difficile si l'épanchement est petit, l'abdomen est à peine augmenté de volume et le principal signe clinique consiste en une matité des flancs. Mieux vaut dans ce cas s'abstenir de pratiquer la ponction si ce geste n'est pas indispensable et que l'on est hors d'un hôpital. Le principal problème est de déterminer la cause et dans ce but, la ponction devient indispensable.
@@ -20,12 +20,13 @@ Le diagnostic clinique est généralement aisé devant un gros épanchement. Il 
 
 ### 1. La ponction d'ascite peut être pratiquée dans un but diagnostique
 
-*   Pour affirmer la présence de liquide dans le péritoine, ce qui est anormal.
+*   Pour affirmer la présence de liquide dans le péritoine, ce qui est anormal.  
 *   Pour déterminer une étiologie, selon l'aspect et la composition du liquide : cancéreuse, tuberculeuse, infectieuse à germes banals, par hyperpression veineuse chez le cirrho­tique, inflammatoire, etc.
 
 Pour cela, il faut observer le type de liquide.
 
 **On peut se trouver devant les situations suivantes :**
+
 
 ![](image002.jpg)
 
@@ -48,6 +49,7 @@ A noter encore, chez un malade cirrhotique dont le liquide avait été analysé 
 
 Il s'agit d'un cirrhotique souffrant d'un énorme épanchement de dix à vingt litres, comprimant le thorax et gênant la respiration et la pompe cardiaque. Des ponctions vont soulager le patient mais sans le guérir et avec le risque de le priver d'eau et d'électrolytes contenus dans le liquide.
 
+
 ![](image004.jpg)
 
 
@@ -67,20 +69,22 @@ Il comporte des risques :
 
 ### 1. Matériel
 
-*   Compresses stériles, coton, alcool iodé.
-*   Trocard stérile, de préférence à usage unique, ou alors stérilisé à l'autoclave à 180° pendant trois quarts d'heure. Rappelons que la poissonnière, fréquemment utilisée, sert à faire cuire les poissons comme son nom l'indique, mais ne peut stériliser les aiguilles. A défaut de trocard, on peut utiliser une aiguille IM longue et large, d'usage unique.
-*   Seringue stérile de 10 ou 20 cc.
-*   Deux tubes pour analyse cytochimique.
+*   Compresses stériles, coton, alcool iodé.  
+*   Trocard stérile, de préférence à usage unique, ou alors stérilisé à l'autoclave à 180° pendant trois quarts d'heure. Rappelons que la poissonnière, fréquemment utilisée, sert à faire cuire les poissons comme son nom l'indique, mais ne peut stériliser les aiguilles. A défaut de trocard, on peut utiliser une aiguille IM longue et large, d'usage unique.  
+*   Seringue stérile de 10 ou 20 cc.  
+*   Deux tubes pour analyse cytochimique.  
 *   En cas de ponction évacuatrice, une tubulure de perfusion et un bocal gradué.
 
 ### 2. Technique
 
 Le patient est en décubitus dorsal, couché sur le dos. Avant tout, on palpe l'abdomen et on s'assure qu'il n'a pas une grosse rate qui des­cend jusqu'à l'ombilic ou plus bas, comme c'est souvent le cas en milieu tropical. La ponction devient contre-indiquée du côté gauche dans ce cas.
 
+
 ![](image002-ascite-n183-1.jpg)
 
 
 On repère le point de ponction. Sur le flanc gauche, on trace une ligne entre l'ombilic et l'épine iliaque antéro-supérieure. Cette ligne est partagée en trois tiers et le point de ponc­tion se situe entre le tiers externe et le tiers moyen toujours en pleine zone de matité. Après s'être lavé et désinfecté les mains et avoir désinfecté le point de ponction, on pique perpendiculairement la paroi. L'anes­thésie locale est inutile. On retire le mandrin et on recueille le liquide dans les tubes à essai. En cas de ponction évacuatrice, on installe la tubulure et on règle le débit d'écoulement selon la tolérance du malade. En général, on évacue deux litres en une heure. Si le liqui­de ne vient pas, on demande au malade de se pencher légèrement sur le côté gauche et on bouge un peu l'aiguille. Si le liquide ne vient toujours pas, on n'insiste pas trop et on conclut à une ponction blanche. A la fin, on retire l'aiguille, on aseptise la plaie et on place un pansement stérile, en demandant au malade de se pencher sur le côté droit.
+
 
 ![](image006.jpg)
 

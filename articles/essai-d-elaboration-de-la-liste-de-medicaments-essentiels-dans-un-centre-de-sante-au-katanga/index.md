@@ -152,12 +152,14 @@ L'identification se fait à deux niveaux :
 
 Il est indispensable de répertorier les maladies dominantes en indiquant les expressions des villageois et celles des enquêteurs, ce qui permet de confronter les analyses des situations faites par les villageois et les enquêteurs, et de tenir compte des besoins ressentis par les populations et de leur perception des problèmes _(tableau n° 1)._
 
+
 ![](i781-1.jpg)
 
 
 **2. La hiérarchisation des maladies**
 
 Toutes les maladies n'ayant pas la même importance suivant le milieu étudié, il importe de déterminer les critères qui permettront de considérer comme prioritaire une maladie par rapport à une autre. Quatre critères permettent généralement de classer par ordre d'importance les maladies identifiées _(tableau n° 2) :_
+
 
 ![](i781-2.jpg)
 

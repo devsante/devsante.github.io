@@ -50,7 +50,7 @@ Selon les recommandations internationales, les personnes suivantes doivent être
 L’objectif du dépistage des hépatites B et C est double :
 
 1.  Réduire la morbi-mortalité des hépatites virales chroniques.  
-    Il s’agit d’identifier précocement les personnes porteuses d’une infection active pour prévenir la survenue de complications comme la cirrhose hépatique ou le carcinome hépato-cellulaire.
+    Il s’agit d’identifier précocement les personnes porteuses d’une infection active pour prévenir la survenue de complications comme la cirrhose hépatique ou le carcinome hépato-cellulaire.  
 2.  Réduire l’incidence des infections par les VHB et VHC.  
     Il s’agit de proposer la vaccination anti-hépatite B aux sujets à risque non immunisés et à leur entourage, et de leur proposer des conseils de prévention (valables aussi pour les sujets à risque n’ayant jamais rencontré le VHC)  pour limiter les risques de transmission aux sujets  contacts (famille, partenaires sexuels).
 

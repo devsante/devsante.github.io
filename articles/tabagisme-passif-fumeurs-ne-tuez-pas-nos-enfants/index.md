@@ -49,18 +49,19 @@ L'exemple suivant peut illustrer de façon concrète l'effet "salissant" et noci
 
 #### Le fumeur artificiel
 
-*   Prenez une bouteille en plastique.
-*   Remplissez-la d'eau aux 3/4.
-*   Introduisez du coton hydrophile dans le goulot jusqu'à 1 cm de la partie supérieure en évitant d'atteindre l'eau.
-*   Prenez une tétine ou un doigt de gant de caout­chouc (facile à se procurer en pharmacie).
-*   Percez-le de façon à pouvoir y introduire la base d'une cigarette.
-*   Fixez le doigt de gant autour du goulot.
-*   Enfoncez la base de la cigarette à la partie supé­rieure du doigt de gant sur une longueur de 1 cm.
-*   Placez la bouteille dans la cuvette.
-*   Allumez la cigarette.
-*   Percez la bouteille à sa partie inférieure au moyen d'un bon canif, effectuez un léger mou­vement de torsion pour régler le débit.
-*   La diminution de pression due à l'écoulement de l'eau provoquera l'aspiration de la fumée et assurera la combustion de la cigarette.
+*   Prenez une bouteille en plastique.  
+*   Remplissez-la d'eau aux 3/4.  
+*   Introduisez du coton hydrophile dans le goulot jusqu'à 1 cm de la partie supérieure en évitant d'atteindre l'eau.  
+*   Prenez une tétine ou un doigt de gant de caout­chouc (facile à se procurer en pharmacie).  
+*   Percez-le de façon à pouvoir y introduire la base d'une cigarette.  
+*   Fixez le doigt de gant autour du goulot.  
+*   Enfoncez la base de la cigarette à la partie supé­rieure du doigt de gant sur une longueur de 1 cm.  
+*   Placez la bouteille dans la cuvette.  
+*   Allumez la cigarette.  
+*   Percez la bouteille à sa partie inférieure au moyen d'un bon canif, effectuez un léger mou­vement de torsion pour régler le débit.  
+*   La diminution de pression due à l'écoulement de l'eau provoquera l'aspiration de la fumée et assurera la combustion de la cigarette.  
 *   Après son passage à travers le coton hydrophile (qu'elle teintera en brun), la fumée viendra occu­per le volume libéré. Il restera à montrer aux élèves l'état du coton, coloré et poisseux, image de ce qui se passe dans les poumons du fumeur.
+
 
 ![](i2100-1.jpg)
 

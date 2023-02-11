@@ -106,6 +106,7 @@ Ils siègent surtout au niveau du visage et de la moitié supérieure du corps:
 
 Un tableau d'œdèmes généralisés chez l'enfant est le plus souvent lié à une malnutrition ou à un syndrome néphrétique que l'on peut distinguer facilement par l'examen des urines. Les autres causes se manifestent plus rarement par un tel tableau, mais c'est une démarche diagnostique rigoureuse et systématique qui permettra de les reconnaître après avoir tenté d'en identifier le mécanisme.
 
+
 ![](i632-1.jpg)
 
 

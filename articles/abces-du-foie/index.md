@@ -35,11 +35,11 @@ Celui-ci peut survenir alors qu'il n'existe plus de signes digestifs coliques, n
 
 ## III. Aspect clinique
 
-*   Le symptôme principal est la **fièvre**_,_ souvent oscillante, associée à des _frissons se_ prolongeant sur plusieurs jours à semaines et s'accompagnant d'une altération progressive de l'état général : fatigue, perte d'appétit, amaigrissement rapide.
-*   Une **douleur de l'hypocondre droit** est habituelle, souvent très vive, irradiant vers le dos et vers l'épaule droite, gênant l'inspiration profonde.
-*   Elle gêne la palpation du foie qu'on pourrait trouver gros, mais dont le bord inférieur est très difficile à repérer. La percussion du foie (ébranlement) exagère ou réveille cette douleur de façon parfois atroce : elle ne doit _être_ faite qu'avec prudence si elle est nécessaire. Elle fait la preuve du diagnostic.
-*   En cas d'abcès du lobe hépatique droit (cas habituel), des **signes** **respiratoires** trompeurs sont fréquents, attirant l'attention sur le thorax : toux, point de côté, signes d'épanchement pleural (en réaction à l'abcès du foie), douleurs thoraciques.
-*   L'ictère est rare, sa présence témoigne habituellement d'une angiocholite associée ou d'une atteinte hépatique diffuse en cas d'abcès multiples.
+*   Le symptôme principal est la **fièvre**_,_ souvent oscillante, associée à des _frissons se_ prolongeant sur plusieurs jours à semaines et s'accompagnant d'une altération progressive de l'état général : fatigue, perte d'appétit, amaigrissement rapide.  
+*   Une **douleur de l'hypocondre droit** est habituelle, souvent très vive, irradiant vers le dos et vers l'épaule droite, gênant l'inspiration profonde.  
+*   Elle gêne la palpation du foie qu'on pourrait trouver gros, mais dont le bord inférieur est très difficile à repérer. La percussion du foie (ébranlement) exagère ou réveille cette douleur de façon parfois atroce : elle ne doit _être_ faite qu'avec prudence si elle est nécessaire. Elle fait la preuve du diagnostic.  
+*   En cas d'abcès du lobe hépatique droit (cas habituel), des **signes** **respiratoires** trompeurs sont fréquents, attirant l'attention sur le thorax : toux, point de côté, signes d'épanchement pleural (en réaction à l'abcès du foie), douleurs thoraciques.  
+*   L'ictère est rare, sa présence témoigne habituellement d'une angiocholite associée ou d'une atteinte hépatique diffuse en cas d'abcès multiples.  
 *   Parfois le tableau peut être trompeur avec présence d'une fièvre isolée avec très peu de symptômes douloureux de l'hypocondre droit.
 
 ## IV. Diagnostic
@@ -56,9 +56,10 @@ En revanche, l'examen parasitologique des selles a peu d'intérêt car positif, 
 
 ### 2. Imagerie
 
-*   _Les clichés du thorax et de l'abdomen_ apportent des éléments d'orientation importants pour évoquer le diagnostic d'abcès hépatique : surélévation de la coupole diaphragmatique droite, atélectasies du champ pulmonaire inférieur droit, épanchement pleural droit, clartés gazeuses intra hépatiques.
-*   _L'échographie_ est devenue l'examen de référence pour le diagnostic d'abcès hépatique. Elle met en évidence une image arrondie hypoéchogène bien limitée, à parois épaisses. Des échos internes donnant un aspect inhomogène de l'image sont fréquents : ils correspondent à des débris, des cloisons ou des gaz. L'échographie permet de préciser le stade des lésions, leur nombre, leur taille, leur siège et de faire un bilan des structures de voisinage pour rechercher une complication ou un foyer infectieux primitif (cholécystite...). Les abcès peuvent être multiples.
+*   _Les clichés du thorax et de l'abdomen_ apportent des éléments d'orientation importants pour évoquer le diagnostic d'abcès hépatique : surélévation de la coupole diaphragmatique droite, atélectasies du champ pulmonaire inférieur droit, épanchement pleural droit, clartés gazeuses intra hépatiques.  
+*   _L'échographie_ est devenue l'examen de référence pour le diagnostic d'abcès hépatique. Elle met en évidence une image arrondie hypoéchogène bien limitée, à parois épaisses. Des échos internes donnant un aspect inhomogène de l'image sont fréquents : ils correspondent à des débris, des cloisons ou des gaz. L'échographie permet de préciser le stade des lésions, leur nombre, leur taille, leur siège et de faire un bilan des structures de voisinage pour rechercher une complication ou un foyer infectieux primitif (cholécystite...). Les abcès peuvent être multiples.  
 *   L'intérêt du _scanner est_ très limité.
+
 
 ![](i594-1.jpg)
 
@@ -76,6 +77,7 @@ La recherche à l'examen direct (Gram, May-Grunwald-Giemsa) est nécessaire. Ell
 La mise en culture, lorsqu'elle est possible, est fondamentale pour confirmer ou mettre en évidence les germes et guider le traitement antibiotique.
 
 En l'absence de résultat probant, la différenciation entre abcès bactérien et abcès amibien peut êtredifficile. Elle est cliniquement impossible. On se fie alors sur la couleur du liquide et, si elle est disponible, la sérologie amibienne en zone d'endémie.
+
 
 ![](i594-2.jpg)
 

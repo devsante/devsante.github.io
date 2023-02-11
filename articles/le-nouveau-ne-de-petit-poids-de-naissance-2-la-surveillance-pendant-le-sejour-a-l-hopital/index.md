@@ -10,7 +10,7 @@ date: "2010-12-02"
 
 Elle doit être prise deux fois par jour. Le thermomètre est placé dans l'aisselle, laisser 5 minutes. Ajouter 0,5 degré.
 
-*   Une hypothermie (inférieure à 36,8° C) indique un chauffage insuffisant. La courbe de poids de cet enfant est souvent plate malgré une alimentation correcte. Il dépense toute son énergie pour maintenir sa température corporelle.
+*   Une hypothermie (inférieure à 36,8° C) indique un chauffage insuffisant. La courbe de poids de cet enfant est souvent plate malgré une alimentation correcte. Il dépense toute son énergie pour maintenir sa température corporelle.  
 *   -Une hyperthermie indique souvent un chauffage excessif... ou une infection débutante.
 
 ### 2. Température de l'incubateur
@@ -21,17 +21,17 @@ Notée une fois par jour. Le réglage se fait en s'aidant des tables.
 
 Une fois par jour, sans sortir l'enfant de l'incubateur.
 
-*   Dans les premiers jours, la courbe de poids permet de régler le volume d'eau quotidien, en perfusion ou en alimentation. Il faut faire en sorte que la perte de poids initiale, dite "physiologique", ne dépasse pas 5% du poids de naissance.
+*   Dans les premiers jours, la courbe de poids permet de régler le volume d'eau quotidien, en perfusion ou en alimentation. Il faut faire en sorte que la perte de poids initiale, dite "physiologique", ne dépasse pas 5% du poids de naissance.  
 *   Ultérieurement, une courbe de poids régulièrement ascendante est un signe de bonne santé.
 
 ## III. Les prescriptions
 
 Les prescriptions comprennent :
 
-*   Le régime alimentaire et le mode d'administration de l'alimentation.
-*   La décision de mise en incubateur et de sortie d'incubateur.
-*   La température de l'incubateur.
-*   Les médicaments éventuels.
+*   Le régime alimentaire et le mode d'administration de l'alimentation.  
+*   La décision de mise en incubateur et de sortie d'incubateur.  
+*   La température de l'incubateur.  
+*   Les médicaments éventuels.  
 *   La sortie de l'enfant et les soins ultérieurs.
 
 Les prescriptions et les observations médicales peuvent être inscrites sur une même feuille, par exemple au dos de la "pancarte". La prescription du régime alimentaire doit également être inscrite sur le "cahier de biberonnerie". On y trouve ainsi inscrites, pour chacun des enfants du service, les indications du volume total, du nombre de repas et de la nature du lait. Confié à la personne chargée de confectionner les repas, ce cahier lui sert de guide.
@@ -81,8 +81,8 @@ II peut comprendre une seule feuille : la pancarte. Le nombre de feuilles peut �
 Il est indispensable à l'établissement des statistiques annuelles ; celles-ci sont indispensables pour la connaissance du travail effectué, l'évaluation des besoins en personnel, petit matériel médical et équipements.  
 On peut l'établir de façon simple :
 
-*   A la sortie de chaque enfant, le dossier est révisé par le médecin responsable. Celui-ci note sur une fiche bristol 10 x 15 les données permettant l'identification du patient et le numéro du dossier. Il relève, par référence à un mémento préparé à l'avance, les items qui méritent d'être marqués et les inscrit.
-*   Ces fiches seront rangées par ordre alphabétique dans un casier pour l'année en cours, puis transférées dans le fichier commun après que les comptes et les statistiques de fin d'année aient été faits.
+*   A la sortie de chaque enfant, le dossier est révisé par le médecin responsable. Celui-ci note sur une fiche bristol 10 x 15 les données permettant l'identification du patient et le numéro du dossier. Il relève, par référence à un mémento préparé à l'avance, les items qui méritent d'être marqués et les inscrit.  
+*   Ces fiches seront rangées par ordre alphabétique dans un casier pour l'année en cours, puis transférées dans le fichier commun après que les comptes et les statistiques de fin d'année aient été faits.  
 *   La fiche d'un patient ne doit jamais être retirée du fichier. On peut toutefois la consulter pour connaître rapidement l'histoire d'un enfant pendant son séjour dans le service.
 
 ## VII. Recueil des données
@@ -185,7 +185,7 @@ On peut prendre un peu de temps pour expliquer l'intérêt de l'espacement des n
 
 Le séjour du nouveau-né de petit poids de naissance à l'hôpital doit être le plus court possible.
 
-*   L'hospitalisation augmente le risque d'infection de collectivité. Elle perturbe gravement la vie de famille, en particulier celle des enfants très jeunes laissés à la maison. Le risque de malnutrition pour eux est très grand, malgré l'attention des grands-parents ou de la sœur aînée.
+*   L'hospitalisation augmente le risque d'infection de collectivité. Elle perturbe gravement la vie de famille, en particulier celle des enfants très jeunes laissés à la maison. Le risque de malnutrition pour eux est très grand, malgré l'attention des grands-parents ou de la sœur aînée.  
 *   L'éloignement de la mère, qui doit assurer la tenue de sa maison et qui n'a pas de moyen facile pour faire parvenir son lait à l'hôpital, est souvent une cause d'arrêt de l'allaitement, cc qui, pour l'enfant, constitue une cause de mortalité par malnutrition quelques mois après la sortie.
 
 L'enfant peut sortir de l'hôpital quel que soit son poids si :
@@ -244,6 +244,7 @@ Après nettoyage complet, l'appareil est propre et peut être utilisé. On peut 
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -267,6 +268,7 @@ Ajouter :
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -305,6 +307,7 @@ Ces chiffons ne seront utilisés que pour un seul incubateur et jetés pour êtr
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -337,6 +340,7 @@ Si la sonde doit être laissée en place, les mains de l'enfant doivent être at
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -370,6 +374,7 @@ L'unité de soins ne possède pas de baignoire en état de marche. Il n'y a pas 
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -397,6 +402,7 @@ Farine de maïs  5,5 g
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
@@ -418,6 +424,7 @@ Après la toilette quotidienne :
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>

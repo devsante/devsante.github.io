@@ -23,7 +23,7 @@ L'aspirine est déconseillée car responsable d’accidents rares mais graves (h
 
 De nombreuses études montrent qu’il y a peu de différence :
 
-*   Le **paracétamol** est mieux toléré, mais agit moins vite et son action est plus brève. A forte dose, il provoque des insuffisances hépatiques.
+*   Le **paracétamol** est mieux toléré, mais agit moins vite et son action est plus brève. A forte dose, il provoque des insuffisances hépatiques.  
 *   L’**ibuprofène**, qui est un anti-inflammatoire, peut provoquer des gastrites et des complications rénales chez l'enfant déshydraté (exceptionnellement). Il est contre-indiqué en cas de varicelle, mais il agit plus vite et plus longtemps que le paracétamol.
 
 La question d’actualité est de savoir si l’administration des deux, en alternance ou simultanément, est plus efficace. Une étude de  E. Purssell (Arch Dis Child 2011 ; 96 : 1175-1179) montre que le gain est minime ; cette modalité de prescription peut être justifiée au cas par cas, mais augmente le risque d’incidents (intolérance).

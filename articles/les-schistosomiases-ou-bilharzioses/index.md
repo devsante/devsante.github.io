@@ -101,9 +101,9 @@ Le cycle est complexe,  en deux parties : un cycle chez l’homme et un chez l�
 
 Le sujet infecté émet des œufs soit par les urines, soit par les selles.
 
-*   Ces œufs, s’ils sont émis dans une collection d’eau, vont se transformer en miracidium cilié qui nage vers un mollusque hôte intermédiaire.
-*   Chez ce mollusque se produit une multiplication asexuée très importante, et une transformation en cercaires puis furcocercaires.
-*   Ceux-ci sont attirés par les mammifères, l’homme en particulier, et pénètrent activement par effraction cutanée. Ils se transforment en vers et vont dans la circulation où le couple se fixe dans les veines urinaires, intestinales ou hépatiques.
+*   Ces œufs, s’ils sont émis dans une collection d’eau, vont se transformer en miracidium cilié qui nage vers un mollusque hôte intermédiaire.  
+*   Chez ce mollusque se produit une multiplication asexuée très importante, et une transformation en cercaires puis furcocercaires.  
+*   Ceux-ci sont attirés par les mammifères, l’homme en particulier, et pénètrent activement par effraction cutanée. Ils se transforment en vers et vont dans la circulation où le couple se fixe dans les veines urinaires, intestinales ou hépatiques.  
 *   La femelle pond alors des œufs qui traversent la paroi veineuse puis la paroi de l’organe proche, provoquant ainsi les pathologies rencontrées.
 
 Le cycle d’incubation dure de 3 à 4 semaines et la persistance des vers peut durer de 15 à 20 ans.
@@ -112,10 +112,11 @@ Le cycle d’incubation dure de 3 à 4 semaines et la persistance des vers peut 
 
 Elle dépend des conditions climatiques et de la présence d’eau de surface :
 
-*   La **schistosomiase intestinale** n’existe que si les vecteurs spécifiques sont présents, les planorbes vivent dans des eaux permanentes et avec des températures inférieures à 35°C. Elle est donc retrouvée dans les zones forestières et de savane humide.
+*   La **schistosomiase intestinale** n’existe que si les vecteurs spécifiques sont présents, les planorbes vivent dans des eaux permanentes et avec des températures inférieures à 35°C. Elle est donc retrouvée dans les zones forestières et de savane humide.  
 *   La schistosomiase urinaire est plus répandue, on la retrouve dans les zones humides mais aussi dans toutes les zones de savanes, dans le Sahel et même dans les oasis sahariens. Sa fréquence est maximale aux alentours des points d’eau et diminue si on s’en éloigne.
 
 La schistosomiase urinaire est très liée à la fréquentation des sources d’eau par les personnes ; c’est pourquoi la maladie est aussi prégnante dans les villages bordant les rivières ou les zones hydro-agricoles.
+
 
 ![](image002-schisto.jpg)
 
@@ -270,10 +271,10 @@ lymphatique</th>
 
 La stratégie est la suivante :
 
-*   Passage une fois par an pendant 5 ou 6 ans.
-*   Semaine 1 = albendazole+ ivermectine / semaine 2 = praziquantel / semaine 3 = azythromycine.
-*   Stratégie fixe dans les centres de santé, écoles, lieux publics (marchés).
-*   Stratégie avancée avec distribution de porte à porte par distributeurs communautaires.
+*   Passage une fois par an pendant 5 ou 6 ans.  
+*   Semaine 1 = albendazole+ ivermectine / semaine 2 = praziquantel / semaine 3 = azythromycine.  
+*   Stratégie fixe dans les centres de santé, écoles, lieux publics (marchés).  
+*   Stratégie avancée avec distribution de porte à porte par distributeurs communautaires.  
 *   Surveillance des effets indésirables (évacuation si effet grave).
 
 Pour cette stratégie, l’OMS propose de calculer les doses selon la taille, en utilisant les toises suivantes avec les correspondances avec le poids corporel.

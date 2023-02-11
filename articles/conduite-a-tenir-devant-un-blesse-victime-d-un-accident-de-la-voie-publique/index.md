@@ -63,11 +63,12 @@ On doit: **dépister des lésions mettant en** **jeu la vie du blessé.**
 
 *   Prendre le pouls radial au poignet. S'il n'est pas bien perçu à ce niveau, le rechercher au niveau d'une autre artère (pouls fémoral, carotidien). Noter sa force, sa rapidité.
 
+
 ![](i73-1.jpg)
 
 
-*   Examiner la coloration des muqueuses: conjonctives, lèvres.
-*   Si possible prendre la tension artérielle et la noter.
+*   Examiner la coloration des muqueuses: conjonctives, lèvres.  
+*   Si possible prendre la tension artérielle et la noter.  
 *   Rechercher une cause de saignement possible:
 
 *   _elle peut être évidente_: hémorragie externe par plaie d'une grosse artère (pli du coude, poignet, cou, aine) ou plaie cutanée importante (cuir chevelu),
@@ -103,7 +104,9 @@ Le dégagement du blessé hors du véhicule et son transport doivent éviter d'a
 
 Une fracture de vertèbre y sera suspectée à chaque fois que le malade est inconscient ou qu'il ne peut pas se mouvoir seul. Il sera dégagé et transporté selon les schémas suivants.
 
+
 ![](i73-2.jpg)
+
 
 
 ![](i73-3.jpg)
@@ -113,9 +116,9 @@ Une fracture de vertèbre y sera suspectée à chaque fois que le malade est inc
 
 Plusieurs situations, rares, nécessitent des gestes d'urgence sur les lieux de l'accident:
 
-*   Le blessé est en état de mort apparente. a Le blessé saigne, il est choqué.
-*   Le blessé respire mal, il est encombré.
-*   Le blessé présente des signes neurologiques déficitaires (perte de conscience, désorientation, paralysie).
+*   Le blessé est en état de mort apparente. a Le blessé saigne, il est choqué.  
+*   Le blessé respire mal, il est encombré.  
+*   Le blessé présente des signes neurologiques déficitaires (perte de conscience, désorientation, paralysie).  
 *   Il existe une fracture d'un membre.
 
 **Règle essentielle**
@@ -193,18 +196,18 @@ Le traumatisme, crânien ou facial, est fréquent, il est utile d'évaluer son i
 
 ### **2. Examen cardio-vasculaire** (état hémodynamique):
 
-*   Prendre et mesurer le pouls.
-*   La tension artérielle si possible.
-*   Noter la pâleur (conjonctives, lèvres, sous l'ongle).
+*   Prendre et mesurer le pouls.  
+*   La tension artérielle si possible.  
+*   Noter la pâleur (conjonctives, lèvres, sous l'ongle).  
 *   Rechercher une hémorragie externe.
 
 ### **3. Examen respiratoire**
 
-*   Coloration des muqueuses (bleutées si respiration inefficace).
-*   Liberté des voies respiratoires (souvent encombrées en cas de traumatisme facial avec saignement de nez).
-*   Amplitude et fréquence de la respiration.
-*   Recherche de douleur à la pression des côtes due à une fracture.
-*   Recherche de mouvement anormal de la paroi thoracique lors de la respiration dû à un volet costal (fracture de plusieurs côtes), une telle lésion doit être immobilisée par un bandage si le blessé suffoque.
+*   Coloration des muqueuses (bleutées si respiration inefficace).  
+*   Liberté des voies respiratoires (souvent encombrées en cas de traumatisme facial avec saignement de nez).  
+*   Amplitude et fréquence de la respiration.  
+*   Recherche de douleur à la pression des côtes due à une fracture.  
+*   Recherche de mouvement anormal de la paroi thoracique lors de la respiration dû à un volet costal (fracture de plusieurs côtes), une telle lésion doit être immobilisée par un bandage si le blessé suffoque.  
 *   Auscultation, percussion recherchant une matité, une abolition du murmure vésiculaire s'il existe un hémothorax (sang dans la cavité pleurale).
 
 ### **4. Recherche d'une fracture de** **vertèbre**

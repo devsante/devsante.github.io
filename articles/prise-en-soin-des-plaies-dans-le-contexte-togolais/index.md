@@ -94,6 +94,7 @@ Explorer les pathologies et facteurs de risque associés.</th>
 
 #### _**Figure 1. Les phases de la cicatrisation **_
 
+
 ![](image001-4.jpg)
 
 
@@ -103,6 +104,7 @@ Explorer les pathologies et facteurs de risque associés.</th>
 
 **_Figure 2. Illustration d'une échelle colorimétrique_**
 
+                                                
 ![](image002.png)
 
 
@@ -110,6 +112,7 @@ Explorer les pathologies et facteurs de risque associés.</th>
 
 _**Figure 3. Illustration de la technique d**_e _**planimétrie**_.
 
+                            
 ![](image003-0.png)
 
 
@@ -117,6 +120,7 @@ _**Figure 3. Illustration de la technique d**_e _**planimétrie**_.
 
 _**Figure 4. Illustration de la technique de photographie numérisée et de la règle graduée.**_
 
+                   
 ![](image004-9.jpg)
 
 
@@ -152,10 +156,10 @@ Ainsi, le choix d'un pansement dépendra des points suivants :
 
 C’est le temps du nettoyage de la plaie, étape incontournable et essentielle du pansement. C’est le moment de se débarrasser des tissus morts et de préparer le lit de la plaie au bourgeonnement. Le débridement peut être chirurgical, autolytique ou mécanique. Le lavage avec et sans pression est bénéfique à cette phase.
 
-*   Pour la nécrose ou fibrine sèche : détersion chirurgicale avec ciseaux, bistouri ou curette par un médecin ou une infirmière spécialisée.
-*   Un ramollissement de la plaque nécrotique par hydratation de la plaie peut être nécessaire avant. Les pansements de type hydrogel et hydrocolloïdes sont utilisés à cet effet. Par ailleurs, dans nos milieux, les pansements aux grains de sucre de table, au miel, à la vaseline ou au beurre de karité ont démontré leur pouvoir de détersion dans ce débridement autolytique.
-*   Pour la nécrose ou fibrine humide : détersion mécanique combinée à la détersion autolytique avec des pansements de types alginates ou hydrofibres.
-*   Décoller la fibrine avec compresse sèche par friction énergique du lit de la plaie pour stimuler la cicatrisation. Geste douloureux avec un risque potentiel d’endommagement des tissus sains. Un lavage ou un nettoyage appliqué à l’eau stérile ou au sérum physiologique est toujours recommandé.
+*   Pour la nécrose ou fibrine sèche : détersion chirurgicale avec ciseaux, bistouri ou curette par un médecin ou une infirmière spécialisée.  
+*   Un ramollissement de la plaque nécrotique par hydratation de la plaie peut être nécessaire avant. Les pansements de type hydrogel et hydrocolloïdes sont utilisés à cet effet. Par ailleurs, dans nos milieux, les pansements aux grains de sucre de table, au miel, à la vaseline ou au beurre de karité ont démontré leur pouvoir de détersion dans ce débridement autolytique.  
+*   Pour la nécrose ou fibrine humide : détersion mécanique combinée à la détersion autolytique avec des pansements de types alginates ou hydrofibres.  
+*   Décoller la fibrine avec compresse sèche par friction énergique du lit de la plaie pour stimuler la cicatrisation. Geste douloureux avec un risque potentiel d’endommagement des tissus sains. Un lavage ou un nettoyage appliqué à l’eau stérile ou au sérum physiologique est toujours recommandé.  
 *   Le lavage avec pression positive (à l’aide d’une seringue 30 ml et d’une aiguille 18g  à une distance de 10 cm de la plaie), à la différence de la friction énergique permet de déloger sans douleurs les tissus fibrineux de la plaie en préservant les tissus sains.
 
 **A la phase de bourgeonnement, maintenir le milieu humide**
@@ -196,16 +200,16 @@ _**Références**_
 
 1.  « Principes généraux pour les soins de plaies » ; en ligne [http://www.hug-ge.ch/procedures-de-soins/principes-generaux-pour-les-soi...](http://www.hug-ge.ch/procedures-de-soins/principes-generaux-pour-les-soins-de-plaies "http://www.hug-ge.ch/procedures-de-soins/principes-generaux-pour-les-soins-de-plaies")
 2.  « Guide de bonne pratique pour la prise charge des plaies », APCI (Association Plaies et Cicatrisation d’Ille-et-Vilaine) consulté en ligne : [http://www.apci35.org/documents/guides/guide_de_bonne_pratique.pdf](http://www.apci35.org/documents/guides/guide_de_bonne_pratique.pdf "http://www.apci35.org/documents/guides/guide_de_bonne_pratique.pdf")
-3.  Les soins de plaie : comprendre, prévenir et soigner. SAfW - commission formation/éducation-Médecine & Hygiène 2011.
+3.  Les soins de plaie : comprendre, prévenir et soigner. SAfW - commission formation/éducation-Médecine & Hygiène 2011.  
 4.  Cadre de référence : « La prévention et le traitement des plaies chroniques ». Document pdf consulté en ligne : [http://www.telap.org/wpcontent/uploads/2011/01/Cadre-de-référence-.pdf](http://www.telap.org/wpcontent/uploads/2011/01/Cadre-de-référence-.pdf "http://www.telap.org/wpcontent/uploads/2011/01/Cadre-de-référence-.pdf")
 5.  Prévention et prise en charge de l’infection des plaies, OMS (Organisation Mondiale de la Santé), [http://www.who.int/hac/crises/hti/prevention_et_prise_en_charge_de_linfe...](http://www.who.int/hac/crises/hti/prevention_et_prise_en_charge_de_linfection.pdf "http://www.who.int/hac/crises/hti/prevention_et_prise_en_charge_de_linfection.pdf")
-6.  C. Thibault, D. St Cyr et al. Les soins de plaies au cœur du savoir infirmier, de l'évaluation à l'intervention pour mieux prévenir et traiter, Ordre des infirmiers (ère)s du Québec, 2007.
+6.  C. Thibault, D. St Cyr et al. Les soins de plaies au cœur du savoir infirmier, de l'évaluation à l'intervention pour mieux prévenir et traiter, Ordre des infirmiers (ère)s du Québec, 2007.  
 7.  ACSP (2001). Préparation du lit de la plaie: débridement, équilibre bactérien et équilibre de l’humidité. Site Internet [www.cawc.net](http://www.cawc.net "www.cawc.net")
 8.  G. Magalon, R. Vanwijck, T-M. Mullie, M. Dumont, D. Casanova, B. Collard. Guide des plaies : Du pansement à la chirurgie. John LibbeyEurotext ; Paris : 2003 
 9.  Dr Jean-Paul LEMBELEMBE Gériatre, clinique des Augustines, MALESTROIT. Prise en charge des plaies chroniques,  consulté en ligne en mars 2014, [http://www.oncovannes.org/bases/article/pdf2/68/Plaies_chroniques.pdf](http://www.oncovannes.org/bases/article/pdf2/68/Plaies_chroniques.pdf "http://www.oncovannes.org/bases/article/pdf2/68/Plaies_chroniques.pdf")
-10.  World Union of Wound Healing Societies (WUWHS). Principes de bonne pratique : Diagnostic et plaies. Document de consensus. Londres : MEP Ltd, 2008.
-11.  Consensus International. Bon usage des pansements à l’argent dans les soins des plaies. London: Wounds International, 2012.
-12.  F. Moutet, D. Corcella, A. Forli, T. Martin des Pallières. Pansements et plaies infectées ; 10ème JNI, Lyon, 2009. Consulté en ligne mars 2014.
+10.  World Union of Wound Healing Societies (WUWHS). Principes de bonne pratique : Diagnostic et plaies. Document de consensus. Londres : MEP Ltd, 2008.  
+11.  Consensus International. Bon usage des pansements à l’argent dans les soins des plaies. London: Wounds International, 2012.  
+12.  F. Moutet, D. Corcella, A. Forli, T. Martin des Pallières. Pansements et plaies infectées ; 10ème JNI, Lyon, 2009. Consulté en ligne mars 2014.  
 13.  Vincent LAGRANGE, « La cicatrisation et les plaies chroniques ». Certificat Plaies et cicatrisation, ESFORD-Lyon, Session de juin 2012. Cours
-14.  Ordre des infirmières et infirmiers du Québec (OIIQ), sous la dir de Dow et al. 19999 (2007). « Les soins de plaie au cœur du savoir infirmier: de l'évaluation à l'intervention pour mieux prévenir et traiter », Westmount.
+14.  Ordre des infirmières et infirmiers du Québec (OIIQ), sous la dir de Dow et al. 19999 (2007). « Les soins de plaie au cœur du savoir infirmier: de l'évaluation à l'intervention pour mieux prévenir et traiter », Westmount.  
 15.  Figures 1, 2 et 3: Vincent LAGRANGE, « La cicatrisation et les plaies chroniques ». Certificat Plaies et cicatrisation, ESFORD-Lyon, Session de juin 2012. Cours

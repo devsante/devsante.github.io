@@ -69,6 +69,7 @@ Une cause non infectieuse est possible (erreurs alimentaires dans la constitutio
 
 Les parasites intestinaux ne donnent que rarement une diarrhée aiguë.
 
+
 ![](i15-1.jpg)
 
 
@@ -115,7 +116,7 @@ Ceci peut être réalisé :
 
 Elle peut souvent être corrigée sans perfusion.
 
-*   En cas de diarrhée très liquide ou de vomissements, par sonde gastrique installée et surveillée au dispensaire, par laquelle on fait passer de façon continue la même solution, au même rythme que dans le cas précédent. La sonde est enlevée le soir et la mère continue l'alimentation comme ci-après.
+*   En cas de diarrhée très liquide ou de vomissements, par sonde gastrique installée et surveillée au dispensaire, par laquelle on fait passer de façon continue la même solution, au même rythme que dans le cas précédent. La sonde est enlevée le soir et la mère continue l'alimentation comme ci-après.  
 *   En l'absence de vomissement et si la diarrhée n'est pas trop menaçante du fait de son importance, par ingestion à la cuillère de petites quantités tous les quarts d'heure d'une potion constituée pour 1 litre d'eau stérile, de 3 g de sel (2 pincées), 50 g de sucre (10 morceaux) et 1 ampoule de 1 g de chlorure de potassium. Ceci est fait d'emblée ou prend la suite de la perfusion ou de la sonde gastrique le cas échéant et nécessite une bonne compréhension et une bonne collaboration de la part de la mère. L'OMS préconise l'utilisation de "sachets de réhydratation" (sel, sucre, bicarbonate) qu'il suffit de dissoudre dans de l'eau propre. Dans tous les cas, l'enfant doit être revu au bout de 24 heures et la réapparition de la déshydratation justifie la reprise de la même attitude. Une fois celle-ci corrigée, il faut prendre la suite par le traitement de la diarrhée elle-même.
 
 ### 2. La diarrhée
@@ -154,9 +155,9 @@ Leur absence fait discuter l'utilité d'un traitement antibiotique. Celui-ci ne 
 
 Il est justifié par le rôle considérable de la diarrhée dans la mortalité et la morbidité infantile et les difficultés que rencontre souvent le traitement curatif. C'est un problème très complexe basé sur l'éducation sanitaire dont on ne peut souligner que quelques points :
 
-*   L'importance de **l'allaitement maternel** prolongé qui limite les manipulations septiques de lait artificiel et apporte des défenses immunitaires de grande efficacité.
-*   Le fléau constitué par l'emploi du **biberon** dont la stérilité n'est que rarement possible à assurer de façon régulière.
-*   Le rôle caché mais certain des **malnutritions,** même modérées, qui viennent aggraver toute diarrhée par ailleurs banale. La prévention des diarrhées graves passe par celle de la malnutrition.
+*   L'importance de **l'allaitement maternel** prolongé qui limite les manipulations septiques de lait artificiel et apporte des défenses immunitaires de grande efficacité.  
+*   Le fléau constitué par l'emploi du **biberon** dont la stérilité n'est que rarement possible à assurer de façon régulière.  
+*   Le rôle caché mais certain des **malnutritions,** même modérées, qui viennent aggraver toute diarrhée par ailleurs banale. La prévention des diarrhées graves passe par celle de la malnutrition.  
 *   L'importance de **l'attitude maternelle** au tout début de la diarrhée du nourrisson: un régime adapté (eau /sel /sucre avec arrêt du lait artificiel) institué d'emblée, permet de guérir la majorité des cas. A l'inverse, une alimentation mal adaptée et une trop longue attente sont des facteurs de gravité majeurs.
 
 _Développement et Santé, N°36, décembre 1981_

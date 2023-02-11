@@ -4,7 +4,7 @@ author: "Dr Dominique Malègue, Paris"
 date: "2016-12-15"
 ---
 
-Pour mieux répondre aux attentes de nos lecteurs, nous avons fait évoluer notre site. Vous êtes de plus en plus nombreux à lire notre documentation sur une tablette ou un mobile, c’est pourquoi nous avons tenu à adapter notre site à ce mode de consultation. 
-Développement et Santé a décidé de donner la priorité à la drépanocytose, maladie génétique la plus répandue dans le monde, afin d’en améliorer la prise en charge. 
-Quant à notre base documentaire généraliste, elle est toujours présente sur notre site et continuera à être régulièrement enrichie de nouveaux articles. 
+Pour mieux répondre aux attentes de nos lecteurs, nous avons fait évoluer notre site. Vous êtes de plus en plus nombreux à lire notre documentation sur une tablette ou un mobile, c’est pourquoi nous avons tenu à adapter notre site à ce mode de consultation.  
+Développement et Santé a décidé de donner la priorité à la drépanocytose, maladie génétique la plus répandue dans le monde, afin d’en améliorer la prise en charge.  
+Quant à notre base documentaire généraliste, elle est toujours présente sur notre site et continuera à être régulièrement enrichie de nouveaux articles.  
 Nous espérons ainsi mieux répondre aux attentes de tous nos lecteurs et vous remercions de votre confiance.

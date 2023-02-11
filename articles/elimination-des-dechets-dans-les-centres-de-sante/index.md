@@ -7,8 +7,8 @@ teaser: "Toutes les activités de soins génèrent des déchets qui sont potenti
 
 Une structure de soins, quelle que soit sa taille, produit trois types de déchets :
 
-*   Les déchets contaminés ou potentiellement contaminés : sont considérés comme tels tous les déchets solides provenant de soins (pansements, seringues), les vêtements et la literie des malades, et des déchets liquides, les produits  biologiques (urines, sang, selles).
-*   Les objets piquants/coupants, qui sont tous les instruments pouvant créer chez toute personne une solution de continuité (effraction cutanée) tels que les  aiguilles, lames de bistouri.
+*   Les déchets contaminés ou potentiellement contaminés : sont considérés comme tels tous les déchets solides provenant de soins (pansements, seringues), les vêtements et la literie des malades, et des déchets liquides, les produits  biologiques (urines, sang, selles).  
+*   Les objets piquants/coupants, qui sont tous les instruments pouvant créer chez toute personne une solution de continuité (effraction cutanée) tels que les  aiguilles, lames de bistouri.  
 *   Les déchets "ni/ni" : ni contaminés, ni piquants ; ils sont dits courants, de même type que les déchets ménagers (ordures ménagères).
 
 La bonne gestion de ces déchets se fait en 4 étapes :
@@ -160,7 +160,7 @@ Tous doivent être clairement identifiés.
 
 *   Utiliser des bouteilles ou bidons en plastique fort :
     *   non transparents ni translucides,
-    *   récipients pour huile et produits chimiques.
+    *   récipients pour huile et produits chimiques.  
 *   Pas de récipient pour boissons sauf ceux en aluminium.
 
 Les cannettes métalliques sont très bien mais il faut, quand elles sont pleines aux  trois quarts :
@@ -188,8 +188,8 @@ S’il existe un incinérateur dans la localité, prendre contact avec les respo
 
 Aménager un fût métallique de 200 litres selon les modalités suivantes à renouveler tous les 4 ou 6 mois (schéma ci-dessous) :
 
-1.  **Modalité la plus simple** : enlever un des cotés circulaires, le placer sur des briques et faire des trous dans le bas.
-2.  **Aménagement plus élaboré** : ménager un volume d’air dans la partie inférieure (réserver un cinquième du fût sur sa hauteur), positionner une grille et utiliser l’espace situé au-dessus de la grille.
+1.  **Modalité la plus simple** : enlever un des cotés circulaires, le placer sur des briques et faire des trous dans le bas.  
+2.  **Aménagement plus élaboré** : ménager un volume d’air dans la partie inférieure (réserver un cinquième du fût sur sa hauteur), positionner une grille et utiliser l’espace situé au-dessus de la grille.  
 3.  **Encore mieux** : ménager, en plus de l’espace inférieur, un autre espace sur toute la hauteur du fût grâce à une grille verticale.
 
 Ces espaces sont destinés à faire circuler de l’air, donc de l’oxygène, qui permet d’obtenir des températures supérieures à 800° C. Au-dessus de 800° C, tous les agents pathogènes sont détruits, les fumées sont moins toxiques et les métaux fondent (en partie).  
@@ -198,9 +198,9 @@ Enfin, il faut prévoir un couvercle pour la nuit et pour protéger de la pluie.
 
 #### Incinérer en respectant un horaire régulier :
 
-1.  Brûler le matin de bonne heure (arroser éventuellement avec du gazole avant d’allumer), laisser refroidir, vider puis enfouir les cendres.
-2.  Dans la journée, remplir de déchets contaminés et objets piquants/coupants.
-3.  Le soir, couvrir.
+1.  Brûler le matin de bonne heure (arroser éventuellement avec du gazole avant d’allumer), laisser refroidir, vider puis enfouir les cendres.  
+2.  Dans la journée, remplir de déchets contaminés et objets piquants/coupants.  
+3.  Le soir, couvrir.  
 4.  Mettre le feu le lendemain matin (il vaut mieux ne pas brûler le soir car les fumées stagnent).
 
 Enfouir dans un trou d’au moins 50 cm de profondeur et distant de plus de 50 mètres de toute source ou de tout forage. La masse de terre qui recouvre les ordures doit avoir au moins 30 cm de hauteur.
@@ -210,6 +210,7 @@ Enfouir dans un trou d’au moins 50 cm de profondeur et distant de plus de 50 m
 *   les ordures ménagères ou le "ni/ni" ;
 *   les pièces anatomiques, qui doivent être enfouies après avoir été recouvertes de chaux vive (ou crésyl si pas de chaux) ;
 *   les cendres et ce qui reste des métaux (aiguilles), qui doivent être fondus.
+
 
 ![](incinerateurs-4.jpg)
 

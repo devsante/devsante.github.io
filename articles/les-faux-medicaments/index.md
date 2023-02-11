@@ -70,4 +70,5 @@ En principe, un médicament acquis dans un circuit légal est de bonne qualité 
 
 Mais, comme le montre le dessin ci-dessous, la prolifération des médicaments sous standards est un compromis entre besoins, faiblesses de gouvernance et intérêts individuels.
 
+
 ![](image002-4.jpg)

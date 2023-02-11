@@ -17,7 +17,9 @@ Le traitement des MST est toujours double concernant le patient et son (ses) par
 
 La prévention des MST est simple : abstinence sexuelle, fidélité réciproque ou usage de préservatifs. Mais l'adoption de pratiques sexuelles " sans risque" est difficile. La seule MST prévenue par la vaccination est l'hépatite B.
 
+
 ![](i938-1.jpg)
+
 ![](i938-2.jpg)
 
 
@@ -33,10 +35,10 @@ L'interrogatoire précise les circonstances d'apparition de l'ulcération, ses m
 
 ### En rapport avec
 
-*   La syphilis primaire, d'incubation longue, de 10 à 100 jours (en moyenne 3 semaines). L'ulcération génitale est souvent décrite comme superficielle, propre et à surface indurée. La syphilis primaire est confirmée par l'examen direct au microscope à fond noir (mise en évidence de tréponèmes) et les résultats du TPHA-VDRL répété à 15 jours d'intervalle (séroconversion, ascension du titre du VRDL quantitatif aux examens successifs).
-*   Le chancre mou, d'incubation courte (3 à 7 jours). Il existe des ulcérations cutanées à distance du chancre et surtout une adénopathie inguinale inflammatoire (bubon), fluctuante, se fistulisant spontanément à la peau en un seul pertuis. Le diagnostic de chancre mou est difficile (cf. bubon inguinal).
-*   L'herpès génital, évoqué sur la notion d'épisodes antérieurs identiques, la présence d'ulcérations génitales nombreuses (5 ou 6), groupées en bouquets, mais l'_Herpes_ _simplex virus_ (HSV) peut également être à l'origine d'une ulcération chancroïde. L'herpès est idéalement confirmé par la culture virale, la présence du virus étant révélée par l'observation d'un effet cytopathogène caractéristique. En cas d'ulcération génitale, il s'agit habituellement d'un HSV de type 2. L'examen direct d'un frottis de raclage de la lésion génitale (cytodiagnostic de Tzanck) est sensible. Le sérodiagnostic manque de spécificité (grande fréquence de la présence des anticorps sériques anti HSV 1 dans la population générale), à moins d'utiliser des techniques spécifiques de HSV1 et HSV2 mais l'intérêt diagnostique de la sérologie est faible.
-*   La donovanose, évoquée sur la notion de séjour en pays d'endémie et sur la présence d'une ulcération unique en plateau. Le diagnostic de la donovanose repose sur l'examen direct qui met en évidence la présence de corps de Donovan.
+*   La syphilis primaire, d'incubation longue, de 10 à 100 jours (en moyenne 3 semaines). L'ulcération génitale est souvent décrite comme superficielle, propre et à surface indurée. La syphilis primaire est confirmée par l'examen direct au microscope à fond noir (mise en évidence de tréponèmes) et les résultats du TPHA-VDRL répété à 15 jours d'intervalle (séroconversion, ascension du titre du VRDL quantitatif aux examens successifs).  
+*   Le chancre mou, d'incubation courte (3 à 7 jours). Il existe des ulcérations cutanées à distance du chancre et surtout une adénopathie inguinale inflammatoire (bubon), fluctuante, se fistulisant spontanément à la peau en un seul pertuis. Le diagnostic de chancre mou est difficile (cf. bubon inguinal).  
+*   L'herpès génital, évoqué sur la notion d'épisodes antérieurs identiques, la présence d'ulcérations génitales nombreuses (5 ou 6), groupées en bouquets, mais l'_Herpes_ _simplex virus_ (HSV) peut également être à l'origine d'une ulcération chancroïde. L'herpès est idéalement confirmé par la culture virale, la présence du virus étant révélée par l'observation d'un effet cytopathogène caractéristique. En cas d'ulcération génitale, il s'agit habituellement d'un HSV de type 2. L'examen direct d'un frottis de raclage de la lésion génitale (cytodiagnostic de Tzanck) est sensible. Le sérodiagnostic manque de spécificité (grande fréquence de la présence des anticorps sériques anti HSV 1 dans la population générale), à moins d'utiliser des techniques spécifiques de HSV1 et HSV2 mais l'intérêt diagnostique de la sérologie est faible.  
+*   La donovanose, évoquée sur la notion de séjour en pays d'endémie et sur la présence d'une ulcération unique en plateau. Le diagnostic de la donovanose repose sur l'examen direct qui met en évidence la présence de corps de Donovan.  
 *   La maladie de Nicolas et Favre, évoquée sur la notion de séjour en pays d'endémie, se révèle plus souvent par une adénite inguinale, le chancre d'inoculation passant inaperçu (cf. bubon inguinal).
 
 ### Pour en savoir plus
@@ -53,6 +55,7 @@ Les étiologies infectieuses dominent. _Herpes simplex virus_, _Treponema pallid
 
 *   ou bénéthamine pénicilline + pénicilline G (Biclinocifline® ) : 1 M UI/j en IM x 14 j,
 *   ou, en cas d'allergie à la pénicilline : doxycycline : 100mg x 2/j per os pendant 15 j ou éventuellement (car moins efficace) érythromycine (Erythrocine®) : 1g x 2/j per os pendant 15 j.
+
 
 ![](i938-3.jpg)
 
@@ -93,23 +96,24 @@ Y penser devant une adénopathie inguinale inflammatoire, ramollie, fistulisant 
 
 ### A confirmer par
 
-*   L'examen clinique qui précise les caractères sémiologiques de l'adénopathie avec recherche attentive d'une porte d'entrée potentielle dans les différents territoires de drainage lymphatique : organes génitaux externes, membre inférieur homolatéral, fesses.
+*   L'examen clinique qui précise les caractères sémiologiques de l'adénopathie avec recherche attentive d'une porte d'entrée potentielle dans les différents territoires de drainage lymphatique : organes génitaux externes, membre inférieur homolatéral, fesses.  
 *   L'interrogatoire précise les circonstances d'apparition de l'adénopathie, ses modalités d'évolution, une histoire récente de MST, de piqûre d'insecte, de morsure animale.
 
 ### En rapport avec
 
-*   _Haemophilus ducreyi,_ agent du _chancre_ mou, quand l'adénopathie est associée à une ulcération génitale. Le bubon du chancre mou est censé fistuliser à la peau en un seul pertuis. Le diagnostic de chancre mou est difficile. Le prélèvement est effectué au niveau du chancre (prélèvement dans la zone de décollement périphérique), et au niveau du bubon (par ponction). L'examen direct du frottis peut montrer des petits bacilles de coloration bipolaire dont le regroupement en banc de poissons est caractéristique. La culture est réservée à des laboratoires spécialisés.
+*   _Haemophilus ducreyi,_ agent du _chancre_ mou, quand l'adénopathie est associée à une ulcération génitale. Le bubon du chancre mou est censé fistuliser à la peau en un seul pertuis. Le diagnostic de chancre mou est difficile. Le prélèvement est effectué au niveau du chancre (prélèvement dans la zone de décollement périphérique), et au niveau du bubon (par ponction). L'examen direct du frottis peut montrer des petits bacilles de coloration bipolaire dont le regroupement en banc de poissons est caractéristique. La culture est réservée à des laboratoires spécialisés.  
 *   _Chlamydia trachomatis_ (sérotype L), agent de la maladie de Nicolas et Favre, quand le bubon est isolé. L'ulcération génitale, éphémère, passe le plus souvent inaperçue et est cicatrisée. Le bubon est censé fistuliser à la peau en pomme d'arrosoir. Le diagnostic de la maladie de Nicolas et Favre s'aide du sérodiagnostic (mise en évidence d'anticorps sériques à un titre supérieur ou égal à 32), évocateur dans un contexte d'ulcération génitale et surtout d'adénopathie très inflammatoire.
 
 ### Pour en savoir plus
 
-*   Le diagnostic positif de bubon est clinique. C'est un syndrome pouvant révéler une maladie sexuellement transmissible : chancre mou ou maladie de Nicolas et Favre. Les caractères de l'adénopathie ne permettent pas d'évoquer une étiologie plutôt qu'une autre, sauf quand l'adénopathie inguinale est séparée en deux par le ligament de Poupar, c'est le signe de la poulie de Greeblatt qui serait caractéristique de la maladie de Nicolas et Favre.
-*   Le diagnostic microbiologique est utile mais l'approche syndromique à partir d'un arbre décisionnel est de pratique courante.
+*   Le diagnostic positif de bubon est clinique. C'est un syndrome pouvant révéler une maladie sexuellement transmissible : chancre mou ou maladie de Nicolas et Favre. Les caractères de l'adénopathie ne permettent pas d'évoquer une étiologie plutôt qu'une autre, sauf quand l'adénopathie inguinale est séparée en deux par le ligament de Poupar, c'est le signe de la poulie de Greeblatt qui serait caractéristique de la maladie de Nicolas et Favre.  
+*   Le diagnostic microbiologique est utile mais l'approche syndromique à partir d'un arbre décisionnel est de pratique courante.  
 *   Les bubons inguinaux ont aussi des étiologies différentes des MST car les ganglions inguinaux drainent le membre inférieur, les fesses et la région péri-anale. L'ensemble des territoires lymphatiques doit être examiné ainsi que le foie, la rate et la peau. La notion de piqûre, morsure ou excoriation récente est à préciser. Un bubon inguinal peut être associé à une peste (peste bubonique), une pasteurellose, une maladie des griffes du chat, une tularémie, une tuberculose ganglionnaire ou surtout une pyodermite dans le territoire de drainage lymphatique.
 
 ### Traitement
 
 Le traitement varie en fonction de la maladie présumée (cf. ulcération génitale). Le traitement du chancre mou associe antibiothérapie, repos au lit, et ponctions itératives du bubon. Le bubon doit être ponctionné tous les jours jusqu'à son affaissement. Il ne doit pas être incisé par drainage. La chirurgie n'est jamais utile. Les critères de guérison sont jugés au niveau de l'ulcération (et non pas du bubon) : au 3è jour elle ne progresse plus et la cicatrisation est effective avant le 10è jour.
+
 
 ![](i938-4.jpg)
 

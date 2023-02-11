@@ -32,6 +32,7 @@ Verre de montre
 
 Sérum physiologique (ou à défaut, eau distillée.)
 
+
 ![](i733-1.jpg)
 
 
@@ -50,6 +51,7 @@ Sérum physiologique (ou à défaut, eau distillée.)
 - Chez les malades présentant des nodules, la peau est prélevée au centre du nodule.
 
 - Il est conseillé de faire plusieurs BCE (2 au niveau de chaque zone), pour diminuer le risque de faux négatifs.
+
 
 ![](i733-2.jpg)
 
@@ -77,6 +79,7 @@ Déposer ces fragments de peau dans un verre de montre contenant quelques goutte
 Attendre 10 à 30 minutes.
 
 Pendant ce temps, nettoyer à l'alcool la zone où a été effectué le prélèvement.
+
 
 ![](i733-3.jpg)
 

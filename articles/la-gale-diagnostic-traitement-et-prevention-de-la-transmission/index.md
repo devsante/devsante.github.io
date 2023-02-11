@@ -7,6 +7,7 @@ teaser: "La gale est une maladie contagieuse, se manifestant par des démangeais
 
 ## I. Le parasite
 
+
 ![](i725-1.jpg)
 
 
@@ -32,6 +33,7 @@ L'incubation est de 3 semaines, mais elle peut être limitée à 1 à 3 jours en
 
 Le parasite femelle creuse dans l'épiderme une galerie formant un sillon superficiel, appelé sillon scabieux, long de 0,5 à 3 cm, portant à l'une des extrémités une surélévation de la taille d'une tête d'épingle correspondant à l'acarien. Les lésions touchent les espaces interdigitaux des mains (vésicules perlées), la face antérieure des poignets, les coudes, les aisselles, les plis inguinaux, la région ombilicale, les fesses, la face interne des cuisses et les seins. Ces lésions spécifiques peuvent manquer. Les lésions secondaires non spécifiques sont plus fréquentes : stries de grattage, papules excoriées, eczématisation, impétigo.
 
+
 ![](i725-2.jpg)
 
 
@@ -55,12 +57,14 @@ Des formes de gale croûteuse sont aussi rencontrées, non seulement chez des pa
 
 Une personne non immunodéprimée, en contact avec un patient atteint de gale croûteuse, développera une gale commune. Ceci peut survenir entre autre chez le personnel hospitalier.
 
+
 ![](i725-3.jpg)
 
 
 ## IV. Le diagnostic
 
 Le diagnostic essentiellement clinique est souvent difficile. Le prurit, la notion de contage, et l'emplacement des lésions sont les éléments majeurs du diagnostic de gale commune.
+
 
 ![](i725-4.jpg)
 

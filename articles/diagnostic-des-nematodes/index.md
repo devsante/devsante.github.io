@@ -11,12 +11,14 @@ Les oxyures (Enterobius vermicularis) sont des petits vers blancs d’environ 1
 
 **Figure 1 : oxyures adultes**
 
+
 ![](page-5-fig-1-oxyures-adultes.jpg)
 
 
 L’enfant se contamine directement en portant les mains à la bouche ( figure 2).
 
 **Figure 2 : cycle de l'oxyure**
+
 
 ![](page-5-fig-2.jpg)
 
@@ -26,6 +28,7 @@ Le diagnostic est évoqué devant une légère hyperéosinophilie et la mise en 
 et surtout au scotch-test anal (figure 3).
 
 **Figure 3 : œufs d'oxyures (scotch test)**
+
 
 ![](page-6-fig-3.jpg)
   
@@ -91,12 +94,14 @@ Les ascaris (_Ascaris lumbricoïdes_) sont des vers blanc-rosés mesurant de 10 
 
 **Figure 4 : ascaris adulte**
 
+
 ![](page-6-fig-4.jpg)
 
 
 Ces vers, situés dans l’intestin grêle, émettent des œufs qui sont éliminés avec les selles. Ces œufs doivent évoluer dans la nature pendant plusieurs semaines pour devenir infestants. L’homme s’infeste par ingestion d’eau, de crudités ou de fruits non pelés (Figure 5).
 
 **Figure 5 : cycle de l'ascaris**
+
 
 ![](page-6-fig-5.jpg)
 
@@ -107,6 +112,7 @@ Les complications sont digestives : syndrome occlusif, invagination, colique hé
 Le diagnostic de ces complications est porté sur la présence des vers à l’intervention chirurgicale (Figure 6).
 
 **Figure 6 : coupe d'ascaris dans un intestin**
+
 
 ![](page-6-fig-6.jpg)
 
@@ -123,6 +129,7 @@ Le traitement est basé sur la prise d’antihelminthiques. La prophylaxie néce
 Les  trichocéphales (_Trichuris  trichiura_) sont des petits nématodes de 3 à 5 cm de long, formés d’une extrémité antérieure filiforme et d’une extrémité postérieure plus grosse (figure 7).
 
 **Figure 7 : trichocéphale adulte**
+
 
 ![](page-7-fig-7.jpg)
 
@@ -147,6 +154,7 @@ La  confirmation est apportée par le sérodiagnostic positif. Il n’y a aucu
 
 **Figure 8 : larve de trichine (biopsie musculaire)**
 
+
 ![](page-7-fig-8.jpg)
 
 
@@ -161,7 +169,9 @@ Ils vivent dans le duodénum, et se fixent sur la muqueuse par leur cavité buc
 
 **Figure 9 : Ancylostoma                        Figure 10 : Necator**           
 
+
 ![](page-8-fig-9.jpg)
+          
 ![](page-8-fig-10-necator.jpg)
 
 
@@ -170,6 +180,7 @@ peau à l’occasion d’une marche en terrain boueux. Elles gagnent le poumon 
 s’installent dans le duodénum. Ce cycle dure environ 40 jours (Figure 11).
 
 **Figure 11 : cycle de l'ankylostome**
+
 
 ![](page-8-fif-11-cycle-ankylostome.jpg)
 
@@ -187,6 +198,7 @@ Après la ponte, les œufs éclosent rapidement et les larves continuent leur p
 très chaud (> 20°C) et humide (équatorial), les larves muent en adultes qui vont copuler et donner naissance à de nombreuses larves qui vont devenir infestantes : et il y a donc une multiplication des larves dans ce cas (Figure 12).
 
 **Figure 12 : cycle de l'anguillule**
+
 
 ![](page-9-cycle-anguillule.jpg)
   
@@ -212,7 +224,8 @@ Les  larves rhabditoïdes d’anguillule mesurent 250 à 300 µm/15 µm. Le pha
 
 </td>
 
-<td>![](page-9-fig-13.jpg)
+<td>  
+![](page-9-fig-13.jpg)
 </td>
 
 </tr>
@@ -232,7 +245,9 @@ Noter la petite encoche caractéristique, qui se trouve au bout de l’extrémit
 
 <td>
 
+
 ![](page-9-fig-14.jpg)
+
 
 
 ![](page-9-fig-14-complement.jpg)
@@ -245,6 +260,7 @@ Noter la petite encoche caractéristique, qui se trouve au bout de l’extrémit
 </tbody>
 
 </table>
+
 <table>
 <caption>Tableau II : traitement des nématodes intestinaux</caption>
 

@@ -25,6 +25,7 @@ La circoncision et aussi l'excision clitoridienne ont tenu une grande place parm
 
 Les scarifications, tatouages, les percées d'oreilles sont aussi souvent responsables, surtout si l'on applique des préparations végétales de terre, voire d'excréments animaux.
 
+
 ![](i901-1.jpg)
 
 
@@ -49,8 +50,8 @@ Les interventions chirurgicales apportent toutes un risque, si une faute d'aseps
 
 Cependant, même faites dans de bonnes conditions, certaines interventions exposent au tétanos :
 
-*   Occlusions, péritonites, césariennes, fractures ouvertes.
-*   Les injections intramusculaires représentent une cause redoutable (avec la Quinine surtout).
+*   Occlusions, péritonites, césariennes, fractures ouvertes.  
+*   Les injections intramusculaires représentent une cause redoutable (avec la Quinine surtout).  
 *   Les vaccinations par scarification (variole, BCG) ont été accusées, en particulier lorsqu'une application de terre a été faite sur le vaccin.
 
 Dans 1 0 à 20 % des cas enfin, on ne trouve pas de porte d'entrée, on pense que **le** **bacille passe alors par le tube digestif.**
@@ -93,6 +94,7 @@ Il est si redoutable (mortalité 90 %) que tout doit être mis en oeuvre pour l'
 ### 4. Conduite à tenir devant une blessure
 
 ####   
+
 ![](i901-2.jpg)
   
 
@@ -101,7 +103,7 @@ Première règle
 C'est avant tout l'amélioration des conditions d'accouchement en généralisant les règles d'asepsie.  
 Un spasme survenant à la suite d'une blessure entraîne la mort. _(Hippocrate)_
 
-*   Nettoyage de l'ombilic avec une solution antiseptique ou de l'eau bouillie.
+*   Nettoyage de l'ombilic avec une solution antiseptique ou de l'eau bouillie.  
 *   Suppression définitive des pansements à base de terre.
 
 #### Deuxième règle
@@ -116,7 +118,7 @@ _Immunisation active de la mère_
 
 Si la mère a des anticorps antitétaniques, on sait qu'ils vont traverser le placenta et donc protéger le nouveau-né. On peut donc :
 
-*   Si la mère a été vaccinée avant sa grossesse, faire une simple injection de rappel.
+*   Si la mère a été vaccinée avant sa grossesse, faire une simple injection de rappel.  
 *   En l'absence de vaccination antérieure, administrer deux injections de vaccin à un mois d'intervalle.
 
 **_Le tétanos tue 500 000 personnes par an dans le monde, les deux tiers ont moins de 20 ans._**
@@ -140,6 +142,7 @@ Une seconde injection avec la même vaccin dans un délai de six mois à deux an
 On comprend le progrès de cette méthode pour la vaccination de masse.
 
 **_Le tétanos ne crée pas d'immunité, il ne faut donc pas oublier de vacciner un sujet qui vient de guérir du tétanos._**
+
 
 ![](i901-3.jpg)
 

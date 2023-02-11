@@ -15,7 +15,7 @@ Elles sont dues à une réinfection streptococcique pharyngée. C'est pour évit
 
 Pour chacune des valves, l'une de ces caractéristiques peut être en défaut :
 
-1.  On parle de rétrécissement valvulaire lorsque l'orifice ouvert entraîne une gêne à l'écoulement du sang : la conséquence hémodynamique est l'apparition d'une différence (gradient) de pression entre deux cavités contiguës pendant le temps d'ouverture valvulaire.
+1.  On parle de rétrécissement valvulaire lorsque l'orifice ouvert entraîne une gêne à l'écoulement du sang : la conséquence hémodynamique est l'apparition d'une différence (gradient) de pression entre deux cavités contiguës pendant le temps d'ouverture valvulaire.  
 2.  On parle d'insuffisance valvulaire lorsque l'orifice fermé laisse refluer le sang dans la cavité qu'il vient de quitter : la conséquence hémodynamique est un travail ventriculaire inutile, soit que le ventricule éjecte dans deux directions différentes (insuffisance mitrale), soit qu'une partie du volume éjecté retombe dans le ventricule (insuffisance aortique).
 
 Nous n'envisagerons que les valvulopathies mitrales et aortiques en raison de la rareté des affections des valves du coeur droit.
@@ -88,12 +88,13 @@ La pression dans l'oreillette gauche est, pendant toute la systole, inférieure 
 
 Ce souffle systolique est habituellement intense. Son intensité est constante durant la systole. Il masque souvent les bruits du coeur. Maximal à la pointe, il irradie largement dans l'aisselle et il est parfois entendu dans le dos. L'auscultation attentive de la diastole est particulièrement importante :
 
-*   Elle permet parfois d'entendre en début de diastole un bruit sourd unique, c'est une exagération du troisième bruit physiologique. Ce bruit est dû au fait que, dès le début de la diastole, l'oreillette dilatée se vide d'une grande quantité de sang dans un ventricule dilaté. Le B3 est perçu dans les fuites volumineuses.
+*   Elle permet parfois d'entendre en début de diastole un bruit sourd unique, c'est une exagération du troisième bruit physiologique. Ce bruit est dû au fait que, dès le début de la diastole, l'oreillette dilatée se vide d'une grande quantité de sang dans un ventricule dilaté. Le B3 est perçu dans les fuites volumineuses.  
 *   Par ailleurs, on recherche les signes d'un rétrécissement mitral associé, leur présence fait porter le diagnostic de maladie mitrale (maladie = rétrécissement + insuffisance).
 
 ### 3. Les signes radiologiques
 
 La radiographie montre essentiellement une dilatation ventriculaire gauche et une dilatation auriculaire gauche.
+
 
 ![](i940-1.jpg)
 

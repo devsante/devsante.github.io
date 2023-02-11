@@ -19,6 +19,7 @@ Pour étudier le statut en l'iode d'une population, on peut évaluer la fréquen
 
 Les dosages sanguins d'hormones thyroïdiennes ainsi que la mesure d'iode dans les urines précisent le diagnostic. Les apports quotidiens recommandés ont été établis avec précision : 40 microgrammes/jour pour le nourrisson, 70 à 90 pour l'enfant, 150 pour l'adolescent et l'adulte, 175 pendant la grossesse et 200 pendant l'allaitement.
 
+
 ![](i918-1.jpg)
 
 
@@ -32,7 +33,9 @@ Le goitre endémique constitue l'aspect le plus spectaculaire de la carence en i
 Le crétinisme endémique toucherait plus de 3 millions de personnes sur terre. Il s'agit de sujets nés et vivant dans une zone de goitre endémique atteints d'un retard mental irréversible avec hypothyroïdie sévère, petite taille, trouble de la marche et quelquefois surdité et strabisme. Cette hypothyroïdie permanente ayant débuté pendant la vie foetale ou la période néonatale.
 
 Plus récemment ont été mis en évidence les déficits en iode modérés se caractérisant sur le plan clinique par une fatigabilité, une frilosité, une diminution du taux des hormones thyroïdiennes dans le sang.  
+
 ![](i918-2.jpg)
+
 
 
 ![](i918-3.jpg)

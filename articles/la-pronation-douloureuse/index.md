@@ -11,6 +11,7 @@ Un traumatisme mineur est toujours à l'origi­ne de la pronation douloureuse. C
 
 Le ligament annulaire qui fait le tour de la tête radiale reste inséré par ses deux extrémités au cubitus mais il se détache partiellement du radius : il peut alors remonter et s'interposer entre la tête radiale et le condyle huméral. Tant que le ligament annulaire n'a pas repris sa place normale, la pronation reste douloureuse.
 
+
 ![](12021-1.jpg)
 
 
@@ -28,7 +29,9 @@ Tout ceci rend peu probable une frac­ture ou une infection osseuse ou articulai
 
 Une radiographie ne montrerait rien d'anor­mal. Elle n'est utile que si l'on garde un doute d'une fracture tassement du radius distal, ou d'une fracture sans déplacement des dia­physes de l'avant-bras.
 
+
 ![](12021-3.jpg)
+
 ![](12021-6.jpg)
 
 

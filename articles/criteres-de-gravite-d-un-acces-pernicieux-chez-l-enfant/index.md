@@ -40,6 +40,7 @@ Enfin, la majorité des enfants décédés sont arrivés en détresse respiratoi
 
 Au total, si les mécanismes du neuropaludisme sont encore mal compris, le simple examen clinique évaluant l'atteinte neurologique et l'état respiratoire suffit à faire prendre les bonnes décisions thérapeutiques.
 
+
 ![](i786-1.jpg)
 
 

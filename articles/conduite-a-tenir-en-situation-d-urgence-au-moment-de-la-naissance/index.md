@@ -10,21 +10,21 @@ teaser: "A la naissance, il est possible d'être confronté à une situation d'u
 Dans la mesure du possible, il est indispensable d'avoir à sa disposition le matériel, que ce soit en milieu médicalisé ou à domicile. Cette "trousse de naissance" doit toujours être prête et régulièrement contr8lée (pour le moins après chaque utilisation pour en remplacer le matériel et s'assurer que rien n'est périmé).  
 La liste du matériel est la suivante (elle peut être enrichie en fonction des moyens médicaux de proximité disponibles)
 
-*   Chronomètre à déclencher au moment de la naissance.
-*   Aspirateur de mucosités avec jeu de sondes d'aspiration (au minimum 6) stériles.
-*   Masque de taille adaptée avec Ambu.
-*   Source d'oxygène si possible (il existe des bouteilles d'OS de petite taille, transportables) dont il faut contrôler régulièrement le remplissage avec un détendeur adapté.
-*   Billot prêt pour surélever la nuque du nouveau-né si besoin.
-*   Stéthoscope.
+*   Chronomètre à déclencher au moment de la naissance.  
+*   Aspirateur de mucosités avec jeu de sondes d'aspiration (au minimum 6) stériles.  
+*   Masque de taille adaptée avec Ambu.  
+*   Source d'oxygène si possible (il existe des bouteilles d'OS de petite taille, transportables) dont il faut contrôler régulièrement le remplissage avec un détendeur adapté.  
+*   Billot prêt pour surélever la nuque du nouveau-né si besoin.  
+*   Stéthoscope.  
 *   Sonde gastrique.
 
 Le reste du matériel de cette liste devant se trouver dans la salle de naissance lorsque l'accouchement a lieu en milieu médicalisé
 
-*   Ampoules de glucosé à 10 %.
-*   Ampoules de gluconate de calcium à 10 %.
-*   Ampoules de phénobarbital.
-*   Ampoules de vitamine K1.
-*   Ampoules de sérum physiologique.
+*   Ampoules de glucosé à 10 %.  
+*   Ampoules de gluconate de calcium à 10 %.  
+*   Ampoules de phénobarbital.  
+*   Ampoules de vitamine K1.  
+*   Ampoules de sérum physiologique.  
 *   Kit pour injection IV lente.
 
 L'ensemble de ce matériel, facilement transportable, devrait permettre de résoudre les principales urgences vitales.
@@ -125,8 +125,8 @@ En pratique, on l'évalue immédiatement, puis 1, 3, 5 et 10 minutes après la n
 
 ### Trois situations peuvent être envisagées :
 
-*   **APGAR entre 7 et 10** : Ce n'est pas une urgence à proprement parler mais de la qualité de la prise en charge de cet enfant va dépendre son état par la suite.
-*   **APGAR entre 3 et 7** : le plus souvent, des gestes simples et bien codifiés permettront une bonne récupération de l'enfant et un développement normal ensuite.
+*   **APGAR entre 7 et 10** : Ce n'est pas une urgence à proprement parler mais de la qualité de la prise en charge de cet enfant va dépendre son état par la suite.  
+*   **APGAR entre 3 et 7** : le plus souvent, des gestes simples et bien codifiés permettront une bonne récupération de l'enfant et un développement normal ensuite.  
 *   **APGAR inférieur à 3** : cela traduit un état critique de l'enfant (il est dit en état de mort apparente) qui nécessite la mise en place de gestes simples et rapides qui, parfois, permettent une récupération. Cependant, il faut savoir que le plus souvent, en l'absence de moyens de réanimation, la situation est désespérée.
 
 #### APGAR entre 7 et 10
@@ -143,7 +143,7 @@ L’enfant respire mal mais la fréquence cardiaque est correcte. Dans ce cas, i
 Si ces premières mesures ne sont pas efficaces, il faut effectuer une **ventilation au masque avec oxygène** (_voir schéma 1_) pur en positionnant bien le nouveau-né, c'est-à-dire :
 
 *   tête bien défléchie (billot sous les épaules pour maintenir la position),
-*   mâchoire luxée en avant.
+*   mâchoire luxée en avant.  
 *   à la fréquence de 60 mouvements par minute (sans dépasser, pour chaque insufflation, une pression de 30 cm d'eau, et en utilisant un Ambu adapté au nouvcau-né).
 
 La manœuvre est efficace si l'on observe :
@@ -158,7 +158,8 @@ En l'absence d'amélioration après 3-4 minutes, il est nécessaire de faire pre
 
 L'enfant se présente en général sans mouvement respiratoire, avec une fréquence cardiaque basse ou nulle, il est dit "en état de mort apparente", le pronostic est sombre en l'absence d'une prise en charge en réanimation néonatale. Toutefois, dans quelques cas, des manc:euvres rapides de désobstruction des voies aériennes supérieures, associées si nécessaire à un massage cardiaque externe (_voir schéma 2_), permettent à certains enfants de récupérer lentement, mais avec un risque de séquelles neurologiques les laissant handicapés à vie.
 
-##![](13193-3.jpg)
+## 
+![](13193-3.jpg)
 
 
 ##   
@@ -187,6 +188,7 @@ Ces prises en charge ne peuvent être envisagées que dans des structures hospit
 Phénobarbital à la dose de 20 mg/kg à passer en IV lente en 30 à 60 minutes, renouvelable par dose de 5 mg/kg en IV lente (sans dépasser 40 mg/kg/24 heures). Le médicament ne doit pas être mélangé avec d'autres solutés. La barbitémie doit être surveillée. Ce traitement ayant une action sédative, il comporte des risques d'apnée. Il faut donc parallèlement assurer une désobstruction des voies aériennes supérieures et si nécessaire une correction des troubles hémodynamiques. Enfin, il est un inducteur enzymatique : il agit sur les enzymes déterminant le métabolisme d'autres médicaments administrés simultanément et risque ainsi d'en modifier les effets (thérapeutiques ou indésirables).
 
 **Schéma 2 : massage cardiaque.**
+
 
 ![](13193-4.jpg)
 
@@ -321,8 +323,8 @@ Nécessite impérativement une recherche étiologique
 
 **OU**
 
-*   150 mg/kg/j de carbonate de chaux selon les mêmes modalités.
-*   3 ml/kg/j de magnésium.
+*   150 mg/kg/j de carbonate de chaux selon les mêmes modalités.  
+*   3 ml/kg/j de magnésium.  
 *   vitamine D3 : 1-OHD3 : 0,1 à 0,2 microgrammes une à deux fois par jour pendant 48 heures, pour permettre une bonne assimilation du calcium.
 
 ### 3. Hypoglycémie néo-natale
@@ -487,13 +489,13 @@ Contrôle Dextro H6</td>
 
 *   Métaboliques : **danger de JO à J5**
     *   hypoglycémies : se référer au chapitre correspondant,
-    *   hypocalcémies : se référer au chapitre correspondant.
+    *   hypocalcémies : se référer au chapitre correspondant.  
 *   Cardiaques
     *   myocardiopathies : surveillance de signes évocateurs ou anomalies du rythme cardiaque,
-    *   risque de mort in utero au 9ème mois : savoir déclencher l'accouchement à partir de 37 SA en cas dc diabète mal équilibré (décision prise par le médecin ou la sage-femme).
+    *   risque de mort in utero au 9ème mois : savoir déclencher l'accouchement à partir de 37 SA en cas dc diabète mal équilibré (décision prise par le médecin ou la sage-femme).  
 *   Hématologiques
     *   polyglobulie : saignée si hématocrite > 70%
-    *   ictère : surveillance de la bilirubine.
+    *   ictère : surveillance de la bilirubine.  
 *   Dystociques
     *   liés à la macrosomie : savoir poser l'indication d'une césarienne donc transférer la mère dans un centre hospitalier disposant de movens adaptés (_voir le chapitre « Traumatismes obstétricaux »_ ).
 

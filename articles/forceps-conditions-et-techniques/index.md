@@ -20,7 +20,9 @@ Il est classique de dire que c'est à Peter Chamberlain (1560-1631) que revient 
 
 Il existe des forceps à branches croisées (exemple : le forceps de Tarnier composé de 3 pièces: deux branches droite et gauche et un tracteur articulé au milieu des branches) (_figure n° 1_) et des forceps à branches non croisées. (exemple : le forceps de Démelin Suzor composé de 4 pièces: deux branches, une barre d'articulation aux extrémités des branches et une vis de pression. Chaque opérateur se sert de l'instrument qui lui convient et dont il a l'habitude.
 
+
 ![](i800-2.jpg)
+
 ![](i800-1.jpg)
 
 
@@ -74,7 +76,9 @@ L'application de forceps est une opération nécessitant rigueur, attention et r
 
 - s'assurer de l'absence de lésions de la filière génitale (col, vagin).
 
+
 ![](i800-3.jpg)
+
 ![](i800-4.jpg)
 
 

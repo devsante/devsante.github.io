@@ -23,13 +23,13 @@ Ainsi, en effectuant tous les jours une marche lente de 30 minutes, une promenad
 
 L'excès pondéral concernant 90 % des diabétiques, la première prescription est un **régime hypocalorique** classique comportant au mieux 5 légumes et fruits (500 g/jour), de l'eau, des sucres lents, et restrictif en lipides et sucres rapides, sans "sauter" de repas et en excluant tout grignotage. L'idéal est de parvenir à une ration calorique comportant 30 % de lipides, 15 % de protides et 55 % de glucides.
 
-*   Le régime diabétique proprement dit évitera d'abord les **lipides** : la réduction des graisses alimentaires, surtout animales (beurre, crème, viandes grasses) et des fritures, diminuera le LDL-cholestérol (mauvais cholestérol), important facteur de risque cardio-vasculaire.
-*   La réduction des graisses végétales aide a limiter l'excès pondéral.
-*   Il faut limiter le **sel**, facteur d'hypertension, ainsi que **l'alcool,** hypercalorique.
-*   Pour les glucides : proscrire les **sucres rapides** responsables d'hyperglycémie immédiate : sucre sous toutes ses formes ; aliments et boissons sucrés : miel, confiture, gâteaux, pâtisseries, biscuits; les cocas et tous les jus sucrés en cannette ou en bouteille, les bonbons.
+*   Le régime diabétique proprement dit évitera d'abord les **lipides** : la réduction des graisses alimentaires, surtout animales (beurre, crème, viandes grasses) et des fritures, diminuera le LDL-cholestérol (mauvais cholestérol), important facteur de risque cardio-vasculaire.  
+*   La réduction des graisses végétales aide a limiter l'excès pondéral.  
+*   Il faut limiter le **sel**, facteur d'hypertension, ainsi que **l'alcool,** hypercalorique.  
+*   Pour les glucides : proscrire les **sucres rapides** responsables d'hyperglycémie immédiate : sucre sous toutes ses formes ; aliments et boissons sucrés : miel, confiture, gâteaux, pâtisseries, biscuits; les cocas et tous les jus sucrés en cannette ou en bouteille, les bonbons.  
 *   Savoir qu'il existe :
-    *   des aliments à **index glycémique élevé**") qu'il faut consommer avec modération sauf en cas d'exercice physique : certains fruits tels les dattes, les figues, les raisins secs.
-    *   des aliments à **index glycémique moyen**, (riches en amidon) appelés souvent "**sucres lents**", c'est-à-dire faisant monter la glycémie moins vite, mais sur une durée plus étalée que le sucre : pain blanc, riz, maïs, pommes de terre, différents légumes secs (haricots, lentilles).
+    *   des aliments à **index glycémique élevé**") qu'il faut consommer avec modération sauf en cas d'exercice physique : certains fruits tels les dattes, les figues, les raisins secs.  
+    *   des aliments à **index glycémique moyen**, (riches en amidon) appelés souvent "**sucres lents**", c'est-à-dire faisant monter la glycémie moins vite, mais sur une durée plus étalée que le sucre : pain blanc, riz, maïs, pommes de terre, différents légumes secs (haricots, lentilles).  
     *   des aliments à **index glycémique faible ou presque nul** (la plupart des aliments contiennent des glucides) :
         *   d'origine animale : poisson, volailles, viande, oeufs, fromage blanc et yaourts non sucrés ;
         *   légumes à faible indice glycémique : légumes verts, tomates, carottes, aubergines...;

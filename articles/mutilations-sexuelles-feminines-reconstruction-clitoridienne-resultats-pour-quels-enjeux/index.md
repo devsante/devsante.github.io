@@ -13,9 +13,9 @@ On estime à plus de 125 millions le nombre de jeunes filles et de femmes victim
 En France, on estime que le nombre de femmes excisées se situe entre 42 000 et 61 000 [3].  
 L’impact des MSF sur la sexualité est potentiellement complexe, car il fait intervenir :
 
-*   Une réduction anatomique du clitoris, avec ses conséquences directes sur l’orgasme, mais également sur le désir, l’excitation et la lubrification de façon indirecte.
-*   Une réduction symbolique, avec un impact sur l’identité féminine, l’image du corps, de la féminité, et de soi.
-*   Une composante de violence pouvant engendrer un stress post-traumatique.
+*   Une réduction anatomique du clitoris, avec ses conséquences directes sur l’orgasme, mais également sur le désir, l’excitation et la lubrification de façon indirecte.  
+*   Une réduction symbolique, avec un impact sur l’identité féminine, l’image du corps, de la féminité, et de soi.  
+*   Une composante de violence pouvant engendrer un stress post-traumatique.  
 *   Une douleur possible lors des relations sexuelles, liée à la cicatrice.
 
 En France, depuis 1979, les mutilations relèvent de l’article 222 du Code Pénal sur les violences. Les autorités françaises ont mis en place un protocole de chirurgie réparatrice remboursé par l’Assurance Maladie pour les femmes et les jeunes filles qui ont subi une MSF et qui en souffrent.  
@@ -52,9 +52,9 @@ La recoupe en zone saine laisse apparaître les corps caverneux au raphé média
 **Etape 5 : Reconstitution du gland et réimplantation**  
 Elle consiste à :
 
-*   préserver le pédicule dorsal en reconstituant un néo-gland par un hémi surjet en avant du clitoris par le vicryl 3/0 et par un point en arrière du clitoris par du vicryl 2/0, ce qui permet de repositionner le gland reconstitué dans sa situation normale.
-*   adosser des muscles bulbo-caverneux par des points simples au vicryl 2/0 afin d’éviter toute réascension du clitoris.
-*   fermer la peau par points séparés simples au vicryl 2/0 sans drainage.
+*   préserver le pédicule dorsal en reconstituant un néo-gland par un hémi surjet en avant du clitoris par le vicryl 3/0 et par un point en arrière du clitoris par du vicryl 2/0, ce qui permet de repositionner le gland reconstitué dans sa situation normale.  
+*   adosser des muscles bulbo-caverneux par des points simples au vicryl 2/0 afin d’éviter toute réascension du clitoris.  
+*   fermer la peau par points séparés simples au vicryl 2/0 sans drainage.  
 *   réaliser une infiltration sous cutanée d’un anesthésique local (Naropéine + clonidine) pour les douleurs postopératoires.
 
 **Autres situations : Prise en charge chirurgicale des MSF de type 3 (infibulation)**  
@@ -520,8 +520,8 @@ L’analyse de Foldes a consisté à comparer la douleur et le plaisir clitoridi
 
 Les résultats sur le plaisir clitoridien montrent que :
 
-*   sur 368 femmes/841 qui n’avait jamais eu de plaisir clitoridien en préopératoire, 88 femmes, soit 24 %, ont éprouvé un orgasme restreint et 41 femmes, soit 11 %, un orgasme régulier en postopératoire [5].
-*   sur 97 femmes qui ont présenté un orgasme restreint avant la chirurgie réparatrice, 51 femmes, soit 52 %, ont rapporté avoir un orgasme régulier [5].
+*   sur 368 femmes/841 qui n’avait jamais eu de plaisir clitoridien en préopératoire, 88 femmes, soit 24 %, ont éprouvé un orgasme restreint et 41 femmes, soit 11 %, un orgasme régulier en postopératoire [5].  
+*   sur 97 femmes qui ont présenté un orgasme restreint avant la chirurgie réparatrice, 51 femmes, soit 52 %, ont rapporté avoir un orgasme régulier [5].  
 *   12 des 53 patientes (23 %) qui avaient eu régulièrement des orgasmes avant l’opération ont signalé une réduction de ceux-ci après l’opération [5].
 
 Sur le plan de la douleur, parmi les 486 patientes qui n’avaient pas de douleur avant la réparation, 8 (2 %) ont signalé de l’inconfort et 1(< 1 %) une douleur [5].

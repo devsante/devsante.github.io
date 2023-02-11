@@ -197,8 +197,8 @@ Si la vaccination antirubéoleuse n'a pas été réalisée selon ce schéma, ell
 
 #### Chez la femme en âge de procréer
 
-*   Le vaccin est contre-indiqué en cas de grossesse en raison d'un risque tératogène théorique.
-*   Il faudra éviter une grossesse dans les deux mois qui suivent la vaccination.
+*   Le vaccin est contre-indiqué en cas de grossesse en raison d'un risque tératogène théorique.  
+*   Il faudra éviter une grossesse dans les deux mois qui suivent la vaccination.  
 *   La vaccination doit être systématique immédiatement après l'accouchement chez une femme non immunisée ou dont le statut immunitaire vis-à-vis de la rubéole serait inconnu.
 
 ## III. Vaccination contre la grippe

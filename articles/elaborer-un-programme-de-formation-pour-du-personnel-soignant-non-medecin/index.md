@@ -31,9 +31,9 @@ Après quelques années d'expérience professionnelle, ceux ou celles-ci sont ca
 
 L'objectif de cet exposé n'est pas de construire un programme spécifique à chaque catégorie de personnel mais de proposer à tous ceux et celles qui prendront en charge la formation d'un ou plusieurs personnels de santé, une méthodologie, un plan de travail, dans le but d'élaborer un programme. Peuvent être envisagés :
 
-*   La remise à jour de programmes trop anciens, en rapport avec l'évolution rapide de l'infrastructure sanitaire et de la société africaine.
-*   L'élaboration de programmes de formation de nouvelles catégories de personnel pour les mêmes motifs.
-*   La création d'une formation en cours d'emploi en vue de permettre à un personnel donné d'accéder à l'échelon supérieur.
+*   La remise à jour de programmes trop anciens, en rapport avec l'évolution rapide de l'infrastructure sanitaire et de la société africaine.  
+*   L'élaboration de programmes de formation de nouvelles catégories de personnel pour les mêmes motifs.  
+*   La création d'une formation en cours d'emploi en vue de permettre à un personnel donné d'accéder à l'échelon supérieur.  
 *   La création de cours de recyclage afin d'assurer un perfectionnement et une remise à jour des connaissances du personnel.
 
 **Quelle que soit la formation envisagée,** **Il n'est pas question de copier des programmes du passé ou des modèles venus** **de l'étranger.**
@@ -49,6 +49,7 @@ La tâche n'est pas facile et plusieurs stades seront nécessaires pour réalise
 **Ile stade: élaborer le programme** de formation avec la mise en oeuvre de ce programme, son évaluation périodique en fonction des besoins et des ressources de la société.
 
 L'étendue de cette étude nous oblige à la partager en trois parties selon les stades ci-dessus mentionnés. Nous développerons d'abord la première partie (Ier stade), les autres feront l'objet d'articles à paraître dans les deux numéros suivants de la revue.
+
 
 ![](i2-1.jpg)
 
@@ -67,22 +68,22 @@ Nous proposons, dans l'ordre, de procéder à:
 
 **Sa situation géographique**
 
-*   Ouverture sur la mer ou situation à l'intérieur des terres.
-*   Présence d'un fleuve navigable ou non.
-*   Caractères de la végétation: Sahel, savane, forêts.
-*   Situation politique et économique des pays limitrophes.
+*   Ouverture sur la mer ou situation à l'intérieur des terres.  
+*   Présence d'un fleuve navigable ou non.  
+*   Caractères de la végétation: Sahel, savane, forêts.  
+*   Situation politique et économique des pays limitrophes.  
 *   Incidence de la situation géographique sur le climat, le mode de vie des populations.
 
 **Sa situation démographique**
 
-*   Étude de la population actuelle et projection démographique selon l'âge et le sexe.
-*   Densité et répartition de la population.
-*   Espérance de vie des habitants.
+*   Étude de la population actuelle et projection démographique selon l'âge et le sexe.  
+*   Densité et répartition de la population.  
+*   Espérance de vie des habitants.  
 *   Taux actuel de natalité et de mortalité infantile et adulte en projection.
 
 **Sa situation économique**
 
-*   A l'échelon du pays: valeur de la monnaie, production intérieure brute.
+*   A l'échelon du pays: valeur de la monnaie, production intérieure brute.  
 *   A l'échelon régional:
 
 - production agricole, industrielle, richesse minière;
@@ -91,11 +92,11 @@ Nous proposons, dans l'ordre, de procéder à:
 
 **Sa situation socioculturelle**
 
-*   Situation politique.
-*   Étude des aspects linguistiques.
-*   Étude des religions pratiquées.
-*   Étude des coutumes et traditions.
-*   Taux de scolarisation de la population et projection.
+*   Situation politique.  
+*   Étude des aspects linguistiques.  
+*   Étude des religions pratiquées.  
+*   Étude des coutumes et traditions.  
+*   Taux de scolarisation de la population et projection.  
 *   Nombre et qualité des établissements d'enseignement primaire, secondaire, technique et professionnel.
 
 *   Type et nombre de diplômes délivrés.
@@ -104,35 +105,35 @@ Nous proposons, dans l'ordre, de procéder à:
 
 Identification des besoins sanitaires prioritaires aux populations:
 
-*   Prévention et prophylaxie des maladies transmissibles.
-*   Prévention et prophylaxie des maladies infectieuses.
-*   Hygiène du milieu et de l'environnement.
-*   Éducation sanitaire et nutritionnelle.
-*   Étude des prestations médico-sanitaires fournies aux populations (types, qualité, quantité).
+*   Prévention et prophylaxie des maladies transmissibles.  
+*   Prévention et prophylaxie des maladies infectieuses.  
+*   Hygiène du milieu et de l'environnement.  
+*   Éducation sanitaire et nutritionnelle.  
+*   Étude des prestations médico-sanitaires fournies aux populations (types, qualité, quantité).  
 *   Pourcentage de la population desservie par les formations sanitaires existantes.
 
 **2. L'identification des** **ressources existantes**
 
 **Ressources budgétaires provenant**
 
-*   Des organismes nationaux à l'échelon central, régional ou local.
-*   Des formations sanitaires.
+*   Des organismes nationaux à l'échelon central, régional ou local.  
+*   Des formations sanitaires.  
 *   D'une assistance étrangère ou internationale.
 
 *   Quelquefois des populations elles-mêmes (notables du pays, commerçants).
 
 **Ressources matérielles**
 
-*   Locaux mis à la disposition des services de santé.
-*   Matériels d'équipement divers fournis par des organismes nationaux ou internationaux (FED, UNICEF).
-*   Approvisionnement en eau.
-*   Marchés africains et petits commerces. L'observation du marché est de la plus haute importance. Elle permet de situer le niveau de vie, le pouvoir d'achat des populations, et de déterminer les bases essentielles de l'éducation nutritionnelle et sanitaire.
+*   Locaux mis à la disposition des services de santé.  
+*   Matériels d'équipement divers fournis par des organismes nationaux ou internationaux (FED, UNICEF).  
+*   Approvisionnement en eau.  
+*   Marchés africains et petits commerces. L'observation du marché est de la plus haute importance. Elle permet de situer le niveau de vie, le pouvoir d'achat des populations, et de déterminer les bases essentielles de l'éducation nutritionnelle et sanitaire.  
 *   Les voies et moyens de communications.
 
 **Ressources humaines offertes par** **les populations**
 
-*   Identification du pourcentage de population active.
-*   Évaluation du nombre de personnes scolarisées titulaires d'un certificat ou diplôme sanctionnant la fin des études primaires, secondaires, techniques ou professionnelles.
+*   Identification du pourcentage de population active.  
+*   Évaluation du nombre de personnes scolarisées titulaires d'un certificat ou diplôme sanctionnant la fin des études primaires, secondaires, techniques ou professionnelles.  
 *   Identification des personnalités de la région susceptibles de participer à une campagne de développement de la santé:
 
 *   représentants de l'Administration;
@@ -143,7 +144,7 @@ Identification des besoins sanitaires prioritaires aux populations:
 
 **Ressources offertes par l'infrastructure sanitaire actuelle**
 
-*   A partir d'une politique sanitaire adoptée à l'échelon central, l'organisation de l'infrastructure sanitaire du pays considéré devra faire l'objet d'une étude approfondie par toute personne qui voudra organiser un système de formation des personnels de santé.
+*   A partir d'une politique sanitaire adoptée à l'échelon central, l'organisation de l'infrastructure sanitaire du pays considéré devra faire l'objet d'une étude approfondie par toute personne qui voudra organiser un système de formation des personnels de santé.  
 *   Évaluation des formations sanitaires existantes: centres hospitaliers, centres de santé, centres de soins primaires, dispensaires, postes de secours, etc.
 
 Pour chacune d'elles seront étudiés:
@@ -239,6 +240,7 @@ Le but ou objectif est d'obtenir des infirmiers(res), des accoucheuses, des aide
 *   organiser une unité de soins en milieu hospitalier ou un centre de santé en milieu rural.
 
 Sur le schéma* ci-dessous illustrant notre action de formation, l'élève (a) entre à l'école d'infirmiers avec un BEPC, niveau requis pour
+
 
 ![](i2-2.jpg)
 
@@ -441,7 +443,7 @@ C'est-à-dire pouvant être évalué avec un instrument de mesure, selon des cri
 
 Il est évident que l'objectif (b) posé de façon plus précise implique une réponse plus rationalisé, d'où un avantage:
 
-*   _pour l'élève:_ qui mesure exactement les limites de la question et de ses réponses.
+*   _pour l'élève:_ qui mesure exactement les limites de la question et de ses réponses.  
 *   _pour l'enseignant:_ qui, par l'instrument de mesure qu'est la notation évaluera la réponse de façon plus précise: la note maximale sera donnée si tous les éléments de surveillance sont énumérés (objectif atteint) sinon l'élève n'obtiendra qu'une note inférieure à la note maximale (objectif non atteint). Il appartient à l'enseignant de chercher pourquoi l'objectif n'est pas complètement atteint.
 
 Il nous a paru important d'insister sur ce travail de détermination des objectifs éducationnels. En effet, l'expérience a montré que s'ils ne sont pas clairement définis, en termes précis de comportement, il sera pratiquement impossible d'élaborer un programme de formation ou d'enseignement, de choisir des méthodes pédagogiques et de procéder à l'évaluation correcte du programme.
@@ -481,6 +483,7 @@ Après détermination des objectifs éducationnels réalisés au niveau des resp
 sans oublier le personnel d'encadrement des élèves sur le terrain: responsables des services de soins de santé primaires, personnel d'encadrement d'établissements hospitaliers.
 
 **1.2** Distribuer à chaque enseignant la liste des objectifs proposés, rappelons-le, en fonction des besoins du pays.
+
 
 ![](i2-3.jpg)
 
@@ -528,25 +531,25 @@ _Exemple:_ afin de satisfaire aux objectifs ci-dessus (a) et (b), on trouvera da
 
 **a. Un enseignement théorique** sous forme de:
 
-*   Cours magistral, toujours valable pour donner aux élèves les bases des connaissances indispensables, par exemple en anatomie/physiologie, obstétrique, pathologie médicale et chirurgicale, etc.
-*   Les travaux de groupes pour développer chez les élèves l'esprit de recherche, d'analyse et de synthèse.
-*   L'enquête sur le terrain pour habituer les élèves à observer, à prendre contact avec l'environnement dans lequel ils devront travailler à l'avenir.
+*   Cours magistral, toujours valable pour donner aux élèves les bases des connaissances indispensables, par exemple en anatomie/physiologie, obstétrique, pathologie médicale et chirurgicale, etc.  
+*   Les travaux de groupes pour développer chez les élèves l'esprit de recherche, d'analyse et de synthèse.  
+*   L'enquête sur le terrain pour habituer les élèves à observer, à prendre contact avec l'environnement dans lequel ils devront travailler à l'avenir.  
 *   L'exposé pour aider les étudiants à adapter l'enseignement à des situations données, et mettre en relief les connaissances assimilées et les qualités pédagogiques des élèves.
 
 **b. Un enseignement pratique** sous forme de:
 
-*   Priorité au savoir-faire.
-*   Démonstrations pratiques sur le terrain.
+*   Priorité au savoir-faire.  
+*   Démonstrations pratiques sur le terrain.  
 *   Stages encadrés au niveau des formations sanitaires du pays.
 
 **1.8** Choisir le matériel didactique en fonction des possibilités matérielles locales et de la matière enseignée:
 
 *   Si on est pauvre, il sera toujours possible d'obtenir:
 
-*   Un tableau noir.
-*   Un flanellographe.
-*   Des fiches techniques élaborées en travaux de groupe par les élèves.
-*   Le petit matériel professionnel que l'on demandera à certains organismes (UNICEF par exemple) ou que l'on empruntera aux formations sanitaires existantes.
+*   Un tableau noir.  
+*   Un flanellographe.  
+*   Des fiches techniques élaborées en travaux de groupe par les élèves.  
+*   Le petit matériel professionnel que l'on demandera à certains organismes (UNICEF par exemple) ou que l'on empruntera aux formations sanitaires existantes.  
 *   Des projections de films organisées par les centres culturels des différentes ambassades.
 
 *   Si on est riche, il sera plus facile de se procurer et d'utiliser:
@@ -562,7 +565,7 @@ _Exemple:_ afin de satisfaire aux objectifs ci-dessus (a) et (b), on trouvera da
 
 **1.9** Chiffrer par discipline:
 
-*   Le volume horaire des cours théoriques, des cours pratiques, des stages, visites documentaires sur le terrain.
+*   Le volume horaire des cours théoriques, des cours pratiques, des stages, visites documentaires sur le terrain.  
 *   Le volume horaire réservé à l'évaluation de l'enseignement et des élèves: travaux écrits, interrogations orales, examens (ce volume horaire sera calculé largement afin de laisser une certaine liberté d'action aux enseignants pour établir leur système d'évaluation).
 
 **1.10** Après avoir chiffré le volume horaire total nécessaire à l'enseignement du programme, il reste à fixer la durée des études. Nous attirons l'attention du lecteur sur le fait que **c'est le volume horaire ainsi calculé** **pour réaliser les objectifs du programme** **qui détermine la durée des études et non** **pas un temps d'études fixé arbitrairement qui détermine le contenu de l'enseignement.**
@@ -612,7 +615,7 @@ _- question vague à_ **ne pas** poser: que savez-vous de l'accouchement?
 
 **2.3** Au niveau des utilisateurs des élèves:
 
-*   Observations recueillies auprès du personnel d'encadrement des élèves en stage (remettre aux responsables des terrains de stage une feuille d'évaluation de l'élève construite en fonction des objectifs spécifiques du stage).
+*   Observations recueillies auprès du personnel d'encadrement des élèves en stage (remettre aux responsables des terrains de stage une feuille d'évaluation de l'élève construite en fonction des objectifs spécifiques du stage).  
 *   Observations recueillies auprès des populations en contact avec les élèves sur le terrain.
 
 **3. Approbation du programme**
@@ -627,9 +630,9 @@ Le programme ainsi établi et dactylographié devra être soumis aux Autorités 
 
 Après approbation du programme, nous proposons de réunir à nouveau le corps enseignant afin de:
 
-1.  Mettre en place les modalités de sélection et d'inscription des élèves.
-2.  Demander à chaque enseignant de préciser sa participation à l'enseignement selon ses qualifications et disponibilités.
-3.  Distribuer à chaque enseignant un condensé du cours choisi comprenant la description des objectifs spécifiques du cours, les méthodes d'enseignement et d'évaluation.
+1.  Mettre en place les modalités de sélection et d'inscription des élèves.  
+2.  Demander à chaque enseignant de préciser sa participation à l'enseignement selon ses qualifications et disponibilités.  
+3.  Distribuer à chaque enseignant un condensé du cours choisi comprenant la description des objectifs spécifiques du cours, les méthodes d'enseignement et d'évaluation.  
 4.  Établir l'emploi du temps hebdomadaire des cours en tenant compte des jours et heures de disponibilité du personnel enseignant, et de la planification des matières à enseigner.
 
 **5. Évaluation du programme**
@@ -659,6 +662,7 @@ _(cf. tableau: dynamique de réalisation d'un_ programme)
 En résumé, l'évaluation d'un programme conditionne la qualité de la formation et lorsqu'il s'agit de formation de personnel de santé, elle devient indispensable. Elle vise davantage un savoir-faire que les seules connaissances théoriques.
 
 L'objectif proposé dernièrement par l'OMS " _la_ _santé pour tous d'ici l'an 2000"_ est parfaitement réalisable à partir d'une réorganisation de l'infrastructure sanitaire. L'importance donnée à la prévention des maladies, à l'éducation sanitaire des populations et à la création des services de soins de santé primaires implique la révision de nos programmes de formation du personnel de santé et la création de nouvelles catégories de personnel. Puisse notre exposé, peut-être un peu long, rendre service à tous ceux qui auront à accomplir les tâches de formation, lourdes de responsabilités, mais tellement passionnantes...
+
 
 ![](i2-4.jpg)
 

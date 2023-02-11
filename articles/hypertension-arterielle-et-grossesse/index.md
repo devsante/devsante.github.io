@@ -11,8 +11,8 @@ Une HTA se définit par une pression artérielle systolique (PAS) supérieure à
 
 On distingue plusieurs formes cliniques :
 
-*   _L'HTA gravidique,_ apparaissant après la 20<sup>e</sup> semaine d'aménorrhée chez une femme primipare.
-*   _L'HTA chronique ou permanente_ connue avant la grossesse ou apparaissant avant la 20<sup>ème</sup> semaine d'aménorrhée et indépendante du rang de la grossesse.
+*   _L'HTA gravidique,_ apparaissant après la 20<sup>e</sup> semaine d'aménorrhée chez une femme primipare.  
+*   _L'HTA chronique ou permanente_ connue avant la grossesse ou apparaissant avant la 20<sup>ème</sup> semaine d'aménorrhée et indépendante du rang de la grossesse.  
 *   _La pré-éclampsie,_ associant une HTA sévère (PAS > 160 mm Hg et/ou PAD > 110 mm Hg) et une protéinurie (0,30 g/l ou 0,50 g/24 h) ou une HTA modérée (PAS >140 mm Hg) une protéinurie et l'un des facteurs suivants : barre épigastrique, hyperréflectivité ostéotendineuse, céphalées, troubles visuels, thrombopénie, hyperuricémie et cytolyse hépatique.
 
 ## II. Épidémiologie
@@ -47,7 +47,7 @@ Le **bilan initial** comprend : protéinurie (bandelette urinaire), numération 
 
 Le **traitement** associe :
 
-*   _Des mesures hygiéno-diététiques_ avec arrêt de travail complet et repos au lit en décubitus latéral gauche plusieurs heures par jour, et un régime normo-sodé.
+*   _Des mesures hygiéno-diététiques_ avec arrêt de travail complet et repos au lit en décubitus latéral gauche plusieurs heures par jour, et un régime normo-sodé.  
 *   _Un traitement médicamenteux_ avec l'introduction progressive de l'Aldomet® 250 : 2 à 6 cp/j, que l'on peut associer à un ß-bloquant (labétalol : 1 à 3 cp/j, aténolol : 1/2 cp à 2 cp/j) quand il existe une composante sympathique importante, et un inhibiteur calcique (nicardipine LP 1 à 2 cp/j) quand il existe une contre-indication aux bêta-bloquants (un asthme, un diabète ou un utérus contractile). La surveillance tous les 15 jours permet d'adapter le traitement de façon progressive avec d'abord une monothérapie puis une bithérapie (ne pas associer deux bêta-bloquants).
 
 Si l'HTA persiste, il faut hospitaliser la patiente mais à l'opposé, il ne faut pas baisser la PA au-delà de 140/85.
@@ -112,9 +112,9 @@ _Le traitement anti-hypertenseur_ vise à conserver une PAD entre 90 et 105 mmHg
 
 Souvent, les anti-hypertenseurs sont utilisés en association.
 
-*   L'alphaméthyldopareste le traitement standard de la toxémie modérée.
-*   L'hydralazine, après un bolus test de 5 mg puis des bolus 5-10 mg toutes les 30 min si nécessaire, répétés toutes les 20 min, jusqu'à une dose totale de 20 mg, le relais est assuré par une perfusion IV continue de 3 à 5 mg/h. Il existe des échappements au traitement et des effets secondaires maternels qui peuvent nécessiter son interruption (tachycardie, céphalée, nausées).
-*   Le labétalol (alpha et bêta bloquant) est administré en bolus lent 50 mg IV puis en perfusion IV à la dose de 10-20 mg/h.
+*   L'alphaméthyldopareste le traitement standard de la toxémie modérée.  
+*   L'hydralazine, après un bolus test de 5 mg puis des bolus 5-10 mg toutes les 30 min si nécessaire, répétés toutes les 20 min, jusqu'à une dose totale de 20 mg, le relais est assuré par une perfusion IV continue de 3 à 5 mg/h. Il existe des échappements au traitement et des effets secondaires maternels qui peuvent nécessiter son interruption (tachycardie, céphalée, nausées).  
+*   Le labétalol (alpha et bêta bloquant) est administré en bolus lent 50 mg IV puis en perfusion IV à la dose de 10-20 mg/h.  
 *   La nicardipine (inhibiteur calcique) est proposée soit en bolus de 1 mg IVD, soit en traitement de fond 1-2 mg/h.
 
 _L'expansion volémique_ ne semble pas donner de meilleurs résultats maternels et/ou foetaux qu'un traitement n'en comportant pas.
@@ -146,8 +146,8 @@ Les **médicaments** associent :
 
 *   Les anti-hypertenseurs : dihydralazine (perfusion continue 2-4 amp/j 3/5 mg/h), labétalol (perfusion continue 1-4 amp/j = 1020 mg/h), nicardipine (perfusion continue 2-4 amp/j) ;
 *   Les anti-convulsivants :
-    *   Diazépam 10 mg IV bolus avec relais par la phénytoïne 15 mg/kg IV en bolus et 2 h plus tard  5 mg/kg puis 300 mg/12 h ou 200 mg x 2 _per os_ pendant 48 h.
-    *   Clonazépam 2 mg IV bolus puis perfusion 6-12 mg/j.
+    *   Diazépam 10 mg IV bolus avec relais par la phénytoïne 15 mg/kg IV en bolus et 2 h plus tard  5 mg/kg puis 300 mg/12 h ou 200 mg x 2 _per os_ pendant 48 h.  
+    *   Clonazépam 2 mg IV bolus puis perfusion 6-12 mg/j.  
     *   Sulfate de magnésie 20 % : bolus IV lente 4 g en 20 min, puis perfusion IV 2 g/h.
 
 En _post-partum,_ le risque majeur dans les trois premiers jours est l'aggravation de l'HTA (défaillance cardiaque, OAP, éclampsie) par augmentation de la volémie.
@@ -204,6 +204,7 @@ La toxémie reste une maladie grave pour la mère et l'enfant nécessitant une p
 Le traitement est symptomatique visant à éviter les complications maternelles et le retentissement foetal.
 
 Source majeure de mortalité, pouvant aussi bien intervenir en _pré_-, _per_- et _post partum_, son étiologie reste encore largement inconnue, rendant sa prévention difficile.
+
 
 ![](i869-1.jpg)
 

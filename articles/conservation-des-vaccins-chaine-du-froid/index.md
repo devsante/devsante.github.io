@@ -24,6 +24,7 @@ Le strict respect de ces règles est nécessaire non seulement pour préserver l
 Quelques minutes d'exposition à des températures négatives peuvent détruire certains vaccins qui contiennent des adjuvants type sels d'aluminium, comme le vaccin contre la diphtérie, le tétanos et la coqueluche ainsi que le vaccin contre l'hépatite B. Le gel de ces substances provoque leur agglomération et affecte l'immunogénicité du vaccin. Le chan¬gement de l'apparence physique du vaccin est mis en évidence grâce au test d'agitation du flacon qui permet de vérifier si un vaccin a été exposé au gel.  
 La plupart des expositions au gel surviennent lors du transport d'un dépôt à l'autre ou au cours de la nuit dans les dépôts au niveau périphérique.
 
+
 ![](12187-1.jpg)
   
 
@@ -52,10 +53,10 @@ La chaîne du froid est dépendante d'un approvisionnement continu et suffisant 
 
 La chaîne du froid s'applique aussi bien au niveau du stockage des vaccins que durant leur transport. A chacun de ses maillons correspondent des équipements et des normes.
 
-*   Niveau central : chambres froides, congélateurs, caisses isothermes et parfois véhicules réfrigérés.
-*   Niveau intermédiaire : réfrigérateurs et congélateurs, caisses isothermes, parfois chambres froides.
-*   District : réfrigérateurs, caisse isotherme, congélateur (fabrication de glace).
-*   Poste de santé : réfrigérateur, caisse isotherme et porte-vaccin.
+*   Niveau central : chambres froides, congélateurs, caisses isothermes et parfois véhicules réfrigérés.  
+*   Niveau intermédiaire : réfrigérateurs et congélateurs, caisses isothermes, parfois chambres froides.  
+*   District : réfrigérateurs, caisse isotherme, congélateur (fabrication de glace).  
+*   Poste de santé : réfrigérateur, caisse isotherme et porte-vaccin.  
 *   Poste avancé : porte-vaccin.
 
 Les réfrigérateurs sont les éléments de base de la chaîne du froid. Ceux qui fonctionnent à l'électricité coûtent le moins cher à l'utilisation et sont plus facile à entretenir. En l'absence de fourniture fiable et continue d'électricité, les réfrigérateurs peuvent fonctionner au gaz, au pétrole ou à l'énergie solaire. On distingue les réfrigérateurs "armoires" verticaux et des réfrigérateurs bahuts horizontaux. Ces derniers conservent mieux le froid.  
@@ -64,17 +65,19 @@ Au niveau du poste de santé, le réfrigérateur doit permettre de conserver des
 
 **Règles pour la bonne conservation des vaccins dans le réfrigérateur :**
 
-*   Ne pas placer les vaccins sensibles au gel près des parois.
-*   Eviter d'ouvrir trop fréquemment la porte.
-*   Ne pas conserver d'aliments ni de boissons.
-*   Vérifier régulièrement la température et ajuster le thermostat.
+*   Ne pas placer les vaccins sensibles au gel près des parois.  
+*   Eviter d'ouvrir trop fréquemment la porte.  
+*   Ne pas conserver d'aliments ni de boissons.  
+*   Vérifier régulièrement la température et ajuster le thermostat.  
 *   Respecter la règle du "premier expiré, premier sorti".
+
 
 ![](12187-2.jpg)
 
 
 Le congélateur sert à la production de glace utilisée pour le transport des vaccins et pour les activités en stratégie mobile ou avancée.  
 La caisse isotherme ou glacière et le porte-vaccin ne produisent pas de froid mais le maintiennent pendant plusieurs heures ou plusieurs jours selon leur contenu et l'épaisseur de leur paroi. La caisse isotherme est utilisée pour le transport des vaccins ou des accumulateurs de froid. Elle peut aussi servir à conserver des vaccins lors d'arrêt des équipements produisant du froid. C'est principalement pour cet usage que chaque dépôt et chaque poste de santé doivent en disposer. Le porte-vaccin est utilisé pour le transport des vaccins depuis le dépôt de district ou lors des séances de vaccination.
+
 
 ![](12187-3.jpg)
 
@@ -96,19 +99,19 @@ La maintenance de la chaîne du froid permet de maintenir la continuité de l'ac
 La maintenance préventive permet de maintenir les équipements en état de fonctionnement correct et d'en prolonger la vie. C'est une activité routinière ét systématique réalisée par l'opérateur des équipements. Elle respecte un programme déterminé :
 
 *   Tâches journalières
-    *   Nettoyer l'appareil et le local l'abritant.
-    *   Relever la température matin et soir et le weekend.
-    *   Ajuster le thermostat si nécessaire (appareil électrique, à gaz).
-    *   S'assurer que les vaccins sont correctement disposés.
-    *   Contrôler et régler la flamme et la mèche (appareils à absorption).
-    *   Après utilisation, les caisses isothermes et les porte-vaccins doivent être nettoyés, séchés et entreposés en laissant le couvercle ouvert. Vérifier en particulier le joint du couvercle, car toute défaillance à ce niveau raccourcira l'autonomie de la glacière.
+    *   Nettoyer l'appareil et le local l'abritant.  
+    *   Relever la température matin et soir et le weekend.  
+    *   Ajuster le thermostat si nécessaire (appareil électrique, à gaz).  
+    *   S'assurer que les vaccins sont correctement disposés.  
+    *   Contrôler et régler la flamme et la mèche (appareils à absorption).  
+    *   Après utilisation, les caisses isothermes et les porte-vaccins doivent être nettoyés, séchés et entreposés en laissant le couvercle ouvert. Vérifier en particulier le joint du couvercle, car toute défaillance à ce niveau raccourcira l'autonomie de la glacière.  
 *   Tâches hebdomadaires
-    *   Réfrigérateurs à gaz : vérifier le niveau du gaz dans la, bouteille et la remplacer si nécessaire, nettoyer le brûleur.
-    *   Réfrigérateurs à absorption : vérifier le niveau de pétrole dans le réservoir ; compléter si nécessaire. Vérifier la mèche, éliminer la calamine sur la mèche, nettoyer la cheminée.
-    *   Eliminer le givre si son épaisseur dépasse 1 cm puis assécher l'intérieur.
+    *   Réfrigérateurs à gaz : vérifier le niveau du gaz dans la, bouteille et la remplacer si nécessaire, nettoyer le brûleur.  
+    *   Réfrigérateurs à absorption : vérifier le niveau de pétrole dans le réservoir ; compléter si nécessaire. Vérifier la mèche, éliminer la calamine sur la mèche, nettoyer la cheminée.  
+    *   Eliminer le givre si son épaisseur dépasse 1 cm puis assécher l'intérieur.  
 *   Tâches mensuelles
-    *   Nettoyer le serpentin du condensateur à l'arrière du réfrigérateur et épousseter les alentours du compresseur (chiffon sec, brosse souple). Retoucher la peinture des parois externes du réfrigérateur (au besoin).
-    *   Nettoyer l'intérieur du réfrigérateur et l'assécher à l'aide d'un chiffon.
+    *   Nettoyer le serpentin du condensateur à l'arrière du réfrigérateur et épousseter les alentours du compresseur (chiffon sec, brosse souple). Retoucher la peinture des parois externes du réfrigérateur (au besoin).  
+    *   Nettoyer l'intérieur du réfrigérateur et l'assécher à l'aide d'un chiffon.  
     *   Nettoyer le joint de la porte, en particulier le long du bord inférieur des appareils verticaux.
 
 #### b) Maintenance correctrice
@@ -128,11 +131,13 @@ Il existe plusieurs dispositifs adaptés à chaque maillon de la chaîne du froi
 C'est l'élément indispensable au suivi de la température. Il peut se présenter sous différentes formes : à cadran, à cristaux liquides, digital, enregistreur.  
 Il doit être disposé dans la partie centrale du réfrigérateur. Son fonctionnement correct doit être vérifié régulièrement en comparant ses mesures avec un autre thermomètre. Les mesures indiquées doivent être rapportées au moins deux fois par jour sur une feuille de suivi de la température. Une mesure hors des normes exigées [+ 2° C - + 8° C] doit amener à des actions appropriées (ex : réglage de la flamme ou du thermostat).
 
+
 ![](12187-4.jpg)
 
 
 **Indicateur d'alerte à la congélation**  
 Il est présenté sous la forme d'un petit flacon de liquide rouge collé sur une feuille en carton. Lorsque l'indicateur est exposé au gel durant plus d'une heure, le flacon se brise, répandant le liquide dans sa poche en plastique. L'intégrité des vaccins sensibles au gel doit alors être vérifiée (test d'agitation). Ces indicateurs existent en version électronique. Un signe indique alors l'exposition à des températures négatives supérieure à 60 minutes.
+
 
 ![](12187-5.jpg)
 
@@ -140,17 +145,19 @@ Il est présenté sous la forme d'un petit flacon de liquide rouge collé sur un
 **Pastille de contrôle des vaccins**  
 II s'agit d'un dispositif apposé sur l'étiquette ou sur le capuchon des flacons de vaccins. La couleur de la pastille varie en fonction de son exposition à la chaleur. Lorsque la couleur de la partie centrale est comparable ou plus sombre que la partie externe, le seuil de tolérance du vaccin à la chaleur est atteint, affectant sa stabilité. Le vaccin contenu dans le flacon ne doit plus être utilisé.
 
+
 ![](12187-6.jpg)
 
 
 **Test d'agitation**  
 Le test d'agitation permet de vérifier si le vaccin contenu dans un flacon soumis au gel a été affecté. Il doit être conduit sur tout flacon de vaccin sen¬sible au gel (pentavalent, DTC, VAT) dont on suspecte qu'il a été exposé à des températures négatives.
 
-*   Prendre 2 flacons du même vaccin provenant du même fabricant ; un que vous suspectez avoir été congelé (test), l'autre que vous savez ne jamais avoir été congelé (témoin).
-*   Agiter les 2 flacons pendant 30 secondes.
-*   Les déposer sur une table et attendre 10 minutes.
-*   Vérifier l'aspect du contenu des 2 flacons.
+*   Prendre 2 flacons du même vaccin provenant du même fabricant ; un que vous suspectez avoir été congelé (test), l'autre que vous savez ne jamais avoir été congelé (témoin).  
+*   Agiter les 2 flacons pendant 30 secondes.  
+*   Les déposer sur une table et attendre 10 minutes.  
+*   Vérifier l'aspect du contenu des 2 flacons.  
 *   Si la sédimentation du contenu du flacon test est nette comparée au flacon témoin, le flacon test a été exposé au gel, affectant la stabilité du vaccin. Le vaccin ne doit pas être utilisé. Il doit être détruit.
+
 
 ![](12187-7.jpg)
 

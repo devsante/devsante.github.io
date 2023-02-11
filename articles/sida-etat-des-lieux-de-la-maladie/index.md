@@ -24,8 +24,8 @@ Dans un deuxième temps on assiste à la phase dite d'état "SIDA" ou de maladie
 ### Le VIH peut être transmis par
 
 *   Rapports sexuels non protégés (par voie vaginale, anale ou orale),
-*   Transfusion de sang ou de produits sanguins à partir d'un don de sang infecté par le VIH.
-*   Matériel d'injection réutilisé sans stérilisation comme par exemple des aiguilles ou des seringues.
+*   Transfusion de sang ou de produits sanguins à partir d'un don de sang infecté par le VIH.  
+*   Matériel d'injection réutilisé sans stérilisation comme par exemple des aiguilles ou des seringues.  
 *   Transmission materno-foetale au cours de la grossesse, lors de l'accouchement ou pendant l'allaitement au sein.
 
 _NB : Les IST (infections sexuellement transmissibles) sont des facteurs qui fauorisent très fortement la contamination par le VIH dans les deux sens_ (Fact Sheets on HIU/AIDS for nurses and midwives, WHO, 2001).
@@ -81,7 +81,7 @@ Le rôle de l'infirmier avant et après le dépistage est prépondérant. Il con
 
 Les activités en lien avec le dépistage sont encadrées par des principes fondamentaux auxquels l'infirmier ne peut déroger à savoir :
 
-*   Le consentement éclairé du patient : le soignant doit s'assurer que la personne a donné son accord. Pour un consentement "éclairé" l'infirmier doit donner au préalable des explications sur le déroulement du test, ses avantages, ses contraintes et les conséquences de ce dernier.
+*   Le consentement éclairé du patient : le soignant doit s'assurer que la personne a donné son accord. Pour un consentement "éclairé" l'infirmier doit donner au préalable des explications sur le déroulement du test, ses avantages, ses contraintes et les conséquences de ce dernier.  
 *   La confidentialité et la discrétion : les informations relatives à l'état de santé du malade ne doivent en aucune manière être connues de tiers non engagés dans le secret. Les dossiers infirmiers et médicaux doivent être stockés en lieu sûr.
 
 #### c) Le devoir de confidentialité au quotidien
@@ -191,12 +191,12 @@ ARV = SIDA
 
 ### 2. Les objectifs infirmiers en lien avec le dépistage
 
-*   Encourager chaque patient à se faire dépister, même s'il ne présente pas de signes en faveur d'une infection par le VIH.
-*   Favoriser les changements de comportements pour éviter la transmission du VIH.
-*   Proposer un soutien psychologique.
-*   Répondre au mieux aux questions des patients en leur apportant des réponses claires et précises, savoir adresser la personne aux structures compétentes lorsque les questions des patients dépassent les compétences infirmières. Connaître ses limites.
-*   Accompagner la personne après l'annonce du diagnostic par l'équipe de dépistage.
-*   Identifier les problématiques individuelles de chaque patient en lien avec le retentissement social de la maladie.
+*   Encourager chaque patient à se faire dépister, même s'il ne présente pas de signes en faveur d'une infection par le VIH.  
+*   Favoriser les changements de comportements pour éviter la transmission du VIH.  
+*   Proposer un soutien psychologique.  
+*   Répondre au mieux aux questions des patients en leur apportant des réponses claires et précises, savoir adresser la personne aux structures compétentes lorsque les questions des patients dépassent les compétences infirmières. Connaître ses limites.  
+*   Accompagner la personne après l'annonce du diagnostic par l'équipe de dépistage.  
+*   Identifier les problématiques individuelles de chaque patient en lien avec le retentissement social de la maladie.  
 *   Mettre en place un suivi régulier du patient (Guide de prise en charqe Côte d'lvoire).
 
 *   Informer la personne des réseaux de soins et d'accompagnement existants.
@@ -205,14 +205,14 @@ ARV = SIDA
 
 La qualité de la prise en charge se fonde sur des objectifs infirmiers précis :
 
-*   Etablir avec l'usager une relation de confiance, l'informer sur sa pathologie et sur son traitement.
-*   Reconnaître les signes cliniques de l'infection à VIH.
-*   Mettre en place des moyens de traitement adaptés en collaboration avec les différents professionnels de santé.
-*   Utiliser au mieux les ressources institutionnelles.
-*   Expliquer les soins infirmiers réalisés.
-*   Conseiller des règles hygiéno-diététiques relatives à la prise d'ARV.
-*   Informer le patient des principaux effets secondaires et des moyens pour les soulager.
-*   Connaître les signes cliniques en lien avec l'évolution de l'état général du patient.
+*   Etablir avec l'usager une relation de confiance, l'informer sur sa pathologie et sur son traitement.  
+*   Reconnaître les signes cliniques de l'infection à VIH.  
+*   Mettre en place des moyens de traitement adaptés en collaboration avec les différents professionnels de santé.  
+*   Utiliser au mieux les ressources institutionnelles.  
+*   Expliquer les soins infirmiers réalisés.  
+*   Conseiller des règles hygiéno-diététiques relatives à la prise d'ARV.  
+*   Informer le patient des principaux effets secondaires et des moyens pour les soulager.  
+*   Connaître les signes cliniques en lien avec l'évolution de l'état général du patient.  
 *   Prendre en charge l'individu de manière globale (sur le plan psychologique, médical et social).
 
 L'infirmier est un interlocuteur privilégié qui pourra aborder avec le patient des thèmes tels que les conditions de vie matérielles, familiales et sexuelles. Il devra savoir quand, comment et à qui référer la personne, si nécessaire. Lors des différentes consultations, l'infirmier pourra jouer pleinement son rôle d'éducateur à la santé et délivrer les messages de prévention.
@@ -243,19 +243,19 @@ Il propose à l'infirmier une lecture simple de la situation médicale de l'indi
 
 #### a) Signes majeurs
 
-*   **Perte de poids rapide** de plus de 10% du poids corporel en un mois.
+*   **Perte de poids rapide** de plus de 10% du poids corporel en un mois.  
 *   **Diarrhée chronique de plus de 15 jours (+de 3 selles par/j ou trop abondante car > à 250 g/j).**
 *   **Fièvre prolongée** continue ou intermittente avec une température > à 38° pendant plus de 3 semaines.
 
 #### b) Signes mineurs
 
-*   **Toux persistante de plus de 2 semaines** (ne pas inclure la toux chez les patients confirmés tuberculeux comme signe mineur du SIDA).
-*   **Candidose buccale ou vaginale**.
-*   **Herpès** génital récurrent.
-*   **Zona** récidivant.
-*   **Adénopathies** généralisées (plus de 2 sites).
-*   **Sueurs nocturnes**.
-*   **Fatigue chronique**.
+*   **Toux persistante de plus de 2 semaines** (ne pas inclure la toux chez les patients confirmés tuberculeux comme signe mineur du SIDA).  
+*   **Candidose buccale ou vaginale**.  
+*   **Herpès** génital récurrent.  
+*   **Zona** récidivant.  
+*   **Adénopathies** généralisées (plus de 2 sites).  
+*   **Sueurs nocturnes**.  
+*   **Fatigue chronique**.  
 *   **Prurigo.**
 
 #### c) Quelques diagnostics médicaux qui permettent de renforcer le diagnostic :
@@ -304,7 +304,8 @@ Il propose à l'infirmier une lecture simple de la situation médicale de l'indi
 *   Favoriser dans la mesure du possible le maintien à domicile ;
 *   Actualiser ses connaissances en matière de VIH.
 
-**Algorithme n°1 : suspicion d'infection par le VIH**![](i165-1.jpg)
+**Algorithme n°1 : suspicion d'infection par le VIH**
+![](i165-1.jpg)
 
 
 ## VII. Les différents stades cliniques

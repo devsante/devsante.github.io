@@ -75,11 +75,11 @@ Ces principes sont valables pour tous les médi­caments : "standards", "critiqu
 
 *   Usage interne : médicament **oraux** :
     *   comprimés et gélules,
-    *   sachets et sirops.
+    *   sachets et sirops.  
 *   Injectables
     *   médicaments **injectables**, solutions de **perfusion** et électrolytes, **vaccins et sérums.**
 *   Usage externe
-    *   médicaments à **usage externe** ; pom­mades, liquides antiseptiques, désinfectants.
+    *   médicaments à **usage externe** ; pom­mades, liquides antiseptiques, désinfectants.  
 *   Autre produits
     *   petit matériel consommable : pansements (cotons, compresses...), injections (aiguilles et seringues), sutures,
     *   préservatifs,
@@ -138,8 +138,8 @@ En dehors de l'arrivée d'une commande, les médicaments doivent être rangés e
 
 Des étagères en ordre, selon des habitudes précises, font gagner un temps précieux et contribuent à un ravitaillement correct.
 
-*   **Sur les étagères**, les médicaments doivent être rangés **selon leur catégorie** respecti­ve comme indiqué au paragraphe III (il faut mettre les poudres pour suspension sur l'étagère du haut et les sirops sur l'étagère du milieu).
-*   **Laissez un espace** suffisant pour **chacun des produits**.
+*   **Sur les étagères**, les médicaments doivent être rangés **selon leur catégorie** respecti­ve comme indiqué au paragraphe III (il faut mettre les poudres pour suspension sur l'étagère du haut et les sirops sur l'étagère du milieu).  
+*   **Laissez un espace** suffisant pour **chacun des produits**.  
 *   **Groupez les produits identiques** par deux, cinq ou dix pour pouvoir les **compter facilement.**
 *   Groupez les **injectables par dix**.
 
@@ -149,10 +149,10 @@ Le nom chimique ou DCI est celui dont on se sert pour ranger la pharmacie. C'est
 
 **_Donc :_**
 
-*   **Trouvez la DCI** de chaque médicament. Elle est inscrite sur l'emballage, souvent en plus petits caractères que le nom com­mercial.
-*   **Sur l'étagère**, pour une même DCI, classez les médicaments suivant **l'ordre alphabétique de leur nom commercial**. Exemple : derrière la fiche paracétamol on pourra trouver d'abord du Doliprane® puis de l'Efferalgan®'. En effet, le conditionne­ment (nombre de comprimés ou de gélules par boîte) peut être différent selon la marque, ce qui rend l'inventaire difficile si on mélange les noms commerciaux.
+*   **Trouvez la DCI** de chaque médicament. Elle est inscrite sur l'emballage, souvent en plus petits caractères que le nom com­mercial.  
+*   **Sur l'étagère**, pour une même DCI, classez les médicaments suivant **l'ordre alphabétique de leur nom commercial**. Exemple : derrière la fiche paracétamol on pourra trouver d'abord du Doliprane® puis de l'Efferalgan®'. En effet, le conditionne­ment (nombre de comprimés ou de gélules par boîte) peut être différent selon la marque, ce qui rend l'inventaire difficile si on mélange les noms commerciaux.  
 *   **Dans chaque catégorie**, rangez les pro­duits par **ordre alphabétique de DCI.**
-*   **Inscrivez** le nom en, **DCI de chacun des produits sur une étiquette** ainsi que le **dosage** et la **forme** (cp, sp, inj, etc.).
+*   **Inscrivez** le nom en, **DCI de chacun des produits sur une étiquette** ainsi que le **dosage** et la **forme** (cp, sp, inj, etc.).  
 *   **Accrochez l'étiquette sur l'étagère, devant le produit.**
 
 **_En résumé :_**
@@ -171,9 +171,9 @@ Les réactifs de laboratoire périmés peuvent donner des résultats erronés.
 
 #### a) A la réception d'une commande
 
-*   Rangez les médicaments et les produits pharmaceutiques ayant une date de péremption selon la méthode du "premier périmé, premier sorti". Placez ceux dont la date de péremption est proche devant ceux dont la date de péremption est éloignée. Si deux boîtes portent la même date de péremption, placez celle que vous venez de recevoir derrière celle qui était déjà entreposée.
-*   Attention, l'ordre de réception des produits ne correspond pas nécessairement à l'ordre dans lequel ils seront périmés.
-*   Rangez les produits qui n'ont pas de date de péremption selon le principe du "pre­mier entré, premier sorti". Rangez les produits qui ne portent pas de date de péremption (savons, détergents par exemple) dans l'ordre où vous les recevez. Placez les produits que vous venez de recevoir derrière ceux qui étaient déjà entreposés.
+*   Rangez les médicaments et les produits pharmaceutiques ayant une date de péremption selon la méthode du "premier périmé, premier sorti". Placez ceux dont la date de péremption est proche devant ceux dont la date de péremption est éloignée. Si deux boîtes portent la même date de péremption, placez celle que vous venez de recevoir derrière celle qui était déjà entreposée.  
+*   Attention, l'ordre de réception des produits ne correspond pas nécessairement à l'ordre dans lequel ils seront périmés.  
+*   Rangez les produits qui n'ont pas de date de péremption selon le principe du "pre­mier entré, premier sorti". Rangez les produits qui ne portent pas de date de péremption (savons, détergents par exemple) dans l'ordre où vous les recevez. Placez les produits que vous venez de recevoir derrière ceux qui étaient déjà entreposés.  
 *   S'il n'y a pas de date de péremption, il peut y avoir une date de fabrication sur l'étiquette qui vous indique les produits les plus anciens à utiliser en premier.
 
 #### **b) Vérifiez les dates**

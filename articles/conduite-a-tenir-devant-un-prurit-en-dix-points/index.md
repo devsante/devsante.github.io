@@ -41,7 +41,7 @@ Il est généralement aisé d'affirmer l'existence d'un prurit à l'interrogatoi
 
 La reconnaissance du prurit peut être plus délicate chez les sujets difficilement interrogeables tels les enfants ou les sujets âgés.
 
-*   Chez le petit enfant ne pouvant se gratter, un prurit ne peut se traduire que par une agitation ou par le fait qu'il se frotte contre son lit.
+*   Chez le petit enfant ne pouvant se gratter, un prurit ne peut se traduire que par une agitation ou par le fait qu'il se frotte contre son lit.  
 *   Dans les autres cas, c'est la découverte de _lésions de grattage_ qui témoignera indirectement de l'existence d'un prurit. Ces lésions sont occasionnées par des traumatismes infligés à la peau par les ongles. Il s'agit typiquement de plaies, d'excoriations et de croûtes parfois surinfectées situées sur les zones facile à atteindre comme les bras, les jambes, la région lombaire ou les fesses, et épargnant, à l'inverse, les régions plus inaccessibles comme le dos.
 
 Les prurits persistants peuvent être à l'origine d'anomalies de la pigmentation, d'une perte de la pilosité, ou d'une modification des ongles devenant lisses et d'aspect polis. Au cours des prurits intenses et chroniques peut également apparaître une lichénification de la peau qui correspond à une forme particulière d'épaississement cutané. Lorsque les lésions de lichénification prennent un aspect nodulaire, on parle de prurigo. Ces lésions de lichénification sont, par ailleurs, elles-mêmes prurigineuses et contribuent de ce fait à l'entretien du prurit.
@@ -115,6 +115,7 @@ Face à un **prurit localisé**, l'orientation diagnostique est très largement 
 Le problème diagnostique le plus délicat est représenté par le **prurit diffus sans lésion cutanée** **explicative**. Dans ce cas, toute la difficulté revient à ne pas méconnaître une pathologie "interne sous-jacente potentiellement grave. De surcroît, le diagnostic d'un prurit peut être d'autant plus difficile à établir que le prurit peut être un signe avant-coureur précédant l'apparition des signes spécifiques de la maladie causale parfois de plusieurs mois. Le prurit " sénile " ainsi que le prurit "psychogène", restent des diagnostics d'exclusion qui ne doivent être retenus qu'après avoir écarté toutes les autres causes de prurit.
 
 **Tableau n° 2. Arbre décisionnel diagnostique devant un prurit**
+
 
 ![](i867-1.jpg)
 

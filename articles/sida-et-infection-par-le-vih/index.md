@@ -261,7 +261,9 @@ La définition pédiatrique du sida est beaucoup moins sensible et spécifique q
 </tbody>
 
 </table>
-**Tableau 3. Formes cliniques du sida en Afrique**<table>
+
+**Tableau 3. Formes cliniques du sida en Afrique**
+<table>
 
 <tbody>
 
@@ -332,7 +334,8 @@ par la salive, les moustiques, l'air, l'eau, la nourriture, les contacts avec la
 
 Dans les conditions de terrain, le diagnostic de l'infection VIH chez l'adulte, asymptoma tique, ne peut être que sérologique. C'est la présence d'anticorps anti-VIH spécifiques dans le sang qui signe l'infection.
 
-**Tableau 4. Les tests sérologiques**<table>
+**Tableau 4. Les tests sérologiques**
+<table>
 
 <thead>
 
@@ -387,7 +390,9 @@ Dans les conditions de terrain, le diagnostic de l'infection VIH chez l'adulte, 
 </tbody>
 
 </table>
-**Tableau 5**<table>
+
+**Tableau 5**
+<table>
 
 <tbody>
 
@@ -512,7 +517,9 @@ La durée du traitement n'est qu'indicative, il doit être poursuivi jusqu'à di
 </tbody>
 
 </table>
-**Tableau 6**<table>
+
+**Tableau 6**
+<table>
 
 <tbody>
 
@@ -635,7 +642,9 @@ La biopsie de ganglion peut être indiquée pour exclure un lymphome, un Kaposi 
 </tbody>
 
 </table>
-**Tableau 7**<table>
+
+**Tableau 7**
+<table>
 
 <tbody>
 
@@ -769,9 +778,9 @@ En pratique, le diagnostic sérologique d'une suspicion de sida n'a pas d'intér
 
 Pour prescrire un test sérologique et pour annoncer le résultat, négatif ou positif, d'un test VIH, il faut que soient réunies toutes les conditions suivantes :
 
-*   Le patient doit avoir reçu une information adaptée sur les conséquences d'un résultat positif et donner préalablement son accord pour être testé, à la recherche d'anticorps anti-VIH.
-*   Les résultats positifs au cours du dépistage doivent être confirmés par Western-Blot.
-*   L'individu séropositif doit pouvoir bénéficier d'un suivi médical et de conseils.
+*   Le patient doit avoir reçu une information adaptée sur les conséquences d'un résultat positif et donner préalablement son accord pour être testé, à la recherche d'anticorps anti-VIH.  
+*   Les résultats positifs au cours du dépistage doivent être confirmés par Western-Blot.  
+*   L'individu séropositif doit pouvoir bénéficier d'un suivi médical et de conseils.  
 *   Confidentialité.
 
 ## IV. Traitement de l'infection VIH et du sida

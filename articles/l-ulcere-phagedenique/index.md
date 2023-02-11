@@ -29,6 +29,7 @@ Le spirochète de Vincent est un micro-organisme spiralé, mobile. Il est sensib
 
 Les deux germes associés sont responsables de l'angine de Vincent, affection actuellement rare.
 
+
 ![](i144-1.jpg)
 
 

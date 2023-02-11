@@ -25,6 +25,7 @@ Les mêmes difficultés se retrouvent dans la fonction publique, et en particuli
 
 L'absence de production locale de biens et de services est partiellement compensée par l'apport de la diaspora comorienne. Ainsi, plus de 100 000 Grands Comoriens vivent actuellement en France métropolitaine, dont la moitié à Marseille et dans les Bouches-du-Rhône. Les Comoriens de France ont, eux aussi, constitué une myriade d'associations regroupant les sujets originaires de tel village ou tel quartier. Ces associations interviennent dans des micro-projets de développement au sein de leur communauté d'origine et organisent plus ou moins régulièrement des collectes et des fêtes au profit de leur village. Les associations sont en partie contrôlées par les notables, représentants d'un pouvoir coutumier encore très puissant en Grande Comore.
 
+
 ![](i796-1.jpg)
 
 
@@ -36,6 +37,7 @@ _"Le choléra, affection pestilentielle, maladie de la peur, compagnon des séis
 L'épidémie a débuté au début du mois de janvier, dans la ville de M'beni, située au nord-est de l'île. Les premiers patients ont probablement contracté la maladie au cours de voyages en Afrique de l'Est. M'beni est en effet la ville du président de la République Fédérale Islamique des Comores et de nombreux notables accompagnent les autorités politiques au cours des voyages officiels. Quelques patients, présentant des formes plus graves, ont été référés à l'hôpital de la capitale, Moroni. C'est ainsi que, fin janvier, la maladie se transmettait à partir de deux sites distincts : la ville de M'beni et l'hôpital de Moroni, où aucune mesure  
 d'hygiène sérieuse n'était mise en place à l'époque. C'est à cette période que le diagnostic de choléra a été confirmé, l'agent pathogène était le vibrion el Tor, sérotype 1 ; la souche était sensible aux cyclines mais résistante aux sulfamides.  
 L'annonce du choléra a rapidement provoqué une très forte inquiétude dans toute l'île. Cette maladie avait en effet déjà sévi dans les années 1970 où une épidémie avait été à l'origine de milliers de cas et de centaines de décès en particulier dans les villages côtiers du sud de l'île. L'impact de l'épidémie n'a pas seulement été ressenti au Comores : la peur a gagné la communauté comorienne en France. Médecins du Monde, qui depuis deux ans travaillait en partenariat avec des associations de la diaspora comorienne, a proposé d'accueillir dans ses locaux, des réunions d'information sur le choléra. Ces rencontres, organisées en moins de 48 heures, ont drainé plusieurs centaines de Comoriens à Paris, Marseille, Le Havre et la Réunion (dont plus de 300 pour celle qui s'est tenue à Paris le 31 janvier). A la suite de ces réunions, une équipe partait pour les Comores avec, pour double mission, de renforcer les structures sanitaires du sud de l'île, particulièrement délabrées et désertées par les médecins, et de mettre en place une campagne d'information et de sensibilisation à l'hygiène destinée à ralentir tant que possible la progression de l'épidémie. Simultanément, Médecins Sans Frontière-Belgique détachait une équipe chargée d'appuyer les hôpitaux du nord de l'île et de la capitale.
+
 
 ![](i796-3.jpg)
 
@@ -50,10 +52,12 @@ Pour mener à bien le volet préventif du programme, l'équipe de MDM s'est appu
 
 <tr>
 
-<td>![](i796-2.jpg)
+<td>
+![](i796-2.jpg)
 </td>
 
-<td>![](i796-4.jpg)
+<td>
+![](i796-4.jpg)
 </td>
 
 </tr>
@@ -61,13 +65,15 @@ Pour mener à bien le volet préventif du programme, l'équipe de MDM s'est appu
 </tbody>
 
 </table>
+
 <table>
 
 <tbody>
 
 <tr>
 
-<td>![](i796-5.jpg)
+<td>
+![](i796-5.jpg)
 </td>
 
 </tr>
@@ -80,7 +86,9 @@ Pour mener à bien le volet préventif du programme, l'équipe de MDM s'est appu
 
 Le maximum de l'épidémie a été atteint au mois de mars. C'est aussi à cette époque que de nombreux obstacles ont été identifiés, gênant la mise en oeuvre du programme de prévention. Dès le début du mois, une grève générale et totale des soins a été déclenchée par les fonctionnaires de la santé. Ceux-ci n'avaient, en effet, pas perçu de salaire depuis des mois alors que leurs homologues de l'éducation nationale venaient de percevoir deux mois de traitement d'un coup. La grève, qui a duré quelques semaines, n'a pas entraîné de surmortalité chez les patients atteints de choléra car les principaux centres curatifs étaient pris en charge par MSF au nord et MDM au sud. Cela a toutefois surchargé le travail des volontaires qui ont été moins disponibles pour les actions de prévention. C'est à cette même période que les équipes de MDM, du Croissant rouge et des comités d'hygiène ont noté un laxisme excessif dans l'application des mesures de prévention. Les messages sur les précautions à prendre contre le choléra, pourtant simples, étaient difficilement compris, et surtout, la motivation des populations à les appliquer diminuait de semaine en semaine. Paradoxalement, ce sont les bons résultats en terme de prise en charge de la maladie, qui semblent être à l'origine de cette démobilisation. En effet, contrairement à l'épidémie précédente, le nombre de décès restait très limité (19 décès pour un millier de cas à la mi-mars), et la peur de la maladie s'est progressivement estompée. Cette faible mortalité a facilité la diffusion d'une contre-information, véhiculée par des notables et des médecins, qui soutenaient qu'il ne s'agissait pas de choléra mais de " cholérine ", une maladie qui serait transmise par les mouches. L'absence de démenti officiel, peut-être motivée par le risque d'une annulation du pèlerinage annuel à La Mecque si l'épidémie de choléra était reconnue, a bien sûr conforté l'action des détracteurs du programme de lutte. Enfin, conséquence de la désinformation et de la démobilisation, les cérémonies rituelles, au cours desquelles des repas regroupant des centaines d'invités, ont été maintenues malgré les appels à la vigilance des équipes de lutte contre l'épidémie. L'une de ces cérémonies a été à l'origine de la diffusion de l'épidémie dans le sud, jusqu'ici épargné. Fin février, un repas coutumier a eu lieu dans un village de pêcheurs du sud de l'île. Une des cuisinières, venue du nord pour aider à la préparation des mets, a été hospitalisée pour choléra peu avant le début du repas. Malgré la tenue d'urgence d'une séance de sensibilisation, le repas s'est déroulé comme si de rien n'était. Dans les jours qui ont suivi, quelques cas sporadiques ont été diagnostiqués, avant qu'un puit, qui servait d'alimentation à tout le village, ne soit souillé. Alors, en quelques heures, plus de cent personnes ont été contaminées dont cinq sont décédées. Les mesures énergiques prises pour décontaminer le village ont permis de stopper la transmission, mais dans les jours suivants, l'épidémie s'est développée dans les localités voisines gagnant progressivement tous les villages côtiers du sud. À la même période, des cas de choléra se déclaraient à Mohéli, une autre île de l'archipel située à une cinquantaine de kilomètres de la Grande Comore. Une intervention conjointe de MDM, MSF et de la coopération française a été décidée et réalisée très rapidement. Elle s'est soldée par un succès puisque les patients ont pu être soignés avant que la maladie ne diffuse. Ainsi, deux mois plus tard, aucun nouveau cas n'était recensé sur cette île. La fin du mois a été marquée par l'organisation du pèlerinage à La Mecque sans que personne ne songe à l'annuler pour motifs sanitaires.
 
+
 ![](i796-6.jpg)
+
 ![](i796-7.jpg)
 
 

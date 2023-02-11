@@ -19,6 +19,7 @@ Parmi ces 34 enfants, plus de la moitié ont perdu l'un de leurs parents ou les 
 *   1 orphelin de père,
 *   12 ont leurs parents vivants.
 
+
 ![](i1054-1.jpg)
 
 
@@ -57,14 +58,15 @@ Malgré le conseil pré et post test, il est encore difficile d'obtenir le conse
 
 ### 3. Suggestions
 
-*   Intensifier la vulgarisation de l'information sur l'infection à VIH/SIDA par les associations, les médias, le personnel médical.
-*   Former la majorité du personnel aux techniques de counselling.
-*   Promouvoir la lutte contre la précarité financière et matérielle par la création des activités génératrices de revenus (AGR) dans toutes les familles suivies.
+*   Intensifier la vulgarisation de l'information sur l'infection à VIH/SIDA par les associations, les médias, le personnel médical.  
+*   Former la majorité du personnel aux techniques de counselling.  
+*   Promouvoir la lutte contre la précarité financière et matérielle par la création des activités génératrices de revenus (AGR) dans toutes les familles suivies.  
 *   Organiser les parents des enfants vivant avec le VIH en association pour leur permettre de s'exprimer, de partager leur expérience et aussi améliorer la prise en charge globale de leur enfant.
 
 ## II. Conclusion
 
 Si le budget de cette prise en charge sociale et la gratuité du suivi et du traitement ont pu être jusque-là assurée aux parents par le soutien associatif et la réduction des coûts des ARV, il reste encore beaucoup de frais à la charge des familles. Les mères seules ou conjointes d'un homme malade, incapable de travailler, sont les plus vulnérables car elles peuvent difficilement se soigner elles-mêmes et garder les forces pour faire face aux problèmes de tous ordres qui se posent à elles : rejet, exclusion, pauvreté, santé et éducation de leurs enfants, faible niveau d'instruction et de compétences professionnelles, etc... Les enfants et surtout les orphelins accueillis par des tuteurs intra ou extra-familiaux sont parfois privés de scolarisation, à cause des frais d'écolage trop élevés. Enfin, le financement associatif est très dépendant de bailleurs de fonds qui ne sont pas tous encore persuadés de la nécessité d'une prise en charge globale des enfants atteints de maladies telles que l'infection à VIH/SIDA. La pérennité des actions sociales en faveur des enfants atteints et des orphelins est donc fragile, alors qu'elle a des conséquences directes sur leur survie, leur qualité de vie, et surtout la qualité de l'observance aux ARV, seule garante de leur efficacité, à court et à long terme.
+
 
 ![](i1054-2.jpg)
 

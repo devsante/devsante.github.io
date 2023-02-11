@@ -10,8 +10,8 @@ La quantité totale de fer dans l’organisme est stable et résulte d’un équ
 
 Les causes de l’anémie ferriprive peuvent être :
 
-*   un manque d’apport en fer. En effet, l’organisme ne peut synthétiser le fer et doit donc le puiser dans les aliments.
-*   une augmentation des besoins, non compensée par un apport suffisant.
+*   un manque d’apport en fer. En effet, l’organisme ne peut synthétiser le fer et doit donc le puiser dans les aliments.  
+*   une augmentation des besoins, non compensée par un apport suffisant.  
 *   des pertes sanguines, aiguës ou chroniques.
 
 Très rarement, elle peut être attribuable à des problèmes d’absorption ou d’utilisation du fer dans l’organisme.
@@ -45,8 +45,8 @@ Elle viendra confirmer l’anémie et permettra d’affirmer la carence martiale
 
 L’anémie se caractérise par une diminution de l’hémoglobine :
 
-*   Le taux d’hémoglobine : est la concentration d’hémoglobine dans le sang, exprimée en grammes d’hémoglobine par litre de sang (g/L) ou par 100 ml de sang (g/dL).
-*   Le taux d’hématocrite : est le rapport, exprimé en pourcentage, du volume des globules rouges d’un échantillon de sang sur le volume sanguin total de cet échantillon.
+*   Le taux d’hémoglobine : est la concentration d’hémoglobine dans le sang, exprimée en grammes d’hémoglobine par litre de sang (g/L) ou par 100 ml de sang (g/dL).  
+*   Le taux d’hématocrite : est le rapport, exprimé en pourcentage, du volume des globules rouges d’un échantillon de sang sur le volume sanguin total de cet échantillon.  
 *   Le nombre de globules rouges : est le nombre de globules rouges contenus dans un volume de sang donné, normalement exprimé en millions de globules rouges par microlitre de sang (ou en millions x 10¹²/L).
 
 Ces valeurs permettent d’établir les constantes érythrocytaires :
@@ -128,9 +128,9 @@ Ces valeurs permettent d’établir les constantes érythrocytaires :
 
 </table>
 
-*   Le taux d’hémoglobine est parfois très bas < 5 g/dL, le VGM peut se situer entre 50 et 60 fl, voire moins.
-*   Les leucocytes et les plaquettes sont en général normaux. Cependant, une thrombocytose est fréquente chez l’enfant, en dehors de tout syndrome inflammatoire. Une thrombopénie est très rare, mais possible. Après avoir éliminé les autres causes de thrombopénie, elle sera corrigée par le traitement martial.
-*   L’examen d’un frottis sanguin permet d’examiner les  globules rouges. En cas d’anémie ferriprive, ceux-ci sont petits, pâles et de forme très variable (poïkilocytose). Le centre clair de l’hématie est augmenté (annulocyte).
+*   Le taux d’hémoglobine est parfois très bas < 5 g/dL, le VGM peut se situer entre 50 et 60 fl, voire moins.  
+*   Les leucocytes et les plaquettes sont en général normaux. Cependant, une thrombocytose est fréquente chez l’enfant, en dehors de tout syndrome inflammatoire. Une thrombopénie est très rare, mais possible. Après avoir éliminé les autres causes de thrombopénie, elle sera corrigée par le traitement martial.  
+*   L’examen d’un frottis sanguin permet d’examiner les  globules rouges. En cas d’anémie ferriprive, ceux-ci sont petits, pâles et de forme très variable (poïkilocytose). Le centre clair de l’hématie est augmenté (annulocyte).  
 *   La numération des réticulocytes (valeurs de référence = 25 000 à 100.000/ mL) n’a pas d’intérêt car selon le stade de l’anémie, on observera une augmentation des réticulocytes (au début), puis une diminution progressive des réticulocytes pour arriver à un effondrement.  
     L’anémie devient alors arégénérative, mais dans ce cas un myélogramme est inutile.
 
@@ -227,8 +227,8 @@ Chez l’enfant :
 2. La confirmation du diagnostic d’anémie ferriprive
 
 *   Le taux de fer sérique : il détecte la quantité de fer en circulation dans le sang, il est abaissé, inférieur à 9 µmol/L (valeurs de référence = 9 à 30)
-*   Le taux de transferrine : le taux de transferrine disponible, protéine de transport du fer, augmente en cas de carence en fer.
-*   Le coefficient de saturation de la transferrine est ainsi diminué (valeurs de référence : 20 à 40%) et la capacité totale de fixation est augmentée.
+*   Le taux de transferrine : le taux de transferrine disponible, protéine de transport du fer, augmente en cas de carence en fer.  
+*   Le coefficient de saturation de la transferrine est ainsi diminué (valeurs de référence : 20 à 40%) et la capacité totale de fixation est augmentée.  
 *   Le taux de ferritine : c’est le meilleur examen pour poser le diagnostic de carence en fer : il donne une estimation des réserves de fer (dans le foie, la rate et la moelle osseuse).En cas de carence en fer, sa valeur diminue en dessous de 20 µg/L (valeurs  de référence : 20 à 190 chez la femme et 30 à 230 chez l’homme).  
 
     **Attention** : son interprétation doit d'abord éliminer un état inflammatoire chronique, une cytolyse hépatique ou une hyperthyroïdie, situations où la ferritine s'élève indépendamment de l'état des réserves. Dans ce cas une carence martiale associée pourrait se traduire par un taux de ferritine faussement normal. Des examens plus spécifiques, comme le dosage de la ferritine érythrocytaire, ou du récepteur soluble de la transferrine, sont réalisables dans les laboratoires spécialisés.
@@ -239,18 +239,18 @@ Le diagnostic d’anémie par carence en fer étant posé, il reste à détermin
 
 ### Principales étiologies
 
-*   Grossesses multiples et rapprochées, par augmentation des besoins.
-*   Enfants, surtout de 6 mois à 4 ans, et adolescents par augmentation des besoins et défaut d’apport.
+*   Grossesses multiples et rapprochées, par augmentation des besoins.  
+*   Enfants, surtout de 6 mois à 4 ans, et adolescents par augmentation des besoins et défaut d’apport.  
 *   Pertes sanguines :
-    *   chez les femmes en âge de procréer, lorsque les menstruations sont très abondantes.
+    *   chez les femmes en âge de procréer, lorsque les menstruations sont très abondantes.  
     *   aiguës (epistaxis) de volume variable au cours des semaines précédentes
-    *   ou peu abondantes mais chroniques (ulcère gastroduodénal, hernie hiatale, polypes, cancer colorectal).
-*   Maladies inflammatoires digestives, entraînant une malabsorption du fer : maladie de Crohn ou maladie coeliaque.
-*   Insuffisance rénale, dialyse.
-*   Les régimes végétariens entraînent une carence d’apport en fer assimilable. La géophagie entraîne également une carence en fer.
-*   Une ankylostomiase.
+    *   ou peu abondantes mais chroniques (ulcère gastroduodénal, hernie hiatale, polypes, cancer colorectal).  
+*   Maladies inflammatoires digestives, entraînant une malabsorption du fer : maladie de Crohn ou maladie coeliaque.  
+*   Insuffisance rénale, dialyse.  
+*   Les régimes végétariens entraînent une carence d’apport en fer assimilable. La géophagie entraîne également une carence en fer.  
+*   Une ankylostomiase.  
 *   Certains médicaments :
-    *   L’acidité de l’estomac transforme le fer alimentaire en une forme assimilable par l’intestin. Les antiacides de type inhibiteurs de la pompe à protons, utilisés pour soulager les brûlures d’estomac, inhibent cette transformation.
+    *   L’acidité de l’estomac transforme le fer alimentaire en une forme assimilable par l’intestin. Les antiacides de type inhibiteurs de la pompe à protons, utilisés pour soulager les brûlures d’estomac, inhibent cette transformation.  
     *   L’acide acétylsalicylique et les anti-inflammatoires non stéroïdiens peuvent être responsables de saignements gastriques.
 
 <table>

@@ -50,8 +50,8 @@ Type Il : Plaie d'une longueur supérieure à 1 cm mais pas de dégâts importan
 
 Type III : Importants dégâts des tissus mous et forte contamination; fracture comminutive et instable. Il existe trois sous-types :
 
-*   IIIA : un recouvrement adéquat des tissus mous est possible.
-*   IIIB : dépériostage avec os exposé à nu et sévère comminution. Un lambeau local ou libre est nécessaire pour recouvrir.
+*   IIIA : un recouvrement adéquat des tissus mous est possible.  
+*   IIIB : dépériostage avec os exposé à nu et sévère comminution. Un lambeau local ou libre est nécessaire pour recouvrir.  
 *   IIIC : n'importe quelle fracture incluant une blessure artérielle avec ischémie nécessitant une réparation.
 
 ## **II. Conduite thérapeutique**
@@ -92,6 +92,7 @@ Ces fractures avec délabrement musculo-cutané sont une **indication quasi excl
 
 Quelques _vis à compression_ peuvent être utilisées pour réduire de gros fragments osseux, en association avec un fixateur externe.
 
+
 ![](i731-1.jpg)
 
 
@@ -119,7 +120,9 @@ Ces deux temps de parage et d'ostéosynthèse étant accomplis se pose le probl�
 
 La couverture sera réalisée après 24 à 48 heures : schématiquement, les pertes de substances exposant l'extrémité supérieure du tibia seront recouvertes à l'aide d'un lambeau de gastrocnémien (jumeaux : _figure n°2_) et les pertes de substance du tiers moyen à l'aide d'un lambeau de soléaire. Le _cross-leg_ peut également faire partie de la panoplie de couverture du segment jambier.
 
+
 ![](i731-2.jpg)
+
 ![](i731-3.jpg)
 
 

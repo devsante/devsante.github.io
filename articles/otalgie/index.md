@@ -116,6 +116,7 @@ Les sinusites aiguës ou chroniques en poussées provoquent des otalgies mais le
 
 Enfin certaines otalgies, malgré un bilan complet, ne retrouvent pas de cause. Il s'agit vraisemblablement de névralgies essentielles dont le traitement repose sur les antalgiques. Mais ce diagnostic, encore une fois, ne doit pas être porté avant un examen approfondi de la tête et du cou.
 
+
 ![](i931-1.jpg)
 
 

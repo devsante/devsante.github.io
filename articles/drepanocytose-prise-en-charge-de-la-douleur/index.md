@@ -20,7 +20,7 @@ En 4 à 5 jours, les douleurs s’estompent et le sujet retrouve son état anté
 ## II. Comment prévenir la crise ?
 
 *   Eviter tout effort physique
-*   Boire souvent, toutes les heures par exemple : l’hyperhydratation a un effet préventif démontré.
+*   Boire souvent, toutes les heures par exemple : l’hyperhydratation a un effet préventif démontré.  
 *   Parmi les médicaments, seule l’hydroxyurée entraine une diminution des crises vaso-occlusives dans 80 % des cas, mais elle peut provoquer des complications graves (voir rubrique Actualités, 7 avril 2012).
 
 ## III. Traitements pharmacologiques
@@ -31,9 +31,9 @@ Ils doivent **toujours être associés à l’hyperhydratation**.
 
 *   **Paracétamol **: 15 mg/kg/dose (première dose : 30 mg/kg).  
     Pour un adulte : 1 gramme toutes les 6 heures.  
-    Si le paracétamol est efficace, poursuivre  avec 4 doses /jour pendant 4 à 5 jours.
+    Si le paracétamol est efficace, poursuivre  avec 4 doses /jour pendant 4 à 5 jours.  
 *   Si la douleur persiste après 30 à 45 minutes : associer au paracétamol l’ibuprofène :  
-    10 mg/kg/dose. Si le traitement est efficace, poursuivre avec 4 doses /jour.
+    10 mg/kg/dose. Si le traitement est efficace, poursuivre avec 4 doses /jour.  
 *   Si la douleur persiste une heure plus tard, ajouter de la codéine (0,5 à 1 mg/kg/dose) toutes les 6 heures. En cas de douleurs épigastriques, éviter l'ibuprofène.
 
 ### 2. Au dispensaire
@@ -51,14 +51,14 @@ La morphine est toujours efficace, ne coûte pas cher et ne conduit pas à la to
 On ne doit pas laisser souffrir un drépanocytaire, d’autant que l’on sait l’intensité de la douleur dans certaines crises.
 
 *   **Morphine IV**
-    *   **​**Dose de charge : 0,1 mg/kg IV lente en 5 minutes (maximum : 5 mg).
-    *   Ensuite : 0,003 mg/kg/5 minutes jusqu’au soulagement.
-    *   Dose de relais : 1 mg/kg/24 heures en IVC.
+    *   **​**Dose de charge : 0,1 mg/kg IV lente en 5 minutes (maximum : 5 mg).  
+    *   Ensuite : 0,003 mg/kg/5 minutes jusqu’au soulagement.  
+    *   Dose de relais : 1 mg/kg/24 heures en IVC.  
 *   ​**Morphine orale**
     *   **S**uspension 
-    *   Dose de charge : 0,4à 0,5 mg/kg (maximum 20 mg).
-    *   Relais : 0,2 à 0, 4 mg/kg toutes les 30 minutes jusqu’au soulagement.
-    *   Résultat incomplet: 0,2 à 0,3 mg/kg toutes les 2 à 4 heures (en plus du relais).
+    *   Dose de charge : 0,4à 0,5 mg/kg (maximum 20 mg).  
+    *   Relais : 0,2 à 0, 4 mg/kg toutes les 30 minutes jusqu’au soulagement.  
+    *   Résultat incomplet: 0,2 à 0,3 mg/kg toutes les 2 à 4 heures (en plus du relais).  
 *   ​**Morphine orale retard**  
     Il existe des formes retard (gélules) agissant 12 heures (2 prises par jour).
 

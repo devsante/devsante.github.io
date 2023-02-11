@@ -24,10 +24,13 @@ L'acheminement au Laboratoire d'Anatomopathologie n'est pas une urgence et peut 
 
 **3.** A fortiori lors de **consultations occasionnelles** de femmes non ou peu suivies : lors d'une demande de contraception, durant la grossesse ou le post-partum.
 
+
 ![](i371-1.jpg)
 
 
+
 ![](i371-2.jpg)
+
 
 
 ![](i371-3.jpg)
@@ -77,6 +80,7 @@ Certaines circonstances favorisent l'apparition du cancer du col de l'utérus et
 
 **4.** Les accouchements multiples.
 
+
 ![](i371-4.jpg)
 
 
@@ -92,7 +96,9 @@ un bilan biologique complet et le bilan d'extension d'éventuelles métastases.
 
 Ce bilan permet de **classer** le cancer, suivant le tableau ci-dessus.
 
+
 ![](i371-5.jpg)
+
 ![](i371-6.jpg)
 
 

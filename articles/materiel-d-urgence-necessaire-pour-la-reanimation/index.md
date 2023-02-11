@@ -21,9 +21,9 @@ Il ne tolère aucun délai. Il se fait essentiellement :
 
 ### 2. Conduite à tenir
 
-*   Appeler à l'aide et noter l'heure.
-*   Placer le sujet sur un plan dur.
-*   S'assurer de l'absence de mouvements respiratoires, luxer le maxillaire inférieur vers l'avant et nettoyer au doigt le larynx.
+*   Appeler à l'aide et noter l'heure.  
+*   Placer le sujet sur un plan dur.  
+*   S'assurer de l'absence de mouvements respiratoires, luxer le maxillaire inférieur vers l'avant et nettoyer au doigt le larynx.  
 *   Deux gestes simultanés sont indispensables :
 
 *   le rétablissement de la ventilation alvéolaire,
@@ -32,6 +32,7 @@ Il ne tolère aucun délai. Il se fait essentiellement :
 *   Mettre en place une perfusion percutanée sur une grosse veine périphérique avec un **cathéter 16 ou 18 G.,** puis remplissage vasculaire si nécessaire (hémorragie).
 
 *   Évaluer les résultats de la réanimation précoce, active et efficace au bout de quelques minutes.
+
 
 ![](i519-1.jpg)
 
@@ -48,12 +49,14 @@ Cependant, pour les techniques de bouche à bouche et de ventilation au **masque
 
 La canule est glissée sur la langue, tournée vers le haut puis retournée afin que la canule repose sur la convexité de la langue. Fixer la canule avec du sparadrap sur la lèvre supérieure (_schéma n° 2)._
 
+
 ![](i519-2.jpg)
 
 
 ### 2. Ventilation au masque avec **ballon auto-gonflable (Ambu)**
 
 Cette technique rend de grands services dans trois circonstances particulières et devrait être connue de tous les médecins ou infirmiers exerçant dans un hôpital (_schéma n° 3)._
+
 
 ![](i519-7.jpg)
 
@@ -79,12 +82,14 @@ Elle doit être rigoureuse :
     *   20/mm pour l'enfant,
     *   40/mm pour le nouveau-né (attention : alvéoles fragiles).
 
+
 ![](i519-3.jpg)
 
 
 ### 3. L'intubation endo-trachéale (par la bouche)
 
 Nous détaillerons ici le matériel nécessaire à une intubation et vous rappelons que lors de toute anesthésie, ce matériel doit être à portée de la main et en bon état de fonctionnement _(schéma n° 4) :_
+
 
 ![](i519-5.jpg)
 
@@ -146,12 +151,13 @@ Sa technique a été discutée dans un autre article.
 
 L'arrêt circulatoire s'accompagne toujours de perturbations métaboliques dont la plus importante est l'acidose. Pour ramener une activité cardiaque normale, il faut corriger cette acidose et souvent utiliser des agents pharmacologiques (produits vaso-actifs).
 
-1.  Par cathéter intraveineux mis en place immédiatement, perfuser une solution alcalinisante si ]'une est disponible : 200 ml de **bicarbonate de sodium isotonique à** **14 %**o chez l'adulte ; de 10 à 100 ml chez l'enfant suivant le poids (environ 3 ml/kg).
+1.  Par cathéter intraveineux mis en place immédiatement, perfuser une solution alcalinisante si ]'une est disponible : 200 ml de **bicarbonate de sodium isotonique à** **14 %**o chez l'adulte ; de 10 à 100 ml chez l'enfant suivant le poids (environ 3 ml/kg).  
 2.  L'injection de médicaments n'est efficace que sur un coeur qui a bénéficié d'un bon massage, d'une bonne ventilation et d'une correction de l'acidose.
 
 Utiliser l'épinéphrine **(Adrénaline** (R) (1 mg = 1 ml). Chez l'enfant (0,01 cc/kg) : une ampoule intraveineuse, renouvelable si besoin.
 
 Si le coeur ne repart plus, malgré un massage cardiaque externe et une ventilation corrects, le problème de l'arrêt des mesures de réanimation se pose. La décision se fondera sur une maladie causale et le délai qui a précédé la mise en oeuvre de la réanimation.
+
 
 ![](i519-6.jpg)
 

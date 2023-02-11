@@ -20,7 +20,7 @@ Lutter contre le choléra c'est lutter contre sa transmission:
 
 ### **1. Agent pathogène:** **le vibrion cholérique**
 
-*   Les vibrions responsables sont des bacilles Gram négatif, très fins, en forme de virgule, très mobiles à l'examen microscopique sur lame.
+*   Les vibrions responsables sont des bacilles Gram négatif, très fins, en forme de virgule, très mobiles à l'examen microscopique sur lame.  
 *   Les vibrions responsables du choléra sont appelés **vibrio cholerae 01,** et les épidémies actuelles sont dues aux types **el Tor-Ogawa** ou **el Tor-Inaba.** Il existe d'autres espèces de vibrions, qui ne provoquent pas le choléra.
 
 ### **2. Réservoir**
@@ -125,13 +125,14 @@ Si on ne dispose pas de laboratoire, il faut adresser des prélèvements au labo
 
 Au laboratoire, on peut mettre en évidence le vibrion cholérique dans un échantillon de selles ou sur un écouvillonnage rectal:
 
-*   Examen microscopique à l'état frais: présence de germes fins, très mobiles.
-*   Immobilisation sur lame par le **sérum polyvalent anti-vibrio-cholerae 01** de l'Institut Pasteur.
+*   Examen microscopique à l'état frais: présence de germes fins, très mobiles.  
+*   Immobilisation sur lame par le **sérum polyvalent anti-vibrio-cholerae 01** de l'Institut Pasteur.  
 *   Enrichissement et isolement:
 
 incubation 8 heures à 37 °C en **eau peptonée alcaline à 3 % de Na CI,** repiquage sur gelose d'isolement TCBS, incubation 8 heures à 37 °C, les colonies sont lisses, jaunes, brillantes, transparentes.
 
 *   Identification des colonies isolées par agglutination avec le sérum polyvalent anti-vibriocholerae 01.
+
 
 ![](i186-1.jpg)
 
@@ -159,7 +160,7 @@ A défaut, on peut utiliser le mélange isotonique (deux litres) plus sérum bic
 
 *   Le volume à perfuser dans les quatre premières heures est égal à la quantité estimée des liquides perdus _(cf. tableau_ 1), soit 5 à 6 litres pour un adulte de 50 kilos. Un tiers de ce volume est perfusé dans les vingt premières minutes pour corriger rapidement l'état de choc.
 
-*   La surveillance porte sur la correction des signes de déshydratation, en se méfiant de l'apparition de signes d'oedème pulmonaire en cas de perfusion trop rapide.
+*   La surveillance porte sur la correction des signes de déshydratation, en se méfiant de l'apparition de signes d'oedème pulmonaire en cas de perfusion trop rapide.  
 *   Le volume de perfusion est ensuite adapté au volume de la diarrhée et des vomissements, la réhydratation est poursuivie par voie orale jusqu'à l'arrêt de la diarrhée.
 
 **Réhydratation orale**
@@ -212,7 +213,7 @@ Tout responsable de santé doit:
 
 *   Surveiller et enregistrer le nombre de cas de diarrhées.
 
-*   Se renseigner sur les causes des décès à domicile.
+*   Se renseigner sur les causes des décès à domicile.  
 *   Disposer d'un stock de matériel de réhydratation.
 
 **Lorsque surviennent un ou plusieurs** **cas suspects**
@@ -257,6 +258,7 @@ La vaccination ne protège que 50 % des sujets vaccinés, pendant trois à quatr
 En période d'endémie déclarée, la réhydratation précoce et intensive de tous les malades diarrhéiques est l'objectif prioritaire et permet de réduire considérablement la mortalité due au choléra, mais elle exige de réunir en quelques jours un matériel et un personnel importants.
 
 C'est avant l'épidémie, c'est-à-dire en permanence, que la lutte contre les facteurs de transmission, par l'amélioration de l'hygiène et l'éducation sanitaire, doit faire diminuer les risques de survenue du choléra.
+
 
 ![](i186-2.jpg)
 

@@ -15,9 +15,9 @@ Le but de cette mise au point est :
 
 La carence alimentaire, et plus particulièrement en protéines, entraîne de graves perturbations du système immunitaire.
 
-*   Les surfaces muqueuses et cutanées sont les premières touchées : les études effectuées sur la muqueuse respiratoire mettent en évidence de fréquentes brèches par où pénètrent les germes. Ces brèches sont aussi plus longues à cicatriser.
-*   Les anticorps (immunoglobulines) sont plus faiblement synthétisés : cela est surtout net pour les IgA qui tapissent les muqueuses respiratoires et digestives.
-*   Les lymphocytes sont souvent diminués et réagissent mal devant l'agent infectieux (c'est aussi le cas du SIDA).
+*   Les surfaces muqueuses et cutanées sont les premières touchées : les études effectuées sur la muqueuse respiratoire mettent en évidence de fréquentes brèches par où pénètrent les germes. Ces brèches sont aussi plus longues à cicatriser.  
+*   Les anticorps (immunoglobulines) sont plus faiblement synthétisés : cela est surtout net pour les IgA qui tapissent les muqueuses respiratoires et digestives.  
+*   Les lymphocytes sont souvent diminués et réagissent mal devant l'agent infectieux (c'est aussi le cas du SIDA).  
 *   Enfin les polynucléaires deviennent "paresseux" et phagocytent mal les bactéries.
 
 ### 1. Tout aussi important est l'environnement
@@ -102,7 +102,7 @@ Les règles d'hygiène doivent, pour cet enfant, être des plus strictes.
 
 Deux virus sont à redouter :
 
-*   **La rougeole** : si la mortalité de la rougeole peut atteindre 25 %, c'est en grande partie du fait de la malnutrition. De plus, la rougeole entraîne par elle-même anorexie et diarrhée, elle aggrave encore la dénutrition. L'atteinte pulmonaire demeure la cause majeure des formes mortelles.
+*   **La rougeole** : si la mortalité de la rougeole peut atteindre 25 %, c'est en grande partie du fait de la malnutrition. De plus, la rougeole entraîne par elle-même anorexie et diarrhée, elle aggrave encore la dénutrition. L'atteinte pulmonaire demeure la cause majeure des formes mortelles.  
 *   **L'herpès** : il peut provoquer une atteinte buccale sévère (stomatite herpétique ou cutanée) : le même risque menace l'enfant HIV+.
 
 ### 7. Les maladies parasitaires

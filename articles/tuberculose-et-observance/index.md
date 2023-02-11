@@ -19,10 +19,10 @@ Leur fréquence est inversement liée à la précision du diagnostic et à l'ét
 ## **Au total, on peut classer les principales causes  
 connues d'abandon du traite­ment en :**
 
-*   Causes liées à l'organisation des structures (informations, circuits, accueil, ruptures, absences du personnel, etc.).
-*   Liées au personnel soignant (accueil, dispo­nibilité, motivations etc.).
+*   Causes liées à l'organisation des structures (informations, circuits, accueil, ruptures, absences du personnel, etc.).  
+*   Liées au personnel soignant (accueil, dispo­nibilité, motivations etc.).  
 *   Liées au traitement (nombre de comprimés ou
-*   de prises, effets secondaires, horaires, etc.).
+*   de prises, effets secondaires, horaires, etc.).  
 *   Liées à l'individu (raisons psycho sociales, raisons matérielles, coûts, etc.).
 
 Quelques situations compliquent l'observance comme, les périodes de ramadan ou carême, les conditions de vie des nomades, des tra­vailleurs saisonniers ou des élèves.
@@ -61,6 +61,7 @@ Par exemple, à Madagascar, les résultats du traitement sont différents selon 
 Quand on en demande la raison aux infirmiers de Salfa ils répondent que c'est parce qu'ils recherchent les irréguliers. Pourtant les résultats de cette recherche don­nent sur 92 TPM + traités ; 6 irréguliers. Quand on recherche ces 6 patients, 5 sont retrouvés, et sur les 5 retrouvés, un a terminé son traitement. Cette recherche n'est donc pas rentable. Les bons résultats de Salfa ne sont pas liés à la recherche des irréguliers mais à la prévention de l'irrégularité, par l'organi­sation et l'information.
 
 Sur toutes ces questions, il est recommandé de voir les articles de la revue "Développement et santé" du N° 172 ; Spécial observance et du N° 187 ; Education thérapeutique du patient vivant avec le VIH/SIDA.
+
 
 ![](12059-1.jpg)
 

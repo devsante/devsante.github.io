@@ -50,6 +50,7 @@ La rougeole non compliquée se caractérise par 4 phases :
 
 Dans tous les cas, l'enfant en sort fatigué et amaigri pendant plusieurs semaines.
 
+
 ![](i816-1.jpg)
   
 
@@ -64,6 +65,7 @@ Elles sont fréquentes, souvent graves, à redouter à tous les stades de la mal
 **1. Complications respiratoires**
 
 Les poumons et les voies aériennes sont les organes cibles du virus qui lèse l'épithélium entraînant une paralysie des cils vibratiles favorisant ainsi les surinfections bactériennes. Ces complications aggravent 10 à 80 % des rougeoles en pays tropical.
+
 
 ![](i816-2.jpg)
 
@@ -103,6 +105,7 @@ Fréquentes, elles représentent la cause du tiers des cécités en Afrique.
 Il s'agit de conjonctivites et surtout de kératites par surinfection bactérienne pouvant ulcérer la cornée.
 
 L'antibiothérapie précoce peut sauver l'oeil.
+
 
 ![](i816-3.jpg)
   

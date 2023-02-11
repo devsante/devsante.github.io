@@ -13,7 +13,7 @@ Les changements de mode de vie, en particulier alimentaire, sont une des causes,
 
 Que faire ? 
 
-*   D’abord améliorer le dépistage de deux manières : recherche de glycosurie à la moindre occasion, et surtout généralisation des tests capillaires.
+*   D’abord améliorer le dépistage de deux manières : recherche de glycosurie à la moindre occasion, et surtout généralisation des tests capillaires.  
 *   Multiplier les centres de traitement avec, en particulier, un meilleur accès à l’insuline et une amélioration de sa conservation au froid.
 
 Pour l’instant, l’inégalité de l’accès aux soins est criante : ainsi, au Mozambique, Maputo, la capitale où ne vit que 11,3 % de la population, concentre 77,3 % des commandes annuelles d’insuline.

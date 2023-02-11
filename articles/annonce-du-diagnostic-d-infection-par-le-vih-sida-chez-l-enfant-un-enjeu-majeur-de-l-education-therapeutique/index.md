@@ -39,6 +39,7 @@ Quand on parle d'annonce au diagnostic, il ne s'agit pas de se perdre dans la co
 
 Au verso des fiches et pour tous les outils, une indication précise d'une méthode de dialogue est détaillée. Il faut dédramatiser ce moment pour l'adulte qui fait l'annonce, moment aggravé par l'interprétation de la maladie de l'adulte (19).
 
+
 ![](i1079-2.jpg)
 
 
@@ -47,6 +48,7 @@ Le vrai moment de l'annonce est le jour où le mot SIDA a été prononcé mais c
 ## VIII. Caractéristiques et limites des outils en général
 
 Les outils décrits ci dessus ne sont que des supports à la communication et c'est donc surtout la communication qui fait le travail du vécu de cette annonce. C'est la raison pour laquelle il n'est pas indispensable de refaire des outils pour tous les contextes, la démarche à suivre est la même.
+
 
 ![](i1079-1.jpg)
 **Reprise individuelle des explications****Rwanda, 2006**
@@ -61,6 +63,7 @@ La façon d'intéresser les enfants à ces explications, d'animer une séance de
 
 ### 1. Conte Bekhi
 
+
 ![](i1079-3.jpg)
 
 
@@ -70,13 +73,16 @@ Le conte de 22 pages dont 10 dessins est un outil particulièrement utile aux an
 
 Les treize fiches médicales sont des minicours de médecine adaptés à l'enfant afin de mieux comprendre les mécanismes de la multiplication virale et le rôle des antirétroviraux. Ces fiches sont colorées, amusantes et indépendantes les unes des autres (bien qu'ayant une suite logique). Elles sont une façon de garder l'attention de l'enfant et de guider le personnel soignant dans la démarche d'annonce progressive de la maladie. Les explications du dessin et la démarche à suivre sont indiqués au verso. Les trois premières fiches abordent les thèmes généraux de la santé sur la respiration et la circulation sanguine en détaillant les différents éléments sanguins. La quatrième fiche explique l'immunité et le rôle des différents globules blancs ainsi que l'existence de microbes différents (virus, bactéries, parasites, champignons). A partir de la cinquième fiche (5 à 8), on explique la multiplication virale et le rôle des médicaments ainsi que le mécanisme d'apparition des résistances. La fiche 9 est un dessin représentant une scène scolaire rappelant que la contagion n'a pas lieu dans la vie quotidienne de l'école. La fiche 10 reprend le mode de transmission du virus. La fiche 11 représente la difficulté du secret. La fiche 12 montre l'importance de la prévention et le rôle des préservatifs et la fiche 13 représente les chiffres de l'épidémie de la maladie.
 
+
 ![](i1079-4.jpg)
+
 ![](i1079-5.jpg)
 
 
 ### 3. La bande dessinée
 
 Le dessinateur a repris les mêmes personnages que ceux des fiches et a créé avec le romancier une histoire reprenant essentiellement le mode d'apparition des résistances. Cette courte bande dessinée (4 pages) permet de sensibiliser l'enfant et l'adolescent au suivi du traitement et à la surveillance régulière de la charge virale et de son immunité.
+
 
 ![](11079.jpg)
 

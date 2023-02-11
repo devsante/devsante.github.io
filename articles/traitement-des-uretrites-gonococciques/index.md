@@ -36,10 +36,11 @@ _(tableau 1)_
 
 *   **La pénicilline semi-retard** est la plus anciennement utilisée, mais à des posologies croissantes. La posologie actuellement recommandée est de 4,8 millions d'unités en deux injections intramusculaires avec prise associée de 1 gramme de probénécide (Bénémide®) par voie orale. En France, on utilise la bénéthaminebenzyl-pénicilline (Biclinociline®) et aux USA la procaïne-pénicilline G qui n'est pas commercialisée en France. L'Extencilline® ou l'Oracilline® ne sont pas efficaces en traitement minute car les concentrations sériques sont le plus souvent trop faibles.
 
+
 ![](i419-1.jpg)
 
 
-*   **L'amoxicilline** (Clamoxy®) à la posologie de 3 grammes en une prise orale, associée à 1 gramme de probénécide (Bénémide®) a les mêmes inconvénients que la pénicilline: contre-indication en cas d'allergie aux bêta-lactamines; inefficacité thérapeutique en cas d'infection par une souche résistante; absence d'efficacité certaine sur une syphilis associée car la demie vie est trop courte pour couvrir le temps de division du tréponème; inefficacité sur une localisation extra-génitale associée et en cas de complication. L'adjonction d'acide clavulanique à l'amoxicilline. L'adjonction d'acide clavulanique à l'amoxicilline (Augmentin®) ne résoud pas le problème des résistances car on observe quand même 60 % à 80 % d'échecs.
+*   **L'amoxicilline** (Clamoxy®) à la posologie de 3 grammes en une prise orale, associée à 1 gramme de probénécide (Bénémide®) a les mêmes inconvénients que la pénicilline: contre-indication en cas d'allergie aux bêta-lactamines; inefficacité thérapeutique en cas d'infection par une souche résistante; absence d'efficacité certaine sur une syphilis associée car la demie vie est trop courte pour couvrir le temps de division du tréponème; inefficacité sur une localisation extra-génitale associée et en cas de complication. L'adjonction d'acide clavulanique à l'amoxicilline. L'adjonction d'acide clavulanique à l'amoxicilline (Augmentin®) ne résoud pas le problème des résistances car on observe quand même 60 % à 80 % d'échecs.  
 *   **La spectinomycine** (Trobicine®) est toujours le traitement de choix en cas de suspicion de résistance à la pénicilline à la posologie de 2 grammes en intramusculaire, identique chez l'homme et la femme. Les inconvénients sont une inefficacité thérapeutique possible (infection par une souche résistante, infection extragénitale) et un coût de traitement élevé (_tableau 1)._
 
 *   **Le chloramphénicol** (Tifomycine®) à la posologie de 2,5 grammes en une prise orale unique est souvent efficace, sauf sur les souches de Neisseria gonorrheae originaires d'Asie, mais la toxicité hématologique des phénicols, indépendante de la dose et donc possible en traitement minute, incite à éviter leur emploi en dehors des régions où leur coût moindre en fait un des seuls antibiotiques disponibles sur le marché.
@@ -61,6 +62,7 @@ Les cyclines, les macrolides, les pristinamycines ne sont pas efficaces en trait
 *   d'abord traitement minute antigonococcique, puis traitement long antichlamydiae.
 
 *   **Le traitement minute** de l'urétrite gonococcique n'est toujours pas bien codifié et plusieurs protocoles efficaces sont possibles. Le choix du traitement tient compte des antécédents personnels (allergie aux bêta-lactamines) et, surtout, des médicaments disponibles et de l'origine de la contamination, cette dernière permettant de prévoir la sensibilité ou la résistance à la pénicilline _(tableau II)._ La probabilité élevée qu'il s'agisse d'une souche résistante à la pénicilline (groupe B et C) impose de rejeter en première intention le choix de cet antibiotique et d'utiliser plutôt la spectinomycine (Trobicine®), la ceftriaxone (Rocéphine®), une autre céphalosporine de troisième génération, ou un autre antibiotique selon les possibilités locales (phénicols, autres aminosides, association triméthoprine-sulfaméthoxazole). En revanche si la contamination s'est faite dans une région où la résistance à cet antibiotique est inférieure à 1 % (groupe A), la pénicilline (en l'absence d'allergie) doit rester le traitement de première intention.
+
 
 ![](i419-2.jpg)
 

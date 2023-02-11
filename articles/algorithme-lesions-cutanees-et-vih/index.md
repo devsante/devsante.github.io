@@ -63,15 +63,22 @@ Conseiller au malade :
 
 #### Mode d'administration de certains médicaments
 
-*   _Comment utiliser Benzochloryl solution ?_ Badigeonner tout le corps sauf le visage après la toilette du soir, laisser sécher, rebadigeonner, laisser sécher et se coucher. Ne se laver que le soir suivant. Répéter l'opération 2 semaines après.
+*   _Comment utiliser Benzochloryl solution ?_ Badigeonner tout le corps sauf le visage après la toilette du soir, laisser sécher, rebadigeonner, laisser sécher et se coucher. Ne se laver que le soir suivant. Répéter l'opération 2 semaines après.  
 *   _Comment utiliser DDT en poudre ?_ Saupoudrer le linge et les draps de produits et enfermer le tout dans une caisse propre pendant 24 heures.
+
 
 ![](i990-1.jpg)
 
 
+
 ![](i990-2.jpg)
+
 ![](i990-3.jpg)
+
 ![](i990-4.jpg)
+
 ![](i990-5.jpg)
+
 ![](i990-6.jpg)
+
 ![](i990-7.jpg)

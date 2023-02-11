@@ -61,7 +61,7 @@ Sont également en jeu :
 *   L'établissement d'une relation de confiance avec l'équipe soignante ;
 *   La gestion de la confidentialité ;
 *   L'adhésion au traitement, qui dépend notamment de l'acceptation familiale, qui peut être favorisée par l'appui des associations ;
-*   L'existence de mesures d'appui comme les clubs d'observance, les groupes de parole, les groupes d'information des patients, l'usage d'outils pédagogiques.
+*   L'existence de mesures d'appui comme les clubs d'observance, les groupes de parole, les groupes d'information des patients, l'usage d'outils pédagogiques.  
 *   **L'existence d'un dispositif cohérent de prise en charge reposant sur un travail en équipe.**
 
 _(Recommandations de Gorée 2001, initiative internationale "Place des antirétrouiraux dans la prise en charge des personnes infectées par le VIH en Afrique".Développement et santé, n°162, décembre 2002 http://www. devsante. org_
@@ -104,6 +104,7 @@ des médicaments par voie orale
 *   Insister sur la fréquence, la quantité et les horaires de prise ;
 *   Expliquer ce qu'il doit faire s'il oublie une dose ;
 *   Rassembler les médicaments, les compter, les emballer les (emballage différent suivant le type de médicaments), noter sur chaque lot les informations nécessaires sous forme de dessin que vous aurez pris le temps d'expliquer au patient.
+
 
 ![](i170-1.jpg)
 

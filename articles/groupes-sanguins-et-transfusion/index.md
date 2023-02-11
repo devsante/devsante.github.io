@@ -39,7 +39,9 @@ Compte tenu de ces données, on peut dresser le tableau de compatibilité dans l
 
 Un autre schéma, facile à retenir, est le suivant: la flèche indiquant la transfusion possible.
 
+
 ![](i72-1.jpg)
+
 
 
 ![](i72-2.jpg)
@@ -58,6 +60,7 @@ Le schéma de compatibilité dans le système rhésus est donc en théorie le su
 Mais il faut savoir qu'en situation de grande urgence, un individu rhésus (-) non immunisé (= qui n'a pas subi de transfusion) peut être transfusé en sang rhésus (+) sans risque d'accident (il faut éliminer avec certitude toute notion de transfusion antérieure ou de grossesse).
 
 Enfin, il faut savoir qu'en Afrique, les sujets RH (-) sont peu nombreux.
+
 
 ![](i72-3.jpg)
 
@@ -84,6 +87,7 @@ Il faut disposer de sérums-tests d'origine humaine anti A, anti B et anti AB, q
 
 *   l'agglutination des hématies donne à la goutte un aspect de " brique pilée ";
 *   en l'absence d'agglutination, la goutte garde une teinte homogène (schéma _2)._
+
 
 ![](i72-4.jpg)
 

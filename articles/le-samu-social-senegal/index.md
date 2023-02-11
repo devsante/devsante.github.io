@@ -27,6 +27,7 @@ Le Samu Social Sénégal dispose dans ce domaine d'une base de données importan
 
 La grande majorité des enfants accompagnés de leur mère dont s'occupe le Samu Social Sénégal est âgée de moins de 5 ans (71 %). Après 15 ans, la plupart restent toujours dans la rue mais se retrou­vent dans une nouvelle catégorie, celle des Fakh­mans, tant ils auront appris à y vivre.
 
+
 ![](image002.jpg)
 
 
@@ -254,7 +255,8 @@ Ils ont quitté l'école coranique généralement en raison d'une maltraitance. 
 
 #### e) Les jeunes travailleurs
 
-**![](image004.jpg)
+**
+![](image004.jpg)
 **
 
 **Figure 2 : répartition des jeunes travailleurs selon l'âge**
@@ -323,6 +325,7 @@ A ces plaies peuvent s'ajouter les dermatoses chroniques (surtout la gale qui co
 Une désinfection à la povidone iodée avant l'appli­cation de benzoate de benzyle et un suivi quotidien ont permis une forte réduction des cas de plaies surinfectées, sans avoir recours à une utilisation abusive d'antibiotiques _(Figure 3)._ En seconde position arrivent les pathologies pulmonaires et ORL, dominées par les broncho­pneumopathies chroniques. L'utilisation abusive de diluant cellulosique en inhalation est probablernent responsable d'une atteinte de l'arbre respiratoire et d'une sensibilité aux infections pulmonaires. A cela s'ajoute la pollution de l'environnement (trafic urbain, incinération sauvage des ordures, saleté des lieux où vivent les Fakhmans). Paradoxalement, les pneumopathies allergiques sont très rares, malgré l'exposition à des allergènes de toute nature. Les membres des Equipes Mobiles d'Aides (EMA) sont plus sensibles à ces réactions allergiques que les enfants qui vivent dans la pous­sière.
 
 De même, aucun Fakhman n'a été atteint de choléra durant les épidémies que le Sénégal a vécues ces dernières années ! Du fait de la mauvaise hygiène vestimentaire, alimentaire et comportementale des enfants de la rue, ils auraient dû être les premiers atteints par cette maladie.
+
 
 ![](image006.jpg)
 

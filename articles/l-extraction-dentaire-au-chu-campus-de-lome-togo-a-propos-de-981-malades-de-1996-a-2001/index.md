@@ -196,8 +196,8 @@ Cette étude est hôspitalière, ses résultats ne peuvent donc être extraposab
 
 Nos résultats sur la fréquence des extractions dentaires corroborent ceux d'autres pays africains [1,2]. Ces fréquences sont en général très élevées dans ces pays comparativement à celles des pays développés [3,4]. Cette diffé_rence de_ pratique peut s'expliquer par plusieurs raisons dont les principales sont :
 
-*   La progression des chiffres de la prévalence de la carie dentaire dans les pays africains surtout en zone urbaine en raison des modifications des habitudes alimentaires, associées à la négligence et/ou l'ignorance des maladies bucco-dentaires et de leurs conséquences.
-*   L'insuffisance d'équipement et le manque des matériaux et produits dans les cabinets dentaires africains. De ce fait, les énormes progrès de la science dans ce domaine permettant de traiter et de reconstituer parfaitement et morphologiquement une dent infectée même délabrée sans avoir recours à l'extraction, ne peuvent profiter aux pays en développement. Les résultats d'une enquête réalisée en France [3] ont montré une diminution des extractions dentaires de 6,6 % en 1980 à 4,8% en 1991. Cette performance, selon les auteurs présente un lien direct avec l'augmentation des séances comprenant les actes de radiologie de 0,3 % à 4,0 %. Il serait difficile d'atteindre des progressions similaires dans les pays en développement si des solutions appropriées ne sont trouvées au problème crucial du sous-équipement des services d'odonto-stomatologie.
+*   La progression des chiffres de la prévalence de la carie dentaire dans les pays africains surtout en zone urbaine en raison des modifications des habitudes alimentaires, associées à la négligence et/ou l'ignorance des maladies bucco-dentaires et de leurs conséquences.  
+*   L'insuffisance d'équipement et le manque des matériaux et produits dans les cabinets dentaires africains. De ce fait, les énormes progrès de la science dans ce domaine permettant de traiter et de reconstituer parfaitement et morphologiquement une dent infectée même délabrée sans avoir recours à l'extraction, ne peuvent profiter aux pays en développement. Les résultats d'une enquête réalisée en France [3] ont montré une diminution des extractions dentaires de 6,6 % en 1980 à 4,8% en 1991. Cette performance, selon les auteurs présente un lien direct avec l'augmentation des séances comprenant les actes de radiologie de 0,3 % à 4,0 %. Il serait difficile d'atteindre des progressions similaires dans les pays en développement si des solutions appropriées ne sont trouvées au problème crucial du sous-équipement des services d'odonto-stomatologie.  
 *   L'insuffisance en personnel qualifié pour l'élaboration et l'application des programmes de prévention ou de prise en charge précoce des affections bucco-dentaires.
 
 <table>
@@ -339,12 +339,12 @@ en développement à propos des difficultés de prise en charge des édentations
 
 ## IV. Conclusion
 
-*   La fréquence _élevée_ d'extractions dentaires devrait appeler à une prise de conscience pour la valorisation des soins bucco-dentaires conservateurs au Togo.
+*   La fréquence _élevée_ d'extractions dentaires devrait appeler à une prise de conscience pour la valorisation des soins bucco-dentaires conservateurs au Togo.  
 *   Les besoins prothétiques importants créés par ces extractions dentaires constituent un problème de santé publique.
 
 ## V. Recommandations
 
-1.  Intégrer les soins bucco-dentaires parmi les composantes des soins de santé primaires (SSP) dans les pays africains.
+1.  Intégrer les soins bucco-dentaires parmi les composantes des soins de santé primaires (SSP) dans les pays africains.  
 2.  Initier et/ou renforcer la sensibilisation de la population sur les dangers de la négligence des maladies bucco-dentaires et instaurer des programmes de dépistage et de prise en charge précoce.
 
 **_Bibliographie_**

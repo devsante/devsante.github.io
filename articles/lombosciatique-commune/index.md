@@ -39,6 +39,7 @@ Souvent aigu à la suite d'un effort ou d'un mouvement, parfois progressivement 
 
 La douleur intense est exacerbée par la mobilisation, la toux, la défécation, et diminuée par le repos ou certaines positions. On peut distinguer les lombosciatiques aiguës, subaiguës ou chroniques.
 
+
 ![](i791-1.jpg)
 
 
@@ -46,19 +47,19 @@ La douleur intense est exacerbée par la mobilisation, la toux, la défécation,
 
 Il se fait en position couchée du patient et/ou si possible en position debout.
 
-*   **La présentation du sujet est particulière** avec un enraidissement douloureux de la région lombaire, une incurvation latérale, une impossibilité parfois de se mobiliser, le patient parle de " paralysie ".
-*   **On apprécie l'attitude du patient,** **et la raideur du rachis lombaire.** Cette dernière se mesure par la distance mains/sol en position debout. On recherche le signe de Lasègue : limitation de la flexion sur le bassin du membre inférieur étendu (mesure de l'angle 90°, 40°, O°), la douleur étant réveillée ou exacerbée.
+*   **La présentation du sujet est particulière** avec un enraidissement douloureux de la région lombaire, une incurvation latérale, une impossibilité parfois de se mobiliser, le patient parle de " paralysie ".  
+*   **On apprécie l'attitude du patient,** **et la raideur du rachis lombaire.** Cette dernière se mesure par la distance mains/sol en position debout. On recherche le signe de Lasègue : limitation de la flexion sur le bassin du membre inférieur étendu (mesure de l'angle 90°, 40°, O°), la douleur étant réveillée ou exacerbée.  
 *   **Les signes objectifs d'atteinte sensitive font l'objet d'une étude précise**
-    *   Existence de fourmillements ou de picotements ou de sensation anormale (paresthésies).
-    *   Hypoesthésie ou anesthésie au tact et au toucher : en faveur d'une sciatique L5, un déficit, face externe de jambe, dos du pied et gros orteil ; en faveur d'une sciatique SI, plante du pied et petit orteil.
-*   **Les signes d'atteinte motrice sont** **aussi importants.** La douleur aiguë peut rendre difficile cette partie de l'examen.
-    *   En faveur d'une sciatique L5, parésie ou paralysie du moyen fessier (diminution de l'abduction contrariée de la cuisse), de l'extenseur du gros orteil et des péroniers latéraux (flexion dorsale et latérale du pied sur la jambe).
+    *   Existence de fourmillements ou de picotements ou de sensation anormale (paresthésies).  
+    *   Hypoesthésie ou anesthésie au tact et au toucher : en faveur d'une sciatique L5, un déficit, face externe de jambe, dos du pied et gros orteil ; en faveur d'une sciatique SI, plante du pied et petit orteil.  
+*   **Les signes d'atteinte motrice sont** **aussi importants.** La douleur aiguë peut rendre difficile cette partie de l'examen.  
+    *   En faveur d'une sciatique L5, parésie ou paralysie du moyen fessier (diminution de l'abduction contrariée de la cuisse), de l'extenseur du gros orteil et des péroniers latéraux (flexion dorsale et latérale du pied sur la jambe).  
     *   En faveur d'une sciatique S1, déficit du triceps sural (flexion plantaire du pied).
 
 Si la douleur est modérée, cette recherche peut se faire, le patient debout, par la marche sur les talons (L5) et sur la pointe des pieds (S1).
 
-*   **L'examen des réflexes ostéo-tendineux** trouve un achiléen aboli ou franchement diminué d'un côté en cas d'atteinte S1+ (rotulien normal).
-*   **Il** **faut vérifier l'absence de** **troubles sphinctériens** (troubles mictionnels, rétention ou incontinence) et d'atteinte de la sensibilité périnéale et rectale - toucher rectal - témoignant de l'extension des troubles vers les racines sacrées.
+*   **L'examen des réflexes ostéo-tendineux** trouve un achiléen aboli ou franchement diminué d'un côté en cas d'atteinte S1+ (rotulien normal).  
+*   **Il** **faut vérifier l'absence de** **troubles sphinctériens** (troubles mictionnels, rétention ou incontinence) et d'atteinte de la sensibilité périnéale et rectale - toucher rectal - témoignant de l'extension des troubles vers les racines sacrées.  
 *   **Un examen général est nécessaire** à la recherche de troubles (amaigrissement, fièvre) et d'antécédents connus, et d'atteinte artérielle.
 
 ### 3. Diagnostic étiologique et différentiel
@@ -125,7 +126,9 @@ C'est l'examen à réaliser en deuxième intention après la radiographie standa
 
 La hernie discale apparaît en TDM comme une saillie postérieure en continuité avec le disque. Le conflit disco-radiculaire se traduit par l'effacement ou le refoulement de l'image radiculaire par la hernie, la racine homologue controlatérale est normalement repérable _(figure_ _n° 2 et photo)._
 
+
 ![](i791-2.jpg)
+
 ![](i791-3.jpg)
 
 
@@ -138,10 +141,10 @@ Le conflit disco-radiculaire ne peut pas toujours être affirmé ; dans ce cas, 
 
 Cet examen présente les caractères suivants :
 
-*   Il permet l'étude du liquide céphalorachidien nécessaire dans les tableaux atypiques ou douteux.
-*   Il est l'examen de référence pour le diagnostic entre hernie discale et atteinte nerveuse.
-*   Il est facilement lisible.
-*   Il permet de démasquer certaines hernies réduites en position couchée et majorée en position debout.
+*   Il permet l'étude du liquide céphalorachidien nécessaire dans les tableaux atypiques ou douteux.  
+*   Il est l'examen de référence pour le diagnostic entre hernie discale et atteinte nerveuse.  
+*   Il est facilement lisible.  
+*   Il permet de démasquer certaines hernies réduites en position couchée et majorée en position debout.  
 *   Il donne une vue d'ensemble du cône terminal et de la moelle dorsale.
 
 Il ne doit être fait que si les conditions de technique et d'asepsie sont parfaites.
@@ -178,14 +181,15 @@ La durée est variable mais il est raisonnable de prévoir 8 à 10 jours dans un
 
 _Le traitement médicamenteux est très_ _important_
 
+
 ![](i791-4.jpg)
 
 
-*   _Les antalgiques,_ le paracétamol, seul ou associé à un morphinique faible (dextropropoxyfène ou codéïne) doit être largement employé (4 à 6 comprimés par jour).
-*   _Les anti-inflammatoires_ non stéroïdiens (AINS) peuvent être associés. La voie orale est préférable à la voie intramusculaire ou intraveineuse dont la supériorité n'a pas été démontrée. Tous les AINS paraissent se valoir. La surveillance et les précautions nécessaires sont les mêmes quel que soit le médicament prescrit (durée de traitement court - 5 à 7 jours - en respectant les contre-indications).
-*   _La corticothérapie_ par voie générale peut être proposée, s'il y a contre-indication aux AINS, on peut utiliser la prednisone à la dose de 0,5 mg/kg/jour pendant une période de 5 à 7 jours avec les précautions usuelles.
-*   _Les myorelaxants_ sont fréquemment associés aux précédents, thiocolchicoside (Coltramyl®, MioreI®). Les benzodiazépines, diazepam (Valium® Roche), tetrazepam (Myolastan®) ont une action décontracturante et anxiolytique sédative.
-*   _La vitaminothérapie_ est inutile à la phase aiguë.
+*   _Les antalgiques,_ le paracétamol, seul ou associé à un morphinique faible (dextropropoxyfène ou codéïne) doit être largement employé (4 à 6 comprimés par jour).  
+*   _Les anti-inflammatoires_ non stéroïdiens (AINS) peuvent être associés. La voie orale est préférable à la voie intramusculaire ou intraveineuse dont la supériorité n'a pas été démontrée. Tous les AINS paraissent se valoir. La surveillance et les précautions nécessaires sont les mêmes quel que soit le médicament prescrit (durée de traitement court - 5 à 7 jours - en respectant les contre-indications).  
+*   _La corticothérapie_ par voie générale peut être proposée, s'il y a contre-indication aux AINS, on peut utiliser la prednisone à la dose de 0,5 mg/kg/jour pendant une période de 5 à 7 jours avec les précautions usuelles.  
+*   _Les myorelaxants_ sont fréquemment associés aux précédents, thiocolchicoside (Coltramyl®, MioreI®). Les benzodiazépines, diazepam (Valium® Roche), tetrazepam (Myolastan®) ont une action décontracturante et anxiolytique sédative.  
+*   _La vitaminothérapie_ est inutile à la phase aiguë.  
 *   _La prévention de la constipation est indispensable._
 
 ### 2. La rééducation n'est pas justifiée  
@@ -207,6 +211,7 @@ L'indication d'un traitement radical chirurgical dépendra du résultat des exam
 *   la lombosciatique paralysante (déficit moteur important, territoire S1 et L5 (moins fréquente)), l'extension des troubles sensitifs et sphinctériens évoquant le syndrome de la queue de cheval. Les troubles précités peuvent persister même après une intervention.
 
 **En conclusion,** il s'agit d'un syndrome précis, dont le diagnostic reste clinique dans un premier temps, qui nécessite un traitement médical d'emblée mais qui peut être l'objet d'investigations plus importantes, conduisant à un acte chirurgical. L'entourage médical doit garder en mémoire, suivant les circonstances, les possibilités de sciatiques dites symptomatiques.
+
 
 ![](i791-5.jpg)
 

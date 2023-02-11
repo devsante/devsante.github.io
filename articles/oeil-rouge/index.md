@@ -10,11 +10,11 @@ date: "2002-02-17"
 
 Médecin, Programme National de Lutte contre la Cécité, Niamey, Niger.
 
-*   Un oeil rouge est un oeil qui " souffre ".
-*   C'est toujours une urgence.
+*   Un oeil rouge est un oeil qui " souffre ".  
+*   C'est toujours une urgence.  
 *   Un examen soigneux vous permettra de :
 *   *   garder le malade et de le traiter sur place, ou
-    *   de le référer au spécialiste.
+    *   de le référer au spécialiste.  
 *   Un traitement bien conduit et une surveillance régulière permettront au malade :
 
 *   de guérir,
@@ -52,22 +52,23 @@ b) L'examen sera méthodique et soigneux, après nettoyage des sécrétions, si 
 
 Ces règles vous permettront de reconnaître les critères de gravité :
 
-*   Les paupières ne se ferment pas totalement (lagophtalmie).
-*   Les cils frottent sur la cornée (trichiasis).
-*   La rougeur est limbique (cercle périkératique).
-*   La cornée est blanche.
+*   Les paupières ne se ferment pas totalement (lagophtalmie).  
+*   Les cils frottent sur la cornée (trichiasis).  
+*   La rougeur est limbique (cercle périkératique).  
+*   La cornée est blanche.  
 *   La pupille est blanche,
 
 - et/ou irrégulière,  
 - et/ou petite (myosis),  
-- et/ou élargie (mydriase).![](i952-1.jpg)
+- et/ou élargie (mydriase).  
+![](i952-1.jpg)
 
 
 **_Chez le petit enfant dont les paupières ne s'ouvrent pas spontanément, l'oeil est en danger_**
 
 Au terme de votre examen vous pourrez :
 
-*   Faire le diagnostic du siège de la lésion.
+*   Faire le diagnostic du siège de la lésion.  
 *   Traiter sur place
 
 - les atteintes de la conjonctive,  
@@ -95,6 +96,7 @@ C'est une tache de sang survenue spontanément, souvent remarquée par l'entoura
 
 Elles réalisent le tableau de l'oeil qui " coule ". La gêne est induite par le larmoiement et/ou les sécrétions, l'atteinte est souvent bilatérale.
 
+
 ![](i952-2.jpg)
   
 
@@ -112,6 +114,7 @@ L'examen peut être rendu difficile par l'oedème palpébral :
 
 **- retourner la paupière supérieure à la** **recherche** d'un corps étranger passé inaperçu, de follicules trachomateux.
 
+
 ![](i952-3.jpg)
 
 
@@ -125,6 +128,7 @@ L'examen peut être rendu difficile par l'oedème palpébral :
 - avec la main propre : de préférence sans instrument car la main pourra être relavée.
 
 *   **Traiter** avec un collyre ou une pommade antibiotique quatre fois par jour pendant huit jours.
+
 
 ![](i952-4.jpg)
 
@@ -173,16 +177,17 @@ Elle est redoutable car elle peut entraîner la perte des deux yeux en 24 heures
 
 *   **La douleur est majorée par la lumière** **et/ou le clignement des paupières** (le malade se présente souvent avec l'oeil fermé).
 
+
 ![](i952-5.jpg)
 
 
-*   Il faut examiner soigneusement l'oeil avec une lumière douce et latérale, en procédant avec douceur.
+*   Il faut examiner soigneusement l'oeil avec une lumière douce et latérale, en procédant avec douceur.  
 *   Vous voyez un **cercle périkératique** complet ou localisé :
 
 - la cornée a perdu sa transparence,  
 - la pupille est noire et ronde.
 
-*   Regarder les paupières : elles s'ouvrent et se ferment totalement.
+*   Regarder les paupières : elles s'ouvrent et se ferment totalement.  
 *   Retourner la paupière supérieure à la recherche :
 
 - d'un corps étranger sous palpébral, l'enlever doucement avec le doigt en le faisant glisser vers la marge ciliaire,  
@@ -191,6 +196,7 @@ Elle est redoutable car elle peut entraîner la perte des deux yeux en 24 heures
 **2. Conduite à tenir**
 
 *   Prescrire un antibiotique local (collyre ou pommade) quatre fois par jour.
+
 
 ![](i952-6.jpg)
 
@@ -207,6 +213,7 @@ Elle est redoutable car elle peut entraîner la perte des deux yeux en 24 heures
 - ou utiliser une compresse pliée en deux recouverte par une compresse carrée (6 cm de côté).
 
 *   **Comment placer le pansement sur l'oeil :**
+
 
 ![](i952-7.jpg)
 
@@ -230,6 +237,7 @@ Il s'agit d'une conjonctivite " allergique "
 *   la pommade auréomycine 1 % sera prescrite matin et so , ir pendant un mois,
 *   en l'absence d'amélioration ou en cas d'altération de la vision, il faudra référer le malade au spécialiste.
 
+
 ![](i952-8.jpg)
 
 
@@ -237,6 +245,7 @@ Il s'agit d'une conjonctivite " allergique "
 
 *   l'acuité visuelle diminue,
 *   le traitement par antibiotique est inefficace.
+
 
 ![](i952-9.jpg)
 
@@ -251,6 +260,7 @@ Il s'agit d'une conjonctivite " allergique "
 
 *   ne jamais mettre de pansement oculaire qui frottera directement sur la cornée,
 *   fabriquer une coque et la fixer.
+
 
 ![](i952-10.jpg)
 
@@ -282,6 +292,7 @@ Il s'agit d'une conjonctivite " allergique "
 
 **il s'agit d'une uvéite :** référer au spécialiste.
 
+
 ![](i952-11.jpg)
 
 
@@ -294,6 +305,7 @@ Il s'agit d'une conjonctivite " allergique "
 *   la cornée est trouble, la pupille peut être blanche,
 
 **il s'agit d'une hypertonie (glaucome** **aigu) :** référer le plus vite possible au spécialiste. Si vous avez du Diamox, donner 1 cp 3 fois par jour.
+
 
 ![](i952-12.jpg)
 
@@ -331,6 +343,7 @@ Mais rappelez-vous que :
 Les paupières sont le pansement idéal.
 
 **Jamais de pansement chez l'enfant sans** **avis du spécialiste.**  
+
 ![](i952-13.jpg)
 
 

@@ -40,6 +40,7 @@ La cessation progressive de la douleur permettra la pratique de mobilisations r�
 
 Elles seront pratiquées le patient allongé sur le dos, membres inférieurs fléchis, pieds reposant sur la table ; elles consisteront en des antéversions et des rétroversions du bassin, c'est-à-dire des bascules d'avant en arrière des deux os iliaques sur les têtes fémorales dont la résultante sera, dans le premier cas, une accentuation de la courbure lombaire et, dans le second cas, un comblement de l'espace entre la zone lombaire et la table _(schéma 1)._
 
+
 ![](i661-1.jpg)
 
 
@@ -48,6 +49,7 @@ Il sera également possible d'effectuer des petites translations de droite à ga
 En parallèle, toujours en position allongée sur le dos, un travail musculaire sera débuté, visant plus particulièrement les abdominaux et les paravertébraux, pour parvenir à une tonicité suffisante permettant d'obtenir un véritable , corset musculaire , capable de protéger le rachis lombaire. Le principe sera de travailler en plaçant la zone lombaire dans une position correcte, intermédiaire, c'est à dire plaquée contre la table, et de renforcer ainsi la musculature sans qu'il y ait mouvement, c'est-à-dire de façon statique, de manière à éviter tout geste pouvant être générateur de douleur.
 
 Afin de travailler les abdominaux et plus particulièrement les grands droits de l'abdomen, le patient sera placé les membres inférieurs fléchis, les pieds ne reposant pas sur la table, ses mains seront placées sur la face antérieure de ses genoux et il devra ainsi résister à la poussée ascendante de ceux-ci _(schéma 2)._
+
 
 ![](i661-2.jpg)
 
@@ -58,12 +60,14 @@ Le travail des paravertébraux lombaires pourra se faire par " diffusion " à pa
 
 En progression, le passage à quatre pattes sera envisagé en demandant au patient de creuser et de bomber alternativement l'ensemble de sa colonne vertébrale _(schéma 3)._
 
+
 ![](i661-3.jpg)
 
 
 Puis la position assise sera abordée ; la prise de conscience de la position correcte de la colonne lombaire, c'est à dire une position intermédiaire soulignant la lordose physiologique, sera poursuivie avec comme références la main et les indications du thérapeute. Une fois cette attitude maîtrisée, il sera possible de débuter, toujours de façon statique, le renforcement des groupes musculaires vus précédemment.
 
 Le patient conservant strictement cette position, tendra ses membres supérieurs devant lui en tenant un bâton (ou en joignant les mains), ainsi le thérapeute pourra effectuer des poussées d'une durée de six secondes (suivies d'un repos au moins équivalent) auxquelles le patient devra résister, de bas en haut afin de travailler les grands droits ou bien latéralement afin de cibler plus particulièrement les obliques, à chaque fois le thérapeute devra vérifier la position du rachis lombaire (schéma 4).
+
 
 ![](i661-4.jpg)
 
@@ -84,12 +88,14 @@ Le principe est tout simplement de protéger la zone lombaire au cours de tout g
 
 Des conseils d'hygiène de vie seront donnés au patient en ce qui concerne, tout d'abord, la façon de se lever, en se tournant au préalable sur un côté, puis en sortant les jambes du lit en poussant simultanément sur les membres supérieurs utilisant ainsi le principe du balancier permettant à la zone lombaire de ne pas s'infléchir _(schéma 6)._
 
+
 ![](i661-5.jpg)
 
 
 En ce qui concerne la manière de soulever une charge lourde, en pliant les membres inférieurs et en rapprochant l'objet le plus près possible du corps _(schéma 7)._
 
 Ou bien encore, en ce qui concerne la façon de planter ou de récolter, non pas en restant de longs moments penché en avant membres inférieurs tendus, mais en s'accroupissant ou en se mettant à genoux si ceux-ci le permettent _(schéma 8)._
+
 
 ![](i661-6.jpg)
 

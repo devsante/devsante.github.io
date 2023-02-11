@@ -65,6 +65,7 @@ Le tubercule frais contient de **l'acide cyanhydrique** (surtout dans la variét
 
 Produits locaux consommés surtout en Afrique.
 
+
 ![](i11-1.jpg)
 
 

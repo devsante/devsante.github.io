@@ -105,6 +105,7 @@ Le **diagnostic** est établi, dans un tel contexte, sur l’hyperéosinophilie 
 
 _**Larve de trichine (biopsie musculaire)**_
 
+
 ![](page-7-fig-8-larve-trichine.jpg)
 
 

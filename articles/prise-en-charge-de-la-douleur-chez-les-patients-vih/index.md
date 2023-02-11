@@ -65,6 +65,7 @@ Les médicaments antalgiques pour lutter contre la douleur sont différents. Ils
 
 _Exemple d'échelle utilisant les visages (échelle UPSA)_
 
+
 ![](i168-1.jpg)
 
 
@@ -98,7 +99,7 @@ Nausées, vomissements, constipation...
 
 **Morphine**
 
-*   **chlorhydrate de morphine** : prise toutes les 4 heures, début à 5 mg par prise et augmenter progressivement de 5 mg en 5 mg jusqu'à ce que le patient soit calmé.
+*   **chlorhydrate de morphine** : prise toutes les 4 heures, début à 5 mg par prise et augmenter progressivement de 5 mg en 5 mg jusqu'à ce que le patient soit calmé.  
 *   **sulfate de morphine :** prise toutes les 12 heures augmentation des doses progressives de 10 mg en 10 mg.
 
 **Surveillance infirmière :**

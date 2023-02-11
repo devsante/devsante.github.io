@@ -54,18 +54,18 @@ Pour répondre à ce besoin, une méthodologie, appelée "_Step by Step_ ", a é
 
 #### **Le _"Step by Step" :_ cinq objectifs**
 
-*   Favoriser la prise de conscience des problèmes liés au pied diabétique.
-*   Fournir une formation durable des profession­nels de santé sur la gestion du pied diabétique.
-*   Faciliter la cascade de l'information à d'autres professionnels de santé.
-*   Réduire, chez les diabétiques, les risques de complications siégeant sur les membres infé­rieurs.
+*   Favoriser la prise de conscience des problèmes liés au pied diabétique.  
+*   Fournir une formation durable des profession­nels de santé sur la gestion du pied diabétique.  
+*   Faciliter la cascade de l'information à d'autres professionnels de santé.  
+*   Réduire, chez les diabétiques, les risques de complications siégeant sur les membres infé­rieurs.  
 *   Inciter ces patients à prendre soin de leurs pieds.
 
 #### **Le "_Step by Step_" : mise en place suivant cinq étapes**
 
-*   - Développement du matériel d'éducation spécifique sur les soins des pieds conçu pour les diabétiques des pays en développement.
-*   Développement du matériel d'éducation spéci­fique sur les soins des pieds conçu pour les médecins, infirmiers et autres paramédicaux tra­vaillant avec des personnes atteintes de diabète dans les pays en développement.
-*   Formation des équipes sur la prévention et la prise en charge du pied diabétique.
-*   Attribution des kits de diagnostic et de soins des pieds.
+*   - Développement du matériel d'éducation spécifique sur les soins des pieds conçu pour les diabétiques des pays en développement.  
+*   Développement du matériel d'éducation spéci­fique sur les soins des pieds conçu pour les médecins, infirmiers et autres paramédicaux tra­vaillant avec des personnes atteintes de diabète dans les pays en développement.  
+*   Formation des équipes sur la prévention et la prise en charge du pied diabétique.  
+*   Attribution des kits de diagnostic et de soins des pieds.  
 *   Mise ne place des consultations pieds.
 
 Cette méthodologie, très simple à mettre en œuvre, a déjà montré des résultats réellement impressionnants en Tanzanie.
@@ -77,9 +77,9 @@ Pour remplir les différents objectifs de cette méthodologie, l'ONG Santé Diab
 #### **_Etape 1 : Elaboration de matériel pédago­gique et éducatif spécifique pour la préven­tion et la prise en charge du pied diabétique_**
 
 *   Un kit d'outils pédagogiques et éducatifs a été traduit et adapté à partir des versions réalisées pendant le projet _Step by Step_ ". Ce kit contient :
-*   Un film pédagogique de 15 minutes, destiné aux professionnels de santé, et qui permet d'appuyer l'enseignement sur la prévention et la prise en charge du pied diabétique.
-*   Un dessin animé de 9 minutes, _Mr Feet Foot'_; des­ tiné aux patients diabétiques, et qui sensibilise sur les attitudes de prévention et les soins du pied.
-*   Un poster pour l'éducation des patients.
+*   Un film pédagogique de 15 minutes, destiné aux professionnels de santé, et qui permet d'appuyer l'enseignement sur la prévention et la prise en charge du pied diabétique.  
+*   Un dessin animé de 9 minutes, _Mr Feet Foot'_; des­ tiné aux patients diabétiques, et qui sensibilise sur les attitudes de prévention et les soins du pied.  
+*   Un poster pour l'éducation des patients.  
 *   Deux livrets de 20 pages, destinés à l'éducation des personnes atteintes de diabète, expliquant de manière détaillée les attitudes de prévention et les soins du pied.
 
 _**Etape 2 : Elaboration d'un module de formation pour la prévention et la prise en charge du pied diabétique**_
@@ -98,7 +98,7 @@ Les thèmes abordés dans le module sont les sui­vants :
 
 Le module fait référence à plusieurs sources :
 
-*   Université du Texas et Consensus International sur le Pied (Bruxelles, 2003) pour la classification de l'infection.
+*   Université du Texas et Consensus International sur le Pied (Bruxelles, 2003) pour la classification de l'infection.  
 *   ALFEDIAM (Association de Langue Française pour l'Etude du Diabète et des Maladies Métabo­liques), pour la classification internationale du risque podologique en cas de plaie chez le dia­bétique.
 
 Ce module a été finalisé puis validé par le groupe de travail national qui élabore les formations au Mali. Cette validation permet d'avoir un consensus national sur le contenu et l'utilisation de ce docu­ment.

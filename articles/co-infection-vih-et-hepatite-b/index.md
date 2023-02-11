@@ -129,6 +129,7 @@ Une biopsie hépatique ainsi que les scores non invasifs de fibrose (Fibromètre
 
 **Tableau 2 : manifestations cliniques de l'infection VIH et du SIDA. Indications de traitement de la co-infection VIH-hépatite B (algorithme adapté des recommandations de l'EACS, novembre 2009).**
 
+
 ![](page-42-vih-hb-tb-2-bat.jpg)
 
 
@@ -155,6 +156,7 @@ _Les personnes présentant une co-infection VIH/VHB, qui doivent être traitées
 Notion importante : toujours maintenir 2 ARV actifs contre le VHB.
 
 **Tableau 3 : algorithme d'utilisation des molécules dans le traitement de la co-infection VIH-VHB (algorithme adapté des recommandations de l'EACS, novembre 2009).**
+
 
 ![](page-43-vih-hb-tb-3-bat.jpg)
 

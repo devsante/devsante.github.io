@@ -22,7 +22,9 @@ Devant un malade venu vous consulter pour une douleur lombaire, plusieurs probl�
 
 **Schéma 1 : rappel anatomique** _(d'après : Sémiologie Chirurgicale de Poilleux)_
 
+
 ![](image002.jpg)
+
 
 
 ![](image001-0.jpg)
@@ -30,7 +32,9 @@ Devant un malade venu vous consulter pour une douleur lombaire, plusieurs probl�
 
 **Schéma 2 : physiopathologie de la colique néphrétique**
 
+
 ![](image004-3.jpg)
+
 
 
 ![](image004.jpg)
@@ -61,6 +65,7 @@ Elle est intense, le malade porte la main dans le dos vers le côté atteint, re
 
 **Schéma 3 : projection schématique de la douleur  
 le long des voies excrétrices au cours de la crise de colique néphrétique**
+
 
 ![](image005.jpg)
 
@@ -184,7 +189,9 @@ Cette UIV n'est pas effectuée systématiquement puisque l'échographie suffit l
 
 **Schéma 4 : images évoquant un calcul par son siège sur un cliché sans préparation**
 
+
 ![](image008.jpg)
+
 
 
 ![](image008.jpg)
@@ -200,7 +207,7 @@ Une cystoscopie pratiquée une dizaine de minutes **après injection intraveineu
 
 ### 6. Un examen biologique
 
-*   Examen cyto-bactériologique des urines (ECBU) à la recherche d'une infection sur­ajoutée qui peut être très grave sur un rein en rétention.
+*   Examen cyto-bactériologique des urines (ECBU) à la recherche d'une infection sur­ajoutée qui peut être très grave sur un rein en rétention.  
 *   Si l'hôpital est bien équipé, le bilan phos­phocalcique et, l'analyse chimique d'un cal­cul, pourront permettre de retrouver cer­taines étiologies rares. Ainsi, c'est le plus souvent grâce à l'UIV que l'on retrouvera la cause de la colique néphrétique.
 
 <table>
@@ -251,10 +258,10 @@ Parfois, aucune cause n'est retrouvée, il s'agit alors le plus souvent d'un pet
 
 ## VI. Conclusion
 
-*   Soulager le malade.
-*   Tamiser les urines.
-*   Déceler une complication.
-*   Adresser le malade à l'hôpital pour retrouver l'étiologie.
+*   Soulager le malade.  
+*   Tamiser les urines.  
+*   Déceler une complication.  
+*   Adresser le malade à l'hôpital pour retrouver l'étiologie.  
 *   La colique néphrétique est une urgence théra­peutique. Il est essentiel de la reconnaître pour ne pas la confondre avec une autre urgence chirurgicale.
 
 **Lexique**

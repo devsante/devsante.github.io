@@ -12,8 +12,8 @@ Nous savons aussi que la fréquentation d'un centre de santé varie dans l'anné
 Si vous avez dans vos archives vos consom­mations de plusieurs années, vous pouvez calculer votre consommation mensuelle pour chacun des 24 ou 36 mois passés (2 ou 3 ans) et évaluer l'évolution des consommations mensuelles de chaque produit.  
 Sur une feuille de papier, tracez cinq colonnes (si vous disposez de deux années).
 
-*   Dans la pre­mière colonne, écrivez CMM sur la première ligne, et au-dessous, écrivez les douze mois de l'année.
-*   Dans la colonne suivante, écrivez "Consommation mensuelle" d'il y a deux ans pour le produit en question et dans les cases la consommation pour le mois correspondant (C) de l'année.
+*   Dans la pre­mière colonne, écrivez CMM sur la première ligne, et au-dessous, écrivez les douze mois de l'année.  
+*   Dans la colonne suivante, écrivez "Consommation mensuelle" d'il y a deux ans pour le produit en question et dans les cases la consommation pour le mois correspondant (C) de l'année.  
 *   Dans la 3ème colonne, la différence entre la consommation C et la CMM : C - CMM.
 
 On voit bien que, pour certains mois, la consommation va être plus petite que la CMM , alors que pour d'autres mois la consommation pourra être plus forte que la CMM. Il est probable que d'une année sur l'autre, les mêmes mois vont se ressem­bler.

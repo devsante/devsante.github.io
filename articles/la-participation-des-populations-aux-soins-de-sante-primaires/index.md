@@ -170,11 +170,11 @@ Comment définir la qualité des soins ? Il est difficile de donner une définit
 
 Dans notre cas, les éléments retenus pour définir la qualité des soins dans les centres de santé étaient les suivants :
 
-*   Approvisionnement régulier en médicaments essentiels.
-*   Fonctionnement régulier des structures sanitaires (ouverture, service de garde...).
-*   Accessibilité au plus grand nombre.
-*   Respect de l'utilisation et de la posologie des différents médicaments.
-*   Respect des mesures de stérilisation pour les différents actes.
+*   Approvisionnement régulier en médicaments essentiels.  
+*   Fonctionnement régulier des structures sanitaires (ouverture, service de garde...).  
+*   Accessibilité au plus grand nombre.  
+*   Respect de l'utilisation et de la posologie des différents médicaments.  
+*   Respect des mesures de stérilisation pour les différents actes.  
 *   Réalisation de toutes les activités du paquet minimum, dont :
 
 - les vaccinations, y compris en stratégie avancée,
@@ -308,6 +308,7 @@ Dans les cinq villes, le fonctionnement des centres de santé est complètement 
 Un meilleur contact doit être créé entre les comités et le personnel de la santé. Actuellement, les réunions se concentrent trop sur l'aspect purement financier.
 
 Durant l'année à venir, plusieurs enquêtes vont être menées pour avoir une meilleure idée de la perception des services de santé par la population.
+
 
 ![](i643-1.jpg)
 

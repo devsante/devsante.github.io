@@ -42,16 +42,16 @@ L’organisation est basée théoriquement sur trois niveaux, le niveau 1 releva
 
 ### Les locaux
 
-*   Ils sont généralement spacieux et propres, mais anciens et méritant le plus souvent d’être rénovés.
+*   Ils sont généralement spacieux et propres, mais anciens et méritant le plus souvent d’être rénovés.  
 *   Il n’y a le plus souvent pas de bloc permettant de réaliser une césarienne, ce qui génère des transferts en urgence
-*   Il n’y a pas de structure de niveau 2 permettant d’accueillir des bébés nécessitant une hospitalisation et ne relevant pas d’un niveau 3, ce qui encombre les services du CHU.
-*   Il manque de points d’eau accessibles permettant de se laver les mains.
+*   Il n’y a pas de structure de niveau 2 permettant d’accueillir des bébés nécessitant une hospitalisation et ne relevant pas d’un niveau 3, ce qui encombre les services du CHU.  
+*   Il manque de points d’eau accessibles permettant de se laver les mains.  
 *   Il manque même parfois le minimum hôtelier (lits, matelas...).
 
 ### Le personnel
 
-*   Les  sages-femmes fonctionnent en gardes de 24 heures et assurent la responsabilité des urgences maternelles et néonatales et les décisions de transfert.
-*   Les pédiatres sont peu ou pas présents en salle de naissance, voire complètement absents de la maternité.
+*   Les  sages-femmes fonctionnent en gardes de 24 heures et assurent la responsabilité des urgences maternelles et néonatales et les décisions de transfert.  
+*   Les pédiatres sont peu ou pas présents en salle de naissance, voire complètement absents de la maternité.  
 *   Les obstétriciens sont présents sur place la journée et joignables au téléphone la nuit.
 
 ### Le matériel
@@ -70,20 +70,20 @@ Non pris en charge financièrement, ils sont réalisés le plus souvent en taxi 
 
 A la fin des deux semaines, nous avons pu faire quelques propositions d’amélioration :
 
-*   Optimiser les locaux et les équiper de points d’eau accessibles et fonctionnels.
-*   Poursuivre les formations entreprises et valoriser le transfert de compétences aux sages-femmes.
-*   Equiper les salles de naissance du minimum de matériel d’urgence nécessaire.
-*   Inciter les pédiatres à “investir” le travail en maternité.
-*   Créer un vrai réseau périnatal avec une communication entre établissements permettant une meilleure orientation des patients, si possible en antenatal.
-*   Travailler à la collaboration obstétrico-pédiatrique.
+*   Optimiser les locaux et les équiper de points d’eau accessibles et fonctionnels.  
+*   Poursuivre les formations entreprises et valoriser le transfert de compétences aux sages-femmes.  
+*   Equiper les salles de naissance du minimum de matériel d’urgence nécessaire.  
+*   Inciter les pédiatres à “investir” le travail en maternité.  
+*   Créer un vrai réseau périnatal avec une communication entre établissements permettant une meilleure orientation des patients, si possible en antenatal.  
+*   Travailler à la collaboration obstétrico-pédiatrique.  
 *   Améliorer les conditions de transfert avec mise en condition initiale et surveillance pendant le transport.
 
 ## En conclusion
 
 Quelle que soit la région dans le monde (notre expérience était jusque là limitée à la France et à la Moldavie), nous retrouvons les mêmes principes simples et des actions à mener, pas nécessairement très coûteuses, qui permettent d’améliorer rapidement le pronostic des nouveau-nés à la naissance :  
 
-1.  Un bon dialogue entre obstétriciens et pédiatres permettant une anticipation des situations à risque et des accouchements dans un centre de niveau adapté.
-2.  Un réseau organisé autour d’un centre de niveau 3 bien équipé (c’est le point le plus coûteux) pour les bébés nécessitant réanimation et/ou soins intensifs, de centres de niveau 2 permettant de soigner des bébés moins malades (infections, ictères, prématurité modérée), et de maternités de proximité pour grossesses et accouchements physiologiques (la grande majorité des grossesses et accouchements), avec une bonne communication entre les établissements du réseau et une bonne organisation des transferts antenataux (de préférence) ou post-nataux.
+1.  Un bon dialogue entre obstétriciens et pédiatres permettant une anticipation des situations à risque et des accouchements dans un centre de niveau adapté.  
+2.  Un réseau organisé autour d’un centre de niveau 3 bien équipé (c’est le point le plus coûteux) pour les bébés nécessitant réanimation et/ou soins intensifs, de centres de niveau 2 permettant de soigner des bébés moins malades (infections, ictères, prématurité modérée), et de maternités de proximité pour grossesses et accouchements physiologiques (la grande majorité des grossesses et accouchements), avec une bonne communication entre les établissements du réseau et une bonne organisation des transferts antenataux (de préférence) ou post-nataux.  
 3.  Une bonne formation des professionnels de première ligne (sages-femmes le plus souvent) à l’accueil et à la réanimation du nouveau-né à la naissance, réanimation reposant essentiellement sur l’évaluation et la ventilation (avec ou plus souvent sans oxygène). Cette formation doit être régulièrement renouvelée.
 
 (1) Prise en charge du nouveau-né dans le secteur sanitaire public d’Abidjan Sud: défis et perspectives. Oulai S, Cissé L, Ouattara GJ, Niangué-Beugré NM, Koné L, Andoh J. Afrique Biomédicale 2010, Vol 15, n°4, 104-112

@@ -23,12 +23,14 @@ Il en existe cinq espèces différentes, dont les 3 premières en Afrique, avec
 
 **Figure 1 : répartition géographique des bilharzioses**
 
+
 ![](page-15-fig-1.jpg)
 
 
 Le cycle passe par des mollusques spécifiques. Le malade  élimine  des œufs par ses excréta (selles ou urines selon le cas) (figure 2).
 
 **Figure 2 : cycle général des bilharzioses**
+
 
 ![](page-15-fig-2.jpg)
 
@@ -37,12 +39,14 @@ Ces œufs contiennent des embryons ciliés ou _miracidiums_. Dans  l'eau douc
 
 **Figure 3 : cycle de la bilharziose intestinale**
 
+
 ![](page-16-fig-3.jpg)
 
 
 De ces mollusques, vont sortir des furcocercaires (de 500 microns de long) (figure 4) qui vont nager dans l'eau à la rencontre de l'hôte définitif (homme ou animal).
 
 **Figure 4 : furcocercaires de schistosomes**
+
 
 ![](page-16-fig-4.jpg)
 
@@ -51,6 +55,7 @@ L’homme s’infeste lors de bains en eau douce (figure 5). Chez l'hôte défin
 Au cours de cette migration, les larves muent et deviennent adultes dans le foie. Après l'accouplement, les vers adultes migrent dans leur territoire d'élection : vaisseaux de l'intestin pour S.m., S.i., S.j., S.mk et vaisseaux de la vessie pour S.h. Les œufs sont alors pondus et éliminés par les selles ou les urines.
 
 **Figure 5 : mode de contamination**
+
 
 ![](page-16-fig-5.jpg)
 
@@ -67,6 +72,7 @@ A la période d'état, les symptômes sont différents selon l'espèce en cause
 
 **Figure 6 : oeuf de _Schistosoma haematobium_ dans une urine hématurique**
 
+
 ![](page-17-fig-6-s-haematobium-a-corriger.jpg)
 
 
@@ -78,6 +84,7 @@ Des complications sont possibles, dues aux “granulomes bilharziens” formés
 
 **Figure 7 : granulomes bilharziens dans un foie**
 
+
 ![](page-17-fig-7-gran-bilharziens.jpg)
 
 
@@ -86,16 +93,16 @@ L'atteinte des organes génitaux est fréquente : induration de la prostate (éj
 "Toute hématurie chez un africain doit faire évo quer une bilharziose urinaire".  
 Le diagnostic direct de bilharziose est établi par l’examen parasitologique des selles et des urines, dans lesquels on identifie facilement les oeufs. Pour les urines, il est utile de faire sautiller le malade avant la miction.
 
-*   Dans les selles, _Schistosoma mansoni_ : œuf ovale (110 x 60 microns), éperon latéral.
-*   _Schistosoma intercalatum_ : œuf ovale (200 x 70 microns), éperon terminal important et recourbé.
-*   _Schistosoma japonicum_ et _S. mekongi_ : œuf arrondi (70 x 50 microns), éperon très court.
-*   Dans les urines, _Schistosoma haematobium_ : œuf ovale (150 x 60 microns), éperon terminal.
+*   Dans les selles, _Schistosoma mansoni_ : œuf ovale (110 x 60 microns), éperon latéral.  
+*   _Schistosoma intercalatum_ : œuf ovale (200 x 70 microns), éperon terminal important et recourbé.  
+*   _Schistosoma japonicum_ et _S. mekongi_ : œuf arrondi (70 x 50 microns), éperon très court.  
+*   Dans les urines, _Schistosoma haematobium_ : œuf ovale (150 x 60 microns), éperon terminal.  
 *   La biopsie rectale permet de retrouver les 4 espèces.
 
 Le diagnostic indirect comprend l’hyperéosinophilie et  la  positivité  du  sérodiagnostic : électrosynérèse, hémagglutination, immunofluorescence, ELISA.  
 Pour évaluer les conséquences de la maladie il est important de pratiquer les examens suivants :
 
-*   **Bilharziose urinaire** : bilan rénal, urée, créatinine, examen cytobactériologique des  urines, hématies-leucocytes-minute, échographie abdominale, urographie  intrveineuse (au maximum : "vessie porcelaine"). La cystoscopie doit être réservée au bilan pré-opératoire.
+*   **Bilharziose urinaire** : bilan rénal, urée, créatinine, examen cytobactériologique des  urines, hématies-leucocytes-minute, échographie abdominale, urographie  intrveineuse (au maximum : "vessie porcelaine"). La cystoscopie doit être réservée au bilan pré-opératoire.  
 *   **Bilharziose intestinale** : échographie abdominale.
 
 ### 4. Traitement
@@ -292,12 +299,14 @@ Le parasite, _Fasciola hepatica_, est un ver de 3 cm, hermaphrodite, ovipare (F
 
 **Figure 8 : douve adulte**
 
+
 ![](page-19-fig-8.jpg)
          
 
 Il atteint fréquemment les ovins et les bovins et accidentellement l'homme. Le var adulte vit dans les voies biliaires de l'animal (hôte définitif ) et émet des œufs qui sont éliminés avec les  fécès.  De l'œuf operculé s'échappe, en milieu aquatique, un embryon cilié ou miracidium, qui nage dans l'eau jusqu' à un mollusque d'eau douce :  la limnée (premier hôte intermédiaire). Après modifications et maturation, il en sort des cercaires ( figure 9) qui vont s'enkyster sur un    support végétal  (deuxième hôte intermédiaire) sous forme de métacercaire.
 
 **Figure 9 : cercaires de douve**
+
 
 ![](page-19-fig-9.jpg)
 
@@ -306,6 +315,7 @@ L'hôte définitif se contamine en consommant le végétal aquatique (cresson, 
 
 **Figure 10 : cycle de la grande douve**
 
+
 ![](page-19-fig-10.jpg)
 
 
@@ -313,12 +323,14 @@ Dans l'estomac, l'enveloppe de la métacercaire est lysée par les ferments gas
 
 **Figure 11 : coupe de douves dans un foie**
 
+
 ![](diapo-dansans-un-foie.jpg)
 
 
 Elle s'y fixe, devient adulte et émet des œufs qui apparaîtront dans les selles, 3 mois après la contamination. Les  téguments de la douve étant pourvus d’aspérités (figure 12), irritent la paroi des voies biliaires qui réagit par une prolifération exubérante et  formations d’adénomes. La pathogénicité des douves est donc multifactorielle (spoliatrice,  mécanique, inflammatoire et toxique.
 
 **Figure 12 : téguments externes d'une douve**
+
 
 ![](page-20-fig-12.jpg)
 
@@ -333,6 +345,7 @@ La maladie évolue en deux phases, séparées par une accalmie relative :
 dus au passage des parasites**
 
 **​**  
+
 ![](page-20-fig-13-douves.jpg)
   
 
@@ -370,6 +383,7 @@ A la phase d'état, le traitement est encore le  triclabendazole.  Mais bien 
 
 **Figure 14 : œufs de grandes et petites douves**
 
+
 ![](page-21-fig-14.jpg)
 
 
@@ -389,8 +403,8 @@ A la phase d'état, le traitement est encore le  triclabendazole.  Mais bien 
 
 #### b. Distomatoses intestinales
 
-*   _**Fasciolopsis buski** _(Asie), transmise par la "châtaigne d'eau" (Trapa natans) atteint l'homme et le porc.
-*   _**Metagonimus  yokogawaï**_  (Asie),  transmise  par  les poissons d'eau  douce, atteint  l'homme, le chien, le chat, le rat...
+*   _**Fasciolopsis buski** _(Asie), transmise par la "châtaigne d'eau" (Trapa natans) atteint l'homme et le porc.  
+*   _**Metagonimus  yokogawaï**_  (Asie),  transmise  par  les poissons d'eau  douce, atteint  l'homme, le chien, le chat, le rat...  
 *   _**Heterophyes heterophyes** _: Sa répartition est très éten-  
     due  (Asie,  Egypte).  Il  s'enkyste sur les poissons des estuaires (Mugil). En Egypte, il est transmis par le "fessikh" (mulet mariné).
 
@@ -401,7 +415,7 @@ antihelmintiques classiques (dont le niclosamide).
 
 Elles sont dues à des Paragonimus et sévissent surtout en Asie, un peu en Amérique (Nord et Sud), et sont mal connues en Afrique.
 
-*   les hôtes définitifs sont nombreux : homme, chien, chat, porc, tigre, panthère, loup, loutre, rat...
+*   les hôtes définitifs sont nombreux : homme, chien, chat, porc, tigre, panthère, loup, loutre, rat...  
 *   l’hôte intermédiaire est un  mollusque (Melania),
 *   l’hôte d'enkystement est un crustacé d'eau douce (crabe ou écrevisse),
 *   les symptômes sont pulmonaires (toux, expectoration, hémoptysie),  les  parasites étant localisés au niveau des poumons ( figure 15).
@@ -410,6 +424,7 @@ Les  œufs  sont  recherchés  dans  l'expectoration.  Ils sont souvent r�
 
 **Figure 15 : coupe de _Paragonimus_ dans un poumon**
 
+
 ![](page-22-fig-15.jpg)
 
 
@@ -417,9 +432,9 @@ Les  œufs  sont  recherchés  dans  l'expectoration.  Ils sont souvent r�
 
 Cette prophylaxie commence par la connaissance précise du cycle de chaque douve. Le cycle connu, on essaye de l'interrompre :
 
-1.  Contre la dissémination des œufs : dans la nature on peut difficilement lutter : une grande partie du bétail est parasitée et entraîne la perpétuation du cycle. L'homme joue un rôle négligeable dans ce cycle.
-2.  Contre les hôtes intermédiaires : la lutte contre les mollusques se heurte à de grandes difficultés, les problèmes écologiques posés sont très complexes. On peut essayer le désherbage, la mise à sec, (mais les mollusques s'enfoncent dans la  terre pour attendre le retour de l'humidité),  et les poissons molluscophages.
-3.  Contre les hôtes d'enkystement des métacercaires, qu'il s'agisse de végétaux ou d'animaux : cette destruction  est  irréalisable  puisqu'il  s'agit  d'aliments souvent indispensables aux populations locales.
+1.  Contre la dissémination des œufs : dans la nature on peut difficilement lutter : une grande partie du bétail est parasitée et entraîne la perpétuation du cycle. L'homme joue un rôle négligeable dans ce cycle.  
+2.  Contre les hôtes intermédiaires : la lutte contre les mollusques se heurte à de grandes difficultés, les problèmes écologiques posés sont très complexes. On peut essayer le désherbage, la mise à sec, (mais les mollusques s'enfoncent dans la  terre pour attendre le retour de l'humidité),  et les poissons molluscophages.  
+3.  Contre les hôtes d'enkystement des métacercaires, qu'il s'agisse de végétaux ou d'animaux : cette destruction  est  irréalisable  puisqu'il  s'agit  d'aliments souvent indispensables aux populations locales.  
 4.  Les mesures les plus efficaces en principe seraient d'empêcher la consommation de ces hôtes crus ou mal cuits. Mais il s'agit généralement de pratiques ancestrales qu'il est difficile de modifier.
 
 _Développement et Santé, N° 185, 2007_

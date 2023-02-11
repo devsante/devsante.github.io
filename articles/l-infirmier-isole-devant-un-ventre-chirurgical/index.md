@@ -15,11 +15,11 @@ Un « ventre chirurgical », est un état pathologique _aigu et généralisé_
 
 Les causes sont nombreuses, mais on peut les regrouper en trois principales :
 
-*   _Les péritonites aiguës _: présence de liquide plus ou moins infecté dans la cavité péritonéale provenant de l’infection aiguë d’un organe (comme une appendicite ou un abcès du foie) ou de la perforation du tube digestif (comme un ulcère de l’estomac ou du duodénum, ou une perforation typhique de l’intestin).
+*   _Les péritonites aiguës _: présence de liquide plus ou moins infecté dans la cavité péritonéale provenant de l’infection aiguë d’un organe (comme une appendicite ou un abcès du foie) ou de la perforation du tube digestif (comme un ulcère de l’estomac ou du duodénum, ou une perforation typhique de l’intestin).  
 *   _Les occlusions intestinales _: les gaz et les matières ne peuvent plus s’évacuer parce que l’intestin est :
     *   soit bouché par une tumeur, un corps étranger avalé ou le développement de parasites (occlusion par obstruction) ;
-    *   soit tordu sur lui-même (par exemple le volvulus d’un côlon trop long) ou étranglé (par exemple dans une hernie ou au contact d’une bride, sorte de ficelle cicatricielle tendue d’un point de l’abdomen à un autre).
-    *   **NB** :  Il faut savoir qu’une occlusion négligée peut finir par se compliquer  d’une péritonite par perforation de l’intestin distendu, et qu’une péritonite négligée peut finir par se compliquer d’une occlusion par paralysie de l’intestin.
+    *   soit tordu sur lui-même (par exemple le volvulus d’un côlon trop long) ou étranglé (par exemple dans une hernie ou au contact d’une bride, sorte de ficelle cicatricielle tendue d’un point de l’abdomen à un autre).  
+    *   **NB** :  Il faut savoir qu’une occlusion négligée peut finir par se compliquer  d’une péritonite par perforation de l’intestin distendu, et qu’une péritonite négligée peut finir par se compliquer d’une occlusion par paralysie de l’intestin.  
 *   _Les hémorragies internes _: à distinguer des hémorragies externes qui s’extériorisent par la bouche ou l’anus. Exemples : la grossesse extra-utérine (GEU) rompue et tous les traumatismes (avec ou sans plaie de la paroi) pouvant intéresser des vaisseaux ou des  organes très vascularisés comme le foie ou la rate.
 
 ## III. A l'arrivée du malade
@@ -47,12 +47,13 @@ C’est avant tout lui qui va vous permettre de prendre une décision.
 *   le malade est allongé sur le dos, un coussin sous la tête, la bouche légèrement ouverte,  les deux bras le long du corps, les jambes  légèrement repliées (Fig. 1) ;
 *   vous vous mettez à la droite du malade, à gauche si vous êtes  gaucher, vos coudes à hauteur du ventre (soyez debout ou assis selon la hauteur du lit ou de la table d’examen). 
 
+
 ![](palpationabd.jpg)
 
 
 #### Commencez par inspecter l'abdomen en notant :
 
-*   Son volume : normal ou augmenté par apport au volume habituel ? S’il est augmenté, le percuter au doigt : s’il est très sonore (comme le thorax) c’est qu’il contient de l’air, on parle de _météorisme_, évoquant une occlusion. S’il est mat (comme la cuisse) on évoque une ascite ou une grosse masse (kyste, foie ou rate).
+*   Son volume : normal ou augmenté par apport au volume habituel ? S’il est augmenté, le percuter au doigt : s’il est très sonore (comme le thorax) c’est qu’il contient de l’air, on parle de _météorisme_, évoquant une occlusion. S’il est mat (comme la cuisse) on évoque une ascite ou une grosse masse (kyste, foie ou rate).  
 *   Respire-t-il ou non ? c’est-à-dire se soulève-t-il et se creuse-t-il avec la respiration? S’il est immobile, c’est peut-être à cause d’une contracture (voir plus loin).
 
 #### **Vous pouvez alors commencer la palpation,** temps le plus important de l’examen :

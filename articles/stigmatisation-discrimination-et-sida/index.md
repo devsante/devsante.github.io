@@ -61,7 +61,7 @@ L'analyse des causes montre qu'elles sont liées à des conditions socio-économ
 *   Retrait de la garde des enfants
 *   Expulsion du domicile familial
 *   Privation de moyens de subsistance
-*   Séquestration au domicile etc..
+*   Séquestration au domicile etc..  
 *   Abandon de soins et de secours
 
 ### "Systèmes de santé"

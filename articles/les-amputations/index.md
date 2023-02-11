@@ -46,6 +46,7 @@ _(figure 1)_ est réalisée plus ou moins postérieure, au plus à la base des m
 
 *   **L'amputation de cuisse,** elle aussi, doit être réalisée la plus distale possible.
 
+
 ![](i634-1.jpg)
 
 
@@ -108,6 +109,7 @@ La rééducation précoce est essentielle pour lutter contre les rétractions (m
 ### **4. Aspects techniques:** **l'amputation de jambe** _(figure 2)_
 
 La désarticulation médiotarsienne de Chopart et la désarticulation tibiotarsienne de Syme, qui nécessitent une bonne vascularisation de la plante du pied ou de la coque talonnière, sont surtout réalisées en dehors de tout contexte vasculaire et leurs indications doivent être bien réfléchies. Le plus souvent, l'alternative à l'amputation transmétatarsienne est l'amputation de jambe.
+
 
 ![](i634-2.jpg)
 

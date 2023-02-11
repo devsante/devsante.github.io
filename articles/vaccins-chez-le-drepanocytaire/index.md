@@ -11,9 +11,9 @@ teaser: "Plus que chez l’enfant sain, les vaccins ont une importance capitale 
 
 Il constitue une véritable révolution dans la prévention des infections à pneumocoque chez le drépanocytaire. Il contient les 13 sérotypes les plus dangereux. Par rapport au premier vaccin (Pneumo 23), il présente 4 avantages importants :
 
-*   Il protège dès les premières semaines de la vie.
-*   Le taux des anticorps protecteurs induits est plus élevé.
-*   Il fait pratiquement disparaître le portage pharyngé du pneumocoque, ce qui protège indirectement l’entourage.
+*   Il protège dès les premières semaines de la vie.  
+*   Le taux des anticorps protecteurs induits est plus élevé.  
+*   Il fait pratiquement disparaître le portage pharyngé du pneumocoque, ce qui protège indirectement l’entourage.  
 *   Enfin, après avoir reçu 3 doses avant l’âge de un an, la protection induite dure plusieurs années, en particulier si l’on administre une injection de Pneumo 23 à la fin de la 2ème année.
 
 En résumé, les recommandations sont : 3 doses, à 2 mois, 4 mois et 9 mois, complétées par une injection de Pneumo 23 à 24 mois.

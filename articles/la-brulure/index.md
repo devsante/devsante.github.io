@@ -12,6 +12,7 @@ date: "1998-04-26"
 
 ** Infirmière anesthésiste, SAMU, Hôpital Avicenne, Bobigny.
 
+
 ![](i780-1.jpg)
 
 
@@ -26,6 +27,7 @@ Elle est causée par :
 * Instructeur de secourisme, SMUR de Saint-Denis.
 
 ** Infirmière anesthésiste, SAMU, Hôpital Avicenne, Bobigny.
+
 
 ![](i780-1.jpg)
 
@@ -62,7 +64,9 @@ Si l'étendue est importante, il faudra craindre l'installation d'une détresse 
 
 - en outre, les brûlures d'origine chimique ou d'origine électrique doivent toujours être considérées comme des brûlures graves _(tableaux n° 1 et 2)._
 
+
 ![](i780-2.jpg)
+
 ![](i780-3.jpg)
 
 
@@ -128,6 +132,7 @@ Autant que possible, il conviendra que la victime soit en **appui sur les paille
 
 L'arrosage terminé, on **séchera** la victime au moyen de draps stériles, **par tamponnements et non par friction.** Les zones brûlées seront protégées par emballage stérile, la victime sera couverte (couverture isotherme) et oxygénée. On complétera le bilan et la victime sera surveillée jusqu'à l'arrivée du médecin.
 
+
 ![](i780-4.jpg)
 
 
@@ -175,6 +180,7 @@ En ce qui concerne _les narines, les yeux, les_ _lèvres, les organes génitaux_
 en le roulant par terre et en étouffant les flammes avec une couverture ou un vêtement.
 
 En _règle générale_ : l'arrosage précoce des brûlures ne doit pas retarder la mise en oeuvre des autres gestes d'urgence : maintenir les fonctions vitales (schéma).
+
 
 ![](i784-5.jpg)
 

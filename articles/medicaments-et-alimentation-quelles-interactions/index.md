@@ -49,8 +49,8 @@ Elles dépendent de différents facteurs liés au médicament, au patient lui-m�
 
 *   Les propriétés physicochimiques des médicaments : solubilité, capacité à traverser les membranes digestives…
 *   Les interactions physicochimiques de l’alimentation avec les médicaments : modification du pH du contenu gastrique, formation de substances insolubles (chélation), liaison aux graisses contenues dans les aliments, modification de la résorption en présence de fibres…
-*   Les effets physiologiques liés à l’alimentation : influence du volume et de la composition des repas sur la motilité gastro-intestinale. La vitesse de la vidange gastrique est inversement proportionnelle au volume, à la teneur calorique, à la température et à la viscosité de l’alimentation.
-*   Divers paramètres physiologiques - température corporelle, pression artérielle… ou encore horaire des repas – ou pathologiques (affection digestive, cardiaque…) peuvent aussi influencer le devenir du médicament dans l’organisme.
+*   Les effets physiologiques liés à l’alimentation : influence du volume et de la composition des repas sur la motilité gastro-intestinale. La vitesse de la vidange gastrique est inversement proportionnelle au volume, à la teneur calorique, à la température et à la viscosité de l’alimentation.  
+*   Divers paramètres physiologiques - température corporelle, pression artérielle… ou encore horaire des repas – ou pathologiques (affection digestive, cardiaque…) peuvent aussi influencer le devenir du médicament dans l’organisme.  
 *   Le contenu de certains aliments : voir plus loin.
 
 # II. Principaux aliments impliqués
@@ -631,13 +631,13 @@ Les précautions nécessaires pour les éviter (horaires des prises par rapport 
 
 ##Définitions
 
-- Acide faible : un acide faible est un acide qui ne se dissocie pas totalement dans l'eau.
-- Acide fort : un acide fort est un acide qui se dissocie totalement dans l’eau.
-- Acide labile : un acide labile est instable, il peut se modifier en fonction du pH (bas dans l’estomac). Pour les médicaments de ce type, les comprimés sont pelliculés ou enrobés d’un film gastrorésistant.
-- Adsorption : fixation, par simple contact, d'une substance à la surface d'un solide.
-- Biodisponibilité : fraction de la dose de médicament atteignant la circulation générale et la vitesse à laquelle elle l’atteint.
-- Chélation : formation d’un composé chimique par fixation d’un métal (comme pris dans une pince) dans une molécule.
-- Cmax : concentration plasmatique maximale du médicament, reflet de la quantité de médicament disponible pour atteindre son site d’action.
-- Effet antabuse : l’effet antabuse est provoqué par l'absorption concomitante d'alcool et de certaines substances médicamenteuses. Il se caractérise par différents symptômes (bouffées vasomotrices, vasodilatation, céphalées, nausées, vomissements, tachycardie, dyspnée, hypersudation, vertiges, étourdissement, vision floue, malaise, lipothymie, parfois modification de l'électrocardiogramme, douleur thoracique, confusion mentale).
-- Levodopa : médicament antiparkinsonien.
+- Acide faible : un acide faible est un acide qui ne se dissocie pas totalement dans l'eau.  
+- Acide fort : un acide fort est un acide qui se dissocie totalement dans l’eau.  
+- Acide labile : un acide labile est instable, il peut se modifier en fonction du pH (bas dans l’estomac). Pour les médicaments de ce type, les comprimés sont pelliculés ou enrobés d’un film gastrorésistant.  
+- Adsorption : fixation, par simple contact, d'une substance à la surface d'un solide.  
+- Biodisponibilité : fraction de la dose de médicament atteignant la circulation générale et la vitesse à laquelle elle l’atteint.  
+- Chélation : formation d’un composé chimique par fixation d’un métal (comme pris dans une pince) dans une molécule.  
+- Cmax : concentration plasmatique maximale du médicament, reflet de la quantité de médicament disponible pour atteindre son site d’action.  
+- Effet antabuse : l’effet antabuse est provoqué par l'absorption concomitante d'alcool et de certaines substances médicamenteuses. Il se caractérise par différents symptômes (bouffées vasomotrices, vasodilatation, céphalées, nausées, vomissements, tachycardie, dyspnée, hypersudation, vertiges, étourdissement, vision floue, malaise, lipothymie, parfois modification de l'électrocardiogramme, douleur thoracique, confusion mentale).  
+- Levodopa : médicament antiparkinsonien.  
 - Premier passage hépatique : un médicament administré par voie orale et absorbé par la paroi digestive est ensuite transporté directement au foie par la veine porte avant d’atteindre la circulation générale. Les médicaments étant principalement transformés par le foie, ce premier passage hépatique peut conduire à une réduction de leur effet.

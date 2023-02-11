@@ -22,9 +22,9 @@ Pour la farine il en est tout autrement. Un peu de farine dans beaucoup d'eau ne
 
 Reprenons notre marmite et faisons de la bouillie comme chacun sait la faire :
 
-*   On dilue un peu de farine (combien au fait ?) dans un peu d'eau (quelle quantité ?).
-*   On met de l'eau à chauffer. "Alors là, je ne sais pas exactement combien, mais j'ai l'habitude des proportions pour que ça fasse une bonne bouillie".
-*   On verse la farine diluée dans l'eau qui bout. Cela reste liquide quelques instants, puis cela épaissit et devient de la bouillie.
+*   On dilue un peu de farine (combien au fait ?) dans un peu d'eau (quelle quantité ?).  
+*   On met de l'eau à chauffer. "Alors là, je ne sais pas exactement combien, mais j'ai l'habitude des proportions pour que ça fasse une bonne bouillie".  
+*   On verse la farine diluée dans l'eau qui bout. Cela reste liquide quelques instants, puis cela épaissit et devient de la bouillie.  
 *   On laisse cuire la bouillie quelques minutes en mélangeant, puis on la laisse refroidir avant de la donner à manger. La bouillie devient un peu plus épaisse en refroidissant. Si on a mis beaucoup de farine, la bouillie devient très épaisse, trop épaisse pour qu'un bébé puisse la manger.
 
 Que se passe-t-il ? Le composant principal des farines de céréales est un glucide appelé amidon. L'amidon est comme une chaîne dont les maillons seraient du sucre (glucose). L'amidon n'est pas du tout soluble dans l'eau. Au cours de la cuisson, cette chaîne d'amidon se gorge d'eau comme une éponge. Lorsqu on fait une bouillie, on met d'abord les grains de farine en suspension dans l'eau froide, le mélange reste liquide. Lors de la cuisson, l'amidon se gonfle d'eau (c'est l'empesage), le mélange devient épais. Lors du refroidissement, les chaînes d'amidon se bloquent les unes par rapport aux autres (c'est la gélification), la bouillie devient encore plus épaisse.
@@ -51,7 +51,9 @@ Pour les plantes, l'amylase apparaît au moment de la germination. Les graines, 
 
 La fabrication de la bière de céréale est basée sur ce processus. La germination des graines (sorgho, orge ... ) transforme l'amidon en sucres (maltage). Par fermentation, ces sucres contenus dans la farine de céréale germée vont pouvoir se transformer en alcool. Voici comment procéder pour obtenir de la farine de céréale germée.
 
+
 ![](i717-1.jpg)
+
 ![](i717-2.jpg)
 
 
@@ -80,6 +82,7 @@ L'activité de l'amylase est diminuée par l'acidité. Les bouillies de mil et d
 #### **c) Quantité et temps**
 
 La quantité d'amylase nécessaire à la liquéfaction est très faible et son action est très rapide (quelques secondes à quelques minutes) si la température est suffisante et si la bouillie n'est pas acide.
+
 
 ![](i717-3.jpg)
 
@@ -205,6 +208,7 @@ Ainsi :
 Alors que :
 
 Une bouillie préparée avec une farine grillée de céréale farine 60 g, soit **une** tasse et eau 300 g, soit **trois** tasses et amylase apporte environ 216 kcalories et 1,6 g de protéine soit 72 kcal et 0,5 g de protéine /100 ml de bouillie.
+
 
 ![](i717-4.jpg)
 

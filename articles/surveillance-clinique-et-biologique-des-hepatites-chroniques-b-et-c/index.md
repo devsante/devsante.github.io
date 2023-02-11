@@ -145,6 +145,7 @@ Il faut dépister et vacciner l’ensemble de l’entourage familial d’un suj
 
 **Tableau : conduite à tenir en cas d'hépatite chronique B**
 
+
 ![](conduite-a-tenir.jpg)
 
 
@@ -164,6 +165,7 @@ Les patients infectés par le VHC sont identifiés par la  détection  de  l
 
 ### 1. Histoire naturelle de l'hépatite C
 
+
 ![](hisoire-nat-hc.jpg)
 
 
@@ -174,9 +176,9 @@ L’examen clinique est le plus souvent normal. Cependant,  il  faut  recherc
 
 **La surveillance comporte :**
 
-*   Dosage des ALAT, NFS, plaquettes, bilan hépatique complet et hémostase : TP).
-*   Génotypage du VHC.
-*   Du fait de l’absence de corrélation entre le degré d’augmentation  de  l’activité  des  aminotransférases et celui des lésions histologiques (13). La réalisation d’une ponction biopsie du foie (5) ou les marqueurs sériques de fibrose (Fibrotest) ou physiques (Fibroscan) peuvent être recommandés.
+*   Dosage des ALAT, NFS, plaquettes, bilan hépatique complet et hémostase : TP).  
+*   Génotypage du VHC.  
+*   Du fait de l’absence de corrélation entre le degré d’augmentation  de  l’activité  des  aminotransférases et celui des lésions histologiques (13). La réalisation d’une ponction biopsie du foie (5) ou les marqueurs sériques de fibrose (Fibrotest) ou physiques (Fibroscan) peuvent être recommandés.  
 *   Echographie abdominale (à la recherche de signes indirects de cirrhose).
 
 ### 3. Hépatite chronique minime
@@ -185,10 +187,10 @@ En   l’absence de maladie hépatique évoluée, les patients atteints d’h
 
 **La surveillance comporte :**
 
-*   Recherche des manifestations extra-hépatiques symptomatiques (cryoglobulinémie  mixte,  neuropathies   périphériques,  asthénie, syndrome sec, arthralgies, myalgies) et d’une comorbidité.
-*   Dosage des ALAT, NFS, plaquettes, bilan hépatique complet et hémostase : TP.
-*   Génotypage du VHC.
-*   Echographie abdominale.
+*   Recherche des manifestations extra-hépatiques symptomatiques (cryoglobulinémie  mixte,  neuropathies   périphériques,  asthénie, syndrome sec, arthralgies, myalgies) et d’une comorbidité.  
+*   Dosage des ALAT, NFS, plaquettes, bilan hépatique complet et hémostase : TP.  
+*   Génotypage du VHC.  
+*   Echographie abdominale.  
 *   PBH ou marqueurs sériques de fibrose (Fibrotest) ou  physiques  (Fibroscan).  Dans le cas de l’hépatite chronique minime PBH≤ A1F1 du score METAVIR. 
 
 Ainsi, au terme de ce premier bilan, le patient n’a pas de lésion ou des lésions minimes à la biopsie hépatique. Le risque évolutif est faible. On pourrait proposer tous les 6 mois un examen clinique à la recherche d’une co-morbidité et des manifestations extra-hépatiques de l’hépatite C, ainsi que le  dosage  des  transaminases.  L’évaluation  histologique par marqueurs sériques et/ou Fibroscan tous les 2 à 3 ans et PBH tous les 5 ans.

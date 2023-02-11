@@ -36,6 +36,7 @@ L'appendice s'implante :
 
 Mais, la position de l'appendice par rapport au cæcum peut varier selon les sujets. La variation la plus fréquente est l'appendice rétro-caecale: derrière le cæcum sous la séreuse colique. Dans ce cas, les signes cliniques sont plus difficiles à reconnaître car l'appendice est située profondément, l'intervention moins aisée car il faut décoller le cæcum _(schéma n° 2)._
 
+
 ![](i306-1.jpg)
 
 
@@ -50,6 +51,7 @@ Ainsi, ces variations anatomiques fréquentes expliquent la difficulté du diagn
 *   douleur sous-hépatique, péri-ombilicale en cas de cæcum en position inhabituelle.
 
 L'appendicite aiguë est donc un diagnostic toujours évoqué devant un syndrome douloureux abdominal. Fort heureusement, dans la majorité des cas, l'appendice, et les signes qu'entraîne l'appendicite, siègent dans la fosse iliaque droite.
+
 
 ![](i306-2.jpg)
 
@@ -80,6 +82,7 @@ L'évolution naturelle se fait souvent vers la mort par péritonite généralis�
 ## IV. Clinique _(schémas n° 4, 5, 6, 7, 8)_
 
 L'appendicite aiguë au début, si elle est située dans la position habituelle iliaque droite est facile à reconnaître.
+
 
 ![](i306-3.jpg)
 
@@ -148,6 +151,7 @@ Les douleurs peuvent faussement orienter chez la femme vers une affection gynéc
 #### c. Appendicite sous-hépatique
 
 **Les signes** évoquent une cholécystite chez l'adulte. De toute façon le traitement est chirurgical. Il serait plus grave de penser à une abcès amibien chez l'enfant, l'aggravation rapide des signes incitant à opérer.
+
 
 ![](i306-4.jpg)
 

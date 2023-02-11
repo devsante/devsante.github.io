@@ -116,6 +116,7 @@ Finalement, la prévalence contraceptive dans une population désigne le pourcen
 
 Le tableau suivant montre l'importance du rôle joué par les services de santé.
 
+
 ![](i609-1.jpg)
 
 

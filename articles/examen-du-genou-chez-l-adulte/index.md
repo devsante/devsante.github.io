@@ -16,7 +16,9 @@ Nous proposons dans l'article les différents éléments à rechercher puis un r
 
 ## I. Rappel anatomique _(voir schémas 1 et 2)_
 
+
 ![](i922-1.jpg)
+
 
 
 ![](i922-2.jpg)
@@ -48,8 +50,8 @@ Sur la capsule s'insèrent :
 
 On recherche à travers les mots du patient les caractéristiques habituelles : siège, intensité, circonstances d'apparition.
 
-*   **siège :** douleur sur la face interne en cas d'entorse du ligament latéral interne douleur antérieure lors d'un conflit fémoro rotulien.
-*   **intensité :** dans les gonalgies arthrosiques les douleurs sont fréquentes, le malade "vit avec". A l'inverse, une douleur violente oriente vers un traumatisme.
+*   **siège :** douleur sur la face interne en cas d'entorse du ligament latéral interne douleur antérieure lors d'un conflit fémoro rotulien.  
+*   **intensité :** dans les gonalgies arthrosiques les douleurs sont fréquentes, le malade "vit avec". A l'inverse, une douleur violente oriente vers un traumatisme.  
 *   **circonstances d'apparition et****mécanisme**. un mouvement forcé et contrarié avec rotation externe et abduction de la jambe par rapport à la cuisse évoque une entorse ; lorsque la douleur survient au cours de la montée et de la descente d'escaliers, on s'oriente vers une pathologie fémoro-patellaire.
 
 ### 2. Le blocage
@@ -80,15 +82,16 @@ Activités professionnelles, sportives, antécédents traumatiques, obésité, s
 
 ### 1. Regarder le patient
 
-*   des déformations des reliefs anatomiques normaux ou bien un gros genou laissant suspecter un épanchement de synovie ou encore un genou rouge inflammatoire avec éventuellement une plaie.
+*   des déformations des reliefs anatomiques normaux ou bien un gros genou laissant suspecter un épanchement de synovie ou encore un genou rouge inflammatoire avec éventuellement une plaie.  
 *   une déformation axiale avec un genu valgum ou un genu varum (_Voir_ _schémas 3 et 4)._
 
 Ces anomalies axiales traduisent l'asymétrie de la charge portée par le genou : en valgum, le poids du corps se porte plus sur la tubérosité tibiale externe, en varum, plus sur le compartiment interne.
 
+
 ![](i922-3.jpg)
 
 
-*   **La station unipodale** (= sur une jambe).
+*   **La station unipodale** (= sur une jambe).  
 *   **L'accroupissement **  
     Ces deux postures quand elles sont difficiles ou impossibles :
     *   objectivent le degré d'une impotence fonctionnelle,
@@ -102,18 +105,19 @@ Augmentée, elle oriente vers une inflammation.
 
 #### **Point douloureux**
 
-*   sus-rotulien : tendinite du quadricipital.
-*   sous-rotulien : tendinite du ligament rotulien.
-*   partie supéro-interne du tibia tendinite de la patte d'oie.
-*   face interne du tibia : entorse du Ligament Latéral interne (LLI).
+*   sus-rotulien : tendinite du quadricipital.  
+*   sous-rotulien : tendinite du ligament rotulien.  
+*   partie supéro-interne du tibia tendinite de la patte d'oie.  
+*   face interne du tibia : entorse du Ligament Latéral interne (LLI).  
 *   **le cri méniscal :** la douleur est réveillée par la pression sur la face interne de l'interligne articulaire juste en dedans du tendon rotulien.
 
 #### Examen de la rotule
 
-*   on palpe la rotule à la recherche d'un trait de fracture ou d'une autre anomalie.
+*   on palpe la rotule à la recherche d'un trait de fracture ou d'une autre anomalie.  
 *   **choc rotulien:** une main empaume le cul de sac du quadricipital (partie inférieure de la cuisse), l'autre main empaume l'extérieur supérieur de la jambe pour refouler le liquide articulaire derrière la rotule. L'index de la main située sur la jambe imprime une pression sur la face antérieure de la rotule. Lorsqu'il existe un épanchement, la rotule percute la trochlée et produit un petit choc.
 
 *   signe du rabot : on sent un frottement de la rotule lors de la pression et de sa mobilisation latérale _(voir schéma 5)_
+
 
 ![](i922-4.jpg)
 
@@ -132,14 +136,15 @@ On explore la flexion et l'extension, passivement ou en s'opposant au mouvement.
 
 Normalement, d'autres mouvements que la flexion et l'extension du genou sont impossibles. On les recherchera par une manipulation douce.
 
-*   les tiroirs antérieur et postérieur le genou est fléchi à 90°, le pied est immobilisé, on tire et on repousse la jambe empoignée sous le genou. Si le mouvement est possible, c'est anormal et cela évoque fortement une lésion des ligaments croisés : le ligament antérieur pour le tiroir antérieur, le croisé postérieur en cas de recul de la table tibiale.
+*   les tiroirs antérieur et postérieur le genou est fléchi à 90°, le pied est immobilisé, on tire et on repousse la jambe empoignée sous le genou. Si le mouvement est possible, c'est anormal et cela évoque fortement une lésion des ligaments croisés : le ligament antérieur pour le tiroir antérieur, le croisé postérieur en cas de recul de la table tibiale.  
 *   les mouvements de latéralité le blessé étant en décubitus dorsal, se placer du côté à examiner, empaumer solidement la cuisse d'une main et de l'autre imprimer à la jambe des mouvements de valgus et de varus forcés. Ces mouvements sont parfois difficiles à mettre en évidence parce que douloureux : on n'insistera pas. Ils indiquent une lésion du ligament latéral interne si on ne les constate qu'en demiflexion ; en revanche, ils indiquent une rupture du LLI et de la coque condylienne si on les constate en extension.
 
 #### Les signes de souffrance
 
-*   rotation externe du pied-extension de la jambe _(signe de Mac Murray_ - voir _schéma 6)_ : on réalise une torsion de la jambe, la jambe est à demi fléchie ; on tourne le pied en rotation externe avec une main ; on pose le pouce de l'autre main sur l'interligne interne en dedans du tendon rotulien; on amène la jambe en extension. Cette manoeuvre peut déclencher un cri méniscal en fin de course.
-*   rotation de la jambe : hanche et genou fléchis à 90°, une main pousse en dedans le genou, tandis que l'autre main empaume la jambe et lui imprime des mouvements de rotation ou de latéralité.
+*   rotation externe du pied-extension de la jambe _(signe de Mac Murray_ - voir _schéma 6)_ : on réalise une torsion de la jambe, la jambe est à demi fléchie ; on tourne le pied en rotation externe avec une main ; on pose le pouce de l'autre main sur l'interligne interne en dedans du tendon rotulien; on amène la jambe en extension. Cette manoeuvre peut déclencher un cri méniscal en fin de course.  
+*   rotation de la jambe : hanche et genou fléchis à 90°, une main pousse en dedans le genou, tandis que l'autre main empaume la jambe et lui imprime des mouvements de rotation ou de latéralité.  
 *   le malade est couché sur le ventre, le genou est fléchi : on appuie sur le talon et on tourne la cheville. Cela réalise un mouvement douloureux de cisaillement des ménisques.
+
 
 ![](i922-5.jpg)
   
@@ -147,6 +152,7 @@ Normalement, d'autres mouvements que la flexion et l'extension du genou sont imp
 #### Le jerk test (voir schéma 7)
 
 La jambe est poussée vers l'extérieur en valgus pendant que l'on tourne le pied en rotation interne : on ressent un ressaut évoquant une rupture du ligament croisé antérieur.
+
 
 ![](i922-6.jpg)
 
@@ -162,7 +168,7 @@ La jambe est poussée vers l'extérieur en valgus pendant que l'on tourne le pie
 On ne décrira pas dans cet article les anomalies observées.  
 On peut proposer comme principales indications de l'examen radiologique :
 
-*   chaque fois que l'on suspecte une fracture ou que l'on veut éliminer ce diagnostic.
+*   chaque fois que l'on suspecte une fracture ou que l'on veut éliminer ce diagnostic.  
 *   devant des douleurs répétées et persistantes,
 
 *   devant une arthropathie chronique et quand l'on souhaite faire le bilan des lésions.
@@ -195,7 +201,7 @@ Il n'existe pas de sciatalgie et la hanche est bien mobile dans tous les sens.
 
 ### 4. Après ces trois préalables, on s'orientera vers l'un des quatres syndromes suivants
 
-*   Le syndrome fémoro-rotulien (voir _encadré_ 1).
+*   Le syndrome fémoro-rotulien (voir _encadré_ 1).  
 *   Le syndrome méniscal (voir _encadré 2)._
 *   Les tendinites et entorses (voir _encadré 3)._
 *   L'arthrose (voir _encadré 4)._
@@ -218,6 +224,7 @@ Le traitement est d'abord médical : repos sans appui, antlagiques locaux ou per
 </tbody>
 
 </table>
+
 <table>
 <caption>Encadré 2 : le syndrome méniscal</caption>
 
@@ -236,6 +243,7 @@ Après un traitement médical (repos sans marcher et antalgiques), si les épiso
 </tbody>
 
 </table>
+
 <table>
 <caption>Encadré 3 : tendinites et entorses</caption>
 
@@ -254,6 +262,7 @@ Traitement : en cas d'entorse d'allure bénigne, on insistera sur le repos sans 
 </tbody>
 
 </table>
+
 <table>
 <caption>Encadré 4 : arthrose</caption>
 
@@ -286,7 +295,7 @@ Le traitement sera principalement médical (attention à l'abus d'AINS)
 *   le syndrome fémoro-rotulien ou l'entorse bénigne du LLI conduiront à insister sur le repos strict pendant quelques jours, en essayant d'adapter le patient à ses nécessités quotidiennes, les béquilles lui seront utiles; on lui expliquera qu'ensuite il devra travailler ses muscles pour prévenir les rechutes souvent prévisibles;
 *   si l'entorse présente des signes de gravité, la radio s'impose pour vérifier l'absence de fracture et elle précèdera la mise sous plâtre pour trois semaines suivie d'une rééducation obligatoire;
 *   en cas de blocage à l'extension et de lésion méniscale avérée, tout dépend de l'incidence sur la vie courante du patient : si la gêne est modérée et peu fréquente, on soulagera et rééduquera, sinon l'intervention chirurgicale sera à envisager;
-*   quant à l'arthrose, le diagnostic est en général aisé, on peut soulager le malade par le traitement médical habituel et surtout lui expliquer qu'il doit maigrir ou pour le moins ne pas grossir, qu'il doit marcher tous les jours, si besoin aidé d'une canne adaptée à son envergure et faire régulièrement des petits exercices de flexion-extension passive ou contrariée.
+*   quant à l'arthrose, le diagnostic est en général aisé, on peut soulager le malade par le traitement médical habituel et surtout lui expliquer qu'il doit maigrir ou pour le moins ne pas grossir, qu'il doit marcher tous les jours, si besoin aidé d'une canne adaptée à son envergure et faire régulièrement des petits exercices de flexion-extension passive ou contrariée.  
 *   enfin, que l'on ne croie pas que la gonalgie se résume à une prescription d'A.I.N.S. car ces médicaments ne sont pas anodins (en particulier dangereux pour l'estomac), et il faut réfléchir avant de les prescrire, quels qu'ils soient.
 
 _Développement et Santé, n° 159, juin 2002_

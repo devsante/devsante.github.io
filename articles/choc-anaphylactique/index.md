@@ -128,8 +128,8 @@ L'adrénaline est le produit de choix. C’est un sympathomimétique physiologiq
 
 Les autres voies d’administration sont moins préconisées :
 
-*   _La voie sous-cutanée_ est moins efficace que la voie Intramusculaire.
-*   _La voie perlinguale_ (O,25 mg sous la langue ou sur un sucre) peut être proposée chez un patient conscient qui présente un oedème de Quincke.
+*   _La voie sous-cutanée_ est moins efficace que la voie Intramusculaire.  
+*   _La voie perlinguale_ (O,25 mg sous la langue ou sur un sucre) peut être proposée chez un patient conscient qui présente un oedème de Quincke.  
 *   _L’adrénaline par voie intratrachéale_ (IT) peut être utilisée chez le patient intubé, en l'absence de voie veineuse, en sachant que seul un tiers de la dose parvient dans la circulation systémique.
 
 _Un remplissage vasculaire rapide_ doit être associé avec la perfusion rapide de cristalloïdes (10 à 25 ml kg-1), répétée si besoin. Le recours à des colloïdes de la famille des hydroxyéthylamidons (voluven), en évitant les autres produits qui peuvent être à l'origine de l'accident (dextrans et gélatines), est fait en première intention si l’on en dispose.

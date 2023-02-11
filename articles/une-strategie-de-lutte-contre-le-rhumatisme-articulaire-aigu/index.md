@@ -44,16 +44,17 @@ Au-dessous de 5 ans et au-dessus de 25 ans, il semble que le risque soit réelle
 
 Afin de soulager plus rapidement l'enfant, on peut de plus ajouter :
 
-*   Pénicilline G IM (dans l'autre fesse): 1 million U.
+*   Pénicilline G IM (dans l'autre fesse): 1 million U.  
 *   Aspirine pendant trois jours: 5 à 10 cg/ kg/jour en quatre prises (sans dépasser 1,5 g).
 
 Enfin, en cas d'allergie vraie à la pénicilline, on doit donner de l'érythromycine : 50 mg/kg/jour en deux prises (sans dépasser 2 g) pendant 10 jours (on rappelle que les tétracyclines sont souvent inactives sur le streptocoque).
 
 #### En pratique, comment faire pour généraliser ce traitement ?
 
-1.  Tout d'abord, **l'information** doit être diffusée : une affiche comportant les modalités du traitement (fig. 1) peut être placée dans chaque dispensaire ou centre de soins; il est bien sûr important que le responsable des soins soit convaincu des avantages de ce " traitement minute ".
-2.  Ensuite, **l'intendance** doit suivre: pour appliquer ce schéma, il faut l'antibiotique; ce qui ne devrait pas être trop difficile puisqu'il n'y a qu'une injection (au lieu de 10 de Pénicilline G).
+1.  Tout d'abord, **l'information** doit être diffusée : une affiche comportant les modalités du traitement (fig. 1) peut être placée dans chaque dispensaire ou centre de soins; il est bien sûr important que le responsable des soins soit convaincu des avantages de ce " traitement minute ".  
+2.  Ensuite, **l'intendance** doit suivre: pour appliquer ce schéma, il faut l'antibiotique; ce qui ne devrait pas être trop difficile puisqu'il n'y a qu'une injection (au lieu de 10 de Pénicilline G).  
 3.  Enfin, dans la mesure où les deux conditions précédentes sont réalisées, il faut ajouter **l'éducation** sanitaire (dans les écoles en particulier), car beaucoup d'angines sont négligées et pourtant à risque; on peut faire cette éducation à l'aide d'un slogan facile à retenir, expliquant que "tout mal de gorge doit être soigné au dispensaire ".
+
 
 ![](i64-1.jpg)
 
@@ -77,6 +78,7 @@ Les cas ainsi dépistés vont s'ajouter aux cas déjà connus et entrer dans le 
 Dans chaque dispensaire ou centre de soins primaires, il est important de réaliser un fichier, pour connaître et suivre la totalité des malades atteints de RAA. Ce fichier est tenu par l'infirmier ou l'auxiliaire responsable. Il y a une fiche par malade; à chaque fois que celui-ci se présente au dispensaire pour son injection de Benzathine-Pénicilline (tous les mois environ), on note la date. A la fin de chaque mois, il suffit de très peu de temps pour vérifier que tous les malades se sont bien présentés; pour les défaillants, le responsable les convoque directement, ou par un voisin ou par l'instituteur.
 
 Un modèle de fiche est présenté [On peut noter qu'un tel modèle: dépistage systématique/fichier de suivi/surveillance peut s'appliquer à d'autres affections chroniques (tuberculose, diabète, HTA)]. _(fig. 2)._ En fait, cette fiche peut même être encore simplifiée et ne comporter que: nom, adresse, diagnostic et les dates des injections. L'essentiel est qu'elle soit tenue par l'infirmier ou l'auxiliaire de santé, de manière régulière. Le contrôle du suivi du fichier peut être fait par un responsable itinérant une fois tous les trois ou six mois.
+
 
 ![](i64-2.jpg)
 
