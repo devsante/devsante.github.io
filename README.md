@@ -2,9 +2,11 @@
 
 This archive is automatically generated (see a [description of the full process in the parent repository](https://github.com/devsante/devsante.org)).
 
-Any edit to the content files (source or generated) might be lost during a future update:
+Any edits to the following content files:
 
 - SUMMARY.md
 - articles/\*
 - actualites/\*
 - \_book/\*
+
+will be overridden by a future update and should be done in [the parent repository](https://github.com/devsante/devsante.org) instead.
