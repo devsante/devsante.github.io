@@ -100,13 +100,17 @@ Il est important de connaître le taux d'hémoglobine basal afin d'évaluer les 
 La mesure, soit du fer sérique, ou si possible de la ferritine sérique, permet de dépister une éventuelle carence en fer associée.  
 - L'examen du frottis sanguin révèle la présence d'hématies en forme de "faucille" ou drépanocytes (figure 1), caractéristiques de la maladie. Les hématies ont une forme allongée, aux deux extrémités pointues, elles sont donc différentes des ovalocytes, ou elliptocytes, dont les extrémités sont arrondies (figure 2).
 
-![](image023.jpg)(image: image025.jpg)
+![](image023.jpg)
+
+![](image025.jpg)
 
 La présence de corps de Jolly accompagne une atrophie splénique, on peut également retrouver une polychromatophilie, des ponctuations basophiles. La présence d‘hématies cibles oriente vers une autre anomalie de l’hémoglobine associée.  
 Le nombre d'érythroblastes circulants est variable, pouvant être très élevé au cours des accidents hémolytiques aigus. Il est très important de les compter et de rectifier éventuellement le chiffre des globules blancs (les érythroblastes sont nucléés et comptés avec les leucocytes par les automates).  
 Il s'agit essentiellement d'érythroblastes polychromatophiles ou acidophiles (figures 3 et 4).
 
-![](image027.jpg)(image: image029.jpg)
+![](image027.jpg)
+
+![](image029.jpg)
 
 - Le taux de réticulocytes est très élevé, sauf en cas d'érythroblastopénie ;
 - l'hémolyse est confirmée par la bilirubine libre qui est augmentée et l'haptoglobine qui est effondrée.
@@ -118,7 +122,9 @@ Le test d’Emmel révèle la présence de l’hémoglobine drépanocytaire S da
 Il s’agit d’un test de dépistage de l’hémoglobine S, mais non d’un test diagnostique des différentes formes génétiques de la drépanocytose.  
  De ce fait, en pratique courante, il est utilisé le plus souvent comme test d’exclusion.
 
-![](image031.jpg) (image: image033.jpg)
+![](image031.jpg)
+
+![](image033.jpg)
 
 **c. Le test d'ITANO ou test de solubilité**
 C’est un test de précipitation de l’hémoglobine S d’un hémolysat en présence d’hydrosulfite de sodium.  

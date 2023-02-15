@@ -14,7 +14,7 @@ De façon imagée, comme le montrent les schémas ci-dessous, lors de la constit
 
 ![](iia-1772.v2-jpg.jpg)
 
-![](iia-1773.jpg)(image: iia-2_iia-2.jpg)
+![](iia-2_iia-2.jpg)
 
 ## II. Quels sont les enfants les plus à risque et quels facteurs peuvent orienter vers ce diagnostic ?
 L’IIA est l'une des urgences abdominales pédiatriques les plus fréquentes, son incidence est estimée à 2 %.  
