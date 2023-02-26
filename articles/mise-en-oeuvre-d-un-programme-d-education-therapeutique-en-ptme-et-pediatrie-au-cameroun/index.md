@@ -280,8 +280,8 @@ Avoir du personnel formé et oeuvrant seulement pour cette activité. Intégrer 
 
 **Bibliographie :**
 
-1- Les compétences des soignants en éducation thérapeutique, Rémi Gagnayre, adap, Septembre 2005.  
-2- Rapport de progrès CNLS n°4, 2007.
+1. Les compétences des soignants en éducation thérapeutique, Rémi Gagnayre, adap, Septembre 2005.  
+2. Rapport de progrès CNLS n°4, 2007.
 
 
 ![](i1093-2.jpg)
