@@ -2,8 +2,9 @@
 title: "Barrages et santé"
 author: "Jean-Loup Rey"
 date: "2005-06-03"
-teaser: "Durant les 40 dernières années, un grand nombre de barrages ont été construits en Afrique. Ils sont de taille très variable, allant du grand barrage créant un lac de plusieurs Km2 à de petites retenues d'eau créées par des villageois aux environs de leur village. Mais tous ont une influence sur la santé des hommes qui habitent à côté, ou y viennent pour différentes raisons ou en dépendent indirectement."
 ---
+
+<div class="teaser"><p>Durant les 40 dernières années, un grand nombre de barrages ont été construits en Afrique. Ils sont de taille très variable, allant du grand barrage créant un lac de plusieurs Km2 à de petites retenues d'eau créées par des villageois aux environs de leur village. Mais tous ont une influence sur la santé des hommes qui habitent à côté, ou y viennent pour différentes raisons ou en dépendent indirectement.</p></div>
 
 
 ![](i999-1.jpg)

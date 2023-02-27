@@ -2,8 +2,9 @@
 title: "Diagnostic des infections à gonocoque"
 author: "Catherine Dupeyron Biologiste, Hôpital Albert-Chenevier, Créteil."
 date: "1998-08-26"
-teaser: "Le gonocoque (_Neisseria gonorrhoeae_) est une bactérie pathogène, responsable d'une maladie sexuellement transmissible, très fréquente et très contagieuse, la blennorragie. Cette bactérie est spécifique de l'espèce humaine, où elle se trouve toujours à l'état pathogène. Il n'y a jamais de porteurs sains."
 ---
+
+<div class="teaser"><p>Le gonocoque (<em>Neisseria gonorrhoeae</em>) est une bactérie pathogène, responsable d'une maladie sexuellement transmissible, très fréquente et très contagieuse, la blennorragie. Cette bactérie est spécifique de l'espèce humaine, où elle se trouve toujours à l'état pathogène. Il n'y a jamais de porteurs sains.</p></div>
 
 ## I. Pouvoir pathogène
 

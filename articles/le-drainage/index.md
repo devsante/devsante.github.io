@@ -2,16 +2,13 @@
 title: "Le drainage"
 author: "Marc Leclerc du Sablon Chirurgien, centre hospitalier P.-Chubert, Vannes, France ; Médecins sans Frontières, Paris."
 date: "1992-10-03"
-teaser: "Le drainage d'une plaie traumatique ou opératoire, d'une cavité naturelle ou d'une collection (abcès ou hématome) doit être considéré comme un geste chirurgical à part entière, avec ses techniques et ses indications.
-
-Ce geste ne doit surtout pas être fait de façon routinière ou systématique après chaque intervention. Comme tous les gestes techniques médico-chirurgicaux, il comporte aussi des inconvénients et des complications. Mal réalisé, il fait souvent courir plus de risques qu'il n'apporte de sécurité.
-
-Ce geste a aussi ses limites et il ne faut pas espérer qu'il pallie une technique chirurgicale défectueuse ou incomplète.
-
-Une fois posé, le drain devra faire l'objet de soins infirmiers et ôté en temps utile. Des explications précises doivent être données par le médecin aux infirmiers chargés de la surveillance du malade pour éviter tout risque d'erreur parfois lourde de conséquences.
-
-L'objet de cet article est de préciser les différentes techniques de drainage, les matériaux utilisés et les indications."
 ---
+
+<div class="teaser"><p>Le drainage d'une plaie traumatique ou opératoire, d'une cavité naturelle ou d'une collection (abcès ou hématome) doit être considéré comme un geste chirurgical à part entière, avec ses techniques et ses indications.</p>
+<p>Ce geste ne doit surtout pas être fait de façon routinière ou systématique après chaque intervention. Comme tous les gestes techniques médico-chirurgicaux, il comporte aussi des inconvénients et des complications. Mal réalisé, il fait souvent courir plus de risques qu'il n'apporte de sécurité.</p>
+<p>Ce geste a aussi ses limites et il ne faut pas espérer qu'il pallie une technique chirurgicale défectueuse ou incomplète.</p>
+<p>Une fois posé, le drain devra faire l'objet de soins infirmiers et ôté en temps utile. Des explications précises doivent être données par le médecin aux infirmiers chargés de la surveillance du malade pour éviter tout risque d'erreur parfois lourde de conséquences.</p>
+<p>L'objet de cet article est de préciser les différentes techniques de drainage, les matériaux utilisés et les indications.</p></div>
 
 ## I. Généralités
 

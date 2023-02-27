@@ -2,16 +2,17 @@
 title: "Traitement standardisé de la tuberculose"
 author: "Jean-Loup Rey"
 date: "2008-08-03"
-teaser: "Pour tout le monde (médecins, infirmiers et malades), il s'agit de traitements standardisés au niveau mondial avec des régimes qui ont été rigoureusement évalués.
-
-L'objectif de ce traitement standardisé est de :
-
-*   Guérir le patient de sa tuberculose maladie.
-*   Prévenir le décès ou les complications.
-*   Prévenir les rechutes.
-*   Eviter l'apparition de résistances.
-*   Diminuer la transmission des BK à d'autres sujets."
 ---
+
+<div class="teaser"><p>Pour tout le monde (médecins, infirmiers et malades), il s'agit de traitements standardisés au niveau mondial avec des régimes qui ont été rigoureusement évalués.</p>
+<p>L'objectif de ce traitement standardisé est de :</p>
+<ul>
+<li>Guérir le patient de sa tuberculose maladie.</li>
+<li>Prévenir le décès ou les complications.</li>
+<li>Prévenir les rechutes.</li>
+<li>Eviter l'apparition de résistances.</li>
+<li>Diminuer la transmission des BK à d'autres sujets.</li>
+</ul></div>
 
 D'après TB/HIV : A Clinical Manual, WHO Genève 2004, 2° Edition.  
 

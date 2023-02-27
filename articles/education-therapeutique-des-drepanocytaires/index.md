@@ -2,9 +2,10 @@
 title: "Education thérapeutique des patients drépanocytaires"
 author: "Brigitte Rétali, pédiatre, Paris"
 date: "2018-05-22"
-teaser: "La drépanocytose est une maladie chronique de toute la vie, le patient et son entourage  vont engager un partenariat avec leurs soignants: un transfert de savoirs et aussi de savoir faire et de savoir-être pour devenir acteur de sa santé.
-Les soignants, de leur côté, vont devoir mobiliser empathie et bienveillance pour que le patient puisse s'approprier les codes de cette maladie, c'est l'enjeu de l'éducation thérapeutique."
 ---
+
+<div class="teaser"><p>La drépanocytose est une maladie chronique de toute la vie, le patient et son entourage  vont engager un partenariat avec leurs soignants: un transfert de savoirs et aussi de savoir faire et de savoir-être pour devenir acteur de sa santé.<br />
+Les soignants, de leur côté, vont devoir mobiliser empathie et bienveillance pour que le patient puisse s'approprier les codes de cette maladie, c'est l'enjeu de l'éducation thérapeutique.</p></div>
 
 **Partie intégrante de la prise en charge**, l'éducation thérapeutique est définie par l'OMS et a 
 pour buts :

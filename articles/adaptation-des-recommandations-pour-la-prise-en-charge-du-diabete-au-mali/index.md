@@ -2,8 +2,9 @@
 title: "Adaptation des recommandations pour la prise en charge du diabète au Mali"
 author: "Stéphane Besançon*, A. T. Sidibé**, Ibrahim Nientao*** * Biologiste et nutritionniste, directeur de l'ONG Santé Diabète Mali, Bamako, Mali. ** Pr agrégée en endocrinologie-diabétologie, hôpital du point G, Bamako, Mali *** Médecin diabétologue, Centre National de Lutte contre le Diabète, Bamako, Mali."
 date: "2009-08-12"
-teaser: "Depuis de nombreuses années, les études se multiplient dans les pays occidentaux pour analyser les protocoles de prise en charge du diabète et proposer des moyens d'améliorer la surveillance des patients (UKPDS, STENO 2, DCCT, ADVANCE). Elles visent à étudier, entre autres, si le contrôle strict de la glycémie contribue à une baisse de la morbi-mortalité. Parallèlement à ces études, de nouveaux produits - médicaments (insulines, GLPl etc.. J et outils de suivi biologique - de plus en plus perfor­mants sont apparus. Toutes ces avancées de la recherche conduisent à une amélioration de la prise en charge des patients."
 ---
+
+<div class="teaser"><p>Depuis de nombreuses années, les études se multiplient dans les pays occidentaux pour analyser les protocoles de prise en charge du diabète et proposer des moyens d'améliorer la surveillance des patients (UKPDS, STENO 2, DCCT, ADVANCE). Elles visent à étudier, entre autres, si le contrôle strict de la glycémie contribue à une baisse de la morbi-mortalité. Parallèlement à ces études, de nouveaux produits - médicaments (insulines, GLPl etc.. J et outils de suivi biologique - de plus en plus perfor­mants sont apparus. Toutes ces avancées de la recherche conduisent à une amélioration de la prise en charge des patients.</p></div>
 
 ## I. Une situation bien différente dans les pays du sud
 

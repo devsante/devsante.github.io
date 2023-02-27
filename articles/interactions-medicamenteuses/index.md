@@ -2,8 +2,9 @@
 title: "Interactions médicamenteuses"
 author: "Philippe Reinert Pédiatre, Hôpital Intercommunal, Créteil, France."
 date: "1990-10-01"
-teaser: "Devant un malade souffrant de courbatures, de fièvre, de toux, de fatigue, la tentation est grande pour l'infirmier de prescrire par exemple de l'acide acétylsalicylique (aspirine), de la quinine, un antitussif, et un fortifiant. Or, dans notre organisme un tel mélange de substances chimiques peut avoir des conséquences parfois graves: disparition de l'effet thérapeutique souhaité, action toxique sur un organe donné ou enfin un résultat tout à fait imprévu."
 ---
+
+<div class="teaser"><p>Devant un malade souffrant de courbatures, de fièvre, de toux, de fatigue, la tentation est grande pour l'infirmier de prescrire par exemple de l'acide acétylsalicylique (aspirine), de la quinine, un antitussif, et un fortifiant. Or, dans notre organisme un tel mélange de substances chimiques peut avoir des conséquences parfois graves: disparition de l'effet thérapeutique souhaité, action toxique sur un organe donné ou enfin un résultat tout à fait imprévu.</p></div>
 
 Pour éviter ce type d'accident thérapeutique, tout prescripteur devra s'efforcer d'éviter les associations de médicaments (trois devant être le maximum).
 

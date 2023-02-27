@@ -2,9 +2,10 @@
 title: "Le noma :  une affection grave, conséquence de la pauvreté"
 author: "Patrice Bourée, médecin, Paris"
 date: "2018-10-22"
-teaser: "Le noma, ou *cancrus oris*, est une gangrène oro-faciale survenant essentiellement chez les enfants en mauvais état généra, vivant dans les pays tropicaux défavorisés. Elle est responsable d’une assez lourde mortalité et d’importantes séquelles esthétiques et fonctionnelles chez les enfants qui survivent. 
-Le noma, du grec *numein *= dévorer, était déjà connu d’Hippocrate, sous le nom de *sphakelos *(gangrène sèche). Cette affection était connue depuis très longtemps en Europe et aux Etats-Unis et dès 1649, cette maladie a été inscrite dans le premier ouvrage sur les maladies négligées. Vers la fin du XIXème, la prévalence du noma a décru avec l’amélioration de l’hygiène générale. L’arrivée de la pénicilline a fait considérablement chuter la mortalité et la chirurgie réparatrice, quand elle est possible, a donné de bons résultats depuis une cinquantaine d’années. Néanmoins, le noma reste encore très présent dans les pays tropicaux."
 ---
+
+<div class="teaser"><p>Le noma, ou <em>cancrus oris</em>, est une gangrène oro-faciale survenant essentiellement chez les enfants en mauvais état généra, vivant dans les pays tropicaux défavorisés. Elle est responsable d’une assez lourde mortalité et d’importantes séquelles esthétiques et fonctionnelles chez les enfants qui survivent.<br />
+Le noma, du grec <em>numein </em>= dévorer, était déjà connu d’Hippocrate, sous le nom de <em>sphakelos </em>(gangrène sèche). Cette affection était connue depuis très longtemps en Europe et aux Etats-Unis et dès 1649, cette maladie a été inscrite dans le premier ouvrage sur les maladies négligées. Vers la fin du XIXème, la prévalence du noma a décru avec l’amélioration de l’hygiène générale. L’arrivée de la pénicilline a fait considérablement chuter la mortalité et la chirurgie réparatrice, quand elle est possible, a donné de bons résultats depuis une cinquantaine d’années. Néanmoins, le noma reste encore très présent dans les pays tropicaux.</p></div>
 
 ### Epidémiologie
 La maladie  atteint surtout les enfants de 2 à 7 ans, en Afrique sub-saharienne, dans les pays défavorisés, où la pauvreté est très répandue et avec un faible taux de vaccination contre la rougeole.  

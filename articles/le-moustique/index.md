@@ -1,19 +1,21 @@
 ---
 title: "Le moustique"
 date: "2008-07-02"
-teaser: "L'essentiel
-
-*   Le moustique vecteur du paludisme est l'anophèle femelle. Il pique l'homme pour absorber le sang essentiel aux besoins de sa reproduction.
-*   Le cycle de l'anophèle comprend quatre stades : oeuf, larve, nymphe et âge adulte. Les larves se développent dans une eau quasi-stagnante et peu polluée.
-*   Les anophèles piquent toute la nuit, mais l'essentiel des piqûres intervient entre 23 heures et 5 heures du matin.
-*   Il existe de nombreuses espèces d'anophèles : en comprendre les comportements propres est capital pour choisir les mesures de lutte contre le moustique.
-
-L'anophèle femelle est dit vecteur du paludis­me car c'est lui qui assure une partie du cycle de développement des Plasmodium ainsi que leur transmission :
-
-*   il absorbe les parasites sous forme de gamé­tocytes chez le sujet parasité ;
-*   il est le lieu de la fécondation et du dévelop­pement des parasites ;
-*   il les inocule à l'homme lors de ses piqûres."
 ---
+
+<div class="teaser"><p>L'essentiel</p>
+<ul>
+<li>Le moustique vecteur du paludisme est l'anophèle femelle. Il pique l'homme pour absorber le sang essentiel aux besoins de sa reproduction.</li>
+<li>Le cycle de l'anophèle comprend quatre stades : oeuf, larve, nymphe et âge adulte. Les larves se développent dans une eau quasi-stagnante et peu polluée.</li>
+<li>Les anophèles piquent toute la nuit, mais l'essentiel des piqûres intervient entre 23 heures et 5 heures du matin.</li>
+<li>Il existe de nombreuses espèces d'anophèles : en comprendre les comportements propres est capital pour choisir les mesures de lutte contre le moustique.</li>
+</ul>
+<p>L'anophèle femelle est dit vecteur du paludis­me car c'est lui qui assure une partie du cycle de développement des Plasmodium ainsi que leur transmission :</p>
+<ul>
+<li>il absorbe les parasites sous forme de gamé­tocytes chez le sujet parasité ;</li>
+<li>il est le lieu de la fécondation et du dévelop­pement des parasites ;</li>
+<li>il les inocule à l'homme lors de ses piqûres.</li>
+</ul></div>
 
 ## I. Le cycle de vie de l'anophèle
 

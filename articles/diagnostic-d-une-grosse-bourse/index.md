@@ -2,10 +2,10 @@
 title: "Diagnostic d'une grosse bourse"
 author: "François Pernin"
 date: "1984-12-28"
-teaser: "L'augmentation du volume d'une bourse est un motif fréquent de consultation.
-
-Les causes principales en Afrique sont l'hydrocèle et la hernie inguino-scrotale, mais il existe parfois d'autres causes possibles (filariose, cancer, abcès)."
 ---
+
+<div class="teaser"><p>L'augmentation du volume d'une bourse est un motif fréquent de consultation.</p>
+<p>Les causes principales en Afrique sont l'hydrocèle et la hernie inguino-scrotale, mais il existe parfois d'autres causes possibles (filariose, cancer, abcès).</p></div>
 
 Nous étudierons donc les différentes causes de grosse bourse et leur traitement, et la façon de conduire l'examen pour ne pas passer à côté des urgences chirurgicales qui sont: la hernie étranglée, la torsion du cordon spermatique, l'abcès scrotal, le cancer du testicule.
 

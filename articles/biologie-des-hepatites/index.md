@@ -2,10 +2,11 @@
 title: "Biologie des hépatites"
 author: "Par Catherine Dupeyron*, Françoise Balédent** *Biologiste, Créteil, France. **Biologiste, Saint-Denis, France."
 date: "2012-09-07"
-teaser: "La biologie a un rôle très important dans le diagnostic et le suivi des hépatites virales. Elle consiste en l'étude des modifications biochimiques du sérum et l'analyse des différents marqueurs virologiques.  
-Les paramètres biochimiques permettent le diagnostic d’hépatite et mettent en évidence l’activité de la maladie. Les paramètres virologiques renseignent sur l'agent responsable de la maladie  
-et sur l'évolution de celle-ci."
 ---
+
+<div class="teaser"><p>La biologie a un rôle très important dans le diagnostic et le suivi des hépatites virales. Elle consiste en l'étude des modifications biochimiques du sérum et l'analyse des différents marqueurs virologiques.<br />
+Les paramètres biochimiques permettent le diagnostic d’hépatite et mettent en évidence l’activité de la maladie. Les paramètres virologiques renseignent sur l'agent responsable de la maladie<br />
+et sur l'évolution de celle-ci.</p></div>
 
 ## I. Exploration biochimique
 

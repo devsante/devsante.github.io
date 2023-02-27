@@ -2,11 +2,12 @@
 title: "Biologie de l'hépatite B"
 author: "Catherine Dupeyron Biologiste, Hôpital Albert Chenevier, Créteil, France."
 date: "2001-02-11"
-teaser: "La biologie a un rôle très important dans le diagnostic et le suivi de l'hépatite à virus B. Elle consiste en l'étude des modifications biochimiques du sérum et l'analyse des différents marqueurs virologiques.  
-Les paramètres biochimiques permettent d'évaluer la gravité de l'atteinte hépatique.  
-Les paramètres virologiques renseignent sur l'agent responsable de la maladie et sur l'évolution de celle-ci.  
-Le diagnostic biologique sera réalisé soit devant une symptomatologie évocatrice, soit lors de l'exploration d'une élévation des transaminases, soit lors de test de dépistage chez des patients à risque, soit dans le contexte de la transfusion sanguine pour l'élimination des sangs à risque."
 ---
+
+<div class="teaser"><p>La biologie a un rôle très important dans le diagnostic et le suivi de l'hépatite à virus B. Elle consiste en l'étude des modifications biochimiques du sérum et l'analyse des différents marqueurs virologiques.<br />
+Les paramètres biochimiques permettent d'évaluer la gravité de l'atteinte hépatique.<br />
+Les paramètres virologiques renseignent sur l'agent responsable de la maladie et sur l'évolution de celle-ci.<br />
+Le diagnostic biologique sera réalisé soit devant une symptomatologie évocatrice, soit lors de l'exploration d'une élévation des transaminases, soit lors de test de dépistage chez des patients à risque, soit dans le contexte de la transfusion sanguine pour l'élimination des sangs à risque.</p></div>
 
 ## I. Exploration biochimique
 

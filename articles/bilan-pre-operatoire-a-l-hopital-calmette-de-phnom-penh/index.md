@@ -2,9 +2,10 @@
 title: "Bilan pré-opératoire à l'hôpital Calmette de Phnom-Penh"
 author: "Tan Sokhak* et Christian Rathat** * Chef du service Anesthésie, hôpital Calmette, Phnom-Penh, Cambodge. ** Coordinateur Anesthésie Réanimation Urgences. Coopération Française.  "
 date: "1999-02-19"
-teaser: "L'évaluation anesthésique pré-opératoire doit fournir les éléments qui permettent d'estimer les risques liés à l'anesthésie et de choisir une technique anesthésique adaptée au terrain et au type de chirurgie.  
-Le choix d'un type d'anesthésie adapté permet de diminuer la morbidité et la mortalité opératoire."
 ---
+
+<div class="teaser"><p>L'évaluation anesthésique pré-opératoire doit fournir les éléments qui permettent d'estimer les risques liés à l'anesthésie et de choisir une technique anesthésique adaptée au terrain et au type de chirurgie.<br />
+Le choix d'un type d'anesthésie adapté permet de diminuer la morbidité et la mortalité opératoire.</p></div>
 
 L'évaluation comporte un interrogatoire qui porte sur la symptomatologie, les antécédents pathologiques personnels et familiaux, ainsi qu'un examen clinique complet. Les informations recueillies guident la prescription d'éventuels examens complémentaires.
 

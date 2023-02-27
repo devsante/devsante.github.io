@@ -2,8 +2,9 @@
 title: "Physiopathologie de la douleur"
 author: "Alain Serrie*, Philippe Poulain** * Dept. diagnostic et traitement de la douleur, Hôpital Lariboisière, 75010 Paris. ** Unité d'évaluation et de traitement de la douleur, Institut Gustave-Roussy, 94800 Villejuif. */** Douleur sans frontières."
 date: "1997-10-04"
-teaser: "\"_La douleur n'est ni plus ni moins qu'un système d'alarme, dont la seule fonction est de signaler une lésion corporelle_.\" Descartes 1664."
 ---
+
+<div class="teaser"><p>"<em>La douleur n'est ni plus ni moins qu'un système d'alarme, dont la seule fonction est de signaler une lésion corporelle</em>." Descartes 1664.</p></div>
 
 Pendant très longtemps, les cliniciens et les chercheurs ont considéré la douleur comme une sensation particulière qui témoigne d'un traumatisme ou d'une agression, ou n'apparaissant qu'après application d'un stimulus. Cette ébauche de définition ne rend pas compte des implications psycho-pathologiques inhérentes à toute douleur. Par ailleurs, Wall et Melzack ont identifié plusieurs facteurs affirmant le caractère très polymorphe de toute douleur
 

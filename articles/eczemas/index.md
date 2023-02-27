@@ -2,10 +2,10 @@
 title: "Eczémas"
 author: "G. Grossetête* * Médecin, hôpital Bégin, Saint-Mandé."
 date: "1989-10-01"
-teaser: "L'eczéma est un des motifs de consultation les plus fréquents en dermatologie (un cas sur cinq en moyenne).
-
-Une fois posé le diagnostic lésionnel, il importe de reconnaître sous des aspects cliniques très variés les causes locales ou générales qui l'ont engendré."
 ---
+
+<div class="teaser"><p>L'eczéma est un des motifs de consultation les plus fréquents en dermatologie (un cas sur cinq en moyenne).</p>
+<p>Une fois posé le diagnostic lésionnel, il importe de reconnaître sous des aspects cliniques très variés les causes locales ou générales qui l'ont engendré.</p></div>
 
 ## **I. Aspects fondamentaux**
 

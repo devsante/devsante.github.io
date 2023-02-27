@@ -2,12 +2,11 @@
 title: "Les hémorragies de la délivrance"
 author: "Stéphane Saint-Léger Gynécologue obstétricien, Service de gynécologie obstétrique, CHI André-Grégoire, 93105 Montreuil."
 date: "2010-12-03"
-teaser: "Les hémorragies de la délivrance ou hémorragies du post-partum représentent, depuis le recul de l'infection, la principale cause de décès de la période gravido-puerpérale en France mais aussi dans les pays en voie de développement. En France, elles sont responsables d'environ 8 à 15 % des décès maternels. La fréquence est d'environ 2 % en France. Elle est probablement sous-estimée, surtout dans les pays en voie de développement.
-
-Même si les causes des hémorragies obstétricales sont bien connues, les facteurs conduisant aux hémorragies graves sont souvent multiples et intriqués ; c'est le plus souvent par l'intermédiaire d'un syndrome de défibrination ou de coagulation intravasculaire disséminée qu'a lieu l'hémorragie exposant au risque de mort maternelle.
-
-La connaissance des étiologies devrait permettre un dépistage précoce avant l'instauration des troubles cliniques majeurs. C'est la coopération entre l'accoucheur, la matrone, l'anesthésiste et l'infirmière, rapide et coordonnée, qui apportera la réponse adaptée et optimale à chaque cas évitant la survenue des complications gravissimes."
 ---
+
+<div class="teaser"><p>Les hémorragies de la délivrance ou hémorragies du post-partum représentent, depuis le recul de l'infection, la principale cause de décès de la période gravido-puerpérale en France mais aussi dans les pays en voie de développement. En France, elles sont responsables d'environ 8 à 15 % des décès maternels. La fréquence est d'environ 2 % en France. Elle est probablement sous-estimée, surtout dans les pays en voie de développement.</p>
+<p>Même si les causes des hémorragies obstétricales sont bien connues, les facteurs conduisant aux hémorragies graves sont souvent multiples et intriqués ; c'est le plus souvent par l'intermédiaire d'un syndrome de défibrination ou de coagulation intravasculaire disséminée qu'a lieu l'hémorragie exposant au risque de mort maternelle.</p>
+<p>La connaissance des étiologies devrait permettre un dépistage précoce avant l'instauration des troubles cliniques majeurs. C'est la coopération entre l'accoucheur, la matrone, l'anesthésiste et l'infirmière, rapide et coordonnée, qui apportera la réponse adaptée et optimale à chaque cas évitant la survenue des complications gravissimes.</p></div>
 
 ## I. Définition
 

@@ -2,9 +2,10 @@
 title: "Une stratégie de lutte contre le rhumatisme articulaire aigu"
 author: "Didier Fassin"
 date: "1982-12-03"
-teaser: "Le rhumatisme articulaire aigu (RAA) constitue, dans le Tiers-Monde, un problème de Santé Publique préoccupant par sa fréquence, sa gravité et l'invalidité qu'il provoque chez des sujets jeunes. Dans de nombreux pays africains, il représente l'une des principales causes de mortalité non accidentelle entre 15 et 25 ans.  
-Mais ce qui fait tout l'intérêt de cette maladie, c'est qu'on peut actuellement la prévenir par des méthodes relativement simples et avec peu de moyens, comme plusieurs programmes en cours dans différents pays en ont fait la preuve."
 ---
+
+<div class="teaser"><p>Le rhumatisme articulaire aigu (RAA) constitue, dans le Tiers-Monde, un problème de Santé Publique préoccupant par sa fréquence, sa gravité et l'invalidité qu'il provoque chez des sujets jeunes. Dans de nombreux pays africains, il représente l'une des principales causes de mortalité non accidentelle entre 15 et 25 ans.<br />
+Mais ce qui fait tout l'intérêt de cette maladie, c'est qu'on peut actuellement la prévenir par des méthodes relativement simples et avec peu de moyens, comme plusieurs programmes en cours dans différents pays en ont fait la preuve.</p></div>
 
 ## I. Une prévention "à trois étages"
 

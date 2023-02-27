@@ -2,8 +2,9 @@
 title: "Oxyuroses infantiles"
 author: "Patrice Bourée Consultation des Maladies Parasitaires, Institut Alfred Fournier Paris, France"
 date: "2013-01-21"
-teaser: "L’oxyurose est une helminthiase cosmopolite, mais plus fréquente en zone tempérée qu’en zone tropicale, ce qui est dû sans doute au fait qu’en climat chaud et humide, bon nombre d’enfants sont peu vêtus et souvent en train de jouer dans l’eau."
 ---
+
+<div class="teaser"><p>L’oxyurose est une helminthiase cosmopolite, mais plus fréquente en zone tempérée qu’en zone tropicale, ce qui est dû sans doute au fait qu’en climat chaud et humide, bon nombre d’enfants sont peu vêtus et souvent en train de jouer dans l’eau.</p></div>
 
 ## I. Epidémiologie
 

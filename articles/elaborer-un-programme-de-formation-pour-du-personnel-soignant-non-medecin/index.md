@@ -2,16 +2,14 @@
 title: "Elaborer un programme de formation pour du personnel soignant non médecin"
 author: "Renée Leleu-Perrin"
 date: "1981-08-14"
-teaser: "Formation du personnel de santé non médecin
-
-par Renée Leleu-Perrin
-
-\"Car l'enseignement doit l'être d'un cadre, d'une armature.
-
-Non d'un contenu toujours faux.\"  
-Citadelle XLIII  
-A. de Saint-Exupéry"
 ---
+
+<div class="teaser"><p>Formation du personnel de santé non médecin</p>
+<p>par Renée Leleu-Perrin</p>
+<p>"Car l'enseignement doit l'être d'un cadre, d'une armature.</p>
+<p>Non d'un contenu toujours faux."<br />
+Citadelle XLIII<br />
+A. de Saint-Exupéry</p></div>
 
 Durant ces dernières décades et jusqu'à présent, les pays du tiers monde ont bénéficié d'une assistance étrangère ou internationale, matérielle et technique qui a aidé à leur développement.
 

@@ -2,8 +2,9 @@
 title: "Maladie du sommeil"
 author: "Alain Buguet et l'équipe de recherches sur sommeil et trypanosomose réunissant des chercheurs de Brazzaville, , Luanda, Franceville, Daloa, Abidjan, Limoges, Grenoble, Lyon. Alain BUGUET, courriel : a.buquet@free.fr"
 date: "2004-06-05"
-teaser: "Maladie du sommeil : les troubles du cycle veille-sommeil et de sa structure sont un marqueur précoce du stade nerveux"
 ---
+
+<div class="teaser"><p>Maladie du sommeil : les troubles du cycle veille-sommeil et de sa structure sont un marqueur précoce du stade nerveux</p></div>
 
 Classiquement, la trypanosomose humaine africaine (THA) évolue en 3 phases successives une phase d'incubation de quelques jours à 3 semaines, une phase lymphaticosanguine (stade I) avec fièvre oscillante et adénopathies, et une phase de méningo-encéphalite (stade II) évoluant vers la mort si aucun traitement n'est entrepris. Le nom de maladie du sommeil donné à la THA vient de la somnolence diurne qui est le signe le plus fréquemment noté au stade II.
 

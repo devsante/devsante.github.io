@@ -2,8 +2,9 @@
 title: "Références religieuses et rôle des leaders musulmans pour l'abandon de l'excision"
 author: "Professeur Gamal. I. Serour* Professeur d'Obstétrique et de Gynécologie Directeur, Centre International Islamique pour les études et recherches en populations, Université d'Al-Azhar"
 date: "2014-06-18"
-teaser: "Une certaine confusion a longtemps régné sur le caractère religieux de la pratique de l'excision, notamment au sein de certaines communautés musulmanes. A l'Université Al-Azhar, nous avons étudié cette pratique à la lueur des textes coraniquesislamiques et présentons ici les raisons qui militent en faveur de son abandon."
 ---
+
+<div class="teaser"><p>Une certaine confusion a longtemps régné sur le caractère religieux de la pratique de l'excision, notamment au sein de certaines communautés musulmanes. A l'Université Al-Azhar, nous avons étudié cette pratique à la lueur des textes coraniquesislamiques et présentons ici les raisons qui militent en faveur de son abandon.</p></div>
 
 ## Une pratique pré-islamique et non majoritaire chez les musulmans
 

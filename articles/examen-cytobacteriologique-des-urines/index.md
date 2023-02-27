@@ -2,10 +2,11 @@
 title: "Examen cytobactériologique des urines"
 author: "Catherine Dupeyron Bactériologiste, Hôpital Albert Chenevier, Créteil, France."
 date: "2006-03-16"
-teaser: "Les infections urinaires sont très fréquentes. Souvent considérées comme banales et bénignes, elles peuvent aussi avoir des conséquences pathologiques sévères et entraîner des complications graves, notamment des atteintes de la fonction rénale.  
-Le diagnostic d'infection urinaire évoqué sur l'examen clinique du malade sera confirmé si pos­sible par l'analyse cytobactériologique des urines (ECBU).  
-Si l'ECBU n'a pas une grande importance pour une simple cystite (pas de fièvre), il est essentiel pour les infections autres (pyélonéphrite avec fièvre, douleurs lombaires)."
 ---
+
+<div class="teaser"><p>Les infections urinaires sont très fréquentes. Souvent considérées comme banales et bénignes, elles peuvent aussi avoir des conséquences pathologiques sévères et entraîner des complications graves, notamment des atteintes de la fonction rénale.<br />
+Le diagnostic d'infection urinaire évoqué sur l'examen clinique du malade sera confirmé si pos­sible par l'analyse cytobactériologique des urines (ECBU).<br />
+Si l'ECBU n'a pas une grande importance pour une simple cystite (pas de fièvre), il est essentiel pour les infections autres (pyélonéphrite avec fièvre, douleurs lombaires).</p></div>
 
 Cet examen comprend plusieurs étapes :
 

@@ -2,13 +2,14 @@
 title: "Planification des activités de vaccination"
 author: "Philippe Jaillard Agence pour la Médecine Préventive (AMP), Ouogadougou, Birkina Faso  "
 date: "2010-04-30"
-teaser: "Le succès du programme de vaccination repose sur 2 éléments :
-
-*   la demande de services : pourquoi des parents choisiraient la vaccination comme moyen de protection de leurs enfants contre les maladies ?
-*   l’offre de services : comment agir pour que les services de vaccination disposent des personnes compétentes et motivées, des vaccins et matériels de qualité afin de vacciner toutes les personnes concernées au moment souhaité ?
-
-Les réponses à ces questions vont permettre d’élaborer un plan d’action. Celui-ci est l’aboutissement d’une démarche systématique. Il doit être orienté afin que le programme atteigne chaque personne ciblée par la vaccination."
 ---
+
+<div class="teaser"><p>Le succès du programme de vaccination repose sur 2 éléments :</p>
+<ul>
+<li>la demande de services : pourquoi des parents choisiraient la vaccination comme moyen de protection de leurs enfants contre les maladies ?</li>
+<li>l’offre de services : comment agir pour que les services de vaccination disposent des personnes compétentes et motivées, des vaccins et matériels de qualité afin de vacciner toutes les personnes concernées au moment souhaité ?</li>
+</ul>
+<p>Les réponses à ces questions vont permettre d’élaborer un plan d’action. Celui-ci est l’aboutissement d’une démarche systématique. Il doit être orienté afin que le programme atteigne chaque personne ciblée par la vaccination.</p></div>
 
 ## I. Analyse de situation
 

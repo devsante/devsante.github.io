@@ -2,15 +2,16 @@
 title: "Les anti-inflammatoires non stéroïdiens"
 author: "Gorette Dos Santos Médecin généraliste"
 date: "2003-10-12"
-teaser: "Tous les AINS ont des propriétés anti-inflammatoires, antalgiques et antipyrétiques.  
-Ils ont tous, à des degrés divers, des effets secondaires quelle que soit la voie d'administration.  
-Les AINS sont utilisés :
-
-*   au long cours comme traitement symptomatique de rhumatismes inflammatoires chroniques (polyarthrite rhumatoïde…), de certaines arthroses douloureuses et invalidantes,
-*   en traitement de courte durée en rhumatologie (arthrites microcristallines, affections abarticulaires : tendinites…, pathologie rachidienne : lombalgies…, poussées aiguës d'arthrose), en traumatologie, en urologie (colique néphrétique), en gynécologie (dysménorrhée).
-
-Quand ils sont utilisés en thérapeutique d'appoint, notamment en ORL (otites, sinusites..), en stomatologie, leurs risques, en particulier lorsqu'il existe un processus infectieux concomitant, doivent être évalués par rapport au bénéfice attendu."
 ---
+
+<div class="teaser"><p>Tous les AINS ont des propriétés anti-inflammatoires, antalgiques et antipyrétiques.<br />
+Ils ont tous, à des degrés divers, des effets secondaires quelle que soit la voie d'administration.<br />
+Les AINS sont utilisés :</p>
+<ul>
+<li>au long cours comme traitement symptomatique de rhumatismes inflammatoires chroniques (polyarthrite rhumatoïde…), de certaines arthroses douloureuses et invalidantes,</li>
+<li>en traitement de courte durée en rhumatologie (arthrites microcristallines, affections abarticulaires : tendinites…, pathologie rachidienne : lombalgies…, poussées aiguës d'arthrose), en traumatologie, en urologie (colique néphrétique), en gynécologie (dysménorrhée).</li>
+</ul>
+<p>Quand ils sont utilisés en thérapeutique d'appoint, notamment en ORL (otites, sinusites..), en stomatologie, leurs risques, en particulier lorsqu'il existe un processus infectieux concomitant, doivent être évalués par rapport au bénéfice attendu.</p></div>
 
 Les AINS peuvent être divisés en plusieurs familles.  
 Le choix d'un médicament doit faire intervenir l'indication, l'efficacité, la tolérance et les risques.

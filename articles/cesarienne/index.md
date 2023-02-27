@@ -2,9 +2,10 @@
 title: "Césarienne"
 author: "Par Jacques Penot Chirurgien, Blois, France."
 date: "2010-12-03"
-teaser: "C'est un \"accouchement artificiel\", l'enfant étant mis au monde par ouverture chirurgicale de l'abdomen et de l'utérus.  
-La fréquence des césariennes par rapport au nombre total des accouchements varie de 5 à 8 %."
 ---
+
+<div class="teaser"><p>C'est un "accouchement artificiel", l'enfant étant mis au monde par ouverture chirurgicale de l'abdomen et de l'utérus.<br />
+La fréquence des césariennes par rapport au nombre total des accouchements varie de 5 à 8 %.</p></div>
 
 ## I. Indications
 

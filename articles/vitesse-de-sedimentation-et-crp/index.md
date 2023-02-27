@@ -2,8 +2,9 @@
 title: "Vitesse de sédimentation et CRP"
 author: "Françoise Balédent Biologiste, Centre Hospitalier de Saint-Denis (93), France."
 date: "2008-03-17"
-teaser: "La vitesse de sédimentation (VS) des érythrocytes reste encore un test communément utilisé pour déceler et surveiller les maladies s'accompagnant d'un syndrome inflammatoire. En effet, la VS évolue parallèlement aux protéines de la réaction inflammatoire, avec en particulier le fibrinogè­ne. Cependant, la VS peut également être modifiée au cours d'états pathologiques n'impliquant pas un syndrome inflammatoire, mais une anomalie des immunoglobulines. La C Reactive Protein (CRP) est une protéine sérique spécifique de la réaction inflammatoire, synthé­tisée par le foie, précocement au cours de la réponse inflammatoire."
 ---
+
+<div class="teaser"><p>La vitesse de sédimentation (VS) des érythrocytes reste encore un test communément utilisé pour déceler et surveiller les maladies s'accompagnant d'un syndrome inflammatoire. En effet, la VS évolue parallèlement aux protéines de la réaction inflammatoire, avec en particulier le fibrinogè­ne. Cependant, la VS peut également être modifiée au cours d'états pathologiques n'impliquant pas un syndrome inflammatoire, mais une anomalie des immunoglobulines. La C Reactive Protein (CRP) est une protéine sérique spécifique de la réaction inflammatoire, synthé­tisée par le foie, précocement au cours de la réponse inflammatoire.</p></div>
 
 ## I. Méthodes de mesure
 

@@ -2,8 +2,9 @@
 title: "Surveillance clinique et biologique des hépatites chroniques B et C"
 author: "Konaté Anselme Service d'hépato-gastro-entérologie, CHU Gabriel Touré, Bamako, Mali"
 date: "2012-09-11"
-teaser: "Nous n’envisagerons dans cet article que les situations d’infections chroniques par VHB et VHC non traitées."
 ---
+
+<div class="teaser"><p>Nous n’envisagerons dans cet article que les situations d’infections chroniques par VHB et VHC non traitées.</p></div>
 
 ## I. Surveillance d’une hépatite chronique B non traitée
 

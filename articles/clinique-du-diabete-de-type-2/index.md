@@ -2,8 +2,9 @@
 title: "Clinique du diabète de type 2"
 author: "Angélique Thierry Médecin généraliste, Créteil, France."
 date: "2009-08-10"
-teaser: "Le diabète de type 2 (80 % des cas), longtemps asymptomatique, est le plus souvent découvert vers l'âge de 50 ans. La présence de complications dégénératives est donc fréquente au moment du diagnostic. Dans la grande majorité des cas, il est lié a une obésité et associé a une hypertension artérielle, a une hyperlipidémie, et a une hyperuricémie, On parle alors de syndrome métabolique qui regroupe les principaux facteurs de risques cardio-vasculaires."
 ---
+
+<div class="teaser"><p>Le diabète de type 2 (80 % des cas), longtemps asymptomatique, est le plus souvent découvert vers l'âge de 50 ans. La présence de complications dégénératives est donc fréquente au moment du diagnostic. Dans la grande majorité des cas, il est lié a une obésité et associé a une hypertension artérielle, a une hyperlipidémie, et a une hyperuricémie, On parle alors de syndrome métabolique qui regroupe les principaux facteurs de risques cardio-vasculaires.</p></div>
 
 ## I. Diagnostic du diabète type 2
 

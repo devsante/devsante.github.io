@@ -2,8 +2,9 @@
 title: "Drépanocytose : traitement par l'hydroxyurée"
 author: "Dr Brigitte RETALI"
 date: "2016-07-15"
-teaser: "Utilisée depuis plus de 25 ans, l’hydroxyurée est le médicament efficace sur la prévention et/ou l'atténuation des crises vaso-occlusives (CVO) et des syndromes thoraciques dans la drépanocytose. En 2016, elle est cependant sous-utilisée si l’on considère son efficacité, sa tolérance et son faible coût."
 ---
+
+<div class="teaser"><p>Utilisée depuis plus de 25 ans, l’hydroxyurée est le médicament efficace sur la prévention et/ou l'atténuation des crises vaso-occlusives (CVO) et des syndromes thoraciques dans la drépanocytose. En 2016, elle est cependant sous-utilisée si l’on considère son efficacité, sa tolérance et son faible coût.</p></div>
 
 ## Indications
 

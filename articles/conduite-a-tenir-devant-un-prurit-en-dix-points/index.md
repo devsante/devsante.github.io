@@ -2,8 +2,9 @@
 title: "Conduite à tenir devant un prurit en dix points"
 author: "Alfred Mahr Service de médecine interne et des maladies infectieuses, hôpital Avicenne, Bobigny, France."
 date: "2000-02-02"
-teaser: "Plus qu'un symptôme parfois très désagréable, le prurit constitue un véritable signal d'appel pour des maladies aussi diverses que la gale, les affections cutanées, les hémopathies malignes ou l'insuffisance rénale chronique. Face à un prurit, le diagnostic étiologique repose principalement sur l'analyse topographique du prurit et la recherche minutieuse de lésions cutanées ne pouvant être attribuées au grattage. Le meilleur traitement du prurit est étiologique. Les mesures symptomatiques font appel aux médicaments anti-histaminiques et à l'utilisation de produits d'hygiène adaptés, dont l'efficacité est souvent incomplète."
 ---
+
+<div class="teaser"><p>Plus qu'un symptôme parfois très désagréable, le prurit constitue un véritable signal d'appel pour des maladies aussi diverses que la gale, les affections cutanées, les hémopathies malignes ou l'insuffisance rénale chronique. Face à un prurit, le diagnostic étiologique repose principalement sur l'analyse topographique du prurit et la recherche minutieuse de lésions cutanées ne pouvant être attribuées au grattage. Le meilleur traitement du prurit est étiologique. Les mesures symptomatiques font appel aux médicaments anti-histaminiques et à l'utilisation de produits d'hygiène adaptés, dont l'efficacité est souvent incomplète.</p></div>
 
 Le prurit se définit comme une sensation conduisant à une envie irrésistible de se gratter.  
 Il s'agit d'un motif de consultation fréquent qui pose alors un double problème :

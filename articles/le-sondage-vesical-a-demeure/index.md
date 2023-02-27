@@ -2,9 +2,10 @@
 title: "Le sondage vésical à demeure"
 author: "Muriel Franceschetti Service urologie, Centre hospitalier d'Ajaccio, France."
 date: "2000-04-02"
-teaser: "La sonde vésicale à demeure est indiquée en cas d'incontinence urinaire ou de rétention permanente (paraplégique, malade inopérable) lorsqu'aucune autre alternative n'est envisageable.  
-Dans tous les cas, ce geste doit être atraumatique, indolore, stérile"
 ---
+
+<div class="teaser"><p>La sonde vésicale à demeure est indiquée en cas d'incontinence urinaire ou de rétention permanente (paraplégique, malade inopérable) lorsqu'aucune autre alternative n'est envisageable.<br />
+Dans tous les cas, ce geste doit être atraumatique, indolore, stérile</p></div>
 
 ## I. Matériel
 

@@ -2,8 +2,9 @@
 title: "Traitement orthopédique du pied bot varus équin : en opérer le moins possible…"
 author: "Pierre MARY , chirurgien, Paris"
 date: "2020-04-02"
-teaser: "Les traitements du pied bot varus (PBVE) équin se sont modifiés durant ces vingt dernières années. Ceci a eu pour effet essentiel de diminuer la proportion de pieds bots opérés de manière très importante, ce qui est une amélioration tant sur la lourdeur du traitement que sur la qualité des résultats. Quel que soit le traitement, le but fixé est d’obtenir un pied plantigrade fonctionnel, indolore et vieillissant bien."
 ---
+
+<div class="teaser"><p>Les traitements du pied bot varus (PBVE) équin se sont modifiés durant ces vingt dernières années. Ceci a eu pour effet essentiel de diminuer la proportion de pieds bots opérés de manière très importante, ce qui est une amélioration tant sur la lourdeur du traitement que sur la qualité des résultats. Quel que soit le traitement, le but fixé est d’obtenir un pied plantigrade fonctionnel, indolore et vieillissant bien.</p></div>
 
 ## I- Qu’est-ce qu’un pied bot varus équin ? 
 Il s’agit d’une malformation néonatale du pied (1 à 4 pour 1 000 naissances) qui associe des anomalies musculaires, ligamentaires, et osseuses, aboutissant à une déformation dans les trois plans de l’espace (1) : 

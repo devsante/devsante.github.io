@@ -2,13 +2,14 @@
 title: "Prescrire chez l'enfant"
 author: "Philippe Reinert, pédiatre, Créteil, France."
 date: "2002-06-10"
-teaser: "L'enfant est un être en développement, il n'est pas un adulte en miniature. La transformation physiologique qu'il subit au cours de la maturation modifient :
-
-*   le devenir de nombreux médicaments (pharmacocinétique),
-*   la réponse à certains médicaments (pharmacodynamie).
-
-Ignorer ces particularités peut conduire à des accidents médicamenteux ou à l'inefficacité du traitement."
 ---
+
+<div class="teaser"><p>L'enfant est un être en développement, il n'est pas un adulte en miniature. La transformation physiologique qu'il subit au cours de la maturation modifient :</p>
+<ul>
+<li>le devenir de nombreux médicaments (pharmacocinétique),</li>
+<li>la réponse à certains médicaments (pharmacodynamie).</li>
+</ul>
+<p>Ignorer ces particularités peut conduire à des accidents médicamenteux ou à l'inefficacité du traitement.</p></div>
 
 ## I. Particularités pharmacocinétiques chez l'enfant
 

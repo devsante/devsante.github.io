@@ -2,12 +2,12 @@
 title: "La rage"
 author: "Catherine Dupeyron, Biologiste, Créteil, France Philippe Reinert, pédiatre, Créteil, France"
 date: "2015-02-15"
-teaser: "La rage est responsable encore actuellement de plus de 55 000 décès par an dans le monde, la majeure partie en Asie et en Afrique, sans compter les nombreux cas non diagnostiqués. Dans 30 % à 50 % des cas, elle survient chez des enfants de moins de quinze ans. Cette maladie est mal contrôlée, elle est de plus en plus fréquente dans les plus de 100 pays où elle sévit.
-
-C'est une maladie provoquée par un virus qui peut atteindre l'homme et de nombreux animaux. Elle est le plus souvent transmise à l'homme par la salive, lors d'une morsure par un chien enragé.  
-Le **nettoyage de la plaie et la vaccination**, effectués le plus rapidement possible après contact ou morsure par un animal suspect et en suivant les recommandations de l'OMS, permettent de prévenir l'apparition de la rage dans près de 100 % des cas.  
-Une fois que la maladie est déclarée, que les signes et symptômes de la rage commen­cent à apparaître, aucun traitement n'est efficace et la maladie est toujours mortelle."
 ---
+
+<div class="teaser"><p>La rage est responsable encore actuellement de plus de 55 000 décès par an dans le monde, la majeure partie en Asie et en Afrique, sans compter les nombreux cas non diagnostiqués. Dans 30 % à 50 % des cas, elle survient chez des enfants de moins de quinze ans. Cette maladie est mal contrôlée, elle est de plus en plus fréquente dans les plus de 100 pays où elle sévit.</p>
+<p>C'est une maladie provoquée par un virus qui peut atteindre l'homme et de nombreux animaux. Elle est le plus souvent transmise à l'homme par la salive, lors d'une morsure par un chien enragé.<br />
+Le <strong>nettoyage de la plaie et la vaccination</strong>, effectués le plus rapidement possible après contact ou morsure par un animal suspect et en suivant les recommandations de l'OMS, permettent de prévenir l'apparition de la rage dans près de 100 % des cas.<br />
+Une fois que la maladie est déclarée, que les signes et symptômes de la rage commen­cent à apparaître, aucun traitement n'est efficace et la maladie est toujours mortelle.</p></div>
 
 ## I. Le virus
 

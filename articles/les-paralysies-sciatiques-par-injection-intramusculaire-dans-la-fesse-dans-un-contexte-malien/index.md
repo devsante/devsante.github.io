@@ -2,10 +2,11 @@
 title: "Les paralysies sciatiques par injection intramusculaire dans la fesse dans un contexte malien"
 author: "P. Provoost* et G. Taussig** * Chargé de la prévention du handicap, Direction nationale de l'action sociale, BP E 2718, Bamako, Mali. ** Médecin de médecine physique et réadaptation, Institut national de réadaptation, Saint-Maurice, France."
 date: "2000-04-02"
-teaser: "Les paralysies sciatiques par injection dans la fesse constituent une réalité invalidante fréquente et évitable, justifiant d'y insister.  
-Ce travail est basé sur une expérience de l'un d'entre nous qui travaille dans le Sahel Malien depuis 18 ans.  
-Nous reverrons rapidement le rappel clinique, le mécanisme lésionnel, l'évolution spontanée et le diagnostic différentiel pour nous attarder sur la réalité du contexte malien en ce domaine et les mesures préventives possibles pour les éviter."
 ---
+
+<div class="teaser"><p>Les paralysies sciatiques par injection dans la fesse constituent une réalité invalidante fréquente et évitable, justifiant d'y insister.<br />
+Ce travail est basé sur une expérience de l'un d'entre nous qui travaille dans le Sahel Malien depuis 18 ans.<br />
+Nous reverrons rapidement le rappel clinique, le mécanisme lésionnel, l'évolution spontanée et le diagnostic différentiel pour nous attarder sur la réalité du contexte malien en ce domaine et les mesures préventives possibles pour les éviter.</p></div>
 
 ## I. Signes cliniques
 

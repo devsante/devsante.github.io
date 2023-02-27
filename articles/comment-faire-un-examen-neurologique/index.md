@@ -2,11 +2,12 @@
 title: "Comment faire un examen neurologique ?"
 author: "Hélène de Saxcé Neurologue, ancien chef de service adjoint, hôpital Saint-Joseph, Paris, France."
 date: "1999-08-14"
-teaser: "Devant un malade consultant pour une paralysie, une douleur, des troubles de la sensibilité, avant tout examen complémentaire, il est capital, par un bon interrogatoire et un examen clinique précis, d'essayer de déterminer le siège de la lésion.  
-En effet, suivant le siège de la lésion, il sera souvent possible de \"suspecter\" le diagnostic et de prendre la bonne décision.  
-Un monde sépare la poliomyélite, la compression médullaire traumatique ou tumorale et le simulateur.  
-Cet article porte sur l'étude de la motricité et des réflexes."
 ---
+
+<div class="teaser"><p>Devant un malade consultant pour une paralysie, une douleur, des troubles de la sensibilité, avant tout examen complémentaire, il est capital, par un bon interrogatoire et un examen clinique précis, d'essayer de déterminer le siège de la lésion.<br />
+En effet, suivant le siège de la lésion, il sera souvent possible de "suspecter" le diagnostic et de prendre la bonne décision.<br />
+Un monde sépare la poliomyélite, la compression médullaire traumatique ou tumorale et le simulateur.<br />
+Cet article porte sur l'étude de la motricité et des réflexes.</p></div>
 
 ## I. Étude de la motricité
 

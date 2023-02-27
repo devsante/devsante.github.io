@@ -2,8 +2,9 @@
 title: "Viroses tropicales (hors Ebola)"
 author: "Patrice Bourée Institut Alfred Fournier, Paris"
 date: "2014-10-25"
-teaser: "Les viroses sont des affections très répandues dans le monde et sont très loin d’être toutes répertoriées, d’autant plus que les réservoirs animaux sont innombrables. La majorité des viroses connues sont localisées dans les pays tropicaux, mais certaines existent dans les pays tempérés. Par ailleurs, les changements climatiques modifient les aires de répartition des vecteurs et l’épidémiologie de ces arboviroses. Cet article a pour but de faire un survol des principales viroses tropicales, dont certaines seront étudiées plus  spécifiquement dans des articles ultérieurs."
 ---
+
+<div class="teaser"><p>Les viroses sont des affections très répandues dans le monde et sont très loin d’être toutes répertoriées, d’autant plus que les réservoirs animaux sont innombrables. La majorité des viroses connues sont localisées dans les pays tropicaux, mais certaines existent dans les pays tempérés. Par ailleurs, les changements climatiques modifient les aires de répartition des vecteurs et l’épidémiologie de ces arboviroses. Cet article a pour but de faire un survol des principales viroses tropicales, dont certaines seront étudiées plus  spécifiquement dans des articles ultérieurs.</p></div>
 
 ## **Un syndrome grippal parfois grave**
 

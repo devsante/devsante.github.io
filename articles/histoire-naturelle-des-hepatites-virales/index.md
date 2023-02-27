@@ -2,12 +2,13 @@
 title: "Histoire naturelle des hépatites virales"
 author: "Christian Mongin Médecin généraliste, Evry, France"
 date: "2012-07-26"
-teaser: "L'histoire naturelle d'une maladie, c'est son évolution spontanée sans aucune intervention médicale. Une bonne connaissance de cette histoire naturelle permet d'évaluer la gravité d'une maladie. Plus une maladie est potentiellement grave, plus elle justifie la mise en œuvre de stratégies associant dépistage, prévention et traitement.  
-L'histoire naturelle des hépatites est bien connue car ces maladies ont été  identifiées depuis longtemps, mais les premières approches thérapeutiques ne datent que de quelques années.  
-Leur évolution spontanée a donc pu être (malheureusement) observée avec précision.  
-Nous verrons que la plupart des hépatites peuvent avoir une évolution dramatique concernant des populations importantes, ce qui justifie une intensification des moyens utilisés pour les prévenir et les traiter.  
-Nous aborderons surtout les aspects cliniques car un autre article sera consacré à la biologie des hépatites."
 ---
+
+<div class="teaser"><p>L'histoire naturelle d'une maladie, c'est son évolution spontanée sans aucune intervention médicale. Une bonne connaissance de cette histoire naturelle permet d'évaluer la gravité d'une maladie. Plus une maladie est potentiellement grave, plus elle justifie la mise en œuvre de stratégies associant dépistage, prévention et traitement.<br />
+L'histoire naturelle des hépatites est bien connue car ces maladies ont été  identifiées depuis longtemps, mais les premières approches thérapeutiques ne datent que de quelques années.<br />
+Leur évolution spontanée a donc pu être (malheureusement) observée avec précision.<br />
+Nous verrons que la plupart des hépatites peuvent avoir une évolution dramatique concernant des populations importantes, ce qui justifie une intensification des moyens utilisés pour les prévenir et les traiter.<br />
+Nous aborderons surtout les aspects cliniques car un autre article sera consacré à la biologie des hépatites.</p></div>
 
 ## I. Hépatite A
 

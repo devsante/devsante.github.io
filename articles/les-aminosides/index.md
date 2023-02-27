@@ -2,8 +2,9 @@
 title: "Les aminosides"
 author: "Philippe Reinert Pédiatre, Hôpital Intercommunal, Créteil, France."
 date: "1998-02-17"
-teaser: "Depuis la découverte de la streptomycine en 1944, premier médicament efficace contre la tuberculose (qui était alors le plus souvent mortelle), la famille des aminoglycosides (ou aminosides) s'est enrichie de nombreux antibiotiques : néomycine, gentamycine, tobramycine, kanamycine, etc."
 ---
+
+<div class="teaser"><p>Depuis la découverte de la streptomycine en 1944, premier médicament efficace contre la tuberculose (qui était alors le plus souvent mortelle), la famille des aminoglycosides (ou aminosides) s'est enrichie de nombreux antibiotiques : néomycine, gentamycine, tobramycine, kanamycine, etc.</p></div>
 
 Ces nouveaux antibiotiques ont tous en commun d'être :
 

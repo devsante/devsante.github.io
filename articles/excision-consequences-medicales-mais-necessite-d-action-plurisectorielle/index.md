@@ -2,8 +2,9 @@
 title: "Excision, conséquences médicales mais nécessité d'action plurisectorielle"
 author: "Par Isabelle Huguet-Wachsmuth, OMS, Genève"
 date: "2014-09-21"
-teaser: "A l'invitation du collectif _Excision, parlons-en !_ et de l'association Formation permanente Développement et Santé, nous proposons ici notre éclairage sur la situation de l'excision et formulons quelques propositions pour l'avenir."
 ---
+
+<div class="teaser"><p>A l'invitation du collectif <em>Excision, parlons-en !</em> et de l'association Formation permanente Développement et Santé, nous proposons ici notre éclairage sur la situation de l'excision et formulons quelques propositions pour l'avenir.</p></div>
 
 ## I. L'intérêt de l'excision pour l'initiative HIFA-EVIPNET de l'OMS
 

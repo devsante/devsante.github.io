@@ -2,10 +2,11 @@
 title: "Les porteurs du trait drépanocytaire AS"
 author: "Assa Niakaté, Aurélie Stanislas, Christelle Rémus, Robert Girot"
 date: "2019-01-10"
-teaser: "La drépanocytose est une maladie génétique de l’hémoglobine à transmission autosomique récessive due à la mutation S du gène de la β-globine. Il résulte de cette mutation la présence de l’hémoglobine S dans le globule rouge. La drépanocytose est une maladie génétique fréquente dans le monde. 
-L’Organisation Mondiale de la Santé estime à 230 000 le nombre d’enfants naissant chaque année atteints d’un syndrome drépanocytaire majeur.
-Le risque génétique auquel sont exposés les porteurs des traits AS ou AC de donner naissance à un enfant atteint d’un syndrome drépanocytaire majeur étant identique, nous considérons dans ce travail comme porteurs du trait les sujets soit AS, soit AC (AS/AC). Nous préciserons cependant dans le texte les considérations ne concernant que les porteurs du trait AS."
 ---
+
+<div class="teaser"><p>La drépanocytose est une maladie génétique de l’hémoglobine à transmission autosomique récessive due à la mutation S du gène de la β-globine. Il résulte de cette mutation la présence de l’hémoglobine S dans le globule rouge. La drépanocytose est une maladie génétique fréquente dans le monde.<br />
+L’Organisation Mondiale de la Santé estime à 230 000 le nombre d’enfants naissant chaque année atteints d’un syndrome drépanocytaire majeur.<br />
+Le risque génétique auquel sont exposés les porteurs des traits AS ou AC de donner naissance à un enfant atteint d’un syndrome drépanocytaire majeur étant identique, nous considérons dans ce travail comme porteurs du trait les sujets soit AS, soit AC (AS/AC). Nous préciserons cependant dans le texte les considérations ne concernant que les porteurs du trait AS.</p></div>
 
 ## I. Les circonstances du dépistage des porteurs du trait AS/AC
 Elles sont nombreuses :

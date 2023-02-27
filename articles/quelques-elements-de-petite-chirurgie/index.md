@@ -1,8 +1,9 @@
 ---
 title: "Quelques éléments de petite chirurgie"
 date: "1982-12-29"
-teaser: "La plaie et la peau environnante seront nettoyées au savon ou au sérum physiologique et détergées à l'alcool ou à l'éther. La plaie peut être brossée avec une brosse stérile pour la débarrasser des fragments de graviers ou de goudrons. Un rasage discret dégagera si besoin la région des poils ou cheveux qui gêneraient l'exploration et la suture."
 ---
+
+<div class="teaser"><p>La plaie et la peau environnante seront nettoyées au savon ou au sérum physiologique et détergées à l'alcool ou à l'éther. La plaie peut être brossée avec une brosse stérile pour la débarrasser des fragments de graviers ou de goudrons. Un rasage discret dégagera si besoin la région des poils ou cheveux qui gêneraient l'exploration et la suture.</p></div>
 
 **A.** Un antiseptique (alcool iodé, mercryl, amonium quaternaire) achève de désinfecter la peau autour de la plaie. Un champ stérile troué est placé, centré sur la plaie. Les plaies souillées de terre seront utilement nettoyées avec de l'eau oxygénée en prévention de la gangrène gazeuse.
 

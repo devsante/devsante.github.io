@@ -2,15 +2,13 @@
 title: "Le rôle d'une psychologue auprès de femmes et d'enfants concernés par le VIH/SIDA"
 author: "Par Louise- Hortense Aka Dago-Akribi Psychologue clinicienne"
 date: "2004-10-04"
-teaser: "Le VIH/SIDA est une pandémie mondiale qui touche l'individu non seulement sur le plan physique, mais également psychique car il renvoie à une angoisse de mort et de fin de vie.
-
-La prise en charge médicale a montré son efficacité. Cependant, la personne concernée par le VIH pose des problèmes autres que ceux entrevus dans les symptômes physiques \"Je ne suis plus une femme ! Comment ai-je pu donner le sida à mon enfant ? Comment vivre mon adolescence alors que je suis déjà mort ? Pourquoi prendre autant de médicaments ? Je ne sais pas avec qui parler de la maladie...\".  
-Autant de réactions qui interpellent sur l'aspect psychologique. Elles ont conduit la plupart des équipes à intégrer l'intervention du psychologue dans le but d'optimiser la prise en charge globale du patient infecté par le VIH.
-
-C'est dans le cadre de différents projets de recherche de l'Agence Nationale de Recherche sur le Sida (ANRS) Ditrame ANRS 049, Ditrame plus ANRS 1201-1202, Programme Enfant de Yopougon ANRS 1277/1278, menés à Abidjan pour les femmes enceintes, les enfants et les adolescents ainsi que leurs parents que cette consultation originale a été développée.
-
-Quels sont les objectifs spécifiques de cette consultation, comment est-elle pratiquée et quels en sont les effets ?"
 ---
+
+<div class="teaser"><p>Le VIH/SIDA est une pandémie mondiale qui touche l'individu non seulement sur le plan physique, mais également psychique car il renvoie à une angoisse de mort et de fin de vie.</p>
+<p>La prise en charge médicale a montré son efficacité. Cependant, la personne concernée par le VIH pose des problèmes autres que ceux entrevus dans les symptômes physiques "Je ne suis plus une femme ! Comment ai-je pu donner le sida à mon enfant ? Comment vivre mon adolescence alors que je suis déjà mort ? Pourquoi prendre autant de médicaments ? Je ne sais pas avec qui parler de la maladie...".<br />
+Autant de réactions qui interpellent sur l'aspect psychologique. Elles ont conduit la plupart des équipes à intégrer l'intervention du psychologue dans le but d'optimiser la prise en charge globale du patient infecté par le VIH.</p>
+<p>C'est dans le cadre de différents projets de recherche de l'Agence Nationale de Recherche sur le Sida (ANRS) Ditrame ANRS 049, Ditrame plus ANRS 1201-1202, Programme Enfant de Yopougon ANRS 1277/1278, menés à Abidjan pour les femmes enceintes, les enfants et les adolescents ainsi que leurs parents que cette consultation originale a été développée.</p>
+<p>Quels sont les objectifs spécifiques de cette consultation, comment est-elle pratiquée et quels en sont les effets ?</p></div>
 
 ## I. Problématique
 

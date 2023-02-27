@@ -2,9 +2,10 @@
 title: "L'hémospermie"
 author: "François Pernin Chirurgien urologue, Centre hospitalier Notre-Dame de la Miséricorde, Ajaccio, France."
 date: "2001-10-14"
-teaser: "L'hémospermie, c'est-à-dire la présence de sang dans le sperme, est un symptôme toujours angoissant pour le malade et qui l'amène à consulter souvent en urgence.  
-Fort heureusement, les causes en sont le plus souvent tout à fait bénignes."
 ---
+
+<div class="teaser"><p>L'hémospermie, c'est-à-dire la présence de sang dans le sperme, est un symptôme toujours angoissant pour le malade et qui l'amène à consulter souvent en urgence.<br />
+Fort heureusement, les causes en sont le plus souvent tout à fait bénignes.</p></div>
 
 ## I. Rappel anatomique
 

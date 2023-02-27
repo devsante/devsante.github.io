@@ -2,21 +2,23 @@
 title: "Le nouveau-né de petit poids de naissance : 1. Le prématuré"
 author: "Par Jean-Bernard Joly Pédiatre, Angoulême, France."
 date: "2010-12-03"
-teaser: "Il y a un siècle, les enfants d'Europe nés prématurément et de petit poids de naissance n'avaient aucune chance de survie. Il n'était même pas conseillé de les aider à vivre afin de ne pas prolonger inutilement une agonie douloureuse.  
-On sait maintenant que cette \"sagesse des pauvres\" n'est que l'acceptation d'une fatalité inévitable. On connaît aussi son coût exorbitant. La mort précoce d'un petit enfant est toujours une peine immense pour sa mère. Les convenances sociales ne lui permettent pas toujours de l'exprimer. La mort d'un petit enfant est un échec familial qu'on tentera de combler par une autre naissance. Naissances rapprochées et mortalité maternelle sont étroitement associées.  
-C'est un Français, Budin, qui en 1900 environ, prouve le premier que la survie des prématurés est possible. Il décrit les trois conditions qui, à l'heure actuelle, restent encore les conditions primordiales :
-
-*   Créer autour de l'enfant une ambiance chaude. Conserver la chaleur de l'enfant. Il conseille de placer les enfants près du corps de leur mère. Il invente les premiers incubateurs.
-*   Alimenter ces enfants pour assurer leur croissance. Les premières sondes à gavage avec tulipe datent de cette époque. Le lait maternel est alors le seul lait disponible. Aujourd'hui encore c'est le meilleur nutriment.
-*   Soigner ces enfants avec le maximum de propreté : savonnage, lavage des mains, nettoyage des appareils...
-
-Il faut ajouter qu'il a été aussi le précurseur dans le domaine de la surveillance post-natale, montrant l'importance des consultations de nourrissons.  
-Les objectifs : ils sont au nombre de trois :
-
-*   Assurer la survie pendant les premières semaines de la vie, suppléer les fonctions nutritionnelles et protectrices de l'utérus.
-*   Eviter les morts de la première année, qui sont pour la plupart favorisées par la malnutrition.
-*   Permettre un développement moteur, sensoriel, affectif et intellectuel optimal."
 ---
+
+<div class="teaser"><p>Il y a un siècle, les enfants d'Europe nés prématurément et de petit poids de naissance n'avaient aucune chance de survie. Il n'était même pas conseillé de les aider à vivre afin de ne pas prolonger inutilement une agonie douloureuse.<br />
+On sait maintenant que cette "sagesse des pauvres" n'est que l'acceptation d'une fatalité inévitable. On connaît aussi son coût exorbitant. La mort précoce d'un petit enfant est toujours une peine immense pour sa mère. Les convenances sociales ne lui permettent pas toujours de l'exprimer. La mort d'un petit enfant est un échec familial qu'on tentera de combler par une autre naissance. Naissances rapprochées et mortalité maternelle sont étroitement associées.<br />
+C'est un Français, Budin, qui en 1900 environ, prouve le premier que la survie des prématurés est possible. Il décrit les trois conditions qui, à l'heure actuelle, restent encore les conditions primordiales :</p>
+<ul>
+<li>Créer autour de l'enfant une ambiance chaude. Conserver la chaleur de l'enfant. Il conseille de placer les enfants près du corps de leur mère. Il invente les premiers incubateurs.</li>
+<li>Alimenter ces enfants pour assurer leur croissance. Les premières sondes à gavage avec tulipe datent de cette époque. Le lait maternel est alors le seul lait disponible. Aujourd'hui encore c'est le meilleur nutriment.</li>
+<li>Soigner ces enfants avec le maximum de propreté : savonnage, lavage des mains, nettoyage des appareils...</li>
+</ul>
+<p>Il faut ajouter qu'il a été aussi le précurseur dans le domaine de la surveillance post-natale, montrant l'importance des consultations de nourrissons.<br />
+Les objectifs : ils sont au nombre de trois :</p>
+<ul>
+<li>Assurer la survie pendant les premières semaines de la vie, suppléer les fonctions nutritionnelles et protectrices de l'utérus.</li>
+<li>Eviter les morts de la première année, qui sont pour la plupart favorisées par la malnutrition.</li>
+<li>Permettre un développement moteur, sensoriel, affectif et intellectuel optimal.</li>
+</ul></div>
 
 ## I. Prématurés ou dysmatures
 

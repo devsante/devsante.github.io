@@ -2,12 +2,13 @@
 title: "L'eau potable"
 author: "Par Catherine Dupeyron Biologiste, Hôpital Henri Mondor, Créteil.  "
 date: "2005-06-03"
-teaser: "Qu'est ce qu'une eau potable ?  
-C'est une eau qui peut être consommée sans risque pour la santé, car elle n'est ni toxique, ni infestée de parasites, de bactéries ou de virus pathogènes pour l'homme.  
-L'eau est indispensable à l'homme, mais boire de l'eau peut être un geste dangereux. Actuellement dans le monde, 1 milliard de personnes n'ont pas accès à une source d'eau potable. Ces chiffres sont terribles quand on considère toutes les pathologies liées à l'eau qui sont rappelées dans ce site.  
-Une faible partie des habitants des pays du sud dispose d'un robinet privé, une autre s'approvisionne à partir de bornes ou fontaines, le reste de la population se sert directement à la source : dans les puits, les fleuves, ou les réserves pluviales naturelles. C'est là que l'exposition à la consommation d'eaux souillées est la plus importante.  
-Cependant il ne faut pas s'imaginer que l'eau, parce qu'elle coule à travers un robinet, est toujours bonne à la consommation. Tout dépend de la façon dont elle est purifiée et acheminée, c'est-à-dire de la qualité des réseaux, de leur entretien de leur contrôle."
 ---
+
+<div class="teaser"><p>Qu'est ce qu'une eau potable ?<br />
+C'est une eau qui peut être consommée sans risque pour la santé, car elle n'est ni toxique, ni infestée de parasites, de bactéries ou de virus pathogènes pour l'homme.<br />
+L'eau est indispensable à l'homme, mais boire de l'eau peut être un geste dangereux. Actuellement dans le monde, 1 milliard de personnes n'ont pas accès à une source d'eau potable. Ces chiffres sont terribles quand on considère toutes les pathologies liées à l'eau qui sont rappelées dans ce site.<br />
+Une faible partie des habitants des pays du sud dispose d'un robinet privé, une autre s'approvisionne à partir de bornes ou fontaines, le reste de la population se sert directement à la source : dans les puits, les fleuves, ou les réserves pluviales naturelles. C'est là que l'exposition à la consommation d'eaux souillées est la plus importante.<br />
+Cependant il ne faut pas s'imaginer que l'eau, parce qu'elle coule à travers un robinet, est toujours bonne à la consommation. Tout dépend de la façon dont elle est purifiée et acheminée, c'est-à-dire de la qualité des réseaux, de leur entretien de leur contrôle.</p></div>
 
 Quel que soit son mode d'acheminement, une eau, pour pouvoir être consommée sans danger, doit répondre à un certain nombre de critères stricts, appelés critères de potabilité :
 

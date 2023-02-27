@@ -2,19 +2,21 @@
 title: "Ligature du cordon"
 author: "Micheline Amzallag Pédiatre, Créteil, France"
 date: "2011-06-21"
-teaser: "Il s'agit d'une étape délicate et fondamentale à la période néonatale.  
-Buts :
-
-*   prévention des infections néonatales (omphalite, tétanos néo-natal)
-*   prévention des hémorragies du cordon
-
-Intérêts :
-
-*   technique de ligature simple et peu coûteuse
-*   testée avec succès dans la banlieue de Dakar
-*   chute rapide du cordon (réduction du risque infectieux et hémorragique sur cordon sec)
-*   absence de pansement au retour à domicile, prise en charge  maternelle exclusive en l'absence de complication"
 ---
+
+<div class="teaser"><p>Il s'agit d'une étape délicate et fondamentale à la période néonatale.<br />
+Buts :</p>
+<ul>
+<li>prévention des infections néonatales (omphalite, tétanos néo-natal)</li>
+<li>prévention des hémorragies du cordon</li>
+</ul>
+<p>Intérêts :</p>
+<ul>
+<li>technique de ligature simple et peu coûteuse</li>
+<li>testée avec succès dans la banlieue de Dakar</li>
+<li>chute rapide du cordon (réduction du risque infectieux et hémorragique sur cordon sec)</li>
+<li>absence de pansement au retour à domicile, prise en charge  maternelle exclusive en l'absence de complication</li>
+</ul></div>
 
 ## I. Utilisation de cette technique dans  
 les maternités du projet de soins de santé primaire de Pikine

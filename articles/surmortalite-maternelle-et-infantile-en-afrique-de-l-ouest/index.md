@@ -2,8 +2,9 @@
 title: "Surmortalité maternelle et infantile en Afrique de l'Ouest"
 author: "D'après Colette Berthoud, Journaliste à Radio France International. Article paru dans le Monde Diplomatique - janvier 2000."
 date: "2001-06-14"
-teaser: "Les enquêtes qui ont été faites sur la mortalité périnatale en Afrique de l'Ouest montrent de criantes inégalités entre pays riches et pays pauvres, et induisent une réorientation des politiques de santé pour faire reculer ensemble mortalité maternelle et mortalité infantile."
 ---
+
+<div class="teaser"><p>Les enquêtes qui ont été faites sur la mortalité périnatale en Afrique de l'Ouest montrent de criantes inégalités entre pays riches et pays pauvres, et induisent une réorientation des politiques de santé pour faire reculer ensemble mortalité maternelle et mortalité infantile.</p></div>
 
 ## I. Les chiffres révèlent des inégalités
 

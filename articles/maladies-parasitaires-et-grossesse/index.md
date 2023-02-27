@@ -2,8 +2,9 @@
 title: "Maladies parasitaires et grossesse"
 author: "Patrice Bourée Unité des Maladies Parasitaires et Tropicales, Institut Fournier, Paris"
 date: "2013-07-06"
-teaser: "Outre le paludisme ([traité dans un autre article](http://devsante.org/base-documentaire/gynecologie-obstetrique/paludisme-et-grossesse)), principale parasitose retentissant sur la grossesse, d’autres parasitoses, intestinales ou générales, fréquentes en zone tropicales, peuvent interférer avec la grossesse, avec habituellement une aggravation des troubles."
 ---
+
+<div class="teaser"><p>Outre le paludisme (<a href="http://devsante.org/base-documentaire/gynecologie-obstetrique/paludisme-et-grossesse">traité dans un autre article</a>), principale parasitose retentissant sur la grossesse, d’autres parasitoses, intestinales ou générales, fréquentes en zone tropicales, peuvent interférer avec la grossesse, avec habituellement une aggravation des troubles.</p></div>
 
 ## I. Amoébose
 

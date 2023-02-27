@@ -2,9 +2,10 @@
 title: "Nouveaux vaccins d’intérêt pour l’Afrique"
 author: "Par Micheline Amzallag*, Allégra Brami* Pédiatre, Créteil, France."
 date: "2009-04-29"
-teaser: "Le pneumocoque (_Streptococcus pneumoniae_) est la cause de 1,6 millions de décès par an dans le monde.  
-Un grand nombre de victimes sont des enfants de moins de 2 ans vivant dans des pays en développement, ou des personnes ayant un risque d'infection grave à pneumocoque (Voir schéma « méningite au Burkina Faso »)."
 ---
+
+<div class="teaser"><p>Le pneumocoque (<em>Streptococcus pneumoniae</em>) est la cause de 1,6 millions de décès par an dans le monde.<br />
+Un grand nombre de victimes sont des enfants de moins de 2 ans vivant dans des pays en développement, ou des personnes ayant un risque d'infection grave à pneumocoque (Voir schéma « méningite au Burkina Faso »).</p></div>
 
 ## I. Vaccinations contre les infections invasives à pneumocoque
 

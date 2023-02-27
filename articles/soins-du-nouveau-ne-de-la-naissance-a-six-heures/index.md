@@ -2,8 +2,9 @@
 title: "Soins du nouveau-né de la naissance à six heures"
 author: "Par Marie-Laurence Diamouténé-Sangaré*, Micheline Amzallag** *Assistante médicale, Cellule Sectorielle de Lutte Contre le VIH/SIDA, Bamako, Mali. **Pédiatre, Créteil, France."
 date: "2010-12-03"
-teaser: "Les consignes qui vont être données dans cet article s'adressent à la fois à une équipe travaillant en milieu médicalisé et lors d'un accouchement à domicile. C'est aux intervenants de savoir, à l'aide des consignes données ci-dessous, réunir au mieux toutes les conditions requises en terme d'environnement et de matériel pour permettre d'opérer avec le maximum de sécurité à la fois pour la mère et l'enfant (pour l'enfant, il s'agira de mettre tout en ceuvre pour parer à une urgence néonatale, prévenir une infection et mettre en route un allaitement maternel dès la première heure)."
 ---
+
+<div class="teaser"><p>Les consignes qui vont être données dans cet article s'adressent à la fois à une équipe travaillant en milieu médicalisé et lors d'un accouchement à domicile. C'est aux intervenants de savoir, à l'aide des consignes données ci-dessous, réunir au mieux toutes les conditions requises en terme d'environnement et de matériel pour permettre d'opérer avec le maximum de sécurité à la fois pour la mère et l'enfant (pour l'enfant, il s'agira de mettre tout en ceuvre pour parer à une urgence néonatale, prévenir une infection et mettre en route un allaitement maternel dès la première heure).</p></div>
 
 ## I. Quels sont les préparatifs de soins du nouveau-né
 

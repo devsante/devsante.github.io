@@ -2,10 +2,10 @@
 title: "Traumatisme de la troisième phalange des doigts"
 author: "François Pernin"
 date: "1983-03-01"
-teaser: "Les blessures des doigts et en particulier de la dernière phalange (qui porte l'ongle) sont fréquentes.
-
-Bien les connaître et les traiter permet d'éviter les séquelles de ces blessures (ankylose, infection, amputation) souvent gênantes pour un travailleur manuel."
 ---
+
+<div class="teaser"><p>Les blessures des doigts et en particulier de la dernière phalange (qui porte l'ongle) sont fréquentes.</p>
+<p>Bien les connaître et les traiter permet d'éviter les séquelles de ces blessures (ankylose, infection, amputation) souvent gênantes pour un travailleur manuel.</p></div>
 
 **Anatomie**
 

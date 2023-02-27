@@ -2,8 +2,9 @@
 title: "Oxygénothérapie"
 author: "J.-P. Homasson Centre Hospitalier Spécialisé en Pneumologie, Chevilly-Larue, France."
 date: "1999-02-02"
-teaser: "Après un rappel physiologique sur le transport et la mesure de l'oxygène dans le sang qui intéresse plus particulièrement les médecins, nous traitons, dans cet article, des moyens d'approvisionnement en oxygène et des indications. Ces informations aideront nos lecteurs à s'équiper et à utiliser au mieux l'oxygénothérapie, surtout en situation d'urgence."
 ---
+
+<div class="teaser"><p>Après un rappel physiologique sur le transport et la mesure de l'oxygène dans le sang qui intéresse plus particulièrement les médecins, nous traitons, dans cet article, des moyens d'approvisionnement en oxygène et des indications. Ces informations aideront nos lecteurs à s'équiper et à utiliser au mieux l'oxygénothérapie, surtout en situation d'urgence.</p></div>
 
 ## I. Transfert des gaz
 

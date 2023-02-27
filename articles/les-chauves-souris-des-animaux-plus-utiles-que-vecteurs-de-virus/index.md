@@ -2,8 +2,9 @@
 title: "Les chauves-souris : des animaux plus utiles que vecteurs de virus"
 author: "Patrice Bourée 1,2 et Aliréza Ensaf 2,3 1. Institut Fournier, 75 014 Paris 2. Laboratoire de parasitologie, hôpital Cochin, 75014 Paris 3. Laboratoire de Biologie, Hôpital de St Laurent du Maroni e-mail : patrice.bouree@bct.aphp.fr"
 date: "2015-05-16"
-teaser: "Les chauves-souris sont des animaux mal connus et souvent craints en raison de leur aspect étrange et de leur activité nocturne. Certaines populations les considèrent comme des animaux sacrés alors que d’autres les chassent et les clouent sur les portes pour chasser les mauvais esprits. Aussi n’est-il pas inutile de faire un rappel de l’activité de ces mammifères volants, répandus sur tous les continents, en dehors des régions polaires. Elles appartiennent à l’ordre des chiroptères, deuxième ordre des mammifères, après celui des rongeurs et comprennent plus de 1200 espèces, réparties en 18 familles."
 ---
+
+<div class="teaser"><p>Les chauves-souris sont des animaux mal connus et souvent craints en raison de leur aspect étrange et de leur activité nocturne. Certaines populations les considèrent comme des animaux sacrés alors que d’autres les chassent et les clouent sur les portes pour chasser les mauvais esprits. Aussi n’est-il pas inutile de faire un rappel de l’activité de ces mammifères volants, répandus sur tous les continents, en dehors des régions polaires. Elles appartiennent à l’ordre des chiroptères, deuxième ordre des mammifères, après celui des rongeurs et comprennent plus de 1200 espèces, réparties en 18 familles.</p></div>
 
 ## I. L’écholocation, un phénomène particulier
 

@@ -2,8 +2,9 @@
 title: "Quelle lutte contre la Covid-19 ?"
 author: "Jean-Loup Rey, médecin, santé publique"
 date: "2020-07-19"
-teaser: "Il n'existe pas actuellement de traitement efficace connu contre le SARS-CoV-2. Du fait de la contagiosité et de l'existence de formes graves, les mesures de prévention sont essentielles et les seules pouvant limiter la propagation de l'épidémie."
 ---
+
+<div class="teaser"><p>Il n'existe pas actuellement de traitement efficace connu contre le SARS-CoV-2. Du fait de la contagiosité et de l'existence de formes graves, les mesures de prévention sont essentielles et les seules pouvant limiter la propagation de l'épidémie.</p></div>
 
 ## Prévention
 Une seule méthode a été évaluée et/ou modélisée, c’est la **distanciation**. C'est-à-dire qu'il faut diminuer le nombre de contacts inter personnels. En dessous de 5 contacts physiques par jour, on diminue la transmission.

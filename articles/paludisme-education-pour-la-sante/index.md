@@ -2,10 +2,10 @@
 title: "Paludisme : éducation pour la santé"
 author: "Élisabeth Dumurgier Pédiatre, Institut Santé et Développement, Paris."
 date: "2008-07-03"
-teaser: "En matière de lutte contre le paludisme, les programmes d'Information-Éducation-Communica­tion (IEC) de la population sont essentiels. Parallèlement, l'introduction d'un volet \"éducation pour la santé\" dans les programmes scolaires permet d'apporter aux enfants des éléments indis­pensables d'information et de réflexion personnelle sur les grands thèmes de santé. Ils peuvent ensuite agir, seuls ou en groupes, pour appliquer dans leur vie de tous les jours ce qu'ils ont appris à l'école et transmettre leur nouveau savoir et savoir-faire à leur entourage.
-
-Nous donnons ci-dessous quelques exemples, tirés de documents « L'Enfant pour L'Enfant », d'activités possibles sur le thème du paludisme avec des enfants du primaire."
 ---
+
+<div class="teaser"><p>En matière de lutte contre le paludisme, les programmes d'Information-Éducation-Communica­tion (IEC) de la population sont essentiels. Parallèlement, l'introduction d'un volet "éducation pour la santé" dans les programmes scolaires permet d'apporter aux enfants des éléments indis­pensables d'information et de réflexion personnelle sur les grands thèmes de santé. Ils peuvent ensuite agir, seuls ou en groupes, pour appliquer dans leur vie de tous les jours ce qu'ils ont appris à l'école et transmettre leur nouveau savoir et savoir-faire à leur entourage.</p>
+<p>Nous donnons ci-dessous quelques exemples, tirés de documents « L'Enfant pour L'Enfant », d'activités possibles sur le thème du paludisme avec des enfants du primaire.</p></div>
 
 ## I. Choisir des objectifs simples, réalisables et évaluables
 

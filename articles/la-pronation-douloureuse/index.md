@@ -2,8 +2,9 @@
 title: "La pronation douloureuse"
 author: "Henri Carlioz Chirurgien orthopédique"
 date: "2006-03-16"
-teaser: "La pronation douloureuse est une urgence pédiatrique fréquente et bénigne qu'il faut connaître pour y penser le jour venu. Bien des attentes inutiles et des radiographies super­flues peuvent ainsi être évitées."
 ---
+
+<div class="teaser"><p>La pronation douloureuse est une urgence pédiatrique fréquente et bénigne qu'il faut connaître pour y penser le jour venu. Bien des attentes inutiles et des radiographies super­flues peuvent ainsi être évitées.</p></div>
 
 ## **I. Mécanisme et lésion**
 

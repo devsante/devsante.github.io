@@ -2,8 +2,9 @@
 title: "L'usage rationnel des ACT's sur le terrain : pourquoi et comment ?"
 author: "Pascal Millet Centre René Labusquière, Université Victor Segalen Bordeaux 2, 146 rue Léo Saignat, 33076 Bordeaux Cedex, France pascal.millet@ u-bordeaux2.fr"
 date: "2008-07-02"
-teaser: "Proposé au départ par Médecins Sans Frontières (MSF), et soutenu par l'OMS, l'usage à grande échelle des combinaisons thérapeutiques antipaludiques à base de dérivés d'artémisinine (ACT's) est devenu une réalité dans le monde pour le traitement de première intention du paludisme non ­compliqué1. En dehors des coûts beaucoup plus importants (à titre de comparaison un traite­ment complet par ACT vaut à l'heure actuelle au minimum 10 fois plus cher qu'un traitement par chloroquine ou par sulfadoxine - pyriméthamine SP), qui représentent un véritable obstacle à la diffusion de cette stratégie, une autre limite est la capacité des producteurs à récolter suffi­samment d'Artemisia annua de qualité."
 ---
+
+<div class="teaser"><p>Proposé au départ par Médecins Sans Frontières (MSF), et soutenu par l'OMS, l'usage à grande échelle des combinaisons thérapeutiques antipaludiques à base de dérivés d'artémisinine (ACT's) est devenu une réalité dans le monde pour le traitement de première intention du paludisme non ­compliqué1. En dehors des coûts beaucoup plus importants (à titre de comparaison un traite­ment complet par ACT vaut à l'heure actuelle au minimum 10 fois plus cher qu'un traitement par chloroquine ou par sulfadoxine - pyriméthamine SP), qui représentent un véritable obstacle à la diffusion de cette stratégie, une autre limite est la capacité des producteurs à récolter suffi­samment d'Artemisia annua de qualité.</p></div>
 
 Il est ainsi indispensable :  
 

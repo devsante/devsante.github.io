@@ -2,8 +2,9 @@
 title: "Progrès dans la prise en charge de la drépanocytose"
 author: "Philippe Reinert pédiatre, hôpital intercommunal, Créteil, France."
 date: "2000-12-14"
-teaser: "Première maladie génétique africaine, la drépanocytose affecte chaque année des milliers d'enfants. Toujours grave, elle a cependant bénéficié d'importants progrès médicaux qui permettent maintenant à de nombreux malades de mener une vie quasi normale."
 ---
+
+<div class="teaser"><p>Première maladie génétique africaine, la drépanocytose affecte chaque année des milliers d'enfants. Toujours grave, elle a cependant bénéficié d'importants progrès médicaux qui permettent maintenant à de nombreux malades de mener une vie quasi normale.</p></div>
 
 Avant d'aborder les nouveaux traitements, parlons des mesures préventives élémentaires :
 

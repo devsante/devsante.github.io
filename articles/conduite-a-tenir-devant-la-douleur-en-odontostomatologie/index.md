@@ -2,8 +2,9 @@
 title: "Conduite à tenir devant la douleur en odontostomatologie"
 author: "Madia Kessi Stomatologue, attaché aux Hôpitaux de Paris, France."
 date: "2001-10-14"
-teaser: "Devant une douleur en odontostomatologie, il convient d'abord d'établir un diagnostic et ensuite de traiter cette douleur. Nous aborderons les différentes étapes qui permettent de poser un diagnostic."
 ---
+
+<div class="teaser"><p>Devant une douleur en odontostomatologie, il convient d'abord d'établir un diagnostic et ensuite de traiter cette douleur. Nous aborderons les différentes étapes qui permettent de poser un diagnostic.</p></div>
 
 ## I. L'interrogatoire
 

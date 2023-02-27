@@ -2,8 +2,9 @@
 title: "Evaluation clinique des fonctions vitales"
 author: "Emmanuelle Lesprit Pédiatre"
 date: "2006-03-16"
-teaser: "Face à un patient, il est utile de pouvoir rapidement par quelques constantes simples donner l'état de ses fonctions vitales. Cette évaluation, qui prend quelques minutes, va permettre rapidement d'identifier le malade qui présente un risque vital. Il faut éventuellement reprendre régulièrement ces constantes pour les patients instables afin de détecter précocement une aggravation de leur état."
 ---
+
+<div class="teaser"><p>Face à un patient, il est utile de pouvoir rapidement par quelques constantes simples donner l'état de ses fonctions vitales. Cette évaluation, qui prend quelques minutes, va permettre rapidement d'identifier le malade qui présente un risque vital. Il faut éventuellement reprendre régulièrement ces constantes pour les patients instables afin de détecter précocement une aggravation de leur état.</p></div>
 
 ## I. La conscience
 

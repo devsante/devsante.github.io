@@ -2,10 +2,11 @@
 title: "L'homme et les micro-organismes"
 author: "Catherine Dupeyron Biologiste, Créteil, France"
 date: "2011-09-11"
-teaser: "L’homme vit au contact d’un très grand nombre de micro-organismes présents dans son environnement : virus, bactéries, parasites. Il en est lui-même porteur d’une très grande quantité, bactéries essentiellement. Le nombre total de bactéries présentes sur la peau, les téguments, les  
-muqueuses et le tube digestif a été évalué à dix mille milliards (Figure 1).  
-Il est classique de dire que l’homme est porteur d’un plus grand nombre de bactéries que de cellules. Le tube digestif du foetus est stérile, mais la colonisation bactérienne est si précoce et rapide que, dès la 48ème heure après la naissance, elle est quantitativement voisine de celle de l’adulte (Figure 2)."
 ---
+
+<div class="teaser"><p>L’homme vit au contact d’un très grand nombre de micro-organismes présents dans son environnement : virus, bactéries, parasites. Il en est lui-même porteur d’une très grande quantité, bactéries essentiellement. Le nombre total de bactéries présentes sur la peau, les téguments, les<br />
+muqueuses et le tube digestif a été évalué à dix mille milliards (Figure 1).<br />
+Il est classique de dire que l’homme est porteur d’un plus grand nombre de bactéries que de cellules. Le tube digestif du foetus est stérile, mais la colonisation bactérienne est si précoce et rapide que, dès la 48ème heure après la naissance, elle est quantitativement voisine de celle de l’adulte (Figure 2).</p></div>
 
 Les rapports entre l’homme et cette flore bactérienne sont complexes (tableau 1) :
 

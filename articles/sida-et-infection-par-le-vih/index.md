@@ -2,8 +2,9 @@
 title: "Sida et infection par le VIH"
 author: "par Loïc Flachet Médecin, Épicentre ; Médecins sans Frontières, Paris."
 date: "1992-10-04"
-teaser: "Le sida, ou syndrome d'immuno-déficience acquise, est la forme la plus grave, terminale de l'infection par le VIH (virus de l'immuno-déficience humaine). Le virus s'attaque au système immunitaire en infectant, puis en détruisant les lymphocytes T4."
 ---
+
+<div class="teaser"><p>Le sida, ou syndrome d'immuno-déficience acquise, est la forme la plus grave, terminale de l'infection par le VIH (virus de l'immuno-déficience humaine). Le virus s'attaque au système immunitaire en infectant, puis en détruisant les lymphocytes T4.</p></div>
 
 L'infection par le VIH évolue en fonction du temps, schématiquement :
 

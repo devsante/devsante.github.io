@@ -2,8 +2,9 @@
 title: "Hygiène au bloc opératoire : hygiène, asepsie et prévention des infections chirurgicales"
 author: "Gérard PASCAL, Xavier POULIQUEN, Yvan GUILBAUD, Véronique LALOÉ http://fcsolidaire.free.fr Chirurgie Solidaire, Herblay, France"
 date: "2011-11-28"
-teaser: "La grande inégalité au niveau des blocs opératoires selon les structures est bien connue et chacun doit faire avec les moyens dont il dispose. Néanmoins, qu'il s'agisse d' unités les plus spécialisées du monde entier, d'hôpitaux généraux ou de district, ou de centres de santé, la rigueur en matière d'hygiène, d'asepsie et d'organisation au bloc opératoire reste fondamentale pour l'obtention de bons résultats."
 ---
+
+<div class="teaser"><p>La grande inégalité au niveau des blocs opératoires selon les structures est bien connue et chacun doit faire avec les moyens dont il dispose. Néanmoins, qu'il s'agisse d' unités les plus spécialisées du monde entier, d'hôpitaux généraux ou de district, ou de centres de santé, la rigueur en matière d'hygiène, d'asepsie et d'organisation au bloc opératoire reste fondamentale pour l'obtention de bons résultats.</p></div>
 
 ## I. Tenue vestimentaire au bloc opératoire (BO)
 

@@ -2,10 +2,10 @@
 title: "Les groupes sanguins"
 author: "Annick Le Floch CTS (Centre de Transfusion Sanguine), Blois."
 date: "1997-08-04"
-teaser: "La connaissance des groupes sanguins a permis d'établir des règles de transfusion à respecter impérativement. En effet, le non-respect de ces règles risque d'entraîner la mort du malade.
-
-Ainsi, avant toute transfusion sanguine, il faut connaître le groupe sanguin du receveur (le malade) et celui du ou des donneurs."
 ---
+
+<div class="teaser"><p>La connaissance des groupes sanguins a permis d'établir des règles de transfusion à respecter impérativement. En effet, le non-respect de ces règles risque d'entraîner la mort du malade.</p>
+<p>Ainsi, avant toute transfusion sanguine, il faut connaître le groupe sanguin du receveur (le malade) et celui du ou des donneurs.</p></div>
 
 ## **I.** **Le système ABO**
 

@@ -2,10 +2,11 @@
 title: "Les macrolides"
 author: "Philippe Reinert Pédiatre, Hôpital Intercommunal de Créteil, France."
 date: "1996-08-02"
-teaser: "Devant le grand nombre d'antibiotiques disponibles aujourd'hui, il nous a semblé utile d'aborder les grandes familles d'antibiotiques (macrolides, pénicillines, aminosides, céphalosporines, etc.) pour en mieux comprendre les indications, les limites et les inconvénients qui sont en général communs pour une même famille.  
-Les premiers macrolides ont été extraits d'une bactérie streptomyces en 1950, ce qui a donné naissance à l'érythromycine toujours utilisée aujourd'hui.  
-De nouveaux macrolides ont été inventés : ils ont le même spectre antibactérien mais sont mieux tolérés et ont une demi-vie parfois très longue, ce qui permet un traitement plus court."
 ---
+
+<div class="teaser"><p>Devant le grand nombre d'antibiotiques disponibles aujourd'hui, il nous a semblé utile d'aborder les grandes familles d'antibiotiques (macrolides, pénicillines, aminosides, céphalosporines, etc.) pour en mieux comprendre les indications, les limites et les inconvénients qui sont en général communs pour une même famille.<br />
+Les premiers macrolides ont été extraits d'une bactérie streptomyces en 1950, ce qui a donné naissance à l'érythromycine toujours utilisée aujourd'hui.<br />
+De nouveaux macrolides ont été inventés : ils ont le même spectre antibactérien mais sont mieux tolérés et ont une demi-vie parfois très longue, ce qui permet un traitement plus court.</p></div>
 
 ## I. Spectre d'activité
 

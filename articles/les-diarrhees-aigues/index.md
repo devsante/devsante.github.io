@@ -2,12 +2,11 @@
 title: "Les diarrhées aiguës"
 author: "Bernard Lagardère"
 date: "1981-12-02"
-teaser: "Les diarrhées aiguës sont la première cause de mortalité dans le monde chez les nourrissons après le sevrage.
-
-Elles sont la deuxième cause de mortalité si l'allaitement maternel est conservé.
-
-La diarrhée aiguë se définit comme l'existence de selles anormalement liquides et fréquentes, pouvant conduire rapidement à une déshydratation grave et, de toute façon, à une dénutrition Pavoisant les surinfections. Devant un nourrisson diarrhéique, il faut préciser les critères de gravité qui peuvent conduire à un traitement d'urgence, tenter d'identifier la cause, et instituer une thérapeutique adaptée."
 ---
+
+<div class="teaser"><p>Les diarrhées aiguës sont la première cause de mortalité dans le monde chez les nourrissons après le sevrage.</p>
+<p>Elles sont la deuxième cause de mortalité si l'allaitement maternel est conservé.</p>
+<p>La diarrhée aiguë se définit comme l'existence de selles anormalement liquides et fréquentes, pouvant conduire rapidement à une déshydratation grave et, de toute façon, à une dénutrition Pavoisant les surinfections. Devant un nourrisson diarrhéique, il faut préciser les critères de gravité qui peuvent conduire à un traitement d'urgence, tenter d'identifier la cause, et instituer une thérapeutique adaptée.</p></div>
 
 ## **I. Critères de gravité**
 

@@ -2,10 +2,10 @@
 title: "Le partogramme : principes et méthodes"
 author: "Stéphane Saint-Léger Gynécologue-obstétricien, CHI André-Grégoire, Montreuil, France."
 date: "2000-08-14"
-teaser: "Environ un demi-million de femmes meurent chaque année des complications liées à la grossesse, dont plus de 80 % ont lieu pendant le travail.
-
-Le partogramme permet un enregistrement graphique, méthodique et synthétique des progrès du travail et des principales données sur l'état de la mère et du foetus. Il sert de \"système d'alarme précoce\" pour toute anomalie dans la progression du travail autorisant la mise en oeuvre de mesures de prévention, de transfert de la patiente ou d'accélération ou de terminaison du travail. Il permet de réduire sensiblement le risque de dystocie, de souffrance foetale, de rupture utérine et les risques ultérieurs d'hémorragie de la délivrance et de septicémie."
 ---
+
+<div class="teaser"><p>Environ un demi-million de femmes meurent chaque année des complications liées à la grossesse, dont plus de 80 % ont lieu pendant le travail.</p>
+<p>Le partogramme permet un enregistrement graphique, méthodique et synthétique des progrès du travail et des principales données sur l'état de la mère et du foetus. Il sert de "système d'alarme précoce" pour toute anomalie dans la progression du travail autorisant la mise en oeuvre de mesures de prévention, de transfert de la patiente ou d'accélération ou de terminaison du travail. Il permet de réduire sensiblement le risque de dystocie, de souffrance foetale, de rupture utérine et les risques ultérieurs d'hémorragie de la délivrance et de septicémie.</p></div>
 
 Outil exclusivement destiné à la surveillance et à la conduite du travail, il ne permet pas d'identifier les autres facteurs de risque qui pourraient avoir été présents avant le début du travail. On ne peut recourir au partogramme qu'après avoir vérifié qu'il n y a pas eu au cours de la grossesse de complication qui exige une intervention immédiate.
 

@@ -2,10 +2,11 @@
 title: "Diagnostic des cestodes"
 author: "Patrice Bourée Unité des Maladies Parasitaires et Tropicales, Hôpital Bicêtre"
 date: "2007-10-20"
-teaser: "Les cestodes sont des vers plats segmentés très fréquents, provoquant des troubles digestifs. Les conséquences  
-peuvent être sévères concernant par exemple la complication du tænia du porc.  
-Les tænia du bœuf et du porc, mesurant plusieurs mètres, sont le plus   souvent uniques, et ont le nom de “ver solitaire”. Les cestodes peuvent infester l’homme au stade adulte (tænia) ou au stade larvaire (échinococcose). Toutes ces parasitoses peuvent être évitées par une bonne hygiène alimentaire et individuelle."
 ---
+
+<div class="teaser"><p>Les cestodes sont des vers plats segmentés très fréquents, provoquant des troubles digestifs. Les conséquences<br />
+peuvent être sévères concernant par exemple la complication du tænia du porc.<br />
+Les tænia du bœuf et du porc, mesurant plusieurs mètres, sont le plus   souvent uniques, et ont le nom de “ver solitaire”. Les cestodes peuvent infester l’homme au stade adulte (tænia) ou au stade larvaire (échinococcose). Toutes ces parasitoses peuvent être évitées par une bonne hygiène alimentaire et individuelle.</p></div>
 
 ## I. Cestodes adultes
 

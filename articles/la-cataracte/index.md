@@ -2,9 +2,10 @@
 title: "La cataracte"
 author: "Jean-Philippe Colliot Ophtalmologiste attaché, Ancien interne des Quinze-Vingt, Paris."
 date: "1999-11-30"
-teaser: "On évalue le nombre d'aveugles dans les pays en développement à près de 50 millions, dont environ la moitié par cataracte.  
-Si ce n'est pas une cause évitable de cécité, elle est néanmoins curable chirurgicalement."
 ---
+
+<div class="teaser"><p>On évalue le nombre d'aveugles dans les pays en développement à près de 50 millions, dont environ la moitié par cataracte.<br />
+Si ce n'est pas une cause évitable de cécité, elle est néanmoins curable chirurgicalement.</p></div>
 
 Reconnaître la cataracte, inciter le patient à faire effectuer le traitement chirurgical adapté permet sa réhabilitation, limite sa dépendance et le libère ainsi de l'aide permanente d'un tiers valide, ajoutant ainsi à l'aspect humanitaire une dimension économique.
 

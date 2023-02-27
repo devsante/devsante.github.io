@@ -2,9 +2,10 @@
 title: "La douleur chez l'enfant drépanocytaire"
 author: "Jean-Bruno Lobut, pédiatre, Paris"
 date: "2019-10-09"
-teaser: "La douleur est le symptôme le plus fréquent chez les patients drépanocytaires. En se répétant chez un enfant, elle peut venir révéler la maladie. Le premier problème pour une équipe soignante est d’être en mesure de soulager les douleurs aiguës des crises vaso-occlusives (CVO). Au cours du temps, les patients gardent la mémoire de leur douleur, et la survenue possible d’une crise entretient chez eux une anxiété de fond.
-Pour soigner au mieux un patient drépanocytaire douloureux, il est nécessaire de l’écouter et de reconnaître sa douleur."
 ---
+
+<div class="teaser"><p>La douleur est le symptôme le plus fréquent chez les patients drépanocytaires. En se répétant chez un enfant, elle peut venir révéler la maladie. Le premier problème pour une équipe soignante est d’être en mesure de soulager les douleurs aiguës des crises vaso-occlusives (CVO). Au cours du temps, les patients gardent la mémoire de leur douleur, et la survenue possible d’une crise entretient chez eux une anxiété de fond.<br />
+Pour soigner au mieux un patient drépanocytaire douloureux, il est nécessaire de l’écouter et de reconnaître sa douleur.</p></div>
 
 **Sur le plan physiopathologique**
 La crise douloureuse ou CVO résulte de l’obstruction de petits vaisseaux sanguins par les globules rouges déformés (falciformés). Les territoires en aval de cette obstruction deviennent hypoxiques et douloureux. De nombreuses recherches ont exploré les mécanismes de la CVO.

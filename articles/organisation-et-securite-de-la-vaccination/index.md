@@ -2,9 +2,10 @@
 title: "Organisation et sécurité de la vaccination"
 author: "Philippe Jaillard Agence pour la Médecine Préventive, Ouagadougou,  Burkina Faso"
 date: "2009-04-29"
-teaser: "La séance de vaccination est l'aboutissement des efforts considérables réalisés par le système de santé et ceux qui l'animent et également par les personnes ciblées pour en bénéficier. Il s'agit d'un acte auquel ces dernières, la plupart du temps en bonne santé, ont librement consenti à se prêter. Il ne doit pas être vécu comme une épreuve risquée et doit se dérouler dans un environnement accueillant et garantissant le maximum de sécurité.  
-L'organisation des séances de vaccination passe par la préparation du site, l'accueil des bénéficiaires, la préparation et l'administration des vaccins, l'enregistrement de la vaccination, la communication avec les parents et le rangement du site."
 ---
+
+<div class="teaser"><p>La séance de vaccination est l'aboutissement des efforts considérables réalisés par le système de santé et ceux qui l'animent et également par les personnes ciblées pour en bénéficier. Il s'agit d'un acte auquel ces dernières, la plupart du temps en bonne santé, ont librement consenti à se prêter. Il ne doit pas être vécu comme une épreuve risquée et doit se dérouler dans un environnement accueillant et garantissant le maximum de sécurité.<br />
+L'organisation des séances de vaccination passe par la préparation du site, l'accueil des bénéficiaires, la préparation et l'administration des vaccins, l'enregistrement de la vaccination, la communication avec les parents et le rangement du site.</p></div>
 
 ## I. Organiser le travail et préparer la séance de vaccination
 

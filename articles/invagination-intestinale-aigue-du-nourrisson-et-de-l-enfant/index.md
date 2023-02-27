@@ -2,8 +2,9 @@
 title: "Invagination intestinale aiguë du nourrisson et de l'enfant"
 author: "Micheline Amzallag, pédiatre, Créteil, France"
 date: "2017-06-20"
-teaser: "Une affection trop souvent méconnue qui nécessite un diagnostic rapide afin de ne pas mettre en jeu le pronostic vital."
 ---
+
+<div class="teaser"><p>Une affection trop souvent méconnue qui nécessite un diagnostic rapide afin de ne pas mettre en jeu le pronostic vital.</p></div>
 
 L’invagination intestinale aiguë (IIA) est une affection qui touche principalement le nourrisson, plus rarement l’enfant, dont les signes cliniques peuvent être trompeurs et entraîner un retard diagnostique aux conséquences gravissimes.  
 Peu d’études concernant cette pathologie ont été conduites dans les pays en développement, ce qui explique leur méconnaissance et leur pronostic effroyable dans les séries rapportées. Ainsi, l’IIA a entraîné une résection intestinale dans 36 à 66 % des cas en Afrique en fonction du délai du diagnostic, mais également une mortalité importante et sous-évaluée, puisqu’il s’agit de séries hospitalières alors que ceux-ci surviennent bien souvent avant une hospitalisation, en l’absence d’une évocation diagnostique (52 % en Haïti, 55 % au Niger, 58 % en Inde).  

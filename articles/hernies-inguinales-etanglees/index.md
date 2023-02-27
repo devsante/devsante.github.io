@@ -2,9 +2,10 @@
 title: "Hernies inguinales étanglées"
 author: "Dr. Fazia Rouifed Chirurgien, Hôpital d'Avicenne, Bobigny, France."
 date: "2008-01-28"
-teaser: "La hernie étranglée est l'une des urgences chirurgicales les plus fréquentes. Sa gravité est liée au fait quelle peut entraîner une occlusion intestinale aiguë par strangulation d'une anse digesti­ve au niveau du collet du sac herniaire.  
-Cet étranglement interrompt non seulement le transit intestinal, ce qui provoque l'occlusion, mais aussi le flux veineux puis artériel de l'anse étranglée, ce qui peut aboutir à une nécrose de l'anse. Il faut donc opérer rapidement ces patients afin d'éviter ces complications."
 ---
+
+<div class="teaser"><p>La hernie étranglée est l'une des urgences chirurgicales les plus fréquentes. Sa gravité est liée au fait quelle peut entraîner une occlusion intestinale aiguë par strangulation d'une anse digesti­ve au niveau du collet du sac herniaire.<br />
+Cet étranglement interrompt non seulement le transit intestinal, ce qui provoque l'occlusion, mais aussi le flux veineux puis artériel de l'anse étranglée, ce qui peut aboutir à une nécrose de l'anse. Il faut donc opérer rapidement ces patients afin d'éviter ces complications.</p></div>
 
 ## I. Rappel anatomique
 

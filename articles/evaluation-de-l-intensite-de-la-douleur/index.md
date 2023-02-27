@@ -2,16 +2,17 @@
 title: "Evaluation de l'intensité de la douleur"
 author: "Thierry Delorme, François Boureau Centre d'évaluation et de traitement de la douleur, hôpital Saint-Antoine, 75012 Paris."
 date: "2006-03-16"
-teaser: "La nature \"individuelle\" de la douleur justifie un abord clinique basé sur une évaluation globale du malade et pas uniquement de la maladie. Différents niveaux d'évaluation complémentaires sont à considérer :
-
-*   diagnostic de la (ou des) cause(s) de la douleur,
-*   mécanisme(s) de la douleur,
-*   intensité de la douleur perçue,
-*   impact de la douleur sur la qualité de vie et les capacités fonctionnelles,
-*   contexte psychologique et familial...
-
-La notion d'évaluation de la douleur est souvent réduite à la seule évaluation de son intensité. Certes, il s'agit d'une variable essentielle pour la décision des traitements symptomatiques, mais ce n'est pas la seule variable. Nous nous efforcerons donc de présenter la démarche d'une éva­luation globale de l'ensemble de la symptomatologie douloureuse. Nous dégagerons ainsi mieux l'apport clinique de l'évaluation de l'intensité de la douleur. Ceci aura aussi l'avantage de ne pas laisser planer des attentes excessives et non valides vis-à-vis de ces échelles."
 ---
+
+<div class="teaser"><p>La nature "individuelle" de la douleur justifie un abord clinique basé sur une évaluation globale du malade et pas uniquement de la maladie. Différents niveaux d'évaluation complémentaires sont à considérer :</p>
+<ul>
+<li>diagnostic de la (ou des) cause(s) de la douleur,</li>
+<li>mécanisme(s) de la douleur,</li>
+<li>intensité de la douleur perçue,</li>
+<li>impact de la douleur sur la qualité de vie et les capacités fonctionnelles,</li>
+<li>contexte psychologique et familial...</li>
+</ul>
+<p>La notion d'évaluation de la douleur est souvent réduite à la seule évaluation de son intensité. Certes, il s'agit d'une variable essentielle pour la décision des traitements symptomatiques, mais ce n'est pas la seule variable. Nous nous efforcerons donc de présenter la démarche d'une éva­luation globale de l'ensemble de la symptomatologie douloureuse. Nous dégagerons ainsi mieux l'apport clinique de l'évaluation de l'intensité de la douleur. Ceci aura aussi l'avantage de ne pas laisser planer des attentes excessives et non valides vis-à-vis de ces échelles.</p></div>
 
 ## I. Pourquoi évaluer systématiquement l'intensité de la douleur ?
 

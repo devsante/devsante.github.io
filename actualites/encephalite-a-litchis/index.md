@@ -2,8 +2,9 @@
 title: "Encéphalite à litchis"
 author: "Philippe Reinert, pédiatre, Créteil"
 date: "2017-03-01"
-teaser: "Le mystère de l'encéphalite des enfants mangeurs de litchis résolu..."
 ---
+
+<div class="teaser"><p>Le mystère de l'encéphalite des enfants mangeurs de litchis résolu...</p></div>
 
 Depuis les années 1990, dans le nord de l’Inde (province du Bihar, ville de Muzzaffarpur) chaque année une épidémie d’encéphalites touchait des centaines d’enfants, entraînant une mortalité de près de 40%.  
 Des faits analogues sont survenus au Vietnam.  

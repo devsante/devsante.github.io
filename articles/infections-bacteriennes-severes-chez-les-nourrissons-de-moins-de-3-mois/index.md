@@ -2,8 +2,9 @@
 title: "Infections bactériennes sévères chez les nourrissons de moins de 3 mois"
 author: "Gorette Dos Santos Médecin généraliste"
 date: "2001-04-02"
-teaser: "A propos d'une étude multicentrique de l'OMS"
 ---
+
+<div class="teaser"><p>A propos d'une étude multicentrique de l'OMS</p></div>
 
 ## I. Contexte
 

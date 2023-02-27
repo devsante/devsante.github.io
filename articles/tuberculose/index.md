@@ -2,8 +2,9 @@
 title: "Tuberculose"
 author: "Philippe Reinert, pédiatre, hôpital intercommunal, Créteil, France."
 date: "2008-04-26"
-teaser: "L'OMS estime que 8 à 10 millions de nouveaux cas de tuberculose surviennent chaque année dans le monde. Elle provoque 2 millions de décès dont 300 000 enfants. Près de 60 % de ces cas surviennent en Afrique dont 20 à 25 % chez l'enfant. Depuis la dernière décennie, on observe une augmentation de la fréquence la tuberculose en Afrique, due à la dégradation de la situation socio-économique, à la dénutrition, aux guerres, au VIH et aux défaillances de certains programmes nationaux antituberculeux."
 ---
+
+<div class="teaser"><p>L'OMS estime que 8 à 10 millions de nouveaux cas de tuberculose surviennent chaque année dans le monde. Elle provoque 2 millions de décès dont 300 000 enfants. Près de 60 % de ces cas surviennent en Afrique dont 20 à 25 % chez l'enfant. Depuis la dernière décennie, on observe une augmentation de la fréquence la tuberculose en Afrique, due à la dégradation de la situation socio-économique, à la dénutrition, aux guerres, au VIH et aux défaillances de certains programmes nationaux antituberculeux.</p></div>
 
 ## **I. Bases fondamentales**
 

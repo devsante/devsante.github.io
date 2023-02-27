@@ -2,8 +2,9 @@
 title: "Ulcère de Buruli : une pathologie tropicale en expansion"
 author: "Patrice Bourée Consultation des Maladies Parasitaires, Institut Alfred Fournier, Paris"
 date: "2013-10-27"
-teaser: "L’ulcère de Buruli est une affection cutanée due à une bactérie, _Mycobacterium_ _ulcerans_, de la même famille que celle qui est responsable de la tuberculose (_Mycobacterium_ _tuberculosis_) ou de la lèpre (_Mycobacterium leprae_). Cette affection chronique et récidivante se manifeste par un nodule qui va évoluer vers une ulcération massive peu douloureuse, aboutissant à des séquelles invalidantes, mais les décès sont rares. Le nom de Buruli vient du district du même nom, situé en Ouganda, où ont été observés de nombreux cas dans les années 1960 avec l'observation d'un lien avec les eaux de surface (Uganda Buruli Group). En 1998, l’OMS a initialisé « l’initiative mondiale contre l’ulcère de Buruli », afin d'inciter les pays concernés à dépister et traiter les patients atteints de cette pathologie, comme ils le font pour la tuberculose et la lèpre."
 ---
+
+<div class="teaser"><p>L’ulcère de Buruli est une affection cutanée due à une bactérie, <em>Mycobacterium</em> <em>ulcerans</em>, de la même famille que celle qui est responsable de la tuberculose (<em>Mycobacterium</em> <em>tuberculosis</em>) ou de la lèpre (<em>Mycobacterium leprae</em>). Cette affection chronique et récidivante se manifeste par un nodule qui va évoluer vers une ulcération massive peu douloureuse, aboutissant à des séquelles invalidantes, mais les décès sont rares. Le nom de Buruli vient du district du même nom, situé en Ouganda, où ont été observés de nombreux cas dans les années 1960 avec l'observation d'un lien avec les eaux de surface (Uganda Buruli Group). En 1998, l’OMS a initialisé « l’initiative mondiale contre l’ulcère de Buruli », afin d'inciter les pays concernés à dépister et traiter les patients atteints de cette pathologie, comme ils le font pour la tuberculose et la lèpre.</p></div>
 
 ## I. Une affection des eaux  marécageuses
 

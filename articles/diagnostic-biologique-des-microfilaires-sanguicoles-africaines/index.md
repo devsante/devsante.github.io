@@ -2,8 +2,9 @@
 title: "Diagnostic biologique des microfilaires sanguicoles africaines"
 author: "E. Vandemeulebrouke*, P. Jousserand** * Biologiste. Laboratoire, Centre hospitalier de Gonesse. ** Technicien. Laboratoire, Centre hospitalier de Gonesse.  "
 date: "1997-12-03"
-teaser: "Les filarioses, dans leur ensemble, représentent la troisième endémie parasitaire mondiale, derrière le paludisme et les bilharzioses. Cent cinquante millions de personnes souffriraient de filarioses en zone intertropicale. Celles-ci se répartissent en quatre tableaux cliniques."
 ---
+
+<div class="teaser"><p>Les filarioses, dans leur ensemble, représentent la troisième endémie parasitaire mondiale, derrière le paludisme et les bilharzioses. Cent cinquante millions de personnes souffriraient de filarioses en zone intertropicale. Celles-ci se répartissent en quatre tableaux cliniques.</p></div>
 
 ## I. Les filarioses
 

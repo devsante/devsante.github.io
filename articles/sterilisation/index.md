@@ -2,11 +2,12 @@
 title: "Stérilisation"
 author: "Catherine Dupeyron Biologiste, Créteil, France"
 date: "2011-11-04"
-teaser: "La stérilisation est l’opération que doit subir un produit ou un objet pour devenir stérile, c’est-à-dire exempt de tous les micro-organismes qu’il contient ou supporte.  
-La stérilisation est indispensable pour tous les instruments médicaux utilisés pour des actes où il y a effraction de la peau et des tissus : seringues, aiguilles, matériel chirurgical, matériel de soins dentaires…  
-La stérilisation doit être effectuée par la chaleur, selon des protocoles écrits, validés, respectés et contrôlés.  
-Contrairement à la désinfection et à la décontamination, ce résultat est durable, à condition que le matériel soit conservé en état de stérilité."
 ---
+
+<div class="teaser"><p>La stérilisation est l’opération que doit subir un produit ou un objet pour devenir stérile, c’est-à-dire exempt de tous les micro-organismes qu’il contient ou supporte.<br />
+La stérilisation est indispensable pour tous les instruments médicaux utilisés pour des actes où il y a effraction de la peau et des tissus : seringues, aiguilles, matériel chirurgical, matériel de soins dentaires…<br />
+La stérilisation doit être effectuée par la chaleur, selon des protocoles écrits, validés, respectés et contrôlés.<br />
+Contrairement à la désinfection et à la décontamination, ce résultat est durable, à condition que le matériel soit conservé en état de stérilité.</p></div>
 
 ## I. Décontamination et nettoyage
 

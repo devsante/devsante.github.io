@@ -2,9 +2,10 @@
 title: "Place de l’échographie dans un centre de référence"
 author: "Par Armel Brice Mapoukou Gynécologue-obstétricien, Brazzaville, Congo."
 date: "2010-12-04"
-teaser: "Le suivi d'une grossesse comporte des examens cliniques et paracliniques permettant, après le diagnostic, d'en évaluer la bonne évolutivité.  
-L'échographie apporte des éléments très importants, voire indispensables, pour assurer la qualité de ce suivi."
 ---
+
+<div class="teaser"><p>Le suivi d'une grossesse comporte des examens cliniques et paracliniques permettant, après le diagnostic, d'en évaluer la bonne évolutivité.<br />
+L'échographie apporte des éléments très importants, voire indispensables, pour assurer la qualité de ce suivi.</p></div>
 
 ## I. Choix du sujet
 

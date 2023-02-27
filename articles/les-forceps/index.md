@@ -2,8 +2,9 @@
 title: "Les forceps"
 author: "Philippe Engelman"
 date: "1982-08-03"
-teaser: "Le forceps est un instrument de préhension, de direction et de traction destiné à saisir la tête foetale et à l'extraire, par les voies génitales ou lors césarienne."
 ---
+
+<div class="teaser"><p>Le forceps est un instrument de préhension, de direction et de traction destiné à saisir la tête foetale et à l'extraire, par les voies génitales ou lors césarienne.</p></div>
 
 Les deux variétés de forceps utilisés habituellement sont :
 

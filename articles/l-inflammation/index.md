@@ -2,10 +2,10 @@
 title: "L'inflammation"
 author: "Philippe Reinert Pédiatre, hôpital intercommunal, Créteil, France"
 date: "2002-10-02"
-teaser: "Les médicaments anti-inflammatoires (cortisone et dérivés, anti-inflammatoires non stéroïdiens) sont de plus en plus utilisés en médecine et en chirurgie.
-
-Il est utile de comprendre, tout d'abord, ce qu'est l'inflammation."
 ---
+
+<div class="teaser"><p>Les médicaments anti-inflammatoires (cortisone et dérivés, anti-inflammatoires non stéroïdiens) sont de plus en plus utilisés en médecine et en chirurgie.</p>
+<p>Il est utile de comprendre, tout d'abord, ce qu'est l'inflammation.</p></div>
 
 ## I. Définition
 

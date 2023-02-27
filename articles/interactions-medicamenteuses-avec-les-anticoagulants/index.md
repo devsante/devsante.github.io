@@ -2,13 +2,14 @@
 title: "Interactions médicamenteuses avec les anticoagulants"
 author: "Pascale Lesseur, pharmacien, Paris Dominique Malègue, médecin, Paris"
 date: "2014-12-20"
-teaser: "Les anticoagulants sont prescrits dans la prévention ou le traitement des accidents thrombo-emboliques. Ils sont utilisés principalement dans le cadre d’affections cardio-vasculaires telles que l’insuffisance coronarienne et l’infarctus du myocarde, les troubles du rythme, les valvulopathies, les thromboses veineuses, l’embolie pulmonaire (ou le risque d’embolie pulmonaire).  
-Ces médicaments doivent être prescrits avec prudence et le traitement étroitement surveillé, le rapport entre dose efficace et dose toxique étant peu important.  
-Leur administration en association avec d’autres médicaments peut conduire à des interactions potentiellement dangereuses pouvant entraîner une inefficacité du traitement ou au contraire un surdosage (risque hémorragique).  
-C’est pourquoi il est essentiel de les connaître et d’expliquer précisément au patient la conduite et la surveillance du traitement.  
-La plupart des interactions avec les anticoagulants sont connues pour un médicament donné. On connait beaucoup moins bien les interactions éventuelles concernant plus de deux ou trois médicaments associés.  
-Il faut donc prescrire avec prudence et être sûr que tous les médicaments prescrits sont justifiés."
 ---
+
+<div class="teaser"><p>Les anticoagulants sont prescrits dans la prévention ou le traitement des accidents thrombo-emboliques. Ils sont utilisés principalement dans le cadre d’affections cardio-vasculaires telles que l’insuffisance coronarienne et l’infarctus du myocarde, les troubles du rythme, les valvulopathies, les thromboses veineuses, l’embolie pulmonaire (ou le risque d’embolie pulmonaire).<br />
+Ces médicaments doivent être prescrits avec prudence et le traitement étroitement surveillé, le rapport entre dose efficace et dose toxique étant peu important.<br />
+Leur administration en association avec d’autres médicaments peut conduire à des interactions potentiellement dangereuses pouvant entraîner une inefficacité du traitement ou au contraire un surdosage (risque hémorragique).<br />
+C’est pourquoi il est essentiel de les connaître et d’expliquer précisément au patient la conduite et la surveillance du traitement.<br />
+La plupart des interactions avec les anticoagulants sont connues pour un médicament donné. On connait beaucoup moins bien les interactions éventuelles concernant plus de deux ou trois médicaments associés.<br />
+Il faut donc prescrire avec prudence et être sûr que tous les médicaments prescrits sont justifiés.</p></div>
 
 ## **I. Quelques généralités sur les interactions**
 

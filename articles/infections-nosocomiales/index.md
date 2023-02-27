@@ -2,9 +2,10 @@
 title: "Infections nosocomiales"
 author: "Philippe Reinert Pédiatre, Créteil, France"
 date: "2011-09-13"
-teaser: "Toute infection acquise à l’hôpital ou au dispensaire est dite nosocomiale (voir encadré).  
-Cela signifie qu’elle survient pendant ou après un séjour à l’hôpital (ex. : infection post-opératoire) ou après une consultation (rougeole, varicelle par exemple) ou un acte invasif (ex. : abcès au point d’injection)."
 ---
+
+<div class="teaser"><p>Toute infection acquise à l’hôpital ou au dispensaire est dite nosocomiale (voir encadré).<br />
+Cela signifie qu’elle survient pendant ou après un séjour à l’hôpital (ex. : infection post-opératoire) ou après une consultation (rougeole, varicelle par exemple) ou un acte invasif (ex. : abcès au point d’injection).</p></div>
 
 <table>
 

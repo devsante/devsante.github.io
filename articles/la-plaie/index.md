@@ -2,8 +2,9 @@
 title: "La plaie"
 author: "Marie-Noëlle Durand*, Jean-Paul Tanniou * Infirmière anesthésiste, SAMU, Hôpital Avicenne, Bobigny."
 date: "1998-02-17"
-teaser: "La peau est un revêtement protecteur du corps, c'est une véritable enveloppe. Celle-ci, fragile, est souvent endommagée par les actes de la vie courante. Ces atteintes peuvent revêtir des aspects différents et présenter ou non des facteurs de gravité, mais il faudra toujours redouter le tétanos. On distingue les plaies simples et les plaies graves."
 ---
+
+<div class="teaser"><p>La peau est un revêtement protecteur du corps, c'est une véritable enveloppe. Celle-ci, fragile, est souvent endommagée par les actes de la vie courante. Ces atteintes peuvent revêtir des aspects différents et présenter ou non des facteurs de gravité, mais il faudra toujours redouter le tétanos. On distingue les plaies simples et les plaies graves.</p></div>
 
 ## I. Les plaies simples
 

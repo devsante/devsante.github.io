@@ -2,8 +2,9 @@
 title: "La peste"
 author: "Patrice Bourée Institut Alfred Fournier, Paris"
 date: "2015-06-07"
-teaser: "Connue depuis l’Antiquité, la peste est une maladie infectieuse qui a fait de très nombreuses victimes dans le monde au cours des vingt siècles précédents. Aujourd’hui, cette affection existe encore dans de nombreux pays tropicaux."
 ---
+
+<div class="teaser"><p>Connue depuis l’Antiquité, la peste est une maladie infectieuse qui a fait de très nombreuses victimes dans le monde au cours des vingt siècles précédents. Aujourd’hui, cette affection existe encore dans de nombreux pays tropicaux.</p></div>
 
 ## I. Madagascar : un foyer permanent
 

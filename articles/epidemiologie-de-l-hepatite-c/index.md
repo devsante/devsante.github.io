@@ -2,8 +2,9 @@
 title: "Epidémiologie de l'hépatite C"
 author: "Par Aminata Sall Diallo*, Dominique Malègue** * Responsable du PNLH (Programme National de Lutte contre les Hépatites) au Ministère de la Santé du Sénégal. Professeur de physiologie et de biologie à l'UCAD (Université Cheikh Anta Diop) de Dakar. Coordinatrice de l'initiative panafricaine sur les hépatites. ** Médecin, Paris, France."
 date: "2012-09-04"
-teaser: "Le virus de l’hépatite C, identifié en 1988, est responsable de 70 % à 90 % des hépatites post-transfusionnelles. Il provoque, chez 85 % des sujets atteints, une infection chronique pouvant aboutir à une cirrhose ou à un cancer du foie."
 ---
+
+<div class="teaser"><p>Le virus de l’hépatite C, identifié en 1988, est responsable de 70 % à 90 % des hépatites post-transfusionnelles. Il provoque, chez 85 % des sujets atteints, une infection chronique pouvant aboutir à une cirrhose ou à un cancer du foie.</p></div>
 
 ## I. Modes de transmission
 

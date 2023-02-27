@@ -2,13 +2,14 @@
 title: "Le rôle essentiel de l'infirmier dans l'aide à l'observance, en particulier pour le traitement par ARV"
 author: "Par Perrine Roux Pharmacienne, Hôpital Bichat, ESTHER, France"
 date: "2004-08-05"
-teaser: "Au Sud comme au Nord, l'observance des malades du sida sous traitement antirétroviral est un enjeu majeur puisque la réussite du traitement repose en majeure partie sur le respect des prises des médicaments. Le SIDA est devenu une maladie chronique qui nécessite des comportements de la part des soignants aux quels ils ont été peu préparés. Le traitement de cette maladie chronique impose une prise en charge globale des patients donc un travail pluridisciplinaire. Parmi les différents intervenants, le rôle des infirmiers dans cette prise en charge est primordial dans un contexte de suivi médical global. Les idées développées à travers ces lignes s'appuient sur des études de terrain, l'une dans les centres hospitaliers de Cotonou (République du Bénin) et l'autre à l'hôpital Bichât (Paris).
-
-Le personnel infirmier joue un rôle clé dans la prise en charge de cette pathologie. Ceci émane d'une double constatation :
-
-*   ils sont les plus proches des patients et les plus présents dans les services concernés ;
-*   ils servent de relais entre le patient et le prescripteur ou clinicien aussi bien dans les services hospitaliers que en dehors de l'hôpital."
 ---
+
+<div class="teaser"><p>Au Sud comme au Nord, l'observance des malades du sida sous traitement antirétroviral est un enjeu majeur puisque la réussite du traitement repose en majeure partie sur le respect des prises des médicaments. Le SIDA est devenu une maladie chronique qui nécessite des comportements de la part des soignants aux quels ils ont été peu préparés. Le traitement de cette maladie chronique impose une prise en charge globale des patients donc un travail pluridisciplinaire. Parmi les différents intervenants, le rôle des infirmiers dans cette prise en charge est primordial dans un contexte de suivi médical global. Les idées développées à travers ces lignes s'appuient sur des études de terrain, l'une dans les centres hospitaliers de Cotonou (République du Bénin) et l'autre à l'hôpital Bichât (Paris).</p>
+<p>Le personnel infirmier joue un rôle clé dans la prise en charge de cette pathologie. Ceci émane d'une double constatation :</p>
+<ul>
+<li>ils sont les plus proches des patients et les plus présents dans les services concernés ;</li>
+<li>ils servent de relais entre le patient et le prescripteur ou clinicien aussi bien dans les services hospitaliers que en dehors de l'hôpital.</li>
+</ul></div>
 
 ## Quels sont les différents espaces de la prise  
 en charge qu'occupent les infirmiers ?

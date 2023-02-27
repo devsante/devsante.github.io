@@ -1,9 +1,10 @@
 ---
 title: "Algorithme lésions cutanées et VIH"
 date: "1992-11-06"
-teaser: "Les lésions cutanés associés au VIH  
-Guide pour la prise en charge clinique de l'infection à VIH chez l'adulte\", OMS, décembre 1991 (programme de lutte contre le sida)."
 ---
+
+<div class="teaser"><p>Les lésions cutanés associés au VIH<br />
+Guide pour la prise en charge clinique de l'infection à VIH chez l'adulte", OMS, décembre 1991 (programme de lutte contre le sida).</p></div>
 
 ## I. Définition
 

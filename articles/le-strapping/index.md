@@ -2,8 +2,9 @@
 title: "Le strapping"
 author: "Christian Bellivet*, Alain Lavabre**, Philippe Piétri** *Chirurgien orthopédiste, Hôpital Avicenne, Bobigny, France. **Plâtrier, Hôpital Avicenne, Bobigny, France."
 date: "2001-08-07"
-teaser: "Le strapping est une méthode d'immobilisation ou contention souple. Elle est indiquée comme contention au niveau des membres et des ceintures, tant pour le membre supérieur que pour le membre inférieur. Nous présentons ici les strapping dans les entorses de cheville, de genou, du pouce et au décours des luxations acromio-claviculaires."
 ---
+
+<div class="teaser"><p>Le strapping est une méthode d'immobilisation ou contention souple. Elle est indiquée comme contention au niveau des membres et des ceintures, tant pour le membre supérieur que pour le membre inférieur. Nous présentons ici les strapping dans les entorses de cheville, de genou, du pouce et au décours des luxations acromio-claviculaires.</p></div>
 
 Avant la mise en place du strapping, on doit tenir compte de son support, la peau. L'existence de lésions cutanées à type d'érosions, de plaies ou de phlyctènes implique une désinfection préalable et, si besoin, la réalisation d'un pansement.
 

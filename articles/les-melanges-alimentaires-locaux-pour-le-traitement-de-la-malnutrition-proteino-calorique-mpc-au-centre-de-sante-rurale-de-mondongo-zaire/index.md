@@ -2,8 +2,9 @@
 title: "Les mélanges alimentaires locaux pour le traitement de la malnutrition protéino-calorique (MPC) au centre de santé rurale de Mondongo, Zaïre"
 author: "Vulanibo Kalissa*, Bembe Monziba** *Assistant, ISDR, Mbandaka. **Technicien en développement, ISEA, Mondongo."
 date: "1993-02-20"
-teaser: "Les recherches sur la nutrition des pays sous-développés sont nées il y a une quarantaine d'années après la Seconde Guerre mondiale. La complexité et la gravité des problèmes posés par l'alimentation et la nutrition dans nos pays incitent à approfondir les recherches."
 ---
+
+<div class="teaser"><p>Les recherches sur la nutrition des pays sous-développés sont nées il y a une quarantaine d'années après la Seconde Guerre mondiale. La complexité et la gravité des problèmes posés par l'alimentation et la nutrition dans nos pays incitent à approfondir les recherches.</p></div>
 
 Selon le rapport annuel 1990 de l'UNICEF, plus de 150 millions d'enfants de moins de cinq ans souffrent de malnutrition dans ce monde qui a pourtant les moyens de prévenir ce mal.
 

@@ -2,8 +2,9 @@
 title: "Infections respiratoires aiguës chez l'enfant"
 author: "Bernard Lagardère"
 date: "1982-04-29"
-teaser: "Les infections respiratoires aiguës représentent une des causes les plus importantes de mortalité infantile. Une meilleure compréhension de ces maladies devrait pouvoir permettre aux soignants et aux familles de mieux utiliser les moyens, même limités, à leur disposition."
 ---
+
+<div class="teaser"><p>Les infections respiratoires aiguës représentent une des causes les plus importantes de mortalité infantile. Une meilleure compréhension de ces maladies devrait pouvoir permettre aux soignants et aux familles de mieux utiliser les moyens, même limités, à leur disposition.</p></div>
 
 Une classification simple distingue:
 

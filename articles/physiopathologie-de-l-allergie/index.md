@@ -2,10 +2,11 @@
 title: "Physiopathologie de l'allergie"
 author: "Philippe Reinert* * Pédiatre, Hôpital Intercommunal de Créteil."
 date: "1994-12-01"
-teaser: "Les maladies allergiques tiennent une place de plus en plus importante dans la pathologie.  
-Il peut s'agir de conjonctivites, de rhinites, d'eczéma, d'urticaire, mais surtout d'asthme.  
-Plus rarement, l'allergie entraîne des troubles digestifs aigus ou chroniques, voire des chocs exceptionnellement mortels."
 ---
+
+<div class="teaser"><p>Les maladies allergiques tiennent une place de plus en plus importante dans la pathologie.<br />
+Il peut s'agir de conjonctivites, de rhinites, d'eczéma, d'urticaire, mais surtout d'asthme.<br />
+Plus rarement, l'allergie entraîne des troubles digestifs aigus ou chroniques, voire des chocs exceptionnellement mortels.</p></div>
 
 ## **I. Généralités sur l'allergie**
 

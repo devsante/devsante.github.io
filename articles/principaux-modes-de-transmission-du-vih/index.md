@@ -1,8 +1,9 @@
 ---
 title: "Principaux modes de transmission du VIH"
 date: "2003-12-14"
-teaser: "Il y a trois façons pour le VIH de se transmettre d'un sujet à un autre, le mode de transmission le plus important étant la transmission sexuelle."
 ---
+
+<div class="teaser"><p>Il y a trois façons pour le VIH de se transmettre d'un sujet à un autre, le mode de transmission le plus important étant la transmission sexuelle.</p></div>
 
 ## I. Transmission sexuelle
 

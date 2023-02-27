@@ -2,8 +2,9 @@
 title: "Maladies sexuellement transmissibles 1ère partie"
 author: "Eric Caumes*, Gorette Dos Santos** *Médecin infectiologue, hôpital Pitié Salpétrière, Paris, France **Médecin généraliste."
 date: "2001-10-30"
-teaser: "Cet article aborde en particulier la démarche diagnostique et thérapeutique de l'ulcération génitale et du bubon inguinal. La conduite à tenir face à l'urétrite masculine, à des leucorrhées, à une tuméfaction scrotale sera proposée dans une prochaine édition de Développement et Santé."
 ---
+
+<div class="teaser"><p>Cet article aborde en particulier la démarche diagnostique et thérapeutique de l'ulcération génitale et du bubon inguinal. La conduite à tenir face à l'urétrite masculine, à des leucorrhées, à une tuméfaction scrotale sera proposée dans une prochaine édition de Développement et Santé.</p></div>
 
 ## I. Généralités
 

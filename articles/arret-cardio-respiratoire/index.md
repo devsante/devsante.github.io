@@ -2,8 +2,9 @@
 title: "Arrêt cardio-respiratoire"
 author: "Jean-Claude Tanniou Instructeur de secourisme, SMUR de Saint-Denis"
 date: "1998-08-26"
-teaser: "Après avoir vu la technique et l'attitude à adopter par un secouriste isolé dépourvu de matériel face à un arrêt cardio-respiratoire, nous traitons, dans cet article, de la conduite à tenir face au même problème par des secouristes agissant en équipe organisée."
 ---
+
+<div class="teaser"><p>Après avoir vu la technique et l'attitude à adopter par un secouriste isolé dépourvu de matériel face à un arrêt cardio-respiratoire, nous traitons, dans cet article, de la conduite à tenir face au même problème par des secouristes agissant en équipe organisée.</p></div>
 
 ## I. Conduite à tenir
 

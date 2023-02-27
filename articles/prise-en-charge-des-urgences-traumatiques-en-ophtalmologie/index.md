@@ -2,8 +2,9 @@
 title: "Prise en charge des urgences traumatiques en ophtalmologie"
 author: "Dr. Fatoumata Sylla Ophtalmologiste Institut d'Ophtalmologie Tropicale de l'Afrique (LO.T.A.), Bamako, Mali."
 date: "2008-02-01"
-teaser: "Les traumatismes oculaires, très fréquents malgré les efforts de prévention, sont responsables de la perte de nombreux globes oculaires. On distingue les traumatismes minimes, diagnostiqués et parfois traités par l'infirmier ou le médecin généraliste, et les traumatismes graves, relevant de la compétence de l'ophtalmologiste."
 ---
+
+<div class="teaser"><p>Les traumatismes oculaires, très fréquents malgré les efforts de prévention, sont responsables de la perte de nombreux globes oculaires. On distingue les traumatismes minimes, diagnostiqués et parfois traités par l'infirmier ou le médecin généraliste, et les traumatismes graves, relevant de la compétence de l'ophtalmologiste.</p></div>
 
 Certaines lésions engagent le pronostic anatomique et/ou fonctionnel de l'oeil et constituent de véritables urgences thérapeutiques. Les circonstances de l'accident devront être déterminées par un interrogatoire précis. Les causes sont multiples : accidents du travail et domestiques résul­tant de la projection de corps étrangers et de produits chimiques ; accidents de la voie publique (chocs, éclatements de pare-brise) ; accidents de la chasse et du sport ; jouets à haut risque (en particulier les fléchettes).
 

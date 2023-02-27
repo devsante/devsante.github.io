@@ -2,8 +2,9 @@
 title: "Diagnostic des trématodes"
 author: "Patrice Bourée Unité des Maladies Tropicales, Hôpital de Bicêtre"
 date: "2007-10-07"
-teaser: "Les trématodes sont des vers plats non segmentés, qui comprennent les schistosomes et les douves. Cependant, ces deux parasites s’opposent sur plusieurs points. En effet, les schistosomes sont sexués et situés dans les vaisseaux alors que les douves sont hermaphrodites et localisées dans les voies biliaires. L’infestation s’effectue par voie transcutanée (schistosomes) ou buccale (douves). Enfin, ces zoonoses ont un cycle passant par un hôte intermédiaire : un mollusque (schistosomes) ou deux hôtes intermédiaires : un mollusque puis une plante ou un poisson (douves)."
 ---
+
+<div class="teaser"><p>Les trématodes sont des vers plats non segmentés, qui comprennent les schistosomes et les douves. Cependant, ces deux parasites s’opposent sur plusieurs points. En effet, les schistosomes sont sexués et situés dans les vaisseaux alors que les douves sont hermaphrodites et localisées dans les voies biliaires. L’infestation s’effectue par voie transcutanée (schistosomes) ou buccale (douves). Enfin, ces zoonoses ont un cycle passant par un hôte intermédiaire : un mollusque (schistosomes) ou deux hôtes intermédiaires : un mollusque puis une plante ou un poisson (douves).</p></div>
 
 ## I. Bilharzioses
 

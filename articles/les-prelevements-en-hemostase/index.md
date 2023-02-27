@@ -1,8 +1,9 @@
 ---
 title: "Les prélèvements en hémostase"
 date: "2003-12-02"
-teaser: "Les conditions de prélèvement sont primordiales, leur qualité conditionne la fiabilité des résultats !"
 ---
+
+<div class="teaser"><p>Les conditions de prélèvement sont primordiales, leur qualité conditionne la fiabilité des résultats !</p></div>
 
 ## **I.** Conditions optimales de prélèvements
 

@@ -2,8 +2,9 @@
 title: "Le traitement du paludisme : actualité et perspectives"
 author: "Jacques Chandenier* et Martin Danis** * Service de parasitologie, CHU, 80000 Amiens. ** Service de parasitologie, CHU Pitié-Salpêtrière, 75013 Paris.  "
 date: "1998-12-02"
-teaser: "Réalisé de façon empirique depuis la nuit des temps et de façon plus scientifique depuis un peu plus d'un siècle, le traitement du paludisme pose encore de nos jours de difficiles problèmes. Plusieurs classes de produits ont successivement vu le jour, avec chacune leurs avantages et leurs inconvénients, mais la gamme des médicaments disponibles reste étroite car la découverte de nouveaux antipaludiques semble laborieuse, ou n'a pas été assez soutenue. Il est souvent malaisé à présent pour le thérapeute de trouver la réponse adaptée à une situation de diminution d'efficacité des médicaments classiques."
 ---
+
+<div class="teaser"><p>Réalisé de façon empirique depuis la nuit des temps et de façon plus scientifique depuis un peu plus d'un siècle, le traitement du paludisme pose encore de nos jours de difficiles problèmes. Plusieurs classes de produits ont successivement vu le jour, avec chacune leurs avantages et leurs inconvénients, mais la gamme des médicaments disponibles reste étroite car la découverte de nouveaux antipaludiques semble laborieuse, ou n'a pas été assez soutenue. Il est souvent malaisé à présent pour le thérapeute de trouver la réponse adaptée à une situation de diminution d'efficacité des médicaments classiques.</p></div>
 
 ## I. Les produits disponibles
 

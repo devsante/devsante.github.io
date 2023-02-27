@@ -2,16 +2,17 @@
 title: "Tréponématoses non IST"
 author: "Jean-Loup Rey Médecin, GISPE"
 date: "2011-09-03"
-teaser: "Les tréponématoses sont des maladies dues à des bactéries très particulières filiformes, de la famille des spirochètes : les tréponèmes (Treponema pallidum).  
-Chez l’homme, il existe 4 formes cliniques différentes avec des points communs et des divergences.  
-Une seule est sexuellement transmissible : la syphilis. Les autres sont endémiques : pian, syphilis endémique (bejel) en Afrique et pinta ou caraté en  Amérique.
-
-Les manifestations cliniques diffèrent mais évoluent toutes en 3 phases :
-
-*   La phase primaire qui correspond à l’introduction du tréponème dans l’organisme,
-*   La phase secondaire correspond à la diffusion du tréponème dans l’organisme.
-*   La phase tertiaire correspond à différentes complications viscérales."
 ---
+
+<div class="teaser"><p>Les tréponématoses sont des maladies dues à des bactéries très particulières filiformes, de la famille des spirochètes : les tréponèmes (Treponema pallidum).<br />
+Chez l’homme, il existe 4 formes cliniques différentes avec des points communs et des divergences.<br />
+Une seule est sexuellement transmissible : la syphilis. Les autres sont endémiques : pian, syphilis endémique (bejel) en Afrique et pinta ou caraté en  Amérique.</p>
+<p>Les manifestations cliniques diffèrent mais évoluent toutes en 3 phases :</p>
+<ul>
+<li>La phase primaire qui correspond à l’introduction du tréponème dans l’organisme,</li>
+<li>La phase secondaire correspond à la diffusion du tréponème dans l’organisme.</li>
+<li>La phase tertiaire correspond à différentes complications viscérales.</li>
+</ul></div>
 
 ## I. Clinique
 

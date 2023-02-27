@@ -2,9 +2,10 @@
 title: "Diagnostic d'une anémie ferriprive"
 author: "Françoise Balédent Biologiste - Saint Denis"
 date: "2011-06-24"
-teaser: "L'anémie ferriprive est due à une carence en fer (anémie par carence martiale). C’est la plus fréquente des anémies, elle affecte toutes les tranches d'âge, dans tous les pays.  
-Selon l’Organisation Mondiale de la Santé (2009), environ 25 % de la population mondiale présente une anémie. La moitié de ces cas serait attribuable à une carence en fer."
 ---
+
+<div class="teaser"><p>L'anémie ferriprive est due à une carence en fer (anémie par carence martiale). C’est la plus fréquente des anémies, elle affecte toutes les tranches d'âge, dans tous les pays.<br />
+Selon l’Organisation Mondiale de la Santé (2009), environ 25 % de la population mondiale présente une anémie. La moitié de ces cas serait attribuable à une carence en fer.</p></div>
 
 La quantité totale de fer dans l’organisme est stable et résulte d’un équilibre entre les entrées et les sorties. L’anémie ferriprive résulte d’une rupture de cet équilibre, par diminution des entrées ou augmentation des sorties.
 

@@ -2,8 +2,9 @@
 title: "Paludisme grave"
 author: "Dr. Jean-Marie Saïssy Médecin anesthésiste-réanimateur"
 date: "2008-01-27"
-teaser: "Le paludisme à Plasmodium falciparum, seul paludisme potentiellement mortel, est responsable du décès de 1,5 à 2,7 millions de personnes par an dans le monde. En zone d'endémie, ce sont les enfants qui n'ont pas encore acquis d'immunité antipalustre (entre 6 mois et 4 ans) qui sont les premières victimes, avec plus de un million de décès par an avant l'âge de 5 ans"
 ---
+
+<div class="teaser"><p>Le paludisme à Plasmodium falciparum, seul paludisme potentiellement mortel, est responsable du décès de 1,5 à 2,7 millions de personnes par an dans le monde. En zone d'endémie, ce sont les enfants qui n'ont pas encore acquis d'immunité antipalustre (entre 6 mois et 4 ans) qui sont les premières victimes, avec plus de un million de décès par an avant l'âge de 5 ans</p></div>
 
 ## **Définition**
 

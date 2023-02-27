@@ -2,9 +2,10 @@
 title: "Conduite à tenir devant une infection chez l'enfant drépanocytaire"
 author: "Philippe Reinert Pédiatre, Hôpital Intercommunal, Créteil, France."
 date: "2006-12-10"
-teaser: "Les infections bactériennes sont fréquentes et souvent graves chez le drépanocytaire ; elles sont responsables de la majorité des morts avant 5 ans ; leur rapidité d'évolution surtout pour les infections à Pneumocoque en fait une URGENCE VITALE.  
-C'est dire si l'infirmier doit réagir rapidement devant toute suspicion d'infection."
 ---
+
+<div class="teaser"><p>Les infections bactériennes sont fréquentes et souvent graves chez le drépanocytaire ; elles sont responsables de la majorité des morts avant 5 ans ; leur rapidité d'évolution surtout pour les infections à Pneumocoque en fait une URGENCE VITALE.<br />
+C'est dire si l'infirmier doit réagir rapidement devant toute suspicion d'infection.</p></div>
 
 ## I. Principes généraux
 

@@ -2,8 +2,9 @@
 title: "Un questionnaire simple pour évaluer un risque de diabète"
 author: "Jean-Loup Rey Médecin, GISPE"
 date: "2012-01-02"
-teaser: "L'étude des réponses à ces questions est une aide utile pour inciter le patient à consulter. Des tests à la recherche d'un diabète pourront être indiqués."
 ---
+
+<div class="teaser"><p>L'étude des réponses à ces questions est une aide utile pour inciter le patient à consulter. Des tests à la recherche d'un diabète pourront être indiqués.</p></div>
 
 ### Y a-t-il des diabétiques dans votre famille ?
 

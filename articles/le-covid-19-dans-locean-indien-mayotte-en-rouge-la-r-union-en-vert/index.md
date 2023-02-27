@@ -2,8 +2,9 @@
 title: "Le CoVID-19 dans l’Océan Indien : Mayotte en rouge, la Réunion en vert"
 author: "Patrice Bourée, 1.Hôpital de Dzaoudzi, Mayotte 2. Institut A. Fournier, Paris"
 date: "2020-06-28"
-teaser: "Les deux départements français de l’Océan Indien se trouvent dans une situation complètement différente vis-à-vis du COVID-19."
 ---
+
+<div class="teaser"><p>Les deux départements français de l’Océan Indien se trouvent dans une situation complètement différente vis-à-vis du COVID-19.</p></div>
 
 ## 1. Mayotte
 Mayotte, 101ème département français, situé en zone tropicale, compte officiellement 270 000 habitants, mais cette population est doublée par un afflux incessant d’émigrés clandestins  originaires surtout des Comores mais aussi de Madagascar et d’Afrique sub-saharienne. Ces émigrés vivent dans des habitations surpeuplées et sans eau courante, 30%  des logements n’ayant pas de sanitaires. Une bonne partie de la population ne comprend pas le français (ou ne veut pas faire l’effort de le comprendre), ce qui rend les consultations difficiles en général et plus encore l’explication des circonstances exceptionnelles d’isolement et de gestes barrières. Ceci est d’autant plus complexe que le gouvernement comorien nie farouchement l’existence de ce virus, comme il a longtemps nié celle du VIH.

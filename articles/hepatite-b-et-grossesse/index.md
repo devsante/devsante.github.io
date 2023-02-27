@@ -2,18 +2,18 @@
 title: "Hépatite B et grossesse"
 author: "Pr. Cheikh Tidiane Cisse et Pr. Jean-Charles Moreau Clinique Gynécologique et Obstétricale Centre Hospitalier Universitaire A. Le Dantec, 34 avenue Pasteur, Dakar, Sénégal."
 date: "2012-10-08"
-teaser: "L’infection par le virus de l’hépatite B (VHB) est un problème de santé publique ; en effet, la majorité de la population mondiale vit dans des zones à forte prévalence. Le continent africain est tout particulièrement concerné, avec des taux de portage chronique élevés de l’ordre de 15 à 20 % dans la population générale et de  
-22 à 25 % chez les femmes enceintes.  
-Cette  association pose essentiellement comme problème le risque  de transmission du virus de la mère à l’enfant (TME). La transmission de la mère à l’enfant du VHB peut survenir par 3 mécanismes :
-
-*   in utero par un passage transplacentaire du virus,
-*   per partum par l’intermédiaire des sécrétions vaginales ou du sang maternel,
-*   post-natale de façon horizontale ou par le biais du lait maternel.
-
-Cette TME doit être évitée à tout prix car 90 % des enfants infectés à la naissance vont devenir des porteurs chroniques du virus. Ces porteurs chroniques vont d’une part favoriser la diffusion de l’infection et d’autre part courir le risque de développer une cirrhose et un carcinome hépato-cellulaire.
-
-Pour arréter cette spirale dramatique, il faut diagnostiquer l’affection le plus tôt possible au cours de la grossesse, traiter les femmes enceintes qui présentent une infection évolutive et administrer aux nouveau-nés le vaccin associé dans certains cas aux immunoglobulines anti HBs."
 ---
+
+<div class="teaser"><p>L’infection par le virus de l’hépatite B (VHB) est un problème de santé publique ; en effet, la majorité de la population mondiale vit dans des zones à forte prévalence. Le continent africain est tout particulièrement concerné, avec des taux de portage chronique élevés de l’ordre de 15 à 20 % dans la population générale et de<br />
+22 à 25 % chez les femmes enceintes.<br />
+Cette  association pose essentiellement comme problème le risque  de transmission du virus de la mère à l’enfant (TME). La transmission de la mère à l’enfant du VHB peut survenir par 3 mécanismes :</p>
+<ul>
+<li>in utero par un passage transplacentaire du virus,</li>
+<li>per partum par l’intermédiaire des sécrétions vaginales ou du sang maternel,</li>
+<li>post-natale de façon horizontale ou par le biais du lait maternel.</li>
+</ul>
+<p>Cette TME doit être évitée à tout prix car 90 % des enfants infectés à la naissance vont devenir des porteurs chroniques du virus. Ces porteurs chroniques vont d’une part favoriser la diffusion de l’infection et d’autre part courir le risque de développer une cirrhose et un carcinome hépato-cellulaire.</p>
+<p>Pour arréter cette spirale dramatique, il faut diagnostiquer l’affection le plus tôt possible au cours de la grossesse, traiter les femmes enceintes qui présentent une infection évolutive et administrer aux nouveau-nés le vaccin associé dans certains cas aux immunoglobulines anti HBs.</p></div>
 
 ## I. Influences réciproques
 

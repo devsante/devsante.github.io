@@ -1,8 +1,9 @@
 ---
 title: "Le clampage retardé du cordon ombilical"
 date: "1999-02-18"
-teaser: "Le clampage retardé du cordon ombilical améliore le statut hématologique des nouveau-nés à l'âge de 2 mois au Guatemala."
 ---
+
+<div class="teaser"><p>Le clampage retardé du cordon ombilical améliore le statut hématologique des nouveau-nés à l'âge de 2 mois au Guatemala.</p></div>
 
 Il s'agit d'une étude randomisée réalisée dans une maternité du Guatemala. Soixante-neuf nouveau-nés ont été inclus et répartis en 3 groupes au moment de l'accouchement.
 

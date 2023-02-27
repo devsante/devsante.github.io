@@ -1,13 +1,13 @@
 ---
 title: "Nutrition et VIH"
 date: "2006-11-05"
-teaser: "Les personnes infectées par le VIH ont des besoins énergétiques plus importants. Ces besoins sont de 10 % supérieurs à ceux d'une personne non infectée lorsque le malade est encore dans une phase asymptomatique et peuvent être augmentés de 20 à 30 % en phase d'état.  
-La perte de poids constatée chez les patients VIH + est due à plusieurs facteurs tels que la perte d'appétit, un apport alimentaire insuffisant, les vomissements, la diarrhée chronique...  
-Pour atteindre une efficacité maximale du traitement antirétroviral, il convient d'avoir une alimentation équilibrée et suffisante, recommandation difficile à appliquer pour des malades subissant des contraintes économiques fortes.  
-L'infirmier doit, si possible, encourager l'utilisation d'aliments très caloriques et riches en protéines afin de limiter la perte pondérale.
-
-Exemples : avocat, noix de coco, lait en poudre entier, yaourt ou lait fermenté, produits à base de soja, fromage, viande, poisson, volaille, fruit sec, céréales, oeufs, haricot en grain, lentilles, pomme de terre, patates douces, bananes, manioc, millet, sorgho, riz, mais...( liste non exhaustive)."
 ---
+
+<div class="teaser"><p>Les personnes infectées par le VIH ont des besoins énergétiques plus importants. Ces besoins sont de 10 % supérieurs à ceux d'une personne non infectée lorsque le malade est encore dans une phase asymptomatique et peuvent être augmentés de 20 à 30 % en phase d'état.<br />
+La perte de poids constatée chez les patients VIH + est due à plusieurs facteurs tels que la perte d'appétit, un apport alimentaire insuffisant, les vomissements, la diarrhée chronique...<br />
+Pour atteindre une efficacité maximale du traitement antirétroviral, il convient d'avoir une alimentation équilibrée et suffisante, recommandation difficile à appliquer pour des malades subissant des contraintes économiques fortes.<br />
+L'infirmier doit, si possible, encourager l'utilisation d'aliments très caloriques et riches en protéines afin de limiter la perte pondérale.</p>
+<p>Exemples : avocat, noix de coco, lait en poudre entier, yaourt ou lait fermenté, produits à base de soja, fromage, viande, poisson, volaille, fruit sec, céréales, oeufs, haricot en grain, lentilles, pomme de terre, patates douces, bananes, manioc, millet, sorgho, riz, mais...( liste non exhaustive).</p></div>
 
 ## I. Les objectifs infirmiers sont :
 

@@ -2,9 +2,10 @@
 title: "Anesthésie chez un patient drépanocytaire"
 author: "Pierre Bériel, médecin anesthésiste réanimateur, Créteil, France"
 date: "2017-04-03"
-teaser: "La drépanocytose homozygote est responsable d’une anémie et de troubles de l’oxygénation tissulaire. Elle peut entraîner des atteintes viscérales multiples responsables de crises douloureuses et d’infections.
-L’anesthésiste devra tout faire pour en prévenir les complications en contrôlant l’anémie, et en assurant le maintien de la volémie, de la température et de l’oxygénation."
 ---
+
+<div class="teaser"><p>La drépanocytose homozygote est responsable d’une anémie et de troubles de l’oxygénation tissulaire. Elle peut entraîner des atteintes viscérales multiples responsables de crises douloureuses et d’infections.<br />
+L’anesthésiste devra tout faire pour en prévenir les complications en contrôlant l’anémie, et en assurant le maintien de la volémie, de la température et de l’oxygénation.</p></div>
 
 <table>
   <tr>

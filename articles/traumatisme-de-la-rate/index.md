@@ -2,10 +2,10 @@
 title: "Traumatisme de la rate"
 author: "Marc Leclerc du Sablon Chirurgien, Hôpital de Vannes, France."
 date: "2002-04-12"
-teaser: "Organe friable, fragile et très vascularisé, la rate est normalement profondément située sous la coupole diaphragmatique gauche et protégée par les dernières côtes gauches.
-
-A l'état pathologique, comme en cas de paludisme chronique, la rate, hypertrophiée et alourdie (poids normal : 150 à 200 g) est particulièrement exposée au risque de contusion lors d'une chute ou d'un traumatisme."
 ---
+
+<div class="teaser"><p>Organe friable, fragile et très vascularisé, la rate est normalement profondément située sous la coupole diaphragmatique gauche et protégée par les dernières côtes gauches.</p>
+<p>A l'état pathologique, comme en cas de paludisme chronique, la rate, hypertrophiée et alourdie (poids normal : 150 à 200 g) est particulièrement exposée au risque de contusion lors d'une chute ou d'un traumatisme.</p></div>
 
 ## I. Introduction
 

@@ -2,10 +2,10 @@
 title: "L'hémorragie"
 author: "François Pernin"
 date: "1982-02-28"
-teaser: "L'hémorragie, c'est l'urgence, le sang coule, il faut arrêter ce saignement et si les pertes de sang ont été importantes, compenser ces pertes en perfusant le malade et au mieux, en lui transfusant du sang.
-
-C'est simple! Mais le sang ne coule pas toujours sous nos yeux, il peut se vider à l'intérieur du ventre par exemple, et il faudra alors savoir reconnaître le saignement et apprécier son importance pour très vite traiter le malade."
 ---
+
+<div class="teaser"><p>L'hémorragie, c'est l'urgence, le sang coule, il faut arrêter ce saignement et si les pertes de sang ont été importantes, compenser ces pertes en perfusant le malade et au mieux, en lui transfusant du sang.</p>
+<p>C'est simple! Mais le sang ne coule pas toujours sous nos yeux, il peut se vider à l'intérieur du ventre par exemple, et il faudra alors savoir reconnaître le saignement et apprécier son importance pour très vite traiter le malade.</p></div>
 
 ## **I. Les deux types** **d'hémorragies**
 

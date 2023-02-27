@@ -2,8 +2,9 @@
 title: "Douleur de la drépanocytose"
 author: "Mohamed Chérif Rahimy BP 2640 PP, Cotonou, République du Bénin."
 date: "1997-10-01"
-teaser: "Reconnue au début du siècle, la drépanocytose ou anémie falciforme ou hémoglobinopathie S est une maladie autosomique récessive (pour que l'enfant soit malade, il faut qu'il ait reçu de chacun de ses deux parents le gène anormal) due à la présence de l'hémoglobine S dans les globules rouges. Il s'agit d'une affection fréquente, avec une spécificité ethnique et qui touche principalement les populations d'origine africaine et indienne ; par exemple, en Afrique au sud du Sahara et plus particulièrement dans les pays du golfe du Bénin, la prévalence des transmetteurs atteint 30 % de la population."
 ---
+
+<div class="teaser"><p>Reconnue au début du siècle, la drépanocytose ou anémie falciforme ou hémoglobinopathie S est une maladie autosomique récessive (pour que l'enfant soit malade, il faut qu'il ait reçu de chacun de ses deux parents le gène anormal) due à la présence de l'hémoglobine S dans les globules rouges. Il s'agit d'une affection fréquente, avec une spécificité ethnique et qui touche principalement les populations d'origine africaine et indienne ; par exemple, en Afrique au sud du Sahara et plus particulièrement dans les pays du golfe du Bénin, la prévalence des transmetteurs atteint 30 % de la population.</p></div>
 
 La drépanocytose, maladie héréditaire pour laquelle il n'existe pas encore de traitement curatif, est caractérisée par une anémie hémolytique chronique (le taux d'hémoglobine est habituellement à 6-8 g/dl). Sur ce fond permanent viennent se greffer des complications aiguës. Les crises douloureuses constituent une des manifestations aiguës habituelles de la maladie.
 

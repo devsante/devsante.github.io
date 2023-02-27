@@ -2,10 +2,10 @@
 title: "Tests biologiques d'exploration de l'hémostase"
 author: "Charles Marc Samama* et Marianne Scholtès** *Département d'Anesthésie-Réanimation, Hôpital Avicenne, 93000 Bobigny, France. **Optimed."
 date: "2002-04-10"
-teaser: "L'exploration de l'hémostase repose sur quelques tests simples et pour la plupart reproductibles. En fonction de l'équipement du laboratoire et du degré d'urgence, il est possible de réaliser des tests plus ou moins compliqués.
-
-Pour la physiopathologie, on peut se référer à l'article \"Physiologie de l'hémostase\"."
 ---
+
+<div class="teaser"><p>L'exploration de l'hémostase repose sur quelques tests simples et pour la plupart reproductibles. En fonction de l'équipement du laboratoire et du degré d'urgence, il est possible de réaliser des tests plus ou moins compliqués.</p>
+<p>Pour la physiopathologie, on peut se référer à l'article "Physiologie de l'hémostase".</p></div>
 
 ## I. Examens standard
 

@@ -2,10 +2,10 @@
 title: "Tabagisme passif : fumeurs, ne tuez pas nos enfants"
 author: "Philippe Reinert, Pédiatre, hôpitalintercommunal, Créteil, France "
 date: "2009-10-21"
-teaser: "Si tout le monde connaît le rôle majeur du tabac dans la genèse de certains cancers, celui du poumon surtout, mais aussi de la sphère ORL, de la vessie - sans oublier d'autres pathologies : hypertension artérielle, ulcère gastro-duodénal, artérite, etc. - les conséquences du tabagisme passif, en particulier chez le jeune enfant, sont aussi insidieuses que dramatiques. Ainsi, la fumée dégagée par l'extrémité de la cigarette est plus polluante que la fumée inhalée parce que plus riche en goudrons, en oxyde de carbone, en ammoniaque et en substances cancérigènes.
-
-Le séjour dans une pièce enfumée pendant quelques heures équivaut à l'inhalation de cinq cigarettes par jour, ce qui augmente considérablement le risque de cancer du poumon 30 ans plus tard."
 ---
+
+<div class="teaser"><p>Si tout le monde connaît le rôle majeur du tabac dans la genèse de certains cancers, celui du poumon surtout, mais aussi de la sphère ORL, de la vessie - sans oublier d'autres pathologies : hypertension artérielle, ulcère gastro-duodénal, artérite, etc. - les conséquences du tabagisme passif, en particulier chez le jeune enfant, sont aussi insidieuses que dramatiques. Ainsi, la fumée dégagée par l'extrémité de la cigarette est plus polluante que la fumée inhalée parce que plus riche en goudrons, en oxyde de carbone, en ammoniaque et en substances cancérigènes.</p>
+<p>Le séjour dans une pièce enfumée pendant quelques heures équivaut à l'inhalation de cinq cigarettes par jour, ce qui augmente considérablement le risque de cancer du poumon 30 ans plus tard.</p></div>
 
 ## Tabac et grossesse
 

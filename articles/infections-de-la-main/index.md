@@ -2,8 +2,9 @@
 title: "Infections de la main"
 author: "Arnaud Colom Chirurgien orthopédique, hôpital Avicenne, Bobigny, France."
 date: "2000-04-02"
-teaser: "Les infections de la main sont fréquentes et peuvent entraîner des séquelles fonctionnelles graves si elles sont négligées. On distingue les panaris et les phlegmons."
 ---
+
+<div class="teaser"><p>Les infections de la main sont fréquentes et peuvent entraîner des séquelles fonctionnelles graves si elles sont négligées. On distingue les panaris et les phlegmons.</p></div>
 
 ## I. Panaris
 

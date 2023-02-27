@@ -2,10 +2,10 @@
 title: "Supervision, suivi et évaluation des activités de vaccination"
 author: "Philippe Jaillard Agence pour la Médecine Préventive (AMP), Ouagadougou, Burkina Faso"
 date: "2009-04-27"
-teaser: "La supervision des agents, le suivi et l'évaluation du programme permettent de s'assurer que les activités menées dans la zone concourent à l'atteinte des objectifs dans le respect des bonnes pratiques.
-
-Les documents normatifs servant de référence pour la qualité des prestations de service sont : le plan d'action et le programme des activités, le guide de formation et la politique nationale de vaccination."
 ---
+
+<div class="teaser"><p>La supervision des agents, le suivi et l'évaluation du programme permettent de s'assurer que les activités menées dans la zone concourent à l'atteinte des objectifs dans le respect des bonnes pratiques.</p>
+<p>Les documents normatifs servant de référence pour la qualité des prestations de service sont : le plan d'action et le programme des activités, le guide de formation et la politique nationale de vaccination.</p></div>
 
 ## I. Superviser le personnel
 

@@ -2,8 +2,9 @@
 title: "Plaies et sutures"
 author: "Arnaud Colom Chirurgien orthopédique, hôpital Avicenne, Bobigny, France."
 date: "1999-08-01"
-teaser: "La peau est un organe noble dont la réparation doit prendre autant d'attention que les éléments sous-jacents. Il faut comprendre que la cicatrice est la seule chose que le patient retiendra de l'intervention, même si de nombreux éléments sous-jacents ont été réparés avec succès. De plus, les séquelles esthétiques d'une mauvaise cicatrice peuvent avoir un retentissement psychologique et social important."
 ---
+
+<div class="teaser"><p>La peau est un organe noble dont la réparation doit prendre autant d'attention que les éléments sous-jacents. Il faut comprendre que la cicatrice est la seule chose que le patient retiendra de l'intervention, même si de nombreux éléments sous-jacents ont été réparés avec succès. De plus, les séquelles esthétiques d'une mauvaise cicatrice peuvent avoir un retentissement psychologique et social important.</p></div>
 
 Les problèmes posés par les plaies sont différents selon qu'il s'agit d'une plaie nette ou contuse, qu'il existe une perte de substance, qu'elle est septique ou aseptique. Nous ne parlerons pas dans cet exposé des problèmes particuliers que sont les plaies articulaires, les plaies en regard d'une fracture dite fracture ouverte et les plaies en regard d'un axe artériel.
 

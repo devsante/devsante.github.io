@@ -2,14 +2,12 @@
 title: "Le rôle de l’infirmier(ère) en éducation à la santé face au diabète"
 author: "Annabelle Mathieu, inf., M.Sc., Conseillère en soins spécialisés Centre hospitaliser de l’Université de Montréal (CHUM), SIDIIEF, Canada "
 date: "2013-11-17"
-teaser: "Le diabète est un problème de santé croissant : on dénombre actuellement 371 millions de personnes diabétiques dans le monde. En Afrique, plus de 14 millions de personnes vivent avec le diabète et on estime que ce chiffre augmentera à 28 millions d’ici 2030 [1]. L’urbanisation grandissante, un mode de vie plus sédentaire et des changements nutritionnels sont en partie responsables de cette progression. Les maladies non transmissibles telles que le diabète, deviennent une nouvelle priorité de santé en Afrique [2, 3]. Le diabète représente maintenant une menace pour les pays émergents : plus de 80 % des décès dus au diabète se produisent dans des pays à revenu faible ou intermédiaire [4]. L’Afrique abrite également le pourcentage le plus élevé de cas de diabète non diagnostiqués (81 %) [5]. Il est important d’agir devant cette situation.
-
-Il est généralement possible de prévenir le diabète de type 2 en modifiant certains comportements à risque : sédentarité, mauvaises habitudes alimentaires, usage du tabac et consommation d’alcool [6]. Ainsi, une perte d’environ 5 % du poids initial peut réduire de près de 60 % le risque de progression de l’intolérance au glucose au diabète de type 2 [7]. 
-
-La prévention et la promotion de la santé deviennent nécessaires afin de réduire le risque de décès prématurés et pour augmenter la qualité de vie des personnes atteintes par le diabète [8]. L’infirmier(ère) a donc un rôle important à jouer afin d’éduquer les personnes à risques et les soutenir afin d’éviter qu’elles ne développent cette maladie.
-
-L’objectif de cet article est de démontrer le rôle déterminant de l’infirmier(ère) en éducation à la santé face au diabète, afin de mieux accompagner les personnes atteintes de diabète et d’améliorer leur qualité de vie."
 ---
+
+<div class="teaser"><p>Le diabète est un problème de santé croissant : on dénombre actuellement 371 millions de personnes diabétiques dans le monde. En Afrique, plus de 14 millions de personnes vivent avec le diabète et on estime que ce chiffre augmentera à 28 millions d’ici 2030 [1]. L’urbanisation grandissante, un mode de vie plus sédentaire et des changements nutritionnels sont en partie responsables de cette progression. Les maladies non transmissibles telles que le diabète, deviennent une nouvelle priorité de santé en Afrique [2, 3]. Le diabète représente maintenant une menace pour les pays émergents : plus de 80 % des décès dus au diabète se produisent dans des pays à revenu faible ou intermédiaire [4]. L’Afrique abrite également le pourcentage le plus élevé de cas de diabète non diagnostiqués (81 %) [5]. Il est important d’agir devant cette situation.</p>
+<p>Il est généralement possible de prévenir le diabète de type 2 en modifiant certains comportements à risque : sédentarité, mauvaises habitudes alimentaires, usage du tabac et consommation d’alcool [6]. Ainsi, une perte d’environ 5 % du poids initial peut réduire de près de 60 % le risque de progression de l’intolérance au glucose au diabète de type 2 [7]. </p>
+<p>La prévention et la promotion de la santé deviennent nécessaires afin de réduire le risque de décès prématurés et pour augmenter la qualité de vie des personnes atteintes par le diabète [8]. L’infirmier(ère) a donc un rôle important à jouer afin d’éduquer les personnes à risques et les soutenir afin d’éviter qu’elles ne développent cette maladie.</p>
+<p>L’objectif de cet article est de démontrer le rôle déterminant de l’infirmier(ère) en éducation à la santé face au diabète, afin de mieux accompagner les personnes atteintes de diabète et d’améliorer leur qualité de vie.</p></div>
 
 ## I. Soutien à l'autogestion
 

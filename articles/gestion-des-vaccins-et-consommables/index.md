@@ -2,8 +2,9 @@
 title: "Gestion des vaccins et consommables"
 author: "Philippe Jaillard Agence pour la Médecine Préventive (AMP), Ouagadougou, Burkina Faso"
 date: "2009-04-28"
-teaser: "La disponibilité de vaccins de qualité est essentielle pour la tenue des séances de vaccination. Le coût des vaccins utilisés dans les programmes nationaux est de plus en plus important. Les nouvelles combinaisons, les nouveaux vaccins sont plus onéreux et les pays s'impliquent de plus en plus dans l'achat des vaccins. La gestion des vaccins et consommables doit permettre une disponibilité suffisante des produits afin de maintenir les activités tout en minimisant les gaspillages."
 ---
+
+<div class="teaser"><p>La disponibilité de vaccins de qualité est essentielle pour la tenue des séances de vaccination. Le coût des vaccins utilisés dans les programmes nationaux est de plus en plus important. Les nouvelles combinaisons, les nouveaux vaccins sont plus onéreux et les pays s'impliquent de plus en plus dans l'achat des vaccins. La gestion des vaccins et consommables doit permettre une disponibilité suffisante des produits afin de maintenir les activités tout en minimisant les gaspillages.</p></div>
 
 ## I. Estimation des besoins en vaccins et consommables
 

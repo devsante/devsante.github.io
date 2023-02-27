@@ -2,8 +2,9 @@
 title: "Le programme élargi de vaccination (PEV) : origine et évolution"
 author: "Pierre Saliou, vaccinologue, GISPE"
 date: "2009-04-28"
-teaser: "Une bonne mise en oeuvre du Programme Élargi de Vaccination (PEV) est le moyen le plus efficace et le moins onéreux pour réduire de manière significative la mortalité infantile."
 ---
+
+<div class="teaser"><p>Une bonne mise en oeuvre du Programme Élargi de Vaccination (PEV) est le moyen le plus efficace et le moins onéreux pour réduire de manière significative la mortalité infantile.</p></div>
 
 ## I. Origine du PEV
 

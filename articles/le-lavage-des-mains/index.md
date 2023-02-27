@@ -1,13 +1,13 @@
 ---
 title: "Le lavage des mains"
 date: "2011-09-06"
-teaser: "Pourquoi se laver les mains ?  
-Les mains contaminées peuvent propager 80 % des infections courantes.  
-Un bon lavage des mains élimine une grande partie des micro-organismes acquis par contact avec des surfaces, des patients ou des liquides contaminés. Se laver les mains coupe la chaîne de transmission de l’infection et réduit la transmission de personne à personne.  
-Tout le personnel soignant, les médecins et la famille doivent respecter les consignes de lavage des mains.
-
-**Le lavage des mains est le plus simple et le moins cher des moyens de prévention de la transmission des infections, il réduit  l’incidence des infections dues aux soins.**"
 ---
+
+<div class="teaser"><p>Pourquoi se laver les mains ?<br />
+Les mains contaminées peuvent propager 80 % des infections courantes.<br />
+Un bon lavage des mains élimine une grande partie des micro-organismes acquis par contact avec des surfaces, des patients ou des liquides contaminés. Se laver les mains coupe la chaîne de transmission de l’infection et réduit la transmission de personne à personne.<br />
+Tout le personnel soignant, les médecins et la famille doivent respecter les consignes de lavage des mains.</p>
+<p><strong>Le lavage des mains est le plus simple et le moins cher des moyens de prévention de la transmission des infections, il réduit  l’incidence des infections dues aux soins.</strong></p></div>
 
 <table>
 

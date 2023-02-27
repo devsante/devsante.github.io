@@ -2,8 +2,9 @@
 title: "Le paludisme pendant la grossesse"
 author: "Aminatou Koné"
 date: "2008-07-01"
-teaser: "Les enfants de moins de 5 ans et les femmes au cours de leur grossesse font partie des personnes les plus vulnérables au paludisme. Dans les zones endémiques de l'Afrique, environ 30 millions de femmes enceintes sont exposées au risque du paludisme chaque année. Elles sont plus susceptibles au risque de l'infection palustre pendant la grossesse que celles non enceintes car l'immunité développée au cours des infections répétées avant la grossesse diminue physiologi­quement pendant la grossesse. La séquestration et la prolifération des parasites au niveau du placenta a un impact néfaste sur le développement du foetus en perturbant la diffusion de l'oxy­gène et des nutriments. Seul le Plasmodium falciparum, qui est l'espèce la plus courante en Afrique, pose réellement problème."
 ---
+
+<div class="teaser"><p>Les enfants de moins de 5 ans et les femmes au cours de leur grossesse font partie des personnes les plus vulnérables au paludisme. Dans les zones endémiques de l'Afrique, environ 30 millions de femmes enceintes sont exposées au risque du paludisme chaque année. Elles sont plus susceptibles au risque de l'infection palustre pendant la grossesse que celles non enceintes car l'immunité développée au cours des infections répétées avant la grossesse diminue physiologi­quement pendant la grossesse. La séquestration et la prolifération des parasites au niveau du placenta a un impact néfaste sur le développement du foetus en perturbant la diffusion de l'oxy­gène et des nutriments. Seul le Plasmodium falciparum, qui est l'espèce la plus courante en Afrique, pose réellement problème.</p></div>
 
 ## 1. La gravité de la maladie pour la femme  
 au cours de la grossesse

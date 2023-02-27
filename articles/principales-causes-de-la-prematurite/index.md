@@ -2,8 +2,9 @@
 title: "Principales causes de la prématurité"
 author: "Par Armel Brice Mapoukou Gynécologue-obstétricien, Brazzaville, Congo."
 date: "2010-12-04"
-teaser: "La prématurité est la naissance avant la 37ème semaine d'aménorrhée, spontanément ou par décision médicale. La prématurité des organes expose l'enfant à de nombreuses complications. Il est essentiel de déceler tous les facteurs de risque d'accouchement prématuré.La fréquence de la prématurité est de 5% dans les pays développés, mais plus importante dans les pays en développement : de 10 à l5%."
 ---
+
+<div class="teaser"><p>La prématurité est la naissance avant la 37ème semaine d'aménorrhée, spontanément ou par décision médicale. La prématurité des organes expose l'enfant à de nombreuses complications. Il est essentiel de déceler tous les facteurs de risque d'accouchement prématuré.La fréquence de la prématurité est de 5% dans les pays développés, mais plus importante dans les pays en développement : de 10 à l5%.</p></div>
 
 ## I. Causes de la prématurité spontanée
 

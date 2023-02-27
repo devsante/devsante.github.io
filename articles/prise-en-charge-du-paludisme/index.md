@@ -2,8 +2,9 @@
 title: "Prise en charge du paludisme"
 author: "JK. Assiznadi, O.A. Agbodjan-Djossou, K. Ayewada, 0. Cisse-Amegatse, B. Balaka, D.Y. Atakouma, A.D. Gbadoe Service de Pédiatrie, CHU Tokoin, Togo"
 date: "2001-06-05"
-teaser: "Le paludisme est la première cause de morbidité dans les pays africains et souvent une fréquente cause de mortalité, en particulier dans les groupes vulnérables que sont les enfants, les femmes enceintes et les voyageurs."
 ---
+
+<div class="teaser"><p>Le paludisme est la première cause de morbidité dans les pays africains et souvent une fréquente cause de mortalité, en particulier dans les groupes vulnérables que sont les enfants, les femmes enceintes et les voyageurs.</p></div>
 
 ## I. Introduction
 

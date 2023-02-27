@@ -2,14 +2,12 @@
 title: "Intoxications accidentelles chez l'enfant"
 author: "Jean-Bruno Lobut"
 date: "1983-02-28"
-teaser: "Les intoxications accidentelles sont fréquentes chez l'enfant de moins de sept ans, avec un maximum entre un et trois ans.
-
-Les plus graves sont celles liées aux caustiques.
-
-Nous envisagerons les intoxications par produits ménagers et domestiques.
-
-Celles dues aux médicaments feront l'objet d'un autre article."
 ---
+
+<div class="teaser"><p>Les intoxications accidentelles sont fréquentes chez l'enfant de moins de sept ans, avec un maximum entre un et trois ans.</p>
+<p>Les plus graves sont celles liées aux caustiques.</p>
+<p>Nous envisagerons les intoxications par produits ménagers et domestiques.</p>
+<p>Celles dues aux médicaments feront l'objet d'un autre article.</p></div>
 
 ## **I. Que faire devant une** **intoxication par produits** **ménagers ou domestiques?**
 

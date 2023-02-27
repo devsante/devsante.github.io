@@ -2,11 +2,13 @@
 title: "Rétention complète d'urine"
 author: "Dr. François Pernin Urologue, Hôpital d'Ajaccio, France."
 date: "2009-01-28"
-teaser: "Le diagnostic est le plus souvent évident, fait par le malade lui-même :
-
-*   impossibilité d'uriner avec douleur sus-pubienne de plus en plus intense ;
-*   besoin d'uriner permanent, n'aboutissant au mieux qu'à l'émission de quelques gouttes d'urines."
 ---
+
+<div class="teaser"><p>Le diagnostic est le plus souvent évident, fait par le malade lui-même :</p>
+<ul>
+<li>impossibilité d'uriner avec douleur sus-pubienne de plus en plus intense ;</li>
+<li>besoin d'uriner permanent, n'aboutissant au mieux qu'à l'émission de quelques gouttes d'urines.</li>
+</ul></div>
 
 _Un film sur ce sujet est visible gratuitement sur internet : httn://www.filmed.org/ Puis taper :_ _100 5204 103 dans la recherche par référence_.
 

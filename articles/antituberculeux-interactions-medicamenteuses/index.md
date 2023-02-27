@@ -1,8 +1,9 @@
 ---
 title: "Antituberculeux : interactions médicamenteuses"
 date: "2008-07-04"
-teaser: "La plupart des médicaments antituberculeux interagissent avec d'autres médicaments sou­vent prescrits, pouvant diminuer où augmenter les taux sériques donc l'activité de ces der­niers. Il est donc très important de connaître ces interactions."
 ---
+
+<div class="teaser"><p>La plupart des médicaments antituberculeux interagissent avec d'autres médicaments sou­vent prescrits, pouvant diminuer où augmenter les taux sériques donc l'activité de ces der­niers. Il est donc très important de connaître ces interactions.</p></div>
 
 ## 1. Rifampicine
 

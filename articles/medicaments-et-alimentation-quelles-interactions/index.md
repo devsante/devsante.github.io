@@ -2,11 +2,12 @@
 title: "Médicaments et alimentation : quelles interactions ?"
 author: "Pascale Lesseur, Pharmacien, Paris, France Dominique Malègue, Médecin, Paris, France"
 date: "2013-08-03"
-teaser: "On parle d’interaction lorsqu’une substance, médicamenteuse ou non, modifie les effets d’un médicament administré simultanément.  
-Une interaction peut réduire l’efficacité du médicament ou au contraire en augmenter les effets. Dans ce dernier cas, l’association risque de conduire à un surdosage et de provoquer des effets indésirables.  
-Il est donc important, lors de la prescription d’un traitement, de les connaître et d’en informer le patient.  
-Pour comprendre les effets et les mécanismes des interactions entre médicament et alimentation, il est nécessaire de définir les différents types d’interaction et les étapes de la vie du médicament dans l’organisme. Seront ensuite étudiées les principales interactions à connaître et les interactions de l’alimentation avec les principales classes thérapeutiques."
 ---
+
+<div class="teaser"><p>On parle d’interaction lorsqu’une substance, médicamenteuse ou non, modifie les effets d’un médicament administré simultanément.<br />
+Une interaction peut réduire l’efficacité du médicament ou au contraire en augmenter les effets. Dans ce dernier cas, l’association risque de conduire à un surdosage et de provoquer des effets indésirables.<br />
+Il est donc important, lors de la prescription d’un traitement, de les connaître et d’en informer le patient.<br />
+Pour comprendre les effets et les mécanismes des interactions entre médicament et alimentation, il est nécessaire de définir les différents types d’interaction et les étapes de la vie du médicament dans l’organisme. Seront ensuite étudiées les principales interactions à connaître et les interactions de l’alimentation avec les principales classes thérapeutiques.</p></div>
 
 ## I. Mécanismes Généraux
 

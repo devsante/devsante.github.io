@@ -2,9 +2,10 @@
 title: "Conduite à tenir devant une fièvre"
 author: "Pilippe Reinert, pédiatre, Créteil, France"
 date: "2008-04-30"
-teaser: "La fièvre est le principal symptôme du paludisme, mais elle peut aussi être le signe d'autres mala­dies comme la rougeole les infections respiratoires ou la méningite.  
-Le malade doit pouvoir aussi être traité pour ces autres maladies mais le paludisme simple, mal pris en charge, peut évoluer vers l'accès grave 24 heures après l'apparition de la fièvre et le mala­de peut mourir si un traitement anti-palustre ne lui est pas administré de toute urgence."
 ---
+
+<div class="teaser"><p>La fièvre est le principal symptôme du paludisme, mais elle peut aussi être le signe d'autres mala­dies comme la rougeole les infections respiratoires ou la méningite.<br />
+Le malade doit pouvoir aussi être traité pour ces autres maladies mais le paludisme simple, mal pris en charge, peut évoluer vers l'accès grave 24 heures après l'apparition de la fièvre et le mala­de peut mourir si un traitement anti-palustre ne lui est pas administré de toute urgence.</p></div>
 
 ## I. Tout malade ayant :
 

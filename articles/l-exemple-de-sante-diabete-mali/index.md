@@ -2,8 +2,9 @@
 title: "L'exemple de Santé Diabète Mali"
 author: "Stéphane Besançon Biologiste et nutritionniste, directeur de l'ONG Santé Diabète Mali, Bamako, Mali."
 date: "2009-08-09"
-teaser: "L'ONG Santé Diabète Mali (SDM) développe, en Afrique et particulièrement au Mali, une méthodologie définie en cinq axes et destinée à améliorer la prévention et la prise en charge du diabète sucré dans les populations a ressources limitées."
 ---
+
+<div class="teaser"><p>L'ONG Santé Diabète Mali (SDM) développe, en Afrique et particulièrement au Mali, une méthodologie définie en cinq axes et destinée à améliorer la prévention et la prise en charge du diabète sucré dans les populations a ressources limitées.</p></div>
 
 ## I. Amélioration de la prise en charge nutritionnelle des patients
 

@@ -2,8 +2,9 @@
 title: "Les vaccins du PEV à son origine"
 author: "Pierre Saliou, vaccinologue, GISPE"
 date: "2009-04-28"
-teaser: "Il convient de rappeler qu'à son origine, le Programme Élargi de Vaccination (PEV) a été mis en place pour lutter contre 6 maladies meurtrières dans la petite enfance et bénéficiant d'un vaccin efficace : la tuberculose, la poliomyélite, le tétanos, la diphtérie, la coqueluche et la rougeole."
 ---
+
+<div class="teaser"><p>Il convient de rappeler qu'à son origine, le Programme Élargi de Vaccination (PEV) a été mis en place pour lutter contre 6 maladies meurtrières dans la petite enfance et bénéficiant d'un vaccin efficace : la tuberculose, la poliomyélite, le tétanos, la diphtérie, la coqueluche et la rougeole.</p></div>
 
 ## 1. La tuberculose
 

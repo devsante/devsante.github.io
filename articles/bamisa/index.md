@@ -1,12 +1,15 @@
 ---
 title: "La préparation de la \"farine composée\" BAMISA"
 date: "2018-02-26"
-teaser: "Nous appelons **Farines composées** les farines associant céréales et légumineuses grasses. 
-L'objectif est d'obtenir une farine de haute valeur **protéino-énergétique** :
-- L'association céréales + légumineuses permet d'obtenir des protéines de très bonne qualité.
-- Les légumineuses grasses (soja et arachide) permettent un apport élevé d'énergie. 
-Les farines composées sont donc des aliments de construction et de force particulièrement utiles aux jeunes enfants."
 ---
+
+<div class="teaser"><p>Nous appelons <strong>Farines composées</strong> les farines associant céréales et légumineuses grasses.<br />
+L'objectif est d'obtenir une farine de haute valeur <strong>protéino-énergétique</strong> :</p>
+<ul>
+<li>L'association céréales + légumineuses permet d'obtenir des protéines de très bonne qualité.</li>
+<li>Les légumineuses grasses (soja et arachide) permettent un apport élevé d'énergie.<br />
+Les farines composées sont donc des aliments de construction et de force particulièrement utiles aux jeunes enfants.</li>
+</ul></div>
 
 La fabrication de la farine BAMiSA est accessible à tous, selon les étapes suivantes :
 -  Rassembler les ingrédients : Petit Mil (ou Maïs), Soja, Arachide, Sucre et Sel iodé,

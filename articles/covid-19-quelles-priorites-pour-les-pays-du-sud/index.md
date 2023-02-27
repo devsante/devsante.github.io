@@ -2,9 +2,10 @@
 title: "COVID-19 : quelles priorités pour les pays du Sud ?"
 author: "Thierry Comolet, médecin, épidémiologiste, santé publique"
 date: "2020-06-01"
-teaser: "L’épidémie de Covid-19, due au nouveau virus émergent SARS-Cov-2, atteint tous les pays du monde. Sa progression est variable et on observe des différences de vitesse de propagation entre les continents [1]. 
-En l’absence de traitement ou de prophylaxie vraiment efficaces, la plupart des gouvernements ont adopté, plus ou moins précocement et autoritairement, des mesures visant à diminuer les contacts interhumains pour tenter d'en maîtriser la transmission. Les mesures prises par les différents pays devraient cependant être davantage adaptées aux contextes locaux et non pas copiées dans la précipitation."
 ---
+
+<div class="teaser"><p>L’épidémie de Covid-19, due au nouveau virus émergent SARS-Cov-2, atteint tous les pays du monde. Sa progression est variable et on observe des différences de vitesse de propagation entre les continents [1].<br />
+En l’absence de traitement ou de prophylaxie vraiment efficaces, la plupart des gouvernements ont adopté, plus ou moins précocement et autoritairement, des mesures visant à diminuer les contacts interhumains pour tenter d'en maîtriser la transmission. Les mesures prises par les différents pays devraient cependant être davantage adaptées aux contextes locaux et non pas copiées dans la précipitation.</p></div>
 
 Nous ne savons certes pas encore beaucoup de choses de cette nouvelle maladie - notamment parce que nous ne disposons pas encore d’étude sérologique rétrospective permettant de savoir qui  finalement a ou aura été infecté par ce virus - et nous comprenons encore mal pourquoi son expression est si différente selon un nombre de facteurs encore indéterminé (âge, sexe, comorbidités…), mais nous avons déjà des informations pour les prises de décision.  
 Elle est très contagieuse, et toutes les études convergent pour dire que, en l’absence d’immunité et de mesures barrière, le Covid-19 est bien plus contagieux que la grippe ou la maladie à virus Ebola, mais moins que la rougeole par exemple.  

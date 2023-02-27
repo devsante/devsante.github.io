@@ -2,8 +2,9 @@
 title: "Laboratoire et anémie"
 author: "Françoise Balédent Biologiste, Centre Hospitalier de Saint-Denis (93), France."
 date: "2006-03-16"
-teaser: "L'anémie est une anomalie très fréquente, associée à de très nombreuses maladies. Devant une pâleur, le laboratoire permet de confirmer une anémie et d'en appré­cier l'intensité, mais également d'apporter une orientation diagnostique."
 ---
+
+<div class="teaser"><p>L'anémie est une anomalie très fréquente, associée à de très nombreuses maladies. Devant une pâleur, le laboratoire permet de confirmer une anémie et d'en appré­cier l'intensité, mais également d'apporter une orientation diagnostique.</p></div>
 
 ## I. Rappel physiologique
 

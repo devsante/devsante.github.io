@@ -2,9 +2,10 @@
 title: "Médicaments et grossesse"
 author: "Marie-Louise OMANGA Pédiatre, hôpital d'Amiens, France"
 date: "2012-03-02"
-teaser: "La plupart des médicaments administrés à la mère parviennent au fœtus et peuvent avoir un effet nocif direct sur la vie fœtale ou indirect en modifiant le métabolisme maternel ou les échanges materno-fœtaux.  
-Cela dit, toute médication n’a pas un effet néfaste sur la gestation, ce qui explique que certaines substances médicamenteuses (oligo-éléments, vitamines, vaccins…) soient indispensables, leur carence déterminant, au contraire, diverses anomalies ou malformations fœtales."
 ---
+
+<div class="teaser"><p>La plupart des médicaments administrés à la mère parviennent au fœtus et peuvent avoir un effet nocif direct sur la vie fœtale ou indirect en modifiant le métabolisme maternel ou les échanges materno-fœtaux.<br />
+Cela dit, toute médication n’a pas un effet néfaste sur la gestation, ce qui explique que certaines substances médicamenteuses (oligo-éléments, vitamines, vaccins…) soient indispensables, leur carence déterminant, au contraire, diverses anomalies ou malformations fœtales.</p></div>
 
 ## I. Effets nocifs
 

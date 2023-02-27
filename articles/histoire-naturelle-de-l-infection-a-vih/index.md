@@ -2,8 +2,9 @@
 title: "Histoire naturelle de l'infection à VIH"
 author: "Olivier Rogeaux Médecin, Service des maladies infectieuses, Chambéry.  "
 date: "1996-04-04"
-teaser: "L'infection par le VIH est d'évolution lente et peut produire une très grande variété de manifestations cliniques mais parfois rester longtemps asymptomatique. Toute personne infectée par le VIH n'évolue pas obligatoirement vers le sida. Le virus reste présent quel que soit le stade de la maladie et peut donc être transmis. Le fait essentiel au cours de l'infection VIH est l'apparition progressive d'une immunodépression (principalement liée à l'atteinte des lymphocytes CD4."
 ---
+
+<div class="teaser"><p>L'infection par le VIH est d'évolution lente et peut produire une très grande variété de manifestations cliniques mais parfois rester longtemps asymptomatique. Toute personne infectée par le VIH n'évolue pas obligatoirement vers le sida. Le virus reste présent quel que soit le stade de la maladie et peut donc être transmis. Le fait essentiel au cours de l'infection VIH est l'apparition progressive d'une immunodépression (principalement liée à l'atteinte des lymphocytes CD4.</p></div>
 
 ## I. Phase aiguë de primo-infection
 

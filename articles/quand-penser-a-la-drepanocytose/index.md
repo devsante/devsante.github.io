@@ -2,9 +2,10 @@
 title: "Quand penser à la drépanocytose ?"
 author: "Dr Françoise Bernaudin, pédiatre, Créteil, France"
 date: "2016-10-26"
-teaser: "La drépanocytose est une maladie génétique transmise par les parents porteurs du gène mais non malades.
-Par contre, dans une famille, lorsque les 2 parents AS sont porteurs, un enfant sur 4 en moyenne est atteint de la maladie drépanocytaire SS."
 ---
+
+<div class="teaser"><p>La drépanocytose est une maladie génétique transmise par les parents porteurs du gène mais non malades.<br />
+Par contre, dans une famille, lorsque les 2 parents AS sont porteurs, un enfant sur 4 en moyenne est atteint de la maladie drépanocytaire SS.</p></div>
 
 
 ![](penser-drepano-image002.gif)

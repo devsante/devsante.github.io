@@ -2,8 +2,9 @@
 title: "Les infections du post-partum"
 author: "Par Béatrice Guyard-Boileau Gynécologue-obstétricien, Médecins Sans Frontières, Paris."
 date: "2010-12-03"
-teaser: "Il s'agit de la survenue d'une fièvre à plus de 38° C à au moins deux reprises en quarante-huit heures. C'est un problème fréquent. Un bon examen clinique de la patiente est nécessaire afin de déterminer l'origine de l'infection. Il faut rester vigilant car il peut s'agir d'infections sévères mettant en jeu la vie de la mère. La fièvre peut parfois rester modérée alors que l'infection progresse de façon fulgurante. Cela est particulièrement le cas chez les patientes très affaiblies (tuberculose, SIDA, malnutrition) qu'il faudra donc surveiller attentivement."
 ---
+
+<div class="teaser"><p>Il s'agit de la survenue d'une fièvre à plus de 38° C à au moins deux reprises en quarante-huit heures. C'est un problème fréquent. Un bon examen clinique de la patiente est nécessaire afin de déterminer l'origine de l'infection. Il faut rester vigilant car il peut s'agir d'infections sévères mettant en jeu la vie de la mère. La fièvre peut parfois rester modérée alors que l'infection progresse de façon fulgurante. Cela est particulièrement le cas chez les patientes très affaiblies (tuberculose, SIDA, malnutrition) qu'il faudra donc surveiller attentivement.</p></div>
 
 ## I. Principales causes à connaître et reconnaître
 

@@ -2,9 +2,10 @@
 title: "Les brûlures"
 author: "Jacques Nafziger, Médecin généraliste, Paris, France"
 date: "2009-10-06"
-teaser: "Définition  
-La brûlure est la lésion produite par la chaleur sous toutes ses formes et détruisant tout ou partie du recouvrement cutané."
 ---
+
+<div class="teaser"><p>Définition<br />
+La brûlure est la lésion produite par la chaleur sous toutes ses formes et détruisant tout ou partie du recouvrement cutané.</p></div>
 
 ## I. Généralités
 

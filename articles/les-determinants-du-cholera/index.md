@@ -2,12 +2,11 @@
 title: "Les déterminants du choléra"
 author: "Michèle Lavallée Médecins du Monde"
 date: "2001-04-14"
-teaser: "Dans le cadre des épidémies de choléra, les déterminants sont tous les facteurs influençant favorablement ou défavorablement l'évolution d'une épidémie. Avant une épidémie, l'analyse des déterminants peut permettre de prévoir l'émergence ou la réémergence d'une épidémie dans un pays ou une région.
-
-Au début d'une épidémie, lors du diagnostic de la situation initiale, cette analyse est primordiale : elle va permettre de mettre en évidence les facteurs de risques importants, qu'il faudra évaluer, hiérarchiser et sur lesquels il faudra agir en priorité.
-
-Cette analyse des déterminants à été réalisée grâce aux données bibliographiques et aux données d'expérience du terrain lors de plusieurs missions exploratoires de Médecins du Monde."
 ---
+
+<div class="teaser"><p>Dans le cadre des épidémies de choléra, les déterminants sont tous les facteurs influençant favorablement ou défavorablement l'évolution d'une épidémie. Avant une épidémie, l'analyse des déterminants peut permettre de prévoir l'émergence ou la réémergence d'une épidémie dans un pays ou une région.</p>
+<p>Au début d'une épidémie, lors du diagnostic de la situation initiale, cette analyse est primordiale : elle va permettre de mettre en évidence les facteurs de risques importants, qu'il faudra évaluer, hiérarchiser et sur lesquels il faudra agir en priorité.</p>
+<p>Cette analyse des déterminants à été réalisée grâce aux données bibliographiques et aux données d'expérience du terrain lors de plusieurs missions exploratoires de Médecins du Monde.</p></div>
 
 ## I. Déterminants économiques
 

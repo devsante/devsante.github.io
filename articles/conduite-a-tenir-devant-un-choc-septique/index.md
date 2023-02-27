@@ -2,13 +2,14 @@
 title: "Conduite à tenir devant un choc septique"
 author: "Dr. Dramane Goïta*, Pr. Youssouf Coulibaly*, Dr. Mohamed Keita*, Dr. Djeneba Doumbia*, Pr. Abdoulaye Diallo ** Médecins anesthésistes-réanimateurs * Hôpital du Point G, Bamako, Mali. **Hôpital Gabriel Touré, Bamako, Mali."
 date: "2008-01-28"
-teaser: "Le choc septique constitue une urgence thérapeutique. L'examen clinique est une étape essen­tielle dont la qualité conditionne la prise en charge. Il doit être divisé en deux étapes distinctes :
-
-*   reconnaissance du choc, évaluation de sa sévérité et évocation de l'étiologie septique, ce qui permet de conduire dès l'admission le traitement symptomatique ;
-*   recherche minutieuse du foyer infectieux.
-
-L'examen du patient,organe après organe, permet le plus souvent de localiser le foyer infectieux et de débuter immédiatement le traitement, augmentant ainsi la probabilité d'être efficace d'emblée. L'étiologie la plus fréquente de l'état de choc fébrile est le choc d'origine infectieuse ou choc septique."
 ---
+
+<div class="teaser"><p>Le choc septique constitue une urgence thérapeutique. L'examen clinique est une étape essen­tielle dont la qualité conditionne la prise en charge. Il doit être divisé en deux étapes distinctes :</p>
+<ul>
+<li>reconnaissance du choc, évaluation de sa sévérité et évocation de l'étiologie septique, ce qui permet de conduire dès l'admission le traitement symptomatique ;</li>
+<li>recherche minutieuse du foyer infectieux.</li>
+</ul>
+<p>L'examen du patient,organe après organe, permet le plus souvent de localiser le foyer infectieux et de débuter immédiatement le traitement, augmentant ainsi la probabilité d'être efficace d'emblée. L'étiologie la plus fréquente de l'état de choc fébrile est le choc d'origine infectieuse ou choc septique.</p></div>
 
 ## I. Définition
 

@@ -2,8 +2,9 @@
 title: "Corps étrangers des voies aériennes chez l'enfant"
 author: "Pierre Bériel Anesthésiste-réanimateur, Créteil, France"
 date: "2015-12-17"
-teaser: "Ils sont avant tout l'apanage du jeune enfant, dès l'âge de la préhension (5 mois). C'est un accident relativement fréquent, et grave, soit du fait du siège du corps étranger (enclavement laryngé ou corps étranger mobile), soit parce qu'il est méconnu. Chez le jeune enfant, les voies aériennes sont caractérisées par des dimensions faibles, une réactivité importante et un revêtement muqueux proportionnellement plus important que chez l'adulte."
 ---
+
+<div class="teaser"><p>Ils sont avant tout l'apanage du jeune enfant, dès l'âge de la préhension (5 mois). C'est un accident relativement fréquent, et grave, soit du fait du siège du corps étranger (enclavement laryngé ou corps étranger mobile), soit parce qu'il est méconnu. Chez le jeune enfant, les voies aériennes sont caractérisées par des dimensions faibles, une réactivité importante et un revêtement muqueux proportionnellement plus important que chez l'adulte.</p></div>
 
 ## I. Anatomie des voies aériennes supérieures
 

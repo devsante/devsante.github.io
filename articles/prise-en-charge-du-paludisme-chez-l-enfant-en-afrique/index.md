@@ -2,14 +2,12 @@
 title: "Prise en charge du paludisme chez l'enfant en Afrique"
 author: "G. G. Sagbo, M. C. Rahimy Service de Pédiatrie et de Génétique Médicale CNHU-HKM, Cotonou, Bénin"
 date: "2008-07-02"
-teaser: "Le paludisme est une maladie infectieuse du globule rouge provoquée par le développement dans les hématies humaines d'un parasite appelé plasmodium. Il est transmis à l'homme sain par la piqûre de la femelle infectée d'un moustique, appelé anophèle.
-
-Quatre espèces de plasmodium sont responsables de la maladie palustre chez l'homme : le Plas­modium falciparum, le Plasmodium ovale, le Plasmodium vivax et le Plasmodium malariae. Parmi ces quatre espèces, le Plasmodium falciparum est le plus fréquemment enregistré dans les zones tropicales africaines et il est à la base des formes graves potentiellement mortelles.
-
-Le paludisme est responsable de 300 à 500 millions d'accès par an dans le monde dont 1,5 à 2 millions de morts par an. Plus d'un million de ces décès surviennent chez les enfants de moins de 5 ans vivant dans la zone subsaharienne et 10 à 20 % des enfants qui survivent à un accès de paludisme grave sont porteurs de séquelles neurologiques lourdes et handicapantes.
-
-Face à ce fléau, l'Organisation Mondiale de la Santé (OMS) et les différentes autorités sanitaires ont adopté plusieurs stratégies de lutte, dont la prise en charge correcte des cas, basée sur la distinction entre le paludisme simple et le paludisme grave."
 ---
+
+<div class="teaser"><p>Le paludisme est une maladie infectieuse du globule rouge provoquée par le développement dans les hématies humaines d'un parasite appelé plasmodium. Il est transmis à l'homme sain par la piqûre de la femelle infectée d'un moustique, appelé anophèle.</p>
+<p>Quatre espèces de plasmodium sont responsables de la maladie palustre chez l'homme : le Plas­modium falciparum, le Plasmodium ovale, le Plasmodium vivax et le Plasmodium malariae. Parmi ces quatre espèces, le Plasmodium falciparum est le plus fréquemment enregistré dans les zones tropicales africaines et il est à la base des formes graves potentiellement mortelles.</p>
+<p>Le paludisme est responsable de 300 à 500 millions d'accès par an dans le monde dont 1,5 à 2 millions de morts par an. Plus d'un million de ces décès surviennent chez les enfants de moins de 5 ans vivant dans la zone subsaharienne et 10 à 20 % des enfants qui survivent à un accès de paludisme grave sont porteurs de séquelles neurologiques lourdes et handicapantes.</p>
+<p>Face à ce fléau, l'Organisation Mondiale de la Santé (OMS) et les différentes autorités sanitaires ont adopté plusieurs stratégies de lutte, dont la prise en charge correcte des cas, basée sur la distinction entre le paludisme simple et le paludisme grave.</p></div>
 
 ## I. Rappels épidémiologiques et physiopathologiques du paludisme
 

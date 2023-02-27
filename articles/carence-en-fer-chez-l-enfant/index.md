@@ -2,10 +2,10 @@
 title: "Carence en fer chez l'enfant"
 author: "Philippe Reinert Pédiatre, Créteil, France"
 date: "2014-02-23"
-teaser: "La carence en fer est certainement la carence plus répandue dans le monde. Chez l'enfant, elle est responsable de multiples pathologies qui peuvent gêner la croissance, provoquer un retard des acquisitions mentales aux conséquences parfois définitives, enfin menacer la vie.
-
-Aussi, comprendre le pourquoi de cette carence, en déceler les premiers signes, la prévenir et enfin la traiter sont pour nous d'une importance capitale."
 ---
+
+<div class="teaser"><p>La carence en fer est certainement la carence plus répandue dans le monde. Chez l'enfant, elle est responsable de multiples pathologies qui peuvent gêner la croissance, provoquer un retard des acquisitions mentales aux conséquences parfois définitives, enfin menacer la vie.</p>
+<p>Aussi, comprendre le pourquoi de cette carence, en déceler les premiers signes, la prévenir et enfin la traiter sont pour nous d'une importance capitale.</p></div>
 
 ## I. Généralités
 

@@ -2,9 +2,10 @@
 title: "Stratégies vaccinales contre l'hépatite B"
 author: "Dominique Gendrel Hôpital Saint-Vincent-de-Paul, Paris, France."
 date: "2001-02-19"
-teaser: "Les longues polémiques sur son innocuité ont rendu, en France, le vaccin contre l'hépatite B suspect, et malheureusement, ont réduit son emploi. Alors que dans les années 1996­-1997, la couverture vaccinale progressait de façon importante chez les jeunes enfants, elle n'est plus actuellement, en France, que de 25 à 30 % chez les sujets de moins de un an ; cela comporte, pour l'avenir, un risque. Il importe donc de rappeler les termes de la discussion sur les risques vaccinaux et les données les plus récentes qui montrent que ce vaccin est sans danger et son effet remarquable à long terme : compte tenu des polémiques, la base de la stratégie est de rappeler à quel point il est utile et sans effet secondaire.  
-Aucun vaccin ne prévient le cancer, à l'excep­tion du vaccin contre l'hépatite B qui permet de prévenir un cancer du foie. La cible privilé­giée à protéger doit être les jeunes enfants."
 ---
+
+<div class="teaser"><p>Les longues polémiques sur son innocuité ont rendu, en France, le vaccin contre l'hépatite B suspect, et malheureusement, ont réduit son emploi. Alors que dans les années 1996­-1997, la couverture vaccinale progressait de façon importante chez les jeunes enfants, elle n'est plus actuellement, en France, que de 25 à 30 % chez les sujets de moins de un an ; cela comporte, pour l'avenir, un risque. Il importe donc de rappeler les termes de la discussion sur les risques vaccinaux et les données les plus récentes qui montrent que ce vaccin est sans danger et son effet remarquable à long terme : compte tenu des polémiques, la base de la stratégie est de rappeler à quel point il est utile et sans effet secondaire.<br />
+Aucun vaccin ne prévient le cancer, à l'excep­tion du vaccin contre l'hépatite B qui permet de prévenir un cancer du foie. La cible privilé­giée à protéger doit être les jeunes enfants.</p></div>
 
 ## I. Les discussions sur les effets secondaires
 

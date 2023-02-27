@@ -2,8 +2,9 @@
 title: "Une ectoparasitose des sables chauds : la tungose"
 author: "Patrice Bourée, Aliréza Ensaf Service de Parasitologie, hôpital Cochin, Paris"
 date: "2015-09-15"
-teaser: "La marche pieds nus dans le sable chaud provoque sans doute des sensations agréables pour les pieds, mais n'est pas sans risque. En effet, cela favorise les infestations par certains ecto-parasites du sable, comme les puces-chiques."
 ---
+
+<div class="teaser"><p>La marche pieds nus dans le sable chaud provoque sans doute des sensations agréables pour les pieds, mais n'est pas sans risque. En effet, cela favorise les infestations par certains ecto-parasites du sable, comme les puces-chiques.</p></div>
 
 ## Une puce d'Amérique du sud
 

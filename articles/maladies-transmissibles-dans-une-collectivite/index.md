@@ -2,16 +2,18 @@
 title: "Maladies transmissibles dans une collectivité"
 author: "Isabelle Roustang"
 date: "2011-10-24"
-teaser: "La prévention des maladies transmissibles en collectivité vise à lutter contre les sources de contamination et à réduire les moyens de transmission.  
-La prison met en contact de nombreuses personnes dans un espace limité, ce qui favorise la transmission des agents infectieux.  
-Les agents infectieux sont :
-
-*   les bactéries (ex : méningite à méningocoque, syphilis, tuberculose…),
-*   les virus (ex : hépatite B, VIH, grippe, rougeole…),
-*   les champignons (ex : teigne, muguet buccal…),
-*   les parasites (ex : amibes, gale, poux…),
-*   les prions."
 ---
+
+<div class="teaser"><p>La prévention des maladies transmissibles en collectivité vise à lutter contre les sources de contamination et à réduire les moyens de transmission.<br />
+La prison met en contact de nombreuses personnes dans un espace limité, ce qui favorise la transmission des agents infectieux.<br />
+Les agents infectieux sont :</p>
+<ul>
+<li>les bactéries (ex : méningite à méningocoque, syphilis, tuberculose…),</li>
+<li>les virus (ex : hépatite B, VIH, grippe, rougeole…),</li>
+<li>les champignons (ex : teigne, muguet buccal…),</li>
+<li>les parasites (ex : amibes, gale, poux…),</li>
+<li>les prions.</li>
+</ul></div>
 
 ## I. Trois étapes sont nécessaires pour  
 la transmission d’une maladie infectieuse

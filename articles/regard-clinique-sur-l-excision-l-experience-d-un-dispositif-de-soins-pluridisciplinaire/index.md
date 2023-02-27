@@ -2,8 +2,9 @@
 title: "Regard clinique sur l’excision : l’expérience d’un dispositif de soins pluridisciplinaire"
 author: "Dr Emmanuelle ANTONETTI-NDIAYE, gynécologue-obstétricien Sokhna FALL, victimologue, ethnologue Laura BELTRAN, sexologue Unité de soins des femmes excisées, Service de Gynécologie-Obstétrique du Professeur Hervé FERNANDEZ, Hôpital de Bicêtre"
 date: "2014-09-20"
-teaser: "L’Unité de Soins des Femmes Excisées a été créée en 2007 à l’Hôpital Intercommunal de Montreuil, en région parisienne. Nous vous présentons ici les principales réflexions et orientations cliniques pour la prise en charge des femmes excisées développées par nous depuis cette date. Une première phase de pratique de la chirurgie clitoridienne, à l’Hôpital Rothschild, nous avait a conduites à redéfinir notre activité comme une Unité de soins plutôt que de chirurgie. Une approche en termes de soins nous a paru mieux répondre à la demande des patientes, en s’appuyant sur les constats de la consultation médicale et en systématisant la pluridisciplinarité de l’accompagnement. L’Unité de Soins des Femmes Excisées est dorénavant installée au sein d’un grand hôpital universitaire, l’Hôpital de Bicêtre."
 ---
+
+<div class="teaser"><p>L’Unité de Soins des Femmes Excisées a été créée en 2007 à l’Hôpital Intercommunal de Montreuil, en région parisienne. Nous vous présentons ici les principales réflexions et orientations cliniques pour la prise en charge des femmes excisées développées par nous depuis cette date. Une première phase de pratique de la chirurgie clitoridienne, à l’Hôpital Rothschild, nous avait a conduites à redéfinir notre activité comme une Unité de soins plutôt que de chirurgie. Une approche en termes de soins nous a paru mieux répondre à la demande des patientes, en s’appuyant sur les constats de la consultation médicale et en systématisant la pluridisciplinarité de l’accompagnement. L’Unité de Soins des Femmes Excisées est dorénavant installée au sein d’un grand hôpital universitaire, l’Hôpital de Bicêtre.</p></div>
 
 ## La population accueillie
 

@@ -2,8 +2,9 @@
 title: "Les schistosomiases (ou bilharzioses)"
 author: "Jean-Loup Rey Santé publique, GISPE"
 date: "2011-11-20"
-teaser: "Il s’agit d’une maladie parasitaire très liée à la présence d’eau de surface."
 ---
+
+<div class="teaser"><p>Il s’agit d’une maladie parasitaire très liée à la présence d’eau de surface.</p></div>
 
 ## I. Les schistosomes
 

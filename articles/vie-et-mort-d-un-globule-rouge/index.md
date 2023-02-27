@@ -2,8 +2,9 @@
 title: "Vie et mort d'un globule rouge"
 author: "Philippe Reinert Pédiatre, hôpital intercommunal, Créteil, France"
 date: "2005-04-04"
-teaser: "Chargés de transporter l'oxygène des poumons vers les tissus (muscles, cerveau, etc.), les globules rouges ont un rôle capital dans l'organisme."
 ---
+
+<div class="teaser"><p>Chargés de transporter l'oxygène des poumons vers les tissus (muscles, cerveau, etc.), les globules rouges ont un rôle capital dans l'organisme.</p></div>
 
 ## I. Naissance
 

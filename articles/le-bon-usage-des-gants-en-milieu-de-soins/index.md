@@ -2,11 +2,11 @@
 title: "Le bon usage des gants en milieu de soins"
 author: "Amine Si-Ali Médecin hygiéniste, Créteil, France"
 date: "2011-09-23"
-teaser: "Les gants à usage unique sont souvent nécessaires dans  l’exercice des soins à l’hôpital, et le respect des règles de leur bon usage est indispensable.  
-Il faut bien distinguer **les gants stériles** **destinés en priorité à protéger le patient  et les gants non stériles qui protègent le soignant.**
-
-Nous envisagerons ici les catégories, indications et règles générales concernant les gants, puis l’intérêt des gants stériles et enfin le cas de l’allergie au latex."
 ---
+
+<div class="teaser"><p>Les gants à usage unique sont souvent nécessaires dans  l’exercice des soins à l’hôpital, et le respect des règles de leur bon usage est indispensable.<br />
+Il faut bien distinguer <strong>les gants stériles</strong> <strong>destinés en priorité à protéger le patient  et les gants non stériles qui protègent le soignant.</strong></p>
+<p>Nous envisagerons ici les catégories, indications et règles générales concernant les gants, puis l’intérêt des gants stériles et enfin le cas de l’allergie au latex.</p></div>
 
 ## I. Les catégories de gants
 

@@ -2,8 +2,9 @@
 title: "L'eau de boisson dans les pays en développement"
 author: "Pascal Empereur-Bissonnet \"Médecine, Eau, Agriculture et Santé en milieu Tropical\", Paris."
 date: "2007-10-03"
-teaser: "L'approvisionnement en eau potable des communautés rurales des pays pauvres est un problème majeur."
 ---
+
+<div class="teaser"><p>L'approvisionnement en eau potable des communautés rurales des pays pauvres est un problème majeur.</p></div>
 
 ## I. Le traitement de l'eau de boisson
 

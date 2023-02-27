@@ -2,8 +2,9 @@
 title: "Otalgie"
 author: "Antoine Perrin"
 date: "2001-08-03"
-teaser: "L'otalgie est par définition une douleur siégeant au niveau de l'oreille. En fait, seulement 50 % proviennent d'une cause otologique, l'autre moitié étant d'origine extra-auriculaire, définissant les otalgies réflexes ou secondaires."
 ---
+
+<div class="teaser"><p>L'otalgie est par définition une douleur siégeant au niveau de l'oreille. En fait, seulement 50 % proviennent d'une cause otologique, l'autre moitié étant d'origine extra-auriculaire, définissant les otalgies réflexes ou secondaires.</p></div>
 
 ## I. Examen clinique
 

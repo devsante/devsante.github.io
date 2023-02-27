@@ -1,8 +1,9 @@
 ---
 title: "Rhumatisme articulaire aigu : comment prévenir les rechutes ?"
 date: "2001-10-03"
-teaser: "Les rechutes du rhumatisme articulaire aigu (RAA) surviennent le plus souvent dans les deux premières années de la maladie : elles peuvent provoquer ou aggraver une lésion cardiaque."
 ---
+
+<div class="teaser"><p>Les rechutes du rhumatisme articulaire aigu (RAA) surviennent le plus souvent dans les deux premières années de la maladie : elles peuvent provoquer ou aggraver une lésion cardiaque.</p></div>
 
 Elles sont dues à une réinfection streptococcique pharyngée. C'est pour éviter ces réinfections que l'on prescrit aux enfants qui ont été atteints d'une première poussée de RAA une antibiothérapie prophylactique par la pénicilline qui est prolongée pendant au moins 5 ans. Le traitement est constitué d'une injection 2 fois par mois de benzathine-benzypénicilline : 600 000 Ul chez les enfants pesant moins de 30 Kg (1 200 000 UI si le poids dépasse 30 Kg).
 

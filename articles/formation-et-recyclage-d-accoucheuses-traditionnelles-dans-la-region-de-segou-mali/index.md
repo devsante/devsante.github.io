@@ -2,17 +2,16 @@
 title: "Formation et recyclage d'accoucheuses traditionnelles dans la région de Ségou (Mali)"
 author: "J. B. Joly* et E Groux*, K. Kané**et B. Syna** * Fondation Leïla Fodil, 37, boulevard de Bury, 16 000 Angoulême, France. ** Centre de santé du cercle de Ségou, Mali.  "
 date: "2001-12-14"
-teaser: "En 1993, une sage-femme coauteur de cet article, Madame Kani Kané, du centre de santé du cercle de Ségou, demande à la Fondation Leïla Fodil de l'aider à former les accoucheuses traditionnelles du cercle.
-
-Le territoire du Mali est divisé en :
-
-*   Régions : au nombre de six, Ségou est la capitale de la 4ème région.
-*   Chaque région comprend un certain nombre de cercles, eux-mêmes divisés en arrondissements et en communes.
-
-La loi de décentralisation récente tend à créer des communes dotées de conseils municipaux élus, qui auront certaines possibilités de gestion autonome, en particulier pour ce qui concerne la santé. La distribution des soins se fait de plus en plus dans des centres de santé communautaires, dont la gestion est sous la responsabilité des autorités locales.
-
-Consciente de l'importance du rôle des accoucheuses traditionnelles (AT) dans la santé des femmes enceintes et de la nécessité de leur apporter quelques connaissances modernes pour augmenter leur efficacité, la Fondation Leïla Fodil a soutenu une formation dans la région de Ségou. Nous relatons ici les résultats de cette expérience qui a duré 7 ans."
 ---
+
+<div class="teaser"><p>En 1993, une sage-femme coauteur de cet article, Madame Kani Kané, du centre de santé du cercle de Ségou, demande à la Fondation Leïla Fodil de l'aider à former les accoucheuses traditionnelles du cercle.</p>
+<p>Le territoire du Mali est divisé en :</p>
+<ul>
+<li>Régions : au nombre de six, Ségou est la capitale de la 4ème région.</li>
+<li>Chaque région comprend un certain nombre de cercles, eux-mêmes divisés en arrondissements et en communes.</li>
+</ul>
+<p>La loi de décentralisation récente tend à créer des communes dotées de conseils municipaux élus, qui auront certaines possibilités de gestion autonome, en particulier pour ce qui concerne la santé. La distribution des soins se fait de plus en plus dans des centres de santé communautaires, dont la gestion est sous la responsabilité des autorités locales.</p>
+<p>Consciente de l'importance du rôle des accoucheuses traditionnelles (AT) dans la santé des femmes enceintes et de la nécessité de leur apporter quelques connaissances modernes pour augmenter leur efficacité, la Fondation Leïla Fodil a soutenu une formation dans la région de Ségou. Nous relatons ici les résultats de cette expérience qui a duré 7 ans.</p></div>
 
 ## I. La formation
 

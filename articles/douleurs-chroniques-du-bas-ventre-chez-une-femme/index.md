@@ -2,26 +2,27 @@
 title: "Douleurs chroniques du bas ventre chez une femme"
 author: "Olivier Isaac Bismuth Médecin généraliste"
 date: "1998-02-26"
-teaser: "Les douleurs chroniques du bas-ventre chez une femme constituent un vécu:
-
-Pénible pour la femme parce que :
-
-*   chroniques, répétitives,
-*   d'intensité variable : de modérée, mais bien présente, à violente, au point de devoir rester couchée ou de se tordre de douleur,
-*   angoissante, car s'étendant sur la partie sacrée de la femme.
-
-Difficile pour le soignant, parce que :
-
-*   complexe, relevant de diverses causes,
-*   il se trouve souvent sans moyens diagnostiques et thérapeutiques suffisants dans les conditions d'un dispensaire tropical rural ou de faubourg,
-*   et, qu'une fois de plus, on lui demande beaucoup avec peu de moyens, surtout quand cela concerne des problèmes de non-fécondité ou de stérilité.
-
-Nous proposons donc une conduite à tenir pratique visant à :
-
-*   départager les principales causes et tendre vers une orientation diagnostique,
-*   valoriser l'interrogatoire et l'examen clinique,
-*   soulager et aider la patiente, en attendant un traitement plus adapté et radical."
 ---
+
+<div class="teaser"><p>Les douleurs chroniques du bas-ventre chez une femme constituent un vécu:</p>
+<p>Pénible pour la femme parce que :</p>
+<ul>
+<li>chroniques, répétitives,</li>
+<li>d'intensité variable : de modérée, mais bien présente, à violente, au point de devoir rester couchée ou de se tordre de douleur,</li>
+<li>angoissante, car s'étendant sur la partie sacrée de la femme.</li>
+</ul>
+<p>Difficile pour le soignant, parce que :</p>
+<ul>
+<li>complexe, relevant de diverses causes,</li>
+<li>il se trouve souvent sans moyens diagnostiques et thérapeutiques suffisants dans les conditions d'un dispensaire tropical rural ou de faubourg,</li>
+<li>et, qu'une fois de plus, on lui demande beaucoup avec peu de moyens, surtout quand cela concerne des problèmes de non-fécondité ou de stérilité.</li>
+</ul>
+<p>Nous proposons donc une conduite à tenir pratique visant à :</p>
+<ul>
+<li>départager les principales causes et tendre vers une orientation diagnostique,</li>
+<li>valoriser l'interrogatoire et l'examen clinique,</li>
+<li>soulager et aider la patiente, en attendant un traitement plus adapté et radical.</li>
+</ul></div>
 
 ## **I.** Recommandation préalable
 

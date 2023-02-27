@@ -2,9 +2,10 @@
 title: "Hépatites : une urgence encore et toujours"
 author: "Christian Mongin, médecin, Paris"
 date: "2017-05-28"
-teaser: "L’OMS a présenté, le 21 avril 2017, son dernier rapport sur les hépatites dans le monde [1].  Il est accablant. L’organisation internationale avait  lancé, en mai 2016, un appel visant à éliminer les hépatites virales en tant que menace de santé publique à l’horizon 2030. L’objectif  est d’atteindre une réduction des nouvelles infections de 90 % et  de la mortalité de 65 %.
-Mais la route va être longue si la mobilisation autour de ces maladies ne s’intensifie pas au niveau de la prévention, du dépistage et du traitement."
 ---
+
+<div class="teaser"><p>L’OMS a présenté, le 21 avril 2017, son dernier rapport sur les hépatites dans le monde [1].  Il est accablant. L’organisation internationale avait  lancé, en mai 2016, un appel visant à éliminer les hépatites virales en tant que menace de santé publique à l’horizon 2030. L’objectif  est d’atteindre une réduction des nouvelles infections de 90 % et  de la mortalité de 65 %.<br />
+Mais la route va être longue si la mobilisation autour de ces maladies ne s’intensifie pas au niveau de la prévention, du dépistage et du traitement.</p></div>
 
 ### Quelle est la situation actuellement ?
 Les hépatites virales ont tué 1,34 million de personnes en 2015. Ce chiffre est comparable aux décès dus à la tuberculose et au VIH. Mais il faut noter que la mortalité due au VIH, à la tuberculose (et aussi au paludisme) baisse, alors que celle qui est due aux hépatites augmente.  

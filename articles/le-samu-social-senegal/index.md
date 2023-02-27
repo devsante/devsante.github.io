@@ -2,8 +2,9 @@
 title: "Le Samu Social Sénégal"
 author: "Massamba Diop Samu Social Sénégal, Dakar, Sénégal.  "
 date: "2009-09-20"
-teaser: "Quelques données médico-épidémiologiques sur les enfants de la rue à Dakar."
 ---
+
+<div class="teaser"><p>Quelques données médico-épidémiologiques sur les enfants de la rue à Dakar.</p></div>
 
 Le Samu Social Sénégal a été créé à Dakar le 1er mai 2003, selon les méthodes et les principes du Samu Social de Paris, créé par le Docteur Xavier Emmanuelli il y a 10 ans. Avec le soutien du Samu Social International, et après une phase préparatoire, les opérations de terrain ont été lancées le 1er novembre 2003. La mission du Samu Social Sénégal consiste à intervenir, selon les principes de l'urgence médicale et psycho-sociale, auprès des enfants des rues ou en grand danger dans la rue.
 

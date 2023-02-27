@@ -2,8 +2,9 @@
 title: "Conduite à tenir devant une polypnée fébrile de l'enfant"
 author: "Micheline Amzallag, pédiatre, Créteil, France"
 date: "2016-05-04"
-teaser: "C’est une situation fréquemment rencontrée qui demande une démarche diagnostique précise afin de ne pas passer à côté d’une pneumopathie à Pneumocoque dont le pronostic peut être redoutable, tout particulièrement lorsqu’il s’agit d’un enfant drépanocytaire. Il convient de différencier la conduite à tenir au regard de l’âge de l’enfant, et l’hospitalisation en urgence peut être la seule attitude possible s’il s’agit d’un nourrisson de moins de 3 mois. Toutefois, nous ne prendrons pas en compte la polypnée du nouveau-né (0-1 mois) qui nécessite une conduite particulière décrite dans la pathologie néo-natale."
 ---
+
+<div class="teaser"><p>C’est une situation fréquemment rencontrée qui demande une démarche diagnostique précise afin de ne pas passer à côté d’une pneumopathie à Pneumocoque dont le pronostic peut être redoutable, tout particulièrement lorsqu’il s’agit d’un enfant drépanocytaire. Il convient de différencier la conduite à tenir au regard de l’âge de l’enfant, et l’hospitalisation en urgence peut être la seule attitude possible s’il s’agit d’un nourrisson de moins de 3 mois. Toutefois, nous ne prendrons pas en compte la polypnée du nouveau-né (0-1 mois) qui nécessite une conduite particulière décrite dans la pathologie néo-natale.</p></div>
 
 ## Quand parle-t-on de fièvre ?
 

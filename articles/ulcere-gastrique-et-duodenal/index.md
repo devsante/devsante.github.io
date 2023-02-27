@@ -2,14 +2,15 @@
 title: "Ulcère gastrique et duodénal"
 author: "Nicolas Kodjoh Clinique Universitaire d'Hépato-gastroentérologie Centre National Hospitalier et Universitaire, Cotonou, Bénin"
 date: "2014-11-19"
-teaser: "L’ulcère gastrique (UG) ou duodénal (UD) est une perte de substance localisée de la muqueuse, avec peu de tendance à la cicatrisation. La maladie ulcéreuse est caractérisée :
-
-*   cliniquement par des douleurs épigastriques rythmées par les repas, évoluant par poussées périodiques entrecoupées de rémissions,
-*   anatomiquement par une destruction de la paroi digestive de la muqueuse à la musculeuse, et dont le fond est occupé par une réaction scléreuse.
-
-Cette définition s’oppose à celle des ulcères aigus dont la perte de substance n’atteint généralement pas la musculeuse.  
-L’UD est 3 à 4 fois plus fréquent que l’UG. Le rapport de fréquence entre les deux sexes (M/F) est de 2/1 pour l’UD et de 1/1 pour l’UG. L’UD est toujours bénin. L’UG peut se cancériser."
 ---
+
+<div class="teaser"><p>L’ulcère gastrique (UG) ou duodénal (UD) est une perte de substance localisée de la muqueuse, avec peu de tendance à la cicatrisation. La maladie ulcéreuse est caractérisée :</p>
+<ul>
+<li>cliniquement par des douleurs épigastriques rythmées par les repas, évoluant par poussées périodiques entrecoupées de rémissions,</li>
+<li>anatomiquement par une destruction de la paroi digestive de la muqueuse à la musculeuse, et dont le fond est occupé par une réaction scléreuse.</li>
+</ul>
+<p>Cette définition s’oppose à celle des ulcères aigus dont la perte de substance n’atteint généralement pas la musculeuse.<br />
+L’UD est 3 à 4 fois plus fréquent que l’UG. Le rapport de fréquence entre les deux sexes (M/F) est de 2/1 pour l’UD et de 1/1 pour l’UG. L’UD est toujours bénin. L’UG peut se cancériser.</p></div>
 
 <table>
 

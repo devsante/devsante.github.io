@@ -2,8 +2,9 @@
 title: "Une pathologie émergente : la fièvre due au virus Zika"
 author: "Patrice Bourée Service de Parasitologie, Hôpital Cochin, et consultation des maladies tropicalss, Institut A Fournier, Paris"
 date: "2016-02-22"
-teaser: "Depuis quelques semaines, une nouvelle virose s’est rapidement propagée dans le monde, à tel point qiue l’OMS a réuni un conseil spécifiquement consacré à cette pathologie. Et à la suite de cas de microcéphalies constatés chez les foetus des mères ayant été atteintes par le Zika, les autorités sanitaires de différents pays ont émis des avis de précaution pour les femmes enceintes devant se rendre dans les pays infestés"
 ---
+
+<div class="teaser"><p>Depuis quelques semaines, une nouvelle virose s’est rapidement propagée dans le monde, à tel point qiue l’OMS a réuni un conseil spécifiquement consacré à cette pathologie. Et à la suite de cas de microcéphalies constatés chez les foetus des mères ayant été atteintes par le Zika, les autorités sanitaires de différents pays ont émis des avis de précaution pour les femmes enceintes devant se rendre dans les pays infestés</p></div>
 
 Un flavivirus originaire d’Afrique
 

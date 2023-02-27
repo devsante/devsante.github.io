@@ -2,8 +2,9 @@
 title: "Diagnostic biologique de la tuberculose"
 author: "Catherine Dupeyron, biologiste, Créteil, France"
 date: "2008-01-03"
-teaser: "Le laboratoire a un double rôle dans la lutte contre la tuberculose : diagnostic, et aide au suivi du traitement. Quelques rappels bactériologiques sont nécessaires, pour la compréhension des étapes du diagnostic biologique."
 ---
+
+<div class="teaser"><p>Le laboratoire a un double rôle dans la lutte contre la tuberculose : diagnostic, et aide au suivi du traitement. Quelques rappels bactériologiques sont nécessaires, pour la compréhension des étapes du diagnostic biologique.</p></div>
 
 <table>
 

@@ -2,8 +2,9 @@
 title: "Douleur du SIDA (adulte)"
 author: "Didier Bouhassira INSERM U. 161, 2, rue d'Alésia, 75014 Paris"
 date: "1997-10-03"
-teaser: "La douleur, facteur majeur de handicap chez les patients infectés par le VIH, est largement sous-estimée, d'où une prise en charge très insuffisante."
 ---
+
+<div class="teaser"><p>La douleur, facteur majeur de handicap chez les patients infectés par le VIH, est largement sous-estimée, d'où une prise en charge très insuffisante.</p></div>
 
 Les douleurs observées chez ces patients peuvent avoir diverses origines parmi lesquelles on peut citer : l' infection VIH elle-même, les traitements antiviraux et anticancéreux ou encore les infections secondaires et les traitements invasifs ou chirurgicaux qu'elles entraînent. En outre la douleur peut être due à une affection intercurrente non liée au VIH (voir _tableau ci-dessous)._
 

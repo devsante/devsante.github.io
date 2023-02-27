@@ -2,8 +2,9 @@
 title: "Vaccination chez l'enfant : pas d'augmentation du risque d'infections"
 author: "Catherine Dupeyron, biologiste, Créteil, France"
 date: "2018-03-14"
-teaser: "L’injection de nombreux vaccins pendant les deux premières années de la vie de l’enfant augmente-t-elle le risque d’infections non ciblées par ces vaccins ?"
 ---
+
+<div class="teaser"><p>L’injection de nombreux vaccins pendant les deux premières années de la vie de l’enfant augmente-t-elle le risque d’infections non ciblées par ces vaccins ?</p></div>
 
 Des parents craignent que les nombreux antigènes vaccinaux auxquels on expose les enfants de la naissance à l’âge de 2 ans, perturbent leur système immunitaire et augmentent le risque d’autres infections.
 

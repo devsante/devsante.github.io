@@ -2,8 +2,9 @@
 title: "Drépanocytose"
 author: "Philippe Reinert Pédiatre, hôpital intercommunal, Créteil, France"
 date: "2009-03-05"
-teaser: "La DREPANCYTOSE, ou anémie à cellules falciformes, est une maladie du globule rouge qui atteint presque exclusivement la race noire. Elle constitue un grand problème de Santé Publique on admet qu'en Afrique 100 000 enfants meurent par an de la forme grave."
 ---
+
+<div class="teaser"><p>La DREPANCYTOSE, ou anémie à cellules falciformes, est une maladie du globule rouge qui atteint presque exclusivement la race noire. Elle constitue un grand problème de Santé Publique on admet qu'en Afrique 100 000 enfants meurent par an de la forme grave.</p></div>
 
 ## I. Mécanisme de la maladie
 

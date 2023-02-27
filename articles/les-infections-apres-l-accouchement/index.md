@@ -2,10 +2,10 @@
 title: "Les infections après l'accouchement"
 author: "Béatrice Guyard-Boileau * Kinésithérapeute, CIMADE, Paris."
 date: "2002-02-14"
-teaser: "Il s'agit de la survenue d'une fièvre supérieure à 38°C, à au moins deux reprises en quarante-huit heures ; c'est un problème fréquent. Un bon examen clinique de la patiente est nécessaire afin de déterminer l'origine de l'infection.
-
-Il faut rester vigilant car il peut s'agir d'infections sévères mettant en jeu la vie de la mère. La fièvre peut parfois rester modérée alors que l'infection progresse de façon fulgurante. Cela est particulièrement le cas chez les patientes très affaiblies (tuberculose, sida, malnutrition), qu'il faudra donc surveiller attentivement."
 ---
+
+<div class="teaser"><p>Il s'agit de la survenue d'une fièvre supérieure à 38°C, à au moins deux reprises en quarante-huit heures ; c'est un problème fréquent. Un bon examen clinique de la patiente est nécessaire afin de déterminer l'origine de l'infection.</p>
+<p>Il faut rester vigilant car il peut s'agir d'infections sévères mettant en jeu la vie de la mère. La fièvre peut parfois rester modérée alors que l'infection progresse de façon fulgurante. Cela est particulièrement le cas chez les patientes très affaiblies (tuberculose, sida, malnutrition), qu'il faudra donc surveiller attentivement.</p></div>
 
 ## I. Principales causes à connaître et reconnaître
 

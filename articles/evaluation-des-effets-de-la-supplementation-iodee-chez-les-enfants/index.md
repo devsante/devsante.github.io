@@ -2,14 +2,12 @@
 title: "Evaluation des effets de la supplémentation iodée chez les enfants"
 author: "S.Diallo*, M.Daffe**, M.S.Diallo**, O. Bayo **, M.L.Barry**, A.Diallo**, L.Loua**. * Médecin nutritionniste à l'INSE B.P : 6071 Conakry, République de Guinée. **Ministère de la Santé Publique, République de Guinée.  "
 date: "2001-04-14"
-teaser: "Les auteurs rapportent les résultats d'une étude transversale réalisée sous forme d'enquête par sondage en grappes de l'OMS. Au total 1 774 enfants de 8-1 9 ans ont bénéficié de l'examen clinique et 307 candidats de cet ensemble ont subi l'examen biologique. Tous sexes confondus, 1115 sujets (62,8 %) ont été trouvés non goitreux tandis que 37,1 % de sujets sont porteurs de goitre.
-
-Il apparaît dans l'étude que le sexe féminin est plus touché (40,6 %) que le sexe masculin (34,9 %).
-
-Les dosages de l'iodurie permettent de définir une médiane de 41microgrammes/l avec intervalle de confiance de 95 % compris entre 36 et 47microgrammes/l.
-
-La comparaison des prévalences de 1994 et 1999 montre une légère régression de la prévalence totale qui passe de 40,6 % à 37,1 %."
 ---
+
+<div class="teaser"><p>Les auteurs rapportent les résultats d'une étude transversale réalisée sous forme d'enquête par sondage en grappes de l'OMS. Au total 1 774 enfants de 8-1 9 ans ont bénéficié de l'examen clinique et 307 candidats de cet ensemble ont subi l'examen biologique. Tous sexes confondus, 1115 sujets (62,8 %) ont été trouvés non goitreux tandis que 37,1 % de sujets sont porteurs de goitre.</p>
+<p>Il apparaît dans l'étude que le sexe féminin est plus touché (40,6 %) que le sexe masculin (34,9 %).</p>
+<p>Les dosages de l'iodurie permettent de définir une médiane de 41microgrammes/l avec intervalle de confiance de 95 % compris entre 36 et 47microgrammes/l.</p>
+<p>La comparaison des prévalences de 1994 et 1999 montre une légère régression de la prévalence totale qui passe de 40,6 % à 37,1 %.</p></div>
 
 ## I. Introduction
 

@@ -2,10 +2,10 @@
 title: "Traitement du diabète"
 author: "Jean Van Elslande Médecin généraliste, Gaillon, France."
 date: "2009-08-12"
-teaser: "Le diabète concerne environ 10 % des patients du médecin généraliste, qui a un rôle essentiel dans la prise en charge : surveillance, conseils hygiéno-diététiques, mise en place du traitement médicamenteux et suivi.
-
-L'objectif du traitement est d'obtenir un taux d'HbA1c inférieur ou égal a 6,5 % afin de réduire les risques de complications."
 ---
+
+<div class="teaser"><p>Le diabète concerne environ 10 % des patients du médecin généraliste, qui a un rôle essentiel dans la prise en charge : surveillance, conseils hygiéno-diététiques, mise en place du traitement médicamenteux et suivi.</p>
+<p>L'objectif du traitement est d'obtenir un taux d'HbA1c inférieur ou égal a 6,5 % afin de réduire les risques de complications.</p></div>
 
 ## I. Mesures hygiéno-diététiques
 

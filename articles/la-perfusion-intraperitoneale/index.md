@@ -2,8 +2,9 @@
 title: "La perfusion intrapéritonéale"
 author: "Jean-Paul Wihlm Infirmier"
 date: "2006-03-17"
-teaser: "Les déshydratations sévères nécessitent la plupart du temps, surtout chez les nourrissons, des traitements appropriés en urgence. S'il est vrai que les mères ou les agents de santé communautaire peuvent agir très vite et efficacement, certaines techniques sont indispensables pour prendre le relais la perfusion intrapéritonéale (PIP), en est une de choix."
 ---
+
+<div class="teaser"><p>Les déshydratations sévères nécessitent la plupart du temps, surtout chez les nourrissons, des traitements appropriés en urgence. S'il est vrai que les mères ou les agents de santé communautaire peuvent agir très vite et efficacement, certaines techniques sont indispensables pour prendre le relais la perfusion intrapéritonéale (PIP), en est une de choix.</p></div>
 
 Nous ne reviendrons pas sur les grandes déshydratations, chacun en connaît les signes, les dangers et le degré d'extrême urgence que présente le traitement _(Schéma 1)._
 

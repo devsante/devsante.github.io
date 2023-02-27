@@ -2,9 +2,10 @@
 title: "Paludisme et grossesse"
 author: "Patrice Bourée Unité des Maladies Parasitaires et Tropicales Institut Fournier, Paris"
 date: "2013-02-14"
-teaser: "Une maladie parasitaire est souvent constatée chez les femmes enceintes, qu’il s’agisse d’autochtones ou de touristes séjournant outre-mer. Certaines parasitoses sont graves, comme le paludisme, alors que les vers intestinaux sont habituellement assez bénins. La plupart des médicaments antiparasitaires actuels sont bien tolérés chez les femmes enceintes.  
-Le paludisme est l’affection parasitaire la plus fréquente et qui pose le plus de problèmes chez la femme enceinte. Les autres parasitoses sont rarement  urgentes et le traitement peut souvent être différé."
 ---
+
+<div class="teaser"><p>Une maladie parasitaire est souvent constatée chez les femmes enceintes, qu’il s’agisse d’autochtones ou de touristes séjournant outre-mer. Certaines parasitoses sont graves, comme le paludisme, alors que les vers intestinaux sont habituellement assez bénins. La plupart des médicaments antiparasitaires actuels sont bien tolérés chez les femmes enceintes.<br />
+Le paludisme est l’affection parasitaire la plus fréquente et qui pose le plus de problèmes chez la femme enceinte. Les autres parasitoses sont rarement  urgentes et le traitement peut souvent être différé.</p></div>
 
 ## I. Généralités
 

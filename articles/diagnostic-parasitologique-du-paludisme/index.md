@@ -2,12 +2,11 @@
 title: "Diagnostic parasitologique du paludisme"
 author: "A.M. Deluol, H. Levillayer, J.L. Poirot Hôpital Saint-Antoine, 184 rue du Faubourg Saint-Antoine - 75012 Paris, France"
 date: "2008-07-01"
-teaser: "Le paludisme reste un des principaux problèmes de santé dans le monde. Même si des approches existent au plan vaccinal, son éradication ne sera probablement pas possible dans un avenir proche. Au plan thérapeutique des molécules nouvelles ont été élaborées et d'autres seront nécessaires en raison des résistances qui s'installent.
-
-Parallèlement à ces développements, des avancées existent également au plan diagnostique et il est important de préciser la place actuelle de chacune des nouvelles possibilités.
-
-Cependant, l'examen microscopique d'un frottis mince et/ou d'une goutte épaisse colorés par le Giemsa est bien souvent la seule technique à notre disposition et demeure la référence pour l'évaluation des nouvelles méthodes diagnostiques apparues au cours de la dernière décennie."
 ---
+
+<div class="teaser"><p>Le paludisme reste un des principaux problèmes de santé dans le monde. Même si des approches existent au plan vaccinal, son éradication ne sera probablement pas possible dans un avenir proche. Au plan thérapeutique des molécules nouvelles ont été élaborées et d'autres seront nécessaires en raison des résistances qui s'installent.</p>
+<p>Parallèlement à ces développements, des avancées existent également au plan diagnostique et il est important de préciser la place actuelle de chacune des nouvelles possibilités.</p>
+<p>Cependant, l'examen microscopique d'un frottis mince et/ou d'une goutte épaisse colorés par le Giemsa est bien souvent la seule technique à notre disposition et demeure la référence pour l'évaluation des nouvelles méthodes diagnostiques apparues au cours de la dernière décennie.</p></div>
 
 ## I. Diagnostic microscopique classique : frottis, goutte épaisse
 

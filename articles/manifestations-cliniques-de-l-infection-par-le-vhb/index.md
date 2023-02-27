@@ -2,8 +2,9 @@
 title: "Manifestations cliniques de l'infection par le VHB"
 author: "Philippe Reinert Pédiatre, hôpital Intercommunal, Créteil, France"
 date: "2001-02-11"
-teaser: "Avec plus de 350 millions de porteurs chroniques et au moins 1 million de morts par an, le VHB représente l'un des principaux problèmes de santé publique dans le monde, à l'aube du IIIe millénaire."
 ---
+
+<div class="teaser"><p>Avec plus de 350 millions de porteurs chroniques et au moins 1 million de morts par an, le VHB représente l'un des principaux problèmes de santé publique dans le monde, à l'aube du IIIe millénaire.</p></div>
 
 ## I. Evolution et traitement
 

@@ -2,9 +2,10 @@
 title: "COVID-19 et tests diagnostiques"
 author: "Dr Françoise Balédent, biologiste"
 date: "2020-05-13"
-teaser: "La stratégie de lutte contre la pandémie de COVID-19 passe par une intensification des tests de détection de l’infection.
- Quels que soient les tests utilisés, l’objectif est d’obtenir une confirmation de l’infection par le SARS-CoV-2  pour la prise en charge d’un patient, pour la mise en place de mesures permettant de limiter la diffusion du virus ou pour la surveillance épidémiologique."
 ---
+
+<div class="teaser"><p>La stratégie de lutte contre la pandémie de COVID-19 passe par une intensification des tests de détection de l’infection.<br />
+Quels que soient les tests utilisés, l’objectif est d’obtenir une confirmation de l’infection par le SARS-CoV-2  pour la prise en charge d’un patient, pour la mise en place de mesures permettant de limiter la diffusion du virus ou pour la surveillance épidémiologique.</p></div>
 
 Les tests diagnostiques posent des problèmes différents selon qu'il s'agit de dépister un malade ou de rechercher une immunisation.
 

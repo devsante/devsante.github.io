@@ -2,8 +2,9 @@
 title: "Protéger la Prochaine Génération : un projet pilote et intégré de promotion de l’abandon des mutilations sexuelles féminines dans le district sanitaire de Kayes"
 author: "A. Desrumaux1, Bréhima Ballo2 1. Chargée de projet pour Equilibres et Populations 2. Chargé de programmes, AMSOPT, Mali"
 date: "2014-06-21"
-teaser: "Depuis 2006, l’ONG française Equilibres & Populations (EquiPop) et son partenaire malien l’AMSOPT (Association Malienne pour le Suivi et l’Orientation des Pratiques Traditionnelles) interviennent dans le district sanitaire de Kayes pour la promotion de l’abandon collectif de l’excision. Le but du projet « Protéger la Prochaine Génération » est de développer une expérience pilote et reproductible, qui repose sur un dispositif intégré de changement des comportements. Il s’agit de montrer par l’exemple que le changement social est possible et durable si les communautés identifient elles-mêmes les mutilations sexuelles féminines (MSF) comme une pratique nuisible à leur bien-être et à leur développement. Il n’existe pas une réponse unique à la problématique des MSF. Aussi, le projet combine plusieurs approches et allie prévention, prise en charge médicale et plaidoyer. "
 ---
+
+<div class="teaser"><p>Depuis 2006, l’ONG française Equilibres &amp; Populations (EquiPop) et son partenaire malien l’AMSOPT (Association Malienne pour le Suivi et l’Orientation des Pratiques Traditionnelles) interviennent dans le district sanitaire de Kayes pour la promotion de l’abandon collectif de l’excision. Le but du projet « Protéger la Prochaine Génération » est de développer une expérience pilote et reproductible, qui repose sur un dispositif intégré de changement des comportements. Il s’agit de montrer par l’exemple que le changement social est possible et durable si les communautés identifient elles-mêmes les mutilations sexuelles féminines (MSF) comme une pratique nuisible à leur bien-être et à leur développement. Il n’existe pas une réponse unique à la problématique des MSF. Aussi, le projet combine plusieurs approches et allie prévention, prise en charge médicale et plaidoyer. </p></div>
 
 <table>
 

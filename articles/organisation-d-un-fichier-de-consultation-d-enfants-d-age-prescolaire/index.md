@@ -2,12 +2,11 @@
 title: "Organisation d'un fichier de consultation d'enfants d'âge préscolaire"
 author: "Jean Michon"
 date: "1983-03-01"
-teaser: "La place importante des consultations de nourrissons intégrant soins et prévention dans la lutte contre les taux élevés de mortalité infantile rencontrés dans les pays les moins avancés a été démontrée depuis de nombreuses années.
-
-Il n'y a plus de doute maintenant sur le choix de politique sanitaire: il faut plutôt développer les petits centres (dispensaires et hôpitaux ruraux) que de continuer à construire des complexes hospitaliers ou \" palais de la maladie \" qui ne profitent qu'à une part très restreinte de la population.
-
-Encore faut-il cependant que dans les consultations d'enfants l'organisation des soins permette d'une part de répondre à la demande de la population, mais soit également sous-tendue par une véritable stratégie de la prévention."
 ---
+
+<div class="teaser"><p>La place importante des consultations de nourrissons intégrant soins et prévention dans la lutte contre les taux élevés de mortalité infantile rencontrés dans les pays les moins avancés a été démontrée depuis de nombreuses années.</p>
+<p>Il n'y a plus de doute maintenant sur le choix de politique sanitaire: il faut plutôt développer les petits centres (dispensaires et hôpitaux ruraux) que de continuer à construire des complexes hospitaliers ou " palais de la maladie " qui ne profitent qu'à une part très restreinte de la population.</p>
+<p>Encore faut-il cependant que dans les consultations d'enfants l'organisation des soins permette d'une part de répondre à la demande de la population, mais soit également sous-tendue par une véritable stratégie de la prévention.</p></div>
 
 **Il** **existe dans chaque pays des** **directives qui concernent en** **général:**
 

@@ -2,16 +2,13 @@
 title: "Les infections respiratoires de l'adulte (à l'exception de la tuberculose)"
 author: "Christian Mongin Médecin généraliste, Évry, France"
 date: "1991-08-01"
-teaser: "Les infections respiratoires sont, en Afrique, très répandues. Leurs causes sont le plus souvent cosmopolites mais certaines d'entre-elles sont plus spécifiques (mycoses, parasitoses), d'autres prennent une importance de plus en plus grande avec l'extension du SIDA (tuberculose, pneumocystose).
-
-La pathologie respiratoire est encore du domaine de la clinique et la plupart des diagnostics peuvent être faits sans avoir recours à des investigations sophistiquées.
-
-Nous verrons donc d'abord comment il est possible de parvenir à ces diagnostics avant d'élaborer quelques maladies plus spécifiques en milieu tropical. La thérapeutique est également intéressante car elle est souvent efficace.
-
-Le tabac est un facteur favorisant l'éclosion de la plupart des infections respiratoires.
-
-Enfin, bien que cela ne soit pas le sujet de cet article, il faut devant tout signe pulmonaire penser à la tuberculose."
 ---
+
+<div class="teaser"><p>Les infections respiratoires sont, en Afrique, très répandues. Leurs causes sont le plus souvent cosmopolites mais certaines d'entre-elles sont plus spécifiques (mycoses, parasitoses), d'autres prennent une importance de plus en plus grande avec l'extension du SIDA (tuberculose, pneumocystose).</p>
+<p>La pathologie respiratoire est encore du domaine de la clinique et la plupart des diagnostics peuvent être faits sans avoir recours à des investigations sophistiquées.</p>
+<p>Nous verrons donc d'abord comment il est possible de parvenir à ces diagnostics avant d'élaborer quelques maladies plus spécifiques en milieu tropical. La thérapeutique est également intéressante car elle est souvent efficace.</p>
+<p>Le tabac est un facteur favorisant l'éclosion de la plupart des infections respiratoires.</p>
+<p>Enfin, bien que cela ne soit pas le sujet de cet article, il faut devant tout signe pulmonaire penser à la tuberculose.</p></div>
 
 ## **I. Les syndromes**
 

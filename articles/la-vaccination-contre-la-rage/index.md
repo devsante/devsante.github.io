@@ -2,9 +2,10 @@
 title: "La vaccination contre la rage"
 author: "Par Micheline Amzallag Pédiatre, Créteil, France."
 date: "2009-04-29"
-teaser: "La vaccination contre la rage, mise au point après l'inoculation de la vaccine par Jenner, est l'oeuvre de Pasteur.  
-Le traitement antirabique administré après exposition profite de l'incubation longue de la maladie pour immuniser le patient contre le virus qui lui a été inoculé."
 ---
+
+<div class="teaser"><p>La vaccination contre la rage, mise au point après l'inoculation de la vaccine par Jenner, est l'oeuvre de Pasteur.<br />
+Le traitement antirabique administré après exposition profite de l'incubation longue de la maladie pour immuniser le patient contre le virus qui lui a été inoculé.</p></div>
 
 ## I. Agent pathogène
 

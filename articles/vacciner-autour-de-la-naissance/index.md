@@ -2,8 +2,9 @@
 title: "Vacciner autour de la naissance"
 author: "Par Philippe Reinert Pédiatre, hôpital intercommunal, Créteil, France."
 date: "2010-12-04"
-teaser: "La période néonatale et les premières semaines de vie sont à haut risque d'infections bactériennes et virales souvent mortelles. La raison en est l'immaturité immunologique du nouveau-né, portant surtout sur les anticorps et peu sur l'immunité cellulaire médiée par les lymphocytes T."
 ---
+
+<div class="teaser"><p>La période néonatale et les premières semaines de vie sont à haut risque d'infections bactériennes et virales souvent mortelles. La raison en est l'immaturité immunologique du nouveau-né, portant surtout sur les anticorps et peu sur l'immunité cellulaire médiée par les lymphocytes T.</p></div>
 
 ## Pour y remédier, trois moyens sont effectifs
 

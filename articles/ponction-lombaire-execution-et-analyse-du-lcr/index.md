@@ -2,8 +2,9 @@
 title: "Ponction lombaire : exécution et analyse du LCR"
 author: "Nathalie Chambon* et Jean Michon** *Pharmacien, ** Médecin"
 date: "2006-03-11"
-teaser: "Il s'agit d'un geste simple dont il faut maîtriser la technique, les indications et les risques, et qui est effectué pour le diagnostic des méningites et de la trypanosomose."
 ---
+
+<div class="teaser"><p>Il s'agit d'un geste simple dont il faut maîtriser la technique, les indications et les risques, et qui est effectué pour le diagnostic des méningites et de la trypanosomose.</p></div>
 
 ## I. Rappel d'anatomie et de physiologie
 

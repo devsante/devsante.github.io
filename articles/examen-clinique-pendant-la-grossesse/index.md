@@ -2,23 +2,24 @@
 title: "Examen clinique pendant la grossesse"
 author: "Par Armel Brice Mapoukou Gynécologue-obstétricien, Brazzaville, Congo."
 date: "2010-12-04"
-teaser: "L'examen clinique pendant la grossesse est un acte essentiel qui, pour être efficace, doit être mené dans de bonnes conditions, en respectant les principes de confort, d'hygiène, de sécurité et de confidentialité. Il associe donc un examen général et un examen obstétrical.
-
-**Objectifs**
-
-*   Dépister les situations à risque, notamment d'affections congénitales et d'imcompatibiité fœto-maternelle.
-*   Aboutir à un accouchement normal.
-
-**Intérêt diagnostique**
-
-*   Terrain : recherche d'affections telles que diabète, HTA, drépanocytose, épilepsie, cardiopathie, insuffisance rénale, insuffisance hépatique, Rhésus -.
-*   Recherche de pathologie survenant au cours de la grossesse : pré-éclampsie, HTA gravidique, menace de fausse couche spontanée, menace d'accouchement prématuré, retard de croissance intra-utérin.
-
-**Intérêt thérapeutique**
-
-*   Préventif : pré-éclampsie, en administrant les antiagrégants plaquettaires ; prévention de spina bifida par l'apport d'acide folique.
-*   Curatif si nécessaire."
 ---
+
+<div class="teaser"><p>L'examen clinique pendant la grossesse est un acte essentiel qui, pour être efficace, doit être mené dans de bonnes conditions, en respectant les principes de confort, d'hygiène, de sécurité et de confidentialité. Il associe donc un examen général et un examen obstétrical.</p>
+<p><strong>Objectifs</strong></p>
+<ul>
+<li>Dépister les situations à risque, notamment d'affections congénitales et d'imcompatibiité fœto-maternelle.</li>
+<li>Aboutir à un accouchement normal.</li>
+</ul>
+<p><strong>Intérêt diagnostique</strong></p>
+<ul>
+<li>Terrain : recherche d'affections telles que diabète, HTA, drépanocytose, épilepsie, cardiopathie, insuffisance rénale, insuffisance hépatique, Rhésus -.</li>
+<li>Recherche de pathologie survenant au cours de la grossesse : pré-éclampsie, HTA gravidique, menace de fausse couche spontanée, menace d'accouchement prématuré, retard de croissance intra-utérin.</li>
+</ul>
+<p><strong>Intérêt thérapeutique</strong></p>
+<ul>
+<li>Préventif : pré-éclampsie, en administrant les antiagrégants plaquettaires ; prévention de spina bifida par l'apport d'acide folique.</li>
+<li>Curatif si nécessaire.</li>
+</ul></div>
 
 _Les modalités de suivi de la grossesse (fréquence des consultations, des échographies et des autres examens complémentaires) varient d'un pays â l'autre en fonction de recommandations ministérielles et selon les structures de soins (CESCOM, hôpital de référence)._
 

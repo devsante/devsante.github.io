@@ -2,10 +2,11 @@
 title: "Structure et réplication du virus de l'hépatite B"
 author: "Jean-Marie Huraux Service de virologie, Groupe hospitalier Pitié-Salpêtrière, Paris, France."
 date: "2001-02-21"
-teaser: "En microscopie électronique, le virus de l'hé­patite B (VHB) se présente sous trois formes : les particules de Dane, de 42 nanomètres (nm) de diamètre, et des sphérules et des tubules de 22 nm de diamètre, bien plus nombreux. (On observe dans certains sérums de patients jus­qu'à 1010 particules de Dane par ml pour 1014 sphérules).  
-La particule de Dane correspond au virus entier, infectieux, associant génome, polymé­rase, capside et enveloppe, tandis que tubules et sphérules sont constitués de matériel d'en­veloppe produit en excès.  
-Ce virus est très particulier. Strictement humain, il est classé parmi les hepadnavirus (hep pour le tropisme hépatique, et dna pour la nature du génome), aux côtés du WVHB et du DVHB, virus infectant respectivement la marmotte (woodchuck) et le canard (duck), avec des évolutions chroniques qui constituent autant de modèles expérimentaux intéressants pour la mise au point de traitements antiviraux actifs sur l'infection humaine à VHB."
 ---
+
+<div class="teaser"><p>En microscopie électronique, le virus de l'hé­patite B (VHB) se présente sous trois formes : les particules de Dane, de 42 nanomètres (nm) de diamètre, et des sphérules et des tubules de 22 nm de diamètre, bien plus nombreux. (On observe dans certains sérums de patients jus­qu'à 1010 particules de Dane par ml pour 1014 sphérules).<br />
+La particule de Dane correspond au virus entier, infectieux, associant génome, polymé­rase, capside et enveloppe, tandis que tubules et sphérules sont constitués de matériel d'en­veloppe produit en excès.<br />
+Ce virus est très particulier. Strictement humain, il est classé parmi les hepadnavirus (hep pour le tropisme hépatique, et dna pour la nature du génome), aux côtés du WVHB et du DVHB, virus infectant respectivement la marmotte (woodchuck) et le canard (duck), avec des évolutions chroniques qui constituent autant de modèles expérimentaux intéressants pour la mise au point de traitements antiviraux actifs sur l'infection humaine à VHB.</p></div>
 
 ## II. Structure du génome
 

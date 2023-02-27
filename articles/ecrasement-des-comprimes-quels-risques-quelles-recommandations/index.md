@@ -2,8 +2,9 @@
 title: "Ecrasement des comprimés : quels risques, quelles recommandations ?"
 author: "Pascale Lesseur, Pharmacien, Paris, France. Philippe Reinert, Pédiatre, Créteil, France."
 date: "2013-10-20"
-teaser: "Les médicaments destinés à la voie orale sont présentés sous des formes galéniques complexes, adaptées à leur utilisation, mais qui ne sont pas conçues pour être administrées différemment des recommandations du fabricant. Pourtant, dans la pratique, la prise de médicaments en comprimés ou en gélules s’avère difficile chez certains patients. Le recours à l’écrasement d’un comprimé ou à l’ouverture d’une gélule doit être bien réfléchi car cela comporte des risques."
 ---
+
+<div class="teaser"><p>Les médicaments destinés à la voie orale sont présentés sous des formes galéniques complexes, adaptées à leur utilisation, mais qui ne sont pas conçues pour être administrées différemment des recommandations du fabricant. Pourtant, dans la pratique, la prise de médicaments en comprimés ou en gélules s’avère difficile chez certains patients. Le recours à l’écrasement d’un comprimé ou à l’ouverture d’une gélule doit être bien réfléchi car cela comporte des risques.</p></div>
 
 ## I. Pourquoi écraser un médicament avant l’administration par voie orale ?
 

@@ -2,9 +2,10 @@
 title: "Petite pharmacie d'urgence en pédiatrie"
 author: "Sophie Jundt, Pédiatre, Paris, france"
 date: "2009-10-07"
-teaser: "Il est important que, dans chaque village, dans chaque quartier, il y ait une \"case santé\", un \"espace santé\" avec, en permanence, un minimum de produits de soins d'urgence pour les enfants.  
-Cela doit se faire sous la responsabilité d'une personne bien formée, qui connaît les indications et les posologies des médicaments et en vérifie les dates de péremption pour les renouveler régulièrement. Il faudra aussi s'assurer que les produits ne sont pas des contrefaçons et veiller à la sécurité du lieu de stockage."
 ---
+
+<div class="teaser"><p>Il est important que, dans chaque village, dans chaque quartier, il y ait une "case santé", un "espace santé" avec, en permanence, un minimum de produits de soins d'urgence pour les enfants.<br />
+Cela doit se faire sous la responsabilité d'une personne bien formée, qui connaît les indications et les posologies des médicaments et en vérifie les dates de péremption pour les renouveler régulièrement. Il faudra aussi s'assurer que les produits ne sont pas des contrefaçons et veiller à la sécurité du lieu de stockage.</p></div>
 
 ## I. Certains symptômes ou maladies nécessitent un traitement rapide, il est bon d'avoir à portée de main :
 

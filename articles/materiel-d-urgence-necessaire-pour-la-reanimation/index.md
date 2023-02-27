@@ -2,10 +2,10 @@
 title: "Matériel d'urgence nécessaire pour la réanimation"
 author: "Jean Rigal* * Médecin, Médecins sans Frontières, Paris."
 date: "1992-06-02"
-teaser: "La réanimation n'est pas seulement affaire d'équipement et de matériel consommable, mais surtout de compétence et d'expérience du personnel médical. La réanimation d'un malade en situation de détresse cardiovasculaire autorise des gestes qui peuvent le sauver, mais aussi aggraver définitivement son état, si ces gestes ne sont pas effectués au moment opportun, ou s'ils le sont par des mains non expertes.
-
-Cette réanimation ne se conçoit donc qu'au niveau de structures sanitaires équipées : bloc opératoire d'hôpital de district, salle d'urgence ou d'admission d'un centre médical sous la responsabilité d'un médecin."
 ---
+
+<div class="teaser"><p>La réanimation n'est pas seulement affaire d'équipement et de matériel consommable, mais surtout de compétence et d'expérience du personnel médical. La réanimation d'un malade en situation de détresse cardiovasculaire autorise des gestes qui peuvent le sauver, mais aussi aggraver définitivement son état, si ces gestes ne sont pas effectués au moment opportun, ou s'ils le sont par des mains non expertes.</p>
+<p>Cette réanimation ne se conçoit donc qu'au niveau de structures sanitaires équipées : bloc opératoire d'hôpital de district, salle d'urgence ou d'admission d'un centre médical sous la responsabilité d'un médecin.</p></div>
 
 ## I. L'inefficacité circulatoire
 

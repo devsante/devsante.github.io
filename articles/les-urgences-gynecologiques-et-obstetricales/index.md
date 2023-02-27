@@ -2,8 +2,9 @@
 title: "Les urgences gynécologiques et obstétricales"
 author: "Dr. Youssouf Traoré Gynécologue-obstétricien, Hôpital Gabriel Touré, Bamako, Mali."
 date: "2008-01-31"
-teaser: "Les urgences gynécologiques et obstétricales, si elles ne sont pas rapidement prises en charge, vont mettre en jeu le pronostic vital maternel et/ou foetal."
 ---
+
+<div class="teaser"><p>Les urgences gynécologiques et obstétricales, si elles ne sont pas rapidement prises en charge, vont mettre en jeu le pronostic vital maternel et/ou foetal.</p></div>
 
 **Intérêt du sujet**
 

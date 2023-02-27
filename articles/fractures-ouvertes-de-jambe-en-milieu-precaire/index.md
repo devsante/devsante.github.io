@@ -2,8 +2,9 @@
 title: "Fractures ouvertes de jambe en milieu précaire"
 author: "Par Dr. Raphaël Barthélémy Chirurgien orthopédiste, HIA Percy, Clamart, France."
 date: "2009-08-03"
-teaser: "La précarité définit une situation instable, provisoire et fragile. Elle est à l'opposé des exigences de la chirurgie moderne. Nous verrons ici comment concilier modestie des moyens et efficacité dans le traitement des fractures ouvertes de jambe."
 ---
+
+<div class="teaser"><p>La précarité définit une situation instable, provisoire et fragile. Elle est à l'opposé des exigences de la chirurgie moderne. Nous verrons ici comment concilier modestie des moyens et efficacité dans le traitement des fractures ouvertes de jambe.</p></div>
 
 ## I. Qu'est-ce que la précarité en chirurgie ?
 

@@ -2,8 +2,9 @@
 title: "Bilan du programme d'éducation thérapeutique à l'hôpital Calmette après trois ans de suivi et évaluation de son impact sur l'observance"
 author: "Par Dr. Olivier Ségéral Hôpital de jour du Kremlin Bicêtre, service maladies infectieuses, France"
 date: "2007-11-12"
-teaser: "L'observance est le facteur clé du succès des thérapeutiques antirétrovirales (ARV). Cette observance ne peut se maintenir à un niveau élevé qu'avec une autonomisation du patient vis-à-vis de son suivi médical et de ses traitements. Initié en 2003, dès l'arrivée des traitements ARV, le programme d'éducation thérapeutique à Calmette concerne tous les patients sous traitement. Les 300 premiers patients traités sont suivis depuis plus de 3 ans au sein des consultations. Environ 10 % d'entre eux sont décédés ou perdus de vue et parmi les 270 patients restants, l'efficacité virologique est de 70 % à 18 mois et de 90 % à 36 mois (seuil de 400 copies/ml). Nous présentons ici un bilan de trois années d'éducation thérapeutique (profil des patients, problèmes rencontrés lors du suivi et niveau d'acquisition) ainsi qu'une évaluation de l'observance réalisée après au moins 6 mois de suivi."
 ---
+
+<div class="teaser"><p>L'observance est le facteur clé du succès des thérapeutiques antirétrovirales (ARV). Cette observance ne peut se maintenir à un niveau élevé qu'avec une autonomisation du patient vis-à-vis de son suivi médical et de ses traitements. Initié en 2003, dès l'arrivée des traitements ARV, le programme d'éducation thérapeutique à Calmette concerne tous les patients sous traitement. Les 300 premiers patients traités sont suivis depuis plus de 3 ans au sein des consultations. Environ 10 % d'entre eux sont décédés ou perdus de vue et parmi les 270 patients restants, l'efficacité virologique est de 70 % à 18 mois et de 90 % à 36 mois (seuil de 400 copies/ml). Nous présentons ici un bilan de trois années d'éducation thérapeutique (profil des patients, problèmes rencontrés lors du suivi et niveau d'acquisition) ainsi qu'une évaluation de l'observance réalisée après au moins 6 mois de suivi.</p></div>
 
 ## I. Les patients
 

@@ -2,16 +2,16 @@
 title: "Physiologie de l'hémostase"
 author: "Françoise Balédent Biologiste, Centre Hospitalier de Saint-Denis, 93205, France."
 date: "2001-08-14"
-teaser: "La survenue d'une plaie vasculaire entraîne immédiatement une réaction de défense de l'organisme, visant à lutter contre le saignement.
-
-Si la plaie est peu importante, au niveau de petits vaisseaux, cette réaction peut suffire pour arrêter une hémorragie. Dans d'autres cas, section d'une artère ou d'une veine de gros calibre, la réaction est insuffisante et seule la suture du vaisseau peut arrêter l'hémorragie.
-
-L'hémostase comprend classiquement plusieurs étapes qui sont en fait étroitement intriquées :
-
-*   l'hémostase primaire comportant deux temps : un temps vasculaire et un temps plaquettaire,
-*   la coagulation plasmatique aboutissant à la formation d'un caillot de fibrine insoluble,
-*   la fibrinolyse qui permet la dissolution du caillot de fibrine lorsque la plaie est cicatrisée."
 ---
+
+<div class="teaser"><p>La survenue d'une plaie vasculaire entraîne immédiatement une réaction de défense de l'organisme, visant à lutter contre le saignement.</p>
+<p>Si la plaie est peu importante, au niveau de petits vaisseaux, cette réaction peut suffire pour arrêter une hémorragie. Dans d'autres cas, section d'une artère ou d'une veine de gros calibre, la réaction est insuffisante et seule la suture du vaisseau peut arrêter l'hémorragie.</p>
+<p>L'hémostase comprend classiquement plusieurs étapes qui sont en fait étroitement intriquées :</p>
+<ul>
+<li>l'hémostase primaire comportant deux temps : un temps vasculaire et un temps plaquettaire,</li>
+<li>la coagulation plasmatique aboutissant à la formation d'un caillot de fibrine insoluble,</li>
+<li>la fibrinolyse qui permet la dissolution du caillot de fibrine lorsque la plaie est cicatrisée.</li>
+</ul></div>
 
 ## I. Hémostase primaire _(figure 1)_
 

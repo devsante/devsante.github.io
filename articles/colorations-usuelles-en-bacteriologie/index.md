@@ -2,14 +2,15 @@
 title: "Colorations usuelles en bactériologie"
 author: "Françoise Balédent Biologiste, Centre hospitalier Robert-Ballanger, Aulnay-sous-Bois."
 date: "1997-02-03"
-teaser: "Le diagnostic bactériologique d'une infection repose sur la mise en évidence et l'identification du ou des germes responsables.  
-Plusieurs étapes sont nécessaires pour aboutir à ce diagnostic :  
-L'examen direct à l'état frais et après coloration. Cet examen représente une étape fondamentale puisqu'elle conditionne la suite de l'examen bactériologique.  
-La mise en culture, le choix des milieux étant orienté par le résultat de l'examen direct.  
-L'isolement et identification des colonies (coloration, étude des caractères biochimiques ... ).  
-L'identification des germes permet alors de choisir les antibiotiques à étudier.  
-L'étude de la sensibilité aux antibiotiques permet en effet d'adapter au mieux le traitement."
 ---
+
+<div class="teaser"><p>Le diagnostic bactériologique d'une infection repose sur la mise en évidence et l'identification du ou des germes responsables.<br />
+Plusieurs étapes sont nécessaires pour aboutir à ce diagnostic :<br />
+L'examen direct à l'état frais et après coloration. Cet examen représente une étape fondamentale puisqu'elle conditionne la suite de l'examen bactériologique.<br />
+La mise en culture, le choix des milieux étant orienté par le résultat de l'examen direct.<br />
+L'isolement et identification des colonies (coloration, étude des caractères biochimiques ... ).<br />
+L'identification des germes permet alors de choisir les antibiotiques à étudier.<br />
+L'étude de la sensibilité aux antibiotiques permet en effet d'adapter au mieux le traitement.</p></div>
 
 Les techniques de coloration sont utilisées pour l'examen direct des produits pathologiques puis pour l'identification des colonies obtenues après mise en culture de ces produits pathologiques.  
 La réalisation de frottis de bonne qualité est une condition préalable à toute coloration.

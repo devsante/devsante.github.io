@@ -2,8 +2,9 @@
 title: "Intradermoréaction (test tuberculinique, IDR)"
 author: "Philippe Reinert Pédiatre, Hôpital Intercommunal, Créteil, France"
 date: "2006-03-17"
-teaser: "L'intradermoréaction est le seul test recom­mandé pour mesurer l'immunité vis-à-vis de la tuberculose (maladie ou immunité conférée par le BCG)."
 ---
+
+<div class="teaser"><p>L'intradermoréaction est le seul test recom­mandé pour mesurer l'immunité vis-à-vis de la tuberculose (maladie ou immunité conférée par le BCG).</p></div>
 
 ## I. Site
 

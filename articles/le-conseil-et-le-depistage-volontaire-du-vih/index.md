@@ -2,22 +2,19 @@
 title: "Le conseil et le dépistage volontaire du VIH"
 author: "Kemal Chérabi et Joëlle Nicolas"
 date: "2004-10-05"
-teaser: "Le conseil pour un dépistage prénatal volontaire de l'infection par le VIH est la première étape d'un long processus ciblé sur la prévention de la TME mais aussi sur les soins de familles infectées. Il doit être intégré si possible à l'ensemble du dispositif d'offre de soins, public et parapublic (Hôpital, Maternités, Centres de santé, Cliniques, Médecins de ville et laboratoires...) et à toutes les actions de prévention et d'éducation pour la santé, pour maintenir les femmes dans une dynamique préventive. Chaque site intervenant dans le cadre d'un programme TME doit se concerter pour construire un argumentaire collectif et organiser un circuit cohérent des femmes dépistées.
-
-L'objectif à atteindre est que toutes les femmes s'engageant dans une maternité bénéficient d'un test de dépistage du VIH afin d'avoir accès aux soins qui préservent leur santé et celle de leur enfant.
-
-Actuellement, l'acceptabilité d'une telle démarche se situe à trois niveaux qui comportent chacun des risques de perte de vue :
-
-*   l'acceptation de la réalisation du test après conseil,
-*   le retour de la patiente pour le conseil post-test,
-*   l'annonce du résultat du test.
-
-Elle est globalement de 65 %, d'après une étude réalisée à partir de 10 sites africains participants à des essais thérapeutiques de réduction de la TME.
-
-Augmenter ce taux d'acceptabilité partout où c'est possible demande une amélioration des pratiques, en particulier celle du \"counseling\", mot anglo-saxon que l'on peut définir ainsi \"entretien d'écoute active et de conseil en vue d'amener l'interlocuteur à un changement de comportement et à une prise de décision favorables à sa santé ou à celle de sa famille\"
-
-Cette article propose une aide pour la mise en place d'un circuit de santé permettant de proposer puis d'effectuer le test de dépistage au plus grand nombre de femmes enceintes venant consulter dans un centre de Consultation prénatale (CCPN)."
 ---
+
+<div class="teaser"><p>Le conseil pour un dépistage prénatal volontaire de l'infection par le VIH est la première étape d'un long processus ciblé sur la prévention de la TME mais aussi sur les soins de familles infectées. Il doit être intégré si possible à l'ensemble du dispositif d'offre de soins, public et parapublic (Hôpital, Maternités, Centres de santé, Cliniques, Médecins de ville et laboratoires...) et à toutes les actions de prévention et d'éducation pour la santé, pour maintenir les femmes dans une dynamique préventive. Chaque site intervenant dans le cadre d'un programme TME doit se concerter pour construire un argumentaire collectif et organiser un circuit cohérent des femmes dépistées.</p>
+<p>L'objectif à atteindre est que toutes les femmes s'engageant dans une maternité bénéficient d'un test de dépistage du VIH afin d'avoir accès aux soins qui préservent leur santé et celle de leur enfant.</p>
+<p>Actuellement, l'acceptabilité d'une telle démarche se situe à trois niveaux qui comportent chacun des risques de perte de vue :</p>
+<ul>
+<li>l'acceptation de la réalisation du test après conseil,</li>
+<li>le retour de la patiente pour le conseil post-test,</li>
+<li>l'annonce du résultat du test.</li>
+</ul>
+<p>Elle est globalement de 65 %, d'après une étude réalisée à partir de 10 sites africains participants à des essais thérapeutiques de réduction de la TME.</p>
+<p>Augmenter ce taux d'acceptabilité partout où c'est possible demande une amélioration des pratiques, en particulier celle du "counseling", mot anglo-saxon que l'on peut définir ainsi "entretien d'écoute active et de conseil en vue d'amener l'interlocuteur à un changement de comportement et à une prise de décision favorables à sa santé ou à celle de sa famille"</p>
+<p>Cette article propose une aide pour la mise en place d'un circuit de santé permettant de proposer puis d'effectuer le test de dépistage au plus grand nombre de femmes enceintes venant consulter dans un centre de Consultation prénatale (CCPN).</p></div>
 
 ## I. Conseils éducatifs collectifs
 

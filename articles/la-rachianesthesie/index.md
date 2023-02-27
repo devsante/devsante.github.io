@@ -2,8 +2,9 @@
 title: "La rachianesthésie"
 author: "Christophe Denantes*, Simone Guilmet** * Médecin-anesthésiste, Hôpital Avicenne, Bobigny. ** Infirmière-anesthésiste, Médecins du Monde.  "
 date: "1998-02-14"
-teaser: "La rachianesthésie est une ponction lombaire avec administration d'un anesthésique local dans le liquide céphalorachidien (LCR). C'est une technique d'anesthésie simple et fiable particulièrement indiquée dans des conditions précaires, en l'absence d'oxygène, situation fréquente dans les centres de santé périphériques en Afrique, par exemple."
 ---
+
+<div class="teaser"><p>La rachianesthésie est une ponction lombaire avec administration d'un anesthésique local dans le liquide céphalorachidien (LCR). C'est une technique d'anesthésie simple et fiable particulièrement indiquée dans des conditions précaires, en l'absence d'oxygène, situation fréquente dans les centres de santé périphériques en Afrique, par exemple.</p></div>
 
 La rachianesthésie réalise une section chimique ou bloc des racines rachidiennes motrices, sensitives et sympathiques de la moelle. Le niveau supérieur du bloc, déterminé par la distribution de l'anesthésique local dans le LCR, avant sa fixation sur les racines, dépend de la technique d'injection (niveau de ponction, vitesse d'injection, position du patient), de la solution injectée (volume, gravité), du patient (âge, taille, poids). Le bloc sympathique, plus étendu que le bloc sensitivo-moteur, entraîne une vasodilatation constante et peut avoir un retentissement cardiaque, respiratoire, neurologique et digestif, s'il est trop étendu.
 

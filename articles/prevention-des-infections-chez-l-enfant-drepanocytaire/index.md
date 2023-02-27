@@ -2,10 +2,11 @@
 title: "Prévention des infections chez l'enfant drépanocytaire"
 author: "Emmanuelle Lesprit* et Phippe Reinert** * Pédiatre, Hôpital Trousseau, Paris. ** Pédiatre, Hôpital Intercommunal, Créteil."
 date: "2006-08-21"
-teaser: "Les infections sont fréquentes dans la drépanocytose et souvent graves chez l'enfant de moins de 5 ans (c'est la première cause de mortalité avant 3 ans). C'est surtout l'enfant SS qui est menacé, mais aussi les SC et S bétathal.  
-Toute infection peut aussi déclencher des crises vaso-occlusives car elle provoque fièvre, hypoxie et déshydratation, 3 facteurs favorisant la falciformation.  
-On sait aussi que la crise vaso-occlusive favorise l'infection locale du fait de la stase veineuse qu'elle entraîne (fréquence des ostéomyélites après crise osseuse par exemple). Il s'agit là d'un véritable **cercle vicieux infection-crise vaso-occlusive**."
 ---
+
+<div class="teaser"><p>Les infections sont fréquentes dans la drépanocytose et souvent graves chez l'enfant de moins de 5 ans (c'est la première cause de mortalité avant 3 ans). C'est surtout l'enfant SS qui est menacé, mais aussi les SC et S bétathal.<br />
+Toute infection peut aussi déclencher des crises vaso-occlusives car elle provoque fièvre, hypoxie et déshydratation, 3 facteurs favorisant la falciformation.<br />
+On sait aussi que la crise vaso-occlusive favorise l'infection locale du fait de la stase veineuse qu'elle entraîne (fréquence des ostéomyélites après crise osseuse par exemple). Il s'agit là d'un véritable <strong>cercle vicieux infection-crise vaso-occlusive</strong>.</p></div>
 
 ## I. Immunité et drépanocytose
 

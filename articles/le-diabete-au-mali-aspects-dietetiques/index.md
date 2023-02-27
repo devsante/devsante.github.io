@@ -2,10 +2,10 @@
 title: "Le diabète au Mali : aspects diététiques"
 author: "Stéphane Besançon*, A. T. Sidibé**, Ibrahim Nientao*** *Biologiste et nutritionniste, directeur de l'ONG Santé Diabète Mali, Bamako, Mali. ** Pr agrégée en endocrinologie-diabétologie, hôpital du point G, Bamako, Mali *** Médecin diabétologue, Centre National de Lutte contre le Diabète, Bamako, Mali."
 date: "2009-08-11"
-teaser: "Dans son traité sur une approche anthropologique du diabète à Bamako (Mali), Marion Héraud, en 2003, décrivait avec une grande précision les pratiques alimentaires de ce pays.
-
-\"Le Mali est un pays où la peur de la faim est encore une réalité. Aussi, la présence de la nourriture est quasiment obsessionnelle, non seulement dans le quotidien, notamment celui des femmes, mais aussi dans tous les domaines de la vie sociale. Tous les éléments du \"moment repas\", son organisation, sa place dans la famille, le rapport à la nourriture, le plat unique et le récipient commun, la stigmati­sation de la gourmandise, sont autant de caractéristiques qui constituent des règles de \"savoir-manger\"."
 ---
+
+<div class="teaser"><p>Dans son traité sur une approche anthropologique du diabète à Bamako (Mali), Marion Héraud, en 2003, décrivait avec une grande précision les pratiques alimentaires de ce pays.</p>
+<p>"Le Mali est un pays où la peur de la faim est encore une réalité. Aussi, la présence de la nourriture est quasiment obsessionnelle, non seulement dans le quotidien, notamment celui des femmes, mais aussi dans tous les domaines de la vie sociale. Tous les éléments du "moment repas", son organisation, sa place dans la famille, le rapport à la nourriture, le plat unique et le récipient commun, la stigmati­sation de la gourmandise, sont autant de caractéristiques qui constituent des règles de "savoir-manger".</p></div>
 
 ## I. Les pratiques alimentaires au Mali
 

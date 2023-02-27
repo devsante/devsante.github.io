@@ -2,14 +2,12 @@
 title: "Le noma"
 author: "Thiéry Gaëtan, Olivier Liard, Jean-Christophe Duboscq Chirurgiens maxillo-faciaux, Hôpital d'instruction des Armées Lavéran, Marseille, France."
 date: "2002-06-12"
-teaser: "Le noma, ou cancrum oris, est une stomatite gangreneuse localisée, à point de départ gingival, s'étendant rapidement, en détruisant à l'emporte pièce les tissus adjacents. Cette pathologie dévore les jeunes enfants en état de dénutrition protéino-calorique, carencés, à l'hygiène défectueuse et poly-parasités. Cette affection sévit donc principalement dans les pays défavorisés (Figure 1).
-
-Le taux de mortalité reste toujours élevé, de 80% à 90%.
-
-Désormais, les patients traités précocement par antibiothérapie peuvent être sauvés, mais souvent au prix de terribles séquelles esthétiques et fonctionnelles. La chirurgie maxillofaciale et plastique aura la difficile tâche de corriger ces mutilations.
-
-Savoir y penser, le reconnaître pour le traiter précocement seront les gages de la survie du patient."
 ---
+
+<div class="teaser"><p>Le noma, ou cancrum oris, est une stomatite gangreneuse localisée, à point de départ gingival, s'étendant rapidement, en détruisant à l'emporte pièce les tissus adjacents. Cette pathologie dévore les jeunes enfants en état de dénutrition protéino-calorique, carencés, à l'hygiène défectueuse et poly-parasités. Cette affection sévit donc principalement dans les pays défavorisés (Figure 1).</p>
+<p>Le taux de mortalité reste toujours élevé, de 80% à 90%.</p>
+<p>Désormais, les patients traités précocement par antibiothérapie peuvent être sauvés, mais souvent au prix de terribles séquelles esthétiques et fonctionnelles. La chirurgie maxillofaciale et plastique aura la difficile tâche de corriger ces mutilations.</p>
+<p>Savoir y penser, le reconnaître pour le traiter précocement seront les gages de la survie du patient.</p></div>
 
 
 ![](i930-1.jpg)
