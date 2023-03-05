@@ -12,4 +12,4 @@ Une étude effectuée en Californie a montré que le  quotient intellectuel ét
 
 En pratique, il est vivement recommandé de laver fruits et légumes avant leur consommation, et ceci en priorité pour une femme enceinte.
 
-_Environnemental Heath Perspectives_ 21 Avril M. Bouchard Berkeley
+*Environnemental Heath Perspectives* 21 Avril M. Bouchard Berkeley

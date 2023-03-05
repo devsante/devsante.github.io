@@ -127,7 +127,7 @@ En avril 1991, l'Organisation Mondiale de la Santé estimait à un million et de
 
 Deux sérotypes ont été identifiés, le VIH 1 et le VIH 2. Le VIH 1 est le plus largement répandu. Le VIH 2 se retrouve surtout en Afrique de l'Ouest et s'étend moins rapidement que le VIH 1 ; toutefois, les modes de transmission et le tableau clinique ne diffèrent pas d'un sérotype à l'autre.
 
-### 2. Transmission du VIH _(tableau 1)_
+### 2. Transmission du VIH *(tableau 1)*
 
 #### Transmission sexuelle
 
@@ -264,6 +264,7 @@ La définition pédiatrique du sida est beaucoup moins sensible et spécifique q
 </table>
 
 **Tableau 3. Formes cliniques du sida en Afrique**
+
 <table>
 
 <tbody>
@@ -324,18 +325,19 @@ par la salive, les moustiques, l'air, l'eau, la nourriture, les contacts avec la
 
 #### Projections
 
-*   _groupes à_ risques : la transmission hétérosexuelle est à l'origine de 70 % des cas d'infections en 1991, les groupes à risques pour la décennie 1990-2000 seront les populations hétérosexuelles à partenaires multiples ;
-*   _géographie :_ 90 % des cas surviendront dans les pays en voie de développement, Afrique sub-saharienne, Asie, Amérique latine.
+- *groupes à* risques : la transmission hétérosexuelle est à l'origine de 70 % des cas d'infections en 1991, les groupes à risques pour la décennie 1990-2000 seront les populations hétérosexuelles à partenaires multiples ;
+- *géographie :* 90 % des cas surviendront dans les pays en voie de développement, Afrique sub-saharienne, Asie, Amérique latine.
 
 ## II. Clinique
 
-(tableaux 2 _et 3)_
+(tableaux 2 *et 3)*
 
 ## III. Diagnostic sérologique de l'infection VIH / sida
 
 Dans les conditions de terrain, le diagnostic de l'infection VIH chez l'adulte, asymptoma tique, ne peut être que sérologique. C'est la présence d'anticorps anti-VIH spécifiques dans le sang qui signe l'infection.
 
 **Tableau 4. Les tests sérologiques**
+
 <table>
 
 <thead>
@@ -393,6 +395,7 @@ Dans les conditions de terrain, le diagnostic de l'infection VIH chez l'adulte, 
 </table>
 
 **Tableau 5**
+
 <table>
 
 <tbody>
@@ -429,11 +432,11 @@ Idiopathique : (VIH ?)
 
 <td valign="top">
 
-1. Déshydratation prévention + + + + traitement + + + +
+1.  Déshydratation prévention + + + + traitement + + + +
 
-2. Nutrition. + + +
+2.  Nutrition. + + +
 
-3. Examen de selles
+3.  Examen de selles
 
 Faire au moins 3 examens
 
@@ -441,17 +444,17 @@ Faire au moins 3 examens
 
 <td valign="top">
 
-1. Suspicion clinique/labo : inf. bactérienne <em>cotrimoxazole</em> 480 mg : 2 cp x 2/jour pendant 5 jours.
+1.  Suspicion clinique/labo : inf. bactérienne <em>cotrimoxazole</em> 480 mg : 2 cp x 2/jour pendant 5 jours.
 
 Si pas de réponse : <em>métronidazole</em> 500 mg x 3/jour pendant 7 jours
 
-2. Suspicion clinique/labo : inf. parasitaire <em>métronidazole</em> 500 mg x 3/jour pendant 7 jours
+2.  Suspicion clinique/labo : inf. parasitaire <em>métronidazole</em> 500 mg x 3/jour pendant 7 jours
 
 Si pas de réponse : <em>cotrimoxazole</em>
 
 480 mg 2 cp x 2/jour pendant 5 jours
 
-3. Pas d'orientation clinique/labo
+3.  Pas d'orientation clinique/labo
 
 - traitement empirique
 
@@ -483,7 +486,7 @@ Candida albicans
 
 <td valign="top">1. Examen labo si nécessaire pour confirmation
 
-2. Rechercher une ysphagie,une douleur lors de la déglutition
+2.  Rechercher une ysphagie,une douleur lors de la déglutition
 
 - suspicion candidose oesophagienne
 
@@ -497,11 +500,11 @@ Application totale de <em>violet de gentiane</em> à
 
 ou <em>nystatine</em> per os 500 000 UI x 3/j pendant 7 jours
 
-2. Candidose buccale sévère/résistant traitement local
+2.  Candidose buccale sévère/résistant traitement local
 
 <em>kétoconazole</em> 200 mg x 2/j pendant 7 j ou <em>fluconazole</em> 50 mg/j pendant 7 j
 
-3. Candidoses oesophagiennes
+3.  Candidoses oesophagiennes
 
 <em>kétoconazole</em> 200 mg x 2/j pendant 14 j ou <em>fluconazole</em> 100 mg/j pendant 7 j
 
@@ -520,6 +523,7 @@ La durée du traitement n'est qu'indicative, il doit être poursuivi jusqu'à di
 </table>
 
 **Tableau 6**
+
 <table>
 
 <tbody>
@@ -558,17 +562,17 @@ Pneumopathie interstitielle lymphoïde
 
 <td valign="top">1. Examen de crachats : 3 examens à la recherche de BK
 
-2. 2.Radiographie pulmonaire : tuberculose, adénopathies hilaires et/ou médiastinales + infiltrats des lobes moyens ou inférieurs (cavité et infiltrats lobes supérieurs sont rares chez le sujet VIH) <em>Pneumocystose</em> : infiltrats interstitiels bilatéraux
+2.  2.Radiographie pulmonaire : tuberculose, adénopathies hilaires et/ou médiastinales + infiltrats des lobes moyens ou inférieurs (cavité et infiltrats lobes supérieurs sont rares chez le sujet VIH) <em>Pneumocystose</em> : infiltrats interstitiels bilatéraux
 
 </td>
 
 <td valign="top">
 
-1. Si examen crachats positif ou radio thorax évocatrice d'une <em>tuberculose :</em> traitement antituberculeux
+1.  Si examen crachats positif ou radio thorax évocatrice d'une <em>tuberculose :</em> traitement antituberculeux
 
-2. Si examen crachats négatifs + radio thorax évocatrice d'une infection à <em>pyogène : pénicilline</em> 250 mg 2 cp x 3/j pendant 10 jours ou <em>ampicilline</em> 500 mg 2 cp x 3/j pendant 10 jours
+2.  Si examen crachats négatifs + radio thorax évocatrice d'une infection à <em>pyogène : pénicilline</em> 250 mg 2 cp x 3/j pendant 10 jours ou <em>ampicilline</em> 500 mg 2 cp x 3/j pendant 10 jours
 
-3. Si examen crachats négatifs + radio thorax évocatrice d'une <em>pneumocystose : cotrimoxazole</em> 480 mg 3-4 cp x 4/j pendant au moins 14 j et de préférence 21 jours ou isothionate de pentamidine 3-4 mg/kg/jour
+3.  Si examen crachats négatifs + radio thorax évocatrice d'une <em>pneumocystose : cotrimoxazole</em> 480 mg 3-4 cp x 4/j pendant au moins 14 j et de préférence 21 jours ou isothionate de pentamidine 3-4 mg/kg/jour
 
 </td>
 
@@ -592,7 +596,7 @@ Amélioration dès J7, la prophylaxie secondaire de pneumocystose est recommand�
 
 <td valign="top">1. Adénopathie chez un patient atteint d'une infection VIH symptomatique
 
-2. Lymphadénopathie chronique généralisée : plus de 3 territoires ganglionnaires, au moins 2 ganglions > 1,5 cm/site, plus d'un mois sans autre cause d'infection locale ou contiguë, due à l'infection VIH généralement
+2.  Lymphadénopathie chronique généralisée : plus de 3 territoires ganglionnaires, au moins 2 ganglions > 1,5 cm/site, plus d'un mois sans autre cause d'infection locale ou contiguë, due à l'infection VIH généralement
 
 <em>Infection :</em> tuberculose, syphilis histoplasmose toxoplasmose
 
@@ -610,11 +614,11 @@ dermatite séborrhéique pyodermite chronique
 
 <td valign="top">1. Clinique : Recherche d'une suspicion de tuberculose ou de syphilis
 
-2. Suspicion de tuberculose : ponction du ganglion, recherche BK, radio thorax
+2.  Suspicion de tuberculose : ponction du ganglion, recherche BK, radio thorax
 
-3. Suspicion de syphilis : sérologie, examen direct
+3.  Suspicion de syphilis : sérologie, examen direct
 
-4. Si négatif : la biopsie peut être indiquée
+4.  Si négatif : la biopsie peut être indiquée
 
 </td>
 
@@ -624,7 +628,7 @@ Traitement antituberculeux
 
 En cas de suspicion de tuberculose, faire un traitement d'épreuve de 4 semaines, si amélioration poursuivre
 
-2. Syphilis :
+2.  Syphilis :
 
 <em>Benzathine pénicilline</em> 2,4 MUI en dose unique
 
@@ -645,6 +649,7 @@ La biopsie de ganglion peut être indiquée pour exclure un lymphome, un Kaposi 
 </table>
 
 **Tableau 7**
+
 <table>
 
 <tbody>
@@ -683,11 +688,11 @@ Causes communes de céphalées
 
 <td valign="top">1. Évaluation neuro : Modification psy. Atteintes focales Convulsions Signes méningés Hypertension intracrânienne
 
-2. Recherche malaria (si fièvre)
+2.  Recherche malaria (si fièvre)
 
 Frottis et goutte épaisse
 
-3. Ponction lombaire si pas de contre-indication
+3.  Ponction lombaire si pas de contre-indication
 
 Diagnostic de tuberculose, cryptocoque, méningite bactérienne
 
@@ -695,15 +700,15 @@ Diagnostic de tuberculose, cryptocoque, méningite bactérienne
 
 <td valign="top">
 
-1. En cas de signes focaux, traiter pour toxoplasmose pendant 6 semaines : pyriméthamine : dose de charge 75-100 mg, puis dose d'entretien 25-50 mg/jour
+1.  En cas de signes focaux, traiter pour toxoplasmose pendant 6 semaines : pyriméthamine : dose de charge 75-100 mg, puis dose d'entretien 25-50 mg/jour
 
 • sulfadiazine 4-6 mg/jour en 4 prises
 
 <ul><li><em>acide</em> folinique 15 mg/jour</li></ul>
 
-2. Si frottis-goutte épaisse positifs, traiter pour paludisme
+2.  Si frottis-goutte épaisse positifs, traiter pour paludisme
 
-3. Si PL positive
+3.  Si PL positive
 
 Méningite bactérienne : traitement classique
 
@@ -711,7 +716,7 @@ Méningite TB : traitement classique Méningite cryptocoque : <em>amphotéricine
 
 ou <em>fluconazole</em> 400 mg/j PO-IV pour 10 semaines
 
-4. Céphalée sans étiologie reconnue : traitement symptomatique en débutant avec des antalgiques simples
+4.  Céphalée sans étiologie reconnue : traitement symptomatique en débutant avec des antalgiques simples
 
 </td>
 
@@ -749,7 +754,7 @@ Zona : soins locaux antisept. + <em>acyclovir</em> 800 mg x 5/j pendant 10 jours
 
 Condylome
 
-2. Infection bactérienne
+2.  Infection bactérienne
 
 Furonculose, impétigo, pyodermite, folliculite : soins locaux
 
@@ -757,7 +762,7 @@ Furonculose, impétigo, pyodermite, folliculite : soins locaux
 
 Hydradénite suppurative : soins locaux + <em>tétracycline</em> 500 mg x 2/jour pendant 6 semaines Pyomyosite : drainage chir. + antibiotique
 
-3. Infection fongique
+3.  Infection fongique
 
 Candidose : <em>violet de gentiane</em> ou nystatine Dermatophytes
 
@@ -779,10 +784,10 @@ En pratique, le diagnostic sérologique d'une suspicion de sida n'a pas d'intér
 
 Pour prescrire un test sérologique et pour annoncer le résultat, négatif ou positif, d'un test VIH, il faut que soient réunies toutes les conditions suivantes :
 
-*   Le patient doit avoir reçu une information adaptée sur les conséquences d'un résultat positif et donner préalablement son accord pour être testé, à la recherche d'anticorps anti-VIH.  
-*   Les résultats positifs au cours du dépistage doivent être confirmés par Western-Blot.  
-*   L'individu séropositif doit pouvoir bénéficier d'un suivi médical et de conseils.  
-*   Confidentialité.
+- Le patient doit avoir reçu une information adaptée sur les conséquences d'un résultat positif et donner préalablement son accord pour être testé, à la recherche d'anticorps anti-VIH.
+- Les résultats positifs au cours du dépistage doivent être confirmés par Western-Blot.
+- L'individu séropositif doit pouvoir bénéficier d'un suivi médical et de conseils.
+- Confidentialité.
 
 ## IV. Traitement de l'infection VIH et du sida
 
@@ -792,7 +797,7 @@ Les seules molécules actuellement commercialisées sont l'AZT (Azidothymidine) 
 
 ### 2. Traitement des infections opportunistes ou associées (selon l'OMS)
 
-(_tableaux_ 5, _6 et 7)_
+(*tableaux* 5, *6 et 7)*
 
 ## V. Prévention de la transmission de l'infection VIH et du sida
 
@@ -808,10 +813,10 @@ Le respect strict des indications transfusionnelles et le dépistage sérologiqu
 
 La prévention de la transmission de l'infection VIH au cours d'actes de soins passe par le renforcement et le strict respect des mesures d'hygiène classiques :
 
-*   stérilisation et désinfection correctes du matériel médical,
-*   suppression des injections non strictement nécessaires,
-*   précautions pour éviter les contaminations accidentelles avec des instruments souillés,
-*   précautions pour éviter le contact avec les liquides biologiques potentiellement infectant.
+- stérilisation et désinfection correctes du matériel médical,
+- suppression des injections non strictement nécessaires,
+- précautions pour éviter les contaminations accidentelles avec des instruments souillés,
+- précautions pour éviter le contact avec les liquides biologiques potentiellement infectant.
 
 Cf. guides pratiques Médecins sans Frontières :
 

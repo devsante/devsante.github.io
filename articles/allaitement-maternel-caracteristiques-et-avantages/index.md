@@ -24,7 +24,7 @@ Dans le cadre de la Convention Internationale des Droits de l'Enfant (CIDE), il 
 </table>
 
 Promouvoir cette attitude requiert la mise en place de soutiens éducatifs et informatifs dans le but de permettre le meilleur développement de l'enfant et sa bonne santé, ce qui est en fait l'un des droits fondamentaux de l'enfant.  
-L'infirmier et la sage-femme sont des acteurs clés : ce sont eux qui vont suivre la grossesse et donc donner les informations et les conseils avant la naissance pour que cet allaitement maternel puisse se mettre en place. Cette éducation doit même débuter beaucoup plus tôt, lors de la scolarisation des enfants, avec des programmes éducatifs développant les éléments d'une "alimentation saine" pour l'enfant, et au cours desquels sera abordé ce point particulier. Ces programme peuvent être développés avec un partenariat dispensaire-équipe éducative scolaire (cf programme de la FAO dont le lien est donné dans site _www.devsante.org_)
+L'infirmier et la sage-femme sont des acteurs clés : ce sont eux qui vont suivre la grossesse et donc donner les informations et les conseils avant la naissance pour que cet allaitement maternel puisse se mettre en place. Cette éducation doit même débuter beaucoup plus tôt, lors de la scolarisation des enfants, avec des programmes éducatifs développant les éléments d'une "alimentation saine" pour l'enfant, et au cours desquels sera abordé ce point particulier. Ces programme peuvent être développés avec un partenariat dispensaire-équipe éducative scolaire (cf programme de la FAO dont le lien est donné dans site \_[www.devsante.org\_](http://www.devsante.org_))
 
 ## II. Pourquoi le lait maternel est-il le meilleur ?
 
@@ -35,35 +35,35 @@ La composition du lait maternel est variable dans le temps : au cours de la jour
 
 La composition du lait varie selon les 3 étapes de la lactation maternelle :
 
-*   de JO à J5 : c'est le colostrum,
-*   de J6 à J12 : c'est le lait de transition,
-*   de J13 à la fin de l'allaitement maternel : c'est le lait mature.
+- de JO à J5 : c'est le colostrum,
+- de J6 à J12 : c'est le lait de transition,
+- de J13 à la fin de l'allaitement maternel : c'est le lait mature.
 
 La composition de ce lait a également des spécificités en fonction du terme de naissance de l'enfant.
 
 #### a) Spécificité du colostrum
 
-*   Aspect jaunâtre et épais.  
-*   Riche en protéines et en sels minéraux, pauvre en graisses et en sucres.  
-*   Contient beaucoup d'immunoglobulines qui permettront au nouveau-né de se défendre contre les infections.
+- Aspect jaunâtre et épais.
+- Riche en protéines et en sels minéraux, pauvre en graisses et en sucres.
+- Contient beaucoup d'immunoglobulines qui permettront au nouveau-né de se défendre contre les infections.
 
 #### b) Composition du lait de transition
 
 Elle varie progressivement entre celle du colostrum et celle du lait mature, on ne peut donc en donner une description détaillée.
 
-#### **c) Composition du lait mature**
+#### c) Composition du lait mature
 
-*   Le lait mature est moins riche en protéines et en sels minéraux, mais beaucoup plus riche en lactose ("sucre du lait").  
-*   Les protéines du lait maternel sont composées de 60 % de protéines solubles digestes et de 40 % de caséine moins digeste.  
-*   De plus, le lait contient des immunoglobulines qui permettront au nourrisson de se défendre contre les infections en attendant que son système immunitaire devienne plus compétent.  
-*   Les sucres du lait se composent d'une part de lactose (disaccharide), d'autre part d'oligosaccharides qui favorisent l'implantation d'une flore bifidogène. Celle-ci protège le nourrisson des gastro-entérites, redoutables en raison du risque de déshydratation aiguë. Les sucres favorisent également la motricité du tube digestif, donc le transit intestinal.  
-*   Les lipides (graisses) sont essentiels à la fois sur le plan énergétique et pour le développement du système nerveux central et des fonctions visuelles. Le taux de ces acides gras essentiels est dépendant de l'alimentation maternelle.  
-*   Le calcium et le fer sont mieux absorbés car le lait maternel contient des facteurs favorisant leur absorption par la muqueuse intestinale.  
-*   En revanche, le lait de mère est pauvre en vitamines liposolubles, il est donc important de supplémenter le nouveau-né :
-    *   en vitamine K pour lutter contre les hémorragies néo-natales,
-    *   en vitamine D s'il est peu exposé à la lumière solaire, afin de lutter contre le rachitisme (10 minutes d'ensoleillement suffisent à assurer la production quotidienne nécessaire).
+- Le lait mature est moins riche en protéines et en sels minéraux, mais beaucoup plus riche en lactose ("sucre du lait").
+- Les protéines du lait maternel sont composées de 60 % de protéines solubles digestes et de 40 % de caséine moins digeste.
+- De plus, le lait contient des immunoglobulines qui permettront au nourrisson de se défendre contre les infections en attendant que son système immunitaire devienne plus compétent.
+- Les sucres du lait se composent d'une part de lactose (disaccharide), d'autre part d'oligosaccharides qui favorisent l'implantation d'une flore bifidogène. Celle-ci protège le nourrisson des gastro-entérites, redoutables en raison du risque de déshydratation aiguë. Les sucres favorisent également la motricité du tube digestif, donc le transit intestinal.
+- Les lipides (graisses) sont essentiels à la fois sur le plan énergétique et pour le développement du système nerveux central et des fonctions visuelles. Le taux de ces acides gras essentiels est dépendant de l'alimentation maternelle.
+- Le calcium et le fer sont mieux absorbés car le lait maternel contient des facteurs favorisant leur absorption par la muqueuse intestinale.
+- En revanche, le lait de mère est pauvre en vitamines liposolubles, il est donc important de supplémenter le nouveau-né :
+  - en vitamine K pour lutter contre les hémorragies néo-natales,
+  - en vitamine D s'il est peu exposé à la lumière solaire, afin de lutter contre le rachitisme (10 minutes d'ensoleillement suffisent à assurer la production quotidienne nécessaire).
 
-Le lait de mère peut être comparé à un tissu vivant parfaitement adapté aux besoins de l'enfant pendant les six premiers mois. Il s'adapte en permanence aux microbes de l'environnement maternel, la mère fabriquant constamment des anticorps dirigés contre ces microbes. C'est pourquoi le contact permanent entre la mère et l'enfant est si important (_voir Méthode kangourou_).
+Le lait de mère peut être comparé à un tissu vivant parfaitement adapté aux besoins de l'enfant pendant les six premiers mois. Il s'adapte en permanence aux microbes de l'environnement maternel, la mère fabriquant constamment des anticorps dirigés contre ces microbes. C'est pourquoi le contact permanent entre la mère et l'enfant est si important (*voir Méthode kangourou*).
 
 <table>
 <caption>Comparaison du lait maternel et d'une préparation commerciale de lait pour nourrissons</caption>
@@ -304,9 +304,7 @@ Enfin, le lait de mère étant également riche en vitamine A, il est donc un fa
 Il faut également lutter contre les traditions néfastes pour la santé de l'enfant : administration en période néonatale de breuvages contenant certaines plantes, dont les vertus seraient de purifier l'organisme mais qui sont une cause supplémentaire de mortalité néonatale : beurre de karité, cendres pour purifier l'enfant... qui peuvent entraîner des atteintes rénales ou des diarrhées.  
 Pour que l'allaitement maternel soit réussi, il est également indispensable, en fin de grossesse, de s'assurer que le mamelon n'est pas ombiliqué. Si c'est le cas, il faudra apprendre à la future mère comment réaliser un massage des seins pour désombiliquer le mamelon.
 
-
 ![](202-4.jpg)
-
 
 ### 2. En cas de pathologie chez la mère
 
@@ -314,8 +312,8 @@ Pour que l'allaitement maternel soit réussi, il est également indispensable, e
 
 Il est possible que la lactation ne soit plus suffisante : il faut alors, dans la mesure du possible, continuer à favoriser l'allaitement maternel en prenant les mesures suivantes :
 
-*   alimenter et hydrater la mère pour augmenter la production de lait,
-*   empêcher le bébé de téter en fixant un tube sur le téton de la mère par lequel le bébé peut s'alimenter, tout en continuant la stimulation de la lactation.
+- alimenter et hydrater la mère pour augmenter la production de lait,
+- empêcher le bébé de téter en fixant un tube sur le téton de la mère par lequel le bébé peut s'alimenter, tout en continuant la stimulation de la lactation.
 
 #### Mère porteuse du virus VIH
 
@@ -341,27 +339,27 @@ La transmission périnatale du VIH peut se produire à la fois durant la grosses
 
 **Les bénéfices pour l'enfant**
 
-*   Les enfants nourris au sein sont en meilleure santé et sont moins souvent malades.  
-*   Cette alimentation assure tous les besoins jusqu'à l'âge de 6 mois.  
-*   L'allaitement maternel aide à protéger le nourrisson contre les maladies communes de cette période, en particulier les gastro-entérites et les pneumonies. Le colostrum, lait des premiers jours, épais et jaune, est particulièrement riche en éléments protégeant l'enfant contre les infections.  
-*   Le lait maternel est facilement digéré par l'enfant.  
-*   L'allaitement maternel permet un bon étayage de la relation mère-enfant, il favorise le bon développement psycho-affectif de l'enfant.  
-*   L'allaitement maternel protège des risques liés à la préparation du lait artificiel : contamination par des germes ou erreur de dilution.
+- Les enfants nourris au sein sont en meilleure santé et sont moins souvent malades.
+- Cette alimentation assure tous les besoins jusqu'à l'âge de 6 mois.
+- L'allaitement maternel aide à protéger le nourrisson contre les maladies communes de cette période, en particulier les gastro-entérites et les pneumonies. Le colostrum, lait des premiers jours, épais et jaune, est particulièrement riche en éléments protégeant l'enfant contre les infections.
+- Le lait maternel est facilement digéré par l'enfant.
+- L'allaitement maternel permet un bon étayage de la relation mère-enfant, il favorise le bon développement psycho-affectif de l'enfant.
+- L'allaitement maternel protège des risques liés à la préparation du lait artificiel : contamination par des germes ou erreur de dilution.
 
 **Les avantages pour la mère**
 
-*   C'est un mode d'alimentation propre, sûr et gratuit, il n'engendre pas de dépense pour le foyer familial.  
-*   L'allaitement maternel protège des hémorragies de la délivrance en permettant une involution utérine plus rapide.  
-*   Il permet de mettre en place une bonne relation mère-enfant.  
-*   Il réduit le risque de nouvelle grossesse (mais il ne peut pas être considéré comme un moyen de contraception car cette période dite de "six mois" est variable d'une femme à l'autre).  
-*   II lutte contre la carence martiale.  
-*   Il permet de réduire les frais de santé car l'enfant est moins souvent malade.
+- C'est un mode d'alimentation propre, sûr et gratuit, il n'engendre pas de dépense pour le foyer familial.
+- L'allaitement maternel protège des hémorragies de la délivrance en permettant une involution utérine plus rapide.
+- Il permet de mettre en place une bonne relation mère-enfant.
+- Il réduit le risque de nouvelle grossesse (mais il ne peut pas être considéré comme un moyen de contraception car cette période dite de "six mois" est variable d'une femme à l'autre).
+- II lutte contre la carence martiale.
+- Il permet de réduire les frais de santé car l'enfant est moins souvent malade.
 
 **Les avantages pour la famille et la société**
 
-*   C'est une ressource naturelle qui assure la sécurité pour 6 mois.  
-*   C'est une économie car on évite la dépense que représente un lait artificiel.  
-*   C'est une économie énergétique (pas d'eau à faire bouillir pour la préparation du lait).  
-*   Il a un impact économique à l'échelle du pays car il évite l'importation de produit de l'étranger.
+- C'est une ressource naturelle qui assure la sécurité pour 6 mois.
+- C'est une économie car on évite la dépense que représente un lait artificiel.
+- C'est une économie énergétique (pas d'eau à faire bouillir pour la préparation du lait).
+- Il a un impact économique à l'échelle du pays car il évite l'importation de produit de l'étranger.
 
-_Développement et Santé, n°197/198, 2010_
+*Développement et Santé, n°197/198, 2010*

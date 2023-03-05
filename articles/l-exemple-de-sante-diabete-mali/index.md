@@ -8,10 +8,10 @@ date: "2009-08-09"
 
 ## I. Amélioration de la prise en charge nutritionnelle des patients
 
-*   Recensement des plats préparés et consommés à Bamako ;
-*   Analyse de la consommation alimentaire des patients diabétiques ;
-*   Evaluation de l'impact sur la glycémie des principales céréales (mil, riz, fonio, manioc...) et des sauces consommées au Mali afin d'établir des régimes adaptés ;
-*   Suivi clinique de patients afin de tester des régimes alimentaires et une éducation nutritionnelle adaptés.
+- Recensement des plats préparés et consommés à Bamako ;
+- Analyse de la consommation alimentaire des patients diabétiques ;
+- Evaluation de l'impact sur la glycémie des principales céréales (mil, riz, fonio, manioc...) et des sauces consommées au Mali afin d'établir des régimes adaptés ;
+- Suivi clinique de patients afin de tester des régimes alimentaires et une éducation nutritionnelle adaptés.
 
 Cette approche permet de présenter de nouvelles recommandations diététiques passant par le personnel soignant formé par SDM, et par les séances d'éducation nutritionnelle auprès des patients et du public maliens (prévention).
 
@@ -21,9 +21,9 @@ SDM sensibilise les populations, augmente le dépistage volontaire, améliore la
 
 **Pour cela, SDM utilise trois canaux :**
 
-*   les pairs éducateurs : personnes issues de la population et leaders d'opinion qui vont dans les familles animer des séances de sensibilisation sur les facteurs de risque, les bonnes et les mauvaises pratiques ;
-*   les médias : émissions sur la santé a la radio et a la télévision ;
-*   les écoles, où des dessinateurs viennent travailler avec les enfants sur les modes de vie et les facteurs de risque des maladies chroniques non transmissibles.
+- les pairs éducateurs : personnes issues de la population et leaders d'opinion qui vont dans les familles animer des séances de sensibilisation sur les facteurs de risque, les bonnes et les mauvaises pratiques ;
+- les médias : émissions sur la santé a la radio et a la télévision ;
+- les écoles, où des dessinateurs viennent travailler avec les enfants sur les modes de vie et les facteurs de risque des maladies chroniques non transmissibles.
 
 ## III. Formation du personnel soignant et renforcement des structures de prise en charge du diabète
 
@@ -31,12 +31,12 @@ Santé Diabète Mali forme le personnel soignant afin de décentraliser la prise
 
 Il est bien entendu que SDM, après chaque formation, accompagne la décentralisation de la prise en charge avec une structuration des soins par :
 
-*   la reconnaissance des médecins référents par les autorités sanitaires ;
-*   la mise en place de consultations spécifiques pour le suivi des diabétiques, avec une dotation en matériel ;
-*   l'organisation de la prise en charge dans les services spécialisés (urgences, pédiatrie) ;
-*   le développement de supports pédagogiques pour l'éducation des patients (panneaux, BD...);
-*   l'appui pour obtenir la disponibilité et l'accessibilité financière des médicaments, de l'insuline et du matériel d'analyse ;
-*   l'organisation de dépistages (identification des nouveaux cas, sensibilisation et information...).
+- la reconnaissance des médecins référents par les autorités sanitaires ;
+- la mise en place de consultations spécifiques pour le suivi des diabétiques, avec une dotation en matériel ;
+- l'organisation de la prise en charge dans les services spécialisés (urgences, pédiatrie) ;
+- le développement de supports pédagogiques pour l'éducation des patients (panneaux, BD...);
+- l'appui pour obtenir la disponibilité et l'accessibilité financière des médicaments, de l'insuline et du matériel d'analyse ;
+- l'organisation de dépistages (identification des nouveaux cas, sensibilisation et information...).
 
 ## IV. Prévention et prise en charge du pied diabétique
 
@@ -44,8 +44,8 @@ Le "pied diabétique" est dû aux altérations des vaisseaux sanguins et des ner
 
 Aujourd'hui, dans le monde :
 
-*   40 % à 70 % des amputations des extrémités des membres inférieurs sont liées au diabète ;
-*   85 % des amputations (les extrémités (les membres inférieurs liées au diabète sont précédées d'un ulcère du pied.
+- 40 % à 70 % des amputations des extrémités des membres inférieurs sont liées au diabète ;
+- 85 % des amputations (les extrémités (les membres inférieurs liées au diabète sont précédées d'un ulcère du pied.
 
 L'OMS et la FID affirment que 50 %) de ces amputations pourraient être évitées grâce a une éducation, à un dépistage et à des soins adéquats.
 
@@ -55,18 +55,18 @@ Pour mener la prévention et effectuer 1a prise en charge de cette grave complic
 
 Dans les différentes régions, le travail global s'accompagne d'un accompagnement des associations de patients diabétiques en mettant en place :
 
-*   l'identification et le recensement des patients,
-*   leur mobilisation et leur regroupement,
-*   une meilleure organisation associative,
-*   des activités de soutien, causeries éducatives, dépistages, journée mondiale du diabète, plaidoyers...
+- l'identification et le recensement des patients,
+- leur mobilisation et leur regroupement,
+- une meilleure organisation associative,
+- des activités de soutien, causeries éducatives, dépistages, journée mondiale du diabète, plaidoyers...
 
 Il faut cependant être réaliste, s'il n'y a pas de "plaidoyer pour", il n'y aura rien ; il n'est pas sur que la prévalence du diabète ait augmenté : la maladie était surtout ignorée. Il faut donc commencer par un bilan de la situation épidémiologique et, en même temps, chercher les moyens de proposer des solutions efficaces en termes de coût et, enfin, mettre en place des programmes intégrés.
 
-_**Bibliographie**_
+***Bibliographie***
 
-1. Wild S, Roglic G, Green A, Sicree R, King H. Global prevalence of diabètes estimates for the year 2000 and projections for 2030. _Diabètes Care_ 2004 ; 27 : 1047-53.  
-2. Maire B, Delpeuch F. La transition nutritionnelle, l'alimentation et les villes dans les pays en développement Santé 2001 ; 11 : 23-30.  
-3. Maire B, Lioret S, Gartner A, Delpeuch F. Transition nutritionnelle et maladies chroniques non transmissibles liées a l'alimentation dans les pays en développement. Santé 2002 ; 12 : 45-55.  
-(4) Michelle A Mendez, Carlos A Monteiro, and Barry M Popkin. Overweight exceeds underweight among women in most developing countries. _Am J Clira Nutr_ 2005 ; 81 : 714 -21.
+1.  Wild S, Roglic G, Green A, Sicree R, King H. Global prevalence of diabètes estimates for the year 2000 and projections for 2030. *Diabètes Care* 2004 ; 27 : 1047-53.
+2.  Maire B, Delpeuch F. La transition nutritionnelle, l'alimentation et les villes dans les pays en développement Santé 2001 ; 11 : 23-30.
+3.  Maire B, Lioret S, Gartner A, Delpeuch F. Transition nutritionnelle et maladies chroniques non transmissibles liées a l'alimentation dans les pays en développement. Santé 2002 ; 12 : 45-55.  
+    (4) Michelle A Mendez, Carlos A Monteiro, and Barry M Popkin. Overweight exceeds underweight among women in most developing countries. *Am J Clira Nutr* 2005 ; 81 : 714 -21.
 
-_Développement et Santé, n°193, 2009_
+*Développement et Santé, n°193, 2009*

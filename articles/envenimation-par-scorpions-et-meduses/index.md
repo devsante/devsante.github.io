@@ -10,11 +10,9 @@ date: "1998-06-26"
 
 Pédiatre, SMUR, hôpital Robert-Debré, Paris.
 
-
 ![](i784-1.jpg)
 
-
-_Développement et Santé, n° 135, juin 1998_
+*Développement et Santé, n° 135, juin 1998*
 
 **Envenimations par scorpions et méduses**
 
@@ -22,8 +20,6 @@ _Développement et Santé, n° 135, juin 1998_
 
 Pédiatre, SMUR, hôpital Robert-Debré, Paris.
 
-
 ![](i784-1.jpg)
 
-
-_Développement et Santé, n° 135, juin 1998_
+*Développement et Santé, n° 135, juin 1998*

@@ -19,7 +19,7 @@ On en connaît 5 espèces ayant un tropisme, un hôte intermédiaire et une rép
 
 <td>
 
-<em>S. mansoni</em>  
+<em>S. mansoni</em>
 
 </td>
 
@@ -102,25 +102,23 @@ Le cycle est complexe,  en deux parties : un cycle chez l’homme et un chez l�
 
 Le sujet infecté émet des œufs soit par les urines, soit par les selles.
 
-*   Ces œufs, s’ils sont émis dans une collection d’eau, vont se transformer en miracidium cilié qui nage vers un mollusque hôte intermédiaire.  
-*   Chez ce mollusque se produit une multiplication asexuée très importante, et une transformation en cercaires puis furcocercaires.  
-*   Ceux-ci sont attirés par les mammifères, l’homme en particulier, et pénètrent activement par effraction cutanée. Ils se transforment en vers et vont dans la circulation où le couple se fixe dans les veines urinaires, intestinales ou hépatiques.  
-*   La femelle pond alors des œufs qui traversent la paroi veineuse puis la paroi de l’organe proche, provoquant ainsi les pathologies rencontrées.
+- Ces œufs, s’ils sont émis dans une collection d’eau, vont se transformer en miracidium cilié qui nage vers un mollusque hôte intermédiaire.
+- Chez ce mollusque se produit une multiplication asexuée très importante, et une transformation en cercaires puis furcocercaires.
+- Ceux-ci sont attirés par les mammifères, l’homme en particulier, et pénètrent activement par effraction cutanée. Ils se transforment en vers et vont dans la circulation où le couple se fixe dans les veines urinaires, intestinales ou hépatiques.
+- La femelle pond alors des œufs qui traversent la paroi veineuse puis la paroi de l’organe proche, provoquant ainsi les pathologies rencontrées.
 
 Le cycle d’incubation dure de 3 à 4 semaines et la persistance des vers peut durer de 15 à 20 ans.
 
-### **La répartition** **des deux maladies**
+### La répartition des deux maladies
 
 Elle dépend des conditions climatiques et de la présence d’eau de surface :
 
-*   La **schistosomiase intestinale** n’existe que si les vecteurs spécifiques sont présents, les planorbes vivent dans des eaux permanentes et avec des températures inférieures à 35°C. Elle est donc retrouvée dans les zones forestières et de savane humide.  
-*   La schistosomiase urinaire est plus répandue, on la retrouve dans les zones humides mais aussi dans toutes les zones de savanes, dans le Sahel et même dans les oasis sahariens. Sa fréquence est maximale aux alentours des points d’eau et diminue si on s’en éloigne.
+- La **schistosomiase intestinale** n’existe que si les vecteurs spécifiques sont présents, les planorbes vivent dans des eaux permanentes et avec des températures inférieures à 35°C. Elle est donc retrouvée dans les zones forestières et de savane humide.
+- La schistosomiase urinaire est plus répandue, on la retrouve dans les zones humides mais aussi dans toutes les zones de savanes, dans le Sahel et même dans les oasis sahariens. Sa fréquence est maximale aux alentours des points d’eau et diminue si on s’en éloigne.
 
 La schistosomiase urinaire est très liée à la fréquentation des sources d’eau par les personnes ; c’est pourquoi la maladie est aussi prégnante dans les villages bordant les rivières ou les zones hydro-agricoles.
 
-
 ![](image002-schisto.jpg)
-
 
 ## II. Clinique
 
@@ -147,7 +145,7 @@ Les œufs de S. haematobium ont un éperon terminal, les oeufs de S mansoni un �
 
 Les œufs de S haematobium dans le culot urinaire. La technique de filtration des urines sur papier avec coloration au lugol sensibilise la recherche et permet de compter le nombre d’œufs.
 
-Les œufs de _S. mansoni, intercalatum, japonicum_ et _meckonji_ sont retrouvés dans les selles à l’examen direct ou après coloration au MIF ou lugol.  
+Les œufs de *S. mansoni, intercalatum, japonicum* et *meckonji* sont retrouvés dans les selles à l’examen direct ou après coloration au MIF ou lugol.  
 Pour dénombrer les œufs, il faut utiliser la méthode de Kato avec tamisage et calibrage des selles.
 
 Pour la schistosomiase urinaire, des **stratégies simplifiées** sont plus souvent employées au niveau communautaire. En effet, en région d’endémie, toute anomalie des urines est suspecte de bilharziose urinaire. Aussi, le simple contrôle visuel des urines ou la mise en évidence de sang ou de protéines dans les urines par bandelettes suffisent à déclarer une personne infectée par S haematobium.
@@ -272,11 +270,11 @@ lymphatique</th>
 
 La stratégie est la suivante :
 
-*   Passage une fois par an pendant 5 ou 6 ans.  
-*   Semaine 1 = albendazole+ ivermectine / semaine 2 = praziquantel / semaine 3 = azythromycine.  
-*   Stratégie fixe dans les centres de santé, écoles, lieux publics (marchés).  
-*   Stratégie avancée avec distribution de porte à porte par distributeurs communautaires.  
-*   Surveillance des effets indésirables (évacuation si effet grave).
+- Passage une fois par an pendant 5 ou 6 ans.
+- Semaine 1 = albendazole+ ivermectine / semaine 2 = praziquantel / semaine 3 = azythromycine.
+- Stratégie fixe dans les centres de santé, écoles, lieux publics (marchés).
+- Stratégie avancée avec distribution de porte à porte par distributeurs communautaires.
+- Surveillance des effets indésirables (évacuation si effet grave).
 
 Pour cette stratégie, l’OMS propose de calculer les doses selon la taille, en utilisant les toises suivantes avec les correspondances avec le poids corporel.
 

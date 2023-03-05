@@ -24,22 +24,20 @@ il est possible d’utiliser un autocuiseur (type OMS), modifié selon les direc
 
 On doit toujours stériliser à la vapeur d’eau ce qui peut l’être, en particulier :
 
-*   Textiles, pansements (tissés et non tissés)
-*   Instruments chirurgicaux en acier inox
-*   Verrerie
-*   Caoutchouc
+- Textiles, pansements (tissés et non tissés)
+- Instruments chirurgicaux en acier inox
+- Verrerie
+- Caoutchouc
 
 On doit vérifier le bon déroulement du cycle. Des témoins de stérilisation doivent être ajoutés au matériel à chaque cycle. Le bon fonctionnement de l’autoclave doit être contrôlé chaque année, pour la qualité des opérations et la sécurité des utilisateurs.
 
-
 ![](autoclave.jpg)
-
 
 **Autoclave**
 
 ### 
-![](autocuiseur.jpg)
 
+![](autocuiseur.jpg)
 
 ### Autocuiseur
 
@@ -48,21 +46,19 @@ On doit vérifier le bon déroulement du cycle. Des témoins de stérilisation d
 Elle se pratique dans un stérilisateur à air chaud, le Poupinel. En l’absence de Poupinel, on peut utiliser un four électrique domestique, (qui sera réservé à cette fonction) en s’assurant que les normes sont bien respectées : 1 heure à 180° C, ou 2 heures à 170° C.  
 Cette méthode sera réservée au matériel thermorésistant risquant d’être altéré en présence de vapeur d’eau :
 
-*   Instruments nickelés, chromés
-*   Instruments en acier non inoxydable
-*   Verrerie résistante à la chaleur.
+- Instruments nickelés, chromés
+- Instruments en acier non inoxydable
+- Verrerie résistante à la chaleur.
 
 Cette méthode est contre-indiquée pour :
 
-*   Instruments en acier inoxydable
-*   Compresses
-*   Liquides.
+- Instruments en acier inoxydable
+- Compresses
+- Liquides.
 
 A chaque opération, il convient de vérifier le bon déroulement du protocole : températures atteintes, au moyen de témoins de stérilisation ajoutés au matériel, et durée de l’opération.
 
-
 ![](poupinel.jpg)
-
 
 ### 3. Oxyde d’éthylène
 
@@ -79,11 +75,9 @@ Nous citerons seulement ici les modes de stérilisation au gaz plasma (basse tem
 Lorsque l’on ne dispose pas des matériels précédents, on peut effectuer une désinfection poussée en faisant bouillir les instruments et les seringues pendant 20 minutes au moins.  
 **Cette méthode n’est pas préconisée dans les procédures standard, elle ne doit être employée que lorsqu’aucune autre solution n’est possible.**
 
-
-![](bullition-1.jpg)
-    
+![](bullition-1.jpg)  
+     
 ![](bullition-2.jpg)
-
 
 #### Désinfection poussée par immersion dans un produit chimique
 
@@ -95,9 +89,9 @@ En effet, les désinfectants chimiques ne sont pas alors assez fiables, car ils 
 
 Dès le nettoyage et la décontamination, le matériel doit être conditionné de façon à :
 
-*   maintenir le niveau de contamination le plus bas avant stérilisation,
-*   permettre le contact avec l’agent stérilisant (il doit être adapté à chaque méthode),
-*   assurer après stérilisation le maintien de l’état stérile jusqu’à l’emploi et l’extraction dans des conditions aseptiques.
+- maintenir le niveau de contamination le plus bas avant stérilisation,
+- permettre le contact avec l’agent stérilisant (il doit être adapté à chaque méthode),
+- assurer après stérilisation le maintien de l’état stérile jusqu’à l’emploi et l’extraction dans des conditions aseptiques.
 
 Le conditionnement dépend des moyens que l’on possède et du type de matériel : containers, boîtes métalliques, emballages plastiques avec soudeuse, papier filtre, verrerie avec bouchons fabriqués avec des compresses et du coton cardé…
 

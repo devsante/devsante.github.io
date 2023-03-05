@@ -9,15 +9,15 @@ date: "2007-06-23"
 
 Et il ne faut pas **tomber "en panne"** de certains produits, donc il faut savoir :
 
-*   **quand** il faut commander,
-*   **ce qu'il faut** commander et
-*   **quelle quantité** il faut commander.
+- **quand** il faut commander,
+- **ce qu'il faut** commander et
+- **quelle quantité** il faut commander.
 
 Or ces **renseignements** ne peuvent être connus qu'à partir d'un **enregistrement précis** de plusieurs données dont :­
 
-*   **l'identification de chaque produit** présent dans la pharmacie : DCI, forme galénique, dosage et conditionnement ;
-*   **l'enregistrement de tous les mouvements de chaque produit** : date, nature du mouve­ment (entrée ou sortie), provenance pour les entrées ou destination pour les sorties ;
-*   le stock réel de chaque produit : résultat de l'inventaire physique.
+- **l'identification de chaque produit** présent dans la pharmacie : DCI, forme galénique, dosage et conditionnement ;
+- **l'enregistrement de tous les mouvements de chaque produit** : date, nature du mouve­ment (entrée ou sortie), provenance pour les entrées ou destination pour les sorties ;
+- le stock réel de chaque produit : résultat de l'inventaire physique.
 
 Il existe différentes manières d'enregistrer ces informations. Les procédures recommandées ici utilisent une fiche de stock de format standard. Les fiches de stock doivent en principe être conformes aux directives nationales. Elles peuvent être adaptées selon vos besoins ou pour répondre aux exigences particulières de certains donateurs. La tenue à jour des documents de gestion vous permet de **gagner du temps** et de **vous protéger** (contrôle).
 
@@ -29,8 +29,8 @@ Nous prendrons pour exemple une fiche de stock de modèle courant. Elle comporte
 
 Il arrive que la **couleur des fiches** soit **diffé­rente** selon le **type de produit** (médicament, réactif de laboratoire, objet de pansement, etc.) ou selon le **type de médicament** (médica­ments courants, antituberculeux, ARV etc.). On peut distinguer **deux zones** dans une fiche de stock :
 
-*   en **haut de la fiche**, un **cadre** à plusieurs cases, qui **définit le produit** : **cadre d'identification du produit,**
-*   sous ce cadre, un **tableau** destiné à **l'enre­gistrement des mouvements : tableau des mouvements du produit.**
+- en **haut de la fiche**, un **cadre** à plusieurs cases, qui **définit le produit** : **cadre d'identification du produit,**
+- sous ce cadre, un **tableau** destiné à **l'enre­gistrement des mouvements : tableau des mouvements du produit.**
 
 ### 1. Le cadre d'identification du produit
 
@@ -84,9 +84,9 @@ Seuil de commande :
 
 #### Case "Article"
 
-1.  _**nom du produit**_ : dénomination com­mune internationale (DCI).  
-2.  **_sa forme galénique_** : comprimé, gélule ou sirop, etc.,
-3.  **_son dosage_** : on peut avoir des com­primés à 250 mg ou à 500 mg. Il ne faut **jamais mélanger** les dosages différents d'un même produit.
+1.  ***nom du produit*** : dénomination com­mune internationale (DCI).
+2.  ***sa forme galénique*** : comprimé, gélule ou sirop, etc.,
+3.  ***son dosage*** : on peut avoir des com­primés à 250 mg ou à 500 mg. Il ne faut **jamais mélanger** les dosages différents d'un même produit.
 
 #### Case "N° identification"
 
@@ -96,16 +96,16 @@ On inscrit ici, quand il existe, le **numéro de nomenclature** ou le code ident
 
 On précise ici
 
-1.  **_le type de contenant_**: boîte, flacon, tube, plaquette thermoformée (blister),
-2.  **_la quantité de produit dans le conditionnement_** : par exemple, 125 ml (sirop), 10 ou 50 ou 100 com­primés etc..
+1.  ***le type de contenant***: boîte, flacon, tube, plaquette thermoformée (blister),
+2.  ***la quantité de produit dans le conditionnement*** : par exemple, 125 ml (sirop), 10 ou 50 ou 100 com­primés etc..
 
 **Lorsqu'on remplit cette case, il faut sou­ligner l'unité de compte qui va servir à surveiller la consommation ou à faire les commandes :**
 
 **Exemples :**
 
-*   boîte de 5 plaquettes de 10 comprimés, l'unité est la boîte ou,
-*   boîte de 5 plaquettes de 10 comprimés, l'unité est la plaquette ou,
-*   boîte de 5 plaquettes de 10 comprimés, l'unité est le comprimé.
+- boîte de 5 plaquettes de 10 comprimés, l'unité est la boîte ou,
+- boîte de 5 plaquettes de 10 comprimés, l'unité est la plaquette ou,
+- boîte de 5 plaquettes de 10 comprimés, l'unité est le comprimé.
 
 #### d) Case "Prix"
 
@@ -289,38 +289,38 @@ remarques
 
 </table>
 
-#### **Colonne "Date"**
+#### Colonne "Date"
 
 Il s'agit de la date du mouvement, **entrée ou sortie** du produit.
 
-#### **Colonne "Quantité reçue"**
+#### Colonne "Quantité reçue"
 
 Nombre d'unités reçues à la pharmacie (boîte, flacon, tube, comprimé, etc., selon l'unité de compte indiquée dans la case "conditionnement").
 
-#### **Colonne "Provenance"**
+#### Colonne "Provenance"
 
 D'où vient le produit reçu ; nom du fournisseur (grossiste, centrale d'achat, Pharmappro, don, etc.).
 
-#### **Colonne "Quantité délivrée"**
+#### Colonne "Quantité délivrée"
 
 Nombre d'unités sorties de la pharmacie (boîte, flacon, tube, comprimé, etc., selon l'unité de compte indiquée dans la case "conditionnement").
 
-#### **Colonne "Délivré à"**
+#### Colonne "Délivré à"
 
 Destination du produit, nom du lieu où les médicaments seront dispensés aux patients.
 
-#### **Colonne "Stock restant"**
+#### Colonne "Stock restant"
 
 Nombre d'unités restant dans le stock.
 
-*   S'il s'agit d'une **entrée** (quantité reçue), on ajoute la "**quantité reçue**" au "**stock res­tant**" de la ligne précédente.  
-*   S'il s'agit d'une **sortie** (quantité delivrée), on retranche la "**quantité délivrée**" du "**stock restant**" de la ligne précédente.
+- S'il s'agit d'une **entrée** (quantité reçue), on ajoute la "**quantité reçue**" au "**stock res­tant**" de la ligne précédente.
+- S'il s'agit d'une **sortie** (quantité delivrée), on retranche la "**quantité délivrée**" du "**stock restant**" de la ligne précédente.
 
-#### **Colonne "Remarques"**
+#### Colonne "Remarques"
 
 Informations importantes sur les mouvements du produit, numéro de lot, dates de péremption, emprun­té à, retourné à telle autre formation sanitaire, etc..
 
-## **III. L'inventaire**
+## III. L'inventaire
 
 Il ne suffit pas de compléter les fiches de stock à chaque mouvement.  
 En effet, si la colonne "stock restant" permet de connaître en permanence le **stock théo­rique** du produit, c'est-à-dire celui obtenu par le suivi des mouvements, il doit être validé par un comptage des boîtes des produits en stock ou **stock réel**, c'est ce qu'on appelle **l'in­ventaire physique**.
@@ -349,32 +349,32 @@ Il faut créer une fiche de remplacement dès que l'on remplit la dernière lign
 
 Les fiches de stock doivent être remplies très lisiblement et avec soin, certaines données sont non modifiables, d'autres doivent **pou­voir être modifiées**.
 
-#### **Utilisez un stylo** pour enregistrer les données non modifiables
+#### Utilisez un stylo pour enregistrer les données non modifiables
 
-*   **le nom de l'article, le numéro d'identi­fication, et de conditionnement,**
-*   les informations relatives aux **mouvements des produits,**
-*   **utilisez un stylo de couleur différente pour les inventaires**. En général, on utili­se la couleur rouge pour les inventaires.
+- **le nom de l'article, le numéro d'identi­fication, et de conditionnement,**
+- les informations relatives aux **mouvements des produits,**
+- **utilisez un stylo de couleur différente pour les inventaires**. En général, on utili­se la couleur rouge pour les inventaires.
 
-#### **Utilisez un crayon** pour enregistrer les données variables
+#### Utilisez un crayon pour enregistrer les données variables
 
-*   **le prix à l'unité** est une information qui peut changer ; il ne faut pas effacer le prix antérieur s'il a changé, on risque toujours d'en avoir besoin ; il vaut mieux barrer l'ancien prix sans le rendre illisible et noter dans la case le nou­veau prix et la date de modification ;
-*   **le seuil de commande** : il peut aussi varier (maladies saisonnières, nouveaux traite­ments, délais de livraison...).
+- **le prix à l'unité** est une information qui peut changer ; il ne faut pas effacer le prix antérieur s'il a changé, on risque toujours d'en avoir besoin ; il vaut mieux barrer l'ancien prix sans le rendre illisible et noter dans la case le nou­veau prix et la date de modification ;
+- **le seuil de commande** : il peut aussi varier (maladies saisonnières, nouveaux traite­ments, délais de livraison...).
 
 #### Remplir avec soin le cadre d'identifi­cation
 
 Une fiche de stock peut tomber, être mal positionnée par erreur ; il peut arriver qu'on les déplace, par exemple pour rassembler les éléments nécessaires pour faire une commande. Il faut donc prendre le temps de remplir ces cases d'identification correctement et lisiblement.
 
-*   **Pour un nouveau produit** qui n'était pas en stock indiquez avec soin : DCI, forme galénique, dosage, numéro d'identification et conditionnement au stylo, prix d'achat au crayon de papier.  
-*   **Pour un produit déjà en stock**, il s'agit d'une fiche de remplacement : reportez soigneusement les indications inscrites sur l'ancienne fiche. Vous pouvez reporter le seuil de commande.
+- **Pour un nouveau produit** qui n'était pas en stock indiquez avec soin : DCI, forme galénique, dosage, numéro d'identification et conditionnement au stylo, prix d'achat au crayon de papier.
+- **Pour un produit déjà en stock**, il s'agit d'une fiche de remplacement : reportez soigneusement les indications inscrites sur l'ancienne fiche. Vous pouvez reporter le seuil de commande.
 
 #### Remplissez la première ligne du tableau des mouvements
 
-*   **Pour un nouveau produit** qui n'était pas en stock, comme le produit n'existait pas, il faut reporter dans la case "**_stock res­tant_**" le nombre que l'on a inscrit dans la case "**_quantité reçue_**".  
-*   **Pour un produit déjà en stock**, il s'agit d'une fiche qui vient en remplacement d'une fiche dont toutes les lignes sont rem­plies, ou d'une fiche qui correspond à une nouvelle unité de compte.  
-*   Sur la première ligne du tableau des mou­vements :
-    *   dans la colonne "**date"** : notez la **date**,
-    *   dans la colonne "**provenance**" inscri­vez la mention "**fiche**" si vous reportez le stock restant de la fiche terminée ou "**inventaire**" si vous avez procédé à l'inventaire physique,
-    *   dans la colonne "**stock restant**" inscrivez le nombre "**stock restant**" de la fiche terminée ou celui obtenu à l'inventaire.
+- **Pour un nouveau produit** qui n'était pas en stock, comme le produit n'existait pas, il faut reporter dans la case "***stock res­tant***" le nombre que l'on a inscrit dans la case "***quantité reçue***".
+- **Pour un produit déjà en stock**, il s'agit d'une fiche qui vient en remplacement d'une fiche dont toutes les lignes sont rem­plies, ou d'une fiche qui correspond à une nouvelle unité de compte.
+- Sur la première ligne du tableau des mou­vements :
+  - dans la colonne "**date"** : notez la **date**,
+  - dans la colonne "**provenance**" inscri­vez la mention "**fiche**" si vous reportez le stock restant de la fiche terminée ou "**inventaire**" si vous avez procédé à l'inventaire physique,
+  - dans la colonne "**stock restant**" inscrivez le nombre "**stock restant**" de la fiche terminée ou celui obtenu à l'inventaire.
 
 #### Mettez la fiche de stock en place
 
@@ -386,8 +386,8 @@ Tous les produits reçus dans la pharmacie sont enregistrés sur des fiches. Tou
 
 #### Vous recevez un produit
 
-*   **rangez le à sa place sur l'étagère,**
-*   **enregistrez le mouvement sur la fiche de stock, c'est-à-dire :**
+- **rangez le à sa place sur l'étagère,**
+- **enregistrez le mouvement sur la fiche de stock, c'est-à-dire :**
 
 1.  enregistrez la date de réception,
 2.  enregistrez la quantité d'unités reçues,
@@ -582,7 +582,7 @@ Remarques
 
 </table>
 
-_Utilisez un stylo pour remplir les cases blanches, elles comportent des informations non modifiables et un crayon de papier pour les grises dont les données sont variables._
+*Utilisez un stylo pour remplir les cases blanches, elles comportent des informations non modifiables et un crayon de papier pour les grises dont les données sont variables.*
 
 #### Vous sortez un produit du stock
 
@@ -595,7 +595,7 @@ _Utilisez un stylo pour remplir les cases blanches, elles comportent des informa
 3.  enregistrez la **destination** du produit (délivré à),
 4.  retirez la quantité reçue au stock **restant** de la ligne au-dessus, et inscrivez le résultat dans la case "**stock restant**".
 
-**Exemple _(cf. fiche suivante)_**
+**Exemple *(cf. fiche suivante)***
 
 Le 14 juillet, j'ai besoin d'amoxicilline en comprimés à 250 mg pour la consultation journalière.
 
@@ -603,17 +603,17 @@ En prenant la boîte à la pharmacie, je trouve **une boîte périmée** que je 
 
 Sur la **première ligne libre**, j'inscris :
 
-*   14/07/2007 dans la case "**date**",
-*   3 (l'unité est la plaquette de 10 comprimés) dans la case "**quantité délivrée**",
-*   Pharmappro dans la case "**délivré à**" (le produit périmé est retourné au laboratoire).
+- 14/07/2007 dans la case "**date**",
+- 3 (l'unité est la plaquette de 10 comprimés) dans la case "**quantité délivrée**",
+- Pharmappro dans la case "**délivré à**" (le produit périmé est retourné au laboratoire).
 
 La case "**stock restant**" de la **ligne précé­dente** contient **39**, j'inscris donc 36 (39 - 3) dans la case "**stock restant**" et le mot "**périmé**" dans la case "remarques".
 
 Sur la **ligne suivante**, j'inscris :
 
-*   **la même date** 14/07/2007 dans la case "**date**",
-*   3 (l'unité est la plaquette de 10 comprimés) dans la case "**quantité délivrée**",
-*   consultation dans la case "**délivrée à**".
+- **la même date** 14/07/2007 dans la case "**date**",
+- 3 (l'unité est la plaquette de 10 comprimés) dans la case "**quantité délivrée**",
+- consultation dans la case "**délivrée à**".
 
 La case "**stock restant**" de la ligne précé­dente contient : **36**, j'inscris donc 33 (36 - 3) dans la case "**stock restant**".
 
@@ -625,11 +625,11 @@ Le nouveau stock est bien de **33 plaquettes** (11 boîtes de 3 plaquettes de 10
 
 **Effectuez l'inventaire proprement dit :**
 
-1.  **Tracez une double ligne** en dessous de la dernière opération enregistrée sur la fiche de stock. Vous pouvez utiliser un **stylo de couleur différente (rouge)** pour tracer ces lignes et noter les informations relatives à l'inventaire.  
-2.  Inscrivez la date à laquelle l'inventaire a été effectué.  
-3.  Inscrivez le mot "inventaire" sur toute la largeur des colonnes.  
-4.  Comptez le nombre d'unités du pro­duitdisponible sur les étagères (par exemple, de boîtes). Le nombre d'unités décomptées constitue le résultat de l'inven­taire dans la case "stock restant".  
-5.  Si le résultat de l'inventaire est différent du résultat attendu, c'est-à-dire du nombre inscrit dans la case "stock restant" de la dernière ligne avant l'inventaire, mentionnez "écart" dans la colonne "remarques". Faites une vérification et si la différence se confirme, calculez la différence entre la quantité attendue et la quantité réelle et notez-la sur la fiche. Après l'inventaire, vous vous efforcerez de déterminer pourquoi cet écart existe.  
+1.  **Tracez une double ligne** en dessous de la dernière opération enregistrée sur la fiche de stock. Vous pouvez utiliser un **stylo de couleur différente (rouge)** pour tracer ces lignes et noter les informations relatives à l'inventaire.
+2.  Inscrivez la date à laquelle l'inventaire a été effectué.
+3.  Inscrivez le mot "inventaire" sur toute la largeur des colonnes.
+4.  Comptez le nombre d'unités du pro­duitdisponible sur les étagères (par exemple, de boîtes). Le nombre d'unités décomptées constitue le résultat de l'inven­taire dans la case "stock restant".
+5.  Si le résultat de l'inventaire est différent du résultat attendu, c'est-à-dire du nombre inscrit dans la case "stock restant" de la dernière ligne avant l'inventaire, mentionnez "écart" dans la colonne "remarques". Faites une vérification et si la différence se confirme, calculez la différence entre la quantité attendue et la quantité réelle et notez-la sur la fiche. Après l'inventaire, vous vous efforcerez de déterminer pourquoi cet écart existe.
 6.  Le résultat de l'inventaire sera bien sûr le stock de référence pour le mouvement suivant.
 
 <table>
@@ -866,16 +866,16 @@ Remarques
 
 </table>
 
-_Utilisez un stylo pour remplir les cases blanches, elles comportent des informations non modifiables et un crayon de papier pour les grises dont les données sont variables._
+*Utilisez un stylo pour remplir les cases blanches, elles comportent des informations non modifiables et un crayon de papier pour les grises dont les données sont variables.*
 
-**Exemple** _(cf. fiche ci-dessous) :_
+**Exemple** *(cf. fiche ci-dessous) :*
 
 Le 17 juillet, j'effectue l'inventaire. Je compte 3 boîtes complètes d'amoxicilline en compri­més à 250 mg et 2 plaquettes, soit au total 32 plaquettes {(3 x 10) + 2} de 10 comprimés. Sur la fiche de stock "amoxicilline comprimés à 250 mg en boîtes de 3 plaquettes de 10 comprimés" j'écris au stylo rouge :
 
-*   17/07/2007 dans la case date,
-*   le mot "inventaires" sur toute la largeur des colonnes,
-*   32 dans la case "stock restant"
-*   et dans la case "remarques" : écart - 1 (stock compté moins stock restant).
+- 17/07/2007 dans la case date,
+- le mot "inventaires" sur toute la largeur des colonnes,
+- 32 dans la case "stock restant"
+- et dans la case "remarques" : écart - 1 (stock compté moins stock restant).
 
 Profitez de l'inventaire mensuel pour vérifier les dates de péremption et retirer les médica­ments périmés.
 
@@ -1157,7 +1157,7 @@ Remarques
 
 </table>
 
-_Utilisez un stylo pour remplir les cases blanches, elles comportent des informations non modifiables et un crayon de papier pour les grises dont les données sont variables._
+*Utilisez un stylo pour remplir les cases blanches, elles comportent des informations non modifiables et un crayon de papier pour les grises dont les données sont variables.*
 
 ### 4. Que deviennent les fiches de stocks ?
 
@@ -1178,11 +1178,11 @@ Il faut donc soigneusement archiver les anciennes fiches de stock.
 
 La fiche de stock = le "passeport" du produit
 
-### Elle contient :
+### Elle contient
 
 <ul><li>toutes les données permettant l'identification précise du produit.</li><li>tous les mouvements du stock :<ul>*   date d'entrée en stock et provenance,*   date de sortie et destination,*   calcul du stock restant.</ul></li></ul>
 
-### Les règles à suivre :
+### Les règles à suivre
 
 <ul><li>chaque produit a une fiche de stock sans exception,</li><li>la fiche de stock est placée avec le stock de produit correspondant,</li><li>tous les mouvements sont enregistrés scrupuleusement et au fur et à mesure,</li><li>l'inventaire physique de tous les produits est effectué tous les mois,</li><li>pour chaque produit, le résultat de l'inventaire est reporté de manière explicite sur la fiche de stock, le stock est réajusté si besoin.</li></ul></td>
 
@@ -1192,4 +1192,4 @@ La fiche de stock = le "passeport" du produit
 
 </table>
 
-_Développement et Santé, n°188, 2007_
+*Développement et Santé, n°188, 2007*

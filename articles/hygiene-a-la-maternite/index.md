@@ -14,18 +14,17 @@ date: "2010-12-03"
 <p>En maternité, les infections nosocomiales ont la même définition que dans les autres secteurs : elles recouvrent un vaste champ, allant pour la mère de l'infection urinaire à l'endométrite, voire au choc septique ; pour le nouveau-né, il peut s'agir d'une conjonctivite, d'une infection cutanée, d'une omphalite, voire d'une infection générale ou d'une entérocolite.<br />
 La difficulté est de faire la part de la transmission materno-foetale et de l'acquisition post-natale du germe.</p></div>
 
-## En pratique  
+## En pratique
+
 I. Réduire la transmission manuportée par un lavage des mains
 
 Il a pour but d'éliminer les bactéries présentes sur les mains des soignants (infirmier, sage-femme, médecin), qu'il s'agisse de leur propre flore ou de bactéries provenant des patients examinés et soignés précédemment. Des mains contaminées propagent la plupart des infections courantes, les laver c'est couper cette chaîne de transmission.  
 Il est indispensable de se laver les mains après tout acte de la vie courante avant de toucher un patient, et à chaque fois que l'on passe d'un patient à un autre.
 
-*   **Lavage à l'eau et au savon lorsqu'on dispose d'eau propre.**
-*   **Lavage avec des désinfectants lorsqu'on n'a pas d'eau propre**. Le désinfectant doit être à base d'alcool, il doit contenir au moins 60 % d'alcool en volume (éthanol ou isopropanol) et peut contenir des émollients. Il est toutefois impératif d'éliminer toute souillure des mains avant d'utiliser le désinfectant si l'on veut qu'il soit efficace.
-
+- **Lavage à l'eau et au savon lorsqu'on dispose d'eau propre.**
+- **Lavage avec des désinfectants lorsqu'on n'a pas d'eau propre**. Le désinfectant doit être à base d'alcool, il doit contenir au moins 60 % d'alcool en volume (éthanol ou isopropanol) et peut contenir des émollients. Il est toutefois impératif d'éliminer toute souillure des mains avant d'utiliser le désinfectant si l'on veut qu'il soit efficace.
 
 ![](13189-2.jpg)
-
 
 ## II. Choix des produits antimicrobiens : antiseptiques, désinfectants
 
@@ -42,10 +41,10 @@ Ne pas oublier que les produits iodés sont contre indiqués chez le nouveau-né
 Ils doivent être désinfectés régulièrement. I; eau de Javel est un désinfectant majeur et peu coûteux. Elle est délivrée dans le commerce sous forme d'une solution à 2,6 % de chlore actif, concentration pour laquelle nous indiquons les dilutions à effectuer. Elles doivent être faites au moment de l'emploi. L'eau de javel à 2,6 % de chlore actif se conserve pendant 3 ans, au frais et à l'abri du soleil et de la lumière.  
 (Il existe aussi des solutions à 9,6 % de chlore actif, qui nécessiteront alors une prédilution, bien vérifier la teneur sur l'emballage).
 
-*   **Locaux, mobilier, linge** : 15 ml d'eau de Javel à 2,6 % de chlore actif (eau de Javel du commerce) diluée dans un litre d'eau. Contact 5 minutes.  
-*   **Lavabos, éviers, WC, siphons** : verser 300 ml d'eau de javel à 2,6 % de chlore actif non diluée. Contact 5 minutes.  
-*   **Instruments, matériel** : 30 à 50 ml d'eau de Javel à 2,6 % de chlore actif pour un litre d'eau. Contact 15 minutes.  
-*   **Placenta** : même concentration que pour les instruments, mais dans un bac à part.
+- **Locaux, mobilier, linge** : 15 ml d'eau de Javel à 2,6 % de chlore actif (eau de Javel du commerce) diluée dans un litre d'eau. Contact 5 minutes.
+- **Lavabos, éviers, WC, siphons** : verser 300 ml d'eau de javel à 2,6 % de chlore actif non diluée. Contact 5 minutes.
+- **Instruments, matériel** : 30 à 50 ml d'eau de Javel à 2,6 % de chlore actif pour un litre d'eau. Contact 15 minutes.
+- **Placenta** : même concentration que pour les instruments, mais dans un bac à part.
 
 Les équipements et matériels en inox doivent être ensuite rincés sous peine d'altération par l'eau de Javel.
 
@@ -54,15 +53,15 @@ Les équipements et matériels en inox doivent être ensuite rincés sous peine 
 Elle s'effectue après la décontamination par l'eau de Javel.  
 Elle doit respecter les normes.
 
-*   **La stérilisation par la vapeur d'eau** est la méthode de choix. Autoclavage 15 minutes à 121° C.  
-*   **La stérilisation par la chaleur sèche** est employée pour le matériel thermorésistant risquant d'être détérioré en présence de vapeur d'eau ou si l'on ne dispose pas d'autoclave. Poupinel, une heure à 180° C.
+- **La stérilisation par la vapeur d'eau** est la méthode de choix. Autoclavage 15 minutes à 121° C.
+- **La stérilisation par la chaleur sèche** est employée pour le matériel thermorésistant risquant d'être détérioré en présence de vapeur d'eau ou si l'on ne dispose pas d'autoclave. Poupinel, une heure à 180° C.
 
 ### 3. Elimination des déchets de soins
 
 Elle doit être faite de façon rationnelle pour :
 
-*   Eviter la transmission des infections et les blessures au personnel qui manipule les déchets.  
-*   Eviter la transmission des infections à la communauté locale.
+- Eviter la transmission des infections et les blessures au personnel qui manipule les déchets.
+- Eviter la transmission des infections à la communauté locale.
 
 **Déchets liquides**  
 Ils seront décontaminés par addition d'eau de Javel puis évacués dans des toilettes où des latrines selon les possibilités.
@@ -75,14 +74,12 @@ Dans le cas contraire, ils devront être fabriqués avec les moyens du bord, sel
 Dans tous les cas, ces récipients ne devront être remplis qu'aux 2/3 de leur capacité. Ils devront être placés tout près des utilisateurs afin que ceux-ci ne se déplacent pas avec ces objets dangereux, potentiellement contaminés, dans les mains.  
 Tous les déchets solides devront ensuite être éliminés par enfouissement ou mieux incinération, selon les moyens disponibles.
 
-_Se reporter aux normes OMS, applicables aux différentes structures de soins :  
-"Gestion des déchets d'activité de soins solides dans les centres de soins de santé primaires. Guide d'aide â la décision. OMS Genève 2005."_  
+*Se reporter aux normes OMS, applicables aux différentes structures de soins :  
+"Gestion des déchets d'activité de soins solides dans les centres de soins de santé primaires. Guide d'aide â la décision. OMS Genève 2005."*  
 .whqlibdoc.who.int/publications/2005/9242592749_free.pdf
 
 Le maintien d'une hygiène rigoureuse en maternité est l'affaire de TOUS, soignants, personnels techniques, personnels d'entretien. Seule une évaluation rigoureuse régulière des infections permettra de comprendre les failles du système, de trouver des solutions et ainsi de faire diminuer la mortalité périnatale.
 
-
 ![](13189-1.jpg)
-
 
 Développement et Santé, n°197/198, 2010

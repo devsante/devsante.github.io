@@ -9,8 +9,8 @@ Solidarité Thérapeutique & Initiatives contre le SIDA
 
 Le schéma courant se fait sur 6 mois (se référer au tableau pour le détail des molécules) :
 
-*   une **phase initiale** de 2 mois de quadrithérapie RHZE notée **2RHZE** puis,
-*   une **phase d'entretien** de 4 mois de trithérapie RHE notée **4RHE**.
+- une **phase initiale** de 2 mois de quadrithérapie RHZE notée **2RHZE** puis,
+- une **phase d'entretien** de 4 mois de trithérapie RHE notée **4RHE**.
 
 Le traitement se prend en une prise par jour, de préférence le matin à jeûn, au minimum 1/2 h avant le repas. Pour un poids moyen de 45 kg à 60 kg, il faut 3 comprimés de RHZE, pour un poids de 60 kg à 75 kg, il faut 4 comprimés.
 
@@ -195,7 +195,8 @@ Streptomycine
 
 </table>
 
-<table>
+\$1<table>
+
 <caption>Antituberculeux en combinaisons à doses fixes (CDF)</caption>
 
 <thead>
@@ -294,8 +295,8 @@ Une interaction importante entre la rifampicine et la névirapine oblige à ne p
 
 Deux solutions sont envisageables :
 
-*   Si le patient n'a pas encore commencé son traitement ARV et que son taux de CD4 1e permet, le médecin peut décaler le traitement ARV après la fin du traitement.  
-*   Si le médecin choisit de traiter les 2 pathologies en même temps, il devra donc substituer la NVP par l'EFV. La stratégie de référence en première ligne est donc la suivante : ZDV + 3TC + EFV.
+- Si le patient n'a pas encore commencé son traitement ARV et que son taux de CD4 1e permet, le médecin peut décaler le traitement ARV après la fin du traitement.
+- Si le médecin choisit de traiter les 2 pathologies en même temps, il devra donc substituer la NVP par l'EFV. La stratégie de référence en première ligne est donc la suivante : ZDV + 3TC + EFV.
 
 **Schéma de trithérapie préférentiel en cas de traitement simultané ARV/ATB (2RHZE + 4RHE).**
 
@@ -402,4 +403,4 @@ Somnolence, vertiges
 
 </table>
 
-_Développement et Santé, n°190, 2008_
+*Développement et Santé, n°190, 2008*

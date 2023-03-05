@@ -12,21 +12,21 @@ Au cours du suivi, 166 955 participants ont développé l'un de ces 22 cancers.
 
 L’analyse montre que :
 
-*   L’IMC est associé à 17 des 22 types de cancer les plus courants,
-*   Chaque augmentation de l’IMC de 5 kg / m² est liée à un risque accru de survenue des cancers suivants :
-    *   utérus : + 62 %
-    *   vésicule biliaire : + 31 %
-    *   rein : + 25 %
-    *   col de l'utérus : + 10 %
-    *   thyroïde : + 9 %
-    *   leucémie : + 9%
-*   Un IMC élevé (> 25) augmente le risque global de survenue des cancers suivants :
-    *   foie : + 19 %
-    *   côlon : + 10 %
-    *   l'ovaire : + 9 %
-    *   sein : + 5 % 
+- L’IMC est associé à 17 des 22 types de cancer les plus courants,
+- Chaque augmentation de l’IMC de 5 kg / m² est liée à un risque accru de survenue des cancers suivants :
+  - utérus : + 62 %
+  - vésicule biliaire : + 31 %
+  - rein : + 25 %
+  - col de l'utérus : + 10 %
+  - thyroïde : + 9 %
+  - leucémie : + 9%
+- Un IMC élevé (> 25) augmente le risque global de survenue des cancers suivants :
+  - foie : + 19 %
+  - côlon : + 10 %
+  - l'ovaire : + 9 %
+  - sein : + 5 % 
 
 Pour une fois, ni les auteurs, ni les experts n’appellent au lancement d’études supplémentaires sur les effets néfastes de l’obésité, mais à de nouvelles initiatives de santé encourageant à la réduction de l'apport calorique ou à l'augmentation de l'activité physique.Par Jean-Lup, Reyx, médecin, santé publique
 
-_Référence  
-Body-mass index and risk of 22 specific cancers: a population-based cohort study of 5·24 million UK adults. The Lancet 14 August 2014 : 6736(14)_
+*Référence  
+Body-mass index and risk of 22 specific cancers: a population-based cohort study of 5·24 million UK adults. The Lancet 14 August 2014 : 6736(14)*

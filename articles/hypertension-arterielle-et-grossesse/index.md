@@ -12,9 +12,9 @@ Une HTA se définit par une pression artérielle systolique (PAS) supérieure à
 
 On distingue plusieurs formes cliniques :
 
-*   _L'HTA gravidique,_ apparaissant après la 20<sup>e</sup> semaine d'aménorrhée chez une femme primipare.  
-*   _L'HTA chronique ou permanente_ connue avant la grossesse ou apparaissant avant la 20<sup>ème</sup> semaine d'aménorrhée et indépendante du rang de la grossesse.  
-*   _La pré-éclampsie,_ associant une HTA sévère (PAS > 160 mm Hg et/ou PAD > 110 mm Hg) et une protéinurie (0,30 g/l ou 0,50 g/24 h) ou une HTA modérée (PAS >140 mm Hg) une protéinurie et l'un des facteurs suivants : barre épigastrique, hyperréflectivité ostéotendineuse, céphalées, troubles visuels, thrombopénie, hyperuricémie et cytolyse hépatique.
+- *L'HTA gravidique,* apparaissant après la 20<sup>e</sup> semaine d'aménorrhée chez une femme primipare.
+- *L'HTA chronique ou permanente* connue avant la grossesse ou apparaissant avant la 20<sup>ème</sup> semaine d'aménorrhée et indépendante du rang de la grossesse.
+- *La pré-éclampsie,* associant une HTA sévère (PAS > 160 mm Hg et/ou PAD > 110 mm Hg) et une protéinurie (0,30 g/l ou 0,50 g/24 h) ou une HTA modérée (PAS >140 mm Hg) une protéinurie et l'un des facteurs suivants : barre épigastrique, hyperréflectivité ostéotendineuse, céphalées, troubles visuels, thrombopénie, hyperuricémie et cytolyse hépatique.
 
 ## II. Épidémiologie
 
@@ -24,13 +24,13 @@ L'hypertension artérielle est la complication la plus fréquente de la grossess
 
 La grossesse toxémique se caractérise par une ischémie placentaire responsable d'une altération des cellules de l'endothélium vasculaire. Ceci a trois conséquences :
 
-*   une sensibilisation accrue des vaisseaux aux substances vasoconstrictives,
-*   une activation de la coagulation et de l'agrégation plaquettaire,
-*   et une altération de la paroi capillaire responsable d'une fuite de liquide et de protéines.
+- une sensibilisation accrue des vaisseaux aux substances vasoconstrictives,
+- une activation de la coagulation et de l'agrégation plaquettaire,
+- et une altération de la paroi capillaire responsable d'une fuite de liquide et de protéines.
 
 Il existe une augmentation des résistances vasculaires et une hypovolémie relative liée à une redistribution des liquides vers le secteur interstitiel. C'est donc une maladie générale qui débute dès la placentation et qui peut atteindre tous les organes maternels et retentir également sur le fœtus.
 
-## **IV. Conduite à tenir** devant une HTA **modérée**
+## IV. Conduite à tenir devant une HTA modérée
 
 ### 1. HTA connue
 
@@ -48,8 +48,8 @@ Le **bilan initial** comprend : protéinurie (bandelette urinaire), numération 
 
 Le **traitement** associe :
 
-*   _Des mesures hygiéno-diététiques_ avec arrêt de travail complet et repos au lit en décubitus latéral gauche plusieurs heures par jour, et un régime normo-sodé.  
-*   _Un traitement médicamenteux_ avec l'introduction progressive de l'Aldomet® 250 : 2 à 6 cp/j, que l'on peut associer à un ß-bloquant (labétalol : 1 à 3 cp/j, aténolol : 1/2 cp à 2 cp/j) quand il existe une composante sympathique importante, et un inhibiteur calcique (nicardipine LP 1 à 2 cp/j) quand il existe une contre-indication aux bêta-bloquants (un asthme, un diabète ou un utérus contractile). La surveillance tous les 15 jours permet d'adapter le traitement de façon progressive avec d'abord une monothérapie puis une bithérapie (ne pas associer deux bêta-bloquants).
+- *Des mesures hygiéno-diététiques* avec arrêt de travail complet et repos au lit en décubitus latéral gauche plusieurs heures par jour, et un régime normo-sodé.
+- *Un traitement médicamenteux* avec l'introduction progressive de l'Aldomet® 250 : 2 à 6 cp/j, que l'on peut associer à un ß-bloquant (labétalol : 1 à 3 cp/j, aténolol : 1/2 cp à 2 cp/j) quand il existe une composante sympathique importante, et un inhibiteur calcique (nicardipine LP 1 à 2 cp/j) quand il existe une contre-indication aux bêta-bloquants (un asthme, un diabète ou un utérus contractile). La surveillance tous les 15 jours permet d'adapter le traitement de façon progressive avec d'abord une monothérapie puis une bithérapie (ne pas associer deux bêta-bloquants).
 
 Si l'HTA persiste, il faut hospitaliser la patiente mais à l'opposé, il ne faut pas baisser la PA au-delà de 140/85.
 
@@ -59,11 +59,11 @@ Elle associe un bilan maternel tous les 15 jours et un bilan foetal tous les moi
 
 #### c) Exemples de critères d'hospitalisation
 
-*   PA systolique >160 mmHg et/ou PA diastolique > 111 mmHg sous traitement ;
-*   signes fonctionnels neurologiques (céphalées, somnolence, ROT vifs), visuels (amaurose), digestifs (vomissements, barre épigastrique) ;
-*   apparition brutale d'œdèmes (surtout de la face et des doigts) et prise de poids rapide ;
-*   protéinurie (> 3 g/24 h ou +++ à la bandelette) ;
-*   métrorragies.
+- PA systolique >160 mmHg et/ou PA diastolique > 111 mmHg sous traitement ;
+- signes fonctionnels neurologiques (céphalées, somnolence, ROT vifs), visuels (amaurose), digestifs (vomissements, barre épigastrique) ;
+- apparition brutale d'œdèmes (surtout de la face et des doigts) et prise de poids rapide ;
+- protéinurie (> 3 g/24 h ou +++ à la bandelette) ;
+- métrorragies.
 
 #### d) Surveillance après l'accouchement
 
@@ -81,7 +81,7 @@ La population à risque de pré-éclampsie est représentée par les femmes pré
 
 La prévention est difficile et décevante. L'indication de l'aspirine préventive (100 mg/j supérieurs ou égal à 14 SA), est prouvée en cas d'antécédents de complication maternelle ou foetale ou d'une pré-éclampsie.
 
-## V. Conduite à tenir devant **une HTA sévère**
+## V. Conduite à tenir devant une HTA sévère
 
 C'est une urgence de la 2e moitié de la grossesse. Le traitement maternel vise à éviter les complications (en particulier la crise d'éclampsie), il est symptomatique. La prise en charge est multidisciplinaire (obstétricien, pédiatre, anesthésiste-réanimateur). La guérison ne peut être apportée que par l'accouchement.
 
@@ -97,7 +97,7 @@ Sur le plan biologique, on surveille l'uricémie (gravité si augmentation rapid
 
 #### b) Le bilan foetal recherche une souffrance foetale
 
-Il repose sur l'examen clinique et l'échographie (courbe de croissance, mobilité foetale, poids, quantité de liquide amniotique et localisation du placenta avec la recherche d'un décollement). Il recherche des signes de souffrance foetale chronique _(voir tableau n°_ 1).
+Il repose sur l'examen clinique et l'échographie (courbe de croissance, mobilité foetale, poids, quantité de liquide amniotique et localisation du placenta avec la recherche d'un décollement). Il recherche des signes de souffrance foetale chronique *(voir tableau n°* 1).
 
 ### 2. Traitement
 
@@ -109,16 +109,16 @@ Dans un délai de quelques heures pour un sauvetage maternel devant une éclamps
 
 La baisse de la pression artérielle doit être progressive pour préserver une perfusion viscérale et placentaire satisfaisante. Les bases du traitement sont l'administration d'anti-hypertenseurs et la correction volémique.
 
-_Le traitement anti-hypertenseur_ vise à conserver une PAD entre 90 et 105 mmHg, ou une pression artérielle moyenne (PAM) entre 105 et 125 mmHg [8].
+*Le traitement anti-hypertenseur* vise à conserver une PAD entre 90 et 105 mmHg, ou une pression artérielle moyenne (PAM) entre 105 et 125 mmHg \[8\].
 
 Souvent, les anti-hypertenseurs sont utilisés en association.
 
-*   L'alphaméthyldopareste le traitement standard de la toxémie modérée.  
-*   L'hydralazine, après un bolus test de 5 mg puis des bolus 5-10 mg toutes les 30 min si nécessaire, répétés toutes les 20 min, jusqu'à une dose totale de 20 mg, le relais est assuré par une perfusion IV continue de 3 à 5 mg/h. Il existe des échappements au traitement et des effets secondaires maternels qui peuvent nécessiter son interruption (tachycardie, céphalée, nausées).  
-*   Le labétalol (alpha et bêta bloquant) est administré en bolus lent 50 mg IV puis en perfusion IV à la dose de 10-20 mg/h.  
-*   La nicardipine (inhibiteur calcique) est proposée soit en bolus de 1 mg IVD, soit en traitement de fond 1-2 mg/h.
+- L'alphaméthyldopareste le traitement standard de la toxémie modérée.
+- L'hydralazine, après un bolus test de 5 mg puis des bolus 5-10 mg toutes les 30 min si nécessaire, répétés toutes les 20 min, jusqu'à une dose totale de 20 mg, le relais est assuré par une perfusion IV continue de 3 à 5 mg/h. Il existe des échappements au traitement et des effets secondaires maternels qui peuvent nécessiter son interruption (tachycardie, céphalée, nausées).
+- Le labétalol (alpha et bêta bloquant) est administré en bolus lent 50 mg IV puis en perfusion IV à la dose de 10-20 mg/h.
+- La nicardipine (inhibiteur calcique) est proposée soit en bolus de 1 mg IVD, soit en traitement de fond 1-2 mg/h.
 
-_L'expansion volémique_ ne semble pas donner de meilleurs résultats maternels et/ou foetaux qu'un traitement n'en comportant pas.
+*L'expansion volémique* ne semble pas donner de meilleurs résultats maternels et/ou foetaux qu'un traitement n'en comportant pas.
 
 Les diurétiques sont contre-indiqués.
 
@@ -126,7 +126,7 @@ Les diurétiques sont contre-indiqués.
 
 #### a) L'éclampsie
 
-L'éclampsie reste une complication redoutée. Elle se définit comme la survenue d'une ou plusieurs crises convulsives chez une patiente toxémique. Les crises surviennent en _ante-partum_ (38 %) des cas, pendant le travail (18 %) ou en _post-partum_ (44 %) jusqu'au 7<sup>e</sup> jour. Elle est plus grave pour la mère lorsqu'elle survient en _ante-partum_ et/ou avant terme.
+L'éclampsie reste une complication redoutée. Elle se définit comme la survenue d'une ou plusieurs crises convulsives chez une patiente toxémique. Les crises surviennent en *ante-partum* (38 %) des cas, pendant le travail (18 %) ou en *post-partum* (44 %) jusqu'au 7<sup>e</sup> jour. Elle est plus grave pour la mère lorsqu'elle survient en *ante-partum* et/ou avant terme.
 
 L'éclampsie peut être l'épisode inaugural de la maladie toxémique ou précédée de prodromes : céphalées 80 %, troubles visuels 40 %, anomalies du comportement. Il y a un risque immédiat vital et fonctionnel++.
 
@@ -134,10 +134,10 @@ L'éclampsie peut être l'épisode inaugural de la maladie toxémique ou précé
 
 Une prise en charge multidisciplinaire vise à :
 
-*   assurer la liberté des voies aériennes,
-*   faire céder les convulsions,
-*   faire baisser la pression artérielle en conservant une PAM à 80 mmHg,
-*   provoquer l'accouchement (césarienne sauf multipare à terme avec col favorable).
+- assurer la liberté des voies aériennes,
+- faire céder les convulsions,
+- faire baisser la pression artérielle en conservant une PAM à 80 mmHg,
+- provoquer l'accouchement (césarienne sauf multipare à terme avec col favorable).
 
 Il faut prévenir l'hypotension artérielle trop brutale.
 
@@ -145,38 +145,38 @@ La **réanimation** comprend la stabilisation de la PA, l'expansion volémique p
 
 Les **médicaments** associent :
 
-*   Les anti-hypertenseurs : dihydralazine (perfusion continue 2-4 amp/j 3/5 mg/h), labétalol (perfusion continue 1-4 amp/j = 1020 mg/h), nicardipine (perfusion continue 2-4 amp/j) ;
-*   Les anti-convulsivants :
-    *   Diazépam 10 mg IV bolus avec relais par la phénytoïne 15 mg/kg IV en bolus et 2 h plus tard  5 mg/kg puis 300 mg/12 h ou 200 mg x 2 _per os_ pendant 48 h.  
-    *   Clonazépam 2 mg IV bolus puis perfusion 6-12 mg/j.  
-    *   Sulfate de magnésie 20 % : bolus IV lente 4 g en 20 min, puis perfusion IV 2 g/h.
+- Les anti-hypertenseurs : dihydralazine (perfusion continue 2-4 amp/j 3/5 mg/h), labétalol (perfusion continue 1-4 amp/j = 1020 mg/h), nicardipine (perfusion continue 2-4 amp/j) ;
+- Les anti-convulsivants :
+  - Diazépam 10 mg IV bolus avec relais par la phénytoïne 15 mg/kg IV en bolus et 2 h plus tard  5 mg/kg puis 300 mg/12 h ou 200 mg x 2 *per os* pendant 48 h.
+  - Clonazépam 2 mg IV bolus puis perfusion 6-12 mg/j.
+  - Sulfate de magnésie 20 % : bolus IV lente 4 g en 20 min, puis perfusion IV 2 g/h.
 
-En _post-partum,_ le risque majeur dans les trois premiers jours est l'aggravation de l'HTA (défaillance cardiaque, OAP, éclampsie) par augmentation de la volémie.
+En *post-partum,* le risque majeur dans les trois premiers jours est l'aggravation de l'HTA (défaillance cardiaque, OAP, éclampsie) par augmentation de la volémie.
 
-Le traitement : associe repos, rééquilibration du bilan hydrique (furosémide : 1-2 amp IV si oedèmes) avec limitation des apports liquidiens ; le maintien des anti-hypertenseurs en perfusion pendant 24 h jusqu'à stabilisation de la PA : nicardipine (vasodilatateur++) ou labétalol, avec un relais _per os_ ensuite alphaméthyldopa, labétalol. Les anti-convulsivants sont à maintenir au cas par cas.
+Le traitement : associe repos, rééquilibration du bilan hydrique (furosémide : 1-2 amp IV si oedèmes) avec limitation des apports liquidiens ; le maintien des anti-hypertenseurs en perfusion pendant 24 h jusqu'à stabilisation de la PA : nicardipine (vasodilatateur++) ou labétalol, avec un relais *per os* ensuite alphaméthyldopa, labétalol. Les anti-convulsivants sont à maintenir au cas par cas.
 
 #### b) Les complications hépatiques
 
 Trois types d'atteinte hépatique clinique sont associés à la toxémie gravidique :
 
-*   le HELLP syndrome,
-*   la stéatose hépatique aiguë gravidique (SHAG) et
-*   l'hématome sous-capsulaire du foie, ce dernier pouvant être associé au HELLP syndrome ou à la SHAG.
+- le HELLP syndrome,
+- la stéatose hépatique aiguë gravidique (SHAG) et
+- l'hématome sous-capsulaire du foie, ce dernier pouvant être associé au HELLP syndrome ou à la SHAG.
 
 Comme l'éclampsie, le HELLP syndrome, la SHAG et, plus rarement, l'hématome sous-capsulaire du foie peuvent être révélateurs de la toxémie.
 
-_**HELLP syndrome**._ Il est caractérisé par une hémolyse (H), une élévation des enzymes hépatiques (EL = _elevoted liver enzymes_) et une thrombopénie (LP = _low platelet count)_ survenant chez une patiente toxémique.  
+***HELLP syndrome**.* Il est caractérisé par une hémolyse (H), une élévation des enzymes hépatiques (EL = *elevoted liver enzymes*) et une thrombopénie (LP = *low platelet count)* survenant chez une patiente toxémique.  
 Parmi les signes cliniques, il faut insister sur la douleur (épigastrique, de l'hypocondre droit ou de l'épaule droite) chez 70 % des patientes et la survenue de nausées ou vomissements dans 36 % des cas, les autres signes cliniques sont ceux de la série toxémique (céphalée, phosphènes). Il existe une incidence élevée de complications maternelles, en particulier des insuffisances rénales aiguës (IRA) par nécrose tubulaire, nécessitant une épuration extrarénale transitoire, des hématomes rétroplacentaires, des hémorragies, des OAP, des épanchements pleuraux...
 
-**_Stéatose hépatique aiguë gravidique_** _**(SHAG)**._ C'est une complication très rare de la grossesse, survenant le plus souvent dans le troisième trimestre. Les signes cliniques sont peu spécifiques, associant nausées, vomissements, pyrosis, fatigue intense et douleur épigastrique. L'évolution spontanée se fait vers l'insuffisance hépatocellulaire et les patientes décèdent d'hémorragie et de défaillance multiorganique, dans un tableau de coma hépatique. Le traitement est l'interruption de grossesse, associée à une correction symptomatique des désordres biologiques.
+***Stéatose hépatique aiguë gravidique*** ***(SHAG)**.* C'est une complication très rare de la grossesse, survenant le plus souvent dans le troisième trimestre. Les signes cliniques sont peu spécifiques, associant nausées, vomissements, pyrosis, fatigue intense et douleur épigastrique. L'évolution spontanée se fait vers l'insuffisance hépatocellulaire et les patientes décèdent d'hémorragie et de défaillance multiorganique, dans un tableau de coma hépatique. Le traitement est l'interruption de grossesse, associée à une correction symptomatique des désordres biologiques.
 
-_**Hématome sous-capsulaire du foie (HSC)**._ C'est une complication rare de la toxémie gravidique sévère et plus particulièrement du HELLP syndrome. Le risque est la rupture hépatique. Devant un HSC non rompu, la terminaison rapide de la grossesse par césarienne est proposée.
+***Hématome sous-capsulaire du foie (HSC)**.* C'est une complication rare de la toxémie gravidique sévère et plus particulièrement du HELLP syndrome. Le risque est la rupture hépatique. Devant un HSC non rompu, la terminaison rapide de la grossesse par césarienne est proposée.
 
 ## VI. Implications anesthésiques
 
 La patiente toxémique sévère est, comme nous venons de l'exposer, hypertendue, hypovolémique et susceptible de présenter des troubles de coagulation.
 
-L'anesthésiste-réanimateur doit bien connaître cette pathologie car il y est confronté, soit en _pré-partum_, soit dans le _post-partum_ : éclampsie tardive, OAP...
+L'anesthésiste-réanimateur doit bien connaître cette pathologie car il y est confronté, soit en *pré-partum*, soit dans le *post-partum* : éclampsie tardive, OAP...
 
 Deux situations sont à considérer, l'analgésie pour le travail et l'anesthésie pour césarienne.
 
@@ -204,10 +204,8 @@ La toxémie reste une maladie grave pour la mère et l'enfant nécessitant une p
 
 Le traitement est symptomatique visant à éviter les complications maternelles et le retentissement foetal.
 
-Source majeure de mortalité, pouvant aussi bien intervenir en _pré_-, _per_- et _post partum_, son étiologie reste encore largement inconnue, rendant sa prévention difficile.
-
+Source majeure de mortalité, pouvant aussi bien intervenir en *pré*-, *per*- et *post partum*, son étiologie reste encore largement inconnue, rendant sa prévention difficile.
 
 ![](i869-1.jpg)
 
-
-_Développement et Santé, n° 145, février 2000_
+*Développement et Santé, n° 145, février 2000*

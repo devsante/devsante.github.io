@@ -4,7 +4,8 @@ author: "Par Emmanuelle Hamel(1), Emmanuelle Chazal(2), Pr. Rémi Gagnayre(1) (1
 date: "2007-11-12"
 ---
 
-## I. Intérêts et spécificités d'une démarche qualité  
+## I. Intérêts et spécificités d'une démarche qualité
+
 dans le domaine de l'éducation thérapeutique du patient
 
 La mise en place de programmes d'accès aux antirétroviraux engagés depuis une dizaine d'années dans les pays du sud s'est accompagnée du développement d'activités en direction des patients, destinées notamment à favoriser l'observance des traitements. Pour de multiples motifs dépendants largement du contexte d'intervention, la recherche de l'amélioration de la qualité de ces interventions et des pratiques professionnelles constitue un objectif largement partagé par les organismes et les professionnels qui interviennent sur le terrain.
@@ -15,14 +16,15 @@ Alors que les démarches de type assurance qualité, banalisées dans l'industri
 
 Pour les acteurs concernés, un des intérêts majeurs de la démarche qualité réside dans le fait qu'elle se révèle par essence formative. En effet, elle a pour objectif de "permettre des ajustements permanents, immédiats et utiles au programme en cours". Elle est centrée sur les processus et orientée vers l'amélioration.
 
-## II. Contribution à une démarche d'évaluation  
+## II. Contribution à une démarche d'évaluation
+
 formative des programmes d'ETP de Médecins Sans Frontières
 
 S'inscrivant dans cette perspective d'approche qualité, le projet développé avec le département médical de Médecins Sans Frontières concerne ses programmes d'accès aux ARV (antirétroviraux) qui comportent systématiquement des activités destinées à favoriser l'observance thérapeutique des patients. Il vise à déterminer des critères de qualité conformes aux principes et au cadre d'intervention de l'association et à fournir aux équipes de terrain un outil synthétique et facile d'utilisation pour porter un regard distancié sur leurs pratiques afin de les ajuster si besoin.
 
 ### 1. Le choix d'une démarche formative
 
-L'enjeu formatif occupe une place centrale dans le projet car il s'agit pour MSF de permettre aux professionnels eux-mêmes d'identifier des pistes d'amélioration et de renforcer l'acquisition de compétences. Cette approche formative intègre donc une dimension d'auto-évaluation. Selon A. Bandura (5), * Note de l'éditeur : Albert Bandura insiste sur la confiance en soi comme fondement de toute motivation et de toute réussite à travers le concept de sentiment d'efficacité personnelle. Cette dernière est renforcée par l'apprentissage vicariant dans lequel la personne apprend à partir de l'observation du savoir faire d'autrui. Un ouvrage récent est disponible sur ce sujet : L'auto efficacité, éditions De Boeck-Wesmael, 2007.
+L'enjeu formatif occupe une place centrale dans le projet car il s'agit pour MSF de permettre aux professionnels eux-mêmes d'identifier des pistes d'amélioration et de renforcer l'acquisition de compétences. Cette approche formative intègre donc une dimension d'auto-évaluation. Selon A. Bandura (5), \* Note de l'éditeur : Albert Bandura insiste sur la confiance en soi comme fondement de toute motivation et de toute réussite à travers le concept de sentiment d'efficacité personnelle. Cette dernière est renforcée par l'apprentissage vicariant dans lequel la personne apprend à partir de l'observation du savoir faire d'autrui. Un ouvrage récent est disponible sur ce sujet : L'auto efficacité, éditions De Boeck-Wesmael, 2007.
 
 Cette démarche inclut trois dimensions : l'auto-observation, l'auto-jugement et la réaction individuelle à l'auto-évaluation. Dans le cadre du projet présenté, l'évaluation globale n'est pas conçue comme une évaluation externe, elle doit pouvoir être réalisée par les équipes de terrain elles-mêmes. De plus, l'auto-évaluation des pratiques, individuelles et collectives, est prévue : par exemple, des grilles d'autoobservation de séances individuelles ou collectives d'éducation thérapeutique sont mises à disposition des professionnels qui les assurent.
 
@@ -38,13 +40,13 @@ Il convient de rappeler que ces huit critères correspondent spécifiquement aux
 
 ### 3. L'élaboration d'un outil permettant l'évaluation formative
 
-A partir des critères et des indicateurs sélectionnés, un outil a été formalisé. Il s'agit d'un ensemble de documents constituant les supports à utiliser pour réaliser l'évaluation (disponible sur le site [http://educ.sida.free.fr](http://educ.sida.free.fr/)). L'outil peut être utilisé par un évaluateur extérieur (référent du siège, coordinateur de terrain...) ou en autoévaluation par les équipes elles mêmes, ce qui implique d'identifier un responsable de l'évaluation et de prévoir des entretiens et des réunions d'équipe.
+A partir des critères et des indicateurs sélectionnés, un outil a été formalisé. Il s'agit d'un ensemble de documents constituant les supports à utiliser pour réaliser l'évaluation (disponible sur le site [<http://educ.sida.free.fr>](http://educ.sida.free.fr/)). L'outil peut être utilisé par un évaluateur extérieur (référent du siège, coordinateur de terrain...) ou en autoévaluation par les équipes elles mêmes, ce qui implique d'identifier un responsable de l'évaluation et de prévoir des entretiens et des réunions d'équipe.
 
 **Cet outil comprend un "questionnaire" d'une quinzaine de pages, incluant :**
 
-*   la présentation du contexte, des objectifs de l'évaluation et des principes d'élaboration de l'outil,
-*   la liste des 8 critères avec l'explication de l'intention de la collecte de données correspondant à chacun d'eux _(voir tableau ci-après),_
-*   une fiche par critère soit 8 fiches, comprenant chacune des questions le plus souvent fermées, avec des réponses préétablies à cocher sous forme oui/non ou de choix multiples. Certaines données sont recueillies au moyen de tableaux ou d'échelles. Les sources et les modalités possibles de recueil des données sont précisées, par exemple : entretiens, observations, échantillons de dossiers, recensement des outils utilisés... A la fin de chaque fiche, figure une rubrique "propositions/actions envisagées" qui permet de noter, à partir des données recueillies, les actions envisagées pour améliorer la réponse au critère correspondant. une fiche de synthèse permettant pour chacun des critères de récapituler les actions à engager, leur degré de priorité, les besoins en termes de moyens, la désignation d'un responsable et le calendrier prévisionnel.
+- la présentation du contexte, des objectifs de l'évaluation et des principes d'élaboration de l'outil,
+- la liste des 8 critères avec l'explication de l'intention de la collecte de données correspondant à chacun d'eux *(voir tableau ci-après),*
+- une fiche par critère soit 8 fiches, comprenant chacune des questions le plus souvent fermées, avec des réponses préétablies à cocher sous forme oui/non ou de choix multiples. Certaines données sont recueillies au moyen de tableaux ou d'échelles. Les sources et les modalités possibles de recueil des données sont précisées, par exemple : entretiens, observations, échantillons de dossiers, recensement des outils utilisés... A la fin de chaque fiche, figure une rubrique "propositions/actions envisagées" qui permet de noter, à partir des données recueillies, les actions envisagées pour améliorer la réponse au critère correspondant. une fiche de synthèse permettant pour chacun des critères de récapituler les actions à engager, leur degré de priorité, les besoins en termes de moyens, la désignation d'un responsable et le calendrier prévisionnel.
 
 **Des documents complémentaires pour faciliter le recueil des données** : deux grilles d'observation des activités menées auprès des patients (entretien individuel et collectif) et un support d'entretien présenté ci-après ("7 différences").
 
@@ -182,21 +184,17 @@ L'outil élaboré a fait l'objet d'un prétest sur un site de mission de MSF en 
 
 Cependant, si la participation des professionnels peut être effectivement mobilisée grâce à la démarche retenue et à l'outil élaboré, celle des patients reste insuffisamment sollicitée, notamment parce qu'elle nécessite de concevoir des techniques et des outils adaptés. Ceci représente l'enjeu essentiel à prendre en compte dans les approches futures.
 
-
 ![](i1096-1.jpg)
-
-
 
 ![](i1096-2.jpg)
 
-
 **Bibliographie**
 
-1. La plupart des travaux ne retiennent généralement qu'un nombre limité de dimensions parmi celles citées. D'autres éléments peuvent être pris en compte tels que le développement des compétences des patients, l'amélioration de la qualité de vie, et parfois la satisfaction des patients. Pour une approche particulièrement complète, cf. Marchand C, Himmich H, Maaroufi A, Sohier N, Chambon JF, Gagnayre R. Mise en œuure et évaluation d'un programme d'éducation thérapeutique (2000-2001) pour les patients atteints du VIH à Casablanca, au Maroc. Cahiers santé ; 15(2) :1-8, 2005.  
-2. Des travaux récents s'engagent toutefois dans cette direction. Cf notamment Fournier C, Jullien-Narboux S, Pélicand J, Vincent I. Modèles sous jacents à l'éducation des patients, enquête dans différents types de structures accueillant des patients diabétiques de type 2. INPES/Euolutions ; 5, 2007.  
-3. Deccache A. Evaluer la qualité et l'efficacité de la promotion de la santé : approches et méthodes de santé publique et de sciences humaines. Promotion & Education ; 4: 10-14, 1997.  
-4. Pour plus d'information sur les programmes d'accès aux ARV mis en place par Médecins Sans Frontières, cf. article d'Emmanuelle Chazal dans le présent numéro.  
-5. Bandura A. Self efficacy : towards a unifiying theory of beahuioral change. Psychological Reuiew ; 84 : 191-215, 1977.  
-6. Gagnayre R, (d')Iuernois J-F. Apprendre à éduquer le patient : approche pédagogique. 2' ed. Paris : Maloine ; 2004.
+1.  La plupart des travaux ne retiennent généralement qu'un nombre limité de dimensions parmi celles citées. D'autres éléments peuvent être pris en compte tels que le développement des compétences des patients, l'amélioration de la qualité de vie, et parfois la satisfaction des patients. Pour une approche particulièrement complète, cf. Marchand C, Himmich H, Maaroufi A, Sohier N, Chambon JF, Gagnayre R. Mise en œuure et évaluation d'un programme d'éducation thérapeutique (2000-2001) pour les patients atteints du VIH à Casablanca, au Maroc. Cahiers santé ; 15(2) :1-8, 2005.
+2.  Des travaux récents s'engagent toutefois dans cette direction. Cf notamment Fournier C, Jullien-Narboux S, Pélicand J, Vincent I. Modèles sous jacents à l'éducation des patients, enquête dans différents types de structures accueillant des patients diabétiques de type 2. INPES/Euolutions ; 5, 2007.
+3.  Deccache A. Evaluer la qualité et l'efficacité de la promotion de la santé : approches et méthodes de santé publique et de sciences humaines. Promotion & Education ; 4: 10-14, 1997.
+4.  Pour plus d'information sur les programmes d'accès aux ARV mis en place par Médecins Sans Frontières, cf. article d'Emmanuelle Chazal dans le présent numéro.
+5.  Bandura A. Self efficacy : towards a unifiying theory of beahuioral change. Psychological Reuiew ; 84 : 191-215, 1977.
+6.  Gagnayre R, (d')Iuernois J-F. Apprendre à éduquer le patient : approche pédagogique. 2' ed. Paris : Maloine ; 2004.
 
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

@@ -19,22 +19,20 @@ A côté de ces éléments constants, la cellule bactérienne peut posséder d�
 ## II. Mode d’action et classification des antibiotiques
 
 Les antibiotiques utilisés en médecine sont fabriqués à partir de cultures de micro-organismes ou sont des produits de synthèse. Ils réduisent ou bloquent  la multiplication des bactéries.  
-Le premier d’entre eux (la [pénicilline](http://www.futura-sciences.com/magazines/sante/infos/dico/d/medecine-penicilline-4304/)) a été découvert en 1928 par [Alexander Fleming](http://www.futura-sciences.com/magazines/sante/infos/personnalites/d/medecine-alexander-fleming-503/), par hasard, chez le champignon _Penicillium glaucum_, et utilisé à partir des années 1940.  
+Le premier d’entre eux (la [pénicilline](http://www.futura-sciences.com/magazines/sante/infos/dico/d/medecine-penicilline-4304/)) a été découvert en 1928 par [Alexander Fleming](http://www.futura-sciences.com/magazines/sante/infos/personnalites/d/medecine-alexander-fleming-503/), par hasard, chez le champignon *Penicillium glaucum*, et utilisé à partir des années 1940.  
 Depuis cette date, de nombreux antibiotiques ont été découverts. Ils sont classés en familles selon leurs modes d’action ou leur structure moléculaire.
 
 **Figure 1. Cellule bactérienne et modes d'action des antibiotiques**
 
-
 ![](antibiotique-fig-1.jpg)
-
 
 Il existe deux grandes catégories d’antibiotiques :
 
 **Les antibiotiques à spectre étroit** : ils ne tuent qu’un nombre limité de bactéries. Ils peuvent cibler et tuer les bactéries à l’origine de la maladie tout en laissant en vie les autres bactéries, qui peuvent être bénéfiques.  
-_Ces antibiotiques sont habituellement prescrits lorsque la bactérie à l’origine de l’infection est exactement connue._
+*Ces antibiotiques sont habituellement prescrits lorsque la bactérie à l’origine de l’infection est exactement connue.*
 
 **Les antibiotiques à spectre large :** ils sont efficaces contre de nombreuses bactéries, y compris certaines bactéries résistantes aux antibiotiques à spectre étroit.  
-_Ce type d’antibiotique est prescrit lorsque l’on ne connaît  pas exactement quelle est la bactérie à l’origine de l’infection ou lorsque la maladie est causée par plusieurs bactéries différentes._
+*Ce type d’antibiotique est prescrit lorsque l’on ne connaît  pas exactement quelle est la bactérie à l’origine de l’infection ou lorsque la maladie est causée par plusieurs bactéries différentes.*
 
 ## III. La résistance aux antibiotiques
 
@@ -45,30 +43,28 @@ Les bactéries ont un grand pouvoir d’adaptation qui leur permet d’acquérir
 
 On distingue la **résistance naturelle et la résistance acquise** : 
 
-*   **La résistance naturelle** concerne toutes les souches d’une espèce bactérienne et pré-existe à l’usage des antibiotiques. Cette résistance est chromosomique et a un caractère permanent transmissible aux cellules filles lors de la réplication bactérienne.  
-*   **La résistance acquise** ne concerne qu’une partie des souches d’une espèce bactérienne normalement sensible et apparait à la suite de l’utilisation des antibiotiques. L’acquisition d’un nouveau mécanisme de résistance résulte :
-    *   soit d’une mutation survenant sur le chromosome bactérien,
-    *   soit de l’acquisition d’une information génétique  provenant d’une bactérie déjà résistante. 
+- **La résistance naturelle** concerne toutes les souches d’une espèce bactérienne et pré-existe à l’usage des antibiotiques. Cette résistance est chromosomique et a un caractère permanent transmissible aux cellules filles lors de la réplication bactérienne.
+- **La résistance acquise** ne concerne qu’une partie des souches d’une espèce bactérienne normalement sensible et apparait à la suite de l’utilisation des antibiotiques. L’acquisition d’un nouveau mécanisme de résistance résulte :
+  - soit d’une mutation survenant sur le chromosome bactérien,
+  - soit de l’acquisition d’une information génétique  provenant d’une bactérie déjà résistante. 
 
 ### 2. Principaux mécanismes de résistance aux antibiotiques
 
 Trois principaux mécanismes de résistance sont actuellement connus :
 
-*   **Inactivation de l’antibiotique** par une enzyme bactérienne : c’est la situation la plus fréquente.  
-*   **Diminution de la quantité d’antibiotique atteignant la cible**  
-    L’antibiotique n’est pas modifié, mais il ne peut pas accéder à sa cible au sein de la bactérie :
-    *   Soit parce qu’il ne peut plus y pénétrer en raison de la **baisse de la perméabilité membranaire**.  
-    *   Soit parce qu’il est **expulsé activement vers l’extérieur de la bactérie** par des protéines jouant le rôle de pompe (systèmes d’efflux).  
-*   **Modification de la cible**
-    *   **Modifications quantitatives :** par exemple, l’absence de paroi chez les bactéries du genre _Mycoplasma_ est responsable de leur résistance naturelle aux β-lactamines.  
-    *   **Modifications qualitatives :** la modification de la structure de la cible peut diminuer son affinité pour l’antibiotique. C’est un mécanisme fréquent de résistance acquise.  
-    *   **Protection de la cible :** c’est une protection réversible de la cible (par des protéines empêchant la fixation des quinolones, par exemple).
+- **Inactivation de l’antibiotique** par une enzyme bactérienne : c’est la situation la plus fréquente.
+- **Diminution de la quantité d’antibiotique atteignant la cible**  
+  L’antibiotique n’est pas modifié, mais il ne peut pas accéder à sa cible au sein de la bactérie :
+  - Soit parce qu’il ne peut plus y pénétrer en raison de la **baisse de la perméabilité membranaire**.
+  - Soit parce qu’il est **expulsé activement vers l’extérieur de la bactérie** par des protéines jouant le rôle de pompe (systèmes d’efflux).
+- **Modification de la cible**
+  - **Modifications quantitatives :** par exemple, l’absence de paroi chez les bactéries du genre *Mycoplasma* est responsable de leur résistance naturelle aux β-lactamines.
+  - **Modifications qualitatives :** la modification de la structure de la cible peut diminuer son affinité pour l’antibiotique. C’est un mécanisme fréquent de résistance acquise.
+  - **Protection de la cible :** c’est une protection réversible de la cible (par des protéines empêchant la fixation des quinolones, par exemple).
 
 **Figure 2. Les différents mécanismes de la résistabnce aux antibiotiques**
 
-
 ![](antibiotiques.jpg)
-
 
 ## IV. Pour votre pratique quotidienne
 
@@ -80,23 +76,23 @@ Les pénicillines orales ou injectables son toujours efficaces (pénicilline V),
 **Tréponème**, responsable, entre autres,  de la syphilis:  
 Les pénicillines injectables : extencilline : 2,4 millions d’unités en une fois.
 
-_B**ordetella pertussis**_ (coqueluche)  
+*B**ordetella pertussis*** (coqueluche)  
 L’antibiotique fait disparaître la contagiosité, mais arrive trop tard pour guérir de la toux notamment.
 
-_C**hlamydia**_   
+*C**hlamydia***   
 esponsable d’urétrite et d’infections respiratoires :tétracycline, azithromycine.
 
-**_Haemophilus influenzae_**   
+***Haemophilus influenzae***   
 Ne devrait plus se voir grâce à la vaccination(PEV). Il est l’un des responsables de méningites : céphalosporines de 3<sup>ème</sup> génération.
 
 ### 2. Pour d’autres infections particulières, l’antibiothérapie est bien définie
 
-_**Vibrio cholerae**_  
+***Vibrio cholerae***  
 Responsable du choléra : macrolides (érythromycine) , tétracycline.
 
 **Lèpre **: rifampicine + dapsone.
 
-**_Pasteurella pestis_** , responsable de la peste : streptomycine injectable
+***Pasteurella pestis*** , responsable de la peste : streptomycine injectable
 
 ### 3. Pour les autres germes
 

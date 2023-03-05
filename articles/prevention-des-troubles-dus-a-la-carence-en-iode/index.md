@@ -4,11 +4,9 @@ author: "par Olivier Isaac Bismuth Médecin généraliste, Développement et San
 date: "1996-08-02"
 ---
 
-Les conséquences de la carence en iode sur l'organisme sont connus depuis longtemps : goitre endémique, retard intellectuel chez l'enfant, crétinisme (_photo n° 1)._
-
+Les conséquences de la carence en iode sur l'organisme sont connus depuis longtemps : goitre endémique, retard intellectuel chez l'enfant, crétinisme (*photo n° 1).*
 
 ![](i696-1.jpg)
-
 
 Du fait de la multiplicité des problèmes sanitaires dans les pays du tiers-monde, cette pathologie a été un peu négligée.
 
@@ -16,18 +14,18 @@ Depuis quelques années, elle est revenue au premier plan des problèmes priorit
 
 Par :
 
-*   sa fréquence : 800 millions d'habitants surtout dans les pays enclavés, montagneux et sans façade maritime,
-*   sa morbidité _(tableaux n° I et II),_
-*   sa gravité,
-*   sa possibilité de prévention : l'iodation systématique des populations déficitaires.
+- sa fréquence : 800 millions d'habitants surtout dans les pays enclavés, montagneux et sans façade maritime,
+- sa morbidité *(tableaux n° I et II),*
+- sa gravité,
+- sa possibilité de prévention : l'iodation systématique des populations déficitaires.
 
 L'iodation de groupes de populations a été réalisée avec succès dans certaines zones ou pays : en 1923 aux États-Unis d'Amérique, ensuite à une plus large échelle en Chine et ailleurs.
 
 Les méthodes utilisées consistaient :
 
-*   soit à faire consommer du sel iodé,
-*   soit à injecter par voie intramusculaire de l'huile iodée (Lugol®),
-*   soit à consommer cette huile _per os._
+- soit à faire consommer du sel iodé,
+- soit à injecter par voie intramusculaire de l'huile iodée (Lugol®),
+- soit à consommer cette huile *per os.*
 
 Malheureusement, ces méthodes ont connu des échecs. Du fait de la variation des lieux et des populations, une méthode valable dans un endroit ne l'est pas forcément dans un autre. On a constaté qu'elle ne touchait qu'un
 
@@ -71,7 +69,7 @@ Thyroïde volumineuse, nettement visible à plus de cinq mètres.
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -99,19 +97,15 @@ Il a donc fallu chercher une autre méthode. Un travail en partenariat et en mul
 
 L'idée forte en est que l'apport d'iode se fera au mieux grâce à l'eau.
 
-## **Pourquoi l'eau ?**
+## Pourquoi l'eau ?
 
-C'est un vecteur universel qui concerne des collectivités et non pas des individus. Ce vecteur, indispensable à la vie, permet de traiter la cause (la carence d'apport) et non les conséquences. Il entre dans la chaîne alimentaire. Le problème pour les chimistes et les industriels fut de concevoir un système permettant de fournir des doses physiologiques et régulières d'iode, pour subvenir à des besoins constants, sans engendrer de surcharge iodée. Il a donc été mis au point un système dit " matriciel silicone-iodure de sodium,, (Rhodifuse Iode®) _(photo n° 2_) permettant une libération prolongée, constante et régulière d'iode.
-
+C'est un vecteur universel qui concerne des collectivités et non pas des individus. Ce vecteur, indispensable à la vie, permet de traiter la cause (la carence d'apport) et non les conséquences. Il entre dans la chaîne alimentaire. Le problème pour les chimistes et les industriels fut de concevoir un système permettant de fournir des doses physiologiques et régulières d'iode, pour subvenir à des besoins constants, sans engendrer de surcharge iodée. Il a donc été mis au point un système dit " matriciel silicone-iodure de sodium,, (Rhodifuse Iode®) *(photo n° 2*) permettant une libération prolongée, constante et régulière d'iode.
 
 ![](i696-2.jpg)
 
-
-Ce système a été expérimenté dans trois villages du Mali, pays enclavé, dont le nombre de carencés en iode a été estimé à deux millions d'habitants. Les résultats ont été concluants. Au bout d'un an, les taux d'iode urinaires sont élevés dans les échantillons de populations bénéficiant de l'iodation par l'eau. Dans les villages témoins non iodés, ce ne fut pas le cas. Sur 2 645 personnes, le taux de goitres est passé de 60,9 à 44,4 %, soit près d'un quart de diminution de prévalence. Ces résultats se maintiennent au bout de cinq ans. Les meilleurs taux concernent les formes peu ou moyennement évoluées (forme Gla, Glb, GII) (_schémas n° 1 et 2)._
-
+Ce système a été expérimenté dans trois villages du Mali, pays enclavé, dont le nombre de carencés en iode a été estimé à deux millions d'habitants. Les résultats ont été concluants. Au bout d'un an, les taux d'iode urinaires sont élevés dans les échantillons de populations bénéficiant de l'iodation par l'eau. Dans les villages témoins non iodés, ce ne fut pas le cas. Sur 2 645 personnes, le taux de goitres est passé de 60,9 à 44,4 %, soit près d'un quart de diminution de prévalence. Ces résultats se maintiennent au bout de cinq ans. Les meilleurs taux concernent les formes peu ou moyennement évoluées (forme Gla, Glb, GII) (*schémas n° 1 et 2).*
 
 ![](i696-3.jpg)
-
 
 De plus, toujours au Mali, une évaluation du développement psychomoteur des enfants supplémentés en iode par cette méthode a été réalisée. On a mesuré le quotient de développement chez des enfants supplémentés et non supplémentés de zéro à deux ans, dans une zone d'endémie de carence en iode. Il a été constaté une diminution par deux du risque de retard psychomoteur.
 
@@ -123,12 +117,12 @@ Elle s'intègre dans les programmes d'hydraulique et d'hygiène de l'eau.
 
 On n'a pas constaté de surdosages ni d'effets toxiques.
 
-Elle serait peu coûteuse : l'évaluation du coût proposée est de 25 cents US/habitant/an, soit environ 125 FCFA. Un panier de trois matrices fournirait suffisamment d'iode à 200 personnes utilisant quotidiennement vingt litres d'eau (coût 50 $ US).
+Elle serait peu coûteuse : l'évaluation du coût proposée est de 25 cents US/habitant/an, soit environ 125 FCFA. Un panier de trois matrices fournirait suffisamment d'iode à 200 personnes utilisant quotidiennement vingt litres d'eau (coût 50 \$ US).
 
-### **Références bibliographiques**
+### Références bibliographiques
 
 Pichard E, Soula G, Fisch A, Rhaly AG, Diarra M, Sebag M, Gentilini M. Prévention des troubles dus aux carences en iode chez les enfants en zone rurale africaine. Annales de Pédiatrie 1992, 39 (2).
 
 Rhône-Poulenc Rorer. L'eau, nouvelle source d'iode, 1990. 92165 Antony, France , Rhodifuse Iode ".
 
-_Développement et Santé, n°124, août 1996_
+*Développement et Santé, n°124, août 1996*

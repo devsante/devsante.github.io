@@ -12,18 +12,16 @@ date: "2015-05-19"
 
 Elle est due à une chute sur le poignet en hyperextension (schéma n° 1). Le déplacement fracturaire doit être bien connu car il conditionne les manœuvres de réduction :
 
-*   Sur une vue de profil, l’extrémité inférieure du radius apparaît basculée en arrière duu fait de la présence habituelle de fragments postérieurs au niveau du foyer de fracture
-*   La surface articulaire du radius, qui normalement « regarde » légèrement en avant, regarde ici en arrière (schéma n° 2).. Ainsi se trouve réalisée la déformation dite « en fourchette ».
+- Sur une vue de profil, l’extrémité inférieure du radius apparaît basculée en arrière duu fait de la présence habituelle de fragments postérieurs au niveau du foyer de fracture
+- La surface articulaire du radius, qui normalement « regarde » légèrement en avant, regarde ici en arrière (schéma n° 2).. Ainsi se trouve réalisée la déformation dite « en fourchette ».
 
-
-![](fracture-du-poignet-sch-1.jpg)
+![](fracture-du-poignet-sch-1.jpg)  
   
 
 **Schéma 1 : la fracture de Pouteau-Colles résulte d'une chute sur la main en flexion dorsale**
 
- 
+   
 ![](fracture-du-poignet-sch-2.jpg)
-
 
 **Schéma  2 : la déformation en fourchette est due à une bascule dorsale de l'extrémité inférieure du radius**
 
@@ -69,7 +67,7 @@ Cliché 2 : même fracture après réduction : correction de la bascule postéri
 
 Elle est réalisée habituellement sous anesthésie générale. Une anesthésie loco-régionale intraveineuse constitue également un excellent procédé si l’anesthésiste connaît cette technique. L’anesthésie locale par injection directe dans le foyer de fracture doit être déconseillée du fait du risque septique par inoculation de l’hématome fracturaire.
 
-1.  Traction la plus puissant possible, dans l’axe, afin de désengrener la fracture et aligner les fragments. Pour ce faire, l’opérateur saisit la main du blessé dans une main et le poignet dans l’autre et exerce deux tractions opposées (schéma n° 3). Quand la fracture est désimpactée, on peut passer au deuxième temps.  
+1.  Traction la plus puissant possible, dans l’axe, afin de désengrener la fracture et aligner les fragments. Pour ce faire, l’opérateur saisit la main du blessé dans une main et le poignet dans l’autre et exerce deux tractions opposées (schéma n° 3). Quand la fracture est désimpactée, on peut passer au deuxième temps.
 2.  Flexion palmaire et inclinaison cubitale : l’opérateur fléchit le poignet et l’incline du côté cubital afin d’abaisser au maximum la styloïde radiale. Le pouce de l’opérateur exerce dans le même temps un appui direct pour abaisser encore l’extrémité inférieure du radius (schéma n° 4). Pendant cette manœuvre, le poignet du blessé est appliqué fortement sur la poitrine de l’opérateur comme sur un billot.
 
 <table>
@@ -104,8 +102,7 @@ Elle est réalisée habituellement sous anesthésie générale. Une anesthésie 
 
 Elle est réalisée par un plâtre peu cotonné maintenant le coude à angle droit, le poignet à 30 ° de flexion et en inclinaison cubitale. Pendant le séchage du plâtre, le manœuvre de réduction doit être maintenue et le pouce de l’opérateur doit réaliser un point d’appui au niveau de la face dorsale de l’extrémité inférieure du radius (schéma n ° 5). L’immobilisation dure cinq semaines, et le blessé est revu aux huitième, quinzième et vingt-et-unième jours pour vérification du plâtre et un cliché radiographique si possible. Celui-ci permet de vérifier l’absence de déplacement secondaire, et notamment que le poignet du blessé garde ses deux caractéristiques morphologiques essentielles : surface articulaire du radius « regardant » en avant et ligne bistyloïdienne oblique en bas et en dehors (traduisant le fait que la styloïde radiale est plus basse que la styloïde cubitale (voir clichés 1 et 2).
 
-
-![](fracture-poignet-sch-5.jpg)
+![](fracture-poignet-sch-5.jpg)  
  
 
 **Schéma 5 : la manoeuvre de réduction doit être maintenue   
@@ -144,5 +141,5 @@ En dehors de possibilités chirurgicales, ces fractures doivent être immobilis�
 
 Ainsi, si les fractures de l’extrémité inférieure du radius sont des fractures banales, les cals vicieux du poignet sont encore fréquents. Quelques règles strictes doivent donc être respectées :
 
-*   Toute fracture du poignet, même non déplacée et plâtrée telle quelle, doit être radiographiée au huitième jour pour dépister un déplacement secondaire.  
-*   Toute fracture de Pouteau-Colles, même « très peu déplacée », doit être réduite sous anesthésie. Aucune bascule postérieure de l’extrémité inférieure du radius ne doit être tolérée. A condition d’un traitement initial rigoureux et d’une surveillance régulière, de graves séquelles peuvent facilement être évitées.
+- Toute fracture du poignet, même non déplacée et plâtrée telle quelle, doit être radiographiée au huitième jour pour dépister un déplacement secondaire.
+- Toute fracture de Pouteau-Colles, même « très peu déplacée », doit être réduite sous anesthésie. Aucune bascule postérieure de l’extrémité inférieure du radius ne doit être tolérée. A condition d’un traitement initial rigoureux et d’une surveillance régulière, de graves séquelles peuvent facilement être évitées.

@@ -4,9 +4,7 @@ author: "Joëlle Nicolas Service de Pédiatrie III, Hôpital Arnaud de Villeneuv
 date: "2004-10-05"
 ---
 
-
 ![](i1063-1.jpg)
-
 
 ## I. Introduction
 
@@ -18,18 +16,16 @@ Tous les rapports des dernières années montrent que l'impact de l'épidémie d
 
 Le tableau ci-dessous montre clairement l'ampleur des conséquences de l'épidémie dans la population d'Afrique Subsaharienne. La mortalité des enfants est liée étroitement à l'état de santé de ses parents, en particulier de sa mère. Celle-ci est aussi très vulnérable pour toutes sortes de raisons : prévalence du VIH chez les femmes africaines plus élevée (57 %) que chez les hommes ; âge plus jeune (76 % des jeunes de 15 à 25 ans infectés sont des femmes) ; transmission de l'homme vers la femme plus facile que l'inverse ; évolution de la maladie plus rapide. Dans bien des pays, le statut des femmes ne leur permet pas de proposer à leur partenaire une protection et elles ne peuvent pas en disposer pour elles-mêmes. Et partout, transmettre la maladie à leur propre enfant en lui donnant la vie et ne pas pouvoir le nourrir au sein est un vécu très culpabilisant, d'autant plus qu'elles sont dès le diagnostic connu, encore souvent rejetées, exclues de leur communauté(4).
 
-
 ![](i1063-2.jpg)
 
+M\_=\_ Millions PvVIH\* *:* Personnes vivant avec le VIH
 
-M_=_ Millions PvVIH* _:_ Personnes vivant avec le VIH
+***Quelques chiffres éloquents :***
 
-**_Quelques chiffres éloquents :_**
-
-*   financement de la lutte : 2,1 à 6,1 milliards de dollars ;
-*   moins de 10 % des femmes enceintes bénéficient de la PTME ;
-*   moins de 1 % des adultes bénéficient de services appropriés ;
-*   environ 440 000 personnes sous ARV dans les pays à faible et moyens revenus.
+- financement de la lutte : 2,1 à 6,1 milliards de dollars ;
+- moins de 10 % des femmes enceintes bénéficient de la PTME ;
+- moins de 1 % des adultes bénéficient de services appropriés ;
+- environ 440 000 personnes sous ARV dans les pays à faible et moyens revenus.
 
 ### 2. Les stratégies de prévention de la transmission Mère Enfant posent encore beaucoup de problèmes
 
@@ -47,15 +43,15 @@ Le choix des molécules est beaucoup plus restreint que pour les adultes. Douze 
 
 ### 5. Les stratégies thérapeutiques sont donc plus incertaines et de nombreuses questions encore sans réponse
 
-Le moment idéal pour débuter le traitement antirétroviral, seul capable d'enrayer l'évolution vers le SIDA est encore difficile à définir chez le nouveau-né et le nourrisson, en raison du risque de formes gravissimes et d'encéphalopathie, _élevé_ au moins jusqu'à l'âge de 2 ans ; difficultés accrues par le fait que le traitement des nourrissons atteints de formes précoces est complexe, lourd et encore insuffisamment évalué.
+Le moment idéal pour débuter le traitement antirétroviral, seul capable d'enrayer l'évolution vers le SIDA est encore difficile à définir chez le nouveau-né et le nourrisson, en raison du risque de formes gravissimes et d'encéphalopathie, *élevé* au moins jusqu'à l'âge de 2 ans ; difficultés accrues par le fait que le traitement des nourrissons atteints de formes précoces est complexe, lourd et encore insuffisamment évalué.
 
 Des protocoles nationaux circulent maintenant dans la plupart des pays africains, basés sur les guidelines internationaux, souvent extrapolés de ceux appliqués aux adultes. Mais ces propositions relativement simples se heurtent à certaines réalités qui réduisent encore le choix : la fréquence des anémies en milieu tropical chez l'enfant avec la zidovudine ; le risque de lipoatrophie avec la stavudine ; le risque de résistance primaire aux INNRT pour les enfants ayant reçu un traitement de PTME incluant la névirapine... Les modèles utilisés en Europe doivent de toutes façons être adaptés à des conditions économiques beaucoup plus précaires, sans mettre en danger la qualité de la prise en charge (6).
 
 ### 6. Les recherches dans le domaine pédiatriques sont peu nombreuses (7)
 
-Très peu de données pharmacologiques pédiatriques ont été réalisées par les firmes pharmaceutiques qui ont souvent extrapolé les résultats des études réalisées chez les adultes pour définir les doses _chez_ les enfants. Or les rares études existantes ont toutes montré de grosses différences dans les taux d'absorption et le métabolisme des ARV chez les petits enfants qui entraînent en général des sous dosages pouvant rendre le traitement moins efficace. Ainsi les réponses aux questions précédentes restent-elles encore trop souvent empiriques. Pourquoi cette carence dans les recherches pédiatriques ? Certes, il a été difficile de réunir un nombre suffisant d'enfants dans les pays riches pour des études comparatives de protocole mais très peu de financements ont été obtenus pour les études proposées dans les PVD ! De plus les procédures éthiques et juridiques des essais chez les enfants sont lourdes et peuvent rebuter les chercheurs.
+Très peu de données pharmacologiques pédiatriques ont été réalisées par les firmes pharmaceutiques qui ont souvent extrapolé les résultats des études réalisées chez les adultes pour définir les doses *chez* les enfants. Or les rares études existantes ont toutes montré de grosses différences dans les taux d'absorption et le métabolisme des ARV chez les petits enfants qui entraînent en général des sous dosages pouvant rendre le traitement moins efficace. Ainsi les réponses aux questions précédentes restent-elles encore trop souvent empiriques. Pourquoi cette carence dans les recherches pédiatriques ? Certes, il a été difficile de réunir un nombre suffisant d'enfants dans les pays riches pour des études comparatives de protocole mais très peu de financements ont été obtenus pour les études proposées dans les PVD ! De plus les procédures éthiques et juridiques des essais chez les enfants sont lourdes et peuvent rebuter les chercheurs.
 
-### **7.** L'observance chez l'enfant est donc plus complexe
+### 7. L'observance chez l'enfant est donc plus complexe
 
 Outre les formes galéniques non adaptées, l'horaire des prises tenant compte du style et des rythmes de vie des familles est difficile à respecter, certains médicaments demandant d'être strictement à jeun ou pris 3 fois par jour. Les effets secondaires toujours sont mal vécus par les enfants mais aussi par les parents, très inquiets de voir leur enfant "malade" alors que le traitement était censé le protéger...
 
@@ -83,21 +79,21 @@ Les traitements efficaces existent depuis 1996 dans les pays du Nord (9). Depuis
 
 **Pour favoriser l'observance,** des équipes pluridisciplinaires doivent s'organiser en vue d'une prise en charge complète de l'enfant et de sa famille. Les associations de personnes vivant avec le VIH, souvent animées par des femmes extrêmement dynamiques représentent une ressource incomparable pour accompagner les mères et les enfants. Elles doivent être soutenues dans leur action par tous ceux qui dans les pays riches veulent partager le combat avec elles en apportant leurs compétences et leurs financements.
 
-**Les équipes ivoiriennes ont été les pionnières** autant dans le domaine la PTME que dans l'accès aux ARV depuis 1998 (11). Depuis d'autres équipes se sont mobilisées dans plusieurs pays : au Burkina Faso, au Congo, au Cameroun, au Sénégal avec déjà de bons résultats. C'est leur expérience que nous vous proposons à travers ce numéro spécial de _Développement et Santé._ Des millions d'autres mères et enfants attendent encore des avancées scientifiques, une mobilisation des personnels de santé et surtout une solidarité internationale permettant aux pays confrontés d'assurer des soins gratuits et de qualité à leurs enfants en danger. Pourrons-nous tous ensemble relever le défi ?
+**Les équipes ivoiriennes ont été les pionnières** autant dans le domaine la PTME que dans l'accès aux ARV depuis 1998 (11). Depuis d'autres équipes se sont mobilisées dans plusieurs pays : au Burkina Faso, au Congo, au Cameroun, au Sénégal avec déjà de bons résultats. C'est leur expérience que nous vous proposons à travers ce numéro spécial de *Développement et Santé.* Des millions d'autres mères et enfants attendent encore des avancées scientifiques, une mobilisation des personnels de santé et surtout une solidarité internationale permettant aux pays confrontés d'assurer des soins gratuits et de qualité à leurs enfants en danger. Pourrons-nous tous ensemble relever le défi ?
 
-**_Références bibliographiques_**
+***Références bibliographiques***
 
-1) 55<sup>ème</sup> session de l'Assemblée Générale de l'ONU consacré au VIH/SIDA- 16 Fev.2001.  
-2) ONUSIDA/OMS. Le point sur l'épidémie de SIDA. Décembre 2004, ONUSIDA 24p.  
-3) Newell ML, Coovadia H, Cortina-Borja M, Rollins N, Gaillard P, Dabis F. Ghent International AIDS Society (IAS) Working Group on HIV Infection in Women and Children. Mortality of infected and uninfected infants born to HIV-infected mothers in Africa: a pooled analysis. Lancet. 2004 Oct 2;364(9441): 1236-4.  
-4) Medley A, Garcia-Moreno C, McGill S, Maman S. Rates. Barriers and outcomes of HIV serostatus disclosure among women in developing countries: implications for prevention of motherto-child transmission programmes. Bull World Health Organ. 2004 Apr;82(4): 299-307.  
-5) Dabis F, Méda N, Msellati P et al. 18-Month mortality and perinatal exposure to Zidovudine in West Africa. AIDS 2001, 15: 771-779.  
-6) Barigye H and Luyirika E. The Challenges of paediatric ARV formulations in resource-poor  
-countries - The Uganda experience; the 2"<sup>I</sup> Conference on HIV pathogenesis and treatment, Paris 2003, Abstract 1080.  
-7) Van de Perre P. Management of HIV-infected children in Europe. Acta Paediatr. 2003;92(2):139-40.  
-8) Giacomet V, Albano F, et al. Adherence to antiretroviral therapy and its determinants in children with human immunodeficiency virus infection: a multicentre, national study. Acta Paediatr 2003; 92(12): 1398-402.  
-9) Van Rossum AM, LA Fraaij P, de Groot R. Efficacy of highly active antiretroviral therapy in HIV-1 infected children. Lancet Infectious Diseases 2002; 2: 93-102.  
-10) Laniece I, Ciss M, Desclaux A, Diop K, Mbodj F, Ndiaye B, Sylla O, Delaporte E, Ndoye I. Adherence to HAART and its principal determinants in a cohort of Senegalese adults. AIDS. 2003 Jul; 17 Suppl 3: S103-8.  
+1)  55<sup>ème</sup> session de l'Assemblée Générale de l'ONU consacré au VIH/SIDA- 16 Fev.2001.
+2)  ONUSIDA/OMS. Le point sur l'épidémie de SIDA. Décembre 2004, ONUSIDA 24p.
+3)  Newell ML, Coovadia H, Cortina-Borja M, Rollins N, Gaillard P, Dabis F. Ghent International AIDS Society (IAS) Working Group on HIV Infection in Women and Children. Mortality of infected and uninfected infants born to HIV-infected mothers in Africa: a pooled analysis. Lancet. 2004 Oct 2;364(9441): 1236-4.
+4)  Medley A, Garcia-Moreno C, McGill S, Maman S. Rates. Barriers and outcomes of HIV serostatus disclosure among women in developing countries: implications for prevention of motherto-child transmission programmes. Bull World Health Organ. 2004 Apr;82(4): 299-307.
+5)  Dabis F, Méda N, Msellati P et al. 18-Month mortality and perinatal exposure to Zidovudine in West Africa. AIDS 2001, 15: 771-779.
+6)  Barigye H and Luyirika E. The Challenges of paediatric ARV formulations in resource-poor  
+    countries - The Uganda experience; the 2"<sup>I</sup> Conference on HIV pathogenesis and treatment, Paris 2003, Abstract 1080.
+7)  Van de Perre P. Management of HIV-infected children in Europe. Acta Paediatr. 2003;92(2):139-40.
+8)  Giacomet V, Albano F, et al. Adherence to antiretroviral therapy and its determinants in children with human immunodeficiency virus infection: a multicentre, national study. Acta Paediatr 2003; 92(12): 1398-402.
+9)  Van Rossum AM, LA Fraaij P, de Groot R. Efficacy of highly active antiretroviral therapy in HIV-1 infected children. Lancet Infectious Diseases 2002; 2: 93-102.
+10) Laniece I, Ciss M, Desclaux A, Diop K, Mbodj F, Ndiaye B, Sylla O, Delaporte E, Ndoye I. Adherence to HAART and its principal determinants in a cohort of Senegalese adults. AIDS. 2003 Jul; 17 Suppl 3: S103-8.
 11) Msellati P, Fassinou P, Elenga N, Rouet F, Laguide R, Kouakoussui KA, Timite M and Blanche S. Highly active antiretroviral therapie among HIV1 infected children in Abidjan, Côte d'Ivoire (ANRS 1244); the 2éme Conference on HIV pathogenesis and treatment, Paris 2003, Abstract 31.
 
-_Développement et Santé, n°173, octobre 2004_
+*Développement et Santé, n°173, octobre 2004*

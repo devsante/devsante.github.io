@@ -21,7 +21,7 @@ date: "2010-12-04"
 <li>Curatif si nécessaire.</li>
 </ul></div>
 
-_Les modalités de suivi de la grossesse (fréquence des consultations, des échographies et des autres examens complémentaires) varient d'un pays â l'autre en fonction de recommandations ministérielles et selon les structures de soins (CESCOM, hôpital de référence)._
+*Les modalités de suivi de la grossesse (fréquence des consultations, des échographies et des autres examens complémentaires) varient d'un pays â l'autre en fonction de recommandations ministérielles et selon les structures de soins (CESCOM, hôpital de référence).*
 
 ## I. Préparation à la grossesse  examen prénuptial : c'est l'idéal
 
@@ -34,19 +34,19 @@ Elle comporte un examen clinique complet des deux époux et la prescription d'ex
 
 #### Examens biologiques systématiques
 
-*   Sérologie VIH, à proposer systématiquement.  
-*   Recherche de drépanocytose.  
-*   Groupe sanguin ABO et Rhésus du couple + recherche d'agglutinines irrégulières (RAI) chez la femme.  
-*   Sérologie syphilitique (TPHA-VDRL).  
-*   Sérologie hépatite B.  
-*   Si possible sérologie de la toxoplasmose et de la rubéole (voir encadré).
+- Sérologie VIH, à proposer systématiquement.
+- Recherche de drépanocytose.
+- Groupe sanguin ABO et Rhésus du couple + recherche d'agglutinines irrégulières (RAI) chez la femme.
+- Sérologie syphilitique (TPHA-VDRL).
+- Sérologie hépatite B.
+- Si possible sérologie de la toxoplasmose et de la rubéole (voir encadré).
 
 ### 2. Deuxième consultation
 
-*   Remise à chacun des époux et à lui seul (respect du secret médical +++) des résultats des examens complémentaires.  
-*   Education des futurs époux (remise d'une information orale et écrite).  
-*   Remise du certificat prénuptial en mains propres à chacun des futurs époux et rempli par un médecin.  
-*   Si nécessaire et si possible : vaccination antirubéolique.
+- Remise à chacun des époux et à lui seul (respect du secret médical +++) des résultats des examens complémentaires.
+- Education des futurs époux (remise d'une information orale et écrite).
+- Remise du certificat prénuptial en mains propres à chacun des futurs époux et rempli par un médecin.
+- Si nécessaire et si possible : vaccination antirubéolique.
 
 ## II. Diagnostic de la grossesse
 
@@ -54,20 +54,20 @@ Elle comporte un examen clinique complet des deux époux et la prescription d'ex
 
 #### a) Interrogatoire
 
-*   Aménorrhée secondaire +++.  
-*   Signes sympathiques de la grossesse : nausées, vomissements, hypersialorrhée, constipation, hypersomnie, pollakiurie.
+- Aménorrhée secondaire +++.
+- Signes sympathiques de la grossesse : nausées, vomissements, hypersialorrhée, constipation, hypersomnie, pollakiurie.
 
 #### b) Examen gynécologique
 
-*   **Seins** : augmentés de volume, tendus, sensibles, apparition des tubercules de Montgomery (petits nodules rouges apparaissant sur l'aréole des seins et persistant toute la grossesse).  
-*   **Organes génitaux externes** : hyperpigmentation et œdème de la vulve.  
-*   Examen **au spéculum (si possible)** **: il est utile, mais le matériel doit être rigoureusement nettoyé et stérilisé après chaque utilisation**. Le col est violacé et la glaire épaisse.  
-*   **TV** : l'utérus est augmenté de volume, antéfléchi, le col est mou (consistance du lobe d'oreille, alors qu'il a habituellement la consistance du bout de nez), les culs-de-sac vaginaux sont comblés par le corps utérin.
+- **Seins** : augmentés de volume, tendus, sensibles, apparition des tubercules de Montgomery (petits nodules rouges apparaissant sur l'aréole des seins et persistant toute la grossesse).
+- **Organes génitaux externes** : hyperpigmentation et œdème de la vulve.
+- Examen **au spéculum (si possible)** **: il est utile, mais le matériel doit être rigoureusement nettoyé et stérilisé après chaque utilisation**. Le col est violacé et la glaire épaisse.
+- **TV** : l'utérus est augmenté de volume, antéfléchi, le col est mou (consistance du lobe d'oreille, alors qu'il a habituellement la consistance du bout de nez), les culs-de-sac vaginaux sont comblés par le corps utérin.
 
 ### 2. Examens complémentaires (si possible)
 
-*   Dosage plasmatique de la ßHCG, positive dès le 10ème jour de la grossesse.  
-*   Echographie-pelvienne : importante dans le diagnostic de la grossesse, sa localisation (GIU, GEU), sa datation et sa vitalité (l'activité cardiaque est visible à 7 semaines).
+- Dosage plasmatique de la ßHCG, positive dès le 10ème jour de la grossesse.
+- Echographie-pelvienne : importante dans le diagnostic de la grossesse, sa localisation (GIU, GEU), sa datation et sa vitalité (l'activité cardiaque est visible à 7 semaines).
 
 ## III. Suivi de la grossesse (les recommandations ministérielles varient d'un pays à l'autre)
 
@@ -78,16 +78,16 @@ Les éléments de surveillance à chaque consultation sont : hauteur utérine, T
 
 #### a) Examen général
 
-*   **Interrogatoire** : recherche des nouveaux signes fonctionnels et généraux.  
-*   **Pesée (poids)** : si possible, toujours sur la même balance. La prise de poids, qui doit être harmonieuse, ne doit pas excéder 12 Kg en moyenne à terme. Elle est de :
-    *   **500g/mois au 1er trimestre**
-    *   **1kg/ mois au 2ème trimestre**
-    *   **2kg/ mois au 3ème trimestre**
-*   **Mesure de la pression artérielle (TA**) : à chaque CPN (plus souvent si nécessaire), la TA est prise avant l'examen obstétrical, après une phase de repos, en position assise, bras nus, avec un brassard adapté (brassard pour obèse si la circonférence du bras est supérieure à 30 cm).  
-    La TA normale est inférieure à **140/90 mmHg**, au-delà de ces valeurs, il s'agit d'une Il"TA chez une femme enceinte.  
-*   **Inspection générale** : IMC, examen de la peau (lésion, cicatrice), des conjonctives, des dents et des gencives. Recherche de pathologies veineuses, ophtalmologiques, recherche d'une boiterie à la marche.  
-*   **Auscultation cardio-pulmonaire** : systématique lors de la première CPN.  
-*   **Seins** : recherche d'anomalies des mamelons (mamelon ombiliqué), de tumeur et d'adénopathies axillaires.
+- **Interrogatoire** : recherche des nouveaux signes fonctionnels et généraux.
+- **Pesée (poids)** : si possible, toujours sur la même balance. La prise de poids, qui doit être harmonieuse, ne doit pas excéder 12 Kg en moyenne à terme. Elle est de :
+  - **500g/mois au 1er trimestre**
+  - **1kg/ mois au 2ème trimestre**
+  - **2kg/ mois au 3ème trimestre**
+- **Mesure de la pression artérielle (TA**) : à chaque CPN (plus souvent si nécessaire), la TA est prise avant l'examen obstétrical, après une phase de repos, en position assise, bras nus, avec un brassard adapté (brassard pour obèse si la circonférence du bras est supérieure à 30 cm).  
+  La TA normale est inférieure à **140/90 mmHg**, au-delà de ces valeurs, il s'agit d'une Il"TA chez une femme enceinte.
+- **Inspection générale** : IMC, examen de la peau (lésion, cicatrice), des conjonctives, des dents et des gencives. Recherche de pathologies veineuses, ophtalmologiques, recherche d'une boiterie à la marche.
+- **Auscultation cardio-pulmonaire** : systématique lors de la première CPN.
+- **Seins** : recherche d'anomalies des mamelons (mamelon ombiliqué), de tumeur et d'adénopathies axillaires.
 
 #### b) Examen obstétrical
 
@@ -97,9 +97,9 @@ du doigt.
 L'exploration doit être méthodique et indolore.  elle commence par la région sus-pubienne, continue par le fond utérin et se termine par les parties latérales de l'utérus.  
 A partir de la **28ème semaine** (6ème mois), la palpation devient un élément diagnostique et pronostique fondamental de l'examen obstétrical, avec ses trois objectifs dans le temps et suivant le terme :
 
-*   **étudier** la consistance, la souplesse ou la tension (relachement, contraction) et la sensibilité de l'utérus à la mobilisation ;
-*   situer le (ou les) fœtus dans l'utérus, la présentation, le rapport avec le bassin maternel, la position du foetus, le coté du dos et le volume ;
-*   **apprécier** le volume du liquide amniotique (signe de flot).
+- **étudier** la consistance, la souplesse ou la tension (relachement, contraction) et la sensibilité de l'utérus à la mobilisation ;
+- situer le (ou les) fœtus dans l'utérus, la présentation, le rapport avec le bassin maternel, la position du foetus, le coté du dos et le volume ;
+- **apprécier** le volume du liquide amniotique (signe de flot).
 
 La palpation donne souvent lieu à des mouvements actifs fœtaux (NIAF) perçus cri moyenne **à partir de 20 semaines**, excellent indice de réactivité du fatus.
 
@@ -140,28 +140,28 @@ Il doit être pratiqué avant le T'V (en respectant les règles d'hygiène : net
 Il est effectué selon les indications médicales : en cas de leucorrhées pathologiques, d'écoulement clé liquide ou pour objectiver une métrorragie.  
 Un frottis cervico-vaginal (FCV) est réalisé à l'occasion de cet examen si le dernier date de plus de 2 ans.
 
-*   **Examen du col** : son aspect, sa couleur, en recherchant des anomalies de la muqueuse, des vésicules d'herpès, des condylomes ou un écoulement sanglant provenant de l'endocol.  
-*   **Examen du vagin** : réalisé en déplissant ses parois lors du retrait progressif du spéculum.
+- **Examen du col** : son aspect, sa couleur, en recherchant des anomalies de la muqueuse, des vésicules d'herpès, des condylomes ou un écoulement sanglant provenant de l'endocol.
+- **Examen du vagin** : réalisé en déplissant ses parois lors du retrait progressif du spéculum.
 
 #### g) Toucher vaginal
 
 L'utilisation d'un doigtier stérile à usage unique, lubrifié ou non, est de rigueur.  
 La femme est en position gynécologique, sur un plan dur, la vessie et (si possible) le rectum étant vides. La main abdominale permet de combiner le palper au toucher. Le TN,' a différents objectifs suivant le terme auquel il est réalisé :
 
-*   **Au 1er trimestre** : il permet le diagnostic de la grossesse.  
-*   **Au 2ème trimestre** : il permet de noter les modifications cervicales.  
-*   **Au 3ème trimestre** : il s'attache à explorer le col utérin, le segment inférieur, la présentation fcztale, l'état des membranes, l'orifice cervical, le bassin osseux et le tractus génital.
+- **Au 1er trimestre** : il permet le diagnostic de la grossesse.
+- **Au 2ème trimestre** : il permet de noter les modifications cervicales.
+- **Au 3ème trimestre** : il s'attache à explorer le col utérin, le segment inférieur, la présentation fcztale, l'état des membranes, l'orifice cervical, le bassin osseux et le tractus génital.
 
 ### 2. Examens paracliniques
 
 #### a) Examens biologiques 
 
-*   Groupe sanguin-Rhésus. 
-*   TPHA-VDRL (syphilis). 
-*   Bandelette urinaire (recherche d'une glycosurie et d'une protéinurie).  
-*   HIV (si la femme ne manifeste pas son désaccord).  
-*   HVB (hépatite B).  
-*   NFS (numération formule sanguine).
+- Groupe sanguin-Rhésus. 
+- TPHA-VDRL (syphilis). 
+- Bandelette urinaire (recherche d'une glycosurie et d'une protéinurie).
+- HIV (si la femme ne manifeste pas son désaccord).
+- HVB (hépatite B).
+- NFS (numération formule sanguine).
 
 **A chaque consultation, effectuer une recherche de protéinurie et de glycosurie par bandelettes.**
 
@@ -197,12 +197,12 @@ Enfin, on fixe le rendez-vous pour le jour théorique d'accouchement, on met en 
 Elle a lieu dans les huit semaines suivant l'accouchement. On recherche l'existence de troubles urinaires et/ou sexuels, on examine la cicatrice d'une éventuelle épisiotomie. Une rééducation périnéale et/ou abdominale sera éventuellement prescrite.  
 Si le retour de couches a eu lieu, on envisage avec la femme la prescription d'une contraception.
 
-## **V. Conseils d’hygiène de vie durant la grossesse .**
+## V. Conseils d’hygiène de vie durant la grossesse
 
-*   Alimentation équilibrée, riche en calcium et en légumes frais.  
-*   Eviter de manger des viandes crues.  
-*   Arrêt du tabac et de l'alcool.  
-*   Maintien d'une activité adaptée au terme de la grossesse.
+- Alimentation équilibrée, riche en calcium et en légumes frais.
+- Eviter de manger des viandes crues.
+- Arrêt du tabac et de l'alcool.
+- Maintien d'une activité adaptée au terme de la grossesse.
 
 <table>
 
@@ -256,4 +256,4 @@ En Afrique, les chats domestiques étant rares, le réservoir est mal connu. Une
 
 </table>
 
-_Développement et Santé, n° 197/198, 2010_
+*Développement et Santé, n° 197/198, 2010*

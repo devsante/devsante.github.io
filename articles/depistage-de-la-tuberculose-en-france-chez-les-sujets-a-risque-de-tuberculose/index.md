@@ -12,29 +12,31 @@ La politique de santé en France, associée à certains facteurs socio-économiq
 
 Ces faits incitent "à cibler" le dépistage de la tuberculose pour une population dite à risque, celle ci comporte :
 
-*   Les personnes dont le risque de tuberculose est lié à une affection préexistante (VIH, autres immunodépressions, diabète) ou à un contact proche avec une personne atteinte de tuberculose contagieuse. Par leur nature, de tels faits donnent accès aux soins.  
-*   Les migrants légaux : ils bénéficient systé­matiquement d'une radiographie de thorax et d'une consultation médicale au sein d'organismes officiels.  
-*   Les personnes détenues dans les prisons, pour elles une radiographie de thorax est recommandée à leur entrée en détention.  
-    Ces groupes ne nécessitent pas notre inter­vention.
+- Les personnes dont le risque de tuberculose est lié à une affection préexistante (VIH, autres immunodépressions, diabète) ou à un contact proche avec une personne atteinte de tuberculose contagieuse. Par leur nature, de tels faits donnent accès aux soins.
 
-*   Les migrants illégaux (estimés à environ 400 000 en France).
+- Les migrants légaux : ils bénéficient systé­matiquement d'une radiographie de thorax et d'une consultation médicale au sein d'organismes officiels.
+
+- Les personnes détenues dans les prisons, pour elles une radiographie de thorax est recommandée à leur entrée en détention.  
+  Ces groupes ne nécessitent pas notre inter­vention.
+
+- Les migrants illégaux (estimés à environ 400 000 en France).
 
 Les personnes vivant dans la précarité, dans de mauvaises conditions de salubrité. Ces groupes sont concernés par le projet de MdM.
 
 Les modalités du dépistage de la tuberculose dans les groupes cités devront s'adapter à leur situation particulière et il y aura lieu de tenir compte :
 
-*   de la méconnaissance des problèmes sani­taires liée aux différences culturelles et lin­guistiques,
-*   de l'insécurité journalière stressante, de la crainte des contrôles administratifs toujours possibles limitant au maximum les déplace­ments,
-*   de la demande d'un soulagement et d'un diagnostic à l'occasion de symptômes, ce qui est le propre de la médecine de consultation. Mais ajouter lors de cette démarche de soins la proposition de dépistage d'une maladie souvent inconnue et qui ne s'exprime pas, n'est pas simple à transmettre. Le sujet peut ressentir alors que sa demande n'est pas prise en compte.
+- de la méconnaissance des problèmes sani­taires liée aux différences culturelles et lin­guistiques,
+- de l'insécurité journalière stressante, de la crainte des contrôles administratifs toujours possibles limitant au maximum les déplace­ments,
+- de la demande d'un soulagement et d'un diagnostic à l'occasion de symptômes, ce qui est le propre de la médecine de consultation. Mais ajouter lors de cette démarche de soins la proposition de dépistage d'une maladie souvent inconnue et qui ne s'exprime pas, n'est pas simple à transmettre. Le sujet peut ressentir alors que sa demande n'est pas prise en compte.
 
 Il est habituel que la médecine préventive s'effectue dans un cadre différent de celui de la médecine de soins ; or c'est bien là la particularité de cette situation qui pourtant s'impose à nous et n'est pas toujours simple à résoudre.
 
 Ces faits expliquent la démarche de l'équipe de Médecins du Monde :
 
-*   Le dépistage est individuel et il s'adresse aussi bien aux sujets asymptomatiques qu'aux sujets symptomatiques.  
-    Il est proposé principalement aux sujets nés dans un pays de forte incidence de tuberculo­se car on sait que le risque à l'arrivée en France est celui du pays d'origine et qu'il est maxima lors des deux premières années pour diminuer ensuite.
+- Le dépistage est individuel et il s'adresse aussi bien aux sujets asymptomatiques qu'aux sujets symptomatiques.  
+  Il est proposé principalement aux sujets nés dans un pays de forte incidence de tuberculo­se car on sait que le risque à l'arrivée en France est celui du pays d'origine et qu'il est maxima lors des deux premières années pour diminuer ensuite.
 
-*   L'analyse de la radiographie du thorax faite est immédiate et, en cas d'anomalies suggé­rant la tuberculose, la confirmation bactério­logique du diagnostic et l'éventuel traitement sont menés.
+- L'analyse de la radiographie du thorax faite est immédiate et, en cas d'anomalies suggé­rant la tuberculose, la confirmation bactério­logique du diagnostic et l'éventuel traitement sont menés.
 
 La simplicité et la rapidité d'exécution sont les garants de l'efficacité recherchée. Les longs délais, les trajets nombreux, la dilution de la responsabilité sont autant d'éléments perturba­teurs, déstabilisants et démoralisants pour le sujet concerné.
 
@@ -44,4 +46,4 @@ Reste enfin qu'aborder le rôle de la contagiosité et celui de la forte inciden
 
 Ce projet est à son stade initial de réalisation. Des résultats de son évaluation dépendront d'éventuelles améliorations à apporter.
 
-_Développement et Santé, n°190, 2008_
+*Développement et Santé, n°190, 2008*

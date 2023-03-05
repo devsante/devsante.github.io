@@ -16,39 +16,39 @@ date: "2010-11-30"
 
 ### Aider la femme et sa famille à développer un plan pour l'accouchement
 
-*   Présence d'un prestataire : s'assurer que la femme sait comment contacter le prestataire compétent ou la structure sanitaire au moment approprié.  
-*   Le transport/ transport d'urgence s'assurer que la femme a pris les dispositions spécifiques pour :
-    *   Le transport au lieu de l'accouchement.  
-    *   Le transport d'urgence vers une structure appropriée en cas de signes faisant craindre une complication.  
-*   Disponibilité des fonds nécessaires pour payer les soins d'un accouchement
-    *   S'assurer qu'elle dispose de fonds (personnels ou autres) lui permettant de payer les soins d'un accou¬chement normal ou en urgence.
+- Présence d'un prestataire : s'assurer que la femme sait comment contacter le prestataire compétent ou la structure sanitaire au moment approprié.
+- Le transport/ transport d'urgence s'assurer que la femme a pris les dispositions spécifiques pour :
+  - Le transport au lieu de l'accouchement.
+  - Le transport d'urgence vers une structure appropriée en cas de signes faisant craindre une complication.
+- Disponibilité des fonds nécessaires pour payer les soins d'un accouchement
+  - S'assurer qu'elle dispose de fonds (personnels ou autres) lui permettant de payer les soins d'un accou¬chement normal ou en urgence.
 
 ### Prise de décisions
 
-*   Comment les décisions seront-elles prises avec la famille ?
-*   Qui prend les décisions ?
-*   Quelle autre personne peut les prendre en l'absence du décideur ?
-*   Compagnon de soutien pour l'accouchement : conseiller la femme pour qu'elle identifie et prépare toutes les per¬sonnes de soutien qui lui seront nécessaires, y compris
-    *   Une accompagnante pour l'aider pendant son travail et son accouchement, et pendant le transport si nécessaire.  
-    *   Une personne pour s'occuper de son ménage et de ses enfants durant son absence.
+- Comment les décisions seront-elles prises avec la famille ?
+- Qui prend les décisions ?
+- Quelle autre personne peut les prendre en l'absence du décideur ?
+- Compagnon de soutien pour l'accouchement : conseiller la femme pour qu'elle identifie et prépare toutes les per¬sonnes de soutien qui lui seront nécessaires, y compris
+  - Une accompagnante pour l'aider pendant son travail et son accouchement, et pendant le transport si nécessaire.
+  - Une personne pour s'occuper de son ménage et de ses enfants durant son absence.
 
 ### Don de sang
 
-*   S'assurer que la femme et sa famille ont identifié un ou des donneurs de sang appropriés et que cette ou ces personnes seront accessibles et disponibles en cas d'urgence.  
-*   Les articles nécessaires pour l'accouchement et les soins du nouveau-né, tous propres
-    *   Pour l'accouchement garniture/linge, savon, drap, récipient pour le placenta, lame neuve non utilisée, eau de javel, alèse, gants...  
-    *   Pour le nouveau-né : couverture, couches, vêtements.
+- S'assurer que la femme et sa famille ont identifié un ou des donneurs de sang appropriés et que cette ou ces personnes seront accessibles et disponibles en cas d'urgence.
+- Les articles nécessaires pour l'accouchement et les soins du nouveau-né, tous propres
+  - Pour l'accouchement garniture/linge, savon, drap, récipient pour le placenta, lame neuve non utilisée, eau de javel, alèse, gants...
+  - Pour le nouveau-né : couverture, couches, vêtements.
 
-_NB : La liste des articles nécessaires n ést pas exhaustive et dépend des conditions individuelles et du lieu de l'accou¬chement._
+*NB : La liste des articles nécessaires n ést pas exhaustive et dépend des conditions individuelles et du lieu de l'accou¬chement.*
 
-### **Signes de danger**
+### Signes de danger
 
-*   S'assurer que la femme connaît les signes nécessitant une consultation
-*   Saignement vaginal
-*   Respiration difficile
-*   Fièvre, douleurs abdominales aiguës
-*   Maux de tête prononcés/vision trouble
-*   Convulsions/perte de conscience
+- S'assurer que la femme connaît les signes nécessitant une consultation
+- Saignement vaginal
+- Respiration difficile
+- Fièvre, douleurs abdominales aiguës
+- Maux de tête prononcés/vision trouble
+- Convulsions/perte de conscience
 
 <table>
 
@@ -182,4 +182,4 @@ Si après la 16ème semaine d’aménorrhée, ou si les mouvements fœtaux sont 
 
 </table>
 
-_Développement et Santé, n°197/198, 2010_
+*Développement et Santé, n°197/198, 2010*

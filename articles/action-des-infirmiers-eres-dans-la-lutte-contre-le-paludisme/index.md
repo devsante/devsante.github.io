@@ -12,22 +12,22 @@ date: "2008-07-02"
 
 Le plan de lutte comporte 3 volets essentiels :
 
-*   prévention par utilisation des moustiquaires imprégnées d'insecticides (MII) :
-*   prise en charge correcte et précoce des cas ;
-*   protection des femmes enceintes et autres populations vulnérables.
+- prévention par utilisation des moustiquaires imprégnées d'insecticides (MII) :
+- prise en charge correcte et précoce des cas ;
+- protection des femmes enceintes et autres populations vulnérables.
 
-### L'infirmier doit :
+### L'infirmier doit
 
-#### Au niveau des centres de santé péri­phériques :
+#### Au niveau des centres de santé péri­phériques
 
-*   faire la promotion des moustiquaires imprégnées et favoriser leur disponibilité,
-*   reconnaître et diagnostiquer le plus préco­cement possible les cas simples,
-*   traiter selon le protocole national tous les cas simples,
-*   assurer information et sensibilisation sur le paludisme dans la population,
-*   reconnaître et référer le plus rapidement possible les cas graves,
-*   participer aux activités communautaires pour l'utilisation des moustiquaires et l'as­sainissement du milieu.
+- faire la promotion des moustiquaires imprégnées et favoriser leur disponibilité,
+- reconnaître et diagnostiquer le plus préco­cement possible les cas simples,
+- traiter selon le protocole national tous les cas simples,
+- assurer information et sensibilisation sur le paludisme dans la population,
+- reconnaître et référer le plus rapidement possible les cas graves,
+- participer aux activités communautaires pour l'utilisation des moustiquaires et l'as­sainissement du milieu.
 
-#### Au niveau des hôpitaux :
+#### Au niveau des hôpitaux
 
 Mettre en application les prescriptions, des soins infirmiers et la surveillance des malades.
 
@@ -51,4 +51,4 @@ Pendant 3 mois, 2 infirmières se sont ren­dues toutes les semaines dans les é
 
 Un an après, des entretiens ont été réalisés dans les mêmes classes et 60 % de bonnes réponses sur le paludisme ont été recueillies auprès des élèves.
 
-_Développement et Santé, n°189, 2008_
+*Développement et Santé, n°189, 2008*

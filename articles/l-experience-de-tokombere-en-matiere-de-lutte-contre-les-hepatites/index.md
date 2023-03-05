@@ -16,8 +16,8 @@ Les activités de virologie des hépatites à Tokombérécomportent cinq  volet
 
 Il repose sur le dépistage de l’Ag HBs. C’est lors de la première  consultation prénatale que sont  prévus conseils aux femmes  enceintes et double  dépistage VIH/Ag HBs. Dans la pratique, 85 % seulement sont dépistées en Ag HBs, et 20 % s’avèrent Ag HBs posi- tives. A l’accouchement de telles femmes, il est prévu que le bébé reçoive une première dose de vaccin hépatite B monovalent (Engerix B 10 mcg) dans les 24h. Dans la pratique, c’est parfois dans les 72 h pour des bébés nés loin de la FS. Surtout, un bébé sur quatre a en 2010 échappé à cette vaccination à la naissance, essentiellement en raison de problèmes qui peuvent survenir tout au long de la chaine d’approvisionnement en vaccin : stocks gérés sans informatisation, colis expédiés trop tardivement par la firme, "évaporés" à l’aéroport ou congelés à l’escale plutôt que réfrigérés.  
 Le lieu d’accouchement joue sur le taux de vaccination : en 2010, 82% en FS versus 43 % à la case, bien que les agents itinérants équipés de motos puissent aller chercher le vaccin gardé à l’hôpital dès que nait à la case un enfant de mère Ag HBs positive. Fait notable, lorsque le vaccin est disponible, les mères reconnues Ag HBs positives acceptent quasiment toutes qu’on vaccine leur nouveau-né. C’est ainsi qu’en 2009, année sans problèmes d’approvisionnement, presque tous les nouveau-nés de mère Ag HBs positive (97 à 100 % selon les FS) furent vaccinés.  
-Ensuite  intervient, à partir de la 6<sup>ème</sup> semaine en principe, la 1<sup>ère</sup> injection du programme élargi de vaccination (PEV) qui, au Cameroun, comporte depuis 2005 une valence hépatite B. Mais commencer à la 6<sup>ème</sup> semaine la vaccination contre l’hépatite B serait pour nombre de bébés trop tardif, comme l’ont montré les travaux de l’équipe d’Angers [1]. Ils ont consisté en la recherche de marqueurs d’infectiosité chez 259  femmes de la PTME de Tokombéré porteuses d’Ag HBs, cela pour évaluer le risque de transmission du virus à leur bébé.  
-La proportion de mères _a priori_ à haut risque de transmission s’est  révélée élevée : 22,8 % de ces femmes enceintes sont Ag HBe positives, ce qui va avec une forte charge virale : en moyenne 7,47 log d’ADN VHB contre 2,2 log chez les femmes Ag HBe négatives.
+Ensuite  intervient, à partir de la 6<sup>ème</sup> semaine en principe, la 1<sup>ère</sup> injection du programme élargi de vaccination (PEV) qui, au Cameroun, comporte depuis 2005 une valence hépatite B. Mais commencer à la 6<sup>ème</sup> semaine la vaccination contre l’hépatite B serait pour nombre de bébés trop tardif, comme l’ont montré les travaux de l’équipe d’Angers \[1\]. Ils ont consisté en la recherche de marqueurs d’infectiosité chez 259  femmes de la PTME de Tokombéré porteuses d’Ag HBs, cela pour évaluer le risque de transmission du virus à leur bébé.  
+La proportion de mères *a priori* à haut risque de transmission s’est  révélée élevée : 22,8 % de ces femmes enceintes sont Ag HBe positives, ce qui va avec une forte charge virale : en moyenne 7,47 log d’ADN VHB contre 2,2 log chez les femmes Ag HBe négatives.
 
 ## III. Sécurité des transfusions
 
@@ -25,7 +25,7 @@ On assiste à un pic d’activité en saison de pluies, des enfants  arrivant 
 En 2010,  sur 541  candidats receveur-compatibles, tous furent testés en VIH et Ag HBs. Pour le VHC, on observe un défaut de dépistage : seuls un tiers des candidats  sont  testés.  Intervient  le  caractère  peu convivial de l’Immunocomb HCV que l’on cherche à remplacer par Hexagon HCV. Mais aucun dépistage VHC  n’a  eu  lieu  au  1<sup>er</sup> semestre de 2011. Telle est "la vraie vie".  
 Chez les candidats donneurs, la prévalence du VIH est de 3,5 % ; de l’Ag HBs de 14,2 %. Quant à la prévalence  observée  de  l’Ac  VHC,  de  1,3  %,  c’est  une sous-estimation  puisque  seuls  sont  testés  en  VHC (quand on a le test) les candidats déjà dépistés négatifs en VIH et en Ag HBs. Pour preuve, chez les soignants  du  District  de  Tokombéré, la prévalence de l’Ac VHC de 6,5 %.
 
-## IV. Statut hépatites des personnels sanitaires [2]
+## IV. Statut hépatites des personnels sanitaires \[2\]
 
 Témoins de décès par cirrhose ou cancer parmi leurs patients ou leurs collègues, les personnels sanitaires s’inquiètent et 93 d’entre eux ont demandé à avoir un test Vikia HBsAg. Puis l’on a déterminé, à la Pitié-Salpêtrière, une série de marqueurs hépatites B, delta et C, sur automates, en sérologie ou en biologie moléculaire.
 
@@ -41,9 +41,9 @@ Nous comptons soumettre aux autorités camerounaises le projet suivant : vérifi
 
 Elle pourrait tenir en trois points :
 
-1.  L’OMS  recommande  maintenant la vaccination universelle de tous les nouveau-nés, même dans les pays de faible endémie [3] .  
-2.  L’expérience de Tokombéré, présentée en juillet 2011 à la conférence internationale des acteurs de lutte contre les hépatites en Afrique francophone, va dans ce sens, c’est le moins que l’on puisse dire.  
-3.  Cette conférence a eu pour point d’orgue "l’Appel de Dakar  du 28 juillet", adressé à tous les Etats d’Afrique francophone, prônant en première place la vaccination universelle de tous les bébés africains dès la naissance [4] (voir l'article Conférence internationale des acteurs de lutte contre les hépatites en Afrique francophone. Appel de Dakar).
+1.  L’OMS  recommande  maintenant la vaccination universelle de tous les nouveau-nés, même dans les pays de faible endémie \[3\] .
+2.  L’expérience de Tokombéré, présentée en juillet 2011 à la conférence internationale des acteurs de lutte contre les hépatites en Afrique francophone, va dans ce sens, c’est le moins que l’on puisse dire.
+3.  Cette conférence a eu pour point d’orgue "l’Appel de Dakar  du 28 juillet", adressé à tous les Etats d’Afrique francophone, prônant en première place la vaccination universelle de tous les bébés africains dès la naissance \[4\] (voir l'article Conférence internationale des acteurs de lutte contre les hépatites en Afrique francophone. Appel de Dakar).
 
 Ajoutons qu’au-delà de la PTME VHB, la sécurisation des dons de sang contribue à éviter de nouvelles infections à VHB et que le dépistage du VHC est, lui aussi, à faire systématiquement.  
 Quant aux nombreuses personnes déjà infectées par le VHB, elles posent un difficile problème de prise en charge, notamment comment reconnaître celles à traiter par antiviral,  pour leur éviter la mort par  
@@ -52,9 +52,9 @@ On  pourrait  sans  doute  commencer  cette  prise  en charge par les fe
 Pour les adultes non vaccinés et exposés, un test anti-HBc négatif peut cibler les rares personnes à vacciner.  
 Et pour revenir à "la vraie vie", on ne saurait trop insister sur la  nécessité d’approvisionnements réguliers, à  prix abordables et de  qualité, en  tests, vaccins et antiviraux.
 
-_Bibliographie_  
-[1] Epidémiologie moléculaire du virus de l’hépatite B chez  1 276  femmes  enceintes  au  Cameroun. Thèse pour le diplôme d’état de docteur en pharmacie et mémoire du diplôme d’études spécialisées de biologie, présentée et soutenue publiquement le 21 juin 2011 à Angers.  
-[2] Marqueurs d'infection par virus des hépatites B, C et D et  vaccination contre l'hépatite B chez des  personnels  de  santé  d'un  district  rural  du Cameroun.  Birguel  J.  et  col.  Médecine  tropicale  
+*Bibliographie*  
+\[1\] Epidémiologie moléculaire du virus de l’hépatite B chez  1 276  femmes  enceintes  au  Cameroun. Thèse pour le diplôme d’état de docteur en pharmacie et mémoire du diplôme d’études spécialisées de biologie, présentée et soutenue publiquement le 21 juin 2011 à Angers.  
+\[2\] Marqueurs d'infection par virus des hépatites B, C et D et  vaccination contre l'hépatite B chez des  personnels  de  santé  d'un  district  rural  du Cameroun.  Birguel  J.  et  col.  Médecine  tropicale  
 2011;71:201-2.  
-[3] Vaccination  Systématique  Recommandée  pour les  enfants  -  Résumé des notes d'information de l'OMS Mis à jour le 21 Octobre  2010. www.who.int/entity/immunization/.../Immunization_routine_table2_FR.pdf  
-[4] L'Appel de Dakar du 28 juillet 2011. www.hepatites.sn/info@hepatites.sn
+\[3\] Vaccination  Systématique  Recommandée  pour les  enfants  -  Résumé des notes d'information de l'OMS Mis à jour le 21 Octobre  2010. [www.who.int/entity/immunization/.../Immunization_routine_table2_FR.pdf](http://www.who.int/entity/immunization/.../Immunization_routine_table2_FR.pdf)  
+\[4\] L'Appel de Dakar du 28 juillet 2011. [www.hepatites.sn/info@hepatites.sn](http://www.hepatites.sn/info@hepatites.sn)

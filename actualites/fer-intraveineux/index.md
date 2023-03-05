@@ -21,4 +21,4 @@ Il a été noté également une recrudescence des infections bactériennes grave
 
 Dr Jean-Loup Rey, santé publique, GISPE
 
-_Réf. Revue Prescrire 2012 ; 32 (349) : 819_
+*Réf. Revue Prescrire 2012 ; 32 (349) : 819*

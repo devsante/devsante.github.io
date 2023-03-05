@@ -28,19 +28,19 @@ Il faut que le malade ait une grande liberté d'expression pour identifier ses b
 
 Un bon résultat thérapeutique pour un traitement difficile et long (à vie) est possible si le patient et le soignant arrivent à mettre en place un contrat thérapeutique à deux. Pour cela il faut,
 
-*   définir des objectifs communs (l'avis du malade est aussi important que celui du soignant) ;
-*   anticiper et réduire les obstacles comme les oublis, une prise d'alcool excessive (mais exceptionnelle), des situations imprévues (voyages, ramadan, maladies intercurrentes etc.) ;
-*   explorer les types d'aide possibles à l'observance comme les piluliers de fortune (mettre les ARV dans une boite d'aspirine), les réveils et montres avec bip (téléphone portable), l'aide de tiers ;
-*   anticiper des réponses à certaines situations difficiles (visite d'amis non informés, repas au restaurant, consultation pour une autre affection, etc.).
+- définir des objectifs communs (l'avis du malade est aussi important que celui du soignant) ;
+- anticiper et réduire les obstacles comme les oublis, une prise d'alcool excessive (mais exceptionnelle), des situations imprévues (voyages, ramadan, maladies intercurrentes etc.) ;
+- explorer les types d'aide possibles à l'observance comme les piluliers de fortune (mettre les ARV dans une boite d'aspirine), les réveils et montres avec bip (téléphone portable), l'aide de tiers ;
+- anticiper des réponses à certaines situations difficiles (visite d'amis non informés, repas au restaurant, consultation pour une autre affection, etc.).
 
 ## VI. Facteurs d'observance
 
 Ces facteurs peuvent être liés aux patients (confiance aux médicaments), à la relation soignant/soigné (contrat, confiance), au contexte thérapeutique (qualité du centre, effets secondaires), au contexte socioculturel (problèmes matériels, familiaux, discrimination, etc..)
 
-*   Les principaux déterminants de la non observance sont liés à des occupations multiples qui entraînent de vrais oublis ; ce facteur est en rapport souvent avec les contraintes de prise (le soir après une journée fatigante, aux heures de travail).  
-*   Ils sont liés aussi aux croyances du patient vis-à-vis de la maladie ou des médicaments donc envers la médecine traditionnelle.  
-*   Interviennent également les modifications dues au traitement ; une amélioration peut entraîner une désaffection thérapeutique mais aussi un trop lent retour à la santé.  
-*   Les facteurs socio économiques interviennent fortement comme l'éloignement, coûts annexes, le soutien familial ou communautaire.
+- Les principaux déterminants de la non observance sont liés à des occupations multiples qui entraînent de vrais oublis ; ce facteur est en rapport souvent avec les contraintes de prise (le soir après une journée fatigante, aux heures de travail).
+- Ils sont liés aussi aux croyances du patient vis-à-vis de la maladie ou des médicaments donc envers la médecine traditionnelle.
+- Interviennent également les modifications dues au traitement ; une amélioration peut entraîner une désaffection thérapeutique mais aussi un trop lent retour à la santé.
+- Les facteurs socio économiques interviennent fortement comme l'éloignement, coûts annexes, le soutien familial ou communautaire.
 
 ## VII. Niveaux d'intervention
 
@@ -64,4 +64,4 @@ Elle nécessite donc des interventions répétées selon les 7 principes suivant
 6.  impliquer les autres membres de l'équipe soignante ;
 7.  ne rien tenir pour acquis.
 
-_Développement et Santé, n°172, août 2004_
+*Développement et Santé, n°172, août 2004*

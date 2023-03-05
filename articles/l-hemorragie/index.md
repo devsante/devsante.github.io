@@ -7,15 +7,15 @@ date: "1982-02-28"
 <div class="teaser"><p>L'hémorragie, c'est l'urgence, le sang coule, il faut arrêter ce saignement et si les pertes de sang ont été importantes, compenser ces pertes en perfusant le malade et au mieux, en lui transfusant du sang.</p>
 <p>C'est simple! Mais le sang ne coule pas toujours sous nos yeux, il peut se vider à l'intérieur du ventre par exemple, et il faudra alors savoir reconnaître le saignement et apprécier son importance pour très vite traiter le malade.</p></div>
 
-## **I. Les deux types** **d'hémorragies**
+## I. Les deux types d'hémorragies
 
 Il existe deux types d'hémorragie:
 
-### **1.** **L'hémorragie externe:**
+### 1. L'hémorragie externe
 
 due à une plaie des parties molles, le sang coule, il est visible. C'est facile.
 
-### **2. L'hémorragie interne:**
+### 2. L'hémorragie interne
 
 le malade saigne d'un point quelconque de son corps sans que le sang s'extériorise. L'affaire est alors plus difficile, le malade saigne mais ne s'en aperçoit pas, il viendra nous voir tardivement et il faudra savoir retrouver les signes de l'hémorragie alors que le sang ne coule pas par terre!
 
@@ -25,16 +25,16 @@ le malade saigne d'un point quelconque de son corps sans que le sang s'extérior
 
 Si le sang est rouge, s'écoule par saccade: c'est une plaie artérielle, si le sang est sombre, s'écoule en flot permanent: c'est une plaie veineuse. Les plaies à l'origine de ces hémorragies sont:
 
-*   plaie par arme blanche: couteau, coupe coupe, flèche...  
-*   plaie par balle,
-*   coup de corne,
-*   fracture ouverte...
+- plaie par arme blanche: couteau, coupe coupe, flèche...
+- plaie par balle,
+- coup de corne,
+- fracture ouverte...
 
 **Hémorragie Interne**
 
 Le saignement ne s'extériorise pas, soit parce qu'il se produit dans une cavité close (abdomen, thorax ... ), soit parce qu'il ne s'extériorise qu'incomplètement et avec retard par un orifice naturel (hémorragie digestive, utérine ... ). Les principales causes sont:
 
-### **1. Les traumatismes**
+### 1. Les traumatismes
 
 **a.** Contusion de l'abdomen entraînant une rupture de rate, du foie, une désinsertion d'un vaisseau intestinal.
 
@@ -46,11 +46,11 @@ Le saignement ne s'extériorise pas, soit parce qu'il se produit dans une cavit�
 
 **e.** Les traumatismes du rein avec hématome rétro-péritonéal.
 
-### **2. Chez la femme**
+### 2. Chez la femme
 
 La rupture de grossesse extra-utérine est la cause la plus fréquente.
 
-### **3. Hémorragie digestive**
+### 3. Hémorragie digestive
 
 - au niveau de l'estomac ou du duodénum par ulcère; le sang s'extériorise alors sous forme de vomissements rouges (hématémèse) et de selles noires faites de sang digéré (méIéna),
 
@@ -64,47 +64,49 @@ Placenta praevia, hématome rétroplacentaire, rupture utérine, rétention plac
 
 **Comment reconnaître l'hémorragie**
 
-La perte de sang circulant dans les vaisseaux va entraîner un certain nombre de signes si elle est importante, tous ces signes reflètent le _choc_ dû au saignement. Lorsque le sang s'extériorise, ces signes sont importants à rechercher pour apprécier la gravité de l'hémorragie. Lorsqu'il s'agit d'une hémorragie interne, seuls ces signes nous permettront de faire le diagnostic d'hémorragie.
+La perte de sang circulant dans les vaisseaux va entraîner un certain nombre de signes si elle est importante, tous ces signes reflètent le *choc* dû au saignement. Lorsque le sang s'extériorise, ces signes sont importants à rechercher pour apprécier la gravité de l'hémorragie. Lorsqu'il s'agit d'une hémorragie interne, seuls ces signes nous permettront de faire le diagnostic d'hémorragie.
 
-### **1. La pâleur**
+### 1. La pâleur
 
 Le sang, responsable de la coloration rosée des muqueuses, est en train de quitter les vaisseaux, il est moins abondant, et les petits vaisseaux périphériques ont tendance à se contracter pour diminuer le volume circulant dans certains territoires afin de privilégier d'autres organes plus nobles (cerveau, reins ... ). La pâleur se recherche au niveau des conjonctives en abaissant la paupière inférieure, à la face interne des lèvres, sous les ongles.
 
-### **2. Le pouls est rapide** (tachycardie)
+### 2. Le pouls est rapide (tachycardie)
 
 Le volume de sang disponible pour le coeur devient moins important, le coeur essaie de pallier ce manque en battant plus vite. Le pouls, habituellement battant à 60 ou 80/minute s'accélère à 100, 120 et plus, Il devient plus faiblement perçu, il est "petit", filant dans les hémorragies graves, il peut même disparaître pratiquement. On le recherchera au niveau des grosses artères: pouls radial, mais aussi au niveau de l'artère fémorale, de la carotide.
 
-### **3. La tension artérielle**
+### 3. La tension artérielle
 
 Il faut la prendre devant ces signes dès que l'on pense à l'hémorragie ou au choc. Habituellement, la maxima est supérieure à 10, aux environs de 14 à 11. La minima est aux alentours de 7-8. Lorsque l'hémorragie est importante, des modifications tensionnelles apparaissent: la maxima baisse, alors que la minima reste encore stable: on dit que la tension est pincée, 10-7 par exemple. Il est important de connaître la pression artérielle habituelle du sujet et d'interpréter les résultats en fonction des circonstances cliniques, car certaines personnes ont la tension naturellement basse à 10, et lorsque cette petite tension s'accompagne de pâleur, de tachycardie et de cause éventuelle de saignement, cela n'a bien sûr pas la même valeur qu'une tension à 10-7 découverte chez une femme habituellement bien portante et bien colorée.
 
 De même, lorsque le malade est hypertendu avec des chiffres habituels élevés (17-10, 20-11, etc.) une tension découverte à 12 chez lui est une hypotension alors que ce chiffre serait normal chez d'autres. Lorsque l'hémorragie est très importante, la tension s'abaisse alors franchement avec une maxima inférieure à 10, elle est parfois si basse qu'elle devient imprenable.
 
-### **4. D'autres signes sont possibles**
+### 4. D'autres signes sont possibles
 
 lors des hémorragies importantes:
 
-*   la soif,
-*   la froideur des doigts et des mains,
-*   les sueurs froides,
-*   l'anxiété et l'agitation du malade,
-*   les vertiges, lipothymie (malaise).
+- la soif,
+- la froideur des doigts et des mains,
+- les sueurs froides,
+- l'anxiété et l'agitation du malade,
+- les vertiges, lipothymie (malaise).
 
-### **5. Lorsque l'hémorragie se fait doucement**
+### 5. Lorsque l'hémorragie se fait doucement
 
 pendant plusieurs jours, le sang épanché est résorbé par l'organisme en partie et donne lieu à d'autres petits signes:
 
-*   fièvre à 38 °C, subictère conjonctival.
+- fièvre à 38 °C, subictère conjonctival.
 
-### **6. Chaque cause d'hémorragie**
+### 6. Chaque cause d'hémorragie
 
 enfin donne ses propres signes:
 
-*   Douleur abdominale, pertes vaginales sanglantes, douleur au toucher vaginal lors d'une grossesse extra-utérine.  
-*   Volumineux hématome de la cuisse lors des fractures du fémur.  
-*   Troubles respiratoires lors des hémothorax
+- Douleur abdominale, pertes vaginales sanglantes, douleur au toucher vaginal lors d'une grossesse extra-utérine.
 
-*   (saignement dans la cavité pleurale).
+- Volumineux hématome de la cuisse lors des fractures du fémur.
+
+- Troubles respiratoires lors des hémothorax
+
+- (saignement dans la cavité pleurale).
 
 **Comment reconnaître la gravité de l'hémorragie**
 
@@ -114,9 +116,7 @@ Chez un adulte, la quantité de sang présente dans les vaisseaux (masse sanguin
 
 Si au contraire, la perte se fait en plusieurs jours, comme dans certaines grossesses extra-utérines, le saignement est compensé peu à peu par l'organisme et les signes seront moins brutalement installés et plus difficiles à reconnaître.
 
-
 ![](i24-1.jpg)
-
 
 L'hémorragie de grande abondance est souvent facile à reconnaître, le tableau est dramatique:
 
@@ -130,16 +130,19 @@ L'hémorragie de grande abondance est souvent facile à reconnaître, le tableau
 
 L'hémorragie de moyenne abondance peut être plus difficile à reconnaître si le saignement ne s'extériorise pas, le malade peut venir consulter pour des signes qui peuvent égarer si on ne pense pas à l'hémorragie et à vérifier pâleur, pouls et tension artérielle. Le malade peut venir pour:
 
-*   des douleurs liées à l'hémorragie,
-*   une extériorisation incomplète de son hémorragie: pertes vaginales brunâtres d'une grossesse extra-utérine, selles noires et liquides d'un méléna,
-*   une fatigue brutale, des vertiges, un malaise
+- des douleurs liées à l'hémorragie,
 
-*   sur la voie publique,
-*   une petite fièvre avec douleur abdominale chez une femme saignant petit à petit d'une grossesse extra-utérine.
+- une extériorisation incomplète de son hémorragie: pertes vaginales brunâtres d'une grossesse extra-utérine, selles noires et liquides d'un méléna,
+
+- une fatigue brutale, des vertiges, un malaise
+
+- sur la voie publique,
+
+- une petite fièvre avec douleur abdominale chez une femme saignant petit à petit d'une grossesse extra-utérine.
 
 Il faut savoir enfin, que le malade ou l'entourage, s'ils ont vu le saignement, sont souvent mauvais juges pour apprécier l'importance de la perte sanguine en la surestimant toujours. Fiez-vous aux signes objectifs: pâleur, pouls, tension.
 
-**_Cas particulier: l'enfant_**
+***Cas particulier: l'enfant***
 
 Les meilleurs signes d'hémorragie chez lui sont: la pâleur et la tachycardie, il ne faut pas attendre la chute de la tension artérielle pour faire le diagnostic, car elle reste longtemps stable et, quand elle s'effondre, il est souvent trop tard.
 
@@ -147,9 +150,9 @@ Les meilleurs signes d'hémorragie chez lui sont: la pâleur et la tachycardie, 
 
 Le diagnostic d'hémorragie est clinique, il ne doit pas attendre des examens compliqués pour être affirmé. Si on dispose d'un laboratoire suffisant, deux examens sont utiles:
 
-**1.** _Le groupe sanguin du malade et de ses_ _accompagnants_, afin de pouvoir transfuser le malade au besoin grâce aux prélèvements effectués sur les gens présentant le même groupe sanguin et le même rhésus.
+**1.** *Le groupe sanguin du malade et de ses* *accompagnants*, afin de pouvoir transfuser le malade au besoin grâce aux prélèvements effectués sur les gens présentant le même groupe sanguin et le même rhésus.
 
-**2.** _La numération_ _formule sanguine_, qui permet de chiffrer la perte sanguine en montrant l'anémie.
+**2.** *La numération* *formule sanguine*, qui permet de chiffrer la perte sanguine en montrant l'anémie.
 
 - Nombre de globules rouges diminués (normal: 4 à 5 millions): hémorragie de moyenne abondance: aux environs de 3 millions, hémorragie de grande abondance: moins de 2 millions.
 
@@ -171,9 +174,9 @@ Dans certaines hémorragies d'origine utérine, un traitement d'urgence en brous
 
 **4.** Mettre en place une voie veineuse et perfuser par ordre de préférence et dans l'attente d'une transfusion de sang si elle est possible:
 
-*   des macromolécules: plasmion, rhéomacrodex, dextran,
-*   du sérum physiologique,
-*   du glucosé.
+- des macromolécules: plasmion, rhéomacrodex, dextran,
+- du sérum physiologique,
+- du glucosé.
 
 Cette perfusion doit passer à grand débit, son efficacité sera jugée sur le ralentissement du pouls et la remontée de la pression artérielle. Mais, si cela est possible, le sang reste le meilleur produit à perfuser.
 
@@ -181,8 +184,8 @@ Les autres médicaments antichoc ou antihémorragique (cortisone, adrénoxyl, vi
 
 **5.** Rechercher la cause de l'hémorragie si elle n'était pas évidente au départ:
 
-*   interroger le malade et la famille (notion de traumatisme, de grossesse),
-*   palper le ventre, ausculter le thorax, faites le toucher rectal à la recherche de méléna, et vaginal à la recherche de métrorragie et d'une douleur.
+- interroger le malade et la famille (notion de traumatisme, de grossesse),
+- palper le ventre, ausculter le thorax, faites le toucher rectal à la recherche de méléna, et vaginal à la recherche de métrorragie et d'une douleur.
 
 **6.** Diriger le plus rapidement possible vers un centre chirurgical en s'assurant que la perfusion ne se débranchera pas pendant le transport, que le malade sera surveillé tout au long du trajet avec le nécessaire pour continuer à le perfuser.
 
@@ -190,10 +193,12 @@ C'est là-bas que pourront être faits tous les gestes d'hémostase nécessaires
 
 **Hémorragie :**
 
-*   **Pâleur**
+- **Pâleur**
 
-*   **Pouls**
-*   **Pression**
-*   **Perfusion**
+- **Pouls**
 
-_Développement et Santé, n°37, février 1982_
+- **Pression**
+
+- **Perfusion**
+
+*Développement et Santé, n°37, février 1982*

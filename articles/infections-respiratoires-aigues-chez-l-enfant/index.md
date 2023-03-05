@@ -8,8 +8,8 @@ date: "1982-04-29"
 
 Une classification simple distingue:
 
-*   **L'angine et l'otite** dont l'infection ne se propage en général pas aux voies respiratoires inférieures, et dont l'incidence varie peu selon les saisons.  
-*   **Les rhumes, affections bronchiques et** **pneumopathies** qui sont beaucoup plus fréquents durant la saison froide.
+- **L'angine et l'otite** dont l'infection ne se propage en général pas aux voies respiratoires inférieures, et dont l'incidence varie peu selon les saisons.
+- **Les rhumes, affections bronchiques et** **pneumopathies** qui sont beaucoup plus fréquents durant la saison froide.
 
 La malnutrition ne semble pas jouer un rôle fondamental dans la gravité de ces infections, mais elles-mêmes peuvent retentir sur l'état nutritionnel par les difficultés d'alimentation qui les accompagnent.
 
@@ -17,36 +17,37 @@ L'âge est un facteur plus important car c'est chez le nourrisson essentiellemen
 
 Les infirmiers et médecins doivent savoir distinguer les différents types d'infection respiratoire aiguë pour les surveiller et traiter de façon adaptée. A ce niveau, le rôle de l'éducation sanitaire est autre; c'est de:
 
-*   **Limiter la contamination.**
-*   **Déceler les signes de gravité** qui doivent conduire l'enfant en urgence dans un centre de soins ou un hôpital plus équipé.  
-*   "**Mettre en condition" l'enfant au domicile** par des mesures simples qui peuvent empêcher ou limiter certaines complications.
+- **Limiter la contamination.**
+- **Déceler les signes de gravité** qui doivent conduire l'enfant en urgence dans un centre de soins ou un hôpital plus équipé.
+- "**Mettre en condition" l'enfant au domicile** par des mesures simples qui peuvent empêcher ou limiter certaines complications.
 
-### **1. La contamination**
+### 1. La contamination
 
 **a.** Une réelle prévention est le plus souvent impossible car il n'existe pas de vaccin contre l'ensemble des agents infectieux responsables. Cependant, une vaccination précoce contre la coqueluche permet de protéger le petit nourrisson à l'âge où il risque de faire la maladie la plus grave.
 
 **b.** La mère, dès les premiers signes (toux, écoulement nasal, gêne respiratoire) devrait tenir son enfant à l'écart, sinon du reste de la famille, ce qui est en général impossible, du moins des endroits où il risque de contaminer les autres et de surinfecter son organisme fragilisé (marché, fêtes).
 
-### **2. Les signes de gravité**
+### 2. Les signes de gravité
 
 **a.** Certains sont évidents et sont assez facilement reconnus spontanément :
 
-*   une respiration très rapide,
-*   une cyanose surtout visible au niveau des ongles et de la langue,
-*   une apathie avec hypotonie chez le nourrisson: l'enfant est "endormi et mou".
+- une respiration très rapide,
+- une cyanose surtout visible au niveau des ongles et de la langue,
+- une apathie avec hypotonie chez le nourrisson: l'enfant est "endormi et mou".
 
 **b.** D'autres devraient attirer l'attention plus tôt :
 
-*   un manque d'appétit,
-*   une respiration sifflante,
+- un manque d'appétit,
 
-*   surtout un battement rapide des ailes du nez: les narines semblent s'écarter et s'élargir de façon régulière au rythme des mouvements respiratoires.
+- une respiration sifflante,
+
+- surtout un battement rapide des ailes du nez: les narines semblent s'écarter et s'élargir de façon régulière au rythme des mouvements respiratoires.
 
 **c.** Les mères doivent savoir que toute infection respiratoire aiguë chez un enfant de moins de un an est potentiellement grave.
 
 **d.** L'enfant doit alors être rapidement mené au centre de santé et il sera éventuellement hospitalisé.
 
-### **3. La "mise en condition " à domicile**
+### 3. La "mise en condition " à domicile
 
 Il faut assurer la liberté des voies nasales. Les moyens sont limités :
 
@@ -56,4 +57,4 @@ Il faut assurer la liberté des voies nasales. Les moyens sont limités :
 
 **c.** Si l'enfant est fébrile, il faut lutter contre une fièvre élevée qui peut déterminer ses propres complications (convulsions). Ces maladies sont souvent plus fréquentes en saison froide mais ce n'est pas le froid qui provoque directement la maladie: il n'agit qu'en augmentant la contamination en favorisant les rassemblements et la cohabitation étroite. L'enfant ne doit donc pas être trop couvert, et des moyens simples sont parfois nécessaires pour faire baisser la fièvre.
 
-_Développement et Santé, n°38, avril 1982_
+*Développement et Santé, n°38, avril 1982*

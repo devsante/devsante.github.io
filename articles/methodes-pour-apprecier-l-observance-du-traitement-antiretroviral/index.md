@@ -16,7 +16,7 @@ Le niveau nécessaire d'observance aux antirétroviraux semble très élevé pui
 
 ## III. Les mesures de l'observance
 
-L'évaluation proprement dite de l'observance suscite d'ailleurs des interrogations puisqu'il n'existe pas d'instrument de mesure de l'observance qui puisse être considéré comme un "_gold standard_". Plusieurs méthodes sont rapportées dans la littérature.
+L'évaluation proprement dite de l'observance suscite d'ailleurs des interrogations puisqu'il n'existe pas d'instrument de mesure de l'observance qui puisse être considéré comme un "*gold standard*". Plusieurs méthodes sont rapportées dans la littérature.
 
 ### 1. Les méthodes subjectives
 
@@ -42,7 +42,7 @@ Le comptage des comprimés emportés et ramenés dans les pharmacies hospitaliè
 
 Il s'agit d'un outil technique, où certains experts biomédicaux espèrent trouver une mesure plus "objective" de la prise réelle de médicaments. Cette technique est plus sensible pour détecter la non-observance que les auto-questionnaires (6) voire que le comptage des comprimés. Mais elle se heurte, en pratique, à des limites tout aussi importantes que le recours au questionnement direct des patients. Cet outil se base sur l'utilisation de boîtes de médicaments avec dispositif électronique de comptage incorporé (MEMS caps), et n'est pas à l'abri de "détournements" de la part des patients d'autant plus que ceux-ci peuvent mal supporter ce type de contrôle et être d'autant moins incités à révéler leurs comportements réels (26). De plus, la mesure de l'observance avec ce type de méthode risque d'être biaisée à cause de l'effet "intervention" de la méthode : il n'est pas exclu que la mise à disposition de ces piluliers puisse faciliter l'observance ; la mesure ne correspondrait donc plus à ce qui pourrait se passer sans l'utilisation de ce pilulier.
 
-#### c) _"Unannounced pill count"_
+#### c) *"Unannounced pill count"*
 
 Ce type de méthode a été utilisé avec succès aux USA. Elle est basée sur des visites à domicile du patient sans prise de rendez-vous préalable. Les professionnels de santé peuvent alors mesurer le nombre de comprimés non pris et le comparer au nombre théorique de comprimés supposés restants. Cette mesure a été démontrée comme très corrélée aux résultats des piluliers électroniques, elle présente une limite éthique non négligeable (26-27).
 
@@ -57,36 +57,36 @@ Toutefois, certaines études ont pu démontrer une relation entre les concentrat
 
 Bien que souvent décrite dans la littérature comme une méthode manquant de sensibilité, des auto-questionnaires restent la technique la plus utilisée pour rechercher les comportements de non-observance. Les recherches actuelles tendent à augmenter la spécificité de la mesure de l'observance par les auto-questionnaires; elles montrent que l'observance est un comportement dynamique, variant au cours du temps et qu'elle est influencée en premier lieu par le vécu du patient. Cette approche converge avec les préoccupations de nombreux cliniciens afin de promouvoir une approche "empathique" de l'observance. Elle reconnaît que tout patient confronté à des traitements aussi complexes (25) provoquant des d'effets secondaires aussi importants que ceux entraînés par les actuelles multithérapies rencontrera, à un moment ou un autre, des difficultés de suivi de son régime thérapeutique et qu'il faut donc établir, avec la participation active des patients eux-mêmes, les plans de traitement individualisés les mieux à même de les faire bénéficier au maximum des traitements.
 
-**_Bibliographie :_**
+***Bibliographie :***
 
-1. Dunbar, J., Predictors of patient adherence : patient characteristics. The handbook of health behauior change, ed. S. Shumaker and and-coll., New-York: Springer Pub Co, 1990.  
-2. Janz, N. and M. Becker, The health belief model : a decade later Nlth Educ Quart, 1984. 11: p. 1-47.  
-3. Tourette-Turgis C.. Rébillon M., "Un modèle d'intervention counseling sur l'observance thérapeutique: MOTHIV", Mettre en place une consultation d'observance aux traitements contre le VIH/SIDA-De la théorie à la pratique. Paris, Comment Dire, 2002, p. 99-122.  
-4. Le Moing, V, et al., Clinical, biologic, and behauioral predictors of early immunologic and virologic response in HIV-infected patients initiating protease inhibitors. J Acquir Immune Defic Syndr, 2001. 27(4): p. 372-6.  
-5. Haubrich, R.H., et al., The value of patient-reported adherence to antiretroviral therapy in predicting virologic and immunologic response. California Collaborative Treatment Group. AIDS, 1999. 13(9): p. 1099-107.  
-6. Bangsberg, D.R., et al.. Adherence to protease inhibitors, HIV-1 viral load, and development of drug resistance in an indigent population. AIDS, 2000. 14(4): p. 357-66.  
-7. Bangsberg, D.R., et al., Non-adherence to highly active antiretroviral therapy predicts progression to AIDS. AIDS, 2001. 15(9): p. 1181-3.  
-8. Paterson, D.L., et al., Adherence to protease inhibitor therapy and outcomes in patients with HIV infection. Ann Intern Med, 2000. 133(1): p. 21-30.  
-9. Oyugi JH, Byakika-Tusüme J, Ragland K, Laeyendecker O, Mugerwa R, Kityo C, Mugyenyi P, Quinn TC, Bangsberg DR, Treatment interruptions predict resistance in HIV-positiue individuals purchasing fixed-dose combination antiretroviral therapy in Kampala, Uganda, AIDS, May 11;21(8):965-71. 2007.  
-10. Wainberg, M. and G. Friedland, Public health implications of antiretrouiral therapy and HIV drug resistance. JAMA, 1998. 279(24): p. 1977-83.  
-11. Bangsberg, D.R., et al., High levels of adherence do not prevent accumulation of HIV drug resistance mutations. Aids, 2003. 17(13): p. 1925-32.  
-12. Cingolani, A., et al., Usefulness of monitoring HIV drug resistance and adherence in individuals failing highly active antiretroviral therapy: a randomized study (ARGENTA). Aids, 2002. 16(3): p. 369-79.  
-13. Sethi, A.K., et al., Association between Adherence to Antiretrouiral Therapy and Human Immunodeficiency Virus Drug Resistance. Clin Infect Dis, 2003. 37(8): p. 1112-1118.  
-14. Chesney, M.A., M. Morin, and L. Sherr, Adherence ta HIV combination therapy. Soc Sci Med, 2000. 50(11): p. 1599-605.  
-15. Gerbert, B., et al., Combination antiretrouiral therapy : health care providers confront emerging dilemmas. AIDS Care, 2000. 12: p. 409-421.  
-16. Roberts, K.J. and P Volberding, Adherence communication: a qualitative analysis of physicianpatient dialogue. AIDS, 1999. 13(13): p. 1771-8.  
-17. Miller. L.G., et al., How well do clinicians estimate patients' adherence ta combination antiretrouiral therapy? J Gen Intern Med, 2002. 17(1): p. 1-11.  
-18. Morisky, D., L. Green, and D. Levine, Concurrent and predictiue validity of a self-reported measure of medication adherence. Med Care, 1986. 24: p. 6774.  
-19. Wagner, G. and J. Rabkin, Measuring medication adherence : are missed doses reported more accurately thon perfect adherence. AIDS Care, 2000. 12: p. 405-408.  
-20. Gifford, A.L., et al., Predictors of self-reported adherence and plasma HIV concentrations in patients on multidrug antiretrouiral regimens. J Acquir Immune Defic Syndr, 2000. 23(5): p. 38695.  
-21. Marcellin, F, et al., Do migrants overreport adherence to highly active antiretroviral therapy?: results from the French VESPA (ANRS-EN12) National Survey. J Acquir Immune Defic Syndr, 2006. 42(5): p. 646-7.  
-22. Duran, S., et al., 'Do HIV-infected injecting drug users over-report adherence ta highly active antiretroviral therapy?' A comparison between patients' self- reports and serum protease inhibitor concentrations in the French Manif 2000 cohort study. AIDS, 2001. 15(8): p. 1075-7.  
-23. Ferradini, L., et al., Scaling up of highly active antiretroviral therapy in a rural district of Malawi: an effectiueness assessmen t. Lancet, 2006. 367(9519): p. 1335-42.  
-24. Duran, S., et al., The detection of non-adherence by self-administered questionnaires con be optimized by protease inhibitor plasma concentration determination. AIDS, 2003. 17(7): p. 1096-9.  
-25. Golin, C., et al. Self-reported adherence to protease inhibitors substantially ouerestimates an objective [measure. in](http://measure.in/) 6th conference on retrovirus and opportunistic infections. 1999. Chicago.  
-26. Miller, L.G. and R.D. Hays, Adherence to combination antiretroviral therapy: synthesis of the literature and clinical implications. AIDS Read, 2000. 10(3): p. 177-85.  
-27. Oyugi, J.H., et al., Multiple ualidated measures of adherence indicate high leuels of adherence ta generic HIV antiretroviral therapy in a resourcelimited setting. J Acquir Immune Defic Syndr, 2004. 36(5): p. 1100-2.  
-28. Lorenzi, P, et al., Toxicity, efficacy, plasma drug concentrations and protease mutations in patients with HIV infection treated with ritonavir plus saquinavir, AIDS, 1997. 11(12): p. F95-F99.  
+1.  Dunbar, J., Predictors of patient adherence : patient characteristics. The handbook of health behauior change, ed. S. Shumaker and and-coll., New-York: Springer Pub Co, 1990.
+2.  Janz, N. and M. Becker, The health belief model : a decade later Nlth Educ Quart, 1984. 11: p. 1-47.
+3.  Tourette-Turgis C.. Rébillon M., "Un modèle d'intervention counseling sur l'observance thérapeutique: MOTHIV", Mettre en place une consultation d'observance aux traitements contre le VIH/SIDA-De la théorie à la pratique. Paris, Comment Dire, 2002, p. 99-122.
+4.  Le Moing, V, et al., Clinical, biologic, and behauioral predictors of early immunologic and virologic response in HIV-infected patients initiating protease inhibitors. J Acquir Immune Defic Syndr, 2001. 27(4): p. 372-6.
+5.  Haubrich, R.H., et al., The value of patient-reported adherence to antiretroviral therapy in predicting virologic and immunologic response. California Collaborative Treatment Group. AIDS, 1999. 13(9): p. 1099-107.
+6.  Bangsberg, D.R., et al.. Adherence to protease inhibitors, HIV-1 viral load, and development of drug resistance in an indigent population. AIDS, 2000. 14(4): p. 357-66.
+7.  Bangsberg, D.R., et al., Non-adherence to highly active antiretroviral therapy predicts progression to AIDS. AIDS, 2001. 15(9): p. 1181-3.
+8.  Paterson, D.L., et al., Adherence to protease inhibitor therapy and outcomes in patients with HIV infection. Ann Intern Med, 2000. 133(1): p. 21-30.
+9.  Oyugi JH, Byakika-Tusüme J, Ragland K, Laeyendecker O, Mugerwa R, Kityo C, Mugyenyi P, Quinn TC, Bangsberg DR, Treatment interruptions predict resistance in HIV-positiue individuals purchasing fixed-dose combination antiretroviral therapy in Kampala, Uganda, AIDS, May 11;21(8):965-71. 2007.
+10. Wainberg, M. and G. Friedland, Public health implications of antiretrouiral therapy and HIV drug resistance. JAMA, 1998. 279(24): p. 1977-83.
+11. Bangsberg, D.R., et al., High levels of adherence do not prevent accumulation of HIV drug resistance mutations. Aids, 2003. 17(13): p. 1925-32.
+12. Cingolani, A., et al., Usefulness of monitoring HIV drug resistance and adherence in individuals failing highly active antiretroviral therapy: a randomized study (ARGENTA). Aids, 2002. 16(3): p. 369-79.
+13. Sethi, A.K., et al., Association between Adherence to Antiretrouiral Therapy and Human Immunodeficiency Virus Drug Resistance. Clin Infect Dis, 2003. 37(8): p. 1112-1118.
+14. Chesney, M.A., M. Morin, and L. Sherr, Adherence ta HIV combination therapy. Soc Sci Med, 2000. 50(11): p. 1599-605.
+15. Gerbert, B., et al., Combination antiretrouiral therapy : health care providers confront emerging dilemmas. AIDS Care, 2000. 12: p. 409-421.
+16. Roberts, K.J. and P Volberding, Adherence communication: a qualitative analysis of physicianpatient dialogue. AIDS, 1999. 13(13): p. 1771-8.
+17. Miller. L.G., et al., How well do clinicians estimate patients' adherence ta combination antiretrouiral therapy? J Gen Intern Med, 2002. 17(1): p. 1-11.
+18. Morisky, D., L. Green, and D. Levine, Concurrent and predictiue validity of a self-reported measure of medication adherence. Med Care, 1986. 24: p. 6774.
+19. Wagner, G. and J. Rabkin, Measuring medication adherence : are missed doses reported more accurately thon perfect adherence. AIDS Care, 2000. 12: p. 405-408.
+20. Gifford, A.L., et al., Predictors of self-reported adherence and plasma HIV concentrations in patients on multidrug antiretrouiral regimens. J Acquir Immune Defic Syndr, 2000. 23(5): p. 38695.
+21. Marcellin, F, et al., Do migrants overreport adherence to highly active antiretroviral therapy?: results from the French VESPA (ANRS-EN12) National Survey. J Acquir Immune Defic Syndr, 2006. 42(5): p. 646-7.
+22. Duran, S., et al., 'Do HIV-infected injecting drug users over-report adherence ta highly active antiretroviral therapy?' A comparison between patients' self- reports and serum protease inhibitor concentrations in the French Manif 2000 cohort study. AIDS, 2001. 15(8): p. 1075-7.
+23. Ferradini, L., et al., Scaling up of highly active antiretroviral therapy in a rural district of Malawi: an effectiueness assessmen t. Lancet, 2006. 367(9519): p. 1335-42.
+24. Duran, S., et al., The detection of non-adherence by self-administered questionnaires con be optimized by protease inhibitor plasma concentration determination. AIDS, 2003. 17(7): p. 1096-9.
+25. Golin, C., et al. Self-reported adherence to protease inhibitors substantially ouerestimates an objective [measure. in](http://measure.in/) 6th conference on retrovirus and opportunistic infections. 1999. Chicago.
+26. Miller, L.G. and R.D. Hays, Adherence to combination antiretroviral therapy: synthesis of the literature and clinical implications. AIDS Read, 2000. 10(3): p. 177-85.
+27. Oyugi, J.H., et al., Multiple ualidated measures of adherence indicate high leuels of adherence ta generic HIV antiretroviral therapy in a resourcelimited setting. J Acquir Immune Defic Syndr, 2004. 36(5): p. 1100-2.
+28. Lorenzi, P, et al., Toxicity, efficacy, plasma drug concentrations and protease mutations in patients with HIV infection treated with ritonavir plus saquinavir, AIDS, 1997. 11(12): p. F95-F99.
 29. Murri, R., et al., Patient-reported nonadherence te, HAART is related to protease inhibitor levels. J Acquir Immune Defic Syndr, 2000, 24(2): p. 123-8.
 
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

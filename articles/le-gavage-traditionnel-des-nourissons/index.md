@@ -6,9 +6,9 @@ date: "1994-06-05"
 
 **Le gavage traditionnel des nourrissons**
 
-**par Arnaud Buffin***
+**par Arnaud Buffin**\*
 
-* Médecin-généraliste, Tokombéré, Cameroun.
+- Médecin-généraliste, Tokombéré, Cameroun.
 
 L'aire de santé de Tokombéré (Nord-Cameroun) regroupe environ 60 000 habitants appartenant à sept ethnies principales. Son Centre de Promotion de la Santé accueille beaucoup d'enfants atteints, entre autres, d'infections respiratoires. Celles-ci sont parfois secondaires à la pratique très courante du gavage.
 
@@ -26,9 +26,9 @@ Des morts subites par asphyxie (véritable noyade) et des brûlures de la régio
 
 **Il. Enquête auprès des femmes**
 
-Nous rapportons ici les réponses aux questions : _"Pourquoi et comment gavez-vous vos enfants ?"_ Elles varient d'une ethnie à l'autre mais nous n'avons pas tenu compte ici de ces distinctions en les exposant.
+Nous rapportons ici les réponses aux questions : *"Pourquoi et comment gavez-vous vos enfants ?"* Elles varient d'une ethnie à l'autre mais nous n'avons pas tenu compte ici de ces distinctions en les exposant.
 
-*   **Qui et comment gave-t-on?**
+- **Qui et comment gave-t-on?**
 
 Les nouveau-nés sont les premiers concernés, puis les nourrissons jusqu'à un ou deux ans. La mère utilise initialement la cuillère les premières semaines de vie, puis sa main qu'elle applique sous la bouche de l'enfant. Elle-même prenait autrefois le liquide dans sa bouche et le lui administrait directement.
 
@@ -36,31 +36,31 @@ Elle gave plusieurs fois par jours (3 à 8 fois) et souvent la nuit (2 à 5 fois
 
 À l'eau chaude, peuvent être ajoutés du beurre, du patron, de l'eau de mil rouge ; l'eau est parfois mélangée aux fonds de marmite ayant servi à griller le mil.
 
-*   **Pourquoi?**
+- **Pourquoi?**
 
-Les vertus du gavage et les modalités d'exécution sont clairement exposées par les femmes interrogées ; elles sont nombreuses, dictées _par la tradition, les ancêtres, Dieu lui-même, et transmises aux mères par leurs parents, belles-mères_ ou _entourage proche "._
+Les vertus du gavage et les modalités d'exécution sont clairement exposées par les femmes interrogées ; elles sont nombreuses, dictées *par la tradition, les ancêtres, Dieu lui-même, et transmises aux mères par leurs parents, belles-mères* ou *entourage proche ".*
 
 La pratique n'est pas toujours exécutée de bon coeur et beaucoup de mères y sont contraintes, tout au moins en milieu rural où la tradition reste forte.
 
-L'eau chaude ainsi donnée est _" indispensable à la vie, une longue vie, à la survie, à_ la bonne _croissance de l'enfant ; celui-ci pourra bien se développer, puis consolider ses os, muscles et articulations, marcher rapidement, lutter contre les maladies et la mort, résister à la noyade, guérir la plaie ombilicale, posséder la force et l'intelligence "._
+L'eau chaude ainsi donnée est *" indispensable à la vie, une longue vie, à la survie, à* la bonne *croissance de l'enfant ; celui-ci pourra bien se développer, puis consolider ses os, muscles et articulations, marcher rapidement, lutter contre les maladies et la mort, résister à la noyade, guérir la plaie ombilicale, posséder la force et l'intelligence ".*
 
-_" L'eau chaude, premier et meilleur aliment du nouveau-né facilite la tétée, la digestion, complète l'alimentation lactée, car le lait seul, insuffisant pour une bonne nutrition, colle à la langue et provoque des plaies_ dans _la bouche ; l'eau nettoie et élargit la bouche, l'estomac ; elle prévient la faim et la soif, soigne les coliques abdominales... "_
+*" L'eau chaude, premier et meilleur aliment du nouveau-né facilite la tétée, la digestion, complète l'alimentation lactée, car le lait seul, insuffisant pour une bonne nutrition, colle à la langue et provoque des plaies* dans *la bouche ; l'eau nettoie et élargit la bouche, l'estomac ; elle prévient la faim et la soif, soigne les coliques abdominales... "*
 
-L'eau chaude _" apporte la chaleur_ dans _le corps alors que l'enfant quitte le sein maternel et rencontre la fraîcheur de l'extérieur; elle habitue d'un autre côté le corps à supporter la saison chaude "._
+L'eau chaude *" apporte la chaleur* dans *le corps alors que l'enfant quitte le sein maternel et rencontre la fraîcheur de l'extérieur; elle habitue d'un autre côté le corps à supporter la saison chaude ".*
 
-_<<sup>,</sup> Elle tue les microbes, lutte contre la diarrhée et les vomissements et,_ au _contraire de l'eau froide, n'apporte pas de maladies.<sup>,,</sup>_
+*<<sup>,</sup> Elle tue les microbes, lutte contre la diarrhée et les vomissements et,* au *contraire de l'eau froide, n'apporte pas de maladies.<sup>,,</sup>*
 
-_" Elle favorise une bonne circulation sanguine et augmente la quantité de_ sang _dans l'organisme. "_
+*" Elle favorise une bonne circulation sanguine et augmente la quantité de* sang *dans l'organisme. "*
 
-Le gavage permet à l'enfant: _" de bien respirer, de chasser le rhume, de nettoyer les bronches. "Après_ un an, _le massage du corps avec l'eau ayant servi au gavage"_ solidifie le thorax, rend la peau luisante, évite les paralysies, détend les membres ".
+Le gavage permet à l'enfant: *" de bien respirer, de chasser le rhume, de nettoyer les bronches. "Après* un an, *le massage du corps avec l'eau ayant servi au gavage"* solidifie le thorax, rend la peau luisante, évite les paralysies, détend les membres ".
 
-Enfin, l'eau chaude: _" calme les pleurs de l'enfant et apaise son sommeil"._
+Enfin, l'eau chaude: *" calme les pleurs de l'enfant et apaise son sommeil".*
 
 Beaucoup de mères n'expliquent ni ne connaissent les raisons du gavage, elles font comme les autres femmes, ou parce qu'elles y ont été elles-mêmes soumises.
 
 • **Comment le gavage devient dangereux ?**
 
-L'ingestion d'eau chaude _" est en soi néfaste pour l'enfant si elle n'est pas préalablement filtrée, puis bouillie ou javellisée._ Sans _avoir d'effet bénéfique majeur sur le maintien d'une bonne hydratation d'un petit enfant nourri exclusivement_ au _sein, elle peut apporter toutes sortes de germes entéropathogènes ",_ rapporte Tetanye Ekoe, dans une étude auprès des nourrissons vivant dans les villages voisins de Maroua. Cet argument est d'ailleurs utilisé par les défenseurs de l'allaitement maternel contre l'usage des laits artificiels nécessitant une reconstitution avec de l'eau.
+L'ingestion d'eau chaude *" est en soi néfaste pour l'enfant si elle n'est pas préalablement filtrée, puis bouillie ou javellisée.* Sans *avoir d'effet bénéfique majeur sur le maintien d'une bonne hydratation d'un petit enfant nourri exclusivement* au *sein, elle peut apporter toutes sortes de germes entéropathogènes ",* rapporte Tetanye Ekoe, dans une étude auprès des nourrissons vivant dans les villages voisins de Maroua. Cet argument est d'ailleurs utilisé par les défenseurs de l'allaitement maternel contre l'usage des laits artificiels nécessitant une reconstitution avec de l'eau.
 
 Ce qui apparaît également néfaste pour l'enfant, c'est le caractère forcé du gavage, laissant alors pénétrer volontairement ou non l'eau dans les voies respiratoires.
 
@@ -82,9 +82,9 @@ Nous devons travailler avec deux exigences :
 
 Initiatique, vitale, nutritive, curative... Car elle est née d'une longue expérience et réalise peut-être une réelle adaptation aux conditions du milieu.
 
-L'ethnologue Pierre Emy évoque les difficultés que nous rencontrerons ; il écrit: _" La mère africaine se conduit selon les modèles qu'elle a couramment sous les yeux, à la manière dont elle-même a été élevée et dont elle a procédé dès son jeune âge quand elle s'occupait de ses cadets... Ces pratiques de puériculture, peu conscientes et peu réfléchies, ce qui ne veut nullement dire qu'elles restent floues, ont un caractère socialement obligatoire qui leur confère une rigidité. C'est parce que tout le monde fait ainsi, et que l'entourage n'admettrait pas que l'on déroge à la règle, que la mère est en quelque sorte dispensée de réfléchir à l'éducation qu'elle va donner... Elle n'a qu'à se laisser porter par le courant, se conformer aux multiples impératifs que la tradition lui impose. "_
+L'ethnologue Pierre Emy évoque les difficultés que nous rencontrerons ; il écrit: *" La mère africaine se conduit selon les modèles qu'elle a couramment sous les yeux, à la manière dont elle-même a été élevée et dont elle a procédé dès son jeune âge quand elle s'occupait de ses cadets... Ces pratiques de puériculture, peu conscientes et peu réfléchies, ce qui ne veut nullement dire qu'elles restent floues, ont un caractère socialement obligatoire qui leur confère une rigidité. C'est parce que tout le monde fait ainsi, et que l'entourage n'admettrait pas que l'on déroge à la règle, que la mère est en quelque sorte dispensée de réfléchir à l'éducation qu'elle va donner... Elle n'a qu'à se laisser porter par le courant, se conformer aux multiples impératifs que la tradition lui impose. "*
 
-*   **Concrètement :**
+- **Concrètement :**
 
 Nous pouvons réfléchir ensemble lors de réunions de Comité de Vie au village, de séances de PMI ou de démonstrations nutritionnelles aux possibilités de conjuguer l'esprit qui anime la puériculture traditionnelle à une pratique moins dangereuse pour les enfants. Nous pouvons inciter les villageois à s'interroger sur tout ce qui fait l'importance du gavage dans leur tradition : technique, liquide utilisé, bienfaits attendus et obtenus, relation de l'enfant à la mère, au père, rapport à l'allaitement maternel, à l'éducation. Les infirmiers de l'hôpital aussi agents itinérants et les responsables villageois de la santé regardent avec eux ce qui peut être modifié ou amélioré. Pour le moment, les femmes sont invitées à donner l'eau chaude à l'aide d'une cuiller ou d'un gobelet par petite quantité (nous nous heurtons cependant au caractère " peu rassasiant " de la cuiller, au " refus " de celle-ci par l'enfant), à faire bouillir l'eau et s'assurer avant de la donner qu'elle ait suffisamment tiédi, à ne pas boucher le nez, ni utiliser la force.
 

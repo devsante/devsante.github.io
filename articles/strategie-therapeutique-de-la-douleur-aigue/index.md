@@ -12,7 +12,7 @@ La survenue de la douleur est tout à fait imprévisible : ainsi en postopérato
 
 ### 1. Les causes
 
-**Il existe de nombreuses causes de douleurs aiguës (_tableau n° 1_).**
+**Il existe de nombreuses causes de douleurs aiguës (*tableau n° 1*).**
 
 La douleur aiguë s'atténue habituellement d'elle-même si la cause est supprimée: ceci a été un argument avancé par certains pour ne pas la traiter. Pourtant, négliger la douleur est responsable de troubles plus ou moins importants (cf. ci-dessous) et peut parfois être à l'origine d'un syndrome douloureux chronique. Parfois, la douleur aiguë est l'exacerbation de phénomènes chroniques (paroxysmes douloureux chez un malade cancéreux par exemple) ou est récurrente par nature (drépanocytose).
 
@@ -20,7 +20,7 @@ Comme il s'agit d'un symptôme, il est important de ne la traiter que si sa caus
 
 ### 2. Évaluation de la douleur
 
-La perception de l'intensité de la douleur est éminemment variable d'un individu à l'autre, ce qui peut expliquer des réponses très différentes aux traitements. C'est ainsi que des taux plasmatiques identiques d'un morphinique permettront une analgésie satisfaisante chez un malade mais insuffisante chez un autre. Par ailleurs, la perception de la douleur met en jeu d'autres facteurs, qui peuvent être psychologiques (importance de l'anxiété, de la peur, de la dépression) (_figure n° 1_), culturels, génétiques. Il faut bien se garder de porter des jugements de valeur hâtifs devant un patient se plaignant de douleurs très vives, mais plutôt lui faire comprendre qu'on croit ce qu'il dit et apprécier ce que cette douleur signifie pour lui (maladie associée à des difficultés familiales, à une peur de l'avenir ... ) : ceci n'empêche pas le médecin d'analyser les dires du malade et de les confronter aux données " objectives " de l'examen.
+La perception de l'intensité de la douleur est éminemment variable d'un individu à l'autre, ce qui peut expliquer des réponses très différentes aux traitements. C'est ainsi que des taux plasmatiques identiques d'un morphinique permettront une analgésie satisfaisante chez un malade mais insuffisante chez un autre. Par ailleurs, la perception de la douleur met en jeu d'autres facteurs, qui peuvent être psychologiques (importance de l'anxiété, de la peur, de la dépression) (*figure n° 1*), culturels, génétiques. Il faut bien se garder de porter des jugements de valeur hâtifs devant un patient se plaignant de douleurs très vives, mais plutôt lui faire comprendre qu'on croit ce qu'il dit et apprécier ce que cette douleur signifie pour lui (maladie associée à des difficultés familiales, à une peur de l'avenir ... ) : ceci n'empêche pas le médecin d'analyser les dires du malade et de les confronter aux données " objectives " de l'examen.
 
 **Tableau n° 1. Quelques exemples de douleurs aiguës**
 
@@ -70,31 +70,29 @@ On voit poindre en filigrane l'importance de l'évaluation. Cette dernière doit
 
 Un certain nombre de points sont alors à considérer :
 
-*   la ou les _localisation(s) ;_
-*   l'existence d'une douleur projetée (par exemple douleur au niveau du bras gauche contemporaine d'un infarctus du myocarde),
-*   la _nature_ de cette douleur : par exemple, si elle est localisée dans un territoire bien déterminé, on pourra évoquer une irritation nerveuse, alors que, si elle touche un territoire vaste, mal défini, on envisagera plutôt une exacerbation anxieuse. Une douleur pulsatile, battante, à type d'élancement fait envisager une cause inflammatoire, alors qu'une douleur en éclair fait évoquer une atteinte nerveuse. Une douleur à type de crampe ou de colique fait évoquer une douleur viscérale alors que, si elle est lancinante, on la rattachera plutôt aux éléments somatiques, muscles ou peau;
-*   l_'intensité_ : pour ce dernier point, il est souhaitable d'utiliser des échelles qui permettent de la quantifier. Par exemple, on demandera au malade de lui attribuer un chiffre allant de zéro à dix, zéro correspondant à l'absence de douleur et dix correspondant à la douleur la plus atroce qu'il puisse imaginer. Parfois ces scores de douleur varient énormément dans le temps, d'où la nécessité d'évaluations rapprochées ;
-*   _l'existence de signes généraux_ : tachycardie, augmentation de la tension artérielle et de la fréquence respiratoire, sueurs, vomissements, pâleur...
-
+- la ou les *localisation(s) ;*
+- l'existence d'une douleur projetée (par exemple douleur au niveau du bras gauche contemporaine d'un infarctus du myocarde),
+- la *nature* de cette douleur : par exemple, si elle est localisée dans un territoire bien déterminé, on pourra évoquer une irritation nerveuse, alors que, si elle touche un territoire vaste, mal défini, on envisagera plutôt une exacerbation anxieuse. Une douleur pulsatile, battante, à type d'élancement fait envisager une cause inflammatoire, alors qu'une douleur en éclair fait évoquer une atteinte nerveuse. Une douleur à type de crampe ou de colique fait évoquer une douleur viscérale alors que, si elle est lancinante, on la rattachera plutôt aux éléments somatiques, muscles ou peau;
+- l\_'intensité\_ : pour ce dernier point, il est souhaitable d'utiliser des échelles qui permettent de la quantifier. Par exemple, on demandera au malade de lui attribuer un chiffre allant de zéro à dix, zéro correspondant à l'absence de douleur et dix correspondant à la douleur la plus atroce qu'il puisse imaginer. Parfois ces scores de douleur varient énormément dans le temps, d'où la nécessité d'évaluations rapprochées ;
+- *l'existence de signes généraux* : tachycardie, augmentation de la tension artérielle et de la fréquence respiratoire, sueurs, vomissements, pâleur...
 
 ![](i748-1-web.jpg)
 
-
 **Figure n° 1. Relation de la douleur aiguë avec d'autres composantes du stress.**
 
-### **3. Conséquences**
+### 3. Conséquences
 
-Il faut avoir en tête que la douleur peut avoir des _conséquences néfastes_ pour un malade.
+Il faut avoir en tête que la douleur peut avoir des *conséquences néfastes* pour un malade.
 
 Ainsi, il existe des **complications** :
 
-*   pulmonaires : la douleur va gêner la toux, favorisant la survenue d'atélectasies et l'apparition d'une hypoxie ;
-*   cardiovasculaires : l'hyperactivité est sympathique, responsable d'une augmentation de la fréquence cardiaque et de la tension artérielle ainsi que du travail cardiaque ;
-*   digestives : l'hyperfonctionnement sympathique augmente les sécrétions intestinales et le tonus des sphincters, et diminue la mobilité gastrique pouvant être responsable d'une stase gastrique et intestinale.  
-*   des mécanismes analogues peuvent être responsables de certaines rétentions d'urines ;
-*   hormonales, source d'une rétention hydrosodée avec oedème et d'une hyperglycémie,
-*   manifestations psychiatriques : agitation, délire, troubles du sommeil, troubles psychotiques, agressivité ;
-*   thrombo-emboliques : la diminution de la mobilité favorise la stase veineuse, l'agrégation plaquettaire, la thrombose profonde et l'embolie pulmonaire.
+- pulmonaires : la douleur va gêner la toux, favorisant la survenue d'atélectasies et l'apparition d'une hypoxie ;
+- cardiovasculaires : l'hyperactivité est sympathique, responsable d'une augmentation de la fréquence cardiaque et de la tension artérielle ainsi que du travail cardiaque ;
+- digestives : l'hyperfonctionnement sympathique augmente les sécrétions intestinales et le tonus des sphincters, et diminue la mobilité gastrique pouvant être responsable d'une stase gastrique et intestinale.
+- des mécanismes analogues peuvent être responsables de certaines rétentions d'urines ;
+- hormonales, source d'une rétention hydrosodée avec oedème et d'une hyperglycémie,
+- manifestations psychiatriques : agitation, délire, troubles du sommeil, troubles psychotiques, agressivité ;
+- thrombo-emboliques : la diminution de la mobilité favorise la stase veineuse, l'agrégation plaquettaire, la thrombose profonde et l'embolie pulmonaire.
 
 ## II. Stratégie thérapeutique
 
@@ -110,11 +108,11 @@ Pour ce qui est des médicaments, on a recours, seuls ou en association, aux ant
 
 Les AINS ont une action antalgique, anti-inflammatoire et antipyrétique ; le paracétamol que l'on rattache à cette classe de médicaments a peu d'action anti-inflammatoire. Les AINS sont responsables d'effets secondaires bien connus :
 
-*   digestifs : ulcère, perforation,
-*   rénaux : possibilité d'une insuffisance rénale aiguë chez un patient hypovolémique,
-*   allergiques : asthme, diarrhées,
-*   anti-agrégant plaquettaire pour les salicylés.  
-*   Des précautions particulières s'imposent chez l'enfant.
+- digestifs : ulcère, perforation,
+- rénaux : possibilité d'une insuffisance rénale aiguë chez un patient hypovolémique,
+- allergiques : asthme, diarrhées,
+- anti-agrégant plaquettaire pour les salicylés.
+- Des précautions particulières s'imposent chez l'enfant.
 
 #### b. Le paracétamol
 
@@ -124,17 +122,15 @@ Le paracétamol, dont l'action antalgique peut être moins puissante que celle d
 
 Les morphiniques : ils ne sont pas tous identiques. On les classe en fonction de :
 
-*   leur puissance : il est classique d'effectuer une différence entre morphiniques "faibles" et morphiniques " forts". L'utilisation des premiers est habituellement limitée par l'apparition d'effets secondaires inacceptables lors de l'augmentation des doses ; ces médicaments sont donc réservés aux douleurs considérées comme modérées;
-*   leur action sur les récepteurs morphiniques (il existe un certain nombre de récepteurs mu, kappa, sigma, delta) ;
-*   la relation dose-effet qui permet d'individualiser quatre classes de produits _(figu_re _n° 2) :_
-    *   agonistes qui se lient aux récepteurs qu'ils activent, entràinant une réponse dose dépendante (exemple la morphine),
-    *   agonistes partiels qui se lient aussi aux récepteurs qu'ils activent mais qui n'entraînent jamais une réponse maximale malgré l'augmentation des doses (effet plafond) (exemple la buprénorphine),
-    *   les antagonistes qui sont des morphiniques n'ont pas d'action propre mais ils sont capables de lever l'action d'un agoniste en le déplaçant de son récepteur (exemple la naloxone) : il s'agit des produits que l'on utilise dans les surdosages morphiniques,
-    *   les agonistes antagonistes qui agissent en même temps sur des récepteurs différents, pouvant être agonistes sur un récepteur et antagonistes sur un autre, leur activité étant partielle ou totale (exemple : la pentazocine).
-
+- leur puissance : il est classique d'effectuer une différence entre morphiniques "faibles" et morphiniques " forts". L'utilisation des premiers est habituellement limitée par l'apparition d'effets secondaires inacceptables lors de l'augmentation des doses ; ces médicaments sont donc réservés aux douleurs considérées comme modérées;
+- leur action sur les récepteurs morphiniques (il existe un certain nombre de récepteurs mu, kappa, sigma, delta) ;
+- la relation dose-effet qui permet d'individualiser quatre classes de produits \_(figu_re *n° 2) :*
+  - agonistes qui se lient aux récepteurs qu'ils activent, entràinant une réponse dose dépendante (exemple la morphine),
+  - agonistes partiels qui se lient aussi aux récepteurs qu'ils activent mais qui n'entraînent jamais une réponse maximale malgré l'augmentation des doses (effet plafond) (exemple la buprénorphine),
+  - les antagonistes qui sont des morphiniques n'ont pas d'action propre mais ils sont capables de lever l'action d'un agoniste en le déplaçant de son récepteur (exemple la naloxone) : il s'agit des produits que l'on utilise dans les surdosages morphiniques,
+  - les agonistes antagonistes qui agissent en même temps sur des récepteurs différents, pouvant être agonistes sur un récepteur et antagonistes sur un autre, leur activité étant partielle ou totale (exemple : la pentazocine).
 
 ![](i748-2-web.jpg)
-
 
 **Figure n° 2. Courbe dose-réponse des différentes classes de morphiniques.**
 
@@ -150,13 +146,13 @@ La voie orale n'est sans doute pas la voie idéale d'administration des morphini
 
 Il est souhaitable alors d'effectuer une "titration" initiale intraveineuse qui permet de donner la quantité la plus faible permettant d'obtenir un soulagement, ce qui limite également le risque d'effets secondaires, et en particulier la dépression respiratoire : on administre de façon répétée des petits bolus de 1 à 2 milligrammes IV toutes les 5 minutes jusqu'à obtention d'un apaisement de la douleur. La "titration" permet d'avoir également une idée de la sensibilité aux morphiniques mais malheureusement ne permet pas de façon précise de prévoir la dose d'entretien.
 
-La dose d'entretien doit être administrée régulièrement en tenant compte des caractéristiques du produit choisi ou si on dispose de matériel de perfusion, de façon continue à la seringue électrique ou en administration autocontrôlée par le malade (" PCA " pour " _patient-controlled analgesia ")._ La voie spinale permet une analgésie de qualité après administration d'une dose faible de morphinique : elle est néanmoins sophistiquée et nécessite une surveillance très particulière et donc rarement utilisée.
+La dose d'entretien doit être administrée régulièrement en tenant compte des caractéristiques du produit choisi ou si on dispose de matériel de perfusion, de façon continue à la seringue électrique ou en administration autocontrôlée par le malade (" PCA " pour " *patient-controlled analgesia ").* La voie spinale permet une analgésie de qualité après administration d'une dose faible de morphinique : elle est néanmoins sophistiquée et nécessite une surveillance très particulière et donc rarement utilisée.
 
-### **2. Approche anesthésique**
+### 2. Approche anesthésique
 
 Les anesthésiques locaux permettent d'obtenir une analgésie en agissant sur la douleur de fond mais aussi sur celle des paroxysmes : ils sont utilisés au cours des infiltrations et des blocs nerveux. Avec les produits du groupe " amide " (lidocaïne ou Xylocaïne®, bupivacaïne ou Marcaïne®) les accidents allergiques sont rares ; par contre, il faut être vigilant quant aux doses administrées afin de ne pas dépasser les doses toxiques. Il faut donc toujours faire un test aspiratif avant de les injecter, les administrer lentement, utiliser éventuellement des solutions avec des vasoconstricteurs, éviter les doses importantes (8 mg/kg pour la Xylocaïne, 2 mg/kg pour la bupivacaïne). Les accidents sont neurologiques et/ou cardiaques. Outre les problèmes propres aux produits, les techniques locorégionales sont susceptibles aussi de provoquer des complications : il faut donc connaître parfaitement leurs aspects techniques certes, mais aussi leurs conséquences. Tous ne sont pas difficiles à réaliser et peuvent être parfois très utiles (bloc intercostal pour des fractures de côtes par exemple). La durée d'un bloc est limitée dans le temps et il faut donc ou refaire le bloc ou mettre en place des cathéters.
 
-## **II. Que peut-on suggérer en pratique ?**
+## II. Que peut-on suggérer en pratique ?
 
 Devant toute douleur aiguë, il est important d'en connaître la cause afin de la traiter - si cela se révèle possible.
 
@@ -170,4 +166,4 @@ Il est souvent souhaitable d'effectuer des associations médicamenteuses plutôt
 
 Traiter est bien : surveiller l'efficacité et détecter de possibles effets secondaires des traitements est mieux.
 
-_Développement et Santé, n° 131, octobre 1997_
+*Développement et Santé, n° 131, octobre 1997*

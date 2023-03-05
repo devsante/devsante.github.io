@@ -16,8 +16,8 @@ Puis, l’association GAMS (Groupe femmes pour l’Abolition des Mutilations Sex
 
 D’emblée, deux règles fondamentales de travail sont posées : 
 
-*   agir ensemble, femmes africaines et femmes françaises,
-*   agir en réseau avec les groupes œuvrant sur les mêmes sujets en Afrique et ailleurs dans le monde. 
+- agir ensemble, femmes africaines et femmes françaises,
+- agir en réseau avec les groupes œuvrant sur les mêmes sujets en Afrique et ailleurs dans le monde. 
 
 De nos réflexions naît un objectif : informer la population concernée de l’extrême dangerosité des mutilations sexuelles féminines afin que les parents des filles décident eux-mêmes d'y renoncer. Notre propos est de faire appel surtout à la réflexion mais n’exclut pas la référence à la loi. D’autres associations sont plus particulièrement orientées sur la loi, telle que la CAMS,  Commission pour l’Abolition des Mutilations Sexuelles Féminines, animée par Maître Linda WEIL-CURIEL. Nous nous efforçons de contacter les différentes administrations et organismes en relation avec la population concernée pour les sensibiliser à la nécessité de mettre en place une telle information. Divers secteurs sont définis et, en priorité, la santé, le social et l’éducatif.
 
@@ -71,7 +71,7 @@ Des comités créés dans différents pays du continent africain rapportent leur
 
 **En mars 2010**, la Fédération nationale GAMS accompagne le lancement du film « Fleur du Désert » en partenariat avec la Fondation Kering, avec des projections/débats sur l’ensemble du territoire français, animés par la Fédération Nationale GAMS et avec l’exposition de photos de Catherine CABROL « Blessures de femmes ».
 
-**Le 1****er** **février 2013**, les co-fondateurs d’ « Excision parlons-en », TAOR Communication, TOSTAN France, et la Fédération nationale GAMS animent la Conférence de Presse de lancement de la mobilisation, à Paris, au Comptoir Général.
+**Le 1er** **février 2013**, les co-fondateurs d’ « Excision parlons-en », TAOR Communication, TOSTAN France, et la Fédération nationale GAMS animent la Conférence de Presse de lancement de la mobilisation, à Paris, au Comptoir Général.
 
 **En décembre 2013**, l’infatigable militante Khady KOÏTA, auteur de « Mutilée », membre du GAMS, obtient grâce au partenariat avec No Peace Without Justice, ONG fondée par Mme Emma BONINO, et le Comité inter-Africain sur les pratiques traditionnelles affectant la santé des femmes et des enfants, le vote par l’Assemblée générale des Nations-Unies de la première résolution mondiale pour l’abolition des mutilations sexuelles féminines.
 

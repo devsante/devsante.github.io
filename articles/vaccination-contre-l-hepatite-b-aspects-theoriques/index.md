@@ -28,28 +28,27 @@ Les rappels ne sont plus nécessaires à l’exception des insuffisants rénaux
 **Fait important** - et c’est une particularité de ce vaccin - chez beaucoup de sujets les anticorps anti-hépatite B disparaissent  du  sang.  Cela ne veut pas dire que le sujet n’est plus protégé : en effet,  il persiste une mémoire immunitaire médiée par les lymphocytes T et B. Si le sujet rencontre le VHB, une réponse immu-  
 nitaire rapide se produit, avec réapparition des anticorps circulants, sans aucun signe d’infection.
 
-##   
-II. Chez le nouveau-né d’une mère porteuse du VHB
+## II. Chez le nouveau-né d’une mère porteuse du VHB
 
 Le risque d’hépatite aiguë et surtout de portage chronique est grand. L’administration du vaccin dans les premières heures de vie est une nécessité absolue.  
 A ce prix, le vaccin protège le nouveau-né dans plus de 90 % des  cas.  L’administration d’anticorps anti-VHB entraîne une protection supérieure, mais leur coût élevé est un frein à leur utilisation.
 
 ## III. Quand vacciner ?
 
-L’hépatite B étant essentiellement une maladie sexuellement transmissible, on a longtemps proposé la vaccination à  l’adolescence. Maintenant, surtout dans les pays à forte incidence, il est souhaitable de vacciner le plus tôt possible, à la naissance ou dans les premiers mois, le vaccin étant associé à d’autres vaccins (DT Coq, Dtcoq polio Haemophilus b, voire DT Coq Polio _Haemophilus_ b Hépatite B).
+L’hépatite B étant essentiellement une maladie sexuellement transmissible, on a longtemps proposé la vaccination à  l’adolescence. Maintenant, surtout dans les pays à forte incidence, il est souhaitable de vacciner le plus tôt possible, à la naissance ou dans les premiers mois, le vaccin étant associé à d’autres vaccins (DT Coq, Dtcoq polio Haemophilus b, voire DT Coq Polio *Haemophilus* b Hépatite B).
 
 ## IV. Qui vacciner ?
 
 Tous  les  nourrissons  bien  sûr,  mais  en  priorité  les  
 sujets à risque :
 
-*   professionnels de santé,
-*   sujets infectés par le VIH,
-*   homosexuels,
-*   toxicomanes utilisant des drogues injectables,
-*   tout sujet susceptible d’être transfusé,
-*   insuffisants rénaux,
-*   entourage d’un sujet infecté par le VHB.
+- professionnels de santé,
+- sujets infectés par le VIH,
+- homosexuels,
+- toxicomanes utilisant des drogues injectables,
+- tout sujet susceptible d’être transfusé,
+- insuffisants rénaux,
+- entourage d’un sujet infecté par le VHB.
 
 ## V. Contre-indications et effets indésirables
 

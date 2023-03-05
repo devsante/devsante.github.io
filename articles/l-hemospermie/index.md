@@ -55,9 +55,7 @@ Le sperme, une fois éjaculé, parcourt l'urètre qui représente donc une voie 
 
 L'urètre, au moment de l'éjaculation, sécrète un liquide fluide, transparent et peu abondant. Cependant, la pathologie urétrale ne peut pas être retenue dans les causes d'hémospermie, les maladies de l'urètre donnant plus facilement lieu à des écoulements ou à des urétrorragies (saignement d'origine urétrale).
 
-
 ![](i941-1.jpg)
-
 
 ## II. Les signes cliniques
 
@@ -71,8 +69,8 @@ En tout cas, quel que soit le degré d inquiétude du malade, l'abondance de cet
 
 L'évolution se fait le plus souvent vers la cédation spontanée de l'hémorragie. Mais le fait que le sperme a pour particularité d'être stocké et éliminé à intervalle plus ou moins régulier explique que :
 
-*   même si l'origine de l'hémorragie a cessé, du sperme sanglant peut continuer à être éliminé pendant un certain temps (parfois quelques semaines).  
-*   le sang accumulé commence à s'hémolyser au fil du temps et prend alors une teinte brunâtre qui inquiète encore plus le malade.
+- même si l'origine de l'hémorragie a cessé, du sperme sanglant peut continuer à être éliminé pendant un certain temps (parfois quelques semaines).
+- le sang accumulé commence à s'hémolyser au fil du temps et prend alors une teinte brunâtre qui inquiète encore plus le malade.
 
 Quel que soit l'aspect du saignement (couleur, abondance), sa signification est la même : les vésicules séminales ou la prostate sont, ou ont été, le siège d'un saignement dont il convient de rechercher la cause.
 
@@ -84,38 +82,38 @@ On recherchera ainsi :
 
 #### a) les caractères de l'éjaculation
 
-*   douloureuse
-*   moins abondante
+- douloureuse
+- moins abondante
 
-#### b) des signes d'accompagnement urinaires :
+#### b) des signes d'accompagnement urinaires
 
-*   hématurie, en précisant son caractère :
-    *   initial (seules les premières gouttes sont rouges, l'origine est alors urétro-prostatique)
-    *   terminal (les dernières gouttes sont rouges, l'origine est vésicale)
-    *   total (l'origine ne peut être alors déterminée par ce seul caractère)
-*   brûlures mictionnelles
-*   pollakiurie récente ( mictions anormalement fréquentes)
-*   écoulement urétral purulent
-*   douleur testiculaire ou épididymaire
-*   dysurie récente
+- hématurie, en précisant son caractère :
+  - initial (seules les premières gouttes sont rouges, l'origine est alors urétro-prostatique)
+  - terminal (les dernières gouttes sont rouges, l'origine est vésicale)
+  - total (l'origine ne peut être alors déterminée par ce seul caractère)
+- brûlures mictionnelles
+- pollakiurie récente ( mictions anormalement fréquentes)
+- écoulement urétral purulent
+- douleur testiculaire ou épididymaire
+- dysurie récente
 
-#### c) Antécédents récents de :
+#### c) Antécédents récents de
 
-*   sondage vésical ou endoscopie urinaire
-*   fièvre
-*   notion de tuberculose ou de Bilharziose urinaire.
+- sondage vésical ou endoscopie urinaire
+- fièvre
+- notion de tuberculose ou de Bilharziose urinaire.
 
 ### 3. Examen clinique
 
-a) **L'observation du sperme** lui-même est rarement possible et il faut se fier aux dires du malade. Dans les cas douteux, il ne faudra cependant pas hésiter à demander au malade d'apporter un échantillon fraîchement émis.
+a\) **L'observation du sperme** lui-même est rarement possible et il faut se fier aux dires du malade. Dans les cas douteux, il ne faudra cependant pas hésiter à demander au malade d'apporter un échantillon fraîchement émis.
 
-b) **Palpation des testicules et des épididymes** à la recherche de signes d'épididymite aiguë (nodule ou prise en masse douloureuse) qui irait dans le sens du diagnostic de prostatite aiguë.
+b\) **Palpation des testicules et des épididymes** à la recherche de signes d'épididymite aiguë (nodule ou prise en masse douloureuse) qui irait dans le sens du diagnostic de prostatite aiguë.
 
-c) **Observation des urines** à l'oeil nu à la recherche d'une infection urinaire (présence de filaments, urines troubles).
+c\) **Observation des urines** à l'oeil nu à la recherche d'une infection urinaire (présence de filaments, urines troubles).
 
-d) **Toucher recta**l à la recherche d'une prostatite (douleur ... ), d'un adénome (bien banal à partir de 50 ans), d'un cancer de prostate (dureté pierreuse).
+d\) **Toucher recta**l à la recherche d'une prostatite (douleur ... ), d'un adénome (bien banal à partir de 50 ans), d'un cancer de prostate (dureté pierreuse).
 
-e) La **pression sur la prostate** à l'occasion du toucher rectal favorise l'issue de sperme au moment de l'examen et son observation. Ce sperme paraît toujours trouble : c'est son aspect normal.
+e\) La **pression sur la prostate** à l'occasion du toucher rectal favorise l'issue de sperme au moment de l'examen et son observation. Ce sperme paraît toujours trouble : c'est son aspect normal.
 
 Le plus souvent, à l'issue de cet examen clinique, l'hémospermie apparaît isolée, c'est-à-dire accompagnée d'aucun autre signe.
 
@@ -179,17 +177,17 @@ Ces prostatites sont souvent dues à des urétrites négligées, mais parfois au
 
 Le toucher rectal montre une prostate un peu molle et douloureuse.
 
-*   La prostatite bilharzienne est à évoquer chez un bilharzien connu car ce n'est pas un signe révélateur habituel.  
-*   La prostatite tuberculeuse, bien que rare, doit être évoquée devant une petite prostate indurée au toucher rectal.
+- La prostatite bilharzienne est à évoquer chez un bilharzien connu car ce n'est pas un signe révélateur habituel.
+- La prostatite tuberculeuse, bien que rare, doit être évoquée devant une petite prostate indurée au toucher rectal.
 
 ### c) Autres causes plus rares
 
-*   l'adénome de la prostate est fréquemment palpé au toucher rectal chez l'homme à partir de 50 ans mais rarement en cause.  
-*   le cancer de la prostate : ildonne une volumineuse prostate pierreuse au toucher rectal, ce cancer est fréquent, mais l'hémospermie rare.  
-*   le cancer d'une vésicule séminale : il est exceptionnel.
+- l'adénome de la prostate est fréquemment palpé au toucher rectal chez l'homme à partir de 50 ans mais rarement en cause.
+- le cancer de la prostate : ildonne une volumineuse prostate pierreuse au toucher rectal, ce cancer est fréquent, mais l'hémospermie rare.
+- le cancer d'une vésicule séminale : il est exceptionnel.
 
 ## Conclusion
 
 L'hémospermie est une éjaculation sanglante qui peut se répéter pendant quelques semaines. Toujours inquiétante pour le malade, elle est le plus souvent due à une cause bénigne, idiopathique dans la majorité des cas, parfois due à une prostatite subaiguë, notamment à Chlamydiae, curable par les antibiotiques.
 
-_Développement et Santé, n°155, octobre 2001_
+*Développement et Santé, n°155, octobre 2001*

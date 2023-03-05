@@ -4,7 +4,7 @@ author: "Rémi Gagnayre Format Santé, Association pour le Développement de la 
 date: "2004-04-05"
 ---
 
-Depuis 1996, la prise en charge des patients infectés par le VIH a sensiblement évolué _avec,_ une meilleure connaissance de la dynamique virale, le développement d'une nouvelle famille de molécules antirétrovirales (les antiprotéases) et leur utilisation dans des stratégies d'association de médicaments (trithérapie et multithérapie).
+Depuis 1996, la prise en charge des patients infectés par le VIH a sensiblement évolué *avec,* une meilleure connaissance de la dynamique virale, le développement d'une nouvelle famille de molécules antirétrovirales (les antiprotéases) et leur utilisation dans des stratégies d'association de médicaments (trithérapie et multithérapie).
 
 Ces progrès réalisés ont également eu pour conséquence de rendre plus complexe la prise en charge des patients infectés par le VIH. Par ailleurs, des résultats convergents se sont progressivement accumulés, montrant que cette efficacité était subordonnée à un suivi régulier des prises prescrites et des conditions de prises, faisant de l'observance l'un des facteurs déterminants de la prévention de l'émergence des résistances, et conséquemment, de la réussite du traitement.
 

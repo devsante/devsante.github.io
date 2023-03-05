@@ -28,9 +28,9 @@ Aspirine et ibuprofène sont des anti-inflammatoires donc analgésiques et anti-
 
 **Aspirine**
 
-Avec l'aspirine, à la dose de 50 à 60mg/kg/jour, la demi-vie* est de 7 heures chez le nouveau-né, de 3 à 6 heures chez le nourrisson et de 2 à 3 heures chez l'enfant plus grand. La réduction de la fièvre est observée après 30 minutes, le pic de défervescence est atteint en 3 heures et l'effet persiste 3 à 4 heures.
+Avec l'aspirine, à la dose de 50 à 60mg/kg/jour, la demi-vie\* est de 7 heures chez le nouveau-né, de 3 à 6 heures chez le nourrisson et de 2 à 3 heures chez l'enfant plus grand. La réduction de la fièvre est observée après 30 minutes, le pic de défervescence est atteint en 3 heures et l'effet persiste 3 à 4 heures.
 
-* Demi-vie : c'est le temps nécessaire pour que la moitié du médicament administré disparaisse du sang. (Elle peut varier de quelques secondes à plusieurs mois !)
+- Demi-vie : c'est le temps nécessaire pour que la moitié du médicament administré disparaisse du sang. (Elle peut varier de quelques secondes à plusieurs mois !)
 
 Outre les risques hémorragiques, l'aspirine peut provoquer des **lésions hépatiques** graves au cours de certaines viroses (varicelle).
 
@@ -48,11 +48,9 @@ Comme tous les anti-inflammatoires, il peut provoquer des **douleurs gastriques,
 
 L'intoxication est possible aux doses supérieures à 125 mg/kg/jour (insuffisance hépatique aiguë). Cette intoxication est bien combattue par la N-acétylcystéine si le traitement est précoce.
 
-
 ![](i882-1.jpg)
 
 ![](i882-2.jpg)
-
 
 **Faut-il associer paracétamol + aspirine ?**
 
@@ -62,4 +60,4 @@ L'association a un effet antipyrétique plus prolongé que chaque molécule util
 
 Si les trois médicaments sont efficaces, le paracétamol à la dose de 60 mg/kg/jour semble le moins dangereux pour une efficacité identique.
 
-_Développement et Santé, n°147, juin 2000_
+*Développement et Santé, n°147, juin 2000*

@@ -8,15 +8,13 @@ date: "2013-05-06"
 
 ## Epidémiologie
 
-Il existe deux espèces d’ankylostomes : _Ankylostoma duodenale_ en zone subtropicale et _Necator americanus_ en région tropicale.
+Il existe deux espèces d’ankylostomes : *Ankylostoma duodenale* en zone subtropicale et *Necator americanus* en région tropicale.
 
-_**Necator                                    Ankylostoma**_
-
+***Necator                                    Ankylostoma***
 
 ![](page-8-fig-10-necator-0.jpg)
 
 ![](page-8-fig-9-0.jpg)
-
 
 Les vers adultes, mesurant environ 1 cm de long, sont situés dans le duodénum et s’accrochent sur la muqueuse duodénale par leur crochets buccaux. Ils pondent des oeufs qui sont éliminés avec les selles. Dans la nature, les oeufs éclosent et les jeunes larves rhabditoïdes se transforment en larves strongyloïdes infestantes, qui traversent la peau des enfants qui marchent ou jouent en terrain boueux.
 

@@ -22,21 +22,21 @@ Toute manifestation de paludisme chez l'enfant, d'autant qu'il est plus jeune, f
 
 **1.** **Accès pernicieux**
 
-C'est la forme spontanément mortelle du paludisme. Seule l'espèce _Plasmodium_ _falciparum_ peut en être responsable, mais c'est, en Afrique, l'espèce qui est largement prédominante. Il constitue une urgence qu'il faut prendre en charge le plus vite possible de façon efficace, car seul un traitement adapté précoce peut guérir le malade et empêcher les séquelles.
+C'est la forme spontanément mortelle du paludisme. Seule l'espèce *Plasmodium* *falciparum* peut en être responsable, mais c'est, en Afrique, l'espèce qui est largement prédominante. Il constitue une urgence qu'il faut prendre en charge le plus vite possible de façon efficace, car seul un traitement adapté précoce peut guérir le malade et empêcher les séquelles.
 
 Chez l'enfant, l'accès pernicieux peut prendre deux aspects :
 
-*   **La forme anémique**
+- **La forme anémique**
 
 Il peut s'agir de l'aggravation brutale d'une anémie préexistante. L'enfant est alors vu en état d'anémie aiguë, avec fièvre, mais surtout pâleur, accélération du pouls, gêne respiratoire avec respiration rapide, hypotension pouvant conduire au collapsus. Au traitement antiparasitaire, il faut en urgence associer une transfusion sanguine avec les précautions qui s'imposent. Il semble que cette forme soit due à une poussée d'hémolyse (destruction des globules rouges au sein même du sang) déclenchée par le parasite, chez un enfant en carence ferrique ou vitaminique préexistante. La correction systématique de ces carences au cours de consultations régulières (PMI) devrait permettre d'atténuer de façon sensible la gravité de cette forme d'accès pernicieux.
 
-*   **La forme neurologique**
+- **La forme neurologique**
 
 C'est le neuropaludisme ou accès pernicieux plus classique. Chez l'enfant le tableau est relativement simple: une fièvre plus ou moins élevée avec souvent des convulsions généralisées et des troubles de la conscience. Ce tableau pourrait correspondre aux très banales convulsions fébriles des enfants entre 5 mois et 5 ans. Mais habituellement il s'agit, en cas de paludisme, de convulsions durables, ou qui se répètent rapidement, suivies d'un véritable coma de stade 2, bien différent de la simple obnubilation très passagère qu'on peut voir après une convulsion fébrile simple. Ce coma est calme, sans signe de déficit (hémiplégie ou autre), s'accompagnant en général d'une hypotonie généralisée, plus rarement d'accès d'hypertonie, de mauvais pronostic. Le reste de l'examen peut trouver une grosse rate, un gros foie, une atteinte respiratoire : toux, râles bronchiques, ou respiration ample d'une acidose avec auscultation normale. On apprend le plus souvent que l'enfant était fébrile depuis plusieurs jours, mais qu'il n'a reçu aucun traitement, et que avec ou sans convulsions, il s'est enfoncé progressivement dans le coma. L'évolution spontanée est mortelle en quelques jours, parfois en quelques heures. Il faut en urgence administrer un traitement anti-palustre par voie parentérale. Si le traitement a débuté précocement, l'enfant guérira intégralement. Sinon, il risque de garder des séquelles neurologiques (paralysie, épilepsie, retard psychomoteur) plus ou moins importantes.
 
 **2. Paludisme aigu commun**
 
-C'est le tableau le plus habituel, en particulier par sa banalité. L'enfant a de la fièvre, élevée ou modérée, mal à la tête, vomit. Il a parfois mal au ventre avec une diarrhée modérée. Il n'y a pas d'angine, d'otite, parfois une raideur méningée fait craindre une méningite. Il est rare de trouver une grosse rate. Le caractère très peu spécifique de cet aspect explique la réaction, très fréquente en pays d'endémie, de considérer, chez l'enfant, toute fièvre comme _a priori_ d'origine paludéenne et de la traiter par des médicaments antipaludéens. Cette attitude est souvent valable, surtout si l'on ne dispose pas de moyens diagnostiques fiables, mais ne doit pas dispenser d'examiner attentivement l'enfant, car on peut ainsi méconnaître une authentique méningite, pneumonie, infection urinaire et autres maladies à traiter rapidement par des antibiotiques adaptés.
+C'est le tableau le plus habituel, en particulier par sa banalité. L'enfant a de la fièvre, élevée ou modérée, mal à la tête, vomit. Il a parfois mal au ventre avec une diarrhée modérée. Il n'y a pas d'angine, d'otite, parfois une raideur méningée fait craindre une méningite. Il est rare de trouver une grosse rate. Le caractère très peu spécifique de cet aspect explique la réaction, très fréquente en pays d'endémie, de considérer, chez l'enfant, toute fièvre comme *a priori* d'origine paludéenne et de la traiter par des médicaments antipaludéens. Cette attitude est souvent valable, surtout si l'on ne dispose pas de moyens diagnostiques fiables, mais ne doit pas dispenser d'examiner attentivement l'enfant, car on peut ainsi méconnaître une authentique méningite, pneumonie, infection urinaire et autres maladies à traiter rapidement par des antibiotiques adaptés.
 
 **3. Paludisme viscéral évolutif**
 
@@ -44,7 +44,7 @@ Il s'observe en cas d'infestation massive et durable. Le tableau est dominé par
 
 **4. Accès palustre**
 
-C'est un tableau qu'on voit chez le grand enfant. Il correspond à la forme classique de l'accès palustre : en quelques heures, la succession d'une phase de frisson avec impression de froid, d'une phase de chaleur intense avec fièvre élevée, et d'une phase de sueurs profuses avec retour de la température à la normale. Ces accès se répètent typiquement tous les deux jours pour _P. falciparum, vivax et ovale_ (fièvre tierce car le 1er et le 3è jour), tous les trois jours (fièvre quarte) pour _P._ _malariae_. En fait, le rythme des accès est très irrégulier le plus souvent, quelle que soit l'espèce parasitaire.
+C'est un tableau qu'on voit chez le grand enfant. Il correspond à la forme classique de l'accès palustre : en quelques heures, la succession d'une phase de frisson avec impression de froid, d'une phase de chaleur intense avec fièvre élevée, et d'une phase de sueurs profuses avec retour de la température à la normale. Ces accès se répètent typiquement tous les deux jours pour *P. falciparum, vivax et ovale* (fièvre tierce car le 1er et le 3è jour), tous les trois jours (fièvre quarte) pour *P.* *malariae*. En fait, le rythme des accès est très irrégulier le plus souvent, quelle que soit l'espèce parasitaire.
 
 **III.** **Diagnostic**
 
@@ -72,11 +72,11 @@ La quinine doit être administrée en urgence. Le traitement classique de l'acc�
 
 Les doses de quinine indiquées correspondent au produit pur. Or, on dispose localement de sels ou de produits dérivés: le bichorhydrate de quinine renferme 80 % de quinine environ, comme le Quinoforme®, mais le Quinimax® n'en contient que 60 % environ : il faut corriger les doses données en fonction de ces proportions.
 
-Si l'on ne peut faire de perfusion sur place, avant de référer l'enfant à un centre qui pourra le traiter de façon complète, il ne faut pas perdre de temps et lui donner sans attendre un médicament antipaludéen. Une injection de quinine intramusculaire à la dose de 8 mg/kg de quinine-base, _a priori_ à éviter à cause de sa toxicité locale, peut être indispensable, ou une injection de Fansidar® (une ampoule pour 10 kg), en Afrique de l'Ouest où ce médicament reste actif, ou une injection de Paluther® à la dose de 3,2 mg/kg. Ce nouveau médicament, trouve là sa seule indication logique.
+Si l'on ne peut faire de perfusion sur place, avant de référer l'enfant à un centre qui pourra le traiter de façon complète, il ne faut pas perdre de temps et lui donner sans attendre un médicament antipaludéen. Une injection de quinine intramusculaire à la dose de 8 mg/kg de quinine-base, *a priori* à éviter à cause de sa toxicité locale, peut être indispensable, ou une injection de Fansidar® (une ampoule pour 10 kg), en Afrique de l'Ouest où ce médicament reste actif, ou une injection de Paluther® à la dose de 3,2 mg/kg. Ce nouveau médicament, trouve là sa seule indication logique.
 
 En fonction de l'état de l'enfant, les perfusions de quinine doivent être complétées par un anticonvulsivant (Gardénal®, Valium®) en cas de convulsion, une transfusion en cas d'anémie aiguë profonde, d'antipyrétique (aspirine, paracétamol) en cas de fièvre élevée.
 
-Lorsque l'enfant a repris pleinement conscience (en général au bout de 24 à 48 heures) la voie intraveineuse peut être abandonnée, mais le traitement n'est pas terminé : il faut continuer pendant 5 jours par de la quinine _per os_ (en trois prises quotidiennes), ou si l'on est dans une région où la chloroquine reste largement efficace, par la Nivaquine® à la dose de 10 mg/kg/j.
+Lorsque l'enfant a repris pleinement conscience (en général au bout de 24 à 48 heures) la voie intraveineuse peut être abandonnée, mais le traitement n'est pas terminé : il faut continuer pendant 5 jours par de la quinine *per os* (en trois prises quotidiennes), ou si l'on est dans une région où la chloroquine reste largement efficace, par la Nivaquine® à la dose de 10 mg/kg/j.
 
 **2. En dehors des formes graves**
 
@@ -94,4 +94,4 @@ Les indications de transfusion sont associées à une anémie mal tolérée mett
 
 Chez l'enfant, en dessous de 7 g/dl, la décision de transfuser repose sur l'examen clinique. La tolérance dans les pays d'endémie palustre est souvent bonne à 6, voire 5 g/dl, car l'anémie s'est établie très progressivement.
 
-_Développement et Santé, n° 138, décembre 1998_
+*Développement et Santé, n° 138, décembre 1998*

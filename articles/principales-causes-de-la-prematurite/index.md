@@ -92,22 +92,22 @@ toute infection ou fièvre isolée (listériose+++)</li><li>Infection urinaire (
 
 ## II. Pour prévenir la prématurité
 
-*   Rechercher et prévenir les facteurs prédisposants lors de la première visite prénatale.  
-*   Traiter les infections urinaires et cervico-vab nales.  
-*   Réaliser un cerclage du col à 15 SA en cas de béance cervico-isthmique confirmée.  
-*   Conseiller le repos et une limitation des longs trajets.  
-*   Conseiller une aide ménagère.  
-*   Améliorer les conditions de travail, voire prescrire un arrêt de travail.
+- Rechercher et prévenir les facteurs prédisposants lors de la première visite prénatale.
+- Traiter les infections urinaires et cervico-vab nales.
+- Réaliser un cerclage du col à 15 SA en cas de béance cervico-isthmique confirmée.
+- Conseiller le repos et une limitation des longs trajets.
+- Conseiller une aide ménagère.
+- Améliorer les conditions de travail, voire prescrire un arrêt de travail.
 
-##   
-III. Conduite a tenir en cas de menace  
+## III. Conduite a tenir en cas de menace
+
 d'accouchement prématuré (MAP)
 
 ### 1. Reconnaître la MAP
 
-*   Terme inférieur à 37 SA.  
-*   Contractions utérines régulières et douloureuses.  
-*   Modifications du col utérin (au TV, à l'échographie endovaginale du col).
+- Terme inférieur à 37 SA.
+- Contractions utérines régulières et douloureuses.
+- Modifications du col utérin (au TV, à l'échographie endovaginale du col).
 
 ### 2. Rechercher une étiologie
 
@@ -117,28 +117,29 @@ En effectuant NFS, CRP, PV, ECBU, Groupe-Rhésus.
 
 On recherche le signe de TARNIER : mobilisation de la présentation au TV si écoulement du liquide amniotique donc Tarnier +. Si cela est possible on réalise un test à la diamine oxydase (enzyme contenue dans le liquide amniotique et dont la présence dans les sécrétions vaginales est un signe de rupture des membranes amniotiques).
 
-### 4. Rechercher une contre-indication à la tocolyse  
+### 4. Rechercher une contre-indication à la tocolyse
+
 (pour les béta 2 mimétiques : salbutamol)
 
-*   Antécédent cardiovasculaire (auscultation cardiaque ou ECG).  
-*   Ionogramme sanguin (K+).  
-*   Glycémie.
+- Antécédent cardiovasculaire (auscultation cardiaque ou ECG).
+- Ionogramme sanguin (K+).
+- Glycémie.
 
 ### 5. Faire un bilan fœtal
 
-*   Mouvements actifs fœtaux
-*   Rythme cardiaque fœtal
-*   Echographie
+- Mouvements actifs fœtaux
+- Rythme cardiaque fœtal
+- Echographie
 
 ### 6. Traitement
 
 #### a) MAP avant 32 semaines d'aménorrhée
 
-*   Orientation pour hospitalisation dans une maternité de niveau III (si difficulté d'évacuation en attendant).  
-*   Repos au lit en décubitus latéral gauche +++.  
-*   Corticothérapie destinée à la maturation pulmonaire foetale (12 mg/jour de bétaméthasone par voie IM pendant 2 jours).  
-*   Traitement de la cause, notamment traitement systématique de toute infection maternelle.  
-*   Traitement tocolytique afin d'inhiber des contractions utérines : salbutamol.
+- Orientation pour hospitalisation dans une maternité de niveau III (si difficulté d'évacuation en attendant).
+- Repos au lit en décubitus latéral gauche +++.
+- Corticothérapie destinée à la maturation pulmonaire foetale (12 mg/jour de bétaméthasone par voie IM pendant 2 jours).
+- Traitement de la cause, notamment traitement systématique de toute infection maternelle.
+- Traitement tocolytique afin d'inhiber des contractions utérines : salbutamol.
 
 #### b) MAP entre 32 et 34 SA
 
@@ -148,9 +149,9 @@ Orientation en maternité de niveau II (en attendant l'évacuation, si possible 
 
 La maturation pulmonaire foetale est a priori acquise, on peut donc se passer de la corticothérapie, néanmoins :
 
-*   Repos au lit en décubitus latéral gauche.  
-*   Traitement de la cause.  
-*   Tocolyse.
+- Repos au lit en décubitus latéral gauche.
+- Traitement de la cause.
+- Tocolyse.
 
 ### 7. Surveillance
 
@@ -158,14 +159,14 @@ La maturation pulmonaire foetale est a priori acquise, on peut donc se passer de
 
 Efficacité et tolérance du traitement :
 
-*   Contractions utérines.  
-*   Echographie.  
-*   Recherche d'effets secondaires du tocolytique.
+- Contractions utérines.
+- Echographie.
+- Recherche d'effets secondaires du tocolytique.
 
 #### b) Surveillance foetale
 
-*   Mouvements actifs du foetus.  
-*   Rythme cardiaque foetal.
+- Mouvements actifs du foetus.
+- Rythme cardiaque foetal.
 
 ## Conclusion
 
@@ -309,4 +310,4 @@ si > 10= risque certain d'accouchement prématuré
 
 </table>
 
-_Développement et Santé, n°197/198, 2010_
+*Développement et Santé, n°197/198, 2010*

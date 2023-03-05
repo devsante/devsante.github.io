@@ -13,10 +13,10 @@ Le diagnostic biologique sera réalisé soit devant une symptomatologie évocatr
 
 Les paramètres utiles à étudier sont :
 
-*   La bilirubine totale : inférieure à 17 micromol/I chez le sujet normal, supérieure à 50 micromol/I au cours des ictères et comprise entre 30 et 50 micromol/I en cas de sub-ictère.  
-*   Les transaminases sériques : aspartate aminotransférase (ASAT) et alanine aminotransférase (ALAT).  
-*   Les phosphatages alcalines sériques.  
-*   Le taux de prothrombine (temps de Quick) et éventuellement le dosage du facteur V.
+- La bilirubine totale : inférieure à 17 micromol/I chez le sujet normal, supérieure à 50 micromol/I au cours des ictères et comprise entre 30 et 50 micromol/I en cas de sub-ictère.
+- Les transaminases sériques : aspartate aminotransférase (ASAT) et alanine aminotransférase (ALAT).
+- Les phosphatages alcalines sériques.
+- Le taux de prothrombine (temps de Quick) et éventuellement le dosage du facteur V.
 
 <table>
 
@@ -40,21 +40,21 @@ Les particules de 42nm sont des particules virales infectieuses. Elles sont cons
 
 </table>
 
+\$1  
 ![](i912-2.jpg)
-
 
 ## Il. Exploration virologique
 
-Le diagnostic des différentes situations cliniques est effectué par la détection des marqueurs virologiques de l'infection. Il s'agit soit de méthodes immuno-enzymatiques de type ELISA _(Enzyme Linked Immuno-Sorbent Assay_) réalisables dans des laboratoires non spécialisés, soit de techniques moléculaires détectant, quantifiant ou caractérisant la séquence de l'ADN du virus de l'hépatite B (VHB), et qui ne sont pratiquées pour le moment que dans des laboratoires spécialisés. Les éléments pouvant être mis en évidence dans le sérum sont soit des marqueurs directs de la présence virale, soit des marqueurs dits indirects liés à la réponse immunitaire.
+Le diagnostic des différentes situations cliniques est effectué par la détection des marqueurs virologiques de l'infection. Il s'agit soit de méthodes immuno-enzymatiques de type ELISA *(Enzyme Linked Immuno-Sorbent Assay*) réalisables dans des laboratoires non spécialisés, soit de techniques moléculaires détectant, quantifiant ou caractérisant la séquence de l'ADN du virus de l'hépatite B (VHB), et qui ne sont pratiquées pour le moment que dans des laboratoires spécialisés. Les éléments pouvant être mis en évidence dans le sérum sont soit des marqueurs directs de la présence virale, soit des marqueurs dits indirects liés à la réponse immunitaire.
 
 ### 1. Marqueurs directs
 
-*   L'antigène HBs associé aux enveloppes virales est aisément mis en évidence dans le sérum des patients par des techniques immuno-enzymatiques de type ELISA.  
-*   L'antigène HBc n'est pas retrouvé tel quel dans le sérum.
+- L'antigène HBs associé aux enveloppes virales est aisément mis en évidence dans le sérum des patients par des techniques immuno-enzymatiques de type ELISA.
+- L'antigène HBc n'est pas retrouvé tel quel dans le sérum.
 
 Une protéine soluble, dérivée de la protéine de capside, porte un antigène appelé HBe qui est détecté dans le sérum en cas de multiplication virale, également par des techniques immuno-enzymatiques de type ELISA.
 
-*   L'ADN viral circulant associé aux particules virales infectieuses est mis en évidence par des techniques d'hybridation moléculaire.
+- L'ADN viral circulant associé aux particules virales infectieuses est mis en évidence par des techniques d'hybridation moléculaire.
 
 ### 2. Marqueurs indirects
 
@@ -103,7 +103,7 @@ A côté des méthodes ELISA, adaptées aux grandes séries, des tests individue
 
 Dix  tests rapides ont fait l'objet d'un rapport d'évaluation de l'Organisation Mondiale de la Santé (OMS), publié en mai 2001, auquel nous renvoyons le lecteur.
 
-## III. Evolution des marqueurs **en fonction de la pathologie** **_(figure 2)_**
+## III. Evolution des marqueurs en fonction de la pathologie *(figure 2)*
 
 ### 1. Hépatite B aiguë
 
@@ -113,8 +113,8 @@ Le taux de prothrombine est normal ou modérément abaissé, en tout cas toujour
 
 Des examens virologiques permettent d'affirmer le diagnostic d'hépatite aiguë B :
 
-*   L'antigène HBs (qui peut être détecté 3 semaines environ avant les signes cliniques) est présent dans le sérum, ainsi que les anticorps anti-HBc de type IgM (les plus précoces) présents à un titre élevé.  
-*   Les anticorps anti-HBc de type IgM peuvent dans certains cas être seuls présents lorsque l'antigène HBs a déjà disparu du sérum, ce qui se produit dans 10% des cas environ.
+- L'antigène HBs (qui peut être détecté 3 semaines environ avant les signes cliniques) est présent dans le sérum, ainsi que les anticorps anti-HBc de type IgM (les plus précoces) présents à un titre élevé.
+- Les anticorps anti-HBc de type IgM peuvent dans certains cas être seuls présents lorsque l'antigène HBs a déjà disparu du sérum, ce qui se produit dans 10% des cas environ.
 
 **L'existence d'une augmentation des** **transaminases associée à un anticorps** **IgM anti-HBc permet de poser le diagnostic d'une hépatite B aiguë.**
 
@@ -126,9 +126,7 @@ Les anticorps anti-HBc de type IgM disparaissent et seuls vont persister les ant
 
 Le taux de ces anticorps diminue lentement et après de nombreuses années il ne subsiste qu'un anticorps anti-HBs ou anti-HBc. Ce profil sérologique est celui d'une infection par le virus de l'hépatite B, ancienne et guérie.
 
-
 ![](i912-4.jpg)
-
 
 #### Hépatite aiguë sévère
 
@@ -138,7 +136,7 @@ Elle est caractérisée biologiquement par la diminution du taux de prothrombine
 
 Elle survient dans 1 % des hépatites aiguës symptomatiques. Elle est toujours précédée d'une phase d'hépatite aiguë sévère. Elle est marquée biologiquement par un taux de prothrombine inférieur à 50 %, (associé à une encéphalopathie hépatique).
 
-### 2. Hépatite B **chronique**
+### 2. Hépatite B chronique
 
 Elle est définie par un portage d'antigène HBs supérieur à 6 mois après l'épisode d'hépatite aiguë. L'infection se présente sous des formes variables, allant du portage asymptomatique de l'antigène HBs à l'hépatite chronique, la cirrhose, voire le carcinome hépatocellulaire.
 
@@ -158,11 +156,11 @@ La deuxième phase est une phase d'immuno-élimination caractérisée par une fl
 
 Des épisodes de réactivation virale sont possibles, apparaissant soit spontanément, soit provoqués par des traitements immunosuppresseurs. Ils se traduisent par la réapparition des marqueurs de multiplication virale : antigène HBe et ADN sérique.
 
-#### **Carcinome hépatocellulaire et dosage** **de l'alpha-foetoprotéine**
+#### Carcinome hépatocellulaire et dosage de l'alpha-foetoprotéine
 
 Sa fréquence élevée pourrait justifier une surveillance systématique des porteurs chroniques par dosage de l'alpha-foetoprotéine sérique. C'est une glycoprotéine d'origine foetale disparaissant pratiquement du sérum dans les semaines qui suivent la naissance. Son taux peut s'élever dans les hépatites aiguës et chroniques, les cirrhoses et surtout les cancers hépatiques. Son dosage est un outil majeur en association avec l'échographie et la ponction biopsie hépatique dans le diagnostic des carcinomes hépatocellulaires, ainsi que pour le suivi des patients, notamment après l'exérèse de la tumeur en permettant le dépistage précoce des récidives.
 
-Les différents profils biologiques rencontrés lors d'une hépatite à virus B sont résumés dans le _tableau_.
+Les différents profils biologiques rencontrés lors d'une hépatite à virus B sont résumés dans le *tableau*.
 
 <table>
 
@@ -224,69 +222,69 @@ Convalescence
 
 <td style="width: 26px;">
 
-+
+\+
 
-+
+\+
 
--
-
-</td>
-
-<td>
-
--
-
--
-
--
+\-
 
 </td>
 
 <td>
 
-+
+\-
 
-+
+\-
 
-+
-
-</td>
-
-<td>
-
-+
-
-+
+\-
 
 </td>
 
 <td>
 
-+
+\+
 
--
+\+
 
--
-
-</td>
-
-<td>
-
--
-
-+
-
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
--
+\+
 
--
+</td>
+
+<td>
+
+\+
+
+\-
+
+\-
+
+</td>
+
+<td>
+
+\-
+
+\+
+
+\+
+
+</td>
+
+<td>
+
+\+
+
+\-
+
+\-
 
 </td>
 
@@ -298,41 +296,41 @@ Convalescence
 
 <td style="width: 26px;">
 
--
+\-
 
--
-
-</td>
-
-<td>
-
-+
-
--
+\-
 
 </td>
 
 <td>
 
-+
+\+
 
-+
-
-</td>
-
-<td>
-
--
-
--
+\-
 
 </td>
 
 <td>
 
--
+\+
 
--
+\+
+
+</td>
+
+<td>
+
+\-
+
+\-
+
+</td>
+
+<td>
+
+\-
+
+\-
 
 </td>
 
@@ -346,9 +344,9 @@ Convalescence
 
 <td>
 
--
+\-
 
--
+\-
 
 </td>
 
@@ -408,9 +406,7 @@ Réactivation
 
 </table>
 
-
 ![](i912-5.jpg)
-
 
 ## IV. Contrôle de l'immunité
 
@@ -426,13 +422,13 @@ Il s'agit du titrage des anticorps anti-HBs, seul marqueur présent chez un suje
 
 La découverte d'une hépatite B aiguë ou chronique chez un sujet doit conduire à la vérification de l'immunisation des sujets contact par la recherche chez le ou les partenaires sexuels et chez les membres de la famille, de l'antigène HBs et de l'anticorps anti-HBs. Les sujets non immunisés doivent bénéficier d'une immunoprophylaxie ( au moins par la vaccination).
 
-_**Autres marqueurs virologiques**_
+***Autres marqueurs virologiques***
 
-_Compte tenu des modes de contamination communs, il est recommandé chez un patient porteur du virus de l'hépatite B de rechercher une infection associée par le virus de l'hépatite C et de conseiller un dépistage du virus de l'immunodéficience humaine._
+*Compte tenu des modes de contamination communs, il est recommandé chez un patient porteur du virus de l'hépatite B de rechercher une infection associée par le virus de l'hépatite C et de conseiller un dépistage du virus de l'immunodéficience humaine.*
 
-_**Transfusion sanguine**_
+***Transfusion sanguine***
 
-_La recherche de l'antigène HBs et de l'anti-corps anti-HBc total, ainsi que le dosage des transaminases font partie des dépistages obligatoires pour les sangs destinés à la transfusion sanguine._
+*La recherche de l'antigène HBs et de l'anti-corps anti-HBc total, ainsi que le dosage des transaminases font partie des dépistages obligatoires pour les sangs destinés à la transfusion sanguine.*
 
 ## V. Conclusion
 
@@ -448,8 +444,6 @@ L'étude des marqueurs virologiques nécessite l'emploi de réactifs commerciali
 
 Les techniques de biologie moléculaire, délicates et d'un coût important restent pour l'instant effectuées dans les laboratoires spécialisés.
 
-
 ![](i912-6.jpg)
 
-
-_Développement et Santé, n° 151, février 2001_
+*Développement et Santé, n° 151, février 2001*

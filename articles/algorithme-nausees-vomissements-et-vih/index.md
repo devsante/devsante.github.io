@@ -16,34 +16,33 @@ Multiples : traitements médicamenteux (ARV), infections, lésions de l'appareil
 
 Dans le cadre d'une mise en observation de 24 heures au dispensaire ou de soins réalisés à domicile :
 
-*   Installer le malade dans une position confortable.  
-*   Lui fournir un récipient propre avec un couvercle dans lequel il pourra vomir le cas échéant.  
-*   S'assurer de la bonne hydratation du malade.  
-*   Etre attentif aux signes cliniques de la déshydratation.  
-*   Proposer un soin de bouche avec de l'eau fraîche après chaque vomissement.  
-*   Préférer les boissons fraîches, eau, jus de fruit...  
-*   Faire boire lentement et fréquemment, en petites quantités.  
-*   Demander au patient quels sont les aliments à son goût (et disponibles localement).  
-*   Fractionner les repas en petites quantités, plusieurs fois par jour.  
-*   Ne pas forcer le malade à manger.  
-*   Aider le malade à s'assoir avant le repas et lui dire d'attendre environ une heure avant de se recoucher.  
-*   Eviter que le patient ne se retrouve en présence d'odeurs fortes (ex : cuisine...).  
-*   Le gingembre peut être utilisé en tisane car il a une action bénéfique sur les troubles intestinaux **sauf chez les patients cachectiques** (Cf. troubles neurologiques) et ceux présentant une **occlusion intestinale**.  
-*   Faire sentir au patient une orange fraîche ou le zest d'un citron peut aider à faire passer la nausée.
+- Installer le malade dans une position confortable.
+- Lui fournir un récipient propre avec un couvercle dans lequel il pourra vomir le cas échéant.
+- S'assurer de la bonne hydratation du malade.
+- Etre attentif aux signes cliniques de la déshydratation.
+- Proposer un soin de bouche avec de l'eau fraîche après chaque vomissement.
+- Préférer les boissons fraîches, eau, jus de fruit...
+- Faire boire lentement et fréquemment, en petites quantités.
+- Demander au patient quels sont les aliments à son goût (et disponibles localement).
+- Fractionner les repas en petites quantités, plusieurs fois par jour.
+- Ne pas forcer le malade à manger.
+- Aider le malade à s'assoir avant le repas et lui dire d'attendre environ une heure avant de se recoucher.
+- Eviter que le patient ne se retrouve en présence d'odeurs fortes (ex : cuisine...).
+- Le gingembre peut être utilisé en tisane car il a une action bénéfique sur les troubles intestinaux **sauf chez les patients cachectiques** (Cf. troubles neurologiques) et ceux présentant une **occlusion intestinale**.
+- Faire sentir au patient une orange fraîche ou le zest d'un citron peut aider à faire passer la nausée.
 
 ## IV. Traitement médicamenteux
 
 Il repose sur les **ANTIEMETIQUES** :
 
-*   métoclopramide (10 mg toutes les 8 heures)
+- métoclopramide (10 mg toutes les 8 heures)
 
 Si pas efficace
 
-*   halopéridol (1 à 2 mg une fois par jour)
+- halopéridol (1 à 2 mg une fois par jour)
 
 ou
 
-*   chlorpromazine (25-50 mg toutes les 6 à 12 heures)
-
+- chlorpromazine (25-50 mg toutes les 6 à 12 heures)
 
 ![](i992-1.jpg)

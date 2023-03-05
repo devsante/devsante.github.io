@@ -11,7 +11,7 @@ L'OMS considère que le tétanos maternel et néonatal est éradiqué en Inde. �
 
 « Toutefois, nos efforts ne peuvent pas s’arrêter là », martèle-t-il. « Contrairement à la variole et à la poliomyélite, le tétanos ne peut être totalement éradiqué puisque ses spores perdurent dans l’environnement partout dans le monde. » La vaccination et des accouchements réalisés dans de bonnes conditions d’hygiène sont des pré-requis indispensables pour maintenir la situation actuelle en Inde.
 
-Le tétanos est dû à une bactérie, _Clostridium tetani,_ qui pénètre dans l'organisme par une blessure ouverte ou une inoculation. La bactérie produit une toxine (poison) qui attaque le système nerveux central. Un nouveau-né peut être infecté par le tétanos à cause de pratiques insalubres lors de l’accouchement. Cela peut être le cas lorsque le cordon ombilical est sectionné avec des instruments non stériles ou du matériel contaminé. Les mères peuvent également être victimes de cette maladie infectieuse pour les mêmes raisons.
+Le tétanos est dû à une bactérie, *Clostridium tetani,* qui pénètre dans l'organisme par une blessure ouverte ou une inoculation. La bactérie produit une toxine (poison) qui attaque le système nerveux central. Un nouveau-né peut être infecté par le tétanos à cause de pratiques insalubres lors de l’accouchement. Cela peut être le cas lorsque le cordon ombilical est sectionné avec des instruments non stériles ou du matériel contaminé. Les mères peuvent également être victimes de cette maladie infectieuse pour les mêmes raisons.
 
 Source : OMS, août 2015 – UNICEF
 

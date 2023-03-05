@@ -12,12 +12,12 @@ De plus, il existe peu de molécules nouvelles et innovantes. La plupart des ant
 En dehors de la tuberculose, l’OMS compte douze classes d’agents bactériens dont la résistance aux antibiotiques existants augmente rapidement. Il s’agit souvent d’infections courantes comme des pneumonies ou des infections urinaires.  
 Facteur aggravant : la plupart de ces nouveaux antibiotiques doivent s’administrer par voie parentérale alors que la forme orale est la plus adaptée pour traiter les infections en médecine ambulatoire et dans les pays à ressources limitées.
 
-Le Dr Tedros Adhanom Ghebreyesus, directeur général de l’OMS, déclare : 
+Le Dr Tedros Adhanom Ghebreyesus, directeur général de l’OMS, déclare :  
 «La résistance aux antimicrobiens est une urgence sanitaire mondiale qui va mettre en péril les progrès de la médecine moderne», et poursuit : «Il faut accroître sans tarder les investissements dans la recherche-développement pour les infections résistantes aux antibiotiques, notamment la tuberculose. Sinon, nous allons revenir à ce temps où les gens craignaient les infections les plus courantes et risquaient leur vie pour des interventions chirurgicales mineures.»
 
-Pour lutter contre cette menace, l’OMS et le DNDi (*Drugs for Neglected Diseases  initiative* ) ont pris récemment l’initiative d’un partenariat mondial sur la recherche-développement en matière d’antibiotiques (GARDP), qui associe l’Afrique du Sud, l’Allemagne, le Luxembourg, les Pays-Bas, le Royaume-Uni, la Suisse et le Wellcome Trust.  
+Pour lutter contre cette menace, l’OMS et le DNDi (*Drugs for Neglected Diseases initiative* ) ont pris récemment l’initiative d’un partenariat mondial sur la recherche-développement en matière d’antibiotiques (GARDP), qui associe l’Afrique du Sud, l’Allemagne, le Luxembourg, les Pays-Bas, le Royaume-Uni, la Suisse et le Wellcome Trust.  
 Mais, seuls, les nouveaux médicaments ne suffiront pas à limiter l’apparition de résistance aux antibiotiques. Il faut intensifier la prévention des maladies infectieuses (hygiène, vaccinations entre autres) et continuer à former tous les prescripteurs à un usage responsable et raisonné des antibiotiques, non seulement en médecine humaine mais aussi dans les domaines vétérinaire et agricole.
 
-Réf. ANTIBACTERIAL AGENTS IN CLINICAL DEVELOPMENT
-An analysis of the antibacterial clinical development pipeline, including tuberculosis, WHO reference number: WHO/EMP/IAU/2017.11
+Réf. ANTIBACTERIAL AGENTS IN CLINICAL DEVELOPMENT  
+An analysis of the antibacterial clinical development pipeline, including tuberculosis, WHO reference number: WHO/EMP/IAU/2017.11  
 <a href="http://www.who.int/medicines/areas/rational_use/antibacterial_agents_clinical_development/en/" target="_blank" rel="noopener">Antibacterial agents in clinical development</a>

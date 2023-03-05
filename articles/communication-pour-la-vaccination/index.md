@@ -13,8 +13,8 @@ date: "2009-04-29"
 Elle cherche à résoudre les problèmes de connaissances, d'attitudes et de pratiques des groupes cibles en vue de changer ou de développer les comportements ayant un impact sur les objectifs du programme de vaccination.  
 Elle passe par un dialogue continu avec les populations de la zone qui permet :
 
-*   d'évaluer leurs connaissances, attitudes, pratiques à l'égard des pathologies évitables par la vaccination et le programme de vaccination ;
-*   de leur fournir une information adaptée sur les moyens de prévention des maladies et de résolution de problèmes ciblés par la communauté et le programme.
+- d'évaluer leurs connaissances, attitudes, pratiques à l'égard des pathologies évitables par la vaccination et le programme de vaccination ;
+- de leur fournir une information adaptée sur les moyens de prévention des maladies et de résolution de problèmes ciblés par la communauté et le programme.
 
 Elle s'adresse aux différents individus et groupes de la société afin d'augmenter la demande des services et de renforcer les aptitudes des uns et des autres à faire des choix éclairés destinés à conserver leur santé.
 
@@ -27,8 +27,8 @@ La mobilisation sociale ou la communication pour le changement social vise à re
 
 Ce processus de communication vise à solliciter et à obtenir l'adhésion des dirigeants politiques et sociaux, des décideurs et des personnalités influentes dans la zone. Le plaidoyer s'adresse aux responsables politiques, responsables des administrations décentralisées, chefs religieux, décideurs traditionnels et communautaires, et vise à
 
-*   identifier et mobiliser les ressources humaines, matérielles et financières,
-*   obtenir l'engagement politique et social pour changer les priorités, les lois, les politiques, l'allocation de ressources en faveur du programme de vaccination.
+- identifier et mobiliser les ressources humaines, matérielles et financières,
+- obtenir l'engagement politique et social pour changer les priorités, les lois, les politiques, l'allocation de ressources en faveur du programme de vaccination.
 
 ## II. Les méthodes de communication pour développement
 

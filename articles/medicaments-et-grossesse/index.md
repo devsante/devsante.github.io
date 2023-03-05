@@ -62,14 +62,15 @@ En milieu endémique, une crise de paludisme doit être traitée. Les antipélud
 
 <th scope="row" style="width: 253px; ">
 
-Neurotropes  
+Neurotropes
+
 - Antiépileptiques (sauf phénobarbital)
 
 - Benzodiazépines
 
 - Narcotiques et opiacés
 
-- Anesthésiques  
+- Anesthésiques
 
 </th>
 
@@ -91,7 +92,8 @@ Neurotropes
 
 <th class="rteleft" scope="row" style="width: 253px; ">
 
-Traitements hormonaux  
+Traitements hormonaux
+
 - Hormones sexuelles
 
 - Antithyroïdiens
@@ -104,7 +106,8 @@ Traitements hormonaux
 
 - Féminisation chez le garçon
 
-- Goitre néonatal  
+- Goitre néonatal
+
 - Crétinisme, hypothyroïdie
 
 </td>
@@ -123,7 +126,7 @@ Traitements hormonaux
 - Malformations osseuses  
 - Coloration des dents de lait  
 
-- Dangereux en fin de grossesse  
+- Dangereux en fin de grossesse
 
 </td>
 
@@ -134,19 +137,19 @@ Traitements hormonaux
 <th class="rteleft" scope="row" style="width: 253px; ">Anti-inflammatoires  
 - Salicylés : aspirine
 
-- Indométacine  
+- Indométacine
 
 </th>
 
 <td class="rteleft" style="width: 264px; ">
 
 - Malformations cardiaques, du squelette  
-ou du système nerveux central  
-- Hémorragies en fin de grossesse  
+  ou du système nerveux central
+- Hémorragies en fin de grossesse
 - Prolongement de la gestation
 
 Fermeture prématurée du canal artériel  
-pendant la vie fœtale  
+pendant la vie fœtale
 
 </td>
 
@@ -182,17 +185,17 @@ pendant la vie fœtale
 
 Drogues sociales
 
-- Alcool  
+- Alcool
 
-- Tabac  
+- Tabac
 
 </th>
 
 <td class="rteleft" style="width: 264px; ">
 
-Embryopathie alcoolique  
+Embryopathie alcoolique
 
-Retard de croissance intra-utérin  
+Retard de croissance intra-utérin
 
 </td>
 
@@ -207,8 +210,8 @@ Retard de croissance intra-utérin
 Pendant la grossesse, aucun médicament ne doit être considéré comme anodin, les données sont insuffisantes pour de nombreux médicaments.  
 Le corps sanitaire doit :
 
-*   lutter contre l’automédication,
-*   informer sur les règles d’hygiène de vie,
-*   prescrire, quand ils sont nécessaires, les médicaments piur lesquels on dispose de données précises chez la femme enceinte,
-*   éviter de prescrire de nouveaux médicaments,
-*   et promouvoir toutes les substances bénéfiques (oligo-éléments, vitamines, vaccins) pendant la grossesse.
+- lutter contre l’automédication,
+- informer sur les règles d’hygiène de vie,
+- prescrire, quand ils sont nécessaires, les médicaments piur lesquels on dispose de données précises chez la femme enceinte,
+- éviter de prescrire de nouveaux médicaments,
+- et promouvoir toutes les substances bénéfiques (oligo-éléments, vitamines, vaccins) pendant la grossesse.

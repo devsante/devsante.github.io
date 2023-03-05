@@ -44,7 +44,7 @@ L'extrême sensibilité du méningocoque à la pénicilline justifie l'utilisati
 
 La pénicilline d'emblée a été , l'arme absolue ) contre ce mal qui fut la hantise des générations précédentes. Elle demeure le traitement de référence : une injection de benzathine pénicilline G, 2,4 millions d'unités, suffit à guérir une syphilis primaire.
 
-À cette liste, il faut ajouter la listériose, la diphtérie, certains germes anaérobies, _Clostridium perfringens_ (complications des avortements), enfin les leptospiroses.
+À cette liste, il faut ajouter la listériose, la diphtérie, certains germes anaérobies, *Clostridium perfringens* (complications des avortements), enfin les leptospiroses.
 
 **Formes galéniques**
 
@@ -76,9 +76,7 @@ Leur spectre d'activité est identique à celui des formes précédentes.
 
 **Posologie.** Voir tableaux.
 
-
 ![](i779-1.jpg)
-
 
 **Incidents et accidents**
 
@@ -102,4 +100,4 @@ Ils imposent :
 
 Au total, la pénicilline dont le prix est bas a parfaitement sa place dans le traitement de nombreuses infections ORL, pulmonaires et systémiques. En antibiothérapie, comme ailleurs, il faut savoir résister aux modes !
 
-_Développement et Santé, n° 134, avril 1998_
+*Développement et Santé, n° 134, avril 1998*

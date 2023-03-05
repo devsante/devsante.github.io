@@ -14,22 +14,22 @@ Les selles sont mélangées à une solution de formol à 10 %. Après filtration
 
 **Matériel**
 
-*   Centrifugeuse électrique ou manuelle
-*   Microscope : objectifs 10 x 40 Flacon ou grand tube
-*   Applicateur en bois ou anse
-*   Passoire ou gaze
-*   Entonnoir
-*   Tubes coniques à centrifuger gradués (au moins 15 ml)
-*   Bouchons ou parafilm
-*   Lames et lamelles
-*   Crayon marqueur.
+- Centrifugeuse électrique ou manuelle
+- Microscope : objectifs 10 x 40 Flacon ou grand tube
+- Applicateur en bois ou anse
+- Passoire ou gaze
+- Entonnoir
+- Tubes coniques à centrifuger gradués (au moins 15 ml)
+- Bouchons ou parafilm
+- Lames et lamelles
+- Crayon marqueur.
 
 **Réactifs**
 
-*   Formol du commerce
-*   Éther ou éther de pétrole
-*   Chlorure de sodium (NaCI)
-*   Solution de lugol.
+- Formol du commerce
+- Éther ou éther de pétrole
+- Chlorure de sodium (NaCI)
+- Solution de lugol.
 
 **Mise en garde :**
 
@@ -37,17 +37,15 @@ L'éther dissout l'encre : étiqueter les tubes au crayon gras noir.
 
 Le mélange éther-formol est détonant : manipuler loin des sources de chaleur.
 
-## **Méthode au formol-éther**
-
+## Méthode au formol-éther
 
 ![](i652-1.jpg)
 
-
-### **1. Mélanger**
+### 1. Mélanger
 
 Dans un grand tube environ 1 ml de selles avec 9 ml de formol à 10 %.
 
-### **2. Filtrer**
+### 2. Filtrer
 
 Le mélange obtenu à travers une couche de gaze et recueillir dans un tubeconique à centrifuger. (Parfois il est préférable de filtrer avec une " passoire à thé " car la gaze peut retenir un grand nombre de parasites).
 
@@ -91,23 +89,21 @@ Pipettes
 
 </table>
 
-**_Attention : le formol est corrosif et toxique_**
+***Attention : le formol est corrosif et toxique***
 
-### **3. Ajouter**
+### 3. Ajouter
 
 3 ml d'éther ou d'éther de pétrole.
 
-### **4.Agiter**
+### 4.Agiter
 
 Vigoureusement pour obtenir une solution homogène.
 
-### **5. Centrifuger**
+### 5. Centrifuger
 
 5 min avec une centrifugeuse manuelle ou 2 min 30 avec une centrifugeuse électrique, à vitesse moyenne.
 
-
 ![](i652-2.jpg)
-
 
 Vous obtenez quatre couches :
 
@@ -116,28 +112,26 @@ Vous obtenez quatre couches :
 3 <sup>e</sup> couche : formol  
 4 <sup>e</sup> couche : le culot qui contient les oeufs, les kystes et les larves de parasites.
 
-### **6. Éliminer**
+### 6. Éliminer
 
 Les surnageants (1), (2), (3) pour recueillir le culot (4). Retourner le tube d'un coup brusque. Vous pouvez vous aider d'une pipette pour aspirer et rejeter les surnageants.
 
-
 ![](i652-3.jpg)
-
 
 Attention à conserver intact le culot.
 
-### **7. Bien mélanger**
+### 7. Bien mélanger
 
 Le culot restant, en tapotant doucement le tube pour bien remettre en suspension.
 
-### **8. Déposer**
+### 8. Déposer
 
 Deux gouttes du culot sur une lame. Ajouter une petite goutte de lugol, uniquement à la deuxième goutte du culot.
 
-### **9. Couvrir**
+### 9. Couvrir
 
 D'une lamelle et examiner au microscope objectif 10 x 40
 
-(Schémas : d'après _Manuel des techniques_ _de base pour le laboratoire médical_, Organisation Mondiale de la Santé, Genève 1982).
+(Schémas : d'après *Manuel des techniques* *de base pour le laboratoire médical*, Organisation Mondiale de la Santé, Genève 1982).
 
-_Développement et Santé, n°119, octobre 1995_
+*Développement et Santé, n°119, octobre 1995*

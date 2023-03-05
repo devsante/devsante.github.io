@@ -11,15 +11,15 @@ Les différents déterminants de la santé de la femme – facteurs biomédicaux
 
 Ce rapport, qui met l’accent sur le niveau élevé de la mortalité maternelle en Afrique sub-saharienne, préconise une approche de l’état de santé de la femme en fonction des différentes périodes de sa vie en élaborant des programmes à l’échelle de l’ensemble la société :
 
-*   adaptés au contexte culturel,
-*   utilisant les nouvelles technologies de l’information pour améliorer l’accès aux soins,
-*   éliminant la discrimination et favorisant l’autonomisation des femmes,
-*   permettant aux femmes d’être entendues,
-*   adaptés aux besoins de groupes les plus vulnérables,
-*   menés en partenariat avec les femmes elles-mêmes.
+- adaptés au contexte culturel,
+- utilisant les nouvelles technologies de l’information pour améliorer l’accès aux soins,
+- éliminant la discrimination et favorisant l’autonomisation des femmes,
+- permettant aux femmes d’être entendues,
+- adaptés aux besoins de groupes les plus vulnérables,
+- menés en partenariat avec les femmes elles-mêmes.
 
 Un recueil précis des données est nécessaire à un suivi des progrès réalisés pour améliorer la santé des femmes et des filles.
 
-Pour consulter ce rapport [http://www.who.int/publications/list/women_health_africa/fr/index.html](http://www.who.int/publications/list/women_health_africa/fr/index.html "http://www.who.int/publications/list/women_health_africa/fr/index.html")
+Pour consulter ce rapport [<http://www.who.int/publications/list/women_health_africa/fr/index.html>](http://www.who.int/publications/list/women_health_africa/fr/index.html "http://www.who.int/publications/list/women_health_africa/fr/index.html")
 
 Par Sophie Lemerle, pédiatre, Créteil ; Dominique Malègue, médecin, Paris

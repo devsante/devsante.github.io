@@ -34,7 +34,7 @@ Deux attitudes guideront en cette circonstance :
 
 - Expliquer, informer, écouter, dialoguer respectueusement en comprenant les raisons du patient.
 
-- Prendre conseil _a posteriori_ auprès de spécialistes ou de référents. Ceci implique de développer un réseau de relations pour connaître au bon moment la personne qui guidera et qui aidera au choix.
+- Prendre conseil *a posteriori* auprès de spécialistes ou de référents. Ceci implique de développer un réseau de relations pour connaître au bon moment la personne qui guidera et qui aidera au choix.
 
 Les situations sont si complexes, si particulières, qu'il semble impossible de les codifier ou d'avancer des conduites à tenir, des recettes. Néanmoins, trois questions de type éthique peuvent aider, à condition de faire preuve de beaucoup de finesse psychologique, d'empathie (faculté intuitive de se mettre à la place d'autrui), de respect et d'humilité.
 
@@ -56,4 +56,4 @@ Prenons l'exemple d'une femme de 38 ans porteuse d'un volumineux fibrome utérin
 
 Discuter avec l'intéressée sur chacun de ces trois points de façon approfondie, en prenant son temps permet d'établir un dialogue de confiance, souvent d'obtenir un accord entre les deux parties et ainsi, d'éviter un refus de traitement et de casser la relation soignant soigné.
 
-_Développement et Santé, n°142, août 1999_
+*Développement et Santé, n°142, août 1999*

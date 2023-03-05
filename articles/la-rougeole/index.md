@@ -10,7 +10,7 @@ date: "1999-02-01"
 
 Pédiatre, hôpital Intercommunal, Créteil, France.
 
-En 1976, le premier article du premier numéro de _Développement et Santé_ traitait de la rougeole : c'était alors une des premières causes de mortalité infantile dans le monde. Qu'en est-il 23 ans plus tard, alors qu'est survenu le sida et que l'OMS a réalisé de considérables efforts pour généraliser la vaccination antimorbilleuse ?
+En 1976, le premier article du premier numéro de *Développement et Santé* traitait de la rougeole : c'était alors une des premières causes de mortalité infantile dans le monde. Qu'en est-il 23 ans plus tard, alors qu'est survenu le sida et que l'OMS a réalisé de considérables efforts pour généraliser la vaccination antimorbilleuse ?
 
 Le virus de la rougeole tue encore plus d'enfants que le VIH, et de récentes épidémies se sont accompagnées d'une mortalité de 10 %. C'est dire si le sujet est d'actualité en 1999.
 
@@ -42,7 +42,7 @@ La rougeole non compliquée se caractérise par 4 phases :
 
 - Une incubation silencieuse de 10 jours.
 
-- Une invasion de 4 jours : température à 39°/40°, modification du caractère, anorexie, catarrhe oculonasale, diarrhée, signe de Koplick _(figure n° 1)_ qui est le signe fondamental : un semis de taches blanchâtres reposant sur une muqueuse rouge, à la face interne des joues, mais pouvant envahir toute la bouche et persister à la phase d'état de la maladie.
+- Une invasion de 4 jours : température à 39°/40°, modification du caractère, anorexie, catarrhe oculonasale, diarrhée, signe de Koplick *(figure n° 1)* qui est le signe fondamental : un semis de taches blanchâtres reposant sur une muqueuse rouge, à la face interne des joues, mais pouvant envahir toute la bouche et persister à la phase d'état de la maladie.
 
 - Une phase d'état (4 à 5 jours) : l'éruption débute derrière les oreilles puis gagne tout le corps en 3 jours ; elle est constituée de petites taches rouge doré d'un demi centimètre de diamètre, s'effaçant à la pression. Ces taches deviennent rapidement congestives et se couvrent de vésicules comme des graines de mil qui vont rapidement se rompre et se dessécher donnant à la peau un aspect granité. La peau prend alors souvent un aspect tigré.
 
@@ -50,11 +50,9 @@ La rougeole non compliquée se caractérise par 4 phases :
 
 Dans tous les cas, l'enfant en sort fatigué et amaigri pendant plusieurs semaines.
 
-
 ![](i816-1.jpg)
-  
 
-**III. Complications** _(figure n°2)_
+**III. Complications** *(figure n°2)*
 
 Elles sont fréquentes, souvent graves, à redouter à tous les stades de la maladie :
 
@@ -66,9 +64,7 @@ Elles sont fréquentes, souvent graves, à redouter à tous les stades de la mal
 
 Les poumons et les voies aériennes sont les organes cibles du virus qui lèse l'épithélium entraînant une paralysie des cils vibratiles favorisant ainsi les surinfections bactériennes. Ces complications aggravent 10 à 80 % des rougeoles en pays tropical.
 
-
 ![](i816-2.jpg)
-
 
 On distingue:
 
@@ -76,7 +72,7 @@ On distingue:
 
 - Les surinfections bactériennes survenant en fin d'éruption. Elles réalisent une bronchopneumonie, une pleurésie, voire un abcès du poumon se compliquant parfois de pneumothorax et d'emphysème médiastimal. Cliniquement, le tableau est celui d'une détresse respiratoire fébrile progressive. Seule la radiographie pulmonaire permettra de préciser le type d'atteinte.
 
-Les germes responsables sont _haemophilus influenzas_, pneumocoque, staphylocoque doré.
+Les germes responsables sont *haemophilus influenzas*, pneumocoque, staphylocoque doré.
 
 Antibiotiques, réhydratation et renutrition sauvent souvent l'enfant.
 
@@ -106,9 +102,7 @@ Il s'agit de conjonctivites et surtout de kératites par surinfection bactérien
 
 L'antibiothérapie précoce peut sauver l'oeil.
 
-
 ![](i816-3.jpg)
-  
 
 **4. Complications digestives**
 
@@ -136,10 +130,10 @@ Mesures indispensables dans tous les cas :
 
 Le vaccin contre la rougeole largement utilisé n'a cependant pas réussi a éradiquer la maladie, même dans les pays occidentaux. Ceci pour plusieurs raisons :
 
-1. C'est un vaccin vivant donc fragile, détruit par la chaleur (danger de rupture de la chaîne du froid). De toute façon sa durée de vie est relativement courte.
+1.  C'est un vaccin vivant donc fragile, détruit par la chaleur (danger de rupture de la chaîne du froid). De toute façon sa durée de vie est relativement courte.
 
-2. Il est détruit par les anticorps rougeoleux présents dans le sang ; or, chez tout nouveau-né, il existe des anticorps rougeoleux d'origine maternelle qui persistent entre la naissance et 1 an. En pratique, de 0 à 6 mois, le vaccin est détruit par ces anticorps donc inefficace. Entre 6 mois et 1 an, même si l'efficacité est imprévisible, il faut vacciner à l'âge de 9 mois, et à 6 mois en cas d'épidémie.
+2.  Il est détruit par les anticorps rougeoleux présents dans le sang ; or, chez tout nouveau-né, il existe des anticorps rougeoleux d'origine maternelle qui persistent entre la naissance et 1 an. En pratique, de 0 à 6 mois, le vaccin est détruit par ces anticorps donc inefficace. Entre 6 mois et 1 an, même si l'efficacité est imprévisible, il faut vacciner à l'âge de 9 mois, et à 6 mois en cas d'épidémie.
 
-3. Le vaccin n'entraîne pas la production d'anticorps dans 10 % des cas: 90 % des enfants vaccinés sont effectivement protégés. Il est donc nécessaire d'effectuer une seconde injection de vaccin rougeoleux, avant 6 ans. On atteint alors une protection proche de 100 %.
+3.  Le vaccin n'entraîne pas la production d'anticorps dans 10 % des cas: 90 % des enfants vaccinés sont effectivement protégés. Il est donc nécessaire d'effectuer une seconde injection de vaccin rougeoleux, avant 6 ans. On atteint alors une protection proche de 100 %.
 
-_Développement et Santé, n° 139, février 1999_
+*Développement et Santé, n° 139, février 1999*

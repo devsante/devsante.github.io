@@ -11,26 +11,23 @@ ou: comprendre une maladie pour mieux la soigner</p></div>
 
 ### À quoi correspondent ses multiples aspects ?
 
-Le kyste hydatique du foie (KHF) est la forme intermédiaire d'un parasite au cycle complexe _(Taenia Echinococcus granulosus_). La forme adulte de ce parasite est un petit ver qui vit dans l'intestin du chien : il y pond des oeufs. Ceux-ci, évacués avec les selles, sont ingérés par un hôte intermédiaire, le plus souvent un mouton, qui s'infeste en se nourrissant d'herbe souillée. L'homme est un hôte intermédiaire accidentel, avant tout par contacts avec des chiens parasités : l'hydatidose est une maladie des mains sales (_figure n° 1_) !
-
+Le kyste hydatique du foie (KHF) est la forme intermédiaire d'un parasite au cycle complexe *(Taenia Echinococcus granulosus*). La forme adulte de ce parasite est un petit ver qui vit dans l'intestin du chien : il y pond des oeufs. Ceux-ci, évacués avec les selles, sont ingérés par un hôte intermédiaire, le plus souvent un mouton, qui s'infeste en se nourrissant d'herbe souillée. L'homme est un hôte intermédiaire accidentel, avant tout par contacts avec des chiens parasités : l'hydatidose est une maladie des mains sales (*figure n° 1*) !
 
 ![](i798-1.jpg)
 
-
 Une fois ingérés, les oeufs (extrêmement résistants à la chaleur, à la dessiccation ... ) traversent la paroi intestinale et, par voie veineuse mésentérico-portale, gagnent le foie. La plupart, bloqués au niveau des sinusoïdes, s'y arrêtent et s'y développent sous la forme d'un " pseudo-kyste " parasitaire. La cinétique de cette transformation est mal connue, et il peut exister des involutions (impasses parasitaires).
 
-## II. La connaissance de la structure du KHF  
+## II. La connaissance de la structure du KHF
+
 est d'importance essentielle pour le chirurgien
 
-En se développant dans le parenchyme hépatique, l'oeuf se ballonnise : la sphère que constitue le KHF se compose de deux membranes parasitaires (la cuticule externe et la membrane proligère interne) ; elle est remplie de liquide initialement limpide " comme de l'eau ", dans lequel sédimente du sable hydatique (constitué par une multitude d'oosphères ou scolex, formes larvaires (" oeufs ") du parasite, formées par la membrane proligère) _(figure n° 2)._
-
+En se développant dans le parenchyme hépatique, l'oeuf se ballonnise : la sphère que constitue le KHF se compose de deux membranes parasitaires (la cuticule externe et la membrane proligère interne) ; elle est remplie de liquide initialement limpide " comme de l'eau ", dans lequel sédimente du sable hydatique (constitué par une multitude d'oosphères ou scolex, formes larvaires (" oeufs ") du parasite, formées par la membrane proligère) *(figure n° 2).*
 
 ![](i798-2.jpg)
 
-
 Au fur et à mesure que sa taille augmente le KHF repousse et comprime le parenchyme hépatique qui l'entoure. Il semble qu'il faille moins d'un an pour que le KHF atteigne une dizaine de centimètres de diamètre. Au cours de sa croissance, le parasite dont la cavité est initialement sous tension refoule les pédicules vasculaires intraparenchymateux (glissoniens et sus hépatiques) qui sont étirés et distendus : il en résulte, dans un premier temps, une panne à la circulation sanguine et une ischémie locale. Ces modifications aboutissent à une transformation du foie, tassé autour du parasite : son parenchyme se sclérose, devient blanchâtre et plus ou moins rigide. Ainsi se constitue l'adventice ou périkyste.
 
-_Il est fondamental de se rappeler que le__périkyste n'est pas du parasite_. Cette pseudo-paroi du KHF est faite du parenchyme hépatique modifié de l'hôte, et elle se continue sans aucun plan de clivage, insensiblement, avec le tissu hépatique sain. L'importance, l'épaisseur et la sclérose de l'adventice sont généralement parallèles au volume du kyste, mais cela est loin d'être constant : on peut voir de petits KHF à périkystes épais et totalement scléreux et de volumineux (11 litres, dans mon expérience !) à périkyste mince et souple.
+*Il est fondamental de se rappeler que lepérikyste n'est pas du parasite*. Cette pseudo-paroi du KHF est faite du parenchyme hépatique modifié de l'hôte, et elle se continue sans aucun plan de clivage, insensiblement, avec le tissu hépatique sain. L'importance, l'épaisseur et la sclérose de l'adventice sont généralement parallèles au volume du kyste, mais cela est loin d'être constant : on peut voir de petits KHF à périkystes épais et totalement scléreux et de volumineux (11 litres, dans mon expérience !) à périkyste mince et souple.
 
 ## III. Le geste chirurgical est conditionné par l'état du périkyste et l'existence d'une éventuelle fistule bilio-kystique
 
@@ -44,9 +41,9 @@ Pour les KHF de petit volume, toute cette évolution peut se faire à bas bruit,
 
 L'incrustation de scolex dans le périkyste et le développement, dans son épaisseur, de vésicules-filles est possible : c'est la " vésiculisation exogène ", phénomène rare en pratique mais cause de controverses thérapeutiques vigoureuses !
 
-### Au total, les KHF se présentent schématique ment sous deux aspects pour le chirurgien :
+### Au total, les KHF se présentent schématique ment sous deux aspects pour le chirurgien
 
-*   **cavité uniloculaire à périkyste** **souple :** on parle de KHF jeune, non compliqué. C'est un ballon blanc qui, une fois vidé de son contenu (liquide clair, " eau de roche " avec du " sable " au fond), est facilement séparé du foie. La paroi parasitaire fait 2 à 3 mm d'épaisseur, elle est très fragile et se déchire sous son propre poids. Dans certains cas, après ablation du parasite, l'exploration attentive de la face interne de l'adventice permet de reconnaître une fissuration canaliculaire qui tache la compresse d'un peu de bile. Le parenchyme hépatique refoulé est encore souple : après ablation du parasite la cavité qu'il remplissait s'efface spontanément et pratiquement immédiatement; **cavité uni- ou multi-loculaire à** **paroi (périkyste) épaisse,** scléro-calcaire, contenant un magma bilio-purulent plus ou moins épais dans lequel flottent les débris de la membrane principale et des vésicules-filles : KHF évolué, compliqué. Il existe toujours une (parfois plusieurs) fistule bilio-kystique : elle peut mettre largement en communication la cavité parasitaire et les voies biliaires. Cette _fistule bilio-kystique se fermera toujours en l'absence d'obstacle sur la voie biliaire principale._ Le périkyste rigide empêche l'affaissement du foie et le comblement spontané de la cavité résiduelle. En postopératoire non ou mal drainée, celle-ci, se remplit d'un liquide bilio-hématique vite infecté. Le périkyste, non vascularisé, se comporte alors comme un corps étranger : il se séquestre et entretient la suppuration. Ainsi s'expliquent les sepsis chroniques et les désespérantes fistules externes postopératoires...
+- **cavité uniloculaire à périkyste** **souple :** on parle de KHF jeune, non compliqué. C'est un ballon blanc qui, une fois vidé de son contenu (liquide clair, " eau de roche " avec du " sable " au fond), est facilement séparé du foie. La paroi parasitaire fait 2 à 3 mm d'épaisseur, elle est très fragile et se déchire sous son propre poids. Dans certains cas, après ablation du parasite, l'exploration attentive de la face interne de l'adventice permet de reconnaître une fissuration canaliculaire qui tache la compresse d'un peu de bile. Le parenchyme hépatique refoulé est encore souple : après ablation du parasite la cavité qu'il remplissait s'efface spontanément et pratiquement immédiatement; **cavité uni- ou multi-loculaire à** **paroi (périkyste) épaisse,** scléro-calcaire, contenant un magma bilio-purulent plus ou moins épais dans lequel flottent les débris de la membrane principale et des vésicules-filles : KHF évolué, compliqué. Il existe toujours une (parfois plusieurs) fistule bilio-kystique : elle peut mettre largement en communication la cavité parasitaire et les voies biliaires. Cette *fistule bilio-kystique se fermera toujours en l'absence d'obstacle sur la voie biliaire principale.* Le périkyste rigide empêche l'affaissement du foie et le comblement spontané de la cavité résiduelle. En postopératoire non ou mal drainée, celle-ci, se remplit d'un liquide bilio-hématique vite infecté. Le périkyste, non vascularisé, se comporte alors comme un corps étranger : il se séquestre et entretient la suppuration. Ainsi s'expliquent les sepsis chroniques et les désespérantes fistules externes postopératoires...
 
 Entre ces deux aspects tous les intermédiaires sont possibles. Les KHF peuvent aussi être uniques ou multiples, se développer dans n'importe quel segment du foie et aboutir à des communications bilio-kystiques intéressant soit un canalicule distal soit un canal segmentaire ou latéral.
 
@@ -56,9 +53,7 @@ Le volume important du KHF peut enfin entraîner une compression des organes de 
 
 **Elle permet aussi de schématiser les** **tactiques chirurgicales.**
 
-
 ![](i798-3.jpg)
-
 
 ## IV. Quand opérer ?
 
@@ -78,14 +73,14 @@ Tous les KHF, y compris les KHF fistulisés dans les bronches, peuvent se traite
 
 Elle comprend deux temps principaux :
 
-*   l'éradication du parasite,
-*   le traitement du périkyste restant.
+- l'éradication du parasite,
+- le traitement du périkyste restant.
 
 ### 1. Éradication du parasite
 
-Faut-il " tuer " le parasite (les scolex ou les vésicules-filles) avant de l'évacuer ? Cette notion traditionnelle n'a pas de sens et doit être abandonnée. Inutile pour les KHF uniloculaire, elle est irréalisable pour les KHF multiloculaires (on ne peut injecter chaque vésicule ... ) et les produits parasiticides sont très souvent inefficaces parce que dilués dans le liquide hydatique, ou potentiellement dangereux (coma hyperosmolaire pour le sérum hypertonique, cholangite grave pour le formol, explosion du foie pour l'eau oxygénée ... ). Utilisée correctement (_dans_ _une cavité largement ouverte)_ l'eau oxygénée à 20 volumes aurait ma préférence, mais en situation de pénurie un ammonium quaternaire (Cequartyl®) ou même l'alcool iodé peuvent être utilisés.
+Faut-il " tuer " le parasite (les scolex ou les vésicules-filles) avant de l'évacuer ? Cette notion traditionnelle n'a pas de sens et doit être abandonnée. Inutile pour les KHF uniloculaire, elle est irréalisable pour les KHF multiloculaires (on ne peut injecter chaque vésicule ... ) et les produits parasiticides sont très souvent inefficaces parce que dilués dans le liquide hydatique, ou potentiellement dangereux (coma hyperosmolaire pour le sérum hypertonique, cholangite grave pour le formol, explosion du foie pour l'eau oxygénée ... ). Utilisée correctement (*dans* *une cavité largement ouverte)* l'eau oxygénée à 20 volumes aurait ma préférence, mais en situation de pénurie un ammonium quaternaire (Cequartyl®) ou même l'alcool iodé peuvent être utilisés.
 
-#### **a.** Pour les kystes uniloculaires
+#### a. Pour les kystes uniloculaires
 
 On utilisera la technique d'ablation du parasite " à kyste fermé " telle que décrite par Galindo pour les KH pulmonaires.
 
@@ -108,10 +103,10 @@ Les fissurations biliaires, lorsqu'elles existent, sont toujours de très petite
 
 Il n'est pas indispensable de drainer lorsqu'il n'y a pas de fuite biliaire, sinon un drainage déclive banal est nécessaire pour quelques jours.
 
-#### B. Le traitement des KHF évolués est plus complexe.
+#### B. Le traitement des KHF évolués est plus complexe
 
 L'ablation des éléments parasitaires infectés est laborieuse : elle doit néanmoins être absolument complète. Le traitement du périkyste commence par un temps biliaire: on peut essayer d'aveugler la ou les fistules biliaires, mais il faut surtout vérifier la liberté de la VBP à l'aide d'une sonde de Dormia si l'on ne dispose pas de radiographie per-opératoire. La mise en place d'un drain type Kehr est utile pour diriger la fistule biliaire externe et/ou (quand cela est possible ... ) faire une opacification postopératoire. Dans ces conditions l'ablation systématique de la vésicule est justifiée.
 
-_Le geste biliaire doit être suivi de la mise à_ _plat de la cavité résiduelle_ qu'entoure la coque rigide de l'adventice. Si les hépatectomies réglées ou les périkystectomies (passant en dehors de l'adventice) sont des gestes " idéaux ", elles sont souvent inutiles et toujours au-delà du raisonnable dans un contexte de pénurie - ou pour un opérateur à l'expérience limitée. La résection de tout le parenchyme laminé par l'expansion du parasite peut obtenir le même résultat sans danger (car on reste à distance des éléments pédiculaires importants) ni risque hémorragique. Ce n'est pas la " résection du dôme saillant " des anciens traités de technique : l'ouverture d'un chapeau de quelques centimètres est un geste insuffisant. Il faut faire l'ablation de la coque superficielle de la cavité péri-parasitaire, partout où elle est superficielle et fait environ 1 cm d'épaisseur ou moins. Un sujet d'hémostase au pourtour est nécessaire. On peut aussi " désépaissir " à la curette ce qui reste de périkyste en dedans (au contact du foie restant) pour emporter les fragments calcifiés et l'assouplir. Pour les volumineux KHF du foie droit la section complète du ligament suspenseur permet la bascule du foie et facilite le comblement de l'espace mort postérieur. Dans ces conditions un drainage déclive, au moins par deux drains est toujours nécessaire. Ce drainage doit avoir un trajet aussi direct que possible. Il permettra en cas d'infection secondaire des lavages au sérum physiologique. Faits à la seringue, par le chirurgien, ils décaperont le périkyste restant, en permettront l'évacuation et le tarissement de la suppuration.
+*Le geste biliaire doit être suivi de la mise à* *plat de la cavité résiduelle* qu'entoure la coque rigide de l'adventice. Si les hépatectomies réglées ou les périkystectomies (passant en dehors de l'adventice) sont des gestes " idéaux ", elles sont souvent inutiles et toujours au-delà du raisonnable dans un contexte de pénurie - ou pour un opérateur à l'expérience limitée. La résection de tout le parenchyme laminé par l'expansion du parasite peut obtenir le même résultat sans danger (car on reste à distance des éléments pédiculaires importants) ni risque hémorragique. Ce n'est pas la " résection du dôme saillant " des anciens traités de technique : l'ouverture d'un chapeau de quelques centimètres est un geste insuffisant. Il faut faire l'ablation de la coque superficielle de la cavité péri-parasitaire, partout où elle est superficielle et fait environ 1 cm d'épaisseur ou moins. Un sujet d'hémostase au pourtour est nécessaire. On peut aussi " désépaissir " à la curette ce qui reste de périkyste en dedans (au contact du foie restant) pour emporter les fragments calcifiés et l'assouplir. Pour les volumineux KHF du foie droit la section complète du ligament suspenseur permet la bascule du foie et facilite le comblement de l'espace mort postérieur. Dans ces conditions un drainage déclive, au moins par deux drains est toujours nécessaire. Ce drainage doit avoir un trajet aussi direct que possible. Il permettra en cas d'infection secondaire des lavages au sérum physiologique. Faits à la seringue, par le chirurgien, ils décaperont le périkyste restant, en permettront l'évacuation et le tarissement de la suppuration.
 
-_Développement et Santé, n° 137, octobre 1998_
+*Développement et Santé, n° 137, octobre 1998*

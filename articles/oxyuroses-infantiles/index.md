@@ -10,11 +10,9 @@ date: "2013-01-21"
 
 L’oxyure ou Enterobius vermicularis, est un petit nématode blanc de 1 cm de long environ, situé dans le caecum. L’infestation s’effectue par ingestion des œufs portés à la bouche par les mains sales, doigts ou objets sucés, ou avec les aliments. Localisées dans le caecum, les femelles parcourent le côlon pour aller pondre leurs œufs au niveau de la marge anale, phénomène responsable du prurit anal. Après contact avec l’anus, les doigts sont infestés, l’enfant va se recontaminer en portant les doigts à sa bouche. En outre, l’enfant va contaminer les autres par les jeux collectifs.
 
-_**Cycle de l'oxyure**_
-
+***Cycle de l'oxyure***
 
 ![](page-5-fig-2-0.jpg)
-
 
 Chaque femelle pond environ 10 000 œufs par jour. Or ces œufs, contenant la larve déjà formée dès la ponte, sont directement infestants. Ceci explique la rapidité de diffusion de cette parasitose strictement humaine.
 
@@ -32,11 +30,9 @@ Le diagnostic est parfois évoqué par la mère ayant remarqué la présence de 
 
 Les œufs caractéristiques (50 x 30 µ, ovoïdes, asymétriques, incolores, embryonnés) sont parfois retrouvés à l’examen parasitologique des selles, mais beaucoup plus fréquemment sur le scotch-test anal.
 
-_**Oeufs d'oxyure (scotch test)**_
-
+***Oeufs d'oxyure (scotch test)***
 
 ![](page-6-fig-3-oeufs-d-oxyure-scotch-test.jpg)
-
 
 Cet examen, simple, consiste à appliquer un morceau de cellophane adhésive sur la marge anale, le matin avant la toilette, puis à le coller sur une lame, permettant sa lecture au microscope. En cas d’appendicectomie, les vers sont facilement  identifiés, avec les crêtes latérales.
 

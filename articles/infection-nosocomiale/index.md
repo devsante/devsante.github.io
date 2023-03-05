@@ -10,7 +10,7 @@ date: "1999-02-19"
 
 Biologiste, hôpital Albert-Chenevier, Créteil, France.
 
-Nosocomial, risque nosocomial, infection nosocomiale... Un mot récent, un mot trop souvent prononcé, un mot dérivé d'un mot grec " _nosocomia_ " qui signifie " soin que l'on donne à un malade ". Une infection nosocomiale est une infection contractée par un patient au cours d'un séjour hospitalier ou plus simplement lors de soins ou d'examens réalisés à l'hôpital ou en milieu médical.
+Nosocomial, risque nosocomial, infection nosocomiale... Un mot récent, un mot trop souvent prononcé, un mot dérivé d'un mot grec " *nosocomia* " qui signifie " soin que l'on donne à un malade ". Une infection nosocomiale est une infection contractée par un patient au cours d'un séjour hospitalier ou plus simplement lors de soins ou d'examens réalisés à l'hôpital ou en milieu médical.
 
 Mais comment se fait-il qu'on parle encore d'infection hospitalière à notre époque, malgré les connaissances et les moyens dont nous disposons ?
 
@@ -34,4 +34,4 @@ Il a été montré récemment que la cause majeure de la transmission des bacté
 
 La lutte contre l'infection nosocomiale est indissociable du développement et du respect de l'hygiène de base. Elle doit être le problème de chacun.
 
-_Développement et Santé, n° 139, février 1999_
+*Développement et Santé, n° 139, février 1999*

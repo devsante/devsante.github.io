@@ -19,7 +19,7 @@ Le risque d'être infecté par un rapport sexuel est deux fois plus élevé dans
 
 Entre hommes, la transmission est plus élevée car les rapports anaux présentent un risque plus élevé en raison de la fragilité de la muqueuse anale. Entre femmes, la transmission n'est pas prouvée.
 
-### 3. Facteurs de risque de **transmission**
+### 3. Facteurs de risque de transmission
 
 Le risque d'infection augmente lors de la primo-infection, dans les stades avancés du SIDA, lors de réplication virale élevée. Il est aussi plus élevé en l'absence de traitement antiviral.
 
@@ -77,4 +77,4 @@ La transmission est favorisée par l'état de la mère (stade avancé, immunodé
 
 **IL N'EXISTE PAS D'AUTRES MODES DE TRANSMISSION DU V.I.H. PROUVEE A CE JOUR.**
 
-_Développement et santé, n°168, décembre 2003_
+*Développement et santé, n°168, décembre 2003*

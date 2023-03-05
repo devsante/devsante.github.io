@@ -16,9 +16,9 @@ C’est pour cette raison qu’une vaste étude a été effectuée au Malawi. El
 
 Ces enfants ont été séparés en 3 groupes recevant respectivement :
 
-*   Amoxicilline : 80 mg/kg/jour pendant 7 jours,
-*   Cefdinir 14 mg/kg /jour 7 pendant jours,
-*   Seulement les aliments thérapeutiques.
+- Amoxicilline : 80 mg/kg/jour pendant 7 jours,
+- Cefdinir 14 mg/kg /jour 7 pendant jours,
+- Seulement les aliments thérapeutiques.
 
 L’étude bien sûr fut effectuée en double aveugle.
 
@@ -33,4 +33,4 @@ Les auteurs souhaitent que de nouvelles études soient réalisées dans différe
 
 Par Philippe Reinert, pédiatre, Créteil
 
-_Ref. L.Trehan Antibiotics as Part of the Management of severe Acute Malnutrition NEJM 31 Janv 2013_
+*Ref. L.Trehan Antibiotics as Part of the Management of severe Acute Malnutrition NEJM 31 Janv 2013*

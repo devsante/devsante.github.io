@@ -17,5 +17,5 @@ Compte tenu de leurs conclusions, les auteurs ne prônent aucun changement dans 
 
 Par Jean-Loup Rey, Médecin, santé publique
 
-_Référence_  
-Langer-Gould A et coll. Vaccines and the Risk of Multiple Sclerosis and Other Central Nervous System Demyelinating Diseases. JAMA Neurol. 2014 Oct 20. doi: 10.1001/jamaneurol.2014.2633. [Epub ahead of print]. Depuis Egora.fr ([http://www.egora.fr](http://www.egora.fr "http://www.egora.fr"))  par Dr Alain Trébucq le 22-10-2014.
+*Référence*  
+Langer-Gould A et coll. Vaccines and the Risk of Multiple Sclerosis and Other Central Nervous System Demyelinating Diseases. JAMA Neurol. 2014 Oct 20. doi: 10.1001/jamaneurol.2014.2633. \[Epub ahead of print\]. Depuis Egora.fr ([<http://www.egora.fr>](http://www.egora.fr "http://www.egora.fr"))  par Dr Alain Trébucq le 22-10-2014.

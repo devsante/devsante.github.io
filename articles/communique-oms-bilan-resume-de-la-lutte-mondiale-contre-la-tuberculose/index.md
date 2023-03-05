@@ -4,7 +4,7 @@ author: "http://www.who.int/tb/publications/global report/2008/key_points/fr/ind
 date: "2008-07-04"
 ---
 
-On estime à 9,2 millions le nombre de nou­veaux cas de tuberculose en 2006 (139 pour 100 000) dont 4,1 millions de nouveaux cas à frottis positif (44 % du total) et 0,7 million de VIH positifs (8 % du total). C'est dans la région africaine que le taux d'incidence pour 100 000 est le plus élevé (363).  
+On estime à 9,2 millions le nombre de nou­veaux cas de tuberculose en 2006 (139 pour 100 000) dont 4,1 millions de nouveaux cas à frottis positif (44 % du total) et 0,7 million de VIH positifs (8 % du total). C'est dans la région africaine que le taux d'incidence pour 100 000 est le plus élevé (363).
 
 La prévalence de la tuberculose en 2006 a été estimée à 14,4 millions de cas.
 
@@ -39,7 +39,7 @@ Au total, 23 353 cas de tuberculose MR ont été notifiés en 2006 dont un peu p
 
 Dans le domaine du renforcement des sys­tèmes de santé, le diagnostic et le traitement de la tuberculose sont entièrement intégrés aux services de santé généraux dans la plupart des pays. Parmi les 22 pays à forte charge de morbidité tuberculeuse qui regroupent 80 % des cas dans le monde, 14 sont en train de renforcer leurs approches public-privé et public-public pour associer tout l'éventail des dispensateurs de soins à la lutte antituber­culeuse.
 
-Les budgets des programmes nationaux de lutte antituberculeuse dans les pays à forte morbidité s'établissent au total à US $ 1,8 milliard en 2008. Ces budgets correspondent à des dépenses de l'ordre de US $ 100 à 300 par malade soigné. La stratégie DOTS absor­be la part la plus importante des budgets de la tuberculose dans la plupart des pays. Le financement de la lutte antituberculeuse est passé en 2008 à US $ 2,0 milliards dans les pays à forte morbidité et à US $ 2,7 milliards dans les 90 pays notifiant des données. Seuls cinq des pays à forte morbidité n'ont pas signalé de déficit de financement pour 2008 (Afrique du Sud, Bangladesh, Ethiopie, Inde et Indonésie).
+Les budgets des programmes nationaux de lutte antituberculeuse dans les pays à forte morbidité s'établissent au total à US \$ 1,8 milliard en 2008. Ces budgets correspondent à des dépenses de l'ordre de US \$ 100 à 300 par malade soigné. La stratégie DOTS absor­be la part la plus importante des budgets de la tuberculose dans la plupart des pays. Le financement de la lutte antituberculeuse est passé en 2008 à US \$ 2,0 milliards dans les pays à forte morbidité et à US \$ 2,7 milliards dans les 90 pays notifiant des données. Seuls cinq des pays à forte morbidité n'ont pas signalé de déficit de financement pour 2008 (Afrique du Sud, Bangladesh, Ethiopie, Inde et Indonésie).
 
 Le taux mondial de détection des cas pour les nouveaux cas à frottis positif dans les pro­grammes DOTS est estimé à 61 % en 2006 encore loin de la cible de 70 %.
 
@@ -47,4 +47,4 @@ Le taux des succès thérapeutiques dans le cadre des programmes DOTS était de 
 
 On a observé un ralentissement des progrès dans le domaine de la détection des cas au niveau mondial entre 2005 et 2006. Ensemble, la Région africaine, la Chine et l'Inde regroupent 69 % des cas non détectés.
 
-_Développement et Santé, n°190, 2008_
+*Développement et Santé, n°190, 2008*

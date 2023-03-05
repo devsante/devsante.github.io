@@ -12,9 +12,9 @@ date: "2001-06-14"
 
 D'après les statistiques, 160 000 femmes africaines meurent chaque année soit en, cours d'accouchement (ou dans les semaines qui suivent), soit des suites d'avortements clandestins hasardeux. Selon l'UNICEF, le nombre des morts naturelles annuelles serait de :
 
-*   1 600 pour 100 000 naissances en Guinée,
-*   1 500 pour 100 000 naissances au Tchad,
-*   1 200 pour 100 000 naissances au Niger et au Mali, alors que dans les pays riches, le chiffre est de 10 à 20 morts naturelles pour 100 000 naissances !
+- 1 600 pour 100 000 naissances en Guinée,
+- 1 500 pour 100 000 naissances au Tchad,
+- 1 200 pour 100 000 naissances au Niger et au Mali, alors que dans les pays riches, le chiffre est de 10 à 20 morts naturelles pour 100 000 naissances !
 
 Les statistiques montrent aussi qu'en Afrique de l'Ouest, pour chaque femme qui meurt, de 30 à 100 autres femmes souffrent de complications tantôt aiguës, liées à la grossesse (rupture de l'utérus, inflammation du bassin et stérilité), tantôt chroniques, telles les infections de l'appareil génital, et surtout ces fistules vésico-génitales qui, par l'incontinence urinaire handicapante qu'elles entraînent, sont la cause du rejet social de nombreuses jeunes femmes devenues " nauséabondes ". Les fistules sont plus fréquentes chez les femmes excisées.
 
@@ -24,24 +24,24 @@ En ce qui concerne la mortalité périnatale (c'est-à-dire celle qui précède 
 
 Dans une enquête qui a été réalisée en Afrique de l'Ouest pour identifier les facteurs de risque, 20 326 femmes enceintes ont été examinées à quatre reprises :
 
-*   à la fin du 2<sup>e</sup> trimestre,
-*   au 8<sup>e</sup> mois de la grossesse,
-*   à l'accouchement,
-*   à la fin du 2<sup>e</sup> mois postnatal
+- à la fin du 2<sup>e</sup> trimestre,
+- au 8<sup>e</sup> mois de la grossesse,
+- à l'accouchement,
+- à la fin du 2<sup>e</sup> mois postnatal
 
 Les statistiques de l'enquête donnent aussi la répartition des lieux d'accouchement
 
-*   57 % en hôpital public,
-*   18,2 % à domicile,
-*   1 5,7 % en centre de santé,
-*   7,9 % en maternité privée,
-*   0, 7 % au domicile d'une aide traditionnelle,
-*   0, 5 % autres.
+- 57 % en hôpital public,
+- 18,2 % à domicile,
+- 1 5,7 % en centre de santé,
+- 7,9 % en maternité privée,
+- 0, 7 % au domicile d'une aide traditionnelle,
+- 0, 5 % autres.
 
 L'accompagnement de l'accouchement a été fait :
 
-*   pour 59 % des accouchées par une sage-femme,
-*   pour 25 % par une aide traditionnelle, pour 1 0 % par la famille, pour 3 % par une infirmière, pour 2 % par un médecin.
+- pour 59 % des accouchées par une sage-femme,
+- pour 25 % par une aide traditionnelle, pour 1 0 % par la famille, pour 3 % par une infirmière, pour 2 % par un médecin.
 
 La mortalité périnatale globale a été de 41,8 pour 1000 soit 10 fois plus que celle que l'on observe habituellement dans les pays développés ! Tous ces chiffres donnent déjà une indication sur les causes de la surmortalité.
 
@@ -67,14 +67,14 @@ La fatigue due aux rythmes de travail se conjugue avec des carences nutritionnel
 
 #### d) Le paludisme
 
-Dans les vastes zones impaludées d'Afrique, le parasite touche évidemment les hommes, les femmes et les enfants, mais ce parasite (_Plasmodium falciparum_) responsable de la destruction des globules rouges accentue le risque d'anémie pour les femmes enceintes particulièrement vulnérables à cette maladie. Le parasite se niche par prédilection dans le placenta, même si un traitement intensif est prodigué à la future mère, ce qui est loin d'être toujours le cas. Les conséquences se répercutent une fois de plus sur le foetus qui va naître avec un faible poids.
+Dans les vastes zones impaludées d'Afrique, le parasite touche évidemment les hommes, les femmes et les enfants, mais ce parasite (*Plasmodium falciparum*) responsable de la destruction des globules rouges accentue le risque d'anémie pour les femmes enceintes particulièrement vulnérables à cette maladie. Le parasite se niche par prédilection dans le placenta, même si un traitement intensif est prodigué à la future mère, ce qui est loin d'être toujours le cas. Les conséquences se répercutent une fois de plus sur le foetus qui va naître avec un faible poids.
 
 #### 2. Les causes de la surmortalité périnatale et infantile
 
 On peut distinguer :
 
-*   les facteurs de risque qui ont été détectés en cours de travail : ce sont les principaux. On peut citer l'hypertension, un travail long, une présentation non céphalique. Il faut ajouter les risques infectieux (rupture prolongée de la poche des eaux), une fièvre maternelle...  
-*   les facteurs de risque avant l'accouchement apparaissent moins importants que les précédents. Il s'agit de la petite taille maternelle (< 1,50m), plus de trois fausses couches, et des antécédents de césarienne.
+- les facteurs de risque qui ont été détectés en cours de travail : ce sont les principaux. On peut citer l'hypertension, un travail long, une présentation non céphalique. Il faut ajouter les risques infectieux (rupture prolongée de la poche des eaux), une fièvre maternelle...
+- les facteurs de risque avant l'accouchement apparaissent moins importants que les précédents. Il s'agit de la petite taille maternelle (< 1,50m), plus de trois fausses couches, et des antécédents de césarienne.
 
 Les décès des bébés sont trop souvent liés à la mauvaise santé de la mère, soit par insuffisance de surveillance pendant la grossesse, soit pour des raisons économiques et culturelles : la coutume de l'excision, par exemple, entraîne des risques plus grands pour les femmes excisées et pour leurs enfants. Des études faites au Mali, au Sénégal, au Bénin et au Burkina ont montré aussi le lien entre la malnutrition de la future mère, le faible poids de l'enfant à la naissance et les conséquences pour son avenir. Non seulement les risques d'infection sont plus élevés et fragilisent les premiers jours de la vie, mais un développement neurologique insuffisant peut entraîner une mauvaise vision, une surdité... avec toutes les conséquences qu'elles peuvent avoir sur la scolarité.
 
@@ -114,4 +114,4 @@ Les questions posées par la santé des femmes et de leur nouveau-né renvoient 
 
 L'accès des Africaines à une meilleure santé constitue un immense défi, et les femmes sont nombreuses à se battre pour cette cause. La " maternité sans risque " pour reprendre le thème de la conférence de l'ONU en 1989 suppose une évolution des mentalités, une meilleure organisation et... des moyens financiers accrus. Par rapport aux pays développés, les maternités en Afrique sont trop souvent "à risques".
 
-_Développement et Santé, n° 153, juin 2001_
+*Développement et Santé, n° 153, juin 2001*

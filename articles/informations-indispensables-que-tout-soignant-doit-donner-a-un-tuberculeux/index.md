@@ -23,4 +23,4 @@ Parmi les questions les plus fréquentes : l'alimentation et le travail :
 
 </table>
 
-_Développement et Santé, n°190, 2008_
+*Développement et Santé, n°190, 2008*

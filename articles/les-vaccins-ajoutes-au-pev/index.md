@@ -6,11 +6,9 @@ date: "2009-04-28"
 
 ## I. La fièvre jaune
 
-La fièvre jaune est une maladie hémorragique zoonotique, transmise par les moustiques de la famille des Aédès (_Aedes aegypti_ en particulier et, clans une faible proportion, par _Haemagogus_).
-
+La fièvre jaune est une maladie hémorragique zoonotique, transmise par les moustiques de la famille des Aédès (*Aedes aegypti* en particulier et, clans une faible proportion, par *Haemagogus*).
 
 ![](image002.gif)
-
 
 ### 1. La maladie
 
@@ -23,30 +21,30 @@ Elle est marquée par une fièvre élevée, des céphalées violentes, des myalg
 
 #### La phase jaune hépato-rénale
 
-Les signes en sont : un ictère, des vomissements de sang digéré (_vomito negro_), une oligurie avec albuminurie puis une anurie, des hémorragies de toutes les muqueuses, des signes d'encéphalite avec agitation, anxiété puis prostration. L'évolution est mortelle dans environ 10 % des cas entre le sixième et le dixième jour. La guérison confère une immunité solide et durable.
+Les signes en sont : un ictère, des vomissements de sang digéré (*vomito negro*), une oligurie avec albuminurie puis une anurie, des hémorragies de toutes les muqueuses, des signes d'encéphalite avec agitation, anxiété puis prostration. L'évolution est mortelle dans environ 10 % des cas entre le sixième et le dixième jour. La guérison confère une immunité solide et durable.
 
 En somme, ictère avec hémorragies et/ou signes rénaux =
 
-*   suspicion de fièvre jaune.  
-*   ALERTER les autorités +++
+- suspicion de fièvre jaune.
+- ALERTER les autorités +++
 
 Confirmation diagnostique des premiers cas en urgence :
 
-*   par dosage des IgM
-*   par examen anatomopathologique du foie post-mortem.
+- par dosage des IgM
+- par examen anatomopathologique du foie post-mortem.
 
 ### 2. Epidémiologie
 
 La maladie est présente :
 
-*   En Afrique : entre 15° de latitude nord et 15° de latitude sud.  
-*   En Amérique : entre 10° de latitude nord et 20° de latitude sud.
+- En Afrique : entre 15° de latitude nord et 15° de latitude sud.
+- En Amérique : entre 10° de latitude nord et 20° de latitude sud.
 
 Au total, 90 % des cas sont relevés en Afrique contre 10 % en Amérique.  
 Il existe 2 formes épidémiques du même virus :
 
-*   La forme urbaine (et rurale), transmise par le virus _Aedes aegypti_, présente dans les villes et les villages, surtout en Afrique.  
-*   La forme sylvatique (fièvre jaune de brousse), initialement maladie des singes d'Amérique et également d'Afrique. Elle est transmise à l'homme par l'intermédiaire du moustique _Haemagogus_ qui pique les singes et dépose ses oeufs dans le creux des arbres où se développent les larves. Les forestiers et les chasseurs risquent d'être contaminés. La maladie se développe alors par petites épidémies, et le risque est de passer en ville avec _A. aegypti_.
+- La forme urbaine (et rurale), transmise par le virus *Aedes aegypti*, présente dans les villes et les villages, surtout en Afrique.
+- La forme sylvatique (fièvre jaune de brousse), initialement maladie des singes d'Amérique et également d'Afrique. Elle est transmise à l'homme par l'intermédiaire du moustique *Haemagogus* qui pique les singes et dépose ses oeufs dans le creux des arbres où se développent les larves. Les forestiers et les chasseurs risquent d'être contaminés. La maladie se développe alors par petites épidémies, et le risque est de passer en ville avec *A. aegypti*.
 
 ### 3. Lutte contre la fièvre jaune
 
@@ -54,9 +52,9 @@ La recrudescence de la fièvre jaune dans certains pays a incité l'OMS à inscr
 Les campagnes de vaccination contre la FJ avaient été arrêtées dans les années 1960-1970, d'où une recrudescence des épidémies dans les années 1980-1990.  
 Cette lutte passe par les recommandations suivantes :
 
-*   protection contre les moustiques _Aedes aegypti_ dans les zones urbaines, en notant que le moustique pique principalement en période diurne, lutte contre toutes les petites collections d'eau (boîtes, pneus, plantes engainantes, etc.),
-*   vaccination,
-*   surveillance des populations de singes.
+- protection contre les moustiques *Aedes aegypti* dans les zones urbaines, en notant que le moustique pique principalement en période diurne, lutte contre toutes les petites collections d'eau (boîtes, pneus, plantes engainantes, etc.),
+- vaccination,
+- surveillance des populations de singes.
 
 **C'est une maladie soumise au règlement sanitaire international, la déclaration des cas à l'OMS est obligatoire.**
 
@@ -64,8 +62,7 @@ Cette lutte passe par les recommandations suivantes :
 
 Toute affection fébrile aiguë d'apparition brutale s'accompagnant d'ictère et d'un ou de plusieurs des signes suivants : hémorragies, vomissements, signes d'encéphalite, atteinte rénale, bradycardie, évolution fatale en moins de 11 jours chez une personne non vaccinée vivant en zone d'endémie ou en revenant.
 
-###   
-4. Le vaccin contre la fièvre jaune ou vaccin antiamarile
+### 4. Le vaccin contre la fièvre jaune ou vaccin antiamarile
 
 Le vaccin utilisant la souche Dakar a été abandonné. Trois laboratoires agréés par l'OMS fabriquent la vaccin antiamarile à partir de la souche Rockefeller 17D atténuée par passages sur embryons de poulets. Un stabilisant permet le transport des vaccins lyophilisés entre + 2° C et + 4° C. La congélation n'est donc maintenant plus nécessaire.
 
@@ -77,7 +74,7 @@ Rappel tous les 10 ans.
 
 #### Législation
 
-Pour les voyageurs, la vaccination doit être notifiée sur un **certificat international de vaccination** délivré par l'OMS et disponible sur le site de l'OMS : http;//www.who.int/entity/csr/ihr/IVC200 06 26.pdf
+Pour les voyageurs, la vaccination doit être notifiée sur un **certificat international de vaccination** délivré par l'OMS et disponible sur le site de l'OMS : http;//[www.who.int/entity/csr/ihr/IVC200](http://www.who.int/entity/csr/ihr/IVC200) 06 26.pdf
 
 #### Indications
 
@@ -96,11 +93,11 @@ Rarement, syndrome neutropénique se traduisant par une fièvre et une atteinte 
 
 #### Contre-indications
 
-*   Allergie à l'oeuf.  
-*   Dysfonctionnement thymique.  
-*   Infection par le VIH.  
-*   Enfant de moins de 6 mois (risque d'encéphalite).  
-*   Maladie fébrile en cours.
+- Allergie à l'oeuf.
+- Dysfonctionnement thymique.
+- Infection par le VIH.
+- Enfant de moins de 6 mois (risque d'encéphalite).
+- Maladie fébrile en cours.
 
 #### Cas des enfants de mère VIH
 
@@ -121,9 +118,9 @@ En Afrique, zone à forte endémicité, de 70 à 90 % de la population ont renco
 
 Il existe 3 modes majeurs de transmission du virus :
 
-*   Par voie sexuelle : le virus est souvent présent dans le liquide séminal et les sécrétions vaginales.  
-*   Par voie parentérale : le sang, les produits sanguins, ainsi que le matériel souillé (aiguille, bistouris, seringues, etc.).  
-*   Transmission périnatale : la transmission d'une mère vers son enfant est la plus redoutable : le risque est de l'ordre de 90 %, celui du passage à un portage chronique du même ordre.
+- Par voie sexuelle : le virus est souvent présent dans le liquide séminal et les sécrétions vaginales.
+- Par voie parentérale : le sang, les produits sanguins, ainsi que le matériel souillé (aiguille, bistouris, seringues, etc.).
+- Transmission périnatale : la transmission d'une mère vers son enfant est la plus redoutable : le risque est de l'ordre de 90 %, celui du passage à un portage chronique du même ordre.
 
 Il n'existe aucun traitement permettant la guérison, tant pour la cirrhose que pour le cancer.
 
@@ -131,16 +128,16 @@ Il n'existe aucun traitement permettant la guérison, tant pour la cirrhose que 
 
 Les seuls moyens dont on dispose sont les mesures de prévention.
 
-*   Rapports sexuels protégés.  
-*   Stérilisation du matériel médical et utilisation de matériel à usage unique +++.  
-*   Et bien sûr, pas d'utilisation de drogues injectables !
+- Rapports sexuels protégés.
+- Stérilisation du matériel médical et utilisation de matériel à usage unique +++.
+- Et bien sûr, pas d'utilisation de drogues injectables !
 
 Mais la **seule** prévention efficace, à tous les âges de la vie, est la **vaccination**.  
 Mis au point vers 1975, les vaccins sont produits par génie génétique ; leur coût a considérablement diminué.  
 L'objectif de la vaccination est double :
 
-*   Prévenir cirrhoses et cancers.  
-*   Faire diminuer le nombre de porteurs chroniques de VHB, grands responsables de la diffusion de la maladie.
+- Prévenir cirrhoses et cancers.
+- Faire diminuer le nombre de porteurs chroniques de VHB, grands responsables de la diffusion de la maladie.
 
 Avec 3 injections, dans un schéma à 3 doses - à 0, 1 et 6 mois ou 0, 6,et 14 semaines - on entraîne une protection supérieure à 90 % et l'immunité induite est quasi-définitive.  
 **Fait important**, chez beaucoup de sujets, les anticorps circulants disparaissent au bout de quelques années. Cela ne signifie pas que le sujet n'est plus protégé. Il persiste une mémoire immunitaire médiée par les lymphocytes T et B. Si le sujet rencontre à nouveau le VHB, une réponse immunitaire rapide se manifeste avec réapparition brutale des anticorps circulants, sans aucun signe d'infection.
@@ -150,16 +147,16 @@ En résumé, c'est la première fois qu'un vaccin protège contre une cirrhose e
 
 ### 3. Ce qu'il faut retenir
 
-*   L'infection initiale est souvent inapparente, l'ictère absent.  
-*   Ce sont les complications à long terme qui font toute la gravité de la maladie.  
-*   Plus le sujet est jeune, plus le risque d'infection chronique est grand (nouveau-né +++),
-*   Aucun traitement ne permet une guérison.  
-*   Le vaccin protège à plus de 95 %.  
-*   Le vaccin VHB est le premier vaccin préventif d'un cancer.
+- L'infection initiale est souvent inapparente, l'ictère absent.
+- Ce sont les complications à long terme qui font toute la gravité de la maladie.
+- Plus le sujet est jeune, plus le risque d'infection chronique est grand (nouveau-né +++),
+- Aucun traitement ne permet une guérison.
+- Le vaccin protège à plus de 95 %.
+- Le vaccin VHB est le premier vaccin préventif d'un cancer.
 
-## III. Vaccination anti _Haemophilus influenzae_ type B (Hib)
+## III. Vaccination anti *Haemophilus influenzae* type B (Hib)
 
-_Haémophilus influenzae_ de type (Hib) est une bactérie responsable de nombreuses pathologies graves qui ne se rencontrent que chez l'enfant de moins de cinq ans : méningites, pneumonies, ainsi que épiglottites, ostéomyélites, ethmoïdites ou septicémies.
+*Haémophilus influenzae* de type (Hib) est une bactérie responsable de nombreuses pathologies graves qui ne se rencontrent que chez l'enfant de moins de cinq ans : méningites, pneumonies, ainsi que épiglottites, ostéomyélites, ethmoïdites ou septicémies.
 
 La majorité de ces cas surviennent dans les pays où la vaccination contre l'Haemophilus b n'est pas encore généralisée (voir schémas).  
 Le caractère invasif de l'H.influenzae est lié à la présence d'une capsule chez les souches responsables d'infections graves. Les souches non capsulées sont responsables d'otites et de surinfections bronchiques.  
@@ -169,7 +166,7 @@ La transmission se fait par voie aérienne, par l'intermédiaire des gouttelette
 
 Le vaccin développé initialement conférait un faible pouvoir immunogène chez le nourrisson de moins de 2 ans.
 
-Les vaccins anti-Hib actuels sont des vaccins conjugués, constitués d'un polyoside capsulaire (PRP) lié à une protéine tétanique, permettant la production d'anticorps anti-PRP spécifiques et la mise en place d'une mémoire immunitaire chez le nourrisson. Ils sont destinés à la protection contre les souches d'Hib responsables des infections invasives. Ils existent sous plusieurs formes, monovalents ou en association avec les autres vaccins du nourrisson _(voir tableau_).
+Les vaccins anti-Hib actuels sont des vaccins conjugués, constitués d'un polyoside capsulaire (PRP) lié à une protéine tétanique, permettant la production d'anticorps anti-PRP spécifiques et la mise en place d'une mémoire immunitaire chez le nourrisson. Ils sont destinés à la protection contre les souches d'Hib responsables des infections invasives. Ils existent sous plusieurs formes, monovalents ou en association avec les autres vaccins du nourrisson *(voir tableau*).
 
 ### 2. Administration et recommandations
 
@@ -328,6 +325,6 @@ Hépatite B
 
 </table>
 
-_NB: Pour le PEV, il existe actuellement des vaccins combinés pentavalents D - T- C - Hep B - Hib._
+*NB: Pour le PEV, il existe actuellement des vaccins combinés pentavalents D - T- C - Hep B - Hib.*
 
 Développement et Santé , n°195, 2009

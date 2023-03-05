@@ -13,167 +13,191 @@ L’anesthésiste devra tout faire pour en prévenir les complications en contr�
   </tr>
 </table>
 
+# Drépanocytose et anesthésie
 
-# Drépanocytose et anesthésie 
 Du fait des complications chroniques de la drépanocytose, ces patients bénéficient plus fréquemment d’un acte chirurgical (cholécystectomie, arthroplastie de hanche, notamment) par rapport au reste de la population générale. C’est à cette occasion que l’anesthésiste réanimateur est concerné, d’autant plus que 25 à 30 % des patients opérés auront une complication post-opératoire.  
-La fréquence des complications post-opératoires de la drépanocytose dépend du type d’intervention. En 1995, Koshy *et al*. ont analysé de manière rétrospective 1079 interventions chirurgicales chez le drépanocytaire. Les plus fréquentes étaient la cholécystectomie, la splénectomie, le curetage utérin, une césarienne, une amygdalectomie et une arthroplastie. Dans cette étude, les complications pouvaient concerner jusqu’à  19 % des patients opérés.
+La fréquence des complications post-opératoires de la drépanocytose dépend du type d’intervention. En 1995, Koshy *et al*. ont analysé de manière rétrospective 1079 interventions chirurgicales chez le drépanocytaire. Les plus fréquentes étaient la cholécystectomie, la splénectomie, le curetage utérin, une césarienne, une amygdalectomie et une arthroplastie. Dans cette étude, les complications pouvaient concerner jusqu’à 19 % des patients opérés.
 
 ## La prise en charge péri-opératoire
+
 ### 1. Bilan préopératoire
+
 La prise en charge de ces patients doit être multidisciplinaire associant anesthésistes, chirurgiens, et spécialistes des hémoglobinopathies. En plus des éléments habituellement recherchés lors de toute consultation d’anesthésie (allergies, évaluation des voies aériennes, capacité à l’effort notamment), c’est un instant privilégié pour s’assurer que le patient est suivi dans un centre spécialisé, et pour l’éduquer aux mesures préventives (vaccins à jour (voir l’article « Vaccins chez le drépanocytaire », y compris contre la grippe et l’hépatite B), hydratation régulière et abondante).  
 L'évaluation préopératoire permet d'apprécier la gravité et le retentissement fonctionnel de la maladie chez les patients ayant un syndrome drépanocytaire majeur, d'une part en fonction des antécédents de CVO et transfusionnels, d'autre part en fonction du degré d'évolution des complications dégénératives. Les éléments péjoratifs sont essentiellement représentés par les antécédents d'accidents vasculaires cérébraux (AVC), de syndrome thoracique aigu, la notion d'épisodes de défaillance viscérale (cardiaque, respiratoire ou rénale) et d’hémolyse post-transfusionnelle retardée ou une allo-immunisation complexe. La concertation avec le chirurgien est nécessaire, afin de connaître le déroulement de l'acte ainsi que ses complications potentielles. En effet, la procédure chirurgicale, en fonction de sa durée, de son risque hémorragique, de son retentissement respiratoire, hémodynamique ou métabolique, influe sur le risque théorique de complications vaso-occlusives.  
-Les examens complémentaires comportent un hémogramme ainsi qu’un bilan pré transfusionnel avec mise à jour de la carte de groupe sanguin et de la recherche d'agglutinines irrégulières (RAI). Les autres examens complémentaires (ECG, radiographie thoracique, échocardiographie, EFR notamment) seront prescrits en fonction des complications de la drépanocytose et de la chirurgie prévue. Enfin les stigmates d'une crise drépanocytaire (fièvre, anémie, douleur) ou d'un contexte infectieux sont recherchés, ils peuvent faire reporter la procédure si elle n’est pas urgente. D'éventuelles déformations osseuses, pouvant influer sur la technique d'anesthésie (intubation, anesthésie locorégionale) sont également recherchées. L’abord veineux est souvent difficile, voire impossible, nécessitant dans certains cas d’adapter la stratégie anesthésique (induction par voie inhalée, voire mise en place d’un abord veineux central). 
+Les examens complémentaires comportent un hémogramme ainsi qu’un bilan pré transfusionnel avec mise à jour de la carte de groupe sanguin et de la recherche d'agglutinines irrégulières (RAI). Les autres examens complémentaires (ECG, radiographie thoracique, échocardiographie, EFR notamment) seront prescrits en fonction des complications de la drépanocytose et de la chirurgie prévue. Enfin les stigmates d'une crise drépanocytaire (fièvre, anémie, douleur) ou d'un contexte infectieux sont recherchés, ils peuvent faire reporter la procédure si elle n’est pas urgente. D'éventuelles déformations osseuses, pouvant influer sur la technique d'anesthésie (intubation, anesthésie locorégionale) sont également recherchées. L’abord veineux est souvent difficile, voire impossible, nécessitant dans certains cas d’adapter la stratégie anesthésique (induction par voie inhalée, voire mise en place d’un abord veineux central).
 
 ### 2. Préparation à l’intervention
+
 #### a) Correction de l’anémie et stratégie transfusionnelle
-La fréquence des complications péri-opératoires est élevée chez les drépanocytaires. La baisse préopératoire du taux d'HbS (< 40 %) diminue l'incidence de ces complications en diminuant le risque de polymérisation de l’HbS . Ces objectifs sont définis après concertation multidisciplinaire (type et durée de la chirurgie, évolution et complications de la drépanocytose). Ils peuvent être atteints selon deux méthodes : 
+
+La fréquence des complications péri-opératoires est élevée chez les drépanocytaires. La baisse préopératoire du taux d'HbS (< 40 %) diminue l'incidence de ces complications en diminuant le risque de polymérisation de l’HbS . Ces objectifs sont définis après concertation multidisciplinaire (type et durée de la chirurgie, évolution et complications de la drépanocytose). Ils peuvent être atteints selon deux méthodes :  
 − **La transfusion simple**, possible si le chiffre d'hémoglobine de départ est bas (< 7 g/dL), est au mieux réalisée une semaine ou éventuellement juste avant l'intervention, en maintenant un taux d'hématocrite inférieur à 35 %. Cette technique semble efficace lors d'une chirurgie peu traumatisante chez l’adulte ayant un risque de CVO faible. La diminution modérée de la concentration d'HbS, induite par la transfusion, est majorée par la durée de vie courte des drépanocytes et l'action inhibitrice de la transfusion sur la production médullaire.  
 − **L'échange transfusionnel ou exsanguino-transfusion (EST)** est préféré si l'hémoglobine de base est plus élevée (> 10 g/dL), et ce d'autant que le seuil critique d'HbS souhaité est bas. Le plus souvent partielle, l'EST permet d'abaisser le taux d'HbS jusqu'à un niveau établi en fonction des risques inhérents à l'intervention ou au terrain. Cette méthode permet un contrôle précis du taux d'HbS et de l'hématocrite, tout en respectant l'état hémodynamique du sujet. Cependant, elle doit être idéalement pratiquée 24 à 48 heures avant l'intervention et requiert la pose de deux voies d’abord, l’une pour la saignée, l’autre pour les apports (solutés et sang). Le sang utilisé, doit être déleucocyté et phénotypé et tenir compte des anticorps déjà produits par le patient afin de réduire le risque d’accident transfusionnel.
 
-**Le support transfusionnel n’est pas systématique**
+**Le support transfusionnel n’est pas systématique**  
 L’échange transfusionnel ou la transfusion simple sera décidé au cas par cas en fonction des antécédents du patient, de son âge, du type de chirurgie et des possibilités transfusionnelles.  
 La transfusion préopératoire peut être évitée, sauf anémie aiguë (Hb < 6 g/dL), dans le cadre de la chirurgie mineure telle que la circoncision, la cure de hernie inguinale ou la pose d'aérateurs transtympaniques.  
 En cas d’intervention supérieure ou égale à une heure sur la paroi abdominale ou thoracique, ou d’amygdalectomie, une préparation transfusionnelle est recommandée.  
-Le risque de complications péri-opératoire est majoré par le contexte d’urgence. 
+Le risque de complications péri-opératoire est majoré par le contexte d’urgence.
 
 **La transfusion préopératoire** est largement conseillée, adaptée au saignement chirurgical (équivalent d’un échange transfusionnel).
 
 #### b) Modalités de prise en charge transfusionnelle des patients drépanocytaires, en fonction des antécédents du patient, du type et de la durée de l’intervention
 
-**Pas de transfusion ni d’échange transfusionnel**
-− Petite chirurgie (circoncision, exérèse ganglionnaire, petite chirurgie cutanée…)
-− Hernie inguinale
-− Adénoïdectomie
-− Cholécystectomie sans antécédent de syndrome thoracique aigu et  Hb ≥ 8 g/dL
-− Chirurgie orthopédique sans antécédent de syndrome thoracique aigu chez les patients drépanocytaires SC
+**Pas de transfusion ni d’échange transfusionnel**  
+− Petite chirurgie (circoncision, exérèse ganglionnaire, petite chirurgie cutanée…)  
+− Hernie inguinale  
+− Adénoïdectomie  
+− Cholécystectomie sans antécédent de syndrome thoracique aigu et Hb ≥ 8 g/dL  
+− Chirurgie orthopédique sans antécédent de syndrome thoracique aigu chez les patients drépanocytaires SC  
 − Ponction-réinjection de la tête fémorale (kyphoplastie)
 
-**Echange transfusionnel ou transfusion(s) simple(s) de deux à trois concentrés érythrocytaires selon le taux d’hémoglobine de base**
-− Cholécystectomie avec antécédent de syndrome thoracique aigu
-− Laparotomie
-− Splénectomie
-− Orthopédie (prothèse totale de hanche, etc.)
-− Amygdalectomie
-− Artériographie cérébrale ou coronarographie
-− Intervention en urgence
-− Interruption thérapeutique de grossesse
-− Interruption volontaire de grossesse chez les malades ayant plus d'une hospitalisation par an pour crise vaso-occlusive
+**Echange transfusionnel ou transfusion(s) simple(s) de deux à trois concentrés érythrocytaires selon le taux d’hémoglobine de base**  
+− Cholécystectomie avec antécédent de syndrome thoracique aigu  
+− Laparotomie  
+− Splénectomie  
+− Orthopédie (prothèse totale de hanche, etc.)  
+− Amygdalectomie  
+− Artériographie cérébrale ou coronarographie  
+− Intervention en urgence  
+− Interruption thérapeutique de grossesse  
+− Interruption volontaire de grossesse chez les malades ayant plus d'une hospitalisation par an pour crise vaso-occlusive  
 − Chirurgie ophtalmologique sous anesthésie générale
 
-**Echange transfusionnel pour obtenir un taux d’hémoglobine S inférieur à 30 %**
-− Thoracotomie
-− Intervention avec garrot
-− Transplantation
-− Neurochirurgie
-− Angioplastie par voie endovasculaire
+**Echange transfusionnel pour obtenir un taux d’hémoglobine S inférieur à 30 %**  
+− Thoracotomie  
+− Intervention avec garrot  
+− Transplantation  
+− Neurochirurgie  
+− Angioplastie par voie endovasculaire  
 − Chirurgie avec circulation extracorporelle
 
-Ce tableau est donné à titre indicatif. Dans tous les cas, l’indication de transfusion (ou  d’échange transfusionnel) devra être discutée au cas par cas.
+Ce tableau est donné à titre indicatif. Dans tous les cas, l’indication de transfusion (ou d’échange transfusionnel) devra être discutée au cas par cas.
 
 #### c) Autres mesures
+
 Les facteurs provoquant les crises sont la déshydratation, les changements de température, le stress, l’acidose et l’hypoxie. Tous ces éléments peuvent s’observer durant la période péri-opératoire.  
 **L’hydratation** : par voie orale (2 litres par jour) à domicile 48 h avant l’intervention puis apport hydrique intraveineux à partir du moment où les patients sont à jeûn.  
 **La kinésithérapie respiratoire** doit être proposée lors d’une intervention abdominale ou thoracique (spirométrie incitative).  
 **La prémédication** repose sur des agents peu dépresseurs respiratoires (hydroxyzine 1 mg/kg).  
-**Analgésie**  en cas de douleurs : paracétamol et morphiniques si besoin.
+**Analgésie** en cas de douleurs : paracétamol et morphiniques si besoin.
 
 ### 3. Période per-opératoire
+
 #### a) Généralités
-L'anesthésie locorégionale est préférable lorsque la chirurgie le permet, mais il faut tenir compte de l’anxiété qu’elle engendre et qui est un facteur déclenchant des crises. L’anesthésie générale peut être combinée à l’analgésie locorégionale, anticipant ainsi la prise en charge de la douleur post-opératoire. 
+
+L'anesthésie locorégionale est préférable lorsque la chirurgie le permet, mais il faut tenir compte de l’anxiété qu’elle engendre et qui est un facteur déclenchant des crises. L’anesthésie générale peut être combinée à l’analgésie locorégionale, anticipant ainsi la prise en charge de la douleur post-opératoire.
 
 Il est indispensable, en per-opératoire, de prévenir l'hypothermie au mieux avec un réchauffement externe par une couverture chauffante et un réchauffement interne des gaz inspirés, des solutés perfusés et des solutés de lavage, et une température ambiante adéquate. On prévient l'hypoxie par l'oxygénothérapie, ou la ventilation contrôlée en cas d'anesthésie générale, l'hypovolémie par la compensation des pertes hydriques et sanguines et l'infection par une antibioprophylaxie.  
 **Chez l’enfant**, la pose de la perfusion pourra être facilitée après induction au masque par sévoflurane. La pose d’une voie veineuse centrale sera parfois nécessaire.  
-**L'antibiothérapie prophylactique** peut être adaptée en fonction des antécédents infectieux du sujet. L’administration d’antibiotique est nécessaire, même pour une cholécystectomie qui est une situation fréquente (et qui ne requiert pas d’antibioprophylaxie chez le sujet non drépanocytaire). 
+**L'antibiothérapie prophylactique** peut être adaptée en fonction des antécédents infectieux du sujet. L’administration d’antibiotique est nécessaire, même pour une cholécystectomie qui est une situation fréquente (et qui ne requiert pas d’antibioprophylaxie chez le sujet non drépanocytaire).
 
-**Installation du patient**
+**Installation du patient**  
 Elle doit éviter les points de compression. L'utilisation du garrot pneumatique est à éviter, mais en cas de nécessité, une exsanguination minutieuse du membre avec un temps de gonflage court sont essentiels.
 
-**Monitorage**
+**Monitorage**  
 Le monitorage de base comprend un scope, un tensiomètre, un oxymètre de pouls, un capnographe. Un monitorage complémentaire en fonction du terrain et de la chirurgie associe la surveillance de la température, la pose d'une sonde urinaire et d'un cathéter radial, un monitorage de la curarisation.  
 L'oxymétrie de pouls (figure ci-dessous) permet la mesure de la saturation percutanée en oxygène (SpO2) par un capteur placé en regard d'un lit vasculaire pulsatile (doigts, oreille, nez...) et l'évaluation indirecte de la saturation artérielle en oxygène (SaO2). La SpO2 ne donne une information sur les variations de la PaO2 que lorsque celle-ci passe en dessous de 70-80 mmHg. La SpO2 doit se situer entre 90 et 100 % pour assurer une PaO2 > 60 mmHg. En pratique, la limite inférieure de SpO2 doit se situer à 96 %.
 
-![](image002-b.jpg)
-L’interprétation de l’oxymétrie de pouls doit être nuancée chez le sujet homozygote HbS (SS). En effet, la PaO2 correspondant aux chiffres de SpO2 doit être théoriquement déduite en fonction de la courbe de dissociation de ce sujet (déviée à droite). Ainsi, une SpO2 de 96 % correspond à une PaO2 d'environ 90 mmHg chez le sujet HbS (SS) et à une PaO2 d'environ 70 mmHg chez le sujet sain. La précision de la SpO2 est également diminuée lors de l'anémie (surestimation de la désaturation) et en présence de méthémoglobine (sous-estimation de la désaturation). 
+![](image002-b.jpg)  
+L’interprétation de l’oxymétrie de pouls doit être nuancée chez le sujet homozygote HbS (SS). En effet, la PaO2 correspondant aux chiffres de SpO2 doit être théoriquement déduite en fonction de la courbe de dissociation de ce sujet (déviée à droite). Ainsi, une SpO2 de 96 % correspond à une PaO2 d'environ 90 mmHg chez le sujet HbS (SS) et à une PaO2 d'environ 70 mmHg chez le sujet sain. La précision de la SpO2 est également diminuée lors de l'anémie (surestimation de la désaturation) et en présence de méthémoglobine (sous-estimation de la désaturation).
 
 #### b) Anesthésie générale
-**Choix des agents anesthésiques**
+
+**Choix des agents anesthésiques**  
 Tous les agents anesthésiques - narcotiques, morphiniques et myorelaxants - peuvent être utilisés et ils suivent les règles de prescription habituelles.  
-Chez l’enfant, l’induction par voie inhalée au sévoflurane reste la référence. Elle permet une veinodilatation, facilitant ainsi la pose de l’accès veineux une fois le niveau d’anesthésie adéquat atteint. 
+Chez l’enfant, l’induction par voie inhalée au sévoflurane reste la référence. Elle permet une veinodilatation, facilitant ainsi la pose de l’accès veineux une fois le niveau d’anesthésie adéquat atteint.
 
-**Choix du mode ventilatoire**
-L'intubation et la ventilation contrôlée sont recommandées pour prévenir l'hypoventilation alvéolaire, source d'hypoxie et d'hypercapnie. Les paramètres ventilatoires habituels sont un volume courant de 8 à 10 mL/kg avec une pression de plateau limitée à 30 cm H2O, une fréquence respiratoire initiale à 12/minute, un mélange air oxygène (ou protoxyde d'azote oxygène) avec une FIO2 initiale supérieure à 50 % puis adaptée à la mesure de la SpO2,  une pression expiratoire positive entre 5 et 10 cm H2O afin de prévenir les atélectasies alvéolaires, source potentielle de complication pulmonaire post-opératoire.
+**Choix du mode ventilatoire**  
+L'intubation et la ventilation contrôlée sont recommandées pour prévenir l'hypoventilation alvéolaire, source d'hypoxie et d'hypercapnie. Les paramètres ventilatoires habituels sont un volume courant de 8 à 10 mL/kg avec une pression de plateau limitée à 30 cm H2O, une fréquence respiratoire initiale à 12/minute, un mélange air oxygène (ou protoxyde d'azote oxygène) avec une FIO2 initiale supérieure à 50 % puis adaptée à la mesure de la SpO2, une pression expiratoire positive entre 5 et 10 cm H2O afin de prévenir les atélectasies alvéolaires, source potentielle de complication pulmonaire post-opératoire.
 
-**Induction et entretien de l'anesthésie**
+**Induction et entretien de l'anesthésie**  
 Avant l'induction de l'anesthésie, une pré oxygénation au masque pendant 5 minutes est indispensable. L'intubation et la ventilation mécanique sont très largement indiquées compte tenu des risques de l'hypoventilation alvéolaire. Une FIO2 supérieure à 0,5 est utilisée. Le protoxyde d'azote peut être employé s'il n'existe pas d'atteinte pulmonaire emphysémateuse.
 
-**Fin d'intervention et extubation**
+**Fin d'intervention et extubation**  
 Les critères d'extubation sont : un patient conscient qui répond aux ordres simples, décurarisé avec un head lift test supérieur à 5 secondes ou un T4/T1 supérieur à 90 %, démorphinisé avec une fréquence respiratoire supérieure à 8, et satisfaisant aux critères généraux que sont une température à 36°5, une SpO2 > 95 % à l'air ambiant ou proche de la valeur avant induction, un pouls et une pression artérielle stables et l'absence de saignement au niveau du pansement et du drainage.  
-Le retrait de la sonde d’intubation est effectué chez un patient réchauffé, décurarisé, non algique, sans broncho-aspiration (pourvoyeuse d’atélectasies pulmonaires et d’hypoxie post-opératoire). 
+Le retrait de la sonde d’intubation est effectué chez un patient réchauffé, décurarisé, non algique, sans broncho-aspiration (pourvoyeuse d’atélectasies pulmonaires et d’hypoxie post-opératoire).
 
 #### c) Anesthésie locorégionale (ALR)
+
 L'ALR est privilégiée à l'anesthésie générale lorsqu'elle est possible.  
 L’hydratation et l’oxygénothérapie doivent être systématiques, la composante anxieuse doit être prise en charge. L'anesthésie locale et l'anesthésie nerveuse périphérique (bloc plexique et nerveux) sont préférées à l'anesthésie médullaire qui associe au bloc sensitivo-moteur, un bloc sympathique étendu qui peut décompenser une insuffisance respiratoire ou cardiaque. L'ALR intraveineuse est contre-indiquée en raison de l'utilisation du garrot. L'ALR plexique ou nerveuse périphérique potentialisée par une anesthésie générale permet une extubation précoce avec une analgésie postopératoire immédiate.
 
 ### 4. Période post-opératoire
+
 Le risque de survenue des complications, surtout du syndrome thoracique aigu, est très élevé. La surveillance doit être rigoureuse (notamment : auscultation pulmonaire biquotidienne). Au moindre signe d’appel clinique, il faudra contrôler la numération sanguine, plaquettes, réticulocytes, les paramètres d’hémolyse (LDH, bilirubinémie), ionogramme sanguin, créatininémie.
 
-La **kinésithérapie respiratoire** (spirométrie incitative, dix inspirations par heure) doit être reprise de façon systématique dès le réveil, et doit être poursuivie après extubation pendant au moins 3 jours. 
+La **kinésithérapie respiratoire** (spirométrie incitative, dix inspirations par heure) doit être reprise de façon systématique dès le réveil, et doit être poursuivie après extubation pendant au moins 3 jours.
 
 Le maintien d’un **état volémique et thermique** optimal est nécessaire.
 
-La **douleur postopératoire** thoracique ou abdominale peut induire une hypoventilation alvéolaire et la survenue d’atélectasies. La morphine reste l’analgésique de référence. Elle peut être utilisée en injections intraveineuses discontinues. Elle sera associée aux antalgiques de palier I et II. 
+La **douleur postopératoire** thoracique ou abdominale peut induire une hypoventilation alvéolaire et la survenue d’atélectasies. La morphine reste l’analgésique de référence. Elle peut être utilisée en injections intraveineuses discontinues. Elle sera associée aux antalgiques de palier I et II.
 
-**Cas particuliers**
-**Chirurgie orthopédique**
-L’échange transfusionnel peut se faire au bloc lorsqu’on prévoit que l’intervention sera hémorragique. Il faut prévoir au minimum trois concentrés érythrocytaires et compenser les pertes sanguines au décours de l’intervention. 
+**Cas particuliers**  
+**Chirurgie orthopédique**  
+L’échange transfusionnel peut se faire au bloc lorsqu’on prévoit que l’intervention sera hémorragique. Il faut prévoir au minimum trois concentrés érythrocytaires et compenser les pertes sanguines au décours de l’intervention.
 
-**Cholécystectomie programmée**
+**Cholécystectomie programmée**  
 Il est souhaitable que le patient bénéficie en pré et post opératoire de séances de spirométrie incitative (type respiflow).  
- En cas d’antécédents de Syndrome Thoracique Aigu (STA) avec séquelles respiratoires,  il faudra pratiquer des séances de kinésithérapie respiratoire avant et après l’intervention
+En cas d’antécédents de Syndrome Thoracique Aigu (STA) avec séquelles respiratoires, il faudra pratiquer des séances de kinésithérapie respiratoire avant et après l’intervention  
 Transfusion ou échange transfusionnel sont indiqués en cas d’antécédents de STA, de crises vaso-occlusives récentes ou de comorbidités cardiaques, rénales ou cérébrales.  
 Il pourra s’agir d’une transfusion simple si le taux d’hémoglobine est inférieur à 8g/dL. Si le taux d’hémoglobine est supérieur ou égal à 8 g/dL, il faudra pratiquer un échange transfusionnel.
 
-**Splénectomie**
+**Splénectomie**  
 Elle nécessite une transfusion ou un échange transfusionnel pré-opératoire, les vaccinations contre le pneumocoque (si ces dernières ne sont pas à jour), le méningocoque et l’*Haemophilus influenzae* et une antibioprophylaxie antipneumococcique par la pénicilline (ou macrolide en cas d’allergie) pendant une période d’au moins 2 ans, voire plus. Compte tenu du risque thrombotique élevé après la splénectomie, une anticoagulation préventive est maintenue un mois après l’intervention et un anti-agrégant plaquettaire (aspirine à petite dose) pendant au moins un mois, puis en fonction de la numération plaquettaire (maintenir l’anti-agrégation plaquettaire tant que les plaquettes sont supérieures à 600 000/mm3). Une surveillance rapprochée du malade est nécessaire dans les mois qui suivent la splénectomie en raison d’une possible augmentation des crises vaso-occlusives en rapport avec l’augmentation de la viscosité, devant conduire à une adaptation du traitement de fond de la drépanocytose.
 
-**Interruption volontaire de grossesse, césarienne, curetage**
+**Interruption volontaire de grossesse, césarienne, curetage**  
 Un échange transfusionnel sera proposé en fonction des antécédents de syndrome thoracique aigu.
 
-**Chirurgie en urgence**
+**Chirurgie en urgence**  
 En cas de nécessité de transfusion ou d’échange transfusionnel, cela ne doit pas retarder un geste chirurgical urgent et peut être débuté au bloc opératoire.
 
 ## Drépanocytose et grossesse
+
 Pour les patientes drépanocytaires homozygotes et hétérozygotes, la grossesse est une période à risque avec une morbimortalité materno-foetale augmentée. Le risque d’éclampsie est important. Le suivi nécessite une collaboration étroite entre les différents intervenants. Lors de l’accouchement, tous les facteurs nécessaires à la vaso-occlusion sont réunis : le jeûne, le stress, et les efforts à glotte fermée. Le recours à la transfusion ou l’échange transfusionnel est une solution pour éviter une complication en per et post partum. Cependant, elle n’est pas toujours possible en raison des allo-immunisations ou des antécédents d’hémolyse post transfusionnelle retardée même si les RAI restent négatives. L’anticoagulation préventive est systématique en post partum. Idéalement, les parturientes devraient être suivies dans un service d’obstétrique à proximité d’une unité de réanimation.
 
 ### 1. Rappel physiopathologique
+
 #### a) Effets de la grossesse sur l'évolution de la drépanocytose
+
 L'anémie physiologique aggrave l'anémie chronique déjà préexistante. L'augmentation de la consommation d'oxygène, la compression aorto-cave, la stase veineuse et l'hypercoagulabilité favorisent les accidents vaso-occlusifs, surtout pendant le 3ème trimestre. Les modifications de la fonction cardiaque peuvent être responsables d'oedème aigu du poumon surtout en per et post partum. La tolérance immunitaire induite par la grossesse favorise le développement des infections surtout urinaires et respiratoires. Les conditions de stress générées par l'accouchement et le post partum (douleur, jeûne, déshydratation, acidose métabolique liée au travail du muscle utérin, alcalose respiratoire liée à l'hyperventilation, infection, activation de la coagulation) favorisent la falciformation des hématies et les complications vaso-occlusives.
 
 #### b) Effets de la drépanocytose sur le déroulement de la grossesse
+
 L'anémie et les accidents vaso-occlusifs induisent une baisse de la perfusion utéro-placentaire avec hypoxie et infarctus placentaires. Ainsi, les patientes drépanocytaires ont un risque plus élevé d’avoir une hypertension artérielle gravidique ou une pré-éclampsie, une menace d'accouchement prématuré, un retard de croissance intra-utérin, une mort fœtale in utero.
 
-###  2. Prise en charge des patientes drépanocytaires
+### 2. Prise en charge des patientes drépanocytaires
+
 La prise en charge doit être multidisciplinaire, faisant intervenir l'obstétricien, l'hématologue, le médecin interniste qui suit régulièrement la patiente et l'anesthésiste, avec une accessibilité à un service de réanimation.
 
 #### a) Consultation pré-conceptionnelle
-Elle permet, avant toute grossesse programmée, une information précise du risque génétique après un examen du conjoint avec une étude de l'électrophorèse de l'hémoglobine.  
+
+Elle permet, avant toute grossesse programmée, une information précise du risque génétique après un examen du conjoint avec une étude de l'électrophorèse de l'hémoglobine.
+
 #### b) Surveillance maternelle
-Le suivi mensuel par l'obstétricien et le médecin suivant la drépanocytose permet la surveillance clinique et biologique de la grossesse avec NFS, ionogramme, bilan hépatique, LDH, mise à jour du dossier transfusionnel, ECBU.  
+
+Le suivi mensuel par l'obstétricien et le médecin suivant la drépanocytose permet la surveillance clinique et biologique de la grossesse avec NFS, ionogramme, bilan hépatique, LDH, mise à jour du dossier transfusionnel, ECBU.
+
 #### c) La transfusion
+
 La transfusion prophylactique systématique pendant la grossesse est préconisée par la plupart des équipes.  
 Chez les patientes drépanocytaires SS, les programmes transfusionnels sont débutés vers 22-25 semaines d'aménorrhée. Ils peuvent être débutés plus précocement s'il existe des antécédents de mort fœtale in utero, si l'anémie est mal tolérée ou en cas de complications vaso-occlusives. Les transfusions sont répétées toutes les 3 semaines jusqu'à l'accouchement. Le but est d'obtenir au moment de l'accouchement une hémoglobine à 9-11 g/dL et un taux d'HbS < 50 %.  
 Chez les patientes drépanocytaires SC, la prise en charge doit être identique. En post-partum, la transfusion est envisagée en cas de complications infectieuses ou vaso-occlusives.
 
 ### 3. La prise en charge anesthésique
+
 #### a) En salle de travail
+
 Il faut administrer de l'oxygène par sonde nasale, hydrater, réchauffer la patiente et prévoir un dispositif de transfusion rapide permettant le réchauffement du sang en cas d'hémorragie.  
 L'analgésie péridurale est largement recommandée au cours du travail chez les patientes drépanocytaires. La vasodilatation induite par le bloc sympathique améliore la vascularisation périphérique. L'analgésie atténue l'activation du système sympathique, et diminue le risque de survenue des complications vaso-occlusives.
 
 #### b) Au bloc opératoire
+
 L'incidence de la césarienne chez la femme enceinte drépanocytaire est élevée ; l'indication de la césarienne est justifiée par la présence d'un ou plusieurs facteurs de risque tels que la souffrance fœtale chronique et la pré-éclampsie, les crises vaso-occlusives aiguës, la dystocie pelvienne qui peut être la conséquence des atteintes osseuses précoces dans les formes sévères de l'enfance.  
 Les mêmes précautions anesthésiques que pour tout drépanocytaire sont à respecter. L'anesthésie locorégionale (rachianesthésie ou péridurale) est très recommandée. En peropératoire, il faut une surveillance rigoureuse de la volémie et de l'oxygénation de la patiente. En post-partum, il faut assurer l'hydratation, l'oxygénation, le réchauffement de la patiente, et une analgésie efficace par la morphine. L'antibiothérapie et la prophylaxie thrombo-embolique sont systématiques après toute césarienne chez la patiente drépanocytaire.
 
-### Conclusion 
+### Conclusion
+
 L’espérance de vie des patients porteurs de drépanocytose s’est considérablement allongée, expliquant l’apparition des complications viscérales chroniques qu’il faut détecter et prévenir.  
 L’élément clé dans la prise en charge de ces patients reste la collaboration et la communication entre les différents intervenants (anesthésiste, chirurgien, médecin référent d’hémoglobinopathies et centre de transfusion). Ces patients devraient être pris en charge dans des établissements qui ont l’habitude de ces pathologies et doivent être dotés de services de réanimation, avoir un accès rapide aux transfusions et des médecins connaissant ces pathologies. Des éléments simples tels que le contrôle de la volémie, l’oxygénation, la prévention de l’hypothermie et de l’acidose et le traitement de la douleur peuvent diminuer le risque de complications post-opératoires.  
 De plus, la situation transfusionnelle des patients est un élément limitant à prendre en compte systématiquement.

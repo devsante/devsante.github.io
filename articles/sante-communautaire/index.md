@@ -12,9 +12,7 @@ En réponse à ce constat, un projet pilote d'Education à la Santé -projet EAS
 
 Il s'est déroulé sur deux aires de santé conjointement à la mise en place de centres de santé communautaire selon les directives du programme de développement sanitaire et social (PRODESS) du gouvernement malien.
 
-
 ![](i774-1.jpg)
-
 
 ## I. La démarche
 
@@ -32,15 +30,15 @@ Le but est de créer un cadre de "concertation locale" entre les différents act
 
 Ces différents acteurs sont d'ailleurs regroupés au sein d'un comité de pilotage chargé de suivre l'évolution du projet et ses nouvelles orientations possibles. Il se réunit une fois par trimestre et permet de faire le point sur les activités réalisées en établissant des recommandations pour la suite du projet.
 
-### Le processus comprend plusieurs étapes **:**
+### Le processus comprend plusieurs étapes
 
-*   Le recueil de données, en privilégiant l'approche anthropologique par rapport aux démarches classiques des enquêtes épidémiologiques. Cette première phase s'accompagne également d'une présentation à la population du projet en cours.  
-*   L'identification et la création des groupes de discussion.  
-*   La sélection des thématiques abordées par la population (début de motion proprement dite).  
-*   La recherche des causes (arbres à problèmes).  
-*   La recherche de solutions adaptées et simples d'application (arbres à objectifs).  
-*   La planification des actions et la constitution des groupes.  
-*   L'évaluation suivie du réajustement des actions en cours.
+- Le recueil de données, en privilégiant l'approche anthropologique par rapport aux démarches classiques des enquêtes épidémiologiques. Cette première phase s'accompagne également d'une présentation à la population du projet en cours.
+- L'identification et la création des groupes de discussion.
+- La sélection des thématiques abordées par la population (début de motion proprement dite).
+- La recherche des causes (arbres à problèmes).
+- La recherche de solutions adaptées et simples d'application (arbres à objectifs).
+- La planification des actions et la constitution des groupes.
+- L'évaluation suivie du réajustement des actions en cours.
 
 ## II. Deux exemples concrets
 
@@ -60,10 +58,10 @@ Le personnel soignant ayant soumis en réunion de "concertation locale" le probl
 
 Ces séances ont fait ressortir différents aspects :
 
-*   le problème de l'accessibilité financière au centre de soins du fait des faibles revenus de la population, particulièrement à certaines périodes de l'année;
-*   l'inexistence de la notion d'épargne santé;
-*   l'absence de liquidité financière;
-*   le fait de ne pas donner la priorité aux dépenses de santé par rapport aux autres types de dépenses (on ne dépense pas de l'argent pour se soigner quand on est malade ...).
+- le problème de l'accessibilité financière au centre de soins du fait des faibles revenus de la population, particulièrement à certaines périodes de l'année;
+- l'inexistence de la notion d'épargne santé;
+- l'absence de liquidité financière;
+- le fait de ne pas donner la priorité aux dépenses de santé par rapport aux autres types de dépenses (on ne dépense pas de l'argent pour se soigner quand on est malade ...).
 
 La plupart des malades se rendent ainsi au centre de santé uniquement les jours de foire, car c'est le moment propice pour se procurer de l'argent liquide en vendant quelques biens.
 
@@ -73,8 +71,6 @@ Cette réflexion a conduit les groupes de discussion a imaginer un système de c
 
 Certains comités de santé villageois sont devenus à ce point dynamiques qu'il est possible aujourd'hui de les charger de la coordination de toutes les actions communautaires entreprises dans leur zone. Ils effectuent le suivi des actions, mobilisent les populations autour de ces actions et entreprennent des contacts avec l'Asaco, le personnel soignant et les autres partenaires. Leur encadrement est assuré par les facilitateurs qui les préparent aussi à leur propre succession.
 
-
 ![](i774-2.jpg)
 
-
-_Développement et Santé, n° 160, août 2002_
+*Développement et Santé, n° 160, août 2002*

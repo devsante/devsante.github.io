@@ -16,12 +16,14 @@ Il est important de connaître ces voies car c’est le seul moyen de prévenir 
 
 ## I. Voie aérienne
 
-### 1. Transmission par les gouttelettes de salive  
+### 1. Transmission par les gouttelettes de salive
+
 ou les secrétions respiratoires d’un individu 
 
 On distingue :
 
-#### a. La transmission dite directe par  
+#### a. La transmission dite directe par
+
 les gouttelettes de salive elles-mêmes
 
 Ce sont des particules relativement grosses > à 5 µm.  
@@ -30,14 +32,13 @@ Elles sédimentent rapidement : ne vont pas plus loin qu’un mètre.
 Elles se déposent sur les conjonctives ou les muqueuses de l’hôte.  
 Toutes les maladies dues à  des micro-organismes de la sphère ORL peuvent être transmis de cette façon, mais c’est par cette seule voie que sont transmis les plus fragiles, ceux qui ne peuvent subsister dans le milieu extérieur comme :
 
-*   les agents de méningites à méningocoque, à _Haemophilus_ , les pneumonies.  
-*   les virus fragiles : oreillons, rubéole, grippe, fièvres hémorragiques.
+- les agents de méningites à méningocoque, à *Haemophilus* , les pneumonies.
+- les virus fragiles : oreillons, rubéole, grippe, fièvres hémorragiques.
 
 A titre d’exemple :  
-Un _éternuement_ produit environ 40 000 gouttelettes, le fait de tousser 3000, et cinq minutes de parole 3000.
+Un *éternuement* produit environ 40 000 gouttelettes, le fait de tousser 3000, et cinq minutes de parole 3000.
 
-####   
-b. La transmission dite aéroportée par des gouttelettes de salive asséchées, contenant des micro-organismes plus résistants, qui ont supporté la dessication.
+#### b. La transmission dite aéroportée par des gouttelettes de salive asséchées, contenant des micro-organismes plus résistants, qui ont supporté la dessication
 
 Les particules sont plus petites < à 5µm.  
 Elles peuvent être véhiculées sur de plus longues distances, et contiennent des agents infectieux viables.  
@@ -49,8 +50,8 @@ Peuvent être ainsi transmis : tuberculose, varicelle, variole, rougeole, varice
 ### 2. Inhalation
 
 Nous avons fait figurer dans ce chapitre la transmission par inhalation bien qu’il ne s’agisse pas là d’une transmission d’une personne à une autre mais d’une contamination par des microorganismes potentiellement dangereux contenus dans l’air.   
-Dans ce groupe on citera le cas particulier des _Legionella_ où le patient s’infecte en respirant une eau contaminée sous forme d’aérosols (installations de climatisations défectueuses où  circuits de distribution d’eau chaude  (douches) vétustes et mal entretenus). Le danger dépendra de l’importance de la contamination de l’eau, et l’état des défenses immunitaires du sujet.  
-On citera également les infections produites par les _Aspergillus_, hôtes habituels de l’air ambiant. Ils sont inoffensifs pour les sujets en bonne santé, mais ils peuvent donner des maladies graves, les aspergillose, chez les patients gravement immunodéprimés.  
+Dans ce groupe on citera le cas particulier des *Legionella* où le patient s’infecte en respirant une eau contaminée sous forme d’aérosols (installations de climatisations défectueuses où  circuits de distribution d’eau chaude  (douches) vétustes et mal entretenus). Le danger dépendra de l’importance de la contamination de l’eau, et l’état des défenses immunitaires du sujet.  
+On citera également les infections produites par les *Aspergillus*, hôtes habituels de l’air ambiant. Ils sont inoffensifs pour les sujets en bonne santé, mais ils peuvent donner des maladies graves, les aspergillose, chez les patients gravement immunodéprimés.  
 **Dans ces deux pathologies, il n’existe jamais de contamination interhumaine et il n’est pas utile d’isoler un patient atteint.**
 
 ### 3. Blocs opératoires
@@ -71,7 +72,7 @@ La voie parentérale, ou sanguine, est la voie qui traverse la peau ou les muque
 
 Les plaies accidentelles sont dues à des ruptures de la peau, par coups ou blessures, par morsures ou par piqûres.  
 Les germes qui pénètrent alors dans l’organisme sont à la fois ceux de la peau du sujet accidenté, et ceux  qui sont en rapport avec l’accident.  
-C’est ainsi que les plaies seront souvent souillées par les germes de la terre et de l’environnement, notamment les germes anaérobies sporulés de la famille des _Clostridium_, parmi lesquels les agents des gangrènes gazeuses et du tétanos (_Clostridium tetani_).  
+C’est ainsi que les plaies seront souvent souillées par les germes de la terre et de l’environnement, notamment les germes anaérobies sporulés de la famille des *Clostridium*, parmi lesquels les agents des gangrènes gazeuses et du tétanos (*Clostridium tetani*).  
 La pénétration de bactéries entraînera les réactions de défense de l’organisme qui mobilisera ses leucocytes ce qui conduira à la formation de pus. Mais ces défenses peuvent être dépassées et plus la bactérie sera pathogène et plus le risque d’infection généralisée sera grand.
 
 **Le nettoyage des plaies avec élimination des grains de terre et de sable est d’une grande importance.**
@@ -137,7 +138,8 @@ C’est la connaissance des voies de transmission de l’infection qui va permet
 
 </table>
 
-<table>
+\$1<table>
+
 <caption>MST dues à des bactéries</caption>
 
 <thead>

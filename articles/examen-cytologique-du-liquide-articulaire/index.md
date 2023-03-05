@@ -20,7 +20,7 @@ L'examen du liquide apporte de nombreux renseignements sur la pathologie respons
 
 L'observation de microcristaux caractéristiques qui apparaissent dans le liquide articulaire au cours des arthropathies métaboliques apporte des renseignements précieux.
 
-La cellularité et la formule de la population cellulaire permettent d'isoler cinq types de liquides articulaires (_tableau n° 1_). Il s'agit, bien entendu, d'une indication qui n'a qu'une valeur relative mais qui est précieuse pour le clinicien.
+La cellularité et la formule de la population cellulaire permettent d'isoler cinq types de liquides articulaires (*tableau n° 1*). Il s'agit, bien entendu, d'une indication qui n'a qu'une valeur relative mais qui est précieuse pour le clinicien.
 
 Le liquide articulaire normal est transparent, clair ou jaunâtre. Il devient plus opaque quand augmente la cellularité.
 
@@ -28,9 +28,7 @@ Sa viscosité est en rapport avec la teneur du liquide en acide hyaluronique. El
 
 La formation d'un caillot est le propre des liquides pathologiques. En effet, le liquide synovial normal est dépourvu de fibrinogène et ne coagule donc pas. En revanche, tout liquide pathologique, surtout s'il est inflammatoire, contient de la fibrine et forme un caillot dont les mailles enserrent les éléments cellulaires. Il est donc essentiel d'éviter la coagulation du liquide par l'emploi d'anticoagulants.
 
-
 ![](i849-1.jpg)
-
 
 **Il. Technique**
 
@@ -46,13 +44,11 @@ Cette étape, la plus importante, consiste à déposer, le plus rapidement possi
 
 À défaut de dispositif de polarisation, l'examen peut être réalisé en fermant fortement le diaphragme de luminosité, ce qui met en évidence les éléments qui ont un indice de réfraction différent de celui des constituants cellulaires.
 
-On peut compléter cet examen par une numération cellulaire à la cellule de Malassez qui constitue un élément important pour déterminer la nature et l'arthropathie _(tableau n° 2)._
+On peut compléter cet examen par une numération cellulaire à la cellule de Malassez qui constitue un élément important pour déterminer la nature et l'arthropathie *(tableau n° 2).*
 
 Si l'examen immédiat est impossible il peut être différé - jusqu'à 24 heures, à condition de conserver le liquide à 4 °C ou, mieux encore, au congélateur à - 20 °C. Il est également possible de faire des étalements séchés à l'air ou des cytocentrifugations. Les cristaux persistent sur les lames qui peuvent être examinées secondairement soit directement, à l'état sec, en lumière polarisée, soit après coloration par le May Grünwald Giemsa (MGG).
 
-
 ![](i849-2.jpg)
-
 
 **3. Coloration par le MGG**
 
@@ -60,19 +56,15 @@ L'examen à l'état frais est utilement complété par la coloration par le MGG 
 
 **III. Résultats**
 
-L'examen cytologique du liquide articulaire est un élément utile aux cliniciens pour orienter le diagnostic vers l'une ou l'autre des nombreuses affections articulaires dont le patient peut souffrir. Pour les arthropathies métaboliques ou microcristallines, cet examen constitue l'élément-clé du diagnostic (_tableau n° 3)._
-
+L'examen cytologique du liquide articulaire est un élément utile aux cliniciens pour orienter le diagnostic vers l'une ou l'autre des nombreuses affections articulaires dont le patient peut souffrir. Pour les arthropathies métaboliques ou microcristallines, cet examen constitue l'élément-clé du diagnostic (*tableau n° 3).*
 
 ![](i849-3.jpg)
 
-
 **1. Arthrites infectieuses**
 
-L'examen cytologique montre une très grande richesse cellulaire avec une forte proportion de polynucléaires, souvent altérés. Si l'infection est torpide ou décapitée par les antibiotiques, les polynucléaires sont moins nombreux et la preuve de l'infection repose sur l'examen bactériologique du liquide ou l'examen histologique d'une biopsie de synoviale. Si la cytologie est riche en polynucléaire éosinophiles, il est indispensable de rechercher la présence de microfilaires _(figure n° 1)._
-
+L'examen cytologique montre une très grande richesse cellulaire avec une forte proportion de polynucléaires, souvent altérés. Si l'infection est torpide ou décapitée par les antibiotiques, les polynucléaires sont moins nombreux et la preuve de l'infection repose sur l'examen bactériologique du liquide ou l'examen histologique d'une biopsie de synoviale. Si la cytologie est riche en polynucléaire éosinophiles, il est indispensable de rechercher la présence de microfilaires *(figure n° 1).*
 
 ![](i849-4.jpg)
-
 
 **2. Rhumatismes inflammatoires**
 
@@ -82,23 +74,23 @@ Là encore, la cellularité est importante et les polynucléaires sont les plus 
 
 C'est dans ce groupe d'affections que l'examen du liquide articulaire trouve son intérêt et sa justification. Il convient de noter que la découverte de microcristaux ne permet pas d'éliminer une infection et qu'un examen bactériologique reste souhaitable dans tous les cas.
 
-*   **Goutte**
+- **Goutte**
 
-La crise de goutte est toujours liée à la présence dans la cavité articulaire d'innombrables cristaux d'urate monosodique dont la forme et les particularités physiques sont très caractéristiques. Il s'agit de cristaux allongés, en aiguille, mesurant 5 à 20 µm de longueur, à extrémités effilées, transperçant les membranes cellulaires. Le liquide est le plus souvent très inflammatoire et particulièrement riche en polynucléaires neutrophiles (_figures n° 2 et 3)._
+La crise de goutte est toujours liée à la présence dans la cavité articulaire d'innombrables cristaux d'urate monosodique dont la forme et les particularités physiques sont très caractéristiques. Il s'agit de cristaux allongés, en aiguille, mesurant 5 à 20 µm de longueur, à extrémités effilées, transperçant les membranes cellulaires. Le liquide est le plus souvent très inflammatoire et particulièrement riche en polynucléaires neutrophiles (*figures n° 2 et 3).*
 
 Des cristaux très petits (1 à 2 µm) peuvent se voir dans les épanchements asymptomatiques persistants au décours d'une attaque de goutte. Ils sont alors souvent extracellulaires. Les cristaux d'urate de sodium, solubles dans l'eau, ne persistent que de façon inconstante sur les étalements colorés par le MGG.
 
-*   **Chondrocalcinose articulaire**
+- **Chondrocalcinose articulaire**
 
-Cette affection est due à la présence dans le cartilage et/ou la synoviale de dépôts de cristaux de pyrophosphate de calcium dihydraté dont la libération entraîne une symptomatologie variable allant de la crise pseudogoutteuse pour la forme la plus aiguë à des signes simulant un rhumatisme inflammatoire ou une arthrose. La mise en évidence, dans le liquide articulaire, des microcristaux responsables est une des clés du diagnostic. Il s'agit de cristaux de 5 à 10 µm de long, intraleucocytaires, en forme de parallélépipède droit ou oblique. Leur biréfringence est moindre que celle des cristaux d'urate. Ces cristaux sont peu solubles dans l'eau et persistent après coloration par le MGG (_figures_ _n° 4 et 5)._
+Cette affection est due à la présence dans le cartilage et/ou la synoviale de dépôts de cristaux de pyrophosphate de calcium dihydraté dont la libération entraîne une symptomatologie variable allant de la crise pseudogoutteuse pour la forme la plus aiguë à des signes simulant un rhumatisme inflammatoire ou une arthrose. La mise en évidence, dans le liquide articulaire, des microcristaux responsables est une des clés du diagnostic. Il s'agit de cristaux de 5 à 10 µm de long, intraleucocytaires, en forme de parallélépipède droit ou oblique. Leur biréfringence est moindre que celle des cristaux d'urate. Ces cristaux sont peu solubles dans l'eau et persistent après coloration par le MGG (*figures* *n° 4 et 5).*
 
-Parfois l'examen du liquide articulaire à l'état frais ou après coloration par le MGG montre à la fois des cristaux d'urate et de pyrophosphate. Ces arthropathies mixtes ne sont pas exceptionnelles (_figure_ _n° 6)._
+Parfois l'examen du liquide articulaire à l'état frais ou après coloration par le MGG montre à la fois des cristaux d'urate et de pyrophosphate. Ces arthropathies mixtes ne sont pas exceptionnelles (*figure* *n° 6).*
 
-*   **Arthropathies à phosphate de calcium**
+- **Arthropathies à phosphate de calcium**
 
 Chez certains patients, souffrant souvent de calcifications tendineuses multiples, en particulier de la coiffe des rotateurs de l'épaule, peuvent se développer des arthropathies destructrices et des signes d'inflammation synoviale. Ces derniers sont liés à la présence dans le liquide articulaire de microcristaux appartenant à différentes formes de phosphate de calcium. La plus fréquente est l'hydroxyapatite, mais on peut trouver également du phosphate octacalcique et tricalcique. Ces cristaux mesurent 0,l à 0,2 µm de long et sont donc invisibles au microscope optique.
 
-*   **Autres microcristaux**
+- **Autres microcristaux**
 
 L'examen des liquides articulaires à l'état frais révèle parfois d'autres variétés de microcristaux. Citons :
 
@@ -118,4 +110,4 @@ L'examen cytologique du liquide articulaire apporte, au prix d'un geste minime, 
 
 - la présence ou l'absence de microcristaux permet d'affirmer ou d'éliminer, en quelques minutes, une arthropathie microcristalline, manifestation habituelle et souvent bruyante d'une arthropathie métabolique et d'en préciser la nature.
 
-_Développement et Santé, n°142, août 1999_
+*Développement et Santé, n°142, août 1999*

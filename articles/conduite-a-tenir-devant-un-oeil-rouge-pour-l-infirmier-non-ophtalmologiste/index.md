@@ -4,71 +4,67 @@ author: "le Docteur Grenier"
 date: "1983-12-05"
 ---
 
-**Conduite à tenir devant un oeil rouge,****pour l'infirmier non ophtalmologiste**
-
-**par le Docteur Grenier**
-
 Devant un oeil rouge, l'infirmier non ophtalmologiste:
 
-*   pourra, dans certains cas, soulager lui-même le malade,
+- pourra, dans certains cas, soulager lui-même le malade,
 
-*   devra, dans les cas les plus graves, savoir le diriger, à temps, vers un centre spécialisé,
+- devra, dans les cas les plus graves, savoir le diriger, à temps, vers un centre spécialisé,
 
-*   aura un rôle capital dans le dépistage et la prévention de nombreuses maladies oculaires.
+- aura un rôle capital dans le dépistage et la prévention de nombreuses maladies oculaires.
 
 **Rappel anatomique**
 
-
 ![](i98-1.jpg)
-
 
 **L'équipement minimum**
 
 un centre de soins devrait comprendre:
 
-*   Echelle d'acuité représentant des dessins simples.  
-*   Loupe.  
-*   Lampe électrique.  
-*   Pique à corps étranger.  
-*   Paquets de Fluo-contact (Faure): petits bâtonnets de papier imprégnés de Fluorescéine. Placés dans le cul-de-sac conjonctival inférieur, ils colorent en vert les ulcérations de comée.  
-*   Collyres:
+- Echelle d'acuité représentant des dessins simples.
+- Loupe.
+- Lampe électrique.
+- Pique à corps étranger.
+- Paquets de Fluo-contact (Faure): petits bâtonnets de papier imprégnés de Fluorescéine. Placés dans le cul-de-sac conjonctival inférieur, ils colorent en vert les ulcérations de comée.
+- Collyres:
+
+<!-- -->
 
 - anesthésiques: Novésine Chibret  
-Cébésine - Kéracaïne...
+  Cébésine - Kéracaïne...
 
 - antiglaucomateux: Pilocarpine 2 %
 
 - antibiotiques: Chloramphénicol  
-Rifamycine  
-Gentalline...
+  Rifamycine  
+  Gentalline...
 
-*   Pommades antibiotiques: Auréomycine essentiellement.
+<!-- -->
 
-*   Diamox en comprimés, antiglaucomateux.
+- Pommades antibiotiques: Auréomycine essentiellement.
+
+- Diamox en comprimés, antiglaucomateux.
 
 **Les gestes à connaître**
 
-
 ![](i98-2.jpg)
 
+- **Se laver les mains** entre chaque malade.
 
-*   **Se laver les mains** entre chaque malade.
-
-*   Bien savoir **mettre gouttes et pommade** dans un oeil: faire regarder le malade en haut, pincer la paupière inférieure entre deux doits, et, dans le creux ainsi constitué _(cf. photo n° 1_),
+- Bien savoir **mettre gouttes et pommade** dans un oeil: faire regarder le malade en haut, pincer la paupière inférieure entre deux doits, et, dans le creux ainsi constitué *(cf. photo n° 1*),
 
 faire tomber la goutte. L'oeil ne contient qu'une goutte, inutile d'en mettre plus.
 
 **Attention :** ne pas toucher le bord de la paupière avec le bout du flacon.
 
-*   **Retourner une paupière supérieure:** faire regarder le malade en bas. Pincer les cils très fort entre deux doigts de la main droite, retourner la paupière en se servant de l'index gauche comme pivot _(cf. photos n° 2)._
+- **Retourner une paupière supérieure:** faire regarder le malade en bas. Pincer les cils très fort entre deux doigts de la main droite, retourner la paupière en se servant de l'index gauche comme pivot *(cf. photos n° 2).*
 
-*   **Palper un globe oculaire:** on place les deux index l'un près de l'autre sur la paupière supérieure du malade qui regarde en bas. On appuie alternativement avec l'un puis l'autre doigt. Il faut s'entraîner sur des yeux normaux pour connaître la consistance normale qui est ferme mais souple _(cf. photo n°_ 3). Un oeil peut être trop dur (glaucome) ou trop mou (atrophie du globe, plaie perforante).
-
+- **Palper un globe oculaire:** on place les deux index l'un près de l'autre sur la paupière supérieure du malade qui regarde en bas. On appuie alternativement avec l'un puis l'autre doigt. Il faut s'entraîner sur des yeux normaux pour connaître la consistance normale qui est ferme mais souple *(cf. photo n°* 3). Un oeil peut être trop dur (glaucome) ou trop mou (atrophie du globe, plaie perforante).
 
 ![](i98-3.jpg)
 
+- **Apprécier l'état de la pupille:**
 
-*   **Apprécier l'état de la pupille:**
+<!-- -->
 
 - elle doit être bien ronde,
 
@@ -87,9 +83,7 @@ Cas où l'infirmier peut être immédiatement efficace
 **d.** Plaie superficielle de la cornée (par plante, branche d'arbre, griffe d'animal,  
 ongle d'enfant ... ): l'oeil est larmoyant et douloureux. La coloration à la Fluo dessine la plaie sur la cornée.
 
-
 ![](i98-4.jpg)
-  
 
 Il faut donner une pommade antibiotique et placer un pansement pendant quarante-huit heures.
 
@@ -101,11 +95,11 @@ Ne pas mettre d'anesthésique, qui calme la douleur, mais retarde la cicatrisati
 
 **B. Les conjonctivites**
 
-*   En l'absence d'autres lésions, la vision est conservée.
+- En l'absence d'autres lésions, la vision est conservée.
 
-*   La cornée n'est pas colorée par la Fluo.
+- La cornée n'est pas colorée par la Fluo.
 
-*   La douleur n'est pas insupportable: il s'agit plutôt de brûlures, de démangeaisons (sensation de grains de sable).
+- La douleur n'est pas insupportable: il s'agit plutôt de brûlures, de démangeaisons (sensation de grains de sable).
 
 **a.** La conjonctivite peut être **suppurée:** l'oeil est collé par un écoulement jaunâtre (conjonctivites dues au staphylocoque doré, au pneumocoque, au bacille de Weeks). Prescrire collyre ou pommade antibiotique quatre fois par jour pendant dix à quinze jours.
 
@@ -119,12 +113,12 @@ La plus douloureuse est la conjonctivite de la **rougeole.** Donner immédiateme
 
 - Mais, sans soins, elle se surinfecte vite (streptocoque, pneumocoque, et surtout bacille de Weeks se propageant par épidémies), entraînant:
 
-**_Les complications locales:_**
+***Les complications locales:***
 
-- ulcération de comée,  
+- ulcération de comée,
 - rétraction de la paupière: trichiasis.
 
-**_La transmission :_** les importantes sécrétions purulentes sont responsables de la contagion
+***La transmission :*** les importantes sécrétions purulentes sont responsables de la contagion
 
 -soit directe par mains et linge entre les membres d'une même famille,
 
@@ -134,10 +128,10 @@ Donc, outre le traitement, l'infirmier devra donner des **conseils d'hygiène au
 
 **Pour toutes les conjonctivites:**
 
-*   le seul traitement: pommade ou collyre antibiotique,
-*   ne jamais donner de corticoïde,
-*   ne jamais mettre de pansement,
-*   se laver les mains entre chaque malade.
+- le seul traitement: pommade ou collyre antibiotique,
+- ne jamais donner de corticoïde,
+- ne jamais mettre de pansement,
+- se laver les mains entre chaque malade.
 
 **C. Les kératites au début**
 
@@ -147,9 +141,7 @@ L'oeil est plus douloureux, plus larmoyant, plus sensible à la lumière que dan
 
 Parmi les plus graves, citons **l'herpès.** La Fluorescéine dessine sur la cornée une ulcération ramifiée.
 
-
 ![](i98-5.jpg)
-
 
 Le traitement spécifique est le collyre CébéViran (Chauvin-Blache) ou la pommade Zovirax (Welcome).
 
@@ -161,29 +153,25 @@ En leur absence: enrouler du coton autour du bout d'un instrument fin. L'imbiber
 
 Plaie perforante du globe, ou corps étranger intra-oculaire.
 
-*   Palper le globe: il peut être mou.
+- Palper le globe: il peut être mou.
 
-*   Regarder la pupille: si elle est déformée, il peut s'agir d'une hernie de l'iris dans la plaie.
+- Regarder la pupille: si elle est déformée, il peut s'agir d'une hernie de l'iris dans la plaie.
 
-*   Mettre une pommade antibiotique, un pansement et essayer de transférer d'urgence.
-
+- Mettre une pommade antibiotique, un pansement et essayer de transférer d'urgence.
 
 ![](i98-6.jpg)
 
-
 **B. Atteintes profondes de la** **cornée**
 
-*   On voit une tache blanche sur l'oeil.
-
+- On voit une tache blanche sur l'oeil.
 
 ![](i98-7.jpg)
 
+- La vision est très diminuée.
 
-*   La vision est très diminuée.
+- Faute de mieux, prescrire une pommade antibiotique et
 
-*   Faute de mieux, prescrire une pommade antibiotique et
-
-*   un pansement.
+- un pansement.
 
 **C. Trichiasis**
 
@@ -193,31 +181,35 @@ C'est la déformation de la paupière due au trachome. Les cils frottent sur la 
 
 La cause la plus fréquente est l'onchocercose.
 
-*   L'oeil est rouge et douloureux.
+- L'oeil est rouge et douloureux.
 
-*   L'acuité visuelle est diminuée mais non abolie.
+- L'acuité visuelle est diminuée mais non abolie.
 
-*   Le traitement par collyre ou pommade antibiotique n'a donné aucun début d'amélioration en quarante-huit heures.
+- Le traitement par collyre ou pommade antibiotique n'a donné aucun début d'amélioration en quarante-huit heures.
 
-*   Il faut transférer.
+- Il faut transférer.
 
 **E. Glaucome** (ou hypertonie du globe oculaire)
 
 Insistons sur ce chapitre. Rappelons qu'il existe deux sortes de glaucomes:
 
-1. Le glaucome **aigu** (40 % des cas environ):
+1.  Le glaucome **aigu** (40 % des cas environ):
 
-*   l'oeil est très douloureux, très rouge,
-*   la cornée est trouble,
-*   la vision est abolie,
-*   à la palpation l'oeil est très dur. Le traitement comprend:
+- l'oeil est très douloureux, très rouge,
 
-*   collyre Pilocarpine 2 %, une goutte toutes les heures,
-*   Diamox, deux comprimés par jour.
+- la cornée est trouble,
+
+- la vision est abolie,
+
+- à la palpation l'oeil est très dur. Le traitement comprend:
+
+- collyre Pilocarpine 2 %, une goutte toutes les heures,
+
+- Diamox, deux comprimés par jour.
 
 L'oeil atteint est probablement perdu, le traitement servira surtout à diminuer la douleur. Il est **capital** d'envoyer cependant le malade dans un centre spécialisé, pour que **l'autre oeil,** qui risque aussi de faire un glaucome aigu, soit traité à temps chirurgicalement.
 
-2. Le glaucome **chronique** (60 % des cas environ):
+2.  Le glaucome **chronique** (60 % des cas environ):
 
 Dans ce cas, le rôle de l'infirmier est capital. En effet, un oeil peut être blanc, peu ou pas douloureux, voir de façon normale, et avoir une tension très importante.
 
@@ -225,4 +217,4 @@ Dans ce cas, le rôle de l'infirmier est capital. En effet, un oeil peut être b
 
 Sinon, l'hypertension du globe va irrémédiablement comprimer et atrophier le nerf optique. Quand l'acuité visuelle aura commencé à diminuer, il sera trop tard.
 
-_Développement et Santé, n°48, décembre 1983_
+*Développement et Santé, n°48, décembre 1983*

@@ -130,20 +130,18 @@ Les TDR reposent pour la plupart sur des techniques immunologiques classiques, a
 
 Antigènes et/ou anticorps sont déposés sur des supports : particules de latex, membranes ou bandelettes de compositions diverses. La lecture repose sur des réactions rendues visibles à l’œil nu : agglutination de particules, apparition de bandes colorées.
 
-*   **Les tests les plus anciennement proposés sont les réactions d’agglutination sur particule de latex**. Ils sont encore d’une grande utilité pour la recherche des antigènes solubles dans le sang, l’urine ou le LCR dans les méningites à méningocoque.  
-*   **Les plus répandus actuellement, développés grâce aux progrès technologiques, sont les tests immunochromatographiques sur membranes**. Celles-ci contiennent soit des antigènes, soit des anticorps marqués, selon la recherche effectuée. Ce sont des tests très simples à réaliser mais nécessitant une grande rigueur.
+- **Les tests les plus anciennement proposés sont les réactions d’agglutination sur particule de latex**. Ils sont encore d’une grande utilité pour la recherche des antigènes solubles dans le sang, l’urine ou le LCR dans les méningites à méningocoque.
+- **Les plus répandus actuellement, développés grâce aux progrès technologiques, sont les tests immunochromatographiques sur membranes**. Celles-ci contiennent soit des antigènes, soit des anticorps marqués, selon la recherche effectuée. Ce sont des tests très simples à réaliser mais nécessitant une grande rigueur.
 
 ​Pour la recherche d’antigènes parasitaires, bactériens ou viraux, on dépose l’échantillon à tester (sang, urine, selles, LCR, secrétions rhinopharyngées, pus, etc.) à l’extrémité d’une membrane de nitrocellulose fixée sur un support. Si l’antigène recherché est présent dans le prélèvement, il se fixe à l’anticorps spécifique marqué à l’or colloïdal présent sur la bandelette en formant un complexe antigène-anticorps. Celui-ci va migrer par capillarité et être arrêté par des anticorps de capture fixés sur la membrane. Un résultat positif se traduit par une ligne colorée. Un autre système antigène-anticorps est aussi fixé sur la membrane pour réaliser un contrôle interne témoin du bon fonctionnement de la réaction, qui se traduit par l’apparition d’une autre ligne colorée plus éloignée.
 
-
 ![](schema-test-rapides.jpg)
-
 
 Pour la recherche d’anticorps, le principe est le même, il est préférable de travailler sur sérum ; si l’on travaille sur sang total, une centrifugation préalable est nécessaire.
 
 La lecture se fait après 15 à 20 minutes.
 
-*   **Plus récents, et plus délicats, des TDR reposant sur des techniques de biologie moléculaire** : la détection de séquences génomiques après amplification (PCR : polymerase chain reaction et ACP : amplification en chaîne par polymérase) sont proposés également. Ces méthodes sont prometteuses, en particulier dans le dépistage de la tuberculose et dans la recherche des résistances aux médicaments antituberculeux. Actuellement, elles relèvent plus des centres spécialisés et leur coût est important. Elles ne seront pas abordées dans cet article.
+- **Plus récents, et plus délicats, des TDR reposant sur des techniques de biologie moléculaire** : la détection de séquences génomiques après amplification (PCR : polymerase chain reaction et ACP : amplification en chaîne par polymérase) sont proposés également. Ces méthodes sont prometteuses, en particulier dans le dépistage de la tuberculose et dans la recherche des résistances aux médicaments antituberculeux. Actuellement, elles relèvent plus des centres spécialisés et leur coût est important. Elles ne seront pas abordées dans cet article.
 
 Le tableau ci-dessous résume les principes du diagnostic biologique rapide.
 
@@ -232,7 +230,7 @@ On dispose également de TDR pour la détection des anticorps IgG, IgM et IgA de
 **c. Infections respiratoires**
 
 **Grippe**  
-Des tests rapides reposent sur une détection des antigènes nucléoprotéiniques d_’Orthomyxovirus influenzae,_ agents de la grippe A et B.
+Des tests rapides reposent sur une détection des antigènes nucléoprotéiniques d\_’Orthomyxovirus influenzae,\_ agents de la grippe A et B.
 
 Ils sont réalisés sur des prélèvements effectués au niveau du rhinopharynx et sur les secrétions nasales, les résultats sont obtenus en 15 minutes.
 
@@ -247,7 +245,7 @@ A interpréter avec précaution. Un prélèvement de très bonne qualité est in
 
 **d. Diarrhées virales**
 
-Les _Rotavirus_, les _Adénovirus_ sont des agents responsables de diarrhées graves.
+Les *Rotavirus*, les *Adénovirus* sont des agents responsables de diarrhées graves.
 
 Il existe des tests d’agglutination de particules de latex sensibilisées avec les antigènes des principaux sérogroupes pathogènes, ou plus récemment des bandelettes  permettant une détection à partir des selles et dont le résultat est obtenu en 15 minutes.
 
@@ -286,7 +284,7 @@ Des TDR sur bandelettes ont été mis au point  par les chercheurs de l’Insti
 
 #### TDR de la peste
 
-Test sur bandelette qui détecte l’antigène F1 de _Yersinia pestis_ avec une grande sensibilité. La recherche est faite sur le pus de bubon ou sur le prélèvement bronchique. Elle peut être pratiquée sur le terrain, au chevet du malade, permettant un rapide traitement antibiotique du patient, la mise en route des mesures de prévention pour l’entourage et la destruction des vecteurs dans l’environnement.
+Test sur bandelette qui détecte l’antigène F1 de *Yersinia pestis* avec une grande sensibilité. La recherche est faite sur le pus de bubon ou sur le prélèvement bronchique. Elle peut être pratiquée sur le terrain, au chevet du malade, permettant un rapide traitement antibiotique du patient, la mise en route des mesures de prévention pour l’entourage et la destruction des vecteurs dans l’environnement.
 
 #### TDR du choléra
 
@@ -294,9 +292,9 @@ Diagnostic sur bandelette à partir des selles ou d’un écouvillonnage rectal,
 
 #### TDR des shigelloses
 
-Plusieurs espèces de _Shigella_ sont responsables de la dysenteie bacillaire ou Shigellose, diarrhée sanglante grave très répandue en milieu tropical (165 millions de cas et plus de 1 million de morts chaque année, enfants de moins de 5 ans dans plus de 60 % des cas). La majorité des décès est due à _Shigella flexneri_ 2a, sérotype dominant dans les pays en développement. _Shigella dysenteriae_ type 1 est plutôt responsable de formes épidémiques.
+Plusieurs espèces de *Shigella* sont responsables de la dysenteie bacillaire ou Shigellose, diarrhée sanglante grave très répandue en milieu tropical (165 millions de cas et plus de 1 million de morts chaque année, enfants de moins de 5 ans dans plus de 60 % des cas). La majorité des décès est due à *Shigella flexneri* 2a, sérotype dominant dans les pays en développement. *Shigella dysenteriae* type 1 est plutôt responsable de formes épidémiques.
 
-Il existe un test pour le dépistage de_Shigella flexneri_ 2a, la forme endémique, et un test pour le dépistage de la forme épidémique _Shigella dysenteriae_ type 1.
+Il existe un test pour le dépistage de_Shigella flexneri\_ 2a, la forme endémique, et un test pour le dépistage de la forme épidémique *Shigella dysenteriae* type 1.
 
 Il s’agit de bandelettes permettant un diagnostic rapide et fiable chez les patients souffrant de diarrhée, directement introduite dans le tube contenant les selles du malade, la lecture étant faite après 5 à 15 minutes.
 
@@ -315,7 +313,7 @@ Effectués sur les urines dans les cas de pneumonies, ils peuvent manquer de sen
 
 #### TDR des angines à Streptocoque béta-hémolytique du groupe A
 
-Un TDR permet de détecter la présence d’un streptocoque beta-hémolytique du groupe A (_Streptococcus pyogenes_), bactérie pouvant être responsable de complications graves (rhumatisme articulaire aigu, glomérulonéphrite...). En l’absence de cette bactérie, le traitement antibiotique n’est pas toujours justifié car l’angine peut être due à des virus ou à d’autres bactéries pour lesquels la guérison est spontanée. Le diagnostic différentiel d’après les signes cliniques n’est pas toujours possible. Le test est réalisé sur un frottis des amygdales effectué avec un écouvillon, au lieu de consultation ou au chevet du malade. L’écouvillon est trempé dans une solution diluante dans laquelle est ensuite plongée une bandelette réactive. En quelques secondes, une bande rose est significative du bon fonctionnement du test et une seconde révèle la présence du Streptocoque du groupe A.
+Un TDR permet de détecter la présence d’un streptocoque beta-hémolytique du groupe A (*Streptococcus pyogenes*), bactérie pouvant être responsable de complications graves (rhumatisme articulaire aigu, glomérulonéphrite...). En l’absence de cette bactérie, le traitement antibiotique n’est pas toujours justifié car l’angine peut être due à des virus ou à d’autres bactéries pour lesquels la guérison est spontanée. Le diagnostic différentiel d’après les signes cliniques n’est pas toujours possible. Le test est réalisé sur un frottis des amygdales effectué avec un écouvillon, au lieu de consultation ou au chevet du malade. L’écouvillon est trempé dans une solution diluante dans laquelle est ensuite plongée une bandelette réactive. En quelques secondes, une bande rose est significative du bon fonctionnement du test et une seconde révèle la présence du Streptocoque du groupe A.
 
 #### TDR des angines diphtériques
 
@@ -323,15 +321,15 @@ La toxine diphtérique peut être détectée en quelques minutes à partir de l�
 
 #### TDR des leptospiroses
 
-La recherche des leptospires dans le sang est difficile à réaliser, la culture du parasite est lente, et il faut disposer d’un laboratoire de bactériologie, de même que pour les sérologies classiques de type ELISA.  Il existe un TDR qui permet de détecter les IgM de _Leptospira interrogans_ dans le plasma. Il est facile à mettre en œuvre mais peu sensible.
+La recherche des leptospires dans le sang est difficile à réaliser, la culture du parasite est lente, et il faut disposer d’un laboratoire de bactériologie, de même que pour les sérologies classiques de type ELISA.  Il existe un TDR qui permet de détecter les IgM de *Leptospira interrogans* dans le plasma. Il est facile à mettre en œuvre mais peu sensible.
 
 #### TDR des infections sexuellement transmissibles
 
-On peut détecter ainsi les antigènes de _Chlamydiae_ sur frottis endocervical et uréthral et sur l’urine de l’homme.
+On peut détecter ainsi les antigènes de *Chlamydiae* sur frottis endocervical et uréthral et sur l’urine de l’homme.
 
-On peut aussi détecter les antigènes de _Neisseria gonorrhoea_ chez l’homme atteint d’urétrite gonococcique.
+On peut aussi détecter les antigènes de *Neisseria gonorrhoea* chez l’homme atteint d’urétrite gonococcique.
 
-Pour la syphilis, des tests permettent aussi de détecter les anticorps spécifiques de _Treponema pallidum_ sur sérum. 
+Pour la syphilis, des tests permettent aussi de détecter les anticorps spécifiques de *Treponema pallidum* sur sérum. 
 
 #### TDR du tétanos
 
@@ -341,10 +339,10 @@ En cas de plaie, il est important de connaître l’état de protection du patie
 
 #### TDR du paludisme
 
-Il existe une centaine de tests disponibles, la plupart sont très sensibles pour détecter _Plasmodium falciparum,_ basés sur la recherche de l’antigène HRPII et de la lacticodeshydrogénase, d’autres permettent de détecter _P. vivax_ avec cependant une moindre sensibilité. Pour _P. falciparum_, la sensibilité est d’environ 100 parasites/µL (soit une parasitémie de 0,002 %). Par ailleurs, ces tests ont deux inconvénients : 
+Il existe une centaine de tests disponibles, la plupart sont très sensibles pour détecter *Plasmodium falciparum,* basés sur la recherche de l’antigène HRPII et de la lacticodeshydrogénase, d’autres permettent de détecter *P. vivax* avec cependant une moindre sensibilité. Pour *P. falciparum*, la sensibilité est d’environ 100 parasites/µL (soit une parasitémie de 0,002 %). Par ailleurs, ces tests ont deux inconvénients : 
 
-*   ils sont uniquement qualitatifs et ne permettent pas d’apprécier la parasitémie, qui ne peut être calculée que sur un frottis par rapport aux hématies ou sur la goutte épaisse par rapport aux leucocytes ;
-*   comme il s’agit d’antigènes solubles, il faut savoir que ce test reste positif  2 à 3 semaines après un traitement efficace du paludisme, avec un frottis sanguin négatif. Il est donc inutile de répéter un traitement si un patient présente un TDR de paludisme encore positif dans les semaines suivant le premier accès bien traité.
+- ils sont uniquement qualitatifs et ne permettent pas d’apprécier la parasitémie, qui ne peut être calculée que sur un frottis par rapport aux hématies ou sur la goutte épaisse par rapport aux leucocytes ;
+- comme il s’agit d’antigènes solubles, il faut savoir que ce test reste positif  2 à 3 semaines après un traitement efficace du paludisme, avec un frottis sanguin négatif. Il est donc inutile de répéter un traitement si un patient présente un TDR de paludisme encore positif dans les semaines suivant le premier accès bien traité.
 
 #### TDR de la leishmaniose
 
@@ -358,11 +356,11 @@ Ce test permet de porter un diagnostic de filariose, mais sans en donner le type
 
 Il s’agit d’un test de dépistage uniquement qualitatif des IgG et des IgM, mais qui nécessite les autres techniques pour préciser le taux des anticorps. 
 
-#### TDR de _Giardia_
+#### TDR de *Giardia*
 
-Les _Giardia intestinalis_ sont des parasites fréquents et facilement retrouvés à l’examen parasitologique des selles. Cependant, à défaut de microscope, on peut utiliser le test rapide à partir d’un échantillon de selles. Mais si sa positivité affirme le diagnostic, sa négativité ne permet pas de l’éliminer et il doit être renouvelé quelques jours plus tard. 
+Les *Giardia intestinalis* sont des parasites fréquents et facilement retrouvés à l’examen parasitologique des selles. Cependant, à défaut de microscope, on peut utiliser le test rapide à partir d’un échantillon de selles. Mais si sa positivité affirme le diagnostic, sa négativité ne permet pas de l’éliminer et il doit être renouvelé quelques jours plus tard. 
 
-#### TDR de _Cryptosporidium_
+#### TDR de *Cryptosporidium*
 
 Ce parasite est responsable de diarrhées parfois intenses et le diagnostic est basé sur la mise en évidence des parasites dans les selles. Mais, à défaut de microscope, le test rapide peut être effectué sur le prélèvement de selles, avec une très bonne sensibilité. 
 
@@ -370,35 +368,41 @@ Ce parasite est responsable de diarrhées parfois intenses et le diagnostic est 
 
 **L’intérêt des TDR en milieu tropical n’est plus à démontrer. Ils permettent :**
 
-*   de débuter un traitement spécifique et immédiat en cas de maladie grave
-*   de détecteur rapidement  des épidémies
-*   de cibler les vaccinations (méningites)
-*   d’intervenir rapidement pour prévenir la transmission
-*   d’éviter des traitements antibiotiques inutiles
+- de débuter un traitement spécifique et immédiat en cas de maladie grave
+- de détecteur rapidement  des épidémies
+- de cibler les vaccinations (méningites)
+- d’intervenir rapidement pour prévenir la transmission
+- d’éviter des traitements antibiotiques inutiles
 
 **Pour être fiables, les TDR doivent être exécutés correctement par des personnes formées et régulièrement supervisées.**
 
-*   La principale source d’erreur provient de la quantité de prélèvement déposée sur la bandelette : dépôt trop faible : risque de résultat faussement négatif ; dépôt trop important (surtout si sang total) : difficulté de lecture, faux positifs. Le manipulateur doit apprendre à se servir de la pipette calibrée fournie avec le test.  
-*   Même difficulté à partir d’un frottis, qui doit être de bonne qualité.  
-*   L’interprétation des bandes peut être délicate, le manipulateur doit être entraîné.  
-*   Les réserves de tests doivent être conservées dans de bonnes conditions.  
-*   Vérifier les températures indiquées pour la conservation.  
-*   Vérifier les dates limites d’utilisation.  
-*   Laisser les modes d’emploi dans les boîtes pour éviter de les égarer.
+- La principale source d’erreur provient de la quantité de prélèvement déposée sur la bandelette : dépôt trop faible : risque de résultat faussement négatif ; dépôt trop important (surtout si sang total) : difficulté de lecture, faux positifs. Le manipulateur doit apprendre à se servir de la pipette calibrée fournie avec le test.
+- Même difficulté à partir d’un frottis, qui doit être de bonne qualité.
+- L’interprétation des bandes peut être délicate, le manipulateur doit être entraîné.
+- Les réserves de tests doivent être conservées dans de bonnes conditions.
+- Vérifier les températures indiquées pour la conservation.
+- Vérifier les dates limites d’utilisation.
+- Laisser les modes d’emploi dans les boîtes pour éviter de les égarer.
 
 **Interprétation**
 
-*   Ces tests ont été développés pour les situations d’urgence.  
-*   L’examen clinique initial est indispensable.  
-*   Le résultat obtenu doit souvent être confirmé par une autre méthode et, de toutes façons, les examens de référence restent nécessaires dans les cas de faux positif ou de faux négatif.  
-*   Le test peut rester positif après destruction des agents pathogènes.  
-*   Un résultat positif n’exclut pas la présence simultanée d’autres pathogènes non ciblés par le test.  
-*   Un résultat négatif n’exclut pas toujours la présence de l’agent pathogène recherché par le test, dans le cas d’un examen trop précoce par exemple.  
-*   Pour le paludisme : le TDR suffit et il est obligatoire pour traiter ; il est gratuit.
+- Ces tests ont été développés pour les situations d’urgence.
 
-*   Pour le VIH : les tests peuvent suffire pour mettre au  traitement les femmes enceintes, ils sont gratuits pour tous (FM).
+- L’examen clinique initial est indispensable.
 
-*   Pour la méningite : le test est disponible dans certains pays, il est gratuit partout.
+- Le résultat obtenu doit souvent être confirmé par une autre méthode et, de toutes façons, les examens de référence restent nécessaires dans les cas de faux positif ou de faux négatif.
+
+- Le test peut rester positif après destruction des agents pathogènes.
+
+- Un résultat positif n’exclut pas la présence simultanée d’autres pathogènes non ciblés par le test.
+
+- Un résultat négatif n’exclut pas toujours la présence de l’agent pathogène recherché par le test, dans le cas d’un examen trop précoce par exemple.
+
+- Pour le paludisme : le TDR suffit et il est obligatoire pour traiter ; il est gratuit.
+
+- Pour le VIH : les tests peuvent suffire pour mettre au  traitement les femmes enceintes, ils sont gratuits pour tous (FM).
+
+- Pour la méningite : le test est disponible dans certains pays, il est gratuit partout.
 
 **Les tests à utiliser doivent être évalués au niveau de chaque pays par des équipes sérieuses, et homologués. Le choix ne doit pas reposer sur les évaluations faites par les fournisseurs.**
 

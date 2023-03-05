@@ -19,6 +19,6 @@ Rappelons que les femmes VIH sont particulièrement exposées aux cancers dus au
 
 L’OMS a fait de ce vaccin une grande priorité, et qu'il devrait être prochainement intégré dans les programmes élargis de vacination. Espérons que son prix deviendra abordable pour tous
 
-_Sources_ : réseau collaboratif africain contre le cancer du col  Conakry 2015
+*Sources* : réseau collaboratif africain contre le cancer du col  Conakry 2015
 
 Par Philippe Reinert, pédiatre, Créteil, France

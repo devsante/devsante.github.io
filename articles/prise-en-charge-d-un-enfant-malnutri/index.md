@@ -6,11 +6,11 @@ date: "1981-04-25"
 
 La prise en charge d'un enfant malnutri se place schématiquement dans trois types de circonstances :
 
-1. Lorsque la malnutrition est assez importante pour constituer en soi un motif de consultation. Il s'agit alors de Kwashiorkor ou de marasme.
+1.  Lorsque la malnutrition est assez importante pour constituer en soi un motif de consultation. Il s'agit alors de Kwashiorkor ou de marasme.
 
-2. Lorsqu'un enfant est amené dans une structure de santé pour une maladie le plus souvent infectieuse et que l'examen trouve une malnutrition qui avait pu passer inaperçue.
+2.  Lorsqu'un enfant est amené dans une structure de santé pour une maladie le plus souvent infectieuse et que l'examen trouve une malnutrition qui avait pu passer inaperçue.
 
-3. Lorsqu'un enfant considéré comme bien portant par sa famille est vu à un examen systématique (vaccination, PMI) et que l'analyse de son poids et de sa taille permet de déceler une malnutrition modérée.
+3.  Lorsqu'un enfant considéré comme bien portant par sa famille est vu à un examen systématique (vaccination, PMI) et que l'analyse de son poids et de sa taille permet de déceler une malnutrition modérée.
 
 Dans les deux premiers cas, l'enfant est vu en hospitalisation et sera éventuellement adressé en centre de récupération nutritionnelle. Dans le troisième cas, l'enfant est suivi en PMI.
 
@@ -26,13 +26,15 @@ La malnutrition du troisième degré correspond à un poids inférieur à 60% du
 
 Sont vus les enfants malnutris des 2<sup>e</sup> et 3<sup>e</sup> degrés. Un traitement symptomatique peut être indiqué d'emblée:
 
-*   celui d'une déshydratation aiguë en prenant garde à deux dangers :
+- celui d'une déshydratation aiguë en prenant garde à deux dangers :
 
-*   celui d'un diagnostic par excès: le pli cutané avec peau fine est plus le fait de la malnutrition elle-même que d'une déshydratation associée,
-*   celui d'une surcharge en eau et en sodium et d'un déficit en potassium. La perfusion, si elle est indiquée, ne doit pas débuter par du sérum salé à 9%o, mais du glucosé à 5% avec 3 g de Cl Na et 3 g de Cl K par litre ;
+- celui d'un diagnostic par excès: le pli cutané avec peau fine est plus le fait de la malnutrition elle-même que d'une déshydratation associée,
 
-*   celui d'une anémie, quelle qu'en soit la cause (hémolyse congénitale, paludisme, ankylostome, malnutrition elle-même), par transfusion sur la base de 20 ml/kg en l'absence de donnée de laboratoire ;
-*   celui d'une infection patente qui est souvent le motif de consultation.
+- celui d'une surcharge en eau et en sodium et d'un déficit en potassium. La perfusion, si elle est indiquée, ne doit pas débuter par du sérum salé à 9%o, mais du glucosé à 5% avec 3 g de Cl Na et 3 g de Cl K par litre ;
+
+- celui d'une anémie, quelle qu'en soit la cause (hémolyse congénitale, paludisme, ankylostome, malnutrition elle-même), par transfusion sur la base de 20 ml/kg en l'absence de donnée de laboratoire ;
+
+- celui d'une infection patente qui est souvent le motif de consultation.
 
 Une fois la malnutrition reconnue, il faut en préciser le type, essayer d'en déceler la cause, rechercher une infection associée et la traiter.
 
@@ -50,10 +52,10 @@ Cette distinction clinique correspond à une différence biologique: en cas de m
 
 L'interrogatoire de la mère et d'elle seule permet souvent de comprendre l'origine des troubles et d'aborder l'aspect préventif.
 
-### Le mode alimentaire de l'enfant est fondamental à préciser :
+### Le mode alimentaire de l'enfant est fondamental à préciser
 
-*   _en cas de marasme_, il s'agit le plus souvent d'un enfant âgé d'un an ou moins, sevré trop rapidement (dans les premiers mois) et nourri de façon inadaptée au lait artificiel par biberon.  
-*   _en_ cas de _Kwashiorkor,_ il s'agit le plus souvent d'un enfant âgé de plus de 18 mois et dont le sevrage s'est effectué à l'âge normal (entre 1 et 2 ans) mais trop brutalement.
+- *en cas de marasme*, il s'agit le plus souvent d'un enfant âgé d'un an ou moins, sevré trop rapidement (dans les premiers mois) et nourri de façon inadaptée au lait artificiel par biberon.
+- *en* cas de *Kwashiorkor,* il s'agit le plus souvent d'un enfant âgé de plus de 18 mois et dont le sevrage s'est effectué à l'âge normal (entre 1 et 2 ans) mais trop brutalement.
 
 ### Une pathologie associée a pu aggraver le déséquilibre alimentaire
 
@@ -65,11 +67,11 @@ Toute infection doit être reconnue et traitée d'emblée sous peine de rendre l
 
 La recherche doit donc en être systématique au niveau des organes le plus souvent en cause :
 
-*   _les oreilles :_ l'absence de douleur et d'écoulement ne suffisent pas à éliminer une otite. L'examen à l'otoscope est indispensable ;
-*   le _poumon_ : même en l'absence de dyspnée et de toux, l'auscultation doit être minutieuse, sans oublier le dos et les creux axillaires. Une radiographie du thorax pourrait montrer des images d'ampleur inattendue.  
-*   _les urines_ : sans dysurie ou pyurie clinique, un examen simple à la bandelette (protéinurie modérée) ou mieux au microscope peut montrer des leucocytes en faveur d'une infection urinaire ;
-*   _le paludisme :_ en pays d'endémie doit être traité systématiquement, même sans expression clinique ni biologique (Chloroquine 10 mg/kg/j).  
-*   _les parasites intestinaux_ : doivent également être recherchés et traités systématiquement (Solaskyl 3 mg/kg en une prise, ou Mintézo150 mg/kg en une prise selon les parasites prédominant dans la région).
+- *les oreilles :* l'absence de douleur et d'écoulement ne suffisent pas à éliminer une otite. L'examen à l'otoscope est indispensable ;
+- le *poumon* : même en l'absence de dyspnée et de toux, l'auscultation doit être minutieuse, sans oublier le dos et les creux axillaires. Une radiographie du thorax pourrait montrer des images d'ampleur inattendue.
+- *les urines* : sans dysurie ou pyurie clinique, un examen simple à la bandelette (protéinurie modérée) ou mieux au microscope peut montrer des leucocytes en faveur d'une infection urinaire ;
+- *le paludisme :* en pays d'endémie doit être traité systématiquement, même sans expression clinique ni biologique (Chloroquine 10 mg/kg/j).
+- *les parasites intestinaux* : doivent également être recherchés et traités systématiquement (Solaskyl 3 mg/kg en une prise, ou Mintézo150 mg/kg en une prise selon les parasites prédominant dans la région).
 
 ## Le traitement
 
@@ -107,16 +109,15 @@ La surveillance de l'état nutritionnel est, avec les vaccinations, le but princ
 
 L'OMS propose deux types de fiches :
 
-*   une fiche de service, gardée dans le fichier PMI où sont inscrites de façon précise la courbe de poids et la courbe de taille normale ainsi que leurs variations normales (couloirs B et C) ou anormales (couloirs A, D, E, F);
+- une fiche de service, gardée dans le fichier PMI où sont inscrites de façon précise la courbe de poids et la courbe de taille normale ainsi que leurs variations normales (couloirs B et C) ou anormales (couloirs A, D, E, F);
 
-*   une fiche familiale, confiée à la mère où est inscrite une zone correspondant aux variations normales du poids. Si le poids de l'enfant se situe en dehors de ce " chemin de santé ", il est malnutri.
+- une fiche familiale, confiée à la mère où est inscrite une zone correspondant aux variations normales du poids. Si le poids de l'enfant se situe en dehors de ce " chemin de santé ", il est malnutri.
 
 Dans un premier temps, l'analyse des causes par l'interrogatoire de la mère et les conseils de régime avec démonstrations donnés en conséquence peuvent amener aux consultations suivantes un retour du poids dans la zone normale. Si, dans un deuxième temps, malgré ces conseils, le poids continue à s'écarter de la zone normale, l'enfant et sa mère devraient bénéficier d'un centre de récupération nutritionnelle ou, à défaut, de consultations plus fréquentes (tous les quinze jours).
 
-En cas d'échec, dans un troisième temps, ' l'hospitalisation peut _être_ jugée nécessaire si elle vise non seulement le traitement de l'enfant mais aussi l'éducation de la mère.
+En cas d'échec, dans un troisième temps, ' l'hospitalisation peut *être* jugée nécessaire si elle vise non seulement le traitement de l'enfant mais aussi l'éducation de la mère.
 
 L'ampleur des problèmes économiques et sociaux n'est pas seule en cause dans l'apparition de la malnutrition de l'enfant. L'éducation nutritionnelle et la prévention des infections permettent au moindre frais de limiter le problème : elles sont le rôle essentiel des structures de santé.
-
 
 ![](i966-1.jpg)
 
@@ -124,5 +125,4 @@ L'ampleur des problèmes économiques et sociaux n'est pas seule en cause dans l
 
 ![](i966-3.jpg)
 
-
-_Développement et santé, n°32, avril 1981_
+*Développement et santé, n°32, avril 1981*

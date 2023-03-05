@@ -26,7 +26,7 @@ Il arrive aussi qu'il y ait confusion pour les femmes entre les examens sanguins
 
 Au total, après la CPN, certaines femmes disent ne pas avoir tout compris concernant le VIH/SIDA.
 
-A la suite de la CPN, **les femmes sont orientées vers le conseil pré test et la plupart vont en bénéficier.** Mais il arrive que certaines femmes échappent à ce conseil : il peut s'agir d'une "négligence" du personnel qui n'en a pas parlé à une femme, croyant qu'elle avait déjà participé au conseil précédemment, ou bien la femme ne désire pas y aller car préférant réfléchir avant. Dans certains cas, suivant la disposition des lieux, la femme peut avoir à changer de bâtiment, ne pas trouver le lieu indiqué _et en_ profiter pour partir.
+A la suite de la CPN, **les femmes sont orientées vers le conseil pré test et la plupart vont en bénéficier.** Mais il arrive que certaines femmes échappent à ce conseil : il peut s'agir d'une "négligence" du personnel qui n'en a pas parlé à une femme, croyant qu'elle avait déjà participé au conseil précédemment, ou bien la femme ne désire pas y aller car préférant réfléchir avant. Dans certains cas, suivant la disposition des lieux, la femme peut avoir à changer de bâtiment, ne pas trouver le lieu indiqué *et en* profiter pour partir.
 
 **La plupart des femmes recevant le conseil pré test acceptent d'être testées.** Cependant certaines femmes refusent : elles attendent souvent l'accord de leur mari avant de réaliser le test, elles ont peur de la réaction qu'il pourra avoir, certaines pensent que la connaissance du statut sérologique entraînera de nouveaux problèmes, tels que l'accélération de l'évolution de la maladie, le rejet et la stigmatisation, d'autres pensent que le test est inutile car elles sont fidèles à leurs maris et réciproquement. Certaines femmes refusent de faire le test car elles sont effrayées par les propos tenus par les conseillères sur le VIH/SIDA, d'autres car elles ont peur de l'acte de prélèvement.
 
@@ -50,4 +50,4 @@ Les femmes pensent donc qu'il faudrait inciter leurs maris à participer aux act
 
 **Concernant les modalités d'allaitement**, afin d'éviter la stigmatisation en cas d'utilisation de l'un des 2 moyens d'allaitement conseillés, les femmes ont proposé les conduites suivantes : la femme peut dire qu'elle n'a pas de lait ou que son lait est mauvais, qu'elle a des problèmes aux seins, ou les seins douloureux, que c'est sa volonté, que l'allaitement est fatigant, qu'il est difficile d'allaiter avec le travail ou l'école, qu'elle est malade, qu'elle suit les conseils des infirmiers ou qu'elle pratique les 2 types d'allaitement en même temps. Ces modes d'allaitement leur paraissent donc faisables et elles sont prêtes à suivre les conseils donnés et à faire ce qui est mieux pour leur enfant au risque d'être "reconnue"par l'entourage.
 
-_Développement et Santé, n°172, août 2004_
+*Développement et Santé, n°172, août 2004*

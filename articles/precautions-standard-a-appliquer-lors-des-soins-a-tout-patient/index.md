@@ -12,7 +12,7 @@ date: "2011-11-15"
 <th class="rteleft" scope="row" style="width: 163px;">
 
 Désinfection  
-des mains  
+des mains
 
 </th>
 
@@ -28,7 +28,7 @@ Port de gants
 Les gants doivent  
 être changés entre  
 deux patients,  
-deux activités  
+deux activités
 
 </th>
 
@@ -41,7 +41,7 @@ deux activités
 <th class="rteleft" scope="row" style="width: 163px;">
 
 Port de sur blouse,  
-lunettes, masque  
+lunettes, masque
 
 </th>
 
@@ -53,7 +53,7 @@ lunettes, masque
 
 <th class="rteleft" scope="row" style="width: 163px;">
 
-Matériel souillé  
+Matériel souillé
 
 </th>
 
@@ -83,7 +83,7 @@ matériels souillés</th>
 
 <th class="rteleft" scope="row" style="width: 163px;">
 
-Au laboratoire  
+Au laboratoire
 
 </th>
 
@@ -95,7 +95,7 @@ Au laboratoire
 
 <th class="rteleft" scope="row" style="width: 163px;">
 
-Au bloc opératoire  
+Au bloc opératoire
 
 </th>
 
@@ -109,7 +109,7 @@ Au bloc opératoire
 
 Si contact avec  
 du sang ou liquide  
-biologique  
+biologique
 
 </th>
 

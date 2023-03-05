@@ -12,15 +12,15 @@ En 2006, grâce à un financement de la fondation GSK, le service de Pédiatrie 
 
 L'ETP pédiatrique permet à l'enfant et à ses parents de s'engager dans une perspective de vie. Elle s'adresse aux parents et à l'enfant directement dès que possible (dès qu'il est en âge d'interagir et avec l'accord des parents). Quand on s'adresse à l'enfant, le dialogue doit être direct, ludique, adapté à l'âge, au niveau d'éducation de l'enfant et à sa capacité de compréhension.
 
-**_Quelles ont été les étapes importantes pour la mise en place des activités d'éducation ?_**
+***Quelles ont été les étapes importantes pour la mise en place des activités d'éducation ?***
 
 Les étapes principales ont été :
 
-*   le respect des conditions préalables à la mise en place d'un programme d'ETP,
-*   la formation par Format Santé,
-*   les ateliers de formation et d'information de tout le personnel de l'hôpital,
-*   la tenue d'un atelier de cadrage qui a permis de définir les thèmes qui doivent faire l'objet de l'éducation du patient, les objectifs à cours et moyen terme du programme d'ETP,
-*   les réunions de pilotage et de suivi du programme qui orientent le programme et lui assurent un appui institutionnel.
+- le respect des conditions préalables à la mise en place d'un programme d'ETP,
+- la formation par Format Santé,
+- les ateliers de formation et d'information de tout le personnel de l'hôpital,
+- la tenue d'un atelier de cadrage qui a permis de définir les thèmes qui doivent faire l'objet de l'éducation du patient, les objectifs à cours et moyen terme du programme d'ETP,
+- les réunions de pilotage et de suivi du programme qui orientent le programme et lui assurent un appui institutionnel.
 
 La conception d'outils, les réunions de suivi et les activités promotionnelles de ce programme sont restés les constantes tout au long du processus.
 
@@ -38,36 +38,33 @@ La conception d'outils, les réunions de suivi et les activités promotionnelles
 
 </table>
 
-**_Qu'est-ce qui a favorisé le développement de l'ETP au sein de votre service ?_**
+***Qu'est-ce qui a favorisé le développement de l'ETP au sein de votre service ?***
 
-*   **L'identification d'une personne chargée spécialement de cette activité** après la phase prépilote, l'appui et la stimulation par les experts de Format Santé ainsi que la motivation du personnel ont été les facteurs clés du développement du programme.  
-*   **Une stagiaire, étudiante du Master en éducation à la santé de l'Université de Paris 13**, a aidé à la formation plus approfondie de l'éducatrice, au transfert de méthodes de conception et d'élaboration des outils et à la prise en compte de la recherche en matière d'ETP de l'enfant.  
-*   **L'implication effective de l'administration de l'Hôpital d'Instruction des Armées et de la Direction du Service de Santé des Armées**, a été un facteur d'accélération du processus. Ces 2 entités sont à l'origine de l'évaluation du programme à mi-parcours et de la conception d'un logo pour le programme d'éducation thérapeutique qui a été baptisé "WEZIZA". "WEZIZA" est un mot de la langue nationale Fon qui veut dire "éclairage" dans le sens du passage de l'obscurité à la lumière, de la nuit au jour par le lever du soleil. Le logo qui a été conçu dans un esprit de promotion du programme traduit bien cette vision en montrant une femme, un enfant, le soleil au lever.
-
+- **L'identification d'une personne chargée spécialement de cette activité** après la phase prépilote, l'appui et la stimulation par les experts de Format Santé ainsi que la motivation du personnel ont été les facteurs clés du développement du programme.
+- **Une stagiaire, étudiante du Master en éducation à la santé de l'Université de Paris 13**, a aidé à la formation plus approfondie de l'éducatrice, au transfert de méthodes de conception et d'élaboration des outils et à la prise en compte de la recherche en matière d'ETP de l'enfant.
+- **L'implication effective de l'administration de l'Hôpital d'Instruction des Armées et de la Direction du Service de Santé des Armées**, a été un facteur d'accélération du processus. Ces 2 entités sont à l'origine de l'évaluation du programme à mi-parcours et de la conception d'un logo pour le programme d'éducation thérapeutique qui a été baptisé "WEZIZA". "WEZIZA" est un mot de la langue nationale Fon qui veut dire "éclairage" dans le sens du passage de l'obscurité à la lumière, de la nuit au jour par le lever du soleil. Le logo qui a été conçu dans un esprit de promotion du programme traduit bien cette vision en montrant une femme, un enfant, le soleil au lever.
 
 ![](i1091-1.jpg)
 
-
-**_Quelles sont les perspectives d'évolution du programme ?_**
+***Quelles sont les perspectives d'évolution du programme ?***
 
 Nos objectifs à court terme sont :
 
-*   de concevoir des outils d'éducation (boîtes imagées, dessins animés, bandes dessinées),
-*   d'évaluer à mi-parcours les stratégies du programme d'ETP pédiatrique : programmation, compétences des éducateurs et des patients. La recherche en ETP pédiatrique assurera la pérennité du programme.
+- de concevoir des outils d'éducation (boîtes imagées, dessins animés, bandes dessinées),
+- d'évaluer à mi-parcours les stratégies du programme d'ETP pédiatrique : programmation, compétences des éducateurs et des patients. La recherche en ETP pédiatrique assurera la pérennité du programme.
 
-
-![](i1091-2.jpg)
+![](i1091-2.jpg)  
 **Dr Alain Azondékon. 2007.**
 
 Nous prévoyons aussi d'introduire l'ETP pédiatrique dans les sessions de formation à la prise en charge pédiatrique de l'infection à VIH et d'étendre cette activité à deux sites de prise en charge pédiatrique de la ville de Cotonou d'ici un an.
 
-**_Qu'est ce que l'éducation thérapeutique a apporté dans la prise en charge des enfants vivant avec le VIH dans votre structure ?_**
+***Qu'est ce que l'éducation thérapeutique a apporté dans la prise en charge des enfants vivant avec le VIH dans votre structure ?***
 
 Après une courte expérience, l'ETP a permis :
 
-*   Sur le plan du paquet minimum de service : la disponibilité d'un service d'écoute médicalisé pour l'enfant.  
-*   Sur le plan de l'organisation : une meilleure référence interne et un début de bon ancrage entre les diverses sections de l'unité (médicale, sociale, psychologique et de dispensation des médicaments).  
-*   Au niveau du patient : une meilleure observance dans le suivi grâce à une compréhension de leur perception de la maladie et des facteurs de rupture du suivi. De plus, l'entourage du patient est davantage pris en compte du fait de la disponibilité du service d'éducation.
+- Sur le plan du paquet minimum de service : la disponibilité d'un service d'écoute médicalisé pour l'enfant.
+- Sur le plan de l'organisation : une meilleure référence interne et un début de bon ancrage entre les diverses sections de l'unité (médicale, sociale, psychologique et de dispensation des médicaments).
+- Au niveau du patient : une meilleure observance dans le suivi grâce à une compréhension de leur perception de la maladie et des facteurs de rupture du suivi. De plus, l'entourage du patient est davantage pris en compte du fait de la disponibilité du service d'éducation.
 
 ## Les outils d'éducation et l'animation des séances d'éducation
 
@@ -75,13 +72,13 @@ Après une courte expérience, l'ETP a permis :
 
 Alain Azondékon et son équipe ont suivi 3 modules de formation en éducation thérapeutique prévention de la transmision mèreenfant et pédiatrie animés par Format Santé. La mise en oeuvre des activités d'ETP et la conception d'outils d'éducation se sont effectués en parallèle de la formation.
 
-**_Qu'est ce qui vous a le plus marquée au cours de votre formation en éducation thérapeutique ?_**
+***Qu'est ce qui vous a le plus marquée au cours de votre formation en éducation thérapeutique ?***
 
 La méthodologie de l'éducation thérapeutique. Apparemment l'éducation thérapeutique ressemble à un entretien simple, mais les séances d'éducation sont menées avec des objectifs pédagogiques précis préalablement définis avec le patient.
 
 Préalablement aux séances d'éducation, il faut mener un diagnostic éducatif pour connaître le patient puis établir un contrat d'éducation.
 
-**_Pouvez vous nous décrire les outils d'éducation que vous avez développés au cours et à l'issue de la formation ?_**
+***Pouvez vous nous décrire les outils d'éducation que vous avez développés au cours et à l'issue de la formation ?***
 
 Nous avons développé des outils d'apprentissage et d'évaluation ; les outils ont été conçus en atelier au cours des différentes formations. La conception des outils tient compte des objectifs pédagogiques que nous souhaitons développer. Ces outils ont été testés, corrigés et validés par les participants au cours de la formation en les utilisant dans des exposés interactifs ou des jeux de rôle.
 
@@ -116,7 +113,7 @@ Il est adapté à la mère ou aux adultes et adolescents responsables de l'enfan
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -151,7 +148,7 @@ Ils sont surtout adaptés aux petits enfants car ils captent plus leur attention
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -173,11 +170,11 @@ Les personnages de l'histoire sont constitués d'une famille nommée Money Man. 
 
 </table>
 
-**_Comment intégrez-vous la famille dans les séances d'éducation ?_**
+***Comment intégrez-vous la famille dans les séances d'éducation ?***
 
 En pédiatrie, bien que parfois l'enfant soit lui même éduqué (grand enfant), il arrive plus souvent que les parents soient sollicités pour l'accompagnement de l'enfant en raison de son jeune âge. Ce sont les parents que nous éduquons mais c'est l'enfant qui en reste le bénéficiaire.
 
-**_Lors des séances d'éducation, quels principaux bénéfices avez-vous observés chez vos petits patients et leurs familles ?_**
+***Lors des séances d'éducation, quels principaux bénéfices avez-vous observés chez vos petits patients et leurs familles ?***
 
 Nous notons d'abord un changement de comportement qui s'explique par la régularité dans le suivi, une bonne adhésion à la prise en charge.
 
@@ -213,27 +210,27 @@ L'éducation thérapeutique peut donc désamorcer plusieurs situations même com
 
 </table>
 
-**_Quelles difficultés avez-vous rencontrées au cours des séances d'éducation ?_**
+***Quelles difficultés avez-vous rencontrées au cours des séances d'éducation ?***
 
 Les difficultés sont nombreuses.
 
-*   **La compréhension de l'activité par l'équipe** soignante est la première difficulté ; en effet, pour certains, l'éducation thérapeutique sert à évaluer uniquement l'observance des enfants alors que pour nous éducateur, cela va au-delà de cette attente. Mais une bonne information nous a permis de baliser le terrain et de susciter l'adhésion de tout le monde.  
-*   **L'ancrage de l'éducation thérapeutique dans le suivi clinique** : l'ETP est déjà incluse dans les activités de soins habituels : mais si on n'y prend pas garde, elle sera étouffée par les activités cliniques. Il faut donc une explication claire sur le circuit des malades pour une bonne référence vers l'ETP.  
-*   Au niveau des patients, il y a le **non respect des rendez-vous** ; même si, au départ, un contrat éducationnel est conclu, les parents et surtout les substituts n'honorent pas leur rendez-vous car cela constitue un rendez-vous de plus. Ce qui fait que certains répondent à l'apprentissage mais ne viennent plus pour l'évaluation. Cette difficulté est en train d'être maîtrisée grâce à l'appui financier institué depuis mars 2007 pour les frais de déplacement (500 à 2 000 cfa).  
-*   La dernière difficulté concerne les **outils utilisés** : nous devons sans cesse adapter les outils pédagogiques que nous avons et en créer parfois même en cours de séance. En effet les objectifs pédagogiques sont nombreux et parfois notre outil ne peut couvrir l'objectif traité ; il faut aussi s'adapter au niveau d'étude ou au degré de compréhension de la personne qui se trouve en face de vous.
+- **La compréhension de l'activité par l'équipe** soignante est la première difficulté ; en effet, pour certains, l'éducation thérapeutique sert à évaluer uniquement l'observance des enfants alors que pour nous éducateur, cela va au-delà de cette attente. Mais une bonne information nous a permis de baliser le terrain et de susciter l'adhésion de tout le monde.
+- **L'ancrage de l'éducation thérapeutique dans le suivi clinique** : l'ETP est déjà incluse dans les activités de soins habituels : mais si on n'y prend pas garde, elle sera étouffée par les activités cliniques. Il faut donc une explication claire sur le circuit des malades pour une bonne référence vers l'ETP.
+- Au niveau des patients, il y a le **non respect des rendez-vous** ; même si, au départ, un contrat éducationnel est conclu, les parents et surtout les substituts n'honorent pas leur rendez-vous car cela constitue un rendez-vous de plus. Ce qui fait que certains répondent à l'apprentissage mais ne viennent plus pour l'évaluation. Cette difficulté est en train d'être maîtrisée grâce à l'appui financier institué depuis mars 2007 pour les frais de déplacement (500 à 2 000 cfa).
+- La dernière difficulté concerne les **outils utilisés** : nous devons sans cesse adapter les outils pédagogiques que nous avons et en créer parfois même en cours de séance. En effet les objectifs pédagogiques sont nombreux et parfois notre outil ne peut couvrir l'objectif traité ; il faut aussi s'adapter au niveau d'étude ou au degré de compréhension de la personne qui se trouve en face de vous.
 
 Il revient donc à l'éducateur d'avoir une imagination fertile mais aussi d'user de tact pour réussir ses séances d'éducation.
 
-**_Qu'est ce que l'éducation thérapeutique a changé dans votre pratique quotidienne ?_**
+***Qu'est ce que l'éducation thérapeutique a changé dans votre pratique quotidienne ?***
 
 Ma manière de conduire mes entretiens avec plus de structuration. L'éducation thérapeutique m'a permis de comprendre comment expliquer, d'avoir une compréhension claire de mes activités et, également, une définition nette de mes actions en fonction des objectifs pédagogiques.
 
-**_Quels conseils donneriez-vous à de futurs éducateurs ?_**
+***Quels conseils donneriez-vous à de futurs éducateurs ?***
 
-*   Maîtriser la méthodologie de l'éducation thérapeutique.  
-*   Maîtriser l'outil de chaque séance : compréhension, public, avantages et difficultés. Préparer les séances : l'improvisation n'est pas souhaitable.  
-*   Assurer l'ancrage de l'activité avec les autres unités du service.  
-*   Susciter l'adhésion de toute l'équipe de soins.
+- Maîtriser la méthodologie de l'éducation thérapeutique.
+- Maîtriser l'outil de chaque séance : compréhension, public, avantages et difficultés. Préparer les séances : l'improvisation n'est pas souhaitable.
+- Assurer l'ancrage de l'activité avec les autres unités du service.
+- Susciter l'adhésion de toute l'équipe de soins.
 
 <table>
 
@@ -253,4 +250,4 @@ L'éducation thérapeutique est un processus qui permet à un individu d'acquér
 
 </table>
 
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

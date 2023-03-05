@@ -10,13 +10,13 @@ Trois pays africains sont en situation épidémique pour la trypanosomose humain
 
 Le traitement de la THA est compliqué par :
 
-*   la nécessité d'un traitement différent en fonction du stade,
-*   l'existence de chimiorésistances,
-*   la nécessité d'un suivi, au moins 2 ans, des patients pour affirmer la guérison.
+- la nécessité d'un traitement différent en fonction du stade,
+- l'existence de chimiorésistances,
+- la nécessité d'un suivi, au moins 2 ans, des patients pour affirmer la guérison.
 
 ## II. Les médicaments
 
-Seuls quelques médicaments sont actifs et accessibles pour le traitement de la THA _(tableau 1)._ Cette situation ne s'est pratiquement pas modifiée depuis 40 ans. L'OMS a obtenu, en mai 2001, des firmes pharmaceutiques Aventis Pharma et Bayer, la constitution de stocks de trypanocides, pour au moins cinq ans. Un autre article donne les informations nécessaires pour obtenir ces médicaments. Le traitement au stade hémo-lymphatique est basé depuis 30 ans, sur la pentamidine et la suramine . Au stade nerveux, le traitement repose toujours sur l'emploi du melarsoprol (Arsobah). L'éflornithine  a toujours souffert de difficultés liées à son coût et au mode d'administration difficile dans les structures sanitaires périphériques. Mais aujourd'hui l'éflornithine est maintenant utilisée en routine dans plus de la moitié des pays endémiques.
+Seuls quelques médicaments sont actifs et accessibles pour le traitement de la THA *(tableau 1).* Cette situation ne s'est pratiquement pas modifiée depuis 40 ans. L'OMS a obtenu, en mai 2001, des firmes pharmaceutiques Aventis Pharma et Bayer, la constitution de stocks de trypanocides, pour au moins cinq ans. Un autre article donne les informations nécessaires pour obtenir ces médicaments. Le traitement au stade hémo-lymphatique est basé depuis 30 ans, sur la pentamidine et la suramine . Au stade nerveux, le traitement repose toujours sur l'emploi du melarsoprol (Arsobah). L'éflornithine  a toujours souffert de difficultés liées à son coût et au mode d'administration difficile dans les structures sanitaires périphériques. Mais aujourd'hui l'éflornithine est maintenant utilisée en routine dans plus de la moitié des pays endémiques.
 
 **Tableau 1 : produits disponibles pour le traitement de la trypanosomose humaine africaine.**
 
@@ -125,7 +125,7 @@ IV : voie intraveineuse
 
 La pentamidine est une diamidine aromatique. Seule la pentamidine iséthionate est disponible de nos jours.
 
-La pentamidine est le traitement de choix pour l'infection au stade 1 à _T. b. gambiense_, elle donne des résultats plus variables pour _T. b. rhodesiense._ La posologie généralement recommandée est 4 mg/kg par jour par voie intramusculaire profonde, tous les jours ou tous les deux jours à raison de 7 injections. Cette molécule a été utilisée en chimioprophylaxie de masse (" lomidinisation " du nom de la Lomidine<sup>®</sup> dont la commercialisation est arrêtée), puis abandonnée devant le manque d'efficacité de cette stratégie.
+La pentamidine est le traitement de choix pour l'infection au stade 1 à *T. b. gambiense*, elle donne des résultats plus variables pour *T. b. rhodesiense.* La posologie généralement recommandée est 4 mg/kg par jour par voie intramusculaire profonde, tous les jours ou tous les deux jours à raison de 7 injections. Cette molécule a été utilisée en chimioprophylaxie de masse (" lomidinisation " du nom de la Lomidine<sup>®</sup> dont la commercialisation est arrêtée), puis abandonnée devant le manque d'efficacité de cette stratégie.
 
 La pentamidine est en général bien tolérée. Elle présente une toxicité rénale réversible. Il existe également des risques de syncopes, d'hypotension, d'éruptions cutanées, de toxicité cardiaque (tachycardies, arythmies), de toxicité pancréatique (hypoglycémie et/ou diabète), d'atteinte hépatique et de perturbations hématologiques. Les injections IM peuvent être douloureuses et provoquer des abcès stériles avec des atteintes du nerf sciatique ou des gangrènes. Il est recommandé de laisser le patient au repos allongé pendant une heure après l'injection.
 
@@ -133,7 +133,7 @@ La pentamidine est en général bien tolérée. Elle présente une toxicité ré
 
 Ancien produit, la suramine, issu de la modification chimique d'un colorant, le trypan violet, a bénéficié d'un regain d'intérêt dans l'infection à VIH et les cancers en raison de son action inhibitrice sur différents systèmes enzymatiques. Elle fut utilisée également dans le traitement de l'onchocercose et abandonnée à cause des réactions graves.
 
-La suramine est le traitement de choix pour les infections à _T._ _b. rhodesiense_ au stade 1. La posologie habituelle est 20 mg/kg par voie intraveineuse (sans dépasser 1 g par injection) à raison de 5 injections à 5 à 7 jours d'intervalle. La suramine est également efficace pour les infections à _T. b. gambiense_, mais en raison des risques de choc brutal en cas d'infection onchocerquienne, la pentamidine lui est préférée.
+La suramine est le traitement de choix pour les infections à *T.* *b. rhodesiense* au stade 1. La posologie habituelle est 20 mg/kg par voie intraveineuse (sans dépasser 1 g par injection) à raison de 5 injections à 5 à 7 jours d'intervalle. La suramine est également efficace pour les infections à *T. b. gambiense*, mais en raison des risques de choc brutal en cas d'infection onchocerquienne, la pentamidine lui est préférée.
 
 Les principaux effets secondaires sont des réactions fébriles, des éruptions cutanéomuqueuses, des nausées, des vomissements, des neuropathies, une toxicité hématologique pouvant atteindre les trois lignées et, rarement, une insuffisance rénale.
 
@@ -143,30 +143,30 @@ Le mélarsoprol est un produit qui associe un dérivé organique trivalent de l'
 
 Un récent schéma de traitement continu à 2,2 mg/kg par jour pendant 10 jours a montré son efficacité. Ce schéma a montré la possibilité de diminuer de 30 % la quantité totale de mélarsoprol et de raccourcir de 16 jours la durée d'hospitalisation par rapport à l'ancien protocole mais n'a réduit ni le risque, ni le nombre des encéphalopathies. Ce nouveau schéma de traitement après avoir été officiellement recommandé par l'ISCTRC est maintenant le schéma unique.
 
-Le mélarsoprol demeure actuellement le seul traitement utilisable dans les 2 stades et pour les 2 formes de la maladie. Cependant, sa toxicité et les difficultés d'administration nécessitent beaucoup de prudence et on ne doit l'utiliser qu'avec la certitude d'une trypanosomose au stade nerveux. Globalement, les plus fort taux de résistance ont été observés chez 10 % à 30 % des patients, surtout en Ouganda, Soudan, Angola et RDC. Dans ce cas, une seconde cure de mélarsoprol peut être efficace mais, souvent, un traitement alternatif s'avère nécessaire (éflornithine). Le melarsoprol est surtout neurotoxique avec la possibilité de survenue d'encéphalopathies mortelles. On a décrit également des cas de convulsions isolées, de neuropathies périphériques, de céphalées, de tremblements, de réactions fébriles, de douleurs abdominales, de douleurs thoraciques, d'éruptions cutanées (pouvant aller jusqu'à un syndrome de Lyell), de thrombophlébites périphériques liées à l'injection IV, enfin une toxicité cardiaque, rénale, hépatique et des possibilités d'agranulocytose. La létalité globale varie de 2 % à 9,8 % pour _T. b. gambiense_ et de 3,4 % à 12 % pour les infections à _T._ _b. rhodesiense._
+Le mélarsoprol demeure actuellement le seul traitement utilisable dans les 2 stades et pour les 2 formes de la maladie. Cependant, sa toxicité et les difficultés d'administration nécessitent beaucoup de prudence et on ne doit l'utiliser qu'avec la certitude d'une trypanosomose au stade nerveux. Globalement, les plus fort taux de résistance ont été observés chez 10 % à 30 % des patients, surtout en Ouganda, Soudan, Angola et RDC. Dans ce cas, une seconde cure de mélarsoprol peut être efficace mais, souvent, un traitement alternatif s'avère nécessaire (éflornithine). Le melarsoprol est surtout neurotoxique avec la possibilité de survenue d'encéphalopathies mortelles. On a décrit également des cas de convulsions isolées, de neuropathies périphériques, de céphalées, de tremblements, de réactions fébriles, de douleurs abdominales, de douleurs thoraciques, d'éruptions cutanées (pouvant aller jusqu'à un syndrome de Lyell), de thrombophlébites périphériques liées à l'injection IV, enfin une toxicité cardiaque, rénale, hépatique et des possibilités d'agranulocytose. La létalité globale varie de 2 % à 9,8 % pour *T. b. gambiense* et de 3,4 % à 12 % pour les infections à *T.* *b. rhodesiense.*
 
 Classiquement, l'encéphalopathie arsenicale au cours de la THA se manifeste par l'apparition brutale de convulsions ou de troubles de la conscience qui évoluent rapidement vers un état de mal épileptique et/ou un coma. Le patient peut mourir en l'espace de 48 heures si des mesures de réanimation ne sont pas entreprises rapidement. Ces réactions apparaissent le plus souvent après les premières injections. On décrit également des réactions tardives, après la fin du traitement. Il n'y a pas de conduite à tenir claire pour prévenir ces accès. En général, l'arrêt du mélarsoprol, de fortes doses de corticostéroïdes et des anticonvulsivants permettent de sauver les patients. Des essais de mannitol, d'adrénaline ont été rapportés, mais l'efficacité n'est pas prouvée.
 
 ### 4. Eflornithine
 
-Ce médicament, développé au début des années 1980 dans le cadre de la recherche anticancéreuse, s'est avéré actif sur le trypanosome _in vivo_. En l'absence d'alternative thérapeutique, des essais cliniques de terrain ont été initiés rapidement car le produit avait déjà été utilisé chez l'homme.
+Ce médicament, développé au début des années 1980 dans le cadre de la recherche anticancéreuse, s'est avéré actif sur le trypanosome *in vivo*. En l'absence d'alternative thérapeutique, des essais cliniques de terrain ont été initiés rapidement car le produit avait déjà été utilisé chez l'homme.
 
-L'éflornithine est efficace aux 2 stades de l'infection à _T. b. gambiense_, mais décevante pour l'infection à _T. b._ _rhodesiense._ Ce traitement est d'administration difficile et compliquée. Il fait l'objet d'un autre article du journal. Faisant partie de la lignée des chimiothérapies anticancéreuses, cette molécule présente des effets secondaires similaires : anémie, leucopénie, diarrhées, convulsions, vomissements, thrombopénie, fièvre, douleurs abdominales, céphalées, alopécies, anorexie, vertiges, surdité brutale. Les épisodes de convulsions surviendraient plutôt pendant la première semaine de traitement sans rechute ultérieure.
+L'éflornithine est efficace aux 2 stades de l'infection à *T. b. gambiense*, mais décevante pour l'infection à *T. b.* *rhodesiense.* Ce traitement est d'administration difficile et compliquée. Il fait l'objet d'un autre article du journal. Faisant partie de la lignée des chimiothérapies anticancéreuses, cette molécule présente des effets secondaires similaires : anémie, leucopénie, diarrhées, convulsions, vomissements, thrombopénie, fièvre, douleurs abdominales, céphalées, alopécies, anorexie, vertiges, surdité brutale. Les épisodes de convulsions surviendraient plutôt pendant la première semaine de traitement sans rechute ultérieure.
 
 ### 5. Nifurtimox
 
 Le nifurtimox est un 5-nitrofurane, commercialisé dans les années 1960, pour le traitement de la trypanosomose américaine ou maladie de Chagas.
 
-Cette molécule est active aux 2 stades de l'infection à _T. b. gambiense_. On ne connaît pas son efficacité sur _T._ _b. rhodesiense._ Comme elle n'a pas l'autorisation de mise sur le marché pour la THA, les premiers essais ont été faits pour des patients résistants au mélarsoprol sans autre alternative thérapeutique. Les effets observés sont variés mais souvent difficiles à interpréter chez des patients déjà à un stade avancé d'atteinte nerveuse puisqu'il a surtout été administré en cas de rechutes. Des études sont en cours pour une combinaison associant éflornithine et nifurtimox. L'usage du nifurtimox seul n'est pas envisagé.
+Cette molécule est active aux 2 stades de l'infection à *T. b. gambiense*. On ne connaît pas son efficacité sur *T.* *b. rhodesiense.* Comme elle n'a pas l'autorisation de mise sur le marché pour la THA, les premiers essais ont été faits pour des patients résistants au mélarsoprol sans autre alternative thérapeutique. Les effets observés sont variés mais souvent difficiles à interpréter chez des patients déjà à un stade avancé d'atteinte nerveuse puisqu'il a surtout été administré en cas de rechutes. Des études sont en cours pour une combinaison associant éflornithine et nifurtimox. L'usage du nifurtimox seul n'est pas envisagé.
 
 ## III. Conclusion
 
 Les produits disponibles pour le traitement de la THA sont peu nombreux et souvent toxiques. La recherche et le développement de nouveaux médicaments spécifiques ont été délaissés pendant de nombreuses années, malgré les progrès réalisés dans la connaissance des trypanosomes. Des études sont en cours sur des dérivés DB par le consortium Gates-North Carolina University avec un espoir pour un traitement oral du stade 2. L'association DFMO-nifurtimox constitue également un espoir.
 
-_**Références**_
+***Références***
 
 Wéry M. (2000) Trypanosomoses africaines, maladie du sommeil. Encyclopédie MédicoChirurgicale, Maladies infectieuses, 8-540-A-20, 20 p, Ed. Scientifiques et Médicales Elsevier SAS, Paris, France.
 
 WHO (1998) Control and surveillance of African trypanosomiasis. Report of a WHO Expert Committee. Technical Report Series n<sup>°</sup> 881. Geneva, Switzerland, 114 p.
 
-_Développement et Santé, n°171, juin 2004_
+*Développement et Santé, n°171, juin 2004*

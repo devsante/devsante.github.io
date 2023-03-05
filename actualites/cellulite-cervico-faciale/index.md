@@ -14,4 +14,4 @@ Si les AINS sont justifiés après une intervention de la sphère oro-pharyngée
 
 Philippe Reinert, pédiatre, Créteil, France
 
-_Ref. : Pr Tran Ba Huy, Académie de médecine Paris 6 Déc. 2011_
+*Ref. : Pr Tran Ba Huy, Académie de médecine Paris 6 Déc. 2011*

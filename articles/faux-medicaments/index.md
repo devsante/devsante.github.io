@@ -8,15 +8,15 @@ date: "2002-08-17"
 <p>Entre 1982 et 1999, l'OMS a relevé 770 affaires de contrefaçons à grande échelle ayant entraîné près de 10 000 morts en 10 ans !</p>
 <p>D'après les firmes pharmaceutiques, tout ou presque tout peut être copié : les substances, la composition, la notice, l'emballage, le nom du fabricant et même les certificats de contrôle de qualité.</p></div>
 
-## Que contiennent les médicaments **contrefaits ?**
+## Que contiennent les médicaments contrefaits ?
 
 Soixante pour cent ne contiennent aucun principe actif récemment, en Colombie, des vitamines et des antitussifs ne contenaient que... du ciment !
 
 Plus grave : lors d'une grande épidémie de méningite à méningocoque A au Niger, des milliers d'ampoules de vaccins provenant du Nigeria ne contenaient que de l'eau. Plus de 60 000 personnes avaient déjà été vaccinées... avec de l'eau. Ce crime a entraîné de nombreux morts !
 
-*   19 % des imitations sont mal dosées.  
-*   16 % contiennent d'autres substances.  
-*   5 % seulement des faux médicaments testés présentent la même qualité que l'original.
+- 19 % des imitations sont mal dosées.
+- 16 % contiennent d'autres substances.
+- 5 % seulement des faux médicaments testés présentent la même qualité que l'original.
 
 ## Comment lutter contre ce fléau ?
 
@@ -30,4 +30,4 @@ Curieusement, peu de firmes pharmaceutiques ont intenté des procès aux contref
 
 Des laboratoires nationaux de contrôle de qualité effectuent des prélèvements au hasard à tous les niveaux de la distribution mais cela coûte cher et de nombreux pays ne peuvent s'offrir de tels investissements.
 
-_Développement et Santé, n°160, août 2002_
+*Développement et Santé, n°160, août 2002*

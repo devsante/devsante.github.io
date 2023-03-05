@@ -8,60 +8,61 @@ L'état de choc est un syndrome caractérisé par une diminution brutale de la p
 
 En fonction du mécanisme initial du choc, on distingue le choc cardiogénique, le choc hypovolémique et le choc septique.
 
-## **I. Physiopathologie** **des états de choc**
+## I. Physiopathologie des états de choc
 
 À la phase initiale du choc, les perturbations circulatoires sont en rapport direct avec la pathologie causale. A un stade plus tardif, la distinction entre les trois types de choc disparaît et le patient décède dans un tableau d'incompétence myocardique (insuffisance cardiaque) et le plus souvent d'hypovolémie.
 
-### **1.** **Perturbations circulatoires**
+### 1. Perturbations circulatoires
 
 Le choc est caractérisé par une insuffisance du travail cardiaque par rapport aux besoins des tissus en oxygène. Le travail cardiaque dépend de la précharge fonction du retour veineux, de la postcharge fonction des résistances artérielles, et de l'état contractile du myocarde.
 
 On distingue plusieurs tableaux:
 
-*   **Le choc hypovolémique** où l'hypovolémie peut être réelle comme au cours des hémorragies ou des déshydratations, ou relative comme au cours des états septiques ou des accidents anaphylactiques. L'hypovolémie entraîne une baisse brutale du retour veineux avec diminution secondaire du volume d'éjection systolique et de la pression artérielle.
+- **Le choc hypovolémique** où l'hypovolémie peut être réelle comme au cours des hémorragies ou des déshydratations, ou relative comme au cours des états septiques ou des accidents anaphylactiques. L'hypovolémie entraîne une baisse brutale du retour veineux avec diminution secondaire du volume d'éjection systolique et de la pression artérielle.
 
-*   **Le choc cardiogénique** où l'insuffisance cardiaque peut être due à un effondrement de la contractilité du myocarde ou à un obstacle au remplissage des ventricules comme dans l'embolie pulmonaire et la tamponnade péricardique.
+- **Le choc cardiogénique** où l'insuffisance cardiaque peut être due à un effondrement de la contractilité du myocarde ou à un obstacle au remplissage des ventricules comme dans l'embolie pulmonaire et la tamponnade péricardique.
 
-*   **Le choc septique** par baisse des résistances périphériques secondaire à une vasodilatation artérielle majeure et hypovolémie liée à une fuite plasmatique associée à une séquestration vasculaire importante.
+- **Le choc septique** par baisse des résistances périphériques secondaire à une vasodilatation artérielle majeure et hypovolémie liée à une fuite plasmatique associée à une séquestration vasculaire importante.
 
-### **2. Perturbations** **microcirculatoires**
+### 2. Perturbations microcirculatoires
 
 À la phase précoce du choc cardiogénique et du choc hémorragique, le tonus sympathique réglant le calibre des artères s'élève du fait de la libération de catécholamines et d'angiotensine. Il existe une vasoconstriction périphérique compensatrice. Dans le choc septique, il se produit une intense vasodilatation artériolaire avec disparition de toute adaptation vasomotrice.
 
 La pérennisation de l'ischémie, si elle dure, entraîne la libération de substances vasoactives à l'origine d'une vasodilatation, d'une dépression myocardique et d'une fuite plasmatique capillaire.
 
-### **3. Retentissement du choc** **au niveau des organes**
+### 3. Retentissement du choc au niveau des organes
 
 L'hypoxie tissulaire peut entraîner:
 
-*   Une défaillance myocardique avec diminution de la contractilité des ventricules.
+- Une défaillance myocardique avec diminution de la contractilité des ventricules.
 
-*   Une défaillance rénale revêtant l'aspect d'une insuffisance rénale fonctionnelle ou d'une nécrose tubulaire aiguë, voire plus rarement d'une nécrose corticale avec anurie définitive.
+- Une défaillance rénale revêtant l'aspect d'une insuffisance rénale fonctionnelle ou d'une nécrose tubulaire aiguë, voire plus rarement d'une nécrose corticale avec anurie définitive.
 
-*   Une défaillance respiratoire avec augmentation de la fréquence respiratoire due à une hypoxémie secondaire à un déséquilibre ventilation/perfusion avec ou sans signe radiologique d'oedème pulmonaire lésionnel (SDRA). ,
+- Une défaillance respiratoire avec augmentation de la fréquence respiratoire due à une hypoxémie secondaire à un déséquilibre ventilation/perfusion avec ou sans signe radiologique d'oedème pulmonaire lésionnel (SDRA). ,
 
-*   Des perturbations neuropsychiques avec agitation, confusion, voire altération de la conscience.
+- Des perturbations neuropsychiques avec agitation, confusion, voire altération de la conscience.
 
-*   Un ictère s'inscrivant dans un contexte de foie ischémique aigu avec cytolyse élevée s'accompagnant parfois de signes d'insuffisance hépatocellulaire.
+- Un ictère s'inscrivant dans un contexte de foie ischémique aigu avec cytolyse élevée s'accompagnant parfois de signes d'insuffisance hépatocellulaire.
 
-## **II.** **Diagnostic clinique de l'état de choc**
+## II. Diagnostic clinique de l'état de choc
 
-### **1. Aspects cliniques** **et biologiques**
+### 1. Aspects cliniques et biologiques
 
-#### **a. Signes évocateurs**
+#### a. Signes évocateurs
 
 Le diagnostic clinique est, en règle, évident devant l'ensemble de signes évocateurs suivant :
 
-*   Pouls rapide, mal frappé, souvent perceptible au niveau des seuls troncs carotidiens ou fémoraux, pression artérielle basse (inférieure à 90 mmHg) et pincée qui peut manquer au début du fait de la réaction adrénergique.
+- Pouls rapide, mal frappé, souvent perceptible au niveau des seuls troncs carotidiens ou fémoraux, pression artérielle basse (inférieure à 90 mmHg) et pincée qui peut manquer au début du fait de la réaction adrénergique.
 
-*   Des signes cutanés, liés à la vasoconstriction périphérique: marbrures précoces apparaissant au niveau des genoux et s'étendant progressivement, cyanose des extrémités avec froideur des téguments, allongement du temps de recoloration au niveau des ongles ou des lobules de l'oreille.  
-*   Augmentation de la fréquence respiratoire.
+- Des signes cutanés, liés à la vasoconstriction périphérique: marbrures précoces apparaissant au niveau des genoux et s'étendant progressivement, cyanose des extrémités avec froideur des téguments, allongement du temps de recoloration au niveau des ongles ou des lobules de l'oreille.
 
-*   Agitation, angoisse ou obnubilation, confusion.
+- Augmentation de la fréquence respiratoire.
 
-*   Réduction de la diurèse, mieux appréciée après la pose d'une sonde vésicale.
+- Agitation, angoisse ou obnubilation, confusion.
 
-#### **b. Bilan clinique complet**
+- Réduction de la diurèse, mieux appréciée après la pose d'une sonde vésicale.
+
+#### b. Bilan clinique complet
 
 Parallèlement à la mise en oeuvre des premiers éléments de la thérapeutique, il s'efforce de préciser à la fois la gravité et la cause du choc.
 
@@ -69,17 +70,17 @@ L'interrogatoire précise les circonstances et le mode d'installation, la durée
 
 On note la température, les rythmes cardiaques et respiratoires, les signes d'insuffisance ventriculaire droite ou gauche, l'état des veines périphériques, l'état neurologique et l'état cutanéo-muqueux. L'auscultation pulmonaire et l'examen de l'abdomen sont systématiques.
 
-#### **c. Examens biologiques**
+#### c. Examens biologiques
 
 On complète les données cliniques par des examens complémentaires orientés selon les possibilités: groupe sanguin, numération formule sanguine, ionogramme sanguin, gaz du sang, enzymes (CPK, LDH, transaminases), lactacidémie artérielle, bilan d'hémostase de base, radiographie pulmonaire (RP), électrocardiogramme (ECG), examens directs de prélèvements, recherche de toxiques.
 
-#### **d. Au terme du bilan clinique et biologique**
+#### d. Au terme du bilan clinique et biologique
 
 Parfois la cause et la nature ne font pas de doute et le traitement est institué sans attendre, parfois ils sont difficiles à déterminer et le diagnostic étiologique repose alors sur une étude hémodynamique permettant de préciser le mécanisme de choc.
 
-### **2. Étude hémodynamique**
+### 2. Étude hémodynamique
 
-#### **a. La pression veineuse centrale (PVC)**
+#### a. La pression veineuse centrale (PVC)
 
 Elle se mesure après avoir introduit un cathéter dans un gros tronc veineux intrathoracique.
 
@@ -87,106 +88,106 @@ Sa mesure est possible par un simple manomètre à eau.
 
 Elle reflète la pression de remplissage du ventricule droit et apprécie la volémie. La pression veineuse centrale peut différer de la pression de remplissage du ventricule droit; elle est majorée par les anomalies de l'orifice tricuspidien (régurgitation ou obstacle) et l'augmentation de la pression intrathoracique.
 
-La valeur normale de la pression veineuse centrale est entre 3 et 8 cm d'eau si l'on se réfère au plan horizontal passant les 2/5 antérieurs du thorax (0 de référence) chez un sujet en décubitus dorsal. Le dispositif de mesure est illustré par le _schéma_ précédent.
-
+La valeur normale de la pression veineuse centrale est entre 3 et 8 cm d'eau si l'on se réfère au plan horizontal passant les 2/5 antérieurs du thorax (0 de référence) chez un sujet en décubitus dorsal. Le dispositif de mesure est illustré par le *schéma* précédent.
 
 ![](i639-1.jpg)
-
 
 **Le cathétérisme cardiaque droit est** **réservé à des structures hospitalières** **lourdes**
 
 Le cathéter à ballonnet de Swan-Ganz mis en place dans une artère pulmonaire permet:
 
-*   La mesure des pressions dans les cavités cardiaques droites, l'artère pulmonaire et le capillaire pulmonaire.  
-*   Le prélèvement de sang veineux mêlé dans l'artère pulmonaire permettant le calcul du shunt pulmonaire.  
-*   La mesure du débit cardiaque nécessaire au calcul d'autres paramètres hémodynamiques: résistances vasculaires et travail ventriculaire.
+- La mesure des pressions dans les cavités cardiaques droites, l'artère pulmonaire et le capillaire pulmonaire.
+- Le prélèvement de sang veineux mêlé dans l'artère pulmonaire permettant le calcul du shunt pulmonaire.
+- La mesure du débit cardiaque nécessaire au calcul d'autres paramètres hémodynamiques: résistances vasculaires et travail ventriculaire.
 
 **L'échographie cardiaque**
 
 Elle permet de dépister rapidement et sans cathéter une hypovolémie persistante ou une incompétence myocardique.
 
-## **III. Les différents types** **de choc**
+## III. Les différents types de choc
 
-### **1. Choc hypovolémique**
+### 1. Choc hypovolémique
 
 Le choc hypovolémique résulte d'une diminution de la masse sanguine circulante entraînant une baisse du retour veineux et du débit cardiaque. On distingue deux types d'hypovolémie: l'hypovolémie vraie, conséquence d'une hémorragie, d'une fuite liquidienne ou d'une fuite plasmatique et l'hypovolémie relative secondaire à une intense vasodilatation, augmentant le contenant sans modification du contenu, parfois associée à une fuite plasmatique par augmentation de la perméabilité capillaire comme dans le choc allergique et septique.
 
-#### **a. Physiopathologie**
+#### a. Physiopathologie
 
 Le choc hypovolémique survient pour une diminution du volume sanguin circulant de l'ordre de 40 à 50 % chez un sujet jeune et bien portant. La réponse à l'hypovolémie se traduit par une vasoconstriction mise en jeu par voie réflexe (baro- et chémorécepteurs) et hormonale (adrénaline, système rénine-angiotensine, ADH).
 
 Le profil hémodynamique est caractérisé par une diminution du débit cardiaque et des pressions de remplissage des ventricules, une augmentation des résistances artérielles systémiques. L'hypotension est un signe de gravité car elle témoigne de l'inefficacité des mécanismes compensateurs vasoconstricteurs.
 
-#### **b. Diagnostic clinique et étiologique**
+#### b. Diagnostic clinique et étiologique
 
-_- Les chocs hypovolémiques vrais_
+*- Les chocs hypovolémiques vrais*
 
 Le volume sanguin est constitué par la masse globulaire et la masse plasmatique. L'hypovolémie peut être due à une diminution de la masse sanguine dans son ensemble ou à celle de l'un de ses constituants. La diminution de la masse sanguine dans son ensemble est le fait des chocs hémorragiques, la diminution isolée de la masse globulaire caractérise les chocs hémolytiques (destruction brutale des hématies). La diminution de la masse plasmatique par perte liquidienne (digestive, rénale, séquestration 3<sup>e</sup>secteur) ou plasmatique (brûlure étendue) entraîne un choc par déshydratation.
 
-*   Chocs hémorragiques et traumatiques au décours d'une hémorragie extériorisée, d'une hémorragie digestive, d'une rupture de grossesse extra-utérine, d'un anévrisme fissuré, d'un polytraumatisme avec lésion thoracique, intrapéritonéale (rate et foie), rétropéritonéale (bassin, rachis lombaire, rein).  
-*   Chocs hémolytiques des accidents transfusionnels et des accès pernicieux à _Plasmodium falciparum._
+- Chocs hémorragiques et traumatiques au décours d'une hémorragie extériorisée, d'une hémorragie digestive, d'une rupture de grossesse extra-utérine, d'un anévrisme fissuré, d'un polytraumatisme avec lésion thoracique, intrapéritonéale (rate et foie), rétropéritonéale (bassin, rachis lombaire, rein).
 
-*   Chocs survenant chez des sujets dont les pertes hydrosodées sont augmentées et qui ne peuvent satisfaire leur soif: vieillards, nourrissons, sujets dans le coma.
+- Chocs hémolytiques des accidents transfusionnels et des accès pernicieux à *Plasmodium falciparum.*
 
-_- Les_ _chocs par hypovolémie relative_ _(vasodilatation)_
+- Chocs survenant chez des sujets dont les pertes hydrosodées sont augmentées et qui ne peuvent satisfaire leur soif: vieillards, nourrissons, sujets dans le coma.
+
+*- Les* *chocs par hypovolémie relative* *(vasodilatation)*
 
 Chocs anaphylactiques provoqués par de nombreux produits anergisants ou allergènes, qui provoquent la libération de médiateurs à l'origine d'une vasodilatation. On classe les allergènes en quatre groupes: les allergènes médicamenteux (antibiotiques dont bêtalactamines, antalgiques dont la glafénine, produits iodés, anesthésiques et curares, produits de remplissage type dextran), les venins d'hyménoptères (guêpes), de nombreux aliments (blancs d'oeuf, poissons, fraises, noix, arachides), les allergènes microbiens et parasitaires.
 
-*   Choc neurogénique lors de section médulaire haute responsable d'une abolition du contrôle sympathique sur le calibre des vaisseaux.  
-*   Causes médicamenteuses (barbituriques).
+- Choc neurogénique lors de section médulaire haute responsable d'une abolition du contrôle sympathique sur le calibre des vaisseaux.
+- Causes médicamenteuses (barbituriques).
 
-#### **c. Évolution**
+#### c. Évolution
 
 Elle est fonction de la rapidité du traitement symptomatique et de l'efficacité du traitement de la cause. L'évolution est favorable si l'hypovolémie est corrigée rapidement. Elle est défavorable dans le cas contraire avec survenue de complications rénales (anurie), digestives (ictère, hémorragie digestive), de troubles de la coagulation avec leurs risques hémorragiques dans un contexte soit d , insuffisance hépato-cellulaire soit de coagulation intravasculaire disséminée.
 
-### **2. Choc cardiogénique**
+### 2. Choc cardiogénique
 
 Il est dû à une défaillance aiguë de la pompe cardiaque associée à une vasoconstriction périphérique secondaire à la chute du débit cardiaque.
 
-#### **a. Physiopathologie**
+#### a. Physiopathologie
 
 La défaillance myocardique peut résulter d'une altération de la contractilité (infarctus du myocarde), de lésions mécaniques (insuffisance valvulaire, anévrisme pariétal), de troubles du rythme et de conduction, d'un obstacle au remplissage (tamponnade péricardique, embolie pulmonaire massive). La défaillance myocardique entraîne une chute du débit cardiaque qui s'accompagne d'une hypotension, d'une stase veineuse d'amont. Les mécanismes compensateurs (adrénergiques) provoquent une tachycardie et une vasoconstriction, mais peuvent parfois entretenir la défaillance cardiaque (par augmentation de la précharge et de la postcharge).
 
 Le profil hémodynamique typique associe un bas débit cardiaque à des pressions de remplissage élevées en amont d'un ou des deux ventricules.
 
-#### **b. Diagnostic clinique et étiologique**
+#### b. Diagnostic clinique et étiologique
 
-_- Diagnostic clinique_
+*- Diagnostic clinique*
 
 Le choc cardiogénique se définit par :
 
-*   Un syndrome hémodynamique associant une hypotension, une tachycardie et des signes de défaillance viscérale par hypoperfusion tissulaire: pâleur et marbrure des téguments avec une peau froide et moite, insuffisance respiratoire aiguë avec polypnée, insuffisance rénale avec oligoanurie, perturbations neuropsychiques et troubles de la conscience.  
-*   Des signes d'insuffisance cardiaque gauche ou droite.
+- Un syndrome hémodynamique associant une hypotension, une tachycardie et des signes de défaillance viscérale par hypoperfusion tissulaire: pâleur et marbrure des téguments avec une peau froide et moite, insuffisance respiratoire aiguë avec polypnée, insuffisance rénale avec oligoanurie, perturbations neuropsychiques et troubles de la conscience.
+- Des signes d'insuffisance cardiaque gauche ou droite.
 
-_- Diagnostic étiologique_
+*- Diagnostic étiologique*
 
 La cause est parfois évidente selon les données cliniques et quelques examens simples (ECG, radio pulmonaire, gaz du sang). Sa recherche peut nécessiter des investigations plus poussées: étude hémodynamique et échographie cardiaque.
 
 On distingue trois causes principales:
 
-*   L'infarctus du myocarde est la plus fréquente ; le diagnostic souvent facile sur l'interrogatoire (notion d'angor, douleur thoracique constrictive survenue quelques heures plus tôt) est affirmé sur l'ECG montrant un aspect de nécrose récente.  
-*   L'embolie pulmonaire associe des signes d'insuffisance ventriculaire droite et d'insuffisance respiratoire aiguë (polypnée intense avec cyanose) ; les signes électrocardiographiques classiques sont inconstants et aspécifiques; la radio pulmonaire est le plus souvent normale; la découverte d'une thrombophlébite périphérique constitue un argument diagnostique dans un contexte évocateur.
+- L'infarctus du myocarde est la plus fréquente ; le diagnostic souvent facile sur l'interrogatoire (notion d'angor, douleur thoracique constrictive survenue quelques heures plus tôt) est affirmé sur l'ECG montrant un aspect de nécrose récente.
 
-*   La tamponnade cardiaque, liée à un épanchement péricardique compressif, associe des signes d'insuffisance cardiaque droite avec dyspnée, un microvoltage et des troubles diffus à l'ECG, un gros coeur avec des champs pulmonaires clairs à la radio pulmonaire.
+- L'embolie pulmonaire associe des signes d'insuffisance ventriculaire droite et d'insuffisance respiratoire aiguë (polypnée intense avec cyanose) ; les signes électrocardiographiques classiques sont inconstants et aspécifiques; la radio pulmonaire est le plus souvent normale; la découverte d'une thrombophlébite périphérique constitue un argument diagnostique dans un contexte évocateur.
+
+- La tamponnade cardiaque, liée à un épanchement péricardique compressif, associe des signes d'insuffisance cardiaque droite avec dyspnée, un microvoltage et des troubles diffus à l'ECG, un gros coeur avec des champs pulmonaires clairs à la radio pulmonaire.
 
 Les autres causes plus rares ne seront que citées :
 
-*   Troubles du rythme ou de la conduction responsables d'une tachycardie ou d'une bradycardie.  
-*   Certaines valvulopathies.  
-*   Évolution terminale des cardiopathies gauches.  
-*   Intoxications médicamenteuses (carbamates, antidépresseurs tricycliques, bêtabloquants).
+- Troubles du rythme ou de la conduction responsables d'une tachycardie ou d'une bradycardie.
+- Certaines valvulopathies.
+- Évolution terminale des cardiopathies gauches.
+- Intoxications médicamenteuses (carbamates, antidépresseurs tricycliques, bêtabloquants).
 
-#### **c. Évolution**
+#### c. Évolution
 
 Elle dépend de la cause, de la rapidité du diagnostic et de la rapidité du traitement.
 
 Le pronostic est défavorable dans 70 à 80 % des cas.
 
-### **3. Choc septique**
+### 3. Choc septique
 
 Le choc septique résulte de profondes perturbations microcirculatoires conduisant à une altération de l'oxygénation tissulaire, à la différence du choc cardiogénique ou du choc hémorragique au cours desquels la baisse du débit cardiaque est à l'origine de la dette en oxygène.
 
-#### **a. Physiopathologie**
+#### a. Physiopathologie
 
 Une intense vasodilatation artériolaire avec disparition de toute adaptation vasomotrice et une augmentation de la perméabilité capillaire sont à l'origine d'une hypovolémie relative et d'une hypoxie tissulaire. L'adaptation se fait par une augmentation du débit cardiaque. Il existe une incompétence myocardique aiguë du choc septique par diminution de la contractilité qui limite l'adaptation à la diminution de la précharge.
 
@@ -194,32 +195,32 @@ Le profil hémodynamique traditionnel du choc septique évolue en deux phases. �
 
 En fait, la dépression myocardique est parfois très précoce, dès l'installation du choc septique.
 
-#### **b. Diagnostic clinique et étiologique**
+#### b. Diagnostic clinique et étiologique
 
-_- Diagnostic clinique_
+*- Diagnostic clinique*
 
 Le choc septique se définit comme un état septique avec :
 
-*   Un tableau infectieux : fièvre supérieure à 38° ou hypothermie, pouls supérieur à 90/mn, fréquence respiratoire supérieure à 20/mn, hyperleucocytose ou leucopénie.  
-*   Un tableau hémodynamique hyperkinétique associant une tachycardie et une hypertension persistante et des signes de défaillance viscérale par hypoperfusion tissulaire : insuffisance rénale avec oligoanurie, insuffisance respiratoire aiguë avec polypnée, atteinte hépatique évoluant vers l'insuffisance hépato-cellulaire, perturbations neuropsychiques et troubles de la conscience, hémorragies digestives, anomalies de l'hémostase, tendance à l'hyperglycémie avec insulinorésistance, élévation des lactates sanguins.
+- Un tableau infectieux : fièvre supérieure à 38° ou hypothermie, pouls supérieur à 90/mn, fréquence respiratoire supérieure à 20/mn, hyperleucocytose ou leucopénie.
+- Un tableau hémodynamique hyperkinétique associant une tachycardie et une hypertension persistante et des signes de défaillance viscérale par hypoperfusion tissulaire : insuffisance rénale avec oligoanurie, insuffisance respiratoire aiguë avec polypnée, atteinte hépatique évoluant vers l'insuffisance hépato-cellulaire, perturbations neuropsychiques et troubles de la conscience, hémorragies digestives, anomalies de l'hémostase, tendance à l'hyperglycémie avec insulinorésistance, élévation des lactates sanguins.
 
-_- Diagnostic étiologique des états septiques_
+*- Diagnostic étiologique des états septiques*
 
 La recherche de la cause de l'état septique s'appuie sur la clinique aidée par des examens complémentaires systématiques (hémocultures, examen cytobactériologique des urines, radio pulmonaire) ou orientés par la clinique.
 
-*   Le terrain: âge, état de santé antérieur, infection de départ.  
-*   Le caractère communautaire ou hospitalier de l'infection.  
-*   La recherche de foyer infectieux.  
-*   Des arguments épidémiologiques: en cas de survenue d'un choc, la porte d'entrée est constituée par ordre de fréquence par l'intestin, l'appareil respiratoire, l'appareil urinaire, les téguments.
+- Le terrain: âge, état de santé antérieur, infection de départ.
+- Le caractère communautaire ou hospitalier de l'infection.
+- La recherche de foyer infectieux.
+- Des arguments épidémiologiques: en cas de survenue d'un choc, la porte d'entrée est constituée par ordre de fréquence par l'intestin, l'appareil respiratoire, l'appareil urinaire, les téguments.
 
 L'examen direct de prélèvements orientés permet de mettre en évidence les agents infectieux en cause. Les plus fréquemment rencontrés sont :
 
-*   Les germes à Gram négatifs: méningocoques, entérobactéries _(Escherichia. Coli,_ _Klebsiella, Proteus), autres (Acinetobacter,_ pyocyanique).  
-*   Les germes à Gram positifs: pneumocoques, streptocoques, staphylocoques. e Les termes anaérobies _(Clostridium perfringens, Bacteroides fragiles)._
-*   _Le Plasmodium falciparum_ dans l'accès pernicieux palustre, où l'existence d'un état de choc doit faire évoquer une infection bactérienne associée.  
-*   Les virus qui peuvent avoir un caractère malin à l'origine d'un tableau clinique superposable à un état de choc septique: grippe, hépatite fulminante A ou B, fièvres hémorragiques africaines, fièvre jaune.
+- Les germes à Gram négatifs: méningocoques, entérobactéries *(Escherichia. Coli,* *Klebsiella, Proteus), autres (Acinetobacter,* pyocyanique).
+- Les germes à Gram positifs: pneumocoques, streptocoques, staphylocoques. e Les termes anaérobies *(Clostridium perfringens, Bacteroides fragiles).*
+- *Le Plasmodium falciparum* dans l'accès pernicieux palustre, où l'existence d'un état de choc doit faire évoquer une infection bactérienne associée.
+- Les virus qui peuvent avoir un caractère malin à l'origine d'un tableau clinique superposable à un état de choc septique: grippe, hépatite fulminante A ou B, fièvres hémorragiques africaines, fièvre jaune.
 
-#### **c. Évolution des états septiques**
+#### c. Évolution des états septiques
 
 Le pronostic reste sombre avec une mortalité supérieure à 50%.
 
@@ -227,36 +228,35 @@ L'efficacité du traitement est d'autant plus grande que l'infection initiale es
 
 Si l'état septique persiste, le tableau peut évoluer vers l'insuffisance circulatoire aiguë incontrôlable par vasodilatation ou défaillance myocardique du choc septique hypokinétique pendant les premiers jours, puis vers le syndrome de défaillance multiviscérale dont le pronostic est très sombre.
 
-## **IV. Traitement**
+## IV. Traitement
 
-### **1. Traitement symptomatique**
+### 1. Traitement symptomatique
 
 Il vise à garantir la survie immédiate du malade en restaurant une pression artérielle efficace et en assurant une oxygénation efficace. Dès que le diagnostic de choc est fait, il faut veiller à mettre en place les précautions suivantes :
 
-#### **a. Poser une voie veineuse de bon calibre**
+#### a. Poser une voie veineuse de bon calibre
 
 Si possible prélever un bilan sanguin initial et poser une sonde urinaire pour surveiller la diurèse.
 
-#### **b. Oxygéner le malade**
+#### b. Oxygéner le malade
 
 Avec une sonde nasale, voire l'intuber en cas de détresse respiratoire ou neurologique importante.
 
-#### **c. Faire un remplissage vasculaire initial**
+#### c. Faire un remplissage vasculaire initial
 
 Pour corriger une hypovolémie absolue ou relative, qui existe dans tous les chocs à l'exception du choc cardiogénique par dysfonction ventriculaire gauche. Il est réalisé avec des cristalloïdes, à l'exception des solutés glucosés, ou des colloïdes de synthèse. On adapte la vitesse et le volume de la perfusion à la situation clinique.
 
 Hormis les cas d'emblée évidents, la pose d'un cathéter de pression veineuse centrale (PVC) aide à préciser la nature du choc.
 
-*   Une pression veineuse centrale inférieure à 3 cm d'eau oriente vers une hypovolémie relative.
+- Une pression veineuse centrale inférieure à 3 cm d'eau oriente vers une hypovolémie relative.
 
-*   Une pression veineuse centrale entre 3 et 8 cm impose une épreuve de remplissage vasculaire de 200 ml en 10 minutes sous surveillance de la pression veineuse centrale. Une augmentation rapide de celle-ci en faveur d'une insuffisance cardiaque impose l'arrêt du remplissage.  
-*   Une pression veineuse centrale supérieure à 8 cm est en faveur d'une insuffisance cardiaque. Mais même dans ce cas une épreuve de remplissage peut être utile. Si la pression veineuse centrale reste stable alors que la pression artérielle s'élève cela veut dire qu'il existe un certain degré d'hypovolémie.
+- Une pression veineuse centrale entre 3 et 8 cm impose une épreuve de remplissage vasculaire de 200 ml en 10 minutes sous surveillance de la pression veineuse centrale. Une augmentation rapide de celle-ci en faveur d'une insuffisance cardiaque impose l'arrêt du remplissage.
 
+- Une pression veineuse centrale supérieure à 8 cm est en faveur d'une insuffisance cardiaque. Mais même dans ce cas une épreuve de remplissage peut être utile. Si la pression veineuse centrale reste stable alors que la pression artérielle s'élève cela veut dire qu'il existe un certain degré d'hypovolémie.
 
 ![](i639-2.jpg)
 
-
-#### **d. L'utilisation de drogues sympathomimétiques**
+#### d. L'utilisation de drogues sympathomimétiques
 
 Quand l'état de choc persiste après correction de l'hypovolémie, est nécessaire pour rétablir une pression artérielle.
 
@@ -264,19 +264,19 @@ Les sympathomimétiques exercent leurs effets par le biais de trois types de ré
 
 Nous citerons les cinq sympathomimétiques les plus fréquemment utilisés dans le traitement de l'état de choc.
 
-*   L'adrénaline, ? et ? stimulant, augmente la contractilit? et la fréquence cardiaque et entraîne une vasoconstriction artériolaire et veineuse. La posologie varie de 0,05 à 1 microg/kg/min.
+- L'adrénaline, ? et ? stimulant, augmente la contractilit? et la fréquence cardiaque et entraîne une vasoconstriction artériolaire et veineuse. La posologie varie de 0,05 à 1 microg/kg/min.
 
-*   La noradrénaline, qui a en effet a prédominant, entraîne une vasoconstriction artériolaire et veineuse. La posologie varie de 0,01 à 2 microg/kg/min.
+- La noradrénaline, qui a en effet a prédominant, entraîne une vasoconstriction artériolaire et veineuse. La posologie varie de 0,01 à 2 microg/kg/min.
 
-*   L'isoprénaline et la dobutamine, qui ont un effet ? pr?dominant, entraînent une augmentation de la contractilité, de la fréquence cardiaque et une vasodilatation. La posologie varie de 5 à 20 microg/kg/min pour la dobutamine et de 0,01 à 0,2microg/kg/min pour l'isoprénaline. Cette dernière a un effet ? important qui limite son utilisation.
+- L'isoprénaline et la dobutamine, qui ont un effet ? pr?dominant, entraînent une augmentation de la contractilité, de la fréquence cardiaque et une vasodilatation. La posologie varie de 5 à 20 microg/kg/min pour la dobutamine et de 0,01 à 0,2microg/kg/min pour l'isoprénaline. Cette dernière a un effet ? important qui limite son utilisation.
 
-*   La dopamine a une action, cardiovasculaire variable selon la posologie: de 2 à 5 microg/ kg/min elle entraîne une vasodilatation de la circulation viscérale et rénale (effet ?), de 5 à 10 microg/kg/min elle entraîne une augmentation de la contractilité, de la fréquence cardiaque (effet ?), au-delà de 10 microg/kg/min apparait une vasoconstriction artériolaire et veineuse (effet ?).
+- La dopamine a une action, cardiovasculaire variable selon la posologie: de 2 à 5 microg/ kg/min elle entraîne une vasodilatation de la circulation viscérale et rénale (effet ?), de 5 à 10 microg/kg/min elle entraîne une augmentation de la contractilité, de la fréquence cardiaque (effet ?), au-delà de 10 microg/kg/min apparait une vasoconstriction artériolaire et veineuse (effet ?).
 
-### **2. Traitement selon le type** **de choc**
+### 2. Traitement selon le type de choc
 
 Il vise à traiter le mécanisme du choc.
 
-*   **Le choc hémorragique**
+- **Le choc hémorragique**
 
 Il faut restituer le plus rapidement possible un volume sanguin circulant suffisant en maintenant une hématocrite supérieure ou égale à 30 % en associant des solutés de remplissage, dont l'effet immédiat et la durée
 
@@ -284,45 +284,51 @@ d'action sont variables, et des culots globulaires. En milieu équipé, en cas d
 
 La stabilisation hémodynamique doit permettre un geste d'hémostase.
 
-*   **Les autres chocs par hypovolémie**
+- **Les autres chocs par hypovolémie**
 
 L'expansion volémique est réalisée à l'aide de colloïdes artificiels ou de cristalloïdes.
 
-*   **Le choc anaphylactique**
+- **Le choc anaphylactique**
 
 L'adrénaline est le traitement du choc anaphylactique. L'injection intraveineuse lente, de 0,25 mg dilué dans 10 ml de sérum physiologique, se fait ml par ml, jusqu'à restauration d'une pression artérielle correcte puis si nécessaire par administration continue. L'adrénaline expose à des troubles du rythme (tachycardie et extrasystoles ventriculaires) et une surveillance cardioscopique est souhaitable. Les corticoïdes sont associés lorsqu'il existe des manifestations oedémateuses.
 
-*   **Le choc cardiogénique**
+- **Le choc cardiogénique**
 
 Le traitement vise à renforcer la contractilité myocardique. La dobutamine est la drogue la plus utilisée. On peut l'associer à des vasodilatateurs veineux ou artériels selon l'étiologie.
 
 Le traitement des facteurs aggravant la défaillance cardiaque - tels une hypovolémie, un trouble du rythme - dont la correction sera souvent suivie d'une amélioration durable, est essentiel.
 
-*   **Le choc septique**
+- **Le choc septique**
+
+<!-- -->
 
 - Le traitement initial symptomatique repose sur l'expansion volémique pour corriger l'hypovolémie induite par la vasodilatation systémique. Ce remplissage se fait en surveillant les paramètres cliniques (pression artérielle, diurèse ... ) dont on cherche à corriger les anomalies sans provoquer la survenue d'oedème pulmonaire. Tant que la pression veineuse centrale n'est pas au-dessus des valeurs normales (0 à 8 cm d'eau) on peut considérer que l'expansion volémique est insuffisante. Un remplissage initial de 2 000 à 3 000 ml de colloïdes n'est pas exceptionnel.
 
 - Devant l'inefficacité du remplissage, la dopamine est introduite à des doses ?1 agonistes (10 ? 20 microg/kg/min).Lorsque l'association remplissage vasculaire-dopamine est inefficace (pression artérielle systolique < 90 mmHg), un cathétérisme droit est idéalement nécessaire. Il permet de visualiser une des trois situations suivantes:
 
-*   Une dysfonction ventriculaire gauche très précoce au cours du choc septique qui nécessite l'administration en association de la dobutamine (5 à 20 microg/kg/min) que l'on a tendance actuellement à associer d'emblée à la dopamine.
+<!-- -->
 
-*   Une hypovolémie persistante qui nécessite la poursuite du remplissage et la recherche d'une cause particulière.  
-*   Un profil hémodynamique classique au cours du choc septique associe une augmentation du débit cardiaque et un effondrement des résistances vasculaires qui justifie d'utiliser la noradrénaline (1 à 2 microg/kg/min). En raison de son effet (? prédominant, elle permettra de rétablir une pression artérielle systolique supérieure à 90 mmHg. La dopamine sera maintenue à de faibles doses dopaminergiques (5 microg/kg/min).
+- Une dysfonction ventriculaire gauche très précoce au cours du choc septique qui nécessite l'administration en association de la dobutamine (5 à 20 microg/kg/min) que l'on a tendance actuellement à associer d'emblée à la dopamine.
 
-_- Le traitement de l'infection_
+- Une hypovolémie persistante qui nécessite la poursuite du remplissage et la recherche d'une cause particulière.
+
+- Un profil hémodynamique classique au cours du choc septique associe une augmentation du débit cardiaque et un effondrement des résistances vasculaires qui justifie d'utiliser la noradrénaline (1 à 2 microg/kg/min). En raison de son effet (? prédominant, elle permettra de rétablir une pression artérielle systolique supérieure à 90 mmHg. La dopamine sera maintenue à de faibles doses dopaminergiques (5 microg/kg/min).
+
+*- Le traitement de l'infection*
 
 L'antibiothérapie, débutée immédiatement après avoir fait des prélèvements bactériologiques, est fonction du foyer infectieux suspecté et donc du ou des germes les plus probablement en cause. En l'absence d'élément d'orientation, on institue un traitement dirigé contre les bacilles à Gram négatif associant une bêta-lactamine et un aminoside.
 
 L'antibiothérapie est ensuite adaptée en fonction des résultats des prélèvements initiaux.
 
-### **3. Surveillance**
+### 3. Surveillance
 
 Elle est clinique avec trois critères essentiels d'efficacité :
 
-*   la régression des marbrures,
+- la régression des marbrures,
 
-*   la diurèse supérieure à 1 ml/min,
-*   la pression artérielle supérieure ou égale à 90 mmHg, auxquels vient s'ajouter la diminution de la lactacidémie.
+- la diurèse supérieure à 1 ml/min,
+
+- la pression artérielle supérieure ou égale à 90 mmHg, auxquels vient s'ajouter la diminution de la lactacidémie.
 
 Les autres signes cliniques sont la diminution de la fréquence cardiaque, de la polypnée et la correction des troubles de la conscience.
 
@@ -336,4 +342,4 @@ Le diagnostic et la prise en charge de l'état de choc doivent être précoces. 
 
 Pour les chocs septiques, en particulier d'origine nosocomiale (surinfection hospitalière), le véritable objectif doit être un traitement préventif.
 
-_Développement et Santé, n°117, juin 1995_
+*Développement et Santé, n°117, juin 1995*

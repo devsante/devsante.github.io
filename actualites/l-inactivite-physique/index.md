@@ -5,7 +5,7 @@ date: "2012-10-07"
 
 Un danger sous-évalué
 
-Le manque d'exercice est responsable d'un décès sur dix dans le monde, à peu près autant que le tabac ou l'obésité, selon une étude publiée mercredi 18 juillet un numéro spécial de la revue médicale _The Lancet_.  
+Le manque d'exercice est responsable d'un décès sur dix dans le monde, à peu près autant que le tabac ou l'obésité, selon une étude publiée mercredi 18 juillet un numéro spécial de la revue médicale *The Lancet*.  
 Pour la seule année 2008, l'inactivité physique serait ainsi responsable de 5,3 millions des 57 millions de décès répertoriés à travers le monde.  
 Selon le Dr I-Min Lee, de 6 à 10% des quatre grandes maladies non transmissibles (maladies cardiovasculaires, diabète de type 2, cancers du sein et du côlon) seraient liées au fait de pratiquer moins de 150 minutes d'activité modérée par semaine, comme cela est recommandé par l'OMS.
 

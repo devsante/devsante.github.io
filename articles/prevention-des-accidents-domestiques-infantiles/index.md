@@ -10,13 +10,13 @@ Quelle est l'ampleur du problème ? On la connaît mal, faute de collecte d'info
 
 Les causes habituelles relevées sont les suivantes :
 
-*   les brûlures,
-*   les chutes,
-*   les animaux domestiques,
-*   les blessures par objets tranchants,
-*   les intoxications,
-*   les noyades,
-*   l'asphyxie.
+- les brûlures,
+- les chutes,
+- les animaux domestiques,
+- les blessures par objets tranchants,
+- les intoxications,
+- les noyades,
+- l'asphyxie.
 
 ## I. Les causes
 
@@ -24,10 +24,10 @@ Les causes habituelles relevées sont les suivantes :
 
 **C'est un risque majeur.**
 
-*   par des **liquides chauds,** soit la moitié des causes de brûlures : l'enfant renverse sur lui l'eau de préparation des repas (sauces ... );
-*   par des **objets chauds** : marmite posée sur le feu, gazinière, etc.  
-*   par des **substances corrosives :** produits chimiques acides, alcalins ;
-*   et tout simplement par le **feu** : charbon incandescent.
+- par des **liquides chauds,** soit la moitié des causes de brûlures : l'enfant renverse sur lui l'eau de préparation des repas (sauces ... );
+- par des **objets chauds** : marmite posée sur le feu, gazinière, etc.
+- par des **substances corrosives :** produits chimiques acides, alcalins ;
+- et tout simplement par le **feu** : charbon incandescent.
 
 ### 2. Les chutes
 
@@ -39,9 +39,9 @@ Cette cause, très fréquente, est pourvoyeuse de traumatismes crâniens et de f
 
 Surtout en milieu rural, les animaux sont en proximité directe de l'enfant. Il s'agit de :
 
-*   chiens et chats : morsures, griffures,
-*   animaux d'élevage ou de travaux moutons, chèvres, bœufs, chevaux, chameaux, par coups de patte ou de cornes,
-*   divers animaux : piqûres d'abeille, de guêpe, d'araignée, morsures de rat ou de serpent.
+- chiens et chats : morsures, griffures,
+- animaux d'élevage ou de travaux moutons, chèvres, bœufs, chevaux, chameaux, par coups de patte ou de cornes,
+- divers animaux : piqûres d'abeille, de guêpe, d'araignée, morsures de rat ou de serpent.
 
 Dans tous les cas, l'enfant est curieux, il veut connaître, il met les mains partout, fait peur ou importune l'animal qui réagit brutalement.
 
@@ -49,23 +49,21 @@ Dans tous les cas, l'enfant est curieux, il veut connaître, il met les mains pa
 
 Ce sont les couteaux, les coupe-coupe, les pointes ou aiguilles laissées à portée des enfants, ou encore des morceaux de verre, des arêtes de poisson. Le risque est d'autant plus grand que le ménage est mal fait et que l'enfant se déplace à quatre pattes, à moitié nu.
 
-### 5. Les intoxications et ingestions **dangereuses**
+### 5. Les intoxications et ingestions dangereuses
 
 Dans les causes précédentes, c'est la peau, enveloppe protectrice, qui est menacée. Mais la bouche est aussi la porte d'entrée d'accidents parfois gravissimes. L'enfant, par curiosité, par faim, gourmandise, porte à sa bouche un objet qui traîne. Il avalera :
 
-*   Les **objets contondants** qui iront obstruer les voies et cavités naturelles. Cela peut être des épingles qui iront se bloquer dans l'arrière-gorge, dans l'œsophage, voire dans les cavités nasales postérieures (!). Outre les risques d'asphyxie, ils posent de difficiles problèmes de retrait, avec risque de choc pendant la tentative d'extirpation. Mieux vaut être prudent.
+- Les **objets contondants** qui iront obstruer les voies et cavités naturelles. Cela peut être des épingles qui iront se bloquer dans l'arrière-gorge, dans l'œsophage, voire dans les cavités nasales postérieures (!). Outre les risques d'asphyxie, ils posent de difficiles problèmes de retrait, avec risque de choc pendant la tentative d'extirpation. Mieux vaut être prudent.
 
-*   La très dangereuse **graine d'arachide** L'enfant l'avale mal ; elle passe dans la trachée et les bronches et réalise un tableau d'obstruction pulmonaire totale ou partielle. Rappelons la manœuvre de Heimlich : l'enfant a avalé une graine, il tousse et étouffe. Il ne faut surtout pas le renverser mais le tenir debout, son dos contre soi, mettre le poing sous le sternum et appuyer en remontant brusquement afin de faire expulser la graine comme un bouchon de champagne (_fig_. _1)._
-
+- La très dangereuse **graine d'arachide** L'enfant l'avale mal ; elle passe dans la trachée et les bronches et réalise un tableau d'obstruction pulmonaire totale ou partielle. Rappelons la manœuvre de Heimlich : l'enfant a avalé une graine, il tousse et étouffe. Il ne faut surtout pas le renverser mais le tenir debout, son dos contre soi, mettre le poing sous le sternum et appuyer en remontant brusquement afin de faire expulser la graine comme un bouchon de champagne (*fig*. *1).*
 
 ![](i536-1.jpg)
 
-
-*   Autre grand ennemi des parents : le **pétrole** auquel on peut adjoindre les produits chimiques. Combien de mères n'ont pas craint pour leur enfant à cause d'une bouteille de pétrole laissée dans un coin. Le risque est une pneumopathie toxique qui va se surinfecter. Les complications précoces sont les plus redoutables : asphyxie, état de choc, convulsions. Faire vomir est contre-indiqué.  
-*   Les **intoxications par médicaments** sont multiples, heureusement souvent bénignes, mais deux sont à signaler pour leur extrême dangerosité :
-*   **l'aspirine :** sont associés une hyperpnée, des troubles de la conscience, des signes de déshydratation, des hémorragies digestives. Rappelons qu'il ne faut pas dépasser 50 mg/kg/jour) dans une prescription ;
-*   la **chloroquine :** malaise, coma, arrêt cardio-respiratoire.  
-*   Ajoutons les **intoxications alimentaires** lorsque les restes d'un repas sont resservis le lendemain.
+- Autre grand ennemi des parents : le **pétrole** auquel on peut adjoindre les produits chimiques. Combien de mères n'ont pas craint pour leur enfant à cause d'une bouteille de pétrole laissée dans un coin. Le risque est une pneumopathie toxique qui va se surinfecter. Les complications précoces sont les plus redoutables : asphyxie, état de choc, convulsions. Faire vomir est contre-indiqué.
+- Les **intoxications par médicaments** sont multiples, heureusement souvent bénignes, mais deux sont à signaler pour leur extrême dangerosité :
+- **l'aspirine :** sont associés une hyperpnée, des troubles de la conscience, des signes de déshydratation, des hémorragies digestives. Rappelons qu'il ne faut pas dépasser 50 mg/kg/jour) dans une prescription ;
+- la **chloroquine :** malaise, coma, arrêt cardio-respiratoire.
+- Ajoutons les **intoxications alimentaires** lorsque les restes d'un repas sont resservis le lendemain.
 
 ### 6. L'électricité
 
@@ -99,22 +97,22 @@ Enfin, bien que cela soit hors sujet, nous voudrions rappeler la fréquence croi
 
 Elle a deux objectifs généraux :
 
-*   l'éducation des familles et des enfants,
-*   la réduction des situations à risques.
+- l'éducation des familles et des enfants,
+- la réduction des situations à risques.
 
 Mais auparavant, il faut **améliorer l'information sur la fréquence et le type des** **accidents :**
 
 Pour identifier certaines causes : par exemple les noyades dans un village situé au bord d'un fleuve. Or, cette information fait le plus souvent défaut :
 
-*   parce que les parents n'en parlent pas,
-*   parce que l'hôpital où l'enfant a été amené en urgence n'envoie pas en retour cette information vers le centre de PMI, lieu de prévention par excellence.
+- parce que les parents n'en parlent pas,
+- parce que l'hôpital où l'enfant a été amené en urgence n'envoie pas en retour cette information vers le centre de PMI, lieu de prévention par excellence.
 
 Il faudrait donc élaborer un système local d'amélioration de l'information sur la fréquence des accidents domestiques. Par exemple :
 
-*   lors de la visite de la 1<sup>re</sup>, 2<sup>e</sup>, 3<sup>e</sup> années et autres, on poserait systématiquement la question : l'enfant a-t-il fait un accident l'année précédente ? Lequel ? On pourrait remplir une fiche de prévention identifiant les situations à risque,
-*   avec l'hôpital, lors des réunions de groupes si elles existent, on aborderait une fois l'an, les accidents rencontrés de chaque côté avec mise en commun des statistiques _(fig. 2)._
+- lors de la visite de la 1<sup>re</sup>, 2<sup>e</sup>, 3<sup>e</sup> années et autres, on poserait systématiquement la question : l'enfant a-t-il fait un accident l'année précédente ? Lequel ? On pourrait remplir une fiche de prévention identifiant les situations à risque,
+- avec l'hôpital, lors des réunions de groupes si elles existent, on aborderait une fois l'an, les accidents rencontrés de chaque côté avec mise en commun des statistiques *(fig. 2).*
 
-**_Figure 2. Exemple de fiche de prévention en vue d'identifier les situations à risque d'accidents._**
+***Figure 2. Exemple de fiche de prévention en vue d'identifier les situations à risque d'accidents.***
 
 <table>
 
@@ -180,16 +178,16 @@ Il faudrait donc élaborer un système local d'amélioration de l'information su
 
 </table>
 
-### **1.** Les mesures éducatives
+### 1. Les mesures éducatives
 
 Elles ont lieu à trois niveaux :
 
-*   **Lors de la consultation :** c'est toujours une bonne opportunité pour dire aux parents : " Attention aux médicaments qui traînent, à la bouteille de pétrole laissée dans un coin. Pensez à les mettre dans une petite armoire inaccessible aux mains de l'enfant. "  
-    Mais aussi **lors des visites à domicile** par les hygiénistes, aides sociaux, infirmiers, d'autant plus que les situations à risque seront repérées. Exemple : débris de verre, la machette posée sur la table, les graines d'arachide dans une assiette, etc.
+- **Lors de la consultation :** c'est toujours une bonne opportunité pour dire aux parents : " Attention aux médicaments qui traînent, à la bouteille de pétrole laissée dans un coin. Pensez à les mettre dans une petite armoire inaccessible aux mains de l'enfant. "  
+  Mais aussi **lors des visites à domicile** par les hygiénistes, aides sociaux, infirmiers, d'autant plus que les situations à risque seront repérées. Exemple : débris de verre, la machette posée sur la table, les graines d'arachide dans une assiette, etc.
 
-*   Par des **causeries collectives** lors des séances d'éducation sanitaire. Par exemple : on pourrait utiliser le temps mort de l'attente des mères avant la consultation et les soins pour les occuper et faire passer le message à plusieurs familles. Encore faut-il que cette éducation soit adaptée au vécu réel des gens.
+- Par des **causeries collectives** lors des séances d'éducation sanitaire. Par exemple : on pourrait utiliser le temps mort de l'attente des mères avant la consultation et les soins pour les occuper et faire passer le message à plusieurs familles. Encore faut-il que cette éducation soit adaptée au vécu réel des gens.
 
-*   Par des **supports éducatifs :** affiches, diapositives, films si possible, sans oublier les médias : articles dans les journaux, conseils à la radio, démonstration d'accidents à la télévision. Là encore, le message doit être impérativement adapté aux gens à qui ils s'adressent. S'ils sont illettrés, des affiches avec un texte sont absurdes. Le dessin ou la photo doivent être suffisamment expressifs sans dramatisation excessive.
+- Par des **supports éducatifs :** affiches, diapositives, films si possible, sans oublier les médias : articles dans les journaux, conseils à la radio, démonstration d'accidents à la télévision. Là encore, le message doit être impérativement adapté aux gens à qui ils s'adressent. S'ils sont illettrés, des affiches avec un texte sont absurdes. Le dessin ou la photo doivent être suffisamment expressifs sans dramatisation excessive.
 
 ### 2. Réduire les situations à risque
 
@@ -205,4 +203,4 @@ Essayons de nous représenter une maison à l'échelle d'un enfant. Une table ba
 
 Gardons à l'esprit que si le foyer familial est un lieu de croissance et d'épanouissement, c'est aussi le lieu de tous les dangers.
 
-_Développement et Santé, N°101, octobre 1992_
+*Développement et Santé, N°101, octobre 1992*

@@ -20,4 +20,4 @@ Soyons enfin plus réalistes : de nombreuses crises palustres ont une évolution
 
 Des soignants bien formés, bien informés doi­vent permettre une prise en charge correcte des cas de paludisme non compliqués, une dis­ponibilité correcte des moyens de lutte et une utilisation adéquate de ces moyens. Si ces objectifs sont atteints, la majeure partie des cas compliqués graves de paludisme sera évitée et c'est ce but auquel ce guide souhaite contri­buer.
 
-_Développement et Santé, n°189, 2008_
+*Développement et Santé, n°189, 2008*

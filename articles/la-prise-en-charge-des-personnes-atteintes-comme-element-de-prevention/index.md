@@ -4,39 +4,39 @@ author: "Fébronie Muhongayiré Anthropologue, EP 70, CNRS/Université Bordeaux 
 date: "1996-04-02"
 ---
 
-_"Même si on a la chance d'échapper soi-même au virus, on ne peut prétendre ne pas avoir un jour un ami, un enfant, un frère, une soeur ou un parent atteint par ce fléau. Alors pourquoi ne pas agir ?_ " Un informateur.
+*"Même si on a la chance d'échapper soi-même au virus, on ne peut prétendre ne pas avoir un jour un ami, un enfant, un frère, une soeur ou un parent atteint par ce fléau. Alors pourquoi ne pas agir ?* " Un informateur.
 
 Ce témoignage permet de situer le contexte épidémiologique et social du Rwanda dans lequel l'expérience qui inspire cet article s'est réalisée. Rappelons-en les grands traits.
 
-D'abord au niveau de séroprévalence très élevée : le Programme National de Lutte contre le Sida (PNLS) signalait, en 1991, un taux de séroprévalence moyen de 27 % à Kigali [1]. D'après la cartographie sociale du sida de la ville de Kigali, les quartiers les plus "chauds", avaient un taux évalué entre 31 et 39 %, tandis que le taux des quartiers moins touchés oscillait entre 10-16 % [2]. Un tiers des femmes fréquentant les consultations prénatales étaient séropositives tandis que le risque de transmission du VIH de la mère à l'enfant était supérieur à 25 % [1].
+D'abord au niveau de séroprévalence très élevée : le Programme National de Lutte contre le Sida (PNLS) signalait, en 1991, un taux de séroprévalence moyen de 27 % à Kigali \[1\]. D'après la cartographie sociale du sida de la ville de Kigali, les quartiers les plus "chauds", avaient un taux évalué entre 31 et 39 %, tandis que le taux des quartiers moins touchés oscillait entre 10-16 % \[2\]. Un tiers des femmes fréquentant les consultations prénatales étaient séropositives tandis que le risque de transmission du VIH de la mère à l'enfant était supérieur à 25 % \[1\].
 
 Un tel niveau de séroprévalence entraîne de lourdes conséquences sur les structures de santé. Le personnel de santé et la population de Kigali affirmaient affronter quotidiennement la menace du sida : sur le plan hospitalier, 60 % des lits du pavillon de médecine interne étaient occupés par des malades du sida. Quant aux ménages, ils côtoyaient de près ou de loin le sida, à travers les maladies et les décès touchant un voisin, un ami ou un membre de la famille.
 
 Une rapide mise sur pied de réseaux de solidarité confirmait deux phénomènes importants : d'une part, la gravité des perturbations qu'une telle maladie impose à l'organisation sociale de la communauté kigalienne et d'autre part, le haut degré de perception de la menace que constitue le sida sur cette communauté.
 
-## **I. Le contexte de l'enquête** **femmes séropositives** **à Kigali**
+## I. Le contexte de l'enquête femmes séropositives à Kigali
 
-Cet article puise sa substance dans les résultats d'une étude sur " _les réponses individuelles et communautaires au développement des infections par le VIH chez la_ mère _et l'enfant à Kigali "._ Elle a été conduite dans le cadre d'une collaboration entre l'Institut de Recherche Scientifique et Technologique (Rwanda) et l'Équipe " Société Santé et Développement" (CNRS, Université de Bordeaux 11) et financée par l'Agence Nationale de Recherche sur le sida.
+Cet article puise sa substance dans les résultats d'une étude sur " *les réponses individuelles et communautaires au développement des infections par le VIH chez la* mère *et l'enfant à Kigali ".* Elle a été conduite dans le cadre d'une collaboration entre l'Institut de Recherche Scientifique et Technologique (Rwanda) et l'Équipe " Société Santé et Développement" (CNRS, Université de Bordeaux 11) et financée par l'Agence Nationale de Recherche sur le sida.
 
-Cette étude anthropologique venait en complément d'une recherche épidémiologique conduite au Centre Hospitalier de Kigali par l'Unité 330 de l'INSERM, ayant pour thème " _la transmission du VIH de la mère_ à _l'enfant_ ". L'objectif de cette dernière était d'assurer le suivi clinique et évolutif du sida chez cinq cents couples mère/enfant, divisés en deux groupes appariés. Notre propre étude portait sur trente ménages abritant trente femmes séropositives tirées de cette cohorte. Elles ont été sélectionnées en fonction des critères précis : niveau économique, statut matrimonial et degré d'insertion dans la ville de Kigali. Nous les avons suivies à domicile ou sur leur lieu de travail, au rythme d'une visite par mois en moyenne durant deux ans (1991-1993).
+Cette étude anthropologique venait en complément d'une recherche épidémiologique conduite au Centre Hospitalier de Kigali par l'Unité 330 de l'INSERM, ayant pour thème " *la transmission du VIH de la mère* à *l'enfant* ". L'objectif de cette dernière était d'assurer le suivi clinique et évolutif du sida chez cinq cents couples mère/enfant, divisés en deux groupes appariés. Notre propre étude portait sur trente ménages abritant trente femmes séropositives tirées de cette cohorte. Elles ont été sélectionnées en fonction des critères précis : niveau économique, statut matrimonial et degré d'insertion dans la ville de Kigali. Nous les avons suivies à domicile ou sur leur lieu de travail, au rythme d'une visite par mois en moyenne durant deux ans (1991-1993).
 
 Les résultats obtenus permettent de mesurer les conséquences économiques, sociales et psychologiques de l'infection à VIH et d'étudier les diverses stratégies mises en jeu tant sur le plan individuel que collectif. Cette démarche anthropologique qui vise à replacer dans le contexte global d'une société le vécu d'une maladie, ne s'en tient pas ici à l'unique plan de l'analyse mais souhaite offrir aux personnes concernées et aux divers intervenants des outils d'action, notamment dans le cadre de la prise en charge des personnes affectées.
 
 Notre objectif, dans cet article, est de souligner un aspect de cette prise en charge, qui se trouve doublement masquée par la situation d'urgence dans laquelle sont placées les personnes atteintes et par le discours opposant les individus contaminés aux sujets sains ou supposés l'être. Nous entendons par là le fait d'associer les séropositifs à la prévention du sida, en transposant leurs réponses individuelles aux formes de recours collectifs.
 
-## **II. Ces urgences qui aveuglent**
+## II. Ces urgences qui aveuglent
 
 La prévention et la prise en charge de la personne séropositive ou ayant un sida, revêtent des dimensions différentes et néanmoins complémentaires, selon que l'approche qui en est faite se situe en amont ou en aval de la maladie. En ce qui concerne la prise en charge de la personne atteinte, un changement radical doit être effectué dans la relation au temps, visant non plus seulement à accompagner un itinéraire individuel jusqu'à sa fin, mais à tenter de construire avec l'intéressé un dispositif de solidarité qui lui succédera, malgré les diverses urgences tendant à enfermer toute démarche dans le seul présent immédiat.
 
-### **1. Urgence matérielle**
+### 1. Urgence matérielle
 
 Dans les pays en voie de développement, où la précarité économique est monnaie courante, le poids des dépenses provoquées par des hospitalisations de plus en plus fréquentes et par l'achat de médicaments vient déstabiliser une économie familiale déjà très fragile. Il en est de même en ce qui concerne les besoins quasiment permanents, comme un régime alimentaire adapté, ou le renouvellement des vêtements, au fur et à mesure que l'amaigrissement s'accentue. Dans le cas des ménages qui vivent en location, les dépenses et la perte de ressources entraînées par la maladie s'accompagnent de déménagements fréquents, chaque fois vers des logements de moins en moins confortables et salubres. Dans des cas extrêmes, certaines personnes se voient menacées d'expulsion par les propriétaires, faute de paiement du loyer.
 
-### **2. Urgences médicales**
+### 2. Urgences médicales
 
 La tuberculose, les méningites, les diarrhées et d'autres maladies opportunistes sont des infections répétitives qui posent des questions d'infrastructures sanitaires, de médicaments spécifiques et de personnel qualifié. Ces maladies représentent un danger immédiat non seulement par le déficit dont elles affligent le budget destiné au secteur sanitaire, mais aussi parce qu'elles constituent un danger qui revêt une dimension épidémiologique.
 
-### **3. Urgences sociales**
+### 3. Urgences sociales
 
 Des menaces sur l'avenir des enfants se font sentir avant même la disparition des parents.
 
@@ -44,15 +44,15 @@ Ces menaces sont d'autant plus fortes que plusieurs enfants naissent des unions 
 
 Dans le cas où une certaine solidarité nationale peut se manifester le moment venu, bien des familles qui constitueraient le recours potentiel souffrent, elles aussi, d'une situation très précaire ou sont elles-mêmes touchées par la maladie. Elles manquent alors de ressources pour accepter une charge économique supplémentaire.
 
-## **III. Le soutien reçu**
+## III. Le soutien reçu
 
 À Kigali le sida a frappé directement ou indirectement à toutes les portes. Ses Impacts immédiats pèsent lourdement sur une situation de vie précaire. Alors, des formes organisées de solidarité ont été mises sur pied. Nous avons contacté et collaboré avec les principales structures concernées. Ceci a permis de comprendre  
 leur mode de fonctionnement et d'apprécier la nature de l'appui apporté aux bénéficiaires.  
 D'une manière générale, les besoins matériels étaient couverts par la distribution de vivres, de vêtements, de médicaments et la facilitation à l'accès aux soins, grâce aux accords que les organisations établissent avec les institutions sanitaires (centres de santé). Le logement était, dans certaines circonstances, octroyé au même titre que les frais de scolarité des enfants. Lorsque nous clôturions notre enquête (1993), les tentatives de recueillir des enfants dans des foyers spécifiques débutaient à peine, de même que le suivi scolaire à domicile des enfants confiés à des tiers.
 
-Ces actions étaient essentiellement réparties entre CARITAS rattachée à l'Église Catholique,,Ie centre socio-pastoral ISANO initié par l'Église Presbytérienne, _l'African Evangelistic Entreprise_ (AEE) parrainée par une organisation caritative norvégienne, et Com_paraison_ internationale soutenues par les Églises Méthodistes et Pentecôtistes.
+Ces actions étaient essentiellement réparties entre CARITAS rattachée à l'Église Catholique,,Ie centre socio-pastoral ISANO initié par l'Église Presbytérienne, *l'African Evangelistic Entreprise* (AEE) parrainée par une organisation caritative norvégienne, et Com_paraison\_ internationale soutenues par les Églises Méthodistes et Pentecôtistes.
 
-## **IV. Les réseaux de solidarité**
+## IV. Les réseaux de solidarité
 
 Pour la plupart de ces organisations, il s'agit d'oeuvres caritatives financées, pour beaucoup d'entre elles, par des fonds extérieurs. Face à ces initiatives à caractère privé et confessionnel, on peut se demander si le retard des pouvoirs politiques locaux ne traduit pas les premières carences des institutions publiques. Quelle autorité politique menacée par l'instabilité pourrait se livrer d'une façon opérationnelle à la mise en place d'un plan de taille contre le sida ? Tout en supposant quç la question de stabilité soit résolue, quel Etat pauvre entreprendrait une action d'envergure aussi importante qu'une prise en charge s'étendant des personnes atteintes à leur famille, pendant que d'autres priorités restent en attente ?
 
@@ -66,7 +66,7 @@ Il s'agissait donc d'interventions portant sur la satisfaction des besoins les p
 
 non informées de leur état trouvaient une satisfaction à leurs besoins immédiats. En revanche, les personnes informées de leur statut, ne pouvaient pas bénéficier d'un appui approprié, et en particulier d'un soutien à la conduite des stratégies qu'elles avaient elles-mêmes commencé à mettre en oeuvre. Leurs attentes allaient bien au-delà d'une urgence matérielle liée à leur propre état de santé.
 
-## **V. Le soutien attendu**
+## V. Le soutien attendu
 
 Lorsqu'on fait une recherche sur une personne séropositive, on se trouve face à une personne malade ou supposée le devenir incessamment et qui va mourir. D'un autre côté, faire une recherche sur la prise en charge des sujets atteints par le VIH, cela signifie qu'on étudie une forme particulière d'interaction qui s'inscrit dans un rapport d'assistance. La difficulté qui se pose alors consiste dans le fait que le soutien apporté vise en l'occurrence à aider la personne atteinte à assumer sa mort, au lieu de l'aider à guérir sa maladie. Ce qui faisait peur à la plupart de nos interlocutrices ce n'était pas le fait de mourir, puisqu'elles savaient qu'elles mourraient un jour ou l'autre. Par contre, elles avaient peur de la façon dont elles allaient mourir et des conséquences de cette mort sur les projets familiaux, plus particulièrement l'avenir des enfants. L'une de leurs craintes était en particulier que ces derniers se retrouvent dans des conditions qui les rendent très vulnérables à la contamination par le VIH. Un certain nombre d'entre elles s'interrogeaient sur la façon dont elles pourraient s'y prendre pour réduire un tel risque : éducation sexuelle, préparation de conditions économiques assurant leur autonomie matérielle, etc.
 
@@ -80,9 +80,9 @@ Une des manifestations les plus apparentes en est la multiplication des configur
 
 Une telle situation entraîne, dans de nombreux cas, une rupture avec la famille d'origine. Elle s'accompagne également souvent d'une non-reconnaissance par celle du partenaire : avec les conséquences que cela implique en terme de droits d'héritage pour les femmes et pour leurs enfants.
 
-C'est une position qui, en elle-même, est source d'une grande insécurité sociale et matérielle. Elle s'accompagne aussi d'une plus grande vulnérabilité à l'égard de la contamination par le VIH : selon l'étude nationale conduite en 1986, 13 % des femmes mariées vivant en milieu urbain étaient séropositives tandis que celles qui vivaient en " union " l'étaient à 27,4 % [3].
+C'est une position qui, en elle-même, est source d'une grande insécurité sociale et matérielle. Elle s'accompagne aussi d'une plus grande vulnérabilité à l'égard de la contamination par le VIH : selon l'étude nationale conduite en 1986, 13 % des femmes mariées vivant en milieu urbain étaient séropositives tandis que celles qui vivaient en " union " l'étaient à 27,4 % \[3\].
 
-### **1. Les stratégies pour faire face** **à la maladie**
+### 1. Les stratégies pour faire face à la maladie
 
 Les stratégies des femmes à l'égard des menaces sur l'avenir de leurs enfants montrent que le sida permet non seulement de remettre en cause le fonctionnement de sa société mais aussi lui donne les possibilités de formuler une nouvelle conduite de la vie sociale et familiale. Dans ces stratégies, les femmes veulent exprimer qu'elles ne souhaitent pas voir renouveler leur triste histoire à travers leur descendance. Elles s'efforcent alors de restaurer ou de consolider des liens familiaux et sociaux dans le but de préparer un cadre d'accueil favorable à l'épanouissement de leurs enfants.
 
@@ -92,7 +92,7 @@ Très peu de femmes, celles qui n'entrevoient aucune possibilité d'aide du côt
 
 Celles qui ne disposent pas de ressources financières leur permettant d'envisager de telles stratégies, investissent en priorité dans le lien social. Elles s'efforcent entre autres d'étoffer au jour le jour leurs relations de bon voisinage, en rendant des services à leurs proches immédiats, espérant ainsi, dans une perspective de réciprocité, consolider des liens qui bénéficieront ultérieurement à leurs enfants.
 
-### **2. Orientations et perspectives**
+### 2. Orientations et perspectives
 
 Ces modèles d'auto-prise en charge porteraient davantage de fruits s'ils bénéficiaient d'un appui précoce. Quelques prestations faciliteraient le redressement de situations jugées désespérées par les femmes. Nous pensons notamment au rôle de conseillers conjugaux dans la régularisation des unions " non légitimées ". Nous pensons également aux facilités de séjours fréquents dans les familles des parents dont pourraient bénéficier les enfants. Il se trouve effectivement que pour plus de la moitié des femmes étudiées, cela impliquerait beaucoup de frais de déplacements vers leur famille d'origine ou celle de leur partenaire, tandis que les moyens font souvent défaut.
 
@@ -100,16 +100,16 @@ Les entretiens répétés auprès des femmes suivies nous permettent d'expliquer
 
 L'illustration que nous donnons ici est loin d'être exhaustive. Mais, elle nous permet de souligner que, quelle que soit la solution envisagée de prise en charge des personnes atteintes, celle-ci n'aura de sens et d'efficacité que si elle est compatible avec les pratiques et les dispositions mentales de la société dans le cadre de laquelle on intervient. Une recherche de modalités de prise en charge adaptée devra s'appuyer sur la connaissance des réseaux de solidarité existants ou souhaités et sur celle des stratégies individuelles des personnes que l'on veut accompagner. Une solution venue directement de l'extérieur ne risque-t-elle pas de se heurter à des résistances (dans le temps et dans l'espace), alors qu'une méthode participante permet d'explorer, et d'ajuster le moment venu, les expériences nées de ce contexte ? Le soutien aux personnes atteintes s'offrirait désormais sous forme de modèles différents, dont chacun s'adresserait à des catégories de personnes distinctes que rapprocheraient les conditions dans lesquelles elles vivent la séropositivité et la maladie ainsi que l'existence de problèmes qu'elles ont à résoudre. Cette flexibilité de modes de soutien prenant la forme d'un accompagnement plus que d'" une prise en charge " au sens strict du terme nous paraît essentielle au succès de la démarche.
 
-Par ailleurs, l'annonce et l'acceptation du statut sérologique constituent très nettement le point de départ de toute stratégie raisonnée de réponse à la maladie. En effet, une des constatations auxquelles nous a conduit notre accompagnement anthropologique de femmes séropositives est que le rapport à leur propre séropositivité est au coeur de toutes les stratégies de réponses concrètes qu'elles sont susceptibles de mettre en oeuvre. L'important serait d'aider les personnes atteintes, et les femmes en particulier, à établir ce rapport d'une façon durable, notamment en termes de dispositions psychologiques individuelles en vue de mieux engager la mobilisation de tout un entourage social et matériel rendant possible une prise en charge satisfaisante à différents niveaux. Nous avons montré ailleurs [41, qu'un travail concerté des personnels médicaux et sociaux visant à déculpabiliser le malade, à démystifier la maladie et à dédramatiser la situation, laissait entrevoir un espoir d'une prise en charge des séropositifs et sidéens dans des conditions moins ambiguës que celles observées aujourd'hui.
+Par ailleurs, l'annonce et l'acceptation du statut sérologique constituent très nettement le point de départ de toute stratégie raisonnée de réponse à la maladie. En effet, une des constatations auxquelles nous a conduit notre accompagnement anthropologique de femmes séropositives est que le rapport à leur propre séropositivité est au coeur de toutes les stratégies de réponses concrètes qu'elles sont susceptibles de mettre en oeuvre. L'important serait d'aider les personnes atteintes, et les femmes en particulier, à établir ce rapport d'une façon durable, notamment en termes de dispositions psychologiques individuelles en vue de mieux engager la mobilisation de tout un entourage social et matériel rendant possible une prise en charge satisfaisante à différents niveaux. Nous avons montré ailleurs \[41, qu'un travail concerté des personnels médicaux et sociaux visant à déculpabiliser le malade, à démystifier la maladie et à dédramatiser la situation, laissait entrevoir un espoir d'une prise en charge des séropositifs et sidéens dans des conditions moins ambiguës que celles observées aujourd'hui.
 
-### **Références bibliographiques**
+### Références bibliographiques
 
-[1] PNLS, surveillance de l'infection VIH par postes sentinelles au Rwanda, Document 2e semestre 1991.
+\[1\] PNLS, surveillance de l'infection VIH par postes sentinelles au Rwanda, Document 2e semestre 1991.
 
-[2] Vachon G. La Cartographie sociale de Kigali, Centre de Coopération Internationale en Santé et Développement. Bibliothèque nationale du Canada, 1994, 155 pp.
+\[2\] Vachon G. La Cartographie sociale de Kigali, Centre de Coopération Internationale en Santé et Développement. Bibliothèque nationale du Canada, 1994, 155 pp.
 
-[3] Bugingo G, _et_ al. Étude sur la séropositivité liée à l@ infection au VIH au Rwanda. _Revue médicale_ _rwandaise_, N54-1988, p. 37-42, Kigali.
+\[3\] Bugingo G, *et* al. Étude sur la séropositivité liée à l@ infection au VIH au Rwanda. *Revue médicale* *rwandaise*, N54-1988, p. 37-42, Kigali.
 
-[4] Muhongayiré F. Comment préparer la famille africaine à jouer son rôle de prise en charge des personnes infectées par le VIH ? _Sociétés_ _d'Afrique et Sida,_ n' 8, avril 1995, GRID. Université de Bordeaux II.
+\[4\] Muhongayiré F. Comment préparer la famille africaine à jouer son rôle de prise en charge des personnes infectées par le VIH ? *Sociétés* *d'Afrique et Sida,* n' 8, avril 1995, GRID. Université de Bordeaux II.
 
-_Développement et Santé, n°122, avril 1996_
+*Développement et Santé, n°122, avril 1996*

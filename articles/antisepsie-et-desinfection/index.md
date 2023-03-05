@@ -18,19 +18,19 @@ Les antiseptiques sont des préparations pharmaceutiques actives sur les micro-o
 Dans le cas d’un antiseptique ou d’un antibiotique, on désigne par “**spectre d’activité**” l’ensemble des espèces sur lequel il est actif.  
 Il y a deux types d’effet :
 
-*   destruction irréversible : activité bactéricide, fongicide, virucide.  
-*   inhibition de la croissance : activité bactériostatique, fongistatique.
+- destruction irréversible : activité bactéricide, fongicide, virucide.
+- inhibition de la croissance : activité bactériostatique, fongistatique.
 
 Il existe une grande quantité d’antiseptiques dont les classes chimiques et les activités sont résumées dans le tableau I.  
 Critères de choix
 
-*   Large spectre d’activité
-*   Activité destructrice : bactéricide, fongicide, virucide
-*   Faible toxicité
-*   Tolérance cutanée
-*   Activité en présence de substances interférentes pouvant inhiber leur action (sang, pus…)
-*   Stabilité
-*   Coût.
+- Large spectre d’activité
+- Activité destructrice : bactéricide, fongicide, virucide
+- Faible toxicité
+- Tolérance cutanée
+- Activité en présence de substances interférentes pouvant inhiber leur action (sang, pus…)
+- Stabilité
+- Coût.
 
 Il ressort du tableau I que les dérivés à base de chlore et d’iode sont les plus actifs, ils ont une activité bactéricide, fongicide, virucide ; ce sont les plus employés et les moins coûteux.
 
@@ -90,43 +90,43 @@ Povidone iodée
 
 <td>
 
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
 </td>
 
 <td style="width: 66px;">
 
-+
+\+
 
 </td>
 
 <td style="width: 44px;">
 
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
 </td>
 
 <td style="width: 38px;">
 
-+
+\+
 
 </td>
 
 <td style="width: 61px;">
 
-+
+\+
 
 </td>
 
@@ -245,23 +245,23 @@ Chlorhexidine</th>
 
 **Précautions d’emploi**
 
-*   Les utiliser sur une peau ou une plaie préalablement nettoyée.  
-*   Les conserver dans leur conditionnement d’origine pour :
-    *   limiter les risques de contamination au cours des manipulations,
-    *   limiter les sources d’erreurs (nom du produit, concentration, mode d’utilisation, date de péremption).  
-*   Ne pas mélanger ni appliquer successivement des antiseptiques de familles différentes.  
-*   Respecter la date de péremption (durée de conservation du produit dans son conditionnement non ouvert).  
-*   Noter la date d’ouverture sur le flacon.  
-*   Reboucher le flacon après chaque usage.  
-*   Privilégier les petits conditionnements ou les doses unitaires.  
-*   S’informer du temps de conservation du flacon ouvert.
+- Les utiliser sur une peau ou une plaie préalablement nettoyée.
+- Les conserver dans leur conditionnement d’origine pour :
+  - limiter les risques de contamination au cours des manipulations,
+  - limiter les sources d’erreurs (nom du produit, concentration, mode d’utilisation, date de péremption).
+- Ne pas mélanger ni appliquer successivement des antiseptiques de familles différentes.
+- Respecter la date de péremption (durée de conservation du produit dans son conditionnement non ouvert).
+- Noter la date d’ouverture sur le flacon.
+- Reboucher le flacon après chaque usage.
+- Privilégier les petits conditionnements ou les doses unitaires.
+- S’informer du temps de conservation du flacon ouvert.
 
 **Utilisation des antiseptiques en pratique médicale**  
 Les antiseptiques sont utilisés pour la prévention et le traitement des maladies infectieuses dans trois circonstances :
 
-*   Antisepsie de la peau saine
-*   Antisepsie de la peau lésée
-*   Antisepsie des muqueuses et des séreuses
+- Antisepsie de la peau saine
+- Antisepsie de la peau lésée
+- Antisepsie des muqueuses et des séreuses
 
 Les produits à large spectre, c’est-à-dire permettant de détruire la plupart des espèces bactériennes, seront utilisés dans la prévention du risque infectieux : on les appelle des antiseptiques majeurs.  
 Les autres produits sont réservés au traitement de certaines affections dermatologiques, où l’on cherche à détruire le germe responsable de l’infection cutanée.
@@ -277,9 +277,9 @@ Dépilation une heure avant l’intervention.
 Au moment de l’intervention, application de l’antiseptique avec une pince et des compresses stériles, du centre vers l’extérieur du champ opératoire, trois applications d’une durée d’une minute sont effectuées en laissant sécher entre chacune d’elles.  
 Les produits utilisés le plus souvent sont :
 
-*   la povidone iodée,
-*   la chlorhexidine à 0,5 % dans l’éthanol à 70° C,
-*   l’alcool iodé à 2 %.
+- la povidone iodée,
+- la chlorhexidine à 0,5 % dans l’éthanol à 70° C,
+- l’alcool iodé à 2 %.
 
 Antisepsie avant une ponction, une injection ou une biopsie : les mêmes produits sont choisis et appliqués deux fois de suite en laissant sécher.
 
@@ -298,14 +298,13 @@ Les plaies des brulés sont souvent infectées par des staphylocoques et par des
 
 Préparations à base de zinc, de cuivre, colorants en solution alcoolique, solutions d’iode, de chlorhexidine.
 
-###   
-3) Antisepsie des muqueuses et des séreuses
+### 3) Antisepsie des muqueuses et des séreuses
 
 Les antiseptiques sont généralement employés dilués à cause de la fragilité de ces tissus.
 
-*   Odontologie et stomatologie : solutions d’hexamidine ou de chlorhexidine.  
-*   Gynécologie : solutions, et ovules pour traitement des infections vaginales.  
-*   Ophtalmologie et otorhinolaryngologie : collyres et pommades.
+- Odontologie et stomatologie : solutions d’hexamidine ou de chlorhexidine.
+- Gynécologie : solutions, et ovules pour traitement des infections vaginales.
+- Ophtalmologie et otorhinolaryngologie : collyres et pommades.
 
 Les antiseptiques ont leur place à côté des antibiotiques dans le traitement des maladies infectieuses.  
 Dans certains cas (risques de résistances ou de sensibilisation), ils se substituent aux antibiotiques locaux.  
@@ -326,15 +325,15 @@ Le désinfectant le plus couramment utilisé, et le moins coûteux, est l’eau 
 La façon d’exprimer la concentration des solutions a changé, le tableau II donne la correspondance entre les anciennes et les nouvelles unités.  
 Autrefois elle était exprimée :
 
-*   en degrés chlorométriques : le degré chlorométrique est le nombre de litres de chlore gazeux libérés par un litre d’eau de Javel en milieu acide dans des conditions normales de température et de pression.  
-*   en grammes de chlore actif par litre (1 degré chlorométrique correspond à 3,17 g de chlore libre par litre).  
-*   en partie par million (ppm).
+- en degrés chlorométriques : le degré chlorométrique est le nombre de litres de chlore gazeux libérés par un litre d’eau de Javel en milieu acide dans des conditions normales de température et de pression.
+- en grammes de chlore actif par litre (1 degré chlorométrique correspond à 3,17 g de chlore libre par litre).
+- en partie par million (ppm).
 
 L’unité de mesure est maintenant la quantité de chlore actif exprimée en pourcentage.  
 Les solutions d’hypochlorite sont distribuées actuellement sous deux formes :
 
-*   Extrait de Javel (9,6% de chlore actif )
-*   Eau de Javel (2,6% de chlore actif ), soit environ 4 fois moins concentrée.
+- Extrait de Javel (9,6% de chlore actif )
+- Eau de Javel (2,6% de chlore actif ), soit environ 4 fois moins concentrée.
 
 <table>
 
@@ -349,9 +348,7 @@ Eau de Javel prête à l'emploi
 
 <td>
 
-
 ![](javel-2.jpg)
-
 
 Eau de Javel à diluer 9,6 %  
 dde chlore actif
@@ -366,10 +363,10 @@ dde chlore actif
 
 Selon les circonstances, on utilise la solution à 2,6 % de chlore actif plus ou moins diluée :
 
-*   désinfection des locaux : 15 à 20 ml pour un litre d’eau,
-*   désinfection des instruments : 50 ml pour un litre d’eau,
-*   désinfection des sanitaires : 300 ml non diluée et contact 5 minutes,
-*   désinfection de l’eau : quatre gouttes pour un litre d’eau et contact une heure.
+- désinfection des locaux : 15 à 20 ml pour un litre d’eau,
+- désinfection des instruments : 50 ml pour un litre d’eau,
+- désinfection des sanitaires : 300 ml non diluée et contact 5 minutes,
+- désinfection de l’eau : quatre gouttes pour un litre d’eau et contact une heure.
 
 <table>
 <caption>Tableau 2 : correspondance entre les Unités</caption>
@@ -488,8 +485,7 @@ Ce produit est stable, de bonne conservation à l’abri de l’humidité.
 Il fait partie de la liste des médicaments essentiels de l’OMS.  
 Pour la désinfection de l’eau de boisson, il est utilisé à la dose d’un comprimé à 3,5 mg dans un litre d’eau, à ne consommer qu’après 30 minutes de contact et pendant une durée maximale de 24 heures.
 
-###   
-3. Précautions d’utilisation
+### 3. Précautions d’utilisation
 
 Ne jamais utiliser l’extrait de Javel sans l’avoir dilué.  
 Toujours rincer le matériel ou les surfaces en acier inoxydable nettoyés à l’eau de Javel (détérioration).  

@@ -20,9 +20,9 @@ Le verrou sous-diaphragmatique est inefficace, par exemple du fait d'une hernie 
 
 Les principaux signes sont :
 
-*   le pyrosis : sensation de brûlure allant de l'épigastre à la gorge,
-*   les brûlures épigastriques et rétro-sternales,
-*   les éructations acides, voire des vomissements.
+- le pyrosis : sensation de brûlure allant de l'épigastre à la gorge,
+- les brûlures épigastriques et rétro-sternales,
+- les éructations acides, voire des vomissements.
 
 La notion de syndrome postural est très évocatrice. Ces sensations surviennent quand le patient se penche en avant pour fermer sa chaussure par exemple (signe du lacet), ou lorsque il est couché. L' horaire nocturne oriente le diagnostic.
 
@@ -44,13 +44,13 @@ Il s'agit de brûlures épigastriques moins systématisées, quelquefois post-pr
 
 Normalement, le diagnostic étant posé, la fibroscopie oeso-gastro-duodénale devrait être pratiquée pour :
 
-*   authentifier la lésion,
-*   la situer,
+- authentifier la lésion,
+- la situer,
 
 et surtout :
 
-*   en cas d'ulcère gastrique, pour effectuer une biopsie à la recherche d'une éventuelle cancérisation ;
-*   et si possible mettre en évidence la bactérie nommée _Helicobacter pylori,_ dont le traitement par antibiotiques guérit de nombreux ulcères.
+- en cas d'ulcère gastrique, pour effectuer une biopsie à la recherche d'une éventuelle cancérisation ;
+- et si possible mettre en évidence la bactérie nommée *Helicobacter pylori,* dont le traitement par antibiotiques guérit de nombreux ulcères.
 
 Cependant, les plaintes gastriques sont innombrables :
 
@@ -60,8 +60,8 @@ Il faudrait donc, en l'état actuel des possibilités, sélectionner les malades
 
 Nous proposons les patients ulcéreux :
 
-*   souffrant d'une complication : perforation (défense, vomissements) ; hémorragies digestives (moelena, hématémèse) ; sténose du pylore (vomissements) ;
-*   avec une dysphagie (cancer de l'oesophage ?) ; ou une altération de l'état général ; - lorsque les crises sont trop fréquentes ou continues malgré le traitement.
+- souffrant d'une complication : perforation (défense, vomissements) ; hémorragies digestives (moelena, hématémèse) ; sténose du pylore (vomissements) ;
+- avec une dysphagie (cancer de l'oesophage ?) ; ou une altération de l'état général ; - lorsque les crises sont trop fréquentes ou continues malgré le traitement.
 
 ## III. La thérapeutique
 
@@ -71,16 +71,16 @@ Avant de débuter la présentation des divers médicaments, deux préalables ind
 
 Le soignant aura à répéter, voire à afficher sur les murs du dispensaire les règles restrictives suivantes :
 
-*   ne pas fumer,
-*   ne pas boire de boissons alcoolisées sous quelque forme que ce soit,
-*   ne pas consommer de piment ou d'épices piquantes,
-*   ne plus prendre d'aspirine ou d'anti-inflammatoires non stéroïdiens. Si possible, on l'inscrira sur le carnet de santé ou le dossier médical.
+- ne pas fumer,
+- ne pas boire de boissons alcoolisées sous quelque forme que ce soit,
+- ne pas consommer de piment ou d'épices piquantes,
+- ne plus prendre d'aspirine ou d'anti-inflammatoires non stéroïdiens. Si possible, on l'inscrira sur le carnet de santé ou le dossier médical.
 
 Ces quatre toxiques pour l'estomac aggravent les douleurs, et le dernier peut provoquer des hémorragies digestives ou une perforation d'ulcère.
 
 ### 2. Écouter
 
-L'ulcère gastro-duodénal est réputé comme une maladie psychosomatique, c'est-à-dire dont les poussées peuvent être déclenchées par des stress, des émotions, des conflits. Même la découverte d'un _Helicobacter pylori_ n'enlève rien à l'hypothèse psychologique. Aider le patient à parler de ses problèmes, afin de se décharger de ses émotions pathogènes et tout simplement l'écouter, contribue à la guérison.
+L'ulcère gastro-duodénal est réputé comme une maladie psychosomatique, c'est-à-dire dont les poussées peuvent être déclenchées par des stress, des émotions, des conflits. Même la découverte d'un *Helicobacter pylori* n'enlève rien à l'hypothèse psychologique. Aider le patient à parler de ses problèmes, afin de se décharger de ses émotions pathogènes et tout simplement l'écouter, contribue à la guérison.
 
 <table>
 
@@ -124,13 +124,13 @@ On citera encore pour mémoire les produits à base d'argile (kaolin, Smecta®, 
 
 Il a un effet protecteur (2 à 4 prises par jour).
 
-#### d. Les anti-H2 :
+#### d. Les anti-H2
 
 Cimétidine (Tagamet®), famotidine (Pepdine®), nizatidine (Nizaxid®), ranitidine (Azantac®, Raniplex®). Ils sont très efficaces pour les ulcères et les oesophagites. Malgré certains effets indésirables bien connus, comme la gynécomastie, mais rares, ils sont généralement bien tolérés à la posologie de moindre dosage (Tagamet 400®, Azantac 150®, Pepdine 20® ... ) par jour ou un comprimé le soir du dosage double.
 
-#### e. Les inhibiteurs de la pompe à protons (IPP) **:**
+#### e. Les inhibiteurs de la pompe à protons (IPP)
 
-Lanzoprazole (Lanzor®, ogast®), oméprazole (Mopral®)... Ils sont probablement plus efficaces que les anti-H2. Mais au-delà de la pression exercée par les laboratoires pharmaceutiques, et dans la réalité et le contexte de la pratique d'un dispensaire périphérique, la supériorité de tel ou tel médicament est peu probante. Que ce soit pour les sucralfates, les anti-H2 ou les IPP, ce qui compte principalement est que le _médicament soit pris régulièrement pendant un mois_, même si les douleurs sont vite soulagées (l'expliquer au patient). Le meilleur devient celui qui est le mieux toléré et le moins cher.
+Lanzoprazole (Lanzor®, ogast®), oméprazole (Mopral®)... Ils sont probablement plus efficaces que les anti-H2. Mais au-delà de la pression exercée par les laboratoires pharmaceutiques, et dans la réalité et le contexte de la pratique d'un dispensaire périphérique, la supériorité de tel ou tel médicament est peu probante. Que ce soit pour les sucralfates, les anti-H2 ou les IPP, ce qui compte principalement est que le *médicament soit pris régulièrement pendant un mois*, même si les douleurs sont vite soulagées (l'expliquer au patient). Le meilleur devient celui qui est le mieux toléré et le moins cher.
 
 #### f. Le Misoprostol : (Cytotec®)
 
@@ -208,4 +208,4 @@ Médicaments
 
 Nous serions heureux de recevoir un article indiquant la pratique et l'expérience de fibroscopie oeso-gastro-duodénale, dans le contexte des pays du Sud.
 
-_Développement et Santé, n°137, octobre 1998_
+*Développement et Santé, n°137, octobre 1998*

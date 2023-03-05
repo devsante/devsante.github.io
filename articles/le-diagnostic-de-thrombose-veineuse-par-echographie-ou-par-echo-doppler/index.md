@@ -16,13 +16,11 @@ L'exploration concerne toujours les deux membres inférieurs ; elle est conduite
 
 Pour l'étage crural et iliaque, le malade est en décubitus dorsal dans le lit ou sur la table d'examen, buste légèrement surélevé, jambes en abduction et rotation externe (position de la grenouille).
 
-Pour l'étage sural, le positionnement du malade et de l'opérateur sont essentiels et sont la condition sine qua non pour un examen performant. Le malade est placé en travers du lit, jambes hors du lit, en position déclive, pieds reposant sur les genoux de l'opérateur assis en contrebas (_Figure 1_). Ainsi les veines surales sont bien remplies, bien localisées et accessibles sous toutes les incidences.
+Pour l'étage sural, le positionnement du malade et de l'opérateur sont essentiels et sont la condition sine qua non pour un examen performant. Le malade est placé en travers du lit, jambes hors du lit, en position déclive, pieds reposant sur les genoux de l'opérateur assis en contrebas (*Figure 1*). Ainsi les veines surales sont bien remplies, bien localisées et accessibles sous toutes les incidences.
 
 Dans ces conditions, l'ED devient un outil de dépistage fiable dont la sensibilité atteint 92 % pour des thromboses distales isolées avec une reproductibilité correcte. L'ED peut alors devenir plus sensible que la phlébographie en particulier en dépistage de thromboses asymptomatiques.
 
-
 ![](i837-1.jpg)
-
 
 ### 2. Conduite de l'exploration
 
@@ -46,17 +44,15 @@ La veine cave inférieure est testée en coupe transversale au-dessus de l'ombil
 
 #### c) Etage sural
 
-Après avoir bien positionné le malade (_Figure 1),_ la sonde est placée au creux poplité en coupe transversale puis remontée de quelques centimètres, au dessus du pli poplité pour tester la jonction poplité-fémorale et la fémorale superficielle basse. La sonde est ensuite descendue doucement en coupe transversale le long du creux poplité pour tester tous les centimètres, l'axe poplité, le confluent saphèno-poplité, le confluent avec les veines jumelles, et le tronc tibio-péronier. Puis l'exploration surale est menée plan par plan _(Figure 2) :_
+Après avoir bien positionné le malade (*Figure 1),* la sonde est placée au creux poplité en coupe transversale puis remontée de quelques centimètres, au dessus du pli poplité pour tester la jonction poplité-fémorale et la fémorale superficielle basse. La sonde est ensuite descendue doucement en coupe transversale le long du creux poplité pour tester tous les centimètres, l'axe poplité, le confluent saphèno-poplité, le confluent avec les veines jumelles, et le tronc tibio-péronier. Puis l'exploration surale est menée plan par plan *(Figure 2) :*
 
-*   le plan des veines profondes collectrices, tibiales postérieures, et péronières, le plus profond, situé près des deux os de jambe
-*   le plan des veines superficielles dans le tissu cellulaire sous-cutané ou dans un dédoublement aponévrotique,
-*   et enfin le plan du triceps sural et ses nombreuses affluents musculaires, jumelles et soléaires, situés en position intermédiaire.
+- le plan des veines profondes collectrices, tibiales postérieures, et péronières, le plus profond, situé près des deux os de jambe
+- le plan des veines superficielles dans le tissu cellulaire sous-cutané ou dans un dédoublement aponévrotique,
+- et enfin le plan du triceps sural et ses nombreuses affluents musculaires, jumelles et soléaires, situés en position intermédiaire.
 
-Pour chacun des plans et pour chacun des muscles (jumeaux et soléaire), la sonde parcourt le mollet depuis le pli poplité jusqu'à la cheville. Pour l'exploration des veines péronières avec une sonde barrette, il faut choisir une incidence évitant que le relief osseux du péroné ne protège les veines péronières de la compression par la sonde, en positionnant la sonde à la face interne de jambe de façon à ce que les axes tibiaux postérieurs et péroniers soient sur une même ligne parallèlement à la sonde _(Figure 2)._
-
+Pour chacun des plans et pour chacun des muscles (jumeaux et soléaire), la sonde parcourt le mollet depuis le pli poplité jusqu'à la cheville. Pour l'exploration des veines péronières avec une sonde barrette, il faut choisir une incidence évitant que le relief osseux du péroné ne protège les veines péronières de la compression par la sonde, en positionnant la sonde à la face interne de jambe de façon à ce que les axes tibiaux postérieurs et péroniers soient sur une même ligne parallèlement à la sonde *(Figure 2).*
 
 ![](i837-2.jpg)
-
 
 ## Il. Résultats normaux
 
@@ -70,15 +66,15 @@ A l'écoute doppler, le flux veineux est comparé à un bruit de vent dans les a
 
 ### 1. Critères diagnostiques de thrombose veineuse
 
-#### Les deux critères diagnostiques principaux sont échographiques :
+#### Les deux critères diagnostiques principaux sont échographiques
 
-*   Le premier critère est l'incompressibilité veineuse sous la pression de la sonde en coupe transversale ou sous l'effet d'une contre-pression manuelle exercée à l'arrière des masses musculaires face à la sonde.  
-*   Le deuxième critère est la visualisation directe du thrombus dans la lumière veineuse. Il n'est pas toujours présent car l'échogénicité d'un thrombus est variable et parfois identique à celle du sang circulant.
+- Le premier critère est l'incompressibilité veineuse sous la pression de la sonde en coupe transversale ou sous l'effet d'une contre-pression manuelle exercée à l'arrière des masses musculaires face à la sonde.
+- Le deuxième critère est la visualisation directe du thrombus dans la lumière veineuse. Il n'est pas toujours présent car l'échogénicité d'un thrombus est variable et parfois identique à celle du sang circulant.
 
-#### Les critères secondaires sont :
+#### Les critères secondaires sont
 
-*   Une augmentation du calibre veineux,
-*   L'absence de flux doppler (pulsé ou couleur) ou la présence d'un flux coloré moulant les contours du thrombus en doppler couleur.
+- Une augmentation du calibre veineux,
+- L'absence de flux doppler (pulsé ou couleur) ou la présence d'un flux coloré moulant les contours du thrombus en doppler couleur.
 
 La présence d'échos de stase en fémorale commune, la perte de la modulation respiratoire, ou une difficulté à comprimer l'axe fémoral pourtant perméable, constituent un signe d'alerte amenant à rechercher plus attentivement un obstacle en iliaque ou cave avec retentissement hémodynamique et hypertension veineuse en amont de l'obstacle. La thrombose iliaque gauche en particulier iliaque interne est une localisation préférentielle de la jeune femme sous contraception orale ou en période péri-obstétricale, et souvent découverte à l'occasion d'un épisode embouque initial.
 
@@ -92,24 +88,20 @@ Le diagnostic de récidive sur séquelles est très difficile. Il nécessite d'a
 
 ## IV. Compte-rendu
 
-Le compte-rendu gagne à être présenté sur un schéma anatomique _(Figure 3)_ sur lequel sont reportés en noir les segments thrombosés avec le diamètre antéro-postérieur maximum du thrombus mesuré en compression (en mm). De la même façon sont reportées les séquelles de thromboses: résidus endo-luminaux et épaississements pariétaux avec leurs mensurations, reflux figurés par une flèche descendante, ou réseaux de collatéralité. Afin de ne pas surcharger le schéma cadre, les thromboses de veines soléaires sont ajoutées manuellement sur le schéma, se dirigeant selon les cas, tantôt vers les veines péronières tantôt vers les tibiales postérieures.
+Le compte-rendu gagne à être présenté sur un schéma anatomique *(Figure 3)* sur lequel sont reportés en noir les segments thrombosés avec le diamètre antéro-postérieur maximum du thrombus mesuré en compression (en mm). De la même façon sont reportées les séquelles de thromboses: résidus endo-luminaux et épaississements pariétaux avec leurs mensurations, reflux figurés par une flèche descendante, ou réseaux de collatéralité. Afin de ne pas surcharger le schéma cadre, les thromboses de veines soléaires sont ajoutées manuellement sur le schéma, se dirigeant selon les cas, tantôt vers les veines péronières tantôt vers les tibiales postérieures.
 
 Un logiciel a été récemment mis au point qui permet d'avoir un compte-rendu informatisé avec un schéma anatomique et une exploitation statistique instantanée de la base de données ainsi constituée au fil des explorations.
 
-
 ![](i837-3.jpg)
-
 
 ## V. Les atouts de l'écho-doppler
 
-L'ED permet le diagnostic de thrombose localisée aux affluents musculaires habituellement manquée par la phlébographie car le produit de contraste chemine au fil de l'eau et n'opacifie pas à contre-courant tous les affluents (_Figure 4)._ L'ED identifie les axes dédoublés et permet le diagnostic, également souvent manqué par la phlébographie, d'une thrombose limitée à un seul des 2 chenaux. En cas de suspicion d'embolie pulmonaire et en cas d'embolie pulmonaire confirmée, l'ED découvre le foyer emboligène dans respectivement 30 % et 80 % des cas, c'est-à-dire avec les mêmes fréquences que celles obtenues avec la phlébographie.
+L'ED permet le diagnostic de thrombose localisée aux affluents musculaires habituellement manquée par la phlébographie car le produit de contraste chemine au fil de l'eau et n'opacifie pas à contre-courant tous les affluents (*Figure 4).* L'ED identifie les axes dédoublés et permet le diagnostic, également souvent manqué par la phlébographie, d'une thrombose limitée à un seul des 2 chenaux. En cas de suspicion d'embolie pulmonaire et en cas d'embolie pulmonaire confirmée, l'ED découvre le foyer emboligène dans respectivement 30 % et 80 % des cas, c'est-à-dire avec les mêmes fréquences que celles obtenues avec la phlébographie.
 
 L'ED enfin peut découvrir un diagnostic différentiel ou fortuit dans 10 à 15 % des cas : rupture du muscle plantaire grêle avec épanchement dans l'espace inter-aponévrotique entre muscle jumeau interne et soléaire, rupture partielle du tendon d'Achille, désinsertion partielle du pôle inférieur du muscle jumeau interne, kyste poplité sous tension, rompu ou fissuré, anévrisme veineux, anévrisme artériel, thrombose artérielle, athéromatose, adénopathies, ascite, reflux systolique tricuspide entendu au doppler à la jonction fémoro-iliaque témoignant d'une insuffisance cardiaque droite.
 
 L'ED, bien qu'il n'ait pas acquis le statut d'examen de référence à la place de la phlébographie, est cependant désormais au premier plan dans le diagnostic et le suivi de la maladie thrombo-embolique veineuse.
 
-
 ![](i837-4.jpg)
 
-
-_Développement et Santé, n°164, avril 2003_
+*Développement et Santé, n°164, avril 2003*

@@ -9,7 +9,7 @@ Les impératifs anesthésiques sont la correction de l'anémie, le maintien de l
 
 **Cet article a été mis à jour, pour le consulter cliquer ici** <https://devsante.org/articles/anesthesie-chez-un-patient-drpanocytaire#teaser>
 
-## **I. Rappel sur la drépanocytose**
+## I. Rappel sur la drépanocytose
 
 ### 1. Physiopathologie
 
@@ -23,14 +23,12 @@ Dans la maladie drépanocytaire, l'hémoglobine S peut être associée à une au
 
 L'HbS oxygénée est aussi soluble que l'HbA, mais en situation d'hypoxie, les propriétés de stabilité et de solubilité de l'HbS sont moindres que celles de l'HbA. La falciformation est la conséquence de la formation d'agrégats d'HbS dans les globules rouges qui perdent leur propriété de déformabilité. Ces globules rouges - en forme de faux, faucille ou croissant - sont appelés hématies falciformes ou "drépanocytes". Les anomalies cliniques et biologiques sont en rapport avec 2 processus :
 
-*   La thrombose car les drépanocytes augmentent la viscosité sanguine et se bloquent dans les petits vaisseaux. Ces obstructions micro vasculaires sont à l'origine des infarctus douloureux caractérisant la crise vasoocclusive (CVO) ;
-*   L'hémolyse car les drépanocytes sont fragiles. L'anémie est constante (8+/- 1 g.dL-1) par destruction prématurée des globules rouges et le taux de réticulocytes est élevé par stimulation de l'érythropoïese chez les sujets non carencés en Fer.
+- La thrombose car les drépanocytes augmentent la viscosité sanguine et se bloquent dans les petits vaisseaux. Ces obstructions micro vasculaires sont à l'origine des infarctus douloureux caractérisant la crise vasoocclusive (CVO) ;
+- L'hémolyse car les drépanocytes sont fragiles. L'anémie est constante (8+/- 1 g.dL-1) par destruction prématurée des globules rouges et le taux de réticulocytes est élevé par stimulation de l'érythropoïese chez les sujets non carencés en Fer.
 
-La falciformation se produit chez les drépanocytaires homozygotes quand la pression artérielle en oxygène (Pa0<sup>2</sup>) est inférieure à 45 mmHg et chez les hétérozygotes quand la Pa02 est inférieure à 25 mmHg. L'hypercapnie, l'acidose et la chaleur déplacent la courbe de dissociation de l'hémoglobine _(Figure 1)_ vers la droite, c'est-à-dire que l'oxygène se fixe moins sur l'hémoglobine et que le taux d'hémoglobine non oxygéné est augmenté pour un même niveau de PaO<sup>2</sup>.
-
+La falciformation se produit chez les drépanocytaires homozygotes quand la pression artérielle en oxygène (Pa0<sup>2</sup>) est inférieure à 45 mmHg et chez les hétérozygotes quand la Pa02 est inférieure à 25 mmHg. L'hypercapnie, l'acidose et la chaleur déplacent la courbe de dissociation de l'hémoglobine *(Figure 1)* vers la droite, c'est-à-dire que l'oxygène se fixe moins sur l'hémoglobine et que le taux d'hémoglobine non oxygéné est augmenté pour un même niveau de PaO<sup>2</sup>.
 
 ![](i1027-1.jpg)
-  
 
 ### 2. Tableau clinique
 
@@ -42,10 +40,10 @@ Les patients drépanocytaires hétérozygotes sont asymptomatiques et ne présen
 
 Il repose sur l'interrogatoire à la recherche d'antécédents personnels et familiaux complété par des examens biologiques.
 
-*   **Hémogramme** : le taux moyen d'hémoglobine est généralement compris entre 7 et 9 g.dL-1 chez les drépanocytaires homozygotes. Il est normal chez l'hétérozygote. La valeur de l'hémoglobine de base d'un sujet drépanocytaire doit être connue lors de sa prise en charge.  
-*   **Examen du frottis sanguin** : ce test simple peut être réalisé dans tout laboratoire. Il est très évocateur dans les formes homozygotes, décelant la présence d'hématies falciformes.  
-*   **Test d'Emmel** : son principe est la formation d'hématies falciformes provoquée par la privation d'O<sup>2</sup>. Il ne permet pas de différencier les sujets homozygotes et hétérozygotes.  
-*   **Electrophorèse de l'hémoglobine** : la différence de charge électrique entre les hémoglobines permet leur différenciation. Le diagnostic de la drépanocytose repose sur la mise en évidence de l'HbS. L'électrophorèse affirme avec certitude le diagnostic de la forme homozygote ou hétérozygote.
+- **Hémogramme** : le taux moyen d'hémoglobine est généralement compris entre 7 et 9 g.dL-1 chez les drépanocytaires homozygotes. Il est normal chez l'hétérozygote. La valeur de l'hémoglobine de base d'un sujet drépanocytaire doit être connue lors de sa prise en charge.
+- **Examen du frottis sanguin** : ce test simple peut être réalisé dans tout laboratoire. Il est très évocateur dans les formes homozygotes, décelant la présence d'hématies falciformes.
+- **Test d'Emmel** : son principe est la formation d'hématies falciformes provoquée par la privation d'O<sup>2</sup>. Il ne permet pas de différencier les sujets homozygotes et hétérozygotes.
+- **Electrophorèse de l'hémoglobine** : la différence de charge électrique entre les hémoglobines permet leur différenciation. Le diagnostic de la drépanocytose repose sur la mise en évidence de l'HbS. L'électrophorèse affirme avec certitude le diagnostic de la forme homozygote ou hétérozygote.
 
 #### b) Complications
 
@@ -75,8 +73,8 @@ La transfusion préopératoire est l'élément principal de la préparation à l
 
 **L'échange transfusionnel** permet de diminuer le taux d'HbS, sans augmenter l'hématocrite et la viscosité du sang déjà supérieure à la normale chez les drépanocytaires. Il est indiqué si le taux d'hémoglobine est supérieur ou égal à 9g/dl ou quelque soit le taux d'hémoglobine pour ramener rapidement un taux d'HbS au taux d'HbS résiduel souhaité (40 à 25 %). La technique nécessite deux voies d'abord veineuses : l'une pour la saignée, l'autre pour les apports (solutés, sang). Les volumes sanguins échangés dépendent du taux d'HbS résiduel souhaité.
 
-*   Un échange transfusionnel ramenant le taux d'HbS en dessous de 40 %, est effectué dans les interventions de chirurgie orthopédiques, viscérales ou ORL, chez le drépanocytaire en bonne santé et indemne d'insuffisance organique notable.  
-*   Un échange transfusionnel ramenant l'HbS à moins de 25 %, est effectué en chirurgie d'urgence ou de longue durée, en chirurgie cardiothoracique, en neurochirurgie, en ophtalmologie, pour les explorations endovasculaires et pour les interventions orthopédique avec garrot. Ce programme agressif est également impératif en cas de complications liées à l'évolution de la maladie : AVC, insuffisance organique grave, état général altéré, infection récente ou complication vasoocclusive en cours.
+- Un échange transfusionnel ramenant le taux d'HbS en dessous de 40 %, est effectué dans les interventions de chirurgie orthopédiques, viscérales ou ORL, chez le drépanocytaire en bonne santé et indemne d'insuffisance organique notable.
+- Un échange transfusionnel ramenant l'HbS à moins de 25 %, est effectué en chirurgie d'urgence ou de longue durée, en chirurgie cardiothoracique, en neurochirurgie, en ophtalmologie, pour les explorations endovasculaires et pour les interventions orthopédique avec garrot. Ce programme agressif est également impératif en cas de complications liées à l'évolution de la maladie : AVC, insuffisance organique grave, état général altéré, infection récente ou complication vasoocclusive en cours.
 
 **Les modalités transfusion nelles nécessitent une grande rigueur**. Avant toute transfusion, il est indispensable de vérifier que les documents transfusionnels soient à jour. Les malades doivent être phénotypés et transfusés avec des concentres érythrocytaires déleucocytés compatibilisés au minimum dans les systèmes ABO, Rhésus et Kell. La recherche d'agglutinines irrégulières (RAI) doit être faite systématiquement avant et après toute transfusion. La surveillance sérologique (VIH, VHC) doit être régulière et les patients doivent être immunisés contre le virus de l'hépatite B. La transfusion sanguine comporte des risques de transmission virale, de surcharge hépatique en fer (hémosidérose) et d'allo immunisation anti-érythrocytaire. Elle est responsable d'une morbidité importante.
 
@@ -96,8 +94,8 @@ Deux médicaments sont utilises en cas de crises répétées invalidantes : la d
 
 La prise en charge thérapeutique des complications est standardisée. Les bases du traitement repose sur :
 
-*   L'hydratation pratiquée par voie intraveineuse par du glucosé isotonique avec un apport hydro-sodé (30 à 50 mL/kg/j) ou du ringer lactate.  
-*   L'oxygénothérapie dont l'objectif est de maintenir une saturation en oxygène supérieure à 95 %.
+- L'hydratation pratiquée par voie intraveineuse par du glucosé isotonique avec un apport hydro-sodé (30 à 50 mL/kg/j) ou du ringer lactate.
+- L'oxygénothérapie dont l'objectif est de maintenir une saturation en oxygène supérieure à 95 %.
 
 La thérapeutique transfusionnelle dépend du type de complication. En cas de crise anémique une transfusion simple est réalisée. Un échange transfusionnel peut-être prescrit en urgence devant l'extension d'un processus occlusif : AVC ischémique ou hémorragique, occlusions rétiniennes, tableau de défaillance multi viscérale.
 
@@ -117,12 +115,10 @@ Elle doit éviter les points de compression. L'utilisation du garrot pneumatique
 
 #### b) Monitorage
 
-*   **Le monitorage de base** comprend un scope, un tensiomètre, un oxymétrie de pouls, un capnographe. Un monitorage complémentaire en fonction du terrain et de la chirurgie associe la surveillance de la température, la pose d'une sonde urinaire et d'un KT radial, un monitorage de la curarisation.  
-*   **L'oxymétrie de pouls** (_figure 2_) permet la mesure de la saturation percutanée en oxygène (SpO<sup>2</sup>) par un capteur placé en regard d'un lit vasculaire pulsatile (doigts, oreille, nez...) et l'évaluation indirecte de la saturation artérielle en oxygène (SaO<sup>2</sup>). La SpO<sup>2</sup>) ne donne une information sur les variations de la PaOZ que lorsque celle-ci passe en dessous de 70-80 mmHg. La SpO<sup>2</sup> doit se situer entre 90 et 100 % pour assurer une PaO<sup>2</sup>>60 mmHg. En pratique, la limite inférieure de SpO<sup>2</sup>) doit se situer à 96 %
-
+- **Le monitorage de base** comprend un scope, un tensiomètre, un oxymétrie de pouls, un capnographe. Un monitorage complémentaire en fonction du terrain et de la chirurgie associe la surveillance de la température, la pose d'une sonde urinaire et d'un KT radial, un monitorage de la curarisation.
+- **L'oxymétrie de pouls** (*figure 2*) permet la mesure de la saturation percutanée en oxygène (SpO<sup>2</sup>) par un capteur placé en regard d'un lit vasculaire pulsatile (doigts, oreille, nez...) et l'évaluation indirecte de la saturation artérielle en oxygène (SaO<sup>2</sup>). La SpO<sup>2</sup>) ne donne une information sur les variations de la PaOZ que lorsque celle-ci passe en dessous de 70-80 mmHg. La SpO<sup>2</sup> doit se situer entre 90 et 100 % pour assurer une PaO<sup>2</sup>>60 mmHg. En pratique, la limite inférieure de SpO<sup>2</sup>) doit se situer à 96 %
 
 ![](i1027-2.jpg)
-
 
 ### 2. Anesthésie générale
 
@@ -202,4 +198,4 @@ L'incidence de la césarienne chez la femme enceinte drépanocytaire est élevé
 
 Les mêmes précautions anesthésiques que pour tout drépanocytaire sont à respecter L'anesthésie locorégionale (rachianesthésie ou péridurale) est très recommandée. En per opératoire il faut une surveillance rigoureuse de la volémie et de l'oxygénation de la patiente. En post-partum, il faut assurer l'hydratation, l'oxygénation, le réchauffement de la patiente, et une analgésie efficace par la morphine. L'antibiothérapie et la prophylaxie thromboembolique sont systématiques après toute césarienne chez la patiente drépanocytaire.
 
-_Développement et Santé, n°182, 2006_
+*Développement et Santé, n°182, 2006*

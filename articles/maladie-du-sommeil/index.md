@@ -22,19 +22,21 @@ Depuis 1988, notre équipe a conduit plusieurs études sur le sommeil dans la TH
 
 Les études du sommeil dans la THA sont récentes. Au XIX" siècle, les praticiens avaient remarqué qu'un patient souffrant de maladie du sommeil "dormait souvent, mais peu de temps à la fois, aussi bien la nuit que le jour, de sorte que la durée totale de son sommeil ne dépassait pas le chiffre moyen des individus bien portants" (Makensie en 1890). Les patients sont somnolents le jour et agités la nuit. Les "attaques de sommeil" sont invincibles, se manifestant de manière brusque, comme dans les narcolepsies.
 
-Depuis 1988, notre équipe a pratiqué plus de 140 enregistrements de 24 heures du sommeil par polysomnographie (PSG), qui comporte au minimum le recueil de l'électroencéphalogramme, de l'électromyogramme des muscles du menton et de l'électrooculogramme. La PSG est la seule technique capable de différencier avec certitude les états de vigilance et sommeil. Ceux-ci sont représentés par l'éveil, le sommeil orthodoxe et le sommeil paradoxal _(Rapid Eye Movement Sleep, REM sleep_ des Anglo-Saxons). Chez les sujets sains, le sommeil est essentiellement nocturne, le sommeil paradoxal survient toujours après une latence de 60 à 90 minutes et est donc consécutif aux différents stades de sommeil orthodoxe.
+Depuis 1988, notre équipe a pratiqué plus de 140 enregistrements de 24 heures du sommeil par polysomnographie (PSG), qui comporte au minimum le recueil de l'électroencéphalogramme, de l'électromyogramme des muscles du menton et de l'électrooculogramme. La PSG est la seule technique capable de différencier avec certitude les états de vigilance et sommeil. Ceux-ci sont représentés par l'éveil, le sommeil orthodoxe et le sommeil paradoxal *(Rapid Eye Movement Sleep, REM sleep* des Anglo-Saxons). Chez les sujets sains, le sommeil est essentiellement nocturne, le sommeil paradoxal survient toujours après une latence de 60 à 90 minutes et est donc consécutif aux différents stades de sommeil orthodoxe.
 
-C'est grâce à l'utilisation de la PSG pendant 24 heures consécutives que nous avons pu préciser le trouble de la distribution de la veille et du sommeil au cours de la THA. Les patients atteints de THA au stade de méningo-encéphalite présentent ce que nous pouvons appeler le syndrome du cycle veille-sommeil _(Figure_ 1) qui est constitué par deux signes majeurs
+C'est grâce à l'utilisation de la PSG pendant 24 heures consécutives que nous avons pu préciser le trouble de la distribution de la veille et du sommeil au cours de la THA. Les patients atteints de THA au stade de méningo-encéphalite présentent ce que nous pouvons appeler le syndrome du cycle veille-sommeil *(Figure* 1) qui est constitué par deux signes majeurs
 
-*   Le dérèglement du cycle veille-sommeil sur 24 heures. Le sommeil devient de plus en plus polyphasique avec des épisodes de sommeil de plus en plus courts survenant à n'importe quel moment du jour et de la nuit.  
-*   L'atteinte de la structure interne du sommeil. Le sommeil paradoxal précède souvent les épisodes de sommeil vrai (SOREM : Sleep Onset REM periods), d'autant plus fréquemment que l'atteinte est sévère, il est le premier à apparaître, le sommeil orthodoxe survenant après.
+- Le dérèglement du cycle veille-sommeil sur 24 heures. Le sommeil devient de plus en plus polyphasique avec des épisodes de sommeil de plus en plus courts survenant à n'importe quel moment du jour et de la nuit.
+- L'atteinte de la structure interne du sommeil. Le sommeil paradoxal précède souvent les épisodes de sommeil vrai (SOREM : Sleep Onset REM periods), d'autant plus fréquemment que l'atteinte est sévère, il est le premier à apparaître, le sommeil orthodoxe survenant après.
 
-## II. Les effets du traitement sur  
+## II. Les effets du traitement sur
+
 le syndrome du cycle veille-sommeil
 
-Lors de deux investigations conduites à Brazzaville et à Luanda chez des patients au stade méningo-encéphalitique, des enregistrements PSG ont été pratiqués avant et après traitement. A Brazzaville, 10 patients ont été enregistrés avant et après traitement par trois cures successives de mélarsoprol. A Luanda, 4 patients ont été enregistrés 48 heures d'affilée avant traitement par le mélarsoprol et un mois après une cure de 3 jours. Dans les deux investigations, l'atteinte du cycle veille-sommeil s'est améliorée et les SOREM ont diminué voire disparu _chez_ les patients les moins atteints. Chez les patients les plus atteints, la normalisation est progressive mais beaucoup plus longue. Ainsi, chez deux européens ayant contracté une THA à _T._ _b. rhodesiense,_ la normalisation n'a été effective que 6 à 11 mois après le traitement.
+Lors de deux investigations conduites à Brazzaville et à Luanda chez des patients au stade méningo-encéphalitique, des enregistrements PSG ont été pratiqués avant et après traitement. A Brazzaville, 10 patients ont été enregistrés avant et après traitement par trois cures successives de mélarsoprol. A Luanda, 4 patients ont été enregistrés 48 heures d'affilée avant traitement par le mélarsoprol et un mois après une cure de 3 jours. Dans les deux investigations, l'atteinte du cycle veille-sommeil s'est améliorée et les SOREM ont diminué voire disparu *chez* les patients les moins atteints. Chez les patients les plus atteints, la normalisation est progressive mais beaucoup plus longue. Ainsi, chez deux européens ayant contracté une THA à *T.* *b. rhodesiense,* la normalisation n'a été effective que 6 à 11 mois après le traitement.
 
-## III. Utilisation diagnostique du syndrome  
+## III. Utilisation diagnostique du syndrome
+
 du cycle veille-sommeil
 
 Une première étude a porté sur un enregistrement PSG ambulatoire de 48 heures chez 8 patients, dont 3 en phase lymphatico-sanguine, un intermédiaire et quatre en phase méningo encépalitique. La seconde investigation a porté sur 32 patients et 15 sujets sains enregistrés lors d'une campagne mobile de dépistage actif dans la Province du Cuenza Norte en Angola.
@@ -47,9 +49,7 @@ Il semble donc bien que les SOREM puissent représenter un marqueur précoce de 
 
 ou de stade I (absence de syndrome du cycle veille-sommeil) a été posé. Il apparaît que le diagnostic de stade I porté par l'examen bioclinique n'est corroboré par l'examen PSG que dans 40 % des cas.
 
-
 ![](i985-1.jpg)
-
 
 ## IV. Conclusion
 
@@ -68,4 +68,4 @@ Buguet A, Bourdon L, Bisser S, Chapotot F, Radomski MW, Dumas M. La maladie du s
 
 Darsaud A, Bourdon L, Mercier S, Chapotot F, Bouteille B, Cespuglio R, Buguet A. Twenty-four hour disruption of the sleepwake cycle and Sleep-onset REM-like episodes in a rat model of African trypanosomiasis. Sleep, 2004, 27: 42-46.
 
-_Développement et Santé, n°171, juin 2004_
+*Développement et Santé, n°171, juin 2004*

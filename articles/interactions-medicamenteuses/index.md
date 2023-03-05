@@ -8,11 +8,11 @@ date: "1990-10-01"
 
 Pour éviter ce type d'accident thérapeutique, tout prescripteur devra s'efforcer d'éviter les associations de médicaments (trois devant être le maximum).
 
-## I. Schématiquement, on oppose :
+## I. Schématiquement, on oppose
 
-*   les **interactions médicamenteuses propres** survenant dans l'organisme sous l'effet des enzymes : elles sont complexes et mal connues,
+- les **interactions médicamenteuses propres** survenant dans l'organisme sous l'effet des enzymes : elles sont complexes et mal connues,
 
-*   aux **incompatibilités** qui peuvent se produire avec des produits injectables : lire entièrement les recommandations du fabricant.
+- aux **incompatibilités** qui peuvent se produire avec des produits injectables : lire entièrement les recommandations du fabricant.
 
 Les interactions médicamenteuses ne sont pas toujours nuisibles pour le malade: on utilise ainsi les **synergies.**
 
@@ -20,19 +20,19 @@ Les interactions médicamenteuses ne sont pas toujours nuisibles pour le malade:
 
 Pour détruire une bactérie, il sera utile quelquefois d'utiliser deux antibiotiques attaquant à un niveau différent le germe à détruire.
 
-### Exemples :
+### Exemples
 
-*   Pénicilline-aminoside : la pénicilline agit sur la membrane bactérienne: elle facilite la pénétration de l'aminoside (gentamycine) qui agit au centre de la bactérie. L'aminoside sera donc beaucoup plus efficace s'il est associé à la pénicilline.  
-*   Le sulfaméthoxazole et le triméthoprime sont de médiocres antibactériens bactériostatiques. Associés, ils constituent le un puissant sulfamide bactéricide (les deux substances bloquent la synthèse de l'acide folique à deux niveaux : or l'acide folique est indispensable à la croissance des bactéries).  
-*   L'association amoxicilline-acide clavulanique constitue l'exemple le plus démonstratif d'association bénéfique : cet antibiotique est certainement le plus utile dans de nombreuses infections bactériennes chez l'enfant.
+- Pénicilline-aminoside : la pénicilline agit sur la membrane bactérienne: elle facilite la pénétration de l'aminoside (gentamycine) qui agit au centre de la bactérie. L'aminoside sera donc beaucoup plus efficace s'il est associé à la pénicilline.
+- Le sulfaméthoxazole et le triméthoprime sont de médiocres antibactériens bactériostatiques. Associés, ils constituent le un puissant sulfamide bactéricide (les deux substances bloquent la synthèse de l'acide folique à deux niveaux : or l'acide folique est indispensable à la croissance des bactéries).
+- L'association amoxicilline-acide clavulanique constitue l'exemple le plus démonstratif d'association bénéfique : cet antibiotique est certainement le plus utile dans de nombreuses infections bactériennes chez l'enfant.
 
 Ailleurs, la potentialisation de l'effet thérapeutique peut avoir des conséquences graves :
 
-*   L'action anticoagulante des antivitamine K peut être augmentée par de nombreux médicaments : aspirine, anti-inflammatoires non stéroïdiens ; à l'inverse, des aliments riches en vitamine K peuvent en diminuer les effets (choux, tomates, épinards).  
-*   De nombreux médicaments provoquent une diminution de la vigilance : l'utilisation de tranquillisants (dériv"s le plus souvent des benzodiazépines), de plus en plus répandue, provoque cet effet, ce qui aboutit à de fréquents accidents de circulation.  
-*   L'action des antidiabétiques oraux (le diabète est de plus en plus fréquent en Afrique) est facilement perturbée par les inducteurs enzymatiques, tels que la rifampicine.
+- L'action anticoagulante des antivitamine K peut être augmentée par de nombreux médicaments : aspirine, anti-inflammatoires non stéroïdiens ; à l'inverse, des aliments riches en vitamine K peuvent en diminuer les effets (choux, tomates, épinards).
+- De nombreux médicaments provoquent une diminution de la vigilance : l'utilisation de tranquillisants (dériv"s le plus souvent des benzodiazépines), de plus en plus répandue, provoque cet effet, ce qui aboutit à de fréquents accidents de circulation.
+- L'action des antidiabétiques oraux (le diabète est de plus en plus fréquent en Afrique) est facilement perturbée par les inducteurs enzymatiques, tels que la rifampicine.
 
-### **2. Antagonismes**
+### 2. Antagonismes
 
 A l'opposé, un médicament peut s'opposer à l'action d'un autre. La tétracycline freine la multiplication des bactéries : la pénicilline agit sur la synthèse bactérienne quand elles se multiplient: l'association pénicilline-tétracycline est donc illogique puisqu'un antibiotique gêne l'action de l'autre.
 
@@ -40,15 +40,15 @@ A l'opposé, un médicament peut s'opposer à l'action d'un autre. La tétracycl
 
 Un médicament peut agir sur :
 
-*   l'absorption intestinale,
+- l'absorption intestinale,
 
-*   la modification par des enzymes (hépatiques par exemple),
+- la modification par des enzymes (hépatiques par exemple),
 
-*   la répartition dans l'organisme,
+- la répartition dans l'organisme,
 
-*   l'élimination urinaire ou intestinale.
+- l'élimination urinaire ou intestinale.
 
-### 1. Modification de l'absorption **intestinale**
+### 1. Modification de l'absorption intestinale
 
 #### a) Les pansements gastriques
 
@@ -166,19 +166,20 @@ Antivitamine K + chloramphénicol</th>
 
 </table>
 
-### **2. Activation enzymatique**
+### 2. Activation enzymatique
 
 Deux médicaments, très utilisés activent certaines enzymes du foie et peuvent faire chuter les taux sériques d'un médicament donné (qui devient alors inefficace). Ce sont surtout :
 
-*   le **phénobarbital**, médicament de base de l'épilepsie,
+- le **phénobarbital**, médicament de base de l'épilepsie,
 
-*   la **rifamycine,** antituberculeux majeur.
+- la **rifamycine,** antituberculeux majeur.
 
 Le phénobarbital peut ainsi diminuer les taux d'antivitamine K (anticoagulants).  
 La rifampicine peut rendre inefficace la pilule contraceptive (oestroprogestatifs) et être responsable de grossesses non désirées.
 
-### **3. Modification de répartition** **dans l'organisme :  
-notion de** **liaison protéique**
+### 3. Modification de répartition dans l'organisme
+
+notion de\*\* **liaison protéique**
 
 De nombreux médicaments se fixent dans le sérum aux protéines et en particulier à l'albumine.
 
@@ -204,8 +205,8 @@ Chez le nouveau-né par exemple, les enzymes hépatiques sont à 25 % des taux a
 
 ## Conclusion
 
-*   En prescrivant un médicament, il est possible de savoir l'effet attendu.  
-*   En en prescrivant deux, les incidents et accidents ne sont pas rares.  
-*   Avec trois, quatre, cinq médicaments, vous devenez franchement dangereux !
+- En prescrivant un médicament, il est possible de savoir l'effet attendu.
+- En en prescrivant deux, les incidents et accidents ne sont pas rares.
+- Avec trois, quatre, cinq médicaments, vous devenez franchement dangereux !
 
-_Développement et Santé, n°89, octobre 1990_
+*Développement et Santé, n°89, octobre 1990*

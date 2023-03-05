@@ -10,11 +10,11 @@ Le Samu Social Sénégal a été créé à Dakar le 1er mai 2003, selon les mét
 
 On peut les distinguer en 5 grandes catégories, définies principalement par leurs modes de vie dans la rue :
 
-*   les Fakhmans (qui sont en rupture avec leur famille pour diverses raisons),
-*   les enfants mendiants et les talibés (élèves des écoles coraniques),
-*   les enfants accompagnés,
-*   les jeunes travailleurs,
-*   les jeunes filles.
+- les Fakhmans (qui sont en rupture avec leur famille pour diverses raisons),
+- les enfants mendiants et les talibés (élèves des écoles coraniques),
+- les enfants accompagnés,
+- les jeunes travailleurs,
+- les jeunes filles.
 
 II est difficile de trouver, dans la littérature, des données épidémiologiques et médicales sur les enfants de la rue et leurs pathologies.
 
@@ -28,9 +28,7 @@ Le Samu Social Sénégal dispose dans ce domaine d'une base de données importan
 
 La grande majorité des enfants accompagnés de leur mère dont s'occupe le Samu Social Sénégal est âgée de moins de 5 ans (71 %). Après 15 ans, la plupart restent toujours dans la rue mais se retrou­vent dans une nouvelle catégorie, celle des Fakh­mans, tant ils auront appris à y vivre.
 
-
 ![](image002.jpg)
-
 
 **Figure 1 : répartition selon l'âge des enfants accompagnés**
 
@@ -208,7 +206,7 @@ Talibés fugueurs
 
 <td valign="top">
 
--
+\-
 
 </td>
 
@@ -256,9 +254,7 @@ Ils ont quitté l'école coranique généralement en raison d'une maltraitance. 
 
 #### e) Les jeunes travailleurs
 
-**
-![](image004.jpg)
-**
+**![](image004.jpg)**
 
 **Figure 2 : répartition des jeunes travailleurs selon l'âge**
 
@@ -323,13 +319,11 @@ Ces plaies et traumatismes portent dans 90 % des cas sur les membres ou la tête
 
 A ces plaies peuvent s'ajouter les dermatoses chroniques (surtout la gale qui concerne au moins une fois la quasi-totalité des Fakhmans), souvent surinfectées.
 
-Une désinfection à la povidone iodée avant l'appli­cation de benzoate de benzyle et un suivi quotidien ont permis une forte réduction des cas de plaies surinfectées, sans avoir recours à une utilisation abusive d'antibiotiques _(Figure 3)._ En seconde position arrivent les pathologies pulmonaires et ORL, dominées par les broncho­pneumopathies chroniques. L'utilisation abusive de diluant cellulosique en inhalation est probablernent responsable d'une atteinte de l'arbre respiratoire et d'une sensibilité aux infections pulmonaires. A cela s'ajoute la pollution de l'environnement (trafic urbain, incinération sauvage des ordures, saleté des lieux où vivent les Fakhmans). Paradoxalement, les pneumopathies allergiques sont très rares, malgré l'exposition à des allergènes de toute nature. Les membres des Equipes Mobiles d'Aides (EMA) sont plus sensibles à ces réactions allergiques que les enfants qui vivent dans la pous­sière.
+Une désinfection à la povidone iodée avant l'appli­cation de benzoate de benzyle et un suivi quotidien ont permis une forte réduction des cas de plaies surinfectées, sans avoir recours à une utilisation abusive d'antibiotiques *(Figure 3).* En seconde position arrivent les pathologies pulmonaires et ORL, dominées par les broncho­pneumopathies chroniques. L'utilisation abusive de diluant cellulosique en inhalation est probablernent responsable d'une atteinte de l'arbre respiratoire et d'une sensibilité aux infections pulmonaires. A cela s'ajoute la pollution de l'environnement (trafic urbain, incinération sauvage des ordures, saleté des lieux où vivent les Fakhmans). Paradoxalement, les pneumopathies allergiques sont très rares, malgré l'exposition à des allergènes de toute nature. Les membres des Equipes Mobiles d'Aides (EMA) sont plus sensibles à ces réactions allergiques que les enfants qui vivent dans la pous­sière.
 
 De même, aucun Fakhman n'a été atteint de choléra durant les épidémies que le Sénégal a vécues ces dernières années ! Du fait de la mauvaise hygiène vestimentaire, alimentaire et comportementale des enfants de la rue, ils auraient dû être les premiers atteints par cette maladie.
 
-
 ![](image006.jpg)
-
 
 **Figure 3 : évolution des plaies surinfectées avec un suivi quotidien**
 
@@ -339,8 +333,8 @@ La tuberculose constitue un problème difficile, probablement sous-estimé. Les 
 
 Parmi ces 16 personnes :
 
-*   cinq ont refusé de se traiter (déni de la maladie),
-*   les 11 autres ont débuté leur traitement : neuf l'ont mené à terme et sont déclarés complètement guéris, deux ne l'ont pas terminé et l'un d'eux est décédé dans la rue.
+- cinq ont refusé de se traiter (déni de la maladie),
+- les 11 autres ont débuté leur traitement : neuf l'ont mené à terme et sont déclarés complètement guéris, deux ne l'ont pas terminé et l'un d'eux est décédé dans la rue.
 
 Actuellement, une jeune fille a enfin accepté de débuter son traitement alors que le diagnostic avait été fait il y a plus de 8 mois ! Elle avait refusé de reconnaître sa maladie et avait préféré retourner dans la rue. La vue d'une de ses amies victime d'une hémoptysie l'a alarmée et l'a décidée à venir au Samu Social pour prendre son traitement. Le paludisme constitue le premier motif d'hospitali­sation au centre chez les enfants de la rue, toutes catégories confondues. Le traitement rapide et efficace à base de quinine est proposé pour rédui­re la non-observance, ces enfants retournant dans la rue dès les premiers signes d'amélioration.
 
@@ -586,4 +580,4 @@ La répartition des pathologies chez les talibés fugueurs est comparable à cel
 
 On voit l'importance des problèmes médicaux chez l'enfant des rues à Dakar. Mais qu'en est-il du versant social ? Quelles solutions sont proposées pour y remédier ?
 
-_Développement et Santé, n°194, 2009_
+*Développement et Santé, n°194, 2009*

@@ -4,13 +4,13 @@ author: "0. Stanis Wembonyama*, Albert Mutangala"
 date: "1998-04-15"
 ---
 
-**Essai d'élaboration de la liste de médicaments essentiels dans un centre de santé au Katanga* : cas de l'entreprise minière Gécamine**
+**Essai d'élaboration de la liste de médicaments essentiels dans un centre de santé au Katanga* : cas de l'entreprise minière Gécamine*\*
 
-* **République Démocratique du Congo**
+- **République Démocratique du Congo**
 
-**par 0. Stanis Wembonyama*, Albert Mutangala**
+**par 0. Stanis Wembonyama*, Albert Mutangala*\*
 
-* Professeur de pédiatrie, Université de Mbujimayi, Directeur du Centre de L'Enfant Africain.
+- Professeur de pédiatrie, Université de Mbujimayi, Directeur du Centre de L'Enfant Africain.
 
 Dans la déclaration d'Alma-Ata de septembre 1978 sur les soins de santé primaires (SSP), le point 3 du chapitre VII indique clairement que les médicaments essentiels constituent la 8<sup>è</sup> composante des SSP, car ils sont un outil précieux pour l'exécution des autres composantes, notamment la vaccination contre les grandes maladies infectieuses (5<sup>è</sup> composante), la prévention et le contrôle des endémies locales (6<sup>è</sup> composante) et le traitement des maladies et des lésions courantes (7<sup>è</sup> composante).
 
@@ -42,7 +42,7 @@ Une liste de médicaments essentiels est une liste de médicaments nécessaires 
 
 Deux niveaux de sélection sont proposés. Le premier concerne les médicaments essentiels en général et le deuxième est de choisir les médicaments qu'il faut dans un groupe de médicaments choisis.
 
-*   Pour le **premier niveau,** les critères importants dont il faut tenir compte dans la sélection sont :
+- Pour le **premier niveau,** les critères importants dont il faut tenir compte dans la sélection sont :
 
 **Pathologie du pays**
 
@@ -82,7 +82,7 @@ Certains pays possèdent de petites usines de conditionnement de médicaments do
 
 Les médicaments essentiels devant être utilisés dans les centres de santé doivent être de manipulation et de prescription faciles.
 
-*   Pour le **deuxième niveau,** les différentes caractéristiques ci-dessous sont requises pour sélectionner les médicaments qu'il faut dans le groupe choisi :
+- Pour le **deuxième niveau,** les différentes caractéristiques ci-dessous sont requises pour sélectionner les médicaments qu'il faut dans le groupe choisi :
 
 **Efficacité**
 
@@ -122,27 +122,27 @@ En d'autres termes, on achètera d'abord les médicaments vitaux, ensuite les m�
 
 Les avantages qu'offre une liste standard de médicaments sont nombreux, nous pouvons citer :
 
-*   le choix des médicaments étant effectué en fonction du rapport entre leur coût et leur efficacité, l'argent dépensé pour l'achat des médicaments a un impact maximum sur la santé des populations,
-*   la liste standard évite le double emploi au sein d'une même classe thérapeutique,
-*   l'usage d'un schéma thérapeutique standard recommandé et encouragé pour chaque maladie est facilité,
-*   le nombre de produits à gérer est limité. Par conséquent, la date de péremption est respectée, les dangers de rupture de stock sont minimisés et le contrôle des médicaments utilisés et en stock est facilité.
+- le choix des médicaments étant effectué en fonction du rapport entre leur coût et leur efficacité, l'argent dépensé pour l'achat des médicaments a un impact maximum sur la santé des populations,
+- la liste standard évite le double emploi au sein d'une même classe thérapeutique,
+- l'usage d'un schéma thérapeutique standard recommandé et encouragé pour chaque maladie est facilité,
+- le nombre de produits à gérer est limité. Par conséquent, la date de péremption est respectée, les dangers de rupture de stock sont minimisés et le contrôle des médicaments utilisés et en stock est facilité.
 
 **III. Conditions** **d élaboration de notre liste**
 
 Les conditions suivantes ont été respectées pour l'élaboration d'une liste standard de médicaments essentiels :
 
-*   la liste a été faite avec la collaboration des praticiens et des consommateurs afin qu'ils comprennent le bien-fondé de leurs choix,
-*   la liste a été élaborée sur base de critères objectifs et non en fonction d'intérêts personnels,
-*   la liste tient compte des possibilités de références vers d'autres hôpitaux de la société situés le plus souvent à moins de trois kilomètres.
+- la liste a été faite avec la collaboration des praticiens et des consommateurs afin qu'ils comprennent le bien-fondé de leurs choix,
+- la liste a été élaborée sur base de critères objectifs et non en fonction d'intérêts personnels,
+- la liste tient compte des possibilités de références vers d'autres hôpitaux de la société situés le plus souvent à moins de trois kilomètres.
 
 **IV. Etapes pour élaborer la liste de médicaments essentiels**
 
-Les étapes suivantes ont été suivies par les participants dans l'élaboration de la liste _(tableau n° 1) :_
+Les étapes suivantes ont été suivies par les participants dans l'élaboration de la liste *(tableau n° 1) :*
 
-*   l'identification des maladies et des problèmes de santé les plus courants et les plus importants de la population,
-*   la détermination des médicaments disponibles localement et utiles pour ces maladies,
-*   l'adoption des critères de sélection définis ci-dessus,
-*   le recueil des données sur l'efficacité, la commodité, la toxicité et surtout la comparaison entre ces différents produits.
+- l'identification des maladies et des problèmes de santé les plus courants et les plus importants de la population,
+- la détermination des médicaments disponibles localement et utiles pour ces maladies,
+- l'adoption des critères de sélection définis ci-dessus,
+- le recueil des données sur l'efficacité, la commodité, la toxicité et surtout la comparaison entre ces différents produits.
 
 **V. Comment identifier les maladies les plus fréquentes et les plus graves**
 
@@ -150,19 +150,15 @@ L'identification se fait à deux niveaux :
 
 **1. L'analyse des maladies**
 
-Il est indispensable de répertorier les maladies dominantes en indiquant les expressions des villageois et celles des enquêteurs, ce qui permet de confronter les analyses des situations faites par les villageois et les enquêteurs, et de tenir compte des besoins ressentis par les populations et de leur perception des problèmes _(tableau n° 1)._
-
+Il est indispensable de répertorier les maladies dominantes en indiquant les expressions des villageois et celles des enquêteurs, ce qui permet de confronter les analyses des situations faites par les villageois et les enquêteurs, et de tenir compte des besoins ressentis par les populations et de leur perception des problèmes *(tableau n° 1).*
 
 ![](i781-1.jpg)
 
-
 **2. La hiérarchisation des maladies**
 
-Toutes les maladies n'ayant pas la même importance suivant le milieu étudié, il importe de déterminer les critères qui permettront de considérer comme prioritaire une maladie par rapport à une autre. Quatre critères permettent généralement de classer par ordre d'importance les maladies identifiées _(tableau n° 2) :_
-
+Toutes les maladies n'ayant pas la même importance suivant le milieu étudié, il importe de déterminer les critères qui permettront de considérer comme prioritaire une maladie par rapport à une autre. Quatre critères permettent généralement de classer par ordre d'importance les maladies identifiées *(tableau n° 2) :*
 
 ![](i781-2.jpg)
-
 
 **La gravité de la maladie :** celle-ci est fonction de la gêne, des souffrances ou des nuisances causées à la population :
 
@@ -176,4 +172,4 @@ Toutes les maladies n'ayant pas la même importance suivant le milieu étudié, 
 
 Pour déterminer les quantités hebdomadaires ou mensuelles à mettre à la disposition d'un centre de santé, l'équipe se base sur le nombre moyen des malades fréquentant le centre par âge et sexe par semaine, par mois et par an. Pour cela, l'équipe peut utiliser les registres antérieurs, les fiches des malades au vu du système sentinelle de récoltes de données sur les médicaments et les quantités administrées. Elle sera alors en mesure de déterminer les quantités réellement consommées en tenant compte des ruptures de stocks et des vols éventuels, c'est-à-dire les quantités commandées mais ne figurant pas sur les fiches des malades. Une période de transition a été observée de façon à garder à la pharmacie centrale un stock de sécurité.
 
-_Développement et Santé, n° 134, avril 1998_
+*Développement et Santé, n° 134, avril 1998*

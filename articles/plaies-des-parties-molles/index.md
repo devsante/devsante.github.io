@@ -12,8 +12,8 @@ le traitement pose des problèmes bien différents. Nous ne traitons ici que des
 
 Avant de commencer, voici deux petites histoires bien banales, quel que soit le pays où l’on se trouve.
 
-*   Mr D., boucher de profession, se blesse un matin à son travail au poignet gauche. Le couteau bien affûté a dérapé, ce qui a provoqué une petite entaille au pli du poignet. Il se présente aux urgences où l’on vérifie sa vaccination anti-tétanique en le rassurant sur la plaie qui ne mesure que quelques millimètres de long et semble superficielle. Trois petits points de suture sous anesthésie locale suffisent. Quelques jours plus tard, Mr D. ne peut plus se servir de sa main gauche comme avant, en raison d’une gêne pour saisir les objets et de troubles de la sensibilité importants. Un examen clinique attentif montre alors un déficit sensitivomoteur complet lié à la section du nerf médian. Une réparation secondaire du nerf sera difficile et aléatoire, compromettant l’avenir professionnel du blessé.  
-*   Blessé par malheur au cours d’une fusillade entre groupes rebelles opposés, un jeune homme, civil et non impliqué dans le conflit, est “légèrement” atteint par une balle perdue, au dessus du genou, à travers le pantalon. Par prudence, il se rend au dispensaire à deux heures de là, où on lui dit qu’il a eu de la chance car la blessure est petite et sans gravité. La plaie est nettoyée avec un peu de solution iodée et simplement suturée par quelques points sur la peau, sans exploration ni parage en profondeur. Vingt-quantre heures après être rentré chez lui, la plaie devient de plus en plus douloureuse et il commence à avoir de la fièvre. Il se repose et prend un peu de paracétamol, mais le lendemain, son état empire, la fièvre augmente, les douleurs sont permanentes et la jambe augmente de volume. À l’hôpital voisin, à trois heures de voiture, on lui parle de gangrène gazeuse, et malgré les antibiotiques et une intervention chirurgicale bien menée, il faudra finalement l’amputer deux jours plus tard au tiers inférieur de la cuisse, afin de lui sauver la vie.
+- Mr D., boucher de profession, se blesse un matin à son travail au poignet gauche. Le couteau bien affûté a dérapé, ce qui a provoqué une petite entaille au pli du poignet. Il se présente aux urgences où l’on vérifie sa vaccination anti-tétanique en le rassurant sur la plaie qui ne mesure que quelques millimètres de long et semble superficielle. Trois petits points de suture sous anesthésie locale suffisent. Quelques jours plus tard, Mr D. ne peut plus se servir de sa main gauche comme avant, en raison d’une gêne pour saisir les objets et de troubles de la sensibilité importants. Un examen clinique attentif montre alors un déficit sensitivomoteur complet lié à la section du nerf médian. Une réparation secondaire du nerf sera difficile et aléatoire, compromettant l’avenir professionnel du blessé.
+- Blessé par malheur au cours d’une fusillade entre groupes rebelles opposés, un jeune homme, civil et non impliqué dans le conflit, est “légèrement” atteint par une balle perdue, au dessus du genou, à travers le pantalon. Par prudence, il se rend au dispensaire à deux heures de là, où on lui dit qu’il a eu de la chance car la blessure est petite et sans gravité. La plaie est nettoyée avec un peu de solution iodée et simplement suturée par quelques points sur la peau, sans exploration ni parage en profondeur. Vingt-quantre heures après être rentré chez lui, la plaie devient de plus en plus douloureuse et il commence à avoir de la fièvre. Il se repose et prend un peu de paracétamol, mais le lendemain, son état empire, la fièvre augmente, les douleurs sont permanentes et la jambe augmente de volume. À l’hôpital voisin, à trois heures de voiture, on lui parle de gangrène gazeuse, et malgré les antibiotiques et une intervention chirurgicale bien menée, il faudra finalement l’amputer deux jours plus tard au tiers inférieur de la cuisse, afin de lui sauver la vie.
 
 **De petites plaies ont parfois de grandes conséquences**
 
@@ -23,31 +23,31 @@ La principale difficulté devant toute blessure, même minime en apparence, est 
 
 Dès l’arrivée du blessé en consultation, il convient donc de préciser et de noter dans un dossier de soins les quelques informations suivantes :
 
-*   Circonstances de survenue de la blessure :
-*   Heure exacte de la blessure et délai écoulé.  
-*   Type d’accident :
-    *   Accident de la vie courante, bricolage, chute ;
-    *   Accidents de la voie publique : la plaie est souvent associée à d’autres lésions qui passent au premier plan comme un traumatisme crânien, etc.  
-    *   Plaie par arme blanche accidentelle ou après une agression.  
-    *   Plaie par balle (type de l’arme ?) et plaies de guerre sont aussi un chapitre à part, car les projectiles des armes d’assaut actuelles ont des caractères particuliers très délabrants qu’il faut bien connaître (projectiles à grande vitesse).  
-    *   Les plaies dites chirurgicales (après une intervention) ne sont pas traitées ici car leur traitement appartient au chirurgien en charge du patient.  
-*   Type de la blessure. Quel est l’agent responsable, couteau ou arme blanche, éclat de mine ou d’armes diverses, munitions diverses, éclats de bois, de verre, chute sur le sol, etc. ?
-*   Sepsis associé et corps étrangers éventuels, morceaux de bois, lambeaux de vêtements, fragments métalliques, sable, terre ou débris divers, etc.  
-*   État de la vaccination anti-tétanique.  
-*   Siège et dessin de la plaie.
+- Circonstances de survenue de la blessure :
+- Heure exacte de la blessure et délai écoulé.
+- Type d’accident :
+  - Accident de la vie courante, bricolage, chute ;
+  - Accidents de la voie publique : la plaie est souvent associée à d’autres lésions qui passent au premier plan comme un traumatisme crânien, etc.
+  - Plaie par arme blanche accidentelle ou après une agression.
+  - Plaie par balle (type de l’arme ?) et plaies de guerre sont aussi un chapitre à part, car les projectiles des armes d’assaut actuelles ont des caractères particuliers très délabrants qu’il faut bien connaître (projectiles à grande vitesse).
+  - Les plaies dites chirurgicales (après une intervention) ne sont pas traitées ici car leur traitement appartient au chirurgien en charge du patient.
+- Type de la blessure. Quel est l’agent responsable, couteau ou arme blanche, éclat de mine ou d’armes diverses, munitions diverses, éclats de bois, de verre, chute sur le sol, etc. ?
+- Sepsis associé et corps étrangers éventuels, morceaux de bois, lambeaux de vêtements, fragments métalliques, sable, terre ou débris divers, etc.
+- État de la vaccination anti-tétanique.
+- Siège et dessin de la plaie.
 
 ### 2. Le siège de la plaie
 
 Chaque partie du corps a ses pièges et ses risques. Il ne faut pas avoir honte ni hésiter à consulter un précis d’anatomie pour rafraîchir ses souvenirs, si nécessaire. Les pièges les plus classiques et les plus fréquemment en cause sont :
 
-*   Les plaies de la paroi abdominale, qui devront toujours être explorées pour s’assurer de l’absence de caractère pénétrant et donc de risque de blessure d’un viscère tel que l’estomac, l’intestin, la vessie, le foie, un gros vaisseau ou autres. Explorer une plaie consiste à en faire un examen précis pour connaître intégralement son trajet, sous anesthésie locale ou générale. La plaie est dite pénétrante quand elle va jusqu’au plan péritonéal inclus. Il faut alors confier le blessé à un chirurgien. De même si l’on ne peut affirmer avec certitude que la plaie est superficielle. Une petite plaie profonde est souvent plus grave qu’une large plaie superficielle.  
-*   Les plaies du thorax, qui font courir un risque de plaie pleuro-pulmonaire, reconnue par son caractère “soufflant”, visible et audible.  
-*   Les plaies des membres, avec les risques de lésions tendineuses, artérielles et surtout nerveuses. Le diagnostic d’une lésion nerveuse n’est pas aussi simple qu’on le pense, il faut faire un examen précis de la sensibilité et de la motricité dans le territoire en aval de la plaie.  
-*   Les plaies des artères aussi peuvent être facilement méconnues. La plaie se cache parfois au fond d’un hématome ou elle peut ne plus saigner en cas de spasme artériel, responsable de plaie dite “sèche”. Une plaie qui ne saigne pas ne signifie pas qu’il n’y a pas d’atteinte vasculaire.  
-*   S’il y a une fracture associée en regard de la plaie, on parle alors de fracture ouverte, dont le traitement chirurgical est spécifique et doit être confié à un chirurgien. Une plaie en regard d’une fracture est une fracture ouverte.  
-*   De même si une articulation est ouverte, la plaie devra être traitée en milieu chirurgical pour parer au risque septique, laver l’articulation et éviter la perte de cette articulation après des mois de sepsis et de soins douloureux.  
-*   Sont aussi à confier au chirurgien les plaies de l’oeil et du cou, du périnée (souvent méconnues), du poignet et de l’avantbras avec lésions tendineuses.  
-*   Les plaies du cuir chevelu sont particulièrement hémorragiques et peuvent entraîner une vraie déglobulisation mal tolérée chez un patient anémique. Le cuir chevelu, ça saigne ! Il peut être parfois difficile de reconnaître au fond de cette plaie un trait de fracture associée d’un os du crâne, avec parfois une brèche méningée et un risque vital. En cas de doute, il ne faut pas hésiter à demander conseil.
+- Les plaies de la paroi abdominale, qui devront toujours être explorées pour s’assurer de l’absence de caractère pénétrant et donc de risque de blessure d’un viscère tel que l’estomac, l’intestin, la vessie, le foie, un gros vaisseau ou autres. Explorer une plaie consiste à en faire un examen précis pour connaître intégralement son trajet, sous anesthésie locale ou générale. La plaie est dite pénétrante quand elle va jusqu’au plan péritonéal inclus. Il faut alors confier le blessé à un chirurgien. De même si l’on ne peut affirmer avec certitude que la plaie est superficielle. Une petite plaie profonde est souvent plus grave qu’une large plaie superficielle.
+- Les plaies du thorax, qui font courir un risque de plaie pleuro-pulmonaire, reconnue par son caractère “soufflant”, visible et audible.
+- Les plaies des membres, avec les risques de lésions tendineuses, artérielles et surtout nerveuses. Le diagnostic d’une lésion nerveuse n’est pas aussi simple qu’on le pense, il faut faire un examen précis de la sensibilité et de la motricité dans le territoire en aval de la plaie.
+- Les plaies des artères aussi peuvent être facilement méconnues. La plaie se cache parfois au fond d’un hématome ou elle peut ne plus saigner en cas de spasme artériel, responsable de plaie dite “sèche”. Une plaie qui ne saigne pas ne signifie pas qu’il n’y a pas d’atteinte vasculaire.
+- S’il y a une fracture associée en regard de la plaie, on parle alors de fracture ouverte, dont le traitement chirurgical est spécifique et doit être confié à un chirurgien. Une plaie en regard d’une fracture est une fracture ouverte.
+- De même si une articulation est ouverte, la plaie devra être traitée en milieu chirurgical pour parer au risque septique, laver l’articulation et éviter la perte de cette articulation après des mois de sepsis et de soins douloureux.
+- Sont aussi à confier au chirurgien les plaies de l’oeil et du cou, du périnée (souvent méconnues), du poignet et de l’avantbras avec lésions tendineuses.
+- Les plaies du cuir chevelu sont particulièrement hémorragiques et peuvent entraîner une vraie déglobulisation mal tolérée chez un patient anémique. Le cuir chevelu, ça saigne ! Il peut être parfois difficile de reconnaître au fond de cette plaie un trait de fracture associée d’un os du crâne, avec parfois une brèche méningée et un risque vital. En cas de doute, il ne faut pas hésiter à demander conseil.
 
 ### 3. Traitement
 
@@ -61,10 +61,10 @@ Gants stériles (enfilés après décontamination des mains), masque et calot, c
 
 On peut avoir une première idée de la blessure par un simple examen clinique attentif, mais c’est surtout l’exploration minutieuse de la plaie, en prenant son temps, au besoin sous anesthésie locale, que l’on aura une idée plus précise.
 
-*   Taille de la plaie.  
-*   État des berges, dilacérées, contuses ou nettes et bien colorées.  
-*   Perte de substance cutanée pouvant compliquer une fermeture cutanée primaire, c’est-à-dire immédiatement après l’exploration.  
-*   Souillures et corps étrangers doivent être soigneusement et complètement éliminés.
+- Taille de la plaie.
+- État des berges, dilacérées, contuses ou nettes et bien colorées.
+- Perte de substance cutanée pouvant compliquer une fermeture cutanée primaire, c’est-à-dire immédiatement après l’exploration.
+- Souillures et corps étrangers doivent être soigneusement et complètement éliminés.
 
 C’est parfois long et fastidieux mais essentiel. Sont à diriger vers le service de chirurgie le plus proche les lésions qui, après exploration, s’avèrent plus profondes que prévu. Elles nécessiteront des gestes chirurgicaux précis comme l’excision de lambeaux musculaires contus ou dévitalisés, la ligature ou la réparation d’une lésion vasculaire, le traitement d’un foyer de fracture ou la recherche de lésions parfois assez éloignées de la plaie cutanée, ce qu’on appelle l’orifice d’entrée, après des plaies par balle ou par arme blanche. Dans ce cas, la plaie est abondamment rincée à l’eau et pansée sans suture.
 
@@ -72,22 +72,22 @@ C’est parfois long et fastidieux mais essentiel. Sont à diriger vers le servi
 
 **Exploration et parage**
 
-*   Sous anesthésie locale, en infiltrant largement les berges de la plaie, toute l’épaisseur de la peau et si besoin les tissus plus profonds (aponévrose) avec de la xylocaine non adrénalinée.  
-*   Toilette soigneuse à l’eau stérile si possible et au savon, décontamination mécanique par brossage si besoin (terre) et par la solution antiseptique disponible. Des litres d’antiseptique ne peuvent jamais remplacer une bonne décontamination.  
-*   L’exploration complète de la plaie se fait doucement au doigt ou avec une pince à bout mousse et nécessite parfois un agrandissement de la plaie pour mieux voir la totalité du trajet souscutané. On évacue les caillots et les corps étrangers pour mieux rechercher des lésions en profondeur.  
-*   L’excision de tous les tissus nécrosés ou dévitalisés, qu’on appelle le parage, nécessite un peu de prudence, de minutie, d’attention et d’expérience, pour ne pas en faire trop ou au contraire insuffisamment ! Le tissu nécrosé laissé en place entraînera presque à coup sûr une infection. On retiendra que les tissus dévitalisés sont plus pâles et ne saignent plus à la coupe. Le muscle nécrosé est atone, non contractile et ne saigne plus lorsqu’on le coupe au bistouri.  
-*   L’hémostase doit être complète en ligaturant les petits vaisseaux rencontrés.  
-*   À l’opposé, les plaies du cuir chevelu peuvent saigner abondamment et nécessitent une bonne hémostase, grâce à de larges points de suture prenant toute l’épaisseur de la peau (en situation de précarité, à défaut de fil, on peut refermer une telle plaie en nouant deux petites mèches de cheveux réunies au-dessus de la cicatrice !). Le cuir chevelu est un tissu très résistant qu’il est rarement nécessaire de recouper.  
-*   À la fin de ce geste de parage de la plaie, il faut procéder à un compte des compresses de façon à ne pas oublier une petite compresse utilisée pour assécher la plaie par exemple.
+- Sous anesthésie locale, en infiltrant largement les berges de la plaie, toute l’épaisseur de la peau et si besoin les tissus plus profonds (aponévrose) avec de la xylocaine non adrénalinée.
+- Toilette soigneuse à l’eau stérile si possible et au savon, décontamination mécanique par brossage si besoin (terre) et par la solution antiseptique disponible. Des litres d’antiseptique ne peuvent jamais remplacer une bonne décontamination.
+- L’exploration complète de la plaie se fait doucement au doigt ou avec une pince à bout mousse et nécessite parfois un agrandissement de la plaie pour mieux voir la totalité du trajet souscutané. On évacue les caillots et les corps étrangers pour mieux rechercher des lésions en profondeur.
+- L’excision de tous les tissus nécrosés ou dévitalisés, qu’on appelle le parage, nécessite un peu de prudence, de minutie, d’attention et d’expérience, pour ne pas en faire trop ou au contraire insuffisamment ! Le tissu nécrosé laissé en place entraînera presque à coup sûr une infection. On retiendra que les tissus dévitalisés sont plus pâles et ne saignent plus à la coupe. Le muscle nécrosé est atone, non contractile et ne saigne plus lorsqu’on le coupe au bistouri.
+- L’hémostase doit être complète en ligaturant les petits vaisseaux rencontrés.
+- À l’opposé, les plaies du cuir chevelu peuvent saigner abondamment et nécessitent une bonne hémostase, grâce à de larges points de suture prenant toute l’épaisseur de la peau (en situation de précarité, à défaut de fil, on peut refermer une telle plaie en nouant deux petites mèches de cheveux réunies au-dessus de la cicatrice !). Le cuir chevelu est un tissu très résistant qu’il est rarement nécessaire de recouper.
+- À la fin de ce geste de parage de la plaie, il faut procéder à un compte des compresses de façon à ne pas oublier une petite compresse utilisée pour assécher la plaie par exemple.
 
 **Fermeture de la plaie.**
 
-*   La technique de suture est à consulter dans les manuels de petite chirurgie. Il faut recoudre les plans l’un après l’autre (plan par plan). Rapprochement et suture des plans profonds, musculaires, aponévrotiques, avec un fil lentement résorbable.  
-*   Rapprochement cutané par des points séparés de fil non résorbable monobrin assez espacés (10 à 15 mm) pour autoriser un suintement éventuel entre les points. Le rapprochement des berges doit être aussi exact que possible, sans décalage.  
-*   Les plaies du visage sont à considérer et suturer plus minutieusement pour des raisons esthétiques (points plus petits, plus rapprochés, surjets), la suture devant comporter le rapprochement du muscle peaucier sous-cutané. La réparation d’une plaie des lèvres doit comporter la suture du muscle orbiculaire.  
-*   Au niveau des plis de flexion, coude, poignet, genou, une suture avec un décrochement en S sur le pli est utile pour éviter la constitution de bride rétractile.  
-*   En cas de perte de substance cutanée, il vaut toujours mieux laisser la plaie ouverte que de la refermer sous tension excessive. Une plaie suturée sous tension se compliquera de nécrose et de lâchage secondaire.  
-*   Lorsque la plaie est à l’évidence contaminée ou lorsqu’elle a été vue trop tard, après un délai supérieur à six heures, elle sera considérée comme septique et ne doit pas être suturée, mais simplement parée minutieusement, nettoyée et pansée à plat avec une épaisseur suffisante de gaze stérile absorbante. Il faut absolument savoir résister à la tentation de fermer une plaie vue avec retard. La plaie fera l’objet d’une fermeture différée 4 à 8 jours plus tard si elle évolue favorablement.
+- La technique de suture est à consulter dans les manuels de petite chirurgie. Il faut recoudre les plans l’un après l’autre (plan par plan). Rapprochement et suture des plans profonds, musculaires, aponévrotiques, avec un fil lentement résorbable.
+- Rapprochement cutané par des points séparés de fil non résorbable monobrin assez espacés (10 à 15 mm) pour autoriser un suintement éventuel entre les points. Le rapprochement des berges doit être aussi exact que possible, sans décalage.
+- Les plaies du visage sont à considérer et suturer plus minutieusement pour des raisons esthétiques (points plus petits, plus rapprochés, surjets), la suture devant comporter le rapprochement du muscle peaucier sous-cutané. La réparation d’une plaie des lèvres doit comporter la suture du muscle orbiculaire.
+- Au niveau des plis de flexion, coude, poignet, genou, une suture avec un décrochement en S sur le pli est utile pour éviter la constitution de bride rétractile.
+- En cas de perte de substance cutanée, il vaut toujours mieux laisser la plaie ouverte que de la refermer sous tension excessive. Une plaie suturée sous tension se compliquera de nécrose et de lâchage secondaire.
+- Lorsque la plaie est à l’évidence contaminée ou lorsqu’elle a été vue trop tard, après un délai supérieur à six heures, elle sera considérée comme septique et ne doit pas être suturée, mais simplement parée minutieusement, nettoyée et pansée à plat avec une épaisseur suffisante de gaze stérile absorbante. Il faut absolument savoir résister à la tentation de fermer une plaie vue avec retard. La plaie fera l’objet d’une fermeture différée 4 à 8 jours plus tard si elle évolue favorablement.
 
 **Le drainage**
 
@@ -122,7 +122,7 @@ Si rien ne vient contrarier l’évolution normale, une plaie est étanche au bo
 
 La cicatrisation primaire est acquise après un délai de 5 jours (au visage) et peut demander jusqu’à 15 jours (aux membres inférieurs). Après ce délai, les sutures peuvent être retirées. Pendant ce délai de cicatrisation, la surveillance est maintenue. En l’absence de douleur, de fièvre ou de suintement sanguin, séreux ou purulent, il n’est pas utile de refaire le pansement tous les jours.
 
-**Pas de fièvre, pas de douleur, pas de suintement, pas de pansement.** Nos amis anglais disent : _no pain, no fever, no oozing, no dressing_. Un pansement inutile est responsable de douleurs, de perte de temps pour le soignant et de coût supplémentaire. Une cicatrice saine est fine, solide, étanche, légèrement rosée et non douloureuse.
+**Pas de fièvre, pas de douleur, pas de suintement, pas de pansement.** Nos amis anglais disent : *no pain, no fever, no oozing, no dressing*. Un pansement inutile est responsable de douleurs, de perte de temps pour le soignant et de coût supplémentaire. Une cicatrice saine est fine, solide, étanche, légèrement rosée et non douloureuse.
 
 ### 5. Fermeture différée
 

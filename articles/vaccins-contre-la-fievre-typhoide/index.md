@@ -6,11 +6,11 @@ date: "1994-02-05"
 
 **Vaccins contre la fièvre typhoïde**
 
-**par Bernard Lagardère***
+**par Bernard Lagardère**\*
 
 La fièvre typhoïde sévit dans la plupart des pays du monde et reste un problème majeur de santé publique dans un grand nombre d'entre eux. La fréquence de la maladie et le coût ou les difficultés des traitements justifient la recherche d'un vaccin efficace. Depuis longtemps existe un vaccin TAB à germes tués. Sa mauvaise tolérance en a fortement limité l'emploi. Un nouveau vaccin, Typhim Vi, dépourvu de tout effet secondaire est disponible depuis 1989. Des recherches sont en cours pour élaborer un vaccin qui serait efficace par voie orale.
 
-* Pédiatre, hôpital Ambroise-Paré, Boulogne-Billancourt.
+- Pédiatre, hôpital Ambroise-Paré, Boulogne-Billancourt.
 
 **I. La fièvre typhoïde**
 
@@ -60,7 +60,7 @@ Le Cotrimoxazole par voie orale ne suscite que très rarement des accidents lié
 
 Plus récemment de nouveaux médicaments, beaucoup plus onéreux (céphalosporines de troisième génération comme la Ceftriaxone, et quinolones comme la Pefloxacine : ces dernières sont contre indiquées chez l'enfant) sont efficaces avec des durées de traitement qui peuvent être réduites.
 
-La fièvre typhoïde demeure une maladie potentiellement grave, entraînant des cas mortels, et réclamant parfois une hospitalisation prolongée. Le coût humain et financier de la maladie apparaît assez _élevé_ pour justifier l'intérêt d'une vaccination.  
+La fièvre typhoïde demeure une maladie potentiellement grave, entraînant des cas mortels, et réclamant parfois une hospitalisation prolongée. Le coût humain et financier de la maladie apparaît assez *élevé* pour justifier l'intérêt d'une vaccination.
 
 **II. Vaccins anti-typhoïdiques**
 
@@ -72,9 +72,9 @@ Il a une efficacité incomplète, mais surtout n'est pas toujours bien toléré,
 
 N'ont pas confirmé sa valeur et n'ont suscité que des protections faibles ou nulles. D'autres recherches sont en cours.
 
-• Le vaccin le mieux toléré _et le_ plus efficace est le vaccin poly osidique VI (vaccin Typhim Vi de Pasteur-Mérieux). Il utilise non pas le germe entier, détruit ou atténué, mais un fragment de sa capsule, portant l'anti_gène_ VI (de virulence). De larges essais ont montré son innocuité et sa valeur : après une seule injection la réponse anticorps apparaît dès le septième jour et la protection dure au moins trois ans. En milieu hyper endémique il a conféré une protection de l'ordre de 80% (Népal) dans les dix-huit mois qui ont suivi la vaccination, meilleure que celle entraînée par le TAB.
+• Le vaccin le mieux toléré *et le* plus efficace est le vaccin poly osidique VI (vaccin Typhim Vi de Pasteur-Mérieux). Il utilise non pas le germe entier, détruit ou atténué, mais un fragment de sa capsule, portant l'anti_gène\_ VI (de virulence). De larges essais ont montré son innocuité et sa valeur : après une seule injection la réponse anticorps apparaît dès le septième jour et la protection dure au moins trois ans. En milieu hyper endémique il a conféré une protection de l'ordre de 80% (Népal) dans les dix-huit mois qui ont suivi la vaccination, meilleure que celle entraînée par le TAB.
 
-Le vaccin est stable, pouvant être stocké pendant dix-huit mois entre + 2 et + S°. Il est conseillé _de le_ garder au réfrigérateur mais il conserve ses caractères physicochimiques après six mois à 37 °. Il se présente sous forme de suspension injectable prête à l'emploi. La vaccination s'effectue en une seule injection sous-cutanée ou intramusculaire de 0,5 ml.
+Le vaccin est stable, pouvant être stocké pendant dix-huit mois entre + 2 et + S°. Il est conseillé *de le* garder au réfrigérateur mais il conserve ses caractères physicochimiques après six mois à 37 °. Il se présente sous forme de suspension injectable prête à l'emploi. La vaccination s'effectue en une seule injection sous-cutanée ou intramusculaire de 0,5 ml.
 
 L'efficacité du vaccin a été démontrée à partir de l'âge de cinq ans. Il est probable qu'une vaccination avant l'âge de deux ans est inefficace. Mais la fièvre typhoïde est rare à l'âge préscolaire. Entre deux et cinq ans, Typhim Vi peut être utilisé en cas de nécessité.
 

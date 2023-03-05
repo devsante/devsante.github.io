@@ -18,8 +18,8 @@ Les problématiques observées en prévention de la transmission mère-enfant (P
 
 Deux d'entre eux répondent à des situations fréquemment rencontrées et sont illustrés ci-après
 
-*   aider la future maman à informer son partenaire de son statut,
-*   aider la jeune maman à mettre en ouvre le mode d'allaitement choisi et à en informer son entourage.
+- aider la future maman à informer son partenaire de son statut,
+- aider la jeune maman à mettre en ouvre le mode d'allaitement choisi et à en informer son entourage.
 
 ### Informer son partenaire de son statut
 
@@ -33,19 +33,19 @@ Le choix d'un mode d'allaitement est facile voire automatique au départ, mais i
 
 Si l'allaitement artificiel est choisi, les questions qui se posent sont du genre :
 
-_"Pourquoi est-ce que tu ne veux pas allaiter au sein... ?_
+*"Pourquoi est-ce que tu ne veux pas allaiter au sein... ?*
 
-_...alors que tu l'avais fait pour tes précédents enfants_
+*...alors que tu l'avais fait pour tes précédents enfants*
 
-_...alors que tu n'as pas d'argent pour t'acheter le lait et l'eau tout le temps"_
+*...alors que tu n'as pas d'argent pour t'acheter le lait et l'eau tout le temps"*
 
 C'est ici très souvent qu'interviennent les mensonges
 
-_"La sage-femme m'a dit que mon lait n'est pas bon;_
+*"La sage-femme m'a dit que mon lait n'est pas bon;*
 
-_Le médecin m'a dit que le liquide remarqué lors de mon accouchement risque de me provoquer un jour un cancer du sein si j'allaite au sein;_
+*Le médecin m'a dit que le liquide remarqué lors de mon accouchement risque de me provoquer un jour un cancer du sein si j'allaite au sein;*
 
-_Le docteur ou la sage-femme m'a dit que mon lait est mauvais et m'a mis sous un traitement; il m'est interdit d'allaiter mes enfants au sein au risque de les tuer à petit feu."_
+*Le docteur ou la sage-femme m'a dit que mon lait est mauvais et m'a mis sous un traitement; il m'est interdit d'allaiter mes enfants au sein au risque de les tuer à petit feu."*
 
 Certaines mères, alors qu'elles savent que c'est une pratique à risque de TME (transmission mère-enfant du VIH), pratiquent l'allaitement mixte au moment où elles reçoivent les visiteurs afin qu'ils ne se posent pas de questions.
 
@@ -97,8 +97,7 @@ L'amélioration de l'observance thérapeutique et de la vie des patients avec la
 
 séances d'ETP qui doivent s'organiser régulièrement en fonction des besoins éducatifs des patients. Chaque cas d'inobservance doit faire l'objet d'une grande attention sans juger les causes d'inobservance, mais être régulièrement à l'écoute et trouver ensemble des solutions.
 
-
-![](i1094-1.jpg)
+![](i1094-1.jpg)  
 **Exemple d'image projective.**
 
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

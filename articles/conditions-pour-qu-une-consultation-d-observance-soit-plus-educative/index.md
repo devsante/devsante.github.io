@@ -12,18 +12,18 @@ Une consultation d'observance contribue à cet objectif si elle conduit le patie
 
 ### Contribution au diagnostic éducatif
 
-#### Il s'agit de passer du temps à s'intéresser :
+#### Il s'agit de passer du temps à s'intéresser
 
-*   aux raisons qui l'on conduit à consulter,
-*   aux représentations qu'il a de sa maladie,
-*   à ce qu'il souhaite aborder avec le médecin, s'il a des questions, des difficultés, des craintes face à certaines prescriptions, aux changements de vie et à l'évolution de sa maladie.
+- aux raisons qui l'on conduit à consulter,
+- aux représentations qu'il a de sa maladie,
+- à ce qu'il souhaite aborder avec le médecin, s'il a des questions, des difficultés, des craintes face à certaines prescriptions, aux changements de vie et à l'évolution de sa maladie.
 
 Au cours de cette première étape, le soignant valorise les savoirs et les compétences du patient. Il sollicite sa réflexion pour lui permettre de porter un regard sur son expérience. Ces éléments créent chez le patient une disponibilité lui permettant d'accueillir de nouvelles informations, d'écouter, voire de proposer de nouvelles solutions à son problème.
 
-#### Choix de questions possibles :
+#### Choix de questions possibles
 
-*   Est-ce que vous souhaitez aborder un sujet particulier aujourd'hui à propos de votre maladie ? Vous êtes venu aujourd'hui pour une raison particulière ?
-*   Votre traitement vous pose t-il des questions, occasionne t-il des problèmes dans votre vie quotidienne ?
+- Est-ce que vous souhaitez aborder un sujet particulier aujourd'hui à propos de votre maladie ? Vous êtes venu aujourd'hui pour une raison particulière ?
+- Votre traitement vous pose t-il des questions, occasionne t-il des problèmes dans votre vie quotidienne ?
 
 ## II. Proposer des choix thérapeutiques
 
@@ -33,9 +33,9 @@ Proposer des choix thérapeuthiques, les expliquer, les discuter avec le patient
 
 #### Choix de questions possibles
 
-*   Que pensez vous du traitement proposé ? Quelles observations faites vous vis-à-vis de ce traitement ?
-*   Souhaitez-vous recevoir des explications complémentaires ? Est-ce que ce que nous venons de discuter correspond à ce que vous aviez déjà compris ou déjà fait ? Qu'est-ce qui pourrait vous gêner dans ce que je viens de dire ?
-*   Est-ce que vous voyez des obstacles qui s'opposeraient à la prise de votre traitement ? Si vous avez déjà eu une expérience avec ce traitement, qu'est-ce qui s'est passé, à quoi avez-vous été confronté ?
+- Que pensez vous du traitement proposé ? Quelles observations faites vous vis-à-vis de ce traitement ?
+- Souhaitez-vous recevoir des explications complémentaires ? Est-ce que ce que nous venons de discuter correspond à ce que vous aviez déjà compris ou déjà fait ? Qu'est-ce qui pourrait vous gêner dans ce que je viens de dire ?
+- Est-ce que vous voyez des obstacles qui s'opposeraient à la prise de votre traitement ? Si vous avez déjà eu une expérience avec ce traitement, qu'est-ce qui s'est passé, à quoi avez-vous été confronté ?
 
 ## III. Amener le patient à trouver ses propres solutions
 
@@ -43,21 +43,22 @@ Proposer des choix thérapeuthiques, les expliquer, les discuter avec le patient
 
 Amener le patient à trouver ses propres solutions pour modifier son comportement, ses habitudes de vie tout en l'aidant à anticiper sur les modifications que la nouvelle prescription risque d'entraîner dans sa vie quotidienne.
 
-#### Choix de questions possibles :
+#### Choix de questions possibles
 
-*   A partir de ce que nous venons de dire comment allez vous vous y prendre pour gérer votre traitement ?
-*   Comment allez vous organiser votre vie quotidienne avec votre traitement ? Quels changements dans votre vie quotidienne votre traitement va vous demander ?
-*   Comment votre entourage, famille, réagit face à votre traitement ?
+- A partir de ce que nous venons de dire comment allez vous vous y prendre pour gérer votre traitement ?
+- Comment allez vous organiser votre vie quotidienne avec votre traitement ? Quels changements dans votre vie quotidienne votre traitement va vous demander ?
+- Comment votre entourage, famille, réagit face à votre traitement ?
 
-## IV. Demander au patient s'il souhaite s'entraîner à appliquer  
+## IV. Demander au patient s'il souhaite s'entraîner à appliquer
+
 en présence du soignant les solutions qu'il a identifiées
 
 ### Apprentissage des compétences du patient
 
-#### Activité proposée :
+#### Activité proposée
 
-*   Demander au patient de résoudre une situation vécue par un patient porteur de l'infection par le VIH, dont les conditions de vie sont proches de celle du patient pour l'aider à s'approprier un raisonnement, à évoluer vers d'autres comportements face à son traitement.  
-*   Demander au patient de planifier la prise de son traitement sur une journée pour lui permettre d'anticiper d'éventuelles difficultés imprévues ou d'envisager de nouvelles possibilités.
+- Demander au patient de résoudre une situation vécue par un patient porteur de l'infection par le VIH, dont les conditions de vie sont proches de celle du patient pour l'aider à s'approprier un raisonnement, à évoluer vers d'autres comportements face à son traitement.
+- Demander au patient de planifier la prise de son traitement sur une journée pour lui permettre d'anticiper d'éventuelles difficultés imprévues ou d'envisager de nouvelles possibilités.
 
 ## V. Conclure la consultation
 
@@ -65,19 +66,19 @@ en présence du soignant les solutions qu'il a identifiées
 
 Conclure la consultation en demandant au patient de faire un résumé, sur ce qui pour lui a été important et sur ce qu'il envisage de faire. Proposer un suivi qui tienne compte de ce que le patient aura réalisé.
 
-#### Choix de questions possibles :
+#### Choix de questions possibles
 
 Dans ce que nous venons de discuter, de voir ensemble, qu'est-ce qui vous a particulièrement intéressé ?
 
-*   Si vous deviez résumer la consultation qu'estce que vous en diriez ?
-*   Si nous nous accordons sur ce que vous envisagez de faire lors de la prochaine consultation seriez - vous intéressé à en discuter ?
+- Si vous deviez résumer la consultation qu'estce que vous en diriez ?
+- Si nous nous accordons sur ce que vous envisagez de faire lors de la prochaine consultation seriez - vous intéressé à en discuter ?
 
 Ainsi la consultation suivante, à condition de conserver la trace des discussions et /ou négociations avec le patient, pourra commencer par exemple, en lui demandant de faire le point sur ce qui s'est passé depuis la dernière consultation, en reprenant les décisions de la consultation précédente et en voyant avec lui ce qui lui a été possible de faire.
 
-**_Bibliographie :_**
+***Bibliographie :***
 
-_1- Lussier MT., Richard, Dialogue au rendezvous : Sachez mener l'entrevue et inciter votre patient à suivre vos recommandations, L'Omnipraticien, vol.2, N°6, p.27-29, 1998 b.  
-2 - lvernois (d') J.F, Gagnayre R., Apprendre à éduquer le patient, Approche pédagogique, 2ème éd., Maloine, Paris, 2004._  
-_3- Gagnayre R., Traynard PY., Education thérapeutique du patient, Encyclopédie Pratique de Médecine, Editions Scientifiques et Médicales Elsevier SAS, Paris, 7-1027, 2002._
+*1- Lussier MT., Richard, Dialogue au rendezvous : Sachez mener l'entrevue et inciter votre patient à suivre vos recommandations, L'Omnipraticien, vol.2, N°6, p.27-29, 1998 b.  
+2 - lvernois (d') J.F, Gagnayre R., Apprendre à éduquer le patient, Approche pédagogique, 2ème éd., Maloine, Paris, 2004.*  
+*3- Gagnayre R., Traynard PY., Education thérapeutique du patient, Encyclopédie Pratique de Médecine, Editions Scientifiques et Médicales Elsevier SAS, Paris, 7-1027, 2002.*
 
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

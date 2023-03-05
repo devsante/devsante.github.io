@@ -25,7 +25,8 @@ Un événement indésirable est un événement médical (maux de tête, éruptio
 
 Certains événements vont pouvoir être reliés à la vaccination et on parlera d'**effet ou réaction indésirable post-vaccinal(e) ou MAPI (Manifestation indésirable Post-Immunisation)**, d'autres sont seulement une coïncidence et auraient pu survenir sans administration du produit.
 
-## IV. Comment est organisée la  
+## IV. Comment est organisée la
+
 vaccinovigilance/pharmacovigilance ?
 
 Dans la majorité des pays, il existe des structures de pharmacovigilance (PV) mises en place par le Ministère de la Santé.
@@ -52,12 +53,12 @@ Pour chaque produit, il faut indiquer :
 
 #### Pour les vaccins
 
-*   Nom du vaccin - présentation (mono/multi dose),
-*   Numéro de lot - date d'administration, primo-injection ou rappel, provenance du vaccin.
+- Nom du vaccin - présentation (mono/multi dose),
+- Numéro de lot - date d'administration, primo-injection ou rappel, provenance du vaccin.
 
 #### Pour les autres médicaments
 
-*   Nom du produit, numéro de lot et présentation.
+- Nom du produit, numéro de lot et présentation.
 
 ### 2. Données sur la vaccination
 
@@ -77,8 +78,6 @@ Description des signes cliniques avec dates de début et de fin, en séparant le
 La vaccinovigilance est nécessaire pour fournir des indications sur le profil de tolérance des vaccins dans chaque population.  
 Les infirmiers ont un rôle important à jouer en rapportant les événements indésirables dont ils ont connaissance aux structures mises en place dans chaque pays.
 
-
 ![](12188-1.jpg)
 
-
-_Développement et Santé,n°195/196, 2009_
+*Développement et Santé,n°195/196, 2009*

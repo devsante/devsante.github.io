@@ -17,26 +17,25 @@ C’est dans ce contexte que le Ministère de la Santé du Sénégal a saisi l'
 L'objectif final de la conférence était de formuler un plaidoyer commun sous la forme d'un appel international pour que la question des hépatites en Afrique soit une vraie priorité de santé publique.  
 Pendant ces trois jours, la réflexion des acteurs de lutte contre les hépatites s’est organisée au sein de trois groupes thématiques afin de proposer des solutions pertinentes pour lever les obstacles structurels à une lutte efficace contre les hépatites en Afrique :
 
-*   Groupe I : Prévention des hépatites B et C.  
-*   Groupe II : Prise en charge des hépatites chroniques B et C.  
-*   Groupe III : Financement des programmes de lutte contre les hépatites en Afrique.
+- Groupe I : Prévention des hépatites B et C.
+- Groupe II : Prise en charge des hépatites chroniques B et C.
+- Groupe III : Financement des programmes de lutte contre les hépatites en Afrique.
 
 A l’issue des travaux de groupe, suivis de discussions en plénière, les  recommandations suivantes ont été formulées :
 
-### 1. Pour la prévention de la transmission  
-mère-enfant du VHB
+### 1. Pour la prévention de la transmission mère-enfant du VHB
 
-*   Vacciner tous les nouveau-nés à la naissance dans un délai maximum de 24 heures.  
-*   Dépister systématiquement les femmes enceintes pour une  stratégie ciblée de prise en charge de la mère et du nouveau-né
+- Vacciner tous les nouveau-nés à la naissance dans un délai maximum de 24 heures.
+- Dépister systématiquement les femmes enceintes pour une  stratégie ciblée de prise en charge de la mère et du nouveau-né
 
 ### 2. Pour la prévention de la transmission horizontale
 
-*   Renforcer la sécurité transfusionnelle en matière d’hépatites B et C.  
-*   Prendre en compte la problématique des hépatites dans les programmes de sécurité des injections et de prévention des AES et des infections associées aux soins.  
-*   Sécuriser les actes non médicaux avec effraction de la peau.  
-*   Dépister et vacciner le personnel de santé en exercice.  
-*   Légiférer pour rendre obligatoires le dépistage et la vaccination du personnel de santé à l’embauche.  
-*   Assurer le dépistage et la vaccination des  groupes à risque (hors professionnels de santé).
+- Renforcer la sécurité transfusionnelle en matière d’hépatites B et C.
+- Prendre en compte la problématique des hépatites dans les programmes de sécurité des injections et de prévention des AES et des infections associées aux soins.
+- Sécuriser les actes non médicaux avec effraction de la peau.
+- Dépister et vacciner le personnel de santé en exercice.
+- Légiférer pour rendre obligatoires le dépistage et la vaccination du personnel de santé à l’embauche.
+- Assurer le dépistage et la vaccination des  groupes à risque (hors professionnels de santé).
 
 ### 3. Pour la prévention de la transmission sexuelle
 
@@ -46,32 +45,32 @@ Assurer le dépistage et la vaccination de rattrapage contre l’hépatite B de
 
 **Information, Education, Communication/Communication pour le Changement de Comportement**
 
-*   Mettre en œuvre un plan de CCC spécifique aux hépatites  en  mutualisant les moyens et acquis des autres programmes de communication.
+- Mettre en œuvre un plan de CCC spécifique aux hépatites  en  mutualisant les moyens et acquis des autres programmes de communication.
 
 ### 5. Pour la prise en charge des hépatites chroniques B et C
 
 Après avoir analysé les obstacles et contraintes à une bonne prise en charge des porteurs chroniques du VHB et du VHC, les participants recommandent aux états :
 
-*   D’assurer la formation d’un personnel suffisant capable de prendre en charge les porteurs chroniques du virus de l’hépatite B à tous les échelons de la pyramide sanitaire et sur l’ensemble du territoire national.  
-*   De garantir la disponibilité des médicaments requis à des prix abordables.  
-*   De  faciliter  l’accès  aux  dosages  quantitatifs  de l’ADN du VHB et de l’ARN du VHC pour dépister les porteurs chroniques éligibles à un traitement.  
-*   De faciliter l’accès aux tests de mesure de la fibrose hépatique.  
-*   De faciliter l’accès aux tests de génotypage du VHB et du VHC afin de faciliter le choix du traitement anti- viral et d’aider à prévoir la réponse au traitement.
+- D’assurer la formation d’un personnel suffisant capable de prendre en charge les porteurs chroniques du virus de l’hépatite B à tous les échelons de la pyramide sanitaire et sur l’ensemble du territoire national.
+- De garantir la disponibilité des médicaments requis à des prix abordables.
+- De  faciliter  l’accès  aux  dosages  quantitatifs  de l’ADN du VHB et de l’ARN du VHC pour dépister les porteurs chroniques éligibles à un traitement.
+- De faciliter l’accès aux tests de mesure de la fibrose hépatique.
+- De faciliter l’accès aux tests de génotypage du VHB et du VHC afin de faciliter le choix du traitement anti- viral et d’aider à prévoir la réponse au traitement.
 
 ### 6. Pour le financement des programmes de lutte contre les hépatites
 
 De manière consensuelle, les participants ont recommandé :
 
-*   Une hausse substantielle des budgets par pays alloués à la santé afin d’atteindre 15 % du budget national.  
-*   L’implication des collectivités locales dans les dépenses de santé.  
-*   La mise en place de fonds de solidarité au niveau des états et d’un système d’assurance au niveau individuel.  
-*   La création d’un fonds international de lutte contre les hépatites.
+- Une hausse substantielle des budgets par pays alloués à la santé afin d’atteindre 15 % du budget national.
+- L’implication des collectivités locales dans les dépenses de santé.
+- La mise en place de fonds de solidarité au niveau des états et d’un système d’assurance au niveau individuel.
+- La création d’un fonds international de lutte contre les hépatites.
 
 Par ailleurs, les participants recommandent :
 
-*   D’améliorer les systèmes de surveillance épidémiologique.  
-*   De  mettre en œuvre des études sérologiques permettant de produire des données fiables pour orienter les mesures de prévention et de lutte, et de surveiller l’impact des stratégies de prévention.  
-*   De mettre en place, dans les meilleurs délais, un groupe technique consultatif de vaccination dans les pays afin de proposer des politiques et stratégies vaccinales.
+- D’améliorer les systèmes de surveillance épidémiologique.
+- De  mettre en œuvre des études sérologiques permettant de produire des données fiables pour orienter les mesures de prévention et de lutte, et de surveiller l’impact des stratégies de prévention.
+- De mettre en place, dans les meilleurs délais, un groupe technique consultatif de vaccination dans les pays afin de proposer des politiques et stratégies vaccinales.
 
 ## III. Les perspectives, les priorités
 
@@ -81,25 +80,25 @@ De manière à faciliter la mise en œuvre des recommandations de l'APPEL DE DAK
 un Comité de Suivi ainsi qu'un Point Focal pourchaque pays participant.  
 Le Comité de Suivi est chargé :
 
-*   de participer à la mise en place des Points Focaux,
-*   d'appuyer l'organisation de la prochaine conférence internationale sur les hépatites en Afrique francophone,
-*   de tenir informés tous les partenaires (institutions, bailleurs, etc...) de l'avancée des actions menées dans la lutte contre les hépatites en Afrique francophone, et également de mener des actions de  plaidoyer auprès de ces partenaires,
-*   de  favoriser la  coopération interafricaine sur les hépatites.
+- de participer à la mise en place des Points Focaux,
+- d'appuyer l'organisation de la prochaine conférence internationale sur les hépatites en Afrique francophone,
+- de tenir informés tous les partenaires (institutions, bailleurs, etc...) de l'avancée des actions menées dans la lutte contre les hépatites en Afrique francophone, et également de mener des actions de  plaidoyer auprès de ces partenaires,
+- de  favoriser la  coopération interafricaine sur les hépatites.
 
 Les Points Focaux ont pour mission de représenter les différents acteurs de lutte contre les hépatites dans leur pays, et de faire le lien avec le Comité de Suivi de l'APPEL  DE  DAKAR.  De  manière spécifique, ils sont chargés de :
 
-*   diffuser les informations reçues du Comité de Suivi de l'APPEL DE DAKAR,
-*   pouvoir établir des diagnostics précis sur la situation épidémiologique des hépatites et des dispositifs existants, et les pratiques en matière de lutte contre  les hépatites,
-*   faire un compte-rendu trimestriel des actions menées par les acteurs de lutte contre les hépatites dans leur pays,
-*   transmettre au Comité de Suivi les propositions  d'actions à mener dans le cadre de la lutte contre les hépatites dans leur pays.
+- diffuser les informations reçues du Comité de Suivi de l'APPEL DE DAKAR,
+- pouvoir établir des diagnostics précis sur la situation épidémiologique des hépatites et des dispositifs existants, et les pratiques en matière de lutte contre  les hépatites,
+- faire un compte-rendu trimestriel des actions menées par les acteurs de lutte contre les hépatites dans leur pays,
+- transmettre au Comité de Suivi les propositions  d'actions à mener dans le cadre de la lutte contre les hépatites dans leur pays.
 
 Si chaque organisation reste autonome, une coordination via le Point Focal sera de nature à renforcer les coopérations entre acteurs, à augmenter la visibilité et l'efficacité des actions et à diffuser les meilleures pratiques sur l'ensemble des pays.
 
 ### 2. Les premières retombées de l'APPEL DE DAKAR
 
-*   Une bonne diffusion de la recommandation par l'OMS de pratiquer la vaccination dès la naissance pour tous les pays africains.  
-*   La mise en place d'un groupe de travail sur l'évaluation des tests diagnostiques en vue du dépistage de masse des porteurs chroniques d’AgHBs.  
-*   Des discussions avec les laboratoires pharmaceutiques pour une meilleure accessibilité aux traitements.
+- Une bonne diffusion de la recommandation par l'OMS de pratiquer la vaccination dès la naissance pour tous les pays africains.
+- La mise en place d'un groupe de travail sur l'évaluation des tests diagnostiques en vue du dépistage de masse des porteurs chroniques d’AgHBs.
+- Des discussions avec les laboratoires pharmaceutiques pour une meilleure accessibilité aux traitements.
 
 ### 3. Perspectives de l'APPEL DE DAKAR
 

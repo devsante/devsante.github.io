@@ -19,8 +19,8 @@ Dans certaines situations particulières Grossesse, diabète gravidique, glycém
 
 ### En pratique
 
-*   Le patient est traité avec les doses maximales d'ADO.  
-*   Les glycémies restent supérieures à 2 g/L ; les glycosuries indiquent une ou deux + (rappelons que la glycosurie apparaît lorsque la glycémie dépasse 1,6g/L); l'hémoglobine glyquée dépasse 8 % à 2 ou 3 contrôles successifs.
+- Le patient est traité avec les doses maximales d'ADO.
+- Les glycémies restent supérieures à 2 g/L ; les glycosuries indiquent une ou deux + (rappelons que la glycosurie apparaît lorsque la glycémie dépasse 1,6g/L); l'hémoglobine glyquée dépasse 8 % à 2 ou 3 contrôles successifs.
 
 On réévalue le comportement alimentaire et il semble que l'on ne pourra pas Suffisamment améliorer la diététique.
 
@@ -30,8 +30,8 @@ Il n'est pas survenu de facteur intercurrent de décompensation glycémique, tel
 
 Les insulines existent :
 
-*   soit en flacon, à **garder au frais dans un réfrigérateur**. On prélève et on injecte la dose nécessaire au moyen d'une seringue spécifique, dite a insuline,
-*   soit en stylo auto piqueur, plus pratique mais nettement plus onéreux.
+- soit en flacon, à **garder au frais dans un réfrigérateur**. On prélève et on injecte la dose nécessaire au moyen d'une seringue spécifique, dite a insuline,
+- soit en stylo auto piqueur, plus pratique mais nettement plus onéreux.
 
 ### 1. Les insulines ordinaires
 
@@ -39,8 +39,8 @@ Elles ont une action rapide et courte : baisse de la glycémie en une heure, et 
 
 Elles existent :
 
-*   soit sous forme pure (3 injections par jour),
-*   soit associées à une insuline semi-retard NPH. Ce sont les insulines biphasiques, dont le délai d'action varie de 1 à 12 heures.
+- soit sous forme pure (3 injections par jour),
+- soit associées à une insuline semi-retard NPH. Ce sont les insulines biphasiques, dont le délai d'action varie de 1 à 12 heures.
 
 Le patient doit apprendre à les utiliser afin de réduire le risque d'hypoglycémie.
 
@@ -54,8 +54,8 @@ Leur une durée d'action est de 12 à 14 heures, avec un pic d'efficacité à 3 
 
 Inconvénients :
 
-*   Deux injections par 24 h sont nécessaires.  
-*   Le pic d'efficacité peut provoquer une hypoglycémie, en particulier la nuit suivant l'injection du soir.
+- Deux injections par 24 h sont nécessaires.
+- Le pic d'efficacité peut provoquer une hypoglycémie, en particulier la nuit suivant l'injection du soir.
 
 #### b) Les analogues lents
 
@@ -69,21 +69,21 @@ En outre, leur action est plus étalée, en plateau et sans pic, ce qui présent
 
 Le traitement est débuté sur la base de **0,1 à 0,2 unités/kg/j** soit, pour une personne de 80 kg, 10 à 16 U/j.
 
-Il est préférable de **commencer par une dose faible** et d'augmenter ensuite progressivement (règle _du "go down, go slow'_). On vise une valeur cible stricte de la glycémie au réveil de 0,8 a 1g/L.
+Il est préférable de **commencer par une dose faible** et d'augmenter ensuite progressivement (règle *du "go down, go slow'*). On vise une valeur cible stricte de la glycémie au réveil de 0,8 a 1g/L.
 
 L'adaptation des doses se fait par paliers de **deux unités** en plus ou en moins :
 
-*   en cas de malaise hypoglycémique.  
-*   selon la glycémie au réveil,
-*   selon les données des trois mesures quotidiennes,
-*   en cas d'activité physique plus importante que d'habitude (sport, activité manuelle...) : on doit alors diminuer la dose ou, pour prévenir le risque hypoglycémique, conseiller d'ingérer des compléments diététiques.
+- en cas de malaise hypoglycémique.
+- selon la glycémie au réveil,
+- selon les données des trois mesures quotidiennes,
+- en cas d'activité physique plus importante que d'habitude (sport, activité manuelle...) : on doit alors diminuer la dose ou, pour prévenir le risque hypoglycémique, conseiller d'ingérer des compléments diététiques.
 
 ### 2. Pour la prescription des ADO
 
 On pourra profiter de l'insulinothérapie pour tenter d'alléger le traitement oral :
 
-*   soit en ne gardant qu'un ADO, de préférence le biguanide,
-*   soit en gardant la bithérapie, si possible à moindres doses.
+- soit en ne gardant qu'un ADO, de préférence le biguanide,
+- soit en gardant la bithérapie, si possible à moindres doses.
 
 ## III. L'éducation thérapeutique
 
@@ -100,14 +100,14 @@ Le soignant doit d'abord lui-même en apprendre Futilisation afin de savoir l'ex
 5.  insister sur la simplicité du traitement, en montrant le matériel ;
 6.  expliquer les 4 principes de sa mise en oeuvre :
 
-*   surveillance glycémique au dispensaire ou par auto surveillance,
-*   technique d'injection de l'insuline (ou, quand et avec quoi : seringues, stylos auto injecteurs),
-*   quantités à injecter,
-*   adaptation des doses ;
+- surveillance glycémique au dispensaire ou par auto surveillance,
+- technique d'injection de l'insuline (ou, quand et avec quoi : seringues, stylos auto injecteurs),
+- quantités à injecter,
+- adaptation des doses ;
 
-7. expliquer l'hypoglycémie et ses signes, et vérifier que les doses utilisées ne sont pas excessives ;
+7.  expliquer l'hypoglycémie et ses signes, et vérifier que les doses utilisées ne sont pas excessives ;
 
-8. en parler tôt dans la maladie, afin que le patient s'habitue a cette idée et sans que cela ne l'inquiète. En conclusion, l'insulinothérapie contribue a une nouvelle et meilleure prise en charge des diabètes non insulino-dépendants.
+8.  en parler tôt dans la maladie, afin que le patient s'habitue a cette idée et sans que cela ne l'inquiète. En conclusion, l'insulinothérapie contribue a une nouvelle et meilleure prise en charge des diabètes non insulino-dépendants.
 
 <table>
 
@@ -367,4 +367,4 @@ Détémir
 
 </table>
 
-_Développement et Santé, n°193, 2009_
+*Développement et Santé, n°193, 2009*

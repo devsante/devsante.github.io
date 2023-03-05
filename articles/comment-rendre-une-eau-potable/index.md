@@ -6,9 +6,7 @@ date: "2005-06-03"
 
 <div class="teaser"><p>L'eau, absolument nécessaire à la vie, peut parallèlement introduire dans l'organisme humain des agents pathogènes qui peuvent être des substances chimiques ou des microorganismes pathogènes (virus, bactéries, parasites), comme l'expliquent d'autres articles de ce site.</p></div>
 
-
 ![](i1003-1.jpg)
-
 
 L'eau, absolument nécessaire à la vie, peut parallèlement introduire dans l'organisme humain des agents pathogènes qui peuvent être des substances chimiques ou des micro-organismes pathogènes (virus, bactéries, parasites), comme les autres articles de la revue l'expliquent.
 
@@ -22,7 +20,8 @@ En France et en Europe la définition de l'eau potable exige l'application stric
 
 ## I. Que faire ?
 
-### 1. Avant toute action, il faut éliminer  
+### 1. Avant toute action, il faut éliminer
+
 les substances en suspension dans l'eau
 
 Pour cela il faut décanter l'eau pendant quelques heures cest-à-dire la laisser reposer dans un canari 4/6 heures, les substances en suspension se déposent au fond, il reste alors à soutirer l'eau de la partie supérieure. Il est plus facile de pratiquer une pré-filtration avec soit du sable (canari percé au fond avec une couche de graviers et de sable dans la partie inférieure), soit avec un filtre en papier si cela est possible, soit avec un tissu de coton (genre pagne). La technique du pagne permet aussi d'éliminer, dès le départ, les vecteurs de la filaire de Médine (cyclops) et c'est la technique recommandée pour se protéger de ce parasite, le seul transmissible exclusivement par l'eau de boisson.
@@ -39,7 +38,8 @@ Malheureusement pour consommer cette eau il faut la refroidir et elle risque de 
 
 Il est reconnu aussi que la conservation de l'eau dans des récipients transparents ou translucides exposés au soleil permet une diminution réelle de la population bactérienne de l'eau contenue. Mais avant d'envisager cette technique il faut s'assurer que le récipient utilisé est de "qualité alimentaire".
 
-### 3. Désinfection chimique : méthode la plus utilisée  
+### 3. Désinfection chimique : méthode la plus utilisée
+
 et la plus recommandable
 
 #### a) Les sels d'argent
@@ -58,7 +58,7 @@ La teneur en chlore actif est exprimée dans les pays francophones en degré chl
 
 Un degré chlorométrique équivaut à 0,3% de chlore actif.
 
-Le plus utilisé depuis 150 ans est l'**hypochlorite de sodium ou _eau de Javel_.** Trois gouttes d'eau de Javel à 12 degrés chlorométriques dans un litre d'eau de boisson éliminent après 1 heure et pendant 24 heures virus et bactéries.
+Le plus utilisé depuis 150 ans est l'**hypochlorite de sodium ou *eau de Javel*.** Trois gouttes d'eau de Javel à 12 degrés chlorométriques dans un litre d'eau de boisson éliminent après 1 heure et pendant 24 heures virus et bactéries.
 
 Son avantage est dêtre disponible (presque) partout.
 
@@ -66,11 +66,11 @@ Ses inconvénients sont d'être difficilement transportable, de mal se conserver
 
 Le **tosylchloramide** ou **chloramine** est un libérateur de chlore qui a été utilisé pendant des décennies, il s'utilise à la dose de 1 ou 2 comprimés de 12,2 mg de chloramine pour un litre d'eau. Peu stable à la chaleur et très sensible à la quantité de substances organiques dans l'eau il est de plus en plus abandonné par les grands consommateurs traditionnels comme les armées et les ONG.
 
-Un produit récent a été développé pour essayer de répondre aux inconvénients des produits chlorés précédents c'est le dichloro-striazinetrione de sodium ou dichloro-isocyanurate de sodium ou **troclosène_._**
+Un produit récent a été développé pour essayer de répondre aux inconvénients des produits chlorés précédents c'est le dichloro-striazinetrione de sodium ou dichloro-isocyanurate de sodium ou **troclosène\_.\_**
 
-C'est un produit qui se présente en comprimé effervescent, utilisé depuis longtemps pour désinfecter les biberons et l'eau des piscines. Depuis 1999 il est autorisé en France sous le nom d"'Aquatabs", distribué par la société Sovedis*.
+C'est un produit qui se présente en comprimé effervescent, utilisé depuis longtemps pour désinfecter les biberons et l'eau des piscines. Depuis 1999 il est autorisé en France sous le nom d"'Aquatabs", distribué par la société Sovedis\*.
 
-Sa conservation est bonne avec des comprimés sous blister, il est utilisé par la presque totalité des armées occidentales et des ONG internationales. Il est inscrit dans la liste des médicaments essentiels, fait partie des kits d'urgence des organisation internationales et est disponible auprès des centrales humanitaires d'approvisionnement pharmaceutique (UNICEF, CHMP**, IDA). Il serait souhaitable qu'une distribution plus large en Afrique intervienne rapidement.
+Sa conservation est bonne avec des comprimés sous blister, il est utilisé par la presque totalité des armées occidentales et des ONG internationales. Il est inscrit dans la liste des médicaments essentiels, fait partie des kits d'urgence des organisation internationales et est disponible auprès des centrales humanitaires d'approvisionnement pharmaceutique (UNICEF, CHMP\*\*, IDA). Il serait souhaitable qu'une distribution plus large en Afrique intervienne rapidement.
 
 Le produit se présente sous la forme de comprimés effervescents de 3,5 mg pour un litre d'eau, de 33 mg pour 10 litre d'eau et d'une présentation pour 40 litres d'eau.
 
@@ -92,8 +92,8 @@ Electrolyse et dialyse sont des techniques efficaces (y compris sur les toxiques
 
 Pour finir, il faut rappeler que la difficulté est souvent plus dans la conservation de l'eau "potable" que dans la désinfection de l'eau. D'autre part, et surtout, les infections intestinales sont plus souvent la conséquence de la consommation d'aliments contaminés crus ou mal cuits ou d'une hygiène individuelle insuffisante (mains sales) que de la consommation directe d'eau de boisson.
 
-_* SOVEDIS 9 avenue d'Arromanches 94100 Saint Maur fax (33) 1 43 97 95 35[  
-sovedis@club-internet. fr](http://souedisCclub-internet.fr/)_  
-_** Centrale humanitaire médico pharmaceutique. Voie militaire des Gravanches 63100 Clermont-Ferrand__ [;contact@chmp.org](mailto:contact@chmp.org)_
+*\* SOVEDIS 9 avenue d'Arromanches 94100 Saint Maur fax (33) 1 43 97 95 35[  
+sovedis@club-internet. fr](http://souedisCclub-internet.fr/)*  
+*\*\* Centrale humanitaire médico pharmaceutique. Voie militaire des Gravanches 63100 Clermont-Ferrand [<contact@chmp.org>](mailto:contact@chmp.org)*
 
-_Développement et Santé, n°177, juin 2005_
+*Développement et Santé, n°177, juin 2005*

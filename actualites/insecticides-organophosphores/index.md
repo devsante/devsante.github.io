@@ -17,4 +17,4 @@ Il est donc clair que les femmes enceintes ne doivent pas entrer en contact avec
 
 Par Philippe Reinert, pédiatre, Créteil, France
 
-_Réf. Peterson BS. Proc Natl Acad Sci USA, 2012_
+*Réf. Peterson BS. Proc Natl Acad Sci USA, 2012*

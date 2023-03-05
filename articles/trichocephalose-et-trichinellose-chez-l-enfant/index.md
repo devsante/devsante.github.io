@@ -8,7 +8,7 @@ date: "2013-02-06"
 
 ### 1. Epidémiologie
 
-Le trichocéphale (_Trichuris trichiura_) est un nématode cosmopolite, de 3 à 5 cm de long, composé d’une partie céphalique fine et d’une partie caudale plus épaisse. Il est situé dans le caecum. Les adultes sont fichés dans la muqueuse et pondent leurs œufs qui sont éliminés avec les selles. Après maturation à l’extérieur, les œufs sont ingérés avec l’eau ou les crudités. Les larves éclosent, restent dans l’intestin et deviennent adultes en 10 mois.
+Le trichocéphale (*Trichuris trichiura*) est un nématode cosmopolite, de 3 à 5 cm de long, composé d’une partie céphalique fine et d’une partie caudale plus épaisse. Il est situé dans le caecum. Les adultes sont fichés dans la muqueuse et pondent leurs œufs qui sont éliminés avec les selles. Après maturation à l’extérieur, les œufs sont ingérés avec l’eau ou les crudités. Les larves éclosent, restent dans l’intestin et deviennent adultes en 10 mois.
 
 ### 2. Clinique
 
@@ -92,7 +92,7 @@ Suspension à 20 mg/ml</td>
 
 ### 1. Epidémiologie
 
-La trichinellose (nom préférable à celui de trichinose) est une zooonose cosmopolite, qui survient par épidémie. Elle est due à l’ingestion de viande de porc ou de cheval contenant des kystes de _Trichinella spiralis_. En fait, il existe plusieurs espèces de _Trichinella._  
+La trichinellose (nom préférable à celui de trichinose) est une zooonose cosmopolite, qui survient par épidémie. Elle est due à l’ingestion de viande de porc ou de cheval contenant des kystes de *Trichinella spiralis*. En fait, il existe plusieurs espèces de *Trichinella.*  
 Après ingestion de la viande infestée, les larves muent en adultes (de 1 à 4 mm) qui émettent des larves. Celles-ci passent dans la circulation et gagnent les muscles, où elles s’enkystent.
 
 ### 2. Clinique
@@ -103,10 +103,8 @@ Cette affection provoque, après une incubation moyenne de 5 jours, des symptôm
 
 Le **diagnostic** est établi, dans un tel contexte, sur l’hyperéosinophilie et l’élévation des enzymes musculaires (créatine-phosphokinase, lactico-déshydrogénase). Le sérodiagnostic se positive en trois semaines. La preuve formelle, qu’il ne faut pas attendre pour traiter, est basée sur la biopsie musculaire, montrant les kystes caractéristiques : ovoïdes, 500 x 250 µ, contenant une larve enroulée sur elle-même.
 
-_**Larve de trichine (biopsie musculaire)**_
-
+***Larve de trichine (biopsie musculaire)***
 
 ![](page-7-fig-8-larve-trichine.jpg)
-
 
 Le **traitement** est basé sur l'albendazole : 2 à 5 comprimés/j, selon l’âge, pendant 5 jours. En cas d’atteinte de l’état général, les corticoïdes permettent de faire régresser rapidement les symptômes. La seule prophylaxie efficace serait de bien cuire la viande de porc (ce qui est habituellement réalisé) ou de cheval (ce qui est plus difficile à obtenir, car contraire aux habitudes.

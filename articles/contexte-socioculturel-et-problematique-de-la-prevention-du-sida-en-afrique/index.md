@@ -4,11 +4,9 @@ author: "Arouna Ouedraogo*"
 date: "1994-06-05"
 ---
 
-**Contexte socioculturel et problématique de la prévention du sida****en Afrique : réflexions à partir du cas de la société Mossi****au Burkina Faso**
+**Contexte socioculturel et problématique de la prévention du sidaen Afrique : réflexions à partir du cas de la société Mossiau Burkina Faso**
 
-**par Arouna Ouedraogo***
-
-*Médecin-chef du Service Psychiatrie, CHN Yalgado - Ouagadougou, Burkina Faso.  
+\*Médecin-chef du Service Psychiatrie, CHN Yalgado - Ouagadougou, Burkina Faso.  
 Les problèmes sanitaires rencontrés dans les pays en développement sont pour la plupart imputables en grande partie à l'ignorance et à la pauvreté. Ce constat est certainement vrai pour ce qui concerne la pandémie du sida qui, bien que relativement récente, ne constitue pas moins un des problèmes majeurs de santé publique.
 
 Durement éprouvé par les difficultés économiques, le continent africain doit désormais faire face à ce nouveau défi qu'est le sida. Malgré les cas méconnus, les sousnotifications et les notifications tardives, les relevés épidémiologiques les plus récents sont assez préoccupants : sur 611 589 cas de sida déclarés à l'échelle planétaire, 211 032 proviennent du seul continent africain soit 34,5 %. De même source, on estime à 7,5 millions le nombre de cas d'infections à VIH dans le continent africain, alors que le total mondial serait de 11,675 millions (OMS, Relevé épidémiologique hebdomadaire, 1993 ; 68, 3 : 9-16.).
@@ -25,7 +23,7 @@ Traditionnellement agriculteur, occupant la partie centrale et septentrionale du
 
 C'est une société très hiérarchisée, au sein de laquelle l'autorité du chef en général est absolue, tout comme l'est celle du chef de famille sur les femmes et ses enfants. La division sexuelle et sociale du travail est la règle, à l'image de l'organisation clanique de la société. La polygamie est la forme habituelle de mariage et confère à la femme un rôle de génitrice soumise à la volonté du lignage après celle de Dieu. La succession est de type patrilinéaire et le caractère agnatique de la société mossi proscrit le mariage endogamique. L'éducation des enfants se fait essentiellement à travers le lignage, avec cependant une double référence, verticale par rapport aux ancêtres et horizontale par rapport à la classe d'âge.
 
-Malgré la forte pénétration des religions importées comme l'islam et le christianisme, l'animisme est encore largement répandu et en pratique le syncrétisme reste la religion de bon nombre de _Mossi._
+Malgré la forte pénétration des religions importées comme l'islam et le christianisme, l'animisme est encore largement répandu et en pratique le syncrétisme reste la religion de bon nombre de *Mossi.*
 
 La paix sociale, la prospérité et la santé sont fortement influencées par les ancêtres qui peuvent par ailleurs intervenir pour juguler les catastrophes naturelles de quelque nature qu'elles soient. La santé est un bien qui doit être recherché et préservé à travers l'observance des rites et coutumes multiples et compliqués qui rythment la vie de chaque famille et qui consistent essentiellement en une série d'obligations et d'interdits. L'individu doit s'abstenir d'une quelconque recherche de rationalité dans ces obligations et interdits mais doit simplement obéir. L'état de maladie, quant à lui, n'est nullement le fait d'un hasard. La maladie découle pour l'essentiel, et pour simplifier, de la non observance de ces rites et coutumes. Le remède est donc dans cette logique culturelle, toujours accessible " quelque part", la seule cause de maladie au-dessus de toute ressource thérapeutique restant la maladie causée par "Dieu", entendez par là le destin. Tout s'explique chez les Mossi.
 
@@ -61,8 +59,8 @@ Dans un passé encore récent (et peut-être de nos jours), il se trouvait des s
 
 A partir de cette approche, deux constats sont à souligner en guise de conclusion :
 
-1. L'approche multidiciplinaire du sida en Afrique est plus que jamais une nécessité, en visant des mesures concrètes, et en particulier l'usage du préservatif, sa disponibilité, l'éducation sexuelle correspondante.
+1.  L'approche multidiciplinaire du sida en Afrique est plus que jamais une nécessité, en visant des mesures concrètes, et en particulier l'usage du préservatif, sa disponibilité, l'éducation sexuelle correspondante.
 
-2. Sa prévention est doublement complexe dans ce contexte : complexité liée à la nature de la maladie, mais complexité liée à la culture. Dissiper les mythes et idées fausses, préserver la tradition en la débarrassant de ces stigmates susceptibles de favoriser la transmission du VIH, sont pour le moins des actions de longue haleine qui ne relèvent pas de la seule compétence des professionnels de la santé.
+2.  Sa prévention est doublement complexe dans ce contexte : complexité liée à la nature de la maladie, mais complexité liée à la culture. Dissiper les mythes et idées fausses, préserver la tradition en la débarrassant de ces stigmates susceptibles de favoriser la transmission du VIH, sont pour le moins des actions de longue haleine qui ne relèvent pas de la seule compétence des professionnels de la santé.
 
-_Développement et Santé, n°111, juin 1994_
+*Développement et Santé, n°111, juin 1994*

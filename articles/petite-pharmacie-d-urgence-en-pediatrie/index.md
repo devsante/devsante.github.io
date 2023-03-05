@@ -7,7 +7,7 @@ date: "2009-10-07"
 <div class="teaser"><p>Il est important que, dans chaque village, dans chaque quartier, il y ait une "case santé", un "espace santé" avec, en permanence, un minimum de produits de soins d'urgence pour les enfants.<br />
 Cela doit se faire sous la responsabilité d'une personne bien formée, qui connaît les indications et les posologies des médicaments et en vérifie les dates de péremption pour les renouveler régulièrement. Il faudra aussi s'assurer que les produits ne sont pas des contrefaçons et veiller à la sécurité du lieu de stockage.</p></div>
 
-## I. Certains symptômes ou maladies nécessitent un traitement rapide, il est bon d'avoir à portée de main :
+## I. Certains symptômes ou maladies nécessitent un traitement rapide, il est bon d'avoir à portée de main
 
 ### 1. En cas de fièvre élevée
 
@@ -15,9 +15,9 @@ Cela doit se faire sous la responsabilité d'une personne bien formée, qui conn
 
 #### 1. Paracétamol sous plusieurs formes
 
-*   Sirop : ne pas perdre la pipette, graduée selon le poids de l'enfant par kilo, et la maintenir [propre, ne](http://propre.ne) pas la tremper deux fois de suite dans le flacon pour le même enfant.  
-*   Sachets à diluer dans de l'eau potable.  
-*   Comprimés a avaler pour les plus grands.
+- Sirop : ne pas perdre la pipette, graduée selon le poids de l'enfant par kilo, et la maintenir [propre, ne](http://propre.ne) pas la tremper deux fois de suite dans le flacon pour le même enfant.
+- Sachets à diluer dans de l'eau potable.
+- Comprimés a avaler pour les plus grands.
 
 La dose de paracétamol est de 60 m,;/kg/jour, répartis en 4 à 6 prises, soit 15 mg/kg par prise toutes les 6 heures environ ou 10 mg/kg/prise toutes les 4 heures.
 
@@ -25,8 +25,8 @@ La dose de paracétamol est de 60 m,;/kg/jour, répartis en 4 à 6 prises, soit 
 
 On peut utiliser :
 
-*   L'acide acétylsalicylique (aspirine), sachant que la tolérance est moins sûre et qu'il faut l'éviter en cas de varicelle. La posologie est de 60 mg/kg/j répar­tis en 4 ou 6 prises.  
-*   L'ibuprofène, aux posologies indiquée sur les notices (selon la spécialité).
+- L'acide acétylsalicylique (aspirine), sachant que la tolérance est moins sûre et qu'il faut l'éviter en cas de varicelle. La posologie est de 60 mg/kg/j répar­tis en 4 ou 6 prises.
+- L'ibuprofène, aux posologies indiquée sur les notices (selon la spécialité).
 
 ### 2. En cas de troubles digestifs
 
@@ -34,34 +34,34 @@ En cas de gastro-entérite ou de diarrhées de causes variées, l'essentiel est 
 
 Il sera bon d'avoir aussi un antivomitif en cas de besoin, sinon la réhydratation ne pourra pas se faire per os.
 
-*   Métopimazine : en gouttes jusqu'à l'âge de 6 ans, en lyophilisat entre 6 et 12 ans, 10 mg/kg/jour en trois prises ;
-*   Métoclopramide en gouttes, la dose maximale est de 0,1 mg/kg/prise, 4 fois par jour.
+- Métopimazine : en gouttes jusqu'à l'âge de 6 ans, en lyophilisat entre 6 et 12 ans, 10 mg/kg/jour en trois prises ;
+- Métoclopramide en gouttes, la dose maximale est de 0,1 mg/kg/prise, 4 fois par jour.
 
 Les antidiarrhéiques sont un bon appoint :
 
-*   Racécadotril, sachets à 10 mg pour nourrisson, à 30 mg pour enfant, aux posologies suivantes :
-    *   de 1 à 9 mois :(< 9 kg) : un sachet de 10 mg par prise, 3 fois/jour
-    *   de 9 à 30 mois (9-13 kg) : 2 sachets de 10 mg/prise, 3 fois/jour
-    *   de 30 mois à 9 ans (13-27 kg) : un sachet de 30 mg/prise 3 fois/jour
-    *   au-delà de 27 kg : 2 sachets de 30 mg/prise, 3 fois/jour.  
-*   Lopéramide : solution buvable à partir de 2 ans seulement : 0,03 mg/kg/jour en deux ou trois prises.  
-*   Diosmectite : sachets à diluer dans de l'eau ou des aliments :
-    *   jusqu'à un an : 1 sachet/jour (voire 2)
-    *   après un an : 2 sachets/jour (voire 4).
+- Racécadotril, sachets à 10 mg pour nourrisson, à 30 mg pour enfant, aux posologies suivantes :
+  - de 1 à 9 mois :(< 9 kg) : un sachet de 10 mg par prise, 3 fois/jour
+  - de 9 à 30 mois (9-13 kg) : 2 sachets de 10 mg/prise, 3 fois/jour
+  - de 30 mois à 9 ans (13-27 kg) : un sachet de 30 mg/prise 3 fois/jour
+  - au-delà de 27 kg : 2 sachets de 30 mg/prise, 3 fois/jour.
+- Lopéramide : solution buvable à partir de 2 ans seulement : 0,03 mg/kg/jour en deux ou trois prises.
+- Diosmectite : sachets à diluer dans de l'eau ou des aliments :
+  - jusqu'à un an : 1 sachet/jour (voire 2)
+  - après un an : 2 sachets/jour (voire 4).
 
 ### 3. En cas de gêne respiratoire : laryngite, crise d'asthme
 
 La pharmacie doit contenir :
 
-*   Un bronchodilatateur (par exemple salbutamol, terbutaline), avec une chambre d'inhalation.  
-*   Des corticoïdes oraux et injectables. Voir l'article "Asthme de l'enfant" pour les posologies.
+- Un bronchodilatateur (par exemple salbutamol, terbutaline), avec une chambre d'inhalation.
+- Des corticoïdes oraux et injectables. Voir l'article "Asthme de l'enfant" pour les posologies.
 
 ### 4. En cas d'allergie grave : oedème de Quincke, urticaire géante
 
 Il est bon de disposer des produits suivants :
 
-*   Un anti-histaminique en sirop (méquitazine par exemple),
-*   Des corticoïdes oraux et injectables.
+- Un anti-histaminique en sirop (méquitazine par exemple),
+- Des corticoïdes oraux et injectables.
 
 ### 5. En cas d'infection sévère
 
@@ -75,44 +75,44 @@ Un collyre antibiotique ou une pommade ophtal­mique peuvent aussi être utiles 
 
 Cela permettra de mieux pratiquer les soins :
 
-*   Codéine en sirop (1mg/ml), qui se donne avec une cuillère-mesure graduée de 1 à 15 mg, 0,5 mg/kg/prise (exceptionnellement, si la douleur est très intense, 0,75 mg/kg/prise), à renouveler toutes les 8 heures.  
-*   Codéine + paracétamol à partir de 6 ans : 3 mg/kg/j en 4 à 6 prises.
+- Codéine en sirop (1mg/ml), qui se donne avec une cuillère-mesure graduée de 1 à 15 mg, 0,5 mg/kg/prise (exceptionnellement, si la douleur est très intense, 0,75 mg/kg/prise), à renouveler toutes les 8 heures.
+- Codéine + paracétamol à partir de 6 ans : 3 mg/kg/j en 4 à 6 prises.
 
-### **2. Blessures, piqûres d'insectes, plaies plus ou moins infectées**
+### 2. Blessures, piqûres d'insectes, plaies plus ou moins infectées
 
 La pharmacie doit être bien pourvue en produits de soins :
 
 #### Désinfectant local
 
-*   Chlorhexidine ou hexamidine,
-*   Povidone iodée solution à 4 %,
-*   Pommade antibiotique, par exemple acide fusi­dique, ou auréomycine ou mupirocine.
+- Chlorhexidine ou hexamidine,
+- Povidone iodée solution à 4 %,
+- Pommade antibiotique, par exemple acide fusi­dique, ou auréomycine ou mupirocine.
 
 #### Pansements
 
-*   Stériles ou propres (compresses, linges propres, sparadrap... ).  
-*   Le tulle gras est un bon produit pour les plaies car les changements de pansement se font sans gêner la cicatrisation.  
-*   Si quelqu'un sait suturer une plaie, il faut prévoir le matériel nécessaire. Des bandelettes adhésives stériles (pour rapprocher les bords de la plaie) sont toujours bien utiles.
+- Stériles ou propres (compresses, linges propres, sparadrap... ).
+- Le tulle gras est un bon produit pour les plaies car les changements de pansement se font sans gêner la cicatrisation.
+- Si quelqu'un sait suturer une plaie, il faut prévoir le matériel nécessaire. Des bandelettes adhésives stériles (pour rapprocher les bords de la plaie) sont toujours bien utiles.
 
 Bien sûr, ciseaux et pinces seront toujours en place et en bon état.
 
-### **3. Brûlures légères ou moyennes**
+### 3. Brûlures légères ou moyennes
 
-*   Trolamine pour les brûlures de premier degré.  
-*   Tulle gras, povidone iodée pour le 2ème degré.  
-*   Enveloppements stériles ou très propres en cas de brûlures graves étendues ou profondes pour assu­rer un transport dans des conditions d'hygiène maximales.
+- Trolamine pour les brûlures de premier degré.
+- Tulle gras, povidone iodée pour le 2ème degré.
+- Enveloppements stériles ou très propres en cas de brûlures graves étendues ou profondes pour assu­rer un transport dans des conditions d'hygiène maximales.
 
 ### 4. Morsures de chien
 
-Désinfectant local et, si cela est possible, vaccin antirabique rapidement... _(voir article "Rage")._
+Désinfectant local et, si cela est possible, vaccin antirabique rapidement... *(voir article "Rage").*
 
-### **5. Entorses, fractures**
+### 5. Entorses, fractures
 
 La pharmacie doit contenir de quoi immobiliser un membre en attendant qu'un diagnostic soit posé
 
-*   Attelles prévues pour les enfants
-*   Bandes Velpeau
-*   Elastoplaste...
+- Attelles prévues pour les enfants
+- Bandes Velpeau
+- Elastoplaste...
 
 Rappelons qu'une telle pharmacie doit être surveillée pour rester toujours efficace. Il faut un responsable.
 
@@ -120,12 +120,12 @@ Rappelons qu'une telle pharmacie doit être surveillée pour rester toujours eff
 
 Dans certaines situations, il est envisageable que les familles aient elles aussi un petit matériel de soin pour leurs enfants :
 
-*   Paracétamol
-*   Soluté de réhydratation
-*   Un antidiarrhéique (diosmectite)
-*   Un antihistaminique en sirop
-*   Un produit de lavage pour les yeux
-*   Un désinfectant local en solution
-*   Des pansements.
+- Paracétamol
+- Soluté de réhydratation
+- Un antidiarrhéique (diosmectite)
+- Un antihistaminique en sirop
+- Un produit de lavage pour les yeux
+- Un désinfectant local en solution
+- Des pansements.
 
-_Développement et Santé, n°194, 2009_
+*Développement et Santé, n°194, 2009*

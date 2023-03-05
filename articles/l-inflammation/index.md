@@ -17,23 +17,23 @@ L'inflammation est utile, mais peut être exagérée, et alors devenir dangereus
 
 Nous devons donc trouver un juste équilibre dans la prescription des anti-inflammatoires, ce qui est souvent difficile !
 
-## **Il.** Principales causes de l'inflammation
+## Il. Principales causes de l'inflammation
 
-*   Infection (bactéries, virus, parasites, champignons).  
-*   Traumatismes (fracture, entorse, plaie).  
-*   Chaleur ou froid.  
-*   Agents chimiques, électrocutions.  
-*   Obstruction artérielle (drépanocytose) ou veineuse (phlébite).  
-*   Allergène (asthme).  
-*   Maladies auto-immunes (rhumatisme).
+- Infection (bactéries, virus, parasites, champignons).
+- Traumatismes (fracture, entorse, plaie).
+- Chaleur ou froid.
+- Agents chimiques, électrocutions.
+- Obstruction artérielle (drépanocytose) ou veineuse (phlébite).
+- Allergène (asthme).
+- Maladies auto-immunes (rhumatisme).
 
 ## III. Etapes de l'inflammation
 
-_(voir schéma)_
+*(voir schéma)*
 
-*   Appel de sang dans la région (infection ou plaie, par exemple), les capillaires sanguins se dilatent, expliquant la rougeur au niveau de la peau.  
-*   Augmentation de la perméabilité des capillaires : les globules blancs s'arrêtent de circuler dans les vaisseaux, se fixent sur l'endothélium et traversent la paroi capillaire. Des protéines quittent aussi les vaisseaux pour gagner le tissu interstitiel d'où oedème, ce qui entraîne tumeur et douleur.  
-*   Libération des médiateurs par les leucocytes et les macrophages, TNF, interleukines qui stimulent la phagocytose des bactéries, attirent d'autres leucocytes, activent la production d'anticorps par les lymphocytes B et enfin, hâtent la cicatrisation.
+- Appel de sang dans la région (infection ou plaie, par exemple), les capillaires sanguins se dilatent, expliquant la rougeur au niveau de la peau.
+- Augmentation de la perméabilité des capillaires : les globules blancs s'arrêtent de circuler dans les vaisseaux, se fixent sur l'endothélium et traversent la paroi capillaire. Des protéines quittent aussi les vaisseaux pour gagner le tissu interstitiel d'où oedème, ce qui entraîne tumeur et douleur.
+- Libération des médiateurs par les leucocytes et les macrophages, TNF, interleukines qui stimulent la phagocytose des bactéries, attirent d'autres leucocytes, activent la production d'anticorps par les lymphocytes B et enfin, hâtent la cicatrisation.
 
 Toutes ces réactions chimiques consomment de l'énergie et libèrent donc de la chaleur.
 
@@ -58,8 +58,6 @@ Cette obstruction entraîne une anoxie locale (manque d'oxygénation des tissus)
 Cette lyse cellulaire libère des toxines qui déclenchent une inflammation locale : ainsi une articulation deviendra chaude, douloureuse, non mobile.  
 Une grande question se pose alors : simple inflammation à traiter par les antalgiques ou début d'infection (ostéite ou arthrite) à traiter par antibiotiques ?
 
-
 ![](i612-1.jpg)
 
-
-_Développement et Santé, n° 161, octobre 2002_
+*Développement et Santé, n° 161, octobre 2002*

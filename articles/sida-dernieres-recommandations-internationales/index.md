@@ -613,7 +613,7 @@ toxoplasmose
 
 pyriméthamine 75mg/kg/j +sulfadiazine 5 g/j
 
-+ ac. folique 25mg/j
+- ac. folique 25mg/j
 
 </td>
 

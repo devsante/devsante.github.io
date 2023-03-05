@@ -18,9 +18,9 @@ La carence en fer provoque donc, en plus de l’anémie, une hypotonie et une fa
 Malheureusement, l’enfant, qui a de grands besoins en fer, en manque souvent (de 50 % à 90 % en Afrique).  
 Trois raisons à cela :
 
-*   les réserves naturelles pendant la grossesse sont souvent trop faibles : le fœtus ne peut donc constituer ses stocks ;
-*   l’alimentation de l’enfant est trop pauvre en sels de fer ;
-*   les diarrhées, les parasitoses et toutes les infections entraînent des fuites de fer.
+- les réserves naturelles pendant la grossesse sont souvent trop faibles : le fœtus ne peut donc constituer ses stocks ;
+- l’alimentation de l’enfant est trop pauvre en sels de fer ;
+- les diarrhées, les parasitoses et toutes les infections entraînent des fuites de fer.
 
 ### 2. Le cycle du fer
 
@@ -31,8 +31,8 @@ Suivons maintenant le circuit du fer dans l’organisme (schéma n° 1).
 Contenu dans l’alimentation, le fer ferreux est absorbé dans le duodénum par une véritable « pompe aspirante » qui ne fonctionne que si le niveau du fer sanguin est bas.  
 D’autre part, son débit est faible (même si la carence est majeure). On comprend donc pourquoi un traitement martial devra être :
 
-*   fractionné le plus possible dans la journée (pour présenter le plus souvent possible les sels de fer « devant » la pompe duodénale ;
-*   prolongé dans le temps, plusieurs semaines, surtout si la carence est importante.
+- fractionné le plus possible dans la journée (pour présenter le plus souvent possible les sels de fer « devant » la pompe duodénale ;
+- prolongé dans le temps, plusieurs semaines, surtout si la carence est importante.
 
 #### Deuxième temps
 
@@ -53,9 +53,7 @@ Quand le globule rouge meurt au bout de 120 jours, il est capté par la rate et 
 
 **Figure 1. Le circuit du fer dans l'organisme**
 
-
 ![](fer-1-002.jpg)
-
 
 **On constate donc que le fer, ayant pénétré dans l’organisme, doit théoriquement y rester définitivement.**
 
@@ -63,12 +61,12 @@ En fait, de nombreuses « fuites » peuvent se produire :
 
 En fait, de nombreuses « fuites » peuvent se produire :
 
-*   les règles chez la femme,
-*   les hémorragies digestives souvent invisibles,
-*   et à un moindre degré :
-    *   les urines : 1/10 mg/24 heures,
-    *   les selles : 3/10 mg/24 heures,
-    *   la sueur : 4/10 mg/24 heures.
+- les règles chez la femme,
+- les hémorragies digestives souvent invisibles,
+- et à un moindre degré :
+  - les urines : 1/10 mg/24 heures,
+  - les selles : 3/10 mg/24 heures,
+  - la sueur : 4/10 mg/24 heures.
 
 Au total, un homme perd 1 mg/jour, une femme 2 mg/jour.
 
@@ -79,10 +77,10 @@ Afin de maintenir un taux stable dans l’organisme, l’absorption duodénale d
 
 #### Défaut de stock à la naissance
 
-*   Mère carencée
-*   Prématurité
-*   Grossesse gémellaire
-*   Dysmaturité
+- Mère carencée
+- Prématurité
+- Grossesse gémellaire
+- Dysmaturité
 
 #### Hémorragie autour de l’accouchement
 
@@ -96,18 +94,18 @@ Régime lacto-farineux (pauvre en viande et en poisson)
 
 #### Pertes sanguines
 
-_Saignements chroniques_
+*Saignements chroniques*
 
-*   Toutes les diarrhées
-*   Parasitoses intestinales
-*   Reflux gastro-œsophagien
-*   Hématurie (bilharziose)
+- Toutes les diarrhées
+- Parasitoses intestinales
+- Reflux gastro-œsophagien
+- Hématurie (bilharziose)
 
-_Processus inflammatoire_
+*Processus inflammatoire*
 
-*   Infections pulmonaires (les crachats sont riches en fer)
-*   Tuberculose
-*   Rhumatisme articulaire aigu
+- Infections pulmonaires (les crachats sont riches en fer)
+- Tuberculose
+- Rhumatisme articulaire aigu
 
 ## II. Conséquences cliniques d’une carence
 
@@ -118,11 +116,11 @@ Plus récemment, il est décrit un stade précoce de carence en fer, sans anémi
 
 Son diagnostic est facile par simple examen clinique :
 
-*   Pâleur de la peau
-*   Asthénie
-*   Dyspnée d’effort
-*   Tachycardie
-*   Souffle cardiaque (systolique)
+- Pâleur de la peau
+- Asthénie
+- Dyspnée d’effort
+- Tachycardie
+- Souffle cardiaque (systolique)
 
 Toute anémie entraîne une anorexie et une tendance à la somnolence qui peut à elle seule aggraver la dénutrition.
 
@@ -133,12 +131,12 @@ Vous penserez à la carence pré-anémique chez l’enfant quand :
 
 sa prise de poids est insuffisante ais sa taille normale,
 
-*   il se fatigue vite surtout quand il marche,
-*   il se met à parler tard et semble peu intéressé par son entourage,
-*   il est triste, grognon et peu souriant,
-*   il a des infections à répétition : ORL, pulmonaires et cutanées surtout,
-*   il a des difficultés à suivre à l’école,
-*   enfin, quand il devient frileux sans raison.
+- il se fatigue vite surtout quand il marche,
+- il se met à parler tard et semble peu intéressé par son entourage,
+- il est triste, grognon et peu souriant,
+- il a des infections à répétition : ORL, pulmonaires et cutanées surtout,
+- il a des difficultés à suivre à l’école,
+- enfin, quand il devient frileux sans raison.
 
 Si l’enfant n’est pas traité à ce stade, en quelques semaines l’anémie ferriprive va s’installer.
 
@@ -166,23 +164,23 @@ Une carence en fer modérée peut entraîner :
 
 De plus, la carence martiale peut entraîner :
 
-*   troubles cutanéo-muqueux,
-*   trouble de la fonction musculaire
-*   glossite,
-*   perlèche,
-*   troubles des ongles,
-*   troubles du tractus gastro-intestinal,
-*   malabsorption (par atrophie de la muqueuse intestinale).
+- troubles cutanéo-muqueux,
+- trouble de la fonction musculaire
+- glossite,
+- perlèche,
+- troubles des ongles,
+- troubles du tractus gastro-intestinal,
+- malabsorption (par atrophie de la muqueuse intestinale).
 
 De plus, la carence martiale peut entraîner :
 
-*   troubles cutanéo-muqueux,
-*   trouble de la fonction musculaire
-*   glossite,
-*   perlèche,
-*   troubles des ongles,
-*   troubles du tractus gastro-intestinal,
-*   malabsorption (par atrophie de la muqueuse intestinale).
+- troubles cutanéo-muqueux,
+- trouble de la fonction musculaire
+- glossite,
+- perlèche,
+- troubles des ongles,
+- troubles du tractus gastro-intestinal,
+- malabsorption (par atrophie de la muqueuse intestinale).
 
 ## III. Evolution biologique de la carence en fer
 
@@ -277,9 +275,7 @@ Concentration corpusculaire en hémoglobine (mesurant l’hémoglobine à l’in
 
 **Figure 2. Stades évolutifs de la carence martiale**
 
-
 ![](fer-3-003.jpg)
-
 
 ## IV. Prévention de la carence en fer
 
@@ -389,8 +385,8 @@ toujours possible</td>
 
 Deux règles fondamentales sont à retenir : 
 
-*   seuls les sels ferreux sont absorbés par l’intestin ;
-*   la biodisponibilité du fer alimentaire, c’est-à-dire la capacité du fer à se « détacher » des aliments, est très variable : elle est facilitée par la vitamine C.
+- seuls les sels ferreux sont absorbés par l’intestin ;
+- la biodisponibilité du fer alimentaire, c’est-à-dire la capacité du fer à se « détacher » des aliments, est très variable : elle est facilitée par la vitamine C.
 
 #### Alimentation du nourrisson
 
@@ -407,13 +403,13 @@ Pour corriger ces deux graves défauts, on dispose de laits maternisés enrichis
 
 Dès le sevrage**, les risques de carence en fer deviennent majeurs** : 
 
-*   car l’apport en protéines animales est souvent insuffisant,
-*   car les parasitoses intestinales et toutes les infections pulmonaires ou digestives entraînent une importante perte de fer.
+- car l’apport en protéines animales est souvent insuffisant,
+- car les parasitoses intestinales et toutes les infections pulmonaires ou digestives entraînent une importante perte de fer.
 
 Pour les aliments (comme pour les laits), il faut tenir compte :
 
-*   de la teneur en fer,
-*   et surtout de la biodisponibilité (tableau III).
+- de la teneur en fer,
+- et surtout de la biodisponibilité (tableau III).
 
 D’une façon générale, les protéines sont riches en fer, et parmi celles-ci, celles d’origine animale (viande, poisson, œuf) ont le fer le plus absorbable : c’est le fer héminique.
 
@@ -421,9 +417,7 @@ Pour connaître la teneur en fer des rpincipaux aliments, se reporter au tableau
 
 **Tableau III. Absorption du fer contenu dans différents aliments d'origine végétale et animale (moyenne géométrique)**
 
-
 ![](fer-7-1.jpg)
-
 
 **Tableau IV. Teneur en fer des aliments (daprès S. Herlberg, La carence en fer)**
 
@@ -748,8 +742,8 @@ Cela est particulièrement utile pour le prématuré, le petit poids de naissanc
 
 **Le sulfate ferreux est ainsi préconisé à trois mois (date de l’anémie physiologique) et à neuf mois :**
 
-*   A trois mois : 2 mg/kg/jour suffisent, administrés en deux à trois prises pendant six semaines (par exemple 4 gouttes matin, midi et soir au moment des repas).  
-*   A neuf mois (pour un poids de 8 kg environ), il faudra passer à 16 gouttes par jour de nouveau pendant six semaines.
+- A trois mois : 2 mg/kg/jour suffisent, administrés en deux à trois prises pendant six semaines (par exemple 4 gouttes matin, midi et soir au moment des repas).
+- A neuf mois (pour un poids de 8 kg environ), il faudra passer à 16 gouttes par jour de nouveau pendant six semaines.
 
 **​Ainsi, la carence en fer sera prévenue.**
 
@@ -757,20 +751,20 @@ Cela est particulièrement utile pour le prématuré, le petit poids de naissanc
 
 Trop souvent, la carence en fer est découverte au stade majeur qu’est l’anémie.
 
-*   Dans les cas extrêmes, l’hémoglobine peut chuter à 2 à 3 g/100 ml : une transfusion peut  être justifiée devant une menace vitale. Mais les risques de contamination par le VIH et l’hépatite B font que prescrire une transfusion est une lourde responsabilité.  
-*   L’utilisation de fer injectable (IM) permet une correction de l’anémie en huit à dix jours. Malheureusement, cette voie d’administration est chère et semble augmenter transitoirement le risque d’infection bactérienne grave : cet effet paradoxal est dû à l’effondrement  transitoire du pouvoir bactéricide du sérum, un apport massif de fer inhibe ses protéines naturelles bactéricides.
+- Dans les cas extrêmes, l’hémoglobine peut chuter à 2 à 3 g/100 ml : une transfusion peut  être justifiée devant une menace vitale. Mais les risques de contamination par le VIH et l’hépatite B font que prescrire une transfusion est une lourde responsabilité.
+- L’utilisation de fer injectable (IM) permet une correction de l’anémie en huit à dix jours. Malheureusement, cette voie d’administration est chère et semble augmenter transitoirement le risque d’infection bactérienne grave : cet effet paradoxal est dû à l’effondrement  transitoire du pouvoir bactéricide du sérum, un apport massif de fer inhibe ses protéines naturelles bactéricides.
 
 **En pratique**, la voie orale est la plus utilisée même si son action est plus lente.
 
 **Quelques notions sont fondamentales** :
 
-*   Seuls les sels ferreux sont à prescrire car mieux absorbés et mieux tolérés
-*   La durée du traitement doit être supérieure à 3 mois, 6 mois étant souhaitable.  
-*   L’absorption du fer au niveau duodénal est limitée à 150 mg de Fer métal par jour chez l’adulte : il est donc inutile et même dangereux de dépasser les doses recommandées, le surplus reste dans le tube digestif où il provoque  diarrhée, douleurs abdominales, vomissements et finalement refus du traitement par le patient !!
-*   Une prise le matin à jeun  entraîne une meilleure absorption, mais elle est souvent mal tolérée : mieux vaut  administrer le fer au cours des 2 principaux repas
-*   Certains aliments diminuent l’absorption du fer de 20 à 40 % : c’est le cas du thé et des laitages
-*   A l’opposé la vitamine C, comme en contient le jus d’orange, active la pénétration du fer dans l’organisme
-*   Enfin il est inutile de prescrire des associations avec des vitamines autres que la vitamine C ou avec des extraits hépatiques, ces associations sont INUTILES et onéreuses !
+- Seuls les sels ferreux sont à prescrire car mieux absorbés et mieux tolérés
+- La durée du traitement doit être supérieure à 3 mois, 6 mois étant souhaitable.
+- L’absorption du fer au niveau duodénal est limitée à 150 mg de Fer métal par jour chez l’adulte : il est donc inutile et même dangereux de dépasser les doses recommandées, le surplus reste dans le tube digestif où il provoque  diarrhée, douleurs abdominales, vomissements et finalement refus du traitement par le patient !!
+- Une prise le matin à jeun  entraîne une meilleure absorption, mais elle est souvent mal tolérée : mieux vaut  administrer le fer au cours des 2 principaux repas
+- Certains aliments diminuent l’absorption du fer de 20 à 40 % : c’est le cas du thé et des laitages
+- A l’opposé la vitamine C, comme en contient le jus d’orange, active la pénétration du fer dans l’organisme
+- Enfin il est inutile de prescrire des associations avec des vitamines autres que la vitamine C ou avec des extraits hépatiques, ces associations sont INUTILES et onéreuses !
 
 **AU TOTAL :**
 
@@ -778,10 +772,10 @@ L’apport en Fer élément doit être compris entre 80 et 20 mg /kg pour l’ad
 
 Quatre sels de fer sont les plus utilisés :
 
-*   Le sulfate ferreux en comprimés dosés en général à 80 mg
-*   Le fumarate ferreux comprimés ou poudre pédiatrique, une cuillerée contenant 33 mg de fer (en pratique 2 à 4 cuillers/jour)
-*   Le feredelate ferreux sirop pédiatrique
-*   L’ascorbate ferreux gélules à 33 mg/gélule.
+- Le sulfate ferreux en comprimés dosés en général à 80 mg
+- Le fumarate ferreux comprimés ou poudre pédiatrique, une cuillerée contenant 33 mg de fer (en pratique 2 à 4 cuillers/jour)
+- Le feredelate ferreux sirop pédiatrique
+- L’ascorbate ferreux gélules à 33 mg/gélule.
 
 Il est nécessaire d’avertir les patients ou les parents que ces médicaments colorent les selles en noir (c’est un moyen simple de s’assurer de la bonne prise du traitement). 
 

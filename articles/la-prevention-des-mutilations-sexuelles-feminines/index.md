@@ -6,7 +6,7 @@ date: "2014-06-15"
 
 <div class="teaser"><p>J’ai été confrontée pour la première fois à une infibulation en 1974, lorsque je faisais fonction d’interne à la maternité de l’hôpital de la Cité Universitaire : une étudiante Somalienne était infibulée. J’avais été très impressionnée ! Là commence ma lutte contre l’excision et les mutilations sexuelles féminines.</p></div>
 
-## **Regard sur la situation 40 ans plus tard**
+## Regard sur la situation 40 ans plus tard
 
 En PMI, on découvre l’excision à la fin des années 1970. Une pétition initiée par le docteur Marie-Hélène FRANJOU circule pour mobiliser les équipes dans la lutte contre les mutilations sexuelles en 1980.
 
@@ -30,7 +30,7 @@ Ce travail est systématique dans certaines communes.
 
 Dans le même temps, les procès se multiplient, une jurisprudence de 1982 reconnaît  la mutilation sexuelle comme un crime : les procès se déroulent à la cour d’assises. Ils ont un très fort impact sur la communauté concernée.
 
-## **Les populations s’adaptent, la prévention aussi…**
+## Les populations s’adaptent, la prévention aussi…
 
 Alors que, dans les pays d’origine, dans un même village, les mutilations ont lieu entre 6 ans et 15 ans, , en France, dès le début des années 1980, les fillettes sont mutilées bébés (deux bébés meurent des suites d’excision, comme Bobo TRAORE, amenée à l’hôpital de Saint-Denis, vidée de son sang, son père ayant tardé car il sait que l’excision est interdite en France….).
 

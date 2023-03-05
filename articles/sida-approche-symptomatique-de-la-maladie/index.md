@@ -11,15 +11,15 @@ Toux et/ou douleur thoracique et/ou difficultés respiratoires qui persistent ou
 
 ### 2. Causes
 
-*   infections (exemples : tuberculose, pneumonie, pneumocystose, CMV...),
-*   cancers (exemples : sarcome de Kaposi, lymphome).
+- infections (exemples : tuberculose, pneumonie, pneumocystose, CMV...),
+- cancers (exemples : sarcome de Kaposi, lymphome).
 
-### **3. Signes cliniques**
+### 3. Signes cliniques
 
-*   toux chronique,
-*   difficultés respiratoires,
-*   douleurs thoraciques,
-*   expectorations.
+- toux chronique,
+- difficultés respiratoires,
+- douleurs thoraciques,
+- expectorations.
 
 ### 4. Actions et surveillance infirmières
 
@@ -27,45 +27,40 @@ Les manifestations respiratoires (toux, douleur thoracique, difficultés respira
 
 Les objectifs infirmiers lors d'une mise en observation de 24 heures au dispensaire ou d'une prise en charge à domicile sont :
 
-*   Installer le patient en position demi assise, c'est-à-dire le buste surélevé. Placer des coussins, draps roulés... sous le dos du malade. (Attention de ne pas utiliser de moyens qui pourraient blesser le patient).  
-*   Mettre à disposition du patient un récipient avec un couvercle dans lequel il pourra cracher.  
-*   Si la personne est alitée, l'aider à se mobiliser dans le lit, s'asseoir, se retourner... cela améliorera le drainage pulmonaire.  
-*   Apprendre au patient à respirer profondément et à expectorer.  
-*   Il est possible de comprimer légèrement le thorax de la personne en cas de douleur intense lors des épisodes de toux.  
-*   Penser à bien aérer les pièces.  
-*   Conseiller au patient de boire de l'eau pure et des boissons chaudes qui permettront de fluidifier les sécrétions.  
-*   Pratiquer des inhalations avec de la vapeur d'eau chaude (récipient d'eau chaude bouillie+linge propre sur la tête du malade) pour fluidifier les crachats épais.  
-*   Si le patient a mal à la gorge pressez un citron et ajoutez-y du miel. Le patient pourra prendre une grande cuillère de ce mélange aussi souvent que cela est nécessaire.
-
+- Installer le patient en position demi assise, c'est-à-dire le buste surélevé. Placer des coussins, draps roulés... sous le dos du malade. (Attention de ne pas utiliser de moyens qui pourraient blesser le patient).
+- Mettre à disposition du patient un récipient avec un couvercle dans lequel il pourra cracher.
+- Si la personne est alitée, l'aider à se mobiliser dans le lit, s'asseoir, se retourner... cela améliorera le drainage pulmonaire.
+- Apprendre au patient à respirer profondément et à expectorer.
+- Il est possible de comprimer légèrement le thorax de la personne en cas de douleur intense lors des épisodes de toux.
+- Penser à bien aérer les pièces.
+- Conseiller au patient de boire de l'eau pure et des boissons chaudes qui permettront de fluidifier les sécrétions.
+- Pratiquer des inhalations avec de la vapeur d'eau chaude (récipient d'eau chaude bouillie+linge propre sur la tête du malade) pour fluidifier les crachats épais.
+- Si le patient a mal à la gorge pressez un citron et ajoutez-y du miel. Le patient pourra prendre une grande cuillère de ce mélange aussi souvent que cela est nécessaire.
 
 ![](i166-1.jpg)
 
 ![](i166-2.jpg)
 
-
 ## II. Candidose buccale
-
 
 ![](i166-3.jpg)
 
 ![](i166-4.jpg)
 
-
-*Comment prendre la nystatine en suspension ? Mettre la nystatine suspension dans la bouche et la garder quelques minutes avant de I'avaler. Ne rien manger ni boire pendant 20 minutes après avoir pris la nystatine.  
-*On peut remplacer la nystatine suspension par la nystatine ovules gynéco à 100 000 UI : laisser fondre dans la bouche 3 à 5 ovules/j.  
-** Kétoconazole et fluconazole sont contre-indiqués en cas de suspicion de grossesse, de prise d'an ti-tuberculeux ou d'ARV.  
-***Préparation de la fungizone pour bain de bouche : mettre un flacon de suspension de fungizone dans un flacon de 500 ml d'eau bicarbonatée à 14 p. 1000.
+\*Comment prendre la nystatine en suspension ? Mettre la nystatine suspension dans la bouche et la garder quelques minutes avant de I'avaler. Ne rien manger ni boire pendant 20 minutes après avoir pris la nystatine.  
+\*On peut remplacer la nystatine suspension par la nystatine ovules gynéco à 100 000 UI : laisser fondre dans la bouche 3 à 5 ovules/j.  
+**Kétoconazole et fluconazole sont contre-indiqués en cas de suspicion de grossesse, de prise d'an ti-tuberculeux ou d'ARV.**\*Préparation de la fungizone pour bain de bouche : mettre un flacon de suspension de fungizone dans un flacon de 500 ml d'eau bicarbonatée à 14 p. 1000.
 
 ### Actions et surveillance infirmières
 
 **Dans le but d'améliorer le confort du patient :**
 
-*   mettre en oeuvre le traitement prescrit ;
-*   conseiller une alimentation équilibrée, semi liquide ;
-*   demander au patient de ne pas consommer de boissons gazeuses ni alcoolisées ;
-*   le patient peut mastiquer des petits morceaux de mangue verte, de kiwi ou de papaye verte qui peuvent soulager la douleur et la gêne ;
-*   nettoyer délicatement la langue et les gencives avec une compresse enroulée sur une tige imbibée d'eau tiède ;
-*   possibilité de faire des bains de bouches à l'eau citronnée après les repas et au moment du coucher ou bains de bouche avec eau tiède + une pincée de sel, (attendre au moins 1 heure pour faire des bains de bouche après la prise de nystatine).
+- mettre en oeuvre le traitement prescrit ;
+- conseiller une alimentation équilibrée, semi liquide ;
+- demander au patient de ne pas consommer de boissons gazeuses ni alcoolisées ;
+- le patient peut mastiquer des petits morceaux de mangue verte, de kiwi ou de papaye verte qui peuvent soulager la douleur et la gêne ;
+- nettoyer délicatement la langue et les gencives avec une compresse enroulée sur une tige imbibée d'eau tiède ;
+- possibilité de faire des bains de bouches à l'eau citronnée après les repas et au moment du coucher ou bains de bouche avec eau tiède + une pincée de sel, (attendre au moins 1 heure pour faire des bains de bouche après la prise de nystatine).
 
 <table>
 
@@ -91,7 +86,7 @@ paracétamol 50 mg/ kg/j x 3 ou AAS 500 mg x 3/ j  si douleur
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -115,17 +110,18 @@ Il faut toujours examiner la bouche de vos patients car de nombreuses lésions b
 
 ### 1. Définition
 
-*   **- Diarrhée aiguë** : au moins trois selles liquides par jour, pendant plus de deux jours.  
-*   - **Diarrhée chronique** : au moins 3 selles liquides par jour, pendant plus d'un mois.
+- **- Diarrhée aiguë** : au moins trois selles liquides par jour, pendant plus de deux jours.
+
+- - **Diarrhée chronique** : au moins 3 selles liquides par jour, pendant plus d'un mois.
 
 Elle est responsable d'une **dégradation physique** importante et a un impact sur la vie sociale.
 
 Elle entraîne :
 
-*   _dénutrition ;_
-*   _déshydratation ;_
-*   _dépendance physique_
-*   _grabatisation._
+- *dénutrition ;*
+- *déshydratation ;*
+- *dépendance physique*
+- *grabatisation.*
 
 **La diarrhée touche 60 % des personnes séropositives**, elle est souvent accompagnée de nausées/vomissements, de crampes abdominales, de flatulence, et d'amaigrissement.
 
@@ -135,20 +131,20 @@ Elles sont nombreuses : infections, sarcome de Kaposi, VIH, traitements antirét
 
 ### 3. Actions et surveillance
 
-*   Préciser le **nombre** de selles par jour et la date de début des troubles.  
-*   Regarder l'**aspect** des selles : liquides, molles, présence de sang, de glaires.  
-*   Relever les constantes : température, pouls, tension.  
-*   Peser la personne et suivre la courbe de poids.
+- Préciser le **nombre** de selles par jour et la date de début des troubles.
+- Regarder l'**aspect** des selles : liquides, molles, présence de sang, de glaires.
+- Relever les constantes : température, pouls, tension.
+- Peser la personne et suivre la courbe de poids.
 
-_Lorsque l'infirmier à la possibilité de garder la personne pendant 24 h en observation :_
+*Lorsque l'infirmier à la possibilité de garder la personne pendant 24 h en observation :*
 
-*   **Faire un bilan entrée/sortie**. Tracer sur une feuille deux colonnes. Dans la première colonne marquer tout ce que le patient boit (quantité ml) : eau, jus, soupe, SRO...+ perfusion et dans la deuxième colonne noter tous ce qui sort du patient : urines, selles... (quantité ml). Le recueil des informations se fait sur 12h, ou mieux sur 24 h.
+- **Faire un bilan entrée/sortie**. Tracer sur une feuille deux colonnes. Dans la première colonne marquer tout ce que le patient boit (quantité ml) : eau, jus, soupe, SRO...+ perfusion et dans la deuxième colonne noter tous ce qui sort du patient : urines, selles... (quantité ml). Le recueil des informations se fait sur 12h, ou mieux sur 24 h.
 
 **Ex.** 1<sup>e</sup> colonne = entrée : 150 + 200 + 100+ 500 = 950 ml
 
 2 <sup>e</sup> colonne = sortie : 300 + 100 + 200 + 150 + 250 = 1000 ml
 
-*   Il faut que les deux chiffres entrée/sortie soient proches, cela prouve un bon équilibre entre les apports et l'élimination. En cas de problème dans le bilan entrée/sortie = référer.
+- Il faut que les deux chiffres entrée/sortie soient proches, cela prouve un bon équilibre entre les apports et l'élimination. En cas de problème dans le bilan entrée/sortie = référer.
 
 Le risque majeur est la déshydratation. Il faut donc évaluer les signes de déshydratation
 
@@ -156,23 +152,23 @@ Le risque majeur est la déshydratation. Il faut donc évaluer les signes de dé
 
 **Déshydratation modérée**
 
-*   Perte de poids entre **5 à 10 %**
-*   La personne a soif
-*   Elle présente **un pli cutané qui s'efface**
-*   Elle **respire plus vite**
-*   Elle **somnole** ou s'**agite**
-*   Elle **urine moins**, ses urines sont **foncées**
-*   Elle peut avoir les **yeux enfoncés**
-*   **La langue est sèche**
+- Perte de poids entre **5 à 10 %**
+- La personne a soif
+- Elle présente **un pli cutané qui s'efface**
+- Elle **respire plus vite**
+- Elle **somnole** ou s'**agite**
+- Elle **urine moins**, ses urines sont **foncées**
+- Elle peut avoir les **yeux enfoncés**
+- **La langue est sèche**
 
 **Déshydratation sévère**
 
-*   Perte de poids égale ou supérieur à 10 %
-*   La personne est angoissée, elle a froid ou elle est apathique, plus ou moins inconsciente
-*   Son pouls est irrégulier (rapide, il est difficile à prendre)
-*   Sa bouche est très sèche
-*   Le pli cutané est très important et persiste plusieurs minutes
-*   Elle n'urine plus
+- Perte de poids égale ou supérieur à 10 %
+- La personne est angoissée, elle a froid ou elle est apathique, plus ou moins inconsciente
+- Son pouls est irrégulier (rapide, il est difficile à prendre)
+- Sa bouche est très sèche
+- Le pli cutané est très important et persiste plusieurs minutes
+- Elle n'urine plus
 
 <table>
 
@@ -259,12 +255,12 @@ Evaluer régulièrement l'état général du malade. Les signes cliniques doiven
 
 Le patient **doit continuer a s'alimenter.** L'infirmier doit l'**aider**.
 
-*   Le malade doit manger des aliments, **hypercaloriques, par exemple, soupe de riz** (eau de cuisson), **carotte cuite, manioc, bananes**...  
-*   Le patient peut boire du soda à base de cola auquel on aura retiré les bulles en remuant avec une cuillère.  
-*   Il faut dire au malade de **bien se laver les mains** après chaque diarrhée et avant de manger.  
-*   Les fesses et l'anus du malade doivent rester propres et secs.  
-*   Si absence de gants, se protéger les mains avec un sac en plastique et pour attraper les objets souillés, utiliser des grandes feuilles d'arbre (bananier...) puis les jeter dans un endroit prévu à cet effet ou les brûler. Si elle est souillée la literie sera changée et nettoyée en respectant les rèqles d'hyqiène.  
-*   Les endroits tachés de sang, de selles ou de tout autre liquide biologique devront être nettoyés à l'eau de Javel ou un produit similaire.
+- Le malade doit manger des aliments, **hypercaloriques, par exemple, soupe de riz** (eau de cuisson), **carotte cuite, manioc, bananes**...
+- Le patient peut boire du soda à base de cola auquel on aura retiré les bulles en remuant avec une cuillère.
+- Il faut dire au malade de **bien se laver les mains** après chaque diarrhée et avant de manger.
+- Les fesses et l'anus du malade doivent rester propres et secs.
+- Si absence de gants, se protéger les mains avec un sac en plastique et pour attraper les objets souillés, utiliser des grandes feuilles d'arbre (bananier...) puis les jeter dans un endroit prévu à cet effet ou les brûler. Si elle est souillée la literie sera changée et nettoyée en respectant les rèqles d'hyqiène.
+- Les endroits tachés de sang, de selles ou de tout autre liquide biologique devront être nettoyés à l'eau de Javel ou un produit similaire.
 
 **ATTENTION**
 
@@ -274,21 +270,19 @@ Le patient **doit continuer a s'alimenter.** L'infirmier doit l'**aider**.
 
 **Ralentisseurs du transit : traitement des diarrhées chez le patient VIH+**
 
-*   lopéramide : gélule de 2 mg (1 à 4 gélules par jour)
-*   diphénoxylate : comprimés de 2.5 mg (2 à 6 comprimés par jour).
+- lopéramide : gélule de 2 mg (1 à 4 gélules par jour)
+- diphénoxylate : comprimés de 2.5 mg (2 à 6 comprimés par jour).
 
 **Pour les douleurs abdominales** : en lien avec les coliques, donner de la codéine 30 mg toutes les 4 heures ou hyoscine 10 mg x3/j
 
 **Surveillance des effets secondaires : attention à,**
 
-*   somnolence
-*   bouche sèche.
-
+- somnolence
+- bouche sèche.
 
 ![](i166-5.jpg)
 
 ![](i166-6.jpg)
-
 
 ## IV. Nausées/Vomissements
 
@@ -304,38 +298,36 @@ Multiples : traitements médicamenteux (ARV), infections, lésions de l'appareil
 
 Dans le cadre d'une mise en observation de 24 heures au dispensaire ou de soins réalisés à domicile :
 
-*   Installer le malade dans une position confortable.  
-*   Lui fournir un récipient propre avec un couvercle dans lequel il pourra vomir le cas échéant.  
-*   S'assurer de la bonne hydratation du malade.  
-*   Etre attentif aux signes cliniques de la déshydratation.  
-*   Proposer un soin de bouche avec de l'eau fraîche après chaque vomissement.  
-*   Préférer les boissons fraîches, eau, jus de fruit...  
-*   Faire boire lentement et fréquemment, en petites quantités.  
-*   Demander au patient quels sont les aliments à son goût (et disponibles localement).  
-*   Fractionner les repas en petites quantités, plusieurs fois par jour.  
-*   Ne pas forcer le malade à manger.  
-*   Aider le malade à s'assoir avant le repas et lui dire d'attendre environ une heure avant de se recoucher.  
-*   Eviter que le patient ne se retrouve en présence d'odeurs fortes (ex : cuisine...).  
-*   Le gingembre peut être utilisé en tisane car il a une action bénéfique sur les troubles intestinaux **sauf chez les patients cachectiques** (Cf. troubles neurologiques) et ceux présentant une **occlusion intestinale**.  
-*   Faire sentir au patient une orange fraîche ou le zeste d'un citron peut aider à faire passer la nausée.
+- Installer le malade dans une position confortable.
+- Lui fournir un récipient propre avec un couvercle dans lequel il pourra vomir le cas échéant.
+- S'assurer de la bonne hydratation du malade.
+- Etre attentif aux signes cliniques de la déshydratation.
+- Proposer un soin de bouche avec de l'eau fraîche après chaque vomissement.
+- Préférer les boissons fraîches, eau, jus de fruit...
+- Faire boire lentement et fréquemment, en petites quantités.
+- Demander au patient quels sont les aliments à son goût (et disponibles localement).
+- Fractionner les repas en petites quantités, plusieurs fois par jour.
+- Ne pas forcer le malade à manger.
+- Aider le malade à s'assoir avant le repas et lui dire d'attendre environ une heure avant de se recoucher.
+- Eviter que le patient ne se retrouve en présence d'odeurs fortes (ex : cuisine...).
+- Le gingembre peut être utilisé en tisane car il a une action bénéfique sur les troubles intestinaux **sauf chez les patients cachectiques** (Cf. troubles neurologiques) et ceux présentant une **occlusion intestinale**.
+- Faire sentir au patient une orange fraîche ou le zeste d'un citron peut aider à faire passer la nausée.
 
 ### 4. Traitement médicamenteux
 
 Il repose sur les **ANTIEMETIQUES :**
 
-*   métoclopramide (10 mg toutes les 8 heures)
+- métoclopramide (10 mg toutes les 8 heures)
 
 Si pas efficace
 
-*   halopéridol (1 à 2 mg une fois par jour)
+- halopéridol (1 à 2 mg une fois par jour)
 
 ou
 
-*   chlorpromazine (25-50 mg toutes les 6 à 12 heures)
-
+- chlorpromazine (25-50 mg toutes les 6 à 12 heures)
 
 ![](i166-7.jpg)
-
 
 ## V. Fièvre
 
@@ -353,20 +345,20 @@ Paludisme, tuberculose, salmonellose, viroses, grippe, dengue...
 
 **La fièvre s'accompagne :**
 
-*   **Impression de chaleur ou de froid**
+- **Impression de chaleur ou de froid**
 
-**_===> "Corps chaud"_**
+***===> "Corps chaud"***
 
-*   **Agitation ou apathie (troubles de la conscience)**
-*   **Sueurs avec plus ou moins frissons...**
+- **Agitation ou apathie (troubles de la conscience)**
+- **Sueurs avec plus ou moins frissons...**
 
 **Le syndrome infectieux se caractérise par :**
 
-*   **Fatigue ;**
-*   **Douleurs musculaires ;**
-*   **Pouls rapide =** tachycardie;
-*   **Respiration rapide =** dyspnée;
-*   **Peu d'urine =** oligurie.
+- **Fatigue ;**
+- **Douleurs musculaires ;**
+- **Pouls rapide =** tachycardie;
+- **Respiration rapide =** dyspnée;
+- **Peu d'urine =** oligurie.
 
 <table>
 
@@ -414,14 +406,14 @@ La fréquence respiratoire normale d'un adulte est de 15 à 20 mouvements par mi
 
 Réalisables dans le cadre d'une mise en observation de 24 heures au dispensaire ou de soins à domicile :
 
-*   faire préciser au patient depuis combien de temps il a de la fièvre.  
-*   prendre les constantes vitales (pouls, tension, température).  
-*   dévêtir au maximum le patient tout en respectant sa pudeur (le couvrir d'un simple drap)
-*   veiller à la bonne ventilation des locaux.  
-*   réhydrater si nécessaire.  
-*   rafraîchir la peau (exemple : enveloppement dans un linge humide, vessie de glace...), si possible faire prendre un bain (température de l'eau de 2°C plus basse que la température du patient).  
-*   si l'état de conscience le permet, faire boire le patient +++.  
-*   chez les patients couchés surveiller l'état de la peau et mettre en oeuvre les actions préventives de l'apparition d'escarres (changements de position, frictions, hygiène de la peau).
+- faire préciser au patient depuis combien de temps il a de la fièvre.
+- prendre les constantes vitales (pouls, tension, température).
+- dévêtir au maximum le patient tout en respectant sa pudeur (le couvrir d'un simple drap)
+- veiller à la bonne ventilation des locaux.
+- réhydrater si nécessaire.
+- rafraîchir la peau (exemple : enveloppement dans un linge humide, vessie de glace...), si possible faire prendre un bain (température de l'eau de 2°C plus basse que la température du patient).
+- si l'état de conscience le permet, faire boire le patient +++.
+- chez les patients couchés surveiller l'état de la peau et mettre en oeuvre les actions préventives de l'apparition d'escarres (changements de position, frictions, hygiène de la peau).
 
 #### 1) Traitement
 
@@ -429,9 +421,9 @@ Réalisables dans le cadre d'une mise en observation de 24 heures au dispensaire
 
 #### 2) Mesure de la température
 
-*   Par voie rectale (thermomètre dans l'anus), mesure très fiable mais à éviter car risque de lésion anale.  
-*   Par voie cutanée (thermomètre sous le bras, dans le creux), le patient doit garder le bras le long du corps. Le thermomètre reste en place 10 mn et il faut ajouter 0.5°C au résultat trouvé.  
-*   Par voie orale si le patient est conscient (thermomètre sous la langue, bouche fermée).
+- Par voie rectale (thermomètre dans l'anus), mesure très fiable mais à éviter car risque de lésion anale.
+- Par voie cutanée (thermomètre sous le bras, dans le creux), le patient doit garder le bras le long du corps. Le thermomètre reste en place 10 mn et il faut ajouter 0.5°C au résultat trouvé.
+- Par voie orale si le patient est conscient (thermomètre sous la langue, bouche fermée).
 
 Les thermomètres doivent être utilisés pour un seul patient ou être nettoyés de manière rigoureuse.
 
@@ -446,33 +438,33 @@ Il est le résultat d'une infection bactérienne, il se caractérise par la lib�
 
 Les signes cliniques sont :
 
-*   fièvre très élevée (supérieure à 38.5 ° C;
-*   froideur de la peau ;
-*   veines plates ;
-*   tension artérielle basse (inférieure à 90/50) ;
-*   pouls faible (on a des difficultés pour le mesurer) ou très rapide ;
-*   augmentation de la fréquence respiratoire ;
-*   peu d'urine, de couleur marron ;
-*   nausées/vomissements ;
-*   présence d'hématomes sur le corps.
+- fièvre très élevée (supérieure à 38.5 ° C;
+- froideur de la peau ;
+- veines plates ;
+- tension artérielle basse (inférieure à 90/50) ;
+- pouls faible (on a des difficultés pour le mesurer) ou très rapide ;
+- augmentation de la fréquence respiratoire ;
+- peu d'urine, de couleur marron ;
+- nausées/vomissements ;
+- présence d'hématomes sur le corps.
 
 **En présence de ces signes cliniques l'infirmier doit prévenir un médecin ou organiser le transfert du malade vers un centre de traitement adapté.**
-
 
 ![](i166-8.jpg)
 
 ![](i166-9.jpg)
 
 ![](i166-10.jpg)
-  
 
-* En cas d'inconscience, c'est-à-dire face à un malade ne répondant pas à des ordres simples :
+- En cas d'inconscience, c'est-à-dire face à un malade ne répondant pas à des ordres simples :
 
-*   placer le patient sur le coté (position latérale de sécurité),
-*   libérer les voies aériennes,
-*   surveiller les constantes vitales : pouls, tension, fréquence respiratoire toutes les 5 minutes.
+- placer le patient sur le coté (position latérale de sécurité),
 
-** Si suspicion de dengue (mêmes signes que grippe) ne pas utiliser l'AAS mais le paracétamol.
+- libérer les voies aériennes,
+
+- surveiller les constantes vitales : pouls, tension, fréquence respiratoire toutes les 5 minutes.
+
+\*\* Si suspicion de dengue (mêmes signes que grippe) ne pas utiliser l'AAS mais le paracétamol.
 
 ## VI. Céphalées = maux de tête = douleurs à la tête
 
@@ -482,9 +474,9 @@ Maux de tête sévères ou persistants dont l'intensité augmente de manière cr
 
 **Face à un patient qui se plaint de céphalées, l'infirmier doit rechercher des signes associés :**
 
-*   signes neurologiques (troubles de la conscience, paralysie, convulsions...)
-*   fièvre (> 38°C)
-*   vomissements...
+- signes neurologiques (troubles de la conscience, paralysie, convulsions...)
+- fièvre (> 38°C)
+- vomissements...
 
 ### 2. Causes
 
@@ -498,12 +490,12 @@ Les maux de tête peuvent être classés de la manière suivante afin d'orienter
 
 #### 2- Maux de tête aigus et récidivants (type migraine)
 
-_Signes cliniques :_
+*Signes cliniques :*
 
-*   douleur intense (pulsatile), unilatérale,
-*   nausées,
-*   troubles visuels (le patient craint la lumière),
-*   la douleur est calmée par le repos et le sommeil et a contrario aggravée par l'activité.
+- douleur intense (pulsatile), unilatérale,
+- nausées,
+- troubles visuels (le patient craint la lumière),
+- la douleur est calmée par le repos et le sommeil et a contrario aggravée par l'activité.
 
 #### 3- Maux de tête chroniques
 
@@ -550,20 +542,18 @@ La douleur est soulagée par les vomissements et aggravée par les efforts.</td>
 
 **Mise en observation au dispensaire pendant 1 jour**
 
-*   Allonger le patient dans un endroit calme.  
-*   Prendre la tension, le pouls, la température. **Rappel** une tension supérieure à 140/90 = hypertension artérielle
-*   Chercher des signes associés.  
-*   Rassurer le patient.  
-*   Calmer la douleur avec des antalgiques paracétamol : 500 mg x 3/j au maximum 3 jours.  
-*   Evaluer l'efficacité du traitement antalgique en observant les attitudes du patient et en le questionnant.
-
+- Allonger le patient dans un endroit calme.
+- Prendre la tension, le pouls, la température. **Rappel** une tension supérieure à 140/90 = hypertension artérielle
+- Chercher des signes associés.
+- Rassurer le patient.
+- Calmer la douleur avec des antalgiques paracétamol : 500 mg x 3/j au maximum 3 jours.
+- Evaluer l'efficacité du traitement antalgique en observant les attitudes du patient et en le questionnant.
 
 ![](i166-11.jpg)
 
 ![](i166-12.jpg)
 
-
-## **VII. Ganglions et lymphadénopathie**
+## VII. Ganglions et lymphadénopathie
 
 ### 1. Définition
 
@@ -571,20 +561,18 @@ La douleur est soulagée par les vomissements et aggravée par les efforts.</td>
 
 Le système lymphatique est composé :
 
-*   de ganglions lymphatiques qui sont présents pour défendre l'organisme contre les maladies et,
-*   de la lymphe qui transporte les anticorps et les globules blancs.
+- de ganglions lymphatiques qui sont présents pour défendre l'organisme contre les maladies et,
+- de la lymphe qui transporte les anticorps et les globules blancs.
 
 ### 2. Localisation de ces ganglions
 
 La plupart des ganglions se trouvent :
 
-*   **dans le cou,**
-*   **sous le bras (au niveau des aisselles)** **= creux axillaire,**
-*   **au niveau du pli de l'aine** **= creux inguinal.**
-
+- **dans le cou,**
+- **sous le bras (au niveau des aisselles)** **= creux axillaire,**
+- **au niveau du pli de l'aine** **= creux inguinal.**
 
 ![](i166-13.jpg)
-
 
 ## VIII. Les lésions cutanés associés au VIH
 
@@ -596,60 +584,59 @@ Ensemble des pathologies au niveau de la peau et des muqueuses.
 
 ### 2. Causes
 
-*   **infections bactériennes** (ex. furonculose, folliculite...),
-*   **infections virales** (ex. zona, herpès...),
-*   **infections fongiques** (ex. candidose...),
-*   **infections parasitaires** (ex. gale...),
-*   **réaction allergique à des médicaments** (ARV...).
+- **infections bactériennes** (ex. furonculose, folliculite...),
+- **infections virales** (ex. zona, herpès...),
+- **infections fongiques** (ex. candidose...),
+- **infections parasitaires** (ex. gale...),
+- **réaction allergique à des médicaments** (ARV...).
 
 L'observation des lésions est primordiale. L'infirmier doit pouvoir les reconnaître en se fondant sur leur aspect et leur localisation. Il s'agit là de toutes lésions non provoquées par un traumatisme récent.
 
 #### 1. Lésions prurigineuses
 
-_Définition :_  
+*Définition :*  
 Lésions qui s'accompagnent d'une envie de se gratter permanente et que l'on ne peut réfréner.
 
 #### 2. Lésions suppurées
 
-_Définition :_  
+*Définition :*  
 Lésions inflammatoires, tuméfactions chaudes et douloureuses d'origine microbienne évoluant vers la suppuration.
 
 #### 3. Lésions squameuses
 
-_Définition :_  
+*Définition :*  
 Squame : petite pellicule de peau qui se détache +/- facilement.
 
 #### 4. Lésions vésiculeuses
 
-_Définition :_  
+*Définition :*  
 Petites élévations plus ou moins sphériques sur la peau contenant un liquide clair.
 
 ### 3. Les objectifs infirmiers
 
-_Lors des consultations au dispensaire :_
+*Lors des consultations au dispensaire :*
 
-*   Réaliser des soins adaptés aux lésions ;
-*   Administrer le traitement en lien avec la pathologie ;
-*   Observer l'évolution des lésions, noter les éléments significatifs.
+- Réaliser des soins adaptés aux lésions ;
+- Administrer le traitement en lien avec la pathologie ;
+- Observer l'évolution des lésions, noter les éléments significatifs.
 
-_Si le patient est gardé en observation pendant 24 heures :_
+*Si le patient est gardé en observation pendant 24 heures :*
 
-*   Favoriser la bonne hygiène corporelle du patient ;
-*   Prévenir l'apparition d'escarres si le patient est alité.
+- Favoriser la bonne hygiène corporelle du patient ;
+- Prévenir l'apparition d'escarres si le patient est alité.
 
-_Dans le cadre de l'éducation à la santé_
+*Dans le cadre de l'éducation à la santé*
 
-*   Conseiller au malade :
-    *   d'utiliser du savon doux lors de la toilette quotidienne ;
-    *   de porter des vêtements en coton ;
-    *   de nettoyer et de désinfecter la literie régulièrement ;
-    *   de préférer une alimentation riche en protéines et en vitamines A et E.
+- Conseiller au malade :
+  - d'utiliser du savon doux lors de la toilette quotidienne ;
+  - de porter des vêtements en coton ;
+  - de nettoyer et de désinfecter la literie régulièrement ;
+  - de préférer une alimentation riche en protéines et en vitamines A et E.
 
 **Mode d'administration de certains médicaments :**
 
-*   _Comment utiliser Benzochloryl solution ?_ Badigeonner tout le corps sauf le visage après la toilette du soir, laisser sécher, rebadigeonner, laisser sécher et se coucher. Ne se laver que le soir suivant. Répéter l'opération 2 semaines après.  
-*   _Comment utiliser DDT en poudre ?_ Saupoudrer le linge et les draps de produits et enfermer le tout dans une caisse propre pendant 24 heures.
-
+- *Comment utiliser Benzochloryl solution ?* Badigeonner tout le corps sauf le visage après la toilette du soir, laisser sécher, rebadigeonner, laisser sécher et se coucher. Ne se laver que le soir suivant. Répéter l'opération 2 semaines après.
+- *Comment utiliser DDT en poudre ?* Saupoudrer le linge et les draps de produits et enfermer le tout dans une caisse propre pendant 24 heures.
 
 ![](i166-14.jpg)
 
@@ -665,5 +652,4 @@ _Dans le cadre de l'éducation à la santé_
 
 ![](i166-20.jpg)
 
-
-_Développement et Santé, n°181, 2006_
+*Développement et Santé, n°181, 2006*

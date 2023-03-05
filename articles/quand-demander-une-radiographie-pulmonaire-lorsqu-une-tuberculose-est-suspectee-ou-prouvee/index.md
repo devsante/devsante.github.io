@@ -10,28 +10,28 @@ La radiographie peut être nécessaire dans les cas suivants.  :
 
 Pour une **TB avec crachats positifs** si :
 
-*   des complications sont suspectées (pneumo­thorax, péricardite, pleurésie),
-*   avec hémoptysies fréquentes ou graves (bronchectasie, aspergillose),
-*   quand un seul prélèvement sur les 3 est positif.
+- des complications sont suspectées (pneumo­thorax, péricardite, pleurésie),
+- avec hémoptysies fréquentes ou graves (bronchectasie, aspergillose),
+- quand un seul prélèvement sur les 3 est positif.
 
 Pour une **TB avec crachats négatifs** si :
 
-*   le patient continue à tousser malgré un traite­ment avec antibiotiques banaux.
+- le patient continue à tousser malgré un traite­ment avec antibiotiques banaux.
 
              Aucune image n'est caractéristique de la TB.
 
 Les **images les plus fréquentes** sont :
 
-*   une infiltration des lobes supérieurs,
-*   des infiltrats bilatéraux,
-*   une cavité,
-*   une fibrose pulmonaire.
+- une infiltration des lobes supérieurs,
+- des infiltrats bilatéraux,
+- une cavité,
+- une fibrose pulmonaire.
 
 Les **images moins fréquentes** sont :
 
-*   une infiltration interstitielle des lobes infé­rieurs,
-*   des adénopathies intra thoraciques,
-*   sans cavité.
+- une infiltration interstitielle des lobes infé­rieurs,
+- des adénopathies intra thoraciques,
+- sans cavité.
 
 En cas d'immuno-dépression modérée, la radiographie montre les images habituelles.
 
@@ -97,4 +97,4 @@ Les principaux diagnostics différentiels sont :
 
 </table>
 
-_Développement et Santé, n°190, 2008_
+*Développement et Santé, n°190, 2008*

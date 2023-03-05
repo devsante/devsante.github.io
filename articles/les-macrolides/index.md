@@ -18,32 +18,32 @@ Ainsi, une CMI inférieure à 0,01 microgramme signifiera que l'antibiotique est
 
 Exemple :
 
-*   Pneumocoque
-*   Staphylocoque doré
-*   Gonocoque
-*   _Bordetella_ (coqueluche)
-*   _Legionella_
-*   _Mycoplasma pneumoniae_ _- Branhamella catarrhalis_
-*   _Helicobacter pylori_
-*   _Mycobacteries_ atypiques
+- Pneumocoque
+- Staphylocoque doré
+- Gonocoque
+- *Bordetella* (coqueluche)
+- *Legionella*
+- *Mycoplasma pneumoniae* *- Branhamella catarrhalis*
+- *Helicobacter pylori*
+- *Mycobacteries* atypiques
 
 **CMI > 1** (les macrolides ici sont inefficaces)
 
 Exemple :
 
-*   _Hemophilus_ _influenzae_
-*   Colibacille
-*   Pyocyanique
-*   BK
+- *Hemophilus* *influenzae*
+- Colibacille
+- Pyocyanique
+- BK
 
-## **II. Pha**r**macocinétique**
+## II. Pharmacocinétique
 
 Après absorption orale (la voie intraveineuse est exceptionnelle), les macrolides traversent rapidement le tube digestif pour pénétrer dans :
 
-*   les poumons,
-*   la peau,
-*   les polynucléaires,
-*   les muqueuses ORL (amygdales, oreilles).
+- les poumons,
+- la peau,
+- les polynucléaires,
+- les muqueuses ORL (amygdales, oreilles).
 
 La demi-vie est de 24 heures pour l'érythromycine et de 48 heures pour l'azithromycine.
 
@@ -67,23 +67,21 @@ Diffusant bien dans la peau, les macrolides agissent rapidement dans l'impétigo
 
 ### 4. Infections génitales
 
-Dans les uréthrites et les prostatites, les macrolides sont indiqués sans restriction car très efficaces sur _Chlamydia trachomatis,_ _Ureoplasma,_ le gonocoque et le mycoplasme. Ils sont inconstamment efficaces sur le tréponème (syphilis).
+Dans les uréthrites et les prostatites, les macrolides sont indiqués sans restriction car très efficaces sur *Chlamydia trachomatis,* *Ureoplasma,* le gonocoque et le mycoplasme. Ils sont inconstamment efficaces sur le tréponème (syphilis).
 
 Dans les salpingites, ils sont aussi efficaces que les tétracyclines.
 
-### **5. Macrolides et sida**
+### 5. Macrolides et sida
 
-La clarithromycine est l'antibiotique le plus actif sur le _Mycobacterium avium,_ le principal agent responsable des diarrhées chroniques dans l'infection à VIH. Malheureusement, l'apparition des résistances nécessite une association à l'éthambutol ou la rifabutine.
+La clarithromycine est l'antibiotique le plus actif sur le *Mycobacterium avium,* le principal agent responsable des diarrhées chroniques dans l'infection à VIH. Malheureusement, l'apparition des résistances nécessite une association à l'éthambutol ou la rifabutine.
 
-### 6. **Macrolides et trachome**
+### 6. Macrolides et trachome
 
 Les macrolides sont efficaces sur l'agent du trachome et la plupart des germes responsables de surinfection conjonctivales.
 
 Une gélule par semaine d'azithromycine prévient l'infection (conséquence de l'élimination très lente du produit).
 
-
 ![](i694-1.jpg)
-
 
 ## IV. Tolérance
 
@@ -95,9 +93,9 @@ Surtout chez l'enfant (7 à 15 %) : douleurs abdominales, vomissements, diarrhé
 
 Troubles surtout rencontrés avec l'érythromycine :
 
-*   allergies 0,5 % prurit, érythème, urticaire
-*   hépatotoxicité il peut s'agir d'une simple élévation des transaminases, voire d'un ictère survenant les dix premiers jours (1 %). Il impose l'arrêt immédiat du traitement ;
-*   ototoxicité (exceptionnelle) : une surdité peut survenir dès les 48 premières heures. Elle régresse dès l'arrêt du traitement.
+- allergies 0,5 % prurit, érythème, urticaire
+- hépatotoxicité il peut s'agir d'une simple élévation des transaminases, voire d'un ictère survenant les dix premiers jours (1 %). Il impose l'arrêt immédiat du traitement ;
+- ototoxicité (exceptionnelle) : une surdité peut survenir dès les 48 premières heures. Elle régresse dès l'arrêt du traitement.
 
 ## V. Interactions avec les aliments
 
@@ -107,6 +105,6 @@ Les aliments gênent l'absorption de l'érythromycine : elle doit donc être abs
 
 Antibiotiques de première intention, surtout chez l'enfant, dans les angines et les bronchopneumopathies, les macrolides connaissent un renouveau avec les nouvelles molécules permettant un traitement court.
 
-De plus, de nouvelles indications se profilent diarrhée du sida, traitement des ulcères duodénaux (provoqués par _Helicobacter pylori),_ toxoplasmose cérébrale, et surtout prévention du trachome.
+De plus, de nouvelles indications se profilent diarrhée du sida, traitement des ulcères duodénaux (provoqués par *Helicobacter pylori),* toxoplasmose cérébrale, et surtout prévention du trachome.
 
-_Développement et Santé, n°124, août 1996_
+*Développement et Santé, n°124, août 1996*

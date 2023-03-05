@@ -12,16 +12,20 @@ et sur l'évolution de celle-ci.</p></div>
 
 Les paramètres utiles à étudier sont :
 
-*   La  bilirubine  totale  :  inférieure  à  17  micromol/L chez le sujet normal, supérieure à 50 micromol/L au cours des ictères et comprise entre 30 et 50 micro- mol/L en cas de subictère.  
-*   Les transaminases sériques : aspartate aminotransférase (ASAT) et alanine aminotransférase (ALAT).
+- La  bilirubine  totale  :  inférieure  à  17  micromol/L chez le sujet normal, supérieure à 50 micromol/L au cours des ictères et comprise entre 30 et 50 micro- mol/L en cas de subictère.
+- Les transaminases sériques : aspartate aminotransférase (ASAT) et alanine aminotransférase (ALAT).
 
 Leur taux s’élève dans les hépatites :
 
-*   > à 10 fois la normale dans les hépatites aiguës ;
-*   < à 10 fois la normale dans les hépatites chroniques.  
-*   Le taux de prothrombine (temps de Quick) et éventuellement  le  dosage  du  facteur  V,  très  diminués dans les hépatites fulminantes.  
-*   L’albumine.  
-*   La numération formule sanguine, qui peut mettre en évidence une anémie, une thrombopénie et/ou une neutropénie avec éventuelle activation lymphocytaire.  Le frottis sanguin permet d’éliminer un paludisme à la phase aiguë de la maladie.
+- à 10 fois la normale dans les hépatites aiguës ;
+
+- < à 10 fois la normale dans les hépatites chroniques.
+
+- Le taux de prothrombine (temps de Quick) et éventuellement  le  dosage  du  facteur  V,  très  diminués dans les hépatites fulminantes.
+
+- L’albumine.
+
+- La numération formule sanguine, qui peut mettre en évidence une anémie, une thrombopénie et/ou une neutropénie avec éventuelle activation lymphocytaire.  Le frottis sanguin permet d’éliminer un paludisme à la phase aiguë de la maladie.
 
 ## II. Exploration virologique
 
@@ -64,9 +68,7 @@ Le  taux des IgG s’élève rapidement, il est à son maximum après 60  jou
 
 **Figure 1 : évolution des marqueurs au cours de l'hépatite A**
 
-
 ![](marqueurs-hepatite-a.jpg)
-
 
 ### 2. Hépatite B
 
@@ -93,18 +95,16 @@ Les particules de 42 nm sont des particules virales infectieuses. Elles sont con
 
 **Figure 2 : virus de l'hépatite B, particules observées en microscopie électronique**
 
-
 ![](page-22-virus-de-l-hepatite-b.jpg)
-
 
 Le diagnostic des différentes situations cliniques est effectué par la détection des marqueurs virologiques de  l'infection.  Il  s'agit  soit  de  méthodes  immuno- enzymatiques  de  type  ELISA,  soit  de  techniques moléculaires  détectant,  quantifiant  ou  caractérisant la séquence de l'ADN du virus de l'hépatite B (VHB). Les  éléments pouvant  être  mis  en  évidence  dans  le sérum sont soit des marqueurs directs de la présence virale, soit des marqueurs dits indirects liés à la réponse immunitaire.
 
 #### a. Marqueurs directs
 
-*   L'antigène  HBs  associé  aux  enveloppes  virales  est aisément mis en évidence dans le sérum des patients par des techniques immuno-enzymatiques de type ELISA.  
-*   L'antigène  HBc  n'est  pas  retrouvé tel quel dans le sérum.  
-*   L’antigène HBe est une protéine soluble, dérivée de la protéine de capside qui est détectée dans le sérum en cas de multiplication virale,  également  par  des techniques immuno-enzymatiques de type ELISA.  
-*   L'ADN viral circulant associé aux particules virales infectieuses est mis en évidence par des techniques de biologie moléculaire (charge virale).
+- L'antigène  HBs  associé  aux  enveloppes  virales  est aisément mis en évidence dans le sérum des patients par des techniques immuno-enzymatiques de type ELISA.
+- L'antigène  HBc  n'est  pas  retrouvé tel quel dans le sérum.
+- L’antigène HBe est une protéine soluble, dérivée de la protéine de capside qui est détectée dans le sérum en cas de multiplication virale,  également  par  des techniques immuno-enzymatiques de type ELISA.
+- L'ADN viral circulant associé aux particules virales infectieuses est mis en évidence par des techniques de biologie moléculaire (charge virale).
 
 #### b. Marqueurs indirects
 
@@ -113,7 +113,7 @@ Dans les pays en développement, l'AgHBs est souvent le seul marqueur recherché
 
 A côté des méthodes ELISA, adaptées aux grandes séries,  des  tests  individuels  ont  été  développés. Simples, ne nécessitant ni matériel particulier, ni électricité, ils reposent sur des méthodes d'agglutination, d'immunofiltration  ou  d'immunochromatographie. Un résultat positif est donné par un point ou un trait coloré  ou  une  agglutination  visible à l'œil nu. Ces réactifs sont adaptés aux  structures ayant peu de moyens et/ou recevant un nombre réduit de prélèvements.
 
-#### c. Evolution des marqueurs en fonction de la pathologie (figure3).
+#### c. Evolution des marqueurs en fonction de la pathologie (figure3)
 
 **Hépatite B aiguë**  
 Dans  les  formes  symptomatiques  (qui  ne  représentent que 10 % des cas), après une période d'incubation de 10 semaines en moyenne, suivie d'une phase pré-ictérique de 7 jours environ,  survient  la  phase ictérique. Biologiquement, on observe alors une augmentation  importante des transaminases sériques, qui peuvent atteindre entre 10 et 100 fois la limite supérieure de la normale.  
@@ -121,14 +121,12 @@ Le taux de prothrombine est normal ou modérément abaissé, en tout cas toujou
 
 Des  examens  virologiques  permettent  d'affirmer  le diagnostic d'hépatite aiguë B :
 
-*   L'antigène  HBs  (qui peut être détecté 3 semaines environ avant les signes cliniques) est présent dans le sérum, ainsi que les anticorps anti-HBc de type IgM (les plus précoces) présents à un titre élevé.  
-*   Les anticorps anti-HBc de type IgM peuvent, dans certains cas, être seuls  présents  lorsque  l'antigène HBs a déjà disparu du sérum. Ceci se produit dans 10 % des cas environ.
+- L'antigène  HBs  (qui peut être détecté 3 semaines environ avant les signes cliniques) est présent dans le sérum, ainsi que les anticorps anti-HBc de type IgM (les plus précoces) présents à un titre élevé.
+- Les anticorps anti-HBc de type IgM peuvent, dans certains cas, être seuls  présents  lorsque  l'antigène HBs a déjà disparu du sérum. Ceci se produit dans 10 % des cas environ.
 
 **Figure 3 : évolution des marqueurs de l'infection par le virus de l'hépatite B**
 
-
 ![](biologie-fig-2.jpg)
-
 
 **L'existence d'une augmentation des transaminases associée à un anticorps IgM anti-HBc permet de poser le diagnostic d'une hépatite B aiguë.**  
 La détermination de l'antigène HBe et de l'anticorps anti-HBe ainsi que le dosage de l'ADN du virus de l'hépatite B ne sont pas utiles au stade d'hépatite B aiguë.  
@@ -154,12 +152,12 @@ Deux tiers des patients porteurs de l'antigène HBs vont développer  des lési
 
 L'évolution se fait schématiquement selon **4 phases** de durée variable.
 
-*   La  **première phase**, qui dure de quelques  mois  à quelques années, est une phase de tolérance immunitaire.  Elle  est  marquée  par une multiplication active du virus avec un taux d'ADN sérique élevé et la présence d'antigène HBs dans le sérum.  
-*   La  **deuxième phase** est une phase d'immuno-élimination  caractérisée par une flambée de la réponse immune, elle provoque la baisse de la multiplication  virale et génère les  lésions histologiques d'hépatite  chronique. On observe une  élévation transitoire, parfois très importante, des transaminases et la séroconversion antigène Hbe/anticorps anti-HBe,  c'est-à-dire la diminution de l'antigène HBe jusqu'à sa disparition et l'apparition des anticorps anti-HBe.  
-*   La **troisième phase** est une phase de portage inactif marquée par la quasi absence de marqueurs de la multiplication virale. L'antigène HBs a disparu, l'ADN sérique est très bas, et l'anticorps anti-HBe est présent.  
-*   -La quatrième phase correspond à une élimination du virus qui devient indétectable.  
-    Cependant,  lorsqu'une  cirrhose s'est développée, elle peut évoluer vers des complications et exposer le malade à la survenue d'un carcinome hépato-cellulaire.  
-    Des  épisodes  de  réactivation  virale  sont  possibles, apparaissant soit spontanément, soit provoqués par des  traitements immunosuppresseurs. Ils se traduisent par la réapparition des marqueurs de multiplication virale : antigène HBe et ADN sérique.
+- La  **première phase**, qui dure de quelques  mois  à quelques années, est une phase de tolérance immunitaire.  Elle  est  marquée  par une multiplication active du virus avec un taux d'ADN sérique élevé et la présence d'antigène HBs dans le sérum.
+- La  **deuxième phase** est une phase d'immuno-élimination  caractérisée par une flambée de la réponse immune, elle provoque la baisse de la multiplication  virale et génère les  lésions histologiques d'hépatite  chronique. On observe une  élévation transitoire, parfois très importante, des transaminases et la séroconversion antigène Hbe/anticorps anti-HBe,  c'est-à-dire la diminution de l'antigène HBe jusqu'à sa disparition et l'apparition des anticorps anti-HBe.
+- La **troisième phase** est une phase de portage inactif marquée par la quasi absence de marqueurs de la multiplication virale. L'antigène HBs a disparu, l'ADN sérique est très bas, et l'anticorps anti-HBe est présent.
+- -La quatrième phase correspond à une élimination du virus qui devient indétectable.  
+  Cependant,  lorsqu'une  cirrhose s'est développée, elle peut évoluer vers des complications et exposer le malade à la survenue d'un carcinome hépato-cellulaire.  
+  Des  épisodes  de  réactivation  virale  sont  possibles, apparaissant soit spontanément, soit provoqués par des  traitements immunosuppresseurs. Ils se traduisent par la réapparition des marqueurs de multiplication virale : antigène HBe et ADN sérique.
 
 **Carcinome hépato-cellulaire et dosage de l'alpha-fœtoprotéine**  
 Sa fréquence élevée pourrait justifier une surveillance systématique des porteurs chroniques par dosage de l'alpha-fœtoprotéine sérique. C'est une glycoprotéine d'origine fœtale disparaissant pratiquement du sérum dans les semaines qui suivent la naissance. Son taux peut s'élever dans les hépatites aiguës et chroniques, les cirrhoses et surtout les cancers hépatiques.  
@@ -232,71 +230,71 @@ Hépatite aiguë
 
 <td style="width: 5px; ">
 
-+
+\+
 
-+
+\+
 
--
+\-
 
 </td>
 
 <td style="width: 71px; ">
 
--
+\-
 
--
+\-
 
--
+\-
 
 </td>
 
 <td style="width: 41px; ">
 
-+
+\+
 
-+
+\+
 
-+
-
-</td>
-
-<td>
-
-+
-
-+
-
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
--
+\+
 
--
+\+
+
+</td>
+
+<td>
+
+\+
+
+\-
+
+\-
 
 </td>
 
 <td style="width: 73px; ">
 
--
+\-
 
-+
+\+
 
-+
+\+
 
 </td>
 
 <td style="width: 52px; ">
 
-+
+\+
 
--
+\-
 
--
+\-
 
 </td>
 
@@ -308,41 +306,41 @@ Hépatite aiguë
 
 <td style="width: 5px; ">
 
--
+\-
 
--
+\-
 
 </td>
 
 <td style="width: 71px; ">
 
-+
+\+
 
--
+\-
 
 </td>
 
 <td style="width: 41px; ">
 
-+
+\+
 
-+
-
-</td>
-
-<td>
-
--
-
--
+\+
 
 </td>
 
 <td>
 
--
+\-
 
--
+\-
+
+</td>
+
+<td>
+
+\-
+
+\-
 
 </td>
 
@@ -356,9 +354,9 @@ Hépatite aiguë
 
 <td style="width: 52px; ">
 
--
+\-
 
--
+\-
 
 </td>
 
@@ -396,7 +394,7 @@ Hépatite chronique à IT
 
 <td style="width: 5px; ">
 
-+  
+\+  
 +  
 +
 
@@ -404,7 +402,7 @@ Hépatite chronique à IT
 
 <td style="width: 71px; ">
 
--  
+\-  
 -  
 -
 
@@ -412,7 +410,7 @@ Hépatite chronique à IT
 
 <td style="width: 41px; ">
 
-+  
+\+  
 +  
 +
 
@@ -420,7 +418,7 @@ Hépatite chronique à IT
 
 <td>
 
--  
+\-  
 +/-  
 +/-
 
@@ -428,7 +426,7 @@ Hépatite chronique à IT
 
 <td>
 
-+  
+\+  
 +>-  
 +
 
@@ -436,13 +434,13 @@ Hépatite chronique à IT
 
 <td class="rtecenter" style="width: 73px; ">  
 
--  
+\-  
 +>-  
 -</td>
 
 <td class="rtecenter" style="width: 52px; ">  
 
--  
+\-  
 +/-  
 +/-</td>
 
@@ -452,7 +450,7 @@ Hépatite chronique à IT
 
 </table>
 
-<table>
+\$1<table>
 
 <thead>
 
@@ -500,10 +498,10 @@ ou ayant une hépatite chronique.
 Il s'agit du titrage des anticorps anti-HBs, seul marqueur présent chez un sujet vacciné. En effet l'administration du vaccin anti-hépatite B, constitué d'antigène HBs recombinant, induit la production d'anticorps anti-HBs neutralisants protecteurs mais pas la production d'anticorps anti-HBc. Le seuil de protection a été fixé par l'OMS  à  10  mUl/mL. Un titre supérieur, de 30 à 50 mUl/mL, semble toutefois assurer une meilleure protection. Le contrôle du titre des anticorps anti-HBs après vaccination n'est pas systématique et doit être réservé aux sujets à risque d'infection qui doivent savoir dans quelle mesure ils sont protégés.  
 La découverte d'une hépatite B aiguë ou chronique chez un sujet doit conduire à la vérification de l'immunisation des sujets contact par la recherche, chez le ou les partenaires sexuels et chez les membres de la famille, de l'antigène HBs et de l'anticorps anti-HBs. Les  sujets non immunisés doivent bénéficier d'une immunoprophylaxie (au moins par la vaccination).
 
-_**Autres marqueurs virologiques**_  
+***Autres marqueurs virologiques***  
 Compte  tenu  des  modes  de  contamination  communs, il est recommandé, chez un patient porteur du virus de l'hépatite B, de rechercher une infection associée par le virus de l'hépatite C et de conseiller un dépistage du virus de l'immunodéficience humaine.
 
-**_Transfusion sanguine_**  
+***Transfusion sanguine***  
 La recherche des marqueurs des hépatites B et C est obligatoire pour tous les produits (PSL) destinés à la transfusion sanguine. Selon les pays, elle s’effectue par biologie moléculaire ou, en l’absence de ces techniques, par  la  recherche  de  l'antigène  HBs  et  de  l'anticorps anti-HBc total, ainsi que le dosage des transaminases.
 
 <table>
@@ -521,46 +519,39 @@ Les déterminations de l'antigène HBs, de l'antigène HBe et de l'anticorps ant
 
 </table>
 
-
 ![](page-26-schema-biologie-des-h-bat.jpg)
-
 
 ### 3. Hépatite Delta
 
 Il peut s’agir d’une infection concomitante par le VHB et le VHD, ou d’une surinfection par le VHD au cours d’une hépatite B chronique.  
 Le  diagnostic  se  fait  par  recherche  des  anticorps totaux anti-VHD et des IgM ; il doit être complété par une recherche d’ARN-VHD qui ne se fait qu’en laboratoire spécialisé (voir figure 5).
 
-
 ![](image008-0.png)
-
 
 **Surinfection**
 
-
 ![](image010-0.png)
 
-
-###   
-4. Hépatite C
+### 4. Hépatite C
 
 Le diagnostic se fait par technique ELISA au moyen de tests plus performants dits tests de 3<sup>ème</sup> génération. Deux tests différents doivent être effectués, pour le dépistage et la confirmation. La détection des anticorps anti VHC n’est positive que 12 à 15 semaines après la contamination, et l’on n’est pas encore en mesure de distinguer IgM et IgG.
 
 Des tests rapides d’orientation diagnostique (TROD) ont été récemment évalués : mise en évidence des anticorps anti-VHC en 10 minutes sur une goutte de sang prélevée au bout du doigt :
 
-*   si la réponse est négative, le patient n’a pas contracté le VHC,
-*   si le test est positif, une prise de sang devra être effectuée pour confirmation.
+- si la réponse est négative, le patient n’a pas contracté le VHC,
+- si le test est positif, une prise de sang devra être effectuée pour confirmation.
 
 Ces tests seraient d’un grand intérêt dans le dépistage de masse. La détection du portage chronique se fait par la mesure de l’ARN viral dans le sérum.
 
 Indications de la mesure de la charge virale :
 
-*   Sérologie VHC positive
-*   Sérologie VHC douteuse
-*   Sujet VIH positif fortement immunodéprimé
-*   Début de traitement anti VHC
-*   En cours de traitement
-*   En fin de traitement
-*   Six mois après l’arrêt du traitement.
+- Sérologie VHC positive
+- Sérologie VHC douteuse
+- Sujet VIH positif fortement immunodéprimé
+- Début de traitement anti VHC
+- En cours de traitement
+- En fin de traitement
+- Six mois après l’arrêt du traitement.
 
 ### 5. Hépatite E
 
@@ -586,8 +577,8 @@ Exemple : une charge virale de 100 000 copies/mL, équivaut  à  une  charge
 
 D’autres virus peuvent être responsables d’une hépatite associée à d’autres signes cliniques et biologiques :
 
-*   Au cours des arboviroses (dengue, fièvre  jaune, Chikungunya).  
-*   Au cours de la mononucléose infectieuse, des infections à CMV : dans ces cas, l’hépatite est le  plus souvent bénigne ou asymptomatique.
+- Au cours des arboviroses (dengue, fièvre  jaune, Chikungunya).
+- Au cours de la mononucléose infectieuse, des infections à CMV : dans ces cas, l’hépatite est le  plus souvent bénigne ou asymptomatique.
 
 ## Conclusion
 

@@ -21,10 +21,10 @@ Le rebord osseux de l'orbite protège l'oeil des traumatismes car il déborde en
 
 Chaque paupière est constituée de 4 couches principales, qui sont, d'avant en arrière :
 
-*   la peau,
-*   le muscle,
-*   le tarse,
-*   la conjonctive.
+- la peau,
+- le muscle,
+- le tarse,
+- la conjonctive.
 
 Le film lacrymal lubrifie et humidifie continuellement la surface de l'oeil. Les cils, implantés aussi sur le bord des paupières, assurent à l'oeil une protection supplémentaire contre les petits corps étrangers.
 
@@ -34,11 +34,11 @@ Chez l'adulte, le globe oculaire a normalement un diamètre d'environ 2,5 cm et 
 
 La cornée est un tissu transparent dont la limite avec la sclère se nomme le limbe. Son diamètre est de 10,5 à 12 mm et son épaisseur de 1 mm. La cornée est constituée de 5 couches distinctes qui sont, de l'extérieur vers l'intérieur :
 
-*   l'épithélium,
-*   la membrane de Bowman,
-*   le stroma,
-*   la membrane de Descemet,
-*   l'endothélium.
+- l'épithélium,
+- la membrane de Bowman,
+- le stroma,
+- la membrane de Descemet,
+- l'endothélium.
 
 Épaisse également d'environ 1 mm, la sclère est l'enveloppe externe ferme et blanche qui permet au globe de conserver sa forme. Le nerf optique, qui transmet les messages visuels de la rétine au cerveau où ils sont interprétés, est fixé à la partie postérieure de la sclère.
 
@@ -54,9 +54,9 @@ L'espace qui se trouve entre le cristallin et la face postérieure de l'iris est
 
 L'uvée ou tractus uvéal, est formé de 3 structures anatomiques distinctes:
 
-*   l'iris,
-*   le corps ciliaire,
-*   la choroïde.
+- l'iris,
+- le corps ciliaire,
+- la choroïde.
 
 Bien que les trois éléments de l'uvée soient reliés entre eux, en faisant un tissu continu, chaque structure a une fonction distincte et particulière. L'iris sert à régler la quantité de lumière qui pénètre dans l'oeil par l'orifice situé en son centre, la pupille; le corps ciliaire sert de base à la zonule, il produit l'humeur aqueuse, et ses muscles jouent un rôle dans le phénomène d'accommodation; la choroïde assure pour une bonne part la nutrition de la rétine.
 
@@ -72,9 +72,7 @@ La cornée, la chambre antérieure, l'iris, le trabéculum, la sclère qui les s
 
 existe 3 paires de muscles extra-oculaires, soit 6 muscles, fixés sur l'oeil et responsables de ses mouvements: 2 muscles horizontaux, le droit externe et droit interne, 2 muscles verticaux, le droit supérieur et le droit inférieur, et 2 muscles obliques, le grand oblique (ou oblique supérieur) et le petit oblique (ou oblique inférieur). Tous les six s'insèrent sur l'orbite, d'une part, et sur la sclère, d'autre part. Chaque muscle oculo-moteur a un rôle spécifique et indépendant dans les mouvements de l'oeil.
 
-
 ![](i861-1.jpg)
-
 
 ### 6. L'orbite osseuse
 
@@ -112,10 +110,10 @@ La stabilité de l'oeil et la pression intraoculaire dépendent de la formation 
 
 Le cristallin humain est formé de 4 structures fondamentales :
 
-*   la capsule, membrane élastique et transparente, qui l'entoure ;
-*   l'épithélium, couche cellulaire tapissant la face postérieure de la capsule antérieure, en activité permanente ;
-*   le cortex, substance protéique transparente (masses cristalliniennes) ;
-*   le noyau, central, mou chez l'enfant, dur chez le sujet âgé.
+- la capsule, membrane élastique et transparente, qui l'entoure ;
+- l'épithélium, couche cellulaire tapissant la face postérieure de la capsule antérieure, en activité permanente ;
+- le cortex, substance protéique transparente (masses cristalliniennes) ;
+- le noyau, central, mou chez l'enfant, dur chez le sujet âgé.
 
 Le cristallin grandit avec l'âge. Le durcissement diminue sa capacité d'accommodation. La presbytie (perte de la vision de près par perte d'accommodation) débute physiologiquement après 40-45 ans.
 
@@ -123,9 +121,9 @@ Le cristallin grandit avec l'âge. Le durcissement diminue sa capacité d'accomm
 
 Nous ne disposons que d'approximations concernant la prévalence, car :
 
-*   il s'agit d'une déficience évolutive d'une année à l'autre ;
-*   les évaluations nationales sont souvent l'extrapolation de données tirées d'une aire géographique limitée, non nécessairement représentative ;
-*   l'attribution des ressources pouvant dépendre de la pathologie déclarée, il peut être tentant d' "adapter" les statistiques aux prétentions, en l'absence de coûteuses procédures de contrôle indépendantes.
+- il s'agit d'une déficience évolutive d'une année à l'autre ;
+- les évaluations nationales sont souvent l'extrapolation de données tirées d'une aire géographique limitée, non nécessairement représentative ;
+- l'attribution des ressources pouvant dépendre de la pathologie déclarée, il peut être tentant d' "adapter" les statistiques aux prétentions, en l'absence de coûteuses procédures de contrôle indépendantes.
 
 Environ 20 millions de malades sont en attente de chirurgie de la cataracte dans les pays en développement.
 
@@ -141,34 +139,32 @@ Chez l'adulte, l'association des rayonnements ultraviolets à la malnutrition es
 
 ### 3. Formes cliniques des cataractes
 
-*   _Selon l'âge:_
-    *   nourrisson,
-    *   adulte jeune (familiale),
-    *   sénile (la plus fréquente).  
-*   _Selon l'étiologie:_
-    *   congénitale, héréditaire ou après une infection de la mère (syphilis, rubéole pendant la grossesse) ;
-    *   traumatique
-    *   secondaire à une uvéite, une endophtalmie ou à une corticothérapie.  
-*   _Selon l'anatomie :_
-    *   nucléaire, durcissement du noyau lié à l'âge ;
-    *   corticale, opacités dans le cortex ;
-    *   cortico-nucléaire, association des deux ;
-    *   zonulaire, à point de départ périphérique ;
-    *   sous-capsulaire, postérieure, très gênante et d'évolution rapide.  
-*   _Selon la densité :_
-    *   débutante, peu gênante _(figure 2) ;_
-    *   immature, début de gêne ;
-    *   mûre, aspect blanchâtre, acuité visuelle très réduite ;
-    *   intumescente, cristallin laiteux et gonflé ;
-    *   hypermûre, cristallin complètement blanc, contracté _(figure 3) ;_
-    *   morganienne, le noyau flotte dans le cortex liquide.  
-*   _Selon la position :_
-    *   luxée, le cristallin a perdu ses attaches
-    *   subluxée partiellement déplacée.
-
+- *Selon l'âge:*
+  - nourrisson,
+  - adulte jeune (familiale),
+  - sénile (la plus fréquente).
+- *Selon l'étiologie:*
+  - congénitale, héréditaire ou après une infection de la mère (syphilis, rubéole pendant la grossesse) ;
+  - traumatique
+  - secondaire à une uvéite, une endophtalmie ou à une corticothérapie.
+- *Selon l'anatomie :*
+  - nucléaire, durcissement du noyau lié à l'âge ;
+  - corticale, opacités dans le cortex ;
+  - cortico-nucléaire, association des deux ;
+  - zonulaire, à point de départ périphérique ;
+  - sous-capsulaire, postérieure, très gênante et d'évolution rapide.
+- *Selon la densité :*
+  - débutante, peu gênante *(figure 2) ;*
+  - immature, début de gêne ;
+  - mûre, aspect blanchâtre, acuité visuelle très réduite ;
+  - intumescente, cristallin laiteux et gonflé ;
+  - hypermûre, cristallin complètement blanc, contracté *(figure 3) ;*
+  - morganienne, le noyau flotte dans le cortex liquide.
+- *Selon la position :*
+  - luxée, le cristallin a perdu ses attaches
+  - subluxée partiellement déplacée.
 
 ![](i861-2.jpg)
-
 
 ## IV. Examen clinique hors de la structure ophtalmologique
 
@@ -176,15 +172,15 @@ Nous nous placerons dans la situation de dépistage de la cataracte par un perso
 
 ### 1. Matériel nécessaire
 
-*   Registre ou fiches individuelles conservés par l'équipe soignante, pour noter le lieu et la date de l'examen, nom, prénom, sexe, âge, et profession du patient ;
-*   Carnets de santé, pouvant prendre la forme rudimentaire de 2 feuilles pliées, découpées et agrafées, à distribuer à chaque patient. Dans la mesure du possible, une contribution financière modeste permet de responsabiliser le patient, qui devra rapporter le carnet à chaque consultation. Les renseignements sur le carnet devront être aussi précis et détaillés que sur le registre ou les fiches individuelles ;
-*   Lampe de poche ou (mieux) ophtalmoscope si le maniement en est connu, filtre bleu cobalt ;
-*   Système grossissant : lunettes loupes au mieux, sinon lunettes à verres convexes (+ 4 à + 6).  
-*   Tonomètre: Schiotz (à indentation), Perkins (à aplanation, plus fragile et nécessitant un long apprentissage) ou Tonopen (à affichage digital, relativement onéreux).  
-*   Collyres : mydriatiques (Tropicamide Mydriaticum® ; cyclopentolate : Skiacol® néosynéphrine 10 % ... ), fluorescéine, anesthésiques de contact (oxybuprocàine: Novésine® ; tétracaïne ... ) ;
-*   Echelles d'acuité visuelle de loin: échelle de Snellen, anneaux de Landolt, dessins de près: Rossano (dessins, échelles) ou en texte (si possible en langue vernaculaire);
-*   Solution hydro-alcoolique pour la désinfection des mains;
-*   Seringues et canules à voies lacrymales, sérum physiologique.
+- Registre ou fiches individuelles conservés par l'équipe soignante, pour noter le lieu et la date de l'examen, nom, prénom, sexe, âge, et profession du patient ;
+- Carnets de santé, pouvant prendre la forme rudimentaire de 2 feuilles pliées, découpées et agrafées, à distribuer à chaque patient. Dans la mesure du possible, une contribution financière modeste permet de responsabiliser le patient, qui devra rapporter le carnet à chaque consultation. Les renseignements sur le carnet devront être aussi précis et détaillés que sur le registre ou les fiches individuelles ;
+- Lampe de poche ou (mieux) ophtalmoscope si le maniement en est connu, filtre bleu cobalt ;
+- Système grossissant : lunettes loupes au mieux, sinon lunettes à verres convexes (+ 4 à + 6).
+- Tonomètre: Schiotz (à indentation), Perkins (à aplanation, plus fragile et nécessitant un long apprentissage) ou Tonopen (à affichage digital, relativement onéreux).
+- Collyres : mydriatiques (Tropicamide Mydriaticum® ; cyclopentolate : Skiacol® néosynéphrine 10 % ... ), fluorescéine, anesthésiques de contact (oxybuprocàine: Novésine® ; tétracaïne ... ) ;
+- Echelles d'acuité visuelle de loin: échelle de Snellen, anneaux de Landolt, dessins de près: Rossano (dessins, échelles) ou en texte (si possible en langue vernaculaire);
+- Solution hydro-alcoolique pour la désinfection des mains;
+- Seringues et canules à voies lacrymales, sérum physiologique.
 
 ### 2. L'interrogatoire
 
@@ -192,10 +188,10 @@ Un interprète formé à la spécialité est appréciable au cas où les soins s
 
 On notera :
 
-*   la date de début de la baisse d'acuité visuelle, ce qui est important en cas de trau- matisme (noter également les circonstances du traumatisme);
-*   pathologie générale : diabète, avitaminose A (xérophtalmie), tuberculose, syphilis, séropositivité HIV, et traitements suivis (en particulier corticoïdes) ;
-*   antécédents maternels en cas de cataracte congénitale (rubéole, rougeole, syphilis, toxoplasmose) ;
-*   autre pathologie oculaire : arrachage régulier des cils (trichiasis), ptérygion, uvéite (zona, herpès).
+- la date de début de la baisse d'acuité visuelle, ce qui est important en cas de trau- matisme (noter également les circonstances du traumatisme);
+- pathologie générale : diabète, avitaminose A (xérophtalmie), tuberculose, syphilis, séropositivité HIV, et traitements suivis (en particulier corticoïdes) ;
+- antécédents maternels en cas de cataracte congénitale (rubéole, rougeole, syphilis, toxoplasmose) ;
+- autre pathologie oculaire : arrachage régulier des cils (trichiasis), ptérygion, uvéite (zona, herpès).
 
 ### 3. L'examen du patient
 
@@ -237,12 +233,12 @@ Testez chaque oeil séparément et notez les résultats sur la fiche.
 
 Voici quelques abréviations courantes relatives à la mesure de l'acuité visuelle :
 
-*   AV OD: acuité visuelle de l'oeil droit ;
-*   AV OG : acuité visuelle de l'oeil gauche;
-*   VP: vision de près;
-*   VL: vision de loin;
-*   PL: perception lumineuse;
-*   AV + TS : acuité visuelle avec le trou sténopéique.
+- AV OD: acuité visuelle de l'oeil droit ;
+- AV OG : acuité visuelle de l'oeil gauche;
+- VP: vision de près;
+- VL: vision de loin;
+- PL: perception lumineuse;
+- AV + TS : acuité visuelle avec le trou sténopéique.
 
 #### b. Examen de l'oeil
 
@@ -250,15 +246,15 @@ A la lampe torche et lunettes loupes, sous dilatation en cas d'acuité visuelle 
 
 On recherche au niveau de la pupille, normalement noire, une opacité blanche.
 
-_Examen à l'ophtalmoscope :_
+*Examen à l'ophtalmoscope :*
 
-*   La lueur pupillaire s'apprécie en tenant l'ophtalmoscope à distance (80cm) de l'oeil, elle permet de faire ressortir les opacités du cristallin qui forment une ombre sur le fond rosé du reflet rétinien.
+- La lueur pupillaire s'apprécie en tenant l'ophtalmoscope à distance (80cm) de l'oeil, elle permet de faire ressortir les opacités du cristallin qui forment une ombre sur le fond rosé du reflet rétinien.
 
-*   Le fond d'oeil: parfois invisible en cas de cataracte blanche. La présence de papilles blanches, excavées est signe d'un glaucome évolué.
+- Le fond d'oeil: parfois invisible en cas de cataracte blanche. La présence de papilles blanches, excavées est signe d'un glaucome évolué.
 
-_Mesure du tonus oculaire_, surtout utile en cas de perception lumineuse vague ou mal orientée : elle permet d'éviter l'intervention inutile chez un glaucomateux au stade terminal.
+*Mesure du tonus oculaire*, surtout utile en cas de perception lumineuse vague ou mal orientée : elle permet d'éviter l'intervention inutile chez un glaucomateux au stade terminal.
 
-_Contrôle des voies lacrymales_, en injectant du sérum ou de l'eau avec une canule, par l'orifice palpébral des canalicules lacrymaux. Ils seront à traiter en cas d'infection, préalablement à l'intervention.
+*Contrôle des voies lacrymales*, en injectant du sérum ou de l'eau avec une canule, par l'orifice palpébral des canalicules lacrymaux. Ils seront à traiter en cas d'infection, préalablement à l'intervention.
 
 Aucun autre examen complémentaire systématique n'est nécessaire avant la chirurgie, ni sanguin, ni radiologique.
 
@@ -278,20 +274,20 @@ Les Assyriens, les Indiens pratiquaient déjà au 2e millénaire avant notre èr
 
 Une variante a été récemment proposée, l'injection d'alpha-chymotrypsine intracamérulaire. En lysant les fibres de la zonule, elle favorise une luxation spontanée, retardée parfois de plusieurs jours, du cristallin dans la cavité vitréenne.
 
-#### Les avantages :
+#### Les avantages
 
-*   incision limitée, punctiforme (du diamètre de l'aiguille) ;
-*   récupération visuelle immédiate;
-*   absence d'astigmatisme;
-*   matériel peu coûteux;
-*   chirurgie de masse envisageable.
+- incision limitée, punctiforme (du diamètre de l'aiguille) ;
+- récupération visuelle immédiate;
+- absence d'astigmatisme;
+- matériel peu coûteux;
+- chirurgie de masse envisageable.
 
-#### Les inconvénients :
+#### Les inconvénients
 
-*   Pratiquée le plus souvent par des opérateurs en dehors du circuit médical ou infirmier (" tradipraticiens ", relevant plutôt du statut de sorciers), le contrôle de la qualité et de l'éthique est impossible, les prix demandés sont souvent largement supérieurs à ceux de la chirurgie conventionnelle.  
-*   La stérilisation du matériel est le plus souvent nulle.  
-*   35 % de complications immédiates (hémorragies, ruptures capsulaires) ou dans les suites proches (hypertonie aiguë, uvéite, décollement de rétine, infections) pouvant entraîner la perte de l'oeil.  
-*   Glaucome secondaire plusieurs années après.
+- Pratiquée le plus souvent par des opérateurs en dehors du circuit médical ou infirmier (" tradipraticiens ", relevant plutôt du statut de sorciers), le contrôle de la qualité et de l'éthique est impossible, les prix demandés sont souvent largement supérieurs à ceux de la chirurgie conventionnelle.
+- La stérilisation du matériel est le plus souvent nulle.
+- 35 % de complications immédiates (hémorragies, ruptures capsulaires) ou dans les suites proches (hypertonie aiguë, uvéite, décollement de rétine, infections) pouvant entraîner la perte de l'oeil.
+- Glaucome secondaire plusieurs années après.
 
 #### Bilan
 
@@ -329,11 +325,9 @@ C'est une variété d'extracapsulaire peu adaptée aux pays du tiers monde du fa
 
 La récupération visuelle est acquise quelques heures après l'intervention.
 
-Le matériel est onéreux, fragile (le générateur à ultra-sons contenant beaucoup d'électronique, les pannes sont très fréquentes), les pièces à mains piezzo-électriques (coût environ de 3 000 $) sont prévues pour 150 à 200 procédures et doivent être autoclavées, le microscope coaxial doit posséder en plus des réglages électriques (déplacements , mise au point) car les 2 mains sont occupées lors de la phase d'ultrasons.
-
+Le matériel est onéreux, fragile (le générateur à ultra-sons contenant beaucoup d'électronique, les pannes sont très fréquentes), les pièces à mains piezzo-électriques (coût environ de 3 000 \$) sont prévues pour 150 à 200 procédures et doivent être autoclavées, le microscope coaxial doit posséder en plus des réglages électriques (déplacements , mise au point) car les 2 mains sont occupées lors de la phase d'ultrasons.
 
 ![](i861-3.jpg)
-
 
 #### La correction de l'aphaquie
 
@@ -341,17 +335,20 @@ L'ablation du cristallin doit être compensée, pour obtenir une image nette sur
 
 Celui-ci peut prendre plusieurs formes:
 
-*   Les lunettes : elles sont épaisses (verres de + 12 dioptries en moyenne) et ne permettait qu'un champ de vision limité, avec une zone latérale d'environ 20 ° (en temporal) non perçue (angle mort). La fabrication des verres d'aphaque s'est raréfiée dans les pays où l'implantation est systématique, il faut donc trouver pour les pays du Sud des circuits locaux de fabrication des verres.  
-*   Les lentilles de contact : lentilles à port permanent ou journalier, rigides ou souples, à renouvellement mensuel ou annuel. Elles sont indiquées dans le cas d'une intervention unilatérale, les lunettes entraînant une aniséiconie (différence de taille d'image entre les 2 yeux) invalidante.  
-    *   Les lentilles rigides peuvent parfois compenser l'astigmatisme induit par l'intervention.  
-    *   L'hygiène des mains et des yeux est indispensable chez les patients équipés de lentilles, et leur port dans une atmosphère poussiéreuse est totalement contre-indiquée.  
-*   Les implants cristalliniens : systèmes de petite taille : optiques rondes ou ovales entre 5 et 7 mm de diamètre, haptiques (ou pattes de fixation) donnant un diamètre hors tout de 10 à 14 mm. Leur puissance standard varie selon leur type de 19 (ICA) à 21 (ICP) dioptries. La sécurité de leur pose est améliorée par le remplissage du segment antérieur avec un produit visco-élastique, qui protège l'endothélium cornéen. La méthylcellulose est une alternative acceptable aux produits plus élaborés car elle n'impose pas la non-rupture de la chaîne du froid.  
+- Les lunettes : elles sont épaisses (verres de + 12 dioptries en moyenne) et ne permettait qu'un champ de vision limité, avec une zone latérale d'environ 20 ° (en temporal) non perçue (angle mort). La fabrication des verres d'aphaque s'est raréfiée dans les pays où l'implantation est systématique, il faut donc trouver pour les pays du Sud des circuits locaux de fabrication des verres.
 
-    Les implants de chambre antérieure (ICA) se placent entre l'iris et la cornée, fixés par l'extention des pattes dans l'angle irido-cornéen. Ils doivent être placés rigoureusement afin d'éviter les frottements sur l'endothélium cornéen. Ils ne sont plus posés en première intention qu'après les extractions intra-capsulaires, du fait de la fréquence de perte de vision par opacification de la cornée (kératopathie bulleuse), dont le seul traitement est la kératoplastie transfixiante (greffe de cornée), inenvisageable sans une infrastructure et un suivi adapté.  
+- Les lentilles de contact : lentilles à port permanent ou journalier, rigides ou souples, à renouvellement mensuel ou annuel. Elles sont indiquées dans le cas d'une intervention unilatérale, les lunettes entraînant une aniséiconie (différence de taille d'image entre les 2 yeux) invalidante.
 
-    Les implants à fixation irienne fixés de part et d'autre de la pupille ont une forme de double pince de homard (_lobster-claw_). C'est une alternative intéressante aux ICA, mais la pose est difficile sans microscope ni produit visqueux.  
+  - Les lentilles rigides peuvent parfois compenser l'astigmatisme induit par l'intervention.
+  - L'hygiène des mains et des yeux est indispensable chez les patients équipés de lentilles, et leur port dans une atmosphère poussiéreuse est totalement contre-indiquée.
 
-    Les implants de chambre postérieure (ICP) se placent derrière l'iris, soit dans le sulcus ciliaire, soit au mieux dans le sac capsulaire (position la plus physiologique). Ils nécessitent la présence d'un support pour leur stabilité (au mieux zonule et capsule postérieure) et ne seront donc placés qu'après extraction extracapsulaire.
+- Les implants cristalliniens : systèmes de petite taille : optiques rondes ou ovales entre 5 et 7 mm de diamètre, haptiques (ou pattes de fixation) donnant un diamètre hors tout de 10 à 14 mm. Leur puissance standard varie selon leur type de 19 (ICA) à 21 (ICP) dioptries. La sécurité de leur pose est améliorée par le remplissage du segment antérieur avec un produit visco-élastique, qui protège l'endothélium cornéen. La méthylcellulose est une alternative acceptable aux produits plus élaborés car elle n'impose pas la non-rupture de la chaîne du froid.
+
+  Les implants de chambre antérieure (ICA) se placent entre l'iris et la cornée, fixés par l'extention des pattes dans l'angle irido-cornéen. Ils doivent être placés rigoureusement afin d'éviter les frottements sur l'endothélium cornéen. Ils ne sont plus posés en première intention qu'après les extractions intra-capsulaires, du fait de la fréquence de perte de vision par opacification de la cornée (kératopathie bulleuse), dont le seul traitement est la kératoplastie transfixiante (greffe de cornée), inenvisageable sans une infrastructure et un suivi adapté.
+
+  Les implants à fixation irienne fixés de part et d'autre de la pupille ont une forme de double pince de homard (*lobster-claw*). C'est une alternative intéressante aux ICA, mais la pose est difficile sans microscope ni produit visqueux.
+
+  Les implants de chambre postérieure (ICP) se placent derrière l'iris, soit dans le sulcus ciliaire, soit au mieux dans le sac capsulaire (position la plus physiologique). Ils nécessitent la présence d'un support pour leur stabilité (au mieux zonule et capsule postérieure) et ne seront donc placés qu'après extraction extracapsulaire.
 
 L'implantation est donc en théorie le meilleur système optique de correction pour l'oeil opéré, mais elle se heurte dans les pays du tiers monde à plusieurs obstacles : le coût, car ils doivent répondre à des normes de polissage parfait, d'ateliers de fabrication sans poussières, de stérilisation irréprochable et non toxique pour les structures internes de l'oeil et la faisabilité technique de l'implantation qui est fonction des moyens dont on dispose pour l'intervention (microscope coaxial en particulier) et de l'entraînement de l'opérateur.
 
@@ -367,22 +364,25 @@ Des lunettes, si elles sont disponibles, lui permettront des travaux fins (trava
 
 ### 4. Quelques contre-indications
 
-*   Vision nulle ou perception lumineuse douteuse, à fortiori en cas d'hypertonie oculaire pas de bénéfice à l'intervention.  
-*   - Baisse modérée d'acuité visuelle, acuité restante supérieure à 1/20, si l'on n'envisage pas d'implantation ni de lunettes.  
-*   Cataracte unilatérale : chez le nourrisson, surtout si elle est dépistée après 5 à 6 mois, l'amblyopie est déjà profonde (le cerveau n'a pas été stimulé) et ne récupérera pas. Inutile de prendre le risque de l'anesthésie générale. Chez l'adulte, seule une implantation (ou une lentille de contact) sera envisagée, sauf en cas de cataracte hypermûre ou intumescente (risque d'uvéite phako-anaphylactique).  
-*   Infection locale ou générale en cours (contre-indication temporaire).
+- Vision nulle ou perception lumineuse douteuse, à fortiori en cas d'hypertonie oculaire pas de bénéfice à l'intervention.
+
+- - Baisse modérée d'acuité visuelle, acuité restante supérieure à 1/20, si l'on n'envisage pas d'implantation ni de lunettes.
+
+- Cataracte unilatérale : chez le nourrisson, surtout si elle est dépistée après 5 à 6 mois, l'amblyopie est déjà profonde (le cerveau n'a pas été stimulé) et ne récupérera pas. Inutile de prendre le risque de l'anesthésie générale. Chez l'adulte, seule une implantation (ou une lentille de contact) sera envisagée, sauf en cas de cataracte hypermûre ou intumescente (risque d'uvéite phako-anaphylactique).
+
+- Infection locale ou générale en cours (contre-indication temporaire).
 
 ### 5. L'anesthésie
 
 Elle est locale sauf chez le nourrisson ou le sujet agité. Sa technique diffère suivant que l'on désire:
 
-*   une simple analgésie (par exemple pour une phakoémulsification) : une anesthésie topique par gouttes de tétracaïne ou sousténonienne, d'effet immédiat;
-*   une akinésie, qui nécessite l'infiltration des tissus péri-oculaires (péri-bulbaire), du ganglion ciliaire (rétro-bulbaire), du nerf facial et des paupières.
+- une simple analgésie (par exemple pour une phakoémulsification) : une anesthésie topique par gouttes de tétracaïne ou sousténonienne, d'effet immédiat;
+- une akinésie, qui nécessite l'infiltration des tissus péri-oculaires (péri-bulbaire), du ganglion ciliaire (rétro-bulbaire), du nerf facial et des paupières.
 
 L'anesthésique de choix est la Xylocaïne®, auquel on peut rajouter :
 
-*   de la Marcaïne® ou du Duranesth®, pour en prolonger l'effet, mais ces produits sont labiles et une conservation inadéquate (lumière, chaleur) peut les dénaturer, leur adjonction diluant alors la xylocaïne, et diminuant d'autant son efficacité ;
-*   une compression de 15 minutes et de la hyaluronidase pour aider à la diffusion.
+- de la Marcaïne® ou du Duranesth®, pour en prolonger l'effet, mais ces produits sont labiles et une conservation inadéquate (lumière, chaleur) peut les dénaturer, leur adjonction diluant alors la xylocaïne, et diminuant d'autant son efficacité ;
+- une compression de 15 minutes et de la hyaluronidase pour aider à la diffusion.
 
 L'intervention dure suivant la technique utilisée entre 10 et 30 minutes, sauf complications.
 
@@ -398,16 +398,16 @@ Un traitement local par collyre cortico-antibiotique, associé à un parasympath
 
 Les complications peuvent apparaître pendant l'hospitalisation :
 
-*   hyphéma, présence de sang dans la chambre antérieure, le plus souvent spontanément résolutif ;
-*   hypertonie, à traiter par collyre ou comprimés d'acétazolamide, en recherchant un blocage pupillaire nécessitant une reprise ;
-*   chambre antérieure plate, par défaut d'étanchéité de la cicatrice, à reprendre sans attendre pour éviter l'infection ;
-*   décollement choroïdien, présence de sang ou d'exsudats entre sclère et choroïde;
-*   douleurs et baisse rapide d'acuité visuelle sont les premiers signes d'endophtalmie, nécessitant en urgence un traitement antibiotique local et général après si possible identification du germe.
+- hyphéma, présence de sang dans la chambre antérieure, le plus souvent spontanément résolutif ;
+- hypertonie, à traiter par collyre ou comprimés d'acétazolamide, en recherchant un blocage pupillaire nécessitant une reprise ;
+- chambre antérieure plate, par défaut d'étanchéité de la cicatrice, à reprendre sans attendre pour éviter l'infection ;
+- décollement choroïdien, présence de sang ou d'exsudats entre sclère et choroïde;
+- douleurs et baisse rapide d'acuité visuelle sont les premiers signes d'endophtalmie, nécessitant en urgence un traitement antibiotique local et général après si possible identification du germe.
 
 Elles peuvent apparaître après l'hospitalisation :
 
-*   endophtalmie chronique;
-*   décollement de rétine, précédé de la vision d'éclairs lumineux, d'un voile dans une partie du champ visuel puis de la chute d'acuité visuelle.
+- endophtalmie chronique;
+- décollement de rétine, précédé de la vision d'éclairs lumineux, d'un voile dans une partie du champ visuel puis de la chute d'acuité visuelle.
 
 ### 8. Les opérateurs
 
@@ -423,4 +423,4 @@ La chirurgie de la cataracte est une intervention peu onéreuse en produits cons
 
 La formation d'opérateurs doit être programmée pour éradiquer cette première cause mondiale de cécité curable.
 
-_Développement et Santé, n° 143 et 144, décembre 1999_
+*Développement et Santé, n° 143 et 144, décembre 1999*

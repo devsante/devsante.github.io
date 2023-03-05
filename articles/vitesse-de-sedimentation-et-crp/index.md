@@ -15,21 +15,21 @@ La méthode de référence est la méthode de Westergren.
 
 #### Matériel
 
-*   tubes de Westergren : diamètre intérieur 2,50 mm, graduations de 0 à 200 mm (sou­vent marquées 0 à 20) ;
-*   support pour tubes de Westergren, permet­tant de maintenir le tube vertical en assurant l'obturation de l'extrémité inférieure ;
-*   poire ou tube en caoutchouc ;
-*   minuteur;
-*   anticoagulant = citrate de sodium 0,13 M. Le citrate doit être conservé au réfrigérateur.
+- tubes de Westergren : diamètre intérieur 2,50 mm, graduations de 0 à 200 mm (sou­vent marquées 0 à 20) ;
+- support pour tubes de Westergren, permet­tant de maintenir le tube vertical en assurant l'obturation de l'extrémité inférieure ;
+- poire ou tube en caoutchouc ;
+- minuteur;
+- anticoagulant = citrate de sodium 0,13 M. Le citrate doit être conservé au réfrigérateur.
 
 #### Méthode
 
-*   Le prélèvement est effectué de préférence le matin à jeun.  
-*   Le sang est recueilli dans un tube avec anti­coagulant soit 0,4 ml de solution de citrate + 1,6 ml de sang.  
-    Il est important d'agiter doucement le tube, immédiatement après le prélèvement afin de bien mélanger le citrate et le sang.  
-*   Le sang citraté est ensuite aspiré dans un tube de Westergren, jusqu'à la graduation 0 (si possible à l'aide d'une poire ou d'un tube en caoutchouc pour éviter d'avaler du sang).  
-*   Le tube est ensuite fixé au support, bien verticalement. La base du support doit être horizontale et disposée dans un lieu à l'abri de la chaleur.  
-*   Le tube est laissé ainsi pendant une heure. Pendant le temps de sédimentation, il est important d'éviter les chocs et les vibrations (centrifugeuse de paillasse...).  
-*   Après une heure, noter en millimètres, la hauteur du plasma surnageant, à partir de la graduation zéro.
+- Le prélèvement est effectué de préférence le matin à jeun.
+- Le sang est recueilli dans un tube avec anti­coagulant soit 0,4 ml de solution de citrate + 1,6 ml de sang.  
+  Il est important d'agiter doucement le tube, immédiatement après le prélèvement afin de bien mélanger le citrate et le sang.
+- Le sang citraté est ensuite aspiré dans un tube de Westergren, jusqu'à la graduation 0 (si possible à l'aide d'une poire ou d'un tube en caoutchouc pour éviter d'avaler du sang).
+- Le tube est ensuite fixé au support, bien verticalement. La base du support doit être horizontale et disposée dans un lieu à l'abri de la chaleur.
+- Le tube est laissé ainsi pendant une heure. Pendant le temps de sédimentation, il est important d'éviter les chocs et les vibrations (centrifugeuse de paillasse...).
+- Après une heure, noter en millimètres, la hauteur du plasma surnageant, à partir de la graduation zéro.
 
 La mesure de la VS peut s'effectuer après une heure et deux heures de sédimentation.
 
@@ -86,7 +86,8 @@ Tube de mesure trop froid, ou trop court
 
 </table>
 
-<table>
+\$1<table>
+
 <caption>Tableau 2 : variations pathologiques de la VS</caption>
 
 <thead>
@@ -157,12 +158,12 @@ Les techniques semi-quantitatives par agglutina­tion passive sur plaque, utilis
 
 ### 1. Vitesse de sédimentation
 
-#### Lecture de la première heure :
+#### Lecture de la première heure
 
-*   Chez l'homme : 1 à 10 mm (< 16).  
-*   Chez la femme :3 à 14 mm (< 25).
+- Chez l'homme : 1 à 10 mm (< 16).
+- Chez la femme :3 à 14 mm (< 25).
 
-Il existe une augmentation physiologique de la VS avec _l'âge et au cours de la grossesse,_ de même au cours des traitements oestropro­gestatifs.
+Il existe une augmentation physiologique de la VS avec *l'âge et au cours de la grossesse,* de même au cours des traitements oestropro­gestatifs.
 
 ### 2. CRP
 
@@ -175,21 +176,21 @@ Ce taux augmente avec la prise d'oestrogènes et l'inhalation de fumée de cigar
 
 Une augmentation de la VS fait suspecter en premier lieu un syndrome inflammatoire, mais elle est également augmentée dans toutes les situations d'hypergammaglobulinémie.
 
-*   _Une VS accélérée qui ne fait pas sa preuve doit être contrôlée._
-*   _Une VS normale ne doit pas rassurer si la clinique est évocatrice d'un état pathologique._
-*   _Une VS normale ne permet pas d'éliminer une pathologie néoplasique._
+- *Une VS accélérée qui ne fait pas sa preuve doit être contrôlée.*
+- *Une VS normale ne doit pas rassurer si la clinique est évocatrice d'un état pathologique.*
+- *Une VS normale ne permet pas d'éliminer une pathologie néoplasique.*
 
 ### 2. Les variations de la CRP
 
 Les variations pathologiques se font toujours dans le sens d'une élévation. L'intérêt du dosage de la CRP réside dans les variations rapides de concentrations, de grande amplitude, en parallèle avec le phénomène pathologie responsable de l'inflammation. Elle augmente dès la 6e heure, parvient à un taux maximum vers la 48e heure, et retourne à un taux normal au 6e jour en l'absence de complication.
 
-#### La CRP est augmentée au cours de :
+#### La CRP est augmentée au cours de
 
 **Maladies infectieuses :**
 
-*   les infections bactériennes représentent les situations inflammatoires où les taux sont les plus élevés jusqu'à 400 mg/L, voire plus) : tuberculose, méningite bactérienne, septicé­mie E. coli+++, pneumopathies, pyéloné­phrites (taux très élevés) ;
-*   les infections virales ne donnent lieu qu'à une élévation modérée de la CRP (< 25 mg/L).  
-*   les infections parasitaires (paludisme...)
+- les infections bactériennes représentent les situations inflammatoires où les taux sont les plus élevés jusqu'à 400 mg/L, voire plus) : tuberculose, méningite bactérienne, septicé­mie E. coli+++, pneumopathies, pyéloné­phrites (taux très élevés) ;
+- les infections virales ne donnent lieu qu'à une élévation modérée de la CRP (< 25 mg/L).
+- les infections parasitaires (paludisme...)
 
 **Hépatopathies** : cirrhose (mais la CRP reste normale dans les hépatites cytolytiques).
 
@@ -267,10 +268,10 @@ Demi-vie - 12 heures
 
 **Affections rhumatismales :**
 
-*   rhumatisme articulaire aigu
-*   lupus érythéma­teux disséminé (LED) : la CRP n'est augmen­tée que lors des poussées évolutives ;
-*   polyarthrite rhumatoïde (PR) : le taux de CRP dépasse souvent 50 mg/L. Il existe une bonne corrélation avec l'évolutivité de la PR et l'existence de lésions osseuses ;
-*   vascularites : la CRP se normalise au cours des rémissions et réaugmente en cas de récidive.
+- rhumatisme articulaire aigu
+- lupus érythéma­teux disséminé (LED) : la CRP n'est augmen­tée que lors des poussées évolutives ;
+- polyarthrite rhumatoïde (PR) : le taux de CRP dépasse souvent 50 mg/L. Il existe une bonne corrélation avec l'évolutivité de la PR et l'existence de lésions osseuses ;
+- vascularites : la CRP se normalise au cours des rémissions et réaugmente en cas de récidive.
 
 **Grossesse et contraception orale :**
 
@@ -286,8 +287,8 @@ Nécrose myocardique : le dosage de la CRP n'est pas utile au diagnostic (le pic
 
 **Au cours des affections néoplasiques** :
 
-*   hémopathies, en particulier syndromes lym­phoprolifératifs ;
-*   carcinomes, dont hépatocarcinome.
+- hémopathies, en particulier syndromes lym­phoprolifératifs ;
+- carcinomes, dont hépatocarcinome.
 
 ## IV. Conclusion
 
@@ -300,6 +301,5 @@ VS augmentée avec CRP normale > élimine un syndrôme inflammatoire -> recherch
 CRP augmentée = inflammation
 
 CRP > 200 mg/L -> infection bactérienne
-
 
 ![](image002.jpg)

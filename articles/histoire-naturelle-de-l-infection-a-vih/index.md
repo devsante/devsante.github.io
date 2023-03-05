@@ -8,17 +8,17 @@ date: "1996-04-04"
 
 ## I. Phase aiguë de primo-infection
 
-*   Elle survient quinze jours à deux mois après la contamination.  
-*   Elle est cliniquement apparente seulement dans environ 30 % des cas.  
-*   Les manifestations peuvent être variées : fièvre, céphalées, éruption cutanée, myalgie, adénopathies, parfois atteinte neurologique.  
-*   Le tableau est peu spécifique et souvent proche d'une infection virale banale. L'évolution est favorable en quelques semaines spontanément. Le plus souvent cette phase passe inaperçue.  
-*   C'est durant cette période que l'organisme va fabriquer les anticorps spécifiques du VIH qui pourraient être décelés par le test de dépistage de l'infection.
+- Elle survient quinze jours à deux mois après la contamination.
+- Elle est cliniquement apparente seulement dans environ 30 % des cas.
+- Les manifestations peuvent être variées : fièvre, céphalées, éruption cutanée, myalgie, adénopathies, parfois atteinte neurologique.
+- Le tableau est peu spécifique et souvent proche d'une infection virale banale. L'évolution est favorable en quelques semaines spontanément. Le plus souvent cette phase passe inaperçue.
+- C'est durant cette période que l'organisme va fabriquer les anticorps spécifiques du VIH qui pourraient être décelés par le test de dépistage de l'infection.
 
 ## II. Phase asymptomatique ou d'infection chronique
 
-*   Elle correspond à une phase où le virus est présent mais n'engendre pas de symptôme.  
-*   Le sujet est séropositif (test de dépistage positif).  
-*   Le virus est présent, en multiplication mais contrôlé par le système immunitaire de l'organisme.
+- Elle correspond à une phase où le virus est présent mais n'engendre pas de symptôme.
+- Le sujet est séropositif (test de dépistage positif).
+- Le virus est présent, en multiplication mais contrôlé par le système immunitaire de l'organisme.
 
 Souvent il existe à ce stade des adénopathies généralisées et persistantes, correspondant à la stimulation des défenses de l'organisme. Leur présence n'est pas un signe de progression de la maladie.
 
@@ -30,12 +30,12 @@ Ces symptômes sont parfois d'allure banale et non spécifiques de la maladie VI
 
 Certains symptômes généraux peuvent également apparaître, qui correspondent souvent à des signes de progression de la maladie sans entrer dans la définition du sida.
 
-Ils sont parfois regroupés sous le thème de _ARC (AIDS related complex) :_
+Ils sont parfois regroupés sous le thème de *ARC (AIDS related complex) :*
 
-*   fièvre persistante (quelques semaines) >_ 38,5°,
-*   sueurs nocturnes, altération de l'état général,
-*   amaigrissement involontaire de plus de 10 % du poids,
-*   diarrhée persistante (> à 1 mois).
+- fièvre persistante (quelques semaines) >\_ 38,5°,
+- sueurs nocturnes, altération de l'état général,
+- amaigrissement involontaire de plus de 10 % du poids,
+- diarrhée persistante (> à 1 mois).
 
 ## IV. Le sida
 
@@ -43,26 +43,24 @@ Une liste de pathologies survenant chez le sujet infecté par le VIH définit le
 
 Il s'agit en général d'infections opportunistes qui se développent à la faveur du déficit immunitaire mais il peut également s'agir de tumeur (Kaposi, lymphome...) ou de pathologies liées au virus du VIH lui-même (atteinte cérébrale et neurologique périphérique, cachexie...).
 
-
 ![](i678-1.jpg)
-
 
 Le diagnostic précis des infections et/ou du taux de lymphocytes CD4 n'est guère applicable en Afrique.
 
 Pour tenir compte de cette réalité, une définition plus clinique du sida a été adaptée pour l'Afrique. Ainsi qu'une définition commune aux pays du Nord et du Sud (CDC/OMS 1987) (tableau 1).
 
-Bien entendu, l'accès aux tests sérologiques VIH aide à poser le diagnostic _(carte)._
+Bien entendu, l'accès aux tests sérologiques VIH aide à poser le diagnostic *(carte).*
 
 ## V. Temps de progression vers le sida
 
-*   L'histoire de la maladie est variable d'un individu à l'autre.  
-*   La durée d'évolution de la maladie peut être étudiée à travers le suivi de cohortes de sujets contaminés.  
-*   La difficulté est souvent de connaître la date de la contamination qui est différente de la date de la première sérologie positive.  
-*   Peu d'études larges ont pu être menées.  
-*   Cette évolution est également influencée par la prise en charge thérapeutique éventuelle de l'infection. Taux de progression vers le sida (Études européennes, Etats-Unis) :
-    *   5 ans après la contamination : 10-29 %,
-    *   10 ans après la contamination : 35-55 %,
-    *   15 ans après la contamination : 75 %.
+- L'histoire de la maladie est variable d'un individu à l'autre.
+- La durée d'évolution de la maladie peut être étudiée à travers le suivi de cohortes de sujets contaminés.
+- La difficulté est souvent de connaître la date de la contamination qui est différente de la date de la première sérologie positive.
+- Peu d'études larges ont pu être menées.
+- Cette évolution est également influencée par la prise en charge thérapeutique éventuelle de l'infection. Taux de progression vers le sida (Études européennes, Etats-Unis) :
+  - 5 ans après la contamination : 10-29 %,
+  - 10 ans après la contamination : 35-55 %,
+  - 15 ans après la contamination : 75 %.
 
 Il existe très peu d'études africaines. Souvent ces études se heurtent à la méconnaissance de l'ancienneté de l'infection et aux difficultés du suivi des cohortes.
 
@@ -74,16 +72,17 @@ Il faut rappeler que les suivis de cohorte confirment également qu'il existe de
 
 Dans une cohorte américaine, 8 % des patients appartiennent à ce groupe dix ans après la contamination.
 
-## VI. Cas particulier des enfants  
+## VI. Cas particulier des enfants
+
 contaminés à la naissance par le VIH
 
 Pour les 20 % véritablement infectés, il existe deux types d'évolution vers le sida : tous les enfants sont séropositifs à la naissance (anticorps VIH transmis par le placenta).
 
 Heureusement 80 % ne sont pas contaminés par le virus : ils vont négativer leur sérologie vers 12-16 mois.
 
-*   Pour environ 20 % des enfants contaminés, il existe une forme rapidement évolutive avec apparition précoce du sida et un décès survenant le plus souvent à moins de cinq ans.  
-    Les facteurs de risque de cette évolution semblent être essentiellement le fait que la mère présente déjà une immunodépression sévère ou un sida, que la contamination est précoce, et que l'âge de la mère est plus élevé.  
-*   Pour les 80 % des enfants restants, l'évolution se fait de façon lente comme chez l'adulte.
+- Pour environ 20 % des enfants contaminés, il existe une forme rapidement évolutive avec apparition précoce du sida et un décès survenant le plus souvent à moins de cinq ans.  
+  Les facteurs de risque de cette évolution semblent être essentiellement le fait que la mère présente déjà une immunodépression sévère ou un sida, que la contamination est précoce, et que l'âge de la mère est plus élevé.
+- Pour les 80 % des enfants restants, l'évolution se fait de façon lente comme chez l'adulte.
 
 ## VII. Facteurs prédictifs de l'évolution vers le sida
 
@@ -93,19 +92,20 @@ Les risques cliniques en faveur d'une progression de l'immunodépression annonce
 
 Il s'agit principalement de :
 
-*   la candidose buccale,
-*   la leucoplasie chevelue de la langue,
-*   les signes constitutionnels : fièvre, amaigrissement, asthénie, sueurs nocturnes, diarrhée chronique.
+- la candidose buccale,
+- la leucoplasie chevelue de la langue,
+- les signes constitutionnels : fièvre, amaigrissement, asthénie, sueurs nocturnes, diarrhée chronique.
 
 ### 2. Facteurs biologiques
 
 Quand ils sont disponibles, les paramètres biologiques ont une valeur pronostique importante :
 
-*   _Lymphopénie T CD4+_ est le marqueur le plus habituel de l'importance de l'immunodépression.  
-*   Quand elle est inférieure à 200/mm<sup>3</sup>, le risque de progression vers le sida dans les cohortes nord-américaines ou européennes est de 87 % à trois ans.  
-    Cette mesure très utile se heurte en Afrique à un coût _élevé_ et une disponibilité rare. Un reflet indirect peut être le nombre absolu de lymphocytes.
+- *Lymphopénie T CD4+* est le marqueur le plus habituel de l'importance de l'immunodépression.
 
-*   _Mesure de la réplication virale VIH_ (antigène P24) correspondant à un reflet des virus circulants.
+- Quand elle est inférieure à 200/mm<sup>3</sup>, le risque de progression vers le sida dans les cohortes nord-américaines ou européennes est de 87 % à trois ans.  
+  Cette mesure très utile se heurte en Afrique à un coût *élevé* et une disponibilité rare. Un reflet indirect peut être le nombre absolu de lymphocytes.
+
+- *Mesure de la réplication virale VIH* (antigène P24) correspondant à un reflet des virus circulants.
 
 De nouvelles techniques se développent actuellement pour mesurer la charge virale VIH par biologie moléculaire (PCR).
 
@@ -113,13 +113,17 @@ Cela permet de savoir l'importance de la réplication virale mais l'intérêt de
 
 ## VIII. Facteurs influençant l'évolution de la maladie
 
-*   _L'âge supérieur à quarante_ ans au moment de la contamination est un facteur péjoratif d'évolution de la maladie quel que soit le mode de contamination.
+- *L'âge supérieur à quarante* ans au moment de la contamination est un facteur péjoratif d'évolution de la maladie quel que soit le mode de contamination.
 
-*   _L'existence d'une primo-infection clinique_ (c'est-à-dire avec manifestations cliniques décelables) est un facteur favorisant une évolution plus rapide vers le sida.  
-*   _Le type de virus_ contaminant : il existe des virus plus pathogènes et favorisant une progression plus rapide de la maladie (virus résistant à l'AZT, producteur de Syncitia). Le virus venant d'un sujet au stade sida est potentiellement plus pathogène.  
-*   L'état _nutritionnel :_ plusieurs études montrent que le mauvais état nutritionnel (carence vitaminique, en oligo-éléments) aggrave l'infection. Un meilleur état nutritionnel ralentirait l'évolution de la maladie.  
-*   _Les autres facteurs sont_ hypothétiques : alcool, tabac, mode de transmission par toxicomanie ou transfusion.  
-*   _De nombreuses études sont en cours sur le rôle des cofacteurs infectieux : cryptocoque, cytomégalouirus, mycoplasme... mais aucune conclusion claire n'a pu être avancée._
+- *L'existence d'une primo-infection clinique* (c'est-à-dire avec manifestations cliniques décelables) est un facteur favorisant une évolution plus rapide vers le sida.
+
+- *Le type de virus* contaminant : il existe des virus plus pathogènes et favorisant une progression plus rapide de la maladie (virus résistant à l'AZT, producteur de Syncitia). Le virus venant d'un sujet au stade sida est potentiellement plus pathogène.
+
+- L'état *nutritionnel :* plusieurs études montrent que le mauvais état nutritionnel (carence vitaminique, en oligo-éléments) aggrave l'infection. Un meilleur état nutritionnel ralentirait l'évolution de la maladie.
+
+- *Les autres facteurs sont* hypothétiques : alcool, tabac, mode de transmission par toxicomanie ou transfusion.
+
+- *De nombreuses études sont en cours sur le rôle des cofacteurs infectieux : cryptocoque, cytomégalouirus, mycoplasme... mais aucune conclusion claire n'a pu être avancée.*
 
 ## IX. Conclusion
 
@@ -150,18 +154,15 @@ L'histoire naturelle de cette infection reste encore mal connue, en particulier 
 
 <ul><li>amaigrissement > 10 %</li><li>diarrhée > un mois</li><li>fièvre > un mois (continue ou intermittente)</li></ul>
 
-####   
-Critères mineurs
+#### Critères mineurs
 
 <ul><li>toux > un mois</li><li>dermatite prurigineuse généralisée</li><li>zona récidivant</li><li>candidose oropharyngée</li><li>herpès virose chronique</li><li>lymphadénopathie généralisée</li></ul>
 
-####   
-Critères d'exclusion
+#### Critères d'exclusion
 
 <ul><li>cancer</li><li>malnutrition sévère</li><li>autre étiologie</li></ul>
 
-####   
-La présence
+#### La présence
 
 <ul><li>d'au moins deux critères majeurs et</li><li>d'au moins un critère mineur permet de poser le diagnostic de sida, de même que la présence</li><li>d'un sarcome de Kaposi agressif ou</li><li>d'une méningite à cryptocoques prouvée  
  </li></ul></td>
@@ -174,18 +175,15 @@ La présence
 
 <ul><li>amaigrissement > 10 %</li><li>diarrhée > un mois</li><li>fièvre > un mois (continue ou intermittente)</li></ul>
 
-####   
-Critères mineurs
+#### Critères mineurs
 
 <ul><li>toux persistante</li><li>dermatite prurigineuse généralisée</li><li>candidose oropharyngée</li><li>infections banales récidivantes (otite, pharyngite...)</li><li>infection à VIH confirmée chez la mère lymphadénopathie généralisée</li></ul>
 
-####   
-Critères d'exclusion
+#### Critères d'exclusion
 
 <ul><li>cancer</li><li>malnutrition sévère autre étiologie</li></ul>
 
-####   
-La présence
+#### La présence
 
 <ul><li>d'au moins deux critères majeurs et</li><li>d'au moins deux critères mineurs permet de poser le diagnostic de sida</li></ul></td>
 
@@ -195,4 +193,4 @@ La présence
 
 </table>
 
-_Développement et Santé, n°122, avril 1996_
+*Développement et Santé, n°122, avril 1996*

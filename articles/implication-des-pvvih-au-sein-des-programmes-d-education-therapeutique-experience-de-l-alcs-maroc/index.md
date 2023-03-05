@@ -10,7 +10,7 @@ date: "2007-11-12"
 
 Au Maroc, l'Association de Lutte Contre le SIDA (ALCS) est aujourd'hui un acteur incontournable de la société civile. Première association de ce type constituée au Maghreb et au MoyenOrient où le tabou sur la sexualité est pesant, l'ALCS a vu le jour en 1988, alors que trente cas seulement de SIDA étaient déclarés. Structure principalement médicale à ses débuts, l'ALCS a très vite évolué vers une association de type communautaire et militante qui, malgré une collaboration régulière avec les pouvoirs publics, n'a jamais hésité à dénoncer les positions officielles qui allaient à l'encontre de son action. Ce fut le cas lors de l'accord de libre échange conclu avec les Etats-Unis d'Amérique et ses conséquences sur l'accès aux traitements.
 
-### _Quels sont les objectifs et activités_ de _l'ALCS ?_
+### *Quels sont les objectifs et activités* de *l'ALCS ?*
 
 Reconnue d'utilité publique en 1993, l'ALCS s'attache à poursuivre ses principaux objectifs que sont **la prévention de l'infection VIH/SIDA, l'accès aux traitements, la prise en charge et la défense des droits des personnes vivant avec le VIH (PVVIH)**, dans le strict respect des droits de l'Homme et des principes éthiques de neutralité et de confidentialité. Grâce au soutien d'ESTHER, Sidaction et aux donateurs nationaux, l'ALCS parvient à offrir une assistance matérielle et un soutien psychologique aux PVVIH, à assurer le financement d'une partie des tests biologiques et des médicaments contre les maladies opportunistes, et à mettre des assistantes sociales à la disposition des personnes vivant avec le VIH.
 
@@ -24,22 +24,20 @@ C'est un projet pilote qui a été initialement mis en place en janvier 2000 à 
 
 D'autres sections de l'ALCS ont été ensuite concernées par la prise en charge des personnes vivant avec le VIH ; une commission constituée principalement de volontaires a progressivement été mise en place dans les centres référents de Rabat, Tanger, Marrakech et Agadir. En 2006, grâce aux fonds de Sidaction Maroc 2005, ces commissions ont pu se professionnaliser en recrutant une assistante sociale et des éducateurs permanents, afin d'améliorer les conditions de prise en charge des patients et de l'éducation thérapeutique.
 
-
 ![](i124-1.jpg)
 
-
-### _Qu'est ce qui a motivé le développement de l'éducation thérapeutique à l'hôpital Ibn Rochd avec l'ALCS ?_
+### *Qu'est ce qui a motivé le développement de l'éducation thérapeutique à l'hôpital Ibn Rochd avec l'ALCS ?*
 
 La collaboration entre le service des maladies infectieuses et l'ALCS allait de soi, elle fait même partie des premiers statuts de l'ALCS. L'ALCS est présente dans le service pour l'accompagnement des patients hospitalisés et non hospitalisés depuis que nous avons démarré la prise en charge des patients vivants avec le VIH ; il était donc tout à fait naturel que se soit l'association qui prenne en charge l'éducation thérapeutique ; ceci s'intégrait parfaitement dans ce que nous appelons "la commission prise en charge des personnes vivant avec le VIH".
 
 Enfin, nous nous doutions dès le début que les médecins et les infirmières n'auraient pas suffisamment de disponibilité pour s'impliquer entièrement dans le travail d'éducation et il fallait donc que les volontaires de l'ALCS le fassent**.**
 
-### _Quels ont été les éléments favorables à la mise en place de l'éducation thérapeutique par l'ALCS ?_
+### *Quels ont été les éléments favorables à la mise en place de l'éducation thérapeutique par l'ALCS ?*
 
-*   Une collaboration déjà ancienne et excellente entre l'ALCS et les centres référents de l'infection à VIH,
-*   L'implication de l'ALCS à tous les niveaux (prévention, dépistage, prise en charge et soutien psycho-social) : l'ALCS est devenue un acteur incontournable,
-*   L'ALCS était déjà impliquée dans plusieurs aspects du soutien psycho-social et dans l'approvisionnement en médicaments,
-*   Nous étions convaincus de l'importance d'une bonne adhérence au traitement et du rôle positif de l'éducation thérapeutique pour cela.
+- Une collaboration déjà ancienne et excellente entre l'ALCS et les centres référents de l'infection à VIH,
+- L'implication de l'ALCS à tous les niveaux (prévention, dépistage, prise en charge et soutien psycho-social) : l'ALCS est devenue un acteur incontournable,
+- L'ALCS était déjà impliquée dans plusieurs aspects du soutien psycho-social et dans l'approvisionnement en médicaments,
+- Nous étions convaincus de l'importance d'une bonne adhérence au traitement et du rôle positif de l'éducation thérapeutique pour cela.
 
 <table>
 
@@ -61,31 +59,31 @@ Hôpital Ibn Rochd de Casablanca
 
 </table>
 
-### _Quels sont les points positifs de cette expérience ?_
+### *Quels sont les points positifs de cette expérience ?*
 
 Cette expérience a permis une bonne intégration de l'association au sein de l'hôpital ainsi qu'une bonne collaboration avec les autres associations de développement (orientation des patients).
 
 Les éducateurs sont impliqués et motivés. Les patients s'impliquent eux aussi dans les activités de l'association en tant que volontaires. Ils ont récemment constitué un groupe de dialogue et de travail : l'ALCS+. Un coordinateur national du programme ETP, le Dr. Hind Setti, a été recruté fin février. Sa mission est de superviser les différents programmes et d'assurer la formation continue de l'ensemble des éducateurs.
 
-### _Quelles difficultés avez-vous rencontrées ?_
+### *Quelles difficultés avez-vous rencontrées ?*
 
 Nous avons observé dans certaines villes de province un frein à la présence de l'ALCS au sein des structures hospitalières. Nous pouvons l'expliquer par :
 
-*   la peur chez certaines personnes de la stigmatisation au sein de l'hôpital : elles ne veulent pas être identifiées comme PVVIH et donc ne suivent pas les séances d'ETP,
-*   le manque de moyen dans les centres référents,
-*   la difficulté d'organiser des réunions avec les équipes soignantes et le désintérêt de certains soignants face à l'éducation thérapeutique ; les éducateurs thérapeutiques sont souvent confondus avec l'assistante sociale : ils accomplissent diverses tâches débordant le cadre de leur fonction.
+- la peur chez certaines personnes de la stigmatisation au sein de l'hôpital : elles ne veulent pas être identifiées comme PVVIH et donc ne suivent pas les séances d'ETP,
+- le manque de moyen dans les centres référents,
+- la difficulté d'organiser des réunions avec les équipes soignantes et le désintérêt de certains soignants face à l'éducation thérapeutique ; les éducateurs thérapeutiques sont souvent confondus avec l'assistante sociale : ils accomplissent diverses tâches débordant le cadre de leur fonction.
 
 Certains aspects du programme doivent aujourd'hui être améliorés :
 
-*   besoin d'augmenter le nombre d'éducateurs par site : en dehors de Casablanca et Rabat et Marrakech, il n'y a qu'un seul éducateur qui a une charge de travail et une pression psychologique très importante. Une augmentation de la file active dans les centres de prise en charge des patients infectés par le VIH en province,
-*   prévoir la prise en charge psychologique des patients avec l'intervention d'un psychologue professionnel mais également des séances de régulation pour les éducateurs afin de diminuer la pression qui pèse sur eux,
-*   mettre en place des programmes de prévention secondaire et de travail sur l'estime de soi.
+- besoin d'augmenter le nombre d'éducateurs par site : en dehors de Casablanca et Rabat et Marrakech, il n'y a qu'un seul éducateur qui a une charge de travail et une pression psychologique très importante. Une augmentation de la file active dans les centres de prise en charge des patients infectés par le VIH en province,
+- prévoir la prise en charge psychologique des patients avec l'intervention d'un psychologue professionnel mais également des séances de régulation pour les éducateurs afin de diminuer la pression qui pèse sur eux,
+- mettre en place des programmes de prévention secondaire et de travail sur l'estime de soi.
 
-### _Quelles recommandations donneriez vous à une structure souhaitant développer l'ETP en partenariat avec une association de patient ou une association communautaire ?_
+### *Quelles recommandations donneriez vous à une structure souhaitant développer l'ETP en partenariat avec une association de patient ou une association communautaire ?*
 
 **Les formations continues sont indispensables** pour une remise à niveau (sur les traitements par exemple) et il faut veiller à pouvoir indemniser les éducateurs. Il est par ailleurs important que l'association signe une convention avec l'hôpital où se déroule l'éducation thérapeutique. L'implication des PVVIH comme éducateurs est importante.
 
-### _Qu'est ce que l'éducation thérapeutique a changé dans la pratique des soignants ?_
+### *Qu'est ce que l'éducation thérapeutique a changé dans la pratique des soignants ?*
 
 L'éducation thérapeutique a permis de créer d'excellentes relations entre les volontaires de l'ALCS et l'équipe soignante ; elle a permis aux médecins un gain de temps énorme dans la consultation, puisque même si bien sûr les médecins expliquent eux même aux patients leur traitement, ils savent qu'ensuite, l'éducateur va vraiment développer tous les aspects de ce traitement.
 
@@ -166,8 +164,6 @@ Au cours de leur formation, les éducateurs ont conçu un guide qui permet à to
 
 </table>
 
-
 ![](i124-2.jpg)
 
-
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

@@ -38,8 +38,8 @@ La confirmation du diagnostic est apportée par les examens biologiques qui met
 
 Cette forme clinique aiguë peut évoluer de deux manières :
 
-*   vers la guérison attestée par les éléments biologiques suivants : Ag HBs-, Ac anti HBs+, Ag HBe- et Ac anti HBe+. Dans ce cas, le risque de TME devient nul ;
-*   ou vers le passage à la chronicit ave la présence d’Ag HBs et l’absence d’Ac anti HBs.
+- vers la guérison attestée par les éléments biologiques suivants : Ag HBs-, Ac anti HBs+, Ag HBe- et Ac anti HBe+. Dans ce cas, le risque de TME devient nul ;
+- ou vers le passage à la chronicit ave la présence d’Ag HBs et l’absence d’Ac anti HBs.
 
 ### 2. Hépatite chronique et grossesse
 
@@ -64,8 +64,8 @@ tion si Ac anti HBs < 10 mUL.
 Dès son admission en salle d’accouchement, il faut vérifier systématiquement le statut de la femme vis-à-vis du virus de l’hépatite B.  
 Si son statut par rapport à l’Ag HBs est inconnu : on fait un dépistage  par test rapide du VHB (TDR) après avoir fait le counselling et obtenu le consentement de la patiente.
 
-*   si Ag HBs positif : sérovaccination de l’enfant à la naissance,
-*   si Ag HBs négatif : vaccination de l’enfant.
+- si Ag HBs positif : sérovaccination de l’enfant à la naissance,
+- si Ag HBs négatif : vaccination de l’enfant.
 
 Si le statut par rapport à l’Ag HBs est connu et en cas de positivité de l’Ag HBs, on administre une sérovaccination à l’enfant dès la naissance ; par contre, si l’Ag HBs est négatif, on procède seulement à une vaccination de l’enfant.
 
@@ -85,13 +85,13 @@ entre 1 et 4 mois post-vaccination ou au plus tard à l’âge de 1 an.
 Elle  associe l’injection simultanée d’immunoglobulines anti HBs et d’une première injection vaccinale.  
 Si l’enfant est né à terme et de poids normal, il faut administrer dans les 12 premières heures :
 
-*   des immunoglobulines spécifiques anti-hépatite B : 100 UI  (injection  intramusculaire  dans  la  partie antéro-externe de la cuisse),
-*   la première dose de vaccin anti-hépatite B par une injection  intramusculaire effectuée dans l’autre cuisse.
+- des immunoglobulines spécifiques anti-hépatite B : 100 UI  (injection  intramusculaire  dans  la  partie antéro-externe de la cuisse),
+- la première dose de vaccin anti-hépatite B par une injection  intramusculaire effectuée dans l’autre cuisse.
 
 S’il s’agit d’un nouveau-né prématuré ou hypotrophe, il faudra administrer dans les 12 premières heures :
 
-*   des immunoglobulines spécifiques anti-hépatite B : 200 UI  (injection intramusculaire dans la partie antéro-externe de la cuisse),
-*   la première dose de vaccin anti-hépatite B par une injection  intramusculaire effectuée dans l’autre cuisse.
+- des immunoglobulines spécifiques anti-hépatite B : 200 UI  (injection intramusculaire dans la partie antéro-externe de la cuisse),
+- la première dose de vaccin anti-hépatite B par une injection  intramusculaire effectuée dans l’autre cuisse.
 
 ### 4. Allaitement maternel
 

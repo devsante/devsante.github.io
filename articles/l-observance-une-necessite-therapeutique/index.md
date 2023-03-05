@@ -17,24 +17,24 @@ L'observance aux traitements (ARV, antituberculeux) est une des questions centra
 
 Outre les difficultés rencontrées par les infirmiers pour expliquer aux personnes infectées l'importance d'une prise régulière du traitement, d'autres motifs au comportement de non observance peuvent être mis en exergue tels que :
 
-*   La complexité de la posologie ;
-*   Les effets secondaires des médicaments ;
-*   Le défaut d'informations sur les conduites à tenir en cas d'apparition de troubles tels que nausées, vomissements et diarrhée ;
-*   Le coût du traitement et les frais annexes;
-*   La mauvaise qualité de la relation soignant/soigné;
-*   L'absence de prise en charge psychosociale et socio-éducative adaptée ; La stigmatisation des individus VIH+ et la persistance de certains préjugés autour de la maladie ;
-*   L'isolement social et la non implication de l'entourage dans la démarche de soin.
+- La complexité de la posologie ;
+- Les effets secondaires des médicaments ;
+- Le défaut d'informations sur les conduites à tenir en cas d'apparition de troubles tels que nausées, vomissements et diarrhée ;
+- Le coût du traitement et les frais annexes;
+- La mauvaise qualité de la relation soignant/soigné;
+- L'absence de prise en charge psychosociale et socio-éducative adaptée ; La stigmatisation des individus VIH+ et la persistance de certains préjugés autour de la maladie ;
+- L'isolement social et la non implication de l'entourage dans la démarche de soin.
 
 Dans le cadre de la non-observance, on assiste le plus souvent aux comportements suivants :
 
-*   Absence de prise des médicaments (oubli) ;
-*   Prise injustifiée ;
-*   Erreur de dose ;
-*   Erreur dans l'horaire de prise ;
-*   Erreur dans le médicament ;
-*   Partage des médicaments.
+- Absence de prise des médicaments (oubli) ;
+- Prise injustifiée ;
+- Erreur de dose ;
+- Erreur dans l'horaire de prise ;
+- Erreur dans le médicament ;
+- Partage des médicaments.
 
-**Diminution du nombre de prises ou de comprimés ou _a contrario_ prise de médicaments en excès** (ibid).
+**Diminution du nombre de prises ou de comprimés ou *a contrario* prise de médicaments en excès** (ibid).
 
 Pour l'infirmier, l'observance ne doit pas se limiter au seul fait que le patient prenne ou non son traitement.
 
@@ -46,25 +46,25 @@ Si un patient ne prend pas son traitement de manière régulière, l'infirmier s
 
 ## III. Les bénéfices du traitement par ARV
 
-*   Améliore la qualité et l'espérance de vie des personnes vivant avec le VIH/sida ;
-*   Permet au malade de pouvoir continuer à travailler et ainsi percevoir un salaire ;
-*   Contribue à faire reculer les préjugés sociaux en matière de VIH ;
-*   Encourage aux comportements de prévention.
+- Améliore la qualité et l'espérance de vie des personnes vivant avec le VIH/sida ;
+- Permet au malade de pouvoir continuer à travailler et ainsi percevoir un salaire ;
+- Contribue à faire reculer les préjugés sociaux en matière de VIH ;
+- Encourage aux comportements de prévention.
 
 Lors de l'atelier du groupe de travail "Gorée 2001", il a été constaté que l'observance du traitement dépend beaucoup de la bonne gestion des stocks et de la disponibilité des traitements.
 
 Sont également en jeu :
 
-*   La proximité géographique et l'accessibilité des produits ;
-*   La simplification des schémas thérapeutiques ;
-*   La qualité de l'information délivrée à l'usager lors des consultations ;
-*   L'établissement d'une relation de confiance avec l'équipe soignante ;
-*   La gestion de la confidentialité ;
-*   L'adhésion au traitement, qui dépend notamment de l'acceptation familiale, qui peut être favorisée par l'appui des associations ;
-*   L'existence de mesures d'appui comme les clubs d'observance, les groupes de parole, les groupes d'information des patients, l'usage d'outils pédagogiques.  
-*   **L'existence d'un dispositif cohérent de prise en charge reposant sur un travail en équipe.**
+- La proximité géographique et l'accessibilité des produits ;
+- La simplification des schémas thérapeutiques ;
+- La qualité de l'information délivrée à l'usager lors des consultations ;
+- L'établissement d'une relation de confiance avec l'équipe soignante ;
+- La gestion de la confidentialité ;
+- L'adhésion au traitement, qui dépend notamment de l'acceptation familiale, qui peut être favorisée par l'appui des associations ;
+- L'existence de mesures d'appui comme les clubs d'observance, les groupes de parole, les groupes d'information des patients, l'usage d'outils pédagogiques.
+- **L'existence d'un dispositif cohérent de prise en charge reposant sur un travail en équipe.**
 
-_(Recommandations de Gorée 2001, initiative internationale "Place des antirétrouiraux dans la prise en charge des personnes infectées par le VIH en Afrique".Développement et santé, n°162, décembre 2002 http://www. devsante. org_
+*(Recommandations de Gorée 2001, initiative internationale "Place des antirétrouiraux dans la prise en charge des personnes infectées par le VIH en Afrique".Développement et santé, n°162, décembre 2002 http://www. devsante. org*
 
 <table>
 
@@ -90,23 +90,22 @@ _(Recommandations de Gorée 2001, initiative internationale "Place des antirétr
 
 </table>
 
-## IV. Instructions concernant la dispensation  
+## IV. Instructions concernant la dispensation
+
 des médicaments par voie orale
 
 **Prise de médicament par le patient à domicile**
 
 **Objectifs infirmiers :**
 
-*   Expliquer au patient pourquoi il doit prendre ses médicaments ;
-*   Lui expliquer comment faire ;
-*   Expliquer les effets secondaires et comment les prendre en charge ;
-*   Lui demander de prendre la première dose devant vous dans le but d'évaluer s'il a bien compris vos instructions ;
-*   Insister sur la fréquence, la quantité et les horaires de prise ;
-*   Expliquer ce qu'il doit faire s'il oublie une dose ;
-*   Rassembler les médicaments, les compter, les emballer les (emballage différent suivant le type de médicaments), noter sur chaque lot les informations nécessaires sous forme de dessin que vous aurez pris le temps d'expliquer au patient.
-
+- Expliquer au patient pourquoi il doit prendre ses médicaments ;
+- Lui expliquer comment faire ;
+- Expliquer les effets secondaires et comment les prendre en charge ;
+- Lui demander de prendre la première dose devant vous dans le but d'évaluer s'il a bien compris vos instructions ;
+- Insister sur la fréquence, la quantité et les horaires de prise ;
+- Expliquer ce qu'il doit faire s'il oublie une dose ;
+- Rassembler les médicaments, les compter, les emballer les (emballage différent suivant le type de médicaments), noter sur chaque lot les informations nécessaires sous forme de dessin que vous aurez pris le temps d'expliquer au patient.
 
 ![](i170-1.jpg)
 
-
-_Développement et Santé, n°181, 2006_
+*Développement et Santé, n°181, 2006*

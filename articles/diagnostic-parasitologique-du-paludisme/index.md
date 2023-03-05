@@ -18,13 +18,15 @@ Le prélèvement doit se faire, soit par prélève­ment capillaire au bout du d
 
 La coloration ne doit pas comporter de dépôts de colorants qui gêneraient considérablement la lecture des lames et pourraient être cause d'erreur.
 
-Le frottis, après coloration au Giemsa (*) sera lu avec la plus grande attention, à l'immersion, pendant au moins vingt minutes, avant de rendre un résultat négatif. Le fait de trouver un élément parasitaire ne justifie pas l'arrêt de la lecture de la lame, il peut en effet exister un polyparasitisme.
+Le frottis, après coloration au Giemsa (\*) sera lu avec la plus grande attention, à l'immersion, pendant au moins vingt minutes, avant de rendre un résultat négatif. Le fait de trouver un élément parasitaire ne justifie pas l'arrêt de la lecture de la lame, il peut en effet exister un polyparasitisme.
 
-* Recouvrir les lames d'alcool méthylique pen­dant 3 minutes. Puis recouvrir les lames de Giemsa pendant 20 minutes pour le Giemsa lent (10 minutes pour le Giemsa rapide).
+- Recouvrir les lames d'alcool méthylique pen­dant 3 minutes. Puis recouvrir les lames de Giemsa pendant 20 minutes pour le Giemsa lent (10 minutes pour le Giemsa rapide).
 
-*   Rincer à l'eau neutre.  
-*   Sécher.  
-*   Lire la lame à l'immersion.
+- Rincer à l'eau neutre.
+
+- Sécher.
+
+- Lire la lame à l'immersion.
 
 Solution de Giemsa : Giemsa : 1 ml, eau neutre q.s.p. : 10 ml
 
@@ -44,8 +46,8 @@ En cas de prélèvement capillaire, pour empê­cher la coagulation, avec le coi
 
 Retourner la lame et laisser sécher à plat sur un support,
 
-*   soit pendant 24 heures à la tem­pérature ambiante,
-*   soit pendant une heure à l'étuve à 37°C.
+- soit pendant 24 heures à la tem­pérature ambiante,
+- soit pendant une heure à l'étuve à 37°C.
 
 Ne jamais fixer à la chaleur ou à l'alcool.
 
@@ -53,8 +55,8 @@ Ne jamais fixer à la chaleur ou à l'alcool.
 
 Recouvrir abondamment la goutte épaisse du mélange :
 
-*   Giemsa : 3 gouttes
-*   Eau neutre : 2 ml
+- Giemsa : 3 gouttes
+- Eau neutre : 2 ml
 
 Laisser agir pendant 5 à 10 minutes jusqu'à décoloration complète (pour les microfilaires, il est préférable de remplacer l'eau neutre par du sérum physiologique). Fixer ensuite à l'al­cool méthylique.
 
@@ -62,43 +64,43 @@ Laisser agir pendant 5 à 10 minutes jusqu'à décoloration complète (pour les 
 
 Jeter le liquide avec précaution (risque de décollement de la pellicule de sang) et rempla­cer immédiatement par le mélange :
 
-*   Giemsa : 1 ml
-*   Eau neutre q.s.p. : 10 ml
+- Giemsa : 1 ml
+- Eau neutre q.s.p. : 10 ml
 
 Laisser agir 20 minutes puis rejeter le liquide avec précaution.
 
 Laver à l'eau du robinet, en faisant couler le liquide sur la face de la lame qui ne porte pas la coloration.  
 Sécher à l'air.
 
-### 3. Etapes successives du diagnostic parasitologique.
+### 3. Etapes successives du diagnostic parasitologique
 
-#### Reconnaissance de l'hématozoaire par :
+#### Reconnaissance de l'hématozoaire par
 
-*   sa situation intraérythrocytaire (pour toutes les espèces, à tous les stades de leur évolution) ;
-*   les caractères généraux de la forme plas­modiale :
-    *   le cytoplasme très basophile (exception avec le gamétocyte mâle souvent lilas ou rose),
-    *   le noyau : azurophile (rouge rubis ou grenat) - unique ou fragmenté,
-    *   les inclusions pigmentaires provenant du catabolisme de l'hémoglobine, l'hé­mozoïne ou pigment noir, de forme et d'abondance croissantes au cours de l'évolution du plasmodium, non visible dans les trophozoïtes jeunes (sauf chez _Pl. malariae_), au maximum dans les gamétocytes.
+- sa situation intraérythrocytaire (pour toutes les espèces, à tous les stades de leur évolution) ;
+- les caractères généraux de la forme plas­modiale :
+  - le cytoplasme très basophile (exception avec le gamétocyte mâle souvent lilas ou rose),
+  - le noyau : azurophile (rouge rubis ou grenat) - unique ou fragmenté,
+  - les inclusions pigmentaires provenant du catabolisme de l'hémoglobine, l'hé­mozoïne ou pigment noir, de forme et d'abondance croissantes au cours de l'évolution du plasmodium, non visible dans les trophozoïtes jeunes (sauf chez *Pl. malariae*), au maximum dans les gamétocytes.
 
 #### Détermination du stade évolutif du parasite
 
 L'aspect du parasite varie en effet avec l'espèce en cause et avec son stade d'évolution (c'est-à-dire avec l'âge du parasite).
 
-**_Formes asexuées :_**
+***Formes asexuées :***
 
-*   _Trophozoïtes_ : ce sont les formes les plus jeunes, mobiles, forme annulaire pour toutes les espèces. Aspect de bague à châton : anneau bleu, châton rouge, partie interne incolore (vésicu­le nutritive). Ces formes très jeunes sont sensiblement identiques pour toutes les espèces.  
-*   _Schizontes_ : formes parasitaires débutant au moment ou la chromatine commence à se diviser. En vieillissant les schizontes perdent leur mobilité, augmentent de taille et subis­sent des divisions nucléaires. A maturité ils prennent la forme de rosaces.  
-*   _Rosaces_ : la rosace occupe la totalité de l'hé­matie parasitée. Les noyaux sont rejetés à la périphérie, le pigment parasitaire est ramas­sé en amas central. A maturité complète, l'hématie éclate et libère un nombre variable de mérozoïtes.  
-*   _Mérozoïtes_. Ils sont de forme ovalaire ou arrondie ; ils possèdent un cytoplasme bleu et une masse de chromatine rouge ou violet­te après coloration (= noyau).
+- *Trophozoïtes* : ce sont les formes les plus jeunes, mobiles, forme annulaire pour toutes les espèces. Aspect de bague à châton : anneau bleu, châton rouge, partie interne incolore (vésicu­le nutritive). Ces formes très jeunes sont sensiblement identiques pour toutes les espèces.
+- *Schizontes* : formes parasitaires débutant au moment ou la chromatine commence à se diviser. En vieillissant les schizontes perdent leur mobilité, augmentent de taille et subis­sent des divisions nucléaires. A maturité ils prennent la forme de rosaces.
+- *Rosaces* : la rosace occupe la totalité de l'hé­matie parasitée. Les noyaux sont rejetés à la périphérie, le pigment parasitaire est ramas­sé en amas central. A maturité complète, l'hématie éclate et libère un nombre variable de mérozoïtes.
+- *Mérozoïtes*. Ils sont de forme ovalaire ou arrondie ; ils possèdent un cytoplasme bleu et une masse de chromatine rouge ou violet­te après coloration (= noyau).
 
-_**Formes sexuées (gamétocytes) :**_
+***Formes sexuées (gamétocytes) :***
 
 Formes rondes ou ovalaires remplissant presque entièrement l'hématie. Ils se rencon­trent plus tardivement que les formes asexuées. Leur diagnostic est important pour l'épidémio­logie et la prophylaxie du paludisme.
 
-*   _Microgamétocytes (mâles)_ : cytoplasme pâle, lilas ou rose. Les noyaux de _Pl.vivax, PI. malariae et PI. ovale_, sont en masses granu­leuses colorées en rouge par le Giemsa.  
-*   Macrogamétocytes (femelles) : cytoplasme bleu sombre. Pl. vivax, Pl. ovale et Pl. mala­riae : noyau dense, coloré en rouge par le Giemsa.
+- *Microgamétocytes (mâles)* : cytoplasme pâle, lilas ou rose. Les noyaux de *Pl.vivax, PI. malariae et PI. ovale*, sont en masses granu­leuses colorées en rouge par le Giemsa.
+- Macrogamétocytes (femelles) : cytoplasme bleu sombre. Pl. vivax, Pl. ovale et Pl. mala­riae : noyau dense, coloré en rouge par le Giemsa.
 
-#### Identification de l'espèce en cause :
+#### Identification de l'espèce en cause
 
 Le frottis mince permet de mettre en évi­dence tous les détails morphologiques du parasite et de l'hématie parasitée.
 
@@ -106,46 +108,46 @@ La goutte épaisse permet un enrichissement important en parasites, mais la lect
 
 ### 4. Diagnostic d'espèce
 
-#### **_Plasmodium falciparum_**
+#### *Plasmodium falciparum*
 
 **Frottis minces**
 
 Dans le sang périphérique, on ne trouve habi­tuellement que des trophozoïtes de forme annulaire (le développement se poursuivant ensuite dans les capillaires profonds) et des gamétocytes.
 
-*   Trophozoïtes jeunes : aspect typique de bague à châton, de petite taille, anneau très mince, taille 1/3 à 1/5 de l'hématie.  
-*   Dans cette espèce on observe souvent des formes à 2 noyaux pour un seul anneau et plusieurs parasites dans une même hématie.  
-*   Après traitement on trouve souvent ces formes en périphérie de l'hématie, et dans certains cas le noyau rouge semble sortir de l'hématie.  
-*   Trophozoïtes plus âgés : l'anneau bleu foncé du cytoplasme est plus élargi dans la partie opposée au noyau.  
-*   Gamétocytes : ils sont présents plus tardive­ment ou après traitement. Ils sont très typiques dans cette espèce : forme de crois­sant ou de banane, mais toujours intra-éry­throcytaire ; ils remplissent l'hématie dont il est souvent difficile de voir le contour.  
-*   Microgamétocyte : cytoplasme lilas ou rose, forme trapue, extrémité arrondie, forme de banane - noyau coloré en rouge allongé - présence de grains de pigment noir assez dispersés dans le cytoplasme.  
-*   Macrogamétocyte : cytoplasme bleu intense, forme plus élancée, en croissant. Noyau rouge condensé entouré de nombreux grains de pigment.
+- Trophozoïtes jeunes : aspect typique de bague à châton, de petite taille, anneau très mince, taille 1/3 à 1/5 de l'hématie.
+- Dans cette espèce on observe souvent des formes à 2 noyaux pour un seul anneau et plusieurs parasites dans une même hématie.
+- Après traitement on trouve souvent ces formes en périphérie de l'hématie, et dans certains cas le noyau rouge semble sortir de l'hématie.
+- Trophozoïtes plus âgés : l'anneau bleu foncé du cytoplasme est plus élargi dans la partie opposée au noyau.
+- Gamétocytes : ils sont présents plus tardive­ment ou après traitement. Ils sont très typiques dans cette espèce : forme de crois­sant ou de banane, mais toujours intra-éry­throcytaire ; ils remplissent l'hématie dont il est souvent difficile de voir le contour.
+- Microgamétocyte : cytoplasme lilas ou rose, forme trapue, extrémité arrondie, forme de banane - noyau coloré en rouge allongé - présence de grains de pigment noir assez dispersés dans le cytoplasme.
+- Macrogamétocyte : cytoplasme bleu intense, forme plus élancée, en croissant. Noyau rouge condensé entouré de nombreux grains de pigment.
 
-**_Aspect des hématies parasitées_**. Toutes les hématies, quel que soit leur âge, peuvent être parasitées. Elles sont de taille et d'aspect normaux, normochromes, parfois bleutées, avec un contour crénelé.
+***Aspect des hématies parasitées***. Toutes les hématies, quel que soit leur âge, peuvent être parasitées. Elles sont de taille et d'aspect normaux, normochromes, parfois bleutées, avec un contour crénelé.
 
 Dans l'hématie, on peut parfois observer des granulations irrégulières appelées taches de Maurer, en coup d'ongle, de couleur rouge brique.
 
-**_Aspect général du frottis._**
+***Aspect général du frottis.***
 
-*   Au cours des accès simples, le frottis est monotone constitué uniquement de tropho­zoïtes avec un polyparasitisme fréquent des hématies.  
-*   Lors des accès pernicieux, on constate un envahissement important des hématies par les trophozoïtes et souvent la présence de schizontes et de rosaces qui passent dans le sang périphérique. Les rosaces renferment de nombreux mérozoïtes (8 à 32), en géné­ral de 16 à 24. L'hématie garde une taille normale. Le problème de l'identification des accès pernicieux est particulièrement impor­tant, en raison de la sanction thérapeutique immédiate qu'elle doit entraîner. Il s'agit là de la seule mais vraie URGENCE PARASITO­LOGIQUE.
+- Au cours des accès simples, le frottis est monotone constitué uniquement de tropho­zoïtes avec un polyparasitisme fréquent des hématies.
+- Lors des accès pernicieux, on constate un envahissement important des hématies par les trophozoïtes et souvent la présence de schizontes et de rosaces qui passent dans le sang périphérique. Les rosaces renferment de nombreux mérozoïtes (8 à 32), en géné­ral de 16 à 24. L'hématie garde une taille normale. Le problème de l'identification des accès pernicieux est particulièrement impor­tant, en raison de la sanction thérapeutique immédiate qu'elle doit entraîner. Il s'agit là de la seule mais vraie URGENCE PARASITO­LOGIQUE.
 
-Pour _Plasmodium falciparum_ il est indispen­sable de préciser l'intensité de l'infestation en calculant systématiquement le pourcentage d'hématies parasitées, ceci étant un des élé­ments de la prise en charge et du suivi du patient.
+Pour *Plasmodium falciparum* il est indispen­sable de préciser l'intensité de l'infestation en calculant systématiquement le pourcentage d'hématies parasitées, ceci étant un des élé­ments de la prise en charge et du suivi du patient.
 
 **Goutte épaisse**
 
-Elle présente un intérêt dans les faibles infes­tations. C'est alors le _Plasmodium_ le plus faci­le à reconnaître. On retrouve souvent l'anneau complet du trophozoïte, ou une partie seule­ment en raison de sa dislocation au moment de la technique (aspect en ailes d'oiseau, en point d'interrogation ou d'exclamation). Les trophozoïtes âgés conservent mieux leur cyto­logie, on retrouve l'anneau bleu et le noyau rouge. Les gamétocytes sont en général intacts et sont donc facilement reconnaissables.
+Elle présente un intérêt dans les faibles infes­tations. C'est alors le *Plasmodium* le plus faci­le à reconnaître. On retrouve souvent l'anneau complet du trophozoïte, ou une partie seule­ment en raison de sa dislocation au moment de la technique (aspect en ailes d'oiseau, en point d'interrogation ou d'exclamation). Les trophozoïtes âgés conservent mieux leur cyto­logie, on retrouve l'anneau bleu et le noyau rouge. Les gamétocytes sont en général intacts et sont donc facilement reconnaissables.
 
-#### **_Plasmodium vivax_**
+#### *Plasmodium vivax*
 
 **Frottis minces**
 
-*   Trophozoïtes jeunes : 2 à 4 mm avec un cytoplasme en forme d'anneau bleu clair, un noyau en général unique, rouge, plus gros que dans _Plasmodium falciparum_. Le noyau est rarement divisé. Les formes très jeunes ressemblent à _PI. falciparum_ mais sont plus grandes. L'hématie est rose sau­mon.  
-*   Trophozoïtes âgés : ils sont de grande taille : 5 mm. Au bout de 8 heures ils possèdent une activité amiboïde marquée. Ils prennent alors une forme irrégulière, fantasque et tourmen­tée dite amiboïde. Un pigment verdâtre appa­raît, réparti en masses irrégulières, fines, dans tout le cytoplasme du parasite.  
-*   Schizontes : 6 à 7 mm, de forme ovale ou arrondie remplissant presque entièrement l'hématie distendue qui prend alors des formes variables et étranges. Le noyau est formé de grosses masses rouges de chroma­tine, irrégulièrement réparties. On trouve dans le cytoplasme du parasite un pigment brunâtre, en petits amas fins éparpillés au centre et à la périphérie.  
-*   Rosace : le parasite occupe toute l'hématie; elle contient 12 à 18 mérozoïtes, irrégulière­ment distribués, avec un amas de pigment noir au centre.  
-*   Gamétocytes :
-    *   Microgamétocytes : occupent toute l'hématie, cytoplasme lilas, gros noyau rouge rejeté sur le côté ; pigment peu abondant.  
-    *   Macrogamétocyte : cytoplasme bleu foncé, noyau plus petit et plus compact, rouge sombre ou violet. Pigment en grains très fins, rejetés en principe à la périphérie du parasite.
+- Trophozoïtes jeunes : 2 à 4 mm avec un cytoplasme en forme d'anneau bleu clair, un noyau en général unique, rouge, plus gros que dans *Plasmodium falciparum*. Le noyau est rarement divisé. Les formes très jeunes ressemblent à *PI. falciparum* mais sont plus grandes. L'hématie est rose sau­mon.
+- Trophozoïtes âgés : ils sont de grande taille : 5 mm. Au bout de 8 heures ils possèdent une activité amiboïde marquée. Ils prennent alors une forme irrégulière, fantasque et tourmen­tée dite amiboïde. Un pigment verdâtre appa­raît, réparti en masses irrégulières, fines, dans tout le cytoplasme du parasite.
+- Schizontes : 6 à 7 mm, de forme ovale ou arrondie remplissant presque entièrement l'hématie distendue qui prend alors des formes variables et étranges. Le noyau est formé de grosses masses rouges de chroma­tine, irrégulièrement réparties. On trouve dans le cytoplasme du parasite un pigment brunâtre, en petits amas fins éparpillés au centre et à la périphérie.
+- Rosace : le parasite occupe toute l'hématie; elle contient 12 à 18 mérozoïtes, irrégulière­ment distribués, avec un amas de pigment noir au centre.
+- Gamétocytes :
+  - Microgamétocytes : occupent toute l'hématie, cytoplasme lilas, gros noyau rouge rejeté sur le côté ; pigment peu abondant.
+  - Macrogamétocyte : cytoplasme bleu foncé, noyau plus petit et plus compact, rouge sombre ou violet. Pigment en grains très fins, rejetés en principe à la périphérie du parasite.
 
 **Aspect des hématies parasitées**
 
@@ -157,23 +159,23 @@ Au stade rosace, les contours de l'hématie peu­vent être anguleux.
 
 **Aspect général du frottis**
 
-Très panaché, avec présence de tous les stades évolutifs. Le parasitisme est moins intense qu'avec _Plasmodium falciparum_.
+Très panaché, avec présence de tous les stades évolutifs. Le parasitisme est moins intense qu'avec *Plasmodium falciparum*.
 
 **Goutte épaisse**
 
-*   Trophozoïtes jeunes : paraissent plus petits que sur les frottis. Souvent l'anneau et le noyau sont fragmentés.  
-*   Trophozoïtes âgés : cytoplasme plus abon­dant avec présence d'hémozoïne, contours moins nets, irréguliers.  
-*   Gamétocytes : ils sont difficiles à différencier des schizontes ; leur cytoplasme est plus régulier et ils renferment plus de pigment.
+- Trophozoïtes jeunes : paraissent plus petits que sur les frottis. Souvent l'anneau et le noyau sont fragmentés.
+- Trophozoïtes âgés : cytoplasme plus abon­dant avec présence d'hémozoïne, contours moins nets, irréguliers.
+- Gamétocytes : ils sont difficiles à différencier des schizontes ; leur cytoplasme est plus régulier et ils renferment plus de pigment.
 
-#### **_Plasmodium ovale_**
+#### *Plasmodium ovale*
 
 **Frottis minces**
 
-*   Trophozoïtes jeunes : anneau petit mais large, bleu foncé avec un gros noyau rouge (plus gros que dans _Plasmodium malariae_). Apparition rapide de grosses granulations orangées : les granulations de Schüffner. Elles sont plus précoces que dans Plasmo­dium vivax.  
-*   Trophozoïtes âgés : forme allongée ou ovoï­de, cytoplasme bleu foncé, non amiboïde ; noyau rouge très net, gros et compact.  
-*   Schizontes : arrondis ou ovales, situés au centre de l'hématie. Le nombre de noyaux est variable selon le degré de maturation.  
-*   Rosaces : 4 à 12 mérozoïtes (en général 8), organisés autour d'une masse centrale de pigment.  
-*   Gamétocytes : arrondis, pâles. Pigment en forme de bâtonnets.
+- Trophozoïtes jeunes : anneau petit mais large, bleu foncé avec un gros noyau rouge (plus gros que dans *Plasmodium malariae*). Apparition rapide de grosses granulations orangées : les granulations de Schüffner. Elles sont plus précoces que dans Plasmo­dium vivax.
+- Trophozoïtes âgés : forme allongée ou ovoï­de, cytoplasme bleu foncé, non amiboïde ; noyau rouge très net, gros et compact.
+- Schizontes : arrondis ou ovales, situés au centre de l'hématie. Le nombre de noyaux est variable selon le degré de maturation.
+- Rosaces : 4 à 12 mérozoïtes (en général 8), organisés autour d'une masse centrale de pigment.
+- Gamétocytes : arrondis, pâles. Pigment en forme de bâtonnets.
 
 **Aspect des hématies parasitées**
 
@@ -187,14 +189,14 @@ Parasites en règle peu nombreux. Frottis poly­morphe : présence de trophozoï
 
 Formes rondes ou ovales, compactes. Noyaux irréguliers. Il est impossible d'établir un dia­gnostic d'espèce sur la goutte épaisse.
 
-#### **_Plasmodium malariae_**
+#### *Plasmodium malariae*
 
 **Frottis minces**
 
-*   Trophozoïtes jeunes : petits, compacts. Anneau bleu foncé, épais. Dans le cytoplas­me du parasite, on trouve un grain de pigment noir.  
-*   Trophozoïtes âgés et schizontes : formes variées, ovalaires, en bandelette ou en dra­peau, typique de l'espèce. Le trophozoïte est allongé d'un bout à l'autre de l'hématie, en position équatoriale. Pigment noir, dispersé en masses grossières, dans tout le cytoplas­me du parasite.  
-*   Rosaces : cytoplasme plus foncé. Pigment noir rassemblé en une masse compacte au centre, entouré d'un petit nombre de méro­zoïtes (8 à 12), ovales, bleus, avec un noyau rouge régulièrement disposé à la périphérie qui donne l'aspect typique de marguerite à ces rosaces.  
-*   Gamétocytes : ils ressemblent à ceux du Plasmodium vivax, mais ils sont plus petits, plus rares dans le sang circulant et surtout plus pigmentés (pigment grossier noirâtre).
+- Trophozoïtes jeunes : petits, compacts. Anneau bleu foncé, épais. Dans le cytoplas­me du parasite, on trouve un grain de pigment noir.
+- Trophozoïtes âgés et schizontes : formes variées, ovalaires, en bandelette ou en dra­peau, typique de l'espèce. Le trophozoïte est allongé d'un bout à l'autre de l'hématie, en position équatoriale. Pigment noir, dispersé en masses grossières, dans tout le cytoplas­me du parasite.
+- Rosaces : cytoplasme plus foncé. Pigment noir rassemblé en une masse compacte au centre, entouré d'un petit nombre de méro­zoïtes (8 à 12), ovales, bleus, avec un noyau rouge régulièrement disposé à la périphérie qui donne l'aspect typique de marguerite à ces rosaces.
+- Gamétocytes : ils ressemblent à ceux du Plasmodium vivax, mais ils sont plus petits, plus rares dans le sang circulant et surtout plus pigmentés (pigment grossier noirâtre).
 
 **Aspect des hématies parasitées**
 
@@ -206,11 +208,9 @@ Diversité des formes évolutives. Formes très pigmentées. Abondance de pigmen
 
 **Goutte épaisse**
 
-Trophozoïtes et schizontes sont difficiles à différencier de ceux de _Plasmodium vivax_. Par contre les rosaces sont en général nom­breuses et faciles à identifier en raison de leur aspect caractéristique en marguerite.
-
+Trophozoïtes et schizontes sont difficiles à différencier de ceux de *Plasmodium vivax*. Par contre les rosaces sont en général nom­breuses et faciles à identifier en raison de leur aspect caractéristique en marguerite.
 
 ![](12038-1.jpg)
-
 
 ## II. Techniques indirectes de diagnostic
 
@@ -238,4 +238,4 @@ Des techniques indirectes ont fait leur appari­tion : la sérologie n'est pas a
 
 Pour toutes ces raisons, la méthode de référen­ce reste encore l'examen microscopique d'un frottis-goutte épaisse coloré par le Giemsa.
 
-_Développement et Santé, n°189, 2008_
+*Développement et Santé, n°189, 2008*

@@ -14,17 +14,17 @@ date: "2004-08-05"
 
 ## 1. Définition de l'observance
 
-L'observance a d'abord eu un sens religieux "pratique d'une règle en matière religieuse" _(Dictionnaire Le Littré)._
+L'observance a d'abord eu un sens religieux "pratique d'une règle en matière religieuse" *(Dictionnaire Le Littré).*
 
 De façon plus générale, l'observance a été définie comme "le degré de concordance entre les recommandations du médecin et les comportements des malades" ou "l'adéquation des pratiques de prise de traitement aux indications médicales".
 
 L'observance comporte trois composantes :
 
-*   l'observance médicamenteuse : c'est bien sûr la plus importante. En plus du nombre de prises, il faut penser à évaluer le respect des doses, des horaires, des recommandations diverses (avant ou après les repas par exemple), les interactions médicamenteuses ;
+- l'observance médicamenteuse : c'est bien sûr la plus importante. En plus du nombre de prises, il faut penser à évaluer le respect des doses, des horaires, des recommandations diverses (avant ou après les repas par exemple), les interactions médicamenteuses ;
 
-*   l'observance des règles hygiéno-diététiques, c'est-à-dire les régimes, l'arrêt du tabac par exemple ;
+- l'observance des règles hygiéno-diététiques, c'est-à-dire les régimes, l'arrêt du tabac par exemple ;
 
-*   l'observance du suivi médical, c'est-à-dire le respect du rythme des consultations ou des bilans.
+- l'observance du suivi médical, c'est-à-dire le respect du rythme des consultations ou des bilans.
 
 ## Il. Comment évaluer l'observance ?
 
@@ -32,37 +32,37 @@ L'observance est un phénomène difficilement mesurable pour lequel on dispose d
 
 Les différentes méthodes de mesure de l'observance utilisées sont les suivantes :
 
-*   dosage de médicaments,
-*   marqueur biologique,
-*   observation directe du patient,
-*   entretien,
-*   carnet,
-*   auto-questionnaire,
-*   dénombrement,
-*   registre de délivrance manuel ou électronique,
-*   pilulier électronique.
+- dosage de médicaments,
+- marqueur biologique,
+- observation directe du patient,
+- entretien,
+- carnet,
+- auto-questionnaire,
+- dénombrement,
+- registre de délivrance manuel ou électronique,
+- pilulier électronique.
 
 Il n'existe donc pas de méthode standard pour l'évaluation de l'observance.
 
-En fait, la technique la plus simple est souvent la plus efficace. Il se dessine actuellement un consensus pour évaluer simplement l'observance médicamenteuse : il suffirait de demander au patient combien de fois il a oublié une prise de médicaments dans les sept derniers jours. Il faut ensuite noter sa réponse dans son dossier, comme on le fait pour l'évaluation de la douleur. D'ailleurs, des échelles visuelles analogiques du même type que celles qui existent pour la douleur sont actuellement testées afin d'évaluer l'évolution du niveau d'observan_ce chez_ un patient donné.
+En fait, la technique la plus simple est souvent la plus efficace. Il se dessine actuellement un consensus pour évaluer simplement l'observance médicamenteuse : il suffirait de demander au patient combien de fois il a oublié une prise de médicaments dans les sept derniers jours. Il faut ensuite noter sa réponse dans son dossier, comme on le fait pour l'évaluation de la douleur. D'ailleurs, des échelles visuelles analogiques du même type que celles qui existent pour la douleur sont actuellement testées afin d'évaluer l'évolution du niveau d'observan_ce chez\_ un patient donné.
 
 ## III. Les déterminants de l'observance
 
 De nombreux travaux ont tenté de définir les facteurs explicatifs d'une bonne observance dans le but de proposer une approche prédictive et des actions d'amélioration. Ces facteurs sont nombreux et complexes. Ils appartiennent néanmoins à trois grandes catégories :
 
-*   les facteurs liés au traitement, bien que la complexité en soi d'un traitement ne soit pas le facteur majeur d'une mauvaise observance. Cependant la diminution du nombre de prises et des effets secondaires ne peut que favoriser une bonne observance. Le coût des traitements et la qualité de la prise en charge sociale sont bien entendu des facteurs très importants d'une bonne observance ;
+- les facteurs liés au traitement, bien que la complexité en soi d'un traitement ne soit pas le facteur majeur d'une mauvaise observance. Cependant la diminution du nombre de prises et des effets secondaires ne peut que favoriser une bonne observance. Le coût des traitements et la qualité de la prise en charge sociale sont bien entendu des facteurs très importants d'une bonne observance ;
 
-*   les facteurs liés au médecin prescripteur l'adhésion aux traitements qu'il propose, la qualité de la relation médecin-malade. La place du médecin dans l'observance a longtemps été négligée, la plupart des études privilégiant plutôt le rôle du patient. Il faut donc insister sur l'importance de l'écoute et du dialogue entre le médecin et le patient ;
+- les facteurs liés au médecin prescripteur l'adhésion aux traitements qu'il propose, la qualité de la relation médecin-malade. La place du médecin dans l'observance a longtemps été négligée, la plupart des études privilégiant plutôt le rôle du patient. Il faut donc insister sur l'importance de l'écoute et du dialogue entre le médecin et le patient ;
 
-*   les facteurs liés au patient sont de différentes natures : facteurs socio-économiques, facteurs psychologiques, le système de représentations et de croyance auquel il adhère, le soutien relationnel et son environnement social et affectif, les conduites addictives, les co-morbidités.
+- les facteurs liés au patient sont de différentes natures : facteurs socio-économiques, facteurs psychologiques, le système de représentations et de croyance auquel il adhère, le soutien relationnel et son environnement social et affectif, les conduites addictives, les co-morbidités.
 
 De nombreuses enquêtes soulignent l'importance des perceptions qu'ont les personnes de leur traitement, mais aussi de la façon dont elles évaluent leur propre vie et se projettent dans l'avenir. Une bonne insertion sociale et une réponse correcte aux problèmes de logement, de revenus et d'alimentation favorisent une bonne observance. Lorsque les difficultés quotidiennes sont trop importantes, elles dominent tout le reste. La maîtrise des choix du traitement par les patients favorise également une bonne observance. L'information du patient est donc prépondérante afin qu'il n'ait pas l'impression de subir une décision qui le dépasse.
 
 **Pour prendre correctement son traitement il faut :**
 
-*   savoir (pourquoi le prendre, son mode d'action),
-*   pouvoir (qu'il soit accessible sur le plan financier, simple à prendre, avec des effets indésirables acceptables),
-*   vouloir (c'est le patient qui, en dernier recours, décide de prendre son traitement quand il a pris conscience des bénéfices qu'il pouvait en tirer).
+- savoir (pourquoi le prendre, son mode d'action),
+- pouvoir (qu'il soit accessible sur le plan financier, simple à prendre, avec des effets indésirables acceptables),
+- vouloir (c'est le patient qui, en dernier recours, décide de prendre son traitement quand il a pris conscience des bénéfices qu'il pouvait en tirer).
 
 ## IV. Exemples
 
@@ -82,10 +82,10 @@ Une fois que les cas infectieux à frottis positif ont été dépistés au micro
 
 Selon l'OMS, le DOTS est la stratégie la plus efficace actuellement disponible pour endiguer une épidémie de tuberculose :
 
-*   La stratégie DOTS donne des taux de guéri son allant jusqu'à 95 %, même dans les pays les plus pauvres.  
-*   Elle permet d'éviter les nouvelles infections en guérissant les cas infectieux.  
-*   Elle empêche l'apparition d'une tuberculose résistante à un ou plusieurs médicaments en veillant à ce que le traitement soit suivi jus qu'au bout.  
-*   Les médicaments nécessaires pour un traitement DOTS de six mois coûtent 11 dollars US par patient dans certaines parties du monde.
+- La stratégie DOTS donne des taux de guéri son allant jusqu'à 95 %, même dans les pays les plus pauvres.
+- Elle permet d'éviter les nouvelles infections en guérissant les cas infectieux.
+- Elle empêche l'apparition d'une tuberculose résistante à un ou plusieurs médicaments en veillant à ce que le traitement soit suivi jus qu'au bout.
+- Les médicaments nécessaires pour un traitement DOTS de six mois coûtent 11 dollars US par patient dans certaines parties du monde.
 
 La Banque mondiale considère la stratégie DOTS comme l'une des interventions sanitaires les plus rentables.
 
@@ -105,6 +105,6 @@ Vis à vis du patient, il peut y avoir un soutien informatif (fiches récapitula
 
 Il faut également mener des actions sur le contexte institutionnel afin que l'organisation des soins soit mieux adaptée aux besoins des patients : respect de l'anonymat et de la confidentialité, accompagnement social, dossier médical, etc.
 
-Une bonne observance est donc le résultat de nombreux facteurs qui sont rarement tous réunis. Cependant, s'il faut veiller à l'amélioration de chacun d'entre eux, n'oublions pas que le facteur principal est la relation que le soignant établit_._
+Une bonne observance est donc le résultat de nombreux facteurs qui sont rarement tous réunis. Cependant, s'il faut veiller à l'amélioration de chacun d'entre eux, n'oublions pas que le facteur principal est la relation que le soignant établit\_.\_
 
-_Développement et Santé, n° 172, 2004_
+*Développement et Santé, n° 172, 2004*

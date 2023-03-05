@@ -24,10 +24,10 @@ Le tube capillaire est mis en présence d’une solution contenant des anticorps
 
 **Résultats**
 
-*   Le taux normal de la CRP est < 5 mg/litre
-*   Supérieur à 100, il signe avec une forte probabilité une infection bactérienne.  
-*   Inférieur à 30, il oriente vers une infection virale ne justifiant pas une antibiothérapie.  
-*   Pour les chiffres intermédiaires, tout dépend du contexte clinique et il est souvent sage d’effectuer un dosage de CRP 6 à 8 heures plus tard.​
+- Le taux normal de la CRP est < 5 mg/litre
+- Supérieur à 100, il signe avec une forte probabilité une infection bactérienne.
+- Inférieur à 30, il oriente vers une infection virale ne justifiant pas une antibiothérapie.
+- Pour les chiffres intermédiaires, tout dépend du contexte clinique et il est souvent sage d’effectuer un dosage de CRP 6 à 8 heures plus tard.​
 
 #### Méthode semi-quantitative simplifiée : CRP Test
 
@@ -38,13 +38,11 @@ Lire le résultat 5 minutes plus tard
 
 **Résultat** : trois niveaux 
 
-*   CRP : 10 à 40 mg/L
-*   CRP 40 à 80 mg/L
-*   CRP > 80 mg/L
-
+- CRP : 10 à 40 mg/L
+- CRP 40 à 80 mg/L
+- CRP > 80 mg/L
 
 ![](methode-crp-semi-quantitative-reduc.jpg)
-
 
 ### Limites de la CRP minute
 
@@ -56,9 +54,7 @@ Elle peut être aussi légèrement élevée pendant la grossesse et la prise d�
 
 **En pratique**, elle a l’avantage par rapport à la vitesse de sédimentation d’être le premier marqueur annonçant une infection ; elle sera aussi la première à se normaliser pour confirmer la guérison d’une infection (figure).
 
-
 ![](001.jpg)
-
 
 Toutes les études internationales ont confirmé son intérêt dans certaines situations pédiatriques précises : par exemple la pneumopathie fébrile : une CRP > 80 a permis d’affirmer avec une forte probabilité le caractère bactérien de l’infection, conduisant à un traitement précoce, gage de guérison.  
 De même, devant une fièvre élevée et persistante, en cas de CRP peu élevée, on peut faire l’économie d’examens complémentaires.

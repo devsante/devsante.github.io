@@ -50,7 +50,7 @@ Balai
 
 Pelle
 
-Sac à linge sale  
+Sac à linge sale
 
 </td>
 
@@ -96,8 +96,7 @@ Aspirateur
 
 </table>
 
-##   
-II. Entretien
+## II. Entretien
 
 ### Rangement
 

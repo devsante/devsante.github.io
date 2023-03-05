@@ -16,4 +16,4 @@ Il faut rappeler que la pollution aérienne est un problème grave dans les pays
 
 Dr Jean Loup Rey, Santé publique
 
-_Réf. : Communiqué de presse N° 213 12 Juin 2012  http://www.iarc.fr/fr/media-centre/pr/2012/pdfs/pr213_F.pdf_
+*Réf. : Communiqué de presse N° 213 12 Juin 2012  <http://www.iarc.fr/fr/media-centre/pr/2012/pdfs/pr213_F.pdf>*

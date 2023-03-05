@@ -17,21 +17,15 @@ Lorsque le tendon extenseur est sectionné au niveau de P3, lorsqu'on bloque P2 
 
 La troisième phalange est recouverte d'un ongle dont la croissance se fait au niveau de la matrice, zone située sous la peau recouvrant l'ongle. Les traumatismes de la troisième phalange pourront donc léser la peau, l'ongle, les tendons ou l'os. Ces lésions sont fréquentes et leur traitement mérite d'être connu.
 
-
 ![](i68-1.jpg)
 
-
-
 ![](i68-2.jpg)
-
 
 **Hématome sous-unguéal**
 
 L'hématome sous-unguéal succède à un choc direct violent sur l'ongle (coup de marteau ... ) la douleur est très vive, du sang s'écoule entre l'ongle et le lit unguéal mais ne peut pas s'évacuer. Il s'accumule et la pression qu'il entraîne augmente encore la douleur qui devient vite intolérable. L'hématome rouge, puis noir, est visible sous l'ongle. Le traitement est simple et soulage immédiatement le malade: il suffit de percer l'ongle par un ou deux trous pour que le sang s'évacue. Ce trou peut être percé par la pointe d'un bistouri ou une petite tige métallique (trombone de bureau, clou ... ) chauffé ou rouge (sur un petit brûleur à pétrole ou une bougie). Tant que le sang ne s'écoule pas c'est que le trou n'a pas été percé suffisamment loin. Cette opération est indolore car l'ongle est insensible (mais elle devient douloureuse si vous touchez le lit unguéal).
 
-
 ![](i68-3.jpg)
-
 
 Cette évacuation peut s'effectuer même quelques jours après le traumatisme.
 
@@ -71,33 +65,23 @@ Un point de part et d'autre de la pulpe, pas plus, parfois moins, rapproche ce b
 
 Ce bout de doigt sera souvent ainsi sauvé. La suture ne nécessite pas d'anesthésie ou une anesthésie locale. Elle doit se faire avec asepsie dans les six heures qui suivent l'accident et comme pour toute plaie, il faut assurer la prévention du tétanos.
 
-
 ![](i68-4.jpg)
-
 
 **Rupture sous-cutanée du tendon extenseur**
 
-
 ![](i68-5.jpg)
-
-
 
 ![](i68-6.jpg)
 
-
 Le tableau clinique est alors évocateur: l'articulation distale (P2-P3) est très douloureuse, gonflée. La phalangette (P3) paraît fléchie.
 
-
 ![](i68-7.jpg)
-
 
 Lorsqu'on bloque entre son pouce et son index la deuxième phalange du malade (P2) et qu'on lui demande d'étendre P3, ce mouvement est impossible car le tendon ne peut plus faire son travail. Il est important de dépister cette lésion tôt car non traitée, le tendon ne se cicatrisera pas en bonne place et l'extension de P3 ne sera plus possible. Le doigt aura alors un aspect dit " en marteau ", la phalangette restant fléchie de façon irréversible.
 
 Si une radiographie est possible, il faut là aussi bien connaître cette lésion car on a tendance à ne pas s'alarmer en voyant ce tout petit fragment osseux fracturé. Il est visible sur la radio de profil sous forme d'un petit coin osseux articulatoire détaché de P3.
 
-
 ![](i68-8.jpg)
-
 
 **Cet aspect doit évoquer immédiatement le diagnostic.**
 
@@ -107,9 +91,7 @@ Il est simple, il consiste à immobiliser le doigt sur une attelle, si possible 
 
 Il faut immobiliser ainsi le doigt pendant au moins quatre semaines. Si la fracture est vue dans la première semaine après l'accident, ce traitement a toute chance de réussir, au-delà il faut l'essayer, mais le succès n'est pas assuré.
 
-
 ![](i68-9.jpg)
-
 
 Si ce traitement échoue ou si la fracture est ancienne, il faut alors opérer le malade si l'on veut essayer de récupérer l'extension de l'extrémité du doigt... mais il est fréquent de voir des doigts en marteau chez des travailleurs manuels qui n'ont jamais songé à se faire opérer.
 
@@ -131,8 +113,8 @@ Une partie ou la totalité de la phalange a pu être sectionnée. Si le bout dis
 
 Si une partie osseuse paraît trop longue par rapport à la peau sectionnée, il est préférable de régulariser ce moignon en sectionnant la partie qui dépasse afin de faciliter la cicatrisation. Ne pas oublier la prévention du tétanos.
 
-**_Pas de chirurgie au-delà de _****_six heures après l' accident_**
+***Pas de chirurgie au-delà de six heures après l' accident***
 
-**_Plaie: prévention du tétanos_**
+***Plaie: prévention du tétanos***
 
-_Développement et Santé, n°43, février 1983_
+*Développement et Santé, n°43, février 1983*

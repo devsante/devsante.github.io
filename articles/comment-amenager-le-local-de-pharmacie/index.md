@@ -7,7 +7,7 @@ date: "2008-06-22"
 
 ## I. Choix du local
 
-_Choisissez un endroit sûr pour en faire le local de pharmacie. Conserver les médica­ments dans ce local permet de conserver les produits en sécurité et de connaître en permanence l'état du stock._
+*Choisissez un endroit sûr pour en faire le local de pharmacie. Conserver les médica­ments dans ce local permet de conserver les produits en sécurité et de connaître en permanence l'état du stock.*
 
 Les médicaments en stock doivent toujours être entreposés dans un local réservé à cet usage.  
 Il s'agit du local de stockage qui doit rester fermé. Ce local de stockage doit être différent du local de dispensation, ouvert pour la distri­bution et qui permet au patient et au soignant de se parler.  
@@ -15,7 +15,7 @@ L'idéal est que votre établisement comporte une **pièce fermant à clé**, en
 
 S'il n'existe pas, dans votre établissement de local pour aménager la pharmacie, vous pou­vez utiliser un placard ou une armoire avec des étagères, qui ferme à clé et qui sera votre "pharmacie".
 
-_Lorsqu'il n'est pas possible de séparer stoc­kage et dispensation, placer un comptoir ou un bureau pour séparer les deux zones._
+*Lorsqu'il n'est pas possible de séparer stoc­kage et dispensation, placer un comptoir ou un bureau pour séparer les deux zones.*
 
 ### 1. Superficie du local
 
@@ -39,26 +39,26 @@ Les fortes températures, le lumière ou l'humi­dité peuvent dégrader les mé
 
 ### 1. Inspectez régulièrement l'état du local
 
-*   la toiture,
-*   les murs,
-*   la porte,
-*   les fenêtres,
-*   le sol.
+- la toiture,
+- les murs,
+- la porte,
+- les fenêtres,
+- le sol.
 
 Faites réparer si besoin.
 
 ### 2. Evitez les dégâts liés à l'eau et contrôlez l'humidité
 
-*   Vérifiez le système de drainage des eaux autour du local.  
-*   La toiture doit être munie de gouttières.  
-*   Laissez l'air circuler librement.  
-*   Sécurisez les bouches d'aération et les fenêtres (grilles pour les grandes ouvertures, grillage métallique serré pour les petites).  
-*   Réparer les fuites dès qu'elles apparaissent.
+- Vérifiez le système de drainage des eaux autour du local.
+- La toiture doit être munie de gouttières.
+- Laissez l'air circuler librement.
+- Sécurisez les bouches d'aération et les fenêtres (grilles pour les grandes ouvertures, grillage métallique serré pour les petites).
+- Réparer les fuites dès qu'elles apparaissent.
 
 ### 3. Contrôlez la température dans le local
 
-*   Il est recommandé que le local possède un **double plafond,** cela diminue la tempéra­ture ambiante.  
-*   Laissez l'air chaud s'échapper de la pièce **en créant une bouche** d'aération donnant sous le toit ou au ras du plafond. **Un** **réfrigérareur** produit de la chaleur en fonctionnant, **donc il augmente la tem­pérature**.
+- Il est recommandé que le local possède un **double plafond,** cela diminue la tempéra­ture ambiante.
+- Laissez l'air chaud s'échapper de la pièce **en créant une bouche** d'aération donnant sous le toit ou au ras du plafond. **Un** **réfrigérareur** produit de la chaleur en fonctionnant, **donc il augmente la tem­pérature**.
 
 Mettez-le à un autre endroit et mettez une serrure de sécurité sur la porte du réfrigérateur.
 
@@ -72,11 +72,11 @@ Si la lumière entre par les fenêtres, évitez l'exposition directe du stock : 
 
 Chauves-souris, rats, cafards, fourmis, ter­mites ou guêpes peuvent endommager ou détruire les médicaments ou leur emballage ; il faut empêcher d'accéder à la pharmacie ou de s'y installer.
 
-*   Cimentez le sol.  
-*   Posez un grillage fin aux ouvertures pour empêcher les insectes d'entrer.  
-*   Ne laissez pas de cartons sur le sol (attention, les termites aiment beaucoup les cartons !).  
-*   Nettoyez immédiatement les produits renversés.  
-*   N'introduisez pas d'aliments dans le local de stockage.
+- Cimentez le sol.
+- Posez un grillage fin aux ouvertures pour empêcher les insectes d'entrer.
+- Ne laissez pas de cartons sur le sol (attention, les termites aiment beaucoup les cartons !).
+- Nettoyez immédiatement les produits renversés.
+- N'introduisez pas d'aliments dans le local de stockage.
 
 ## III. Gardez votre local propre et rangé
 
@@ -88,29 +88,31 @@ La poussière contamine les produits et gêne la lecture des étiquettes. Des ri
 
 Dans l'ordre :
 
-*   essuyez le plafond et les murs,
-*   dépoussiérez les étagères et
-*   nettoyez le sol.  
-*   Figure 1 - Conditions de stockage :
+- essuyez le plafond et les murs,
 
-    Drug supply management training, Illustrations for participants manuel and trainer's guide, section F WHO Division of Child Health and development 2002
+- dépoussiérez les étagères et
 
-### 2. Isolez les produits du sol et des murs :  
+- nettoyez le sol.
+
+- Figure 1 - Conditions de stockage :
+
+  Drug supply management training, Illustrations for participants manuel and trainer's guide, section F WHO Division of Child Health and development 2002
+
+### 2. Isolez les produits du sol et des murs
+
 entreposez-les sur des palettes et des étagères.
 
 Ne posez pas les cartons à même le sol :
 
-*   Ils peuvent être endommagés : le sol peut être humide et risque de provoquer le pou­rissement des produits et cela permet aux termites de s'attaquer aux cartons ou caisses.  
-*   Ils gênent le nettoyage du sol.
+- Ils peuvent être endommagés : le sol peut être humide et risque de provoquer le pou­rissement des produits et cela permet aux termites de s'attaquer aux cartons ou caisses.
+- Ils gênent le nettoyage du sol.
 
 Tous les **médicaments et autres fourni­tures** doivent être **conservés** dans leur **emballage**, récipient ou boîte **d'origine**. Ils doivent être rangés sur des **palettes ou des étagères.**
 
 **Figure 1 - Conditions de stockage**  
 Drug supply management training, Illustrations for participants manuel and trainer's guide, section F WHO Division of Child Health and development 2002
 
-
 ![](image002-local-pharmacie.jpg)
-
 
 ## Que retenir
 
@@ -118,9 +120,9 @@ Drug supply management training, Illustrations for participants manuel and train
 
 Sur les palettes ou sur les étagères, il faut **inscrire à l'emplacement destiné aux médicaments** :
 
-*   le nom du produit en DCI,
-*   le dosage du produit,
-*   la forme (sirop, comprimés, gélules, sachets, etc.).
+- le nom du produit en DCI,
+- le dosage du produit,
+- la forme (sirop, comprimés, gélules, sachets, etc.).
 
 On peut fabriquer des **étagères provisoires** avec des briques et des planches ou des palettes.  
 **L'air doit circuler autour des cartons**. Laissez un espace entre les cartons et le sol, entre les cartons et le mur.  
@@ -146,4 +148,4 @@ Ils doivent être conservés dans un local de stockage :
 
 </table>
 
-_Développement et Santé, n°188, 2007_
+*Développement et Santé, n°188, 2007*

@@ -10,9 +10,7 @@ L’anguillulose est une helminthiase très fréquente en milieu tropical. Les v
 
 Il existe, en outre, un cycle d’auto-infestation qui peut perpétuer la maladie pendant plusieurs dizaines d’années après avoir quitté les zones d’endémie.
 
-
 ![](page-9-cycle-anguillule-0.jpg)
-
 
 ## II. Clinique
 
@@ -28,9 +26,8 @@ Classiquement, l’hémogramme montre une hyperéosinophilie oscillante, en rais
 
 Le diagnostic est affirmé par l’examen parasitologique des selles, avec technique spéciale de recherche des anguillules basée sur l’hydrotropisme et le thermotropisme des larves (méthode d’extraction de Baermann) : larve rhabditoïde (double renflement oesophagien) de 300 µ de long (figure). Le sérodiagnostic n’est pas une technique de routine.
 
-
-![](page-9-fig-13-0.jpg)
- _**Larve rhabditoïde d'anguillule**_
+![](page-9-fig-13-0.jpg)  
+ ***Larve rhabditoïde d'anguillule***
 
 ## IV. Traitement
 

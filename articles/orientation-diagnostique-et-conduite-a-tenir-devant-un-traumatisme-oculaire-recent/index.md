@@ -8,9 +8,9 @@ date: "1994-06-05"
 
 **Un traumatisme oculaire récent**
 
-**par Marie-Thérèse Banos***
+**par Marie-Thérèse Banos**\*
 
-* Ophtalmologiste, Programme National de Lutte contre la Cécité, Niamey, Niger.
+- Ophtalmologiste, Programme National de Lutte contre la Cécité, Niamey, Niger.
 
 Cet article s'adresse plus particulièrement aux personnels non spécialisés des formations sanitaires des pays en développement. La connaissance des cours précédents est nécessaire à la bonne compréhension du texte.
 
@@ -24,7 +24,7 @@ Devant tout traumatisme oculaire, il est nécessaire de respecter les principes 
 
 **1. Tout traumatisme oculaire, même minime, doit être considéré comme potentiellement grave**
 
-**-** l'infection est la complication majeure des plaies oculaires, des brûlures et des atteintes cornéennes, même superficielles,
+- l'infection est la complication majeure des plaies oculaires, des brûlures et des atteintes cornéennes, même superficielles,
 
 - les traumatismes graves peuvent être minimisés à tort : la douleur et la baisse d'acuité visuelle peuvent faire défaut,
 
@@ -34,7 +34,7 @@ Devant tout traumatisme oculaire, il est nécessaire de respecter les principes 
 
 **2. Il faut éviter d'aggraver les lésions existantes**
 
-**-** l'examen d'un oeil suspect de traumatisme doit se faire avec douceur : l'ouverture des paupières ne doit jamais être obtenue
+- l'examen d'un oeil suspect de traumatisme doit se faire avec douceur : l'ouverture des paupières ne doit jamais être obtenue
 
 par la force. Rassurer le malade et expliquer ses gestes suffisent le plus souvent à obtenir sa coopération. En cas d'impossibilité, mieux vaut référer,
 
@@ -50,7 +50,7 @@ Savoir et pouvoir :
 
 - organiser une évacuation vers un centre spécialisé.
 
-Ainsi, un traumatisme oculaire récent est une _urgence_ fonctionnelle. Mais attention, un traumatisme oculaire _n'engage jamais le pronostic vital_ du malade. Il n'est jamais responsable d'hémorragie interne ou de coma. En cas de traumatismes associés (accident de la circulation, blessures multiples...), le diagnostic d'atteinte oculaire ne doit jamais retarder la prise en charge générale du malade (réanimation, chirurgie abdominale, artérielle...).
+Ainsi, un traumatisme oculaire récent est une *urgence* fonctionnelle. Mais attention, un traumatisme oculaire *n'engage jamais le pronostic vital* du malade. Il n'est jamais responsable d'hémorragie interne ou de coma. En cas de traumatismes associés (accident de la circulation, blessures multiples...), le diagnostic d'atteinte oculaire ne doit jamais retarder la prise en charge générale du malade (réanimation, chirurgie abdominale, artérielle...).
 
 La demande comporte deux étapes
 
@@ -60,7 +60,7 @@ La demande comporte deux étapes
 
 **I. Peut-il y avoir une plaie du globe ?**
 
-**1. C'est une urgence,** l'oeil est _" ouvert " et_ exposé à :
+**1. C'est une urgence,** l'oeil est *" ouvert " et* exposé à :
 
 - l'aggravation des lésions par l'examen, l'ouverture des paupières, la toux, les pleurs...
 
@@ -86,13 +86,13 @@ Le danger est maximal quand existe la possibilité de corps étranger intraocula
 
 - métallique (l'ouvrier qui tape sur une pierre avec un burin métallique), outils souillés par de la terre (risque septique par anaérobies et risque de tétanos).
 
-*   **Ce qu'apporte l'examen :**
+<!-- -->
+
+- **Ce qu'apporte l'examen :**
 
 Il doit toujours être doux et rassurant. Ne jamais appuyer sur le globe ou les paupières. Si l'examen est impossible, les circonstances de l'accident suffisent à référer le malade vers le centre spécialisé le plus proche, en prenant les mesures indiquées ci-dessous.
 
-
 ![](i599-1.jpg)
-
 
 Le diagnostic est parfois facile :
 
@@ -104,7 +104,7 @@ Le diagnostic est parfois facile :
 
 Le diagnostic est souvent plus difficile :
 
-- la douleur est absente et l'acuité visuelle peut _être_ normale,
+- la douleur est absente et l'acuité visuelle peut *être* normale,
 
 - mais une hémorragie sous conjonctivale doit faire craindre une plaie sclérale sous-jacente,
 
@@ -142,7 +142,7 @@ Ces signes sont le témoin d'une perforation. Les possibilités de récupératio
 
 **II. Y a-t-il eu projection de produits caustiques ?**
 
-1. La notion de projection de liquide caustique, de quelque nature que ce soit, impose un geste immédiat : le lavage abondant et prolongé (10 à 15 minutes) à l'eau propre :
+1.  La notion de projection de liquide caustique, de quelque nature que ce soit, impose un geste immédiat : le lavage abondant et prolongé (10 à 15 minutes) à l'eau propre :
 
 - c'est la seule façon de diluer le toxique : ne jamais utiliser de neutralisant,
 
@@ -158,7 +158,7 @@ Ces signes sont le témoin d'une perforation. Les possibilités de récupératio
 
 - poursuivre par le cul de sac supérieur en demandant au malade de regarder vers le bas : retourner la paupière pour bien rincer la conjonctive tarsale (schéma 2).
 
-2. Interroger alors le malade sur la nature du produit liquide :
+2.  Interroger alors le malade sur la nature du produit liquide :
 
 - les acides, antirouilles, décapants, acide chlorhydrique (eau de Javel) ne diffusent pas. Les lésions sont constituées d'emblée,
 
@@ -172,25 +172,25 @@ Ces signes sont le témoin d'une perforation. Les possibilités de récupératio
 
 - le venin du serpent cracheur n'est théoriquement pas toxique. Un bon lavage à l'eau est néanmoins indiqué.
 
-_3. Les brûlures thermiques_ sont moins dangereuses pour l'oeil, les paupières servant de protection. Mais les brûlures conjonctivales induites peuvent être responsables de complications secondaires (symblépharon, ectropion ou entropion cicatriciels) imposant un bilan spécialisé.
-
+*3. Les brûlures thermiques* sont moins dangereuses pour l'oeil, les paupières servant de protection. Mais les brûlures conjonctivales induites peuvent être responsables de complications secondaires (symblépharon, ectropion ou entropion cicatriciels) imposant un bilan spécialisé.
 
 ![](i599-2.jpg)
 
-
 Les brûlures par radiations (ultraviolets des soudeurs à l'arc, du désert, des rampes de stérilisation) surviennent 6 à 10 heures après l'exposition. Très spectaculaires, elles sont sans gravité guérissant en quelques jours sans séquelles.
 
-_4. L'examen recherche des signes de gravité:_
+*4. L'examen recherche des signes de gravité:*
 
-_-_ présence de corps étrangers non mobilisables par le lavage,
+*-* présence de corps étrangers non mobilisables par le lavage,
 
 - une ischémie conjonctivale qui se traduit par des îlots blanchâtres avasculaires,
 
 - une cornée blanche est le témoin d'une atteinte cornéenne profonde.
 
-5. Ce qu'il faut faire :
+5.  Ce qu'il faut faire :
 
-*   Il existe des signes de gravité :
+- Il existe des signes de gravité :
+
+<!-- -->
 
 - instiller un collyre antibiotique (de préférence à une pommade),
 
@@ -228,7 +228,7 @@ Vous avez éliminé une plaie et une brûlure, vous devez rechercher:
 
 **2. Les signes fonctionnels peuvent être importants**
 
-**-** malaise avec bradycardie par réflexe oculo-cardiaque,
+- malaise avec bradycardie par réflexe oculo-cardiaque,
 
 - douleurs, altération de la vision.
 
@@ -274,9 +274,9 @@ Le lendemain :
 
 **IV. Existe-t-il un corps étranger superficiel, conjonctival ou cornéen?**
 
-1. L'interrogatoire ne retrouve pas les circonstances précédentes mais le malade signale avoir reçu "quelque chose dans l'oeil ". Il est photophobe, larmoyant. Les douleurs sont augmentées par le clignement des paupières. Certaines circonstances sont évocatrices : soudure à l'arc, battage du riz, circulation à moto...
+1.  L'interrogatoire ne retrouve pas les circonstances précédentes mais le malade signale avoir reçu "quelque chose dans l'oeil ". Il est photophobe, larmoyant. Les douleurs sont augmentées par le clignement des paupières. Certaines circonstances sont évocatrices : soudure à l'arc, battage du riz, circulation à moto...
 
-2. L'examen note l'absence des signes déjà décrits et objective un corps étranger (CE) sur la cornée : blanc ou noir.
+2.  L'examen note l'absence des signes déjà décrits et objective un corps étranger (CE) sur la cornée : blanc ou noir.
 
 • Si le CE est rond et noir : éliminer une plaie oculaire (cf. plus haut) par l'interrogatoire, vérifier l'absence de déformation pupillaire. Ne jamais toucher la cornée en l'absence d'anesthésique local (Novésine) (schéma 3).
 
@@ -292,19 +292,17 @@ Vous n'avez pas de Novésine :
 
 - essayer de mobiliser le CE au travers des paupières vers la conjonctive.
 
-3. Vous ne trouvez rien sur la cornée : pensez à retourner la paupière supérieure à la recherche d'un _corps étranger conjonctival._ Dégagez le CE à l'aide d'un objet mousse, toujours tangentiellement comme indiqué sur le schéma 4.
-
+3.  Vous ne trouvez rien sur la cornée : pensez à retourner la paupière supérieure à la recherche d'un *corps étranger conjonctival.* Dégagez le CE à l'aide d'un objet mousse, toujours tangentiellement comme indiqué sur le schéma 4.
 
 ![](i599-3.jpg)
 
-
-4. Vous avez pu enlever le CE cornéen ou conjonctival :
+4.  Vous avez pu enlever le CE cornéen ou conjonctival :
 
 Dans les deux cas, mettre une pommade antibiotique et un pansement ou une coque, revoir le malade le lendemain.
 
 Il ne souffre plus : poursuivre l'antibiothérapie locale quatre fois par jour pendant cinq jours, sans pansement ; il souffre : référer au centre spécialisé.
 
-5. Vous n'avez pas pu enlever le CE :
+5.  Vous n'avez pas pu enlever le CE :
 
 - mettre une pommade antibiotique et un pansement ou une coque,
 
@@ -312,7 +310,7 @@ Il ne souffre plus : poursuivre l'antibiothérapie locale quatre fois par jour p
 
 **V. Cas particuliers**
 
-1. Il existe une plaie palpébrale :
+1.  Il existe une plaie palpébrale :
 
 - ne pas oublier d'examiner le globe oculaire à la recherche d'une plaie oculaire (cf. plus haut),
 
@@ -326,15 +324,13 @@ Il ne souffre plus : poursuivre l'antibiothérapie locale quatre fois par jour p
 
 La démarche diagnostique est la même que précédemment.
 
-_1. La chambre antérieure est blanche, le_ malade souffre, y voit mal : il s'agit d'une infection grave du globe oculaire _ou panophtalmie._ Faire une antibiothérapie générale (Pénicilline, sérovaccination antitétanique), évacuer très rapidement le malade vers un centre spécialisé.
+*1. La chambre antérieure est blanche, le* malade souffre, y voit mal : il s'agit d'une infection grave du globe oculaire *ou panophtalmie.* Faire une antibiothérapie générale (Pénicilline, sérovaccination antitétanique), évacuer très rapidement le malade vers un centre spécialisé.
 
-_2. La chambre antérieure est rouge, le_ malade souffre et y voit mal : il s'agit d'un hyphéma, se reporter au chapitre " contusion oculaire ".
-
+*2. La chambre antérieure est rouge, le* malade souffre et y voit mal : il s'agit d'un hyphéma, se reporter au chapitre " contusion oculaire ".
 
 ![](i599-4.jpg)
 
-
-_3. Le malade souffre ou signale une baisse d'acuité visuelle,_ rechercher un corps étranger cornéen ou conjonctival (cf. paragraphe IV). Si vous ne trouvez pas le CE, référer vers le centre spécialisé.
+*3. Le malade souffre ou signale une baisse d'acuité visuelle,* rechercher un corps étranger cornéen ou conjonctival (cf. paragraphe IV). Si vous ne trouvez pas le CE, référer vers le centre spécialisé.
 
 **VII. Conclusion**
 

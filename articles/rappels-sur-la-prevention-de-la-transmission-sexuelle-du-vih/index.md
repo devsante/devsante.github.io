@@ -11,15 +11,16 @@ Un chapitre est consacré plus loin à la transmission mère enfant (TME) et un 
 
 On définit :
 
-*   la prévention primaire : elle a pour but d'empêcher l'apparition de la maladie en réduisant la transmission de l'agent pathogène ou l'exposition à un facteur la favorisant ;
-*   la prévention secondaire : elle vise à retarder l'apparition et diminuer la gravité de la maladie au moyen d'un dépistage et d'une prise en charge précoces ;
-*   la prévention tertiaire : son objectif est la réduction de la fréquence des complications ou des décès.
+- la prévention primaire : elle a pour but d'empêcher l'apparition de la maladie en réduisant la transmission de l'agent pathogène ou l'exposition à un facteur la favorisant ;
+- la prévention secondaire : elle vise à retarder l'apparition et diminuer la gravité de la maladie au moyen d'un dépistage et d'une prise en charge précoces ;
+- la prévention tertiaire : son objectif est la réduction de la fréquence des complications ou des décès.
 
 ## II. Objectifs infirmiers
 
 Il s'agit, pour l'infirmier, de développer les comportements de prévention dans la population dont il a la charge.
 
-### 1. Les moyens de prévention de  
+### 1. Les moyens de prévention de
+
 la transmission du VIH par voie sexuelle
 
 En Afrique, c'est le premier mode de transmission par sa fréquence : de 80 à 90 % des cas. De plus, la quasi-totalité des cas de transmission par voie sanguine ou de la mère à l'enfant sont secondaires à une contamination sexuelle.
@@ -32,8 +33,8 @@ Classiquement, on parle (en français) de AFP « abstinence, fidélité, préser
 
 Depuis deux ans, on envisage de nouvelles méthodes :
 
-*   d'une part des méthodes empêchant la contamination génitale ou agissant sur certains facteurs favorisants,
-*   d'autre part une prescription médicamenteuse administrée après un contact et destinée à empêcher le virus de se développer. On parle alors de « traitement préventif » ou de « prévention post-exposition ».
+- d'une part des méthodes empêchant la contamination génitale ou agissant sur certains facteurs favorisants,
+- d'autre part une prescription médicamenteuse administrée après un contact et destinée à empêcher le virus de se développer. On parle alors de « traitement préventif » ou de « prévention post-exposition ».
 
 ### 2. Les méthodes classiques utilisées depuis 30 ans et plus
 
@@ -54,10 +55,10 @@ Tous les préservatifs fournis par les circuits officiels (système de santé, p
 
 Il faut vérifier :
 
-*   que la date de péremption n'est pas dépassée,
-*   que le produit fait référence à des normes américaines, européennes ou japonaises,
-*   qu'il a été conservé à l'abri du soleil et des températures élevées (> 35° C),
-*   que les emballages sont intacts.
+- que la date de péremption n'est pas dépassée,
+- que le produit fait référence à des normes américaines, européennes ou japonaises,
+- qu'il a été conservé à l'abri du soleil et des températures élevées (> 35° C),
+- que les emballages sont intacts.
 
 Plus les préservatifs sont et seront utilisés, plus on observe deux problèmes : les ruptures et les allergies au latex.  
 Les ruptures sont évitées par une bonne pratique d'utilisation (voir encadrés).
@@ -90,7 +91,7 @@ Conseils de bonne utilisation des préservatifs masculins
 
 </table>
 
-<table>
+\$1<table>
 
 <thead>
 
@@ -133,23 +134,23 @@ Il s'agit d'un étui en plastique que la femme introduit dans son vagin avant le
 
 **Avantages**
 
-*   Il permet à chaque femme de gérer elle-même sa double protection (IST et grossesse non désirée). C'est la décision de la femme et son autonomie.  
-*   Il se place à l'intérieur du vagin avant chaque rapport sexuel.  
-*   Il peut être placé juste avant le rapport sexuel ou quelques heures plus tôt.  
-*   Il doit être jeté après chaque rapport, il n'est pas réutilisable.  
-*   Il peut rester dans le vagin après le rapport sexuel.  
-*   Il est en plastique (polyuréthane) et non en latex. ; il est donc utilisable même en cas d'allergie au latex.  
-*   Le polyuréthane est plus robuste que le latex.  
-*   Il peut être utilisé avec n'importe quel type de lubrifiant.  
-*   Il convient à toute femme, même si elle porte un stérilet.  
-*   Il se place en position assise, couchée, ou debout un pied posé sur une chaise, comme un tampon périodique.
+- Il permet à chaque femme de gérer elle-même sa double protection (IST et grossesse non désirée). C'est la décision de la femme et son autonomie.
+- Il se place à l'intérieur du vagin avant chaque rapport sexuel.
+- Il peut être placé juste avant le rapport sexuel ou quelques heures plus tôt.
+- Il doit être jeté après chaque rapport, il n'est pas réutilisable.
+- Il peut rester dans le vagin après le rapport sexuel.
+- Il est en plastique (polyuréthane) et non en latex. ; il est donc utilisable même en cas d'allergie au latex.
+- Le polyuréthane est plus robuste que le latex.
+- Il peut être utilisé avec n'importe quel type de lubrifiant.
+- Il convient à toute femme, même si elle porte un stérilet.
+- Il se place en position assise, couchée, ou debout un pied posé sur une chaise, comme un tampon périodique.
 
 **Inconvénients**
 
-*   Sa mise en place nécessite un petit apprentissage. Il est recommandé de s'entraîner tranquillement à le placer.  
-*   Il est plus cher que le préservatif masculin.  
-*   Au moment du rapport, il faut s'assurer que le pénis entre bien dans le préservatif et non à côté
-*   Il ne doit pas être utilisé avec un préservatif masculin (frottement),
+- Sa mise en place nécessite un petit apprentissage. Il est recommandé de s'entraîner tranquillement à le placer.
+- Il est plus cher que le préservatif masculin.
+- Au moment du rapport, il faut s'assurer que le pénis entre bien dans le préservatif et non à côté
+- Il ne doit pas être utilisé avec un préservatif masculin (frottement),
 
 <table>
 
@@ -176,16 +177,16 @@ et évitent les grossesses non désirées.
 
 #### e. Les autres modes de prévention actuels
 
-**Diagnostic et traitement des IST** : _voir fiche IST_. On sait que toutes les IST favorisent localement la contamination par le VIH. Aussi, les programmes de lutte contre le VIH/SIDA comportent un volet IST avec administration d'un traitement, systématique ou après diagnostic d'IST.  
+**Diagnostic et traitement des IST** : *voir fiche IST*. On sait que toutes les IST favorisent localement la contamination par le VIH. Aussi, les programmes de lutte contre le VIH/SIDA comportent un volet IST avec administration d'un traitement, systématique ou après diagnostic d'IST.  
 Ainsi, en Ouganda, il a pu être démontré que cette stratégie permettait de diminuer le nombre des nouvelles infections par le VIH.
 
 **Circoncision des garçons.**  
 Elle est envisagée selon les indications de l'OMS :
 
-*   si la séroprévalence VIH est supérieure à 5 % ;
-*   si la fréquence de la circoncision traditionnelle est inférieure à 70 %.  
-    Il a été démontré que, si la séroprévalence à VIH est basse ou si la fréquence naturelle de la circoncision est élevée, un programme de promotion de ce moyen ne serait pas utile.  
-    Le lien entre circoncision et séroprévalence basse est connu depuis longtemps (1986), mais on a dû attendre les résultats des essais « thérapeutiques » menés en République sud-africaine), en Ouganda et au Kenya pour que soit reconnu le rôle protecteur de la circoncision masculine (la circoncision diminue d'environ 50 % le risque de séroconversion chez l'homme). La circoncision n'a pas d'effet favorable chez la femme, comme cela vient d'être démontré en Ouganda.
+- si la séroprévalence VIH est supérieure à 5 % ;
+- si la fréquence de la circoncision traditionnelle est inférieure à 70 %.  
+  Il a été démontré que, si la séroprévalence à VIH est basse ou si la fréquence naturelle de la circoncision est élevée, un programme de promotion de ce moyen ne serait pas utile.  
+  Le lien entre circoncision et séroprévalence basse est connu depuis longtemps (1986), mais on a dû attendre les résultats des essais « thérapeutiques » menés en République sud-africaine), en Ouganda et au Kenya pour que soit reconnu le rôle protecteur de la circoncision masculine (la circoncision diminue d'environ 50 % le risque de séroconversion chez l'homme). La circoncision n'a pas d'effet favorable chez la femme, comme cela vient d'être démontré en Ouganda.
 
 Elle ne protège pas individuellement à 100 % et ne remplace donc pas les comportements préventifs, le port de préservatif en particulier. Mais dans des programmes de lutte contre le VIH, la diffusion de la circoncision masculine est un moyen supplémentaire qui joue un rôle non négligeable.
 
@@ -209,7 +210,7 @@ NB : Pour tester une méthode préventive, il faut l'appliquer à des groupes de
 ### 1. Sensibilisation
 
 L'infirmier doit sensibiliser tous ses patients et ses connaissances et promouvoir des conduites de prévention.  
-Il doit savoir conseiller la meilleure méthode pour chaque personne, sans _a priori_.  
+Il doit savoir conseiller la meilleure méthode pour chaque personne, sans *a priori*.  
 Il peut s'aider de la stratégie de « La flottille de l'espoir », acceptée par la très grande majorité des religieux. Le principe en est le suivant : il existe 3 moyens de prévention et l'important est d'en choisir un. Et surtout, il est possible et recommandé, si les circonstances de la vie l'imposent, de changer de moyen, mais il ne faut en aucun cas s'abstenir d'un comportement préventif (voir annexe « Flottille de l'Espoir »).
 
 ### 2. Connaissance des produits et de leur disponibilité

@@ -25,4 +25,4 @@ La technique a été étudiée à Bobo Dioulasso pour les glossines (tsé tsé) 
 
 La méthode des moustiques mâles rendus stériles demande encore de nombreux essais avant d’être utilisable et surtout accessible et faisable.
 
-_J Tahailayil and F Catteruccia in Proceedings of the National Academy of Sciences_
+*J Tahailayil and F Catteruccia in Proceedings of the National Academy of Sciences*

@@ -6,40 +6,32 @@ date: "2008-01-27"
 
 <div class="teaser"><p>La colique néphrétique est une douleur lombaire unilatérale violente, due à un obstacle siégeant sur les voies excrétrices urinaires supérieures (Schéma 1).</p></div>
 
-_Un film sur ce sujet est visible gratuitement sur internet :_ _[http://www.filmed.org/](http://www.filmed.ora/)_ _Puis taper : 102 5204 018 dans la recherche par référence._
+*Un film sur ce sujet est visible gratuitement sur internet :* *[<http://www.filmed.org/>](http://www.filmed.ora/)* *Puis taper : 102 5204 018 dans la recherche par référence.*
 
 ## I. Physiopathologie
 
-Le rein sécrète de l'urine continuellement, le bassinet la collecte et l'uretère la conduit dans un réservoir, la vessie, qui ne l'éliminera vers l'extérieur que 3 à 5 fois par jour. L'ensemble formé par les bassinets et les ure­tères constitue la voie excrétrice supérieure. Si un obstacle empêche l'urine de s'écouler vers la vessie, alors qu'elle continue à être sécrétée, il va se produire rapidement une hyperpression dans l'uretère et le bassinet au-dessus de cet obstacle _(Schéma 2)_. Cette hyperpression va provoquer la douleur, ou colique néphrétique, en excitant les nerfs innervant le bassinet.
+Le rein sécrète de l'urine continuellement, le bassinet la collecte et l'uretère la conduit dans un réservoir, la vessie, qui ne l'éliminera vers l'extérieur que 3 à 5 fois par jour. L'ensemble formé par les bassinets et les ure­tères constitue la voie excrétrice supérieure. Si un obstacle empêche l'urine de s'écouler vers la vessie, alors qu'elle continue à être sécrétée, il va se produire rapidement une hyperpression dans l'uretère et le bassinet au-dessus de cet obstacle *(Schéma 2)*. Cette hyperpression va provoquer la douleur, ou colique néphrétique, en excitant les nerfs innervant le bassinet.
 
 Une crise de colique néphrétique traduit donc une distension rapide de la voie excrétrice urinaire haute.
 
 Devant un malade venu vous consulter pour une douleur lombaire, plusieurs problèmes doivent être résolus :
 
-*   reconnaître la crise de colique néphrétique et éliminer d'autres affections pouvant se mani­fester par des douleurs presque semblables ;
-*   soulager rapidement le malade ;
-*   assurer une surveillance pour observer l'apparition de complications qui obligeraient à un transfert rapide à l'hôpital ;
-*   découvrir l'étiologie, ce qui sera souvent fait à distance de la crise, à l'hôpital.
+- reconnaître la crise de colique néphrétique et éliminer d'autres affections pouvant se mani­fester par des douleurs presque semblables ;
+- soulager rapidement le malade ;
+- assurer une surveillance pour observer l'apparition de complications qui obligeraient à un transfert rapide à l'hôpital ;
+- découvrir l'étiologie, ce qui sera souvent fait à distance de la crise, à l'hôpital.
 
-**Schéma 1 : rappel anatomique** _(d'après : Sémiologie Chirurgicale de Poilleux)_
-
+**Schéma 1 : rappel anatomique** *(d'après : Sémiologie Chirurgicale de Poilleux)*
 
 ![](image002.jpg)
 
-
-
 ![](image001-0.jpg)
-
 
 **Schéma 2 : physiopathologie de la colique néphrétique**
 
-
 ![](image004-3.jpg)
 
-
-
 ![](image004.jpg)
-
 
 ## II. Reconnaître la crise
 
@@ -49,8 +41,8 @@ La forme typique pose peu de problèmes dia­gnostiques, mais la crise peut êtr
 
 #### a) Des circonstances déclenchantes sont parfois retrouvées
 
-*   secousses répétées à l'occasion d'un voyage en train ou en voiture, qui ont pu mobiliser un calcul rénal ;
-*   boisson insuffisante en saison chaude, dimi­nuant ainsi le volume des urines et favorisant la précipitation des cristaux urinaires, sous forme de calcul.
+- secousses répétées à l'occasion d'un voyage en train ou en voiture, qui ont pu mobiliser un calcul rénal ;
+- boisson insuffisante en saison chaude, dimi­nuant ainsi le volume des urines et favorisant la précipitation des cristaux urinaires, sous forme de calcul.
 
 #### b) Des prodromes précèdent la crise
 
@@ -60,21 +52,19 @@ Sen­sation de pesanteur lombaire, envie plus fréquente d'uriner et, chez l'hom
 
 Il est brutal, la douleur est de siège lombaire ou lombo-iliaque, unila­térale.
 
-#### d) La douleur _(Schéma 3)_
+#### d) La douleur *(Schéma 3)*
 
 Elle est intense, le malade porte la main dans le dos vers le côté atteint, ressentant une véritable sensation de torsion, de brûlure ou de constriction. En plei­ne crise, l'intensité de la douleur est parfois très impressionnante. Cette douleur irradie rapidement vers le bas, en passant des lombes vers la fosse iliaque et les organes génitaux externes. Elle évolue par paroxysmes, tantôt diminuant, tantôt s'exacerbant. Le malade ne trouve aucune position pour la soulager, il est agité, angoissé.
 
 **Schéma 3 : projection schématique de la douleur  
 le long des voies excrétrices au cours de la crise de colique néphrétique**
 
-
 ![](image005.jpg)
-
 
 #### e) D'autres signes accompagnent cette crise
 
-*   Signes urinaires : envie plus fréquente d'uri­ner, douleur au niveau de la verge, le testicu­le pouvant remonter du côté atteint ;
-*   Signes digestifs : nausées, vomissements, arrêt des matières et des gaz au bout de quelques heures.
+- Signes urinaires : envie plus fréquente d'uri­ner, douleur au niveau de la verge, le testicu­le pouvant remonter du côté atteint ;
+- Signes digestifs : nausées, vomissements, arrêt des matières et des gaz au bout de quelques heures.
 
 Le diagnostic ne fait aucun doute devant cette douleur intense, paroxystique, unilatérale, à irradiation descendante, s'accompagnant de signes urinaires.
 
@@ -100,12 +90,12 @@ Ils peuvent dominer : envie fréquente d'uriner, brûlure à la miction, douleur
 
 Chez tous ces malades, que la douleur soit typique ou non, l'absence de certains signe permettra d'éliminer d'autres diagnostics :
 
-*   absence de fièvre ;
-*   abdomen souple et indolore contrastant avec l'intensité de la douleur, seule la fosse lombaire est sensible ;
-*   orifices herniaires libres ;
-*   touchers rectal et vaginal normaux ;
-*   urines claires ;
-*   antécédents de crise semblable suivie de l'émission de calcul ou de sable dans les urines, orientant rapidement le diagnostic.
+- absence de fièvre ;
+- abdomen souple et indolore contrastant avec l'intensité de la douleur, seule la fosse lombaire est sensible ;
+- orifices herniaires libres ;
+- touchers rectal et vaginal normaux ;
+- urines claires ;
+- antécédents de crise semblable suivie de l'émission de calcul ou de sable dans les urines, orientant rapidement le diagnostic.
 
 Dans toutes ces formes atypiques où le diagnostic est bien difficile cliniquement, un petit signe paraclinique est bien précieux. Si vous disposez de bandelettes réactives détectant li présence de sang dans les urines, vous découvrirez alors des traces de sang, car l'obstacle qui provoque la crise entraîne, pratiquement toujours, un petit saignement invisible à l'oei nu (hématurie microscopique). Mais, faites attention, chez la femme en période de règles, la réaction sera positive alors que le sang ne provient pas de l'appareil urinaire.
 
@@ -135,9 +125,9 @@ De nombreux produits sont efficaces et peu­vent être répétés sans danger : 
 
 ### 2. Assurer une surveillance
 
-#### a) Surveiller la température une à deux fois par jour.
+#### a) Surveiller la température une à deux fois par jour
 
-#### b) Garder et tamiser toutes les urines.
+#### b) Garder et tamiser toutes les urines
 
 Le malade urinera dans un bocal à travers une compresse où les urines seront ainsi filtrées, afin de retrouver un calcul s'il est expulsé au cours de la crise.
 
@@ -147,7 +137,8 @@ Retrouver un calcul est très important car vous serez alors certain de votre di
 
 vous pou­vez au contraire faire boire abondamment le malade car les urines seront alors abondantes et pourront aider, par leur débit, à chasser l'obstacle. Les anti-inflammatoires peuvent aussi être utiles à ce stade, de même que les alpha-bloquants.
 
-### 3. Découvrir une complication nécessitant  
+### 3. Découvrir une complication nécessitant
+
 un transfert d'urgence vers l'hôpital
 
 Trois complications peuvent survenir et impo­ser un geste chirurgical urgent : **l'infection, l'état de mal néphrétique et l'anurie.**
@@ -175,14 +166,14 @@ On pratiquera des examens complémentaires.
 
 Celle-ci permettra :
 
-*   d'éliminer un autre diagnostic si la douleur est atypique ;
-*   de retrouver des signes indirects, mais peu spécifiques : présence d'air dans l'intestin grêle et le côlon (aéroiléie, aérocolie) témoi­gnant de l'arrêt des gaz dû à une réaction, réflexe à la douleur (iléus fonctionnel) ; surtout, en cas de calcul radio-opaque (c'est-à­dire visible aux rayons X), elle peut montrer directement l'obstacle. On retrouvera une opacité dense, parfois très petite (quelques millimètres) se projetant sur le trajet de l'uretère (Schéma 4). Si on a la chance de voir un tel obstacle, des radios répétées les jours suivants permettront de suivre sa progression jusqu'à la vessie. Rappelons que l'abdomen sans prépa­ration nécessite cependant de visualiser les coupoles diaphragmatiques jusqu'à la vessie.
+- d'éliminer un autre diagnostic si la douleur est atypique ;
+- de retrouver des signes indirects, mais peu spécifiques : présence d'air dans l'intestin grêle et le côlon (aéroiléie, aérocolie) témoi­gnant de l'arrêt des gaz dû à une réaction, réflexe à la douleur (iléus fonctionnel) ; surtout, en cas de calcul radio-opaque (c'est-à­dire visible aux rayons X), elle peut montrer directement l'obstacle. On retrouvera une opacité dense, parfois très petite (quelques millimètres) se projetant sur le trajet de l'uretère (Schéma 4). Si on a la chance de voir un tel obstacle, des radios répétées les jours suivants permettront de suivre sa progression jusqu'à la vessie. Rappelons que l'abdomen sans prépa­ration nécessite cependant de visualiser les coupoles diaphragmatiques jusqu'à la vessie.
 
 ### 2. Une échographie
 
 Elle montrera les cavités rénales dilatées et parfois le calcul.
 
-### **3. Une urographie intraveineuse (UIV)**
+### 3. Une urographie intraveineuse (UIV)
 
 L'UIV est réalisée soit en urgence si le dia­gnostic n'est pas certain, soit quelques jours après la crise pour rechercher une cause et apprécier le retentissement de l'obstacle sur le rein. Pendant la crise, l'UIV n'est jamais nor­male (une UIV normale doit faire réfuter le diagnostic de colique néphrétique si elle est pratiquée au moment de la douleur), on obser­ve alors : un retard de sécrétion du rein, un uretère dilaté et atone, un arrêt de la colonne de produit opaque au niveau de l'obstacle. L'UIV montrera très souvent la cause : calcul, sténose de l'uretère... Mais, si l'obstacle est évacué entre la crise et le moment où l'on pra­tique l'examen, elle paraîtra normale, c'est pour cette raison que le tamisage des urines est si important.
 
@@ -190,13 +181,9 @@ Cette UIV n'est pas effectuée systématiquement puisque l'échographie suffit l
 
 **Schéma 4 : images évoquant un calcul par son siège sur un cliché sans préparation**
 
-
 ![](image008.jpg)
 
-
-
 ![](image008.jpg)
-
 
 ### 4. Le scanner
 
@@ -208,8 +195,8 @@ Une cystoscopie pratiquée une dizaine de minutes **après injection intraveineu
 
 ### 6. Un examen biologique
 
-*   Examen cyto-bactériologique des urines (ECBU) à la recherche d'une infection sur­ajoutée qui peut être très grave sur un rein en rétention.  
-*   Si l'hôpital est bien équipé, le bilan phos­phocalcique et, l'analyse chimique d'un cal­cul, pourront permettre de retrouver cer­taines étiologies rares. Ainsi, c'est le plus souvent grâce à l'UIV que l'on retrouvera la cause de la colique néphrétique.
+- Examen cyto-bactériologique des urines (ECBU) à la recherche d'une infection sur­ajoutée qui peut être très grave sur un rein en rétention.
+- Si l'hôpital est bien équipé, le bilan phos­phocalcique et, l'analyse chimique d'un cal­cul, pourront permettre de retrouver cer­taines étiologies rares. Ainsi, c'est le plus souvent grâce à l'UIV que l'on retrouvera la cause de la colique néphrétique.
 
 <table>
 
@@ -245,7 +232,7 @@ Tumeur du rein, de l'uretère, de la vessie, qui peuvent boucher l'uretère par 
 
 Anomalie de la jonction pyélo-urétérale ou vésico-urétérale, reflux vésico-rénal.
 
-### **4. Rétrécissement de l'uretère (sténose)**
+### 4. Rétrécissement de l'uretère (sténose)
 
 Fréquent en Afrique par tuberculose ou bilhar­ziose urinaire.
 
@@ -259,11 +246,11 @@ Parfois, aucune cause n'est retrouvée, il s'agit alors le plus souvent d'un pet
 
 ## VI. Conclusion
 
-*   Soulager le malade.  
-*   Tamiser les urines.  
-*   Déceler une complication.  
-*   Adresser le malade à l'hôpital pour retrouver l'étiologie.  
-*   La colique néphrétique est une urgence théra­peutique. Il est essentiel de la reconnaître pour ne pas la confondre avec une autre urgence chirurgicale.
+- Soulager le malade.
+- Tamiser les urines.
+- Déceler une complication.
+- Adresser le malade à l'hôpital pour retrouver l'étiologie.
+- La colique néphrétique est une urgence théra­peutique. Il est essentiel de la reconnaître pour ne pas la confondre avec une autre urgence chirurgicale.
 
 **Lexique**
 
@@ -278,4 +265,4 @@ Un malade en anurie meurt en quelques jours.
 
 **Septicémie** : présence de microbes dans le sang ; ces microbes proviennent d'une porte d'entrée : plaie, infection urinaire...
 
-_Développement et Santé, n°191/192, 2008_
+*Développement et Santé, n°191/192, 2008*

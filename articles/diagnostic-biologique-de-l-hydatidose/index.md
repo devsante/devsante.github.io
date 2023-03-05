@@ -10,9 +10,9 @@ date: "1998-10-02"
 
 La numération formule sanguine :
 
-*   Elle est le plus souvent normale.  
-*   L'hyperéosinophilie peut s'observer dans le cadre de fissuration d'un kyste et peut être associée à des signes allergiques type urticaire.  
-*   La polynucléose traduit la surinfection kystique et est accompagnée d'un syndrome inflammatoire.
+- Elle est le plus souvent normale.
+- L'hyperéosinophilie peut s'observer dans le cadre de fissuration d'un kyste et peut être associée à des signes allergiques type urticaire.
+- La polynucléose traduit la surinfection kystique et est accompagnée d'un syndrome inflammatoire.
 
 Le bilan hépatique peut être lui aussi perturbé en cas de compression des voies biliaires hyperbilirubinémie, hypertransaminasémie...
 
@@ -26,16 +26,14 @@ Il est exceptionnel de découvrir scolex, crochets ou fragments membraneux dans 
 
 Seuls les prélèvements per-opératoires du kyste, dit  "hydatide", peuvent permettre de retrouver l'agent pathogène. Le kyste est une sphère creuse, limitée par deux membranes :
 
-*   la cuticule externe entourant,
-*   la membrane interne parasitaire dite proligére ou germinative et mère de tous les éléments de la larve. Par bourgeonnement, elle donne les vésicules ou capsules proligères qui élaborent les scolex ou protoscolex, têtes des futurs taenias (_photos_ n° _1 et 2)._ Ces vésicules peuvent se détacher ou se déchirer libérant les scolex qui s'accumulent dans le fond du kyste et forment le sable hydatique.
+- la cuticule externe entourant,
+- la membrane interne parasitaire dite proligére ou germinative et mère de tous les éléments de la larve. Par bourgeonnement, elle donne les vésicules ou capsules proligères qui élaborent les scolex ou protoscolex, têtes des futurs taenias (*photos* n° *1 et 2).* Ces vésicules peuvent se détacher ou se déchirer libérant les scolex qui s'accumulent dans le fond du kyste et forment le sable hydatique.
 
-À l'intérieur de l'hydatide, se trouve le liquide hydatique, eau de roche, constitué de produits de l'hôte dialysés à travers la cuticule externe, et de produits du métabolisme du parasite qui lui confèrent sa grande valeur antigénique. L'observation microscopique du culot de centrifugation de ce liquide permet de mettre en évidence, si le kyste est fertile, des crochets provenant de protoscolex abimés, des protoscolex invaginés ou dévaginés ou même des vésicules-filles endogènes. Chez l'homme, les protoscolex sont rarement observés (_cf. photos_). Certains kystes ne comportent pas de scolex.
-
+À l'intérieur de l'hydatide, se trouve le liquide hydatique, eau de roche, constitué de produits de l'hôte dialysés à travers la cuticule externe, et de produits du métabolisme du parasite qui lui confèrent sa grande valeur antigénique. L'observation microscopique du culot de centrifugation de ce liquide permet de mettre en évidence, si le kyste est fertile, des crochets provenant de protoscolex abimés, des protoscolex invaginés ou dévaginés ou même des vésicules-filles endogènes. Chez l'homme, les protoscolex sont rarement observés (*cf. photos*). Certains kystes ne comportent pas de scolex.
 
 ![](i799-1.jpg)
 
 ![](i799-2.jpg)
-
 
 ## III. Les examens immunologiques
 
@@ -51,21 +49,21 @@ Le test de dégranulation des basophiles humains (TDBH) en présence d'antigène
 
 Elle reste l'étape essentielle du diagnostic.
 
-_Les réactions sérologiques sont_ nom_breuses_ : leur sensibilité et leur spécificité dépendent de la qualité de l'antigène utilisé. Les antigènes sont obtenus à partir d'hydatides fertiles de foies parasités. Leur purification et standardisation permettent d'augmenter la spécificité des réactions sérologiques.
+*Les réactions sérologiques sont* nom_breuses\_ : leur sensibilité et leur spécificité dépendent de la qualité de l'antigène utilisé. Les antigènes sont obtenus à partir d'hydatides fertiles de foies parasités. Leur purification et standardisation permettent d'augmenter la spécificité des réactions sérologiques.
 
 Les antigènes figurés correspondent aux protoscolex entiers ou à des coupes de scolex.
 
 Les antigènes solubles sont préparés à partir du liquide hydatique. Ils doivent être absolument purifiés pour éviter certaines réactions faussement positives (antigènes de l'hôte dans le liquide). En immunoélectrophorèse, vis-à-vis d'un immunsérum homologue, on observe au moins 10 arcs de précipitation dont l'arc remarquable ou arc 5 correspondant à la fraction antigénique spécifique 5.
 
-#### Les principales techniques sérologiques sont :
+#### Les principales techniques sérologiques sont
 
-*   **L'immunofluorescence indirecte** (IFI) simple de réalisation pour les laboratoires qui préparent leur antigène, elle est sensible dans les localisations hépatiques. Le seuil de positivité est au 1/100. Il existe des réactions croisées avec l'échinococcose à _E. multilocularis_ et la cysticercose. C'est l'une des rares techniques utilisant des antigènes figurés.  
-*   **L'agglutination** : des particules de latex sont recouvertes d'antigènes solubles. La méthode est très simple mais manque de spécificité.  
-*   **L'hémagglutination indirecte** : des hématies de mouton sont recouvertes d'antigènes solubles. La méthode est simple et disponible en kits. Sa sensibilité est bonne et le seuil de positivité est de 1/320. Ce test peut être positif dans d'autres helminthiases.  
-*   **L'immunoélectrophorèse** : elle permet de différencier les différents arcs de précipitation et la recherche de l'arc spécifique 5 pour le diagnostic de certitude d'échinococcose à _Echinococcus granulosus._ Cet arc 5 peut se voir dans la cysticercose ou dans l'échinococcose alvéolaire mais permet de poser le diagnostic dans plus de 90 % des hydatidoses hépatiques et 65 % des hydatidoses pulmonaires. L'inconvénient majeur de cette technique est la nécessité d'une grande quantité de sérum (au moins 1 ml).  
-*   **L'électrosynérèse** : elle remplace l'immunoélectrophorèse grâce à la quantité moindre de sérum à prélever et au délai de réalisation inférieur (quelques heures). Elle consiste en une précipitation sur acétate de cellulose entre le sérum à tester et un antisérum anti-arc 5.  
-*   L'**ELISA** : c'est une méthode immunoenzymatique. L'antigène spécifique est fixé sur un support solide. Si l'anticorps est présent dans le sérum à tester, il se forme un complexe immun par addition d'une antiglobuline humaine couplée à une enzyme. La lecture se fait par mesure de la densité optique à l'aide d'un spectrophotomètre. La réaction sera d'autant plus spécifique que l'antigène utilisé aura été parfaitement purifié (fragment 5).  
-*   Les **dosages d'IgE totales et spécifiques** : ils permettent de poser le diagnostic dans 60 % des cas. La sensibilité semble meilleure dans les localisations hépatiques.
+- **L'immunofluorescence indirecte** (IFI) simple de réalisation pour les laboratoires qui préparent leur antigène, elle est sensible dans les localisations hépatiques. Le seuil de positivité est au 1/100. Il existe des réactions croisées avec l'échinococcose à *E. multilocularis* et la cysticercose. C'est l'une des rares techniques utilisant des antigènes figurés.
+- **L'agglutination** : des particules de latex sont recouvertes d'antigènes solubles. La méthode est très simple mais manque de spécificité.
+- **L'hémagglutination indirecte** : des hématies de mouton sont recouvertes d'antigènes solubles. La méthode est simple et disponible en kits. Sa sensibilité est bonne et le seuil de positivité est de 1/320. Ce test peut être positif dans d'autres helminthiases.
+- **L'immunoélectrophorèse** : elle permet de différencier les différents arcs de précipitation et la recherche de l'arc spécifique 5 pour le diagnostic de certitude d'échinococcose à *Echinococcus granulosus.* Cet arc 5 peut se voir dans la cysticercose ou dans l'échinococcose alvéolaire mais permet de poser le diagnostic dans plus de 90 % des hydatidoses hépatiques et 65 % des hydatidoses pulmonaires. L'inconvénient majeur de cette technique est la nécessité d'une grande quantité de sérum (au moins 1 ml).
+- **L'électrosynérèse** : elle remplace l'immunoélectrophorèse grâce à la quantité moindre de sérum à prélever et au délai de réalisation inférieur (quelques heures). Elle consiste en une précipitation sur acétate de cellulose entre le sérum à tester et un antisérum anti-arc 5.
+- L'**ELISA** : c'est une méthode immunoenzymatique. L'antigène spécifique est fixé sur un support solide. Si l'anticorps est présent dans le sérum à tester, il se forme un complexe immun par addition d'une antiglobuline humaine couplée à une enzyme. La lecture se fait par mesure de la densité optique à l'aide d'un spectrophotomètre. La réaction sera d'autant plus spécifique que l'antigène utilisé aura été parfaitement purifié (fragment 5).
+- Les **dosages d'IgE totales et spécifiques** : ils permettent de poser le diagnostic dans 60 % des cas. La sensibilité semble meilleure dans les localisations hépatiques.
 
 ### 3. Discussion sur les techniques immuno-sérologiques
 
@@ -85,4 +83,4 @@ Suite au traitement chirurgical, la persistance d'un taux élevé des anticorps 
 
 En dehors d'examens d'orientation non spécifiques, les techniques sérologiques peuvent apporter des éléments diagnostiques dans un grand nombre de cas. Cependant le diagnostic de certitude repose sur l'anatomopathologie et la microscopie du liquide hydatique sur une pièce opératoire s'il y a lieu.
 
-_Développement et Santé, n° 137, octobre 1998_
+*Développement et Santé, n° 137, octobre 1998*

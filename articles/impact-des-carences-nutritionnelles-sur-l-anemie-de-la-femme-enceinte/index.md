@@ -35,11 +35,9 @@ Il est surtout préventif et doit permettre de ramener l'hémoglobine à un taux
 
 ### 1. Nécessité d'une éducation nutritionnelle
 
-Insister sur une alimentation équilibrée, la connaissance des facteurs capables d'affaiblir ou de favoriser l'absorption du fer contenu dans les aliments _(cf. tableau n°_ 1).
-
+Insister sur une alimentation équilibrée, la connaissance des facteurs capables d'affaiblir ou de favoriser l'absorption du fer contenu dans les aliments *(cf. tableau n°* 1).
 
 ![](i400-1.jpg)
-
 
 ### 2. Enrichissement en fer des aliments locaux
 
@@ -47,19 +45,15 @@ Céréales, sel, sucre, condiments par du sulfate ferreux. C'est la méthode la 
 
 ### 3. Supplémentation thérapeutique des femmes enceintes en fer, voire en vitamines B 12
 
-L'avantage de ce type de supplémentation est qu'il a un effet rapide sur les réserves en fer des populations à risque vues aux séances de PMI. L'efficacité peut être limitée par les problèmes d'intolérance digestive au fer observés dans un pourcentage non négligeable d'individus et le manque de motivation des bénéficiaires. Il est actuellement recommandé d'administrer 120 mg de fer élément (sous forme de sulfate ou de fumarate de fer) combiné avec 500 mg d'acide folique durant les quatre derniers mois de la grossesse _(cf. tableaux 2 et 3). Il_ faut, si possible, éviter de faire cette supplémentation trop tôt en raison des possibilités accrues d'intolérance digestive durant les premiers mois de la grossesse.
-
+L'avantage de ce type de supplémentation est qu'il a un effet rapide sur les réserves en fer des populations à risque vues aux séances de PMI. L'efficacité peut être limitée par les problèmes d'intolérance digestive au fer observés dans un pourcentage non négligeable d'individus et le manque de motivation des bénéficiaires. Il est actuellement recommandé d'administrer 120 mg de fer élément (sous forme de sulfate ou de fumarate de fer) combiné avec 500 mg d'acide folique durant les quatre derniers mois de la grossesse *(cf. tableaux 2 et 3). Il* faut, si possible, éviter de faire cette supplémentation trop tôt en raison des possibilités accrues d'intolérance digestive durant les premiers mois de la grossesse.
 
 ![](i400-2.jpg)
 
-
 Il faut aussi s'assurer que le traitement prescrit a été effectivement pris et au besoin le vérifier en recherchant sa conséquence: élévation du dosage de l'hémoglobine au bout d'un mois de traitement.
-
 
 ![](i400-3.jpg)
 
-
-### 4. Diagnostic et traitement des maladies **parasitaires et bactériennes**
+### 4. Diagnostic et traitement des maladies parasitaires et bactériennes
 
 Il est nécessaire de lutter contre le paludisme, les vers intestinaux, la bilharziose.... au cours de la grossesse.
 
@@ -69,4 +63,4 @@ La prévention de l'anémie de la femme enceinte permet à la fois de diminuer l
 
 Il est vrai qu'il n'est pas facile de mettre en place de telles actions du fait du coût et des problèmes logistiques qu'elles entraînent. D'où la nécessité de préciser les femmes les plus exposées pour lesquelles la supplémentation est indispensable, d'encourager l'espacement des naissances, de s'aider d'une bonne éducation sanitaire et surtout nutritionnelle.
 
-_Développement et Santé, n° 84 décembre 1989_
+*Développement et Santé, n° 84 décembre 1989*

@@ -9,17 +9,17 @@ date: "2000-02-02"
 Le prurit se définit comme une sensation conduisant à une envie irrésistible de se gratter.  
 Il s'agit d'un motif de consultation fréquent qui pose alors un double problème :
 
-*   d'une part, pour le patient en raison du caractère souvent inconfortable du prurit et du retentissement qu'il peut avoir sur la vie sociale et professionnelle, et
-*   d'autre part, pour le soignant car le prurit constitue un véritable signe d'appel pour de nombreuses pathologies de nature et de gravité extrêmement variables _(tableau n° 1_).
+- d'une part, pour le patient en raison du caractère souvent inconfortable du prurit et du retentissement qu'il peut avoir sur la vie sociale et professionnelle, et
+- d'autre part, pour le soignant car le prurit constitue un véritable signe d'appel pour de nombreuses pathologies de nature et de gravité extrêmement variables *(tableau n° 1*).
 
 Il appartient ainsi au soignant non seulement de mettre en oeuvre un traitement permettant d'apporter un soulagement rapide, mais également de savoir reconnaître la maladie causale parmi la multitude d'affections pouvant être à l'origine d'un prurit.
 
 Les mécanismes intimes conduisant au prurit restent mal connus mais sont probablement multifactoriels. Les causes du prurit sont néanmoins classées de façon schématique en 2 groupes principaux :
 
-*   les prurits secondaires à des maladies primitivement cutanées appelées "dermatoses prurigineuses",
-*   les prurits d'origine "interne" qui sont la conséquence de divers désordres métaboliques ou carentiels. Si cette classification est peut-être trop simpliste, elle a néanmoins le mérite de résumer la stratégie qui permettra d'aboutir à un diagnostic précis.
+- les prurits secondaires à des maladies primitivement cutanées appelées "dermatoses prurigineuses",
+- les prurits d'origine "interne" qui sont la conséquence de divers désordres métaboliques ou carentiels. Si cette classification est peut-être trop simpliste, elle a néanmoins le mérite de résumer la stratégie qui permettra d'aboutir à un diagnostic précis.
 
-Le texte suivant détaille - en 10 points - la conduite diagnostique et thérapeutique à tenir devant un prurit.  
+Le texte suivant détaille - en 10 points - la conduite diagnostique et thérapeutique à tenir devant un prurit.
 
 <table>
 <caption>Tableau n° 1. Principales pathologies pouvant être responsables de prurit</caption>
@@ -42,8 +42,8 @@ Il est généralement aisé d'affirmer l'existence d'un prurit à l'interrogatoi
 
 La reconnaissance du prurit peut être plus délicate chez les sujets difficilement interrogeables tels les enfants ou les sujets âgés.
 
-*   Chez le petit enfant ne pouvant se gratter, un prurit ne peut se traduire que par une agitation ou par le fait qu'il se frotte contre son lit.  
-*   Dans les autres cas, c'est la découverte de _lésions de grattage_ qui témoignera indirectement de l'existence d'un prurit. Ces lésions sont occasionnées par des traumatismes infligés à la peau par les ongles. Il s'agit typiquement de plaies, d'excoriations et de croûtes parfois surinfectées situées sur les zones facile à atteindre comme les bras, les jambes, la région lombaire ou les fesses, et épargnant, à l'inverse, les régions plus inaccessibles comme le dos.
+- Chez le petit enfant ne pouvant se gratter, un prurit ne peut se traduire que par une agitation ou par le fait qu'il se frotte contre son lit.
+- Dans les autres cas, c'est la découverte de *lésions de grattage* qui témoignera indirectement de l'existence d'un prurit. Ces lésions sont occasionnées par des traumatismes infligés à la peau par les ongles. Il s'agit typiquement de plaies, d'excoriations et de croûtes parfois surinfectées situées sur les zones facile à atteindre comme les bras, les jambes, la région lombaire ou les fesses, et épargnant, à l'inverse, les régions plus inaccessibles comme le dos.
 
 Les prurits persistants peuvent être à l'origine d'anomalies de la pigmentation, d'une perte de la pilosité, ou d'une modification des ongles devenant lisses et d'aspect polis. Au cours des prurits intenses et chroniques peut également apparaître une lichénification de la peau qui correspond à une forme particulière d'épaississement cutané. Lorsque les lésions de lichénification prennent un aspect nodulaire, on parle de prurigo. Ces lésions de lichénification sont, par ailleurs, elles-mêmes prurigineuses et contribuent de ce fait à l'entretien du prurit.
 
@@ -51,7 +51,7 @@ Les prurits persistants peuvent être à l'origine d'anomalies de la pigmentatio
 
 Face à un prurit, il est capital de faire préciser sa topographie afin de distinguer un prurit de caractère "localisé" d'un prurit de caractère "diffus". L'intérêt de cette distinction repose sur la grande valeur d'orientation qui peut découler de certaines topographies de prurits localisés.
 
-À ce titre, un prurit touchant le **cuir chevelu** est évocateur d'une **_pédiculose_** de la tête, d'une teigne, ou d'une dermite séborrhéique. Le prurit se localisant typiquement "en pèlerine" oriente vers une pédiculose du corps.
+À ce titre, un prurit touchant le **cuir chevelu** est évocateur d'une ***pédiculose*** de la tête, d'une teigne, ou d'une dermite séborrhéique. Le prurit se localisant typiquement "en pèlerine" oriente vers une pédiculose du corps.
 
 Un **prurit anal** doit faire penser à une oxyurose, une taeniase, une candidose voire à une dermite irritative. Le prurit génital ou vulvaire peut révéler une candidose génitale, une pédiculose du pubis, et chez la femme une trichomonase, une dyspiasie ou néoplasie de la vulve.
 
@@ -61,9 +61,9 @@ Une dyshidrose donne lieu a un prurit des mains, des pieds ou des deux.
 
 L'**eczéma de contact** est une réaction allergique se localisant à l'endroit d'un contact avec une substance étrangère telle un bijoux, un sparadrap, un médicament à application locale, ou de matériaux à usage professionnel.
 
-Un prurit affectant les **membres inférieurs** est évocateur de piqûres d'insectes ou d'une infestation par des ankylostomes (_larva migrans_).
+Un prurit affectant les **membres inférieurs** est évocateur de piqûres d'insectes ou d'une infestation par des ankylostomes (*larva migrans*).
 
-**Certaines pathologies s'accompagnent d'un prurit** qui ne reste pas limité à une région unique de la surface corporelle, mais qui concerne plusieurs localisations électives tout aussi caractéristiques. Au cours de la _gale,_ le prurit se localise avec préférence entre les doigts, au niveau des aisselles, dans l'aine et au niveau du scrotum. L'_onchocercose_ (gale filarienne) s'accompagne typiquement d'un prurit des lombes, des fesses et des cuisses. Le prurit rencontré au cours de la _loase_ siège avec prédilection au niveau des bras, du thorax et du visage. Enfin, la milaire sudorale (bourbouille) est responsable d'un prurit des zones de transpiration et notamment des creux axillaires.
+**Certaines pathologies s'accompagnent d'un prurit** qui ne reste pas limité à une région unique de la surface corporelle, mais qui concerne plusieurs localisations électives tout aussi caractéristiques. Au cours de la *gale,* le prurit se localise avec préférence entre les doigts, au niveau des aisselles, dans l'aine et au niveau du scrotum. L'*onchocercose* (gale filarienne) s'accompagne typiquement d'un prurit des lombes, des fesses et des cuisses. Le prurit rencontré au cours de la *loase* siège avec prédilection au niveau des bras, du thorax et du visage. Enfin, la milaire sudorale (bourbouille) est responsable d'un prurit des zones de transpiration et notamment des creux axillaires.
 
 ## III. Définir le mode évolutif du prurit
 
@@ -93,7 +93,7 @@ Enfin, un prurit survenant dans les suites d'un **effort physique** est égaleme
 
 La recherche de lésions cutanées est capitale lors de l'examen de tout sujet se plaignant d'un prurit. En effet, l'existence de lésions cutanées, autres que les lésions qui sont infligées par le grattage et qui n'ont pas de caractère de spécificité, fera suspecter fortement un prurit d'origine "cutané". Dans ce contexte, ce sera l'**analyse de la lésion élémentaire** qui permettra d'orienter vers la nature de la dermatose prurigineuse causale.
 
-À titre d'exemple, une **éruption vésiculeuse** oriente vers le diagnostic de varicelle si elle est diffuse, et vers une dermatophytie ou une dyshidrose si elle est localisée. La découverte de lésions d'**eczéma** évoque un eczéma de contact, une dermatite atopique ou une dermite irritative. La gale s'accompagne de sillons et de papules. L'existence de **papules** se rencontre également au cours de l'urticaire. La mise en évidence d'un **oedème** migrateur et fugace est évocateur de loase, et la présence de cordons sinueux mobiles de _larva migrans_. Les **lésions bulleuses** se rencontrent au cours de la pemphigoïde bulleuse ou d'autres dermatoses bulleuses auto-immunes. Enfin, une **érythrodermie** doit faire envisager le diagnostic de lymphome cutané tel le syndrome de Sézary ou le mycosis fongoïde.
+À titre d'exemple, une **éruption vésiculeuse** oriente vers le diagnostic de varicelle si elle est diffuse, et vers une dermatophytie ou une dyshidrose si elle est localisée. La découverte de lésions d'**eczéma** évoque un eczéma de contact, une dermatite atopique ou une dermite irritative. La gale s'accompagne de sillons et de papules. L'existence de **papules** se rencontre également au cours de l'urticaire. La mise en évidence d'un **oedème** migrateur et fugace est évocateur de loase, et la présence de cordons sinueux mobiles de *larva migrans*. Les **lésions bulleuses** se rencontrent au cours de la pemphigoïde bulleuse ou d'autres dermatoses bulleuses auto-immunes. Enfin, une **érythrodermie** doit faire envisager le diagnostic de lymphome cutané tel le syndrome de Sézary ou le mycosis fongoïde.
 
 ## VII. Rechercher l'existence de signes cliniques extracutanés
 
@@ -105,11 +105,11 @@ Le recours à la réalisation d'examens complémentaires ne doit pas être syst�
 
 Une **biopsie cutanée** peut être nécessaire pour diagnostiquer avec certitude certaines dermatoses comme les dermatoses bulleuses ou les lymphomes cutanés.
 
-Les **examens sanguins** (hémogramme, créatininémie, bilan hépatique complet, glycémie, hormones thyroïdiennes) visent à rechercher les causes "internes" le plus fréquemment reconnues comme étant pruritogènes : l'insuffisance rénale chronique, la choléstase, les lymphomes ou autres hémopathies malignes, les néoplasies solides, la carence martiale, ou encore des endocrinopathies comme l'hypothyroïdie, l'hyperthyroïdie ou le diabète. Le diagnostic de filariose est affirmé par la recherche de microfilaires dans le sang (loase) ou dans une biopsie cutanée (onchocercose). Le sérodiagnostic permet de déceler une infection par le VIH qui peut également être source du prurit. Certaines parasitoses intestinales (anguillulose, _larva migrans_) peuvent s'accompagner d'un prurit lors de la phase d'invasion et seront évoquées en cas d'hyperéosinophilie ; le diagnostic reposera alors sur des tests sérologiques ou un examen parasitologique des selles. La recherche d'adénopathies évocatrices d'un lymphome peut être utilement complété par une radiographie pulmonaire et, si possible, une échographie de l'abdomen.
+Les **examens sanguins** (hémogramme, créatininémie, bilan hépatique complet, glycémie, hormones thyroïdiennes) visent à rechercher les causes "internes" le plus fréquemment reconnues comme étant pruritogènes : l'insuffisance rénale chronique, la choléstase, les lymphomes ou autres hémopathies malignes, les néoplasies solides, la carence martiale, ou encore des endocrinopathies comme l'hypothyroïdie, l'hyperthyroïdie ou le diabète. Le diagnostic de filariose est affirmé par la recherche de microfilaires dans le sang (loase) ou dans une biopsie cutanée (onchocercose). Le sérodiagnostic permet de déceler une infection par le VIH qui peut également être source du prurit. Certaines parasitoses intestinales (anguillulose, *larva migrans*) peuvent s'accompagner d'un prurit lors de la phase d'invasion et seront évoquées en cas d'hyperéosinophilie ; le diagnostic reposera alors sur des tests sérologiques ou un examen parasitologique des selles. La recherche d'adénopathies évocatrices d'un lymphome peut être utilement complété par une radiographie pulmonaire et, si possible, une échographie de l'abdomen.
 
 ## IX. Retenir un diagnostic étiologique
 
-Au terme des étapes précédentes, il s'agit de reconnaître une maladie causale du prurit. En dehors des situations où l'étiologie du prurit apparaît d'emblée, la conduite diagnostique doit s'appuyer sur une approche systématique qui est illustrée dans le _tableau n° 2._ Cet algorithme diagnostique repose sur la distinction du caractère localisé ou diffus du prurit et sur la présence ou non de lésions cutanées autres que les lésions de grattage.
+Au terme des étapes précédentes, il s'agit de reconnaître une maladie causale du prurit. En dehors des situations où l'étiologie du prurit apparaît d'emblée, la conduite diagnostique doit s'appuyer sur une approche systématique qui est illustrée dans le *tableau n° 2.* Cet algorithme diagnostique repose sur la distinction du caractère localisé ou diffus du prurit et sur la présence ou non de lésions cutanées autres que les lésions de grattage.
 
 Face à un **prurit localisé**, l'orientation diagnostique est très largement guidée par le siège électif du prurit. Le diagnostic des prurits diffus secondaires à une affection dermatologique prurigineuse, est guidé par la nature des lésions cutanées élémentaires retrouvées.
 
@@ -117,9 +117,7 @@ Le problème diagnostique le plus délicat est représenté par le **prurit diff
 
 **Tableau n° 2. Arbre décisionnel diagnostique devant un prurit**
 
-
 ![](i867-1.jpg)
-
 
 ## X. Prescrire un traitement
 
@@ -129,4 +127,4 @@ En l'absence de diagnostic précis ou dans les situations où la cause du prurit
 
 L'intérêt des antidépresseurs et des médicaments sédatifs a été soulevé mais est plus aléatoire. En l'absence de traitement symptomatique constamment efficace, ce sont les autres mesures qui prennent toute leur importance. Certaines pommades ont un effet apaisant le prurit. En cas de sécheresse cutanée, qui peut accentuer le prurit, on préconise d'utiliser un savon émollient ou un corps gras. En revanche, les toilettes trop fréquentes avec des savons détergents sont déconseillées. L'application locale de cortisone est également à proscrire, en dehors de quelques indications bien précises, en raison des nombreux effets indésirables des dermocorticoïdes. Enfin, les ongles doivent être coupés courts afin de réduire les lésions cutanées dues au grattage.
 
-_Développement et Santé, n° 145, février 2000_
+*Développement et Santé, n° 145, février 2000*

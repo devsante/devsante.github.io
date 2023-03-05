@@ -6,17 +6,15 @@ date: "2006-03-16"
 
 <div class="teaser"><p>La pronation douloureuse est une urgence pédiatrique fréquente et bénigne qu'il faut connaître pour y penser le jour venu. Bien des attentes inutiles et des radiographies super­flues peuvent ainsi être évitées.</p></div>
 
-## **I. Mécanisme et lésion**
+## I. Mécanisme et lésion
 
 Un traumatisme mineur est toujours à l'origi­ne de la pronation douloureuse. C'est une traction un peu brusque sur la main alors que le coude est en extension et que l'avant-bras, la main, sont en pronation.
 
 Le ligament annulaire qui fait le tour de la tête radiale reste inséré par ses deux extrémités au cubitus mais il se détache partiellement du radius : il peut alors remonter et s'interposer entre la tête radiale et le condyle huméral. Tant que le ligament annulaire n'a pas repris sa place normale, la pronation reste douloureuse.
 
-
 ![](12021-1.jpg)
 
-
-## **II. Tableau clinique**
+## II. Tableau clinique
 
 Un jeune enfant arrive aux urgences : il a (ou elle a, car c'est plus souvent une fille qu'un garçon) entre 2 et 4 ans, encore que ces limites d'âge ne soient pas strictes. Il est cependant exceptionnel de voir un enfant de plus de 5 ans ou de moins de 1 an avec une pronation douloureuse.
 
@@ -30,13 +28,11 @@ Tout ceci rend peu probable une frac­ture ou une infection osseuse ou articulai
 
 Une radiographie ne montrerait rien d'anor­mal. Elle n'est utile que si l'on garde un doute d'une fracture tassement du radius distal, ou d'une fracture sans déplacement des dia­physes de l'avant-bras.
 
-
 ![](12021-3.jpg)
 
 ![](12021-6.jpg)
 
-
-## **III. Le traitement**
+## III. Le traitement
 
 Il est très simple, mais un peu douloureux. Comme le succès n'est pas toujours acquis dès la première tentative de réduction, il est sage de faire inhaler à l'enfant quelques bouffées d'Antonox.
 
@@ -47,4 +43,4 @@ Il faut donc garder l'enfant quelques 10 à 15 minutes dans la salle d'attente a
 
 C'est uniquement dans les cas de récidives multiples, prouvant une certaine instabilité du ligament annulaire qu'une immobilisation du coude à angle droit par une écharpe ou une attelle plâtrée pendant 2 à 3 semaines est justifiée.
 
-_Développement et santé, n°184, 2006_
+*Développement et santé, n°184, 2006*

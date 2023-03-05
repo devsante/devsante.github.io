@@ -7,9 +7,7 @@ date: "2008-07-02"
 
 En Afrique subsaha­rienne, où le problème se pose avec le plus d'acuité, le paludisme provoque 3 000 décès d'enfants de moins de cinq ans par jour. L'exemple suivant illustre comment la lutte anti­paludique s'organise dans un village africain.
 
-
 ![](image002.jpg)
-
 
 Le district de Podor - dans une zone reculée au centre-nord du pays - est l'un des plus durement touchés du Sénégal. Dans la cha­leur et la poussière de Diaba, un village du district, le paludisme est omniprésent, sur­tout pendant la saison des pluies. Une voiture arrive au village et les enfants se pressent pour l'accueillir. Ils savent que se trouve à bord quelqu'un qu'ils connaissent bien.
 
@@ -25,10 +23,10 @@ Ce soir, au village, les gens chanteront et danseront. Ils remercieront Oumoul d
 
 **Dossier paludisme - Sénégal**
 
-*   Population totale (2003) : 10 095000*
-*   Nombre total de cas signalés (2000) : 1 120094
-*   Nombre total de décès signalés dus au paludisme (2000) : 1337
-*   Parasite : principalement Plasmodium falciparum, l'espèce la plus mortelle.  
-*   Transmission : dans l'ensemble du pays - le nombre de décès de jeunes enfants par palu­disme est une préoccupation majeure.
+- Population totale (2003) : 10 095000\*
+- Nombre total de cas signalés (2000) : 1 120094
+- Nombre total de décès signalés dus au paludisme (2000) : 1337
+- Parasite : principalement Plasmodium falciparum, l'espèce la plus mortelle.
+- Transmission : dans l'ensemble du pays - le nombre de décès de jeunes enfants par palu­disme est une préoccupation majeure.
 
-_"Source : OMS/Bureau régional de l Afrique - Rapport sur la santé dans le monde, 2005._
+*"Source : OMS/Bureau régional de l Afrique - Rapport sur la santé dans le monde, 2005.*

@@ -16,4 +16,4 @@ Beaucoup de sujets n’osent pas réaliser les tests. Or, on sait (aux USA) qu�
 Enfin, il est capital qu’un sujet séropositif soit pris en charge médicalement et psychologiquement. Quelle souffrance éprouvera celui qui se découvre séropositif, gardant pour lui son secret !  
 On voit donc pourquoi ce progrès peut être à double tranchant !
 
-_Référence : FDA, juin 2012_
+*Référence : FDA, juin 2012*

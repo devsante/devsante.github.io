@@ -12,8 +12,8 @@ Le diabète est une maladie où interviennent des facteurs génétiques (dont le
 
 **On distingue 2 types de diabète :**
 
-*   **le diabète de type 1**, ou diabète insulinodépendant : il apparaît généralement au cours de l'enfance, est dû à la destruction des cellules pancréatiques qui fabriquent l'insuline, hormone hypoglycémiante ;
-*   **le diabète de type 2**, ou diabète non insulinodépendant (DNID), est de loin le plus fréquent. Il se manifeste après l'âge de 40 ans et se caractérise par deux anomalies une déficience en insuline et une résistance à l'insuline. Il s'accompagne d'une obésité dans 60%  des cas.
+- **le diabète de type 1**, ou diabète insulinodépendant : il apparaît généralement au cours de l'enfance, est dû à la destruction des cellules pancréatiques qui fabriquent l'insuline, hormone hypoglycémiante ;
+- **le diabète de type 2**, ou diabète non insulinodépendant (DNID), est de loin le plus fréquent. Il se manifeste après l'âge de 40 ans et se caractérise par deux anomalies une déficience en insuline et une résistance à l'insuline. Il s'accompagne d'une obésité dans 60%  des cas.
 
 **Les causes de la progression du diabète de type 2**  
 Le diabète a été longtemps perçu comme une fatalité alors qu'il n'est, pour l'essentiel, que l'une des conséquences d'un mode de vie caractérisé par une sédentarité (avec faible activité physique) associée à des apports caloriques trop importants.

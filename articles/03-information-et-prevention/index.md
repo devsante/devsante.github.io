@@ -75,7 +75,7 @@ Les élèves pourraient être testées par exemple sur des causeries qu'elles an
 
 Quel que soit le moyen utilisé, on s'efforcera de choisir un thème unique (nutrition, ou vaccination, ou hygiène de l'eau) en langue locale, avec des mots simples, précis, non techniques. Il est bon de préparer un slogan qui, répété, prolongera l'exposé.
 
-_a). La parole est le moyen de première ligne_ parce qu'elle ne coûte rien, peut être utilisée par tous et en tous lieux. Parler peut se faire au cours d'une causerie (au village, sur un marché, dans l'hôpital) après avoir réunir au tam-tam les auditeurs concernés.  
+*a). La parole est le moyen de première ligne* parce qu'elle ne coûte rien, peut être utilisée par tous et en tous lieux. Parler peut se faire au cours d'une causerie (au village, sur un marché, dans l'hôpital) après avoir réunir au tam-tam les auditeurs concernés.  
 La causerie comprend, en règle générale, un exposé et une discussion.  
 L'animateur doit susciter les questions et y répondre, Un changement d'habitudes se justifie.  
 Par exemple il arrive que, pendant la rougeoie, certains déconseillent la prise d'oeuf et de boisson. Il est facile de faire valoir que l'oeuf est un aliment riche en protides apportant de la force à un organisme faible.  
@@ -83,23 +83,23 @@ Sa consistance semi-liquide le rend plus facile à avaler compte tenu de la stom
 L'apport de boissons combat la perte d'eau due à la fièvre et à la diarrhée.  
 Lorsque vous donnez un conseil de prévention à une personnes, demandez-lui de bien vouloir le répéter à une voisine qui devra le répéter elle-même, et ainsi de suite... Vous reprenez ainsi le mécanisme de la "rumeur", au profit du message que vous voulez faire passer.
 
-b) _La radio_ est un des plus puissants moyens actuels d'information. Grâce au transistor, elle touche dans le même moment presque toute la population, quels que soient son âge et sa répartition géographique. Ici encore, on peut proposer chaque mois un thème donné développé par un infirmier ou un médecin, et chaque jour un bref slogan résumant l'émission.  
+b\) *La radio* est un des plus puissants moyens actuels d'information. Grâce au transistor, elle touche dans le même moment presque toute la population, quels que soient son âge et sa répartition géographique. Ici encore, on peut proposer chaque mois un thème donné développé par un infirmier ou un médecin, et chaque jour un bref slogan résumant l'émission.  
 Une "table ronde" peut réunir toutes les personnes qui, dans l'administration ou le corps de santé, veulent changer l'état sanitaire de la population,
 
-c) _Les dessins ou affiches_ sur papier peuvent compléter l'information et aider à fixer une idée force. Vous pouvez demander à l'artiste du village de faire une peinture sur bois (par exemple les éléments utiles de l'alimentation du bébé). De même, on peut utiliser un flanellographe : il s'agit d'un panneau sur lequel il est possible de fixer des figurines de feutre.
+c\) *Les dessins ou affiches* sur papier peuvent compléter l'information et aider à fixer une idée force. Vous pouvez demander à l'artiste du village de faire une peinture sur bois (par exemple les éléments utiles de l'alimentation du bébé). De même, on peut utiliser un flanellographe : il s'agit d'un panneau sur lequel il est possible de fixer des figurines de feutre.
 
-d) Pourquoi ne pas demander aux étudiants ou à des artistes de monter de _petites pièces de_ _théâtre,_ sur un sujet de prévention. Le spectacle frappe davantage les esprits qu'une causerie et les villageois ou les habitants du quartier peuvent y participer.
+d\) Pourquoi ne pas demander aux étudiants ou à des artistes de monter de *petites pièces de* *théâtre,* sur un sujet de prévention. Le spectacle frappe davantage les esprits qu'une causerie et les villageois ou les habitants du quartier peuvent y participer.
 
-e) _La cassette et les petits magnétophones_ _portatifs_ sont répandus dans les régions les plus isolées. Vous pouvez utiliser une face pour parler de la malnutrition, l'autre pour évoquer les soins habituels à donner aux enfants. L'enregistrement en langue locale peut être rendu plus attrayant et vécu en interrogeant une maman dont, par exemple, vous avez guéri l'enfant d'un marasme ou d'un kwashiorkor. On peut intercaler un peu de musique. Il est préférable de rester auprès des mères pendant et après l'écoute pour répondre aux questions et commenter. Si vous n'êtes pas originaire de la région, vous faites un texte qui est traduit et enregistré.  
+e\) *La cassette et les petits magnétophones* *portatifs* sont répandus dans les régions les plus isolées. Vous pouvez utiliser une face pour parler de la malnutrition, l'autre pour évoquer les soins habituels à donner aux enfants. L'enregistrement en langue locale peut être rendu plus attrayant et vécu en interrogeant une maman dont, par exemple, vous avez guéri l'enfant d'un marasme ou d'un kwashiorkor. On peut intercaler un peu de musique. Il est préférable de rester auprès des mères pendant et après l'écoute pour répondre aux questions et commenter. Si vous n'êtes pas originaire de la région, vous faites un texte qui est traduit et enregistré.  
 On peut demander à une personne non spécialisée, mais motivée, de faire passer cet enregistrement dans les villages éloignés du centre médical où l'on travaille. Il est recommandé de doubler la cassette, qui peut se casser ou se coller. Il est aussi possible de coupler un tel enregistrement avec une projection de diapositives qui explicitent le texte.
 
-f) Il existe des _films de cinéma,_ traitant de la prévention. On les trouve dans les centres culturels. Leur inconvénient est double : ils ne sont pas en langue locale et demandent un matériel lourd.
+f\) Il existe des *films de cinéma,* traitant de la prévention. On les trouve dans les centres culturels. Leur inconvénient est double : ils ne sont pas en langue locale et demandent un matériel lourd.
 
-g) _La télévision_ ajoute l'image à la parole. Son effet de fascination en fait dès à présent un excellent moyen.  
+g\) *La télévision* ajoute l'image à la parole. Son effet de fascination en fait dès à présent un excellent moyen.  
 Pour l'avenir, le "magnétoscope" (enregistrement de cassettes télévisées) doit bouleverser l'accès aux connaissances.
 
 **CONCLUSION**
 
 Quels que soient les moyens à votre disposition, chacun peut faire, à son niveau, de la prévention. Contrairement à la médecine curative, la prévention peut se faire sans argent. Vous devez informer en premier les enfants, qui sont les plus réceptifs. Hygiène et médecine étant pris comme un ensemble, vous obtiendrez une baisse du nombre d'hospitalisations et de la mortalité infantile.
 
-_Développement et Santé, n° 4 et 29_
+*Développement et Santé, n° 4 et 29*

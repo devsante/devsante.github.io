@@ -8,22 +8,22 @@ date: "1998-02-17"
 
 Ces nouveaux antibiotiques ont tous en commun d'être :
 
-*   rapidement bactéricides,
-*   efficaces sur les bacilles Gram (-), les aérobies, les staphylocoques, les bacilles Gram (+),
-*   _sans action_ sur le pneumocoque, le streptocoque, le méningocoque,
-*   synergiques avec les bétalactamines et les quinolones dont ils renforcent l'action.
+- rapidement bactéricides,
+- efficaces sur les bacilles Gram (-), les aérobies, les staphylocoques, les bacilles Gram (+),
+- *sans action* sur le pneumocoque, le streptocoque, le méningocoque,
+- synergiques avec les bétalactamines et les quinolones dont ils renforcent l'action.
 
 Leurs défauts sont :
 
-*   de ne pas être absorbés par l'intestin : l'administration ne peut être qu'intramusculaire ou intraveineuse,
-*   de mal diffuser dans l'organisme (pas de pénétration méningée en particulier),
-*   d'être toxique au niveau des reins et de l'oreille (risque de surdité).
+- de ne pas être absorbés par l'intestin : l'administration ne peut être qu'intramusculaire ou intraveineuse,
+- de mal diffuser dans l'organisme (pas de pénétration méningée en particulier),
+- d'être toxique au niveau des reins et de l'oreille (risque de surdité).
 
 On voit' donc que leurs indications sont très différentes des pénicillines. Ils rendent d'inestimables services dans les infections urinaires, les péritonites, les infections gynécologiques. On les associe souvent aux pénicillines dans les infections graves (septicémies par exemple). Il serait, par contre, illogique de les utiliser dans une pneumonie, une angine, une otite, voire une typhoïde.
 
 Dernière qualité, et non la moindre : ils sont en général d'un prix modique.
 
-## I. Activité _in vitro_
+## I. Activité *in vitro*
 
 À l'exception de la streptomycine réservée à la tuberculose, ils ont tous le même spectre d'action, essentiellement les germes Gram négatifs :
 
@@ -101,7 +101,7 @@ Pyocyanique
 
 Les aminosides diffusent mal dans l'organisme et s'éliminent en grande partie par le rein.
 
-Administrés par voie parentérale, ils ne traversent pas le tube digestif : ils sont donc inefficaces dans la typhoïde et les salmonelles où les germes sont dans la lumière intestinale (alors que, _in vitro,_ ils sont bactéricides sur ces germes). Certains préconisent une injection par jour.
+Administrés par voie parentérale, ils ne traversent pas le tube digestif : ils sont donc inefficaces dans la typhoïde et les salmonelles où les germes sont dans la lumière intestinale (alors que, *in vitro,* ils sont bactéricides sur ces germes). Certains préconisent une injection par jour.
 
 Leur demi-vie est d'environ deux heures : il faut donc idéalement deux injections par jour (la demi-vie est considérablement augmentée en cas d'insuffisance rénale : il faut alors espacer les injections).
 
@@ -177,21 +177,21 @@ Nétilmicine
 
 L'atteinte vestibulaire précède en général l'atteinte cochléaire. Elle se traduit par :
 
-*   vertiges,
-*   ataxie (troubles de l'équilibre),
-*   nystagmus (mouvements pendulaires des yeux),
+- vertiges,
+- ataxie (troubles de l'équilibre),
+- nystagmus (mouvements pendulaires des yeux),
 
 le plus souvent régressifs.
 
-L'atteinte cochléaire est plus grave : parfois précédée d'acouphènes, elle se remarque par une perte brutale de l'acuité auditive, uni- ou bilatérale qui est _irréversible et incurable._
+L'atteinte cochléaire est plus grave : parfois précédée d'acouphènes, elle se remarque par une perte brutale de l'acuité auditive, uni- ou bilatérale qui est *irréversible et incurable.*
 
 De tels accidents se voient en cas :
 
-*   de dose quotidienne élevée,
-*   de traitement prolongé plus de dix jours,
-*   de traitement antérieur par les aminosides (accumulation),
-*   d'insuffisance rénale,
-*   d'âge avancé.
+- de dose quotidienne élevée,
+- de traitement prolongé plus de dix jours,
+- de traitement antérieur par les aminosides (accumulation),
+- d'insuffisance rénale,
+- d'âge avancé.
 
 Certaines gouttes auriculaires contenant des aminosides ont provoqué de tels accidents.
 
@@ -199,25 +199,25 @@ Certaines gouttes auriculaires contenant des aminosides ont provoqué de tels ac
 
 L'atteinte rénale se traduit de façon diverse :
 
-*   protéinurie,
-*   leucocyturie,
-*   insuffisance rénale aiguë à diurèse conservée.
+- protéinurie,
+- leucocyturie,
+- insuffisance rénale aiguë à diurèse conservée.
 
 Elles sont toujours insidieuses : il faut donc surveiller systématiquement les urines (protéinurie, leucocyturie).
 
 De tels accidents se rencontrent :
 
-*   surtout chez le sujet âgé,
-*   quand le traitement dépasse dix jours,
-*   si les doses sont élevées.
+- surtout chez le sujet âgé,
+- quand le traitement dépasse dix jours,
+- si les doses sont élevées.
 
 ## VI. Les grandes indications
 
-*   septicémie à Gram (-) : (en association avec une bêtalactamine). En particulier chez l'immunodéprimé (sida),
-*   pyélonéphrite,
-*   péritonite,
-*   les infections postopératoires (en chirurgie abdominale et pelvienne),
-*   les infections graves à staphylocoque, en association avec la pénicilline M.
+- septicémie à Gram (-) : (en association avec une bêtalactamine). En particulier chez l'immunodéprimé (sida),
+- pyélonéphrite,
+- péritonite,
+- les infections postopératoires (en chirurgie abdominale et pelvienne),
+- les infections graves à staphylocoque, en association avec la pénicilline M.
 
 **Conclusion**
 
@@ -231,4 +231,4 @@ Enfin, il faut savoir les arrêter rapidement (cinq à six jours) par crainte de
 
 N.B. La gentamycine fait partie des médicaments essentiels.
 
-_Développement et Santé, n° 133, février 1998_
+*Développement et Santé, n° 133, février 1998*

@@ -6,23 +6,23 @@ date: "1997-06-04"
 
 La résistance des bactéries aux antibiotiques est un problème majeur de santé publique qui nous concerne tous,
 
-- tant à _l'hôpital_ où les germes résistants (staphylocoques, procyaniques) sont responsables d'infections nosocomiales qui entraînent des milliers de morts (surtout chez les opérés) dans le monde ;
+- tant à *l'hôpital* où les germes résistants (staphylocoques, procyaniques) sont responsables d'infections nosocomiales qui entraînent des milliers de morts (surtout chez les opérés) dans le monde ;
 
-- qu'au _dispensaire_ où les germes provoquent otites, infections urinaires, pneumonies, diarrhées sont de plus en plus résistants aux antibiotiques.
+- qu'au *dispensaire* où les germes provoquent otites, infections urinaires, pneumonies, diarrhées sont de plus en plus résistants aux antibiotiques.
 
 Cette situation de plus en plus grave, nécessitant des antibiotiques de plus en plus chers a de multiples causes :
 
-*   **L'antibiothérapie galvaudée :** (automédication, médicaments périmés), joue une place importante.
+- **L'antibiothérapie galvaudée :** (automédication, médicaments périmés), joue une place importante.
 
-*   **Le non-respect de l'hygiène** (lavage des mains) tient aussi une place majeure.
+- **Le non-respect de l'hygiène** (lavage des mains) tient aussi une place majeure.
 
 La diffusion d'une souche résistante va se faire de proche en proche, touchant par exemple un dispensaire, une salle d'opération, un village, voire un pays.
 
 En pratique ce phénomène a deux conséquences incontournables :
 
-- L'application des _règles d'hygiène_ qui sont l'affaire de tous
+- L'application des *règles d'hygiène* qui sont l'affaire de tous
 
-- La réalisation d'antibiogrammes dès qu'un germe est " repéré " un peu trop souvent dans les plaies, les coprocultures, les ECBU, voire les hémocultures : chacun doit avoir son expérience _locale_ et ne pas se fier aux dires du laboratoire pharmaceutique ou de la presse internationale !
+- La réalisation d'antibiogrammes dès qu'un germe est " repéré " un peu trop souvent dans les plaies, les coprocultures, les ECBU, voire les hémocultures : chacun doit avoir son expérience *locale* et ne pas se fier aux dires du laboratoire pharmaceutique ou de la presse internationale !
 
 Nous ne pouvons ici énumérer tous les germes pathogènes et leur résistance aux antibiotiques.
 
@@ -42,7 +42,7 @@ Nous citerons, par contre, ceux qui sont des exemples et qui font modifier notre
 
 - **Shigelle :** si en Europe, l'amoxicilline est efficace, en Asie il faut traiter d'emblée par les quinolones (Négram®). En Afrique, le Bactrim®) est inconstamment efficace.
 
-Les formes sévères peuvent relever des céphalosporines de troisième génération (cf. _tableau)._
+Les formes sévères peuvent relever des céphalosporines de troisième génération (cf. *tableau).*
 
 **Tableau. Sensibilité des shigelles (Bangladesh 1996)**
 
@@ -150,6 +150,6 @@ Devant la gravité de la méningite, il faut d'emblée traiter par ampicilline +
 
 En pratique chez l'enfant, l'amoxicilline à la dose de 100 mg/kg (en trois prises) est l'attitude la plus rentable. En cas d'échec, le recours aux céphalosporines de troisième génération est nécessaire. Si une méningite à pneumocoque résistant survient, l'association vancomycine-céphalosporine de troisième génération est le dernier recours.
 
-Pour le pneumocoque, comme pour les autres germes, il est nécessaire que chaque pays établisse un réseau _de surveillance des_ _germes_ qui, en fonction des résultats des antibiogrammes conseillera l'antibiotique le plus efficace et le moins cher.
+Pour le pneumocoque, comme pour les autres germes, il est nécessaire que chaque pays établisse un réseau *de surveillance des* *germes* qui, en fonction des résultats des antibiogrammes conseillera l'antibiotique le plus efficace et le moins cher.
 
-_Développement et Santé, n° 129, juin 1997_
+*Développement et Santé, n° 129, juin 1997*

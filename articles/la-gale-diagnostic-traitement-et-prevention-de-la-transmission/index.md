@@ -8,11 +8,9 @@ date: "2002-08-09"
 
 ## I. Le parasite
 
-
 ![](i725-1.jpg)
 
-
-_Sarcoptes scabiei_ est un acarien, parasite humain obligatoire, qui vit dans la couche cornée de l'épiderme. La femelle adulte mesure 0,4 mm de long, le mâle 0,1 à 0,2 mm. Le parasite est peu visible à l'oeil nu, il est gris, translucide. Il a la tête soudée au thorax et il est muni de 4 paires de pattes, permettant son déplacement sur l'épiderme. Après fécondation, la femelle creuse un sillon où elle dépose ses oeufs. Elle pond 40 à 50 oeufs durant sa vie qui dure 4 à 6 semaines, en restant dans le même sillon. Les larves éclosent après 3 à 4 jours, sortent du sillon, se transforment en nymphes et puis en parasites adultes en 10 jours. Le sarcopte adulte ne survit que 24 à 36 heures en dehors de son hôte à température ambiante alors que les oeufs vivent au moins 10 jours.
+*Sarcoptes scabiei* est un acarien, parasite humain obligatoire, qui vit dans la couche cornée de l'épiderme. La femelle adulte mesure 0,4 mm de long, le mâle 0,1 à 0,2 mm. Le parasite est peu visible à l'oeil nu, il est gris, translucide. Il a la tête soudée au thorax et il est muni de 4 paires de pattes, permettant son déplacement sur l'épiderme. Après fécondation, la femelle creuse un sillon où elle dépose ses oeufs. Elle pond 40 à 50 oeufs durant sa vie qui dure 4 à 6 semaines, en restant dans le même sillon. Les larves éclosent après 3 à 4 jours, sortent du sillon, se transforment en nymphes et puis en parasites adultes en 10 jours. Le sarcopte adulte ne survit que 24 à 36 heures en dehors de son hôte à température ambiante alors que les oeufs vivent au moins 10 jours.
 
 L'infestation résulte de la transmission de la femelle adulte fécondée, très rarement de formes parasitaires immatures.
 
@@ -34,9 +32,7 @@ L'incubation est de 3 semaines, mais elle peut être limitée à 1 à 3 jours en
 
 Le parasite femelle creuse dans l'épiderme une galerie formant un sillon superficiel, appelé sillon scabieux, long de 0,5 à 3 cm, portant à l'une des extrémités une surélévation de la taille d'une tête d'épingle correspondant à l'acarien. Les lésions touchent les espaces interdigitaux des mains (vésicules perlées), la face antérieure des poignets, les coudes, les aisselles, les plis inguinaux, la région ombilicale, les fesses, la face interne des cuisses et les seins. Ces lésions spécifiques peuvent manquer. Les lésions secondaires non spécifiques sont plus fréquentes : stries de grattage, papules excoriées, eczématisation, impétigo.
 
-
 ![](i725-2.jpg)
-
 
 ### 2. Chez le nourrisson
 
@@ -58,17 +54,13 @@ Des formes de gale croûteuse sont aussi rencontrées, non seulement chez des pa
 
 Une personne non immunodéprimée, en contact avec un patient atteint de gale croûteuse, développera une gale commune. Ceci peut survenir entre autre chez le personnel hospitalier.
 
-
 ![](i725-3.jpg)
-
 
 ## IV. Le diagnostic
 
 Le diagnostic essentiellement clinique est souvent difficile. Le prurit, la notion de contage, et l'emplacement des lésions sont les éléments majeurs du diagnostic de gale commune.
 
-
 ![](i725-4.jpg)
-
 
 Dans les formes cliniques atypiques et/ou en l'absence de contexte épidémique évocateur, l'examen parasitologique au laboratoire pour mettre en évidence le parasite, répété si nécessaire, est la référence : un grattage à la curette ou au vaccinostyle, sur plusieurs sites, sillon, papule, nodule, permet de recueillir des sérosités ou des squames, que l'on dépose entre lame et lamelle pour examen microscopique. Les sarcoptes adultes, les oeufs et les larves, peuvent ainsi être repérés. Des résultats faussement négatifs sont fréquents quand les lésions ont été grattées. Il ne faut pas craindre de répéter l'examen plusieurs fois.
 
@@ -124,4 +116,4 @@ Il est nécessaire d'informer de façon précise le patient, le personnel et les
 
 La gale est une affection très contagieuse, peu grave, mais souvent mal vécue et ressentie à tort comme une maladie honteuse. Il existe des formes atypiques dont le diagnostic est difficile. Pour l'ensemble de ces raisons les épidémies se déclarent souvent du fait d'un retard au diagnostic. L'information est très importante, aussi bien dans le milieu familial que dans les collectivités. L'éradication passe par une prise en charge correcte, avec traitement de toutes les personnes susceptibles d'être contaminées et la désinfection de l'environnement proche.
 
-_Développement et Santé, n°160, août 2002_
+*Développement et Santé, n°160, août 2002*

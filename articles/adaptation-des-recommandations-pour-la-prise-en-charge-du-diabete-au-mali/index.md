@@ -14,9 +14,9 @@ De nombreux pays africains - on a vu l'exemple de la décentralisation des soins
 
 La **première phase** de la prise en charge des patients diabétiques maliens est l'adoption de mesures hygiéno-diététiques. Les conseils diété­tiques posent de nombreux problèmes au Mali. Cette partie fera l'objet d'un article complet, mais on peut cependant citer dès maintenant certaines difficultés :
 
-*   la prise de repas au "plat commun" : l'alimentation se faisant le plus souvent à la main, il est dif­ficile de quantifier les portions ingérées ;
-*   la faible proportion de légumes et de crudités ;
-*   la très importante consommation d'huile, de sel et de sucres simples ajoutés aux plats.
+- la prise de repas au "plat commun" : l'alimentation se faisant le plus souvent à la main, il est dif­ficile de quantifier les portions ingérées ;
+- la faible proportion de légumes et de crudités ;
+- la très importante consommation d'huile, de sel et de sucres simples ajoutés aux plats.
 
 La **deuxième phase** est la prescription d'un traite­ment médicamenteux. Deux principales difficultés limitent, là encore, l'action des médecins : la dis­ponibilité insuffisante des molécules et leur coût. En effet, parmi les antidiabétiques oraux, seuls cer­tains sulfamides hypoglycémiants et la metformine sont disponibles. Quant aux insulines, on dispose principalement des insulines rapides 10 et semi­-lentes NPH. La plupart des molécules les plus récentes (glinides, glitazones, gliptines, etc.) ou des nouvelles formes d'insuline sont très rarement disponibles au Mali.
 
@@ -24,7 +24,7 @@ A ces difficultés s'ajoute celle de leur coût. En effet, l'absence de sécurit
 
 ### 2. Suivi biologique et dépistage des complications du diabète
 
-Les patients connaissent des dif ficultés similaires avec le suivi biologique de leur maladie. L'hémoglo­bine glyquée (HbA1C) et les bilans lipidiques, par exemple, ne sont réalisables qu'à Bamako et, le plus souvent, seulement dans des laboratoires privés. Aux difficultés relatives à l'accès géographique, s'ajoute le problème majeur de l'accessibilité finan­cière à ces analyses. La mesure de l'HbA1c coûte 10 000 CFA (soit 15 euros) dans un pays où le salaire moyen est d'environ 40 000 CFA (60 euros). Dans ce contexte, plus de 70 % des malades ne réalisent jamais de mesure d'HbA1c ni de bilan lipidique _(Beran D, Besançon S. Report of the International Insulin Foundation on the assessment protocol for insulin access in Mali. Bamako: International Insulin Foundation. 2004.)_ et doivent se contenter d'une glycé­mie capillaire mensuelle pour seul suivi. La faible capacité des laboratoires et le coût prohi­bitif des moyens d'exploration, (doppler, etc..) réduisent fortement les possibilités de dépistage des complications.
+Les patients connaissent des dif ficultés similaires avec le suivi biologique de leur maladie. L'hémoglo­bine glyquée (HbA1C) et les bilans lipidiques, par exemple, ne sont réalisables qu'à Bamako et, le plus souvent, seulement dans des laboratoires privés. Aux difficultés relatives à l'accès géographique, s'ajoute le problème majeur de l'accessibilité finan­cière à ces analyses. La mesure de l'HbA1c coûte 10 000 CFA (soit 15 euros) dans un pays où le salaire moyen est d'environ 40 000 CFA (60 euros). Dans ce contexte, plus de 70 % des malades ne réalisent jamais de mesure d'HbA1c ni de bilan lipidique *(Beran D, Besançon S. Report of the International Insulin Foundation on the assessment protocol for insulin access in Mali. Bamako: International Insulin Foundation. 2004.)* et doivent se contenter d'une glycé­mie capillaire mensuelle pour seul suivi. La faible capacité des laboratoires et le coût prohi­bitif des moyens d'exploration, (doppler, etc..) réduisent fortement les possibilités de dépistage des complications.
 
 ### 3. Auto-surveillance glycémique
 
@@ -42,7 +42,7 @@ Si l'on prend l'exemple de l'acidocétose, il est le plus souvent impossible de 
 
 ## Il. Quelques adaptations nécessaires pour les médecins
 
-### **1. Traitement**
+### 1. Traitement
 
 Pourun traitement par antidiabétiques oraux (ADO), les médecins adaptent leur prescription selon les molécules disponibles et utilisent de pré­férence des formes génériques, moins coûteuses. Pour un traitement par insuline, ils doivent réaliser des schémas d'insulinothérapie, que Pon pourrait appeler des "schémas de survie", avec les insulines disponibles (rapide et intermédiaire) et le minimum d'injections quotidiennes afin de limiter le coût lié au médicament et aux seringues.
 
@@ -50,9 +50,9 @@ Pourun traitement par antidiabétiques oraux (ADO), les médecins adaptent leur 
 
 Pour la très grande majorité des patients, le suivi biologique est limité :
 
-*   évaluation mensuelle de la glycémie capillaire,
-*   dosage régulier de la créatininémie,
-*   examens par bandelettes urinaires : recherche d'une cétonurie, d'une protéinurie, ou d'une leucocyturie, évaluation du pH urinaire, etc.
+- évaluation mensuelle de la glycémie capillaire,
+- dosage régulier de la créatininémie,
+- examens par bandelettes urinaires : recherche d'une cétonurie, d'une protéinurie, ou d'une leucocyturie, évaluation du pH urinaire, etc.
 
 ### 3. Autosurveillance glycémique
 
@@ -68,4 +68,4 @@ Un kit d'urgence, en cours de test à Bamako, apportera une aide au diagnostic e
 
 Bien sûr, malgré tous ces efforts, il sera difficile de parvenir à une prise en charge optimale (qui n'est pas effective dans les pays riches). Pour certains patients ou dans certains lieux, les résultats seront minimes, insuffisants. Mais ce qui importe est de développer, parallèlement au travail de formation et de réseau, une prise en charge adaptée, tenant compte de l'inaccessibilité financière, géogra­phique voire culturelle. Actuellement, une dyna­mique est lancée et ce mouvement modifiera la situation actuelle.
 
-_Développement et Santé, n° 193, 2009_
+*Développement et Santé, n° 193, 2009*

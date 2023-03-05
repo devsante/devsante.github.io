@@ -13,9 +13,9 @@ date: "2009-08-12"
 
 L'activité physique permet de diminuer la glycémie, en augmentant la consommation de sucre par les muscles, et ainsi de réduire d'une part les complications du diabète, en particulier les angiopathies (artérite, rétinopathies...), d'autre part l'indice de masse corporelle, marqueur de l'excès de poids. Quels que soient l'âge et la condition physique initiale, le médecin doit proposer a son patient un programme d'exercices physiques et valoriser les différents types d'activités :
 
-*   douces : marche lente, courses dans les marchés, nettoyage de la maison ;
-*   modérées : marche rapide, descente d'escaliers, danse lente, vélo ;
-*   intenses : course lente, montée d'escaliers, danse disco, volley-ball, tennis de table, travaux dans les champs.
+- douces : marche lente, courses dans les marchés, nettoyage de la maison ;
+- modérées : marche rapide, descente d'escaliers, danse lente, vélo ;
+- intenses : course lente, montée d'escaliers, danse disco, volley-ball, tennis de table, travaux dans les champs.
 
 Ainsi, en effectuant tous les jours une marche lente de 30 minutes, une promenade de 20 minutes a bicyclette ou une partie de 10 minutes de tennis de table, on divise par deux le risque d'évolution d'une intolérance au glucose vers un diabète.
 
@@ -23,17 +23,17 @@ Ainsi, en effectuant tous les jours une marche lente de 30 minutes, une promenad
 
 L'excès pondéral concernant 90 % des diabétiques, la première prescription est un **régime hypocalorique** classique comportant au mieux 5 légumes et fruits (500 g/jour), de l'eau, des sucres lents, et restrictif en lipides et sucres rapides, sans "sauter" de repas et en excluant tout grignotage. L'idéal est de parvenir à une ration calorique comportant 30 % de lipides, 15 % de protides et 55 % de glucides.
 
-*   Le régime diabétique proprement dit évitera d'abord les **lipides** : la réduction des graisses alimentaires, surtout animales (beurre, crème, viandes grasses) et des fritures, diminuera le LDL-cholestérol (mauvais cholestérol), important facteur de risque cardio-vasculaire.  
-*   La réduction des graisses végétales aide a limiter l'excès pondéral.  
-*   Il faut limiter le **sel**, facteur d'hypertension, ainsi que **l'alcool,** hypercalorique.  
-*   Pour les glucides : proscrire les **sucres rapides** responsables d'hyperglycémie immédiate : sucre sous toutes ses formes ; aliments et boissons sucrés : miel, confiture, gâteaux, pâtisseries, biscuits; les cocas et tous les jus sucrés en cannette ou en bouteille, les bonbons.  
-*   Savoir qu'il existe :
-    *   des aliments à **index glycémique élevé**") qu'il faut consommer avec modération sauf en cas d'exercice physique : certains fruits tels les dattes, les figues, les raisins secs.  
-    *   des aliments à **index glycémique moyen**, (riches en amidon) appelés souvent "**sucres lents**", c'est-à-dire faisant monter la glycémie moins vite, mais sur une durée plus étalée que le sucre : pain blanc, riz, maïs, pommes de terre, différents légumes secs (haricots, lentilles).  
-    *   des aliments à **index glycémique faible ou presque nul** (la plupart des aliments contiennent des glucides) :
-        *   d'origine animale : poisson, volailles, viande, oeufs, fromage blanc et yaourts non sucrés ;
-        *   légumes à faible indice glycémique : légumes verts, tomates, carottes, aubergines...;
-        *   eau, thé, café, lait écrémé, toujours sans sucre.
+- Le régime diabétique proprement dit évitera d'abord les **lipides** : la réduction des graisses alimentaires, surtout animales (beurre, crème, viandes grasses) et des fritures, diminuera le LDL-cholestérol (mauvais cholestérol), important facteur de risque cardio-vasculaire.
+- La réduction des graisses végétales aide a limiter l'excès pondéral.
+- Il faut limiter le **sel**, facteur d'hypertension, ainsi que **l'alcool,** hypercalorique.
+- Pour les glucides : proscrire les **sucres rapides** responsables d'hyperglycémie immédiate : sucre sous toutes ses formes ; aliments et boissons sucrés : miel, confiture, gâteaux, pâtisseries, biscuits; les cocas et tous les jus sucrés en cannette ou en bouteille, les bonbons.
+- Savoir qu'il existe :
+  - des aliments à **index glycémique élevé**") qu'il faut consommer avec modération sauf en cas d'exercice physique : certains fruits tels les dattes, les figues, les raisins secs.
+  - des aliments à **index glycémique moyen**, (riches en amidon) appelés souvent "**sucres lents**", c'est-à-dire faisant monter la glycémie moins vite, mais sur une durée plus étalée que le sucre : pain blanc, riz, maïs, pommes de terre, différents légumes secs (haricots, lentilles).
+  - des aliments à **index glycémique faible ou presque nul** (la plupart des aliments contiennent des glucides) :
+    - d'origine animale : poisson, volailles, viande, oeufs, fromage blanc et yaourts non sucrés ;
+    - légumes à faible indice glycémique : légumes verts, tomates, carottes, aubergines...;
+    - eau, thé, café, lait écrémé, toujours sans sucre.
 
 NB : on essaiera de se passer des édulcorants qui maintiennent le goût sucré.
 
@@ -43,7 +43,7 @@ Les médicaments sont utilisés en deuxième intention dans le traitement du DNI
 
 ### 1. Les antidiabétiques oraux
 
-Il en existe de plusieurs classes _(voir tableau plus bas)_.
+Il en existe de plusieurs classes *(voir tableau plus bas)*.
 
 #### a) Les biguanides
 
@@ -54,12 +54,12 @@ Les comprimés doivent être pris en début de repas.
 
 #### b) Les sulfamides hypoglycémiants
 
-*   Glibenclamide
-*   Glicazide
-*   Glimépiride
-*   Glipizide
-*   Carbutamide
-*   Glibornuride
+- Glibenclamide
+- Glicazide
+- Glimépiride
+- Glipizide
+- Carbutamide
+- Glibornuride
 
 Ces médicaments stimulent l'insulino-sécrétion. Ils sont indiqués en monothérapie en première intention chez les sujets n'ayant pas d'excès de poids (IMC inférieur à 28 kg/m2) ou en association avec la metformine.  
 Les sulfamides peuvent provoquer une hypoglycémie.
@@ -71,8 +71,8 @@ Le risque d'hypoglycémie est faible si les repas sont réguliers.
 
 #### d) Les inhibiteurs des alpha-glucosidases
 
-*   Acarbose
-*   Miglitol
+- Acarbose
+- Miglitol
 
 Ils retardent la digestion des glucides complexes et permettent d'amortir le pic post-prandial de glycémie. Les effets indésirables sont : flatulence, diarrhée.
 
@@ -80,8 +80,8 @@ Ils retardent la digestion des glucides complexes et permettent d'amortir le pic
 
 Il existe des associations fixes :
 
-*   metformine + glibenclamide
-*   metformine + roziglitazone
+- metformine + glibenclamide
+- metformine + roziglitazone
 
 **Les principaux antidiabétiques oraux**
 
@@ -391,4 +391,4 @@ Cumul des contre-indications et précautions d'emploi de chaque classe
 
 </table>
 
-_Développement et Santé, n°193, 2009_
+*Développement et Santé, n°193, 2009*

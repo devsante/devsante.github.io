@@ -4,23 +4,23 @@ author: "Alain Chiaramonti Infirmier Diplômé d'État, Centre hospitalier gén�
 date: "2002-04-13"
 ---
 
-## **I.** Matériel
+## I. Matériel
 
 ### 1. Les sondes
 
 Voici les types de sondes et leurs principales caractéristiques.
 
-*   La **sonde de Foley :** dans le service, nous employons le modèle en silicone pur, car elle est ainsi mieux tolérée (environ six semaines), plus facile à introduire car plus rigide et, par ses propriétés antiadhésives, elle réduit au minimum les dépôts et agrégats.
+- La **sonde de Foley :** dans le service, nous employons le modèle en silicone pur, car elle est ainsi mieux tolérée (environ six semaines), plus facile à introduire car plus rigide et, par ses propriétés antiadhésives, elle réduit au minimum les dépôts et agrégats.
 
-*   La **sonde Hematuria** ou de **CouveIaire** elle est en latex siliconé avec un fil nylon l'entourant sur toute sa longueur, ce qui la rend incollable. On l'utilise surtout pour le drainage de caillots sanguins. Elle est parfois plus difficile à placer car son extrémité est plus souple et franchit moins bien les obstacles.
+- La **sonde Hematuria** ou de **CouveIaire** elle est en latex siliconé avec un fil nylon l'entourant sur toute sa longueur, ce qui la rend incollable. On l'utilise surtout pour le drainage de caillots sanguins. Elle est parfois plus difficile à placer car son extrémité est plus souple et franchit moins bien les obstacles.
 
-*   La **sonde de Dufour** est béquillée, ce qui permet le passage des obstacles naturels, parfois même le franchissement de petite sténose de l'urètre. En Néoplex rigide, on ne peut l'utiliser de façon prolongée par risque d'érosion des muqueuses.
+- La **sonde de Dufour** est béquillée, ce qui permet le passage des obstacles naturels, parfois même le franchissement de petite sténose de l'urètre. En Néoplex rigide, on ne peut l'utiliser de façon prolongée par risque d'érosion des muqueuses.
 
-*   La **sonde de Marion** ne possède pas de ballonnets et nous l'utilisons pour la réduction de petite sténose de l'urètre.
+- La **sonde de Marion** ne possède pas de ballonnets et nous l'utilisons pour la réduction de petite sténose de l'urètre.
 
-*   La **sonde à double courant** est, elle aussi, en Néoplex et possède un canal de rinçage permettant une évacuation régulière des caillots et un nettoyage constant de la vessie. Elle est surtout utilisée après certaines interventions ou en cas d'hématurie importante.
+- La **sonde à double courant** est, elle aussi, en Néoplex et possède un canal de rinçage permettant une évacuation régulière des caillots et un nettoyage constant de la vessie. Elle est surtout utilisée après certaines interventions ou en cas d'hématurie importante.
 
-*   Les autres sondes employées sont celles de **Mercier.** Béquillées ou non, en PVC, elles servent aux autosondages ou aux instillations intra-vésicales, c'est-à-dire que leur usage est temporaire.
+- Les autres sondes employées sont celles de **Mercier.** Béquillées ou non, en PVC, elles servent aux autosondages ou aux instillations intra-vésicales, c'est-à-dire que leur usage est temporaire.
 
 Le choix de la sonde est souvent fait par le médecin, mais en son absence et en cas de rétention, nous utilisons les sondes de Foley en silicone pur. Assez rigides pour passer les obstacles naturels, elles sont aussi assez souples pour éviter les fausses routes.
 
@@ -36,13 +36,11 @@ Si cette sonde ne passe pas, cela veut dire qu'il y a un problème. Il faut alor
 
 **A savoir :** des sondes conservées dans un sondier et stérilisées au gaz (type aldhylène) doivent obligatoirement être rincées avec de l'eau stérile car les vapeurs de formol sont très corrosives et risquent d'entraîner des sténoses de l'ensemble de l'urètre.
 
-
 ![](i957-1.jpg)
 
 ![](i957-2.jpg)
 
 ![](i957-3.jpg)
-
 
 ### 2. Autre matériel
 
@@ -56,9 +54,7 @@ L'huile de paraffine existe sur le marché en ampoule unitaire stérile qui perm
 
 Pour le recueil des urines, nous utilisons des résibacs non standards, mais de type Bioser SM 102, car ils permettent de ne jamais séparer le système poche-sonde et, de plus, on peut les vidanger. Le tuyau est rigide et de grosse section, évitant plis et coudes. Il existe un système antireflux et un site de prélèvement. Ils peuvent, sans problème, se conserver dix à quinze jours sans être changés. Le coût est, par contre, bien supérieur. Ce système paraît plus cher mais il est clos, vidangeable, possède un système antireflux et un site de prélèvement, ce qui diminue le risque infectieux.
 
-
 ![](i957-4.jpg)
-  
 
 **Pour conclure,** nous dirons que le sondage est un acte stérile, que le choix de la sonde en première intention est une sonde de Foley en silicone pur de Charrière 18, que celle-ci doit être huilée jusqu'à la garde, et que le sondage doit être précédé, chez l'homme, d'une anesthésie locale.
 
@@ -75,23 +71,21 @@ Injecter doucement le gel de xylocaïne et placer le clamp pénien (ou comprimer
 
 Installer le malade (s'il s'agit d'une femme, l'installer en position gynécologique et prévoir un bon éclairage). Expliquer le soin au patient.
 
-*   Placer un haricot entre les jambes.  
-*   Prévoir une aide.  
-*   Mettre les gants stériles pour préparation de la table.  
-*   Faire enlever le clamp pénien.  
-*   Faire une petite toilette stérile à l'aide de compresses stériles et de Dakin. Laisser le gland entre deux compresses stériles.  
-*   Poser le champ troué.  
-*   Lubrifier la sonde largement sur toute sa longueur.  
-*   Introduire la sonde dans l'urètre doucement, sans forcer.  
-*   Pour l'homme, il faut bien tirer la verge vers le haut.  
-*   Pousser la sonde au-delà de la longueur normale, gonfler le ballonnet à la contenance voulue (le volume est inscrit sur la sonde).  
-*   Une fois le ballonnet gonflé, tirer sur la sonde jusqu'à ce qu'elle se bloque sur le col vésical.  
-*   Vérifier l'écoulement de l'urine.  
-*   Connecter le sac collecteur.  
-*   Recalotter le pénis.
-
+- Placer un haricot entre les jambes.
+- Prévoir une aide.
+- Mettre les gants stériles pour préparation de la table.
+- Faire enlever le clamp pénien.
+- Faire une petite toilette stérile à l'aide de compresses stériles et de Dakin. Laisser le gland entre deux compresses stériles.
+- Poser le champ troué.
+- Lubrifier la sonde largement sur toute sa longueur.
+- Introduire la sonde dans l'urètre doucement, sans forcer.
+- Pour l'homme, il faut bien tirer la verge vers le haut.
+- Pousser la sonde au-delà de la longueur normale, gonfler le ballonnet à la contenance voulue (le volume est inscrit sur la sonde).
+- Une fois le ballonnet gonflé, tirer sur la sonde jusqu'à ce qu'elle se bloque sur le col vésical.
+- Vérifier l'écoulement de l'urine.
+- Connecter le sac collecteur.
+- Recalotter le pénis.
 
 ![](i957-5.jpg)
 
-
-_Développement et Santé, n°158, avril 2002_
+*Développement et Santé, n°158, avril 2002*

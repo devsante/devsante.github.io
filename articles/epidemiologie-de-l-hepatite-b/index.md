@@ -8,17 +8,15 @@ date: "2001-02-20"
 
 D'après les estimations de l'Organisation mondiale de la santé, 2 milliards de personnes sont infectées par le virus de l'hépatite B, dont 350 millions sont porteurs chroniques du virus. Ces derniers présentent un risque important de déclarer un jour une cirrhose ou un cancer du foie. Au moins 1 million en meurent chaque année.  Bien qu'ubiquitaire, la répartition géographique du virus de l'hépatite B n'est pas homogène. On peut (en tenant compte de la présence des marqueurs du virus de l'hépatite B) définir trois zones d'infections persistantes :
 
-*   les zones de haute endémicité, telles que l'Afrique et l'Asie du Sud-Est, 70 à 90 % de la population qui présentent des marqueurs du virus de l'hépatite B et plus de 8 % de la population sont constitués de porteurs chroniques (présence de l'antigène de surface HBS de l'hépatite B).  
-*   les zones d'endémicité moyenne qui sont le Moyen-Orient, l'Amérique Centrale et l'Amérique du Sud. On y observe entre 2 et 7 % de porteurs chroniques et 20 à 55 % de personnes présentant des marqueurs du virus.  
-*   les zones d'endémicité faible, telles que l'Amérique du Nord, l'Europe occidentale et du Nord, où le taux de porteurs chroniques est inférieur à 2 % et la présence des marqueurs du virus se retrouve chez moins de 20 % de la population.
+- les zones de haute endémicité, telles que l'Afrique et l'Asie du Sud-Est, 70 à 90 % de la population qui présentent des marqueurs du virus de l'hépatite B et plus de 8 % de la population sont constitués de porteurs chroniques (présence de l'antigène de surface HBS de l'hépatite B).
+- les zones d'endémicité moyenne qui sont le Moyen-Orient, l'Amérique Centrale et l'Amérique du Sud. On y observe entre 2 et 7 % de porteurs chroniques et 20 à 55 % de personnes présentant des marqueurs du virus.
+- les zones d'endémicité faible, telles que l'Amérique du Nord, l'Europe occidentale et du Nord, où le taux de porteurs chroniques est inférieur à 2 % et la présence des marqueurs du virus se retrouve chez moins de 20 % de la population.
 
 Au plan mondial, le taux d'infection est plus important chez les hommes que chez les femmes, chez les enfants que chez les adultes, dans les populations urbaines que dans les populations rurales.
 
 La transmission horizontale, très fréquente chez les enfants et les adolescents, serait responsable de la majorité des infections en Afrique et au Moyen-Orient.  En revanche, la transmission périnatale est beaucoup plus répandue en Asie.
 
-
 ![](image002-epidemio-hepatite-b.jpg)
-
 
 ## II. Modes de transmission du virus de l'hépatite B
 
@@ -32,10 +30,10 @@ La transmission du VHB s'explique par :
 
 Il existe 4 principaux modes de transmission :
 
-*   parentéral
-*   sexuel
-*   périnatal
-*   horizontal
+- parentéral
+- sexuel
+- périnatal
+- horizontal
 
 ### 1. La transmission parentérale
 
@@ -44,10 +42,10 @@ Les sources d'infection sont le sang, les produits sanguins et dérivés, ainsi 
 
 Elle se fait :
 
-*   Par la transfusion du sang et de ses dérivés. Pour chaque donneur il faudrait pouvoir rechercher l'antigène HBS, l'anticorps antiHBC et doser les ALAT. Ce mode de transmission explique la forte prévalence chez les hémophiles.  
-*   Par piqûres. Dans ce dernier cas, on peut distinguer :
-    *   la transmission par les aiguilles lorsqu'elles ne sont pas à usage unique ou lors de certaines pratiques (toxicomanie, tatouage, acupuncture, scarifications, piercing des oreilles... )
-    *   la transmission accidentelle. Ce mode de transmission explique la contamination du personnel de santé.
+- Par la transfusion du sang et de ses dérivés. Pour chaque donneur il faudrait pouvoir rechercher l'antigène HBS, l'anticorps antiHBC et doser les ALAT. Ce mode de transmission explique la forte prévalence chez les hémophiles.
+- Par piqûres. Dans ce dernier cas, on peut distinguer :
+  - la transmission par les aiguilles lorsqu'elles ne sont pas à usage unique ou lors de certaines pratiques (toxicomanie, tatouage, acupuncture, scarifications, piercing des oreilles... )
+  - la transmission accidentelle. Ce mode de transmission explique la contamination du personnel de santé.
 
 Le taux de transmission par piqûre est évalué entre 7 et 30 %.
 
@@ -87,11 +85,11 @@ Dans les pays de haute endémicité, la majorité de la population est infectée
 Dans les pays à faible endémicité, l'infection par le VHB (considérée comme une maladie infectieuse importante), survient principalement chez les adolescents et les jeunes adultes. Des études ont identifié certaines populations comme courant un risque plus élevé que d'autres, en raison de leur profession, de leur mode de vie ou de leur état général (maladie en cours).  
 Ces populations à risque sont, dans la plupart des pays, les suivantes :
 
-*   les personnels de santé,
-*   les toxicomanes,
-*   les personnes ayant des partenaires sexuels multiples,
-*   les personnes regroupées dans des centres de soins (handicapées, internées ..), les malades transfusés (hémophiles...)
-*   les nouveau-nés des femmes enceintes infectées par le VHB.
+- les personnels de santé,
+- les toxicomanes,
+- les personnes ayant des partenaires sexuels multiples,
+- les personnes regroupées dans des centres de soins (handicapées, internées ..), les malades transfusés (hémophiles...)
+- les nouveau-nés des femmes enceintes infectées par le VHB.
 
 ## IV. La surveillance
 
@@ -102,7 +100,7 @@ Des études doivent être initiées dans tous les pays pour permettre l'obtentio
 
 V. Le contrôle de l'infection par le VHB
 
-1. Généralités
+1.  Généralités
 
 Les pays développés dépensent d'importantes sommes d'argent dans le contrôle et la prévention de l'hépatite B par le dépistage dans les centres de transfusions, les cliniques prénatales et pour le traitement des enfants nés de mères infectées par le virus. Les moyens utilisés dans les programmes de lutte contre l'hépatite B sont :  
  les actions préventives générales,  
@@ -112,15 +110,15 @@ Les pays développés dépensent d'importantes sommes d'argent dans le contrôle
 
 Nous n'aborderons ici que les aspects généraux et les précautions universelles, les autres sujets étant traités par d'autres auteurs dans cette édition.
 
-2. Les activités préventives
+2.  Les activités préventives
 
 Elles consistent en l'information du personnel de santé, des décideurs et du public sur les dangers de l'infection par le VHB. Certains comportements favorisent la transmission du VHB et d'autres maladies sexuellement transmissibles.  Il s'agit en particulier de l'utilisation des drogues par injection IV, des rapports sexuels non protégés, de la pratique de tatouages et de l'acupuncture avec des instruments non stériles ou mal stérilisés.  
 Une prévention efficace est fonction du niveau d'information sur le VHB, ses modes de transmission et ses conséquences.  
 Parallèlement à ces mesures, la vaccination doit être encouragée.
 
-3. Les précautions universelles  
-La plupart des porteurs chroniques du VHB ignorent leur statut et présentent donc un  
-risque important pour le personnel de santé et les autres personnes susceptibles d'être exposées à leurs liquides biologiques.
+3.  Les précautions universelles  
+    La plupart des porteurs chroniques du VHB ignorent leur statut et présentent donc un  
+    risque important pour le personnel de santé et les autres personnes susceptibles d'être exposées à leurs liquides biologiques.
 
 Le concept de précaution universelle suppose que le personnel de santé considère tout liquide biologique comme potentiellement infecté par un ou plusieurs agents pathogènes sanguins. Ainsi, il prendra soin de se protéger devant tout malade, sans tenir compte du diagnostic affiché.
 
@@ -130,8 +128,6 @@ Idéalement, le matériel d'injection (et autres objets tranchants) devrait êtr
 
 Le matériel souillé à jeter doit être recueilli dans des conteneurs spéciaux munis d'un couvercle, puis incinéré.  Si l'incinération n'est pas possible, il faut stériliser avant de jeter pour éviter une
 
-
 ![](image004-epidemio-hepatite-b.jpg)
 
-
-_Développement et Santé, N° 151, février 2001_
+*Développement et Santé, N° 151, février 2001*

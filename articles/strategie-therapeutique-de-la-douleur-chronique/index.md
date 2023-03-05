@@ -10,39 +10,37 @@ Il est nécessaire de souligner que, dans la plupart des cas, le traitement éti
 
 Il est souhaitable que, dès le premier entretien, on explique au patient les objectifs du traitement et la façon dont sera conduite l'analgésie (voie d'administration, posologie, intervalles de prise, prévention des effets secondaires et évaluation régulière de l'efficacité thérapeutique). Le contrôle de la douleur demande une adaptation au malade et sa participation active.
 
-
 ![](i749-1.jpg)
 
+## I. Traitements médicamenteux
 
-## **I. Traitements médicamenteux**
-
-### **1. Les analgésiques**
+### 1. Les analgésiques
 
 Ils sont indiqués dans le traitement des douleurs par excès de nociception. Depuis 1986, l'OMS recommande, pour contrôler ces douleurs, l'utilisation de médicaments antalgiques qui doivent être prescrits par voie orale, à heure fixe et par paliers. Ce protocole dont l'efficacité a été démontrée sur la majorité des douleurs des cancers peut être extrapolé à d'autres douleurs d'origine nociceptive comme une échelle de prescription selon l'intensité de la douleur.
 
-#### **a) Les antalgiques périphériques (niveau 1)**
+#### a) Les antalgiques périphériques (niveau 1)
 
 Ils s'adressent à des douleurs de faible intensité. Les produits les plus souvent utilisés sont :
 
-_- L'acide acétyl-salicylique_ (AAS) est prescrit comme antalgique à la posologie de 2 à 3 g/24 h, comme anti-inflammatoire à la dose de 4 à 6 g/24 h. L'AAS garde une indication particulière dans le traitement des douleurs en rapport avec des métastases osseuses, à condition toutefois d'employer des doses élevées (4 à 6 g/24 h). L'AAS partage les mêmes précautions d'utilisation que les anti-inflammatoires non stéroïdiens (AINS).
+*- L'acide acétyl-salicylique* (AAS) est prescrit comme antalgique à la posologie de 2 à 3 g/24 h, comme anti-inflammatoire à la dose de 4 à 6 g/24 h. L'AAS garde une indication particulière dans le traitement des douleurs en rapport avec des métastases osseuses, à condition toutefois d'employer des doses élevées (4 à 6 g/24 h). L'AAS partage les mêmes précautions d'utilisation que les anti-inflammatoires non stéroïdiens (AINS).
 
-_- Le paracétamol_
+*- Le paracétamol*
 
 La posologie est de 500 mg à 1 g toutes les 4 à 6 heures. Ce produit ne présente que peu d'effets indésirables. Sa bonne tolérance a permis de le préférer à l'AAS lorsque ce dernier peut être évité. Cependant, face à la douleur cancéreuse, le paracétamol est très vite dépassé. Son intérêt réside dans la possibilité d'associations potentialisantes avec les médicaments des autres niveaux.
 
-_- Les anti-inflammatoires non stéroïdiens_
+*- Les anti-inflammatoires non stéroïdiens*
 
-#### **b) Les analgésiques centraux faibles (niveau 2)**
+#### b) Les analgésiques centraux faibles (niveau 2)
 
 Ils sont employés pour des douleurs d'intensité modérée.
 
 - Deux substances, le dextropropoxyphène et la codéine, se situent dans la zone inférieure de ce niveau (IIA) :
 
-_- Le dextropropoxyphène_
+*- Le dextropropoxyphène*
 
 Il se trouve dans l'Antalvic® (65 mg/cp), le Diantalvic® (30 mg associés à 400 mg de paracétamol/cp) et le Propofan (27 mg associés à 120 mg d'aspirine/cp). La pososologie est de 3 à 10 mg/kg/24 heures en 4 à 6 prises/jour. Il convient de prendre garde au risque d'accumulation du fait de la demi-vie d'un métabolite qui est supérieure à 24 heures et ceci particulièrement chez le sujet âgé.
 
-_- La codéine_
+*- La codéine*
 
 Elle existe soit sous la forme de tartrate de dihydrocodéine (60 mg/cp) possédant une durée d'action de 12 heures (Dicodin®), soit associée au paracétamol dans l'Efferalgan® Codéine, le Dafalgan® Codéine, le Lindilane®, l'Oralgan®, l'Algisédal®, le Supadol® ; au paracétamol et à l'aspirine dans la Véganine®; au paracétamol et à la nor-amidopyrine dans la Viscéralgine® forte et le Salgydalé.
 
@@ -52,7 +50,7 @@ Les formes contenant de l'aspirine ou de la nor-amidopyrine doivent être utilis
 
 - Le niveau IIB est constitué par la famille des morphines mixtes :
 
-_- Buprénorphine (Temgésic)_
+*- Buprénorphine (Temgésic)*
 
 La posologie pour les glossettes sublinguales de 0,2 mg (= 5 mg de morphine) est au maximum 3 glossettes/8 heures chez l'adulte. Pour la forme injectable, ampoule de 0,3 mg, réservée à l'hôpital : 1 ampoule toutes les 8 heures chez l'adulte.
 
@@ -62,7 +60,7 @@ Les effets secondaires sont fréquents : nausées, sensations vertigineuses, lip
 
 Le risque de dépression respiratoire si la molécule est associée aux benzodiazépines et/ou à d'autres sédatifs existe. Sa faible inversabilité par la naloxone rend donc la buprénorphine difficile à gérer en chronique chez des sujets fragiles.
 
-#### **c) Les analgésiques centraux forts (niveau 3)**
+#### c) Les analgésiques centraux forts (niveau 3)
 
 Ils ne sont indiqués que dans les douleurs sévères rebelles irréductibles (cancer, sida).
 
@@ -76,29 +74,29 @@ Le recours à la voie parentérale se fait lorsque la voie orale n'est plus poss
 
 Quelle que soit la voie d'administration, il n'y a pas de limite supérieure pour les doses de morphine administrées. C'est la douleur qui est l'indicateur. Ce sont les effets secondaires inacceptables qui définissent la véritable limite.
 
-### **2. Les coanalgésiques**
+### 2. Les coanalgésiques
 
-#### **a) Les antidépresseurs**
+#### a) Les antidépresseurs
 
 Trois molécules ont fait la preuve de leur efficacité dans le traitement des douleurs neurogènes en particulier les douleurs des neuropathies périphériques, quelles soient d'origine traumatique (lésion nerveuse, membre fantôme), métabolique (neuropathie diabétique), infectieuse (douleur post-zostérienne du zona), toxique (neuropathie alcoolique, post-chimiothérapie anticancéreuse) ou invasive (douleur cancéreuse).
 
 L'amitriptyline (Laroxyl® ou Elavil®) et la clomipramine (Anafranil®) sont les plus utilisées. L'administration se fait selon une augmentation progressivement croissante. La posologie est de 10 à 25 mg le premier jour, puis les doses sont augmentées de 25 mg tous les 2 à 3 jours jusqu'à 75 ou 150 mg/jour. L'effet analgésique se manifeste de façon retardée (après une ou plusieurs semaines). Par ailleurs ils sont contre-indiqués chez les patients atteints de certaines formes de glaucome, de tumeur prostatique et de certaines pathologies cardiaques.
 
-#### **b) Les anticonvulsivants**
+#### b) Les anticonvulsivants
 
-Ils s'imposent dans le traitement de la névralgie du trijumeau et dans la composante fulgurante des douleurs neuropathiques. Deux produits sont particulièrement efficaces : la carbamazépine (Tégrétol®) et le clonazépam (RivotriI®). Ils doivent être prescrits à doses croissantes compte tenu des risques de somnolence et des troubles de la vigilance qu'ils peuvent induire. Pour le Tégrétol® 100 mg/jour _per os_ jusqu'à 800 à 1 000 mg/jour en une semaine ou 10 jours en contrôlant régulièrement la numération formule sanguine. Pour le Rivotril®, 5 à 10 gouttes 3 fois/24 heures (10 gouttes = 1 mg), jusqu'à 6 mg/24 heures.
+Ils s'imposent dans le traitement de la névralgie du trijumeau et dans la composante fulgurante des douleurs neuropathiques. Deux produits sont particulièrement efficaces : la carbamazépine (Tégrétol®) et le clonazépam (RivotriI®). Ils doivent être prescrits à doses croissantes compte tenu des risques de somnolence et des troubles de la vigilance qu'ils peuvent induire. Pour le Tégrétol® 100 mg/jour *per os* jusqu'à 800 à 1 000 mg/jour en une semaine ou 10 jours en contrôlant régulièrement la numération formule sanguine. Pour le Rivotril®, 5 à 10 gouttes 3 fois/24 heures (10 gouttes = 1 mg), jusqu'à 6 mg/24 heures.
 
-#### **c) Les anxiolytiques et les sédatifs**
+#### c) Les anxiolytiques et les sédatifs
 
 Les anxiolytiques sont utilisés pour leur rôle sur la thymie, l'anxiété et les contractures.
 
 Leur prescription doit se faire sur de courtes périodes car ils provoquent des effets secondaires (sédation, troubles cognitifs) qui vont à l'encontre du programme de reprise d'activité. Parmi les neuroleptiques, le plus utilisé est la lévopromzine (Nozinan®) à la dose de 5 à 10 mg/24 heures. Il peut être utile pour lutter contre les nausées et vomissements, pour modifier le retentissement anxio-dépressif de la douleur et lutter contre l'insomnie.
 
-## **II. Neurostimulation transcutanée (NSTC)**
+## II. Neurostimulation transcutanée (NSTC)
 
 La NSTC a pour objet de renforcer ou de suppléer un mécanisme inhibiteur défaillant. Elle a été proposée dans les douleurs neurologiques par désaférentation après lésion de nerfs périphériques, lombosciatiques séquellaires dues à une fibro-arachnoïdite. Bien que la NSTC soit une technique simple, son efficacité clinique réclame le respect d'un certain nombre de règles qui découlent d'une compréhension correcte des facteurs impliqués dans son succès : douleur de topographie localisée, recouvrement de la zone douloureuse par les paresthésies produites par la NSTC, bonne adhésion du malade en cas d'auto-administration. C'est une méthode non invasive, d'une grande simplicité, et du fait de la miniaturisation des appareils, elle donne au patient la possibilité d'ajuster les paramètres de stimulation.
 
-## **III. Les moyens physiques et psychologiques**
+## III. Les moyens physiques et psychologiques
 
 Divers moyens physiques et psychologiques peuvent induire un effet analgésique.
 
@@ -118,11 +116,13 @@ Les techniques de relaxation ont une place importante. Elles aident le patient �
 
 À côté des techniques comportementales qui s'adressent directement à la douleur et à son handicap, toutes les autres formes de psychothérapies peuvent être proposées à un patient atteint de douleur chronique.
 
-## **IV. Traitements invasifs**
+## IV. Traitements invasifs
 
 Il apparaît que le traitement médicamenteux est de loin le plus simple et le plus efficace pour contrôler la majorité des douleurs chroniques cancéreuses ou non. Néanmoins, il a ses limites. Dans ce cas le recours à des techniques anesthésiques et/ou neurochirurgicales est alors possible. Nous ne ferons qu'en citer quelques-unes.
 
-*   Parmi les traitements d'interruption irréversible :
+- Parmi les traitements d'interruption irréversible :
+
+<!-- -->
 
 - la radicellectomie sélective postérieure s'adresse aux douleurs radiculaires localisées ;
 
@@ -130,7 +130,11 @@ Il apparaît que le traitement médicamenteux est de loin le plus simple et le p
 
 - la cordotomie antéro-latérale chirurgicale ou percutanée est une indication des douleurs unilatérales qui restent rares en cancérologie.
 
-*   Parmi les techniques anesthésiques :
+<!-- -->
+
+- Parmi les techniques anesthésiques :
+
+<!-- -->
 
 - les blocs nerveux aux anesthésiques locaux, reproductibles à intervalles réguliers ; - les blocs ganglionnaires sympathiques, en particulier le bloc coeliaque. Il est très efficace sur les douleurs des cancers du pancréas, de l'estomac et du duodénum. L'alcool est en général utilisé, plus rarement le phénol ;
 
@@ -138,8 +142,8 @@ Il apparaît que le traitement médicamenteux est de loin le plus simple et le p
 
 Le recours aux neurolyses péridurales ou intrathécales (alcool, phénol) ne se justifie pratiquement plus sauf dans quelques exceptions (bloc sacro-coccygien pour certaines douleurs des amputés du rectum).
 
-### **Conclusion**
+### Conclusion
 
 Quels que soient les progrès de la médecine, plusieurs études ont démontré que le traitement de la douleur chronique reste insuffisant dans de nombreux pays malgré l'existence de moyens thérapeutiques antalgiques efficaces. Cependant une approche clinique rigoureuse associée à l'application d'un schéma thérapeutique répondant à des règles strictes et la prise en charge du patient douloureux chronique devraient faire en sorte que ce symptôme inévitable ne soit plus irrémédiable.
 
-_Développement et Santé, n° 131, octobre 1997_
+*Développement et Santé, n° 131, octobre 1997*

@@ -9,19 +9,20 @@ date: "2007-06-23"
 
 Les règles de base de gestion de la pharmacie sont applicables à tous les médicaments (connaître l'état du stock à chaque instant ; déclencher, passer, suivre et réceptionner une commande ; valider le stock théorique par un inventaire...) mais des règles de gestion spéci­fique s'appliquent aux médicaments ARV, car :
 
-*   **Ce sont des traitements chroniques** : un patient débutant un traitement ARV le renouvellera chaque mois pendant une longue période ou toute sa vie. Ainsi pour chaque approvisionnement de la pharmacie en ARV l'évaluation des besoins est basée sur le nombre de patients déjà sous traite­ment auquel s'ajoute le nombre de patients qui vont démarrer un traitement ARV.  
-*   Ce sont des traitements qui **deviennent inefficaces et peuvent favoriser l'appa­rition de virus résistants si l'observan­ce du patient est inférieure à 95 % des prises**, c'est-à-dire si le patient rate plus de 1 prise sur 10 (dans le cas des traitements ARV contre le VIH). L'observance est égale­ment cruciale dans le cas de tuberculose ou de la lèpre. Les ruptures de stock d'ARV et autres médicaments spécifiques sont donc à éviter absolument car elles représentent une cause majeure de non observance.  
-*   **Les sources et procédures de finance­ment**des médicaments ARV et antitubercu­leux sont souvent spécifiques et différentes de celles des autres médicaments.  
-*   Les médicaments ARV et les médicaments antituberculeux doivent être stockés et gérés de façon spécifique car ils sont **fragiles et précieux** : rangés dans un endroit sécurisé et gérés dans des registres séparés des autres médicaments.
+- **Ce sont des traitements chroniques** : un patient débutant un traitement ARV le renouvellera chaque mois pendant une longue période ou toute sa vie. Ainsi pour chaque approvisionnement de la pharmacie en ARV l'évaluation des besoins est basée sur le nombre de patients déjà sous traite­ment auquel s'ajoute le nombre de patients qui vont démarrer un traitement ARV.
+- Ce sont des traitements qui **deviennent inefficaces et peuvent favoriser l'appa­rition de virus résistants si l'observan­ce du patient est inférieure à 95 % des prises**, c'est-à-dire si le patient rate plus de 1 prise sur 10 (dans le cas des traitements ARV contre le VIH). L'observance est égale­ment cruciale dans le cas de tuberculose ou de la lèpre. Les ruptures de stock d'ARV et autres médicaments spécifiques sont donc à éviter absolument car elles représentent une cause majeure de non observance.
+- **Les sources et procédures de finance­ment**des médicaments ARV et antitubercu­leux sont souvent spécifiques et différentes de celles des autres médicaments.
+- Les médicaments ARV et les médicaments antituberculeux doivent être stockés et gérés de façon spécifique car ils sont **fragiles et précieux** : rangés dans un endroit sécurisé et gérés dans des registres séparés des autres médicaments.
 
-### Evaluation des besoins en ARV  
+### Evaluation des besoins en ARV
+
 nécessaires pour passer les commandes
 
 Il est indispensable de mettre en place **un tableau de suivi global de la cohorte de patients suivant un traitement ARV.**
 
 Le nombre de patients à traiter augmente tous les mois du nombre de nouveaux patients en traitement et des patients "transférés d'un autre centre" ; il ne peut diminuer que du nombre de patients décédés, perdus de vue ou ayant déménagé, ou , pour la tuberculose ou la lèpre, du nombre de patients déclarés guéris.
 
-Pour établir la commande de médicaments destinés au traitement de ces patients, il faudra, chaque mois, et pour chaque type de traitement (traitements ARV de première et de deuxième ligne, diabétiques sous insuli­ne, tuberculeux, etc.) calculer à partir de chaque registre de patients (VIH, diabète, TB...) _(voir tableau 1)_.
+Pour établir la commande de médicaments destinés au traitement de ces patients, il faudra, chaque mois, et pour chaque type de traitement (traitements ARV de première et de deuxième ligne, diabétiques sous insuli­ne, tuberculeux, etc.) calculer à partir de chaque registre de patients (VIH, diabète, TB...) *(voir tableau 1)*.
 
 <table>
 <caption>Tableau 1 : calcul du nombre de traitements par mois à venir</caption>
@@ -32,7 +33,7 @@ Pour établir la commande de médicaments destinés au traitement de ces patient
 
 <th scope="row" valign="top">
 
-1. Nombre de patients déjà sous traitement et qui tolèrent leur combinaison de médicaments.
+1.  Nombre de patients déjà sous traitement et qui tolèrent leur combinaison de médicaments.
 
 </th>
 
@@ -48,7 +49,7 @@ Doivent continuer à prendre le même trai­tement => commander les médicaments
 
 <th scope="row" valign="top">
 
-2. Nombre de patients déjà sous traitement ne tolérant pas leur combinaison de médicaments.
+2.  Nombre de patients déjà sous traitement ne tolérant pas leur combinaison de médicaments.
 
 </th>
 
@@ -64,7 +65,7 @@ Doivent continuer à être traités mais chan­ger leur combinaison de médicame
 
 <th scope="row" valign="top">
 
-3. Nombre de patients en attente pour démarrer un traitement.
+3.  Nombre de patients en attente pour démarrer un traitement.
 
 </th>
 
@@ -80,7 +81,7 @@ Ils représentent les nouveaux patients à inclure => commander les médicaments
 
 <th scope="row" valign="top">
 
-4. Nombre de patients qui ont quitté la région (transférés dans un autre centre) durant le mois précédent.
+4.  Nombre de patients qui ont quitté la région (transférés dans un autre centre) durant le mois précédent.
 
 </th>
 
@@ -96,7 +97,7 @@ Ne pas commander de médicaments pour ces patients.
 
 <th scope="row" valign="top">
 
-5. Nombre de patients déclarés guéris durant le mois précédent.
+5.  Nombre de patients déclarés guéris durant le mois précédent.
 
 </th>
 
@@ -112,7 +113,7 @@ Ne pas commander de médicaments pour ces patients.
 
 <th scope="row" valign="top">
 
-6. Nombre de patients décédés durant le mois précédent.
+6.  Nombre de patients décédés durant le mois précédent.
 
 </th>
 
@@ -128,7 +129,7 @@ Ne pas commander de médicaments pour ces patients.
 
 </table>
 
-**_Ces données permettent de savoir quelle sera la consommation mensuelle pour le mois suivant (1 + 2 + 3) - (4 + 5 + 6)._**** _Ensuite, il est possible de calculer le seuil de commande comme indiqué plus haut en remplaçant la CMM par la consommation prévue pour le mois suivant._**  
+***Ces données permettent de savoir quelle sera la consommation mensuelle pour le mois suivant (1 + 2 + 3) - (4 + 5 + 6).* *Ensuite, il est possible de calculer le seuil de commande comme indiqué plus haut en remplaçant la CMM par la consommation prévue pour le mois suivant.***
 
 ## II. Pratiques de dispensation spécifiques aux médicaments ARV
 
@@ -217,14 +218,15 @@ C'est une méthode intéressante car elle permet un dialogue avec les patients. 
 
 </table>
 
-## III. Comment réagir face à une rupture  
+## III. Comment réagir face à une rupture
+
 de stock en médicaments ARV ?
 
 **Un médicament ARV ne doit jamais être supprimé d'une combinaison d'ARV ni remplacé spontanément par un autre médicament ARV.**
 
-1.  Signaler cette rupture aux responsables du programme.  
-2.  Estimer le nombre de patients concernés par cette rupture.  
-3.  Estimer la quantité d'ARV à commander en urgence et déclencher une commande d'urgence auprès du fournisseur habituel.  
+1.  Signaler cette rupture aux responsables du programme.
+2.  Estimer le nombre de patients concernés par cette rupture.
+3.  Estimer la quantité d'ARV à commander en urgence et déclencher une commande d'urgence auprès du fournisseur habituel.
 4.  Bien noter le délai d'approvisionnement annoncé et, en attendant la livraison en urgence, se faire dépanner si possible par des structures voisines.
 
 <table>
@@ -278,4 +280,4 @@ Si le dépannage est impossible,
 
 </table>
 
-_Développement et Santé, n°188, 2007_
+*Développement et Santé, n°188, 2007*

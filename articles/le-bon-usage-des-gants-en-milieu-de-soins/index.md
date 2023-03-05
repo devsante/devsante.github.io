@@ -12,19 +12,19 @@ Il faut bien distinguer <strong>les gants stériles</strong> <strong>destinés e
 
 ### 1. Les gants non stériles comprennent
 
-*   **Les gants dits de soin non stériles, pour protéger ses mains d’un contact non invasif avec du sang ou un liquide biologique** tel que la salive ou des matières fécales.  
-*   **Les gants dits de protection, pour les protéger d’un produit chimique, comme un désinfectant, un détergent-désinfectant ou encore un médicament anticancéreux**. Ces derniers comportent en outre une manchette pour mieux protéger les poignets de l’opérateur.
+- **Les gants dits de soin non stériles, pour protéger ses mains d’un contact non invasif avec du sang ou un liquide biologique** tel que la salive ou des matières fécales.
+- **Les gants dits de protection, pour les protéger d’un produit chimique, comme un désinfectant, un détergent-désinfectant ou encore un médicament anticancéreux**. Ces derniers comportent en outre une manchette pour mieux protéger les poignets de l’opérateur.
 
 ### 2. Les gants stériles comprennent
 
-*   **Les gants dits de soin stériles, pour les soins, généralement invasifs, qui ont une exigence d’asepsie**, comme un sondage urinaire, un cathéter vasculaire, etc.  
-*   **Les gants dits d’intervention, pour les interventions de courte durée**, comme une suture chirurgicale.
+- **Les gants dits de soin stériles, pour les soins, généralement invasifs, qui ont une exigence d’asepsie**, comme un sondage urinaire, un cathéter vasculaire, etc.
+- **Les gants dits d’intervention, pour les interventions de courte durée**, comme une suture chirurgicale.
 
-### 3. En fonction de leur composition, on distingue :
+### 3. En fonction de leur composition, on distingue
 
-*   Les gants en **latex naturel**, dont l’**élasticité** et la **résistance** sont remarquables.  
-*   Les gants en **caoutchouc synthétique hypo-allergénique**, tel que le néoprène ou le polyuréthane.  
-*   Les gants en **polymère thermoplastique, peu coûteux**, **mais sans élasticité ni grande résistance**, tel que le polychlorure de vinyle ou le polyéthylène de haute densité.
+- Les gants en **latex naturel**, dont l’**élasticité** et la **résistance** sont remarquables.
+- Les gants en **caoutchouc synthétique hypo-allergénique**, tel que le néoprène ou le polyuréthane.
+- Les gants en **polymère thermoplastique, peu coûteux**, **mais sans élasticité ni grande résistance**, tel que le polychlorure de vinyle ou le polyéthylène de haute densité.
 
 ## II. Indications
 
@@ -90,11 +90,9 @@ Elle se traduit par des lésions d’**eczéma**, apparaissant au minimum après
 
 Les gants  sont une protection, une deuxième peau ; mais attention à bien respecter les règles de leur utilisation, de façon à bénéficier de toute leur sécurité.
 
-
 ![](les-gants.jpg)
 
-
-_**Bibliographie** _:
+\_**Bibliographie** \_:
 
 1.  Gants de protection pour les métiers de la santé. Institut National de Recherche et de Sécurité (INRS). Travail et sécurité, fiches pratiques de sécurité (ED 118) : 1-4, 2004, Paris
 2.  Surveiller et prévenir les infections associées aux soins Société Française d'Hygiène Hospitalière, Ministère de la Santé et des Sports, Haut Conseil de la santé publique Hygiènes, 2010 - 18-28, 62-3, 69-75

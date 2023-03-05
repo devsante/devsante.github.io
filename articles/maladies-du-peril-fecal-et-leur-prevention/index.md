@@ -18,9 +18,9 @@ La rédaction de ces modules fait suite à une série de cours donnés à l'Alli
 
 L'enseignement se déclinera selon les modules suivants et de manière interactive, si possible :
 
-*   Module 1 le péril fécal.  
-*   Module 2 le choléra.  
-*   Module 3 mesures préventives, collectives et individuelles, vis-à-vis des maladies liées au péril fécal en général et du choléra en particulier.
+- Module 1 le péril fécal.
+- Module 2 le choléra.
+- Module 3 mesures préventives, collectives et individuelles, vis-à-vis des maladies liées au péril fécal en général et du choléra en particulier.
 
 Les modules ne sont pas indépendants mais peuvent être enseignés en plusieurs étapes. Il convient cependant de respecter l'ordre des modules pour leur compréhension globale.
 
@@ -32,13 +32,13 @@ Les modules ne sont pas indépendants mais peuvent être enseignés en plusieurs
 
 À la fin de la formation, l'élève doit être capable de :
 
-*   reconnaître et nommer les différentes voies de contamination du péril fécal ;
+- reconnaître et nommer les différentes voies de contamination du péril fécal ;
 
-*   connaître les principaux moyens de prévention collective et individuelle des maladies du péril fécal et du choléra ;
+- connaître les principaux moyens de prévention collective et individuelle des maladies du péril fécal et du choléra ;
 
-*   connaître et expliquer les modalités pratiques et la réalisation des mesures préventives des maladies liées au péril fécal et du choléra au niveau individuel ;
+- connaître et expliquer les modalités pratiques et la réalisation des mesures préventives des maladies liées au péril fécal et du choléra au niveau individuel ;
 
-*   connaître la conduite à tenir face à un cas suspect de choléra durant les premières heures.
+- connaître la conduite à tenir face à un cas suspect de choléra durant les premières heures.
 
 **Module 1 Le péril fécal (ou les maladies** **des " mains sales ")**
 
@@ -50,8 +50,8 @@ Tableau + craie.
 
 À la fin de l'enseignement, l'étudiant devra pouvoir :
 
-1.  Définir le péril fécal.  
-2.  Citer des exemples simples de maladies liées au péril fécal.  
+1.  Définir le péril fécal.
+2.  Citer des exemples simples de maladies liées au péril fécal.
 3.  Reproduire et expliquer le schéma de transmission générale des maladies du péril fécal.
 
 **Étape 1**
@@ -90,19 +90,17 @@ Sujet : quelques exemples de maladies liées au péril fécal pour les rendre pl
 
 - Microbes.
 
-- Principales maladies liées au péril fécal _(tableau n° 1_).
+- Principales maladies liées au péril fécal *(tableau n° 1*).
 
 - Signes, symptômes.
 
 - Dysenteries.
 
-
 ![](i907-1.jpg)
-
 
 **Proposition**
 
-Faire découvrir les différentes maladies sous forme de questions-réponses. Insister sur les vers (parasites intestinaux) car en général tout le monde en a déjà souffert. Les maladies à citer absolument sont dans le _tableau n° 1_.
+Faire découvrir les différentes maladies sous forme de questions-réponses. Insister sur les vers (parasites intestinaux) car en général tout le monde en a déjà souffert. Les maladies à citer absolument sont dans le *tableau n° 1*.
 
 **Étape 3**
 
@@ -110,25 +108,23 @@ Sujet : les modes de transmission des maladies du péril fécal.
 
 **Concepts clés**
 
-- Cycle de transmission des maladies liées au péril fécal _(figure n°1_).
+- Cycle de transmission des maladies liées au péril fécal *(figure n°1*).
 
 - Porteur de maladie symptomatique (malade).
 
 - Porteur de maladie asymptomatique (porteur sain) mais contaminant.
 
-
 ![](i907-2.jpg)
-
 
 **Proposition**
 
 Effectivement ces maladies sont en relation avec le péril fécal, c'est-à-dire avec le " caca ". Il faut appeler les choses par leur nom ! Tous cela est très bien mais, comment en pratique va-t-on finir par avaler des particules de matières fécales contenant des microbes responsables d'une des maladies du péril fécal (typhoïde, choléra, ascaris ... ) ? Le schéma qui va suivre est **le schéma fondamental** à comprendre. Il va résumer les différentes manières d'attraper l'une de ces maladies. Si vous l'avez bien compris, vous saurez déjà presque vous en protéger.
 
-_Comprendre comment on peut attraper les maladies liées au péril fécal, c'est comprendre comment s'en protéger._
+*Comprendre comment on peut attraper les maladies liées au péril fécal, c'est comprendre comment s'en protéger.*
 
 **Faisons le schéma suivant pas à pas.**
 
-Les numéros se rapportent à l'explication qui suit; celle-ci devra être faite en même temps que le dessin. Dans le reste des modules, les mêmes numéros seront réutilisés pour les mêmes étapes concernant la prévention. Une manière de procéder serait de conserver ce schéma sur un tableau sans l'effacer ou bien de le refaire à chaque fois que l'on en aura besoin (_figure n° 1_).
+Les numéros se rapportent à l'explication qui suit; celle-ci devra être faite en même temps que le dessin. Dans le reste des modules, les mêmes numéros seront réutilisés pour les mêmes étapes concernant la prévention. Une manière de procéder serait de conserver ce schéma sur un tableau sans l'effacer ou bien de le refaire à chaque fois que l'on en aura besoin (*figure n° 1*).
 
 **(1)** C'est le **porteur** du microbe, c'est-à-dire celui qui porte le microbe des maladies citées précédemment (typhoïde, choléra, ascaris ... ) en lui. Il peut être malade ou ne pas avoir l'air malade. Bien sûr, il fait ses besoins comme chacun de nous,
 
@@ -138,7 +134,7 @@ Les numéros se rapportent à l'explication qui suit; celle-ci devra être faite
 
 **(4)** mais les matières fécales avec les microbes des maladies du péril fécal vont aussi sur le **sol,**
 
-**(5)** et dans **l'eau** qui devient " eau sale " (non potable), soit directement, soit parce qu'elle a été souillée à travers le sol _(figure 2),_
+**(5)** et dans **l'eau** qui devient " eau sale " (non potable), soit directement, soit parce qu'elle a été souillée à travers le sol *(figure 2),*
 
 **(6)** et les **mouches,** avec leurs pattes qui vont sur les excréments,
 
@@ -148,9 +144,7 @@ Les numéros se rapportent à l'explication qui suit; celle-ci devra être faite
 
 C'est le **péril fécal** et la contamination se fait de proche en proche.
 
-
 ![](i907-3.jpg)
-
 
 **Étape 4**
 
@@ -158,25 +152,23 @@ Sujet : comprendre que tout le monde peut être touché savoir ; que l'on peut �
 
 **Concepts clés**
 
-*   Sujet sain = sujet réceptif.
+- Sujet sain = sujet réceptif.
 
-*   Sujet malade ou contaminé = porteur de maladie.
+- Sujet malade ou contaminé = porteur de maladie.
 
-*   Chronologie des phases de la maladie _(figure n° 3)._
+- Chronologie des phases de la maladie *(figure n° 3).*
 
-*   Incubation, maladie, convalescence.
+- Incubation, maladie, convalescence.
 
-*   Portage.
-
+- Portage.
 
 ![](i907-4.jpg)
-
 
 **Proposition**
 
 Et bien, je suis sûr que vous avez tous eu des " vers ", ceux dont on parlait tout à l'heure (ascaris, etc.) ; donc vous pouvez tous attraper l'une des maladies liées au péril fécal. Tout le monde peut être sujet réceptif : les enfants, les vieilles personnes, vous, moi, tout le monde.
 
-Les sujets exprimant la maladie commencent par être contaminés, puis suit une période d'incubation (le microbe se reproduit sans qu'il y ait encore de conséquences sur l'état de santé de l'individu porteur) ; puis les signes cliniques débutent (c'est la maladie), et ensuite disparaissent (en cas de guérison) et la convalescence débute. Pendant ces différentes phases, le sujet est porteur du microbe. On parle alors de _portage_ _(figure n° 3)._
+Les sujets exprimant la maladie commencent par être contaminés, puis suit une période d'incubation (le microbe se reproduit sans qu'il y ait encore de conséquences sur l'état de santé de l'individu porteur) ; puis les signes cliniques débutent (c'est la maladie), et ensuite disparaissent (en cas de guérison) et la convalescence débute. Pendant ces différentes phases, le sujet est porteur du microbe. On parle alors de *portage* *(figure n° 3).*
 
 Le porteur sain lui, ne présente aucun signe de maladie; en revanche, il est également porteur du microbe et donc potentiellement contaminant.
 
@@ -186,18 +178,16 @@ Sujet : survie des germes dans le milieu extérieur.
 
 **Concepts clés**
 
-*   Milieu extérieur.  
-*   Survie.  
-*   Pouvoir pathogène et espace-temps.  
-*   _Tableau n° 2._
-
+- Milieu extérieur.
+- Survie.
+- Pouvoir pathogène et espace-temps.
+- *Tableau n° 2.*
 
 ![](i907-5.jpg)
 
-
 **Proposition**
 
-On a vu que les malades portent dans leur tube digestif les microbes responsables de leur maladie. Lors de l'évacuation des selles, les microbes (encore appelés germes) sont évacués dans le milieu extérieur. Les microbes peuvent survivre même loin des hommes à qui ils transmettent la maladie. Ils peuvent rester dans la nature plusieurs semaines tout en allant très bien. Et s'ils finissent par être avalés, la chaîne de transmission du péril fécal sera poursuivie. Ils sont plus ou moins résistants dans le milieu extérieur _(tableau n°2)._
+On a vu que les malades portent dans leur tube digestif les microbes responsables de leur maladie. Lors de l'évacuation des selles, les microbes (encore appelés germes) sont évacués dans le milieu extérieur. Les microbes peuvent survivre même loin des hommes à qui ils transmettent la maladie. Ils peuvent rester dans la nature plusieurs semaines tout en allant très bien. Et s'ils finissent par être avalés, la chaîne de transmission du péril fécal sera poursuivie. Ils sont plus ou moins résistants dans le milieu extérieur *(tableau n°2).*
 
 Ainsi indirectement et par le cycle que vous connaissez bien maintenant, les porteurs peuvent contaminer les sujets réceptifs longtemps après avoir éliminé leurs selles, ce qui rend fondamentales les mesures permanentes de prévention. Mais nous verrons cela plus tard.
 
@@ -207,9 +197,9 @@ Sujet : la gravité potentielle des maladies du péril fécal.
 
 **Concepts clés**
 
-*   Diarrhée.  
-*   Complications tardives.  
-*   Mort.
+- Diarrhée.
+- Complications tardives.
+- Mort.
 
 **Proposition**
 
@@ -255,11 +245,11 @@ Tableau + craie.
 
 L'étudiant devra à la fin de l'enseignement pouvoir :
 
-1. Comprendre les modes de transmission du choléra, et expliquer les points particuliers de ceux-ci en se basant sur la _figure n°1_ du module 1 : le péril fécal.
+1.  Comprendre les modes de transmission du choléra, et expliquer les points particuliers de ceux-ci en se basant sur la *figure n°1* du module 1 : le péril fécal.
 
-2. Suspecter un cas de choléra devant des signes simples qu'il devra pouvoir énoncer.
+2.  Suspecter un cas de choléra devant des signes simples qu'il devra pouvoir énoncer.
 
-3. Mettre en oeuvre les premières mesures de traitement d'un cas de diarrhée (sévère).
+3.  Mettre en oeuvre les premières mesures de traitement d'un cas de diarrhée (sévère).
 
 **Étape 1**
 
@@ -267,10 +257,10 @@ Sujet : présentation du choléra.
 
 **Concepts clés**
 
-*   Épidémie.  
-*   _Vibrio cholerae._
-*   Péril fécal.  
-*   Diarrhée.
+- Épidémie.
+- *Vibrio cholerae.*
+- Péril fécal.
+- Diarrhée.
 
 **Proposition**
 
@@ -284,9 +274,9 @@ Sujet: un peu d'épidémiologie.
 
 **Concepts clés**
 
-*   Historique.  
-*   Epidémie, pandémie.  
-*   Situation à risque.
+- Historique.
+- Epidémie, pandémie.
+- Situation à risque.
 
 **Proposition**
 
@@ -310,7 +300,7 @@ Question. Dessinez une carte de Madagascar (de votre pays ou votre région si vo
 
 **Étape 3**
 
-Sujet : réservoir extérieur du _Vibrio cholerae._
+Sujet : réservoir extérieur du *Vibrio cholerae.*
 
 **Concepts clés**
 
@@ -326,13 +316,13 @@ On a vu dans le module précédent que certains microbes pouvaient vivre longtem
 
 VC survit très bien (plusieurs jours à plusieurs années)dans:
 
-*   l'eau douce (15 jours),
-*   l'eau salée (quelques semaines),
-*   la vase (quelques années),
-*   les aliments,
-*   les coquillages,
-*   le plancton,
-*   les crustacés.
+- l'eau douce (15 jours),
+- l'eau salée (quelques semaines),
+- la vase (quelques années),
+- les aliments,
+- les coquillages,
+- le plancton,
+- les crustacés.
 
 **Étape 4**
 
@@ -348,9 +338,9 @@ On vient de voir que VC est résistant et vit longtemps dans le milieu extérieu
 
 Il existe deux grands moyens :
 
-1. la chaleur (100 °C), l'ébullition
+1.  la chaleur (100 °C), l'ébullition
 
-2. le chlore (eau de Javel).
+2.  le chlore (eau de Javel).
 
 Mais aussi l'iode, le permanganate de potassium, de maniement plus délicat et aux effets secondaires gênants (dysthyroïdie, toxicité).
 
@@ -376,9 +366,9 @@ Maintenant que l'on connaît un peu mieux VC, apprenons pourquoi il est si dange
 
 Maintenant, imaginons qu'en plus de l'eau et des aliments contaminés par le péril fécal, nous avalons VC. L'on devient porteur de la maladie. VC dans notre tube digestif va sécréter une sorte de poison que nous appelons toxine cholérique en langage médical, qui va se déposer sur les parois du tube digestif et entraîner deux conséquences.
 
-1. Ce poison va empêcher d'absorber l'eau et les aliments dont notre corps a besoin pour fonctionner,
+1.  Ce poison va empêcher d'absorber l'eau et les aliments dont notre corps a besoin pour fonctionner,
 
-2. Ce poison va attirer l'eau et le sel de notre corps vers le tube digestif, qui vont être évacués par les selles, sous forme de diarrhée comme de l'eau. Et les quantités d'eau et de sels sont très importantes, jusqu'à 10 litres de diarrhée par jour.
+2.  Ce poison va attirer l'eau et le sel de notre corps vers le tube digestif, qui vont être évacués par les selles, sous forme de diarrhée comme de l'eau. Et les quantités d'eau et de sels sont très importantes, jusqu'à 10 litres de diarrhée par jour.
 
 Bien sûr, la conséquence principale d'une telle perte d'eau est une déshydratation massive et rapide qui fait toute la gravité de la maladie et qui peut entraîner la mort. Notre corps comme une outre se vide et l'on devient tout sec comme une plante qui manque d'eau et le risque est la mort.
 
@@ -398,7 +388,7 @@ particularités de la transmission du choléra.
 
 Reprenons notre grand schéma du module 1 sur les modes de transmission et essayons pour chaque étape de transmission de voir les caractéristiques propres au choléra.
 
-(1) Ici le porteur de la maladie peut revêtir plusieurs formes. Ce peut être :
+\(1\) Ici le porteur de la maladie peut revêtir plusieurs formes. Ce peut être :
 
 - Les malades atteints de choléra qui éliminent dans leurs matières fécales une grande quantité de VC mais aussi dans tous les liquides corporels (sueurs ... ).
 
@@ -416,11 +406,11 @@ Sur cent personnes vivant dans une région ou le choléra sévit : 80 personnes 
 
 (2)(3)(4) Les autres étapes de transmission ne présentent pas de particularités. VC va s'en aller contaminer ces différents éléments.
 
-(5) Les mouches jouent un rôle secondaire dans la transmission du choléra, mais c'est un reflet de la propreté de l'endroit (tas d'ordures, excréments ... ).
+\(5\) Les mouches jouent un rôle secondaire dans la transmission du choléra, mais c'est un reflet de la propreté de l'endroit (tas d'ordures, excréments ... ).
 
-(6) Comme toujours les aliments finissent par être contaminés par VC.
+\(6\) Comme toujours les aliments finissent par être contaminés par VC.
 
-(7) Les sujets réceptifs sont contaminés par les voies classiques de contamination que nous avons décrites.
+\(7\) Les sujets réceptifs sont contaminés par les voies classiques de contamination que nous avons décrites.
 
 **Étape 7**
 
@@ -460,15 +450,13 @@ Sujet : conduite à tenir.
 
 On peut préparer aussi une solution de réhydratation orale soi-même, le 1/8 que les mamans connaissent bien, et le donner toujours en petite quantité à chaque fois mais tout le temps. À la fin du litre on recommence (voir encadré).
 
-2. **Amener** en urgence le malade dans un centre de tri pour malades diarrhéiques le plus proche de chez vous.
+2.  **Amener** en urgence le malade dans un centre de tri pour malades diarrhéiques le plus proche de chez vous.
 
 Les deux mesures doivent être faites en même temps, en fait et sans attendre. Le soluté de réhydratation sert à ne pas perdre de temps avant d'arriver au centre de soins. Il y aura d'autres traitements à entreprendre dans le cas du choléra que seules les équipes de santé peuvent dispenser.
 
 Le **choléra** est une **urgence vitale** et des mesures sont à prendre pour l'entourage du malade et sa maison. Il est donc impératif de consulter le centre de tri devant tout cas suspect.
 
-
 ![](i907-6.jpg)
-
 
 **Module 3 Prévention des maladies du péril fécal et du choléra**
 
@@ -480,9 +468,9 @@ Tableau + craie
 
 L'étudiant devra, à la fin de l'enseignement, pouvoir :
 
-1. Définir et expliquer les modes de **prévention collective** des maladies du péril fécal en général et du choléra en particulier, en se basant sur le schéma des modes de transmission du Module 1. (_Voir schéma_)
+1.  Définir et expliquer les modes de **prévention collective** des maladies du péril fécal en général et du choléra en particulier, en se basant sur le schéma des modes de transmission du Module 1. (*Voir schéma*)
 
-2. Définir et appliquer les modes de **prévention individuelle** des maladies du péril fécal en général et du choléra en particulier, en se basant sur le schéma des modes de transmission du Module 1.
+2.  Définir et appliquer les modes de **prévention individuelle** des maladies du péril fécal en général et du choléra en particulier, en se basant sur le schéma des modes de transmission du Module 1.
 
 **Etape 1**
 
@@ -502,54 +490,56 @@ Faire réfléchir sur les moyens à mettre en oeuvre pour lutter contre chacun d
 
 **Porteur de la maladie (1),** surtout pour le choléra :
 
-*   Identification, hospitalisation, isolement et traitement des cas.  
-*   Traitement des familles et des sujets contacts, désinfection des maisons.  
-*   Déclaration des décès pour la mise en place des équipes de riposte qui iront traiter les contacts, désinfecter les habitations.  
-*   Dépistage et traitement des porteurs sains.  
-*   Réseaux d'alerte renforcés et efficaces.
+- Identification, hospitalisation, isolement et traitement des cas.
+- Traitement des familles et des sujets contacts, désinfection des maisons.
+- Déclaration des décès pour la mise en place des équipes de riposte qui iront traiter les contacts, désinfecter les habitations.
+- Dépistage et traitement des porteurs sains.
+- Réseaux d'alerte renforcés et efficaces.
 
 **Matières-fécales (2)**
 
-*   Création de latrines.  
-*   Développement de la voirie.  
-*   Développement de réseaux d'égouts.
+- Création de latrines.
 
-*   Traitement des eaux sales, bassins de décantation...
+- Développement de la voirie.
+
+- Développement de réseaux d'égouts.
+
+- Traitement des eaux sales, bassins de décantation...
 
 **Mains (3)**
 
-*   Cadre législatif des mesures d'hygiène en restauration publique, dans les écoles, sur les lieux de travail.  
-*   Eau propre et savon dans chaque cuisine de restauration publique, écoles, lieux de travail.
+- Cadre législatif des mesures d'hygiène en restauration publique, dans les écoles, sur les lieux de travail.
+- Eau propre et savon dans chaque cuisine de restauration publique, écoles, lieux de travail.
 
 **Sol (4) :**
 
-*   Respect des permis de construire.  
-*   Respect des lois, interdiction d'utiliser de l'engrais humain.  
-*   Traitement systématique des récoltes de fruits et légumes.  
-*   Regroupements des points d'eau et/ou des latrines.  
-*   Distance minimum de 15 m entre les zones de défécation et les points d'eau.  
-*   Développement des réseaux d'égouts.
+- Respect des permis de construire.
+- Respect des lois, interdiction d'utiliser de l'engrais humain.
+- Traitement systématique des récoltes de fruits et légumes.
+- Regroupements des points d'eau et/ou des latrines.
+- Distance minimum de 15 m entre les zones de défécation et les points d'eau.
+- Développement des réseaux d'égouts.
 
 **Eau (5) :**
 
-*   La Jirama* pour tous, chloration systématique de l'eau.  
-*   Adduction d'eau.  
-*   Traitement et séparation des eaux usées.  
-*   Mesures aux niveaux des écoles, des hôtels et des restaurants pour la qualité de l'eau.
+- La Jirama\* pour tous, chloration systématique de l'eau.
+- Adduction d'eau.
+- Traitement et séparation des eaux usées.
+- Mesures aux niveaux des écoles, des hôtels et des restaurants pour la qualité de l'eau.
 
-*La Jirama est l'entreprise publique chargé de la distribution de l'électricité et de l'eau à Madagascar
+\*La Jirama est l'entreprise publique chargé de la distribution de l'électricité et de l'eau à Madagascar
 
 **Mouches (6):**
 
-*   Lutte anti-vectorielle.  
-*   Ramassage et traitement des ordures, décharges publiques.
+- Lutte anti-vectorielle.
+- Ramassage et traitement des ordures, décharges publiques.
 
 **Aliments (7) :**
 
-*   Création d'une police sanitaire.  
-*   Cadre législatif régissant la vente des produits et l'assainissement : utilisation de vitrines réfrigérées ou de frigo pour la conservation des aliments préparés, respect de la chaîne du froid.  
-*   Cadre législatif concernant la restauration collective.  
-*   Aménagement, nettoyage et hygiène des marchés.
+- Création d'une police sanitaire.
+- Cadre législatif régissant la vente des produits et l'assainissement : utilisation de vitrines réfrigérées ou de frigo pour la conservation des aliments préparés, respect de la chaîne du froid.
+- Cadre législatif concernant la restauration collective.
+- Aménagement, nettoyage et hygiène des marchés.
 
 Ce sont des mesures collectives et elles ne sont pas exhaustives !
 
@@ -639,9 +629,9 @@ Avant
 
 Après
 
-*   être allé aux toilettes,
-*   avoir changé les enfants,
-*   le travail.
+- être allé aux toilettes,
+- avoir changé les enfants,
+- le travail.
 
 On peut se laver les mains plus souvent si l'on veut, mais les exemples précédents sont le minimum à respecter.
 
@@ -651,10 +641,10 @@ Sujet : mesures détaillées de prévention individuelle autour de l'eau.
 
 **Concepts clés**
 
-*   Cycle de transmission (Schéma).  
-*   Désinfecter.  
-*   Protéger.  
-*   Eviter la recontamination.
+- Cycle de transmission (Schéma).
+- Désinfecter.
+- Protéger.
+- Eviter la recontamination.
 
 **Proposition**
 
@@ -664,7 +654,7 @@ Il faut d'une part désinfecter l'eau mais il faut aussi la protéger d'une reco
 
 **Désinfecter par**
 
-*   L'ébullition
+- L'ébullition
 
 Il s'agit de laisser bouillir, pendant 5 à 10 minutes, l'eau qui est destinée à la consommation. L'eau refroidie est ainsi potable.
 
@@ -672,35 +662,43 @@ Il s'agit de laisser bouillir, pendant 5 à 10 minutes, l'eau qui est destinée 
 
 - Désavantages : il faut avoir du combustible, il faut laisser refroidir l'eau avant de la consommer.
 
-*   La chloration
+<!-- -->
+
+- La chloration
 
 Le chlore en bouteille à 10° (eau de Javel) s'achète dans le commerce.
 
-a) Prendre 2 ml de solution à 10°, soit 1 cuillère à café remplie à plat (sans bombement),
+a\) Prendre 2 ml de solution à 10°, soit 1 cuillère à café remplie à plat (sans bombement),
 
-b) Verser ce volume dans 10 litres d'eau soit un seau d'eau de la fontaine ou du puits,
+b\) Verser ce volume dans 10 litres d'eau soit un seau d'eau de la fontaine ou du puits,
 
-c) Mélanger bien,
+c\) Mélanger bien,
 
-d) Laisser reposer 30 minutes,
+d\) Laisser reposer 30 minutes,
 
-e) Vous obtenez 10 litres d'eau potable.
+e\) Vous obtenez 10 litres d'eau potable.
 
 La bouteille d'eau de Javel (solution de chlore à 10 ou 12°) de 1 litre coûte environ 4000 Francs malgache dans le commerce. Or avec 1 litre de solution de chlore on peut rendre potable 5000 litres d'eau, ce qui correspond à la consommation moyenne de 4 mois d'une famille de 5 personnes.
 
 **Protéger en conservant**
 
-*   **L'eau :**
+- **L'eau :**
 
-*   dans un récipient fermé (bouteille avec bouchon, seau avec couvercle).  
-*   pour puiser l'eau dans le seau il faut utiliser une tasse propre ou une louche réservée uniquement à cet usage, en veillant à ne pas tremper les mains dans l'eau potable.  
-*   **La solution de chlore (Javel) :**
+- dans un récipient fermé (bouteille avec bouchon, seau avec couvercle).
 
-*   dans un récipient en plastique opaque
-*   à l'abri de la lumière
-*   avec un couvercle
-*   éloignée des enfants
-*   éloignée de la nourriture
+- pour puiser l'eau dans le seau il faut utiliser une tasse propre ou une louche réservée uniquement à cet usage, en veillant à ne pas tremper les mains dans l'eau potable.
+
+- **La solution de chlore (Javel) :**
+
+- dans un récipient en plastique opaque
+
+- à l'abri de la lumière
+
+- avec un couvercle
+
+- éloignée des enfants
+
+- éloignée de la nourriture
 
 Par ailleurs, le thé et le café faits avec de l'eau bouillie, le vin, la bière, les eaux en bouteilles sont sans danger.
 
@@ -728,11 +726,11 @@ Avant de préparer ou de toucher la nourriture, il faut se laver les mains (eau 
 
 **Désinfecter par**
 
-*   La cuisson
+- La cuisson
 
 La cuisson détruit la plupart des germes pour peu qu'elle soit longue et complète.
 
-*   Le lavage et l'épluchage
+- Le lavage et l'épluchage
 
 Les légumes et fruits qui sont consommés crus doivent être lavés avec de l'eau potable (chlorée). Certains fruits ou légumes avec peau ou coquilles peuvent être épluchés. L'intérieur, s'il est manipulé avec propreté, est stérile.
 
@@ -742,7 +740,9 @@ Il faut donc éviter la contamination et empêcher la multiplication de ces micr
 
 **Protéger en :**
 
-*   Evitant la contamination
+- Evitant la contamination
+
+<!-- -->
 
 - Par des récipients couverts.
 
@@ -752,11 +752,11 @@ Il faut donc éviter la contamination et empêcher la multiplication de ces micr
 
 Les microbes détestent le très froid et le très chaud. S'ils se retrouvent dans une de ces 2 situations, ils meurent. Par contre ils adorent le tiède. Pour conserver les aliments il faut les stocker soit dans un endroit très froid, soit dans un endroit très chaud.
 
-*   Conservant par le chaud
+- Conservant par le chaud
 
 Pour que les aliments se gardent par le chaud, il faut les mettre sur le feu en continu. Il faut faire attention que le feu ne s'éteigne pas et que les aliments restent en continu tellement chauds qu'on ne peut pas les toucher avec la main. Ainsi les aliments se gardent pendant plusieurs heures (du repas du midi au repas du soir par exemple).
 
-*   Conservant par le froid
+- Conservant par le froid
 
 Une fois les aliments préparés, ils sont manipulés le moins possible, par des mains propres, et gardés au frais.
 
@@ -788,8 +788,6 @@ Comment préparez-vous vos repas ?
 
 Citez quelques moyens pour protéger l'eau potable et les aliments préparés.
 
-
 ![](i907-7.jpg)
 
-
-_Développement et Santé, n°148,149, 150, août, octobre, décembre 2000_
+*Développement et Santé, n°148,149, 150, août, octobre, décembre 2000*

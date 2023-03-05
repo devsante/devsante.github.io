@@ -34,17 +34,17 @@ Si aucun parent n'est asthmatique, le risque n'est que de 5 à 15 %.
 
 **Facteurs environnementaux**
 
-_Les allergènes_ : pollen des fleurs, animaux achat, cheval ... ), acariens si fréquents dans les tapis et les moquettes, certains aliments tels
+*Les allergènes* : pollen des fleurs, animaux achat, cheval ... ), acariens si fréquents dans les tapis et les moquettes, certains aliments tels
 
 que l'arachide, le lait de vache, le poisson, etc., les médicaments (aspirine).
 
-*   _La pollution_ : tabac, fumées d'usine, pots d'échappement.
+- *La pollution* : tabac, fumées d'usine, pots d'échappement.
 
-*   _Les virus respiratoires_ : virus respiratoire syncitial, grippe.
+- *Les virus respiratoires* : virus respiratoire syncitial, grippe.
 
-*   _Les efforts physiques_ : toux à l'effort.
+- *Les efforts physiques* : toux à l'effort.
 
-*   _L'air conditionné_ : variations thermiques brutales, défaut d'entretien des filtres...
+- *L'air conditionné* : variations thermiques brutales, défaut d'entretien des filtres...
 
 **Facteurs psychologiques**
 
@@ -52,7 +52,7 @@ Une crise d'asthme peut être déclenchée par une émotion, une contrariété..
 
 **Il.** **Clinique**
 
-Il faudra craindre une crise grave chez l'enfant devant les arguments suivants _(tableau n° 1)_ :
+Il faudra craindre une crise grave chez l'enfant devant les arguments suivants *(tableau n° 1)* :
 
 - crises fréquentes (plus d'une fois par semaine),
 
@@ -84,11 +84,9 @@ Il faudra craindre une crise grave chez l'enfant devant les arguments suivants _
 
 - traitements déjà pris.
 
-
 ![](i828-1.jpg)
 
-
-**III. Outils thérapeutiques** _(tableau n° 2)_
+**III. Outils thérapeutiques** *(tableau n° 2)*
 
 Il faut :
 
@@ -108,9 +106,9 @@ Ils ont fait de remarquables progrès et constituent **le** traitement de la cri
 
 - Terbutaline (Bricanyl®).
 
-La voie inhalée doit être préférée chaque fois que possible _(voir encadré n° 1)_ :
+La voie inhalée doit être préférée chaque fois que possible *(voir encadré n° 1)* :
 
-- en aérosol doseur chez l'enfant de plus de 6 ans (sachant inspirer sur commande) ou avec une chambre d'inhalation (confectionnée avec deux bouteilles de plastique au besoin) _(voir schéma dans encadré n° 1)_ ;
+- en aérosol doseur chez l'enfant de plus de 6 ans (sachant inspirer sur commande) ou avec une chambre d'inhalation (confectionnée avec deux bouteilles de plastique au besoin) *(voir schéma dans encadré n° 1)* ;
 
 chez l'enfant de plus de 10 ans, des inhalateurs en poudre (Ventodisk®) sont utiles.
 
@@ -144,11 +142,9 @@ Méthylprednisolone en intraveineuses 2 mg/kg/6 heures.
 
 Hémisuccinate en intraveineuses (Dirpcortisone® ) 5 mg/kg/4 heures.
 
-
 ![](i828-2.jpg)
 
 ![](i828-3.jpg)
-
 
 **2. Les médicaments** **de l'inflammation**
 
@@ -182,11 +178,9 @@ Chez un asthmatique connu et traité, la sur venue de manifestations à l'effort
 
 - surinfection bronchique gênant l'action des thérapeutiques inhalées (?2 stimulants et corticoïdes).
 
-Des règles d'hygiène et de diététique sont à conseiller pour ne pas " installer " l'enfant asthmatique dans sa maladie _(voir encadré n°2)._
-
+Des règles d'hygiène et de diététique sont à conseiller pour ne pas " installer " l'enfant asthmatique dans sa maladie *(voir encadré n°2).*
 
 ![](i828-4.jpg)
-
 
 **L'enfant doit être surveillé en** **permanence du début à la fin de crise.** **Intoxication à la théophylline**
 
@@ -196,4 +190,4 @@ Y penser devant ces symptômes : agitation inexpliquée, hyperthermie brutale, c
 
 Se méfier des sirops pour adulte et des formes injectables fortement dosées.
 
-_Développement et Santé, n°140, avril 1999_
+*Développement et Santé, n°140, avril 1999*

@@ -7,11 +7,11 @@ date: "1997-08-04"
 <div class="teaser"><p>La connaissance des groupes sanguins a permis d'établir des règles de transfusion à respecter impérativement. En effet, le non-respect de ces règles risque d'entraîner la mort du malade.</p>
 <p>Ainsi, avant toute transfusion sanguine, il faut connaître le groupe sanguin du receveur (le malade) et celui du ou des donneurs.</p></div>
 
-## **I.** **Le système ABO**
+## I. Le système ABO
 
 Découvert en 1900 par Landsteiner, c'est un groupe tissulaire, car présent sur la plupart des cellules de l'organisme, y compris les globules rouges ou hématies.
 
-### **1. Les antigènes** **du système ABO**
+### 1. Les antigènes du système ABO
 
 Situés à la surface de la membrane cellulaire, ils sont au nombre de deux :
 
@@ -91,13 +91,13 @@ Groupe 0 = absence d'antigène.
 
 </table>
 
-### **2. Les anticorps**
+### 2. Les anticorps
 
 Appelés naturels et réguliers, ils sont toujours présents dans le sérum, en dehors des extrêmes de la vie, chez un sujet non immunodéprimé. Les anticorps présents dans le sérum correspondent toujours à l'antigène absent des globules rouges.
 
-Par exemple, un sujet de groupe A possède, à la surface de ses hématies, l'antigène A, et dans son sérum l'anticorps anti B (_tableau n° 1_).
+Par exemple, un sujet de groupe A possède, à la surface de ses hématies, l'antigène A, et dans son sérum l'anticorps anti B (*tableau n° 1*).
 
-### **3. Génétique et phénotype _(tableau n° 2)_**
+### 3. Génétique et phénotype *(tableau n° 2)*
 
 La transmission génétique des antigènes A et B est autosomale dominante.
 
@@ -153,60 +153,54 @@ Pour les groupes AB et O, le génotype correspond aux phénotypes A/B et O/O res
 
 </table>
 
-Ainsi, un sujet de groupe A marié à une femme de groupe B pourra avoir des enfants de tous les groupes : dans ce cas, les parents sont AO et BO (_tableau n°3)._
+Ainsi, un sujet de groupe A marié à une femme de groupe B pourra avoir des enfants de tous les groupes : dans ce cas, les parents sont AO et BO (*tableau n°3).*
 
 **Tableau n° 3**
 
-
 ![](i741-1-web.jpg)
 
+### 4. Applications
 
-### **4. Applications**
+#### Le groupage sanguin
 
-*   #### **Le groupage sanguin**
-
-_- L'épreuve globulaire ou réaction de Beth Vincent :_
+*- L'épreuve globulaire ou réaction de Beth Vincent :*
 
 Correspond à la mise en évidence des antigènes globulaires, par agglutination des hématies porteuses d'un antigène, provoquée par l'anticorps (sérum test) correspondant.
 
 L'agglutination est franche, immédiate (moins d'une minute), complète (tous les globules rouges sont agglutinés).
 
-- La contre-épreuve, ou _épreuve sérique_ _ou réaction de Simonin_, confirme la technique précédente en révélant la présence d'anticorps dans le sérum, correspondant à l'antigène absent des globules rouges du sujet.
+- La contre-épreuve, ou *épreuve sérique* *ou réaction de Simonin*, confirme la technique précédente en révélant la présence d'anticorps dans le sérum, correspondant à l'antigène absent des globules rouges du sujet.
 
 Par la mise en présence de suspensions d'hématies connues A et B avec le sérum à tester, on observe une agglutination des hématies lorsque l'anticorps correspondant est présent.
 
-_**Pratique du groupage**_
+***Pratique du groupage***
 
-_Matériel :_
+*Matériel :*
 
-- Plaque d'opaline (verre blanc opaque, carré blanc, ou carton laqué blanc),  
+- Plaque d'opaline (verre blanc opaque, carré blanc, ou carton laqué blanc),
 - Tubes secs.
-
 
 ![](i741-2-web.jpg)
 
+***Réactifs :***
 
-**_Réactifs :_**
+*- pour le Beth Vincent = sérums tests anti A, anti B, et si possible anti A+B,*
 
-_- pour le Beth Vincent = sérums tests anti A, anti B, et si possible anti A+B,_
+*- pour le Simonin = globules rouges tests de groupes A, B et O.*
 
-_- pour le Simonin = globules rouges tests de groupes A, B et O._
+*Bien surveiller les conditions de conservation des réactifs*
 
-_Bien surveiller les conditions de conservation des réactifs_
+***Technique :***
 
-**_Technique :_**
+*- Sur plaque d'opaline (figure n° 1)*
 
-_- Sur plaque d'opaline (figure n° 1)_
+*Disposer, toujours dans le même ordre, une goutte de sérum test anti A, anti B, et éventuellement anti A+B ; sur chaque goutte de sérum test, déposer une goutte de suspension globulaire à 10 % = Beth Vincent.*
 
-_Disposer, toujours dans le même ordre, une goutte de sérum test anti A, anti B, et éventuellement anti A+B ; sur chaque goutte de sérum test, déposer une goutte de suspension globulaire à 10 % = Beth Vincent._
-
-_Disposer 3 fois 1 goutte de sérum du patient , sue chaque goutte, déposer une goutte de suspension globulaire à 10 % d'hématies connues A, B et 0 = Simonin._
+*Disposer 3 fois 1 goutte de sérum du patient , sue chaque goutte, déposer une goutte de suspension globulaire à 10 % d'hématies connues A, B et 0 = Simonin.*
 
 **Tableau N° 4. Détermination des groupes sanguins A, B, O et AB sur plaque d'opaline**
 
-
 ![](i741-3-web.jpg)
-
 
 Avec le fond d'un tube propre et sec, mélanger les 2 gouttes des zones de réaction une à une, d'un mouvement circulaire pour obtenir un rond d'environ 2 cm de diamètre, en prenant bien soin d'essuyer le fond du tube entre chaque réaction.
 
@@ -214,19 +208,17 @@ Chalouper la plaque d'opaline d'un mouvement circulaire horizontal légèrement 
 
 S'il y a passage d'éléments d'une zone de réaction à une autre, il faut recommencer le test.
 
-_Résultats (tableau n° 4_) _:_
+*Résultats (tableau n° 4*) *:*
 
 Réaction positive : les hématies agglutinées apparaissent comme des conglomérats rouges espacés de liquide clair et limpide de la couleur du réactif initial ou du sérum du patient.
 
 Réaction négative : le mélange globules rouges/sérum donne une teinte homogène orangée.
 
-Les résultats des deux techniques (Beth Vincent et Simonin) doivent être concordants pour valider le groupage (_tableau n° 5_).
+Les résultats des deux techniques (Beth Vincent et Simonin) doivent être concordants pour valider le groupage (*tableau n° 5*).
 
 **Tableau n° 5. Interprétation**
 
-
 ![](i741-4-web.jpg)
-
 
 **Réactions en tubes**
 
@@ -246,13 +238,13 @@ Centrifuger les tubes 1 minute à vitesse réduite (1 000 tours/minute).
 
 Lire les réactions en décollant le culot.
 
-_Résultats :_
+*Résultats :*
 
 Réaction positive : les hématies sont agglutinées entre elles par l'anticorps présent, on voit le liquide de réaction, limpide, à la surface et entre les agglutinais.
 
 Réaction négative : les hématies se remettent en suspension homogène dans le liquide de réaction.
 
-*   #### **La transfusion**
+#### La transfusion
 
 La règle en transfusion est de toujours respecter l'anticorps du receveur.
 
@@ -272,23 +264,21 @@ En dehors de l'urgence vitale, il est préférable de contrôler le groupe sur u
 
 En l'absence de sang du groupe du patient, se rappeler le schéma de compatibilité suivant (c'est l'anticorps du receveur qui compte : ne pas lui apporter l'antigène correspondant).
 
-
 ![](i741-5-web.jpg)
 
-
-*   #### **La grossesse**
+#### La grossesse
 
 L'incompatibilité ABO du couple mère-enfant très fréquente n'a que très rarement des conséquences cliniques, qui restent très discrètes.
 
-*   #### **La greffe d'organe**
+#### La greffe d'organe
 
 Le système ABO est un groupe tissulaire pouvant être impliqué dans la greffe d'organe.
 
-## **II. Le système Rhésus**
+## II. Le système Rhésus
 
 La découverte en 1940 par Landsteiner et Wiener du caractère agglutinant du sérum d'une multipare vis-à-vis de la plupart des échantillons de sang de la population a été à l'origine du décryptage encore très récent, biochimique et génétique, des antigènes de ce système. Des mystères persistent quant à leur fonction, puisqu'ils sont des éléments constitutifs de la membrane du globule rouge.
 
-### **1. Les antigènes**
+### 1. Les antigènes
 
 Situés sur toute la hauteur de la membrane cellulaire, les antigènes principaux du système Rhésus sont au nombre de cinq ; ils sont spécifiques des globules rouges du sang. Par leur présence ou leur absence ils définissent de nombreuses combinaisons.
 
@@ -302,9 +292,9 @@ Sa présence définit le caractère Rhésus positif, son absence, le caractère 
 
 C est l'allèle de c ; E est l'allèle de e ; D n'a pas d'allèle : il y a D ou rien.
 
-La présence de l'antigène à la surface des hématies, mise en évidence par l'anticorps correspondant, définit, comme dans le système ABO, le groupe sanguin (_tableau n° 6)._
+La présence de l'antigène à la surface des hématies, mise en évidence par l'anticorps correspondant, définit, comme dans le système ABO, le groupe sanguin (*tableau n° 6).*
 
-### **2. Les anticorps**
+### 2. Les anticorps
 
 Toujours immuns, ils apparaissent après stimulation par grossesse ou transfusion, chez un sujet dépourvu de l'antigène correspondant.
 
@@ -312,7 +302,7 @@ Toujours immuns, ils apparaissent après stimulation par grossesse ou transfusio
 
 Leur mise en évidence demande des techniques plus complexes que celle des anticorps du système ABO, telle la réaction de Coombs, ou test à l'antiglobuline, utilisée dans la recherche d'agglutinines irrégulières (RAI).
 
-### **3. Génétique et phénotype**
+### 3. Génétique et phénotype
 
 Les antigènes du système Rhésus sont le résultat de l'expression des gènes de ce système.
 
@@ -332,9 +322,9 @@ Ainsi, un individu de phénotype DCcee est probablement de génotype DCe/dce mai
 
 Le phénotype d'un individu ne correspond que rarement à son génotype : homozygotie ddccee: dce/dce.
 
-### **4. Applications**
+### 4. Applications
 
-*   #### Le groupage
+#### Le groupage
 
 La détermination du caractère Rhésus ou présence de l'antigène D, fait partie intégrante de la détermination du groupe sanguin et s'effectue en même temps que le groupage ABO.
 
@@ -454,13 +444,13 @@ Les sérums monoclonaux dispensent de ces artifices et s'emploient sur plaque et
 
 En cas de difficulté de réaction, considérer le sujet comme de groupe Rhésus négatif.
 
-*   #### **La transfusion**
+#### La transfusion
 
 Les antigènes du système Rhésus sont très immunogènes . Il est préférable autant que possible de respecter en particulier l'absence d'apport d'antigène D pour les receveurs de Rhésus négatif, et ce d'autant plus qu'il s'agit d'une petite fille ou d'une femme en âge de procréer.
 
 L'immunisation du receveur Rhésus négatif entraîne des accidents d'hémolyse de type ictère retardé, si on poursuit la transfusion de sang de Rhésus positif, parfois un accident d'hémolyse intravasculaire comme l'accident ABO, lorsque l'anticorps est très puissant.
 
-*   #### **La grossesse**
+#### La grossesse
 
 L'immunisation de la femme enceinte Rhésus négatif se fait par le passage d'hématies foetales portant le caractère Rhésus positif, le plus souvent en fin de grossesse et surtout au moment de l'accouchement.
 
@@ -478,8 +468,8 @@ Elle est possible également lorsque la mère a été précédemment stimulée p
 
 Les autres antigènes du système Rhésus peuvent aussi être responsables d'une MHNN.
 
-### **Conclusion**
+### Conclusion
 
-En vue d'une transfusion sanguine, il est indispensable de déterminer le groupe sanguin du malade et celui du ou des donneurs, La transfusion ne pourra être effectuée que si les groupes sont compatibles (_tableau n° 7_). Dans le cas contraire, la transfusion peut être responsable de la mort du malade.
+En vue d'une transfusion sanguine, il est indispensable de déterminer le groupe sanguin du malade et celui du ou des donneurs, La transfusion ne pourra être effectuée que si les groupes sont compatibles (*tableau n° 7*). Dans le cas contraire, la transfusion peut être responsable de la mort du malade.
 
-_Développement et Santé, n° 130, août 1997_
+*Développement et Santé, n° 130, août 1997*

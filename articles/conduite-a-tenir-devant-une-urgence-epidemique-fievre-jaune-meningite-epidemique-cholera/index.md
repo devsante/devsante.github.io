@@ -10,9 +10,9 @@ date: "2009-01-28"
 
 Cliniquement la fièvre jaune est marquée par trois signes majeurs qui doivent alerter :
 
-*   une fièvre accompagnée d'un syndrome infectieux ;
-*   un ictère, d'où son nom de fièvre jaüne ;
-*   des hémorragies (gencives, nez, selles, vomissements).
+- une fièvre accompagnée d'un syndrome infectieux ;
+- un ictère, d'où son nom de fièvre jaüne ;
+- des hémorragies (gencives, nez, selles, vomissements).
 
 Le contexte permet de confirmer la suspicion si, dans la région, sont recensés ou rapportés plusieurs cas de jaunisse avec fièvre et de décès brusques inexpliqués.
 
@@ -30,18 +30,18 @@ en forêt, il peut être infecté, transporter ensui­te la maladie au village e
 
 ### 3. Traitement
 
-*   Réhydratation par voie orale s'il n'y a pas de vomissements.  
-*   Antalgiques : paracétamol, pas d'aspirine.  
-*   Antihémorragiques : vitamine K.
+- Réhydratation par voie orale s'il n'y a pas de vomissements.
+- Antalgiques : paracétamol, pas d'aspirine.
+- Antihémorragiques : vitamine K.
 
 ### 4. Autres mesures
 
 Alerter les autorités du district ou du départe­ment. Il faut prévenir très rapidement le niveau départemental et par tous les moyens disponibles.
 
-*   Faire un **prélèvement de sang** et recueillir du sérum - à conserver à+4°C ou -20°C - chez les premiers patients afin de confirmer virologiquement le diagnostic.  
-*   Dénombrer les cas et les décès, en les distri­buant, sur une carte, par âge et selon leur origine géographique.  
-*   Il est important, pour limiter l'extension de l'épidémie, de promouvoir l'utilisation des moustiquaires pour tous et en particulier pour les enfants. Si celles-ci sont disponibles dans le cadre de la lutte contre le paludisme, elles doivent être distribuées à l'occasion des consultations pré- et post-natales, dans les écoles et les centres de santé eux même. Tous les malades hospitalisés, même pour quelques heures, doivent être sous une moustiquaire.  
-*   Enfin, il faut prévoir rapidement l'organisa­tion d'une vaccination de masse. Il est donc utile de prévenir les responsables des villages, de faire le bilan des matériels néces­saires (réfrigérateurs, seringues, coton, alcool, etc..) et, éventuellement, de retarder les séances prévues d'autres vaccinations pour y associer celle de la fièvre jaune.
+- Faire un **prélèvement de sang** et recueillir du sérum - à conserver à+4°C ou -20°C - chez les premiers patients afin de confirmer virologiquement le diagnostic.
+- Dénombrer les cas et les décès, en les distri­buant, sur une carte, par âge et selon leur origine géographique.
+- Il est important, pour limiter l'extension de l'épidémie, de promouvoir l'utilisation des moustiquaires pour tous et en particulier pour les enfants. Si celles-ci sont disponibles dans le cadre de la lutte contre le paludisme, elles doivent être distribuées à l'occasion des consultations pré- et post-natales, dans les écoles et les centres de santé eux même. Tous les malades hospitalisés, même pour quelques heures, doivent être sous une moustiquaire.
+- Enfin, il faut prévoir rapidement l'organisa­tion d'une vaccination de masse. Il est donc utile de prévenir les responsables des villages, de faire le bilan des matériels néces­saires (réfrigérateurs, seringues, coton, alcool, etc..) et, éventuellement, de retarder les séances prévues d'autres vaccinations pour y associer celle de la fièvre jaune.
 
 ## II. Conduite à tenir devant un cas de méningite épidé­mique à méningocoque
 
@@ -51,24 +51,24 @@ La méningite épidémique à recrudescence saisonnière est due au méningocoqu
 
 Chez l'enfant et l'adulte, la méningite associe un syndrome infectieux et des signes d'hyper­tension cérébrale soit :
 
-*   Fièvre, parfois masquée.  
-*   Céphalées avec photophobie.  
-*   Raideur de la nuque avec signe de Kernig.  
-*   Vomissements, provoqués par les mouve­ments.
+- Fièvre, parfois masquée.
+- Céphalées avec photophobie.
+- Raideur de la nuque avec signe de Kernig.
+- Vomissements, provoqués par les mouve­ments.
 
 Chez le petit enfant, on observe une nuque molle et un bombement de la fontanelle, sou­vent associés à des troubles de la conscience ou des convulsions.
 
 Ces méningites apparaissent à la saison sèche et froide (février, mars), essentiellement chez les enfants âgés de 2 à 6 ans.
 
-### 2. Pour confirmer le diagnostic, il est nécessaire :
+### 2. Pour confirmer le diagnostic, il est nécessaire
 
 De faire (ou faire faire) une ponction lombaire pour examen du LCR en adressant le prélève­ment au laboratoire le plus proche.  
 Le laboratoire effectuera une cytologie et une coloration de Gram et, si possible, un test au latex.
 
 Ces examens de laboratoire permettront de confirmer le diagnostic :
 
-*   liquide trouble ou purulent, non hémorra­gique, contenant de très nombreux polynu­cléaires (incomptables le plus souvent) ;
-*   présence de méningocoque : diplocoques Gram négatifs sur la lame colorée, et test au latex positif pour le méningocoque A ou C.
+- liquide trouble ou purulent, non hémorra­gique, contenant de très nombreux polynu­cléaires (incomptables le plus souvent) ;
+- présence de méningocoque : diplocoques Gram négatifs sur la lame colorée, et test au latex positif pour le méningocoque A ou C.
 
 ### 3. Traitement
 
@@ -200,8 +200,8 @@ de 11 à 14 ans
 
 #### b. Traitements adjuvants
 
-*   Anticonvulsivants : diazépam par voie intra­rectale ; 0,25 mg par kg de poids, à renou­veler 30 minutes plus tard si nécessaire.  
-*   Antitpyrétiques : paracétamol ; 50 mg par kg de poids par jour en 3 prises.
+- Anticonvulsivants : diazépam par voie intra­rectale ; 0,25 mg par kg de poids, à renou­veler 30 minutes plus tard si nécessaire.
+- Antitpyrétiques : paracétamol ; 50 mg par kg de poids par jour en 3 prises.
 
 S'il n'est pas possible d'utiliser le chloramphé­nicol huileux, on le remplace par ceftriaxone 50 mg/Kg par voie intramusculaire.
 
@@ -217,8 +217,8 @@ S'il n'est pas possible d'utiliser le chloramphé­nicol huileux, on le remplace
 
 Cliniquement, le choléra se manifeste par une diarrhée abondante, profuse, répétée (eau de riz) avec ou sans vomissement provoquant une déshydratation rapide et la mort.
 
-*   **diarrhée de l'adulte avec décès**
-*   **= choléra.**
+- **diarrhée de l'adulte avec décès**
+- **= choléra.**
 
 Le contexte peut orienter le diagnostic lorsque de nombreux cas sont notifiés en peu de temps.
 
@@ -226,33 +226,33 @@ Le contexte peut orienter le diagnostic lorsque de nombreux cas sont notifiés e
 
 L'urgence est la réhydratation :
 
-*   par voie orale (RVO) si le malade peut boire ;
-*   par perfusion IV (ou autres voies) dans les cas contraires.
+- par voie orale (RVO) si le malade peut boire ;
+- par perfusion IV (ou autres voies) dans les cas contraires.
 
 Chez le nourrisson, on peut envisager la voie intra-osseuse qui a donné de bons résultats lors d'épidémies.
 
 Il faut commencer par évaluer le degré de déshydratation.
 
-#### **a.**
+#### a. Réhydratation par voie orale
 
-Réhydratation par voie orale. Utiliser les sol­ tions de l'OMS ou du marketing social ou faites vous même votre solution ;
+Utiliser les sol­utions de l'OMS ou du marketing social ou faites vous même votre solution :
 
-*   dans un litre d'eau de boisson, mettre cinq moreaux de sucre et une petite cuillère de sel (ou le contenu d'une capsule de soda). Il est possible d'utiliser l'eau de cuisson du riz ou une décoction de feuilles de goyaviers.
+- dans un litre d'eau de boisson, mettre cinq moreaux de sucre et une petite cuillère de sel (ou le contenu d'une capsule de soda). Il est possible d'utiliser l'eau de cuisson du riz ou une décoction de feuilles de goyaviers.
 
-#### b. Si le malade ne peut pas boire :
+#### b. Si le malade ne peut pas boire
 
 il faut perfuser rapidement : Ringer lactate, soluté de Hartmann ou sérum salé à 9 p. mille.
 
 Les quantités à perfuser sont les suivantes :
 
-*   **Pour les sujets de plus de 1 an  :**
-    *   100 ml par kg en 3 heures,
-    *   30 ml par kg en 30 minutes puis,
-    *   70 ml par kg les 150 minutes suivantes.  
-*   **• Pour les sujets de moins de 1 an :**
-    *   100 ml par kg en 6 heures,
-    *   30 ml par kg pendant la 1° heure puis,
-    *   70 ml par kg les 5 heures suivantes.
+- **Pour les sujets de plus de 1 an  :**
+  - 100 ml par kg en 3 heures,
+  - 30 ml par kg en 30 minutes puis,
+  - 70 ml par kg les 150 minutes suivantes.
+- **• Pour les sujets de moins de 1 an :**
+  - 100 ml par kg en 6 heures,
+  - 30 ml par kg pendant la 1° heure puis,
+  - 70 ml par kg les 5 heures suivantes.
 
 Les antibiotiques ne sont utiles que pour dimi­nuer l'excrétion du vibrion, ils réduisent le risque de transmission pour les autres (doxy­cycline :1 cp par jour, soit 3 mg/Kg).
 
@@ -556,8 +556,8 @@ en ml par jour
 
 #### Confirmer le diagnostic
 
-*   Uniquement pour les premiers cas. Recueillir des selles liquides avec un écou­villon qui est ensuite introduit dans le milieu de transport ; étiqueter le tube et l'adresser au laboratoire national ou départemental.  
-*   Si l'on ne dispose pas de matériel de trans­port spécifique, il est possible de tremper un morceau de buvard dans les selles liquides, de le mettre dans un sachet plastique que l'on ferme soigneusement (par collage ou chaleur) puis de l'expédier en le mettant dans un 2ème sachet plastique également fermé. Il faut utiliser des gants pour ces manipula­tions.
+- Uniquement pour les premiers cas. Recueillir des selles liquides avec un écou­villon qui est ensuite introduit dans le milieu de transport ; étiqueter le tube et l'adresser au laboratoire national ou départemental.
+- Si l'on ne dispose pas de matériel de trans­port spécifique, il est possible de tremper un morceau de buvard dans les selles liquides, de le mettre dans un sachet plastique que l'on ferme soigneusement (par collage ou chaleur) puis de l'expédier en le mettant dans un 2ème sachet plastique également fermé. Il faut utiliser des gants pour ces manipula­tions.
 
 #### Alerter
 
@@ -569,13 +569,13 @@ Assurer la surveillance des cas nouveaux et les recenser par âge et par lieu de
 
 Le choléra étant la première des infections à transmission oro-fécale il faut :
 
-*   éliminer les excréta dans des latrines ou fosses creusées à plus de 50 m de tous points d'eau et après désinfection (Javel, crésyl) ;
-*   réglementer les funérailles en limitant les ras­semblements, en désinfectant tous les objets utilisés et en enterrant les cadavres avec de la chaux (à plus de 50 m de tout point d'eau) ;
-*   approvisionner en eau potable (rapidement et par tous moyens) ;
-*   assurer et renforcer la chloration de l'eau de boisson (4 gouttes d'eau de Javel par litre d'eau ou 1 cp de troclosène de sodium ou Aquatabs*) ;
-*   approvisionner en savons et produits de désinfection ;
-*   protéger les denrées alimentaires et éviter les aliments crus et mal cuits ;
-*   promouvoir l'utilisation des latrines (à réhabi­liter si nécessaire) ;
-*   assurer un lavage soigneux des mains (au savon) pour la préparation et la consomma­tion des repas.
+- éliminer les excréta dans des latrines ou fosses creusées à plus de 50 m de tous points d'eau et après désinfection (Javel, crésyl) ;
+- réglementer les funérailles en limitant les ras­semblements, en désinfectant tous les objets utilisés et en enterrant les cadavres avec de la chaux (à plus de 50 m de tout point d'eau) ;
+- approvisionner en eau potable (rapidement et par tous moyens) ;
+- assurer et renforcer la chloration de l'eau de boisson (4 gouttes d'eau de Javel par litre d'eau ou 1 cp de troclosène de sodium ou Aquatabs\*) ;
+- approvisionner en savons et produits de désinfection ;
+- protéger les denrées alimentaires et éviter les aliments crus et mal cuits ;
+- promouvoir l'utilisation des latrines (à réhabi­liter si nécessaire) ;
+- assurer un lavage soigneux des mains (au savon) pour la préparation et la consomma­tion des repas.
 
-_Développement et Santé, n°191/192, 2008_
+*Développement et Santé, n°191/192, 2008*

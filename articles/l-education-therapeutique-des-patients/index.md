@@ -26,4 +26,4 @@ En miroir de ce qui s'est réalisé en Europe, où l'éducation thérapeutique s
 
 Précisément les modalités d'articulation entre les acteurs du soin au sein de plateformes de santé qui relient les hôpitaux publics aux associations (à commencer par la question du statut des éducateurs), représentent une condition de réussite essentielle pour améliorer la continuité des soins.
 
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

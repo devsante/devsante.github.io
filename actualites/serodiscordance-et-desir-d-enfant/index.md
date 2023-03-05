@@ -31,28 +31,27 @@ Ils ont été complétés par des entretiens approfondis, individuels et en coup
 
 La sérodiscordance modifie l’équilibre du couple :
 
-*   en créant des tensions au sein du couple, décrites par près d’un tiers des répondants sud-africains et la moitié des répondants tanzaniens ;
-*   en affectant l’intimité du couple, pour plus de la moitié des Sud-Africains et près des trois quarts des Tanzaniens.
+- en créant des tensions au sein du couple, décrites par près d’un tiers des répondants sud-africains et la moitié des répondants tanzaniens ;
+- en affectant l’intimité du couple, pour plus de la moitié des Sud-Africains et près des trois quarts des Tanzaniens.
 
 Les tensions dans le couple étaient dues :
 
-*   à la peur de transmettre l’infection à leur partenaire séronégatif ;
-*   à la crainte, fondée ou non, d’infidélité de leur partenaire ;
-*   à l’utilisation du préservatif (perte de spontanéité, diminution de la libido, moindre fréquence des rapports sexuels, conflit entre le désir d’enfant et le souci de protéger son partenaire, peur d’infecter le partenaire malgré tout).
+- à la peur de transmettre l’infection à leur partenaire séronégatif ;
+- à la crainte, fondée ou non, d’infidélité de leur partenaire ;
+- à l’utilisation du préservatif (perte de spontanéité, diminution de la libido, moindre fréquence des rapports sexuels, conflit entre le désir d’enfant et le souci de protéger son partenaire, peur d’infecter le partenaire malgré tout).
 
 Le désir d’avoir un enfant :
 
-*   est fréquent : 17 couples sur les 32 qui n’étaient pas parents, et 16 sur les 44 qui avaient déjà des enfants ;
-*   est perturbé par la crainte de la transmission du VIH au partenaire séronégatif.
+- est fréquent : 17 couples sur les 32 qui n’étaient pas parents, et 16 sur les 44 qui avaient déjà des enfants ;
+- est perturbé par la crainte de la transmission du VIH au partenaire séronégatif.
 
 De nombreux couples déclarent vouloir les conseils d’un professionnel de santé avant de concevoir un enfant.  
 Pour beaucoup, la procréation médicalement assistée ne représente pas une méthode alternative souhaitée, ou elle reste trop onéreuse.
 
-###   
-Conclusion : nécessité d’une information ciblée pour les couples
+### Conclusion : nécessité d’une information ciblée pour les couples
 
 La plupart des interventions de prévention, traitement, soins et soutien du VIH sont destinées aux individus et il existe peu d’interventions pour les couples.  
 Des services de conseil et de soutien aux couples paraissent indispensables.  
 Les couples sérodiscordants devraient bénéficier de services de santé sexuelle et reproductive dans un cadre favorable et non discriminatoire et devraient être impliqués dans la riposte au VIH
 
-_Références de l’article : L C Rispel, C A Metcalf, K Moody, A Cloete, G Caswell ; “ Sexual relations and childbearing decisions of HIV-discordant couples : an exploratory study in South Africa and Tanzania ” ;  Reproductive Health Matters, Volume 19, Issue 37, May 2011, 184-193_
+*Références de l’article : L C Rispel, C A Metcalf, K Moody, A Cloete, G Caswell ; “ Sexual relations and childbearing decisions of HIV-discordant couples : an exploratory study in South Africa and Tanzania ” ;  Reproductive Health Matters, Volume 19, Issue 37, May 2011, 184-193*

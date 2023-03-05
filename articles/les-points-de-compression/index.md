@@ -14,21 +14,20 @@ Les schémas suivants vous montrent comment faire, en fonction de la localisatio
 
 Pour chaque artère, il faut connaître :
 
-*   les points de compression,
-*   le type de compression (avec un ou plusieurs doigts ou avec le pouce),
+- les points de compression,
 
-*   la position du blessé.
+- le type de compression (avec un ou plusieurs doigts ou avec le pouce),
 
+- la position du blessé.
 
 ![](12018-1.jpg)
 
 ![](12018-3.jpg)
 
-
 ## Surveillance
 
-*   La compression sera maintenue jusqu'à l'arrivée en milieu chirurgical.  
-*   Si cela ne suffit pas, comprimez davanta­ge avec les deux pouces ou les deux poings.  
-*   Ne mettez un garrot qu'après échec de la compression.
+- La compression sera maintenue jusqu'à l'arrivée en milieu chirurgical.
+- Si cela ne suffit pas, comprimez davanta­ge avec les deux pouces ou les deux poings.
+- Ne mettez un garrot qu'après échec de la compression.
 
-_Développement et santé, n°184, 2006_
+*Développement et santé, n°184, 2006*

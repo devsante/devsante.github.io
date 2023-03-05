@@ -16,38 +16,39 @@ Le diagnostic repose sur :
 
 #### Paralysie du nerf sciatique poplité externe (SPE)
 
-*   Pied tombant en varus équin avec impossibilité de faire une flexion dorsale par paralysie des muscles fléchisseurs dorsaux.  
-*   Anesthésie de la face dorsale du pied.
+- Pied tombant en varus équin avec impossibilité de faire une flexion dorsale par paralysie des muscles fléchisseurs dorsaux.
+- Anesthésie de la face dorsale du pied.
 
 #### Paralysie du nerf sciatique poplité interne (SPI)
 
-*   Pied en talus valgus avec impossibilité de faire une flexion plantaire par paralysie des muscles fléchisseurs plantaires.  
-*   Anesthésie plantaire.
+- Pied en talus valgus avec impossibilité de faire une flexion plantaire par paralysie des muscles fléchisseurs plantaires.
+- Anesthésie plantaire.
 
 #### Paralysie mixte du SPE et du SPI
 
 Le pied est inerte avec une anesthésie plantaire et dorsale.
 
-#### Remarques :
+#### Remarques
 
 L'évaluation musculaire est facile chez l'enfant qui peut obéir aux consignes. Elle est difficile pour les plus jeunes chez lesquels, de plus, l'anesthésie rend inopérantes les tentatives d'excitations cutanées. Il convient alors de regarder l'activité spontanée du pied.
 
-### 2. L'existence au stade initial d'un refroidissement  
+### 2. L'existence au stade initial d'un refroidissement
+
 et d'un oedème du pied
 
 ### 3. L'existence d'injection dans la fesse
 
-*   Souvent le moment exact de la paralysie peut être retrouvé car l'enfant a perçu une douleur en éclair dans le territoire sciatique.  
-*   Ce peut être aussi le cas de l'enfant qui marchait et qui, dans les heures qui suivent l'injection, ne peut plus mettre le pied au sol.  
-*   C'est chez l'enfant qui ne marche pas encore que le diagnostic est le plus difficile et chez lequel on constate, à partir du huitième jour, la paralysie et les troubles trophiques.
+- Souvent le moment exact de la paralysie peut être retrouvé car l'enfant a perçu une douleur en éclair dans le territoire sciatique.
+- Ce peut être aussi le cas de l'enfant qui marchait et qui, dans les heures qui suivent l'injection, ne peut plus mettre le pied au sol.
+- C'est chez l'enfant qui ne marche pas encore que le diagnostic est le plus difficile et chez lequel on constate, à partir du huitième jour, la paralysie et les troubles trophiques.
 
 ## II. Évolution spontanée
 
 Elle est imprévisible et dépend du degré d'atteinte des nerfs. La clinique, permet de la suivre.
 
-*   La récupération totale est possible en une durée qui va de 15 jours à 1 an.  
-*   L'absence totale de récupération est fréquente : elle entraîne des déformations du pied liées à la topographie de l'atteinte par déséquilibre musculaire et rétractions tendineuses et articulaires.  
-*   La récupération partielle est possible : elle entraîne également des déformations du pied.
+- La récupération totale est possible en une durée qui va de 15 jours à 1 an.
+- L'absence totale de récupération est fréquente : elle entraîne des déformations du pied liées à la topographie de l'atteinte par déséquilibre musculaire et rétractions tendineuses et articulaires.
+- La récupération partielle est possible : elle entraîne également des déformations du pied.
 
 La récupération sensitive est souvent meilleure que la récupération motrice. Avec la croissance, ce pied déformé sera plus petit et souvent toute la jambe un peu plus courte.
 
@@ -61,9 +62,9 @@ L'injection directe intranerveuse entraîne une destruction des axones.
 
 L'injection à proximité du nerf est responsable :
 
-*   d'une ischémie nerveuse par atteinte directe de la vascularisation ;
-*   d'un hématome périnerveux et d'une fibrose cicatricielle qui comprime le nerf ;
-*   d'une destruction des fibres nerveuses par toxicité propre du produit injecté.
+- d'une ischémie nerveuse par atteinte directe de la vascularisation ;
+- d'un hématome périnerveux et d'une fibrose cicatricielle qui comprime le nerf ;
+- d'une destruction des fibres nerveuses par toxicité propre du produit injecté.
 
 Tous ces phénomènes peuvent exister ensemble, aboutissant soit à une sidération nerveuse de bon pronostic, soit à une destruction axonale dont l'importance explique les séquelles observées.
 
@@ -81,11 +82,11 @@ Ce constat a plusieurs origines :
 
 ### 1. Origines d'ordre psychosociologique
 
-*   Solution de facilité : le produit injectable est l'antipaludéen le plus rapidement efficace, d'où la tentation d'y recourir abusivement ;
-*   Demande des familles : la piqûre a un effet magique que les ancêtres ne connaissaient pas ;
-*   Croyances : la douleur au moment de l'injection est gage de l'entrée en action du médicament, et cette douleur est le " prix ", à payer pour guérir ;
-*   Fatalité : un pseudo-fatalisme religieux peut donner à penser à celui qui pique que c'est " le travail de Dieu " ! Les soignants peuvent, à la limite, ne se considérer que comme de simples exécutants de la volonté divine, rejoignant en cela parfois la croyance des malades, ce qui contribue encore à une déresponsabilisation ;
-*   pauvreté et tentation du profit : les décisions d'ajustement structurel ont abouti à une privatisation des structures sanitaires et ont renchéri le coût des soins pour une population, elle-même, déjà appauvrie par ces mêmes ajustements. La tentation est grande pour le soignant de faire un traitement qui lui rapporte plus en termes financiers, et qui lui donne un certain " prestige ", conféré à celui qui sait faire les piqûres par rapport à celui qui ne prescrit ou ne distribue que des médicaments à prendre par la bouche.
+- Solution de facilité : le produit injectable est l'antipaludéen le plus rapidement efficace, d'où la tentation d'y recourir abusivement ;
+- Demande des familles : la piqûre a un effet magique que les ancêtres ne connaissaient pas ;
+- Croyances : la douleur au moment de l'injection est gage de l'entrée en action du médicament, et cette douleur est le " prix ", à payer pour guérir ;
+- Fatalité : un pseudo-fatalisme religieux peut donner à penser à celui qui pique que c'est " le travail de Dieu " ! Les soignants peuvent, à la limite, ne se considérer que comme de simples exécutants de la volonté divine, rejoignant en cela parfois la croyance des malades, ce qui contribue encore à une déresponsabilisation ;
+- pauvreté et tentation du profit : les décisions d'ajustement structurel ont abouti à une privatisation des structures sanitaires et ont renchéri le coût des soins pour une population, elle-même, déjà appauvrie par ces mêmes ajustements. La tentation est grande pour le soignant de faire un traitement qui lui rapporte plus en termes financiers, et qui lui donne un certain " prestige ", conféré à celui qui sait faire les piqûres par rapport à celui qui ne prescrit ou ne distribue que des médicaments à prendre par la bouche.
 
 ### 2. Origines d'ordre professionnel
 
@@ -100,38 +101,34 @@ Il faut également citer ce village de la 4e région où c'est un jeune adolesce
 
 ## VI. Pour quelles raisons le nerf est-il vulnérable ?
 
-
 ![](i873-1.jpg)
 
-
-1.  Le nerf se projette dans le quadrant inféro-interne de la fesse (figure n° 1). Il se situe à une certaine profondeur chez l'adulte, cette profondeur n est que de 2,5 cm chez le nourrisson.  
-2.  Même si on respecte le point d'injection " non risqué " dans le quadrant supéro-externe, certains vont piquer à la limite inféro-interne de ce quadrant, se rapprochant dangereusement du trajet du nerf.  
-3.  Même si l'on pique perpendiculairement au plan horizontal quand l'enfant est couché sur le ventre, un mouvement de l'enfant au moment de la piqûre peut entraîner une modification de l'orientation de l'aiguille qui se retrouve perpendiculaire au plan de la fesse et donc proche du nerf (figure _n° 2)._
+1.  Le nerf se projette dans le quadrant inféro-interne de la fesse (figure n° 1). Il se situe à une certaine profondeur chez l'adulte, cette profondeur n est que de 2,5 cm chez le nourrisson.
+2.  Même si on respecte le point d'injection " non risqué " dans le quadrant supéro-externe, certains vont piquer à la limite inféro-interne de ce quadrant, se rapprochant dangereusement du trajet du nerf.
+3.  Même si l'on pique perpendiculairement au plan horizontal quand l'enfant est couché sur le ventre, un mouvement de l'enfant au moment de la piqûre peut entraîner une modification de l'orientation de l'aiguille qui se retrouve perpendiculaire au plan de la fesse et donc proche du nerf (figure *n° 2).*
 4.  Tout produit injecté peut être dangereux. Le Quinimax® est un produit toxique en lui-même. Très concentré et donc très lentement résorbé, son injection trop rapide et surtout les injections répétées accroissent le risque. On admet que ce produit peut être efficace dès la première ou la deuxième injection, mais force est de constater qu'une troisième injection est trop souvent faite " pour faire bonne mesure ".
-
 
 ![](i873-2.jpg)
 
-
 ## VII. Comment éviter ces paralysies ?
 
-1. Si on ne peut pas faire autrement et que l'on est obligé de pratiquer une injection IM, il faut :
+1.  Si on ne peut pas faire autrement et que l'on est obligé de pratiquer une injection IM, il faut :
 
-*   respecter scrupuleusement les règles d'asepsie,
-*   coucher l'enfant sur le ventre et l'y maintenir,
-*   dessiner le point d'impact,
-*   veiller à l'orientation de l'aiguille,
-*   utiliser seulement des aiguilles courtes,
-*   injecter de manière très lente,
-*   arrêter l'injection si l'enfant manifeste une douleur en éclair,
-*   respecter les posologies en quantité, nombre et fréquence.
+- respecter scrupuleusement les règles d'asepsie,
+- coucher l'enfant sur le ventre et l'y maintenir,
+- dessiner le point d'impact,
+- veiller à l'orientation de l'aiguille,
+- utiliser seulement des aiguilles courtes,
+- injecter de manière très lente,
+- arrêter l'injection si l'enfant manifeste une douleur en éclair,
+- respecter les posologies en quantité, nombre et fréquence.
 
-2. Utiliser les alternatives au produit injecté par voie intra-fessière :
+2.  Utiliser les alternatives au produit injecté par voie intra-fessière :
 
-*   Injection intraquadricipitale au tiers moyen de la face antéro-externe de la cuisse chez l'enfant maigre et en dessous de 3 ans. Si l'on ne risque pas de paralysies, il faut savoir que des fibroses progressives du quadriceps ont été décrites.  
-*   Injection intraveineuse du produit dilué dans du sérum. Il comporte peu de risques ou d'effets secondaires mais nécessite une asepsie parfaite et la possibilité de faire des perfusions ce qui exige des moyens adaptés. De plus, son efficacité est moins rapide que la voie intramusculaire.  
-*   Injection intra-rectale préconisée par Hubert Barennes : une ampoule de diluée dans 3 ou 4 fois son volume d'eau est injectée dans le rectum de l'enfant avec une seringue soit 20 mg/kg/12 h. L'efficacité est semblable à l'injection intramusculaire.  
-*   Utilisation de la voie orale dans les paludismes simples.
+- Injection intraquadricipitale au tiers moyen de la face antéro-externe de la cuisse chez l'enfant maigre et en dessous de 3 ans. Si l'on ne risque pas de paralysies, il faut savoir que des fibroses progressives du quadriceps ont été décrites.
+- Injection intraveineuse du produit dilué dans du sérum. Il comporte peu de risques ou d'effets secondaires mais nécessite une asepsie parfaite et la possibilité de faire des perfusions ce qui exige des moyens adaptés. De plus, son efficacité est moins rapide que la voie intramusculaire.
+- Injection intra-rectale préconisée par Hubert Barennes : une ampoule de diluée dans 3 ou 4 fois son volume d'eau est injectée dans le rectum de l'enfant avec une seringue soit 20 mg/kg/12 h. L'efficacité est semblable à l'injection intramusculaire.
+- Utilisation de la voie orale dans les paludismes simples.
 
 ## VIII. Conclusion
 
@@ -156,7 +153,7 @@ Conduite à tenir</th>
 
 <td>
 
-1. Affirmer la paralysie et son siège
+1.  Affirmer la paralysie et son siège
 
 <ul><li>Examen clinique sensitif et moteur</li></ul></td>
 
@@ -166,7 +163,7 @@ Conduite à tenir</th>
 
 <td>
 
-2. Rechercher la cause
+2.  Rechercher la cause
 
 <ul><li>Interrogatoire et examen clinique</li><li>Recherche d'un traumatisme<ul>*   Injections*   Fractures*   Compression</ul></li></ul></td>
 
@@ -176,7 +173,7 @@ Conduite à tenir</th>
 
 <td>
 
-3. Traiter
+3.  Traiter
 
 <ul><li>Maintien du pied à angle droit par attelle</li><li>Rééduquer si le pied est raide</li><li>Neurolyse chirurgicale s'il existe une compression nerveuse de siège connu</li></ul></td>
 
@@ -186,4 +183,4 @@ Conduite à tenir</th>
 
 </table>
 
-_Développement et Santé, n°146, avril 2000_
+*Développement et Santé, n°146, avril 2000*

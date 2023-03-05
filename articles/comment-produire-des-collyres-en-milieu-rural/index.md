@@ -10,9 +10,9 @@ Un dixième des malades vus dans les dispensaires ruraux de la plupart des pays 
 
 Les flacons entrent pour moitié dans le coût des collyres en vente sur le marché. Aussi faudrait-il réutiliser pour la production de collyres en milieu rural les flacons vides jetés par les services de santé.
 
-Les petits dispensaires ruraux n'ont pas besoin de très nombreux collyres mais il leur faudrait au moins un collyre antimicrobien, ainsi qu'un anesthésique local pour l'extraction des corps étrangers, pour les tonométries simples ou pour l'examen d'un oeil douloureux. Un collyre au chloramphénicol ou une pommade ophtalmique enrichie à la tétracycline permet de soigner la plupart des infections oculaires superficielles comme la conjonctivite, tandis que l'atropine peut sauver la vue dans certaines maladies oculaires particulièrement graves, par exemple lèpre ou uvéite, et dans les cas de blessure à l'oeil où un traitement urgent s'impose. Les bandelettes de papier à la fluorescéine permettent de déceler à temps un ulcère cornéen, la présence d'un corps étranger de petite taille ou une atteinte cornéenne en cas de lèpre ou d'autre maladie. On voit donc qu'avec quelques préparations simples et bon marché il est possible de faire face à la majorité des problèmes oculaires, même en milieu rural. L'exposé qui suit est le fruit de l'expérience acquise au cours de ces vingt dernières années en Afrique de l'Est et de l'Ouest. Le programme OMS de prévention de la cécité dispose maintenant d'une nouvelle version du manuel préparé initialement par The Christoffel Blindenmission International **[1].**
+Les petits dispensaires ruraux n'ont pas besoin de très nombreux collyres mais il leur faudrait au moins un collyre antimicrobien, ainsi qu'un anesthésique local pour l'extraction des corps étrangers, pour les tonométries simples ou pour l'examen d'un oeil douloureux. Un collyre au chloramphénicol ou une pommade ophtalmique enrichie à la tétracycline permet de soigner la plupart des infections oculaires superficielles comme la conjonctivite, tandis que l'atropine peut sauver la vue dans certaines maladies oculaires particulièrement graves, par exemple lèpre ou uvéite, et dans les cas de blessure à l'oeil où un traitement urgent s'impose. Les bandelettes de papier à la fluorescéine permettent de déceler à temps un ulcère cornéen, la présence d'un corps étranger de petite taille ou une atteinte cornéenne en cas de lèpre ou d'autre maladie. On voit donc qu'avec quelques préparations simples et bon marché il est possible de faire face à la majorité des problèmes oculaires, même en milieu rural. L'exposé qui suit est le fruit de l'expérience acquise au cours de ces vingt dernières années en Afrique de l'Est et de l'Ouest. Le programme OMS de prévention de la cécité dispose maintenant d'une nouvelle version du manuel préparé initialement par The Christoffel Blindenmission International **\[1\].**
 
-**[1]** _The local small-scale préparation of eye draps_. Genève, Organisation mondiale de la Santé, 1990 (document sorti sous la cote WHO/PBL 90.20).
+**\[1\]** *The local small-scale préparation of eye draps*. Genève, Organisation mondiale de la Santé, 1990 (document sorti sous la cote WHO/PBL 90.20).
 
 ## I. Matériel nécessaire
 
@@ -49,7 +49,7 @@ Une **presse manuelle** est utilisée pour sceller les pipettes jetables en plas
 
 Enfin, il faut des vases à bec, des verres gradués, des flacons coniques, des entonnoirs en verre strié et d'autres articles de verrerie.
 
-Pour **stériliser les collyres**, il suffit d'un simple bain-marie, sauf dans les unités importantes équipées d'autoclaves. Il n'est pas difficile de préparer un bain-marie avec un plateau perforé pour pouvoir laisser les flacons exposés à la vapeur au-dessus de l'eau bouillante. Il existe aussi des autoclaves spéciaux pour collyres, avec ou sans élément électrique, qui coûtent environ 200 US$.
+Pour **stériliser les collyres**, il suffit d'un simple bain-marie, sauf dans les unités importantes équipées d'autoclaves. Il n'est pas difficile de préparer un bain-marie avec un plateau perforé pour pouvoir laisser les flacons exposés à la vapeur au-dessus de l'eau bouillante. Il existe aussi des autoclaves spéciaux pour collyres, avec ou sans élément électrique, qui coûtent environ 200 US\$.
 
 ## Préparation des collyres
 
@@ -73,14 +73,12 @@ On prépare la solution de base contenant les agents conservateurs puis on la st
 
 qui ont été soigneusement nettoyées et lavées à l'eau distillée. On fixe ensuite les compte-gouttes (pipettes). Il faut tout de suite stériliser le collyre : l'opération ne doit jamais être remise au lendemain. Une étiquette indiquera la date de fabrication. Les collyres doivent être conservés, de préférence au réfrigérateur, à 4° C environ, ce qui garantit une durée de conservation maximale. C'est ainsi qu'on peut utiliser un collyre à 0,5 % de chloramphénicol pendant un an après stérilisation s'il est conservé au réfrigérateur, mais pendant quatre mois seulement s'il est conservé à la température ambiante. La figure de la page suivante donne une idée de la méthode employée.
 
-On a réfléchi aux moyens de fabriquer un collyre permettant de soigner en milieu rural les infections oculaires superficielles les plus courantes et il se pourrait que le collyre à 1 % de polyvidone iodée fasse l'affaire. De fabrication aisée, il se conserve bien et est actif _in vitro_ contre les pathogènes bactériens et fongiques courants et contre les virus 1 et 2 de l'herpès humain ; on fait actuellement des essais pour vérifier son efficacité clinique.
+On a réfléchi aux moyens de fabriquer un collyre permettant de soigner en milieu rural les infections oculaires superficielles les plus courantes et il se pourrait que le collyre à 1 % de polyvidone iodée fasse l'affaire. De fabrication aisée, il se conserve bien et est actif *in vitro* contre les pathogènes bactériens et fongiques courants et contre les virus 1 et 2 de l'herpès humain ; on fait actuellement des essais pour vérifier son efficacité clinique.
 
 Pour préparer du collyre à la polyvidone iodée, on dissout 1 g de poudre de polyvidone iodée dans 100 ml d'eau distillée ou d'eau de pluie qui vient d'être filtrée après ébullition. On stérilise à la vapeur au-dessus du bain-marie. Conservé à la température ambiante, le collyre reste actif longtemps. On peut l'utiliser pour la prophylaxie de l'ophtalmie du nouveau-né. Il n'y a aucune preuve de toxicité cornéenne. Une préparation dermatologique à 10 % de polyvidone iodée est employée depuis des années sans aucun problème avant des opérations, même intraoculaires.
 
 Pour faciliter les choses, on peut prendre une solution aqueuse à 10 % de vidone iodée, que l'on trouve partout sous le nom de Bétadine, pour préparer du collyre à 1 % de vidone iodée : on dilue 1 ml de Bétadine dans 9 ml de soluté salin.
 
-
 ![](i574-1.jpg)
 
-
-_Développement et Santé, n°107, octobre 1993_
+*Développement et Santé, n°107, octobre 1993*

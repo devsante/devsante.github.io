@@ -29,22 +29,20 @@ Les ARV peuvent bloquer la réplication virale dans tous (ou presque) les lympho
 
 ### 1. Les inhibiteurs de la RT
 
-*   Inhibiteurs nucléosidiques : un acide aminé (= nucléoside) de l'ARN viral est remplacé (comme pour les anticancéreux) par un autre apporté par le médicament => INRT
-*   Inhibiteurs nucléotidiques : un nucléoside phosphate est remplacé.  
-*   Inhibiteurs non nucléosidiques : la RT est bloquée par un autre mécanisme => INNRT
+- Inhibiteurs nucléosidiques : un acide aminé (= nucléoside) de l'ARN viral est remplacé (comme pour les anticancéreux) par un autre apporté par le médicament => INRT
+- Inhibiteurs nucléotidiques : un nucléoside phosphate est remplacé.
+- Inhibiteurs non nucléosidiques : la RT est bloquée par un autre mécanisme => INNRT
 
 ### 2. Les autres médicaments
 
-*   Blocage de la protéase : la fabrication du virus est incomplète => IP
-*   Blocage de la fusion : le médicament empêche le virus de pénétrer dans la cellule.
+- Blocage de la protéase : la fabrication du virus est incomplète => IP
+- Blocage de la fusion : le médicament empêche le virus de pénétrer dans la cellule.
 
 **ACTUELLEMENT, TRAITEMENT A VIE**
-
 
 ![](i843-1.jpg)
 
 ![](i843-2.jpg)
-
 
 ## III. Observance
 
@@ -60,15 +58,15 @@ Les effets du traitement s'apprécient d'abord par la clinique. La première am�
 
 Les autres indicateurs de réussite du traitement sont la reprise des activités :
 
-*   physiques (travail, marche, sports) ce qui se résume par l'amélioration de la qualité de vie;
-*   sexuelles, intellectuelles, la reprise de l'alimentation...
+- physiques (travail, marche, sports) ce qui se résume par l'amélioration de la qualité de vie;
+- sexuelles, intellectuelles, la reprise de l'alimentation...
 
 Il faut aussi noter la disparition des signes généraux éventuels ou des infections associées et opportunistes.
 
 Le traitement peut être suivi par des examens biologiques de deux types :
 
-*   soit un contrôle de l'état immunitaire,
-*   soit un contrôle du nombre de virus.
+- soit un contrôle de l'état immunitaire,
+- soit un contrôle du nombre de virus.
 
 L'état immunitaire est contrôlé par le taux de CD4 (en nombre absolu ou en % par rapport au total de lymphocites). Il est bien corrélé avec le nombre total de lymphocytes. Un seul examen par an suffit. Il n'est pas indispensable.
 
@@ -76,20 +74,16 @@ Le suivi de la réplication virale se fait par l'évaluation du nombre de virus 
 
 Le suivi du traitement comporte aussi la surveillance de la tolérance médicamenteuse aux plans hématologique, hépatique, pancréatique et rénal.
 
-
 ![](i843-3.jpg)
-
 
 ## V. Effets secondaires
 
-*   Tous les ARV provoquent de nombreux effets secondaires ; ils sont souvent pénibles à supporter, mais rarement graves.  
-*   Un seul ARV peut avoir un effet secondaire grave (vital), c'est **l'abacavir,** avec le risque de réaction cutanée pouvant être mortelle.  
-*   Les effets secondaires sont fréquents le premier mois, mais la plupart s'estompent dès la troisième semaine de traitement, un suivi doit se faire tous les 15 jours au début du traitement.  
-*   Pour éviter les conséquences de ces effets, il faut adapter soigneusement les horaires de prise, en fonction des habitudes de vie du patient. Par exemple, **l'efavirenz** qui provoque des vertiges et des étourdissements, doit être pris au moment de se coucher. Si le malade travaille la nuit, il prend son **efavirenz** à 6 heures du matin avant d'aller au lit. Cela nécessite un dialogue sincère et empathique entre soignant et malade.
-
+- Tous les ARV provoquent de nombreux effets secondaires ; ils sont souvent pénibles à supporter, mais rarement graves.
+- Un seul ARV peut avoir un effet secondaire grave (vital), c'est **l'abacavir,** avec le risque de réaction cutanée pouvant être mortelle.
+- Les effets secondaires sont fréquents le premier mois, mais la plupart s'estompent dès la troisième semaine de traitement, un suivi doit se faire tous les 15 jours au début du traitement.
+- Pour éviter les conséquences de ces effets, il faut adapter soigneusement les horaires de prise, en fonction des habitudes de vie du patient. Par exemple, **l'efavirenz** qui provoque des vertiges et des étourdissements, doit être pris au moment de se coucher. Si le malade travaille la nuit, il prend son **efavirenz** à 6 heures du matin avant d'aller au lit. Cela nécessite un dialogue sincère et empathique entre soignant et malade.
 
 ![](i843-4.jpg)
-
 
 ## VI. Stratégies
 
@@ -100,28 +94,27 @@ Cette trithérapie permet d'éviter l'apparition de souches virales résistantes
 
 Trois types d'associations sont possibles avec une efficacité similaire, sachant néanmoins que l'efficacité de chaque classe se décline ainsi : IP > INRT > INNRT
 
-*   Associations A 2 INRT + IP
+- Associations A 2 INRT + IP
 
-*   B 2 INRT + INNRT
-*   C 3 INRT
+- B 2 INRT + INNRT
+
+- C 3 INRT
 
 Ces trois associations possibles correspondent à la première ligne, c'est-à-dire le traitement initial d'un patient jamais traité auparavant. Le choix entre les trois associations se fait en fonction de leur disponibilité, de leur coût et de leurs inconvénients éventuels (horaires, conservation, effets secondaires).
 
 Des études récentes réalisées dans des conditions idéales de suivi ont montré que l'association C était un peu moins efficace, mais compte tenu de sa facilité d'emploi, elle reste globalement efficace.
 
-
 ![](i843-5.jpg)
-
 
 ### Cas particuliers
 
-*   VIH2 et variant 0 : INNRT inefficaces.
+- VIH2 et variant 0 : INNRT inefficaces.
 
-*   Femmes enceintes : abacavir et efavirenz interdits ritonavir et indinavir contre indiqués.
+- Femmes enceintes : abacavir et efavirenz interdits ritonavir et indinavir contre indiqués.
 
-*   Tuberculose : La rifampicine étant contre indiquée avec la plupart des IP et INNRT, la stratégie recommandée est de traiter d'abord la tuberculose (ou d'interrompre la trithérapie) durant les deux mois pendant lesquels la rifampicine est nécessaire.
+- Tuberculose : La rifampicine étant contre indiquée avec la plupart des IP et INNRT, la stratégie recommandée est de traiter d'abord la tuberculose (ou d'interrompre la trithérapie) durant les deux mois pendant lesquels la rifampicine est nécessaire.
 
-*   Anémie : ne pas associer AZT + 3TC; donner de l'acide folique.
+- Anémie : ne pas associer AZT + 3TC; donner de l'acide folique.
 
 ### Changement de régime
 
@@ -129,25 +122,21 @@ Des études récentes réalisées dans des conditions idéales de suivi ont mont
 
 A. Si échec de la première ligne :
 
-*   détérioration clinique (amaigrissement infections répétées),
-*   persistance d'un taux bas de CD4,
-*   persistance ou réapparition d'une charge virale élevée.
+- détérioration clinique (amaigrissement infections répétées),
+- persistance d'un taux bas de CD4,
+- persistance ou réapparition d'une charge virale élevée.
 
 B. Si intolérance.
 
 #### Comment ?
 
-
 ![](i843-6.jpg)
-
 
 Dans les deux cas précités, comme lors de rupture de médicaments ou de mauvaise observance, la décision doit être prise par le service proscripteur.
 
-
 ![](i843-7.jpg)
 
+*Merci à Agnès Certain*  
+*Pharmacien - Hôpital Bichat, Paris, France*
 
-_Merci à Agnès Certain_  
-_Pharmacien - Hôpital Bichat, Paris, France_
-
-_Développement et santé, n°168, décembre 2003_
+*Développement et santé, n°168, décembre 2003*

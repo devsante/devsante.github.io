@@ -8,9 +8,9 @@ date: "2000-12-14"
 
 Avant d'aborder les nouveaux traitements, parlons des mesures préventives élémentaires :
 
-*   Prévention des infections
-*   Prévention des crises vaso-occlusives (douloureuses)
-*   Prise en charge de la douleur
+- Prévention des infections
+- Prévention des crises vaso-occlusives (douloureuses)
+- Prise en charge de la douleur
 
 ## I. Prévention des infections
 
@@ -18,26 +18,26 @@ Avant l'âge de 10 ans c'est la prise régulière de pénicilline orale (Oracill
 
 Les vaccins sont aussi indispensables :
 
-*   diphtérie, tétanos, coqueluche, poliomyélite, rougeole, BCG, hépatite B.  
-*   le vaccin antipneumococcique (Pneumo 23) est indispensable dès l'âge de 2 ans ; un rappel tous les 3 ans est nécessaire. En effet, le drépanocytaire est très sensible au pneumocoque qui provoque souvent chez lui pneumonie, septicémie ou méningite.  
-*   la vaccination contre _Haemophilus_ b avant l'âge de 5 ans est aussi souhaitable.
+- diphtérie, tétanos, coqueluche, poliomyélite, rougeole, BCG, hépatite B.
+- le vaccin antipneumococcique (Pneumo 23) est indispensable dès l'âge de 2 ans ; un rappel tous les 3 ans est nécessaire. En effet, le drépanocytaire est très sensible au pneumocoque qui provoque souvent chez lui pneumonie, septicémie ou méningite.
+- la vaccination contre *Haemophilus* b avant l'âge de 5 ans est aussi souhaitable.
 
 ## II. Prévention des crises vaso-occlusives
 
 Elles sont souvent imprévisibles. On sait maintenant que la fatigue, la fièvre, les exercices physiques exagérés, les voyages en avion peuvent les déclencher. A l'inverse, l'hyper hydratation, une vie régulière ont un effet protecteur sur les crises.
 
-### En pratique, 10 règles d'or sont à respecter :
+### En pratique, 10 règles d'or sont à respecter
 
-1.  Bien se laver le corps et les dents pour éviter les microbes provoquant les infections.  
-2.  Surveiller sa température, donc avoir constamment à porté de la main un thermomètre.  
-3.  Si la température est supérieure à 38C, aller vite consulter au dispensaire.  
-4.  Boire beaucoup d'eau (environ 3 litres/jour pour un adulte).  
-5.  Eviter les endroits mal aérés, enfumés, l'altitude et les voyages en avion.  
-6.  Avoir une alimentation saine et variée.  
-7.  Surveiller la couleur des yeux et des urines (consulter si ces dernières sont trop foncées).  
-8.  Eviter ce qui peut ralentir ou bloquer la circulation du sang (vêtements trop serrés, jambes croisées).  
-9.  Consulter régulièrement au dispensaire.  
-10.  Dormir au moins 7 heures/nuit et maîtriser les efforts physiques (attention aux matchs de foot !).
+1.  Bien se laver le corps et les dents pour éviter les microbes provoquant les infections.
+2.  Surveiller sa température, donc avoir constamment à porté de la main un thermomètre.
+3.  Si la température est supérieure à 38C, aller vite consulter au dispensaire.
+4.  Boire beaucoup d'eau (environ 3 litres/jour pour un adulte).
+5.  Eviter les endroits mal aérés, enfumés, l'altitude et les voyages en avion.
+6.  Avoir une alimentation saine et variée.
+7.  Surveiller la couleur des yeux et des urines (consulter si ces dernières sont trop foncées).
+8.  Eviter ce qui peut ralentir ou bloquer la circulation du sang (vêtements trop serrés, jambes croisées).
+9.  Consulter régulièrement au dispensaire.
+10. Dormir au moins 7 heures/nuit et maîtriser les efforts physiques (attention aux matchs de foot !).
 
 ## III. Lutte contre la douleur
 
@@ -65,7 +65,7 @@ Des essais chez l'adulte drépanocytaire ont mis en évidence une augmentation f
 
 L'Hydréa ne semble pas mettre à l'abri d'accidents vasculaires cérébraux.
 
-L'élévation de l'hémoglobine fœtale est variable d'un sujet à l'autre et s'apprécie après 3 mois de traitement. On distingue les bons répondeurs atteignant 35% d'hémoglobine fœtale, les moyens et les faibles répondeurs (_voir figure_).
+L'élévation de l'hémoglobine fœtale est variable d'un sujet à l'autre et s'apprécie après 3 mois de traitement. On distingue les bons répondeurs atteignant 35% d'hémoglobine fœtale, les moyens et les faibles répondeurs (*voir figure*).
 
 En pratique, on commence par 10 mg par kilo et par jour pendant un mois, on effectue alors une numération formule sanguine. Si celle-ci est normale, on passe à 20 mg par kilo et par jour. Il semble prudent de contrôler la numération formule sanguine tous les trimestres. L'Hydréa® se présente sous forme de gélule à 500 mg: il est possible de regrouper les prises sur 2 à 4 jours pour ne pas avoir à déconditionner les gélules. Par exemple, pour un enfant de 20 kilos qui a besoin de 2,8 g d'hydréa® par semaine, c'est-à-dire pratiquement 6 gélules à 500 mg, il sera prescrit une gélule par jour, 6 jours sur 7.
 
@@ -73,8 +73,6 @@ D'autres médicaments capables d'élever l'hémoglobine foetale sont à l'étude
 
 **Les transfusions :** elles sont souvent le dernier recours dans le traitement des crises et des infections. Il est bien sûr indispensable de s'assurer de la sécurité virologique du sang transfusé.
 
-
 ![](i902-1.jpg)
 
-
-_Développement et Santé, n° 150, décembre 2000_
+*Développement et Santé, n° 150, décembre 2000*

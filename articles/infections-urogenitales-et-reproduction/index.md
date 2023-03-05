@@ -12,13 +12,13 @@ Nous débutons par la présentation du milieu, suivi d'un rappel sur les patholo
 
 Nous terminons par quelques chiffres relevés à la maternité Christ-Roi où nous travaillons, suivis d'un bref commentaire.
 
-## **I. Du milieu et de ses habitudes**
+## I. Du milieu et de ses habitudes
 
 S'il y a des villes qui accusent moins le coup de la crise multifactorielle que traverse le Zaïre actuellement, la ville de Mbujimayi, chef-lieu de la province du Kasaï oriental, est de celles-là. Située au centre du pays, cette région a économiquement mieux amorti les coups de la crise qui a mis à genoux toute la république et cela grâce à cette pierre précieuse dont regorge son sous-sol : le diamant.
 
 Mais hélas, ce dernier n'est pas seulement un porte-bonheur comme on serait tenté de le croire surtout lorsque l'on sait que son exploitation a été libéralisée depuis un peu plus de dix ans.
 
-En effet, la ruée vers le diamant a causé la désertion des jeunes gens dans les écoles laissant ainsi la province en retard sur le plan de l'instruction. Etudier est devenu un passe temps désagréable pour beaucoup de jeunes. Combien de fois n'a-t-on pas entendu dire _" Français tshi nfalanga too_ " (littéralement : " Le français n'est pas de l'argent ", " Ne deviennent pas riches seuls ceux qui s'instruisent "). Cette situation a fait qu'à ce jour la grande majorité des jeunes s'adonne à l'exploitation artisanale du diamant et néglige l'instruction Le niveau moyen d'études pour ces jeunes est d'un ou deux ans postprimaires.
+En effet, la ruée vers le diamant a causé la désertion des jeunes gens dans les écoles laissant ainsi la province en retard sur le plan de l'instruction. Etudier est devenu un passe temps désagréable pour beaucoup de jeunes. Combien de fois n'a-t-on pas entendu dire *" Français tshi nfalanga too* " (littéralement : " Le français n'est pas de l'argent ", " Ne deviennent pas riches seuls ceux qui s'instruisent "). Cette situation a fait qu'à ce jour la grande majorité des jeunes s'adonne à l'exploitation artisanale du diamant et néglige l'instruction Le niveau moyen d'études pour ces jeunes est d'un ou deux ans postprimaires.
 
 Comme la coutume l'encourage, ils se marient très jeunes, à l'âge de quatorze ans environ (souvent à l'âge des premières règles). Ces infortunés vont prendre en mariage des jeunes filles aussi illettrées qu'eux-mêmes, à la seule différence que celles-ci sont éduquées de manière à devoir obéissance absolue au mari. Ce dernier, lorsqu'il est dans les mines de diamant, peut s'adonner à toute activité sexuelle avec les filles de son choix sans que les femmes ne puissent s'en plaindre. Ainsi, dans ce cycle de vie où le mari est presque toujours à la mine, où il peut changer de partenaire au gré de sa chance à trouver quelques pierres précieuses, les épouses sont exposées à toutes sortes d'infections génitales (la polygamie étant admise). Quand bien même le mari serait conscient qu'il a une chaude-pisse ou une autre infection, c'est lui qui décide du traitement à prendre pour son/ses épouse(s) et pour lui-même. Très souvent il commence par une automédication : deux capsules de 500 mg d'ampicilline par jour pendant deux à cinq jours selon ses moyens financiers, ou quelques capsules à 250 mg de tétracycline pendant trois jours. L'arrêt du traitement est souvent lié à la disparition des signes. Mais, quelques jours plus tard, lorsqu'il y a rechute, la confiance dans la médecine moderne tombe, suite à l' " échec " du traitement, et on s'adresse à la médecine traditionnelle. Le mari amène un breuvage à son/ses épouse(s), qui l'accepte(nt) sans broncher (obéissance oblige). Très souvent c'est seulement après l'échec du traitement traditionnel que l'époux - toujours lui - accorde à sa/ses femme(s) l'autorisation d'aller voir un médecin. Là, le problème diagnostique est résolu d'avance car le motif de consultation est simple : " Mon époux m'a contaminé et m'envoie vous voir pour que vous me prescriviez un traitement. "
 
@@ -28,9 +28,9 @@ Les enfants constituant une richesse pour le mari, toute épouse frappée de st�
 
 Dans ce contexte, on comprend pourquoi la fréquence des infections urogénitales dans notre milieu est très élevée au point d'inquiéter toute bonne conscience, car la reproduction en est gravement affectée.
 
-## **II.** **Les infections couramment rencontrées**
+## II. Les infections couramment rencontrées
 
-### **1. Les vulvo-vaginites**
+### 1. Les vulvo-vaginites
 
 Sous cette appellation sont regroupées toutes les inflammations, quelle qu'en soit la cause, de la vulve et du vagin.
 
@@ -38,9 +38,9 @@ Bien que l'un des signes communs soit une leucorrhée abondante, il est étonnan
 
 La clinique est souvent éloquente, une présomption sur le germe en cause est très souvent faite et le traitement instauré, lorsque le laboratoire ne peut donner son concours immédiat.
 
-Devant un écoulement abondant, aéré, de couleur verdâtre, d'odeur fade, le diagnostic étiologique penche en faveur d'une vulvo-vaginite à _Trichomonas_. La vulve est rouge, ecchymotique, le vagin rouge, le col participe très souvent à l'infection.
+Devant un écoulement abondant, aéré, de couleur verdâtre, d'odeur fade, le diagnostic étiologique penche en faveur d'une vulvo-vaginite à *Trichomonas*. La vulve est rouge, ecchymotique, le vagin rouge, le col participe très souvent à l'infection.
 
-L'examen microscopique de cet écoulement fraîchement prélevé révèle, dans la plupart des cas, la présence de _Trichomonas vaginalis._
+L'examen microscopique de cet écoulement fraîchement prélevé révèle, dans la plupart des cas, la présence de *Trichomonas vaginalis.*
 
 Une leucorrhée blanchâtre, grumeleuse, associée à un prurit intense, une brûlure mictionnelle et une dysparéunie font penser à une candidose. Les lésions cutanées intéressent la vulve et le périnée. A l'examen au spéculum, la paroi vaginale est rouge, recouverte d'un dépôt blanchâtre se détachant très facilement.
 
@@ -60,17 +60,17 @@ Le diagnostic est basé sur :
 
 Le diagnostic est confirmé par le laboratoire où le diplocoque intracellulaire gram négatif est isolé.
 
-### **2. Les cervicites**
+### 2. Les cervicites
 
 L'inflammation du col est très souvent associée aux vulvo-vaginites, surtout quand le gonocoque est en cause car il progresse vers l'appareil génital haut où il provoque des complications assez sérieuses : cervicite-salpingite-endométrite...
 
 La clinique est caractérisée par une leucorrhée purulente provenant de la muqueuse de l'endocol. Le col est gros, oedématié. La dyspareunie est souvent fréquente, parfois accompagnée de métrorragie de contact. Le laboratoire permet d'identifier le germe en cause.
 
-### **3. Les salpingites (maladie inflammatoire pelvienne)**
+### 3. Les salpingites (maladie inflammatoire pelvienne)
 
 L'inflammation des trompes de Fallope et celle intéressant à la fois le col (cervicite), l'utérus (endométrite) et parfois les ovaires (appelée maladie inflammatoire pelvienne) sont très fréquentes chez les jeunes femmes en âge d'activité sexuelle (il varie dans notre milieu entre quatorze ans et la ménopause).
 
-L'agent pathogène principal est le _Neisseria_ _gonorrhoeae,_ mais d'autres germes, notamment des bactéries gram négatif et coques gram positif. Les cas de salpingite tuberculeuses ne sont pas très rares. Ils font suite à une tuberculeuse systémique mal traitée ou méconnue.
+L'agent pathogène principal est le *Neisseria* *gonorrhoeae,* mais d'autres germes, notamment des bactéries gram négatif et coques gram positif. Les cas de salpingite tuberculeuses ne sont pas très rares. Ils font suite à une tuberculeuse systémique mal traitée ou méconnue.
 
 Très souvent l'infection part du vagin, à la faveur d'un rapport infectant et les gonocoques remontent la filière génitale après une phase de reproduction dans la muqueuse endocervicale qui offre des conditions optimales à leur reproduction.
 
@@ -88,25 +88,25 @@ Lors de l'examen, il y a toujours une histoire, un rapport sexuel récent (retou
 
 Les abcès tubo-ovariens et les hydrosalpinx ne sont pas rares. Toutes ces complications menant inévitablement vers la stérilité.
 
-### **4. Les infections urinaires**
+### 4. Les infections urinaires
 
 La promiscuité du méat urinaire par rapport au vagin fait que les infections urinaires accompagnent très souvent les infections génitales basses. Aussi, nous avons l'habitude de les associer, tant dans la démarche diagnostique que thérapeutique, lorsque la preuve clinique et paraclinique est établie.
 
-### **5. Les condylomes acuminés**
+### 5. Les condylomes acuminés
 
 Cette maladie virale prend de plus en plus d'ampleur. Elle s'observe surtout chez les jeunes femmes nouvellement mariées. L'infection à HIV lui est souvent associée dans notre milieu.
 
-## **III. Les conséquences des infections urogénitales**
+## III. Les conséquences des infections urogénitales
 
 Elles sont multiples et nous en évoquerons quelques-unes dont l'importance est en rapport avec notre sujet.
 
-### **1. Les fausses couches et les accouchements prématurés**
+### 1. Les fausses couches et les accouchements prématurés
 
 Les différents germes pathogènes peuvent, en remontant la filière génitale, atteindre l'embryon et l'infecter. Une fois mort, l'embryon est expulsé hors de l'utérus. C'est le cas des avortements. En effet, beaucoup de patientes admises pour avortement spontané présentent une infection urinaire, ou génitale basse (vulvo-vaginite ou cervicite).
 
 L'infection peut aussi entraîner des accouchements prématurés par l'apparition précoce de contractions utérines.
 
-### **2. La stérilité**
+### 2. La stérilité
 
 La stérilité provoquée par des infections urogénitales est un drame chez nous. Elle est très mal supportée par l'homme et par la femme, parce que, pour les Africains, les enfants sont une richesse.
 
@@ -116,31 +116,41 @@ Parfois le divorce est la conséquence de cette stérilité. Les croyances tradi
 
 D'autres se réfugient dans la polygamie. Avant que les nouvelles épouses n'arrivent à des complications du genre stérilité, l'homme a l'occasion d'avoir encore un ou deux enfants avec chacune d'elles, sans oublier le nombre de fausses couches qu'elles feront et dont la cause sera encore attribuée à la sorcellerie.
 
-### **3. Les douleurs pelviennes chroniques**
+### 3. Les douleurs pelviennes chroniques
 
 Elles sont les conséquences de traitements inadéquats et de courte durée. Après la stérilité, ces douleurs sont causes de plus en plus fréquentes de consultations. L'unique plainte signalée par la patiente à la consultation est une douleur hypogastrique. Au médecin de l'interroger pour faire ressortir son désir de maternité, ou découvrir une infection sous-jacente.
 
-## **IV. Traitement**
+## IV. Traitement
 
 Le traitement des vulvo-vaginites est plus guidé par les caractéristiques de leucorrhée et la clinique.
 
 En cas de vuivo-vaginites à :
 
-*   _Trichomonas vaginalis :_ le traitement comprend un volet local et un volet général. On utilise des ovules de métronidazole (Flagyl®) : 1/j pendant dix jours. Par voie générale, le traitement de cure en dose unique est préférable. Vu son prix coûteux dans nos milieux, le métronidazole seul est utilisé à la dose de 500 à 750 mg en deux ou trois prises par jour pendant sept jours.
+- *Trichomonas vaginalis :* le traitement comprend un volet local et un volet général. On utilise des ovules de métronidazole (Flagyl®) : 1/j pendant dix jours. Par voie générale, le traitement de cure en dose unique est préférable. Vu son prix coûteux dans nos milieux, le métronidazole seul est utilisé à la dose de 500 à 750 mg en deux ou trois prises par jour pendant sept jours.
 
-*   _Mycosique_
+- *Mycosique*
+
+<!-- -->
 
 - par voie locale : ovules de mycostatine (Nyitatine®), 2 x 1/j pendant dix jours ;
 
 - par voie générale : kétoconazole (Nizoral®), 2 x 1 c à 200 mg/j pendant dix jours.
 
-*   _À gardnerella_
+<!-- -->
+
+- *À gardnerella*
+
+<!-- -->
 
 - par voie locale : ovule d'amphocycline, 1/j pendant sept jours ;
 
 - par voie générale : tétracycline, 3 x 500 mg/j pendant sept jours.
 
-*   _À gonocoques_
+<!-- -->
+
+- *À gonocoques*
+
+<!-- -->
 
 - par voie locale : Amphocycline®, 1 ovule/soir pendant sept jours
 
@@ -162,7 +172,7 @@ Dans le traitement de ces infections, pour amener le partenaire à suivre égale
 
 A cette occasion, nous faisons une petite éducation sanitaire à l'intention du couple avant de soigner également le partenaire. La réticence à se présenter commence à se dissiper et les époux répondent cordialement à cette convocation.
 
-## **V. Quelques données statistiques de la maternité Christ-Roi**
+## V. Quelques données statistiques de la maternité Christ-Roi
 
 Pendant les sept mois que nous venons de passer au sein de cette formation médicale où la fréquentation journalière est l'une des plus grandes de la ville (variant entre 20 à 50 malades pour deux médecins), sur les 3 836 patients que nous avons personnellement consultés et pour lesquels un diagnostic a été arrêté, 2024 présentaient une infection urogénitale associée ou non à une autre pathologie.
 
@@ -174,4 +184,4 @@ Il existe aussi un cercle vicieux difficile à briser : manque d'instruction, ar
 
 A notre avis, pour couper cette chaîne de malheur, il faut intensifier le contact avec la population pour une éducation sanitaire visant à prévenir les infections en corrigeant le comportement sexuel de ces jeunes gens qui brassent des sommes d'argent colossales avec lesquelles ils vont " s'acheter" aussi, malheureusement, toutes ces infections.
 
-_Développement et Santé, n°119, octobre 1995_
+*Développement et Santé, n°119, octobre 1995*

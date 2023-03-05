@@ -9,9 +9,7 @@ date: "2002-06-12"
 <p>Désormais, les patients traités précocement par antibiothérapie peuvent être sauvés, mais souvent au prix de terribles séquelles esthétiques et fonctionnelles. La chirurgie maxillofaciale et plastique aura la difficile tâche de corriger ces mutilations.</p>
 <p>Savoir y penser, le reconnaître pour le traiter précocement seront les gages de la survie du patient.</p></div>
 
-
 ![](i930-1.jpg)
-
 
 ## I. Historique
 
@@ -37,17 +35,17 @@ Elle est toujours inconnue. La grande efficacité du traitement antibiotique ser
 
 Il existe :
 
-*   un facteur prédisposant, la malnutrition,
-*   un facteur préparant, une artériolite capillaire non spécifique
-*   et un facteur déclenchant responsable d'un ralentissement du débit circulatoire. Il peut s'agir d'une ischémie par compression, joue appuyée sur la natte, lors du sommeil de l'enfant, d'une crise vaso-occlusive des drépanocytoses ou du phénomène congestif accompagnant l'éruption des dents.
+- un facteur prédisposant, la malnutrition,
+- un facteur préparant, une artériolite capillaire non spécifique
+- et un facteur déclenchant responsable d'un ralentissement du débit circulatoire. Il peut s'agir d'une ischémie par compression, joue appuyée sur la natte, lors du sommeil de l'enfant, d'une crise vaso-occlusive des drépanocytoses ou du phénomène congestif accompagnant l'éruption des dents.
 
 Il est essentiel de connaître le terrain et les facteurs généraux.
 
 La malnutrition protéino-calorique et vitaminique, les maladies précédant cette pathologie, et le mauvais état bucco-dentaire constituent le trépied sur lequel s'asseoit le noma.
 
-*   Le sevrage souvent réalisé brutalement à l'âge de 2 ans est une étape critique, passage d'une alimentation déjà carencée, en un apport hypoprotidique et hypocalorique.  
-*   Les maladies précédent cette pathologie sont principalement la rougeole mais aussi le paludisme et le poly parasitisme. On trouve également toutes les maladies infectieuses infantiles.  
-*   Les nombreuses parodontopathies dues au manque d'hygiène bucco-dentaire (absence de brossage dentaire) et les lésions buccales dues aux carences vitaminiques (Vitamines C, PP et B).
+- Le sevrage souvent réalisé brutalement à l'âge de 2 ans est une étape critique, passage d'une alimentation déjà carencée, en un apport hypoprotidique et hypocalorique.
+- Les maladies précédent cette pathologie sont principalement la rougeole mais aussi le paludisme et le poly parasitisme. On trouve également toutes les maladies infectieuses infantiles.
+- Les nombreuses parodontopathies dues au manque d'hygiène bucco-dentaire (absence de brossage dentaire) et les lésions buccales dues aux carences vitaminiques (Vitamines C, PP et B).
 
 C'est à ce niveau que doit jouer la prévention.
 
@@ -85,16 +83,14 @@ L'évolution sans traitement est, dans 80 % des cas, la mort dans un tableau de 
 
 10 % à 20 % des enfants non traités survivent au prix de séquelles fonctionnelles et esthétiques importantes. Chez les enfants traités, l'importance de ces lésions résiduelles dépend de la précocité du traitement.
 
-En 1992, le Docteur Montandon a classé les séquelles en 4 catégories en fonction des pertes de substance _(Figure 2)._ Cette classification a surtout comme intérêt la planification des traitements chirurgicaux :
+En 1992, le Docteur Montandon a classé les séquelles en 4 catégories en fonction des pertes de substance *(Figure 2).* Cette classification a surtout comme intérêt la planification des traitements chirurgicaux :
 
-1.  Perte de substance localisée à la lèvre, à la commissure ou à la joue, qui peut être comblée par le tissu local et qui peut être couvert par un seul lambeau.  
-2.  Perte de substance de la lèvre supérieure et du nez.  
-3.  Perte de substance de la lèvre inférieure et de la région mandibulaire.  
+1.  Perte de substance localisée à la lèvre, à la commissure ou à la joue, qui peut être comblée par le tissu local et qui peut être couvert par un seul lambeau.
+2.  Perte de substance de la lèvre supérieure et du nez.
+3.  Perte de substance de la lèvre inférieure et de la région mandibulaire.
 4.  Perte de substance étendue et complexe de la joue, du nez, des paupières, des lèvres et de l'os du maxillaire supérieur.
 
-
 ![](i930-2.jpg)
-
 
 ## VI. Diagnostic différentiel
 
@@ -108,14 +104,17 @@ Elles sont représentées par des pertes de substance, des limitations permanent
 
 D'après la classification de Larroque, on distingue :
 
-*   Les séquelles du noma muqueux qui correspond en une bride fibreuse entre la face interne de la joue et en arrière le bord antérieur de la branche montante.  
-*   Les séquelles du noma perforant, avec :
+- Les séquelles du noma muqueux qui correspond en une bride fibreuse entre la face interne de la joue et en arrière le bord antérieur de la branche montante.
 
-*   les perforations sans lésion osseuse, responsables d'orostome, avec écoulement salivaire gênant.  
-*   les perforations avec destructions osseuses minimes, l'os alvéolaire est atteint avec chute des dents.  
-*   les perforations avec perte de substance osseuse majeure, intéressant le plateau palatin, le sinus maxillaire, détruisant la pommette et souvent accompagné d'une constriction permanente des maxillaires.
+- Les séquelles du noma perforant, avec :
 
-*   La constriction permanente des maxillaires (CPM) : c'est une complication redoutable car le patient ne peut plus ouvrir la bouche, empêchant l'alimentation, obligeant à des artifices, nourriture liquide ou passage des aliments par l'orostome. Elle est due à la fibrose des tissus jugaux et des muscles (masséters et ptérygoïdiens internes).
+- les perforations sans lésion osseuse, responsables d'orostome, avec écoulement salivaire gênant.
+
+- les perforations avec destructions osseuses minimes, l'os alvéolaire est atteint avec chute des dents.
+
+- les perforations avec perte de substance osseuse majeure, intéressant le plateau palatin, le sinus maxillaire, détruisant la pommette et souvent accompagné d'une constriction permanente des maxillaires.
+
+- La constriction permanente des maxillaires (CPM) : c'est une complication redoutable car le patient ne peut plus ouvrir la bouche, empêchant l'alimentation, obligeant à des artifices, nourriture liquide ou passage des aliments par l'orostome. Elle est due à la fibrose des tissus jugaux et des muscles (masséters et ptérygoïdiens internes).
 
 ## VIII. Traitement
 
@@ -137,7 +136,7 @@ Nous insisterons donc sur les 2 premières étapes du traitement.
 
 Il consiste en l'amélioration de l'état nutritionnel de la population infantile. Cela constitue un problème économico-politique.
 
-*   Des mesures d'éducation sanitaire, vis à vis des règles de sevrage, doivent être enseignées aux mères. Il s'agit principalement du passage progressif à la nourriture adulte par l'addition de protéines d'origine végétale, de fruits... La ration protéinique doit être augmentée de 5 g tous les 2 à 3 jours, pour éviter les diarrhées. La ration alimentaire doit être de 130 à 150 cal/Kg et composée de 40 % de protéines, 30 % de lipides et 30 % de glucides. La lutte contre les maladies infectieuses, supervisée par l'OMS dans le cadre du Programme Elargi de Vaccination concerne surtout la rougeole, puisqu'elle précède dans 70 % des cas l'apparition du noma. L'on effectuera les autres vaccinations (BCG, vaccin anti-rougeoleux, DTCoqPolio ... ).
+- Des mesures d'éducation sanitaire, vis à vis des règles de sevrage, doivent être enseignées aux mères. Il s'agit principalement du passage progressif à la nourriture adulte par l'addition de protéines d'origine végétale, de fruits... La ration protéinique doit être augmentée de 5 g tous les 2 à 3 jours, pour éviter les diarrhées. La ration alimentaire doit être de 130 à 150 cal/Kg et composée de 40 % de protéines, 30 % de lipides et 30 % de glucides. La lutte contre les maladies infectieuses, supervisée par l'OMS dans le cadre du Programme Elargi de Vaccination concerne surtout la rougeole, puisqu'elle précède dans 70 % des cas l'apparition du noma. L'on effectuera les autres vaccinations (BCG, vaccin anti-rougeoleux, DTCoqPolio ... ).
 
 En attendant le vaccin contre le paludisme, les moyens mécaniques (moustiquaires, chemises longues en coton) et chimiques de lutte antipalustre doivent continuer à être enseignés. De même, des mesures d'hygiènes simples doivent diminuer le taux de poly-parasitisme, surtout digestif.
 
@@ -194,4 +193,4 @@ Le combattre, à la phase de séquelles, c'est l'adresser à un centre hospitali
 
 Le but toujours sera de permettre à ces patients de retrouver une place dans le groupe, le village, la société.
 
-_Développement et Santé, n°159, juin 2002_
+*Développement et Santé, n°159, juin 2002*

@@ -104,7 +104,7 @@ La prévalence de l'hépatite B (n = 400 millions) dans le monde est 10 fois pl
 
 </table>
 
-_* Sauf Egypte et Cameroun où cette prévalence est supérieure ou égale à 10 %._
+*\* Sauf Egypte et Cameroun où cette prévalence est supérieure ou égale à 10 %.*
 
 ## II. Impact de la co-infection
 
@@ -129,9 +129,7 @@ Une biopsie hépatique ainsi que les scores non invasifs de fibrose (Fibromètre
 
 **Tableau 2 : manifestations cliniques de l'infection VIH et du SIDA. Indications de traitement de la co-infection VIH-hépatite B (algorithme adapté des recommandations de l'EACS, novembre 2009).**
 
-
 ![](page-42-vih-hb-tb-2-bat.jpg)
-
 
 ## III. Traitement
 
@@ -143,23 +141,21 @@ Par contre, les nouvelles recommandations de l'OMS (Guidelines 2010) pour les p
 Les associations qui contiennent à la fois du TDF et du 3TC (ou FTC) associées à un INNRT doivent être utilisées.  
 L'association  AZT+3TC+TDF est une alternative pour les patients chez lesquels un INNRT ne peut être utilisé.
 
-1.  _Commencer un TAR chez toute personne présentant une co-infection  VIH/VHB  nécessitant un traitement pour son infection à VHB (hépatite chronique active), quel que soit le nombre de CD4 ou le stade clinique de l’OMS (Recommandation forte, données de faible qualité)._
-2.  _Commencer un schéma thérapeutique de TAR contenant du TDF associé à du 3TC ou du FTC chez toute personne présentant une co-infection VIH/VHB  nécessitant  un  traitement  (Recommandation forte, données de qualité moyenne - OMS)._
+1.  *Commencer un TAR chez toute personne présentant une co-infection  VIH/VHB  nécessitant un traitement pour son infection à VHB (hépatite chronique active), quel que soit le nombre de CD4 ou le stade clinique de l’OMS (Recommandation forte, données de faible qualité).*
+2.  *Commencer un schéma thérapeutique de TAR contenant du TDF associé à du 3TC ou du FTC chez toute personne présentant une co-infection VIH/VHB  nécessitant  un  traitement  (Recommandation forte, données de qualité moyenne - OMS).*
 
 ### Deuxième ligne de traitement
 
 En cas d'échec au traitement  de  première  ligne,  le traitement de deuxième ligne peut associer :  
 AZT+TDF+3TC (ou FTC) +ATV/r ou LPV/r
 
-_Les personnes présentant une co-infection VIH/VHB, qui doivent être traitées contre l’infection à VHB et qui sont en échec thérapeutique sous schéma de première intention associant TDF + (3TC ou FTC), doivent continuer à recevoir ces mêmes INTI quel que soit le nouveau schéma thérapeutique choisi, afin de maintenir  l’activité  anti-VHB et pour réduire le risque de survenue d’une poussée d’hépatite active. Leur schéma thérapeutique de deuxième intention doit donc être AZT + TDF + (3TC ou FTC) + IP potentialisé  - OMS)._
+*Les personnes présentant une co-infection VIH/VHB, qui doivent être traitées contre l’infection à VHB et qui sont en échec thérapeutique sous schéma de première intention associant TDF + (3TC ou FTC), doivent continuer à recevoir ces mêmes INTI quel que soit le nouveau schéma thérapeutique choisi, afin de maintenir  l’activité  anti-VHB et pour réduire le risque de survenue d’une poussée d’hépatite active. Leur schéma thérapeutique de deuxième intention doit donc être AZT + TDF + (3TC ou FTC) + IP potentialisé  - OMS).*
 
 Notion importante : toujours maintenir 2 ARV actifs contre le VHB.
 
 **Tableau 3 : algorithme d'utilisation des molécules dans le traitement de la co-infection VIH-VHB (algorithme adapté des recommandations de l'EACS, novembre 2009).**
 
-
 ![](page-43-vih-hb-tb-3-bat.jpg)
-
 
 ## IV. Prévention
 
@@ -261,4 +257,4 @@ virus de l'hépatite B
 
 </table>
 
-_Développement et Santé, N° 200, 2012_
+*Développement et Santé, N° 200, 2012*

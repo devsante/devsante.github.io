@@ -28,25 +28,21 @@ Dans ce système, le sang porte le nom de l'antigène situé à la surface du gl
 
 Dans le sang de chacun de ces groupes A, B, AB et O, il existe des substances, antagonistes des antigènes, appelées anticorps (ou agglutinines) qui se répartissent ainsi:
 
-*   Le sang de groupe A possède seulement l'anticorps anti B.
+- Le sang de groupe A possède seulement l'anticorps anti B.
 
-*   Le sang de groupe B possède seulement l'anticorps anti A.
+- Le sang de groupe B possède seulement l'anticorps anti A.
 
-*   Le sang de groupe O possède les anticorps anti A et anti B.
+- Le sang de groupe O possède les anticorps anti A et anti B.
 
-*   Le sang de groupe AB ne possède pas d'anticorps.
+- Le sang de groupe AB ne possède pas d'anticorps.
 
-Compte tenu de ces données, on peut dresser le tableau de compatibilité dans le système ABO (_tableau n°1_), celui-ci étant basé sur le fait que **l'accident transfusionnel le plus** **dangereux est l'agglutination des hématies du donneur par les agglutinines du** **receveur** (c'est-à-dire une réaction entre les antigènes du donneur et les anticorps du receveur).
+Compte tenu de ces données, on peut dresser le tableau de compatibilité dans le système ABO (*tableau n°1*), celui-ci étant basé sur le fait que **l'accident transfusionnel le plus** **dangereux est l'agglutination des hématies du donneur par les agglutinines du** **receveur** (c'est-à-dire une réaction entre les antigènes du donneur et les anticorps du receveur).
 
 Un autre schéma, facile à retenir, est le suivant: la flèche indiquant la transfusion possible.
 
-
 ![](i72-1.jpg)
 
-
-
 ![](i72-2.jpg)
-
 
 Le groupe O est appelé " donneur universel " (il peut donner à tous les autres groupes). Le groupe AB, " receveur universel " (il peut recevoir de tous les autres groupes).
 
@@ -62,9 +58,7 @@ Mais il faut savoir qu'en situation de grande urgence, un individu rhésus (-) n
 
 Enfin, il faut savoir qu'en Afrique, les sujets RH (-) sont peu nombreux.
 
-
 ![](i72-3.jpg)
-
 
 ### 4. Détermination des groupes sanguins
 
@@ -72,26 +66,27 @@ Enfin, il faut savoir qu'en Afrique, les sujets RH (-) sont peu nombreux.
 
 Il faut disposer de sérums-tests d'origine humaine anti A, anti B et anti AB, qui doivent être conservés à + 4° et sont valables dans les limites des dates de péremption.
 
-*   Déposer sur une plaque de verre (ou un carton glacé) :
+- Déposer sur une plaque de verre (ou un carton glacé) :
 
-*   une goutte de sérum test anti-A
-*   une goutte de sérum test anti-B
-*   une goutte de sérum test anti-AB
+- une goutte de sérum test anti-A
 
-*   Déposer, en face de chaque goutte de sérum-test, une goutte du sang à grouper.
+- une goutte de sérum test anti-B
 
-*   Mélanger successivement les gouttes face à face, avec par exemple, le fond d'un tube (que l'on essuie entre chaque opération).
+- une goutte de sérum test anti-AB
 
-*   Donner à la plaque un léger mouvement de balancement.
+- Déposer, en face de chaque goutte de sérum-test, une goutte du sang à grouper.
 
-*   Observer le résultat au bout de une à trois minutes :
+- Mélanger successivement les gouttes face à face, avec par exemple, le fond d'un tube (que l'on essuie entre chaque opération).
 
-*   l'agglutination des hématies donne à la goutte un aspect de " brique pilée ";
-*   en l'absence d'agglutination, la goutte garde une teinte homogène (schéma _2)._
+- Donner à la plaque un léger mouvement de balancement.
 
+- Observer le résultat au bout de une à trois minutes :
+
+- l'agglutination des hématies donne à la goutte un aspect de " brique pilée ";
+
+- en l'absence d'agglutination, la goutte garde une teinte homogène (schéma *2).*
 
 ![](i72-4.jpg)
-
 
 #### b. Système rhésus
 
@@ -101,10 +96,10 @@ C'est le même principe, avec un sérum-test anti D. Une agglutination indique u
 
 En dehors des compatibilités de groupe, il faut encore s'assurer par l'interrogatoire et l'examen clinique que le donneur n'est pas porteur d'une maladie transmissible par la transfusion. Les maladies en cause sont :
 
-*   la syphilis ;
-*   la trypanosomiase ;
-*   la leishmaniose ;
-*   l'hépatite virale.
+- la syphilis ;
+- la trypanosomiase ;
+- la leishmaniose ;
+- l'hépatite virale.
 
 Quant au paludisme, il est si répandu qu'il est bon d'administrer systématiquement au receveur des antipaludéens.
 
@@ -128,7 +123,7 @@ Ce sont les mêmes que pour les simples perfusions. En pratique courante, on uti
 
 En milieu hospitalier, on est parfois tenu de faire un abord de gros troncs veineux centraux (jugulaire, sous-clavière, fémorale). Parfois, il est nécessaire de faire une dénudation veineuse (veine basilique au bras le plus souvent).
 
-### 3. Durée de la transfusion.
+### 3. Durée de la transfusion
 
 Le débit de la transfusion doit s'adapter aux besoins. En cas d'hémorragie abondante, on veille à maintenir une tension artérielle correcte.
 
@@ -152,11 +147,11 @@ Il est dû à l'existence de substances pyrogènes. Il se traduit par un long fr
 
 On peut voir survenir
 
-*   un oedème de Quincke ;
+- un oedème de Quincke ;
 
-*   un urticaire ;
+- un urticaire ;
 
-*   une crise d'asthme.
+- une crise d'asthme.
 
 #### d. Surcharge circulatoire
 
@@ -166,7 +161,7 @@ Liée à un débit de transfusion trop rapide, avec signe d'oedème aigu du poum
 
 Dans certains cas (enfant atteint de toxicose par exemple), il faut transfuser avec des moyens de fortune et **rapidement.**
 
-**_Par exemple:_** dans une seringue de 20 cc dans laquelle on a introduit préalablement 1 mg d'héparine (5 mg dans 500 cc de sérum physiologique pour 100 ml de sang) ou du citrate (10 ml pour 100 ml de sang) on prélève le sang du donneur, on réinjecte immédiatement au receveur (10 cc par kg pour corriger un choc).
+***Par exemple:*** dans une seringue de 20 cc dans laquelle on a introduit préalablement 1 mg d'héparine (5 mg dans 500 cc de sérum physiologique pour 100 ml de sang) ou du citrate (10 ml pour 100 ml de sang) on prélève le sang du donneur, on réinjecte immédiatement au receveur (10 cc par kg pour corriger un choc).
 
 Bien entendu le groupe sanguin sera immédiatement vérifié !
 
@@ -186,9 +181,9 @@ Des transfusions répétées, chez des malades chroniques, peuvent entraîner de
 
 ## IV. Indications
 
-*   Essentiellement, l'hémorragie aiguë, avec grosses pertes sanguines et constitution d'un état de choc.
+- Essentiellement, l'hémorragie aiguë, avec grosses pertes sanguines et constitution d'un état de choc.
 
-*   Les anémies chroniques, en dehors de l'hémorragie, ne nécessitent une transfusion que quand elles sont mal tolérées, ce qui est rare.
+- Les anémies chroniques, en dehors de l'hémorragie, ne nécessitent une transfusion que quand elles sont mal tolérées, ce qui est rare.
 
 <table>
 
@@ -210,4 +205,4 @@ Indications
 
 </table>
 
-_Développement et Santé, n°44, avril 1983_
+*Développement et Santé, n°44, avril 1983*

@@ -15,7 +15,7 @@ Les schistosomoses (ou bilharzioses) demeurent des parasitoses de premier plan, 
 Quelles que soient les espèces en cause et les différentes méthodes indirectes de dépistage proposées, le diagnostic de certitude repose toujours, actuellement, sur la mise en évidence des oeufs du parasite.
 
 **I. Généralités sur les schistosomes et les schistosomoses**  
-Deux principales espèces de schistosomes parasitent l'Homme: _Schistosoma mansoni_ (S.m.), qui est un agent de schistosomose hépato-intestinale et _Schistosoma haematobium (S.h.)_ qui est celui de la schistosomose génito-urinaire. D'autres espèces sont moins fréquemment retrouvées : _Schistosoma intercalatum (S.i.),_ responsable d'une atteinte essentiellement rectale ; _Schistosoma japoni_cum _(S.j.) et Schistosoma mekongi (S.mk.)_ engendrent les schistosomoses dites artério-veineuses avec une pathologie hépato-intestinale.
+Deux principales espèces de schistosomes parasitent l'Homme: *Schistosoma mansoni* (S.m.), qui est un agent de schistosomose hépato-intestinale et *Schistosoma haematobium (S.h.)* qui est celui de la schistosomose génito-urinaire. D'autres espèces sont moins fréquemment retrouvées : *Schistosoma intercalatum (S.i.),* responsable d'une atteinte essentiellement rectale ; \_Schistosoma japoni_cum *(S.j.) et Schistosoma mekongi (S.mk.)* engendrent les schistosomoses dites artério-veineuses avec une pathologie hépato-intestinale.
 
 Ces parasites se développent dans les vaisseaux sanguins intra-hépatiques puis, tout en restant intravasculaires, les femelles fécondées migrent vers un territoire d'élection où elles pondent leurs oeufs. Les prélèvements nécessaires à leur mise en évidence dépendent donc de cette localisation. Les oeufs sont de taille différente selon l'espèce mais ils contiennent tous une larve dénommée miracidium et possèdent tous un éperon. Il est important de connaître les caractéristiques morphologiques de chacun de ces oeufs, de
 
@@ -25,19 +25,19 @@ manière à établir un diagnostic précis. Par ailleurs, ils sont responsables 
 
 Pour toutes les schistosomoses, les miracidiums sortent des oeufs éliminés dans le milieu extérieur puis pénètrent chez un mollusque d'eau douce. Après diverses transformations et multiplications chez cet hôte intermédiaire, il en ressort d'autres larves dénommées furcocercaires. Ces dernières nagent librement dans l'eau et pénètrent chez l'homme par voie transcutanée à l'occasion d'un bain ou de toute autre activité aquatique. Les mollusques permettant cette évolution sont différents selon l'espèce de schistosome, leur présence ou absence dans certaines régions explique en partie la répartition géographique des différentes schistosomoses.
 
-_- Schistosoma mansoni est présent sur les continents africain et américain : en Afrique on le retrouve dans le delta du Nil, dans une zone au sud du Sahara, le Mozambique, l'Angola... Madagascar (côte Ouest) ainsi qu'en Arabie Saoudite et au Yémen ; sur le continent américain, il est présent au Brésil, au Surinam, au Venezuela, dans certaines îles des Antilles mais est absent dans d'autres (Cuba, Haïti ... )._
+*- Schistosoma mansoni est présent sur les continents africain et américain : en Afrique on le retrouve dans le delta du Nil, dans une zone au sud du Sahara, le Mozambique, l'Angola... Madagascar (côte Ouest) ainsi qu'en Arabie Saoudite et au Yémen ; sur le continent américain, il est présent au Brésil, au Surinam, au Venezuela, dans certaines îles des Antilles mais est absent dans d'autres (Cuba, Haïti ... ).*
 
-_- Schistosoma haematobium est très fréquent dans la vallée du Nil, dans de nombreux pays d'Afrique, à Madagascar (côte est) ainsi que dans certains pays du Proche et Moyen- Orient. Ce parasite est absent du continent américain._
+*- Schistosoma haematobium est très fréquent dans la vallée du Nil, dans de nombreux pays d'Afrique, à Madagascar (côte est) ainsi que dans certains pays du Proche et Moyen- Orient. Ce parasite est absent du continent américain.*
 
-_- Schistosoma intercalatum existe uniquement dans certaines régions d'Afrique centrale et de l'ouest._
+*- Schistosoma intercalatum existe uniquement dans certaines régions d'Afrique centrale et de l'ouest.*
 
-_- Schistosoma japonicum est retrouvé surtout au centre de la Chine, aux Philippines, en Indonésie. Comme son nom l'indique, des foyers avaient été décrits autrefois au Japon._
+*- Schistosoma japonicum est retrouvé surtout au centre de la Chine, aux Philippines, en Indonésie. Comme son nom l'indique, des foyers avaient été décrits autrefois au Japon.*
 
-- _Schistosoma mekongi_, proche de _S.j.,_ est signalé dans la vallée du Mékong.
+- *Schistosoma mekongi*, proche de *S.j.,* est signalé dans la vallée du Mékong.
 
 **III. Diagnostic des schistosomoses**
 
-Le diagnostic peut être évoqué d'emblée, en fonction de la symptomatologie et de l'origine géographique du patient : par exemple, l'existence d'une hématurie chez une personne originaire d'Afrique tropicale fera systématiquement rechercher une schistosomose génito-urinaire à _S._ h. alors que cette hypothèse sera exclue chez un patient originaire d'Amérique du Sud.
+Le diagnostic peut être évoqué d'emblée, en fonction de la symptomatologie et de l'origine géographique du patient : par exemple, l'existence d'une hématurie chez une personne originaire d'Afrique tropicale fera systématiquement rechercher une schistosomose génito-urinaire à *S.* h. alors que cette hypothèse sera exclue chez un patient originaire d'Amérique du Sud.
 
 Si la clinique est parfois évocatrice, dans d'autres cas, elle l'est beaucoup moins et c'est alors un bilan systématique qui permet d'établir le diagnostic.
 
@@ -46,7 +46,7 @@ Parmi les examens biologiques de base, l'hyperéosinophilie sanguine peut manque
 De nombreuses réactions sérologiques ont été décrites, elles demandent cependant plus de moyens (en matériel, réactifs ... ) que la recherche des oeufs du parasite. Bien que parfois utiles, elles peuvent être mises en défaut. Le diagnostic repose donc avant tout sur la mise en évidence des oeufs.
 
 **1. Dans quels prélèvements peut-on retrouver les oeufs du parasite ?**  
--Pour _S. h.,_ il s'agit essentiellement des urines, bien que, parfois (en cas d'infestation importante), ils puissent être retrouvés dans les selles. Pour les autres espèces, la voie
+-Pour *S. h.,* il s'agit essentiellement des urines, bien que, parfois (en cas d'infestation importante), ils puissent être retrouvés dans les selles. Pour les autres espèces, la voie
 
 d'élimination des oeufs est le tube digestif et c'est l'examen parasitologique des selles qui permettra d'établir le diagnostic.
 
@@ -56,7 +56,7 @@ d'élimination des oeufs est le tube digestif et c'est l'examen parasitologique 
 
 **2. Recueil des prélèvements et modalités techniques**
 
-*   **Urines**
+- **Urines**
 
 Recueil :le but est d'obtenir des urines en favorisant le détachement des oeufs en cours d'élimination au niveau de la paroi vésicale. Différentes modalités sont proposées :
 
@@ -94,7 +94,7 @@ Le système de filtration sous vide (comprenant un entonnoir pour le dépôt des
 
 Quelle que soit la modalité technique adoptée, lorsque les urines ne peuvent être examinées rapidement, il est possible de les conserver en y ajoutant, par exemple, quelques gouttes d'eau de Javel.
 
-*   **Selles**
+- **Selles**
 
 Recueil :il n'existe pas de particularités, il s'agit d'un examen parasitologique des selles classique.
 
@@ -102,7 +102,7 @@ Modalités techniques : les oeufs étant éliminés au niveau de la paroi coliqu
 
 Les techniques de concentration utilisées dépendent des habitudes et moyens de chacun. Parmi les techniques courantes, le MIF concentration (Merthiolate-lode-Formol) est d'un bon rendement.
 
-*   **Biopsie rectale**
+- **Biopsie rectale**
 
 Recueil : au cours d'une consultation, le clinicien peut effectuer une biopsie rectale à l'occasion d'une rectoscopie. Le fragment prélevé ne doit en aucun cas être placé dans un liquide fixateur.
 
@@ -134,7 +134,7 @@ Gomme arabique 30 g
 
 Faire dissoudre à froid le chloral dans l'eau. Ajouter la glycérine. Bien mélanger le tout ; mettre la gomme arabique dans un nouet formé de plusieurs couches de gaze. Suspendre le nouet dans le liquide mis dans un flacon bien bouché. Attendre la dissolution complète (parfois plusieurs jours).
 
-*   **Biopsies anatomopathologiques**
+- **Biopsies anatomopathologiques**
 
 Recueil : des biopsies peuvent être effectuées lors d'une intervention et leur envoi au laboratoire ne nécessite pas de particularités par rapport aux techniques anatomopathologiques classiques.
 
@@ -152,7 +152,9 @@ Dans tous les cas, il est intéressant de préciser la vitalité des oeufs (ondu
 
 Parfois, une éclosion de l'oeuf peut avoir lieu dans le produit pathologique, on trouve alors des coques vides et des miracidiums libres, mobiles (à ne pas confondre avec des ciliés).
 
-*   **Caractéristiques des oeufs de S.h.**
+- **Caractéristiques des oeufs de S.h.**
+
+<!-- -->
 
 - Taille : 120-150/55-60 microns,
 
@@ -168,11 +170,9 @@ L'oeuf peut être entouré d'un amas de leucocytes pouvant cacher en partie l'é
 
 Sur les coupes anatomopathologiques, un diagnostic avec une autre espèce est parfois difficile si la coupe ne passe as au niveau de l'éperon. La paroi de l'oeuf est Ziehl négative, contrairement aux autres espèces.
 
-
 ![](i768-1.jpg)
 
-
-*   **Caractéristiques des oeufs de _S. m._**
+- **Caractéristiques des oeufs de *S. m.***
 
 -Taille: 110-170/60-70 microns,
 
@@ -184,13 +184,12 @@ Sur les coupes anatomopathologiques, un diagnostic avec une autre espèce est pa
 
 - Éperon : net, latéral, en " épine de rose", de 15 microns environ. Il peut être difficilement visible si l'oeuf est mal disposé, il faut alors faire varier la vis micrométrique ou tapoter sur la lamelle de manière à le faire tourner.
 
-
 ![](i768-2.jpg)
 
+- **Caractéristiques des oeufs de *S. i.***
 
-*   **Caractéristiques des oeufs de _S. i._**
+Leur morphologie est proche de celle des oeufs de S. h. mais ils sont plus grands
 
-Leur morphologie est proche de celle des oeufs de S. h. mais ils sont plus grands  
 - Taille : 140-240/50-85 microns,
 
 - Forme en fuseau,
@@ -200,13 +199,11 @@ Leur morphologie est proche de celle des oeufs de S. h. mais ils sont plus grand
 Le miracidium présente deux dépressions de chaque côté, à hauteur du centre de l'oeuf.
 
 Rappelons que sur une biopsie, en cas de doute avec S. h., la paroi des oeufs de  
-_S. i. est Ziehl positive alors que celle des oeufs de S. h. est négative._
-
+*S. i. est Ziehl positive alors que celle des oeufs de S. h. est négative.*
 
 ![](i768-3.jpg)
 
-
-*   **Caractéristiques des oeufs de Sj.**
+- **Caractéristiques des oeufs de Sj.**
 
 Ce sont des oeufs de petite taille par rapport aux précédents :
 
@@ -216,11 +213,9 @@ Ce sont des oeufs de petite taille par rapport aux précédents :
 
 - Éperon : latéral, petit, arrondi, difficile à repérer, il peut être caché par des précipités granuleux.
 
-
 ![](i768-4.jpg)
 
-
-*   **Caractéristiques des oeufs de S. mk.**
+- **Caractéristiques des oeufs de S. mk.**
 
 Leur morphologie est proche de celle des oeufs de S.j. mais au plan épidémiologique, la répartition géographique est différente (vallée du Mékong).
 
@@ -234,16 +229,16 @@ En attendant une hypothétique éradication de ces parasitoses, il est toujours 
 
 - O'Fel Ann, (Association française des enseignants en parasitologie), Parasitologie Mycologie, Ed. Format Utile, 1995.
 
-- Deluol AM. _Atlas de parasitologie, t._ III, les helminthes, Éd. Varia, 1989.
+- Deluol AM. *Atlas de parasitologie, t.* III, les helminthes, Éd. Varia, 1989.
 
 - De Gentile L, Cimon B, Chabasse D. Schistosomoses, EMC, 8, 513-A-10.
 
-- Gentilini M, Duflo B. _Médecine tropicale,_ Paris : Flammarion médecine-sciences.
+- Gentilini M, Duflo B. *Médecine tropicale,* Paris : Flammarion médecine-sciences.
 
-- Golvan YJ, Ambroise-Thomas P. _Les nouvelles_ _techniques en parasitologie,_ Paris : Flammarion médecine-sciences.
+- Golvan YJ, Ambroise-Thomas P. *Les nouvelles* *techniques en parasitologie,* Paris : Flammarion médecine-sciences.
 
-- OMS _Manuel des techniques de base pour le_ _laboratoire médical_, 1982.
+- OMS *Manuel des techniques de base pour le* *laboratoire médical*, 1982.
 
-- Rousset JJ. _Copro-parasitologie pratique._ ESTEM/AUPELF, 1993.
+- Rousset JJ. *Copro-parasitologie pratique.* ESTEM/AUPELF, 1993.
 
-_Développement et Santé, n°, 133, février 1998_
+*Développement et Santé, n°, 133, février 1998*

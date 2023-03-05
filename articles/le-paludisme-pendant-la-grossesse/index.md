@@ -6,33 +6,34 @@ date: "2008-07-01"
 
 <div class="teaser"><p>Les enfants de moins de 5 ans et les femmes au cours de leur grossesse font partie des personnes les plus vulnérables au paludisme. Dans les zones endémiques de l'Afrique, environ 30 millions de femmes enceintes sont exposées au risque du paludisme chaque année. Elles sont plus susceptibles au risque de l'infection palustre pendant la grossesse que celles non enceintes car l'immunité développée au cours des infections répétées avant la grossesse diminue physiologi­quement pendant la grossesse. La séquestration et la prolifération des parasites au niveau du placenta a un impact néfaste sur le développement du foetus en perturbant la diffusion de l'oxy­gène et des nutriments. Seul le Plasmodium falciparum, qui est l'espèce la plus courante en Afrique, pose réellement problème.</p></div>
 
-## 1. La gravité de la maladie pour la femme  
+## 1. La gravité de la maladie pour la femme
+
 au cours de la grossesse
 
 Elle dépend de l'intensité de la transmission :
 
-*   Dans les **zones a transmission élevée ou stable** (continue) : les femmes ont développé une immunité suffisante qui leur évite une infection palustre symptômatique. Par contre la maladie se manifeste générale­ment par une anémie secondaire et la pré­sence de parasites dans le placenta.  
-*   **Dans les zones a transmission faible et épidémique**, les femmes enceintes n'ayant pas acquis un niveau d'immunité élevé ont un risque deux ou trois fois plus important de développer une maladie grave découlant de l'infection palustre que les femmes adultes non enceintes vivant dans la même zone. Dans ces zones, la mortalité maternelle peut découler soit directement du paludisme (forme grave), soit indirectement d'une ané­mie grave liée au paludisme.
+- Dans les **zones a transmission élevée ou stable** (continue) : les femmes ont développé une immunité suffisante qui leur évite une infection palustre symptômatique. Par contre la maladie se manifeste générale­ment par une anémie secondaire et la pré­sence de parasites dans le placenta.
+- **Dans les zones a transmission faible et épidémique**, les femmes enceintes n'ayant pas acquis un niveau d'immunité élevé ont un risque deux ou trois fois plus important de développer une maladie grave découlant de l'infection palustre que les femmes adultes non enceintes vivant dans la même zone. Dans ces zones, la mortalité maternelle peut découler soit directement du paludisme (forme grave), soit indirectement d'une ané­mie grave liée au paludisme.
 
 C'est ainsi que, dans les zones à transmission palustre, l'infection palustre chez la femme enceinte, provoque des effets néfastes : accès palustre, anémie maternelle, retard de crois­sance intra utérine, avortement spontané, décès néonatal et insuffisance pondérale à la naissance. Dans ces zones, le paludisme est à l'origine de 10 000 décès maternels par an pour 325 000 naissances, de 8 à 14 % des faible poids de naissance et de 3 à 8 % des décès de nourrissons.
 
 Malgré le danger que représente le paludisme chez les femmes enceintes et leurs enfants, ce problème était encore relativement négligé il y a peu, sachant que moins de 5 % des femmes enceintes avaient accès à des suivis et inter­ventions efficaces. De nouvelles stratégies de prévention antipaludique pendant la grosses­se, ont été mises au point ces dix dernières années, et elles ont considérablement amélio­ré la santé des mères et des nourrissons.
 
-## 2. La prévention du paludisme et la lutte contre la maladie au cours de la grossess**e**
+## 2. La prévention du paludisme et la lutte contre la maladie au cours de la grossesse
 
 Elle se présente en trois volets :
 
-1) le traitement préventif intermittent
+1)  le traitement préventif intermittent
 
-2) les moustiquaires imprégnées d'insecticide
+2)  les moustiquaires imprégnées d'insecticide
 
-3) la prise en charge de la maladie propre­ment dite.
+3)  la prise en charge de la maladie propre­ment dite.
 
 Dans la majorité des pays africains, 60 % des femmes enceintes se rendent à de multiples consultations prénatales (CPN) et ceci consti­tue une bonne occasion d'interagir avec les femmes afin de prévenir le paludisme ainsi que d'autres maladies prioritaires qui les touchent.
 
 ### 1. Le traitement préventif intermittent
 
-Il consiste à administrer à toutes les femmes enceintes au moins deux doses d'un anti­paludique efficace lors des consultations prénatales régulières. Le médicament actuellement retenu pour ce traitement est la sulfadoxine pyrimethamine à raison de 3 comprimés en une prise unique, adminis­trée tous les 3 mois, à partir du 2<sup>eme</sup> tri­mestre. Avant la fin du le` trimestre il n'y a pas de traitement préventif proposé, aucun des médicaments actuellement utilisés n'ayant fait preuve de son innocuité sur l'embryon. Le caractère économique et l'efficacité de cette approche a pu être vérifié au Malawi et s'accompagne d'une baisse des infections placentaires de 32 à 23 % et du nombre des cas de faible poids de naissance de 23 à 10 %. Elle a égale­ment révélé que 75% de toutes les femmes enceintes recourraient à ce traitement s'il leur était proposé.
+Il consiste à administrer à toutes les femmes enceintes au moins deux doses d'un anti­paludique efficace lors des consultations prénatales régulières. Le médicament actuellement retenu pour ce traitement est la sulfadoxine pyrimethamine à raison de 3 comprimés en une prise unique, adminis­trée tous les 3 mois, à partir du 2<sup>eme</sup> tri­mestre. Avant la fin du le\` trimestre il n'y a pas de traitement préventif proposé, aucun des médicaments actuellement utilisés n'ayant fait preuve de son innocuité sur l'embryon. Le caractère économique et l'efficacité de cette approche a pu être vérifié au Malawi et s'accompagne d'une baisse des infections placentaires de 32 à 23 % et du nombre des cas de faible poids de naissance de 23 à 10 %. Elle a égale­ment révélé que 75% de toutes les femmes enceintes recourraient à ce traitement s'il leur était proposé.
 
 ### 2. Les moustiquaires imprégnées d'insec­ticide
 
@@ -177,9 +178,9 @@ L'action pour faire reculer le paludisme, en liaison avec la stratégie pour une
 
 Pour prévenir de façon économique et efficace le paludisme chez les femmes enceintes, il faudra :
 
-*   sensibiliser davantage à ce problème les col­lectivités les plus touchées ;
-*   intégrer les instruments de lutte antipalu­dique dans les autres programmes de santé destinés aux femmes enceintes et aux nou­veau-nés;
-*   renforcer les systèmes de soins prénatals et la participation des accoucheuses tradition­nelles là où elles sont associées à la presta­tion des services de santé.
+- sensibiliser davantage à ce problème les col­lectivités les plus touchées ;
+- intégrer les instruments de lutte antipalu­dique dans les autres programmes de santé destinés aux femmes enceintes et aux nou­veau-nés;
+- renforcer les systèmes de soins prénatals et la participation des accoucheuses tradition­nelles là où elles sont associées à la presta­tion des services de santé.
 
 Tel est le prix à payer pour des grossesses plus sûres et une baisse de la mortalité des nou­veau-nés.
 
@@ -295,4 +296,4 @@ Frottis sanguin : Plasmodium
 
 </table>
 
-_Développement et Santé, n°189, 2008_
+*Développement et Santé, n°189, 2008*

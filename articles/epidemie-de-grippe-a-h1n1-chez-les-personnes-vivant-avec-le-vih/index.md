@@ -11,12 +11,12 @@ Ce document du TRT-5 présente les éléments qui peuvent vous permettre de déc
 
 Le texte reprend les recommandations qu'a émis en septembre le groupe d'experts sur la prise en charge du VIH (groupe présidé par le Pr Patrick Yeni) à destination des professionnels de santé. Il a recommandé la vaccination pour les personnes séropositives, de même que le Haut Conseil de Santé Publique, qui a estimé qu'il s'agissait d'un groupe de population prioritaire.
 
-**La vaccination proposée aux groupes prioritaires débutera le 12 novembre**. Ce document présente le circuit de vaccination tel qu'il a été mis en place par le ministère de la Santé et les informations médicales dont nous disposons. Ce circuit est susceptible d'évoluer dans les prochaines semaines. Nous tenterons de vous transmettre des informations actualisées dès qu'elles seront portées à notre connaissance site [www.trt-5.org](http://www.trt-5.org "www.trt-5.org")).  
+**La vaccination proposée aux groupes prioritaires débutera le 12 novembre**. Ce document présente le circuit de vaccination tel qu'il a été mis en place par le ministère de la Santé et les informations médicales dont nous disposons. Ce circuit est susceptible d'évoluer dans les prochaines semaines. Nous tenterons de vous transmettre des informations actualisées dès qu'elles seront portées à notre connaissance site [[www.trt-5.org](http://www.trt-5.org)](http://www.trt-5.org "www.trt-5.org")).  
 D'ici là, n'hésitez pas à nous tenir informés des difficultés rencontrées en remplissant le formulaire en ligne sur notre site : Faites-nous connaître les difficultés rencontrées dans l'accès à la vaccination contre la grippe A(H1N1)  
 Nous ne pouvons pas nous engager à apporter des réponses au cas par cas aux difficultés rencontrées. Pour ce faire, adressez-vous aux associations de lutte contre le sida proches de  
-chez vous, dont vous trouverez les coordonnées sur les sites web de Sida Info Service, ARCAT et AIDES.  
+chez vous, dont vous trouverez les coordonnées sur les sites web de Sida Info Service, ARCAT et AIDES.
 
-****Sommaire :****  
+**Sommaire :**  
 Pourquoi des recommandations spécifiques aux personnes vivant avec le VIH ?  
 I - Informations générales sur la grippe A(H1N1)  
 II - Vaccination et dispositif de vaccination des personnes séropositives  
@@ -51,18 +51,19 @@ Les personnes infectées par le virus de la grippe A sont déjà contagieuses 1 
 
 Le virus de la grippe A se transmet de la même manière que celui de la grippe saisonnière, c'est-à-dire :
 
-*   par l'air, via les gouttelettes contenant du virus, qui sont projetées par la toux ou les éternuements d'une personne infectée et inhalées par une personne saine ;
-*   par contact rapproché (se serrer la main, s'embrasser, etc.) avec une personne infectée ;
-*   par contact indirect, via des objets ou des surfaces contaminées (se servir dans le verre d'une personne infectée, toucher des poignées de porte, des mouchoirs, le clavier d'un ordinateur, etc.), si la main est portée ensuite à la bouche.
+- par l'air, via les gouttelettes contenant du virus, qui sont projetées par la toux ou les éternuements d'une personne infectée et inhalées par une personne saine ;
+- par contact rapproché (se serrer la main, s'embrasser, etc.) avec une personne infectée ;
+- par contact indirect, via des objets ou des surfaces contaminées (se servir dans le verre d'une personne infectée, toucher des poignées de porte, des mouchoirs, le clavier d'un ordinateur, etc.), si la main est portée ensuite à la bouche.
 
-### 5) Comment savoir si l'on est atteint  
+### 5) Comment savoir si l'on est atteint
+
 par la grippe A ou la grippe saisonnière ?
 
 Dans le contexte de la pandémie de grippe A(H1N1), on ne vérifie pas si les personnes ayant les symptômes d'une grippe sont touchées par la grippe A(H1N1) ou par la grippe saisonnière, sauf dans certains cas particulièrement graves ou douteux.
 
 Le diagnostic et le traitement des surinfections (pneumonies bactériennes) peuvent nécessiter de faire une radiographie des poumons et de recourir à un traitement antibiotique. Les médecins généralistes sont informés sur la plus grande fréquence de ces surinfections chez les personnes séropositives. Ils pourront orienter vers les services hospitaliers les personnes chez qui se pose un problème diagnostic ou qui souffrent d'une forme potentiellement grave.
 
-_A priori_, c'est votre médecin de ville (médecin traitant, médecin référent) qui devra être votre premier recours pour prévenir ou soigner la grippe A(H1N1). Le recours à l'hôpital n'est justifié qu'en cas de doute sur le diagnostic ou en cas de gravité de la situation (par exemple si vous éprouvez une grande difficulté à respirer ou une très forte fièvre).
+*A priori*, c'est votre médecin de ville (médecin traitant, médecin référent) qui devra être votre premier recours pour prévenir ou soigner la grippe A(H1N1). Le recours à l'hôpital n'est justifié qu'en cas de doute sur le diagnostic ou en cas de gravité de la situation (par exemple si vous éprouvez une grande difficulté à respirer ou une très forte fièvre).
 
 ### 6) Comment se protéger du virus de la grippe A ?
 
@@ -87,7 +88,8 @@ La vaccination contre la grippe saisonnière est recommandée habituellement che
 La vaccination contre le virus de la grippe A vous sera proposée, de façon prioritaire, ainsi qu'aux personnes atteintes d'autres maladies chroniques.  
 Si vous êtes dans l'une de ces situations, cette vaccination vous est plus fortement recommandée car vous risquez d'être plus vulnérable à la grippe :vous ne prenez pas de traitement contre le VIH ; vous avez un nombre de lymphocytes CD4 (T4) inférieur à 500/mm3 ; vous souffrez d'autres maladies chroniques associées à l'infection par le VIH (maladie respiratoire, cirrhose, diabète…) ; vous êtes fumeur ; vous vivez dans des conditions précaires (foyer, en prison, dans la rue).
 
-### 2) Que faut-il savoir sur le vaccin contre  
+### 2) Que faut-il savoir sur le vaccin contre
+
 la grippe A qui vous sera proposé ?
 
 Le vaccin contre la grippe A qui vous sera proposé contiendra un adjuvant, ce qui est recommandé par le Haut Conseil de la Santé Publique. Les informations scientifiques dont nous disposons aujourd'hui laissent penser qu'il y a plus de bénéfices que de risques, pour les personnes vivant avec le VIH, à utiliser un vaccin avec adjuvant, pour une meilleure réponse immunitaire et donc une meilleure protection.  
@@ -107,17 +109,16 @@ Les autorités de santé et l'ANRS (Agence Nationale de Recherche sur le Sida et
 ### 3) Quel est le circuit de vaccination des personnes séropositives ?
 
 La campagne de vaccination contre la grippe A(H1N1) débutera le 12 novembre pour les personnes appartenant aux groupes de la population identifiés comme prioritaires, et notamment pour les séropositifs.  
-Vous recevrez, de la Caisse primaire d'assurance maladie ou du service hospitalier dans lequel vous êtes suivi, une lettre vous invitant à aller vous faire vacciner.  
+Vous recevrez, de la Caisse primaire d'assurance maladie ou du service hospitalier dans lequel vous êtes suivi, une lettre vous invitant à aller vous faire vacciner.
 
-****Vous pourrez être vacciné :****
+**Vous pourrez être vacciné :**
 
-*   soit dans l'hôpital dans lequel vous êtes suivi pour le VIH s'il organise lui-même la vaccination. Dans ce cas, la lettre que vous recevrez vous invitera à vous présenter dans le service dans lequel vous êtes suivi. Il établira un bon de vaccination et vous serez vacciné ;
-*   soit dans le centre de vaccination le plus proche de chez vous si l'hôpital dans lequel vous êtes suivi pour le VIH n'organise pas la vaccination. Dans ce cas, la lettre que vous recevrez vous invitera à vous présenter au centre d'accueil de l'Assurance maladie le plus proche de chez eux (Caisse Primaire d'Assurance Maladie, CPAM, par exemple), pour y retirer le bon de vaccination. Vous serez orienté vers le centre de vaccination le plus proche de chez vous (un peu plus de 1000 centres de vaccinations ont été établis sur tout le territoire).
+- soit dans l'hôpital dans lequel vous êtes suivi pour le VIH s'il organise lui-même la vaccination. Dans ce cas, la lettre que vous recevrez vous invitera à vous présenter dans le service dans lequel vous êtes suivi. Il établira un bon de vaccination et vous serez vacciné ;
+- soit dans le centre de vaccination le plus proche de chez vous si l'hôpital dans lequel vous êtes suivi pour le VIH n'organise pas la vaccination. Dans ce cas, la lettre que vous recevrez vous invitera à vous présenter au centre d'accueil de l'Assurance maladie le plus proche de chez eux (Caisse Primaire d'Assurance Maladie, CPAM, par exemple), pour y retirer le bon de vaccination. Vous serez orienté vers le centre de vaccination le plus proche de chez vous (un peu plus de 1000 centres de vaccinations ont été établis sur tout le territoire).
 
-###   
-Cas particuliers
+### Cas particuliers
 
-****Que faire si vous ne recevez pas de courrier d'invitation à la vaccination ?****  
+**Que faire si vous ne recevez pas de courrier d'invitation à la vaccination ?**  
 Vous pourrez bien sûr avoir accès à la vaccination en vous rendant au centre d'accueil de l'Assurance maladie le plus proche de chez vous (CPAM) pour vous faire remettre un bon de vaccination. Vous serez ensuite orienté vers le centre de vaccination le plus proche.
 
 **Si votre service hospitalier organise la vaccination, pourrez-vous malgré tout aller dans un autre centre de vaccination ?**  
@@ -130,24 +131,26 @@ Oui. La seule obligation est que les deux injections prévues soient réalisées
 Des équipes mobiles de vaccination prendront en charge certains groupes de population éloignés des soins ou ne pouvant pas y accéder facilement (résidents d'établissements médico-sociaux, personnes des centres hospitaliers spécialisés, personnes détenues, personnes placées dans les centres de rétention administrative, personnes dans I'incapacité physique de se déplacer, personnes en situation de précarité...).  
 Pour assurer l'accès à la vaccination des personnes sans domicile fixe et de celles susceptibles d'être éligibles à I'aide médicale d'Etat (AME) en situation de vulnérabilité sanitaire et sociale, une collaboration entre le SAMU social, les associations et les services sociaux est requise pour un dispositif adapté. Pour toutes, l'information et la décision éclairée de se faire vacciner restent bien évidemment des droits.
 
-## III. Traitements de la grippe A  
+## III. Traitements de la grippe A
+
 chez les personnes vivant avec le VIH
 
-### 1) Si vous n'êtes pas vacciné, que faire si vous êtes  
+### 1) Si vous n'êtes pas vacciné, que faire si vous êtes
+
 ou avez été en contact étroit avec des personnes grippées ?
 
-Vous avez été ou vous êtes en contact étroit (personnes vivant sous le même toit ou relations intimes) avec une ou des personne(s) grippée(s) et vous n'êtes pas vacciné.  
+Vous avez été ou vous êtes en contact étroit (personnes vivant sous le même toit ou relations intimes) avec une ou des personne(s) grippée(s) et vous n'êtes pas vacciné.
 
-****Deux cas de figure sont possibles**** :
+**Deux cas de figure sont possibles :**
 
-*   **Le dernier contact date de moins de 48 heures (2 jours) et vous n'avez pas encore les signes de la grippe :** Contactez votre médecin traitant ou, s'il n'est pas disponible, le médecin prenant en charge votre infection à VIH ou le service hospitalier dans lequel vous êtes suivi, afin qu'on puisse vous prescrire un traitement préventif contre la grippe A pour une durée de 10 jours. Il s'agit soit de l'oseltamivir (Tamiflu®) 75 mg par jour (1 cp par jour/10 j), soit du zanamivir (Relenza®) 2 inhalations de 5 mg par jour.  
-*   **Le dernier contact date de plus de 48 heures (2 jours) et vous avez les signes de la grippe** (courbatures, fièvre supérieure à 38°C, toux, mal de tête…) sans signes de gravité (difficultés à respirer au repos ou au moindre effort…) : Contactez votre médecin traitant, ou s'il n'est pas disponible, le médecin prenant en charge votre infection à VIH ou son service hospitalier, pour une prescription d'un traitement curatif contre la grippe A, d'une durée de 5 jours : soit du Tamiflu® 75 mg 2 fois par jour (2 cp par jour), soit du Relenza® (2 inhalations de 5 mg 2 fois par jour). Dans ce cas, au bout de 48 heures de traitement, le médecin devra s'assurer de l'absence d'aggravation des signes.
+- **Le dernier contact date de moins de 48 heures (2 jours) et vous n'avez pas encore les signes de la grippe :** Contactez votre médecin traitant ou, s'il n'est pas disponible, le médecin prenant en charge votre infection à VIH ou le service hospitalier dans lequel vous êtes suivi, afin qu'on puisse vous prescrire un traitement préventif contre la grippe A pour une durée de 10 jours. Il s'agit soit de l'oseltamivir (Tamiflu®) 75 mg par jour (1 cp par jour/10 j), soit du zanamivir (Relenza®) 2 inhalations de 5 mg par jour.
+- **Le dernier contact date de plus de 48 heures (2 jours) et vous avez les signes de la grippe** (courbatures, fièvre supérieure à 38°C, toux, mal de tête…) sans signes de gravité (difficultés à respirer au repos ou au moindre effort…) : Contactez votre médecin traitant, ou s'il n'est pas disponible, le médecin prenant en charge votre infection à VIH ou son service hospitalier, pour une prescription d'un traitement curatif contre la grippe A, d'une durée de 5 jours : soit du Tamiflu® 75 mg 2 fois par jour (2 cp par jour), soit du Relenza® (2 inhalations de 5 mg 2 fois par jour). Dans ce cas, au bout de 48 heures de traitement, le médecin devra s'assurer de l'absence d'aggravation des signes.
 
-###   
-2) Si vous avez moins de 200 CD4 (T4), que faire  
+### 2) Si vous avez moins de 200 CD4 (T4), que faire
+
 si vous avez des signes sévères de la grippe ?
 
-Contactez votre médecin traitant ou le médecin prenant en charge l'infection à VIH ou son service hospitalier, ou allez aux urgences de l'hôpital le plus proche ou appelez le 15 (SAMU) si vous n'êtes pas en état de vous déplacer, afin qu'un médecin fasse le diagnostic de grippe A ou d'une autre maladie (prélèvement nasal, prise de sang), évalue la gravité et la présence ou non de complications (si suspicion de pneumonie, une radiologie des poumons sera effectuée).  
+Contactez votre médecin traitant ou le médecin prenant en charge l'infection à VIH ou son service hospitalier, ou allez aux urgences de l'hôpital le plus proche ou appelez le 15 (SAMU) si vous n'êtes pas en état de vous déplacer, afin qu'un médecin fasse le diagnostic de grippe A ou d'une autre maladie (prélèvement nasal, prise de sang), évalue la gravité et la présence ou non de complications (si suspicion de pneumonie, une radiologie des poumons sera effectuée).
 
 **En cas de complications** (surinfection bactérienne pulmonaire), un traitement par antibiotiques doit être prescrit, Augmentin® (amoxicilline/acide clavulanique) ou Tavanic® (lévofloxacine), avec une surveillance de l'évolution au bout de 48 heures de traitement.  
 En cas de forme sévère ou d'aggravation (après que vous avez reçu un traitement contre la grippe A et/ou des antibiotiques), une hospitalisation et parfois une réanimation est nécessaire.
@@ -157,7 +160,8 @@ Le Tamiflu® est à privilégier chez les femmes enceintes. Chez l'enfant, les d
 
 **Il n'existe pas de contre-indication connue à l'usage de ces médicaments avec les antirétroviraux (traitements contre le VIH).**Mais ils doivent être adaptés en cas d'insuffisance rénale (Tamiflu® « curatif » : 75 mg/jour pendant 5 jours si la clairance de la créatinine est inférieure à 30 ml/mn).
 
-### 3) Quels peuvent être les effets indésirables  
+### 3) Quels peuvent être les effets indésirables
+
 des médicaments Tamiflu® et Relenza® ?
 
 Ces médicaments peuvent provoquer des troubles digestifs (diarrhées, nausées, vomissements, douleurs abdominales…), des infections de type bronchites, des maux de tête, ou encore de la fatigue. Ces effets indésirables sont le plus souvent bénins et régressent après les premiers jours de traitement ou après la fin du traitement.  

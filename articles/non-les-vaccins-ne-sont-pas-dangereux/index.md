@@ -4,9 +4,7 @@ author: "Philippe Reinert Pédiatre, Créteil"
 date: "2015-10-16"
 ---
 
-
 ![](diapositive1-0.jpg)
-
 
 Dans de nombreux pays, se manifestent des ligues anti-vaccins accusant le corps médical de cacher au grand public des complications graves : elles conseillent aux parents de refuser toute vaccination et de laisser faire la bonne nature.  
 Internet est un moyen puissant pour diffuser ces contre-vérités. Récemment, en France, un chirurgien, le professeur Joyeux, qui ne s’était jamais intéressé à la vaccination, a réussi à faire signer une pétition contre les vaccins à plus de 700 000 personnes !

@@ -16,39 +16,35 @@ date: "2007-10-24"
 <li>la technique de Willis donne de bons résultats pour la recherche des œufs d’<em>Hymenolepis nana</em>.</li>
 </ul></div>
 
-## I. _Tænia saginata_ et _tænia solium_
+## I. *Tænia saginata* et *tænia solium*
 
 ### Morphologie
 
 Figure 1
 
-
 ![](page-32-fig-1.jpg)
 
-
-### **Oeufs**
+### Oeufs
 
 Il est pratiquement impossible de différencier les deux espèces.  
 Taille : 50 à 60 µm.  
 Forme : arrondie.  
 Aspect : deux coques :
 
-*   Une coque externe, rarement présente, mince, incolore et albumineuse ;
-*   Une coque interne qui délimite l'embryophore; c'est l'œuf de Tænia tel qu'on peut le voir habituellement :
-    *   Taille : 30 µm.  
-    *   Forme : arrondie ; légèrement ovalaire.  
-    *   Couleur : brun foncé.  
-    *   Coque : lisse, très épaisse (4 à 5 µm), striée sur sa largeur.  
-    *   Contenu :   embryon hexacanthe dans lequel on voit très bien les six crochets.
+- Une coque externe, rarement présente, mince, incolore et albumineuse ;
+- Une coque interne qui délimite l'embryophore; c'est l'œuf de Tænia tel qu'on peut le voir habituellement :
+  - Taille : 30 µm.
+  - Forme : arrondie ; légèrement ovalaire.
+  - Couleur : brun foncé.
+  - Coque : lisse, très épaisse (4 à 5 µm), striée sur sa largeur.
+  - Contenu :   embryon hexacanthe dans lequel on voit très bien les six crochets.
 
 **Figures 2 et 3 ( gr x 165 et gr x 660) : œufs de Tænia saginata**  
 Clichés  Dr.  A.M.  DELUOL 
 
-
 ![](page-32-fig-2.jpg)
 
 ![](page-32-fig-3.jpg)
-
 
 Technique de Junod sans coloration.  
 Les œufs de Tænia saginata peuvent se retrouver dans un examen de selles : la coque externe, incolore, albumineuse, contient de nombreux globules graisseux ; elle entoure, mais de façon irrégulière, l'embryophore qui possède une coque  très  épaisse, striée, contenant l'embryon hexacanthe.
@@ -62,26 +58,21 @@ L’œuf se repère facilement, même au faible grossissement, car la coque de l
 
 **Figure 4**
 
-
 ![](page-33-fig-4.jpg)
 
+### Œufs
 
-###   
-Œufs
+- Taille : 70 µm/45 µm.
+- Forme :  ovoïde.
+- Couleur : jaune ou brun clair.
+- Coque :   lisse et mince, avec présence d'un clapet (opercule) peu visible mais qui est souvent ouvert.
+- Contenu :  une cellule centrale entourée de cellules vitellines.  L'embryon  se  forme  environ trois semaines après la ponte. Les œufs sont retrouvés en grand nombre dans les selles.
 
-*   Taille : 70 µm/45 µm.  
-*   Forme :  ovoïde.  
-*   Couleur : jaune ou brun clair.  
-*   Coque :   lisse et mince, avec présence d'un clapet (opercule) peu visible mais qui est souvent ouvert.  
-*   Contenu :  une cellule centrale entourée de cellules vitellines.  L'embryon  se  forme  environ trois semaines après la ponte. Les œufs sont retrouvés en grand nombre dans les selles.
-
-**Figures 5 et 6 (gr x 165 et gr x 660) : ****œ****ufs de Bothriocéphale**
-
+**Figures 5 et 6 (gr x 165 et gr x 660) : œufs de Bothriocéphale**
 
 ![](page-33-fig-5.jpg)
 
 ![](page-33-fig-6.jpg)
-
 
 Clichés du Dr. A.M. DELUOL  
 Examen direct sans coloration  
@@ -89,41 +80,36 @@ En général ils sont très nombreux dans une préparation.
 L’œuf mesure 70 µm environ, couleur jaune ou brun clair, forme ovoïde.  
 Au plus fort grossissement on voit nettement l’opercule, qui est souvent ouvert.  
 A l'intérieur l'œuf contient une cellule centrale, entourée de cellules vitellines qui sont difficilement visibles.  
-Il ne faut pas confondre ces œufs avec des œufs de _Paragonimus_ quand ces derniers sont éliminés dans les selles. Ils sont de taille voisine mais la forme est différente ; ils sont moins arrondis, la coque est épaissie à l'opposé de l'opercule et ils sont en général très peu nombreux dans une préparation.
+Il ne faut pas confondre ces œufs avec des œufs de *Paragonimus* quand ces derniers sont éliminés dans les selles. Ils sont de taille voisine mais la forme est différente ; ils sont moins arrondis, la coque est épaissie à l'opposé de l'opercule et ils sont en général très peu nombreux dans une préparation.
 
-## III. _Hymenolepis nana_
+## III. *Hymenolepis nana*
 
 ### Morphologie
 
 **Figure 7**
 
-
 ![](page-33-fig-7.jpg)
-
 
 ### Œufs
 
-*   Taille : 40 à 50 µm /30 à 40 µm.  
-*   Forme : elliptique.  
-*   Couleur : transparent.  
-*   Aspect : double coque
-    *   Coque externe, mince, lisse et hyaline
-    *   Coque interne : présence à chaque pôle de deux mamelons d'où partent des filaments enchevêtrés qui sont assez longs et qui se rejoignent au milieu de la coque.  
-*   Contenu : embryon hexacanthe.
+- Taille : 40 à 50 µm /30 à 40 µm.
+- Forme : elliptique.
+- Couleur : transparent.
+- Aspect : double coque
+  - Coque externe, mince, lisse et hyaline
+  - Coque interne : présence à chaque pôle de deux mamelons d'où partent des filaments enchevêtrés qui sont assez longs et qui se rejoignent au milieu de la coque.
+- Contenu : embryon hexacanthe.
 
-**Figures 8 et 9 (gr x 165 et gr x 600) : œufs d'_Hymenolepis nana_**
+**Figures 8 et 9 (gr x 165 et gr x 600) : œufs d'*Hymenolepis nana***
 
 **Figure 8**
 
- 
+   
 ![](page-34-diapo-8.jpg)
-
 
 **Figure 9**
 
-
 ![](page-34-fig-9.jpg)
-
 
 Clichés du Dr. A.M. DELUOL  
 Technique de Junod sans coloration  

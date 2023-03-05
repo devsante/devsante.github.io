@@ -8,9 +8,9 @@ La notion d'urgence, en terme de médicaments, peut s'entendre sous deux angles 
 
 Le problème se pose différemment dans un centre hospitalier et dans un centre de santé où des moyens limités sont disponibles. Cet article se rapporte à l'exercice du personnel infirmier qui, dans un centre de santé, doit assurer le diagnostic, la prescription et la gestion pharmaceutique.
 
-## **I.** **Choix des médicaments** **de l'urgence**
+## I. Choix des médicaments de l'urgence
 
-### **1. Une bonne connaissance des** **médicaments est indispensable**
+### 1. Une bonne connaissance des médicaments est indispensable
 
 La gamme des produits disponibles, ou prescrits, dans un centre de santé est très hétérogène suivant les localités. De même, celle dont les proscripteurs infirmiers estiment avoir besoin, soit en pratique quotidienne, soit en urgence.
 
@@ -18,11 +18,11 @@ Les médicaments les plus actifs sont, en majorité, ceux qui présentent le plu
 
 L'usage inapproprié de certains principes actifs, en cas de diagnostic erroné ou de contre-indication, peut aggraver au lieu de soulager. Ce serait le cas du salbutamol prescrit pour une dyspnée secondaire à une insuffisance cardiaque, d'un diurétique dans une anurie ou dans une hypovolémie. Autre exemple : l'administration d'un analgésique puissant qui retarderait la nécessité d'évacuation (transfert) pour une intervention chirurgicale, etc.
 
-### **2. L'armoire d'urgence : pas de** **liste standard, mais une gamme** **adaptée**
+### 2. L'armoire d'urgence : pas de liste standard, mais une gamme adaptée
 
 La constitution d'une armoire d'urgence devrait exister dans chaque centre de santé. Sa composition doit répondre aux situations pathologiques graves les plus fréquentes et au niveau de formation du personnel soignant, dans la limite des équipements disponibles. C'est pourquoi il n'est pas possible d'établir une liste-type sans prendre en considération des particularités, principalement la proximité d'un centre de référence et la réglementation en vigueur dans chaque pays ou dans chaque région. Par exemple, la présence d'insuline serait justifiée seulement si le dosage de la glycémie est possible et, surtout, lorsque des diabétiques sont connus parmi les consultants du centre. La présence d'un antihypotenseur implique évidemment la disponibilité d'un tensiomètre (opérationnel ... ). La liste s'élargit avec le développement de capacités particulières, par exemple lorsque des personnels sont formés à la petite chirurgie.
 
-### **3. Voie d'administration** **l'injection s'impose-t-elle toujours ?**
+### 3. Voie d'administration l'injection s'impose-t-elle toujours ?
 
 La **voie injectable** apparaît souvent comme la seule voie compatible avec une action rapide et efficace. Or, elle expose d'autant plus au risque de contamination (infectieuse) que la précipitation peut amener à négliger des règles d'hygiène élémentaires.
 
@@ -34,7 +34,7 @@ La **voie orale** est souvent utilisable si l'état du malade le permet à condi
 
 La **voie intraveineuse** donne les résultats les plus immédiats, bénéfiques... ou préjudiciables (négatifs), mais elle est d'abord parfois difficile et nécessite souvent l'emploi de solutions de dilution. La **voie intramusculaire** est plus facile, mais l'absorption du principe actif est plus lente et parfois inconstante.
 
-### **4. Quelques principes de base**
+### 4. Quelques principes de base
 
 Ne jamais utiliser dans l'urgence un médicament dont on n'a pas l'expérience.
 
@@ -42,23 +42,23 @@ a Ne pas administrer successivement ou simultanément plusieurs médicaments san
 
 - En règle générale, il convient de limiter le nombre de médicaments utilisés et d'éviter la voie injectable chaque fois qu'elle n'est pas indispensable.
 
-### **5. Certains médicaments sont** **classés parfois dans l'arsenal** **d'urgence sans justification**
+### 5. Certains médicaments sont classés parfois dans l'arsenal d'urgence sans justification
 
 Exemples :
 
-*   _Lopéramide_ (Imodium®): dans le traitement des diarrhées aiguës de l'enfant " Il n'est pas prouvé que le lopéramide administré aux doses habituelles puisse réduire les pertes de liquide et d'électrolytes " -
+- *Lopéramide* (Imodium®): dans le traitement des diarrhées aiguës de l'enfant " Il n'est pas prouvé que le lopéramide administré aux doses habituelles puisse réduire les pertes de liquide et d'électrolytes " -
 
 OMS 1992. Le geste d'urgence est la réhydratation, si nécessaire par perfusion intraveineuse.
 
-*   _Analeptiques cardiovasculaires:_ l'utilisation d'heptaminol (Heptamyl®), de nicéthamide (Coramine®) ou de Solucamphre® relève d'habitudes de prescription anciennes (Solucamphre® a été mis sur le marché en 1927). L'activité spécifique de ces produits n'a pas été démontrée et leur usage tombe en désuétude.
+- *Analeptiques cardiovasculaires:* l'utilisation d'heptaminol (Heptamyl®), de nicéthamide (Coramine®) ou de Solucamphre® relève d'habitudes de prescription anciennes (Solucamphre® a été mis sur le marché en 1927). L'activité spécifique de ces produits n'a pas été démontrée et leur usage tombe en désuétude.
 
-*   _Vitamine K:_ elle n'a pas d'action hémostatique directe et immédiate. Elle n'a donc pas d'indication dans les hémorragies d'origine traumatique, post-partum, etc.
+- *Vitamine K:* elle n'a pas d'action hémostatique directe et immédiate. Elle n'a donc pas d'indication dans les hémorragies d'origine traumatique, post-partum, etc.
 
-*   _Solutions isotoniques de glucose ou de_ _Nacl_ (sérum glucosé, sérum physiologique): ces solutions servent de véhicule pour administrer un médicament, pour conserver une voie d'abord, ou encore en l'absence de solution de Ringer pour prévenir ou traiter une déshydratation.
+- *Solutions isotoniques de glucose ou de* *Nacl* (sérum glucosé, sérum physiologique): ces solutions servent de véhicule pour administrer un médicament, pour conserver une voie d'abord, ou encore en l'absence de solution de Ringer pour prévenir ou traiter une déshydratation.
 
 Peut-on mettre en place une perfusion en dehors de ces indications, peut-on injecter un placebo pour "faire quelque chose " et, par là, rassurer le malade, sa famille ou le soignant lui-même ? Il ne peut pas y avoir de réponse péremptoire à cette question. L'effet d'un placebo, qui n'est pas obligatoirement une injection, peut être bénéfique, même dans une situation d'urgence, pourvu que ce geste ne remplace pas le geste utile, approprié et réalisable, que le produit administré soit sans risque et d'un coût en rapport avec les ressources disponibles.
 
-## **II. Traitements d'urgence et listes de médicaments essentiels**
+## II. Traitements d'urgence et listes de médicaments essentiels
 
 Dans les pays où existe une liste de médicaments essentiels pour le secteur public, des listes restreintes ont été généralement définies pour les différents niveaux du système de soins. La composition de la liste pour l'usage dans les centres de santé varie suivant les pays, parfois suivant les programmes régionaux dans un même pays. Cette liste correspond au traitement standardisé des maladies ou des symptômes reconnus prioritaires dans un pays ou une région donnée.
 
@@ -72,13 +72,13 @@ L'examen d'une dizaine de listes :
 
 - Programme provincial GTZ Madagascar-Cameroun.
 
-_- Guide pratique d'utilisation des médicaments essentiels:_
+*- Guide pratique d'utilisation des médicaments essentiels:*
 
 Médecins Sans Frontières.
 
-_- Manuel de diagnostic et de traitement -_ Soins de Santé Primaires: Fondation Heymans Belgique et OMS.
+*- Manuel de diagnostic et de traitement -* Soins de Santé Primaires: Fondation Heymans Belgique et OMS.
 
-montre que la capacité d'administrer un traitement d'urgence varie très sensiblement suivant les pays _(encadré)._
+montre que la capacité d'administrer un traitement d'urgence varie très sensiblement suivant les pays *(encadré).*
 
 <table>
 
@@ -102,7 +102,7 @@ Aucun médicament de l'appareil cardiovasculaire ne figure sur ces listes. À no
 
 Dans certains guides destinés aux agents de santé du premier niveau, par exemple au Burkina-Faso, quelques médicaments figurent avec la mention " sous contrôle médical ". Cela signifie que ces médicaments, réservés normalement à la prescription par un médecin, peuvent être utilisés par le prescripteur infirmier dans certaines situations d'urgence et lorsque le délai d'évacuation est relativement long. Ces dispositions permettent de faire face à des maladies ou des symptômes graves, tout en soulignant leur caractère d'exception et le nécessaire contrôle de la fourniture de ces médicaments.
 
-## **III. Approvisionnements d'urgence**
+## III. Approvisionnements d'urgence
 
 Une planification raisonnable de l'approvisionnement devrait permettre de disposer en permanence des médicaments de base, ainsi que des matériels nécessaires à leur application. Dans la pratique, de multiples causes peuvent être à l'origine de ruptures de stock :
 
@@ -122,7 +122,7 @@ Il faut donc recourir à des commandes d'urgence qui génèrent toujours des co�
 
 Certaines de ces causes de pénurie ne sont pas toujours maîtrisables. Mais la régularité de l'approvisionnement peut être améliorée si la cohérence des prescriptions est respectée et si des procédures de gestion sont bien définies et périodiquement contrôlées.
 
-### **1. Système VEN: médicaments** **Vitaux. Essentiels, Non essentiels**
+### 1. Système VEN: médicaments Vitaux. Essentiels, Non essentiels
 
 Le système VEN est proposé pour déterminer des priorités dans les achats pharmaceutiques et pour la gestion et le contrôle des stocks, lorsque les ressources sont limitées. Les médicaments sont choisis en fonction de leur impact potentiel sur la santé (Bien gérer les médicaments, IUED, 24, rue Rothschild, 1211 Genève 21).
 
@@ -130,7 +130,7 @@ Dans ce système, le qualificatif " vital" est employé dans un sens large qui d
 
 Cette distinction des priorités, adoptée par des centrales d'approvisionnement, peut être mise à profit dans les centres de santé pour fixer l'attention sur un petit nombre de médicaments qui ne devraient jamais manquer.
 
-### **2. La qualité des médicaments :****une préoccupation à ne pas négliger dans l'urgence**
+### 2. La qualité des médicaments :une préoccupation à ne pas négliger dans l'urgence
 
 La qualité des médicaments est généralement convenable chez les distributeurs officiellement reconnus. Il n'en est pas de même dans le circuit illicite qui propose les marchandises sans délai et à moindre coût: on peut y trouver des produits mal fabriqués, sous-dosés ou même sans principe actif, défauts que ne laisse pas suspecter leur aspect extérieur.
 
@@ -146,4 +146,4 @@ Toujours vérifier, avant l'usage, la limpidité et l'absence de coloration anor
 
 L'urgence ne dispense ni de la réflexion clinique, ni des précautions élémentaires dans le choix et l'utilisation des médicaments. Les agents de santé isolés sont amenés à administrer des traitements généralement réservés aux médecins. Pour cela les médicaments indispensables sont en nombre limité; leurs risques, leurs limites et leurs avantages doivent être parfaitement connus et leur usage codifié. Encore faut-il que ces médicaments soient disponibles, de bonne qualité et accessibles financièrement, ce à quoi contribuent des procédures de gestion réalistes et bien suivies.
 
-_Développement et Santé, n°118, août 1995_
+*Développement et Santé, n°118, août 1995*

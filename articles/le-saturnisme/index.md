@@ -10,15 +10,15 @@ date: "2002-08-04"
 
 On trouve du plomb :
 
-*   Dans l'atmosphère avec dépôt sur les sols gaz d'échappement des véhicules à moteur à essence au plomb, sources industrielles telles que les fonderies, les usines de fabrication et de recyclage de batteries.  
-*   Dans l'eau de boisson par le biais des canalisations en plomb et des soudures au plomb.
+- Dans l'atmosphère avec dépôt sur les sols gaz d'échappement des véhicules à moteur à essence au plomb, sources industrielles telles que les fonderies, les usines de fabrication et de recyclage de batteries.
+- Dans l'eau de boisson par le biais des canalisations en plomb et des soudures au plomb.
 
 En France, les tuyauteries en plomb ont été interdites en 1995, les soudures en plomb en 1996.
 
 Le passage d'une eau faiblement minéralisée dans des tuyauteries en plomb libère du plomb dans l'eau. La concentration en plomb dans l'eau est d'autant plus importante que le temps de stagnation dans les conduites a été prolongé.
 
-*   Dans les peintures et les poussières des habitats anciens et dégradés. En France, les peintures au plomb ont été interdites aux professionnels en 1948 et aux particuliers en 1993.  
-*   Dans l'alimentation, par le biais de la pollution atmosphérique ou à partir de poteries renfermant du plomb ou de boîtes de conserve soudées au plomb ou à partir des plombs de chasse dans la viande.
+- Dans les peintures et les poussières des habitats anciens et dégradés. En France, les peintures au plomb ont été interdites aux professionnels en 1948 et aux particuliers en 1993.
+- Dans l'alimentation, par le biais de la pollution atmosphérique ou à partir de poteries renfermant du plomb ou de boîtes de conserve soudées au plomb ou à partir des plombs de chasse dans la viande.
 
 Le plomb est absorbé puis stocké dans l'organisme au niveau de l'os. La demi-vie du plomb est de 10 à 20 ans, donc 10 à 20 ans après l'intoxication, la moitié du stock osseux est toujours présent. En cas de remaniement osseux : grossesse, lactation, fracture, ménopause... il y a relargage massif du plomb.
 
@@ -28,9 +28,9 @@ Le plomb est absorbé puis stocké dans l'organisme au niveau de l'os. La demi-v
 
 L'intoxication peut toucher les adultes mais les plus sensibles sont les enfants pour trois raisons :
 
-*   ils ont une absorption digestive supérieure,
-*   leur système nerveux central est en plein développement,
-*   les plus jeunes portent tout à leur bouche et s'intoxiquent plus facilement avec les poussières de plomb.
+- ils ont une absorption digestive supérieure,
+- leur système nerveux central est en plein développement,
+- les plus jeunes portent tout à leur bouche et s'intoxiquent plus facilement avec les poussières de plomb.
 
 ### 2) Les femmes enceintes
 
@@ -56,19 +56,24 @@ Pendant la ménopause, il existe une mobilisation du plomb osseux due à une aug
 
 Dans les intoxications graves, on peut avoir une atteinte de nombreux systèmes :
 
-*   Système nerveux central : encéphalopathie avec convulsions, hypertension intra crânienne, coma, voire décès. Les séquelles pourront être un retard psycho-moteur, une cécité, une épilepsie, une hémiparésie.
+- Système nerveux central : encéphalopathie avec convulsions, hypertension intra crânienne, coma, voire décès. Les séquelles pourront être un retard psycho-moteur, une cécité, une épilepsie, une hémiparésie.
 
-*   Le système nerveux périphérique est moins sensible, mais on peut avoir une paralysie du nerf radial.  
-*   Rein : pour des plombémies supérieures à 600 microgrammes/I : néphrosclérose avec néphropathie interstitielle et réduction de la filtration glomérulaire.  
-*   Hypertension artérielle pour des plombémies supérieures à 400 microgrammes/l.  
-*   Thyroïde : diminution de la capture de l'iode pour une plombémie supérieure à 600 microgrammes/l.  
-*   Reproduction : effet tératogène, hypofertilité en cas de plombémie supérieure à 400 microgrammes/l.  
-*   Cancer : risque accru de cancer bronchique et rénal pour des expositions de longue durée.
+- Le système nerveux périphérique est moins sensible, mais on peut avoir une paralysie du nerf radial.
+
+- Rein : pour des plombémies supérieures à 600 microgrammes/I : néphrosclérose avec néphropathie interstitielle et réduction de la filtration glomérulaire.
+
+- Hypertension artérielle pour des plombémies supérieures à 400 microgrammes/l.
+
+- Thyroïde : diminution de la capture de l'iode pour une plombémie supérieure à 600 microgrammes/l.
+
+- Reproduction : effet tératogène, hypofertilité en cas de plombémie supérieure à 400 microgrammes/l.
+
+- Cancer : risque accru de cancer bronchique et rénal pour des expositions de longue durée.
 
 ### Dans les intoxications modérées
 
-*   Les symptômes sont absents ou ne sont pas spécifiques de l'intoxication au plomb : il s'agit de signes digestifs : douleurs abdominales, constipation, anorexie, parfois diarrhées ou de signes neurologiques : céphalées, asthénie, hyperactivité, troubles de l'humeur, troubles de la mémoire, troubles scolaires ;
-*   La principale conséquence est une atteinte du développement psychomoteur avec troubles de la mémorisation, troubles de l'apprentissage, atteintes des fonctions visuelles et auditives, troubles du comportement.
+- Les symptômes sont absents ou ne sont pas spécifiques de l'intoxication au plomb : il s'agit de signes digestifs : douleurs abdominales, constipation, anorexie, parfois diarrhées ou de signes neurologiques : céphalées, asthénie, hyperactivité, troubles de l'humeur, troubles de la mémoire, troubles scolaires ;
+- La principale conséquence est une atteinte du développement psychomoteur avec troubles de la mémorisation, troubles de l'apprentissage, atteintes des fonctions visuelles et auditives, troubles du comportement.
 
 ### Quel est le seuil à partir duquel des effets sont visibles ?
 
@@ -80,7 +85,7 @@ Les conséquences sur le développement psychomoteur se répéteront chez les en
 
 ## IV. Diagnostic
 
-1.  Numération formule sanguine (NFS) : quand les plombémies sont élevées, on retrouve dans les hématies des granulations basophiles, une anémie aggravée par un déficit en fer ou une hémolyse.  
+1.  Numération formule sanguine (NFS) : quand les plombémies sont élevées, on retrouve dans les hématies des granulations basophiles, une anémie aggravée par un déficit en fer ou une hémolyse.
 2.  Dans tous les cas, le diagnostic repose sur le dosage de la plombémie qui doit être effectué au moindre doute.
 
 Une épreuve de plomburie provoquée peut être effectuée à visée diagnostique ou pour le suivi d'un traitement. D'autres méthodes sont utilisées : dosage capillaire, technique par fluorescence aux rayons X au niveau des os, dosage du plomb dans les phanères.
@@ -91,19 +96,19 @@ Ces deux dernières méthodes permettent une évaluation du stock osseux et donc
 
 ### Au niveau santé publique
 
-*   Eliminer le plomb de l'essence, de la peinture et des canalisations d'eau, éliminer la soudure au plomb dans la fabrication des boites de conserve, traitement de l'eau (alcalinisation) ;
-*   Surveillance des populations potentiellement exposées : enfants, femmes enceintes, travailleurs dans les industries à risque.
+- Eliminer le plomb de l'essence, de la peinture et des canalisations d'eau, éliminer la soudure au plomb dans la fabrication des boites de conserve, traitement de l'eau (alcalinisation) ;
+- Surveillance des populations potentiellement exposées : enfants, femmes enceintes, travailleurs dans les industries à risque.
 
-### Au niveau individuel :
+### Au niveau individuel
 
-*   Laisser couler l'eau avant de la boire si les canalisations sont en plomb ;
-*   Empêcher les enfants de gratter les murs et de manger la peinture, les sortir le plus possible, imposer un lavage de mains fréquent, couvrir les casseroles pendant la cuisson, passer la serpillière à la place du balai pour éviter de mobiliser les poussières ;
-*   Veiller à un bon équilibre nutritionnel qui peut limiter les effets toxiques du plomb, en effet le calcium et le fer limitent l'absorption digestive du plomb.
+- Laisser couler l'eau avant de la boire si les canalisations sont en plomb ;
+- Empêcher les enfants de gratter les murs et de manger la peinture, les sortir le plus possible, imposer un lavage de mains fréquent, couvrir les casseroles pendant la cuisson, passer la serpillière à la place du balai pour éviter de mobiliser les poussières ;
+- Veiller à un bon équilibre nutritionnel qui peut limiter les effets toxiques du plomb, en effet le calcium et le fer limitent l'absorption digestive du plomb.
 
 ## VI. Le traitement
 
-*   Le traitement chélateur est effectué en milieu hospitalier quand le taux initial est supérieur à 450 microgrammes/l.  
-*   La molécule la plus utilisée est l'EDTA calcique.
+- Le traitement chélateur est effectué en milieu hospitalier quand le taux initial est supérieur à 450 microgrammes/l.
+- La molécule la plus utilisée est l'EDTA calcique.
 
 Les chélations sont indiscutables au-dessus de 700 microgrammes/l. pour éviter une encéphalopathie. Elles sont mal évaluées pour les plombémies supérieures à 400 microgrammes/l. inutiles lorsque la plombémie est< 250 microgrammes/l.
 
@@ -144,11 +149,11 @@ Une étude menée à Kaduna, ville du nord du Nigeria, montre que chez 87 enfant
 
 La loi du 29 juillet 1998 relative à la lutte contre les exclusions stipule :
 
-*   Le saturnisme devient une maladie à déclaration obligatoire.  
-*   Création de deux procédures de signalement :
-    *   en cas de risque d'accessibilité d'un enfant au plomb, le préfet doit être alerté ;
-    *   quand un médecin dépiste un cas de saturnisme, il a l'obligation de saisir le médecin responsable du service de l'Etat compétent qui en informera le préfet.
+- Le saturnisme devient une maladie à déclaration obligatoire.
+- Création de deux procédures de signalement :
+  - en cas de risque d'accessibilité d'un enfant au plomb, le préfet doit être alerté ;
+  - quand un médecin dépiste un cas de saturnisme, il a l'obligation de saisir le médecin responsable du service de l'Etat compétent qui en informera le préfet.
 
 Dans les deux cas, le préfet doit organiser une expertise sur l'immeuble, un dépistage de tous les enfants et une réfection des locaux, pour supprimer l'accessibilité au plomb.
 
-_Développement et Santé, n°160, août 2002_
+*Développement et Santé, n°160, août 2002*

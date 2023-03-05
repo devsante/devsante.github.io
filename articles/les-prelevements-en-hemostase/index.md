@@ -5,7 +5,7 @@ date: "2003-12-02"
 
 <div class="teaser"><p>Les conditions de prélèvement sont primordiales, leur qualité conditionne la fiabilité des résultats !</p></div>
 
-## **I.** Conditions optimales de prélèvements
+## I. Conditions optimales de prélèvements
 
 **1.** Garrot modérément serré et maintenu peu de temps.
 
@@ -15,14 +15,14 @@ date: "2003-12-02"
 
 **4.** Remplir correctement les tubes pour avoir un rapport anticoagulant (AC)/sang (sg) ad hoc, soit :
 
-*   1 volume AC pour 9 volumes de sang
-*   soit 0,5 ml AC / 4,5 ml sang pour un tube de 5 ml
+- 1 volume AC pour 9 volumes de sang
+- soit 0,5 ml AC / 4,5 ml sang pour un tube de 5 ml
 
 **5.** Assurer un mélange homogène sg-AC par retournements immédiats et **lents** du tube.
 
 **6.** Pour certaines explorations de la fibrinolyse, il faut tenir compte de la variation circadienne de l'activité fibrinolytique plasmique. Le prélèvement s'effectue sur un sujet à jeûn, au repos, à distance d'une prise d'alcool (6h minimum).
 
-## II**.** Choix des tubes
+## II. Choix des tubes
 
 <table>
 
@@ -234,4 +234,4 @@ Modification des fonctions plaquettaires
 
 </table>
 
-_Développement et Santé, n°158, avril 2002_
+*Développement et Santé, n°158, avril 2002*

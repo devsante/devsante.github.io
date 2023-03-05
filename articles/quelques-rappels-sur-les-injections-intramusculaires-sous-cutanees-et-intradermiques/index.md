@@ -4,11 +4,7 @@ author: "Philippe Reinert*"
 date: "1994-04-05"
 ---
 
-**Quelques rappels sur les injections****Intramusculaires, sous-cutanées et intradermiques**
-
-**par Philippe Reinert***
-
-*Pédiatre, hôpital intercommunal de Créteil.
+\*Pédiatre, hôpital intercommunal de Créteil.
 
 TRAVAILLER AVEC UN MATERIEL PARFAITEMENT STERILE SI POSSIBLE À USAGE UNIQUE EST LA REGLE D'OR TELLEMENT LE RISQUE DE TRANSMISSION DU VIH, DES HEPATITES B et C AINSI QUE DU PALUDISME EST GRAND
 
@@ -30,11 +26,9 @@ Malgré la banalité de ces gestes, il semble nécessaire de préciser quelques 
 
 - à la face externe du bras (deltoïde), seulement si le volume à injecter est inférieur à 3 centimètres cube.
 
-
 ![](i591-1.jpg)
 
 ![](i591-2.jpg)
-
 
 Le choix se fera en fonction de l'état des tissus (éviter les zones infectées ou indurées).
 
@@ -42,9 +36,9 @@ Après désinfection de la peau à l'alcool, l'aiguille **seule de préférence,
 
 Avant d'injecter le produit, s'assurer que l'aiguille n'a pas pénétré un vaisseau en aspirant légèrement avec la seringue.
 
-*   L'injection doit être faite lentement.  
-*   L'aiguille doit être retirée d'un seul coup.  
-*   Appliquer au point d'injection un tampon alcoolisé et masser légèrement.
+- L'injection doit être faite lentement.
+- L'aiguille doit être retirée d'un seul coup.
+- Appliquer au point d'injection un tampon alcoolisé et masser légèrement.
 
 **Il. Injection sous-cutanée**
 
@@ -66,13 +60,11 @@ Cutané est abondant, sans risque de lésion vasculaire ou nerveuse:
 
 Faire, entre le pouce et l'index, un pli cutané et enfoncer rapidement l'aiguille à la base du pli, en la maintenant parallèle à la peau, le biseau vers le haut.
 
-*   Aspirer légèrement pour vérifier l'absence de sang dans la seringue.  
-*   Relâcher la peau et injecter lentement.  
-*   Retirer l'aiguille d'un coup sec, puis masser légèrement.
-
+- Aspirer légèrement pour vérifier l'absence de sang dans la seringue.
+- Relâcher la peau et injecter lentement.
+- Retirer l'aiguille d'un coup sec, puis masser légèrement.
 
 ![](i591-3.jpg)
-
 
 **III. Injection intradermique**
 
@@ -88,8 +80,6 @@ Lors de l'injection, la peau se soulève formant une papule (type peau d'orange)
 
 Pour l'intradermoréaction à la tuberculine, si une papule n'est pas obtenue, il faut la refaire à un autre endroit.
 
-
 ![](i591-4.jpg)
 
-
-_Développement et Santé, n°110, avril 1994_
+*Développement et Santé, n°110, avril 1994*

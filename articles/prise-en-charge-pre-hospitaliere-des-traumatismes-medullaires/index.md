@@ -4,13 +4,8 @@ author: "Frédéric Adnet* et Christophe Denantes**"
 date: "2000-06-14"
 ---
 
-**Prise en charge pré-hospitalière des traumatismes médullaires**
-
-**par Frédéric Adnet* et Christophe Denantes****
-
-* Médecin, SAMU 93 (Service d'Aide Médicale d'Urgence), hôpital Avicenne, Bobigny, France.
-
-** Médecin anesthésiste, DAR, hôpital Avicenne, Bobigny, France.
+\*Médecin, SAMU 93 (Service d'Aide Médicale d'Urgence), hôpital Avicenne, Bobigny, France.  
+\*\*Médecin anesthésiste, DAR, hôpital Avicenne, Bobigny, France.
 
 L'incidence des traumatismes médullaires est d'environ 20 à 30 patients par million d'habitants en Europe et probablement plus importante dans les pays en développement. Les principales causes sont les accidents de la voie publique (70 %), les chutes d'une hauteur et les accidents de sport (plongeon). Parmi les patients décédés dans un accident de la route, 20 % des autopsies révèlent la présence d'une lésion du rachis cervical, celle-ci intéresse la charnière C1/C2 dans 80 % des cas. Les lésions graves du rachis cervical au cours d'un accident de voiture sont rares (< 5 %) lorsque le patient a attaché sa ceinture de sécurité. La majorité des traumatismes graves du rachis cervical est associée à un polytraumatisme (70 %) et près de 10 % des lésions médullaires cervicales sont associées à des fractures vertébrales intéressant d'autres régions.
 
@@ -20,7 +15,7 @@ Plus de 50 % des patients pris en charge pour traumatisme médullaire ont moins 
 
 **I. Physiopathologie**
 
-L'anatomie osseuse du rachis est reproduite dans la _figure n° 1._
+L'anatomie osseuse du rachis est reproduite dans la *figure n° 1.*
 
 La moelle épinière est protégée par le canal ostéoligamentaire du rachis, le sac dural avec les méninges et l'espace sous-arachnoïdien. Dans cet espace la moelle se termine au niveau de la deuxième vertèbre lombaire et se prolonge par la queue de cheval. Ces structures baignent dans le liquide céphalo-rachidien.
 
@@ -28,9 +23,7 @@ La moelle peut être comparée à un centre cablé qui transmet des informations
 
 Il est classique de considérer qu'il existe deux phases lors d'un traumatisme du système nerveux central ; la lésion primaire directement liée au mécanisme du traumatisme et les lésions secondaires constituant les phénomènes d'auto-aggravation. Le processus commun à toutes ces lésions est l'ischémie de la moelle épinière aboutissant à une interruption de la conduction nerveuse.
 
-
 ![](i881-1.jpg)
-
 
 **I. Lésion primaire** **le traumatisme**
 
@@ -46,11 +39,9 @@ La prise en charge des traumatismes médullaires s'intègre souvent dans un cont
 
 **1. Examen neurologique**
 
-L'examen d'un traumatisé médullaire doit être simple et méthodique. Il existe un risque non négligeable d'ignorer une lésion médullaire lors de l'examen initial d'un patient traumatisé et une lésion rachidienne doit toujours être évoquée dans le cadre d'un polytraumatisme. **Il** **existe constamment une douleur** en regard du foyer de fracture associée, le plus souvent, à une contracture musculaire. **Le** **niveau lésionnel** doit être précisé par l'examen de la motricité et la sensibilité des territoires segmentaires sans oublier l'examen périnéal. Une lésion complète se caractérise par une absence de toute forme de sensibilité et de motricité sous le niveau lésionnel, y compris pour les territoires correspondant au segment sacré. La préservation d'une sensibilité et d'une motricité de la région anale alors que les autres territoires sont atteints indique que la lésion médullaire est incomplète. De même, la présence d'une sensibilité sous-lésionnelle, même partielle, est fondamentale à rechercher car sa présence est associée à un meilleur pronostic fonctionnel. Le niveau lésionnel peut être facilement déterminé à partir de l'activité motrice simplifiée du score ASIA (American Spinal Injury Association) résumé dans le _tableau n° 1_. Ce score permet une évaluation rapide du patient.
-
+L'examen d'un traumatisé médullaire doit être simple et méthodique. Il existe un risque non négligeable d'ignorer une lésion médullaire lors de l'examen initial d'un patient traumatisé et une lésion rachidienne doit toujours être évoquée dans le cadre d'un polytraumatisme. **Il** **existe constamment une douleur** en regard du foyer de fracture associée, le plus souvent, à une contracture musculaire. **Le** **niveau lésionnel** doit être précisé par l'examen de la motricité et la sensibilité des territoires segmentaires sans oublier l'examen périnéal. Une lésion complète se caractérise par une absence de toute forme de sensibilité et de motricité sous le niveau lésionnel, y compris pour les territoires correspondant au segment sacré. La préservation d'une sensibilité et d'une motricité de la région anale alors que les autres territoires sont atteints indique que la lésion médullaire est incomplète. De même, la présence d'une sensibilité sous-lésionnelle, même partielle, est fondamentale à rechercher car sa présence est associée à un meilleur pronostic fonctionnel. Le niveau lésionnel peut être facilement déterminé à partir de l'activité motrice simplifiée du score ASIA (American Spinal Injury Association) résumé dans le *tableau n° 1*. Ce score permet une évaluation rapide du patient.
 
 ![](i881-2.jpg)
-
 
 Le choc " spinal neurogénique " se traduit par une paralysie flasque sous-lésionnelle avec atteinte des fonctions neurovégétatives. Il traduit une sidération médullaire sous-lésionnelle dont la durée est comprise entre 4 jours et 8 semaines. Dans les atteintes dorsales, les troubles de la régulation neurovégétative s'observent surtout lors d'atteinte complète au-dessus de la 5e vertèbre dorsale. Dans ce cas, la disparition du tonus sympathique est responsable d'une vasoplégie et parfois d'une bradycardie. Dans les atteintes cervicales au-dessus de la 4e vertèbre cervicale, niveau d'émergence des nerfs phréniques, la paralysie diaphragmatique entraîne une perte de l'autonomie respiratoire. Dans les atteintes cervicales basses, l'autonomie respiratoire est conservée mais précaire : l'inhibition de la toux par la paralysie des muscles intercostaux et intra-abdominaux favorise l'encombrement bronchique.
 
@@ -58,17 +49,15 @@ Le choc " spinal neurogénique " se traduit par une paralysie flasque sous-lési
 
 **Il existe un dogme qui considère tout** **patient traumatisé ou comateux** **comme porteur d'au moins une** **lésion instable du rachis, jusqu'à élimination de son diagnostic.** En cas de suspicion de lésion médullaire, la prise en charge du patient lors de la phase de relevage et de transport conditionne le pronostic de ces patients et doit répondre à trois objectifs :
 
-1.  Maintenir les fonctions vitales et prendre en charge une détresse vitale.  
-2.  Ne pas aggraver les lésions osseuses.  
+1.  Maintenir les fonctions vitales et prendre en charge une détresse vitale.
+2.  Ne pas aggraver les lésions osseuses.
 3.  Prévenir les lésions secondaires.
 
 **1. Maintenir les fonctions vitales**
 
-Il est établi que les paramètres ventilatoires et hémodynamiques sont les déterminants principaux du pronostic des traumatisés crâniens et médullaires. L'objectif est de maintenir une oxygénation et une perfusion médullaire adéquates. La correction d'une hypoxie, d'une hypercapnie et/ou d'une hypotension qui aggrave les lésions d'ischémie conditionnent le pronostic neurologique des traumatisés médullaires. La prise en charge initiale comprendra la surveillance clinique (_tableau n° 2)_ et un monitorage avec au mieux électrocardioscope, fréquence cardiaque, pression artérielle , saturation pulsée en oxygène, capnographie, température centrale.
-
+Il est établi que les paramètres ventilatoires et hémodynamiques sont les déterminants principaux du pronostic des traumatisés crâniens et médullaires. L'objectif est de maintenir une oxygénation et une perfusion médullaire adéquates. La correction d'une hypoxie, d'une hypercapnie et/ou d'une hypotension qui aggrave les lésions d'ischémie conditionnent le pronostic neurologique des traumatisés médullaires. La prise en charge initiale comprendra la surveillance clinique (*tableau n° 2)* et un monitorage avec au mieux électrocardioscope, fréquence cardiaque, pression artérielle , saturation pulsée en oxygène, capnographie, température centrale.
 
 ![](i881-3.jpg)
-
 
 **Assurer une hémodynamique et une** **oxygénation correcte**
 
@@ -78,31 +67,27 @@ Le bilan lésionnel complet doit rechercher un saignement actif intrapéritonéa
 
 Les justifications de la prise en charge ventilatoire agressive du traumatisé médullaire sont doubles :
 
-1) protéger les voies aériennes supérieures contre le risque d'inhalation bronchique en cas de coma traumatique associé ;
+1)  protéger les voies aériennes supérieures contre le risque d'inhalation bronchique en cas de coma traumatique associé ;
 
-2) optimiser les paramètres ventilatoires que sont la pression artérielle en oxygène (PaO<sub>2</sub>) et la pression artérielle en gaz carbonique (PaCO<sub>2</sub>). La prise en charge ventilatoire doit se concevoir, comme une réanimation neurologique permettant d'assurer une protection médullaire efficace.
+2)  optimiser les paramètres ventilatoires que sont la pression artérielle en oxygène (PaO<sub>2</sub>) et la pression artérielle en gaz carbonique (PaCO<sub>2</sub>). La prise en charge ventilatoire doit se concevoir, comme une réanimation neurologique permettant d'assurer une protection médullaire efficace.
 
 Les buts à atteindre lors de la prise en charge ventilatoire sont : une hypocapnie modérée (PaCO<sub>2</sub>, stable et proche de 35 mmHg) ; une oxygénation correcte pour éviter toute hypoxie caractérisée par une saturation artérielle en oxygène (SaO<sub>2</sub>) supérieure à 95 % ; une pression artérielle systolique supérieure à 120 mmhg ; une prévention des accès d'hypertension intracrânienne (HTIC). Ces obligations vont conditionner des modalités de prise en charge.
 
-_Indications_
+*Indications*
 
 La pose d'un masque à haute concentration d'oxygène doit être systématique lorsque le patient présente une ventilation spontanée efficace . La décision d'une intubation endotrachéale doit se faire sur des arguments neurologiques et ventilatoires. Tout patient traumatisé crânien avec un score de Glasgow inférieur à 8 doit être intubé ainsi que tout patient incapable de maintenir une oxygénation satisfaisante en ventilation spontanée. De même, l'existence d'une tétraplégie d'emblée est une indication à l'intubation endotrachéale. Une atteinte même partielle de la ventilation par une lésion médullaire peut avoir des conséquences ventilatoires importantes (hypoventilation, encombrement, atélectasies). Le recours à la ventilation mécanique doit donc être d'indication large dans ce contexte.
 
-_Sédation pour l'intubation_
+*Sédation pour l'intubation*
 
-La sédation est souvent nécessaire. Il faut éviter que le patient ne tousse lors du passage de la sonde d'intubation ou ne lutte contre le respirateur, ces deux phénomènes engendrant des brusques poussées d'hypertension intracrânienne. De plus, une analgésie sédation doit être instituée afin d'éviter la douleur et de minimiser la consommation d'O, cérébrale La technique doit être une intubation- orotrachéale sous laryngoscopie directe en utilisant une sédation de type "crash induction" associant un hypnotique (I'étomidate, la kétamine ou le thiopental) et un curare (le suxaméthonium) et une pression du cartilage cricoïdien (manoeuvre de Sellick). L'étomidate est le produit le plus approprié car il ne modifie pas l'hémodynamique. La kétamine doit être utilisée associée à une benzodiazépine pour prévenir une HTIC. Le thiopental peut être utilisé lorsque l'hémodynamique est stable. L'utilisation du suxaméthonium a été discutée par certains auteurs à cause du risque d'arythmies ou d'aggravations potentielles des lésions osseuses provoquées par le relâchement de la musculature paravertébrale péri-lésionnelle. La manoeuvre de Sellick pourrait également être dangereuse dans ce contexte. Néanmoins, cette manoeuvre n'a pas montré une surmorbidité lorsqu'elle était utilisée lors de l'intubation de patients victimes de traumatisme médullaire. Les conditions d'intubation et la rapidité de la procédure caractérisant la technique d'intubation en séquence rapide en font le protocole d'induction standard dans ce contexte. L'entretien de la sédation s'administrera sur la base d'une benzodiazépine, éventuellement associée à un curare non dépolarisant, le vécuronium. La curarisation en continue se limite aux phases de transfert et de brancardage pour prévenir toutes les variations de la pression intracrânienne (PIC) dues aux stimulations du patient. La procédure de "crash induction", est résumée dans le _tableau n° 3._
-
+La sédation est souvent nécessaire. Il faut éviter que le patient ne tousse lors du passage de la sonde d'intubation ou ne lutte contre le respirateur, ces deux phénomènes engendrant des brusques poussées d'hypertension intracrânienne. De plus, une analgésie sédation doit être instituée afin d'éviter la douleur et de minimiser la consommation d'O, cérébrale La technique doit être une intubation- orotrachéale sous laryngoscopie directe en utilisant une sédation de type "crash induction" associant un hypnotique (I'étomidate, la kétamine ou le thiopental) et un curare (le suxaméthonium) et une pression du cartilage cricoïdien (manoeuvre de Sellick). L'étomidate est le produit le plus approprié car il ne modifie pas l'hémodynamique. La kétamine doit être utilisée associée à une benzodiazépine pour prévenir une HTIC. Le thiopental peut être utilisé lorsque l'hémodynamique est stable. L'utilisation du suxaméthonium a été discutée par certains auteurs à cause du risque d'arythmies ou d'aggravations potentielles des lésions osseuses provoquées par le relâchement de la musculature paravertébrale péri-lésionnelle. La manoeuvre de Sellick pourrait également être dangereuse dans ce contexte. Néanmoins, cette manoeuvre n'a pas montré une surmorbidité lorsqu'elle était utilisée lors de l'intubation de patients victimes de traumatisme médullaire. Les conditions d'intubation et la rapidité de la procédure caractérisant la technique d'intubation en séquence rapide en font le protocole d'induction standard dans ce contexte. L'entretien de la sédation s'administrera sur la base d'une benzodiazépine, éventuellement associée à un curare non dépolarisant, le vécuronium. La curarisation en continue se limite aux phases de transfert et de brancardage pour prévenir toutes les variations de la pression intracrânienne (PIC) dues aux stimulations du patient. La procédure de "crash induction", est résumée dans le *tableau n° 3.*
 
 ![](i881-4.jpg)
 
+*Technique*
 
-_Technique_
-
-La technique de choix dans le contexte de l'urgence et en milieu pré-hospitalier est donc l'intubation orotrachéale sous laryngoscopie directe après induction en séquence rapide en respectant l'alignement tête-cou-tronc, sans exercer de traction du rachis. En effet, la traction axiale du rachis a été rendue responsable d'un déplacement important du foyer de fracture. L'assistant doit opposer une force nécessaire seulement pour contrer les tractions et mouvements créés par l'opérateur qui intube le patient. Cette technique nécessite trois opérateurs _(figure n°2)._ Le patient doit être en décubitus dorsal, la tête en position neutre. La partie antérieure du collier cervical doit être retirée et remise après que l'intubation a été réalisée. En effet, le collier cervical empêche une ouverture de la bouche compatible avec l'entrée de la lame du laryngoscope dans la cavité buccale. Un assistant maintient l'axe du rachis en position stable sans exercer de traction axiale en agrippant les mastoïdes du patient. La laryngoscopie se déroule alors après pré-oxygénation et induction rapide. Un autre assistant maintient la pression cricoïdienne (manoeuvre de Sellick) et présente la sonde d'intubation cathétérisée par un mandrin souple à l'opérateur.
-
+La technique de choix dans le contexte de l'urgence et en milieu pré-hospitalier est donc l'intubation orotrachéale sous laryngoscopie directe après induction en séquence rapide en respectant l'alignement tête-cou-tronc, sans exercer de traction du rachis. En effet, la traction axiale du rachis a été rendue responsable d'un déplacement important du foyer de fracture. L'assistant doit opposer une force nécessaire seulement pour contrer les tractions et mouvements créés par l'opérateur qui intube le patient. Cette technique nécessite trois opérateurs *(figure n°2).* Le patient doit être en décubitus dorsal, la tête en position neutre. La partie antérieure du collier cervical doit être retirée et remise après que l'intubation a été réalisée. En effet, le collier cervical empêche une ouverture de la bouche compatible avec l'entrée de la lame du laryngoscope dans la cavité buccale. Un assistant maintient l'axe du rachis en position stable sans exercer de traction axiale en agrippant les mastoïdes du patient. La laryngoscopie se déroule alors après pré-oxygénation et induction rapide. Un autre assistant maintient la pression cricoïdienne (manoeuvre de Sellick) et présente la sonde d'intubation cathétérisée par un mandrin souple à l'opérateur.
 
 ![](i881-5.jpg)
-
 
 La laryngoscopie directe d'un patient en position neutre rend la visualisation de la glotte plus difficile. L'intubation doit donc être considérée comme présentant des facteurs prédictifs de difficultés. La vérification de la position endotrachéale de la sonde d'intubation sera réalisée par le test d'aspiration d'air ce à une seringue. Le patient ne doit absolument pas tousser, pousser ou lutter contre sa machine, les indications d'une curarisation pendant le transport et les différentes manoeuvres de brancardage doivent par conséquent être larges.
 
@@ -120,16 +105,12 @@ Actuellement, on considère que la précocité du traitement des phénomènes d'
 
 **En premier lieu, l'optimisation des paramètres vitaux** pourrait ralentir l'ischémie secondaire: maintien de bonnes conditions hémodynamiques au niveau médullaire avec le maintien d'une pression artérielle stable par un remplissage et l'utilisation de vasopresseurs dont la dopamine ; le maintien d'une hématose efficace par ventilation assistée en cas de détresse ventilatoire et la transfusion en cas d'hémorragie ; le contrôle des traumatismes associés (cérébraux, et thoraco-abdominaux).
 
-**En second recours, l'utilisation précoce de médicaments neuroprotecteurs** **est discutée.** L'intérêt d'une corticothérapie administrée sur les lieux de l'accident a été notamment étudié. Ainsi, la méthylprednisolone, administrée avant la huitième heure selon le protocole recommandé dans le _tableau n° 4_ a montré une efficacité contre placebo dans le pronostic fonctionnel à 6 mois.
-
+**En second recours, l'utilisation précoce de médicaments neuroprotecteurs** **est discutée.** L'intérêt d'une corticothérapie administrée sur les lieux de l'accident a été notamment étudié. Ainsi, la méthylprednisolone, administrée avant la huitième heure selon le protocole recommandé dans le *tableau n° 4* a montré une efficacité contre placebo dans le pronostic fonctionnel à 6 mois.
 
 ![](i881-6.jpg)
 
-
 Ce protocole de en charge serait plus particulièrement bénéfique lors d'une lésion isolée du rachis cervical associée à une tétraplégie. En cas de polytraumatisme, l'injection à fortes doses de corticoïdes pourrait être associée à une morbidité importante liée aux infections et aux hémorragies digestives. La récupération escomptée par ce protocole n'est que de un ou deux métamères, ce qui a un retentissement fonctionnel important au niveau cervical avec la récupération du muscle biceps ou de la pince pouce-index et faible au niveau dorsal ou lombaire. Actuellement, aucune autre molécule dans le cadre d'une stratégie de protection médullaire n'a montré d'efficacité en clinique humaine.
-
 
 ![](i881-7.jpg)
 
-
-_Développement et Santé, n°147, juin 2000_
+*Développement et Santé, n°147, juin 2000*

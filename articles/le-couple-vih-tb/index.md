@@ -6,7 +6,7 @@ date: "2008-07-04"
 
 ## I. Rappels sur les deux maladies
 
-La tuberculose (TB) est une maladie contagieuse due à _Mycobaterium tuberculosis_ ou bacille de Koch (BK). La contamination se fait par voie aérienne. Le réservoir du BK est le malade tuberculeux pulmonaire à microscopie positive (TPM+).
+La tuberculose (TB) est une maladie contagieuse due à *Mycobaterium tuberculosis* ou bacille de Koch (BK). La contamination se fait par voie aérienne. Le réservoir du BK est le malade tuberculeux pulmonaire à microscopie positive (TPM+).
 
 Le dépistage et le traitement sont la base de la lutte contre la TB.
 
@@ -14,8 +14,8 @@ Le premier contact avec le BK constitue la primo infection tuberculeuse (2 milli
 
 Il existe deux formes majeures de TB :
 
-*   la TB pulmonaire avec, soit la forme très contagieuse avec microscopie positive, soit la forme avec microscopie négative 7 fois moins contagieuse et de meilleur pronostic ;
-*   la TB extra pulmonaire qui atteint différents organes, de diagnostic difficile, non contagieuse.
+- la TB pulmonaire avec, soit la forme très contagieuse avec microscopie positive, soit la forme avec microscopie négative 7 fois moins contagieuse et de meilleur pronostic ;
+- la TB extra pulmonaire qui atteint différents organes, de diagnostic difficile, non contagieuse.
 
 L'infection par VIH transmise essentiellement par voie sexuelle, plusieurs années inapparentes, provoque une destruction progressive de l'immunité cellulaire en particulier les lymphocytes CD4. A des taux de CD4 inférieurs à 350 par mm<sup>3</sup> commencent à apparaître des infections opportunistes qui sont la cause essentielle de la maladie, puis du décès. La présence d'anticorps anti VIH signe l'infection virale, la maladie débute quand les symptômes le plus souvent dus à des infections opportunistes se manifestent ou quand certaines maladies débutent. La TB clinique est une maladie qui signe souvent le SIDA.
 
@@ -25,9 +25,7 @@ L'immuno-dépression par VIH diminue la capacité du sujet à contenir l'infecti
 
 **Risque de développer une TB selon le statut sérologique VIH**
 
-
 ![](12060-1.jpg)
-
 
 ## II. Epidémiologie
 
@@ -54,7 +52,7 @@ La suspicion est renforcée par certains signes radiologiques et si existe un co
 
 La bacilloscopie est l'examen essentiel, elle consiste à examiner au microscope un frottis de crachat du patient coloré par la méthode de Ziehl-Nielsen. Il est demandé de faire trois examens à 24 heures d'intervalle. Les autres examens n'ont que très peu d'intérêt.
 
-La positivité de la bacilloscopie est moins fréquente chez les sujets infectés par le VIH avec un taux de CD4 inférieur à 200/mm<sup>3</sup>. Mais il faut avoir conscience que la stratégie de lutte contre la TB (dépistage et traitement) n'a aucune raison d'être différente pour les sujets VIH+ ou non, ou à statut inconnu, car l'expression de l'infection et de la maladie n'est pas différente tant que l'immuno-dépression est modérée. _(voir Développement et Santé, n°122, avril 1996)._
+La positivité de la bacilloscopie est moins fréquente chez les sujets infectés par le VIH avec un taux de CD4 inférieur à 200/mm<sup>3</sup>. Mais il faut avoir conscience que la stratégie de lutte contre la TB (dépistage et traitement) n'a aucune raison d'être différente pour les sujets VIH+ ou non, ou à statut inconnu, car l'expression de l'infection et de la maladie n'est pas différente tant que l'immuno-dépression est modérée. *(voir Développement et Santé, n°122, avril 1996).*
 
 Un atelier tenu à Ouidah au Bénin en 2007 a proposé que l'on ne pratique qu'un examen de crachats chez les patients tousseurs ce qui est théoriquement moins efficace mais en pratique plus efficace si le patient attend son résultat et n'a pas besoin de revenir.
 
@@ -64,13 +62,13 @@ Dans les structures de santé, il faut isoler les patients TPM+ des patients VIH
 
 Avant le stade SIDA, soit tout patient avec plus de 200 CD4/mm<sup>3</sup>, la clinique et la radiologie sont semblables à celles des patients séronégatifs. La fréquence des tuberculoses extrapulmonaires est similaire et l'IDRT est positive dans 2/3 des cas. Quand la tuberculose survient chez un sujet infecté par VIH, on constate les manifestations suivantes :
 
-*   les localisations extra pulmonaires sont plus fréquentes en particulier ganglionnaire, pleurale, péricardique, méningitique et multifocale ;
-*   la tuberculose miliaire est fréquente ;
-*   à la radiographie il y a souvent de grosses masses médiastinales, les opacités sont souvent au lobe inférieur, les cavités sont rares, les épanchements sont fréquents ;
-*   les localisations inhabituelles existent : cerveau, paroi ;
-*   la recherche de bacille peut être négative ;
-*   l'IDRT peut être négatif ;
-*   la fièvre et l'amaigrissement sont plus fréquents, la toux est moins fréquente
+- les localisations extra pulmonaires sont plus fréquentes en particulier ganglionnaire, pleurale, péricardique, méningitique et multifocale ;
+- la tuberculose miliaire est fréquente ;
+- à la radiographie il y a souvent de grosses masses médiastinales, les opacités sont souvent au lobe inférieur, les cavités sont rares, les épanchements sont fréquents ;
+- les localisations inhabituelles existent : cerveau, paroi ;
+- la recherche de bacille peut être négative ;
+- l'IDRT peut être négatif ;
+- la fièvre et l'amaigrissement sont plus fréquents, la toux est moins fréquente
 
 <table>
 
@@ -97,23 +95,23 @@ Les nouveaux cas sont TPM+, TPM- ou TEP.
 
 ### 1. Les principes du traitement
 
-*   toujours en association,
-*   régimes standardisés,
-*   traitement en 2 phases : une initiale intensive et une de continuation,
-*   le traitement doit être supervisé,
-*   le traitement est quotidien et régulier,
-*   l'efficacité du traitement doit être contrôlée,
-*   l'hospitalisation n'est nécessaire qu'en phase initiale pour les patients qui ne peuvent pas être pris en charge ambulatoire.
+- toujours en association,
+- régimes standardisés,
+- traitement en 2 phases : une initiale intensive et une de continuation,
+- le traitement doit être supervisé,
+- le traitement est quotidien et régulier,
+- l'efficacité du traitement doit être contrôlée,
+- l'hospitalisation n'est nécessaire qu'en phase initiale pour les patients qui ne peuvent pas être pris en charge ambulatoire.
 
 ### 2. Quels médicaments ?
 
 Les principaux médicaments sont :
 
-*   Isoniazide (H)
-*   Rifampicine (R)
-*   Pyrazinamide (Z)
-*   Ethambutol (E)
-*   Streptomycine (S).
+- Isoniazide (H)
+- Rifampicine (R)
+- Pyrazinamide (Z)
+- Ethambutol (E)
+- Streptomycine (S).
 
 **Schéma pour tous les nouveaux cas** = 2 RHEZ / 4 RH.
 
@@ -141,21 +139,21 @@ Pour un patient sous ARV depuis un certain temps qui fait une tuberculose on doi
 
 Pour les patients infectés par le VIH-2 ou présentant une résistance à l'efavirenz et traités par un IP qui développent une tuberculose devant être traitée avec les antituberculeux standards il faut :
 
-*   soit changer le traitement ARV pour 3 nucléosidiques (AZT, 3TC, ténofivir ou AZT, 3TC, abacavir),
-*   soit garder le traitement ARV avec IP + 2 nucléosidiques et donner un traitement anti TB où la rifampicine est remplacée par rifabutine (si disponible).
+- soit changer le traitement ARV pour 3 nucléosidiques (AZT, 3TC, ténofivir ou AZT, 3TC, abacavir),
+- soit garder le traitement ARV avec IP + 2 nucléosidiques et donner un traitement anti TB où la rifampicine est remplacée par rifabutine (si disponible).
 
 Si l'utilisation de la névirapine est obligatoire, il faut être vigilant et accroitre la surveillance clinique et biologique notamment sur le bilan hépatique surtout dans les premières semaines de traitement.
 
 ### 4. Le syndrome IRIS
 
-_(Syndrome de restauration immunitaire ou Immune Reconstitution Inflammatory Syndrome)._
+*(Syndrome de restauration immunitaire ou Immune Reconstitution Inflammatory Syndrome).*
 
 On désigne sous le terme d'IRIS un ensemble de manifestations cliniques, de nature inflammatoire, survenant quelques semaines après la mise en route d'un traitement antirétroviral. L'IRIS survient à la faveur de la restauration des lymphocytes CD4.
 
 Le syndrome de restauration immunitaire comporte 2 entités :
 
-*   la première est la révélation d'une infection opportuniste latente,
-*   la deuxième est une majoration de la réponse de l'hôte vis-à-vis d'antigènes présents en faible quantité dans les tissus.
+- la première est la révélation d'une infection opportuniste latente,
+- la deuxième est une majoration de la réponse de l'hôte vis-à-vis d'antigènes présents en faible quantité dans les tissus.
 
 Les signes cliniques dépendent de l'agent pathogène en cause mais on retrouve le plus souvent fièvre, adénopathies, altération de l'état général.
 
@@ -176,18 +174,18 @@ Les **facteurs prédictifs de l'IRIS** sont un taux très bas de CD4 à l'initia
 Pour les sujets non infectés par VIH, il s'agit de prophylaxie par isoniazide (INH).  
 C'est la protection d'un sujet non malade mais récemment exposé à la contagion. Le traitement est destiné à enrayer la progression de l'infection par le BK vers la maladie. L'INH à la dose de 5 mg/Kg pendant 6 mois constitue une prophylaxie efficace. Néanmoins cette stratégie est peu applicable aussi elle n'est envisageable que pour :
 
-*   les nourrissons dont la mère présente une TPM+
-*   les enfants de 5 ans et moins, vivant dans un foyer avec un sujet TPM+.
+- les nourrissons dont la mère présente une TPM+
+- les enfants de 5 ans et moins, vivant dans un foyer avec un sujet TPM+.
 
 ### 1. Chimioprophylaxie pour personne infectée par le VIH
 
 La prophylaxie par INH réduit le risque de tuberculose maladie et la mortalité.  
 La décision sera prise suite à un examen clinique, radiologique et une IDR.
 
-*   S'il existe des signes cliniques ou radiologiques il faut envisager une TB active donc assurer sa décision par plusieurs investigations ,biolo giques (bacilloscopie, cytologie).  
-*   S'il n'existe pas de signe clinique et/ou radiologique :
-    *   soit l'IDRT est positive (> 5 mm) la personne doit bénéficier d'une prophylaxie par INH 6 mois ;
-    *   soit l'IDRT est négative (si le taux de CD4 est > 200/mm®) il faut envisager un traitement préventif de la TB.
+- S'il existe des signes cliniques ou radiologiques il faut envisager une TB active donc assurer sa décision par plusieurs investigations ,biolo giques (bacilloscopie, cytologie).
+- S'il n'existe pas de signe clinique et/ou radiologique :
+  - soit l'IDRT est positive (> 5 mm) la personne doit bénéficier d'une prophylaxie par INH 6 mois ;
+  - soit l'IDRT est négative (si le taux de CD4 est > 200/mm®) il faut envisager un traitement préventif de la TB.
 
 Il ne faut pas oublier la prophylaxie par le **cotrimoxazole** qui reste nécessaire.
 
@@ -200,44 +198,42 @@ Il est plus sûr de ne pas le pratiquer chez l'adulte. Il ne doit pas être admi
 
 ### 1. Situation actuelle
 
-
 ![](12060-2.jpg)
 
+#### Un programme commun comportera 3 objectifs avec chacun des activités correspondantes
 
-#### Un programme commun comportera 3 objectifs avec chacun des activités correspondantes.
+#### *1. Réduire la morbidité tuberculeuse chez les personnes vivant avec le VIH/SIDA :*
 
-#### _1. Réduire la morbidité tuberculeuse chez les personnes vivant avec le VIH/SIDA :_
+- Intensifier le dépistage des cas de tuberculose.
+- Mettre en place le traitement préventif à l'isoniazide.
+- Maîtriser l'infection tuberculeuse dans les services de santé et les établissements collectifs.
 
-*   Intensifier le dépistage des cas de tuberculose.  
-*   Mettre en place le traitement préventif à l'isoniazide.  
-*   Maîtriser l'infection tuberculeuse dans les services de santé et les établissements collectifs.
+#### 2. *Réduire la morbidité due à l'infection à VIH chez les malades tuberculeux :*
 
-#### 2. _Réduire la morbidité due à l'infection à VIH chez les malades tuberculeux :_
-
-*   Assurer le conseil et le dépistage du VIH.
+- Assurer le conseil et le dépistage du VIH.
 
 ### 2. Principes de la lutte
 
-*   Deux maladies, "un patient" :
-    *   soins axés sur le patient, contre les deux maladies à la fois.  
-*   Être réalistes :
-    *   arrêter avec les "projets",
-    *   généraliser immédiatement ce qui fonctionne,
-*   Appliquer des méthodes de prévention du VIH.  
-*   Mettre en place le traitement préventif au cotrimoxazole.  
-*   Dispenser des soins et assurer un accompagnement aux personnes touchées par le VIH/SIDA.  
-*   Mettre en place le traitement ARV.
+- Deux maladies, "un patient" :
+  - soins axés sur le patient, contre les deux maladies à la fois.
+- Être réalistes :
+  - arrêter avec les "projets",
+  - généraliser immédiatement ce qui fonctionne,
+- Appliquer des méthodes de prévention du VIH.
+- Mettre en place le traitement préventif au cotrimoxazole.
+- Dispenser des soins et assurer un accompagnement aux personnes touchées par le VIH/SIDA.
+- Mettre en place le traitement ARV.
 
-### 3. Mettre en place les mécanismes de collaboration :
+### 3. Mettre en place les mécanismes de collaboration
 
-*   Créer un organe de coordination des activités TB/VIH à tous les niveaux.  
-*   Surveiller la prévalence du VIH parmi les patients tuberculeux.  
-*   Planifier conjointement les activités anti TB et anti-VIH.  
-*   Assurer le suivi et l'évaluation.  
-    *   réexaminer les interventions au fur et à mesure.  
-*   Pas de programme séparé :
-    *   les activités conjointes s'ajoutent aux stratégies existantes de lutte contre la tuberculose et contre le VIH/SIDA.  
-*   La politique doit être mondiale.
+- Créer un organe de coordination des activités TB/VIH à tous les niveaux.
+- Surveiller la prévalence du VIH parmi les patients tuberculeux.
+- Planifier conjointement les activités anti TB et anti-VIH.
+- Assurer le suivi et l'évaluation.
+  - réexaminer les interventions au fur et à mesure.
+- Pas de programme séparé :
+  - les activités conjointes s'ajoutent aux stratégies existantes de lutte contre la tuberculose et contre le VIH/SIDA.
+- La politique doit être mondiale.
 
 <table>
 
@@ -271,4 +267,4 @@ La progression du VIH et l'incidence de la tuberculose par :
 
 </table>
 
-_Développement et Santé, n°190, 2008_
+*Développement et Santé, n°190, 2008*

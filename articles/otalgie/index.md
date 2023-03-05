@@ -14,25 +14,26 @@ L'examen clinique doit donc être complet avec :
 
 L'examen étant toujours bilatéral même en cas d'otalgie unilatérale :
 
-*   Étude du pavillon,
+- Étude du pavillon,
 
-*   Examen du conduit auditif externe,
-*   Examen du tympan.
+- Examen du conduit auditif externe,
+
+- Examen du tympan.
 
 ### Mais aussi un examen
 
-*   de la cavité buccale (gencives, dents, langue),
-*   de l'oropharynx (amygdales en particulier),
-*   des fosses nasales,
-*   de l'articulation temporo-mandibulaire, et un examen neurologique des paires crâniennes (en particulier le V, VII, X et XI).
+- de la cavité buccale (gencives, dents, langue),
+- de l'oropharynx (amygdales en particulier),
+- des fosses nasales,
+- de l'articulation temporo-mandibulaire, et un examen neurologique des paires crâniennes (en particulier le V, VII, X et XI).
 
-### Un spécialiste pourra y ajouter en cas **de doute, un examen**
+### Un spécialiste pourra y ajouter en cas de doute, un examen
 
-*   du cavum,
-*   de l'hypopharynx,
-*   du larynx.
+- du cavum,
+- de l'hypopharynx,
+- du larynx.
 
-## **Il.** Etiologies et traitements
+## Il. Etiologies et traitements
 
 Les étiologies sont donc très diverses, à commencer par les causes otologiques qui constituent les otalgies primitives.
 
@@ -96,10 +97,10 @@ Fréquentes et d'étiologies diverses, elles s'expliquent par l'importance de l'
 
 #### Cavité buccale et oropharynx
 
-*   les caries dentaires et les accidents de dent de sagesse,
-*   les glossites, les stomatites,
-*   les pharyngites et phlegmons périamygdaliens,
-*   les cancers de l'oropharynx.
+- les caries dentaires et les accidents de dent de sagesse,
+- les glossites, les stomatites,
+- les pharyngites et phlegmons périamygdaliens,
+- les cancers de l'oropharynx.
 
 #### Langue et hypopharynx
 
@@ -117,8 +118,6 @@ Les sinusites aiguës ou chroniques en poussées provoquent des otalgies mais le
 
 Enfin certaines otalgies, malgré un bilan complet, ne retrouvent pas de cause. Il s'agit vraisemblablement de névralgies essentielles dont le traitement repose sur les antalgiques. Mais ce diagnostic, encore une fois, ne doit pas être porté avant un examen approfondi de la tête et du cou.
 
-
 ![](i931-1.jpg)
 
-
-_Développement et Santé, n°154, août 2001_
+*Développement et Santé, n°154, août 2001*

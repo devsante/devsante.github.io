@@ -13,26 +13,26 @@ Toute consultation doit être l'occasion de s'assurer de la bonne compréhension
 
 #### Antécédents du patient
 
-*   Antécédents familiaux, notamment de diabète.  
-*   Antécédents personnels.  
-*   Affections associées (HTA...) et traitements éventuels en cours.  
-*   Tabagisme, dont les effets délétères sur les artères s'ajoutent à ceux du diabète.  
-*   Consommation excessive d'alcool (plus de trois verres de vin par jour chez l'homme et deux chez la femme).  
-*   Situation familiale et professionnelle du patient, a-t-il une activité physique ou au contraire est-il sédentaire ?
-*   Historique de la maladie si elle est déjà connue : date du diagnostic, complications, traitements éventuels.
+- Antécédents familiaux, notamment de diabète.
+- Antécédents personnels.
+- Affections associées (HTA...) et traitements éventuels en cours.
+- Tabagisme, dont les effets délétères sur les artères s'ajoutent à ceux du diabète.
+- Consommation excessive d'alcool (plus de trois verres de vin par jour chez l'homme et deux chez la femme).
+- Situation familiale et professionnelle du patient, a-t-il une activité physique ou au contraire est-il sédentaire ?
+- Historique de la maladie si elle est déjà connue : date du diagnostic, complications, traitements éventuels.
 
 #### Signes du diabète
 
-*   Syndrome cardinal associant : polyurie-polydipsie, asthénie, amaigrissement et polyphagie.  
-*   Signes liés aux conséquences du diabète sur les différents organes/fonctions :
-*   Troubles de la vision (rétinopathie).  
-*   Douleurs thoraciques ou dyspnée survenant à l'effort (insuffisance coronarienne, insuffisance cardiaque).  
-*   Douleurs des mollets lors de la marche : claudication intermittente liée a l'atteinte des artères des membres inférieurs.  
-*   Troubles urinaires (infection urinaire).  
-*   Infections diverses : furoncles, plaies traînantes, abcès dentaires.  
-*   Douleurs a type de décharges électriques, sensation d'engourdissement de la peau (polynévrite).  
-*   Douleurs, plaies, troubles de la sensibilité des pieds.  
-*   Evaluation de la vaccination antitétanique : la perte de sensibilité expose aux plaies indolores donc, indirectement, au tétanos.
+- Syndrome cardinal associant : polyurie-polydipsie, asthénie, amaigrissement et polyphagie.
+- Signes liés aux conséquences du diabète sur les différents organes/fonctions :
+- Troubles de la vision (rétinopathie).
+- Douleurs thoraciques ou dyspnée survenant à l'effort (insuffisance coronarienne, insuffisance cardiaque).
+- Douleurs des mollets lors de la marche : claudication intermittente liée a l'atteinte des artères des membres inférieurs.
+- Troubles urinaires (infection urinaire).
+- Infections diverses : furoncles, plaies traînantes, abcès dentaires.
+- Douleurs a type de décharges électriques, sensation d'engourdissement de la peau (polynévrite).
+- Douleurs, plaies, troubles de la sensibilité des pieds.
+- Evaluation de la vaccination antitétanique : la perte de sensibilité expose aux plaies indolores donc, indirectement, au tétanos.
 
 ### 2. Examen clinique initial
 
@@ -41,28 +41,25 @@ Toute consultation doit être l'occasion de s'assurer de la bonne compréhension
 Un excès de poids constitue en lui-même un risque cardio-vasculaire, qui s'ajoute a celui du diabète.  
 Le poids doit donc être surveillé par :
 
-*   L'indice de masse corporelle, IMC (figure 1).  
-*   La mesure du tour de taille (figure 1) : il constitue un autre facteur de risque lorsqu'il est supérieur à 102 cm chez l'homme et à 88 cm chez la femme.
+- L'indice de masse corporelle, IMC (figure 1).
+- La mesure du tour de taille (figure 1) : il constitue un autre facteur de risque lorsqu'il est supérieur à 102 cm chez l'homme et à 88 cm chez la femme.
 
 **Figure 1. Evaluation du poids et du tour de taille**
 
-
 ![](12085-1.jpg)
-
 
 #### Examen cardio-vasculaire
 
 Il recherche des facteurs de risque et évalue le retentissement du diabète :
 
-*   Mesure de la pression artérielle, au repos (après 15 minutes en position allongée) et aux deux bras, avec un brassard de taille adaptée en cas d'obésité, en sachant que la TA ne devrait pas dépasser 130/80 mmHg.  
-*   La prise du pouls vérifie la fréquence et le rythme cardiaques.  
-*   Recherche de signes d'insuffisance cardiaque : tachycardie, dyspnée d'effort, oedèmes des membres inférieurs, douleurs hépatiques, et anomalies notées a l'auscultation cardiaque et pulmonaire (effectuée par le médecin).  
-*   Recherche de signes de macro-angiopathie par la palpation des pouls périphériques distaux (figure 2) et la recherche de souffles vasculaires (auscultation par le médecin).  
-*   Recherche d'une hypotension orthostatique - chute de la pression artérielle lors du passage du décubitus a la position debout - témoignant d'une neuropathie végétative.
-
+- Mesure de la pression artérielle, au repos (après 15 minutes en position allongée) et aux deux bras, avec un brassard de taille adaptée en cas d'obésité, en sachant que la TA ne devrait pas dépasser 130/80 mmHg.
+- La prise du pouls vérifie la fréquence et le rythme cardiaques.
+- Recherche de signes d'insuffisance cardiaque : tachycardie, dyspnée d'effort, oedèmes des membres inférieurs, douleurs hépatiques, et anomalies notées a l'auscultation cardiaque et pulmonaire (effectuée par le médecin).
+- Recherche de signes de macro-angiopathie par la palpation des pouls périphériques distaux (figure 2) et la recherche de souffles vasculaires (auscultation par le médecin).
+- Recherche d'une hypotension orthostatique - chute de la pression artérielle lors du passage du décubitus a la position debout - témoignant d'une neuropathie végétative.
 
 ![](12085-3.jpg)
-  
+
 **Figure 2. Palpation des pouls périphériques**
 
 **Examen neurologique**
@@ -71,9 +68,8 @@ On recherche en particulier des signes de polynévrite siégeant le plus souvent
 
 L'examen peut montrer la disparition des réflexes ostéotendineux (figure 3).
 
-
 ![](12085-5.jpg)
-  
+
 **Figure 3. Etude du réflexe rotulien droit (réflexe ostéotendineux)**
 
 #### Examen ophtalmologique (nécessitant une consultation de spécialiste)
@@ -86,26 +82,22 @@ Il recherche des lésions infectées, comme des furoncles, en particulier aux en
 Examen des pieds  
 Il est essentiel et indispensable (voir l'article "pied du diabétique") :
 
-*   Palpation des pouls pédieux, tibiaux postérieurs, et poplités.  
-*   Etat trophique des téguments : recherche de callosités, de plaies pouvant évoluer vers un mal perforant (Figure 4).  
-*   Etat des ongles : onyxis.  
-*   Infections cutanées : érysipèle, mycose.  
-*   Etat articulaire : déformation du pied : pied creux (figure 5).
-
+- Palpation des pouls pédieux, tibiaux postérieurs, et poplités.
+- Etat trophique des téguments : recherche de callosités, de plaies pouvant évoluer vers un mal perforant (Figure 4).
+- Etat des ongles : onyxis.
+- Infections cutanées : érysipèle, mycose.
+- Etat articulaire : déformation du pied : pied creux (figure 5).
 
 ![](12085-7.jpg)
 
-
-*   Sensibilité profonde par la position des orteils.  
-*   Sensibilité superficielle évaluée avec une fine mèche de coton ou mieux avec un monofilament : sa diminution est un signe d'alerte.
+- Sensibilité profonde par la position des orteils.
+- Sensibilité superficielle évaluée avec une fine mèche de coton ou mieux avec un monofilament : sa diminution est un signe d'alerte.
 
 Le test au mono filament (figure 6) permet de dépister des troubles mineurs de la sensibilité superficielle du pied, témoins d'un risque de lésion du pied. Ce test a aussi une valeur pédagogique, car le patient prend conscience de ses troubles.  
 Le praticien utilise un monofilament de 10 gr et fait reconnaître la sensation en l'appliquant sur la main du patient. Il prévient le patient qu'il y aura des "pièges", c'est-à-dire en demandant s'il sent le monofilament alors qu'il n'est pas appliqué. Le monofilament est appliqué pendant une seconde environ sur différents points de pression et le patient doit signaler lorsque le mono filament est enlevé.  
 Chaque zone est testée trois fois, de façon aléatoire : si le patient se trompe 2 fois sur 3 sur une zone, le test est anormal.
 
-
 ![](12085-9.jpg)
-
 
 #### Recherche de foyers infectieux
 
@@ -113,19 +105,26 @@ Infection dentaire, cutanée, ORL, urinaire...
 
 ### 3. Examens complémentaires
 
-*   **Glycémie a jeun** : rappelons que la valeur normale est entre 0,9 et 1,10 g/L; et que l'on définit le diabète par une glycémie supérieure ou égale a 1,26 g/L a deux reprises.
+- **Glycémie a jeun** : rappelons que la valeur normale est entre 0,9 et 1,10 g/L; et que l'on définit le diabète par une glycémie supérieure ou égale a 1,26 g/L a deux reprises.
 
-*   **Hémoglobine glyquée**, Hb A1c : sa mesure est essentielle, mais elle n'est pas toujours réalisable (coût élevé : 10 000 CFA, 15 €). La valeur normale est 6%. Cet examen est ininterprétable chez les patients porteurs de certaines hémoglobinopathies. La glycémie n'informe que sur le taux de sucre au moment du prélèvement. C'est pourquoi on dose l'hémoglobine glyquée, dont la concentration dépend de la glycémie moyenne des deux mois précédant le dosage.  
-    Un patient peut avoir une glycémie à 1, 3 g/l faisant évoquer une intolérance au sucre. Si son hémoglobine glyquée est a 8°/>, cela signifie que, le mois précédent, son diabète n'était pas équilibré. Peut-être le patient a-t-il renforcé son régime la veille de l'examen, d'ou une glycémie peu élevée.
+- **Hémoglobine glyquée**, Hb A1c : sa mesure est essentielle, mais elle n'est pas toujours réalisable (coût élevé : 10 000 CFA, 15 €). La valeur normale est 6%. Cet examen est ininterprétable chez les patients porteurs de certaines hémoglobinopathies. La glycémie n'informe que sur le taux de sucre au moment du prélèvement. C'est pourquoi on dose l'hémoglobine glyquée, dont la concentration dépend de la glycémie moyenne des deux mois précédant le dosage.  
+  Un patient peut avoir une glycémie à 1, 3 g/l faisant évoquer une intolérance au sucre. Si son hémoglobine glyquée est a 8°/>, cela signifie que, le mois précédent, son diabète n'était pas équilibré. Peut-être le patient a-t-il renforcé son régime la veille de l'examen, d'ou une glycémie peu élevée.
 
-*   **Glycosurie** : le sucre est éliminé dans les urines lorsque la glycémie dépasse en moyenne 1,60 à 1,80 g/L. La glycosurie s'apprécie par un nombre de croix : + ou ++ ou +++
-*   **Cétonurie** : c'est un indicateur de gravité indiquant un risque de coma acido-cétosique.  
-*   **Examen cytobactériologique des urines** (ECBU) : recherche d'une infection urinaire souvent silencieuse.  
-*   **Bilan lipidique** : une hypercholestérolémie et une augmentation du LDL-cholestérol constituent un autre facteur de risque (le lésions artérielles.  
-*   **Créatininémie et kaliémie** pour apprécier la fonction rénale.  
-*   Recherche d'une **micro albuminurie** (si cet examen est possible).  
-*   **Electrocardiogramme** (ECG) : les diabétologues insistent sur l'existence possible d'infarctus du myocarde silencieux, c'est-à-dire sans signes cliniques mais visibles a l'ECG. On réfléchira à l'opportunité d'une consultation de cardiologie (épreuve d'effort, échographie cardiaque, écho-doppler artériel).  
-*   **Fond d'oeil** réalisé par l'ophtalmologiste, afin de vérifier l'état des rétines.
+- **Glycosurie** : le sucre est éliminé dans les urines lorsque la glycémie dépasse en moyenne 1,60 à 1,80 g/L. La glycosurie s'apprécie par un nombre de croix : + ou ++ ou +++
+
+- **Cétonurie** : c'est un indicateur de gravité indiquant un risque de coma acido-cétosique.
+
+- **Examen cytobactériologique des urines** (ECBU) : recherche d'une infection urinaire souvent silencieuse.
+
+- **Bilan lipidique** : une hypercholestérolémie et une augmentation du LDL-cholestérol constituent un autre facteur de risque (le lésions artérielles.
+
+- **Créatininémie et kaliémie** pour apprécier la fonction rénale.
+
+- Recherche d'une **micro albuminurie** (si cet examen est possible).
+
+- **Electrocardiogramme** (ECG) : les diabétologues insistent sur l'existence possible d'infarctus du myocarde silencieux, c'est-à-dire sans signes cliniques mais visibles a l'ECG. On réfléchira à l'opportunité d'une consultation de cardiologie (épreuve d'effort, échographie cardiaque, écho-doppler artériel).
+
+- **Fond d'oeil** réalisé par l'ophtalmologiste, afin de vérifier l'état des rétines.
 
 Répétons-le, ce bilan initial se fera en 2 ou 3 consultations.
 
@@ -142,24 +141,24 @@ Cette surveillance devra donc être programmée ; en effet, on ne peut pas tout 
 
 ### 1. Consultation trimestrielle
 
-*   Poids
-*   TA
-*   Examen clinique, guidé par les signes mentionnés par le patient et les constatations de l'examen précédent.  
-*   Glycémie a jeun.  
-*   Dosage de l'hémoglobine glyquée (si possible).  
-*   Autres examens complémentaires si nécessaire, selon l'examen clinique.  
-*   Prescription éventuelle d'un lecteur de glycémie et explication de son utilisation.
+- Poids
+- TA
+- Examen clinique, guidé par les signes mentionnés par le patient et les constatations de l'examen précédent.
+- Glycémie a jeun.
+- Dosage de l'hémoglobine glyquée (si possible).
+- Autres examens complémentaires si nécessaire, selon l'examen clinique.
+- Prescription éventuelle d'un lecteur de glycémie et explication de son utilisation.
 
 ### 2. Consultation annuelle
 
 Rappelons que tout ne se fait pas le même jour et que cette consultation doit être programmée.  
 Mêmes éléments que lors de la consultation trimestrielle.
 
-*   Examen précis des pieds.  
-*   Recherche de foyers infectieux, en particulier dentaires, ou cachés (folliculite ou furoncles péri-anaux).  
-*   Examen ophtalmologique (fond d'oeil).  
-*   ECG.  
-*   Bilan lipidique, créatinémie, kaliémie, ECBU, protéinurie, glycosurie, acétonurie.
+- Examen précis des pieds.
+- Recherche de foyers infectieux, en particulier dentaires, ou cachés (folliculite ou furoncles péri-anaux).
+- Examen ophtalmologique (fond d'oeil).
+- ECG.
+- Bilan lipidique, créatinémie, kaliémie, ECBU, protéinurie, glycosurie, acétonurie.
 
 Au terme de ce bilan, on évaluera la nécessité d'une consultation spécialisée.
 
@@ -169,11 +168,11 @@ Enfin, et pour faire le lien avec les articles qui suivent, il convient d'ajoute
 
 Le diagnostic éducatif est une évaluation du patient autour de cinq axes :
 
-*   ses symptômes (qu'a-t-il ?),
-*   son profil personnel et familial (qui est-il, quel est son métier ?),
-*   ses activités (que fait-il ?),
-*   ses connaissances sur sa maladie (que sait-il ?),
-*   ses préférences pour l'observance thérapeutique (que veut-il ?).
+- ses symptômes (qu'a-t-il ?),
+- son profil personnel et familial (qui est-il, quel est son métier ?),
+- ses activités (que fait-il ?),
+- ses connaissances sur sa maladie (que sait-il ?),
+- ses préférences pour l'observance thérapeutique (que veut-il ?).
 
 Il consiste a explorer le retentissement de la maladie sur sa vie et son activité, son contexte de vie familiale et sociale, ses projets, ses conceptions,  
 Le degré d'acceptation de sa maladie, ses handicaps ou ses potentialités d'apprentissage.  
@@ -293,7 +292,7 @@ Examens paracliniques
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -331,7 +330,7 @@ Examens paracliniques
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -393,7 +392,7 @@ Examens paracliniques
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -436,7 +435,7 @@ Examens paracliniques
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -562,6 +561,6 @@ Activité physique
 
   2 : Maladie cardiovasculaire
 
-_Si ces examens peuvent être réalisés_
+*Si ces examens peuvent être réalisés*
 
-_Développement et Santé, n°193, 2009_
+*Développement et Santé, n°193, 2009*

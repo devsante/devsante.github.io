@@ -8,25 +8,25 @@ date: "2013-07-06"
 
 ## I. Amoébose
 
-L’amoébose (nouvelle appellation de l’amibiase) est extrêmement répandue dans les pays tropicaux, atteignant environ 10 % de la population mondiale. L’homme s’infeste par ingestion de kystes d_’Entamoeba histolytica_ avec les crudités, les fruits ou l’eau de boisson. Chez les sujets en bonne santé, les kystes se transforment en formes _minuta_, non pathogènes, puis ces formes se multiplient et s’enkystent. Ces kystes sont éliminés dans les selles et disséminés dans la nature. En cas de résistance amoindrie du sujet, les amibes grossissent, prennent la forme hématophage et attaquent la muqueuse intestinale (abcès en « bouton de chemise ») puis diffusent vers le foie ou le poumon.
+L’amoébose (nouvelle appellation de l’amibiase) est extrêmement répandue dans les pays tropicaux, atteignant environ 10 % de la population mondiale. L’homme s’infeste par ingestion de kystes d\_’Entamoeba histolytica\_ avec les crudités, les fruits ou l’eau de boisson. Chez les sujets en bonne santé, les kystes se transforment en formes *minuta*, non pathogènes, puis ces formes se multiplient et s’enkystent. Ces kystes sont éliminés dans les selles et disséminés dans la nature. En cas de résistance amoindrie du sujet, les amibes grossissent, prennent la forme hématophage et attaquent la muqueuse intestinale (abcès en « bouton de chemise ») puis diffusent vers le foie ou le poumon.
 
 ### 1. Clinique
 
-La grossesse ou les suites d’accouchement ou d’avortement, sont des circonstances favorables pour l’amibiase et provoquent l’apparition de symptômes graves, en raison, probablement, de l’imprégnation hormonale due à la grossesse (élévation des 17-hydroxycorticostéroides et du cholestérol) qui favorise le développement d_’Entamoeba histolytica_. L’amibiase serait la principale cause de décès maternel en Tanzanie. Aussi, en zone tropicale, ne faut-il jamais négliger les « petites diarrhées » chez les femmes enceintes. Apparaissent vite des selles liquides avec des glaires et du sang, s’accompagnant d’intenses douleurs abdominales.
+La grossesse ou les suites d’accouchement ou d’avortement, sont des circonstances favorables pour l’amibiase et provoquent l’apparition de symptômes graves, en raison, probablement, de l’imprégnation hormonale due à la grossesse (élévation des 17-hydroxycorticostéroides et du cholestérol) qui favorise le développement d\_’Entamoeba histolytica\_. L’amibiase serait la principale cause de décès maternel en Tanzanie. Aussi, en zone tropicale, ne faut-il jamais négliger les « petites diarrhées » chez les femmes enceintes. Apparaissent vite des selles liquides avec des glaires et du sang, s’accompagnant d’intenses douleurs abdominales.
 
 En cas **d’amibiase aiguë**, l’état général s’effondre rapidement, l’abdomen est tendu, ballonné et douloureux. L’anus béant et le sphincter atonique laissent sourdre des pertes sanguinolentes. Le bilan biologique montre une hémoconcentration, une acidose, des pertes ioniques, et confirme la présence d’amibes dans les selles. En cas d’amibiase viscérale, l’échographie abdominale ou la radiographie pulmonaire et le sérodiagnostic permettent d’affirmer le diagnostic. Le recours à la ponction hépatique (pus « chocolat ») est devenu rarissime.
 
-Chez les femmes des zones tropicales, les grossesses successives et rapprochées surviennent sur des terrains déjà malnutris et anémiés (ankylostomose, carences vitaminiques, hémoglobinopathies, grossesses rapprochées). Aussi l’hypovolémie peut-elle entraîner une vasoconstriction artériolaire avec nécrose de la muqueuse, puis choc septique par décharges bactériennes. Il en découle une anoxie tissulaire responsable d’avortements, d’accouchements prématurés, voire de morts fœtales _in utero._
+Chez les femmes des zones tropicales, les grossesses successives et rapprochées surviennent sur des terrains déjà malnutris et anémiés (ankylostomose, carences vitaminiques, hémoglobinopathies, grossesses rapprochées). Aussi l’hypovolémie peut-elle entraîner une vasoconstriction artériolaire avec nécrose de la muqueuse, puis choc septique par décharges bactériennes. Il en découle une anoxie tissulaire responsable d’avortements, d’accouchements prématurés, voire de morts fœtales *in utero.*
 
 ### 2. Traitement
 
 Le traitement actuel est basé sur la prescription de dérivés imidazolés : métronidazole, tinidazole à la dose de 2 g/j pendant 3 jours. La destruction des kystes intestinaux résiduels justifie la prise de tiliquinol/tilbroquinol : 4 gélules par jour pendant 10 jours. En cas de colite aiguë ou d’abcès amibien important du foie ou du poumon, avec un effondrement de l’état général et une intolérance alimentaire, on utilise le métronidazole par voie intraveineuse.
 
-L’amoebose n’est pas transmissible au fœtus _in utero_, les amibes étant trop grosses pour traverser le placenta. Mais le traitement de la mère et un lavage soigneux et répété des mains sont nécessaires avant de s’occuper de son enfant pour éviter une contamination néonatale. Aussi, est-il important de faire respecter une hygiène alimentaire stricte chez la femme enceinte. En cas de doute sur le transit, un examen bactériologique et parasitologique des selles est indispensable pour déceler l’étiologie de la diarrhée. Les traitements par les imidazolés ne sont ni tératogènes, ni abortifs. Cependant, si l’état clinique le permet, on préfère par excès de prudence, attendre le 2ème trimestre pour prescrire ces produits. Si les troubles sont prononcés et deviennent très gênants sur le plan fonctionnel, il ne faut pas hésiter à traiter dès le premier trimestre.
+L’amoebose n’est pas transmissible au fœtus *in utero*, les amibes étant trop grosses pour traverser le placenta. Mais le traitement de la mère et un lavage soigneux et répété des mains sont nécessaires avant de s’occuper de son enfant pour éviter une contamination néonatale. Aussi, est-il important de faire respecter une hygiène alimentaire stricte chez la femme enceinte. En cas de doute sur le transit, un examen bactériologique et parasitologique des selles est indispensable pour déceler l’étiologie de la diarrhée. Les traitements par les imidazolés ne sont ni tératogènes, ni abortifs. Cependant, si l’état clinique le permet, on préfère par excès de prudence, attendre le 2ème trimestre pour prescrire ces produits. Si les troubles sont prononcés et deviennent très gênants sur le plan fonctionnel, il ne faut pas hésiter à traiter dès le premier trimestre.
 
 ## II. Ankylostomose
 
-Les ankylostomes sont des petits vers ronds intestinaux dont la contamination se fait par voie transcutanée. Ils sont répandus dans toutes les zones tropicales et subtropicales, atteignant environ 800 millions de personnes. Situés au niveau du duodénum, ils sont hématophages et consomment 0,2 ml de sang par jour pour l’espèce _Ankylostoma duodenale_ et 0,02 ml par jour pour l’espèce _Necator americanus_.
+Les ankylostomes sont des petits vers ronds intestinaux dont la contamination se fait par voie transcutanée. Ils sont répandus dans toutes les zones tropicales et subtropicales, atteignant environ 800 millions de personnes. Situés au niveau du duodénum, ils sont hématophages et consomment 0,2 ml de sang par jour pour l’espèce *Ankylostoma duodenale* et 0,02 ml par jour pour l’espèce *Necator americanus*.
 
 ### 1. Clinique
 
@@ -37,8 +37,8 @@ Le diagnostic repose sur l’examen de selles mettant les œufs caractéristique
 
 Il repose sur :
 
-*   le pamoate de pyrantel : 6 comprimés par jour (3 le matin, 3 le soir) pendant 3 jours.  
-*   ou le flubendazole : 2 comprimés par jour (1 matin et soir) pendant 3 jours.
+- le pamoate de pyrantel : 6 comprimés par jour (3 le matin, 3 le soir) pendant 3 jours.
+- ou le flubendazole : 2 comprimés par jour (1 matin et soir) pendant 3 jours.
 
 Si l’anémie est modérée, le traitement antihelminthique suffit, l’hémoglobine se normalisant rapidement dès la disparition des parasites. Mais en cas d’anémie importante, grevant le pronostic vital de la mère ou de l’enfant, outre l’antihelminthique, une transfusion est indiquée, suivie d’un traitement de quelques semaines par de l’acide folique et du fer (Ferograd® 1 cp/j).
 
@@ -50,7 +50,7 @@ Atteignant près de 600 millions de personnes, les bilharzioses (ou schistosomos
 
 Le problème majeur de la bilharziose, essentiellement urinaire, est l’atteinte génitale constatée surtout chez les femmes jeunes. En effet, l’hématurie, signe majeur de la bilharziose urinaire, ne provoque que rarement une anémie très marquée.
 
-**L’atteinte ovarienne** entraîne une douleur du petit bassin, une dyspareunie, des méno-métrorragies, mais surtout une dysménorrhée puis une aménorrhée. En découle une stérilité primitive ou secondaire. En cas de grossesse, peut survenir un avortement ou un accouchement prématuré avec hypotrophie fœtale. Des vers adultes et des œufs de schistosomes ont été retrouvés dans le placenta et dans le liquide amniotique. Les infestations fœtales ne sont qu’exceptionnelles, et constatées avec _S. japonicum_, mais les antigènes solubles passent chez le fœtus, expliquant une certaine réaction immunologique de défense. Le poids de naissance est habituellement normal.
+**L’atteinte ovarienne** entraîne une douleur du petit bassin, une dyspareunie, des méno-métrorragies, mais surtout une dysménorrhée puis une aménorrhée. En découle une stérilité primitive ou secondaire. En cas de grossesse, peut survenir un avortement ou un accouchement prématuré avec hypotrophie fœtale. Des vers adultes et des œufs de schistosomes ont été retrouvés dans le placenta et dans le liquide amniotique. Les infestations fœtales ne sont qu’exceptionnelles, et constatées avec *S. japonicum*, mais les antigènes solubles passent chez le fœtus, expliquant une certaine réaction immunologique de défense. Le poids de naissance est habituellement normal.
 
 **L’atteinte tubaire**, fréquemment associée, peut entraîner une salpingite, une grossesse extra-utérine, ou une stérilité (Tableau ci-dessous). La stérilité est surtout d’origine cervicale par sclérose, absence de glaire ou même augmentation des anticorps antispermatozoïdes. L’atteinte du corps utérin provoque essentiellement des ménométrorragies. Des études anatomopathogiques des organes génitaux féminins en Afrique ont montré une atteinte bilharzienne non négligeable des trompes et des ovaires (Tableau X).
 
@@ -214,7 +214,7 @@ Le traitement est basé sur les dérivés de l’antimoine - l'antimoniate de m�
 
 ### 1. Trypanosomose africaine
 
-La trypanosomose humaine africaine est une affection due à un flagellé, _Trypanosoma gambiense_ en Afrique de l’Ouest et _Trypanosoma rhodesiense_ en Afrique de l’Est, transmis par la glossine, ou « mouche tsé-tsé ».
+La trypanosomose humaine africaine est une affection due à un flagellé, *Trypanosoma gambiense* en Afrique de l’Ouest et *Trypanosoma rhodesiense* en Afrique de l’Est, transmis par la glossine, ou « mouche tsé-tsé ».
 
 #### a. Clinique
 
@@ -228,15 +228,15 @@ Le diagnostic repose sur l’accélération de la vitesse de sédimentation, la 
 
 Le traitement, en milieu hospitalier, repose sur la pentamidine (4 mg/kg/j) ou le mélarsoprol (3,6 mg/kg/j). Ces produits sont assez mal supportés et peuvent provoquer un avortement. Mais la trypanosomiase ayant une évolution mortelle quasi inéluctable, le traitement est indispensable. Le DFMO ou éflornithine (400mg/kg/j) apporte l’espoir d’une nouvelle thérapeutique efficace et sans les effets secondaires des produits classiques. Cependant, son retentissement sur la grossesse n'étant pas connu, il est plus prudent de l’éviter echez la femme enceinte. Les examens biologiques donnent les mêmes résultats que chez l’adulte. Le trypanosome peut être retrouvé dans le sang du cordon. Le traitement est identique à celui de l’adulte.
 
-### **2. La trypanosomose américaine, ou maladie de Chagas**
+### 2. La trypanosomose américaine, ou maladie de Chagas
 
-Elle est due à un flagellé, _Trypanosoma_ _cruzi,_ transmis par une punaise. Très répandue en Amérique du Sud, elle sévit essentiellement dans les milieux défavorisés et infeste 10 à 18 millions de personnes,  y compris au Etats-Unis.
+Elle est due à un flagellé, *Trypanosoma* *cruzi,* transmis par une punaise. Très répandue en Amérique du Sud, elle sévit essentiellement dans les milieux défavorisés et infeste 10 à 18 millions de personnes,  y compris au Etats-Unis.
 
 #### a. Clinique
 
 Un œdème palpébral, une fièvre à 40°C et une hépato-splénomégalie caractérisent la phase aiguë. Les symptômes régressent, et plusieurs années après, apparaît la forme chronique : myocardite, méningo-encéphalite et dilatation du tube digestif.
 
-La transmission congénitale dépasse 10 % en Bolivie, et atteint 30 % en Argentine et provoque des avortements, morts _in_ _utero_, et morts néonatales par pancardite ou encéphalite. Parfois l’enfant naît apparemment sain, les troubles n’apparaissent que tardivement (après plusieurs semaines ou plusieurs mois) : fièvre, anémie, ictère, hépatomégalie, hémorragies, convulsions.
+La transmission congénitale dépasse 10 % en Bolivie, et atteint 30 % en Argentine et provoque des avortements, morts *in* *utero*, et morts néonatales par pancardite ou encéphalite. Parfois l’enfant naît apparemment sain, les troubles n’apparaissent que tardivement (après plusieurs semaines ou plusieurs mois) : fièvre, anémie, ictère, hépatomégalie, hémorragies, convulsions.
 
 #### b. Traitement
 
@@ -246,7 +246,7 @@ Le traitement est basé sur le nifurtimox (10 mg/kg/j pendant 3 mois) ou le benz
 
 ### 1. Giardiose
 
-La giardiose est une parasitose intestinale due à _Giardia_  _intestinalis_. Elle se manifeste par des épigastralgies plus ou moins rythmées par les repas, évoquant un ulcère d’estomac ou une pancréatite avec des selles abondantes et luisantes. Le diagnostic est établi par l’examen parasitologique des selles ou le tubage gastrique. Dans la grande majorité des cas, les troubles sont peu marqués et la prescription thérapeutique n’est pas urgente et peut attendre l’accouchement. Mais la giardiase peut, parfois, provoquer une malabsorption avec déshydratation.
+La giardiose est une parasitose intestinale due à *Giardia* *intestinalis*. Elle se manifeste par des épigastralgies plus ou moins rythmées par les repas, évoquant un ulcère d’estomac ou une pancréatite avec des selles abondantes et luisantes. Le diagnostic est établi par l’examen parasitologique des selles ou le tubage gastrique. Dans la grande majorité des cas, les troubles sont peu marqués et la prescription thérapeutique n’est pas urgente et peut attendre l’accouchement. Mais la giardiase peut, parfois, provoquer une malabsorption avec déshydratation.
 
 Il n’y a pas de transmission congénitale de la giardiose. Cependant, en raison du risque de transmission de cette parasitose par les mains souillées, il est important de traiter pour éviter une giardiose néonatale. Le traitement en cure unique par le tinidazole (4 comprimés) est efficace et très bien supporté.
 
@@ -256,7 +256,7 @@ La **trichomonose**  est cosmopolite et très fréquente en Afrique. Elle se ma
 
 ### 3. Pneumocystose
 
-La **pneumocystose,** due à _Pneumocystis jiroveci_, est une protozoose, considérée comme une affection opportuniste chez les sujets immunodéprimés, et tout particulièrement les sujets infestés par le V.I.H. Etant donné le grand nombre d’adultes atteints, des femmes enceintes ont été infestées par le _Pneumocystis_. Mais les cas de transmission congénitale sont tout à fait exceptionnels.
+La **pneumocystose,** due à *Pneumocystis jiroveci*, est une protozoose, considérée comme une affection opportuniste chez les sujets immunodéprimés, et tout particulièrement les sujets infestés par le V.I.H. Etant donné le grand nombre d’adultes atteints, des femmes enceintes ont été infestées par le *Pneumocystis*. Mais les cas de transmission congénitale sont tout à fait exceptionnels.
 
 ### 4. Autres nématodoses intestinales
 
@@ -272,7 +272,7 @@ La **trichinellose** provoque un syndrome très caractéristique : fièvre à 4
 
 ### 6. Taeniasis et distomatoses
 
-Les **taeniasis** et les **distomatoses** provoquent des troubles digestifs et généraux variés, mais sans retentissement sur le fœtus. Leur traitement peut être différé jusqu’à l’accouchement. Mais, en cas de troubles trop prononcés, la trédémine (4 comp.) ou le biltricide (1 comp.) sont bien tolérés. La complication du _Taenia_  _solium_, ou neurocysticercose provoque des céphalées et des convulsions, à différencier d’une éclampsie.
+Les **taeniasis** et les **distomatoses** provoquent des troubles digestifs et généraux variés, mais sans retentissement sur le fœtus. Leur traitement peut être différé jusqu’à l’accouchement. Mais, en cas de troubles trop prononcés, la trédémine (4 comp.) ou le biltricide (1 comp.) sont bien tolérés. La complication du *Taenia* *solium*, ou neurocysticercose provoque des céphalées et des convulsions, à différencier d’une éclampsie.
 
 ### 7. Hydatidose
 
@@ -314,7 +314,8 @@ Ainsi, de nombreux parasites peuvent être constatés chez une femme enceinte, a
 
 </table>
 
-<table>
+\$1<table>
+
 <caption>Risques des principales affections tropicales transmissibles au fœtus</caption>
 
 <thead>
@@ -422,7 +423,8 @@ les punaises</td>
 
 </table>
 
-<table>
+\$1<table>
+
 <caption>Caractéristiques des nématodoses intestinales</caption>
 
 <thead>

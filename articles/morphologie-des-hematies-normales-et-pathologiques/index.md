@@ -11,7 +11,7 @@ Les hématies peuvent être observées à l'état frais, entre lame et lamelle o
 
 Selon les techniques de coloration utilisées, elles apparaissent rouge-brun (coloration de Wright) ou roses (May-Grünwald-Giemsa). En cas de variations de pH des colorants, elles peuvent apparaître plus grises, voire verdâtres.
 
-## I. Morphologie normale _(figure n° 1)_
+## I. Morphologie normale *(figure n° 1)*
 
 Une hématie est une cellule anucléée ayant la forme d'un disque biconcave.  
 Sa taille est d'environ 7 microns de diamètre et 2,5 microns d'épaisseur.  
@@ -19,15 +19,15 @@ Il existe une zone centrale plus claire, l'hémoglobine se répartissant de faç
 
 ## Il. Anomalies de taille
 
-*   La _microcytose_ caractérise des hématies de taille inférieure à la normale et s'observe surtout au cours des anémies ferriprives et des thalassémies.  
-*   La _macrocytose_ correspond à des hématies de taille supérieure à la normale. Elle s'observe au cours de différentes dysérythropoïèses (anomalie de synthèse au niveau de la moelle, avec érythropoïèse inefficace) : carences en folates ou vitamine B12, alcoolisme, traitement par AZT. Les hématies de grande taille observées sur frottis peuvent également correspondre à des réticulocytes qui seront mis en évidence après coloration au bleu de Crésyl.  
-*   _L'anisocytose_ est définie par une grande diversité de taille des hématies sur un même frottis.
+- La *microcytose* caractérise des hématies de taille inférieure à la normale et s'observe surtout au cours des anémies ferriprives et des thalassémies.
+- La *macrocytose* correspond à des hématies de taille supérieure à la normale. Elle s'observe au cours de différentes dysérythropoïèses (anomalie de synthèse au niveau de la moelle, avec érythropoïèse inefficace) : carences en folates ou vitamine B12, alcoolisme, traitement par AZT. Les hématies de grande taille observées sur frottis peuvent également correspondre à des réticulocytes qui seront mis en évidence après coloration au bleu de Crésyl.
+- *L'anisocytose* est définie par une grande diversité de taille des hématies sur un même frottis.
 
 ## III. Anomalies de coloration
 
-*   L'_hypochromie_ est une diminution de coloration des hématies, souvent associée à une microcytose au cours de anémies ferriprives, ou à une macrocytose au cours des dysérythropoïèses.  
-*   L'_anisochromie_ est définie par la variabilité de l'intensité de coloration des hématies sur un même frottis.  
-*   La _polychromatophilie_ est caractérisée par une variabilité de coloration des hématies qui peuvent présenter des teintes différentes sur un même frottis, de façon plus ou moins homogène. Elle s'observe au cours des anémies hémolytiques et des dysérythropoïèses.
+- L'*hypochromie* est une diminution de coloration des hématies, souvent associée à une microcytose au cours de anémies ferriprives, ou à une macrocytose au cours des dysérythropoïèses.
+- L'*anisochromie* est définie par la variabilité de l'intensité de coloration des hématies sur un même frottis.
+- La *polychromatophilie* est caractérisée par une variabilité de coloration des hématies qui peuvent présenter des teintes différentes sur un même frottis, de façon plus ou moins homogène. Elle s'observe au cours des anémies hémolytiques et des dysérythropoïèses.
 
 ## IV. Anomalies de forme
 
@@ -35,8 +35,8 @@ Il existe une zone centrale plus claire, l'hémoglobine se répartissant de faç
 
 Encore appelé cellule crénelée,
 
-*   il s'agit d'une hématie en forme de disque ou de sphère, hérissée de spicules fins, régulièrement répartis sur toute la surface de la cellule;
-*   cet aspect correspond souvent à un artéfact : frottis mal séché ou sang trop longtemps conservé. On peut cependant observer des échinocytes au cours de différents états pathologiques : urémie, pathologie gastrique tumorale ou ulcéreuse.
+- il s'agit d'une hématie en forme de disque ou de sphère, hérissée de spicules fins, régulièrement répartis sur toute la surface de la cellule;
+- cet aspect correspond souvent à un artéfact : frottis mal séché ou sang trop longtemps conservé. On peut cependant observer des échinocytes au cours de différents états pathologiques : urémie, pathologie gastrique tumorale ou ulcéreuse.
 
 ### 2) Acanthocyte (figure 3)
 
@@ -50,11 +50,11 @@ Le schizocyte correspond à un fragment d'hématie irrégulier, de taille et de 
 
 Cet aspect est observé au cours :
 
-*   d'anémies hémolytiques microangiopathiques,
-*   d'hémolyses dues à des prothèses valvulaires cardiaques,
-*   des brûlures sévères.
+- d'anémies hémolytiques microangiopathiques,
+- d'hémolyses dues à des prothèses valvulaires cardiaques,
+- des brûlures sévères.
 
-### 4) Stomatocyte ou _mouth cell_ (figure 5)
+### 4) Stomatocyte ou *mouth cell* (figure 5)
 
 Il s'agit d'un disque uniconcave, en forme de coupe à l'état frais. Sur frottis, la zone claire centrale de l'hématie prend la forme d'une fente ou d'un ovale.
 
@@ -70,7 +70,7 @@ Cet aspect s'observe au cours de l'elliptocytose héréditaire, pathologie cong�
 
 On peut retrouver des elliptocytes, moins nombreux et non spécifiques au cours de différentes dysérythropoïèses.
 
-### 6) Drépanocyte ou sickle cell, hématie **falciforme** (figure 7)
+### 6) Drépanocyte ou sickle cell, hématie falciforme (figure 7)
 
 L'hématie prend une forme allongée, classiquement en forme de faucille ou de croissant, avec deux spicules bipolaires : extrémités pointues, plus ou moins effilées.
 
@@ -84,13 +84,13 @@ Leur coloration est foncée et homogène, avec disparition du centre clair.
 
 On les observe au cours de la maladie de Minkowski Chauffard ou sphérocytose héréditaire (anomalies congénitale de la membrane des hématies), mais également au cours d'autres anémies hémolytiques : elles sont dans ce cas moins nombreuses.
 
-### 8) Cellule cible ou _target cell_, hématie **en cloche, codocyte** (figure 9)
+### 8) Cellule cible ou *target cell*, hématie en cloche, codocyte (figure 9)
 
 L'aspect sur frottis est celui d'une cible ou d'une cocarde, l'hémoglobine étant répartie en périphérie et au centre de la cellule.
 
 Les cellules cibles s'observent surtout au cours de certaines hémoglobinopathies (hémoglobinose C, thalassémie), parfois au cours des carences martiales.
 
-### 9) Dacryocytes ou hématies en larme, **en poire ou en raquette** (figure 10)
+### 9) Dacryocytes ou hématies en larme, en poire ou en raquette (figure 10)
 
 Les hématies ont la forme d'une poire avec une extrémité arrondie et l'autre allongée, plus ou moins effilée.
 
@@ -140,22 +140,18 @@ Ces granulations, fines, rosées ou rouges, irrégulières, peuvent se voir apr�
 
 Ils ne sont pas évoqués dans cet article.
 
-**Une plaquette de petite taille peut** **parfois se superposer sur une hématie** **et ne doit pas être confondue avec** **une inclusion intra-érythrocytaire.** _(figure 16)_
+**Une plaquette de petite taille peut** **parfois se superposer sur une hématie** **et ne doit pas être confondue avec** **une inclusion intra-érythrocytaire.** *(figure 16)*
 
-## **VI. Conclusion**
+## VI. Conclusion
 
 L'étude de la morphologie des hématies vient compléter les résultats de la numération globulaire, associés à l'étude des constantes érythrocytaires : volume globulaire moyen, concentration et teneur globulaires moyennes en hémoglobine.
 
 Les hématies peuvent présenter des aspects morphologiques variables, parfois associés. Certains aspects sont spécifiques d'une pathologie (drépanocytes), d'autres permettent une orientation diagnostique.
 
-
 ![](i745-1.jpg)
-
-
 
 ![](i745-2.jpg)
 
 ![](i745-3.jpg)
 
-
-_Développement et Santé, n°161, octobre 2002_
+*Développement et Santé, n°161, octobre 2002*

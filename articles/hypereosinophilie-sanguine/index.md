@@ -88,21 +88,17 @@ vitamine B12</td>
 
 ## IV. Hyperéosinophilies parasitaires
 
-L’hyperéosinophilie sanguine lors des maladies parasitaires est due aux helminthes (ou vers), quelle que soit leur forme (rond, plat, segmenté ou non) ainsi qu’aux ectoparasites (myiase, gale). Les protozoaires (_Plasmodium_,  _Leishmania_,  amibes,  trypanosomes  
+L’hyperéosinophilie sanguine lors des maladies parasitaires est due aux helminthes (ou vers), quelle que soit leur forme (rond, plat, segmenté ou non) ainsi qu’aux ectoparasites (myiase, gale). Les protozoaires (*Plasmodium*,  *Leishmania*,  amibes,  trypanosomes  
 etc…) ne provoquent pas ce type de réaction. L’éosinophilie sanguine est d’autant plus élevée que le parasite effectue un cycle complexe       dans l’organisme.  
-Par ailleurs, l’éosinophilie varie dans le temps en fonction de l’évolution du parasite (Tableau II). Au début, pendant la phase de migration larvaire, l’éosinophilie suit une courbe ascendante, pour aboutir à un maximum, après un délai variable selon les parasites avant de décroître lentement : courbe de Lavier typique dans l’ascaridiose.  Dans certaines parasitoses  (filarioses,  distomatoses,  _larva migrans_),  l’éosinophilie reste longtemps élevée (figure 1). Enfin, dans le cas de l’anguillulose, l’éosinophilie est oscillante, correspondant aux phases du cycle d’auto-infestation du parasite (Figure 2).
+Par ailleurs, l’éosinophilie varie dans le temps en fonction de l’évolution du parasite (Tableau II). Au début, pendant la phase de migration larvaire, l’éosinophilie suit une courbe ascendante, pour aboutir à un maximum, après un délai variable selon les parasites avant de décroître lentement : courbe de Lavier typique dans l’ascaridiose.  Dans certaines parasitoses  (filarioses,  distomatoses,  *larva migrans*),  l’éosinophilie reste longtemps élevée (figure 1). Enfin, dans le cas de l’anguillulose, l’éosinophilie est oscillante, correspondant aux phases du cycle d’auto-infestation du parasite (Figure 2).
 
 **Figure 1**
 
-
 ![](page-59-fig-1.jpg)
-
 
 **Figure 2**
 
-
 ![](page-59-fig-2.jpg)
-
 
 L’interrogatoire essaie de préciser les éventuels risques d’exposition: aliments (crudités, baies sauvages, viande mal cuite, poisson, cresson, crustacés) marche pieds nus dans la boue, bains en eau douce, piqûres  d’insectes.  L’examen clinique recherche des  
 symptômes permettant de s’orienter vers un diagnostic : troubles  digestifs (intestinaux) ou urinaires (bilharziose), foie douloureux fébrile (distomatose), anémie (ankylostome) hépatosplénomégalie (bilharziose), prurit (filariose, distomatose), œdème (trichinellose, filarioses lymphatiques), pneumopathie fugace (ascaridiose), syndrome méningé (angiostrongylose).
@@ -266,95 +262,95 @@ Trichines
 
 <td style="width: 40px; ">
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
 </td>
 
 <td style="width: 64px; ">
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
-
-</td>
-
-<td>
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
-
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
+\+
+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
+</td>
+
+<td>
+
+\+
+
+\+
+
+\+
+
+\+
+
+\+
+
+\+
+
+\+
 
 </td>
 
@@ -380,61 +376,61 @@ Echinococcose alvéolaire
 
 <td style="width: 40px; ">
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
 </td>
 
 <td style="width: 64px; ">
 
-+
+\+
 
-+
+\+
 
-+
+\+
 
-+
-
-</td>
-
-<td>
-
-+
-
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
-+
-
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
-+
+\+
+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
-+
+\+
 
-+
+</td>
+
+<td>
+
+\+
+
+\+
+
+\+
 
 </td>
 
@@ -456,37 +452,37 @@ Bilharzies urinaires
 
 <td style="width: 64px; ">
 
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
-+
+\+
 
-+
-
-</td>
-
-<td>
-
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
-+
+</td>
+
+<td>
+
+\+
+
+\+
 
 </td>
 
@@ -504,45 +500,45 @@ Gale
 
 <td style="width: 40px; ">
 
-+
+\+
 
-+
+\+
 
 </td>
 
 <td style="width: 64px; ">
 
-+
+\+
 
-+
-
-</td>
-
-<td>
-
-+
+\+
 
 </td>
 
 <td>
 
-+
-
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
 
-+
+\+
 
 </td>
 
 <td>
 
-+
+\+
+
+\+
+
+</td>
+
+<td>
+
+\+
 
 </td>
 
@@ -554,47 +550,48 @@ Gale
 
 Les vers intestinaux provoquent des troubles digestifs : nausées,  vomissements,  douleurs abdominales, diarrhées. Quelques symptômes sont plus évocateurs, comme le prurit anal (oxyures), la boulimie (tænia), le dermographisme (douve du foie),  une  hématurie  (bilharziose  urinaire), des œdèmes de la face et des myalgies (trichinellose). Les nématodes tissulaires (ou filaires) provoquent des troubles cutanés (prurit, œdèmes, sillon cutané) et lymphatiques (lymphangite, éléphantiasis).  Des examens complémentaires orientés permettent d’approcher du diagnostic.
 
-
 ![](page-60-tableau-iv.jpg)
-
 
 ### 1. Nématodes
 
 Les nématodes sont des vers ronds, situés soit dans la sphère digestive, soit  intra-tissulaire (filaires). Certains sont cosmopolites alors que d’autres sont plus  
 localisés.
 
-#### a) Nématodes intestinaux   
+#### a) Nématodes intestinaux 
+
 Voir article "Diagnostic des nématodes"
 
 #### b) Nématodes tissulaires
 
 Les  filaires peuvent être associées à des parasitoses digestives. Il conviendra alors d'en tenir compte pour le diagnostic étiologie de l'hyperéosinophilie. Ces  nématodes sont transmis par des arthropodes. L’éosinophilie reste élevée longtemps après l’infestation.
 
-_**Loa  loa**_, en Afrique centrale, est une filaire de 5 à 7 cm, transmise par la piqûre d’un taon (Chrysops). Les symptômes sont assez spécifiques : œdème fugace, sillon cutané prurigineux, passage des filaires sur la conjonctive. Le diagnostic est affirmé par la mise en évidence des microfilaires (de 300 µ de  long) dans le sang vers 12h. Le traitement classique par le diethylcarbamazine, mal toléré, et contre-indiqué en cas de grossesse et allaitement est actuellement remplacé par une cure unique d’ivermectine.
+***Loa  loa***, en Afrique centrale, est une filaire de 5 à 7 cm, transmise par la piqûre d’un taon (Chrysops). Les symptômes sont assez spécifiques : œdème fugace, sillon cutané prurigineux, passage des filaires sur la conjonctive. Le diagnostic est affirmé par la mise en évidence des microfilaires (de 300 µ de  long) dans le sang vers 12h. Le traitement classique par le diethylcarbamazine, mal toléré, et contre-indiqué en cas de grossesse et allaitement est actuellement remplacé par une cure unique d’ivermectine.
 
-_**Onchocerca volvulus**_,  en Afrique intertropicale et dans le nord de l’Amérique du Sud, mesurant 10 à 20 cm de long, est transmise par la piqûre de moucheron (_Simulium damnosun_) Les symptômes sont le prurit diffus et intense, des nodules sous-cutanés et surtout une cécité progressive. Les recherches des microfilaires s’effectuent par biopsie cutanée exsangue. L’ivermectine en est le traitement actuel  (programme de gratuité).
+***Onchocerca volvulus***,  en Afrique intertropicale et dans le nord de l’Amérique du Sud, mesurant 10 à 20 cm de long, est transmise par la piqûre de moucheron (*Simulium damnosun*) Les symptômes sont le prurit diffus et intense, des nodules sous-cutanés et surtout une cécité progressive. Les recherches des microfilaires s’effectuent par biopsie cutanée exsangue. L’ivermectine en est le traitement actuel  (programme de gratuité).
 
-_**Wuchereria bancrofti**_, filaire de 5 à 10 cm de long, est localisée dans toutes les zones tropicales, et transmise par des moustiques (Culex). Les symptômes sont une lymphangite aiguë rétrograde, une orchite, et puis, au bout de plusieurs années, une orchi-épididymite chronique avec, au maximum, une stase lymphatique responsable d’un éléphantiasis. Le diagnostic est affirmé par la mise en évidence des microfilaires (de  
+***Wuchereria bancrofti***, filaire de 5 à 10 cm de long, est localisée dans toutes les zones tropicales, et transmise par des moustiques (Culex). Les symptômes sont une lymphangite aiguë rétrograde, une orchite, et puis, au bout de plusieurs années, une orchi-épididymite chronique avec, au maximum, une stase lymphatique responsable d’un éléphantiasis. Le diagnostic est affirmé par la mise en évidence des microfilaires (de  
 300 µ de long) dans le sang vers 24h. Le traitement est basé sur l’ivermectine. La prévention de ces filaires est basée sur la prévention des piqûres d’arthropodes.
 
-_**Dracunculus  medinensis**_ est un nématode situé en Afrique intertropicale. L’homme s’infeste par ingestion du stade larvaire avec l’eau de boisson. En plusieurs mois, la filaire adulte (de 40 à 100 cm) migre sous la peau, puis sort spontanément. Le diagnostic est évident sur l’inspection. Le traitement consiste à extraire la filaire et à l’enrouler progressivement sur un bâtonnet. La prévention de la dracunculose se fait par  utilisation d’eaux de boisson filtrées ou extraites par forage.
+***Dracunculus  medinensis*** est un nématode situé en Afrique intertropicale. L’homme s’infeste par ingestion du stade larvaire avec l’eau de boisson. En plusieurs mois, la filaire adulte (de 40 à 100 cm) migre sous la peau, puis sort spontanément. Le diagnostic est évident sur l’inspection. Le traitement consiste à extraire la filaire et à l’enrouler progressivement sur un bâtonnet. La prévention de la dracunculose se fait par  utilisation d’eaux de boisson filtrées ou extraites par forage.
 
-#### 2. Cestodes  
+#### 2. Cestodes
+
 Voir article "Diagnostic des cestodes"
 
-#### 3. Trématodes  
+#### 3. Trématodes
+
 Voir article "Diagnostic des trématodes"
 
 Certains trématodes n’ont pas d’expression digestive.
 
-_**Larva migrans**_ **viscérale**  
+***Larva migrans*** **viscérale**  
 En cas d’ingestion accidentelle d’œufs d’ascaris de chien, le parasite non adapté à l’homme va errer dans l’organisme, en provoquant des troubles divers (hépatalgie fébrile,  pneumopathie, syndrome oculaire) avec une hyperéosinophilie sanguine. La seule méthode diagnostique est le sérodiagnostic.
 
 **Myiase**  
 L’infestation par les larves de mouche, dont il existe de nombreuses espèces, provoque des lésions cutanées furonculeuses centrées par la larve et très iritantes. Parfois la larve pénètre dans l’organisme pour provoquer des myiases profondes. L’éosinophilie sanguine est légèrement élevée. Pour prévenir ces myiases il ne faut pas faire sécher le linge en l’étendant sur le sol et il faut, si possible, le repasser.
 
 **Gale**  
-L’infestation par un acarien, _Sarcoptes scabiei,_ provoque un prurit  généralisé, à  prédominance nocturne. Les lésions cutanées sont variables, le sillon interdigital étant considéré comme caractéristique. L’hyperéosinophilie est assez fréquente mais peu élevée. Le grattage cutané permet de retrouver les parasites. Le badigeonnage local par le benzoate de benzyle est remplacé par une prise unique d’ivermectine plus efficace et plus simple (200 µg/kg en cure unique). L’hygiène individuelle est le meilleur moyen  
+L’infestation par un acarien, *Sarcoptes scabiei,* provoque un prurit  généralisé, à  prédominance nocturne. Les lésions cutanées sont variables, le sillon interdigital étant considéré comme caractéristique. L’hyperéosinophilie est assez fréquente mais peu élevée. Le grattage cutané permet de retrouver les parasites. Le badigeonnage local par le benzoate de benzyle est remplacé par une prise unique d’ivermectine plus efficace et plus simple (200 µg/kg en cure unique). L’hygiène individuelle est le meilleur moyen  
 de prévenir la gale.
 
 ## En conclusion 

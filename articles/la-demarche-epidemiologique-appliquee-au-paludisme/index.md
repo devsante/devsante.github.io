@@ -18,9 +18,7 @@ Nous vous proposons d'illustrer cette démarche en situation et de confronter vo
 
 Vous avez accepté la charge de technicien sanitaire dans une équipe médicale humanitaire intervenant en Afrique rurale. À votre arrivée (vous êtes le premier arrivé), un responsable du village vous dit que beaucoup d'enfants meurent avec la fièvre et que les gens pensent que c'est le paludisme.
 
-
 ![](i806-1.jpg)
-
 
 **Première démarche**
 
@@ -36,13 +34,13 @@ La réponse à votre question pourrait être :
 
 La réponse pourrait être également
 
-- Fièvre avec des parasites dans le sang (depuis la découverte du _Plasmodium_ en 1880 par Laveran).
+- Fièvre avec des parasites dans le sang (depuis la découverte du *Plasmodium* en 1880 par Laveran).
 
 - Fièvre à la suite de piqûres de moustiques (depuis la découverte du rôle hôte et vecteur de l'anophèle (cycle sexué) en 1898 par Ross).
 
 La réponse pourrait être encore :
 
-- Fièvre avec un ou plusieurs signes de gravité : perte de connaissance, urines rares, anémie sévère (conjonctive blanche), ictère (conjonctive jaune), saignements, respiration difficile, convulsions (l'un de ces signes, quand il est associé à la présence de _P. falciparum_ dans le sang, indique l'accès palustre pernicieux).
+- Fièvre avec un ou plusieurs signes de gravité : perte de connaissance, urines rares, anémie sévère (conjonctive blanche), ictère (conjonctive jaune), saignements, respiration difficile, convulsions (l'un de ces signes, quand il est associé à la présence de *P. falciparum* dans le sang, indique l'accès palustre pernicieux).
 
 **Attitude 2 : le problème** **est-il inhabituel ?**
 
@@ -56,11 +54,9 @@ Par exemple, ceux qui dorment près ou loin de l'eau, en haut ou en bas du villa
 
 Le but est de considérer l'écologie vectorielle : un repas sanguin est nécessaire à l'anophèle femelle pour assurer la maturation de ses oeufs (comme pour tous les moustiques), elle vit 3 à 12 semaines (espérance de vie), sa longévité (et sa capacité vectorielle)
 
-diminue lorsqu'elle abonde, elle s'éloigne difficilement de son lieu de naissance (vitesse de vol 30 m/min), elle pique la nuit puis se repose dans ou hors des maisons (endophile/exophile), elle préfère l'homme ou les animaux (anthropophile/zoophile), elle abonde dans certains quartiers et pas dans d'autres (ses larves n'apprécient pas l'eau polluée) _(encadré n° 2)._
-
+diminue lorsqu'elle abonde, elle s'éloigne difficilement de son lieu de naissance (vitesse de vol 30 m/min), elle pique la nuit puis se repose dans ou hors des maisons (endophile/exophile), elle préfère l'homme ou les animaux (anthropophile/zoophile), elle abonde dans certains quartiers et pas dans d'autres (ses larves n'apprécient pas l'eau polluée) *(encadré n° 2).*
 
 ![](i806-2.jpg)
-
 
 **Attitude 4 : le problème** **survient-il à un moment déterminé ?**
 
@@ -90,15 +86,13 @@ Personne ne se souvient d'une épidémie et vous réalisez que vous ne savez rie
 
 Cette question est posée à l'infirmier (ou au médecin, à l'agent de santé communautaire, ou bien au tradipraticien). Elle est sans intérêt : les épidémiologistes étudient des groupes de personnes (et des groupes d'agents pathogènes d'une même espèce) et non des individus et font porter leur analyse sur les individus en bonne santé comme sur les malades,
 
-pour essayer de trouver la différence qui les distingue. L'ensemble le plus fréquemment considéré est la population (qui se définit comme groupe de reproduction : la majorité des individus choisit son conjoint à l'intérieur du groupe) (encadré _n° 3)._
+pour essayer de trouver la différence qui les distingue. L'ensemble le plus fréquemment considéré est la population (qui se définit comme groupe de reproduction : la majorité des individus choisit son conjoint à l'intérieur du groupe) (encadré *n° 3).*
 
 **Pouvez-vous me donner le chiffre total** **des consultations, des cas diagnostiqués** **paludisme ainsi que des cas graves et** **décès supposés du paludisme ?**
 
 Question posée à l'infirmier du centre de soins. Il faut savoir que les chiffres du centre de soins ne sont qu'une approche de ces taux car on ne peut pas prendre comme dénominateur la population générale (une variation de fréquentation du centre de soins est possible) et la population consultante n'est pas le reflet de la population générale (particulièrement si la consultation est payante).
 
-
 ![](i806-3.jpg)
-
 
 **Attitude 2 : quels sont** **les chiffres de population** **et de décès des 2 (3, 4, ou 5)** **dernières années ?**
 
@@ -112,11 +106,9 @@ Question à poser au responsable du village. Le taux brut de mortalité (chiffre
 
 (question posée au microscopiste)
 
-Ces indicateurs ne sont souvent recueillis que de façon transversale. Ils constituent un instantané d'une population, à un moment donné, mais ne renseignent pas sur les variations (_encadré n° 4_).
-
+Ces indicateurs ne sont souvent recueillis que de façon transversale. Ils constituent un instantané d'une population, à un moment donné, mais ne renseignent pas sur les variations (*encadré n° 4*).
 
 ![](i806-4.jpg)
-
 
 Les indicateurs du paludisme sont nombreux. La présence de parasites sur le frottis mince ou épais de sang est le seul critère de certitude de paludisme : on détermine l'espèce, les formes asexuées, la densité. L'indice plasmodique est noté de 1 à 5 (goutte épaisse). On utilise le plus souvent le taux de sujets porteurs de Plasmodium. La présence d'une fièvre est l'indicateur clinique le plus fréquemment utilisé. Il faut savoir qu'il peut y avoir paludisme avec fièvre et sans parasites décelables (rarement) ou parasites avec fièvre (virale par exemple) sans paludisme clinique (sujets prémunis). L'organisme se défend contre le paludisme en phagocytant les hématies parasitées dans la rate qui augmente de volume, puis, après 3 à 10 ans d'infestations répétées, la variété et la performance des anticorps sont suffisamment grandes pour prendre le relais et la taille de la rate diminue. Dans la première phase (enfants 2 à 9 ans par exemple), la taille de la rate peut refléter les infestations palustres de l'année écoulée. L'indice splénique peut considérer la taille de la rate (5 classes selon Hackett). On utilise le plus souvent le taux de sujets de 2 à 9 ans, porteurs de rates décelables. Cet indice est en défaut de spécificité, d'autres affections pouvant entraîner une splénomégalie (drépanocytose, bilharziose). A tout âge, la présence d'anticorps spécifiques signe une impaludation présente ou passée depuis 1 semaine à 10 ans, et le taux d'anticorps reflète la proximité ou la répétition des accès. L'indice immunologique est noté de 1 à 5 ou par la moyenne géométrique des titres d'anticorps. On utilise souvent le taux de sujets porteurs d'anticorps à un titre spécifique. L'indice plasmodique (plus rarement splénique) permet de déterminer le niveau d'endémie. Lorsque la maladie est connue dans la région et que le nombre de cas est attendu compte tenu du lieu, du temps et de la population considérée, on distingue 4 niveaux (pourcentage de la population) : moins de 25 % : hypo-endémie ; de 25 à 50 % : méso-endémie ; de 50 à 75 % : hyper-endémie ; plus de 75 % : holo-endémie. La notion de stabilité tend à supplanter la notion de niveau d'endémie, pour le paludisme. Le paludisme est stable si la transmission est prolongée, si l'anophèle est anthropophile et à espérance de vie longue, s'il y a beaucoup de cas humains : dans ce cas la prémunition est rapide et la mortalité surtout infantile. Le paludisme est instable si la transmission et la vie de l'anophèle sont brèves, s'il y a peu de cas chez l'homme : dans ce cas il y a peu de prémunition et une forte mortalité à tout âge.
 
@@ -134,15 +126,13 @@ Vous n'avez rien trouvé lors de votre recherche d'enquêtes antérieures et vou
 
 **Attitude 1 : procurez-vous une carte de la commune, du canton ou du district**
 
-Notez-y les gîtes potentiellement importants pour les moustiques : rivières, marais. Notez les sites d'altitude peu propices aux anophèles, les forêts pouvant héberger des vecteurs très efficaces _(Anopheles dirus_ en Asie). Faites compléter la carte sur le terrain par un agent sanitaire recherchant les collections d'eau autour des habitations, les mares et eaux courantes saisonnières ou permanentes, les cultures (rizières).
+Notez-y les gîtes potentiellement importants pour les moustiques : rivières, marais. Notez les sites d'altitude peu propices aux anophèles, les forêts pouvant héberger des vecteurs très efficaces *(Anopheles dirus* en Asie). Faites compléter la carte sur le terrain par un agent sanitaire recherchant les collections d'eau autour des habitations, les mares et eaux courantes saisonnières ou permanentes, les cultures (rizières).
 
 **Quatrième démarche**
 
 Votre équipe a visité la zone que vous avez identifiée à risque plus élevé et vous rapporte l'absence de marais ou étangs mais signale qu'autour des maisons sont creusées des fosses dont la profondeur a augmenté régulièrement à mesure qu'y était prélevée la terre pour la réparation ou la construction des maisons. Ils ont trouvé beaucoup de larves de moustiques dans l'eau des fosses. Cependant, les habitants ne déclarent pas être gênés par les moustiques. Quel problème évoque cette information ? Que proposez-vous pour diminuer l'exposition aux moustiques ?
 
-
 ![](i806-5.jpg)
-
 
 **Attitude 1 : le problème n'est pas perçu (ou considéré)** **par les habitants**
 
@@ -172,4 +162,4 @@ Il est préférable de pulvériser des insecticides rémanents, plutôt que chan
 
 Une multitude d'exemples empruntés au paludisme peuvent illustrer la démarche épidémiologique et son intérêt en santé publique. La situation présentée, inspirée d'un enseignement de Molyneux et Beales, illustre la complexité de la lutte antipaludique qui n'est réellement efficace que si elle est basée sur une bonne connaissance du parasite, de l'anophèle, de l'homme et de leurs interactions. C'est la définition de la lutte intégrée, qui reste hélas souvent à l'état d'intention.
 
-_Développement et Santé, n° 138, décembre 1998_
+*Développement et Santé, n° 138, décembre 1998*

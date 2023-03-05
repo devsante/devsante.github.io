@@ -6,27 +6,23 @@ date: "1984-02-01"
 
 L'insuffisance cardiaque est l'incapacité du coeur à assurer la circulation du sang et l'oxygénation des tissus. Il est important de savoir la reconnaître dès les premiers symptômes et de la traiter avant la défaillance complète du coeur. De plus,certaines maladies comme l'hypertension artérielle ou le rhumatisme articulaire aigu entraînent des maladies cardiaques et peuvent être prévenues par des moyens simples qu'il faut connaître.
 
-
 ![](i107-1.jpg)
-
 
 **Les mécanismes de l'insuffisance cardiaque**
 
-Le coeur est un muscle (myocarde), contenu dans un sac (péricarde) et qui comporte quatre valves (endocarde). Il reçoit le **sang veineux** en provenance des viscères et du cerveau au niveau des **cavités droites.** Le ventricule droit éjecte ce sang veineux, par l'artère pulmonaire, dans les poumons où se fait l'échange du gaz carbonique (qui est soufflé à l'expiration) contre de l'oxygène (qui provient de l'air inspiré). Le sang ainsi **oxygéné** va dans les cavités **gauches ;** il est éjecté par le ventricule gauche dans l'aorte et les artères périphériques, pour alimenter les membres, les viscères, le cerveau _(cf. schéma n° 1)._
+Le coeur est un muscle (myocarde), contenu dans un sac (péricarde) et qui comporte quatre valves (endocarde). Il reçoit le **sang veineux** en provenance des viscères et du cerveau au niveau des **cavités droites.** Le ventricule droit éjecte ce sang veineux, par l'artère pulmonaire, dans les poumons où se fait l'échange du gaz carbonique (qui est soufflé à l'expiration) contre de l'oxygène (qui provient de l'air inspiré). Le sang ainsi **oxygéné** va dans les cavités **gauches ;** il est éjecté par le ventricule gauche dans l'aorte et les artères périphériques, pour alimenter les membres, les viscères, le cerveau *(cf. schéma n° 1).*
 
 Lorsque le muscle cardiaque devient **défaillant,** le retentissement se fait d'abord en amont:
 
-*   ainsi, quand le ventricule **gauche** n'éjecte plus suffisamment de sang, il se produit un engorgement dans les **poumons,** qui se traduit d'abord par un essoufflement (dyspnée), puis par un passage d'eau dans les alvéoles (oedème pulmonaire) ;
+- ainsi, quand le ventricule **gauche** n'éjecte plus suffisamment de sang, il se produit un engorgement dans les **poumons,** qui se traduit d'abord par un essoufflement (dyspnée), puis par un passage d'eau dans les alvéoles (oedème pulmonaire) ;
 
-*   de même, quand le ventricule **droit** àson tour ne fonctionne plus correctement, le sang veineux stagne dans les **tissus,** d'où un gros foie douloureux et des oedèmes des jambes.
+- de même, quand le ventricule **droit** àson tour ne fonctionne plus correctement, le sang veineux stagne dans les **tissus,** d'où un gros foie douloureux et des oedèmes des jambes.
 
 Un coeur insuffisant ne parvient plus à éliminer **l'eau** et **le sel:** la diurèse baisse et il y a une surcharge hydrosodée.
 
-Ce n'est que quand le débit de sang éjecté par le ventricule gauche est très diminué que la **tension artérielle** commence à baisser, avec même apparition de signes de **choc,** lorsque les tissus ne reçoivent plus de sang oxygéné _(cf. schéma n° 2)._
-
+Ce n'est que quand le débit de sang éjecté par le ventricule gauche est très diminué que la **tension artérielle** commence à baisser, avec même apparition de signes de **choc,** lorsque les tissus ne reçoivent plus de sang oxygéné *(cf. schéma n° 2).*
 
 ![](i107-2.jpg)
-
 
 **Les principales causes de** **maladies cardiaques**
 
@@ -44,13 +40,9 @@ Chez l'adulte d'âge mûr et le vieillard, c'est **l'hypertension artérielle** 
 
 Enfin, à tous les âges, on rencontre des **myocardites anémiques:** l'anémie profonde (par manque de fer, hémorragie, drépanocytose, etc.) entraîne une mauvaise oxygénation du myocarde et une insuffisance cardiaque. Nous n'étudierons ici que l'insuffisance cardiaque de l'adulte.
 
-
 ![](i107-3.jpg)
 
-
-
 ![](i107-4.jpg)
-
 
 **Les premiers signes**
 
@@ -88,44 +80,48 @@ Dans tous ces cas, où il y a risque vital, le transfert à l'hôpital est néce
 
 Parfois, il est insuffisant, et on doit alors associer **des digitaliques et des diurétiques:**
 
-*   **Digitaline:** 1/2 ou 1 comprimé tous les deux jours; si on a des gouttes : 5 gouttes = 1 comprimé; si on a de la Digoxine, même nombre de comprimés (l'avantage de la Digoxine est d'agir plus vite).
+- **Digitaline:** 1/2 ou 1 comprimé tous les deux jours; si on a des gouttes : 5 gouttes = 1 comprimé; si on a de la Digoxine, même nombre de comprimés (l'avantage de la Digoxine est d'agir plus vite).
 
-*   **Lasilix:** 1 à 2 comprimés tous les deux jours (1 comprimé = 40 mg) ; on lui associe en général du potassium (2 cuillerées à soupe ou 2 comprimés de chlorure de potassium par comprimé de Lasilix).
+- **Lasilix:** 1 à 2 comprimés tous les deux jours (1 comprimé = 40 mg) ; on lui associe en général du potassium (2 cuillerées à soupe ou 2 comprimés de chlorure de potassium par comprimé de Lasilix).
 
 **B.** Dans les poussées aiguës d'insuffisance cardiaque, avec en particulier crise d'étouffement (oedème pulmonaire), il faut:
 
-*   asseoir le malade et le calmer,
-*   lui donner de l'oxygène (4 à 8 litres par minute),
+- asseoir le malade et le calmer,
 
-*   lui injecter 1 ou 2 ampoules de Lasilix intraveineux sauf si la tension artérielle est au-dessous de 8,
-*   lui injecter 1 ampoule de Cédilanide ou de Digoxine intraveineuse lente,
-*   lui faire fondre 1 comprimé (à renouveler après quinze minutes) de Trinitrine sous la langue,
-*   la Théophylline n'est généralement pas efficace.
+- lui donner de l'oxygène (4 à 8 litres par minute),
+
+- lui injecter 1 ou 2 ampoules de Lasilix intraveineux sauf si la tension artérielle est au-dessous de 8,
+
+- lui injecter 1 ampoule de Cédilanide ou de Digoxine intraveineuse lente,
+
+- lui faire fondre 1 comprimé (à renouveler après quinze minutes) de Trinitrine sous la langue,
+
+- la Théophylline n'est généralement pas efficace.
 
 Si ce traitement ne suffit pas, si l'état s'aggrave et si la tension n'est pas inférieure à 8:
 
-*   refaire deux à quatre ampoules de Lasilix intraveineux,
-*   ou faire une saignée veineuse en retirant en quelques minutes 1/2 litre de sang par une grosse veine du bras.
+- refaire deux à quatre ampoules de Lasilix intraveineux,
+- ou faire une saignée veineuse en retirant en quelques minutes 1/2 litre de sang par une grosse veine du bras.
 
 De toutes façons, le traitement doit être poursuivi, après transfert, en milieu hospitalier, car il est souvent difficile.
 
 **C. Quelques cas particuliers:**
 
-*   **Rhumatisme articulaire aigu :** il faut associer au traitement des injections intramusculaires de Pénicilline-retard (Benzathine-Pénicilline ou Extencilline: 1,2 million d'unités par mois).
+- **Rhumatisme articulaire aigu :** il faut associer au traitement des injections intramusculaires de Pénicilline-retard (Benzathine-Pénicilline ou Extencilline: 1,2 million d'unités par mois).
 
-*   **Hypertension artérielle:** il faut traiter l'hypertension qui a de toutes façons tendance à diminuer lorsqu'il y a insuffisance cardiaque.
+- **Hypertension artérielle:** il faut traiter l'hypertension qui a de toutes façons tendance à diminuer lorsqu'il y a insuffisance cardiaque.
 
-*   **Myocardie anémique :** il faut corriger l'anémie en apportant du sang et du fer, et traiter la cause de l'anémie.
+- **Myocardie anémique :** il faut corriger l'anémie en apportant du sang et du fer, et traiter la cause de l'anémie.
 
-*   La chirurgie cardiaque est pratiquée dans peu de centres africains; pour un rétrécissement mitral, une opération à coeur fermé, relativement peu risquée, suffit souvent; pour les autres maladies des valves cardiaques, il faut une chirurgie à coeur ouvert qui est difficile et nécessite un équipement coûteux.
+- La chirurgie cardiaque est pratiquée dans peu de centres africains; pour un rétrécissement mitral, une opération à coeur fermé, relativement peu risquée, suffit souvent; pour les autres maladies des valves cardiaques, il faut une chirurgie à coeur ouvert qui est difficile et nécessite un équipement coûteux.
 
 **La prévention**
 
 La survenue des maladies cardiaques n'est pas toujours inéluctable: certaines d'entre-elles peuvent être prévenues:
 
-*   **Le rhumatisme articulaire aigu** peut être évité, au moins en partie par le traitement des angines par la Pénicilline ; une injection de 1,2 million d'unités d'Extencilline suffit pour guérir une angine et prévenir la maladie cardiaque. Si celle-ci existe déjà, on peut encore en prévenir l'aggravation en donnant une injection mensuelle d'Extencilline (même dose).
+- **Le rhumatisme articulaire aigu** peut être évité, au moins en partie par le traitement des angines par la Pénicilline ; une injection de 1,2 million d'unités d'Extencilline suffit pour guérir une angine et prévenir la maladie cardiaque. Si celle-ci existe déjà, on peut encore en prévenir l'aggravation en donnant une injection mensuelle d'Extencilline (même dose).
 
-*   **L'hypertension artérielle** aussi doit être dépistée et traitée avant queue ne donne une insuffisance cardiaque. La prise de la tension fait partie du travail de l'infirmier; une tension supérieure ou égale à 16 nécessite un traitement adapté et une surveillance.
+- **L'hypertension artérielle** aussi doit être dépistée et traitée avant queue ne donne une insuffisance cardiaque. La prise de la tension fait partie du travail de l'infirmier; une tension supérieure ou égale à 16 nécessite un traitement adapté et une surveillance.
 
 **En conclusion**
 
@@ -133,4 +129,4 @@ L'insuffisance cardiaque doit être diagnostiquée par l'infirmier dès les prem
 
 La sévérité des maladies cardiaques doit inciter à intégrer, dans les programmes de soins de santé primaires, la prévention du rhumatisme articulaire aigu et de l'hypertension artérielle.
 
-_Développement et Santé, n°49, février 1984_
+*Développement et Santé, n°49, février 1984*

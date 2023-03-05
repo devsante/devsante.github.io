@@ -6,7 +6,8 @@ date: "2007-11-12"
 
 <div class="teaser"><p>Depuis un peu plus d'un an, l'UPEIV (Unité de Prise en charge de l'Enfant Exposé ou Infecté au VIH) de l'HIA (Hôpital d'Instruction des Armées) de Cotonou dispose d'une section d'éducation thérapeutique (ETP) pour les enfants vivants avec le VIH et leur parent. Cette activité permet au patient de com­prendre sa maladie, de mieux supporter les éventuelles complications et aussi de suppor­ter les contraintes liées au traitement antiré­troviral. Étant donné que l'ETP met "l'éduqué" au centre du dispositif d'enseignement ou d'apprentissage, nous pouvons nous deman­der quel retentissement elle peut avoir sur l'équilibre psychologique des patients et quelle est par conséquent l'articulation sur le terrain entre une consultation psychologique et la consultation d'ETP ? Voici quelques éléments de réflexion issus de notre pratique clinique.</p></div>
 
-## I. Définition de l'éducation thérapeutique  
+## I. Définition de l'éducation thérapeutique
+
 et implications psychologiques
 
 ### 1. Définition
@@ -17,12 +18,13 @@ et implications psychologiques
 
 De cette définition, nous pouvons comprendre que c'est une activité qui est d'un soutien capi­tal dans l'équilibre psychologique du patient dans la mesure où :
 
-*   Le patient est mis au centre des séances. Il ne s'agit pas ici de tenir forcément un discours de "médecin" où tout est imposé pratiquement au patient sans explications. Les explications lui permettent de mieux s'intégrer dans son suivi et dans son traite­ment et de comprendre le bien fondé des soins.  
-*   Une marge de manoeuvre est offerte au patient : il pourra poser des questions, obte­nir des explications nécessaires à sa compré­hension, et s'engager dans une dynamique d'acteur de ses soins à travers le processus d'apprentissage. Cette acquisition et cette transformation lui donnent un certain senti­ment de "puissance" pour pouvoir faire face à sa maladie.
+- Le patient est mis au centre des séances. Il ne s'agit pas ici de tenir forcément un discours de "médecin" où tout est imposé pratiquement au patient sans explications. Les explications lui permettent de mieux s'intégrer dans son suivi et dans son traite­ment et de comprendre le bien fondé des soins.
+- Une marge de manoeuvre est offerte au patient : il pourra poser des questions, obte­nir des explications nécessaires à sa compré­hension, et s'engager dans une dynamique d'acteur de ses soins à travers le processus d'apprentissage. Cette acquisition et cette transformation lui donnent un certain senti­ment de "puissance" pour pouvoir faire face à sa maladie.
 
 Ainsi le patient, par la consultation d'ETP, bénéficie d'un soutien psychologique si les séances se déroulent selon les règles de l'art. Il s'agit donc de savoir bien mener les séances avec des outils pouvant permettre d'atteindre les buts fixés dans le contrat thérapeutique.
 
-## II. Impact des outils d'éducation thérapeutique  
+## II. Impact des outils d'éducation thérapeutique
+
 sur l'équilibre psychologique des patients
 
 ### 1. Chez les enfants
@@ -53,6 +55,6 @@ certains outils soit évaluée avant la séance. Ceci relève d'une consultation
 
 **Bibliographie :**
 
-1. Rapport technique OMS région Europe (1998), in Apprendre à éduquer le patient, JF d'IVERNOIS - R. GAGNAYRE, ed Maloine 2004.
+1.  Rapport technique OMS région Europe (1998), in Apprendre à éduquer le patient, JF d'IVERNOIS - R. GAGNAYRE, ed Maloine 2004.
 
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

@@ -17,13 +17,13 @@ Il faut de plus, pour passer de la dose journalière à la dose par prise en cas
 
 **Quelles mesures prendre pour limiter les erreurs ?**
 
-*   Sirop : agiter le flacon avant l’emploi.  
-*   Bouchon sécurisé, que les enfants ne peuvent pas ouvrir.  
-*   Notice lisible toujours, en langue vernaculaire (et mentionnant toujours la DCI).  
-*   Pour les comprimés ou les gélules, abandonner les médicaments en vrac et privilégier les blisters (plaquettes) qui rendent plus difficile une ingestion massive.
+- Sirop : agiter le flacon avant l’emploi.
+- Bouchon sécurisé, que les enfants ne peuvent pas ouvrir.
+- Notice lisible toujours, en langue vernaculaire (et mentionnant toujours la DCI).
+- Pour les comprimés ou les gélules, abandonner les médicaments en vrac et privilégier les blisters (plaquettes) qui rendent plus difficile une ingestion massive.
 
 Enfin, il faut faire pression auprès des laboratoires pharmaceutiques pour qu'ils mettent sur le marché des formes pédiatriques et proposer une bonne dispensation.
 
 Par Philippe Reinert, pédiatre, Créteil, France
 
-_Sources : Prescrire Juin 2012_
+*Sources : Prescrire Juin 2012*

@@ -13,7 +13,7 @@ date: "2008-07-02"
 
 ### Rappels épidémiologiques
 
-1. Le paludisme est causé par le _plasmodium_. Il se transmet de l'homme infecté à l'homme sain et l'anophèle femelle en est le vecteur. La transmission peut se faire également à par­tir d'une transfusion de sang infecté par le parasite ou de la mère (femme enceinte) à son foetus : on parle de paludisme congénital.
+1.  Le paludisme est causé par le *plasmodium*. Il se transmet de l'homme infecté à l'homme sain et l'anophèle femelle en est le vecteur. La transmission peut se faire également à par­tir d'une transfusion de sang infecté par le parasite ou de la mère (femme enceinte) à son foetus : on parle de paludisme congénital.
 
 Le cycle de transmission se fait en trois phases. La première phase se déroule à l'inté­rieur du moustique (sporogonique) et les deux autres chez l'homme, l'une en dehors des hématies (exoérythrocytaire) et l'autre à l'inté­rieur des hématies (érythrocytaire).
 
@@ -29,17 +29,15 @@ Lors de la piqûre d'un homme sain, l'anophè­le femelle infectée va inoculer 
 
 Les mérozoïtes vont se multiplier à l'intérieur des globules rouges entraînant leur éclate­ment. Les parasites libérés vont chercher à atteindre d'autres globules rouges non atteints jusque-là et ainsi de suite. Certains mérozoïtes évoluent ensuite pour donner des gamétocytes mâles et femelles que le moustique ingère lors­qu'il vient piquer cet homme parasité.
 
-
 ![](image002-10.jpg)
-
 
 ### 2. Rappels physiopathologiques
 
 L'éclatement des globules rouges parasités (rosaces) s'accompagne de multiples conséquences :
 
-*   La fièvre qui résulte de la libération dans la circulation d'une substance malarique pyo­gène. En cas d'éclatement asynchrone des rosaces, on observe une fièvre irrégulière ou apparemment continue. Mais si l'éclatement est synchrone, la fièvre est intermittente, tierce ou quarte, selon l'espèce.  
-*   L'anémie et l'ictère résultent de la lyse des hématies parasitées. Mais les hématies saines peuvent également être détruites surtout dans les infections à _Plasmodium falciparum_ sans doute par un mécanisme immunologique.  
-*   La splénomégalie et accessoirement l'hépa­tomégalie sont témoins d'une hyperplasie des cellules macrophages de ces organes, destinées à la phagocytose des hématies parasitées.
+- La fièvre qui résulte de la libération dans la circulation d'une substance malarique pyo­gène. En cas d'éclatement asynchrone des rosaces, on observe une fièvre irrégulière ou apparemment continue. Mais si l'éclatement est synchrone, la fièvre est intermittente, tierce ou quarte, selon l'espèce.
+- L'anémie et l'ictère résultent de la lyse des hématies parasitées. Mais les hématies saines peuvent également être détruites surtout dans les infections à *Plasmodium falciparum* sans doute par un mécanisme immunologique.
+- La splénomégalie et accessoirement l'hépa­tomégalie sont témoins d'une hyperplasie des cellules macrophages de ces organes, destinées à la phagocytose des hématies parasitées.
 
 ### 3. Particularités du nourrisson et de l'enfant
 
@@ -47,26 +45,24 @@ La prémunition n'apparaît qu'après l'âge de 5 ans chez les enfants vivant en
 
 Sur le plan clinique, on distingue 2 types de paludisme :
 
-*   le paludisme simple ou l'accès palustre qui peut être causé par les quatre espèces de plasmodium ;
-*   et le paludisme grave dont le _Plasmodium falciparum_ est la seule espèce incriminée.
+- le paludisme simple ou l'accès palustre qui peut être causé par les quatre espèces de plasmodium ;
+- et le paludisme grave dont le *Plasmodium falciparum* est la seule espèce incriminée.
 
 ## II. Le paludisme simple
 
 Il n'y a pas de signes cliniques spécifiques au paludisme simple. Il s'agit d'un ensemble de signes fonctionnels, polymorphes pouvant simuler n'importe quelle maladie infectieuse, mais dont la particularité est l'absence de signes physiques. Parmi ces signes fonction­nels, la fièvre est présente, associée à un frisson, des courbatures, une asthénie et des céphalées.
 
-**
-![](image002.jpg)
-**
+**![](image002.jpg)**
 
 Le diagnostic positif repose sur un faisceau d'arguments :
 
-*   la notion de séjour permanent ou passager dans une zone d'endémicité palustre ;
-*   la présence de signes fonctionnels sans signes physiques évoquant une maladie définie ;
-*   la preuve biologique de l'infection peut être faite soit par une goutte épaisse, soit un frottis sanguin ou par un test de diagnostic rapide.
+- la notion de séjour permanent ou passager dans une zone d'endémicité palustre ;
+- la présence de signes fonctionnels sans signes physiques évoquant une maladie définie ;
+- la preuve biologique de l'infection peut être faite soit par une goutte épaisse, soit un frottis sanguin ou par un test de diagnostic rapide.
 
-Plusieurs médicaments sont utilisés pour le traitement du paludisme simple. Le _tableau 1_ indique les principaux médicaments utilisés pour le traitement du paludisme.
+Plusieurs médicaments sont utilisés pour le traitement du paludisme simple. Le *tableau 1* indique les principaux médicaments utilisés pour le traitement du paludisme.
 
-Avec la résistance des parasites du paludisme à certains antipaludiques et dans le but de protéger les dérivés d'artémisine, les combi­naisons thérapeutiques à base d'artémisine (CTA) sont recommandées dans les zones à forte densité palustre. Ces CTA associent un schizonticide à action rapide et un autre à action longue, et les plus utilisés sont les associations : Artémether - Luméfantrine et Artésunate - Amodiaquine. Les tableaux ci­après indiquent la posologie et la durée de trai­tement chez l'enfant. Les _tableaux 2 et 3_ indi­quent les deux principales CTA utilisées pour le traitement du paludisme simple.
+Avec la résistance des parasites du paludisme à certains antipaludiques et dans le but de protéger les dérivés d'artémisine, les combi­naisons thérapeutiques à base d'artémisine (CTA) sont recommandées dans les zones à forte densité palustre. Ces CTA associent un schizonticide à action rapide et un autre à action longue, et les plus utilisés sont les associations : Artémether - Luméfantrine et Artésunate - Amodiaquine. Les tableaux ci­après indiquent la posologie et la durée de trai­tement chez l'enfant. Les *tableaux 2 et 3* indi­quent les deux principales CTA utilisées pour le traitement du paludisme simple.
 
 Les conseils à prodiguer reposent sur l'utilisa­tion de moustiquaire imprégnée, l'observance médicamenteuse, le retour immédiat au centre de santé si aggravation de la maladie, l'impor­tance de la visite de suivi, la poursuite de l'alimentation pendant la maladie et l'hygiène du milieu de vie.
 
@@ -76,35 +72,35 @@ La description des formes graves de paludisme permet de sensibiliser les profess
 
 ## III. Le paludisme grave
 
-Le paludisme grave est une véritable urgence médicale que l'on devrait normalement éviter mais qui malheureusement survient suite à un retard de diagnostic et/ou à un retard de prise en charge du paludisme simple. Sa prévention représente le principal objectif de lutte des politiques sanitaires, il est dû au seul _Plasmo­dium falciparum_ qui touche les nourrissons, les enfants, les femmes enceintes et les per­sonnes venant d'une zone non endémique. Les mécanismes physiopathologiques ne sont pas clairement définis et beaucoup de théories sont émises.
+Le paludisme grave est une véritable urgence médicale que l'on devrait normalement éviter mais qui malheureusement survient suite à un retard de diagnostic et/ou à un retard de prise en charge du paludisme simple. Sa prévention représente le principal objectif de lutte des politiques sanitaires, il est dû au seul *Plasmo­dium falciparum* qui touche les nourrissons, les enfants, les femmes enceintes et les per­sonnes venant d'une zone non endémique. Les mécanismes physiopathologiques ne sont pas clairement définis et beaucoup de théories sont émises.
 
 Le paludisme grave est défini comme un accès palustre associé à des signes d'atteintes graves des organes qui menacent le pronostic vital. Sa prise en charge relève du domaine du méde­cin et le rôle de l'infirmier est de le reconnaître, d'assurer les soins urgents de pré-référence et de référer l'enfant vers un hôpital au plus vite et dans de bonnes conditions.
 
 La reconnaissance repose sur la présence d'un ou de plusieurs signes de gravité qui sont :
 
-*   la prostration : faiblesse telle que l'enfant ne puisse ni marcher ni s'asseoir;
-*   les troubles de la conscience : obnubilation ou coma ;
-*   la détresse respiratoire : modification du rythme respiratoire avec des signes de lutte (geignements, tirage, battement des ailes du nez, etc. ...) et une cyanose (coloration bleue de la peau et des muqueuses) ;
-*   les convulsions multiples ;
-*   le collapsus circulatoire : hypotension arté­rielle, peau froide et moite, pouls filant ;
-*   l'oligo-anurie : urines rares et concentrées avec une diurèse inférieure à 12 ml/kg/24h ;
-*   le saignement anormal : hémorragie pouvant siéger aux gencives, aux fosses nasales ou au tractus digestif ;
-*   l'ictère ;
-*   l'anémie sévère : pâleur palmaire et plantai­re avec respiration rapide ;
-*   les urines foncées (hémoglobinurie positive) ;
-*   l'hypoglycémie (taux glucose sanguin infé­rieur à 0,4 g/l).
+- la prostration : faiblesse telle que l'enfant ne puisse ni marcher ni s'asseoir;
+- les troubles de la conscience : obnubilation ou coma ;
+- la détresse respiratoire : modification du rythme respiratoire avec des signes de lutte (geignements, tirage, battement des ailes du nez, etc. ...) et une cyanose (coloration bleue de la peau et des muqueuses) ;
+- les convulsions multiples ;
+- le collapsus circulatoire : hypotension arté­rielle, peau froide et moite, pouls filant ;
+- l'oligo-anurie : urines rares et concentrées avec une diurèse inférieure à 12 ml/kg/24h ;
+- le saignement anormal : hémorragie pouvant siéger aux gencives, aux fosses nasales ou au tractus digestif ;
+- l'ictère ;
+- l'anémie sévère : pâleur palmaire et plantai­re avec respiration rapide ;
+- les urines foncées (hémoglobinurie positive) ;
+- l'hypoglycémie (taux glucose sanguin infé­rieur à 0,4 g/l).
 
-Les principaux signes cliniques du paludisme simple et du paludisme grave sont consignés dans le _tableau 4._
+Les principaux signes cliniques du paludisme simple et du paludisme grave sont consignés dans le *tableau 4.*
 
 La prise en charge doit être précoce afin d'éviter le décès ou les séquelles. Elle regroupe les soins de pré-références et l'organisation de la référence. Les soins de pré-références comportent :
 
-a) Les prélèvements indispensables pour faire une goutte épaisse, un hémogramme, une glycémie ;
+a\) Les prélèvements indispensables pour faire une goutte épaisse, un hémogramme, une glycémie ;
 
-b) la pose d'un abord veineux sûr ;
+b\) la pose d'un abord veineux sûr ;
 
-c) la mise en route d'une perfusion de quinine à raison de 10 mg/kg dans du sérum gluco­sé 10% 250 ml ;
+c\) la mise en route d'une perfusion de quinine à raison de 10 mg/kg dans du sérum gluco­sé 10% 250 ml ;
 
-d) le traitement symptomatique d'une fièvre (paracétamol 10 mg/kg) ou d'une convul­sion (diazépam 0,3 mg/kg).
+d\) le traitement symptomatique d'une fièvre (paracétamol 10 mg/kg) ou d'une convul­sion (diazépam 0,3 mg/kg).
 
 **Tableau 1 : principaux médicaments utilisés pour le traitement du paludisme.**
 
@@ -172,7 +168,7 @@ Nausées, vomissements, vertiges, troubles visuels
 
 <td style="width: 86px;" valign="top">
 
-Amodiaquine  
+Amodiaquine
 
 </td>
 
@@ -282,7 +278,7 @@ Troubles gastro­-intestinaux, allergie, anomalies hépatiques
 
 <td style="width: 86px;" valign="top">
 
-Quinine*
+Quinine\*
 
 </td>
 
@@ -376,11 +372,11 @@ Rare éruption cutané
 
 </table>
 
-_La quinine est réservée actuellement pour le traitement du paludisme grave._
+*La quinine est réservée actuellement pour le traitement du paludisme grave.*
 
 L'organisation de la référence se fera avec les parents et/ou les représentants de la commu­nauté dans la gestion de la formation sanitai­re. Cette référence se fera vers une structure médicale mieux équipée ; après avoir donné des informations claires aux parents sur la maladie de l'enfant, prévenu la structure d'accueil, rempli la fiche de référence et recherché un moyen de transport adéquat.
 
-## **Conclusion**
+## Conclusion
 
 Le paludisme reste une préoccupation majeure de santé de l'enfant africain vivant dans la zone subsaharienne, malgré les efforts consentis.
 
@@ -1016,4 +1012,4 @@ Acidoses sanguine (pH < 7,25)
 
 </table>
 
-_Développement et Santé, n°189, 2008_
+*Développement et Santé, n°189, 2008*

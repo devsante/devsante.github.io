@@ -8,7 +8,7 @@ Il n’y a pas de parasitoses spécifiques des enfants, les parasites atteignant
 
 Certaines parasitoses intestinales peuvent rester asymptomatiques, surtout quand l’infestation est faible (trichocéphales) alors que d’autres peuvent provoquer des troubles digestifs et généraux sévères en cas d’infestation massive (occlusion due à  l’ascaridiose, anémie due à l’ankylostomose).
 
-Les parasitoses intestinales de l’enfant sont soit cosmopolites et donc retrouvées chez les enfants n’ayant jamais quitté la métropole (oxyures, _Ascaris_, _Giardia_), soit uniquement tropicales (amibes, anguillules, ankylostomes, schistosomes), et constatées en zone tropicales et rencontrées en France chez les enfants migrants (Tableau I).
+Les parasitoses intestinales de l’enfant sont soit cosmopolites et donc retrouvées chez les enfants n’ayant jamais quitté la métropole (oxyures, *Ascaris*, *Giardia*), soit uniquement tropicales (amibes, anguillules, ankylostomes, schistosomes), et constatées en zone tropicales et rencontrées en France chez les enfants migrants (Tableau I).
 
 <table>
 <caption>Tableau I. Principales parasitoses intestinales infantiles (* parasitoses rares)</caption>
@@ -136,11 +136,11 @@ Anguillules
 
 60 000
 
--
+\-
 
 30 000
 
--
+\-
 
 50 000
 

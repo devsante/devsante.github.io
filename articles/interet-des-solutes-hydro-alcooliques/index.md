@@ -39,13 +39,12 @@ La contagiosité du VRS est extrême, à la fois par contact direct (contagion m
 
 L’inactivation a été montrée de la même manière sur de nombreux virus épidémiques :  hépatite A, rhinovirus, virus influenzae H1N1, norovirus, calicivirus, adenovirus type 5, poliovirus type 1. 
 
-###   
-Bactéries
+### Bactéries
 
 Pour ce type de germe, la transmission se fait essentiellement par contact direct : mains, surfaces, objets.  
 La particularité est que souvent ces germes sont devenus multirésistants aux antibiotiques, surtout en milieu hospitalier.  
-Surinfection postopératoire par _Staphylococcus aureus_, _Pseudomonas aeruginosa_ et _Enterococcus_ : dans ces cas-là aussi, l’emploi des solutés hydro-alcooliques donne de bons résultats, y compris lorsque l’hygiène de l’eau est problématique.  
-Des études de bactéricidie ont montré l’efficacité des solutés hydro-alcooliques sur les germes les plus souvent rencontrés en milieu hospitalier, notamment : _Staphylococcus aureus_, _Pseudomonas aeruginosa_, _Enterococcus_, _Escherichia coli_, ainsi que sur _Salmonella enterica_. La destruction des germes a été obtenue après quelques minutes de contact.
+Surinfection postopératoire par *Staphylococcus aureus*, *Pseudomonas aeruginosa* et *Enterococcus* : dans ces cas-là aussi, l’emploi des solutés hydro-alcooliques donne de bons résultats, y compris lorsque l’hygiène de l’eau est problématique.  
+Des études de bactéricidie ont montré l’efficacité des solutés hydro-alcooliques sur les germes les plus souvent rencontrés en milieu hospitalier, notamment : *Staphylococcus aureus*, *Pseudomonas aeruginosa*, *Enterococcus*, *Escherichia coli*, ainsi que sur *Salmonella enterica*. La destruction des germes a été obtenue après quelques minutes de contact.
 
 ## Tolérance
 

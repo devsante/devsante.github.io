@@ -6,20 +6,20 @@ date: "2014-09-05"
 
 ## Introduction
 
-L’excision - mutilations sexuelles féminines (MSF) – est définie par l’Organisation Mondiale de la Santé comme « toutes les interventions incluant l’ablation partielle ou totale des organes génitaux externes de la femme ou autre lésion des organes génitaux féminins pratiquées pour des raisons non médicales [1].
+L’excision - mutilations sexuelles féminines (MSF) – est définie par l’Organisation Mondiale de la Santé comme « toutes les interventions incluant l’ablation partielle ou totale des organes génitaux externes de la femme ou autre lésion des organes génitaux féminins pratiquées pour des raisons non médicales \[1\].
 
-On estime à plus de 125 millions le nombre de jeunes filles et de femmes victimes de mutilations sexuelles qui sont pratiquées dans 29 pays d’Afrique et du Moyen-Orient, régions où ces pratiques sont concentrées. Trente millions de filles sont exposées au risque d’être excisées d’ici à la prochaine décennie [2].
+On estime à plus de 125 millions le nombre de jeunes filles et de femmes victimes de mutilations sexuelles qui sont pratiquées dans 29 pays d’Afrique et du Moyen-Orient, régions où ces pratiques sont concentrées. Trente millions de filles sont exposées au risque d’être excisées d’ici à la prochaine décennie \[2\].
 
-En France, on estime que le nombre de femmes excisées se situe entre 42 000 et 61 000 [3].  
+En France, on estime que le nombre de femmes excisées se situe entre 42 000 et 61 000 \[3\].  
 L’impact des MSF sur la sexualité est potentiellement complexe, car il fait intervenir :
 
-*   Une réduction anatomique du clitoris, avec ses conséquences directes sur l’orgasme, mais également sur le désir, l’excitation et la lubrification de façon indirecte.  
-*   Une réduction symbolique, avec un impact sur l’identité féminine, l’image du corps, de la féminité, et de soi.  
-*   Une composante de violence pouvant engendrer un stress post-traumatique.  
-*   Une douleur possible lors des relations sexuelles, liée à la cicatrice.
+- Une réduction anatomique du clitoris, avec ses conséquences directes sur l’orgasme, mais également sur le désir, l’excitation et la lubrification de façon indirecte.
+- Une réduction symbolique, avec un impact sur l’identité féminine, l’image du corps, de la féminité, et de soi.
+- Une composante de violence pouvant engendrer un stress post-traumatique.
+- Une douleur possible lors des relations sexuelles, liée à la cicatrice.
 
 En France, depuis 1979, les mutilations relèvent de l’article 222 du Code Pénal sur les violences. Les autorités françaises ont mis en place un protocole de chirurgie réparatrice remboursé par l’Assurance Maladie pour les femmes et les jeunes filles qui ont subi une MSF et qui en souffrent.  
-Notre étude se propose de faire une revue de la littérature des résultats issus de la prise en charge chirurgicale des MSF réalisée en France (Angers et Paris) et au Burkina Faso [4, 5, 6].
+Notre étude se propose de faire une revue de la littérature des résultats issus de la prise en charge chirurgicale des MSF réalisée en France (Angers et Paris) et au Burkina Faso \[4, 5, 6\].
 
 ## I. Prise en charge globale des MSF
 
@@ -29,7 +29,7 @@ La mise en place de la chirurgie réparatrice des MSF nécessite une consultatio
 
 ### Rappel de la technique de la reconstruction clitoridienne
 
-La technique chirurgicale est un procédé de reconstruction du clitoris après excision rituelle, élaboré par le Dr P. FOLDES. Elle repose sur le fait que le clitoris est beaucoup plus long qu’on ne le pense (il se prolonge sur plus de 10 cm le long de l'os pubien [7, 8]), et l’intervention consiste à remettre à jour la partie enfouie, à libérer les ligaments qui la retiennent au pubis et à la remettre à sa place pour former un nouveau gland tout à fait sensible.
+La technique chirurgicale est un procédé de reconstruction du clitoris après excision rituelle, élaboré par le Dr P. FOLDES. Elle repose sur le fait que le clitoris est beaucoup plus long qu’on ne le pense (il se prolonge sur plus de 10 cm le long de l'os pubien \[7, 8\]), et l’intervention consiste à remettre à jour la partie enfouie, à libérer les ligaments qui la retiennent au pubis et à la remettre à sa place pour former un nouveau gland tout à fait sensible.
 
 #### La technique opératoire se déroule en plusieurs étapes
 
@@ -39,8 +39,8 @@ La région excisée est parfois porteuse d’une cicatrice irrégulière, voire 
 **Etape 2 : Section du ligament suspenseur et libération du genou clitoridien**  
 Il s’agit de :
 
-*   dégager le triangle vulvaire,
-*   libérer le genou clitoridien pratiqué très près du périoste, et suivre une bifurcation divergente qui amène aux corps clitoridiens, lesquels descendent le long des branches ischio-pubiennes.
+- dégager le triangle vulvaire,
+- libérer le genou clitoridien pratiqué très près du périoste, et suivre une bifurcation divergente qui amène aux corps clitoridiens, lesquels descendent le long des branches ischio-pubiennes.
 
 **Etape 3 : Libération du corps clitoridien**  
 Une libération complète s’obtient par une poursuite de la dissection le long de la branche ischio-pubienne, en dégageant progressivement le corps, qui mesure huit centimètres environ.
@@ -52,17 +52,17 @@ La recoupe en zone saine laisse apparaître les corps caverneux au raphé média
 **Etape 5 : Reconstitution du gland et réimplantation**  
 Elle consiste à :
 
-*   préserver le pédicule dorsal en reconstituant un néo-gland par un hémi surjet en avant du clitoris par le vicryl 3/0 et par un point en arrière du clitoris par du vicryl 2/0, ce qui permet de repositionner le gland reconstitué dans sa situation normale.  
-*   adosser des muscles bulbo-caverneux par des points simples au vicryl 2/0 afin d’éviter toute réascension du clitoris.  
-*   fermer la peau par points séparés simples au vicryl 2/0 sans drainage.  
-*   réaliser une infiltration sous cutanée d’un anesthésique local (Naropéine + clonidine) pour les douleurs postopératoires.
+- préserver le pédicule dorsal en reconstituant un néo-gland par un hémi surjet en avant du clitoris par le vicryl 3/0 et par un point en arrière du clitoris par du vicryl 2/0, ce qui permet de repositionner le gland reconstitué dans sa situation normale.
+- adosser des muscles bulbo-caverneux par des points simples au vicryl 2/0 afin d’éviter toute réascension du clitoris.
+- fermer la peau par points séparés simples au vicryl 2/0 sans drainage.
+- réaliser une infiltration sous cutanée d’un anesthésique local (Naropéine + clonidine) pour les douleurs postopératoires.
 
 **Autres situations : Prise en charge chirurgicale des MSF de type 3 (infibulation)**  
 Elle consiste à réséquer la fermeture vulvaire sur une sonde cannelée afin de découvrir en dessous l’entrée vaginale et le méat urinaire et parfois les petites lèvres et le clitoris quand ils n’ont pas été sectionnés. Dans le cas où le clitoris a été sectionné, on peut réaliser une reconstruction clitoridienne selon la technique décrite ci-dessus.
 
 ## II. Résultats
 
-Trois études réalisées au Burkina Faso et en France (Angers et Paris) ont permis d’évaluer les résultats immédiats et à long terme de la chirurgie réparatrice [6, 4, 5]. Les résultats fonctionnels (douleur pendant ou en dehors des rapports sexuels et plaisir clitoridien), et les résultats anatomiques (présence du néoclitoris) ont été évalués à l’aide d’une grille établie par le docteur Foldes [9].
+Trois études réalisées au Burkina Faso et en France (Angers et Paris) ont permis d’évaluer les résultats immédiats et à long terme de la chirurgie réparatrice \[6, 4, 5\]. Les résultats fonctionnels (douleur pendant ou en dehors des rapports sexuels et plaisir clitoridien), et les résultats anatomiques (présence du néoclitoris) ont été évalués à l’aide d’une grille établie par le docteur Foldes \[9\].
 
 ### 1. Evaluation préopératoire de la douleur
 
@@ -90,7 +90,7 @@ Douleur
 <th scope="col">
 
 Ouedraogo 2013  
-[N, %]
+\[N, %\]
 
 N = 94
 
@@ -99,7 +99,7 @@ N = 94
 <th scope="col">
 
 Foldes 2012  
-[N, %]
+\[N, %\]
 
 N = 840
 
@@ -201,7 +201,7 @@ Plaisir clitoridien
 <th scope="col">
 
 Ouedraogo 2013  
-[N, %]  
+\[N, %\]  
 N = 94
 
 </th>
@@ -209,7 +209,7 @@ N = 94
 <th scope="col">
 
 Foldes 2012  
-[N, %]  
+\[N, %\]  
 N = 840
 
 </th>
@@ -520,31 +520,31 @@ L’analyse de Foldes a consisté à comparer la douleur et le plaisir clitoridi
 
 Les résultats sur le plaisir clitoridien montrent que :
 
-*   sur 368 femmes/841 qui n’avait jamais eu de plaisir clitoridien en préopératoire, 88 femmes, soit 24 %, ont éprouvé un orgasme restreint et 41 femmes, soit 11 %, un orgasme régulier en postopératoire [5].  
-*   sur 97 femmes qui ont présenté un orgasme restreint avant la chirurgie réparatrice, 51 femmes, soit 52 %, ont rapporté avoir un orgasme régulier [5].  
-*   12 des 53 patientes (23 %) qui avaient eu régulièrement des orgasmes avant l’opération ont signalé une réduction de ceux-ci après l’opération [5].
+- sur 368 femmes/841 qui n’avait jamais eu de plaisir clitoridien en préopératoire, 88 femmes, soit 24 %, ont éprouvé un orgasme restreint et 41 femmes, soit 11 %, un orgasme régulier en postopératoire \[5\].
+- sur 97 femmes qui ont présenté un orgasme restreint avant la chirurgie réparatrice, 51 femmes, soit 52 %, ont rapporté avoir un orgasme régulier \[5\].
+- 12 des 53 patientes (23 %) qui avaient eu régulièrement des orgasmes avant l’opération ont signalé une réduction de ceux-ci après l’opération \[5\].
 
-Sur le plan de la douleur, parmi les 486 patientes qui n’avaient pas de douleur avant la réparation, 8 (2 %) ont signalé de l’inconfort et 1(< 1 %) une douleur [5].
+Sur le plan de la douleur, parmi les 486 patientes qui n’avaient pas de douleur avant la réparation, 8 (2 %) ont signalé de l’inconfort et 1(< 1 %) une douleur \[5\].
 
 **Le bénéfice apporté par la reconstruction clitoridienne**
 
-Foldes a trouvé que 2933 (99%) des 2938 femmes colligées ont eu une récupération identitaire (sensation de se sentir entière et de retrouver une autonomie personnelle en rejetant  la mutilation physique qui leur a été imposée par les membres de leur communauté [10]) et 2378 (81%) des femmes ont eu une amélioration de leur vie sexuelle [5].
+Foldes a trouvé que 2933 (99%) des 2938 femmes colligées ont eu une récupération identitaire (sensation de se sentir entière et de retrouver une autonomie personnelle en rejetant  la mutilation physique qui leur a été imposée par les membres de leur communauté \[10\]) et 2378 (81%) des femmes ont eu une amélioration de leur vie sexuelle \[5\].
 
-La chirurgie reconstructrice a été acceptée dans l’étude réalisée par Ouedraogo car 100% des patientes étaient satisfaites quant à l’intégrité physique du clitoris retrouvée. Aussi, 98,9 % recommanderaient l’intervention à leur entourage féminin victime de mutilation et 91,5 % referaient l’intervention si  elle était à refaire [6].
+La chirurgie reconstructrice a été acceptée dans l’étude réalisée par Ouedraogo car 100% des patientes étaient satisfaites quant à l’intégrité physique du clitoris retrouvée. Aussi, 98,9 % recommanderaient l’intervention à leur entourage féminin victime de mutilation et 91,5 % referaient l’intervention si  elle était à refaire \[6\].
 
 ## Conclusion
 
-Les mutilations sexuelles féminines sont internationalement considérées comme une violation des droits des jeunes filles et des femmes [1]. La prise en charge chirurgicale des séquelles issues de ces  mutilations permet une réhabilitation de la femme sur le plan juridique, anatomique, sensoriel, sexuel et psychologique, une réduction de la douleur, une prévention des complications obstétricales et une participation à la lutte contre les pratiques de mutilation (les femmes qui ont été opérées sont les militantes de la lutte contre l’excision). Il est important que les professionnels de santé soient formés à la prise en charge des séquelles de l’excision et qu’il y ait une accessibilité (géographique, financière) à cette prise en charge pour les femmes qui en sont victimes.
+Les mutilations sexuelles féminines sont internationalement considérées comme une violation des droits des jeunes filles et des femmes \[1\]. La prise en charge chirurgicale des séquelles issues de ces  mutilations permet une réhabilitation de la femme sur le plan juridique, anatomique, sensoriel, sexuel et psychologique, une réduction de la douleur, une prévention des complications obstétricales et une participation à la lutte contre les pratiques de mutilation (les femmes qui ont été opérées sont les militantes de la lutte contre l’excision). Il est important que les professionnels de santé soient formés à la prise en charge des séquelles de l’excision et qu’il y ait une accessibilité (géographique, financière) à cette prise en charge pour les femmes qui en sont victimes.
 
-_**Références bibliographiques**_
+***Références bibliographiques***
 
-1. Organisation Mondiale de la Santé. Mutilations sexuelles féminines. Aide -mémoire N°241, Février 2014 : [http://www.who.int/mediacentre/factsheets/fs241/fr/](http://www.who.int/mediacentre/factsheets/fs241/fr/ "http://www.who.int/mediacentre/factsheets/fs241/fr/"). Consulté le 26 juin 2014.  
-2. http://www.unicef.org/media/files/FGCM_Lo_res.pdf. consulté le 20 juin 2014.  
-3. Andro A, Lesclingand M. Les mutilations sexuelles féminines : le point sur la situation en Afrique et en France. Population et sociétés, Ined, numéro 438 octobre 2007.  
-4. Madzou S, Henry - Latrouite E,Sentilhes L, Descamps P. Réparation chirurgicale des mutilations sexuelles féminines (à partir d'une série de 123 cas). XIeme congrès de la Société Française de Gynécologie et Obstétrique (SAGO) ; 2011 Dec 24-28, Libreville, Gabon.  
-5. Foldès P, Cuzin B, Andro A. Reconstructive surgery after female genital mutilation: a prospective cohort study. Lancet 2012 Jul 14; 380(9837):134 - 41.  
-6. Ouédraogo CM, Madzou S, Touré B, Ouédraogo A, Ouédraogo S, Lankoandé J. Practice of reconstructive plastic surgery of the clitoris after genital mutilation in Burkina Faso. Report of 94 cases. Ann Chir Plast Esthet. 2013 Jun; 58(3):208-15  
-7. O'Connell HE1, Sanjeevan KV, Hutson JM. Anatomy of the clitoris. J Urol. 2005 Oct; 174 (4 Pt 1):1189 - 95.  
-8. O'Connell HE, Hutson JM, Anderson CR, Plenter RJ. Anatomical relationship between urethra and clitoris. J Urol. 1998 Jun; 159(6):1892-7.  
-9. Foldes P, Louis-Sylvestre C. Results of surgical repair after ritual excision: 453 cases: Gynecol Obstet Fertil.2006 dec; 34 (12):1137-41.  
-10. Johnsdotter S, Essen B. Sexual health among young Somali women in Sweden: living with conflicting culturally determined sexual ideologies. International Network to Analyze, Communicate and Transform the Campaign against Female Genital Cutting, Female Genital Mutilation, Female Circumcision (INTACT) conference; Alexandria, Egypt; Oct 10–12, 2004. [http://www.mbali.info/doc311.htm](http://www.mbali.info/doc311.htm "http://www.mbali.info/doc311.htm"). consulté le 23 juin 2014.
+1.  Organisation Mondiale de la Santé. Mutilations sexuelles féminines. Aide -mémoire N°241, Février 2014 : [<http://www.who.int/mediacentre/factsheets/fs241/fr/>](http://www.who.int/mediacentre/factsheets/fs241/fr/ "http://www.who.int/mediacentre/factsheets/fs241/fr/"). Consulté le 26 juin 2014.
+2.  <http://www.unicef.org/media/files/FGCM_Lo_res.pdf>. consulté le 20 juin 2014.
+3.  Andro A, Lesclingand M. Les mutilations sexuelles féminines : le point sur la situation en Afrique et en France. Population et sociétés, Ined, numéro 438 octobre 2007.
+4.  Madzou S, Henry - Latrouite E,Sentilhes L, Descamps P. Réparation chirurgicale des mutilations sexuelles féminines (à partir d'une série de 123 cas). XIeme congrès de la Société Française de Gynécologie et Obstétrique (SAGO) ; 2011 Dec 24-28, Libreville, Gabon.
+5.  Foldès P, Cuzin B, Andro A. Reconstructive surgery after female genital mutilation: a prospective cohort study. Lancet 2012 Jul 14; 380(9837):134 - 41.
+6.  Ouédraogo CM, Madzou S, Touré B, Ouédraogo A, Ouédraogo S, Lankoandé J. Practice of reconstructive plastic surgery of the clitoris after genital mutilation in Burkina Faso. Report of 94 cases. Ann Chir Plast Esthet. 2013 Jun; 58(3):208-15
+7.  O'Connell HE1, Sanjeevan KV, Hutson JM. Anatomy of the clitoris. J Urol. 2005 Oct; 174 (4 Pt 1):1189 - 95.
+8.  O'Connell HE, Hutson JM, Anderson CR, Plenter RJ. Anatomical relationship between urethra and clitoris. J Urol. 1998 Jun; 159(6):1892-7.
+9.  Foldes P, Louis-Sylvestre C. Results of surgical repair after ritual excision: 453 cases: Gynecol Obstet Fertil.2006 dec; 34 (12):1137-41.
+10. Johnsdotter S, Essen B. Sexual health among young Somali women in Sweden: living with conflicting culturally determined sexual ideologies. International Network to Analyze, Communicate and Transform the Campaign against Female Genital Cutting, Female Genital Mutilation, Female Circumcision (INTACT) conference; Alexandria, Egypt; Oct 10–12, 2004. [<http://www.mbali.info/doc311.htm>](http://www.mbali.info/doc311.htm "http://www.mbali.info/doc311.htm"). consulté le 23 juin 2014.

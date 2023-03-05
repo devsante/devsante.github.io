@@ -18,13 +18,13 @@ date: "2006-03-16"
 
 Disposer d'un méthode d'évaluation de la dou­leur et du soulagement nous parait présenter de nombreux avantages en pratique courante :
 
-*   identification systématique des malades présentant une douleur car beaucoup de malades douloureux ne se plaignent pas spontanément ;
-*   améliorer la qualité de la relation médecin­malade en montrant au malade que l'on croit à sa plainte et que l'on ne le suspecte pas de majorer ou d'inventer sa douleur ;
-*   faciliter les prises de décisions de traitements symptomatiques analgésiques adaptés à l'intensité de la douleur (titration des doses efficaces de morphine orale au cours des douleurs cancéreuses par exemple) ;
-*   permettre aux différents membres de l'équi­pe soignante d'utiliser des critères communs, ce qui facilite les prises de décisions homo­gènes au sein de l'équipe ;
-*   permettre la transmission de l'information entre le malade et les soignants, entre les différents membres de l'équipe ;
-*   transcrire les informations devant figurer dans le dossier du malade, la réponse aux thérapeutiques antérieures ne dépendant plus uniquement du souvenir du malade ou des soignants,
-*   l'évaluation systématique et régulière qui aide à mieux soulager la douleur, ce qui est un des éléments essentiels de la qualité des soins.
+- identification systématique des malades présentant une douleur car beaucoup de malades douloureux ne se plaignent pas spontanément ;
+- améliorer la qualité de la relation médecin­malade en montrant au malade que l'on croit à sa plainte et que l'on ne le suspecte pas de majorer ou d'inventer sa douleur ;
+- faciliter les prises de décisions de traitements symptomatiques analgésiques adaptés à l'intensité de la douleur (titration des doses efficaces de morphine orale au cours des douleurs cancéreuses par exemple) ;
+- permettre aux différents membres de l'équi­pe soignante d'utiliser des critères communs, ce qui facilite les prises de décisions homo­gènes au sein de l'équipe ;
+- permettre la transmission de l'information entre le malade et les soignants, entre les différents membres de l'équipe ;
+- transcrire les informations devant figurer dans le dossier du malade, la réponse aux thérapeutiques antérieures ne dépendant plus uniquement du souvenir du malade ou des soignants,
+- l'évaluation systématique et régulière qui aide à mieux soulager la douleur, ce qui est un des éléments essentiels de la qualité des soins.
 
 L'absence de moyens définis pour évaluer l'intensité de la douleur expose au risque de la sous-estimer, de la méconnaître ou de ne pas la croire.
 
@@ -32,19 +32,19 @@ L'absence de moyens définis pour évaluer l'intensité de la douleur expose au 
 
 Les problèmes posés par l'évaluation de la douleur rejoignent en fait ceux de tout autre phénomène subjectif, par exemple l'anxiété, la dépression et la qualité de vie.
 
-Une première règle est d'accepter que le malade soit en dernière analyse le seul véritable expert _pour apprécier l'intensité d'une douleur._
+Une première règle est d'accepter que le malade soit en dernière analyse le seul véritable expert *pour apprécier l'intensité d'une douleur.*
 
 Cela ne veut pas dire qu'il faut considérer que la plainte reflète de façon fiable et univoque une cause nociceptive. La notion de douleur laisse la place à des mécanismes variés et donne une place aux possibles facteurs psychologiques associés. Croire a priori la plainte du malade a l'intérêt de largement favoriser une relation médecin-malade de qualité.
 
 Divers facteurs peuvent conduire les patients à ne pas exprimer leur douleur ou à refuser un traitement antalgique, opioïde en particulier. Il peut s'agir de croyances, de craintes ou de désirs :
 
-*   idée que la douleur est inévitable, ou que le traitement doit être réservé aux douleurs intolérables ;
-*   crainte que le traitement utilisé "trop tôt" perde son efficacité (accoutumance) ;
-*   crainte des effets secondaires et de la dépendance aux opioïdes ;
-*   crainte que le traitement opioïde précipite l'évolution ;
-*   désir de se montrer vaillant face à la douleur ;
-*   crainte de mettre le médecin en difficulté en lui signifiant que le traitement n'est pas efficace ;
-*   volonté de ne pas alarmer les proches.
+- idée que la douleur est inévitable, ou que le traitement doit être réservé aux douleurs intolérables ;
+- crainte que le traitement utilisé "trop tôt" perde son efficacité (accoutumance) ;
+- crainte des effets secondaires et de la dépendance aux opioïdes ;
+- crainte que le traitement opioïde précipite l'évolution ;
+- désir de se montrer vaillant face à la douleur ;
+- crainte de mettre le médecin en difficulté en lui signifiant que le traitement n'est pas efficace ;
+- volonté de ne pas alarmer les proches.
 
 Toutes ces variables peuvent masquer la plain­te spontanée. En outre, les douleurs n'indui­sent pas nécessairement des comportements spécifiques de douleur. L'évaluation s'appuie essentiellement sur ce que dit le patient et elle doit être systématique dans le suivi du malade cancéreux.
 
@@ -54,7 +54,8 @@ Enfin, les soi­gnants peuvent éviter d'aborder clairement le problème de la d
 
 Il est essentiel d'encourager le patient à com­muniquer de manière détaillée ce qu'il ressent. Le médecin doit considérer a priori que l'in­tensité de la douleur n'est pas celle qu'il suppose mais celle que le patient rapporte.
 
-## III. Comment évaluer l'intensité de la douleur  
+## III. Comment évaluer l'intensité de la douleur
+
 en pratique quotidienne ?
 
 Les informations disponibles pour évaluer l'intensité d'une douleur sont le rapport verbal du patient (auto-évaluation) ou l'observation de son comportement (hétéro-évaluation). Évaluer "objectivement" une plainte ou un comportement est effectivement envisageable si l'on n'exige pas de l'évaluation des objectifs qû elle ne peut atteindre. Notamment, il faut clairement expliciter que les méthodes dispo­nibles permettent d'indiquer qu'il y a une plain­te de douleur, mais elles ne peuvent en aucun cas présumer de la cause de cette plainte et faire la part de l'organique et du psycholo­gique. Le problème posé est de recueillir l'information dans des conditions le plus stan­dardisées possible avec un instrument valide, reproductible, sensible aux thérapeutiques. Dans l'état actuel des connaissances, contrai­rement aux conditions du laboratoire, on ne dispose ni d'un moyen de mesure du stimulus responsable de la douleur pathologique, ni d'un marqueur neurobiologique valide.
@@ -71,13 +72,9 @@ L'EVS, dans sa présentation la plus usuelle, est constituée par 4 ou 5 catégo
 
 L'EVA dans sa forme habituelle, se présente sous la forme d'une ligne horizontale de 100 millimètres, orientée de gauche à droite. Les deux extrémités de la ligne sont définies par exemple, par "douleur - absente", "douleur maximale imaginable". Le patient répond en traçant une croix sur la ligne. La distance entre la position du trait et l'extrémité "douleur absente" sert d'indice numérique pour le trai­tement des données. La mesure s'effectue au millimètre près.
 
-
 ![](image002-eva-dlr-aigue-n-191-2.jpg)
 
-
-
 ![](image004.jpg)
-
 
 Les échelles "globales", (EVS, EN, EVA) ont l'avantage d'être simples, rapides à remplir, ce qui permet des mesures répétées, rappro­chées, intéressantes pour étudier la réponse à un traitement analgésique. Pour la pratique quotidienne, l'échelle numérique a l'avantage de ne pas nécessiter de support particulier (papier ou réglette), ce qui est un avantage certain à la généralisation de l'évaluation sys­tématique de la douleur. Intégrée à l'interroga­toire, l'échelle numérique aide à préciser les niveaux de douleur dans diverses activités de la vie courante (repos, marche, position assise...) et lors de l'examen lors des manoeuvres de provocation de la douleur. Elle permet égale­ment de faire une feuille de surveillance de la douleur.
 
@@ -86,9 +83,7 @@ Les échelles "globales", (EVS, EN, EVA) ont l'avantage d'être simples, rapides
 Echelle de visages - on dit à l'enfant : "Voici des bonshommes qui ont mal. Montre le visage qui a autant mal que toi".  
 Au dos de la règle apparaît la cotation en chiffre : 0, 2, 4, 6, 8, 10 en douleur croissante.
 
-
 ![](image004-dlr-aigue-eval-enfant-n-191-2.jpg)
-
 
 ### 2. Autres méthodes
 
@@ -108,13 +103,11 @@ Dans ces situations, l'observation du compor­tement du malade donne les informa
 
 **En pratique**, lorsqu'il n'est pas possible de communiquer avec le malade, il faut :
 
-*   interroger l'entourage sur l'existence de com­portements douloureux (expression faciale, attitudes antalgiques, gémissements...), leur apparition spontanée, provoquée par des soins ou par la mobilisation ;
-*   savoir confier l'observation du malade à une personne de l'entourage (membre de la famil­le, de l'équipe soignante).
+- interroger l'entourage sur l'existence de com­portements douloureux (expression faciale, attitudes antalgiques, gémissements...), leur apparition spontanée, provoquée par des soins ou par la mobilisation ;
+- savoir confier l'observation du malade à une personne de l'entourage (membre de la famil­le, de l'équipe soignante).
 
 Au terme d'une évaluation globale du malade, il sera possible de combiner diverses stratégies thérapeutiques adaptées à la symptomatologie douloureuse. L'évaluation de l'intensité de la douleur systématique, régulière, continue, est indispensable lors de l'adaptation d'un traite­ment antalgique notamment morphinique. Une évaluation commune à l'équipe, figurant dans le dossier, tenue à jour, est valable à l'hôpital comme au domicile et implique une collaboration étroite de chaque intervenant d'une équipe soignante.
 
-
 ![](image006.jpg)
 
-
-_Développement et Santé, n°183, 2006_
+*Développement et Santé, n°183, 2006*

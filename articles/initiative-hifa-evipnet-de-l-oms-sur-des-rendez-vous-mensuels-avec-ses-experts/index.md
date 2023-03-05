@@ -8,7 +8,7 @@ date: "2015-01-30"
 
 HIFA-EVIPNet-French est un forum international de l’Organisation Mondiale de la Santé pour l’ensemble des pays francophones permettant de soutenir, promouvoir et renforcer la prise de décision et reposant sur des bases factuelles, et ainsi faciliter l’amélioration de la formulation des politiques de santé.
 
-Il est fondé sur l’information en santé pour tous et sur le réseau de l’Organisation Mondiale de la Santé sur la prise de décision reposant sur des bases factuelles, appelé EVIPNet ([www.who.int/evidence](http://www.who.int/evidence "www.who.int/evidence"))
+Il est fondé sur l’information en santé pour tous et sur le réseau de l’Organisation Mondiale de la Santé sur la prise de décision reposant sur des bases factuelles, appelé EVIPNet ([[www.who.int/evidence](http://www.who.int/evidence)](http://www.who.int/evidence "www.who.int/evidence"))
 
 ## II. Présentation des rendez-vous mensuels HIFA-EVIPNet
 
@@ -16,10 +16,10 @@ Depuis septembre 2014, nous mettons en place des rendez-vous mensuels sur une li
 
 La sélection des thématiques a été établie en tenant compte à la fois :
 
-*   des attentes des membres du forum HIFA-EVIPNET ;
-*   de l'actualité générale des évènements de santé (journées mondiales, OMD, etc...) ;
-*   des priorités de santé publique,
-*   de la capacité de l'OMS à s'impliquer sur ces thématiques.
+- des attentes des membres du forum HIFA-EVIPNET ;
+- de l'actualité générale des évènements de santé (journées mondiales, OMD, etc...) ;
+- des priorités de santé publique,
+- de la capacité de l'OMS à s'impliquer sur ces thématiques.
 
 Par ailleurs, le séquencement des thématiques a été projeté dans un esprit holistique, c'est-à-dire en privilégiant une vision des problématiques de santé globale plutôt que fragmentée ou cloisonnée, et un esprit logique où le positionnement des différents rendez-vous permettra une construction progressive des débats. Les conclusions de certains rendez-vous devront être utiles voire indispensables pour des débats ultérieurs.
 
@@ -35,9 +35,9 @@ L'implication d'organisations partenaires facilitera également l'expression des
 
 Le projet de rendez-vous mensuels HIFA-EVIPNet a pour principaux objectifs :
 
-*   de valoriser l'expertise et l'action de l'OMS ainsi que de ses partenaires sur l'ensemble des thématiques traitées ;
-*   de favoriser l'expression des acteurs de santé francophones ;
-*   d'affiner des stratégies opérationnelles ou de communication en fonction des retours d'expérience.
+- de valoriser l'expertise et l'action de l'OMS ainsi que de ses partenaires sur l'ensemble des thématiques traitées ;
+- de favoriser l'expression des acteurs de santé francophones ;
+- d'affiner des stratégies opérationnelles ou de communication en fonction des retours d'expérience.
 
 Un très grand nombre de recommandations ont été produites dans la santé, et ceci par un grand nombre d'acteurs. Cependant, beaucoup d’entre elles sont relativement mal connues, sous-utilisées ou partiellement voire pas mises en œuvre, certaines actions probantes sont sous-valorisées. Enfin, il y a parfois des contradictions ou de mauvaises interconnections entre toutes les recommandations.
 
@@ -48,6 +48,6 @@ Un premier rendez-vous HIFA-EVIPNet est prévu en septembre sur la sécurité de
 
 Enfin, au travers de ces rencontres mensuelles, nous pouvons envisager de développer des actions spécifiques sur des sujets qui mériteraient d'être approfondis avec les différents partenaires.
 
-Si vous avez des questions sur le déroulement de ce rendez-vous mensuel, vous pouvez prendre directement contact à l’adresse suivante : [hugueti@who.int](mailto:hugueti@who.int), Isabelle HUGUET-WACHSMUTH, gestionnaire du forum HIFA-EVIPNet.
+Si vous avez des questions sur le déroulement de ce rendez-vous mensuel, vous pouvez prendre directement contact à l’adresse suivante : [<hugueti@who.int>](mailto:hugueti@who.int), Isabelle HUGUET-WACHSMUTH, gestionnaire du forum HIFA-EVIPNet.
 
-Pour s'inscrire au forum HIFA-EVIPNet francophone : [http://www.hifa2015.org/hifa-evipnet-francais/join-hifa-evipnet-francais/](http://www.hifa2015.org/hifa-evipnet-francais/join-hifa-evipnet-francais/ "http://www.hifa2015.org/hifa-evipnet-francais/join-hifa-evipnet-francais/")
+Pour s'inscrire au forum HIFA-EVIPNet francophone : [<http://www.hifa2015.org/hifa-evipnet-francais/join-hifa-evipnet-francais/>](http://www.hifa2015.org/hifa-evipnet-francais/join-hifa-evipnet-francais/ "http://www.hifa2015.org/hifa-evipnet-francais/join-hifa-evipnet-francais/")

@@ -14,13 +14,13 @@ Ce programme est composé des deux étapes :
 
 ### 1. Une séance d'éducation thérapeutique en groupe
 
-Une première étape consiste à réunir un groupe de patients pour leur transmettre une **information préalable à la mise sous ARV.** Les patients qui participent à ce groupe sont en général suivis depuis quelque temps au CESAC, et remplissent les critères d'inclusion bio-cliniques pour une mise sous traitement. Cette séance, d'une durée de 2 heures environ, est basée sur la transmission de connaissances sur le VIH et la prise des ARV _(cf. tableau_ _1_ des deuxmodules composant cette première séance). Les informations transmises sont illustrées à l'aide de schémas (utilisant des métaphores) permettant aux patients de comprendre la dynamique et l'évolution de l'infection. Les messages "clés" à retenir sont régulièrement répétés. Les patients ont l'occasion de poser de nombreuses questions. Le deuxième module de cette séance aborde les notions essentielles pour préparer les patients à l'observance de la prise des ARV. Il s'agit de faire prendre conscience de l'importance du traitement, du suivi qui sera nécessaire dès lors qu'ils seront sous ARV et aussi des risques d'effets secondaires qu'ils pourront ressentir. L'objectif est d'inciter le patient à prendre ses responsabilités avant de s'engager dans le traitement. Autrement dit, compte tenu de tout ce qu'ils viennent d'entendre, ils doivent décider ou non de prendre des ARV. La séance se termine par le partage d'un repas qui a pour objectif de créer un véritable climat de groupe, d'entraide et de solidarité.
+Une première étape consiste à réunir un groupe de patients pour leur transmettre une **information préalable à la mise sous ARV.** Les patients qui participent à ce groupe sont en général suivis depuis quelque temps au CESAC, et remplissent les critères d'inclusion bio-cliniques pour une mise sous traitement. Cette séance, d'une durée de 2 heures environ, est basée sur la transmission de connaissances sur le VIH et la prise des ARV *(cf. tableau* *1* des deuxmodules composant cette première séance). Les informations transmises sont illustrées à l'aide de schémas (utilisant des métaphores) permettant aux patients de comprendre la dynamique et l'évolution de l'infection. Les messages "clés" à retenir sont régulièrement répétés. Les patients ont l'occasion de poser de nombreuses questions. Le deuxième module de cette séance aborde les notions essentielles pour préparer les patients à l'observance de la prise des ARV. Il s'agit de faire prendre conscience de l'importance du traitement, du suivi qui sera nécessaire dès lors qu'ils seront sous ARV et aussi des risques d'effets secondaires qu'ils pourront ressentir. L'objectif est d'inciter le patient à prendre ses responsabilités avant de s'engager dans le traitement. Autrement dit, compte tenu de tout ce qu'ils viennent d'entendre, ils doivent décider ou non de prendre des ARV. La séance se termine par le partage d'un repas qui a pour objectif de créer un véritable climat de groupe, d'entraide et de solidarité.
 
 ### 2. Le club d'observance
 
 La seconde étape consiste en l'organisation d'un **"club d'observance".** Il s'agit d'un espace d'apprentissage à l'observance, de dialogue, d'échange d'expériences, de médiation et d'entraide entre patients. Une nouvelle séance de groupe s'adressant aux patients sous ARV est organisée. Elle a pour but le soutien et l'accompagnement thérapeutique des patients mis sous ARV. Seuls les patients ayant participé à l'étape précédente peuvent y participer. Cette séance rassemble des médecins, pharmaciens, psychologue, des personnes ressources et des PvVIH sous ARV. Les enseignements se font avec des supports personnalisés et des métaphores en lien avec le contexte socioculturel des patients. Les patients y participent de façon volontaire (ils sont informés d'une séance par téléphone). Les principes majeurs qui sous-tendent ce club d'observance sont le respect de la confidentialité, l'entraide et l'esprit de groupe. Ainsi, les patients se sentent libres de s'exprimer, de faire part de leurs angoisses, de leurs inquiétudes ou autres difficultés rencontrées. En fonction des besoins des patients, des informations spécifiques sont traitées telles que, par exemples : les effets secondaires, la gestion des évènements sociaux (baptême, ramadan, mariage, décès), le désir d'enfant, la gestion des boites vides, l'expression par les patients de certains problèmes de santé non exprimés au médecin parce qu'ils ont honte, ou tout simplement par manque de disponibilité ou manque de temps de la part de l'équipe soignante.
 
-#### Au sein du club, chaque représentant du groupe joue un rôle :
+#### Au sein du club, chaque représentant du groupe joue un rôle
 
 **a)** le psychologue joue un rôle de facilitateur. Il connaît le vécu psychologique des patients présents, il observe les réactions de chacun, il distribue la parole, résume les points clés,
 
@@ -76,18 +76,18 @@ Au total 97 séances ont été réalisées depuis le démarrage de l'activité. 
 
 </table>
 
-La raison pour laquelle le nombre de bénéficiaires _de ces_ séances a considérablement augmenté en 2004 s'explique :
+La raison pour laquelle le nombre de bénéficiaires *de ces* séances a considérablement augmenté en 2004 s'explique :
 
-*   d'une part, par les efforts faits par le CESAC, soutenu par le programme d'accès aux ARV (PAARV) d'Ensemble Contre le Sida pour favoriser l'accès aux ARV encore payant en début d'année, aux patients les plus démunis,
-*   d'autre part, par une augmentation permanente du nombre de patients sous ARV depuis que la gratuité des traitements a été déclarée par le Président de la République et matérialisée en juillet 2004 par le Ministère de la Santé.
+- d'une part, par les efforts faits par le CESAC, soutenu par le programme d'accès aux ARV (PAARV) d'Ensemble Contre le Sida pour favoriser l'accès aux ARV encore payant en début d'année, aux patients les plus démunis,
+- d'autre part, par une augmentation permanente du nombre de patients sous ARV depuis que la gratuité des traitements a été déclarée par le Président de la République et matérialisée en juillet 2004 par le Ministère de la Santé.
 
 Cette augmentation de patients sous ARV constitue une difficulté majeure pour l'organisation des séances d'éducation. De plus en plus de patients nécessitent de suivre ces séances, or en termes de locaux, mais aussi d'apprentissage, il reste préférable de limiter le nombre de patients par séance. Reste donc à envisager de démultiplier le nombre de ces séances, pour permettre à un maximum de patients d'y participer. Dans cette perspective, un infirmier du CESAC est en cours de formation pour animer ces séances d'éducation. D'un point de vue qualitatif, notre expérience montre les résultats suivants :
 
-*   Nous notons une réelle amélioration de la relation patient-médecin. Ces séances permettent de rassurer les patients et de les mettre en confiance vis-à-vis de la prise en charge médicale. L'acquisition d'un vocabulaire médical par les patients permet petit à petit d'avoir un langage commun entre l'équipe soignante et les patients, ce qui améliore considérablement la communication.  
-*   Les patients ayant participé aux séances d'éducation thérapeutique s'approprient mieux leur traitement et y adhèrent davantage.  
-*   Ils sont très impliqués dans leur prise en charge et impliquent de plus en plus leur famille.  
-*   Certains patients ont pris une part active dans l'accompagnement des autres patients. Par exemple, une patiente participe aux séances d'éducation et peut ainsi témoigner de son expérience, de son vécu du traitement. D'autres se sont engagés à soutenir et accompagner des patients à leur domicile pour les aider dans leur prise du traitement. Ils deviennent des relais entre ces patients en difficulté et les soignants.  
-*   Leur perception se modifie vis-à-vis de la maladie et des effets secondaires des traitements. Le SIDA n'est plus vécu comme une maladie qui conduit inévitablement à la mort. Ils expriment leur satisfaction et le plaisir qu'ils ont à participer à ces réunions de groupe au cours desquelles ils ont trouvé un espace pour s'exprimer librement tout en partageant de façon conviviale un repas préparé par des pairs.
+- Nous notons une réelle amélioration de la relation patient-médecin. Ces séances permettent de rassurer les patients et de les mettre en confiance vis-à-vis de la prise en charge médicale. L'acquisition d'un vocabulaire médical par les patients permet petit à petit d'avoir un langage commun entre l'équipe soignante et les patients, ce qui améliore considérablement la communication.
+- Les patients ayant participé aux séances d'éducation thérapeutique s'approprient mieux leur traitement et y adhèrent davantage.
+- Ils sont très impliqués dans leur prise en charge et impliquent de plus en plus leur famille.
+- Certains patients ont pris une part active dans l'accompagnement des autres patients. Par exemple, une patiente participe aux séances d'éducation et peut ainsi témoigner de son expérience, de son vécu du traitement. D'autres se sont engagés à soutenir et accompagner des patients à leur domicile pour les aider dans leur prise du traitement. Ils deviennent des relais entre ces patients en difficulté et les soignants.
+- Leur perception se modifie vis-à-vis de la maladie et des effets secondaires des traitements. Le SIDA n'est plus vécu comme une maladie qui conduit inévitablement à la mort. Ils expriment leur satisfaction et le plaisir qu'ils ont à participer à ces réunions de groupe au cours desquelles ils ont trouvé un espace pour s'exprimer librement tout en partageant de façon conviviale un repas préparé par des pairs.
 
 ## III. Perspectives
 
@@ -117,7 +117,7 @@ Module 1 : Comprendre le VIH
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -129,7 +129,7 @@ Module 2 : Prendre des ARV
 
 <ul><li>Définition d'ARV</li><li>L'importance du bilan biologique d'inclusion et de suivi</li><li>Mécanisme d'action des ARV</li><li>Comprendre le circuit de la mise sous ARV et le rôle des membres de l'équipe soignante</li><li>Les précautions de prise des médicaments</li></ul>
 
-- Les interactions médicamenteuses  
+- Les interactions médicamenteuses
 - Les intervalles des prises
 
 </td>
@@ -140,4 +140,4 @@ Module 2 : Prendre des ARV
 
 </table>
 
-_Développement et Santé, n°172, août 2004_
+*Développement et Santé, n°172, août 2004*

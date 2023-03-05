@@ -15,9 +15,7 @@ Aux problèmes de **cicatrisation**, on répondra par le pansement et la greffe 
 
 Au choc des brûlés, on répondra par la **réanima­tion.**
 
-
 ![](image002-2.jpg)
-
 
 ### 1. Ce qu'il faut savoir de la profondeur de la brûlure
 
@@ -25,42 +23,40 @@ Au choc des brûlés, on répondra par la **réanima­tion.**
 
 #### Brûlures du premier degré
 
-*   Cliniquement :
-    *   sensation de cuisson,
-    *   le contact est douloureux,
-    *   il existe un peu d'oedème.  
-*   C'est une destruction de la couche cornée de l'épiderme.
-
+- Cliniquement :
+  - sensation de cuisson,
+  - le contact est douloureux,
+  - il existe un peu d'oedème.
+- C'est une destruction de la couche cornée de l'épiderme.
 
 ![](image004-1.jpg)
 
-
 #### Brûlures du deuxième degré
 
-*   Cliniquement :
-    *   bulle translucide remplie de liquide clair (plasma),
-    *   très souvent ces bulles éclatent, le liquide s'écoule et laisse une surface rouge vif,
-    *   douleur très vive, atroce au contact (les ter­minaisons nerveuses de la peau sont à vif).  
-*   C'est un décollement entre l'épiderme détruit et sa couche basale.
+- Cliniquement :
+  - bulle translucide remplie de liquide clair (plasma),
+  - très souvent ces bulles éclatent, le liquide s'écoule et laisse une surface rouge vif,
+  - douleur très vive, atroce au contact (les ter­minaisons nerveuses de la peau sont à vif).
+- C'est un décollement entre l'épiderme détruit et sa couche basale.
 
 #### Brûlures du troisième degré
 
-*   Cliniquement c'est l'escarre : plaque brune épaisse, dure, insensible.  
-*   C'est une destruction complète de l'épiderme et du derme.
+- Cliniquement c'est l'escarre : plaque brune épaisse, dure, insensible.
+- C'est une destruction complète de l'épiderme et du derme.
 
 **Remarques**
 
-*   Il est très difficile de faire le diagnostic du degré de la brûlure au premier examen du malade.  
-*   C'est au **10ème jour** que ce diagnostic se fera avec exactitude.  
-*   Au niveau d'une même surface de brûlure, on rencontre presque toujours des **lésions de degrés différents**.  
-*   Il existe des **brûlures intermédiaires** où la destruction du derme est partielle.  
-*   Plus le contact avec la chaleur est prolongé, plus la brûlure sera profonde. Les vêtements peuvent jouer un rôle protecteur ou au contraire un rôle aggravant, s'ils s'enflamment ou s'imprègnent de liquide bouillant.
+- Il est très difficile de faire le diagnostic du degré de la brûlure au premier examen du malade.
+- C'est au **10ème jour** que ce diagnostic se fera avec exactitude.
+- Au niveau d'une même surface de brûlure, on rencontre presque toujours des **lésions de degrés différents**.
+- Il existe des **brûlures intermédiaires** où la destruction du derme est partielle.
+- Plus le contact avec la chaleur est prolongé, plus la brûlure sera profonde. Les vêtements peuvent jouer un rôle protecteur ou au contraire un rôle aggravant, s'ils s'enflamment ou s'imprègnent de liquide bouillant.
 
 ### 2. Ce qu'il faut savoir sur l'étendue de la brûlure
 
 ### 
-![](image006-1.jpg)
 
+![](image006-1.jpg)
 
 **Elle s'exprime en pourcentage de la surface corporelle.**
 
@@ -172,10 +168,10 @@ On assiste, au niveau des zones brûlées, à une fuite considérable du plasma 
 
 C'est une perte d'eau, d'albumine, de sels, au détri­ment du volume circulatoire et responsable du **choc des brûlés** :
 
-*   la tension artérielle s'éffondre,
-*   la conscience peut s'obscurcir,
-*   le brûlé a soif,
-*   il n'urine presque plus **(oligo-anurie)** : d'urgence il faut abondamment le perfuser pour prévenir le choc.
+- la tension artérielle s'éffondre,
+- la conscience peut s'obscurcir,
+- le brûlé a soif,
+- il n'urine presque plus **(oligo-anurie)** : d'urgence il faut abondamment le perfuser pour prévenir le choc.
 
 ### 2. Période de résorption des oedèmes : les 3ème et 4ème jours
 
@@ -185,8 +181,8 @@ Grâce au traitement de remplacement liquidien, le brûlé franchit ce premier c
 
 Maintenant, le brûlé est menacé par l**'infection** et la **dénutrition**.
 
-*   **L'infection**, quasi-inévitable dans les brûlures très étendues, se manifeste par une élévation de la température à 38°-39° avec des clochers à 41°, et s'accompagnant de frissons (décharges micro­hiennes dans le sang).  
-*   **La dénutrition** est en rapport avec la fuite des protéines au niveau des surfaces à vif. Le brûlé maigrit, il est très fatigué, n'a plus aucun appétit. Il perd ses protéines (nécessaires à la cicatrisation) et n'en absorbe plus.
+- **L'infection**, quasi-inévitable dans les brûlures très étendues, se manifeste par une élévation de la température à 38°-39° avec des clochers à 41°, et s'accompagnant de frissons (décharges micro­hiennes dans le sang).
+- **La dénutrition** est en rapport avec la fuite des protéines au niveau des surfaces à vif. Le brûlé maigrit, il est très fatigué, n'a plus aucun appétit. Il perd ses protéines (nécessaires à la cicatrisation) et n'en absorbe plus.
 
 L'infection retarde la cicatrisation. L'absence (le cicatrisation aggrave la dénutrition. Celle-ci à son tour compromet la cicatrisation. Il faut rapidement rompre ce cercle vicieux.
 
@@ -198,44 +194,44 @@ Sinon, on assiste à une détérioration progressive de toute les grandes foncti
 
 #### Le pansement
 
-*   Le plus propre possible et le moins douloureux possible.  
-    *   **au dispensaire** : lavage des mains, pansement et linge le plus propre, antalgiques majeurs,
-    *   **à l'hôpital** : anesthésie générale, salle d'opération, stérilité.  
-*   Il est utilisé pour le tronc et les membres, ces derniers seront en extension pour éviter les rétractions.
+- Le plus propre possible et le moins douloureux possible.
+  - **au dispensaire** : lavage des mains, pansement et linge le plus propre, antalgiques majeurs,
+  - **à l'hôpital** : anesthésie générale, salle d'opération, stérilité.
+- Il est utilisé pour le tronc et les membres, ces derniers seront en extension pour éviter les rétractions.
 
 #### Technique
 
-*   Nettoyer au cétrimide dilué, ou à l'eau bouillie les surfaces brûlées et la peau autour.  
-*   Exciser les phlyctènes encore intactes ou déjà ouvertes.  
-*   Faire un pansement occlusif, gras et humide :
-    *   une couche de gaze vaselinée (biogaze, ou tulle gras),
-    *   une couche de compresses humides (sérum salé, eau bouillie),
-    *   une couche de coton hydrophile stérile,
-    *   une couche de coton cardé,
-    *   une bande velpeau (ou de gaze).
+- Nettoyer au cétrimide dilué, ou à l'eau bouillie les surfaces brûlées et la peau autour.
+- Exciser les phlyctènes encore intactes ou déjà ouvertes.
+- Faire un pansement occlusif, gras et humide :
+  - une couche de gaze vaselinée (biogaze, ou tulle gras),
+  - une couche de compresses humides (sérum salé, eau bouillie),
+  - une couche de coton hydrophile stérile,
+  - une couche de coton cardé,
+  - une bande velpeau (ou de gaze).
 
 Ce pansement dépasse largement les surfaces brûlées. Il est légèrement compressif.
 
 #### L'exposition à l'air
 
-*   Pour les brûlures du visage, du périnée, des organes génitaux, de la racine des cuisses, on pourra préférer au pansement la technique de l'exposition à l'air.  
-*   On ne touche pas aux brûlures qui se dessèchent et se couvrent d'une croûte plus ou moins épaisse.  
-*   Le brûlé est allongé sur un drap propre. Aucun pansement, aucun vêtement, aucun appui sur les zones brûlées (donc à plat ventre pour les brû­lures de la région fessière par exerriple).  
-*   Cela suppose un lit avec moustiquaire dans une pièce climatisée...
+- Pour les brûlures du visage, du périnée, des organes génitaux, de la racine des cuisses, on pourra préférer au pansement la technique de l'exposition à l'air.
+- On ne touche pas aux brûlures qui se dessèchent et se couvrent d'une croûte plus ou moins épaisse.
+- Le brûlé est allongé sur un drap propre. Aucun pansement, aucun vêtement, aucun appui sur les zones brûlées (donc à plat ventre pour les brû­lures de la région fessière par exerriple).
+- Cela suppose un lit avec moustiquaire dans une pièce climatisée...
 
 ### 2. Evolution : le 10ème jour
 
-*   Théoriquement, on ne touche plus aux brûlures ni au pansement jusqu'au 10ème jour.  
-*   C'est à ce stade que le diagnostic exact de pro­fondeur est fait. Tous les intermédiaires existent entre :
-    *   les brûlures superficielles qui sont cicatrisées et guéries,
-    *   l'escarre : plaque dure insensible qui nécessitera une excision sous anesthésie générale et une greffe.
+- Théoriquement, on ne touche plus aux brûlures ni au pansement jusqu'au 10ème jour.
+- C'est à ce stade que le diagnostic exact de pro­fondeur est fait. Tous les intermédiaires existent entre :
+  - les brûlures superficielles qui sont cicatrisées et guéries,
+  - l'escarre : plaque dure insensible qui nécessitera une excision sous anesthésie générale et une greffe.
 
 Le traitement de ces brûlures intermédiaires sera alors affaire de pansement, de chirurgie et d'expérience.
 
-*   Mais si l'infection se manifeste avant le 10<sup>ème</sup> jour :
-    *   fièvre,
-    *   pansement souillé et
-    *   sentant mauvais,
+- Mais si l'infection se manifeste avant le 10<sup>ème</sup> jour :
+  - fièvre,
+  - pansement souillé et
+  - sentant mauvais,
 
 il faut l'enlever sans hésiter, pratiquer un nouveau nettoyage très soigneux au cétrimide et faire un nouveau pansement.
 
@@ -286,4 +282,4 @@ Médicaments
 
 </table>
 
-_Développement et Santé, n°194, 2009_
+*Développement et Santé, n°194, 2009*

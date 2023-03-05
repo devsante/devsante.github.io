@@ -6,7 +6,7 @@ date: "1989-02-02"
 
 **Conduite à tenir devant une fièvre post-opératoire**
 
-**par Yveline Tourtier et Micheline Berl***
+**par Yveline Tourtier et Micheline Berl**\*
 
 Médecin-anesthésiste, hôpital Boucicaut, Paris.
 
@@ -24,33 +24,37 @@ et de les traiter avant qu'une complication ne survienne.
 
 **1. Affirmer la fièvre**
 
-*   Prise rectale avec un thermomètre à mercure.
+- Prise rectale avec un thermomètre à mercure.
 
-*   Réalisation d'une courbe de température (prise à intervalle régulier, toutes les trois à quatre heures).
+- Réalisation d'une courbe de température (prise à intervalle régulier, toutes les trois à quatre heures).
 
 Après toute intervention, il existe une élévation thermique modérée pendant le ou les premiers jours postopératoires: elle correspond à la phase catabolique et ne dépasse pas 38,5°. On parle donc d'hyperthermie au-delà de 38,5°.
 
 **2. Les caractères de l'hyperthermie doivent être précisés**
 
-*   Date et mode d'installation.
+- Date et mode d'installation.
 
-*   Allure évolutive, existence de clochers thermiques.
+- Allure évolutive, existence de clochers thermiques.
 
-*   Signes d'accompagnement: frissons, céphalées, signes respiratoires, cardio-vasculaires, digestifs, urinaires, douleurs localisées...
+- Signes d'accompagnement: frissons, céphalées, signes respiratoires, cardio-vasculaires, digestifs, urinaires, douleurs localisées...
 
-*   Prendre connaissance de la feuille d'anesthésie (motif et type d'intervention, état général et antécédents du patient, drogues utilisées).
+- Prendre connaissance de la feuille d'anesthésie (motif et type d'intervention, état général et antécédents du patient, drogues utilisées).
 
-*   Thérapeutique antérieure et en particulier antibiotiques, antipaludéens, anti-parasitaires.
+- Thérapeutique antérieure et en particulier antibiotiques, antipaludéens, anti-parasitaires.
 
-*   **Examen** du patient avec aspect :
+- **Examen** du patient avec aspect :
 
-*   de la plaie opératoire,
-*   des liquides d'aspiration et de drainage,
-*   des points de ponction (IM, IV, blocs tronculaires, rachianesthésie, péridurale),
-*   des urines, des sécrétions bronchiques, palpation des aires ganglionnaires, de la rate, du foie,
-*   recherche des signes évoquant un choc septique (marbrures, collapsus, polypnée, oligurie).
+- de la plaie opératoire,
 
-*   **Examens complémentaires:** numération formule sanguine, et si possible, prélèvements bactériologiques, clichés thoraciques de face et de profil, abdomen sans préparation, échographie, seront orientés par l'examen clinique.
+- des liquides d'aspiration et de drainage,
+
+- des points de ponction (IM, IV, blocs tronculaires, rachianesthésie, péridurale),
+
+- des urines, des sécrétions bronchiques, palpation des aires ganglionnaires, de la rate, du foie,
+
+- recherche des signes évoquant un choc septique (marbrures, collapsus, polypnée, oligurie).
+
+- **Examens complémentaires:** numération formule sanguine, et si possible, prélèvements bactériologiques, clichés thoraciques de face et de profil, abdomen sans préparation, échographie, seront orientés par l'examen clinique.
 
 Au terme de cet examen clinique et au vu des résultats des examens complémentaires, plusieurs hypothèses seront envisagées, permettant la mise en route du traitement.
 
@@ -80,17 +84,17 @@ Souvent responsable d'une fièvre à 38°-38,5°, rarement supérieure à 39° (
 
 **e. Transfusion, perfusion:**
 
-*   soit de sang ou de liquide contaminé par un agent infectieux,
+- soit de sang ou de liquide contaminé par un agent infectieux,
 
-*   soit réaction post-tranfusionnelle: frissons et hyperthermie fugace,
+- soit réaction post-tranfusionnelle: frissons et hyperthermie fugace,
 
-*   soit présence d'un pyrogène contenu dans la transfusion.
+- soit présence d'un pyrogène contenu dans la transfusion.
 
 **f. Plus rares sont:**
 
-*   hyperthermie maligne, le syndrome malin des neuroleptiques,
+- hyperthermie maligne, le syndrome malin des neuroleptiques,
 
-*   hyperthermie due à un surdosage d'atropine (surtout chez l'enfant).
+- hyperthermie due à un surdosage d'atropine (surtout chez l'enfant).
 
 **2. Les fièvres secondaires**
 
@@ -130,15 +134,15 @@ Le traitement est surtout **préventif.**
 
 Il dépend donc de celle-ci :
 
-*   correction d'une déshydratation,
+- correction d'une déshydratation,
 
-*   antibiothérapie adaptée,
+- antibiothérapie adaptée,
 
-*   reprise chirurgicale,
+- reprise chirurgicale,
 
-*   traitement antipaludéen ou antiparasitaire,
+- traitement antipaludéen ou antiparasitaire,
 
-*   héparinothérapie si phlébothrombose.
+- héparinothérapie si phlébothrombose.
 
 **2. Traitement symptomatique**
 
@@ -164,4 +168,4 @@ La température est donc un élément fondamental de la surveillance postopérat
 
 Des moyens simples et une surveillance clinique répétée à la recherche d'une complication, le plus souvent chirurgicale, doivent éviter la survenue d'un choc septique mettant en jeu le pronostic vital.
 
-_Développement et Santé, N°79, février 1989_
+*Développement et Santé, N°79, février 1989*

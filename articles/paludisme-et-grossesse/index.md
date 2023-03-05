@@ -25,9 +25,7 @@ Le paludisme est dû à un parasite sanguin, le <em>Plasmodium</em>, transmis pa
 
 <td style="width: 229px;">
 
-
 ![](image002-0.gif)
-
 
 <em>Anophèle</em>
 
@@ -39,7 +37,7 @@ Le paludisme est dû à un parasite sanguin, le <em>Plasmodium</em>, transmis pa
 
 </table>
 
- Après multiplication dans les hépatocytes, le protozoaire passe dans la circulation et se multiplie dans les hématies. L’envahissement, puis l’éclatement des globules rouges parasités, provoquent les accès palustres cycliques. Il existe plusieurs espèces de _Plasmodium_, avec des caractéristiques différentes (Tableau I).
+ Après multiplication dans les hépatocytes, le protozoaire passe dans la circulation et se multiplie dans les hématies. L’envahissement, puis l’éclatement des globules rouges parasités, provoquent les accès palustres cycliques. Il existe plusieurs espèces de *Plasmodium*, avec des caractéristiques différentes (Tableau I).
 
 <table>
 <caption>Tableau I. Caractères des différents <em>Plasmodium</em></caption>
@@ -167,11 +165,11 @@ La phase d’invasion survient chez les sujets sans prémunition. Elle est marqu
 
 Puis, survient la **crise typique de paludisme**, se répétant toutes les 48 ou 72 heures, réalisant les accès fébriles tierces ou quarte. Apparaît tout d’abord une sensation de froid avec des frissons incontrôlables, puis la fièvre monte à 40°C, la peau du patient est sèche et brûlante. Enfin le malade se couvre de sueurs abondantes. L’ensemble de ces phénomènes dure quelques heures. Puis l’état général du sujet s’améliore très nettement jusqu’à l’accès suivant.
 
-En raison de la présence d’hypnozoïtes hépatiques, des reviviscences sont possibles pendant 3 à 5 ans pour _P. vivax_ et _P. ovale_. Les hypnozoïtes n’existent ni avec _P_. _falciparum_, ni avec _P. malariae_. Pour cette dernière espèce, les résurgences très tardives (10 ans) seraient dues à des formes érythrocytaires latentes.
+En raison de la présence d’hypnozoïtes hépatiques, des reviviscences sont possibles pendant 3 à 5 ans pour *P. vivax* et *P. ovale*. Les hypnozoïtes n’existent ni avec *P*. *falciparum*, ni avec *P. malariae*. Pour cette dernière espèce, les résurgences très tardives (10 ans) seraient dues à des formes érythrocytaires latentes.
 
 ### L’accès pernicieux ou neuropaludisme
 
-Dû exclusivement à _Plasmodium falciparum_, il réalise une encéphalopathie aiguë. Il peut survenir brutalement, sans signe prémonitoire ou succéder à un accès typique négligé. La fièvre dépasse 40°C, une hypothermie étant de mauvais pronostic (Tableau II). Des convulsions sont fréquentes et le patient sombre dans le coma. Le diagnostic doit être rapidement posé et le traitement par quinine intraveineuse mis en route d’urgence, l’évolution spontanée étant fréquemment mortelle.
+Dû exclusivement à *Plasmodium falciparum*, il réalise une encéphalopathie aiguë. Il peut survenir brutalement, sans signe prémonitoire ou succéder à un accès typique négligé. La fièvre dépasse 40°C, une hypothermie étant de mauvais pronostic (Tableau II). Des convulsions sont fréquentes et le patient sombre dans le coma. Le diagnostic doit être rapidement posé et le traitement par quinine intraveineuse mis en route d’urgence, l’évolution spontanée étant fréquemment mortelle.
 
 <table>
 <caption>Tableau II. Critères de gravité de l'accès pernicieux (OMS)</caption>
@@ -236,9 +234,9 @@ Il survient, en zone d’endémie chez des individus, insuffisamment prémunis e
 
 ## II. Diagnostic et traitement
 
-Le diagnostic repose sur la mise en évidence de l’hématozoaire sur le frottis sanguin, permettant l’identification du _Plasmodium_ et sa quantification. Le test rapide (Now-malaria®) permet d’affirmer rapidement la présence de _Plasmodium falciparum_. Il doit être recherché chez la mère, et en cas d’accouchement d’une mère atteinte de paludisme, au niveau du placenta et chez l’enfant. Le sérodiagnostic n’est pas utile au diagnostic d’urgence. Mais il est indiqué pour le diagnostic rétrospectif d’une fièvre, pour les enquêtes épidémiologiques et enfin pour éliminer les donneurs de sang paludéens.
+Le diagnostic repose sur la mise en évidence de l’hématozoaire sur le frottis sanguin, permettant l’identification du *Plasmodium* et sa quantification. Le test rapide (Now-malaria®) permet d’affirmer rapidement la présence de *Plasmodium falciparum*. Il doit être recherché chez la mère, et en cas d’accouchement d’une mère atteinte de paludisme, au niveau du placenta et chez l’enfant. Le sérodiagnostic n’est pas utile au diagnostic d’urgence. Mais il est indiqué pour le diagnostic rétrospectif d’une fièvre, pour les enquêtes épidémiologiques et enfin pour éliminer les donneurs de sang paludéens.
 
-Le traitement habituel repose sur la quinine ou l'association proguanil/atovaquone pour _P. falciparum_ et sur la chloroquine pour les autres espèces. D’autres produits sont utilisables dans certaines circonstances : quinine, méfloquine, halofantrine (après ECG). De nouveaux antipaludiques sont à l’étude, comme le quinghaosu, extrait d’une plante, l’artémisinine, qui est assez efficace, mais s’est révélé tératogène.
+Le traitement habituel repose sur la quinine ou l'association proguanil/atovaquone pour *P. falciparum* et sur la chloroquine pour les autres espèces. D’autres produits sont utilisables dans certaines circonstances : quinine, méfloquine, halofantrine (après ECG). De nouveaux antipaludiques sont à l’étude, comme le quinghaosu, extrait d’une plante, l’artémisinine, qui est assez efficace, mais s’est révélé tératogène.
 
 ## III. Paludisme et grossesse
 
@@ -394,11 +392,11 @@ Les accès fébriles peuvent provoquer un avortement au début ou un accouchemen
 
 La grossesse, véritable « stress » immunologique, provoque une chute de l’immunité anti-palustre et, de ce fait, peut démasquer un paludisme latent, ou favoriser la survenue de formes graves (accès pernicieux). Le taux d’infestation du placenta est toujours supérieur à celui du sang.
 
-En effet, le _Plasmodium_ est souvent retrouvé dans le placenta, alors que les examens de sang restent négatifs. Ainsi, à Panama, sur 400 placentas examinés, 11 étaient parasités, alors que les frottis des mêmes patients étaient négatifs. Il en a été de même à Dakar, où, sur 130 placentas, 15 % étaient positifs contre seulement 1,6% des sangs de fœtus.
+En effet, le *Plasmodium* est souvent retrouvé dans le placenta, alors que les examens de sang restent négatifs. Ainsi, à Panama, sur 400 placentas examinés, 11 étaient parasités, alors que les frottis des mêmes patients étaient négatifs. Il en a été de même à Dakar, où, sur 130 placentas, 15 % étaient positifs contre seulement 1,6% des sangs de fœtus.
 
 Les conséquences sont différentes selon le taux d’endémicité paludéenne de la région considérée. En zone d’hyperendémie, l’immunité est solide et les manifestations pathologiques sont donc rares. En zone d’hypoendémie, l’immunité est précaire et le risque de contracter un paludisme patent est assez élevé chez la femme enceinte.
 
-Les symptômes classiques du paludisme sont accentués. Quel que soit le stade de la grossesse, _Plasmodium falciparum_ risque toujours d’évoluer, sans traitement, vers l’accès pernicieux. En fin de grossesse, il y a souvent un risque de reviviscence et il n’est pas rare de constater, lors d’une crise aiguë de paludisme, un accouchement prématuré avec parfois mort subite de la mère dans les suites immédiates.
+Les symptômes classiques du paludisme sont accentués. Quel que soit le stade de la grossesse, *Plasmodium falciparum* risque toujours d’évoluer, sans traitement, vers l’accès pernicieux. En fin de grossesse, il y a souvent un risque de reviviscence et il n’est pas rare de constater, lors d’une crise aiguë de paludisme, un accouchement prématuré avec parfois mort subite de la mère dans les suites immédiates.
 
 La découverte de l’hématozoaire est inconstante, en zone d’endémie où l’autotraitement, particulièrement fréquent, suffit à masquer le diagnostic. Les auteurs sont divisés sur l’existence d’une corrélation possible entre le taux d’anticorps anti-palustres et l’âge de la grossesse, mais s’accordent pour dire que le **paludisme est la principale cause d’anémie au cours de la grossesse**. Cette anémie apparaît vers la 20ème semaine. Elle est hémolytique, normocytaire et normochrome, surtout importante chez les primigestes, et s’aggrave parallèlement aux nombres d’accès de paludisme. L’anémie sévère augmente la mortalité maternelle et fœtale. Aussi, l’importance d’une chimioprophylaxie correcte est-elle démontrée par la disparition des anémies hémolytiques dans ce cas.
 
@@ -408,13 +406,11 @@ Les formes graves sont rares et semblent plus fréquentes en fin de grossesse. L
 
 Il est certain qu’un paludisme transforme une grossesse normale en grossesse pathologique. Les accès répétés de paludisme peuvent perturber le fonctionnement hypophysaire et entraîner une stérilité. Par ailleurs, la nidation peut être perturbée chez les femmes atteintes de paludisme viscéral évolutif, avec une splénomégalie importante.
 
-**Au début**, le paludisme entraîne une accentuation des « signes sympathiques » de la grossesse. Dans les grossesses avancées, il existe une corrélation entre le taux de parasitémie et la durée de la fièvre d’une part et le risque d’avortement d’autre part, surtout en zone endémique. La mort fœtale _in utero_, l’accouchement prématuré et l’hypotrophie fœtale sont plus fréquents.
+**Au début**, le paludisme entraîne une accentuation des « signes sympathiques » de la grossesse. Dans les grossesses avancées, il existe une corrélation entre le taux de parasitémie et la durée de la fièvre d’une part et le risque d’avortement d’autre part, surtout en zone endémique. La mort fœtale *in utero*, l’accouchement prématuré et l’hypotrophie fœtale sont plus fréquents.
 
 Le placenta est un important réservoir de parasites, même sans parasitémie décelable. Les lésions placentaires à type de réponse inflammatoire et hormonale sont plus fréquentes chez la primipare. Les placentas de mères impaludées ont habituellement un poids plus faible que les placentas sains. L’étude microscopique a montré un épaississement de la membrane basale du trophoblaste, une infiltration inflammatoire intervilleuse importante une dégénérescence hyaline des villosités des foyers de nécrose syncytiale et la présence très fréquente de pigment malarique dans les espaces intervilleux. Enfin, il a été montré récemment une capacité particulière de cytoadhérence des hématies infestées à la couche de syncytiotrophoblastes du placenta par le récepteur chondroïtine sulfate A, ce qui provoque une séquestration des parasites dans le placenta (figure 1).
 
-
 ![](schema-palu-grossesse-4.jpg)
-
 
 **A l’approche du terme**, le paludisme est un facteur important de prématurité, surtout chez la primigeste. Les dystocies dynamiques sont fréquentes et probablement liées à une hypoxie utérine. Il faut rester très vigilant et prévenir toute hémorragie de la délivrance ou du post-partum, qui risquerait d’être mal tolérée, chez une femme déjà anémiée.
 
@@ -481,7 +477,7 @@ Diagnostic : frottis sanguin
 
 </table>
 
-Avec l’apparition du sida dans les pays tropicaux, s’est posée la question de l’aggravation des affections parasitaires chez les personnes infectées par le VIH. Après des études contradictoires, il semble actuellement établi que les femmes infectées par le VIH présentent une élévation de la prévalence et de la parasitémie par _P. falciparum_. En revanche, l’aggravation de l’infestation par le VIH n’a pas été démontrée en cas de coinfection avec le paludisme.
+Avec l’apparition du sida dans les pays tropicaux, s’est posée la question de l’aggravation des affections parasitaires chez les personnes infectées par le VIH. Après des études contradictoires, il semble actuellement établi que les femmes infectées par le VIH présentent une élévation de la prévalence et de la parasitémie par *P. falciparum*. En revanche, l’aggravation de l’infestation par le VIH n’a pas été démontrée en cas de coinfection avec le paludisme.
 
 Le paludisme de la mère retentit bien évidemment sur le fœtus. Une fois le risque d’avortement ou d’accouchement prématuré écarté, le fœtus naît avec un poids plus faible que le fœtus né de mère saine (Tableau V), avec un risque de mortalité dans 6% des cas.
 
@@ -585,21 +581,21 @@ Parasités                       Sains
 
 Le risque de **paludisme congénital** est certain et il est plus fréquent en zone d’hypoendémie du fait d’une faible immunisation maternelle. Le mécanisme du passage transplacentaire des hématies parasitées est mal élucidé : parasite migrant à l’état libre ou dans une hématie infestée, nécessité d’un placenta pathologique, passage au moment des pics fébriles ? De toute façon, on estime que la densité parasitaire reste 300 à 1 000 fois plus faible chez le fœtus que chez la mère. Par ailleurs, il n’y a pas de phase exo-érythrocytaire, étant donné l’absence d’inoculation transcutanée par un moustique.
 
-Le paludisme congénital est affirmé sur l’élimination de toutes les possibilités de contamination directe (transfusion, inoculation naturelle par le moustique), et l’identité du _Plasmodium_ chez la mère et l’enfant, retrouvé dans le sang du cordon à la naissance. Une double infestation fœtale (_P. vivax_ et _P. malariae_) a déjà été rapportée, de même qu’une infestation par _P. falciparum_ chez des jumeaux, ayant entraîné une anémie.
+Le paludisme congénital est affirmé sur l’élimination de toutes les possibilités de contamination directe (transfusion, inoculation naturelle par le moustique), et l’identité du *Plasmodium* chez la mère et l’enfant, retrouvé dans le sang du cordon à la naissance. Une double infestation fœtale (*P. vivax* et *P. malariae*) a déjà été rapportée, de même qu’une infestation par *P. falciparum* chez des jumeaux, ayant entraîné une anémie.
 
 Le paludisme congénital-infestation se caractérise par la présence isolée d’hématozaires dans le sang. Cette parasitémie, asymptomatique, est spontanément régressive. Le paludisme congénital-maladie est l’association d’une parasitémie et de symptômes cliniques. Le paludisme périnatal est acquis au moment de la naissance (traumatisme obstétrical). Il nécessite donc une incubation identique à l’incubation habituelle de l’espèce plasmodiale en cause.
 
 Les troubles cliniques du paludisme congénital peuvent apparaître plusieurs mois après la naissance : hépato-splénomégalie, ictère, pâleur et anémie hémolytique. Un retard de croissance pondérale est souvent retrouvé. Le pronostic est favorable sous traitement rapide.
 
-Une certaine hypogalactie est constatée chez les mères paludéennes, mais cela ne contre-indique pas l’allaitement maternel. Les antipaludiques (chloroquine,  quinine) passent dans le lait mais en quantité infime, sans aucune conséquence pour le nouveau-né. Par ailleurs, le lait maternel est pauvre en acide para-aminobenzoïque, substance indispensable au métabolisme du _Plasmodium_. Dans les trois premiers mois de la vie, les IgG de la mère transmises à l’enfant sont protectrices. La présence d’hémoglobine fœtale est un facteur supplémentaire, expliquant l’absence habituelle de paludisme chez les nouveau-nés de mères vivant en zone d’endémie.
+Une certaine hypogalactie est constatée chez les mères paludéennes, mais cela ne contre-indique pas l’allaitement maternel. Les antipaludiques (chloroquine,  quinine) passent dans le lait mais en quantité infime, sans aucune conséquence pour le nouveau-né. Par ailleurs, le lait maternel est pauvre en acide para-aminobenzoïque, substance indispensable au métabolisme du *Plasmodium*. Dans les trois premiers mois de la vie, les IgG de la mère transmises à l’enfant sont protectrices. La présence d’hémoglobine fœtale est un facteur supplémentaire, expliquant l’absence habituelle de paludisme chez les nouveau-nés de mères vivant en zone d’endémie.
 
 ### Traitement et prophylaxie
 
-Le traitement classique de la **primo-invasion** et de l’**accès simple** dus à P. vivax, _P._ _ovale_ et _P. malariae_ repose sur la **chloroquine**, à raison de 9 comprimés à 100 mg à J1 (6 comp + 3 comp 6 heures plus tard) et 300 mg à J2 et J3. Ce traitement pourra être repris quelques mois plus tard, en cas de reviviscence.
+Le traitement classique de la **primo-invasion** et de l’**accès simple** dus à P. vivax, *P.* *ovale* et *P. malariae* repose sur la **chloroquine**, à raison de 9 comprimés à 100 mg à J1 (6 comp + 3 comp 6 heures plus tard) et 300 mg à J2 et J3. Ce traitement pourra être repris quelques mois plus tard, en cas de reviviscence.
 
 En cas d’**accès pernicieux**, le traitement doit être instauré d’urgence : quinine 1,5 g à 2 g en perfusion lente par voie intraveineuse pendant 3 à 5 jours. La chloroquine et la quinine ne sont ni abortives, ni tératogènes. Mais la quinine peut augmenter les contractions d’un utérus manifestant déjà une tendance contractile prématurée.
 
-S’il s’agit d’une souche de _P. falciparum_ chloroquino-résistante, cas devenu le plus fréquent, on traite par la quinine, l’association atovaquone-proguanil, éventuellement par l’halofantrine ou encore par méfloquine, mais ce dernier produit peut provoquer des effets secondaires non négligeables à type de troubles digestifs ou même neuropsychiques mais n’a pas d’effet abortif ni tératogène. L’association artésunate-atovaquone-proguanil s’est avérée efficace et bien tolérée. En cas de paludisme congénital, il faut traiter l’enfant dès la naissance, soit par chloroquine (en sirop) : 100 mg/j pendant 2 jours, puis 50 mg/j pendant 3 jours, puis 1 cuillère-mesure (soit 25 mg) 1 jour sur 2 pendant 2 mois, soit par la quinine IV ou IM (25 mg/kg/j) pendant 3 jours.
+S’il s’agit d’une souche de *P. falciparum* chloroquino-résistante, cas devenu le plus fréquent, on traite par la quinine, l’association atovaquone-proguanil, éventuellement par l’halofantrine ou encore par méfloquine, mais ce dernier produit peut provoquer des effets secondaires non négligeables à type de troubles digestifs ou même neuropsychiques mais n’a pas d’effet abortif ni tératogène. L’association artésunate-atovaquone-proguanil s’est avérée efficace et bien tolérée. En cas de paludisme congénital, il faut traiter l’enfant dès la naissance, soit par chloroquine (en sirop) : 100 mg/j pendant 2 jours, puis 50 mg/j pendant 3 jours, puis 1 cuillère-mesure (soit 25 mg) 1 jour sur 2 pendant 2 mois, soit par la quinine IV ou IM (25 mg/kg/j) pendant 3 jours.
 
 **La prophylaxie est fondamentale chez la femme enceinte**, plus sensible que d’autres au paludisme, et qui « attire » plus les moustiques que la femme non enceinte (élévation de la chaleur cutanée et sécrétion de substances volatiles).
 
@@ -669,7 +665,7 @@ La vaccination est encore à l’étude. Elle est complexe, car le parasite se m
 
 </table>
 
-<table>
+\$1<table>
 
 <thead>
 

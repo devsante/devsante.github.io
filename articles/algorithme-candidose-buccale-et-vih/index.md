@@ -5,13 +5,11 @@ date: "2008-11-05"
 
 **Candidose buccale**
 
-
 ![](i996-1.jpg)![](i996_2.jpg)
 
 ![](i996-1.jpg)
 
 ![](i996-2.jpg)
-
 
 Comment prendre la nystatine en suspension ? Mettre la nystatine suspension dans la bouche et la garder quelques minutes avant de I'avaler. Ne rien manger ni boire pendant 20 minutes après avoir pris la nystatine.  
 On peut remplacer la nystatine suspension par la nystatine ovules gynéco à 100 000 UI : laisser fondre dans la bouche 3 à 5 ovules/j.  
@@ -20,20 +18,20 @@ Préparation de la fungizone pour bain de bouche : mettre un flacon de suspensio
 
 ## Actions et surveillance infirmières
 
-### Dans le but d'améliorer le confort du patient :
+### Dans le but d'améliorer le confort du patient
 
-*   mettre en oeuvre le traitement prescrit ;
-*   conseiller une alimentation équilibrée, semi liquide ;
-*   demander au patient de ne pas consommer de boissons gazeuses ni alcoolisées ;
-*   le patient peut mastiquer des petits morceaux de mangue verte, de kiwi ou de papaye verte qui peuvent soulager la douleur et la gêne ;
-*   nettoyer délicatement la langue et les gencives avec une compresse enroulée sur une tige imbibée d'eau tiède ;
-*   possibilité de faire des bains de bouches à l'eau citronnée après les repas et au moment du coucher ou bains de bouche avec eau tiède + une pincée de sel, (attendre au moins 1 heure pour faire des bains de bouche après la prise de nystatine).
+- mettre en oeuvre le traitement prescrit ;
+- conseiller une alimentation équilibrée, semi liquide ;
+- demander au patient de ne pas consommer de boissons gazeuses ni alcoolisées ;
+- le patient peut mastiquer des petits morceaux de mangue verte, de kiwi ou de papaye verte qui peuvent soulager la douleur et la gêne ;
+- nettoyer délicatement la langue et les gencives avec une compresse enroulée sur une tige imbibée d'eau tiède ;
+- possibilité de faire des bains de bouches à l'eau citronnée après les repas et au moment du coucher ou bains de bouche avec eau tiède + une pincée de sel, (attendre au moins 1 heure pour faire des bains de bouche après la prise de nystatine).
 
-### Surveiller la courbe de poids.
+### Surveiller la courbe de poids
 
 Les lésions de la bouche sont souvent très douloureuses et empêchent le patient de s'alimenter correctement.  
 Avoir recours à un **traitement antalgique** pour calmer la douleur : paracétamol 50 mg/ kg/j x 3 ou AAS 500 mg x 3/ j  si douleur.
 
-### Remarque générale :
+### Remarque générale
 
 Il faut toujours examiner la bouche de vos patients car de nombreuses lésions buccales sont évocatrices de l'infection à VIH.

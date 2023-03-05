@@ -18,37 +18,37 @@ Cette définition académique élimine les hémorragies d'origine traumatique pr
 
 ### 1. La délivrance normale
 
-#### Elle évolue en trois phases :
+#### Elle évolue en trois phases
 
-*   **Phase de décollement :** le décollement s'amorce sitôt l'expulsion du foetus : la rétraction utérine provoque un hématome physiologique qui finalise le décollement ; la contraction utérine le termine.  
-*   **Phase d'expulsion :** sous l'influence de la contraction et de son poids, le placenta migre à travers la filière génitale avant d'être expulsé.  
-*   **Hémostase :** d'abord musculotrope par la contraction utérine, elle est complétée par les mécanismes normaux de la coagulation. Cette phase requiert un utérus vide, des fibres musculaires de bonne qualité et un bilan biologique d'hémostase normal.
+- **Phase de décollement :** le décollement s'amorce sitôt l'expulsion du foetus : la rétraction utérine provoque un hématome physiologique qui finalise le décollement ; la contraction utérine le termine.
+- **Phase d'expulsion :** sous l'influence de la contraction et de son poids, le placenta migre à travers la filière génitale avant d'être expulsé.
+- **Hémostase :** d'abord musculotrope par la contraction utérine, elle est complétée par les mécanismes normaux de la coagulation. Cette phase requiert un utérus vide, des fibres musculaires de bonne qualité et un bilan biologique d'hémostase normal.
 
-#### Chaque étape peut être perturbée :
+#### Chaque étape peut être perturbée
 
 **Décollement**
 
-*   contractilité utérine insuffisante,
-*   adhérence anormale du placenta : cicatrice (curetage, césarienne), endométrite, malformation utérine, fibrome.
+- contractilité utérine insuffisante,
+- adhérence anormale du placenta : cicatrice (curetage, césarienne), endométrite, malformation utérine, fibrome.
 
 **Expulsion**
 
-*   contractilité insuffisante,
-*   hypertonie (anneau, enchatonnement).
+- contractilité insuffisante,
+- hypertonie (anneau, enchatonnement).
 
 **Hémostase**
 
-*   utérus non vide,
-*   utérus de mauvaise qualité : fibrome, surdistension (grossesse gémellaire, hydramnios, macrosomie), travail long, insertion basse,
-*   sevrage brutal d'ocytociques,
-*   abus de substances anesthésiques de type halogénés,
-*   coagulopathie.
+- utérus non vide,
+- utérus de mauvaise qualité : fibrome, surdistension (grossesse gémellaire, hydramnios, macrosomie), travail long, insertion basse,
+- sevrage brutal d'ocytociques,
+- abus de substances anesthésiques de type halogénés,
+- coagulopathie.
 
 ### 2. Rappel biologique
 
 L'hémostase biologique a pour fonction essentielle de conserver la fluidité du sang tout en maintenant la masse sanguine dans le système vasculaire (caillot hémostatique).
 
-#### Elle se régule classiquement en trois temps :
+#### Elle se régule classiquement en trois temps
 
 **1) L'hémostase primaire :**
 
@@ -60,24 +60,24 @@ Consolidation du thrombus plaquettaire par un caillot de fibrine consécutive à
 
 **3) La fibrinolyse :**
 
-Destruction _in vivo_ des dépôts de fibrine (rôle de la plasmine, enzyme protéolytique stimulée par trois voies : une voie vasculaire activée par la tPA et deux voies plasmatiques activées par les pro-urokinases et le facteur XII).
+Destruction *in vivo* des dépôts de fibrine (rôle de la plasmine, enzyme protéolytique stimulée par trois voies : une voie vasculaire activée par la tPA et deux voies plasmatiques activées par les pro-urokinases et le facteur XII).
 
-#### Chaque étape de l'hémostase peut être altérée :
+#### Chaque étape de l'hémostase peut être altérée
 
 **Vascularites**
 
-*   déficits constitutionnels ou acquis en fibrinogène, facteur Willebrandt,
-*   iatrogène (ticlid, aspirine...)
+- déficits constitutionnels ou acquis en fibrinogène, facteur Willebrandt,
+- iatrogène (ticlid, aspirine...)
 
 **Thrombopathies**
 
-*   états préthrombotiques (toxémie...)
+- états préthrombotiques (toxémie...)
 
 **Déperdition sanguine majeure**
 
-*   CIVD (coagulation intravasculaire disséminée).
+- CIVD (coagulation intravasculaire disséminée).
 
-#### Mécanismes compensateurs physiologiques pendant **la grossesse**
+#### Mécanismes compensateurs physiologiques pendant la grossesse
 
 Ces mécanismes compensent et limitent l'hémorragie "physiologique" de l'accouchement par des majorations volémiques et des déplacements des équilibres coagulolytiques.
 
@@ -99,9 +99,9 @@ Au total, après que la grossesse ait préparé un terrain propice à la CIV, l'
 
 Elle résulte le plus souvent de plusieurs circonstances :
 
-*   troubles de la dynamique utérine (inertie ou hypertonie) spontanées ou provoquées par un surdosage en ocytociques;
-*   anomalies de la caduque: cicatrice, lésion d'endométrite, malformation utérine...  
-*   anomalie du placenta, en forme (cotylédon aberrant), en insertion ou en implantation (basse sur le segment inférieur, accreta ou percreta), nécessitant dans tous les cas un examen minutieux du placenta et une révision utérine au moindre doute.
+- troubles de la dynamique utérine (inertie ou hypertonie) spontanées ou provoquées par un surdosage en ocytociques;
+- anomalies de la caduque: cicatrice, lésion d'endométrite, malformation utérine...
+- anomalie du placenta, en forme (cotylédon aberrant), en insertion ou en implantation (basse sur le segment inférieur, accreta ou percreta), nécessitant dans tous les cas un examen minutieux du placenta et une révision utérine au moindre doute.
 
 ### 2. Atonie utérine
 
@@ -117,7 +117,7 @@ Elles sont fréquentes, isolées ou associées entre elles ; elles sont favoris�
 
 ### 5. Rupture utérine
 
-Elle se produit le plus souvent en _ante partum_ mais peut être diagnostiquée dans le _post partum_ (source d'hémorragie) ou pendant la césarienne mais surtout lors de la révision utérine systématique devant toute hémorragie obstétricale. Les ruptures sur utérus cicatriciel sont le plus souvent antérieures alors qu'elles sont habituellement postérieures sur utérus sain.
+Elle se produit le plus souvent en *ante partum* mais peut être diagnostiquée dans le *post partum* (source d'hémorragie) ou pendant la césarienne mais surtout lors de la révision utérine systématique devant toute hémorragie obstétricale. Les ruptures sur utérus cicatriciel sont le plus souvent antérieures alors qu'elles sont habituellement postérieures sur utérus sain.
 
 ### 6. Les causes indirectes ou préexistantes
 
@@ -129,13 +129,13 @@ A l'origine de troubles d'hémostase d'installation rapide, il est favorisé par
 
 L'apparition de troubles de la coagulation est péjorative et constitue un des arguments en faveur d'une évacuation immédiate en cas de contexte connu .
 
-#### Rétention d'oeuf mort _in utero_
+#### Rétention d'oeuf mort *in utero*
 
 Elle se voit souvent dans les pays en développement.
 
-_**Placenta praevia**_
+***Placenta praevia***
 
-Insertion anormale du placenta au niveau du segment inférieur, ce type d'insertion placentaire favorise les hémorragies du _post partum_, mécaniquement, par défaut de rétraction utérine.
+Insertion anormale du placenta au niveau du segment inférieur, ce type d'insertion placentaire favorise les hémorragies du *post partum*, mécaniquement, par défaut de rétraction utérine.
 
 **Embolie amniotique**
 
@@ -161,7 +161,7 @@ Les **formes sévères**  peuvent soit découler de l'évolution négligée (da
 
 Rarement, le syndrome hémorragique se révélera par des anomalies biologiques de consommation des facteurs de coagulation (fibrinogène abaissé, facteurs V et VII diminués, thrombopénie, autres facteurs XII, XIII, protéine C, antithrombine III diminués) et hypocoagulabilité (TCA élevé, TP < 50 %, PDF élevés, D-dimères élevés). Cependant, la biologie permettra de poser le diagnostic de coagulation intravasculaire (CIV, d'adapter le traitement, en particulier substitutif, et de suivre l'évolution. (Nous développerons l'étude de la coagulation dans l'une de nos prochaines éditions)
 
-L'hémorragie de la délivrance pouvant survenir dans les 24 premières heures, la parturiente nécessite une _surveillance attentive de_ chaque acteur de l'accouchement dans ce laps de temps: prise de TA et du pouls, coloration cutanée, surveillance des garnitures, tonicité utérine, expression utérine. L'apparition de signes généraux : pâleur, sueur, soif, lipothymies, d'une accélération du pouls, d'une chute de la TA, d'une ascension du fond utérin qui est étalé et mou, de garnitures rouges dans les 24 heures doit faire rechercher un saignement interne ou de la filière génitale.
+L'hémorragie de la délivrance pouvant survenir dans les 24 premières heures, la parturiente nécessite une *surveillance attentive de* chaque acteur de l'accouchement dans ce laps de temps: prise de TA et du pouls, coloration cutanée, surveillance des garnitures, tonicité utérine, expression utérine. L'apparition de signes généraux : pâleur, sueur, soif, lipothymies, d'une accélération du pouls, d'une chute de la TA, d'une ascension du fond utérin qui est étalé et mou, de garnitures rouges dans les 24 heures doit faire rechercher un saignement interne ou de la filière génitale.
 
 ## V.Traitement
 
@@ -171,15 +171,15 @@ Comme le diagnostic, il nécessite une étroite collaboration entre les équipes
 
 C'est la principale cause du choc hypovolémique. Plusieurs gestes immédiats sont à faire, évitant ainsi la mise en place du cercle vicieux :
 
-*   **Décubitus latéral gauche :** dans le cas d'hémorragie massive, la position en Trendelenburg est recommandée.  
-*   **Oxygénation** **nasale** ou au masque (6 à 8 I/min).  
-*   **Mise en place d'une ou deux voies** **veineuses périphériques :** elles doivent être sûres et efficaces : 14 à 16 Gauges. Parfois une dénudation chirurgicale peut être réalisée. Si une voie centrale est nécessaire, elle ne doit être posée qu'en dehors de troubles de l'hémostase.  
-*   **Bilan sanguin minimal :** Groupe-Rhésus, RAI*, NFS, plaquettes, fibrinogène.  
-*   **Remplissage de première intention :** Ringer-lactate, remplissage rapide 500 mI/15 min. Le volume à perfuser représente environ 4 fois le volume supposé perdu.  
-*   **Remplissage par des macromolécules :** surtout s'il existe une hypotension artérielle ou un état de choc. Colloïdes de type Plasmion®, Haemaccel®, ou produits de bas poids moléculaire de type Elohes® : à utiliser associés au solutés de base, remplissage rapide, 500 ml/15 à 30 min.  
-*   **Surveillance tensionnelle :** établissement d'une feuille de surveillance à la recherche d'une TA normale, signe d'une bonne évolution sous remplissage.  
-*   **Le sang total frais (culots, plasma** **frais congelé, voire concentrés plaquettaires si plaquettes < 25 000) :** massif, précoce, nécessaire si la perte sanguine dépasse 30 % de la volémie ou s'il existe des troubles de la coagulation. Il permet d'apporter les facteurs de coagulation déficients et complète la restauration volémique.  
-*   **Une antibiothérapie large sera instaurée :** l'infection pouvant générer ou compliquer tous les troubles de l'hémostase, l'antibiothérapie couvrira les bacilles à Gram négatif, les coccis et les anaérobies (par exemple Augmentin® + Gentalline® ou Totapen® + Flagyl® + Gentalline®).
+- **Décubitus latéral gauche :** dans le cas d'hémorragie massive, la position en Trendelenburg est recommandée.
+- **Oxygénation** **nasale** ou au masque (6 à 8 I/min).
+- **Mise en place d'une ou deux voies** **veineuses périphériques :** elles doivent être sûres et efficaces : 14 à 16 Gauges. Parfois une dénudation chirurgicale peut être réalisée. Si une voie centrale est nécessaire, elle ne doit être posée qu'en dehors de troubles de l'hémostase.
+- **Bilan sanguin minimal :** Groupe-Rhésus, RAI\*, NFS, plaquettes, fibrinogène.
+- **Remplissage de première intention :** Ringer-lactate, remplissage rapide 500 mI/15 min. Le volume à perfuser représente environ 4 fois le volume supposé perdu.
+- **Remplissage par des macromolécules :** surtout s'il existe une hypotension artérielle ou un état de choc. Colloïdes de type Plasmion®, Haemaccel®, ou produits de bas poids moléculaire de type Elohes® : à utiliser associés au solutés de base, remplissage rapide, 500 ml/15 à 30 min.
+- **Surveillance tensionnelle :** établissement d'une feuille de surveillance à la recherche d'une TA normale, signe d'une bonne évolution sous remplissage.
+- **Le sang total frais (culots, plasma** **frais congelé, voire concentrés plaquettaires si plaquettes < 25 000) :** massif, précoce, nécessaire si la perte sanguine dépasse 30 % de la volémie ou s'il existe des troubles de la coagulation. Il permet d'apporter les facteurs de coagulation déficients et complète la restauration volémique.
+- **Une antibiothérapie large sera instaurée :** l'infection pouvant générer ou compliquer tous les troubles de l'hémostase, l'antibiothérapie couvrira les bacilles à Gram négatif, les coccis et les anaérobies (par exemple Augmentin® + Gentalline® ou Totapen® + Flagyl® + Gentalline®).
 
 ### 2. Traitement obstétrical
 
@@ -197,13 +197,13 @@ Parfois on injectera directement 10 UI d'ocytocine dans le muscle utérin en tra
 
 #### Procédés manuels
 
-*   Massage utérin prolongé en transabdominal ou directement lors d'une césarienne. Cela peut être prolongé par la pose d'un sac de sable pendant 12 heures sur le ventre ;
+- Massage utérin prolongé en transabdominal ou directement lors d'une césarienne. Cela peut être prolongé par la pose d'un sac de sable pendant 12 heures sur le ventre ;
 
-*   Traction vers le bas du col utérin selon Pollosson à l'aide de pinces de Museux placées sur le col (plus ou moins reliées à un poids de un kg) puis rotation de 180° de l'axe utérin permettant une plicature des artères utérines selon Malinas ;
+- Traction vers le bas du col utérin selon Pollosson à l'aide de pinces de Museux placées sur le col (plus ou moins reliées à un poids de un kg) puis rotation de 180° de l'axe utérin permettant une plicature des artères utérines selon Malinas ;
 
-*   compression utérine par un méchage ou "bourrage" vaginal et/ou intra-utérin (lors d'une césarienne);
+- compression utérine par un méchage ou "bourrage" vaginal et/ou intra-utérin (lors d'une césarienne);
 
-*   Compression manuelle de l'aorte abdominale en transabdominal.
+- Compression manuelle de l'aorte abdominale en transabdominal.
 
 ### 3.Traitement chirurgical
 
@@ -211,9 +211,9 @@ Il faut savoir attendre l'effet des manoeuvres réanimatoires (restauration de l
 
 #### a. Les ligatures vasculaires
 
-*   ligature des artères utérines;
-*   méthode de Tsirulnikov: ligature des pédicules utérins, des ligaments ronds et utéro-ovariens après extériorisation de l'utérus : diminution du débit sanguin de 90 % et rétraction utérine par spasme anoxique.  
-*   ligature des artères hypogastriques: chute du débit de 50 %, importance du réseau collatéral.
+- ligature des artères utérines;
+- méthode de Tsirulnikov: ligature des pédicules utérins, des ligaments ronds et utéro-ovariens après extériorisation de l'utérus : diminution du débit sanguin de 90 % et rétraction utérine par spasme anoxique.
+- ligature des artères hypogastriques: chute du débit de 50 %, importance du réseau collatéral.
 
 Dans tous les cas, les ligatures peuvent se pratiquer au fil à résorption rapide permettant une reperméabilisation au bout de 10 jours et donc une potentialité de grossesse ultérieure.
 
@@ -235,35 +235,33 @@ Dépister les pathologies et les risques;
 
 Coopération anesthésico-obstétricale :
 
-*   respecter le bon déroulement et la physiologie du travail et de la délivrance. Ne pas vouloir extraire trop prématurément un placenta non décollé.  
-*   surveiller la délivrance: ne pas avoir de retard
-*   avant l'expulsion, délivrance si hémorragie supérieure à 500 ml ou si délai supérieur à 30 mn,
-*   après l'expulsion, révision utérine à chaque fois que le placenta est incomplet ou douteux, qu'il existe un risque inertiel (utérus surdistendu, siège, utérus malformé ou fibromateux... On vérifiera la filière cervicovaginale aisément s'il existe un soupçon de lésion traumatique la mise sous ocytociques sera facile;
-*   compensation immédiate des pertes sanguines: groupe sanguin, RAI*, voie veineuse dès l'entrée en salle de travail, mesures réanimatoires rapides.
+- respecter le bon déroulement et la physiologie du travail et de la délivrance. Ne pas vouloir extraire trop prématurément un placenta non décollé.
+- surveiller la délivrance: ne pas avoir de retard
+- avant l'expulsion, délivrance si hémorragie supérieure à 500 ml ou si délai supérieur à 30 mn,
+- après l'expulsion, révision utérine à chaque fois que le placenta est incomplet ou douteux, qu'il existe un risque inertiel (utérus surdistendu, siège, utérus malformé ou fibromateux... On vérifiera la filière cervicovaginale aisément s'il existe un soupçon de lésion traumatique la mise sous ocytociques sera facile;
+- compensation immédiate des pertes sanguines: groupe sanguin, RAI\*, voie veineuse dès l'entrée en salle de travail, mesures réanimatoires rapides.
 
 #### Après l'accouchement
 
-*   surveillance 2 heures en salle de travail
-*   surveillance 24 heures minimum de toute accouchée en milieu hospitalier.  
-*   évaluation régulière des pratiques professionnelles, surtout en cas d'incident.
+- surveillance 2 heures en salle de travail
+- surveillance 24 heures minimum de toute accouchée en milieu hospitalier.
+- évaluation régulière des pratiques professionnelles, surtout en cas d'incident.
 
-### **5. Complications**
+### 5. Complications
 
-*   **Décès maternel :** la fréquence dépend de l'étiologie; l'embolie amniotique est mortelle dans plus de 70 %.  
-*   **Syndrome de Sheehan :** responsable d'un panhypopituitarisme qui nécessitera une hormonothérapie substitutive.  
-*   **Insuffisance rénale :** par nécrose corticale pouvant indiquer des dialyses voire une transplantation.  
-*   **Risque virémique majeur :** hépatite B et C post-transfusionnelles, transmission du virus HIV, pathologies majeures en pays en voie de développement.  
-*   **Risque** **thromboembolique** **majoré :** nécessitant une héparinothérapie dès le retour à la normale de la coagulation.  
-*   **Risque infectieux.**
+- **Décès maternel :** la fréquence dépend de l'étiologie; l'embolie amniotique est mortelle dans plus de 70 %.
+- **Syndrome de Sheehan :** responsable d'un panhypopituitarisme qui nécessitera une hormonothérapie substitutive.
+- **Insuffisance rénale :** par nécrose corticale pouvant indiquer des dialyses voire une transplantation.
+- **Risque virémique majeur :** hépatite B et C post-transfusionnelles, transmission du virus HIV, pathologies majeures en pays en voie de développement.
+- **Risque** **thromboembolique** **majoré :** nécessitant une héparinothérapie dès le retour à la normale de la coagulation.
+- **Risque infectieux.**
 
 ## Conclusion
 
-Le dépistage des grossesses à haut risque, l'importance de la précocité du traitement symptomatique, la nécessité des vérifications locales, une étroite collaboration entre les différents acteurs de l'accouchement permettront de ne pas prendre de retard, de rompre le cercle vicieux des troubles de coagulation et enfin de réduire l'incidence et la gravité des hémorragies en obstétrique en général, et du _post partum_ en particulier. La clinique doit rester le principal guide, les critères biologiques ne devant pas constituer un carcan dogmatique mais rester un indicateur de suivi thérapeutique efficace.
+Le dépistage des grossesses à haut risque, l'importance de la précocité du traitement symptomatique, la nécessité des vérifications locales, une étroite collaboration entre les différents acteurs de l'accouchement permettront de ne pas prendre de retard, de rompre le cercle vicieux des troubles de coagulation et enfin de réduire l'incidence et la gravité des hémorragies en obstétrique en général, et du *post partum* en particulier. La clinique doit rester le principal guide, les critères biologiques ne devant pas constituer un carcan dogmatique mais rester un indicateur de suivi thérapeutique efficace.
 
-* Recherche d'agglutinines irrégulières.
-
+- Recherche d'agglutinines irrégulières.
 
 ![](i776-1.jpg)
 
-
-_Développement et Santé, n°197/198,2010_
+*Développement et Santé, n°197/198,2010*

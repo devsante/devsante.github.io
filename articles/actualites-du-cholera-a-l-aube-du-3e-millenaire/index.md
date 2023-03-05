@@ -18,7 +18,7 @@ Le choléra est connu depuis l'Antiquité grecque ; il a été identifié pour l
 
 Ce n'est qu'au début du XIX<sup>e</sup> siècle (1817), lorsque les moyens de communication par voie maritime se sont considérablement accélérés, qu'il s'est étendu au reste du monde, réalisant 7 pandémies.
 
-La 7<sup>e</sup> pandémie a débuté en 1961 par une série d'épidémies partie des îles Célèbes en Indonésie. Le point de départ a été l'Indonésie et non plus le foyer indien traditionnel. Cette nouvelle origine géographique s'est accompagnée d'un changement de caractère bactériologique majeur . Le germe en cause n'est plus _Vibrio cholerae_ classique, mais un germe voisin _Vibrio El Tor_ présentant des caractères biochimiques particuliers. L'épidémie a gagné toute l'Asie de l'Est, le Bangladesh, l'Inde, l'URSS, l'Afghanistan, l'Iran, l'Irak de 1965 à 1970 puis le Moyen-Orient.
+La 7<sup>e</sup> pandémie a débuté en 1961 par une série d'épidémies partie des îles Célèbes en Indonésie. Le point de départ a été l'Indonésie et non plus le foyer indien traditionnel. Cette nouvelle origine géographique s'est accompagnée d'un changement de caractère bactériologique majeur . Le germe en cause n'est plus *Vibrio cholerae* classique, mais un germe voisin *Vibrio El Tor* présentant des caractères biochimiques particuliers. L'épidémie a gagné toute l'Asie de l'Est, le Bangladesh, l'Inde, l'URSS, l'Afghanistan, l'Iran, l'Irak de 1965 à 1970 puis le Moyen-Orient.
 
 En 1970, il atteint l'Afrique jusque-là épargnée, au nord par l'Égypte, la Libye et le Maghreb ; à l'est par la Somalie, l'Éthiopie puis toute l'Afrique de l'Est ; à l'ouest, le long des côtes à partir de la Guinée il atteint toute l'Afrique de l'Ouest. Depuis il reste à l'état endémique dans certains pays d'Afrique comme la région des Grands Lacs, avec des poussées paroxystiques d'épidémie, le plus souvent en relation avec des
 
@@ -26,7 +26,7 @@ déplacements de populations dus à une instabilité politique, comme en 1994 o�
 
 En 1991, le choléra atteint l'Amérique latine, qui n'avait plus eu de cas depuis 1897. L'épidémie a débuté le long des côtes du Pérou en janvier 1991. Il est probable que la souche pathogène provienne d'Asie par voie maritime. L'épidémie a été dévastatrice : elle a touché 17 pays en Amérique centrale et du Sud avec 1 million de cas en 4 ans de 1991 à 1994. Des mesures préventives d'éducation sanitaire ont permis de réduire la maladie. Une bonne prise en charge du problème par les autorités sanitaires et la formation du personnel ont permis aussi de faire baisser le taux de mortalité.
 
-En 1992, une importante épidémie de choléra est survenue dans le Sud de l'Inde et s'est propagée le long du golfe du Bengale jusqu'au Bangladesh. On dénombrait 100 000 cas en 3 mois. Cette épidémie est due à une nouvelle souche de _Vibrio cholerae_, une souche dite non-O1 ; seules les souches O1 connues comme pathogènes, étaient à l'origine des épidémies de choléra. Cette nouvelle souche a été identifiée comme appartenant au serovar O139 Bengale et possède tous les facteurs des souches O1. Est-ce le début de la 8<sup>e</sup> pandémie ?
+En 1992, une importante épidémie de choléra est survenue dans le Sud de l'Inde et s'est propagée le long du golfe du Bengale jusqu'au Bangladesh. On dénombrait 100 000 cas en 3 mois. Cette épidémie est due à une nouvelle souche de *Vibrio cholerae*, une souche dite non-O1 ; seules les souches O1 connues comme pathogènes, étaient à l'origine des épidémies de choléra. Cette nouvelle souche a été identifiée comme appartenant au serovar O139 Bengale et possède tous les facteurs des souches O1. Est-ce le début de la 8<sup>e</sup> pandémie ?
 
 **L'état actuel du choléra dans le monde**
 
@@ -36,17 +36,17 @@ Le choléra reste encore d'actualité dans le monde. En 1998, plus de 240 000 ca
 
 **1. L'agent pathogène**
 
-_Vibrio cholerae_ est une bactérie Gram négatif qui sécrète une toxine extrêmement puissante (exotoxine). Parmi les nombreux serogroupes (ou serovars) de _V. cholerae,_ seuls sont pathogènes les souches O1 pandémiques (avec les biovars cholerae classique et El Tor) et les nouvelles souches non-O1 épidémiques (O139 Bengale et O37 Soudan).
+*Vibrio cholerae* est une bactérie Gram négatif qui sécrète une toxine extrêmement puissante (exotoxine). Parmi les nombreux serogroupes (ou serovars) de *V. cholerae,* seuls sont pathogènes les souches O1 pandémiques (avec les biovars cholerae classique et El Tor) et les nouvelles souches non-O1 épidémiques (O139 Bengale et O37 Soudan).
 
-Le _Vibrio cholerae_ se développe bien : dans l'eau (> à 15°), les milieux humides alcalins (ph > 8) et salés. Il vit des années dans l'eau profonde et saumâtre (estuaire). Il vit plusieurs jours dans les poissons et crustacés contaminés, dans les déjections humaines (6 à 10 j), à la surface des aliments souillés (2 j). Il résiste bien au froid (10 jours à une température de 5 à 10°).
+Le *Vibrio cholerae* se développe bien : dans l'eau (> à 15°), les milieux humides alcalins (ph > 8) et salés. Il vit des années dans l'eau profonde et saumâtre (estuaire). Il vit plusieurs jours dans les poissons et crustacés contaminés, dans les déjections humaines (6 à 10 j), à la surface des aliments souillés (2 j). Il résiste bien au froid (10 jours à une température de 5 à 10°).
 
-En revanche, le _Vibrio cholerae_ est détruit par le soleil, la dessiccation, la chaleur sèche, le chauffage (> 70°), la Javel et par les milieux acides (donc l'acidité gastrique).
+En revanche, le *Vibrio cholerae* est détruit par le soleil, la dessiccation, la chaleur sèche, le chauffage (> 70°), la Javel et par les milieux acides (donc l'acidité gastrique).
 
 **2. Mode de contamination**
 
-Le réservoir permanent est le milieu aquatique, saumâtre (comme les estuaires), le plancton, les algues. En période d'épidémie le réservoir est strictement humain (malade infecté, porteur asymptomatique ou convalescent). Il existe plus de 90 % de porteurs sains en période d'endémie. La durée moyenne de survie du _Vibrio_ chez le porteur est de 6 à 10 jours.
+Le réservoir permanent est le milieu aquatique, saumâtre (comme les estuaires), le plancton, les algues. En période d'épidémie le réservoir est strictement humain (malade infecté, porteur asymptomatique ou convalescent). Il existe plus de 90 % de porteurs sains en période d'endémie. La durée moyenne de survie du *Vibrio* chez le porteur est de 6 à 10 jours.
 
-Le _Vibrio cholerae_ est éliminé par les selles ou vomissements des malades ou porteurs sains et pénètre chez le sujet neuf par voie digestive. Ce passage s'effectue :
+Le *Vibrio cholerae* est éliminé par les selles ou vomissements des malades ou porteurs sains et pénètre chez le sujet neuf par voie digestive. Ce passage s'effectue :
 
 - soit directement, par contact étroit avec les malades (par les déjections riches en vibrions) ou les cadavres (encore plus contagieux) ;
 
@@ -54,7 +54,7 @@ Le _Vibrio cholerae_ est éliminé par les selles ou vomissements des malades ou
 
 **3. Les facteurs favorisants**
 
-Le Vibrion est normalement détruit lorsqu'il est absorbé en petite quantité par l'acidité de l'estomac (1<sup>re</sup> barrière) et par la population bactérienne saprophyte du tube digestif (2<sup>e</sup> barrière). Certains facteurs favorisent le passage du _Vibrio_ jusqu'à l'intestin grêle :
+Le Vibrion est normalement détruit lorsqu'il est absorbé en petite quantité par l'acidité de l'estomac (1<sup>re</sup> barrière) et par la population bactérienne saprophyte du tube digestif (2<sup>e</sup> barrière). Certains facteurs favorisent le passage du *Vibrio* jusqu'à l'intestin grêle :
 
 - il faut une forte charge infectante ; il faut donc ingérer une grande quantité d'eau ou d'aliments contaminés ;
 
@@ -62,13 +62,13 @@ Le Vibrion est normalement détruit lorsqu'il est absorbé en petite quantité p
 
 Les principaux facteurs épidémiologiques favorisants sont :
 
-_- le niveau socio-économique_ bas qui conditionne les problèmes d'hygiène, avec absence d'eau potable, de latrines, la promiscuité, la surpopulation, mais aussi les conditions de peuplement ;
+*- le niveau socio-économique* bas qui conditionne les problèmes d'hygiène, avec absence d'eau potable, de latrines, la promiscuité, la surpopulation, mais aussi les conditions de peuplement ;
 
 - la concentration humaine est le dénominateur commun de toute apparition du choléra (déplacements de populations après guerre, famine, catastrophes naturelles ou grands rassemblements humains comme les pèlerinages, les fêtes et les marchés) ;
 
-_- l'insuffisance des structures sanitaires_ joue un rôle important dans l'extension de l'épidémie. Lorsqu'il y a une bonne prise en charge des premiers cas de choléra et qu'une prévention est d'emblée effectuée, l'épidémie s'arrête ;
+*- l'insuffisance des structures sanitaires* joue un rôle important dans l'extension de l'épidémie. Lorsqu'il y a une bonne prise en charge des premiers cas de choléra et qu'une prévention est d'emblée effectuée, l'épidémie s'arrête ;
 
-_- les facteurs environnementaux_ conditionnent la survie de _V. cholerae_ (milieu humide, salé, alcalin, température ... ). Les changements de l'environnement souvent induits par l'activité et le comportement humain sont souvent à l'origine d'épidémies de choléra. L'augmentation de la population, la concentration urbaine associée à une paupérisation et à une urbanisation sauvage sont des facteurs essentiels de l'augmentation régulière du nombre de cas de choléra dans le monde.
+*- les facteurs environnementaux* conditionnent la survie de *V. cholerae* (milieu humide, salé, alcalin, température ... ). Les changements de l'environnement souvent induits par l'activité et le comportement humain sont souvent à l'origine d'épidémies de choléra. L'augmentation de la population, la concentration urbaine associée à une paupérisation et à une urbanisation sauvage sont des facteurs essentiels de l'augmentation régulière du nombre de cas de choléra dans le monde.
 
 Les changements environnementaux d'origine climatique tels que le fameux El Nino, associés au réchauffement de la planète et accélérés par la déforestation, sont à l'origine de sécheresses ou d'inondations entraînant des changements de l'écosystème. Tous ces changements peuvent être à l'origine de la résurgence du choléra.
 
@@ -112,25 +112,23 @@ Elles se résument à une diarrhée banale (gastroentérite). Elles sont beaucou
 
 La prévention est essentielle dans la lutte contre le choléra, surtout dans les pays où le niveau sanitaire est rudimentaire. L'hygiène de l'eau, de l'alimentation, des mains, des selles et les méthodes de chloration par l'eau de Javel sont les meilleurs -outils de prévention du choléra, en zone d'endémie. Ils doivent être enseignés aux populations menacées dans des programmes de Santé publique: information de la population (radio locale, affiches), formation des agents de santé à l'éducation sanitaire de la population et participation de la population aux mesures préventives par des comités villageois bénévoles. La prophylaxie générale en zone d'endémie repose aussi sur l'amélioration des conditions de vie, l'aménagement de réseaux protégés d'eau potable et de réseaux d'eaux usées, le dépistage des porteurs sains.
 
-
 ![](i850-1.jpg)
 
 ![](i850-2.jpg)
 
-
 Les mesures préventives moins efficaces sont :
 
-- _la chimioprophylaxie de masse_ (exemple: 1 dose de doxycycline) est pratiquement impossible à réaliser et très chère : il faudrait que toute la population soit traitée simultanément (l'efficacité du traitement ne durant que quelques jours après quoi la réinfestation est possible). D'autre part, la chimioprophylaxie de masse contribue à l'émergence de résistances privant ainsi les cas sévères d'un traitement efficace. Enfin elle donne une fausse sécurité à la population et aux autorités sanitaires qui négligent les autres mesures préventives efficaces comme la chloration...
+- *la chimioprophylaxie de masse* (exemple: 1 dose de doxycycline) est pratiquement impossible à réaliser et très chère : il faudrait que toute la population soit traitée simultanément (l'efficacité du traitement ne durant que quelques jours après quoi la réinfestation est possible). D'autre part, la chimioprophylaxie de masse contribue à l'émergence de résistances privant ainsi les cas sévères d'un traitement efficace. Enfin elle donne une fausse sécurité à la population et aux autorités sanitaires qui négligent les autres mesures préventives efficaces comme la chloration...
 
-_- la Vaccination :_ le vaccin parentéral n'est plus recommandé du fait de sa faible efficacité. Il conférait une protection incomplète (50 %) et brève " 6 mois). D'autre part il ne diminuait pas l'incidence des affections asymptomatiques.
+*- la Vaccination :* le vaccin parentéral n'est plus recommandé du fait de sa faible efficacité. Il conférait une protection incomplète (50 %) et brève " 6 mois). D'autre part il ne diminuait pas l'incidence des affections asymptomatiques.
 
 Depuis une quinzaine d'années, des progrès majeurs ont été réalisés dans l'élaboration de vaccins oraux. Deux vaccins oraux sont actuellement en cours de développement et d'évaluation.
 
-Le vaccin tué Cholerix (SLB Vaccins AB Suède) est constitué de _V. cholerae_ 01 entier, associé à la sous-unité B de la toxine cholérique obtenue par génie génétique.
+Le vaccin tué Cholerix (SLB Vaccins AB Suède) est constitué de *V. cholerae* 01 entier, associé à la sous-unité B de la toxine cholérique obtenue par génie génétique.
 
-Administré en 2 doses à 7 jours d'intervalle, il confère une semaine plus tard un degré élevé de protection (85 %) contre le choléra O1 pendant 6 mois, diminuant à 50 % au bout de trois ans. Il est moins efficace contre _El Tor_ que contre le _Vibrio_ classique.
+Administré en 2 doses à 7 jours d'intervalle, il confère une semaine plus tard un degré élevé de protection (85 %) contre le choléra O1 pendant 6 mois, diminuant à 50 % au bout de trois ans. Il est moins efficace contre *El Tor* que contre le *Vibrio* classique.
 
-Le vaccin vivant Orochol Berna (Inst. suisse des sérums et vaccins) contient la souche CVD 103-HgR de _V. cholerae_ O1 génétiquement modifiée et atténuée ; administrée en une seule dose, il confère dès le 7<sup>e</sup> jour une forte protection contre le _V_. _cholerae_ classique (proche de 100 %) ou _El Tor_ (62 %) durant au moins 3 mois. Bien qu'on dispose déjà d'une vaste expérience de ce vaccin dans les pays en développement d'Asie et d'Amérique latine, il n'a pas été évalué en Afrique subsaharienne. Il est nécessaire d'établir préalablement son innocuité chez les sujets infectés par le VIH.
+Le vaccin vivant Orochol Berna (Inst. suisse des sérums et vaccins) contient la souche CVD 103-HgR de *V. cholerae* O1 génétiquement modifiée et atténuée ; administrée en une seule dose, il confère dès le 7<sup>e</sup> jour une forte protection contre le *V*. *cholerae* classique (proche de 100 %) ou *El Tor* (62 %) durant au moins 3 mois. Bien qu'on dispose déjà d'une vaste expérience de ce vaccin dans les pays en développement d'Asie et d'Amérique latine, il n'a pas été évalué en Afrique subsaharienne. Il est nécessaire d'établir préalablement son innocuité chez les sujets infectés par le VIH.
 
 **V. Conclusion**
 
@@ -138,4 +136,4 @@ Maladie de la pauvreté, du manque d'hygiène et des concentrations de populatio
 
 En attendant la commercialisation des futurs vaccins oraux actifs sur les souches O1 et O139, l'hygiène alimentaire et corporelle, les méthodes de chloration par l'eau de Javel sont les meilleurs outils de prévention du choléra et doivent être enseignés aux populations menacées.
 
-_Développement et Santé, n°142, août 1999_
+*Développement et Santé, n°142, août 1999*

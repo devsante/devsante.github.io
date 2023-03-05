@@ -5,7 +5,7 @@ date: "2013-01-29"
 
 Selon l'OMS, elle pourrait être éradiquée d'ici 2015.
 
-Cette maladie est due à un ver qui s'appelle en latin _Dracunculus médinensis_ ("petit démon" de Médine). C'est pour cela qu'elle a aussi pour nom filaire de Médine, mais on parle aussi de ver de Guinée ou de dragonneau. C'est une maladie connue depuis très longtemps.
+Cette maladie est due à un ver qui s'appelle en latin *Dracunculus médinensis* ("petit démon" de Médine). C'est pour cela qu'elle a aussi pour nom filaire de Médine, mais on parle aussi de ver de Guinée ou de dragonneau. C'est une maladie connue depuis très longtemps.
 
 L'homme se contamine en buvant de l'eau contenant des petits crustacés d'eau douce parasités.  
 Cette maladie ne tue en général pas mais est responsable de très lourds handicaps qui empêchent notamment d'aller travailler. Au Mali cette maladie est ainsi baptisée "maladie des greniers vides".  
@@ -13,6 +13,6 @@ Il y a encore quelques années , il y avait des millions de malades. En 2012, se
 
 Comment en est-on arrivé là?  
 Essentiellement par un changement de certains comportements et par la participation active des communautés locales en lien avec les responsables de la santé. Il n'y a pas de médicaments efficaces. Seul le dépistage des malades, l'amélioration des conditions sanitaires, notamment l'accès à une eau potable et l'éducation des populations  ont permis ces progrès.  
-Mais la persistance de cette maladie dans des pays en guerre risque de retarder l'éradication complète de la dracunculose. La paix, elle aussi, est un acteur important de la santé.  
+Mais la persistance de cette maladie dans des pays en guerre risque de retarder l'éradication complète de la dracunculose. La paix, elle aussi, est un acteur important de la santé.
 
 Par Christian Mongin, médecin gé,éraliste, Evry

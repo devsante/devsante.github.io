@@ -8,13 +8,13 @@ date: "2014-06-10"
 
 Avec le développement des courants migratoires des pays d’Afrique sub-saharienne vers les pays de l’OCDE, les mutilations sexuelles féminines sont devenues un problème juridique, social et sanitaire dans les pays où elles n’étaient pas présentes. L’OMS estime ainsi que 5 % des femmes et filles mutilées vivraient dans les pays du Nord, d’immigration africaine. C’est tout particulièrement le cas en Europe depuis une trentaine d’années : la présence de femmes mutilées est liée à la féminisation des flux migratoires en provenance d’Afrique, qui s’est amorcée à la fin des années 1970. Si l’ensemble des pays européens n’est pas concerné dans les mêmes proportions, le parlement s’est néanmoins saisi de la question dès le début des années 2000 : une première résolution a été adoptée en 2001, condamnant les mutilations sexuelles féminines, et une seconde résolution sur la lutte contre ces pratiques dans l’Union Européenne est venue renforcer le dispositif en 2009 (1).
 
-### **Combien de femmes concernées en Europe ?**
+### Combien de femmes concernées en Europe ?
 
 La prévalence des MSF en Europe reste toutefois très mal connue : la résolution du Parlement européen du 24 Mars 2009 mentionne que 500 000 femmes vivant en Europe ont subi des MSF et que, chaque année, 180 000 femmes migrantes seraient à risque de subir ce type de pratiques, mais sans préciser la source de ces chiffres. Plusieurs pays européens ont cependant commencé à mener des enquêtes sur cette question afin de mieux connaitre l'étendue des MSF sur leur territoire. Cette connaissance est essentielle pour la mise en place de politique de lutte contre ces pratiques (2, 3).
 
 Mais il est difficile de repérer et de comptabiliser les femmes concernées. Dans l’absolu, c’est seulement par un examen clinique de la région génitale des femmes que l’on pourrait comptabiliser le nombre de cas. Ce type de procédé est évidemment inenvisageable pour des raisons à la fois logistiques mais aussi et avant tout éthiques. C’est un phénomène qui concerne une population rare, qui touche un sujet tabou, marginal et pénalement réprimé et qui exige une expertise encore très peu répandue de la part des professionnels de santé. Enfin, une partie des femmes concernées est dans l’ignorance de son statut et la question fondamentale du respect de leur intégrité se poserait inexorablement dans ce cas.
 
-Les enquêtes menées pour mieux connaître le phénomène sont donc généralement des enquêtes déclaratives ou indirectes qui permettent de produire une estimation de l’ampleur du phénomène. A l’heure actuelle, il n’existe pas d’enquête standardisée en Europe (au contraire des pays africains (voir l’article de C. Cappa : [http://devsante.org/base-documentaire/sante-publique-prevention/mutilati...](http://devsante.org/base-documentaire/sante-publique-prevention/mutilations-genitales-femininesexcision-bilan-statistiqu "http://devsante.org/base-documentaire/sante-publique-prevention/mutilations-genitales-femininesexcision-bilan-statistiqu")). Il existe cependant une étude européenne en cours, portée par l’EIGE sous la direction de Els Leye, et quelques estimations existent pour les pays les plus concernés par le sujet. Les situations sont très variables selon l’ancienneté des flux migratoires (4).
+Les enquêtes menées pour mieux connaître le phénomène sont donc généralement des enquêtes déclaratives ou indirectes qui permettent de produire une estimation de l’ampleur du phénomène. A l’heure actuelle, il n’existe pas d’enquête standardisée en Europe (au contraire des pays africains (voir l’article de C. Cappa : [<http://devsante.org/base-documentaire/sante-publique-prevention/mutilati>...](http://devsante.org/base-documentaire/sante-publique-prevention/mutilations-genitales-femininesexcision-bilan-statistiqu "http://devsante.org/base-documentaire/sante-publique-prevention/mutilations-genitales-femininesexcision-bilan-statistiqu")). Il existe cependant une étude européenne en cours, portée par l’EIGE sous la direction de Els Leye, et quelques estimations existent pour les pays les plus concernés par le sujet. Les situations sont très variables selon l’ancienneté des flux migratoires (4).
 
 <table>
 
@@ -85,17 +85,17 @@ Pays Bas
 
 <td>
 
--
+\-
 
 4 000
 
 30 000
 
--
+\-
 
 2 000
 
--
+\-
 
 </td>
 
@@ -109,7 +109,8 @@ Pays Bas
 
 La plupart des pays européens se sont donc engagés dans la lutte contre les MSF à travers le renforcement de leur arsenal juridique visant à pénaliser ces pratiques, mais aussi à travers la mise en place de politique de prévention à destination des familles. Ces dispositifs ont fait preuve de leur efficacité dans les pays où l’on a assez de recul pour mesurer leurs effets (voir le cas de la France par exemple), mais il reste essentiel de soutenir la prévention auprès des fillettes et jeunes filles vivant en Europe. Les excisions semblent désormais plus rares sur le sol européen, elles restent une menace bien réelle dans la plupart des pays d’origine et ce risque doit donc être systématiquement pris en compte pour les jeunes filles dans les cas de séjour temporaire ou de reconduite dans les pays d’origine. Pour cela, il est essentiel de tenir compte des contextes sociaux et familiaux dans lequel cette pratique s’exerce ou non en contexte migratoire.
 
-## La dynamique sociale autour de l’abandon  
+## La dynamique sociale autour de l’abandon
+
 ou la perpétuation de la pratique
 
 Comment convaincre les parents d’abandonner cette pratique ? Et comment soutenir ceux qui sont déjà convaincus en leur donnant les moyens de s’en tenir à leur décision ? Pour ce faire, il faut comprendre les motivations, les contraintes et les stratégies des familles.
@@ -124,7 +125,7 @@ Le risque, repéré par les associations, de mutilations plus tardives, à l’a
 
 Dans ces dispositifs de prévention, il est essentiel de réussir à impliquer davantage les hommes. Même si ces derniers se déclarent souvent peu concernés par le sujet, les entretiens menés auprès des femmes montrent bien leur rôle prépondérant dans les prises de décisions.
 
-Un autre axe primordial de la prise en charge des MSF reste la formation des praticiens médicaux (médecins, gynécologues, sages-femmes, infirmières, etc.). La formation doit être développée sur les conséquences médicales de l’excision (c’est la démarche initiée dès 2007 par le ministère de la santé avec le concours d’ONG, et les résultats d’enquêtes telles que l’enquête _Excision et Handicap (ExH)_ ont vocation à renforcer les connaissances et la pertinence des protocoles de prise en charge). Mais les professionnels de santé doivent aussi être formés sur le contexte social et familial des femmes et des familles concernées. Les enjeux autour de la sexualité et des dynamiques familiales entre pays d’accueil et pays d’origine doivent être mieux appréhendés (5).
+Un autre axe primordial de la prise en charge des MSF reste la formation des praticiens médicaux (médecins, gynécologues, sages-femmes, infirmières, etc.). La formation doit être développée sur les conséquences médicales de l’excision (c’est la démarche initiée dès 2007 par le ministère de la santé avec le concours d’ONG, et les résultats d’enquêtes telles que l’enquête *Excision et Handicap (ExH)* ont vocation à renforcer les connaissances et la pertinence des protocoles de prise en charge). Mais les professionnels de santé doivent aussi être formés sur le contexte social et familial des femmes et des familles concernées. Les enjeux autour de la sexualité et des dynamiques familiales entre pays d’accueil et pays d’origine doivent être mieux appréhendés (5).
 
 ## Agir au Nord et au Sud
 
@@ -138,20 +139,20 @@ L’enquête socio-démographique Excision et Handicap, réalisée en France en 
 
 **Références**
 
-1. WHO, 2008. Eliminating Female Genital Mutilation an Interagency Statement OHCHR, NAIDS, UNDP, UNECA, UNESCO, UNFPA, UNHCR, UNICEF, UNIFEM.WHO, Geneve.
+1.  WHO, 2008. Eliminating Female Genital Mutilation an Interagency Statement OHCHR, NAIDS, UNDP, UNECA, UNESCO, UNFPA, UNHCR, UNICEF, UNIFEM.WHO, Geneve.
 
-2. Carolan, M., 2010. Pregnancy health status of sub-Saharan refugee women who have resettled in developed countries: a review of the literature. Midwifery 26 (4), 407e414.
+2.  Carolan, M., 2010. Pregnancy health status of sub-Saharan refugee women who have resettled in developed countries: a review of the literature. Midwifery 26 (4), 407e414.
 
-3. Kaplan-Marcusan, A., Toran-Monserrat, P., Moreno-Navarro, J., Castany Fabregas, M.J., Munoz-Ortiz, L., 2009. Perception of primary health professionals about female genital mutilation: from healthcare to intercultural competence. BMC Health Services Research 9, 11.
+3.  Kaplan-Marcusan, A., Toran-Monserrat, P., Moreno-Navarro, J., Castany Fabregas, M.J., Munoz-Ortiz, L., 2009. Perception of primary health professionals about female genital mutilation: from healthcare to intercultural competence. BMC Health Services Research 9, 11.
 
-4. [http://eige.europa.eu/sites/default/files/EIGE-Report-FGM-in-the-EU-and-Croatia.pdf](http://eige.europa.eu/sites/default/files/EIGE-Report-FGM-in-the-EU-and-Croatia.pdf)
+4.  [<http://eige.europa.eu/sites/default/files/EIGE-Report-FGM-in-the-EU-and-Croatia.pdf>](http://eige.europa.eu/sites/default/files/EIGE-Report-FGM-in-the-EU-and-Croatia.pdf)
 
-5. Andro, A., Lesclingand, M., Cambois, E., Cirbeau, C., 2009. Volet quantitatif du projet Excision et Handicap (ExH): Mesure des lésions et traumatismes et évaluation des besoins en chirurgie réparatrice. Rapport final. fileadmin/CRIDUP/Rapport_final_ExH_volet_quantitatif.pdf  (The QuantitativePart of the “Excision and Handicap” (ExH) Project: Measuring Lesions and Trauma and Evaluating the Need for Reconstructive Surgery. Final report).
+5.  Andro, A., Lesclingand, M., Cambois, E., Cirbeau, C., 2009. Volet quantitatif du projet Excision et Handicap (ExH): Mesure des lésions et traumatismes et évaluation des besoins en chirurgie réparatrice. Rapport final. fileadmin/CRIDUP/Rapport_final_ExH_volet_quantitatif.pdf  (The QuantitativePart of the “Excision and Handicap” (ExH) Project: Measuring Lesions and Trauma and Evaluating the Need for Reconstructive Surgery. Final report).
 
-6. WHO study group on female genital mutilation and obstetric outcome, Banks E, Meirik O, Farley T, Akande O, Bathija H, Ali M. Female genital mutilation and obstetric outcome: WHO collaborative prospective study in six African countries.  Lancet. 2006 Jun 3 ; 367(9525) : 1835-41.
+6.  WHO study group on female genital mutilation and obstetric outcome, Banks E, Meirik O, Farley T, Akande O, Bathija H, Ali M. Female genital mutilation and obstetric outcome: WHO collaborative prospective study in six African countries.  Lancet. 2006 Jun 3 ; 367(9525) : 1835-41.
 
-7. Bishai D, Bonnenfant YT, Darwish M, Adam T, Bathija H, Johansen E, Huntington  D; FGM Cost Study Group of World Health Organization. Estimating the obstetric costs of female genital mutilation in six African countries. Bull World Health Organ. 2010 Apr ; 88(4) : 281-8.
+7.  Bishai D, Bonnenfant YT, Darwish M, Adam T, Bathija H, Johansen E, Huntington  D; FGM Cost Study Group of World Health Organization. Estimating the obstetric costs of female genital mutilation in six African countries. Bull World Health Organ. 2010 Apr ; 88(4) : 281-8.
 
-8. Berg  RC, Denison E. Does Female Genital Mutilation/Cutting (FGM/C) Affect Women’s Sexual Functioning? A Systematic Review of the Sexual Consequences of FGM/C Sex Res Soc Policy (2012) 9 : 41–56.
+8.  Berg  RC, Denison E. Does Female Genital Mutilation/Cutting (FGM/C) Affect Women’s Sexual Functioning? A Systematic Review of the Sexual Consequences of FGM/C Sex Res Soc Policy (2012) 9 : 41–56.
 
-9. Andro A, Cambois E, Lesclingand M. Long-term consequences of female genital mutilation in a European context: self perceived health of FGM women compared to non-FGM women. Soc Sci Med. 2014 Apr ; 106 : 177-84.
+9.  Andro A, Cambois E, Lesclingand M. Long-term consequences of female genital mutilation in a European context: self perceived health of FGM women compared to non-FGM women. Soc Sci Med. 2014 Apr ; 106 : 177-84.

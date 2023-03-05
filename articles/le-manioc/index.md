@@ -8,7 +8,7 @@ Le manioc est cultivé essentiellement pour ses racines (tubercules), qui entre 
 
 On utilise aussi ses feuilles et accessoirement ses tiges qui servent parfois à préparer un sel alimentaire.
 
-## **La production**
+## La production
 
 Le manioc est originaire d'Amérique du Sud. Il est produit dans les pays tropicaux et subtropicaux d'Amérique, d'Afrique et d'Asie. Selon les pays, il prend différents noms: **cassava** dans les pays anglophones d'Afrique, **tapioca** (Malaisie, Indonésie, Inde, Pacifique), **manihot,** **mandioca** et **uca** en Amérique latine, **bafilinapaka** (République malgache), **Bankye** (Ghana), **Agbeli** (Togo) et **mandioka** (Gambie).
 
@@ -26,24 +26,24 @@ Tous ces avantages expliquent son expansion, aux dépens des cultures de mais et
 
 Les racines ou tubercules sont en nombre variable, en direction oblique dans le sol et mesurent de quarante centimètres à deux mètres de long. Selon la teneur en acide cyanhydrique de ces tubercules, on peut grouper les nombreuses variétés de manioc en deux catégories principales:
 
-*   **le manioc doux:** cultivé pour la consommation locale de ses tubercules;
-*   **le manioc amer:** surtout utilisé pour la préparation de fécule et d'autres dérivés.
+- **le manioc doux:** cultivé pour la consommation locale de ses tubercules;
+- **le manioc amer:** surtout utilisé pour la préparation de fécule et d'autres dérivés.
 
 **Composition du tubercule - toxicité**
 
-### **1. Rappel**
+### 1. Rappel
 
 Une ration alimentaire est satisfaisante si elle apporte:
 
-*   suffisamment de calories, donc si elle est en quantité suffisante;
+- suffisamment de calories, donc si elle est en quantité suffisante;
 
-*   un équilibre entre les glucides, lipides, protides qui sont les constituants de base des aliments;
+- un équilibre entre les glucides, lipides, protides qui sont les constituants de base des aliments;
 
-*   des acides aminés indispensables (qui forment les protéines) car l'organisme ne sait pas les fabriquer;
+- des acides aminés indispensables (qui forment les protéines) car l'organisme ne sait pas les fabriquer;
 
-*   des substances minérales (fer, iode, phosphore, calcium, etc.) et des vitamines (A, B, C, D ... ).
+- des substances minérales (fer, iode, phosphore, calcium, etc.) et des vitamines (A, B, C, D ... ).
 
-### **2. Composition du tubercule** **de manioc frais**
+### 2. Composition du tubercule de manioc frais
 
 Il a une forte teneur en calories: 125 à 140 Kcal pour 100 g de manioc frais et pelé.
 
@@ -57,7 +57,7 @@ Le tubercule est surtout constitué de glucides, c'est donc un aliment énergét
 
 Il est très pauvre en lipides (graisses) et en protides. De plus, ses protides sont dites de mauvaise qualité car ils ne contiennent que très peu de méthionine, acide aminé indispensable. Le tubercule est d'autre part pauvre en substances minérales (calcium, fer, phosphore) et en vitamines (il y en a encore moins dans les produits préparés à partir du tubercule). **Il doit** **donc être associé à des aliments riches en** **protides** et **en lipides** pour constituer une ration alimentaire équilibrée.
 
-### **3. Toxicité**
+### 3. Toxicité
 
 Le tubercule frais contient de **l'acide cyanhydrique** (surtout dans la variété amère) qui est une substance toxique: c'est un **poison de** **l'hémoglobine** des globules rouges. De plus, il provoque des **troubles de la thyroïde** en empêchant l'iode de s'y fixer (goitres, ralentissement de la croissance chez l'enfant ... ). Ce poison est facilement éliminé par cuisson, séchage au soleil, fermentation. Il est en quantité plus importante dans l'écorce que l'on élimine lors de la préparation. Par conséquent, lorsque le manioc est bien préparé, il ne renferme plus de trace d'acide cyanhydrique. Cependant, il n'est pas rare d'observer des problèmes de toxicité chronique (mauvais stockage des tubercules, mauvaise préparation).
 
@@ -65,9 +65,7 @@ Le tubercule frais contient de **l'acide cyanhydrique** (surtout dans la variét
 
 Produits locaux consommés surtout en Afrique.
 
-
 ![](i11-1.jpg)
-
 
 Le rouissage est la fermentation de la racine dans l'eau pendant deux à trois jours (détoxification). Selon les pays, il existe différentes préparations et différentes appellations dont voici quelques exemples :
 
@@ -92,17 +90,17 @@ Bénin: **gari**
 Afrique orientale: **farine de manioc**  
 pour **uji** et **ugali**
 
-*   **Préparation du gari** (très répandu): les tubercules lavés et épluchés, sont râpés à la main pour obtenir une pulpe fine. Celle-ci est introduite dans des sacs de chanvre grossier que l'on ferme Ces sacs sont pressés entre des planches ou des pierres pour éliminer l'excès d'eau et on les laisse reposer pendant trois ou quatre jours pour produire une fermentation (pendant les deux premiers jours de fermentation, on remarque une odeur d'acide cyanhydrique, qui disparaît ensuite). La masse de pâte fermentée est concassée, tamisée grossièrement, mise à sécher. La semoule ainsi obtenue peut être ensuite frite dans un peu d'huile.
+- **Préparation du gari** (très répandu): les tubercules lavés et épluchés, sont râpés à la main pour obtenir une pulpe fine. Celle-ci est introduite dans des sacs de chanvre grossier que l'on ferme Ces sacs sont pressés entre des planches ou des pierres pour éliminer l'excès d'eau et on les laisse reposer pendant trois ou quatre jours pour produire une fermentation (pendant les deux premiers jours de fermentation, on remarque une odeur d'acide cyanhydrique, qui disparaît ensuite). La masse de pâte fermentée est concassée, tamisée grossièrement, mise à sécher. La semoule ainsi obtenue peut être ensuite frite dans un peu d'huile.
 
-*   Le terme de **fufu** s'applique à divers produits en Afrique occidentale; en général c'est un aliment pilé ou bouilli pour former une pâte épaisse (fufu à base de manioc bouilli, taro, igname, plantains). Le fufu nigerian est particulier puisqu'il s'agit de manioc fermenté non séché, auquel on ajoute de l'eau froide et que l'on fait cuire jusqu'à formation d'une pâte épaisse.
+- Le terme de **fufu** s'applique à divers produits en Afrique occidentale; en général c'est un aliment pilé ou bouilli pour former une pâte épaisse (fufu à base de manioc bouilli, taro, igname, plantains). Le fufu nigerian est particulier puisqu'il s'agit de manioc fermenté non séché, auquel on ajoute de l'eau froide et que l'on fait cuire jusqu'à formation d'une pâte épaisse.
 
-*   Le bâton **de manioc** est constitué par la pâte cuite enroulée dans une feuille de manioc.
+- Le bâton **de manioc** est constitué par la pâte cuite enroulée dans une feuille de manioc.
 
-*   En dehors du tubercule, les **feuilles** peuvent être utilisées pour préparer des sauces. Ces feuilles sont riches en minéraux (calcium, phosphore) et beaucoup plus riches en protéines que les tubercules.
+- En dehors du tubercule, les **feuilles** peuvent être utilisées pour préparer des sauces. Ces feuilles sont riches en minéraux (calcium, phosphore) et beaucoup plus riches en protéines que les tubercules.
 
-*   Le manioc est également utilisé dans l'industrie pour la préparation de l'amidon, de la fécule, du tapioca, de biscuits, de pâtes alimentaires, de colles, de glucoses, etc.
+- Le manioc est également utilisé dans l'industrie pour la préparation de l'amidon, de la fécule, du tapioca, de biscuits, de pâtes alimentaires, de colles, de glucoses, etc.
 
-### **Apport nutritif du manioc**
+### Apport nutritif du manioc
 
 Le tubercule de manioc possède certains avantages sur le plan nutritionnel: il est **riche** en **calories,** et peut être très utile pendant la **période** de **soudure.**
 
@@ -118,16 +116,16 @@ En conclusion, le manioc doit être considéré comme une **source de calories i
 
 L'importance de la diversification des cultures doit être rappelée. L'encouragement à la culture d'une seule plante risque de provoquer des malnutritions (surtout protéiques - particulièrement vraies dans le cas du manioc). Ce risque est plus grand pour les enfants.
 
-### **Références bibliographiques**
+### Références bibliographiques
 
-**A. Bergeret:** _Nourris en harmonie avec l'en_vironnement (Mouton - La Haye).
+**A. Bergeret:** \_Nourris en harmonie avec l'en_vironnement (Mouton - La Haye).
 
-**F. Bussons** (1965): _Plantes alimentaires de_ _l'Ouest africain._
+**F. Bussons** (1965): *Plantes alimentaires de* *l'Ouest africain.*
 
 Statistiques de la FAO 1979-1980.
 
-**M. Aufret** (1957): _Racines et tubercules, nutrition et alimentation tropicale._
+**M. Aufret** (1957): *Racines et tubercules, nutrition et alimentation tropicale.*
 
-**R. Cerighelli** (1955): _Cultures tropicales,_ _plantes vivrières._
+**R. Cerighelli** (1955): *Cultures tropicales,* *plantes vivrières.*
 
-_Développement et Santé, n°35 octobre 1981_
+*Développement et Santé, n°35 octobre 1981*

@@ -10,17 +10,15 @@ date: "1999-02-02"
 
 Les gaz respiratoires, oxygène et gaz carbonique, sont véhiculés par le sang depuis le capillaire pulmonaire jusqu'au capillaire périphérique. L'oxygène est transporté dans le plasma sous forme dissoute (1 %) ou combinée à l'hémoglobine (99 %). L'oxygénation du sang et par voie de conséquence des tissus est donc sous la dépendance de 2 facteurs : la pression partielle de gaz (forme dissoute), des propriétés de combinaison à l'hémoglobine.
 
-Bien que faible en pourcentage, la forme dissoute n'en demeure pas moins importante car c'est la pression qui détermine les échanges gazeux. Il existe une relation entre oxygène dissous (PaO<sub>2</sub> mesurée en mm de mercure ou Kpa) et oxygène combiné (pourcentage d'oxygène réellement fixé sur l'hémoglobine défini par la saturation : SaO<sub>2</sub>), représentée par la classique courbe de dissociation de l'hémoglobine (_figure n° 1_). Certains points de la courbe doivent être mémorisés par le clinicien car ils permettent de guider la prescription d'oxygénothérapie. La tonne de la courbe n'est pas linéaire. Dans sa partie verticalisée, de petites variations de PaO<sub>2</sub> entraînent de grandes variations de saturation, alors que dans la partie semi-horizontale des variations relativement importantes de PaO<sub>2</sub> influent peu sur le contenu en oxygène (SaO<sub>2</sub>). À 40 mm de mercure la saturation est dé l'ordre de 75 % et à 60 mmhg la saturation est de l'ordre de 90 %. Au-dessus de 60 mmhg l'administration d'oxygène est généralement inutile. L'oxygénothérapie a pour but d'obtenir une saturation de l'ordre de 90 % et non de normaliser la PaO<sub>2</sub>. Celle-ci d'ailleurs varie avec l'âge _(encadré)._ La température modifie la fixation de l'oxygène sur l'hémoglobine. Un malade ayant une fièvre à 40° aura une saturation moindre en oxygène pour la même PaO<sub>2</sub> que s'il est apyrétique (déplacement de la courbe de dissociation vers la droite). Il en est de même pour un malade en acidose, alors que l'alcalose (et l'hypothermie) vont déplacer la courbe vers la gauche (_figure_ _n° 2)._
+Bien que faible en pourcentage, la forme dissoute n'en demeure pas moins importante car c'est la pression qui détermine les échanges gazeux. Il existe une relation entre oxygène dissous (PaO<sub>2</sub> mesurée en mm de mercure ou Kpa) et oxygène combiné (pourcentage d'oxygène réellement fixé sur l'hémoglobine défini par la saturation : SaO<sub>2</sub>), représentée par la classique courbe de dissociation de l'hémoglobine (*figure n° 1*). Certains points de la courbe doivent être mémorisés par le clinicien car ils permettent de guider la prescription d'oxygénothérapie. La tonne de la courbe n'est pas linéaire. Dans sa partie verticalisée, de petites variations de PaO<sub>2</sub> entraînent de grandes variations de saturation, alors que dans la partie semi-horizontale des variations relativement importantes de PaO<sub>2</sub> influent peu sur le contenu en oxygène (SaO<sub>2</sub>). À 40 mm de mercure la saturation est dé l'ordre de 75 % et à 60 mmhg la saturation est de l'ordre de 90 %. Au-dessus de 60 mmhg l'administration d'oxygène est généralement inutile. L'oxygénothérapie a pour but d'obtenir une saturation de l'ordre de 90 % et non de normaliser la PaO<sub>2</sub>. Celle-ci d'ailleurs varie avec l'âge *(encadré).* La température modifie la fixation de l'oxygène sur l'hémoglobine. Un malade ayant une fièvre à 40° aura une saturation moindre en oxygène pour la même PaO<sub>2</sub> que s'il est apyrétique (déplacement de la courbe de dissociation vers la droite). Il en est de même pour un malade en acidose, alors que l'alcalose (et l'hypothermie) vont déplacer la courbe vers la gauche (*figure* *n° 2).*
 
 Bien que beaucoup plus soluble que l'oxygène dans le sang, le CO<sub>2</sub> est principalement transporté sous forme combinée (95 %). Cependant, comme pour l'oxygène, la fraction dissoute est la forme obligatoire que doit emprunter le CO<sub>2</sub> lors des échanges avec le milieu extérieur. La majeure partie du CO<sub>2</sub>, combiné est plasmatique, par le biais du système tampon des bicarbonates (85 %) alors que le reste est combiné à l'hémoglobine.
-
 
 ![](i819-1.jpg)
 
 ![](i819-2.jpg)
 
 ![](i819-3.jpg)
-
 
 ## II. Gaz du sang artériel
 
@@ -39,11 +37,9 @@ C'est une forme onéreuse qui n'a pas encore sa place dans les pays en développ
 ### 3. L'extracteur d'oxygène (ou concentrateur)
 
 Son principe est simple et consiste à séparer l'oxygène de l'azote de l'air pour laisser sortir un mélange gazeux enrichi en oxygène. La concentration en oxygène est alors voisine de 95 %.  
-C'est un matériel peu cher, avec une source inépuisable mais qui a l'inconvénient d'être peu mobile, assez bruyant et tributaire d'un courant électrique aussi uniforme que possible. Initialement conçu dans les pays développés pour une oxygénothérapie de longue durée à domicile, ils peuvent suppléer à l'absence ou à l'insuffisance des circuits d'oxygène dans les structures hospitalières. Leur débit est souvent limité à 5 I/mn mais il est possible de brancher deux extracteurs en Y pour délivrer des débits supérieurs. Ils doivent être régulièrement entretenus (changement des filtres) avec contrôle de débit de sortie. Quelques aménagements peuvent être nécessaires pour éviter leur colonisation possible par des hôtes indésirables, insectes (blattes) ou rongeurs (souris)... Dans notre expérience vietnamienne il s'agit de la solution idéale, tant au domicile qu'à l'hôpital _(figures n° 3 et 4)._
-
+C'est un matériel peu cher, avec une source inépuisable mais qui a l'inconvénient d'être peu mobile, assez bruyant et tributaire d'un courant électrique aussi uniforme que possible. Initialement conçu dans les pays développés pour une oxygénothérapie de longue durée à domicile, ils peuvent suppléer à l'absence ou à l'insuffisance des circuits d'oxygène dans les structures hospitalières. Leur débit est souvent limité à 5 I/mn mais il est possible de brancher deux extracteurs en Y pour délivrer des débits supérieurs. Ils doivent être régulièrement entretenus (changement des filtres) avec contrôle de débit de sortie. Quelques aménagements peuvent être nécessaires pour éviter leur colonisation possible par des hôtes indésirables, insectes (blattes) ou rongeurs (souris)... Dans notre expérience vietnamienne il s'agit de la solution idéale, tant au domicile qu'à l'hôpital *(figures n° 3 et 4).*
 
 ![](i819-4.jpg)
-
 
 ## IV. Indications
 
@@ -83,4 +79,4 @@ Le concentrateur d'oxygène est la solution idéale, moins onéreuse que l'oxyg�
 
 Nous remercions Ph. Garo pour les documents photographiques.
 
-_Développement et Santé, n° 139, février 1999_
+*Développement et Santé, n° 139, février 1999*

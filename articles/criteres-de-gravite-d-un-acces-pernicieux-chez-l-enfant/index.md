@@ -10,7 +10,7 @@ date: "1998-06-17"
 
 **Pédiatre, Hôpital Intercommunal de Créteil**
 
-L'accès pernicieux ou neuropaludisme, caractérise par l'importance de la souffrance cérébrale, constitue le grand problème du paludisme à _Plasmodium falciparum._ La mortalité est toujours comprise entre 10 et 30 %.
+L'accès pernicieux ou neuropaludisme, caractérise par l'importance de la souffrance cérébrale, constitue le grand problème du paludisme à *Plasmodium falciparum.* La mortalité est toujours comprise entre 10 et 30 %.
 
 Cette encéphalopathie aiguë fébrile résulte d'une intense multiplication des hématozoaires dans les capillaires viscéraux et en particulier cérébraux.
 
@@ -20,7 +20,7 @@ En zone de faible endémie ou de paludisme saisonnier, les adultes autochtones m
 
 En 1995, une équipe médicale du Kenya (K. Marsh) a évalué les facteurs de gravité cliniques et paracliniques définis par l'OMS auxquels ont été adjoints cinq paramètres simples. L'étude a porté sur 1 844 enfants hospitalisés pour malaria.
 
-Pour chaque critère fut évalué le risque de décès (_tableau_). Ainsi sont comparés la fréquence du symptôme, le pourcentage de mortalité et l'importance de la corrélation symptôme/risque de mort.
+Pour chaque critère fut évalué le risque de décès (*tableau*). Ainsi sont comparés la fréquence du symptôme, le pourcentage de mortalité et l'importance de la corrélation symptôme/risque de mort.
 
 De ces données, il ressort certaines évidences Un coma initial, un collapsus cardiovasculaire, un état de mal convulsif sont des facteurs majeurs de mortalité.
 
@@ -40,12 +40,10 @@ Enfin, la majorité des enfants décédés sont arrivés en détresse respiratoi
 
 Au total, si les mécanismes du neuropaludisme sont encore mal compris, le simple examen clinique évaluant l'atteinte neurologique et l'état respiratoire suffit à faire prendre les bonnes décisions thérapeutiques.
 
-
 ![](i786-1.jpg)
 
+Pour *en savoir plus sur cette étude :*
 
-Pour _en savoir plus sur cette étude :_
+Indications of Life Threating Malaria in African Children. In : *The New England Journal of* *Médecine* 1995; 332 (21) : 1399-1404.
 
-Indications of Life Threating Malaria in African Children. In : _The New England Journal of_ _Médecine_ 1995; 332 (21) : 1399-1404.
-
-_Développement et Santé, n° 135, juin 1998_
+*Développement et Santé, n° 135, juin 1998*

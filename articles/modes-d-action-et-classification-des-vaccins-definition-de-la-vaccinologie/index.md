@@ -13,22 +13,21 @@ Les antigènes des bactéries et des virus, de nature protéinique ou polyosidiq
 La réponse immunitaire est très complexe. Elle fait intervenir de nombreux médiateurs dont tous les mécanismes d'action ne sont pas encore parfaitement élucidés.  
 Schématiquement, le système immunitaire est essentiellement constitué par les lymphocytes dont il existe 2 types :
 
-*   **les lymphocytes B** issus de la moelle osseuse et qui n'ont une parfaite maturité qu'à partir de l'âge de 2 ans,
-*   **les lymphocytes T** issus du thymus, matures dès la naissance.
+- **les lymphocytes B** issus de la moelle osseuse et qui n'ont une parfaite maturité qu'à partir de l'âge de 2 ans,
+- **les lymphocytes T** issus du thymus, matures dès la naissance.
 
 Il existe également 2 types d'immunité :
 
-*   l'immunité à **médiation humorale** mettant en jeu des anticorps circulants sériques, le plus souvent neutralisants,
-*   l'immunité à **médiation cellulaire** mettant en jeu des lymphocytes T cytotoxiques.
+- l'immunité à **médiation humorale** mettant en jeu des anticorps circulants sériques, le plus souvent neutralisants,
+- l'immunité à **médiation cellulaire** mettant en jeu des lymphocytes T cytotoxiques.
 
 Lorsque des antigènes sont introduits dans l'organisme, ils sont captés par des cellules (macrophages et cellules dendritiques) dites "présentatrices" au système immunitaire. Dans ces cellules, les antigènes sont dégradés de telle manière que les parties actives des molécules antigéniques (épitopes) soient présentées de façon optimale aux lymphocytes producteurs d'anticorps.
 
-###   
-1. Dans le cadre de l'immunité humorale
+### 1. Dans le cadre de l'immunité humorale
 
-*   S'il s'agit d'**antigènes protéiniques** (les plus nombreux), les épitopes sont présentés à des lymphocytes T auxiliaires appelés Th CD4 (h pour "helper" en anglais). Ces lymphocytes Th vont activer des lymphocytes B dont certains vont se différencier en plasmocytes sécréteurs d'anticorps circulants tandis que d'autres vont être stockés en lymphocytes mémoire. Ces lymphocytes mémoire seront recrutés lors des rappels de vaccination ou lorsque l'organisme rencontre l'agent pathogène pour donner une réponse secondaire beaucoup plus importante que la réponse primaire. Ces antigènes sont appelés thymo-dépendants. Les lymphocytes T étant fonctionnels dès la naissance, cette réponse immunitaire est possible dès les premiers jours de la vie malgré l'immaturité des lymphocytes B.  
-*   S'il s'agit d**'antigènes polyosidiques**, les antigènes dégradés sont présentés directement aux lymphocytes B sans intervention des Th. Comme ils ne sont pleinement matures qu'à l'âge de 2 ans, la réponse immunitaire en anticorps ne sera optimale qu'à partir de cet âge.  
-    Il n'existe pas de cellules mémoire. La réponse secondaire, lors d'une revaccination, sera identique à la réponse primaire et la durée d'immunité conférée sera donc plus courte. Ces antigènes sont appelés thymo-indépendants. S'ils sont conjugués à une fraction de protéine, ils deviennent thymo-dépendants et se comportent alors comme la protéine (réponse dès les premières semaines de la vie et phénomène de rappel possible).
+- S'il s'agit d'**antigènes protéiniques** (les plus nombreux), les épitopes sont présentés à des lymphocytes T auxiliaires appelés Th CD4 (h pour "helper" en anglais). Ces lymphocytes Th vont activer des lymphocytes B dont certains vont se différencier en plasmocytes sécréteurs d'anticorps circulants tandis que d'autres vont être stockés en lymphocytes mémoire. Ces lymphocytes mémoire seront recrutés lors des rappels de vaccination ou lorsque l'organisme rencontre l'agent pathogène pour donner une réponse secondaire beaucoup plus importante que la réponse primaire. Ces antigènes sont appelés thymo-dépendants. Les lymphocytes T étant fonctionnels dès la naissance, cette réponse immunitaire est possible dès les premiers jours de la vie malgré l'immaturité des lymphocytes B.
+- S'il s'agit d**'antigènes polyosidiques**, les antigènes dégradés sont présentés directement aux lymphocytes B sans intervention des Th. Comme ils ne sont pleinement matures qu'à l'âge de 2 ans, la réponse immunitaire en anticorps ne sera optimale qu'à partir de cet âge.  
+  Il n'existe pas de cellules mémoire. La réponse secondaire, lors d'une revaccination, sera identique à la réponse primaire et la durée d'immunité conférée sera donc plus courte. Ces antigènes sont appelés thymo-indépendants. S'ils sont conjugués à une fraction de protéine, ils deviennent thymo-dépendants et se comportent alors comme la protéine (réponse dès les premières semaines de la vie et phénomène de rappel possible).
 
 ### 2. Dans le cadre l'immunité à médiation cellulaire
 
@@ -40,15 +39,15 @@ En somme, la vaccination est une intervention immuno-prophylactique induisant un
 
 Les vaccins peuvent être classés en 3 catégories :
 
-*   Vaccins inactivés (ou tués).  
-*   Vaccins vivants atténués.  
-*   Vaccins sous-unités.
+- Vaccins inactivés (ou tués).
+- Vaccins vivants atténués.
+- Vaccins sous-unités.
 
 ### 1. Vaccins inactivés
 
 Ils sont constitués par des bactéries ou des virus entiers qui ont été complètement inactivés et qui ne peuvent donc pas se multiplier dans l'organisme. Mais ils ont gardé leur pouvoir immunogène en induisant des anticorps protecteurs. En général, en primo-vaccination, ils n'immunisent qu'après trois injections.
 
-1.  Vaccins bactériens : un seul perdure, le vaccin coquelucheux dit "à germes entiers".  
+1.  Vaccins bactériens : un seul perdure, le vaccin coquelucheux dit "à germes entiers".
 2.  Vaccins viraux : poliomyélite injectable, hépatite A, rage, grippe (avec une particularité pour la grippe : les virus sont éclatés pour augmenter leur immunogénicité).
 
 ### 2. Vaccins vivants atténués
@@ -56,7 +55,7 @@ Ils sont constitués par des bactéries ou des virus entiers qui ont été compl
 Les bactéries ou les virus ont été atténués au laboratoire de telle manière qu'ils perdent tout leur pouvoir pathogène tout en conservant leur pouvoir immunogène.  
 Ces vaccins se multiplient dans l'organisme en créant une véritable "maladie biologique" sans aucun signe clinique. L'immunité est le plus souvent acquise après une seule injection.
 
-1.  Vaccin bactérien : un seul, le BCG, pour lutter contre la tuberculose.  
+1.  Vaccin bactérien : un seul, le BCG, pour lutter contre la tuberculose.
 2.  Vaccins viraux : poliomyélite oral, rougeole. rubéole, oreillons, fièvre jaune, varicelle, rotavirus.
 
 ### 3. Vaccins sous-unités
@@ -65,8 +64,8 @@ Ils ne sont constitués que par une fraction parfaitement définie de la bactér
 
 #### a. Vaccins bactériens
 
-*   soit constitués de protéines : les anatoxines diphtérique ou tétanique ;
-*   soit constitués de polyosides (sucres constituant la capsule des bactéries) parfois conjugués à une protéine : _Haemophilus influenzae_ b, pneumocoques, méningocoques, _Salmonella typhi_,
+- soit constitués de protéines : les anatoxines diphtérique ou tétanique ;
+- soit constitués de polyosides (sucres constituant la capsule des bactéries) parfois conjugués à une protéine : *Haemophilus influenzae* b, pneumocoques, méningocoques, *Salmonella typhi*,
 
 #### b. Vaccins viraux
 
@@ -84,4 +83,4 @@ Tout au long du XXème siècle, de nombreux vaccins furent mis au point et incon
 La campagne d'éradication de la variole, initiée en 1967 et poursuivie jusqu'au dernier cas en Somalie en 1977, a pu démontrer qu'il était possible de vacciner toute la population mondiale et fut à l'origine du PEV. C'est à cette époque que Jonas Salk et Charles Mérieux définirent le concept de vaccinologie : "La vaccinologie ne consiste pas uniquement à inventer de nouveaux vaccins. Elle doit prendre en compte tous les aspects biologiques, épidémiologiques, socio-économiques, logistiques, éducatifs, éthiques et médiatiques qui concourent à l'amélioration de la protection vaccinale de toutes les populations humaines".  
 Au XXIème siècle, il n'est plus pensable d'appliquer un programme de vaccination dans quelque pays que ce soit sans des études épidémiologiques et socio-économiques préalables, sans une formation des personnels à tous les échelons, sans le respect des règles d'éthique, en particulier lors des études cliniques, et sans une bonne communication médiatique.
 
-_Développement et Santé, N°195, 2009_
+*Développement et Santé, N°195, 2009*

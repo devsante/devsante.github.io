@@ -10,8 +10,6 @@ date: "1997-12-02"
 
 Voici, en complément de l'article du Docteur Mohamed Chérif Rahimi, l'arbre décisionnel sur la prise en charge de la douleur, établi de façon consensuelle.
 
-
 ![](i762-1.jpg)
 
-
-_Développement et Santé, N° 132, décembre 1997_
+*Développement et Santé, N° 132, décembre 1997*

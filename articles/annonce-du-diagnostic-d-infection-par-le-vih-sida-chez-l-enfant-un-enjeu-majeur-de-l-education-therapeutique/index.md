@@ -40,9 +40,7 @@ Quand on parle d'annonce au diagnostic, il ne s'agit pas de se perdre dans la co
 
 Au verso des fiches et pour tous les outils, une indication précise d'une méthode de dialogue est détaillée. Il faut dédramatiser ce moment pour l'adulte qui fait l'annonce, moment aggravé par l'interprétation de la maladie de l'adulte (19).
 
-
 ![](i1079-2.jpg)
-
 
 Le vrai moment de l'annonce est le jour où le mot SIDA a été prononcé mais ce processus prend du temps et de la disponibilité. Dans certains contextes d'accès aux soins difficiles ou de manque de personnel, l'annonce de diagnostic peut se passer en groupe au Rwanda (20-21) et au Mali (22). Dans ces situations, les enfants acccompagnés d'un parent reçoivent l'annonce de diagnostic par une personne formée à effectuer cette annonce (durée : 1 heure 30). Cette émulation de groupe est constructive, rassurante (23). Cette approche d'annonce en groupe a été proposée lors de l'utilisation de l'outil au Treatment Research AIDS Center plus à Kigali (Rwanda) depuis mai 2005, afin de pouvoir annoncer le statut sérologique à des centaines d'enfants qui devaient commencer ou prenaient sans comprendre des antirétroviraux. Les premières annonces ont été faites avec des traducteurs. Ces explications furent ensuite reprises en langue originale par les utilisateurs (médecins, infirmières, "counselors", animateurs de groupe au sein d'associations) qui ont adapté des termes pour communiquer les outils proposés. L'adaptation et l'appropriation des outils consistent surtout à savoir comment communiquer en trouvant les mots en langue locale les plus adéquats pour parler du message à faire passer à travers l'image.
 
@@ -50,9 +48,8 @@ Le vrai moment de l'annonce est le jour où le mot SIDA a été prononcé mais c
 
 Les outils décrits ci dessus ne sont que des supports à la communication et c'est donc surtout la communication qui fait le travail du vécu de cette annonce. C'est la raison pour laquelle il n'est pas indispensable de refaire des outils pour tous les contextes, la démarche à suivre est la même.
 
-
-![](i1079-1.jpg)
-**Reprise individuelle des explications****Rwanda, 2006**
+![](i1079-1.jpg)  
+**Reprise individuelle des explicationsRwanda, 2006**
 
 Depuis l'existence de ces outils, le leitmotiv des personnes les plus réticentes à les utiliser ou à annoncer le diagnostic est de dire qu'il faut refaire des outils adaptés au contexte ; ceci n'est qu'une excuse pour justifier de ne pas faire l'annonce sous prétexte d'outils "non adaptés". D'autres outils ne changeront pas cette réticence. Nous avons vécu ces situations à maintes reprises. Par contre quand le désir d'informer les enfants est là, ces outils ont été utilisés d'emblée aussi bien en Afrique, en Asie, en Amérique et dans de nombreux pays européens où la plupart des enfants proviennent d'origines très variées. Avant que ces outils existent, on expliquait la maladie avec n'importe quel dessin, même fait à la main devant l'enfant ; il n'est même pas nécessaire d'avoir les outils pour communiquer et commencer à systématiser l'annonce mais ça encourage. D'autres outils ont été créés par MSF (Rwanda, Thaïlande), ainsi que sans doute beaucoup d'autres. L'intérêt d'utiliser des outils déjà utilisés et testés est de gagner du temps en attendant d'avoir l'expérience personnelle de cette annonce (24).
 
@@ -64,9 +61,7 @@ La façon d'intéresser les enfants à ces explications, d'animer une séance de
 
 ### 1. Conte Bekhi
 
-
 ![](i1079-3.jpg)
-
 
 Le conte de 22 pages dont 10 dessins est un outil particulièrement utile aux animateurs pour des activités de groupes de jeunes enfants de moins de 8 ans. Il permet aussi d'effectuer une prise en charge individuelle pour aborder des thèmes délicats. Ces thèmes sont abordés avec le jeune enfant à travers l'histoire de ce lionceau au pelage qui devient grisâtre comme celui de sa maman qui vient de mourir. Il doit courageusement traverser l'océan pour trouver 3 éléments difficiles à avaler (feuille de l'arbre à sourire, rayon du grand soleil d'or, gouttes de la mer rouge), mais indispensable pour se soigner au prix d'une prise très régulière, sans oubli, toute sa vie. A la fin du conte, Becki va mieux et veut rentrer pour aider les autres lions malades à se soigner en ramenant chez lui des graines de l'arbre à sourire. La symbolique de la différence, de l'exil, du deuil, de la maladie, de la difficulté des traitements est ainsi abordée en douceur avec beaucoup d'humour et de tendresse dans un cadre de dessins lumineux. Une version papier est accompagnée d'une version orale contée par un professionnel en version CD ou sur cassette audio. La version orale est aussi reprise dans le CD-Rom et les images défilent automatiquement sur l'écran de l'ordinateur.
 
@@ -74,19 +69,15 @@ Le conte de 22 pages dont 10 dessins est un outil particulièrement utile aux an
 
 Les treize fiches médicales sont des minicours de médecine adaptés à l'enfant afin de mieux comprendre les mécanismes de la multiplication virale et le rôle des antirétroviraux. Ces fiches sont colorées, amusantes et indépendantes les unes des autres (bien qu'ayant une suite logique). Elles sont une façon de garder l'attention de l'enfant et de guider le personnel soignant dans la démarche d'annonce progressive de la maladie. Les explications du dessin et la démarche à suivre sont indiqués au verso. Les trois premières fiches abordent les thèmes généraux de la santé sur la respiration et la circulation sanguine en détaillant les différents éléments sanguins. La quatrième fiche explique l'immunité et le rôle des différents globules blancs ainsi que l'existence de microbes différents (virus, bactéries, parasites, champignons). A partir de la cinquième fiche (5 à 8), on explique la multiplication virale et le rôle des médicaments ainsi que le mécanisme d'apparition des résistances. La fiche 9 est un dessin représentant une scène scolaire rappelant que la contagion n'a pas lieu dans la vie quotidienne de l'école. La fiche 10 reprend le mode de transmission du virus. La fiche 11 représente la difficulté du secret. La fiche 12 montre l'importance de la prévention et le rôle des préservatifs et la fiche 13 représente les chiffres de l'épidémie de la maladie.
 
-
 ![](i1079-4.jpg)
 
 ![](i1079-5.jpg)
-
 
 ### 3. La bande dessinée
 
 Le dessinateur a repris les mêmes personnages que ceux des fiches et a créé avec le romancier une histoire reprenant essentiellement le mode d'apparition des résistances. Cette courte bande dessinée (4 pages) permet de sensibiliser l'enfant et l'adolescent au suivi du traitement et à la surveillance régulière de la charge virale et de son immunité.
 
-
 ![](11079.jpg)
-
 
 ### 4. Le carnet de traitement
 
@@ -97,31 +88,31 @@ La création de ce carnet est réalisable sur ordinateur grâce au CD-Rom.
 
 La connaissance du diagnostic d'infection au VIH/SIDA permet à l'enfant et à l'adolescent de connaître l'enjeu du traitement antirétroviral difficile à accepter. Le dialogue permet d'insister ouvertement sur l'observance, la sexualité et la prévention. La connaissance du diagnostic par les enfants permet d'organiser des groupes de soutien d'enfants et d'adolescents ayant la même pathologie qui partagent les mêmes interrogations et épreuves de vie. Ces moments d'échange impliquent l'écoute de leurs besoins, améliorant ainsi notre méthode de communication.
 
-**_Bibliographie :_**
+***Bibliographie :***
 
-1. Stephenson & al: Strict adherence to ARV medication is necessary to sustain viral suppression or "virologic success". JAMA ; 281(12), 1999.  
-2. D. Gibb, R. Goodall, V Giacomet et al. Adherence to prescribed ART in HIV-infected children in the PENTA 5 trail. _Pediatr Infect. Dis. J, 22 :56-62, 2003_  
-3. Pradier C, Bentz L, Spire B et al. Efficacy of an educational and counseling intervention on adherence to HAART: _French prospective controlled study. HIC clin trials: 4(2): 121-131, 2003._  
-4. N. Trocmé, G. Vaudre, C. Dolfus. Observance du traitement antirétrouiral de l'adolescent séropositif pour le VIH. _Archives de pédiatrie. 9:1241-47, 2002._  
-5. M. Goode, A. Mc Maugh, J. Wales, JB. Ziegler. Adherence issues in children and adolescents receiving HAART AIDS Care; 15(3):403-8, 2003 Jun.  
-6. Haven B, Wiener L. from adolescence through Young adulthood: Psychological adjustment associated with long term suruiual of HIV. J of adol. health; 30: 161-168, 2001.  
-7. Dr C.A. Peltier. Présentation orale. Management of children moving from adolescent care to adult clinics. 8th congress on drug therapy in HIV infection Glasgow, 12-16 nou. 2006.  
-8. Dr C.A. Peltier - Présentation orale. Adhésion au traitement ARV: Un défi de tous les jours"De la mère à l'enfant, les défis pour l'avenir"1" colloque francophone médical international - Bruxelles, mars 2003.  
-9. C.A. Peltier, M. Hainaut, S. Wibaud, S. Moulinier, C. Bachelerie, J. Leuy. Didactic tools to improve adherence to HAART for children. Poster- 8th European Conference on Clinical Aspects and Treatment of HIV-infection - Athènes/ Grèce, Octobre 2001.  
-10. C.A. Peltier M. Hainaut, S. Wibaut, C. Bachelerie, J. Leuy. Specific pediatric educational program for children infected with HIV-1 to improue adherence to treatment. Poster-3rd world congress of Pediatric Infectious Diseases - Santiago de Chili, Nov 2002.  
-11. Rueda S, Park-Wyllie LY, Bayoumi AM, Tynan AM. Patient support and education for promoting adherence to HAART for HIU/AIDS. Cochrane database Syst Reu, 19; 3: CD001442, 2006 ju l.  
-12. Martin S, Elliot-DeSorbo DK, Wolters PL, Toledo-Tamula MA et al. Patient, caregiver and regimen characteristics associated with adherence to HAART among HIV-infected children and adolescents. Pediatr. Infect. Dis, 26 (1):61-7, 2007 Jan  
-13. Dr A. Waelbrouck, Dr C.A. Peltier, S. Wibaut, P Cyaga, C. Ornes. Prise en charge des adolescents infectés par le VIH au Rwanda et à Bruxelles-poster. 4ème conférence francophone sur le VIH- Paris - Mars 2007.  
-14. C.A. Peltier, M. Hainaut, B. Vantournhout et al . Cross sectionnal eualuation of the virologic results of antiretroviral therapy in a cohort of 118 HIV-1 Infected child Poster3rd wd congress of Ped. Infectious DiseasesSantiago de Chili, nou 2002.  
-15. Osterberg L,Blaschke T Adherence to medication. N Engl J med 2005;353:487-497.  
-16. Dr A. Peltier, Présentation orale-.Outils didactiques créés spécifiquement pour le counseling enfants affectés et infectés par le VIH utilisés au TRAC et en salle de pédiatrie au CHU de Kigali. _International Symposium on Infectious Diseases. Kigali -Août 23-26, 2005._  
-17. Dr A. Peltier- Présentation orale- Prise en charge des adolescents infectés par le VIH2è"1e conférence pédiatrique national organisé par le CNLS à Kigali- 21 au 22 nou 2006.  
-18. Flynn M, Bret J, Douglas S et al. Virologic and Immunologic outcomes after 24 weeks in HIV Type 1 Infected adolescents receiuing HAART JID 2004; 190:271-279 Ann Allergy Asthma Immonul. 95(5):40512; quiz 413-5, 463, 2007 Mai.  
-19. Dr A. Peltier, S. Wibaut, Jeanine Gato, J.Mugabo, J. Nzibizi, F. Ndamage. Specific pediatric educational program for children infected with HIV to improue adherence to follow-up and treatment. Poster- ls' National Conference on Paediatric Treatment Care and Support, Rwanda 2005.  
-20. S. Wibaut, G. André, M. Muhizi, J. Mukakalisa et al. "Support the CD4's" Didactic tools to improue a psychosocial approach with families living with HIV/AIDS. A pilot project in the Clinic TRAC, Rwanda. Présentation orale. PATA Nairobi.  
-21. S. Wibaut, A. Majyambere, J. Mugabo, J. Mukakalisa, C. Karasi-Omes. Groupes de soutien et de parole pour les familles vivant avec le VIH/SIDA, un projet pilote à la clinique du TRACplus - 4- conf. francophone sur le VIH- Paris - Mars 2007.  
-22. Annonce au diagnostic aux enfants infectés par le VIH à l'hôpital Gabriel Touré- Information UNICEF- Mission d'expertise à Bamako (Mali)- Décembre 2006.  
-23. Dr C.A.Peltier- Présentation orale Adherence to antiretroviral therapy in HIV infected children. PENTA (Paediatric European Network for Treatment of AIDS) Investigators Meeting Camogli-Italy - Feb. 28th-march 2nd 2003.  
+1.  Stephenson & al: Strict adherence to ARV medication is necessary to sustain viral suppression or "virologic success". JAMA ; 281(12), 1999.
+2.  D. Gibb, R. Goodall, V Giacomet et al. Adherence to prescribed ART in HIV-infected children in the PENTA 5 trail. *Pediatr Infect. Dis. J, 22 :56-62, 2003*
+3.  Pradier C, Bentz L, Spire B et al. Efficacy of an educational and counseling intervention on adherence to HAART: *French prospective controlled study. HIC clin trials: 4(2): 121-131, 2003.*
+4.  N. Trocmé, G. Vaudre, C. Dolfus. Observance du traitement antirétrouiral de l'adolescent séropositif pour le VIH. *Archives de pédiatrie. 9:1241-47, 2002.*
+5.  M. Goode, A. Mc Maugh, J. Wales, JB. Ziegler. Adherence issues in children and adolescents receiving HAART AIDS Care; 15(3):403-8, 2003 Jun.
+6.  Haven B, Wiener L. from adolescence through Young adulthood: Psychological adjustment associated with long term suruiual of HIV. J of adol. health; 30: 161-168, 2001.
+7.  Dr C.A. Peltier. Présentation orale. Management of children moving from adolescent care to adult clinics. 8th congress on drug therapy in HIV infection Glasgow, 12-16 nou. 2006.
+8.  Dr C.A. Peltier - Présentation orale. Adhésion au traitement ARV: Un défi de tous les jours"De la mère à l'enfant, les défis pour l'avenir"1" colloque francophone médical international - Bruxelles, mars 2003.
+9.  C.A. Peltier, M. Hainaut, S. Wibaud, S. Moulinier, C. Bachelerie, J. Leuy. Didactic tools to improve adherence to HAART for children. Poster- 8th European Conference on Clinical Aspects and Treatment of HIV-infection - Athènes/ Grèce, Octobre 2001.
+10. C.A. Peltier M. Hainaut, S. Wibaut, C. Bachelerie, J. Leuy. Specific pediatric educational program for children infected with HIV-1 to improue adherence to treatment. Poster-3rd world congress of Pediatric Infectious Diseases - Santiago de Chili, Nov 2002.
+11. Rueda S, Park-Wyllie LY, Bayoumi AM, Tynan AM. Patient support and education for promoting adherence to HAART for HIU/AIDS. Cochrane database Syst Reu, 19; 3: CD001442, 2006 ju l.
+12. Martin S, Elliot-DeSorbo DK, Wolters PL, Toledo-Tamula MA et al. Patient, caregiver and regimen characteristics associated with adherence to HAART among HIV-infected children and adolescents. Pediatr. Infect. Dis, 26 (1):61-7, 2007 Jan
+13. Dr A. Waelbrouck, Dr C.A. Peltier, S. Wibaut, P Cyaga, C. Ornes. Prise en charge des adolescents infectés par le VIH au Rwanda et à Bruxelles-poster. 4ème conférence francophone sur le VIH- Paris - Mars 2007.
+14. C.A. Peltier, M. Hainaut, B. Vantournhout et al . Cross sectionnal eualuation of the virologic results of antiretroviral therapy in a cohort of 118 HIV-1 Infected child Poster3rd wd congress of Ped. Infectious DiseasesSantiago de Chili, nou 2002.
+15. Osterberg L,Blaschke T Adherence to medication. N Engl J med 2005;353:487-497.
+16. Dr A. Peltier, Présentation orale-.Outils didactiques créés spécifiquement pour le counseling enfants affectés et infectés par le VIH utilisés au TRAC et en salle de pédiatrie au CHU de Kigali. *International Symposium on Infectious Diseases. Kigali -Août 23-26, 2005.*
+17. Dr A. Peltier- Présentation orale- Prise en charge des adolescents infectés par le VIH2è"1e conférence pédiatrique national organisé par le CNLS à Kigali- 21 au 22 nou 2006.
+18. Flynn M, Bret J, Douglas S et al. Virologic and Immunologic outcomes after 24 weeks in HIV Type 1 Infected adolescents receiuing HAART JID 2004; 190:271-279 Ann Allergy Asthma Immonul. 95(5):40512; quiz 413-5, 463, 2007 Mai.
+19. Dr A. Peltier, S. Wibaut, Jeanine Gato, J.Mugabo, J. Nzibizi, F. Ndamage. Specific pediatric educational program for children infected with HIV to improue adherence to follow-up and treatment. Poster- ls' National Conference on Paediatric Treatment Care and Support, Rwanda 2005.
+20. S. Wibaut, G. André, M. Muhizi, J. Mukakalisa et al. "Support the CD4's" Didactic tools to improue a psychosocial approach with families living with HIV/AIDS. A pilot project in the Clinic TRAC, Rwanda. Présentation orale. PATA Nairobi.
+21. S. Wibaut, A. Majyambere, J. Mugabo, J. Mukakalisa, C. Karasi-Omes. Groupes de soutien et de parole pour les familles vivant avec le VIH/SIDA, un projet pilote à la clinique du TRACplus - 4- conf. francophone sur le VIH- Paris - Mars 2007.
+22. Annonce au diagnostic aux enfants infectés par le VIH à l'hôpital Gabriel Touré- Information UNICEF- Mission d'expertise à Bamako (Mali)- Décembre 2006.
+23. Dr C.A.Peltier- Présentation orale Adherence to antiretroviral therapy in HIV infected children. PENTA (Paediatric European Network for Treatment of AIDS) Investigators Meeting Camogli-Italy - Feb. 28th-march 2nd 2003.
 24. Lancet 2002; 359 :733-40.
 
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

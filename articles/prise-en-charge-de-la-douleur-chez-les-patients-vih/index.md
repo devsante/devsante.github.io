@@ -44,28 +44,26 @@ Les médicaments antalgiques pour lutter contre la douleur sont différents. Ils
 
 > douleurs faibles et modérées
 
-*   Acide acétyl salicylique (AAS) et AINS
-*   Paracétamol
+- Acide acétyl salicylique (AAS) et AINS
+- Paracétamol
 
 ### b) Niveau II : agonistes morphiniques faibles
 
 > douleurs modérées à intenses
 
-*   Dextropropoxyphéne
-*   Codéine
-*   Tramadol
+- Dextropropoxyphéne
+- Codéine
+- Tramadol
 
 ### c) Niveau III : agonistes morphiniques
 
 > douleurs très intenses
 
-*   Morphiniques.
+- Morphiniques.
 
-_Exemple d'échelle utilisant les visages (échelle UPSA)_
-
+*Exemple d'échelle utilisant les visages (échelle UPSA)*
 
 ![](i168-1.jpg)
-
 
 #### Pour les douleurs peu intenses : antalgique de niveau I
 
@@ -75,9 +73,9 @@ _Exemple d'échelle utilisant les visages (échelle UPSA)_
 
 L'AAS (aspirine) peut faire saigner le patient. L'infirmier doit surveiller si des saignements apparaissent :
 
-*   dans la bouche (notamment au niveau des gencives) ;
-*   au niveau du nez ;
-*   dans les selles.
+- dans la bouche (notamment au niveau des gencives) ;
+- au niveau du nez ;
+- dans les selles.
 
 **A ne pas utiliser si suspicion de dengue (risques hémorragiques),**
 
@@ -85,20 +83,20 @@ L'AAS (aspirine) peut faire saigner le patient. L'infirmier doit surveiller si d
 
 #### Pour les douleurs modérées : antalgiques de niveau II
 
-*   **dextropropoxyphéne :** 1 à 2 comprimés par prise à 8 heures d'intervalle
-*   **dextropropoxyphéne et paracétamol :** jusqu'à 6 gélules (400 mg) par jours en 3 à 4 prises
-*   **codéine et paracétamol :** 30 mg de codéine et 500 mg de paracétamol par comprimé ; 2 à 6 comprimés par jour en 3 à 4 prises.
+- **dextropropoxyphéne :** 1 à 2 comprimés par prise à 8 heures d'intervalle
+- **dextropropoxyphéne et paracétamol :** jusqu'à 6 gélules (400 mg) par jours en 3 à 4 prises
+- **codéine et paracétamol :** 30 mg de codéine et 500 mg de paracétamol par comprimé ; 2 à 6 comprimés par jour en 3 à 4 prises.
 
 **Surveillance infirmière :**
 
 Nausées, vomissements, constipation...
 
-#### Pour les douleurs intenses :
+#### Pour les douleurs intenses
 
 **Morphine**
 
-*   **chlorhydrate de morphine** : prise toutes les 4 heures, début à 5 mg par prise et augmenter progressivement de 5 mg en 5 mg jusqu'à ce que le patient soit calmé.  
-*   **sulfate de morphine :** prise toutes les 12 heures augmentation des doses progressives de 10 mg en 10 mg.
+- **chlorhydrate de morphine** : prise toutes les 4 heures, début à 5 mg par prise et augmenter progressivement de 5 mg en 5 mg jusqu'à ce que le patient soit calmé.
+- **sulfate de morphine :** prise toutes les 12 heures augmentation des doses progressives de 10 mg en 10 mg.
 
 **Surveillance infirmière :**
 
@@ -106,11 +104,11 @@ La prise de morphine peut entraîner au bout de quelques jours de traitement des
 
 Si une dose de morphine trop élevée est administrée une insuffisance respiratoire peut apparaître.
 
-_L'infirmier surveille :_
+*L'infirmier surveille :*
 
-*   la fréquence respiratoire (amplitude, régularité) ;
-*   le pouls (en cas de détresse respiratoire le pouls est augmenté = tachycardie) ;
-*   la tension artérielle (hypotension).
+- la fréquence respiratoire (amplitude, régularité) ;
+- le pouls (en cas de détresse respiratoire le pouls est augmenté = tachycardie) ;
+- la tension artérielle (hypotension).
 
 Si le patient éprouve des difficultés respiratoires = réduire les doses de morphine
 
@@ -120,10 +118,10 @@ La morphine peut également être responsable de sécheresse buccale et de const
 
 **L'infirmier doit toujours penser à mettre en oeuvre des "petits moyens" de lutte contre la douleur :**
 
-*   toucher le patient ;
-*   massage doux (muscles et membres inférieurs) ;
-*   friction des zones d'appuis (prévention de la survenue d'escarre chez les personnes alitées ; - hydratation et graissage de la peau ;
-*   positions antalgiques adaptées (utilisation de coussins, de drap aux points d'appui...) ; - soins de confort.
+- toucher le patient ;
+- massage doux (muscles et membres inférieurs) ;
+- friction des zones d'appuis (prévention de la survenue d'escarre chez les personnes alitées ; - hydratation et graissage de la peau ;
+- positions antalgiques adaptées (utilisation de coussins, de drap aux points d'appui...) ; - soins de confort.
 
 **La parole comme moyen de lutte :**
 
@@ -135,4 +133,4 @@ L'observation et l'écoute sont indispensables pour une prise en charge de quali
 
 **La douleur ne doit pas être sous-estimée par l'infirmier**
 
-_Développement et Santé n°181, 2006_
+*Développement et Santé n°181, 2006*

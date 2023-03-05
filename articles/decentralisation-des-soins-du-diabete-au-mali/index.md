@@ -4,13 +4,13 @@ author: "Stéphane Besançon*, A. T. Sidibé**, Ibrahim Nientao*** * Biologiste 
 date: "2009-08-12"
 ---
 
-Le Mali est découpé en divisions sanitaires comprenant des aires de santé. Pour couvrir le territoire et ces différentes aires de santé, la pyramide sanitaire commence au niveau primaire avec les Centres de Santé communautaires (CSCOM) qui offrent le paquet minimum d'activités PMA (il comprend les consultutations, soins infirmiers et accouchement en matière de soins curatifs, vaccination, consultations infantils, et planning familial en matière de prévention). Au-dessus des CSCOM se trouvent les Centres de Santé de Référence (CSREF), les hôpitaux régionaux, les hôpitaux nationaux et, clans certaines grandes villes comme Bamako, des cliniques privées. L'approvisionnement de ces structures en médicaments et en réactifs de laboratoire est assuré par la Pharmacie Populaire du Mali (PPM) qui possède des magasins régionaux fournissant les pharmacies et les laboratoires des structures de santé du pays.  
+Le Mali est découpé en divisions sanitaires comprenant des aires de santé. Pour couvrir le territoire et ces différentes aires de santé, la pyramide sanitaire commence au niveau primaire avec les Centres de Santé communautaires (CSCOM) qui offrent le paquet minimum d'activités PMA (il comprend les consultutations, soins infirmiers et accouchement en matière de soins curatifs, vaccination, consultations infantils, et planning familial en matière de prévention). Au-dessus des CSCOM se trouvent les Centres de Santé de Référence (CSREF), les hôpitaux régionaux, les hôpitaux nationaux et, clans certaines grandes villes comme Bamako, des cliniques privées. L'approvisionnement de ces structures en médicaments et en réactifs de laboratoire est assuré par la Pharmacie Populaire du Mali (PPM) qui possède des magasins régionaux fournissant les pharmacies et les laboratoires des structures de santé du pays.
 
 ## I. L'organisation de la pyramide sanitaire pour la prise en charge du diabète au Mali en 2004
 
-En 2004, une expertise internationale a été réali­sée au Mali par _l'International lnsulin Foundation_ (HF) et l'ONG Santé Diabète Mali (SllM). (,cite étude a permis de déterminer avec précision la situation de la prise en charge du diabète clans le système de santé malien. A cette date, en dehors de Bamako, les centres de santé communautaires, les centres de santé de référence et les hôpitaux régionaux n'étaient pas prévus ni équipés pour cela. Dans la majorité des cas, aucun traitement n'était réalisé. Les patients diabétiques pouvaient entrer dans le système sanitaire à différents niveaux, mais ils étaient ensuite référés - pour le traitement et le suivi spécialisé - vers l'hôpital national Gabriel Touré, l'hôpital national du Point G et le Centre de Lutte Contre le Diabète (CLCD). S'ajoutant aux problèmes liés aux ressources humaines, cette absence de prise en charge péri­phérique était reliée à une difficulté d'accès au suivi biologique, aux médicaments et à l'éducation thérapeutique.
+En 2004, une expertise internationale a été réali­sée au Mali par *l'International lnsulin Foundation* (HF) et l'ONG Santé Diabète Mali (SllM). (,cite étude a permis de déterminer avec précision la situation de la prise en charge du diabète clans le système de santé malien. A cette date, en dehors de Bamako, les centres de santé communautaires, les centres de santé de référence et les hôpitaux régionaux n'étaient pas prévus ni équipés pour cela. Dans la majorité des cas, aucun traitement n'était réalisé. Les patients diabétiques pouvaient entrer dans le système sanitaire à différents niveaux, mais ils étaient ensuite référés - pour le traitement et le suivi spécialisé - vers l'hôpital national Gabriel Touré, l'hôpital national du Point G et le Centre de Lutte Contre le Diabète (CLCD). S'ajoutant aux problèmes liés aux ressources humaines, cette absence de prise en charge péri­phérique était reliée à une difficulté d'accès au suivi biologique, aux médicaments et à l'éducation thérapeutique.
 
-En effet, en se référant à la liste officielle des maté­riels fournis par le Ministère de la Santé, pour réa­liser les mesures de glycémie, chaque CSCOM devrait avoir un glucomètre et chaque CSREF un spectrophotomètre. En réalité, la grande majorité des CSCOM ne possédait pas de glucomètre. Les CSREF avaient des spectrophotomètres mais les niveaux de disponibilité des différents types de réactifs ne permettaient pas de réaliser un suivi longitudinal des patients. Il en était de même pour le médicament. Le Mali possède une liste des médicaments essentiels fon­dée sur le modèle de l'Organisation Mondiale de la Santé (OMS). Dans la dernière version de cette liste (2004), figurent deux types d'insuline - une rapide et une intermédiaire -, ainsi que différents antidiabétiques oraux (ADO). De ce fait, l'insuline et les ADO devaient être disponibles (-tans les hôpi­taux régionaux et les centres de santé de référence périphériques. Là aussi, du fait d'une part de la faible expression des besoins par les prestataires référant les malades vers les structures de 3ème réfé­rence, (]'autre part des fréquentes ruptures d'appro­visionnement, la disponibilité des médicaments était faible et le suivi des malades très difficile.
+En effet, en se référant à la liste officielle des maté­riels fournis par le Ministère de la Santé, pour réa­liser les mesures de glycémie, chaque CSCOM devrait avoir un glucomètre et chaque CSREF un spectrophotomètre. En réalité, la grande majorité des CSCOM ne possédait pas de glucomètre. Les CSREF avaient des spectrophotomètres mais les niveaux de disponibilité des différents types de réactifs ne permettaient pas de réaliser un suivi longitudinal des patients. Il en était de même pour le médicament. Le Mali possède une liste des médicaments essentiels fon­dée sur le modèle de l'Organisation Mondiale de la Santé (OMS). Dans la dernière version de cette liste (2004), figurent deux types d'insuline - une rapide et une intermédiaire -, ainsi que différents antidiabétiques oraux (ADO). De ce fait, l'insuline et les ADO devaient être disponibles (-tans les hôpi­taux régionaux et les centres de santé de référence périphériques. Là aussi, du fait d'une part de la faible expression des besoins par les prestataires référant les malades vers les structures de 3ème réfé­rence, (\]'autre part des fréquentes ruptures d'appro­visionnement, la disponibilité des médicaments était faible et le suivi des malades très difficile.
 
 ## II. Décentralisation des soins et création d'un réseau multi-partenarial
 
@@ -30,9 +30,9 @@ Cette formation perinef de donner les connais­sances de base (facteurs de risqu
 
 Cette formation leur permet :
 
-*   aux urgences de l'hôpital : de reconnaître les comas diabétiques et de les orienter vers le servi­ce de réanimation :
-*   dans le service de réanimation : de différencier le type de coma diabétique afin d'assurer un traite­ment spécifique ;
-*   dans le service de pédiatrie : de réaliser un dépistage et mettre en place une prise en charge des diabétiques de type 1.
+- aux urgences de l'hôpital : de reconnaître les comas diabétiques et de les orienter vers le servi­ce de réanimation :
+- dans le service de réanimation : de différencier le type de coma diabétique afin d'assurer un traite­ment spécifique ;
+- dans le service de pédiatrie : de réaliser un dépistage et mettre en place une prise en charge des diabétiques de type 1.
 
 La formation des agents de santé des chefs-lieux de cercle et des CSCOM médicalisés Cette formation permet d'adapter un plateau tech­nique de prise en charge du diabète aux niveaux les plus bas de la pyramide sanitaire.
 
@@ -66,26 +66,26 @@ A cet effet, l'approche repose sur la dynamisation des associations de patients 
 
 Cette approche a permis d'organiser des consulta­tions diabète dans les 6 communes du district de Bamako, dans les communes urbaines de Sikasso, de Tombouctou, de Douentza, de Mopti, de Kayes, de Ségou ainsi que dans les chefs-lieux de cercles des régions de Sikasso et de Tombouctou. Ce ren­forcement global du système de santé incluant tous les acteurs a permis de créer, pour la prise en charge du diabète à différents niveaux, des réseaux :
 
-*   entre les médecins spécialistes et les médecins référents diabète, ce qui renforce les processus de référencement et de contre-référencement ;
-*   entre les médecins référents, pour partager leur expérience de prise en charge des malades au niveau décentralisé ;
-*   entre les médecins référents et les infirmiers, pour développer les programmes d'éducation des patients diabétiques ;
-*   entre les médecins référents et les médecins des autres structures publiques et privées de leur zone de consultation ;
-*   entre les médecins et les pharmaciens des struc­tures de santé, pour un approvisionnement adé­quat en médicaments du diabète ;
-*   entre les médecins et les laborantins, pour assu­rer la disponibilité et la qualité des analyses pour le suivi des patients diabétiques ;
-*   entre tous ces acteurs et les associations de patients des zones où sont établies les consulta­tions décentralisées, afin que les associations puissent assurer leur rôle de veille sur la qualité des soins et sur l'approvisionnement en médica­ments, en matériel d'analyse etc....  
-*   entre les patients diabétiques qui se regroupent en associations et entre les associations de patients diabétiques des différentes zones.
+- entre les médecins spécialistes et les médecins référents diabète, ce qui renforce les processus de référencement et de contre-référencement ;
+- entre les médecins référents, pour partager leur expérience de prise en charge des malades au niveau décentralisé ;
+- entre les médecins référents et les infirmiers, pour développer les programmes d'éducation des patients diabétiques ;
+- entre les médecins référents et les médecins des autres structures publiques et privées de leur zone de consultation ;
+- entre les médecins et les pharmaciens des struc­tures de santé, pour un approvisionnement adé­quat en médicaments du diabète ;
+- entre les médecins et les laborantins, pour assu­rer la disponibilité et la qualité des analyses pour le suivi des patients diabétiques ;
+- entre tous ces acteurs et les associations de patients des zones où sont établies les consulta­tions décentralisées, afin que les associations puissent assurer leur rôle de veille sur la qualité des soins et sur l'approvisionnement en médica­ments, en matériel d'analyse etc....
+- entre les patients diabétiques qui se regroupent en associations et entre les associations de patients diabétiques des différentes zones.
 
 Ces consultations reposent sur un réseau constitué de 22 médecins référents formés et 22 infirmiers travaillant en binôme avec eux. En parallèle à ces binômes, 500 agents de santé ont été formés dans les structures et les services où consultent les médecins référents. L'évaluation, en 2008 et 2009, de ces consultations décentralisées a montré que 3 000 malades étaient pris en charge dans ces struc­tures périphériques avec une qualité des soins for­tement améliorée. Cette évaluation de la qualité de la prise en charge a été effectuée en analysant :
 
-*   les dossiers des patients ;
-*   les données biologiques d'un groupe sentinelle de patients ;
-*   les données sanitaires, qui montrent l'augmenta­tion du dépistage et de la prise en charge :
-    *   des enfants diabétiques,
-    *   des complications, telles que le pied diabé­tique ;
-*   les processus de référencement et de contre­ référencement entre les médecins spécialistes et les médecins référents diabète.
+- les dossiers des patients ;
+- les données biologiques d'un groupe sentinelle de patients ;
+- les données sanitaires, qui montrent l'augmenta­tion du dépistage et de la prise en charge :
+  - des enfants diabétiques,
+  - des complications, telles que le pied diabé­tique ;
+- les processus de référencement et de contre­ référencement entre les médecins spécialistes et les médecins référents diabète.
 
 Parallèlement, ces évaluations ont mis en évidence la nette amélioration de l'accès géographique et financier au traitement, avec une diminution de 50 % du prix de l'insuline et une division par 10 de celui des ADO.
 
 Enfin, elles ont montré l'impact de la mise en place des séances d'éducation par la forte augmentation, dans un groupe sentinelle de patients, des connaissances des patients sur leur maladie et son suivi.
 
-_Développement et Santé n°193, 2009_
+*Développement et Santé n°193, 2009*

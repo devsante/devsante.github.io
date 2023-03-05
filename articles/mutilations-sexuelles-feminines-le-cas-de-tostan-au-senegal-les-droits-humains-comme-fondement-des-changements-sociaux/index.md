@@ -15,8 +15,8 @@ Les premières séances du programme de Tostan facilitent la prise de confiance 
 
 En pratique, un « facilitateur » ou une « facilitatrice », issu(e) de la zone d’intervention et formé(e) par Tostan aux techniques de facilitation, anime trois fois par semaine deux classes de 40 à 50 participants, l’une composée d’adultes et l’autre d’adolescents. Le programme est organisé en deux phases, décomposées en modules :
 
-*   Phase 1 : le Kobi (_préparer la terre pour la semence_ en langue mandingue) : réflexion et apprentissage des concepts relatifs à la démocratie, aux droits humains, au processus de résolution des problèmes mais également sessions d’informations sur l’hygiène et la santé.  
-*   Phase 2 : l’Aawde (_semer_ en langue pulaar) : alphabétisation, calcul, gestion, techniques de mobilisation sociale et de leadership.
+- Phase 1 : le Kobi (*préparer la terre pour la semence* en langue mandingue) : réflexion et apprentissage des concepts relatifs à la démocratie, aux droits humains, au processus de résolution des problèmes mais également sessions d’informations sur l’hygiène et la santé.
+- Phase 2 : l’Aawde (*semer* en langue pulaar) : alphabétisation, calcul, gestion, techniques de mobilisation sociale et de leadership.
 
 La représentation des concepts des droits humains par des images faciles à comprendre permet de les employer dans des sketches, des chansons, des poèmes et d’autres éléments de la tradition orale. Les participants peuvent ainsi s’impliquer pleinement dans le processus d’apprentissage.
 
@@ -68,7 +68,7 @@ Quelques chiffres sur le Sénégal
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -86,7 +86,7 @@ Quelques clés du programme Tostan
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -108,9 +108,9 @@ Le 31 juillet 1997, un événement inattendu survient au Sénégal : les femmes
 
 Le Serment de Malicounda représente un engagement fort, né du consensus de l’ensemble d’une communauté. Au milieu des années 1990, un tel phénomène est encore inédit au Sénégal où l’excision reste une pratique traditionnelle ancrée chez de nombreux groupes de populations. Si l’événement est historique, il ne suscite pas dans un premier temps l’approbation des villages voisins.
 
-### **Documents stratégiques pour l’abandon coordonné des pratiques néfastes**
+### Documents stratégiques pour l’abandon coordonné des pratiques néfastes
 
-*   **Changer une convention sociale néfaste (Digest Innocenti-Unicef)  - 2005** : cet outil pratique auquel a participé Tostan allie connaissances tirées de l’expérience de terrain à des théories scientifiques éprouvées, pour faire le point sur les progrès accomplis et les stratégies à adopter en matière d’abandon de l’excision: [www.unicef-irc.org/publications/pdf/fgm_fr.pdf](http://www.unicef-irc.org/publications/pdf/fgm_fr.pdf)
-*   **Stratégie coordonnée pour l’abandon de l’excision en une génération (Unicef) - 2007** : ce document de travail décrit une approche programmatique de l’excision axée sur les droits humains. Il a pour but de guider les programmateurs qui œuvrent pour l’abandon à grande échelle de cette pratique néfaste en Egypte, au Soudan, et dans les pays d’Afrique subsaharienne : [http://www.childinfo.org/files/fgmc_Coordinated_Strategy_to_Abandon_FGMC__in_One_Generation_fren.pdf](http://www.childinfo.org/files/fgmc_Coordinated_Strategy_to_Abandon_FGMC__in_One_Generation_fren.pdf)
-*   **Eliminer les mutilations sexuelles féminines. Déclaration interinstitutions – 2008 **: l’ensemble des institutions concernées des Nations-Unies (OMS, UNICEF, UNESCO, UNIFEM, ONUSIDA, HCR…) fait le point sur la persistance de la pratique et endosse la stratégie de son abandon en une génération : [http://www.who.int/reproductive-health/publications/fr/fgm/fgm_statement_2008_fr.pdf](http://www.who.int/reproductive-health/publications/fr/fgm/fgm_statement_2008_fr.pdf)
-*   **La dynamique du changement social. Vers l’abandon de l’excision/mutilation génitale féminine dans cinq pays africains, Unicef  (Centre de recherche Innocenti) –** **2010**. Cette étude de la dynamique sociale qui accompagne l’abandon de l’excision dans cinq pays (Egypte, Ethiopie, Kenya, Sénégal et Soudan) vise à fournir des informations destinées aux mesures politiques et programmes visant l’abandon de la pratique.
+- **Changer une convention sociale néfaste (Digest Innocenti-Unicef)  - 2005** : cet outil pratique auquel a participé Tostan allie connaissances tirées de l’expérience de terrain à des théories scientifiques éprouvées, pour faire le point sur les progrès accomplis et les stratégies à adopter en matière d’abandon de l’excision: [[www.unicef-irc.org/publications/pdf/fgm_fr.pdf](http://www.unicef-irc.org/publications/pdf/fgm_fr.pdf)](http://www.unicef-irc.org/publications/pdf/fgm_fr.pdf)
+- **Stratégie coordonnée pour l’abandon de l’excision en une génération (Unicef) - 2007** : ce document de travail décrit une approche programmatique de l’excision axée sur les droits humains. Il a pour but de guider les programmateurs qui œuvrent pour l’abandon à grande échelle de cette pratique néfaste en Egypte, au Soudan, et dans les pays d’Afrique subsaharienne : [<http://www.childinfo.org/files/fgmc_Coordinated_Strategy_to_Abandon_FGMC__in_One_Generation_fren.pdf>](http://www.childinfo.org/files/fgmc_Coordinated_Strategy_to_Abandon_FGMC__in_One_Generation_fren.pdf)
+- **Eliminer les mutilations sexuelles féminines. Déclaration interinstitutions – 2008 **: l’ensemble des institutions concernées des Nations-Unies (OMS, UNICEF, UNESCO, UNIFEM, ONUSIDA, HCR…) fait le point sur la persistance de la pratique et endosse la stratégie de son abandon en une génération : [<http://www.who.int/reproductive-health/publications/fr/fgm/fgm_statement_2008_fr.pdf>](http://www.who.int/reproductive-health/publications/fr/fgm/fgm_statement_2008_fr.pdf)
+- **La dynamique du changement social. Vers l’abandon de l’excision/mutilation génitale féminine dans cinq pays africains, Unicef  (Centre de recherche Innocenti) –** **2010**. Cette étude de la dynamique sociale qui accompagne l’abandon de l’excision dans cinq pays (Egypte, Ethiopie, Kenya, Sénégal et Soudan) vise à fournir des informations destinées aux mesures politiques et programmes visant l’abandon de la pratique.

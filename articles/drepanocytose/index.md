@@ -12,9 +12,7 @@ Le principal rôle du globule rouge est de transporter l'oxygène des poumons ve
 
 Chez le sujet atteint de drépanocytose, cette hémoglobine est remplacée par une hémoglobine S dort les propriétés sont très différentes : quand elle est déchargée de son oxygène, l'hémoglobine S est très peu soluble et se cristallise, ce qui entraîne une déformation des globules rouges en forme ce faucille.
 
-
 ![](image012-drepano.jpg)
-
 
 Ces globules rouges déformés (en drépanocytes) sont, très fragiles leur durée de vie est très raccourcie et ils éclatent en une dizaine de jours (au lieu de 120).
 
@@ -35,11 +33,10 @@ Ici les globules rouges ne contiennent qu'une petite quantité d'Hb S anormale e
 
 Cette forme n'entraîne le plus souvent aucun trouble : .le sujet est dit porteur SAIN de l'anomalie drépanocytaire.
 
-
 ![](image002-12.jpg)
 
+### 3. Comment expliquer les deux formes de la maladie
 
-### 3. Comment expliquer les deux formes de la maladie  
 ou un peu de génétique
 
 Tous les caractères de notre corps sont déterminés par des protéines situées sur les chromosomes.
@@ -54,37 +51,29 @@ Dans ce cas, la cellule produira à la fois de l'Hb S et de l'Hb A (= forme lég
 
 Si les deux chromosomes, paternels et maternels dont a hérité le sujet sont anormaux, les cellules ne produiront que de l'Hb S (= forme grave).
 
-#### Hérédité :
+#### Hérédité
 
-*   Sujet normal A A
-*   Forme légère A S
-*   Forme grave S S
+- Sujet normal A A
+- Forme légère A S
+- Forme grave S S
 
 Calculons les risques de la maladie en sachant que l'entant hérite au hasard d'un des deux chromosomes de ses parents.
 
 #### a. Parents normaux
 
-
 ![](image004-drepano.jpg)
-
 
 #### b. L'un des parents a le trait drépanocytaire
 
-
 ![](image006-drepano.jpg)
-
 
 #### c. Le père et la mère ont le trait drépanocytaire
 
-
 ![](image008-drepano.jpg)
-
 
 #### d. L'un des parents est porteur de la forme SS grave
 
-
 ![](image010-drepano.jpg)
-
 
 (Situation rare puisque la maladie est le plus souvent mortelle avant la puberté)
 
@@ -92,9 +81,7 @@ Calculons les risques de la maladie en sachant que l'entant hérite au hasard d'
 
 L'autre n'ayant que le trait drépanocytaire (situation bien sûr très rare)
 
-
 ![](image008-drepano.jpg)
-
 
 A A 72%
 
@@ -106,19 +93,17 @@ Répartition de la maladie à Kinshasa.
 
 ## III. Aspects cliniques
 
-
 ![](image014-drepano.jpg)
-
 
 ### 1. Forme grave SS
 
-_Dès les premiers_ _mois_, l'enfant est en état d'anémie permanente avec pâleur des conjonctives et subictère. La rate augmente de volume. Brusquement surviennent des poussées de déglobulisation entraînant souvent la mort hâtée pa_r_ une infection ou des carences diverses. Parfois survient un gonflement chaud et douloureux des pieds et des mains. L'infection des os est aussi fréquente. Au total 50 à 80 % des formes graves meurent avant l'âge de 2 ans et demi.
+*Dès les premiers* *mois*, l'enfant est en état d'anémie permanente avec pâleur des conjonctives et subictère. La rate augmente de volume. Brusquement surviennent des poussées de déglobulisation entraînant souvent la mort hâtée pa_r\_ une infection ou des carences diverses. Parfois survient un gonflement chaud et douloureux des pieds et des mains. L'infection des os est aussi fréquente. Au total 50 à 80 % des formes graves meurent avant l'âge de 2 ans et demi.
 
-Les enfants survivants sont de petite taille contrastant avec une grosse tête. L'anémie persiste mais est mieux tolérée que chez le nourrisson. Les accidents douloureux ou _crises drépanocytaires sont_ _fréquentes._
+Les enfants survivants sont de petite taille contrastant avec une grosse tête. L'anémie persiste mais est mieux tolérée que chez le nourrisson. Les accidents douloureux ou *crises drépanocytaires sont* *fréquentes.*
 
-*   Crise osseuse : avec douleur et fièvre surtout localisées aux os longs (fémur, tibia, radius).  
-*   Crises articulaires : gonflement du genou surtout
-*   Crises douloureuses abdominales. douleur périe ombilicale avec fièvre souvent prise pour une appendicite.
+- Crise osseuse : avec douleur et fièvre surtout localisées aux os longs (fémur, tibia, radius).
+- Crises articulaires : gonflement du genou surtout
+- Crises douloureuses abdominales. douleur périe ombilicale avec fièvre souvent prise pour une appendicite.
 
 Toutes ces manifestations témoignent de thromboses liées à l'agglutination des globules rouges dans les vaisseaux.
 
@@ -132,8 +117,8 @@ Les infections sont favorisées par le ralentissement du sang : ostéomyélite, 
 
 Le plus souvent les sujets porteurs de cette anomalie sanguine n'ont pas de signes clinique : le seul danger est le risque d'avoir un enfant atteint de forme grave.
 
-*   Un quart des sujets A S souffre de maux de tête, de douleur osseuse, articulaire ou vertébrale.  
-*   On note aussi des douleurs du flanc gauche et une fatigabilité à l'effort, mais ces incidents n'empêchent pas de mener une vie normale,
+- Un quart des sujets A S souffre de maux de tête, de douleur osseuse, articulaire ou vertébrale.
+- On note aussi des douleurs du flanc gauche et une fatigabilité à l'effort, mais ces incidents n'empêchent pas de mener une vie normale,
 
 ## IV. Examen de laboratoire
 
@@ -149,35 +134,37 @@ L'électrophorèse de l'Hb sur papier isole bien l'hémoglobine S de l'hémoglob
 
 Comme il s'agit d'une maladie héréditaire, chromosique, on ne peut, bien sûr, parler de guérison.
 
-_On_ peut par contre :
+*On* peut par contre :
 
-*   Lutter contre l'anémie,
-*   Lutter contre la douleur,
-*   Lutter contre l'infection.
+- Lutter contre l'anémie,
+- Lutter contre la douleur,
+- Lutter contre l'infection.
 
 ### 1. Transfusion de sang
 
 En apportant des globules rouges normaux qui vont durer quelques semaines, la transfusion constitue le vrai traitement de la drépanocytose grave
 
-*   L'idéal serait des transfusions régulières _3_ à 4 fois par an mais cela n'est qu'exceptionnellement réalisable.  
-*   Les transfusions risquent de provoquer l'hépatite virale.le SIDA, le paludisme et une véritable intoxication le fer (hématochromatose) entraînant une insuffisance cardiaque et hépatique par dépôt de fer dans les tissus.
+- L'idéal serait des transfusions régulières *3* à 4 fois par an mais cela n'est qu'exceptionnellement réalisable.
+- Les transfusions risquent de provoquer l'hépatite virale.le SIDA, le paludisme et une véritable intoxication le fer (hématochromatose) entraînant une insuffisance cardiaque et hépatique par dépôt de fer dans les tissus.
 
 Devant de tels risques, la TRANSFUSION DOIT ETRE EXCEPTIONELLE
 
 ### 2. Traitement de la crise
 
-*   Hydratation par voie orale ou intraveineuse
-*   Antalgiques
-*   Oxygène (masque ou sonde nasale)
+- Hydratation par voie orale ou intraveineuse
 
-*   Antibiotique si la fièvre persiste 48 heures.
+- Antalgiques
+
+- Oxygène (masque ou sonde nasale)
+
+- Antibiotique si la fièvre persiste 48 heures.
 
 ### 3. Entre les crises
 
-*   Alimentation équilibrée
-*   Surtout boissons abondantes
-*   aucun effort violent ni prolongé,
-*   acide folique
+- Alimentation équilibrée
+- Surtout boissons abondantes
+- aucun effort violent ni prolongé,
+- acide folique
 
 ### 4. En cas d'infection
 
@@ -199,9 +186,7 @@ Cet examen a pour but de reconnaître d'une façon très simple les sujets attei
 
 On prend une goutte de sang du malade prélevée au doigt par exemple à l'aide d'un vaccinostyle stérile. Cette goutte est placée sur une lame puis recouverte d'une lamelle. Il faut que la goutte de sang soit suffisamment grosse pour qu'il n'y ait plus d'air sous la lamelle. On dépose alors sur les quatre bords de la lamelle en débordant bien sur la lame, une couche de pommade de vaseline ou de paraffine " lutant " ainsi la préparation ; ces substances empêchent l'air, donc l'oxygène extérieur d'être en contact avec les globules rouges du sang situés sous la lamelle.
 
-
 ![](image018-drepano.jpg)
-
 
 Dans la drépanocytose, les globules rouges ou hématies sont très sensibles au manque d'oxygène, ils vont perdre leur belle forme de disques ronds et se déformer en prenant l'aspect de croissants (on dit aussi de quartier de lune, de faux, de faucille).
 
@@ -211,8 +196,6 @@ Le plus souvent, cependant, le frottis ne montre pas cette anomalie et l'on aura
 
 La falciformation des hématies est subtotale (la presque totalité des hématies ont une forme de faucille) en 2 heures chez les homozygote, elle est plus lente et souvent partielle chez les hétérozygotes.
 
-
 ![](image020-drepano.jpg)
-
 
 Des techniques plus rapides, plus pratiques pour les enquêtes ce masse, consistent à a<sub>j</sub>outer au sang une substance réductrice, tel le métabisulfite de soude; la lecture peut être faite au bout de quelques minutes.

@@ -12,23 +12,18 @@ Une épidémie de peste a débuté fin aout 2013 à Madagascar dans la région d
 
 **Figure 1. La peste à Madagascar**
 
-    
+      
 ![](fig-1-carte-cas-madagascar.JPG)
-
 
 Cependant, quelques épidémies sont survenues sporadiquement, comme en 1933 (responsable de 3 000 décès). D’autres épidémies sont apparues en 1978 à Antananarivo et en 1997 à Majunga. La peste sévit toujours actuellement dans différents pays du monde (figure 2), avec une mortalité non négligeable (figure 3), mais la moitié des cas mondiaux sont localisés à Madagascar.
 
 **Figue 2. La peste dans le monde**
 
-
 ![](fig-2-carte-des-foyers-de-peste.JPG)
-
 
 **Figure 3. Morbidité et mortalité de la peste dans le monde**
 
-
 ![](fig-3-morbidite-et-mortalite-de-la-peste-humaine-1987-2009.JPG)
-
 
 ## II. Le vecteur : la puce
 
@@ -36,19 +31,15 @@ La peste est une zoonose due à une bactérie, Yersinia pestis, découvert par A
 
 **Figure 4. A. Yersin devant son laboratoire de Hong-Kong**
 
-
 ![](fig-4-yersin-devant-son-laboratoire.jpeg)
 
+Ce bacille, Gram négatif, aéro-anaérobie facultatif, est très résistant dans la nature, peut rester plusieurs jours dans un organisme en décomposition et peut survivre dans les terriers des rongeurs infestés. *Y. pestis*, dont le séquençage du génome, réalisé en 2001, a détecté plus de 4 000 gènes codant des protéines, est transmis par un vecteur, une puce du rat, *Xenopsylla cheopis* (figure 5) qui s’est préalablement contaminée en piquant l’animal réservoir, à savoir le rat noir (Rattus rattus) (figure  6).          
 
-Ce bacille, Gram négatif, aéro-anaérobie facultatif, est très résistant dans la nature, peut rester plusieurs jours dans un organisme en décomposition et peut survivre dans les terriers des rongeurs infestés. _Y. pestis_, dont le séquençage du génome, réalisé en 2001, a détecté plus de 4 000 gènes codant des protéines, est transmis par un vecteur, une puce du rat, _Xenopsylla cheopis_ (figure 5) qui s’est préalablement contaminée en piquant l’animal réservoir, à savoir le rat noir (Rattus rattus) (figure  6).          
-
-
-![](fig-5-xenppsylla-cheopis.jpg)
-                                             
+![](fig-5-xenppsylla-cheopis.jpg)  
+                                               
 ![](fig-6-rattus-rattus.jpg)
 
-
-**Figure 5. _Xenopsylla cheopis_, la puce du rat                                       Figure 6. _Rattus rattus_**
+**Figure 5. *Xenopsylla cheopis*, la puce du rat                                       Figure 6. *Rattus rattus***
 
 Après ingestion du sang contaminé, le bacille se multiplie et bloque la digestion de la puce, qui doit dégorger pour pouvoir se nourrir de nouveau. Ce liquide de régurgitation contient les bacilles qui sont donc inoculés à l’homme au moment de la piqûre. Après inoculation, les bacilles se multiplient au point d’inoculation puis migrent dans les voies lymphatiques et gagnent les ganglions satellites, formant une adénite suppurée. Puis ils diffusent dans l’ensemble de l’organisme où ils se multiplient dans les macrophages. Les puces piquent préférentiellement les rongeurs, mais comme ces derniers meurent vite et en grand nombre, les puces sont obligées de chercher de nouvelles réserves de sang et se rabattent sur les animaux domestiques et l’homme.
 
@@ -62,9 +53,7 @@ C'est la plus fréquente. Une semaine après l’inoculation, le patient présen
 
 **Figure 7. Bubon pesteux**
 
-
 ![](fig-7-bubon-pesteux-cdc.jpg)
-
 
 ### 2. La peste septicémique
 
@@ -78,29 +67,25 @@ Observée dans environ 20 % des cas, elle est due à une contamination directe p
 
 Le diagnostic est établi sur la mise en évidence du bacille de Yersin dans le pus du ganglion, dans l’expectoration ou dans le sang. Au microscope, il apparaît conne un bâtonnet de 1 à 3 microns de long x 0,5 à 0,8 microns de large, Gram négatif, avec une coloration bipolaire (figure 8). Le test de recherche d’antigène F1 permet de faire un diagnostic rapide. Les prélèvements d’un patient atteints de peste sont très contagieux et doivent être manipulés avec d’extrêmes précautions.
 
-**                                Figure 8. _Yersinias pestis_**
+**                                Figure 8. *Yersinias pestis***
 
-                 
+                   
 ![](fig-8-yersinia-pestis.jpg)
-
 
 ## V. Traitement : croyances populaires puis antibiotiques
 
 Dans l’Antiquité, Hippocrate recommandait d’allumer des feux dans les places publiques pour « brûler les miasmes ». Au Moyen-âge, le traitement des sujets pestiférés se limitait à des prières à St Roch (patron des pesteux et d’ailleurs toujours représenté avec un bubon) (figure 9), des processions, des flagellations et le bûcher pour quelques personnes (les hérétiques et les lépreux) soupçonnées de propager la maladie (figure 10).
 
-
-![](fig-9-st-roch.JPG)
-          
+![](fig-9-st-roch.JPG)  
+            
 ![](fig-10-procession.jpg)
-
 
 **Figure 9. Saint Roch                      Figure 10. Processions pour invoquer la protection divine contre la peste**
 
 Les classiques purges et saignées aggravaient le patient au lieu de le soulager. A partir du XVIème siècle, les patients sont isolés, leurs habitations subissent des fumigations et les morts sont incinérés. La mise en quarantaine des navires ayant à bord un patient suspect d’avoir une peste a permis d’éviter la propagation de la maladie dans les ports puis dans les autre villes. Tout manquement à cette règle pouvait être responsable d’une épidémie (comme dans le cas de la peste de Marseille en 1720) (figure 11).
 
-                          
+                            
 ![](fig-11-peste-de-marseille.jpg)
-
 
                           ** Figure 11. Epidémie de peste à Marseille (peinture de M. Serre)  **
 
@@ -127,9 +112,7 @@ pas ces odeurs.
 
 <td>
 
-
 ![](fig-12-habits-medecins.jpg)
-
 
 Figure 12.  
 Costume des médecins luttant contre la peste (XVIIIème siècle)

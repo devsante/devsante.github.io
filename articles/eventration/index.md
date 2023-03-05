@@ -10,28 +10,22 @@ Ceci élimine du sujet les hernies, qui apparaissent au niveau des points de fai
 
 Le terme d'éventration recouvre en fait deux affections différentes :
 
-*   Les éventrations **spontanées,** qui sont en réalité un diastasis (écartement) anormal des muscles grands droits de l'abdomen, et que l'on rencontre surtout chez les femmes multipares.  
-*   Les éventrations **postopératoires** "incisionnal hemia " des anglophones ou **cicatricielles,** consécutives soit à une plaie de l'abdomen, plus souvent, à une laparotomie.
+- Les éventrations **spontanées,** qui sont en réalité un diastasis (écartement) anormal des muscles grands droits de l'abdomen, et que l'on rencontre surtout chez les femmes multipares.
+- Les éventrations **postopératoires** "incisionnal hemia " des anglophones ou **cicatricielles,** consécutives soit à une plaie de l'abdomen, plus souvent, à une laparotomie.
 
-## **Anatomie pathologique**
+## Anatomie pathologique
 
-### **Rappel anatomique**
+### Rappel anatomique
 
-Le _schéma n°_ 1 rappelle les différents plans qui constituent la paroi abdominale. Le plan musculaire, formé par les muscles grands droits, grands obliques, petits obliques et transverses, et leurs aponévroses, en sont les éléments les plus solides. La ligne blanche est un raphé tendineux très résistant situé sur la ligne médiane xypho-pubienne, entre les muscles grands droits. Elle est aussi le siège de la plupart des éventrations postopératoires.
-
+Le *schéma n°* 1 rappelle les différents plans qui constituent la paroi abdominale. Le plan musculaire, formé par les muscles grands droits, grands obliques, petits obliques et transverses, et leurs aponévroses, en sont les éléments les plus solides. La ligne blanche est un raphé tendineux très résistant situé sur la ligne médiane xypho-pubienne, entre les muscles grands droits. Elle est aussi le siège de la plupart des éventrations postopératoires.
 
 ![](i434-1.jpg)
 
-
-Anatomiquement une éventration est formée par (_schémas n° 2 et 3) :_
-
+Anatomiquement une éventration est formée par (*schémas n° 2 et 3) :*
 
 ![](i434-2.jpg)
 
-
-
 ![](i434-3.jpg)
-
 
 - un revêtement cutané avec une cicatrice souvent élargie et amincie, une peau en mauvais état, fragile, parfois ulcérée ou surinfectée ;
 
@@ -43,7 +37,7 @@ Anatomiquement une éventration est formée par (_schémas n° 2 et 3) :_
 
 Selon leur siège, on distingue les éventrations latérales, moins fréquentes et moins graves que les éventrations médianes.
 
-### **Evolution**
+### Evolution
 
 Une éventration peut survenir des mois ou des années après une intervention. Au début elle est souvent petite, discrète, et l'on serait tenté de la négliger et de rassurer le patient; mais dès ce stade, elle est susceptible de se compliquer d'étranglement.
 
@@ -53,7 +47,7 @@ De plus, lorsque son volume devient très important, les viscères herniés perd
 
 Enfin, dans ces éventrations volumineuses et anciennes, les plans musculo-aponévrotiques sont distendus, affaiblis, rétractés dans les flancs, et la réparation pariétale devra se faire à l'aide de matériel prothétique (mersilène).
 
-### **Causes des éventrations**
+### Causes des éventrations
 
 De nombreux facteurs peuvent, seuls ou en association, favoriser l'apparition d'une éventration après une laparatomie.
 
@@ -73,7 +67,7 @@ De nombreux facteurs peuvent, seuls ou en association, favoriser l'apparition d'
 
 **Utilisation de fils non résorbables** mal tolérés.
 
-### **Clinique**
+### Clinique
 
 **a. La petite éventration**
 
@@ -99,7 +93,7 @@ Le diagnostic de ces étranglements est souvent difficile chez ce patient habitu
 
 Les complications cutanées, ulcérations et surinfections, sont provoquées par la compression et la macération au niveau des plis.
 
-## **Traitement**
+## Traitement
 
 **a. Bilan préopératoire**
 
@@ -107,9 +101,9 @@ Les complications cutanées, ulcérations et surinfections, sont provoquées par
 
 **Terrain :**
 
-*   Age, poids, tares associées, en particulier insuffisance respiratoire, qui va nécessiter une kinésithérapie pré-opératoire (apprendre à respirer, à tousser et cracher, arrêt du tabac) ou un amaigrissement chez l'obèse.  
-*   État de la peau qui peut aussi nécessiter un traitement: assèchement des lésions suintantes et surinfectées (éosine aqueuse, bétadine diluée, mitosyl), traitement d'une mycose des plis.  
-*   Bilan des troubles du transit (parasitoses, radiographies par lavement baryté pour dépister une tumeur).
+- Age, poids, tares associées, en particulier insuffisance respiratoire, qui va nécessiter une kinésithérapie pré-opératoire (apprendre à respirer, à tousser et cracher, arrêt du tabac) ou un amaigrissement chez l'obèse.
+- État de la peau qui peut aussi nécessiter un traitement: assèchement des lésions suintantes et surinfectées (éosine aqueuse, bétadine diluée, mitosyl), traitement d'une mycose des plis.
+- Bilan des troubles du transit (parasitoses, radiographies par lavement baryté pour dépister une tumeur).
 
 **b. Méthodes**
 
@@ -117,9 +111,9 @@ Le traitement sera presque toujours chirurgical et doit être aussi précoce que
 
 Les méthodes non chirurgicales, comme la contention par bandage élastique ne sont que palliatives, temporaires et réservées aux patients présentant une contre-indication chirurgicale absolue. En effet elles ne préviennent pas vraiment du risque d'étranglement.
 
-### **1.** **Les petites éventrations**
+### 1. Les petites éventrations
 
-Elles peuvent être traitées par une intervention chirurgicale simple qui comprend les temps suivants _(figure 4) :_
+Elles peuvent être traitées par une intervention chirurgicale simple qui comprend les temps suivants *(figure 4) :*
 
 - reprise de l'ancienne incision,
 
@@ -129,11 +123,9 @@ Elles peuvent être traitées par une intervention chirurgicale simple qui compr
 
 - réparation pariétale minutieuse plan par plan au fil à résorption lente (vicryl), ou non résorbable.
 
-
 ![](i434-4.jpg)
 
-
-### **2. Les volumineuses éventrations**
+### 2. Les volumineuses éventrations
 
 **La préparation préopératoire :** Lorsque le volume de la hernie est tel que l'on craint des difficultés de réintégration (impossibilité mécanique, gêne respiratoire), il faut réaliser une série de pneumopéritoines préopératoires de façon à augmenter l'espace intrapéritonéal et à élever le diaphragme (un à deux litres d'air stérilisé à la flamme, tous les deux jours, introduits par une aiguille de Palmer au niveau de la fosse iliaque gauche). La préparation par kinésithérapie respiratoire est ici particulièrement nécessaire.
 
@@ -143,15 +135,13 @@ Elles peuvent être traitées par une intervention chirurgicale simple qui compr
 
 Les berges musculo-aponévrotiques sont parfaitement repérées et disséquées de façon à présenter de chaque côté des tissus sains et solides. L'hémostase doit être méticuleuse pour éviter les hématomes postopératoires. Le sac péritonéal est réséqué en gardant suffisamment de tissu pour la fermeture. Lorsque l'éventration n'est pas trop importante, il est possible de suturer les berges aponévrotiques soit bord à bord, soit en "paletot" pour renforcer le plan aponévrotique superficiel.
 
-Si les plans musculo-aponévrotiques paraissent trop faibles ou s'ils ne peuvent être rapprochés sans tension, il faut utiliser une prothèse de tissu synthétique (mersilène). Ce mince filet de dacron, très résistant et très bien toléré, est placé entre le plan péritonéal et le plan aponévrotique. Ces "plaques" de mersilène (ou autre) ne doivent être utilisées que lorsque toutes les conditions d'asepsie sont réunies (pas d'abcès de paroi). Leur utilisation nécessite une bonne expérience de cette chirurgie (_figure_ _5)._
+Si les plans musculo-aponévrotiques paraissent trop faibles ou s'ils ne peuvent être rapprochés sans tension, il faut utiliser une prothèse de tissu synthétique (mersilène). Ce mince filet de dacron, très résistant et très bien toléré, est placé entre le plan péritonéal et le plan aponévrotique. Ces "plaques" de mersilène (ou autre) ne doivent être utilisées que lorsque toutes les conditions d'asepsie sont réunies (pas d'abcès de paroi). Leur utilisation nécessite une bonne expérience de cette chirurgie (*figure* *5).*
 
 L'intervention se termine le plus souvent par un drainage aspiratif (drain de Redon).
 
-
 ![](i434-5.jpg)
 
-
-### **3. Les suites opératoires**
+### 3. Les suites opératoires
 
 Dans les suites, il faut encourager le lever précoce le lendemain de l'opération, la kinésithérapie respiratoire. De strictes précautions d'asepsie sont nécessaires au niveau des drains et des pansements, surtout si une prothèse a été posée. Les drains sont retirés dès qu'ils ne donnent plus. Un traitement antibiotique bref est entrepris au début de l'intervention et pour 24 ou 48 heures.
 
@@ -165,4 +155,4 @@ L'éventration représente une complication fréquente de la chirurgie abdominal
 
 - un geste chirurgical complet utilisant si nécessaire une prothèse synthétique.
 
-_Développement et Santé, n°88, août 1990_
+*Développement et Santé, n°88, août 1990*

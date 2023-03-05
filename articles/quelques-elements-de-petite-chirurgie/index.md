@@ -19,9 +19,7 @@ Pour la peau, par contre, le parage est économique, ne sacrifiant que ce qui es
 
 Le parage des plaies du visage et des mains sera particulièrement économique pour des raisons esthétiques et fonctionnelles.
 
-
 ![](i60-1.jpg)
-
 
 **D. Anesthésie locale**
 
@@ -31,42 +29,38 @@ Il faut savoir attendre les quelques minutes nécessaires à l'effet de l'anesth
 
 Certains sujets sont absolument réfractaires à l'anesthésie locale (alcooliques, malades habitués aux antalgiques).
 
-
 ![](i60-2.jpg)
 
+***Toujours s'assurer***
 
-**_Toujours s'assurer_**
+***que***
 
-**_que_**
+***le blessé est vacciné***
 
-**_le blessé est vacciné_**
+***contre le tétanos.***
 
-**_contre le tétanos._**
-
-**E. Un exemple: l****es plaies du cuir chevelu**
+**E. Un exemple: les plaies du cuir chevelu**
 
 Une plaie du cuir chevelu peut être **hémorragique** et entraîner une **perte sanguine** **Importante** pouvant créer un état de choc et nécessiter parfois des transfusions sanguines.
 
 **Technique:**
 
-*   Raser largement les cheveux autour de la plaie.
+- Raser largement les cheveux autour de la plaie.
 
-*   Badigeonner largement avec une solution d'ammonium quaternaire.
+- Badigeonner largement avec une solution d'ammonium quaternaire.
 
-*   Isolement du champ opératoire par un champ stérile troué.
+- Isolement du champ opératoire par un champ stérile troué.
 
-*   L'anesthésie locale par les berges de la plaie n'est pas indispensable en cas de plaie minime.
+- L'anesthésie locale par les berges de la plaie n'est pas indispensable en cas de plaie minime.
 
-*   Nettoyage soigneux retirant tous les corps étrangers, en particulier les cheveux.
+- Nettoyage soigneux retirant tous les corps étrangers, en particulier les cheveux.
 
-*   Parage large de l'aponévrose épicrânienne, économique pour les berges de la plaie. Ce geste est hémorragique.
+- Parage large de l'aponévrose épicrânienne, économique pour les berges de la plaie. Ce geste est hémorragique.
 
 Il est inutile d'essayer de faire l'hémostase autrement que par la suture. Simplement, il faut aller vite pour limiter les pertes sanguines.
 
-*   Suture en chargeant toute l'épaisseur des tissus au nylon 00, en serrant suffisamment les noeuds pour assurer l'hémostase.
-
+- Suture en chargeant toute l'épaisseur des tissus au nylon 00, en serrant suffisamment les noeuds pour assurer l'hémostase.
 
 ![](i60-3.jpg)
 
-
-_Développement et Santé, N°42, décembre 1982_
+*Développement et Santé, N°42, décembre 1982*

@@ -12,7 +12,7 @@ date: "2012-01-02"
 2.  oui, un parent éloigné
 3.  oui, un parent proche
 
-### Quel est votre indice de masse corporelle (IMC) ? *
+### Quel est votre indice de masse corporelle (IMC) ? \*
 
 1.  moins de 25
 2.  de 25 à 30
@@ -74,12 +74,14 @@ date: "2012-01-02"
 
 ## Résultats
 
-*   De 11 à 18 points = risque minime, continuez
-*   De 19 à 27 points = risque moyen, modifiez votre alimentation et faites du sport
-*   Plus de 27 points = risque élevé, modifiez votre hygiène de vie et faites un test.
+- De 11 à 18 points = risque minime, continuez
 
-* **Pour calculer l’IMC :**  
-Diviser le poids en Kg par le carré de la taille en mètres (TxT)
+- De 19 à 27 points = risque moyen, modifiez votre alimentation et faites du sport
+
+- Plus de 27 points = risque élevé, modifiez votre hygiène de vie et faites un test.
+
+- **Pour calculer l’IMC :**  
+  Diviser le poids en Kg par le carré de la taille en mètres (TxT)
 
 Par exemple : pour un homme de 80 Kg et 1,72 mètre  
 IMC  =  80 : 1,72 x 1,72  =  27

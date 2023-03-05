@@ -43,8 +43,8 @@ Il faudrait que soit proposé un test à toute femme enceinte venant à une CPN 
 
 L'infirmier doit donc :
 
-*   agir pour que toute femme enceinte soit testée lors de sa première CPN. Il doit donc connaître les centres de PMI où cet examen est proposé et/ou réalisé.  
-*   s'assurer que toute femme enceinte venant à sa consultation, pour quelque motif que ce soit, a eu un test VIH au cours de sa grossesse et en connaît le résultat.
+- agir pour que toute femme enceinte soit testée lors de sa première CPN. Il doit donc connaître les centres de PMI où cet examen est proposé et/ou réalisé.
+- s'assurer que toute femme enceinte venant à sa consultation, pour quelque motif que ce soit, a eu un test VIH au cours de sa grossesse et en connaît le résultat.
 
 Dans un centre PMI, il est maintenant admis que le test VIH fait partie du bilan habituel d'une grossesse. Les femmes sont informées de la pratique de ce test et, si elles ne manifestent pas leur opposition, il est considéré qu'elles l'acceptent.
 
@@ -52,7 +52,8 @@ Le premier effet d'une action de PTME est la remise de ces résultats aussi bien
 
 C'est aussi le moment où l'on doit inciter le partenaire à réaliser le test si cela n'est pas encore fait.
 
-### 2. Intervention de PTME pour les femmes infectées  
+### 2. Intervention de PTME pour les femmes infectées
+
 (prévention primaire directe)
 
 Une fois cette étape franchie, il faut spécialement s'occuper des femmes enceintes séropositives au VIH.
@@ -73,7 +74,8 @@ De récentes études ont montré que l'allaitement maternel strict pouvait être
 
 Actuellement, il est recommandé de pratiquer l'allaitement maternel protégé c'est à dire allaitement maternel exclusif associé à une trithérapie de la mère dès le 2° trimestre de la grossesse, à poursuivre durant toute la durée de l'allaitement..
 
-### 3. Interventions pour les nouveau-nés infectés  
+### 3. Interventions pour les nouveau-nés infectés
+
 (prévention secondaire)
 
 Cette dernière étape comporte le suivi et la prise en charge des nouveau-nés contaminés, c'est-à-dire des échecs. Elle sera réalisée par des services spécialisés. Il faut donc les connaître et en rencontrer les responsables à l'avance.
@@ -84,7 +86,7 @@ Si la mère a choisi un allaitement artificiel, il faut s'assurer que le lait et
 
 L'infirmier intervient :
 
-*   en aidant la femme à disposer des moyens et des compétences nécessaires à cet allaitement ;
-*   en identifiant les problèmes qu'elle peut rencontrer ;
-*   en convaincant le partenaire ou la famille de la nécessité de pratiquer cet allaitement ;
-*   en vérifiant régulièrement les pratiques de préparation des biberons.
+- en aidant la femme à disposer des moyens et des compétences nécessaires à cet allaitement ;
+- en identifiant les problèmes qu'elle peut rencontrer ;
+- en convaincant le partenaire ou la famille de la nécessité de pratiquer cet allaitement ;
+- en vérifiant régulièrement les pratiques de préparation des biberons.

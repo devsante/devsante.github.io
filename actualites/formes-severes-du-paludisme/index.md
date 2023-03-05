@@ -15,4 +15,4 @@ Ils prouvent aussi que nous avons du chemin à faire pour mieux comprendre l’i
 
 Par Philippe Reinert
 
-_Ref. Christopher JL Murray,  The Lancet, 2012_
+*Ref. Christopher JL Murray,  The Lancet, 2012*

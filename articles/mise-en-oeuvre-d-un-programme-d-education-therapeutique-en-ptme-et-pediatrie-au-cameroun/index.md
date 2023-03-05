@@ -41,25 +41,26 @@ Parmi les autres facteurs de succès de l'activité on peut relever : les compé
 
 Si l'impact de ce programme n'est pas encore évalué, il n'en demeure pas moins que certains effets sont déjà observables :
 
-*   **L'amélioration de la gestion du traitement** (horaires de prise, prise hors du domicile).  
-*   **L'amélioration de l'adhérence au traitement** (surtout dans les situations de reprise éducative ou d'indication d'ETP pour baisse de l'adhésion au traitement).
+- **L'amélioration de la gestion du traitement** (horaires de prise, prise hors du domicile).
+- **L'amélioration de l'adhérence au traitement** (surtout dans les situations de reprise éducative ou d'indication d'ETP pour baisse de l'adhésion au traitement).
 
 A cette étape du programme (12 mois), de nombreux défis demeurent dans les sites déjà existants : **la stabilisation du personnel formé et la formation complémentaire de personnel** pour prendre en charge un plus grand nombre de patients, **l'introduction de séances d'ETP de groupe** tant pour les enfants que pour les parents réticents à l'annonce (elles sont actuellement assez limitées).
 
 Enfin, la perspective d'extension et d'introduction dans de nouveaux sites devra tenir compte des résultats de l'évaluation de programme et s'assurer de certains préalables : validation du contenu d'une mallette éducative, élaboration d'instructions pédagogiques pour ses utilisateurs et enfin, l'élaboration de normes et procédures en matière d'ETP tant pour les adultes que pour les enfants au Cameroun.
 
-**_Nos remerciements vont :_**
+***Nos remerciements vont :***
 
-*   Au CNLS Cameroun : Dr Maurice Fezeu, Secrétaire Permanent du Groupe technique central
-*   A La Fondation GlaxoSmithKline qui a financé la mise en place de ce programme
-*   A Format Santé pour l'appui technique aux activités de formation.
+- Au CNLS Cameroun : Dr Maurice Fezeu, Secrétaire Permanent du Groupe technique central
+- A La Fondation GlaxoSmithKline qui a financé la mise en place de ce programme
+- A Format Santé pour l'appui technique aux activités de formation.
 
-## II. Education thérapeutique en PTME+ :  
+## II. Education thérapeutique en PTME+
+
 l'expérience du CASS, Yaoundé
 
 **Dr. Nathalie Nkoué,** responsable du suivi des PVVIH du programme PTME+, CASS, Dispensaire Catholique Monseigneur Jean Zoa.
 
-**_Comment avez-uous intégré l'éducation thérapeutique dans le circuit de prise en charqe ?_**
+***Comment avez-uous intégré l'éducation thérapeutique dans le circuit de prise en charqe ?***
 
 La consultation prénatale est la porte d'entrée dans le projet ; les nouvelles femmes enceintes sont reçues le mardi et le jeudi en IEC (Information Education Communication). Si elles acceptent le test de dépistage du VIH, un conseil individuel pré et post test est réalisé. Le jour du résultat, s'il est positif, une information sur le projet PTME+ (Prévention de la transmission de la mère à l'enfant dans le cadre parental) lui est donnée et si la patiente accepte (1 semaine de réflexion ou plus), nous ouvrons un dossier. Un entretien avec la conseillère, l'assistante sociale et le psychologue est proposé si nécessaire et si elle le souhaite. Puis la patiente voit le médecin pour l'ouverture du dossier médical, la prescription des bilans et est suivie à un rythme très précis. Nous encourageons le partenaire à venir se faire dépister et à ouvrir un dossier s'il est séropositif. Les enfants sont suivis jusqu'à 18 mois ou plus s'ils sont séropositifs. Pour le moment, les activités d'éducation sont réalisées au niveau du médecin et du psychologue, mais il est tout à fait envisageable de le faire à plusieurs niveaux du suivi de la patiente et très tôt dans la prise en charge. Nous avons déjà identifié des thèmes importants à aborder avec toute femme enceinte par les divers membres de l'équipe selon leur spécialité ; bien sûr cela ne doit pas être trop restrictif et chacun a la possibilité d'aborder un autre thème en fonction des besoins de la patiente.
 
@@ -81,16 +82,16 @@ Activités de PEC au CASS, service PTME+
 
 </table>
 
-**_Lors des séances d'éducation, quels principaux bénéfices avez-vous observé chez vos patientes ?_**
+***Lors des séances d'éducation, quels principaux bénéfices avez-vous observé chez vos patientes ?***
 
 L'amélioration de la relation soignant - soigné qui a un impact majeur sur l'adhésion à tout ce que nous faisons par la suite.
 
-**_Que vous a apporté l'éducation thérapeutique dans votre pratique quotidienne ?_**
+***Que vous a apporté l'éducation thérapeutique dans votre pratique quotidienne ?***
 
 Cette activité correspond exactement à ce que j'aime faire en général : ouvrir "les portes" qui obscurcissent la vue et la vie des gens.  
 Avant, dans ma pratique, je parlais très peu pour ne pas dire jamais avec les petits enfants. Aujourd'hui j'arrive à instaurer une relation de confiance et un dialogue.
 
-**_Quels conseils donneriez vous à une structure souhaitant mettre en œuure l'éducation thérapeutique dans un service de pédiatrie ?_**
+***Quels conseils donneriez vous à une structure souhaitant mettre en œuure l'éducation thérapeutique dans un service de pédiatrie ?***
 
 Un conseil majeur : avoir l'accord de la hiérarchie et des éducateurs motivés.
 
@@ -114,17 +115,18 @@ L'éducation thérapeutique est un processus dans lequel le soignant et le soign
 
 </table>
 
-## III. Education thérapeutique de l'enfant :  
+## III. Education thérapeutique de l'enfant
+
 l'expérience du Centre Hospitalier d'ESSOS (CHE)/CNPS, Yaoundé
 
 **Andrée Sidonie Lyeb,**  
 Psychologue, coordinatrice du programme d'éducation thérapeutique au CHE.
 
-**_Vous êtes psychologue et coordinatrice du programme d'éducation thérapeutique au centre hospitalier d'ESSOS, en quoi consistent vos fonctions ?_**
+***Vous êtes psychologue et coordinatrice du programme d'éducation thérapeutique au centre hospitalier d'ESSOS, en quoi consistent vos fonctions ?***
 
 Mes fonctions consistent à promouvoir au sein du CHE la pratique de l'éducation thérapeutique tant auprès des patients que des soignants. Je suis en charge du suivi des activités d'éducation (production de rapports trimestriels), de l'orientation des patients pour certains objectifs d'éducation et de la recherche en éducation thérapeutique du patient (production d'outils éducatifs).
 
-**_Au cours de votre formation en éducation thérapeutique, qu'est ce qui vous a le plus intéressé ?_**
+***Au cours de votre formation en éducation thérapeutique, qu'est ce qui vous a le plus intéressé ?***
 
 En tant que psychologue, j'ai été marquée par l'approche pédagogique. En tant qu'acteur de santé, soit on a tendance à dicter sa conduite au patient, soit on l'écoute patiemment tout en voulant faire passer le message juste, et on s'attend forcément à ce qu'il s'applique à respecter cela. **Or, l'ETP m'a appris quelque chose de fondamental : l'échange "actif" avec le patient qui permet le respect de ce que veut le patient.**
 
@@ -146,7 +148,7 @@ Activités d'éducation thérapeutique au CHE
 
 </table>
 
-**_Quelle est la particularité des séances d'éducation thérapeutique auprès de l'enfant et de sa famille ?_**
+***Quelle est la particularité des séances d'éducation thérapeutique auprès de l'enfant et de sa famille ?***
 
 **Le diagnostic éducatif**
 
@@ -164,9 +166,9 @@ Les séances individuelles se passent généralement entre l'enfant, le parent o
 
 Trois séances de groupe avec trois enfants ont déjà eu lieu. Les critères de choix des participants étaient liés à l'âge et au niveau d'expression. Il y avait deux garçons âgés de 10 et 11 ans, et une fille de 10 ans. Les objectifs étaient de prévenir la mauvaise observance consécutive à la période de l'adolescence et de préparer une éventuelle annonce. Les objectifs pédagogiques portaient sur "être capable de :
 
-*   nommer son traitement et dire les heures de prises,
-*   expliquer le mécanisme de la maladie et du traitement (par analogie),
-*   prévenir en évoquant les modes de transmission des maladies (par le sang.)
+- nommer son traitement et dire les heures de prises,
+- expliquer le mécanisme de la maladie et du traitement (par analogie),
+- prévenir en évoquant les modes de transmission des maladies (par le sang.)
 
 Les séances de groupe sont très bénéfiques : les enfants sont plus motivés lorsqu'ils sont ensemble car ils se rendent compte qu'ils ne sont pas les seuls à être sous traitement. Les parents se sentent accompagnés parce que l'enfant a désormais un cadre pour s'exprimer et surtout poser les questions embarrassantes auxquelles il n'arrive pas souvent à répondre.
 
@@ -195,16 +197,16 @@ Quand on pense que les parents des autres enfants de cet âge ne tiennent pas du
 
 </table>
 
-**_Quel est votre bilan au terme de cette première année ?_**
+***Quel est votre bilan au terme de cette première année ?***
 
 L'éducation thérapeutique a apporté aux enfants un cadre où ils peuvent s'exprimer et on remarque une meilleure observance parce qu'ils comprennent maintenant pourquoi ils doivent prendre un traitement au long court.
 
 Plusieurs conditions sont nécessaires au développement de l'éducation thérapeutique :
 
-*   la reconnaissance institutionnelle de cette activité et de la personne chargée de la coordonner,
-*   les ressources humaines dégagées uniquement pour cette activité,
-*   les moyens financiers nécessaires à la conception d'outils,
-*   être motivé, disponible et organisé.
+- la reconnaissance institutionnelle de cette activité et de la personne chargée de la coordonner,
+- les ressources humaines dégagées uniquement pour cette activité,
+- les moyens financiers nécessaires à la conception d'outils,
+- être motivé, disponible et organisé.
 
 <table>
 
@@ -240,51 +242,49 @@ Une amélioration de l'observance, des connaissances de base sur l'évolution de
 
 </table>
 
-## IV. Education thérapeutique de l'enfant :  
+## IV. Education thérapeutique de l'enfant
+
 expérience de l'hôpital Laquintinie
 
 **Dr. Ida Penda,** chef d'unité PTME et prise en charge du VIH pédiatrique, hôpital Laquintinie à Douala.
 
-**_Qu'est ce qui a motivé le développement de l'éducation thérapeutique dans votre service ?_**
+***Qu'est ce qui a motivé le développement de l'éducation thérapeutique dans votre service ?***
 
 Le traitement de l'enfant doit être efficace le plus longtemps possible pour éviter l'acquisition des résistances. L'observance thérapeutique est donc capitale car peu de molécules sont disponibles en pédiatrie. Le traitement pédiatrique à vie est souvent sujet à une lassitude surtout si l'enfant se sent mieux et ne comprend pas l'intérêt de poursuivre sa thérapie.
 
-
 ![](i1093-1.jpg)
-
 
 Nous avons introduit cette activité avec l'aide de la Fondation de GSK à travers la formation du personnel et la réhabilitation des locaux.
 
-**_Comment les activités d'éducation thérapeutique sont-elles intégrées dans la prise en charqe de l'enfant et de sa famille ?_**
+***Comment les activités d'éducation thérapeutique sont-elles intégrées dans la prise en charqe de l'enfant et de sa famille ?***
 
 Un dossier thérapeutique est rempli de manière systématique pour tout enfant mis sous ARV (antirétroviral) pour expliquer les enjeux du traitement et solliciter l'adhésion du tuteur et de l'enfant.
 
 Cela permet de recruter les enfants ayant des besoins spécifiques en éducation thérapeutique. Le nombre de séances varie selon le niveau de compréhension de l'enfant et est souvent lié à l'âge de l'enfant et à l'annonce du diagnostic (virus nommé ou non).
 
-**_Quels sont pour vous les enjeux et objectifs d'un programme d'éducation thérapeutique en pédiatrie ?_**
+***Quels sont pour vous les enjeux et objectifs d'un programme d'éducation thérapeutique en pédiatrie ?***
 
 L'éducation thérapeutique a pour but d'améliorer l'observance du traitement de l'enfant en impliquant l'enfant et sa famille dans un processus éducatif avec plusieurs étapes :
 
-*   faire comprendre l'enjeu du traitement à la famille (particulièrement au parent ou tuteur) et à l'enfant,
-*   faciliter l'adhésion des familles et de l'enfant au traitement,
-*   éduquer l'enfant et/ou sa famille à la prise régulière de son traitement. Elle doit tenir compte du contexte environnemental et socioculturel de l'enfant et se faire avec l'accord parental.
+- faire comprendre l'enjeu du traitement à la famille (particulièrement au parent ou tuteur) et à l'enfant,
+- faciliter l'adhésion des familles et de l'enfant au traitement,
+- éduquer l'enfant et/ou sa famille à la prise régulière de son traitement. Elle doit tenir compte du contexte environnemental et socioculturel de l'enfant et se faire avec l'accord parental.
 
-**_Qu'a apporté l'éducation thérapeutique dans la prise en charqe des enfants ?_**
+***Qu'a apporté l'éducation thérapeutique dans la prise en charqe des enfants ?***
 
 Nous avons observé une amélioration de l'observance thérapeutique.  
 L'éducation thérapeutique a aussi permis d'encourager les enfants las de leur traitement et de responsabiliser les grands enfants et les enfants dont les tuteurs sont limités dans la compréhension de la maladie et du traitement.
 
-**_Quels conseils donneriez vous à une structure souhaitant mettre en ceuure l'éducation thérapeutique dans un service de pédiatrie ?_**
+***Quels conseils donneriez vous à une structure souhaitant mettre en ceuure l'éducation thérapeutique dans un service de pédiatrie ?***
 
 Avoir du personnel formé et oeuvrant seulement pour cette activité. Intégrer cette formation dans le curriculum de la prise en charge pédiatrique.
 
 **Bibliographie :**
 
-1. Les compétences des soignants en éducation thérapeutique, Rémi Gagnayre, adap, Septembre 2005.  
-2. Rapport de progrès CNLS n°4, 2007.
+1.  Les compétences des soignants en éducation thérapeutique, Rémi Gagnayre, adap, Septembre 2005.
+2.  Rapport de progrès CNLS n°4, 2007.
 
+![](i1093-2.jpg)  
+**Séance d'éducation thérapeutiquelors de la dispensation de médicaments au Cameroun, 2007**
 
-![](i1093-2.jpg)
-**Séance d'éducation thérapeutique****lors de la dispensation de médicaments au Cameroun, 2007**
-
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

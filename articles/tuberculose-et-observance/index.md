@@ -17,28 +17,31 @@ J. Crofton 1987.
 
 Leur fréquence est inversement liée à la précision du diagnostic et à l'étendue des lésions. Une étude réalisée à New Delhi en Inde a montré que le pourcentage de perdus de vue qui était de 20 % chez des tuberculeux positifs dans les crachats (TMP +) passait à 35 % chez des tuber­culose pulmonaire à microscopie négative (TPM -) avec grandes lésions, 56 % chez des TPM - avec des lésions modérées et 100 % chez des TPM - avec des lésions minimes. Dans des essais cliniques le taux de perdus de vue est très inférieur à celui observé en routine. Une étude faite en Algérie montre un taux de 3% lors d'un essai clinique et 19 % en routine.
 
-## **Au total, on peut classer les principales causes  
-connues d'abandon du traite­ment en :**
+## Au total, on peut classer les principales causes
 
-*   Causes liées à l'organisation des structures (informations, circuits, accueil, ruptures, absences du personnel, etc.).  
-*   Liées au personnel soignant (accueil, dispo­nibilité, motivations etc.).  
-*   Liées au traitement (nombre de comprimés ou
-*   de prises, effets secondaires, horaires, etc.).  
-*   Liées à l'individu (raisons psycho sociales, raisons matérielles, coûts, etc.).
+connues d'abandon du traite­ment en :\*\*
+
+- Causes liées à l'organisation des structures (informations, circuits, accueil, ruptures, absences du personnel, etc.).
+- Liées au personnel soignant (accueil, dispo­nibilité, motivations etc.).
+- Liées au traitement (nombre de comprimés ou
+- de prises, effets secondaires, horaires, etc.).
+- Liées à l'individu (raisons psycho sociales, raisons matérielles, coûts, etc.).
 
 Quelques situations compliquent l'observance comme, les périodes de ramadan ou carême, les conditions de vie des nomades, des tra­vailleurs saisonniers ou des élèves.
 
 ## Pour diminuer le nombre des cas de mal observance,
 
-*   les autorités sanitaires doivent assurer :
-    *   un approvisionnement régulier en médica­ments et tests diagnostics,
-    *   des supervisions régulières,
-    *   un bon système d'information ;
+- les autorités sanitaires doivent assurer :
 
-*   le personnel doit :
-    *   identifier les difficultés du malade à pour­ suivre son traitement,
-    *   identifier rapidement les effets secondaires au traitement,
-    *   répondre de manière appropriée aux pro­blèmes des malades.
+  - un approvisionnement régulier en médica­ments et tests diagnostics,
+  - des supervisions régulières,
+  - un bon système d'information ;
+
+- le personnel doit :
+
+  - identifier les difficultés du malade à pour­ suivre son traitement,
+  - identifier rapidement les effets secondaires au traitement,
+  - répondre de manière appropriée aux pro­blèmes des malades.
 
 Les informations sur le suivi du traitement doivent être faites au cours d'un dialogue particulier par l'infirmier dans un langage simple, compréhensible par le malade. Ces informations doivent être répétées et reprises par l'ensemble du personnel. Elles peuvent s'accompagner de sensibilisations de groupe. Elles doivent être précises et complètes ; en cas de co-infecton il faut faire comprendre que le traitement ARV est pour toute la vie celui contre la tuberculose sera arrêté dès la guérison.  
 Il faut que le patient comprenne les enjeux du traitement et des prises régulières des médicaments ; il sera donc nécessaire de discuter ensemble du plan de traitement et des conduites à tenir en cas d'oubli, empêche­ments, effets secondaires etc..
@@ -50,10 +53,10 @@ Pour cela la fiche de traitement doit être régu­lièrement remplie, ainsi que
 
 On constate que les taux de guérison et de perdus de vue sont :
 
-*   différents d'un pays à l'autre,
-*   différents d'une région à une autre d'un même pays,
-*   dans une même région différents d'un district à un autre,
-*   différents d'un type de structure à une autre (publique, semi publique, confessionnelle).
+- différents d'un pays à l'autre,
+- différents d'une région à une autre d'un même pays,
+- dans une même région différents d'un district à un autre,
+- différents d'un type de structure à une autre (publique, semi publique, confessionnelle).
 
 ### Pourquoi ?
 
@@ -63,8 +66,6 @@ Quand on en demande la raison aux infirmiers de Salfa ils répondent que c'est p
 
 Sur toutes ces questions, il est recommandé de voir les articles de la revue "Développement et santé" du N° 172 ; Spécial observance et du N° 187 ; Education thérapeutique du patient vivant avec le VIH/SIDA.
 
-
 ![](12059-1.jpg)
 
-
-_Développement et Santé, n°190, 2008_
+*Développement et Santé, n°190, 2008*

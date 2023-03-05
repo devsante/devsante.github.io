@@ -77,8 +77,8 @@ Lorsqu’un enfant est fébrile, il est indispensable d’apprécier le degré d
 
 Saisir la peau de l’abdomen entre le pouce et l’index, tirer celle-ci et la relâcher rapidement. Observer à l’aide d’un chronomètre à quelle vitesse elle reprend son aspect normal :
 
-*   normalement, la peau reprend immédiatement son état normal, ceci témoigne d’une bonne hydratation ;
-*   si le pli cutané persiste et met du temps à retrouver son aspect normal, il peut s’agir d’une déshydratation et/ou d’une dénutrition associée.
+- normalement, la peau reprend immédiatement son état normal, ceci témoigne d’une bonne hydratation ;
+- si le pli cutané persiste et met du temps à retrouver son aspect normal, il peut s’agir d’une déshydratation et/ou d’une dénutrition associée.
 
 <table>
 
@@ -134,7 +134,7 @@ déshydratation</th>
 
 </table>
 
-### Appréciation de l'état circulatoire par la mesure du temps de recoloration :
+### Appréciation de l'état circulatoire par la mesure du temps de recoloration 
 
 Pour mesurer le temps de recoloration, il faut appuyer pendant 5 à 10 secondes sur la pulpe d'un doigt ou sur un ongle puis relâcher.  
 On mesure alors le temps que la peau blanchie au point de pression met à reprendre sa couleur antérieure. Normalement, ce temps est inférieur à 2 s.
@@ -256,38 +256,39 @@ La polypnée se définira donc comme une valeur supérieure à celle indiquée c
 
 Il faut **rechercher des signes associés** qui peuvent être absents mais qui, s’ils sont retrouvés, permettent une orientation diagnostique plus facile :
 
-*   battements des ailes du nez (dilatation inspiratoire des orifices narinaires) ;
-*   tirage sus-sternal, intercostal, sous-costal ;
-*   wheezing : bruit aigu ressemblant à un sifflement perçu à distance (sans stéthoscope) lors des deux temps de la respiration et témoignant d'un rétrécissement des voies aériennes ;
-*   dyspnée inspiratoire évoquant une obstruction des voies aériennes supérieures, associée parfois à un tirage sous-mandibulaire, un phlegmon pharyngé, une laryngite (cause fréquente, se méfier de l’épiglottite si l’enfant n’est pas vacciné contre _l’Haemophilus_ Ib, surtout en cas de drépanocytose) ;
-*   dyspnée expiratoire faisant évoquer une obstruction des voies aériennes inférieures ;  
-    sueurs ;
+- battements des ailes du nez (dilatation inspiratoire des orifices narinaires) ;
 
-*   difficultés à la prise du sein ou du biberon+++, signe de dyspnée à l’effort..
+- tirage sus-sternal, intercostal, sous-costal ;
+
+- wheezing : bruit aigu ressemblant à un sifflement perçu à distance (sans stéthoscope) lors des deux temps de la respiration et témoignant d'un rétrécissement des voies aériennes ;
+
+- dyspnée inspiratoire évoquant une obstruction des voies aériennes supérieures, associée parfois à un tirage sous-mandibulaire, un phlegmon pharyngé, une laryngite (cause fréquente, se méfier de l’épiglottite si l’enfant n’est pas vacciné contre *l’Haemophilus* Ib, surtout en cas de drépanocytose) ;
+
+- dyspnée expiratoire faisant évoquer une obstruction des voies aériennes inférieures ;  
+  sueurs ;
+
+- difficultés à la prise du sein ou du biberon+++, signe de dyspnée à l’effort..
 
 ## Quel matériel et quels examens complémentaires avoir à sa disposition ?
 
-*   Stéthoscope
-*   Otoscope pour regarder les tympans
-*   Abaisse-langue
-*   Chronomètre (le plus souvent disponible sur le téléphone mobile)
+- Stéthoscope
+- Otoscope pour regarder les tympans
+- Abaisse-langue
+- Chronomètre (le plus souvent disponible sur le téléphone mobile)
 
 **Dans la mesure du possible, l’idéal est de pouvoir pratiquer facilement les examens suivants** :
 
-*   NFS, plaquettes 
-*   Recherche de paludisme par examen de la lame 
-*   CRP
-*   Bandelette urinaire (nitrites, leucocytes)
-*   Radio pulmonaire
-*   Examen des tympans avec un otoscope
+- NFS, plaquettes 
+- Recherche de paludisme par examen de la lame 
+- CRP
+- Bandelette urinaire (nitrites, leucocytes)
+- Radio pulmonaire
+- Examen des tympans avec un otoscope
 
 ## Orientations diagnostiques possibles devant une polypnée fébrile chez l’enfant
 
 Nous tenons à souligner que cet arbre diagnostique n'est pas exhaustif et que nous avons mis en évidence les schémas les plus courants à côté desquels il ne faut absolument pas passer, ce d’autant qu’une fois le diagnostic établi, le traitement curatif est le plus souvent connu et facile à mettre en place, même sans hospitaliser l’enfant.
 
-
 ![](polypnee-febrile-nourrisson.jpg)
-
-
 
 ![](polypnee-febrile-enfant-apres-1-an.jpg)

@@ -21,4 +21,4 @@ Il est donc possible d’envisager de nouvelles campagnes de lutte contre le pia
 
 Jean-Loup Rey, médecin, GISPE
 
-_Mitjà O. et al. Single-dose azithromycin versus benzathine benzylpenicillin for treatment of yaws in children in Papua New Guinea: an open-label, non-inferiority, randomised trial. The Lancet, 11 janvier 2012_
+*Mitjà O. et al. Single-dose azithromycin versus benzathine benzylpenicillin for treatment of yaws in children in Papua New Guinea: an open-label, non-inferiority, randomised trial. The Lancet, 11 janvier 2012*

@@ -16,18 +16,18 @@ La séroprévalence était très hétérogène selon les espaces géographiques.
 
 Il était possible de différencier grossièrement 8 zones géographiques :
 
-*   l'Afrique du Nord, avec des taux inférieurs à 0,3%,
-*   la majorité des pays du Sahel, avec des taux aux environs de 1 à 3 %,
-*   la Côte-d'Ivoire et les pays voisins, avec des taux voisins de 7-8 %,
-*   le Nigeria et les régions voisines, avec des taux de 1 à 3 %,
-*   l'Afrique centrale francophone, avec des taux aux environs de 5-7 %,
-*   l'Afrique australe et des grands lacs, avec des taux de 20 à 25%,
-*   l'Afrique du sud pour laquelle les taux étaient mal connus, de 5 à 30 %,
-*   Madagascar où les taux sont inférieurs à 1 %. L'hétérogénéité existait aussi pour les caractéristiques socio démographiques :
-    *   les taux de séroprévalence en milieu urbain étaient supérieurs à ceux du milieu rural,
-    *   les femmes étaient généralement plus atteintes que les hommes.  
-    *   l'âge le plus atteint se situait entre 1 5 et 39 ans,
-    *   certaines catégories sociales étaient plus atteintes que les autres, comme les fonctionnaires, routiers ou lycéens, etc.
+- l'Afrique du Nord, avec des taux inférieurs à 0,3%,
+- la majorité des pays du Sahel, avec des taux aux environs de 1 à 3 %,
+- la Côte-d'Ivoire et les pays voisins, avec des taux voisins de 7-8 %,
+- le Nigeria et les régions voisines, avec des taux de 1 à 3 %,
+- l'Afrique centrale francophone, avec des taux aux environs de 5-7 %,
+- l'Afrique australe et des grands lacs, avec des taux de 20 à 25%,
+- l'Afrique du sud pour laquelle les taux étaient mal connus, de 5 à 30 %,
+- Madagascar où les taux sont inférieurs à 1 %. L'hétérogénéité existait aussi pour les caractéristiques socio démographiques :
+  - les taux de séroprévalence en milieu urbain étaient supérieurs à ceux du milieu rural,
+  - les femmes étaient généralement plus atteintes que les hommes.
+  - l'âge le plus atteint se situait entre 1 5 et 39 ans,
+  - certaines catégories sociales étaient plus atteintes que les autres, comme les fonctionnaires, routiers ou lycéens, etc.
 
 Enfin, les patients atteints de maladies sexuellement transmissibles (MST) et de tuberculose étaient très souvent infectés par le VIH.
 
@@ -51,10 +51,10 @@ Le même constat peut expliquer que les taux de séroprévalence semblent stagne
 
 Lorsqu'une baisse de séroprévalence est constatée dans un groupe, il n'est pas certain que cela traduise un progrès, il faut vérifier si cette baisse n'est pas due à un renouvellement de la population composant le groupe. Ainsi, en Côte-d'Ivoire, des études récentes montrent que la séroprévalence a baissé chez les prostituées, mais parallèlement que :
 
-*   l'âge moyen des prostituées a baissé de 30 à 23 ans,
-*   leur durée moyenne d'activité a baissé de 3 à 1,5 ans,
-*   leur taux de scolarisation a augmenté,
-*   la proportion de femmes de nationalité ivoirienne a augmenté.
+- l'âge moyen des prostituées a baissé de 30 à 23 ans,
+- leur durée moyenne d'activité a baissé de 3 à 1,5 ans,
+- leur taux de scolarisation a augmenté,
+- la proportion de femmes de nationalité ivoirienne a augmenté.
 
 La répartition de l'infection par VIH selon les caractéristiques démographiques s'est aussi modifiée : l'infection par VIH a diffusé parmi toutes les classes sociales, elle s'est " démocratisée ".
 
@@ -86,11 +86,11 @@ Les Caraïbes sont la deuxième région du monde la plus touchée; dans plusieur
 
 ## VII. La situation en Asie
 
-### Asie centrale et Europe orientale :
+### Asie centrale et Europe orientale
 
 Ce sont les régions de la planète où l'incidence est la plus forte, on estime à 250 000 le nombre de nouvelles infections en 2001. En Ukraine, le taux de séropositivité est de 1%. Le premier mode de transmission est l'utilisation de drogues par voie veineuse, mais comme il s'agit de sujets jeunes, la transmission secondaire par voie sexuelle est quantitativement importante.
 
-### Asie et Pacifique :
+### Asie et Pacifique
 
 L'épidémie est apparue plus tard, mais aujourd'hui, plusieurs pays sont dans des situations critiques. En Chine centrale, des dizaines de milliers de paysans ont été contaminés en donnant leur sang, ailleurs, les taux d'infection sont très élevés parmi les consommateurs de drogues injectables. En Inde, les taux de séroprévalence sont très hétérogènes, la moyenne chez les adultes est aux environs de 1%. Dans ce continent, les modes de transmission les plus fréquents sont les rapports sexuels non protégés avec les prostitués, les rapports sexuels non protégés entre hommes et l'utilisation commune de matériel d'injection chez les consommateurs de drogues injectables.
 
@@ -98,25 +98,25 @@ L'épidémie est apparue plus tard, mais aujourd'hui, plusieurs pays sont dans d
 
 **1.** Les **études récentes** semblent montrer que la dynamique particulière du SIDA en Afrique n'est pas due aux seuls comportements et que des facteurs biologiques entrent sûrement en ligne de compte. Des groupes de population ont des comportements semblables et l'infection par VIH ne s'y développe pas avec la même vitesse. L'hétérogénéité des données asiatiques pourrait être expliquée par les mêmes raisons.
 
-En attendant un hypothétique vaccin, la prévention par la promotion de comportements responsables continue à être le seul moyen de prévention primaire*, mais nécessite que : - toute la population se mobilise. Pour paraphraser l'ancien président des USA, J.F. Kennedy, "_il n'est plus temps de demander aux pouvoirs publics et à la communauté internationale des moyens, il faut que tout un chacun se demande ce qu'il fait pour lutter contre le SIDA et chacun a un rôle à jouer_ ";
+En attendant un hypothétique vaccin, la prévention par la promotion de comportements responsables continue à être le seul moyen de prévention primaire\*, mais nécessite que : - toute la population se mobilise. Pour paraphraser l'ancien président des USA, J.F. Kennedy, "*il n'est plus temps de demander aux pouvoirs publics et à la communauté internationale des moyens, il faut que tout un chacun se demande ce qu'il fait pour lutter contre le SIDA et chacun a un rôle à jouer* ";
 
-*   les jeunes, premières victimes et avenir des sociétés, se mobilisent et fassent l'objet d'une attention plus importante de la part des pouvoirs publics ;
-*   le statut et le rôle des femmes soient reconnus et améliorés ;
-*   des moyens nouveaux de sensibilisation soient initiés par la base et soutenus par les responsables ;
-*   les recherches pour expliquer les constats épidémiologiques soient renforcées ;
-*   des recherches pour développer de nouveaux moyens de lutte et de protection soient développées car, dans l'histoire, il n'existe pas de pandémie qui ait été endiguée ou éradiquée avec un seul moyen.
+- les jeunes, premières victimes et avenir des sociétés, se mobilisent et fassent l'objet d'une attention plus importante de la part des pouvoirs publics ;
+- le statut et le rôle des femmes soient reconnus et améliorés ;
+- des moyens nouveaux de sensibilisation soient initiés par la base et soutenus par les responsables ;
+- les recherches pour expliquer les constats épidémiologiques soient renforcées ;
+- des recherches pour développer de nouveaux moyens de lutte et de protection soient développées car, dans l'histoire, il n'existe pas de pandémie qui ait été endiguée ou éradiquée avec un seul moyen.
 
 **2. Pour lutter efficacement contre une pandémie**, il faut plusieurs moyens complémentaires. Dans le cas du SIDA, et sans attendre le vaccin, des virucides utilisables par les femmes par voie génitale sont une nécessité urgente et cruciale en complément du préservatif masculin (et féminin).
 
 **3. Pauvreté et SIDA** sont malheureusement fortement liés. Il est maintenant admis par tous, ou presque, que lutter contre l'un des deux fléaux permet d'abaisser le poids de l'autre et qu'il est impossible de lutter contre l'un des deux fléaux sans envisager de lutter contre l'autre.
 
-_Puisque nous_ parlons _monnaie et que le CFA  
-se maintient face à l'Euro, maintenons_  
-_la signification préventive de_ **CFA** _soit :_  
-_**C**ondom **F**idélité **A**bstinence_
+*Puisque nous* parlons *monnaie et que le CFA  
+se maintient face à l'Euro, maintenons*  
+*la signification préventive de* **CFA** *soit :*  
+***C**ondom **F**idélité **A**bstinence*
 
-***Prévention primaire** : action destinée à prévenir la contamination.  
+\***Prévention primaire** : action destinée à prévenir la contamination.  
 **Prévention secondaire** : toutes actions destinées à empêcher l'apparition de la maladie.  
 **Prévention tertiaire** : action destinée à empêcher les complications chez le malade.
 
-_Développement et Santé, n°162, décembre 2002_
+*Développement et Santé, n°162, décembre 2002*

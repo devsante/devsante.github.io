@@ -30,15 +30,15 @@ Si, dans les pays développés, ces maladies étaient déjà contrôlées grâce
 
 Le calendrier vaccinal recommandé, toujours appliqué aujourd'hui, fut le suivant :
 
-*   Vaccination contre la tuberculose par le BCG, idéalement dès la naissance ou le plus tôt possible après, avant tout contact avec le bacille tuberculeux, seule façon de lutter efficacement contre les redoutables méningites tuberculeuses des nourrissons.  
-*   Simultanément au BCG, administration d'une première dose de vaccin oral contre la **poliomyélite** (VPO), préféré au vaccin injectable essentiellement pour un problème de coût, mais aussi pour sa facilité d'administration.  
-*   A 6, 10 et 14 semaines de vie, injection d'une dose de vaccin combiné contre le tétanos, la diphtérie et la coqueluche et administration d'une dose de VYO.  
-*   A 9 mois, injection d'une dose de vaccin contre la rougeole.
+- Vaccination contre la tuberculose par le BCG, idéalement dès la naissance ou le plus tôt possible après, avant tout contact avec le bacille tuberculeux, seule façon de lutter efficacement contre les redoutables méningites tuberculeuses des nourrissons.
+- Simultanément au BCG, administration d'une première dose de vaccin oral contre la **poliomyélite** (VPO), préféré au vaccin injectable essentiellement pour un problème de coût, mais aussi pour sa facilité d'administration.
+- A 6, 10 et 14 semaines de vie, injection d'une dose de vaccin combiné contre le tétanos, la diphtérie et la coqueluche et administration d'une dose de VYO.
+- A 9 mois, injection d'une dose de vaccin contre la rougeole.
 
 **Pour la bonne compréhension de ce programme, deux remarques s'imposent :**
 
-*   D'une part, la précocité des vaccinations, parfois au détriment de l'efficacité chez certains enfants, en particulier pour la rougeole, est due au fait que les agents pathogènes à l'origine de ces maladies cibles circulent encore très intensément dans les pays tropicaux. Une vaccination plus tardive exposerait davantage au risque de contracter la maladie les enfants qui auraient perdu rapidement les anticorps protecteurs transmis par leur mère.  
-*   D'autre part, il n'est pas prévu d'effectuer, comme dans les pays du Nord, des vaccinations de rappel contre la poliomyélite, le tétanos, la diphtérie et la coqueluche. En effet, le PEV privilégie la protection de la petite enfance en misant sur le fait que les a~ents pathogènes circulant dans la nature peuvent entraîner des rappels naturels pour une protection de longue durée. Actuellement, dans les pays où la CV est élevée et les progrès sanitaires significatifs, des vaccinations de rappel sont de plus en plus souvent pratiquées.
+- D'une part, la précocité des vaccinations, parfois au détriment de l'efficacité chez certains enfants, en particulier pour la rougeole, est due au fait que les agents pathogènes à l'origine de ces maladies cibles circulent encore très intensément dans les pays tropicaux. Une vaccination plus tardive exposerait davantage au risque de contracter la maladie les enfants qui auraient perdu rapidement les anticorps protecteurs transmis par leur mère.
+- D'autre part, il n'est pas prévu d'effectuer, comme dans les pays du Nord, des vaccinations de rappel contre la poliomyélite, le tétanos, la diphtérie et la coqueluche. En effet, le PEV privilégie la protection de la petite enfance en misant sur le fait que les a~ents pathogènes circulant dans la nature peuvent entraîner des rappels naturels pour une protection de longue durée. Actuellement, dans les pays où la CV est élevée et les progrès sanitaires significatifs, des vaccinations de rappel sont de plus en plus souvent pratiquées.
 
 Dès son origine, dans le cadre de la prévention du tétanps néonatal (TNN), le PEV a également préconisé la vaccination contre le tétanos des femmes enceintes qui se présentaient aux examens prénataux afin qu'elles puissent transmettre des anticorps à leurs enfants. En 1989, devant l'incidence toujours élevée du TNN, un appel en faveur de son élimination a été lancé lors de l'Assemblée mondiale de la santé avec, comme objectif, la réduction à moins d'un cas de TNN pour 1 000 naissances vivantes dans tous les districts des pays. En 1999, 108 pays en développement sur 166 avaient atteint cet objectif après des campagnes de vaccination de toutes les femmes en âge de procréer. Malgré les progrès réalisés, on estimait encore à 200 000 le nombre de décès dus au TNN survenus en 2005 dans les pays les moins avancés, dont la majorité (34 sur 41) est située en Afrique sub-saharienne.
 
@@ -58,9 +58,9 @@ En 1988, la vaccination contre la **fièvre jaune** fut ajoutée au PEV dans les
 
 En 1991, ce fut au tour de la vaccination contre l'hépatite B de rentrer dans le PEV. Véritable fléau, cette maladie était encore responsable en 2002 dans le monde, de 5,2 millions d'hépatites aiguës et de plus de 520 000 décès (470 000 par cirrhose et cancer du foie, 52 000 liés à l'infection aiguë), essentiellement en Asie du sud-est et en Afrique. Si, dans les années 1990, le coût du vaccin était un frein à son introduction clans le programme, actuellement le prix de la dose est beaucoup plus abordable. De nombreux pays émergents asiatiques l'ont adopté. En Afrique, la couverture vaccinale (CV), bien qu'en grand progrès, est encore insuffisante. La vaccination s'administre en association avec le vaccin combiné contre le tétanos, la diphtérie et la coqueluche à 6, 10 et 14 semaines.
 
-### _3. Haemophilus influenzae b_
+### *3. Haemophilus influenzae b*
 
-Actuellement, l'OMS recommande d'introduire dans le PEV la vaccination contre la bactérie _Haemophilus influenzae b_ (Hib), principale respon¬sable des méningites bactériennes clans les deux premières années de vie, en dehors des redoutables épidémies de méningites à méningocoque dans la "ceinture de la méningite" africaine (voir vaccin contre les méningocoques) contre lesquelles il n'existe pas encore de vaccin pour les nourrissons. Un vaccin combiné D-T-Coq-HepB-Hib entièrement liquide, actuellement disponible, favorise l'introduction de cette vaccination dans de nombreux pays africains.
+Actuellement, l'OMS recommande d'introduire dans le PEV la vaccination contre la bactérie *Haemophilus influenzae b* (Hib), principale respon¬sable des méningites bactériennes clans les deux premières années de vie, en dehors des redoutables épidémies de méningites à méningocoque dans la "ceinture de la méningite" africaine (voir vaccin contre les méningocoques) contre lesquelles il n'existe pas encore de vaccin pour les nourrissons. Un vaccin combiné D-T-Coq-HepB-Hib entièrement liquide, actuellement disponible, favorise l'introduction de cette vaccination dans de nombreux pays africains.
 
 ## IV. Résultats de la mise en place du PEV
 
@@ -69,7 +69,7 @@ Jusqu'au milieu des années 1980, les différents états mirent progressivement 
 ### Amélioration de la CV dans un premier temps
 
 La CV, en particulier contre les six premières maladies cibles du programme, augmenta rapidement dans les années 1980 pour atteindre son apogée au début des années 1990. Par exemple, alors qu'elle était de moins de 5 % en 1974, la CV diphtérie-tétanos-coqueluche atteignait près de 60 % en Afrique en 1990.  
-Cette année-là, l'UNICEF, l'OMS, le Programme des Nations-Unies pour le développement (PNUD), la Banque Mondiale et la Fondation Rockefeller créèrent l'Initiative pour la Vaccination des Enfants (_CVI : Children Vaccine Initiative_) conçue pour faciliter le développement et la production des vaccins pour le PEV ainsi que pour mobiliser les bailleurs de fonds.
+Cette année-là, l'UNICEF, l'OMS, le Programme des Nations-Unies pour le développement (PNUD), la Banque Mondiale et la Fondation Rockefeller créèrent l'Initiative pour la Vaccination des Enfants (*CVI : Children Vaccine Initiative*) conçue pour faciliter le développement et la production des vaccins pour le PEV ainsi que pour mobiliser les bailleurs de fonds.
 
 ### Baisse de la CV dans les années 2000
 
@@ -77,16 +77,16 @@ Pourtant, dans les années suivantes, la CV commença à décroître dans certai
 
 ### Mise en place d'un nouveau programme
 
-Une série d'échanges entre les partenaires publics et privés concernés par la vaccination des enfants des pays les moins avancés, essentiellement d'Afrique, convaincus que la réduction de la mortalité infantile était nécessaire au développement, déboucha sur la création en 2000 de l'Alliance globale pour les vaccins et la vaccination, plus connue sous son acronyme anglo-saxon GAVI (_Global Alliance for Vaccines and Immunization_). Les promoteurs de cette démarche originale partaient du constat que le principal obstacle à une meilleure utilisation des principaux vaccins n'étaient pas leur prix, puisque l'ensemble des six  
+Une série d'échanges entre les partenaires publics et privés concernés par la vaccination des enfants des pays les moins avancés, essentiellement d'Afrique, convaincus que la réduction de la mortalité infantile était nécessaire au développement, déboucha sur la création en 2000 de l'Alliance globale pour les vaccins et la vaccination, plus connue sous son acronyme anglo-saxon GAVI (*Global Alliance for Vaccines and Immunization*). Les promoteurs de cette démarche originale partaient du constat que le principal obstacle à une meilleure utilisation des principaux vaccins n'étaient pas leur prix, puisque l'ensemble des six  
 vaccins de base du PEV ne coûtait qu'un dollar américain, mais le coût de la logistique allié au manque de volonté politique. Il fallait penser "vaccinologie" telle que nous l'avons définie et pas seulement vaccins.  
 Un élément capital pour la création de GAVI fut la décision de la Fondation Bill et Melinda Gates de soutenir l'initiative en annonçant en 2000 un financement de 750 millions de dollars sur cinq ans, engagement qu'elle a renouvelé pour les cinq années suivantes. GAVI regroupe actuellement l'OMS, l'UNICEF, la Banque mondiale, la Fondation Gates, des organismes de recherche et de santé publique, des gouvernements des pays industrialisés et des pays en développement, les principaux producteurs de vaccins tant des pays du nord que des pays émergents, et des organisations non gouvernementales (ONG).
 
-Dans les pays où la CV est inférieure à 75 % et où le PNB est inférieur à 1 000 $, c'est-à-dire dans pratiquement tous les pays sub-sahariens, GAVI a plusieurs objectifs principaux :
+Dans les pays où la CV est inférieure à 75 % et où le PNB est inférieur à 1 000 \$, c'est-à-dire dans pratiquement tous les pays sub-sahariens, GAVI a plusieurs objectifs principaux :
 
-*   le financement d'infrastructures (chaîne du froid, véhicules...) et la formation du personnel de santé en particulier à la gestion du programme, préalable à la mise à disposition des vaccins,
-*   la fourniture des vaccins de base traditionnels du PEV,
-*   la fourniture de vaccins insuffisamment utilisés tels ceux contre l'hépatite B, l'infection à Hib et la fièvre jaune,
-*   la fourniture de seringues à usage unique pour garantir la sécurité des vaccinations.
+- le financement d'infrastructures (chaîne du froid, véhicules...) et la formation du personnel de santé en particulier à la gestion du programme, préalable à la mise à disposition des vaccins,
+- la fourniture des vaccins de base traditionnels du PEV,
+- la fourniture de vaccins insuffisamment utilisés tels ceux contre l'hépatite B, l'infection à Hib et la fièvre jaune,
+- la fourniture de seringues à usage unique pour garantir la sécurité des vaccinations.
 
 Grâce à GAVI, la baisse des couvertures vaccinales observée dans les années 1990 est enrayée et tend à s'améliorer dans de nombreux pays. A cet égard, le Burkina Faso est exemplaire : en 2006, la CV contre le tétanos, la diphtérie et la coqueluche atteignait 90 %.  
 Dans les années 1990, outre les insuffisances du financement, l'augmentation fulgurante du nombre de doses vaccinales requises pour satisfaire les programmes avait souvent rendu problématique l'approvisionnement en vaccins, la bio-industrie, concentrée au Nord, ne pouvant satisfaire la demande. Aujourd'hui, ces difficultés sont en grande partie résolues grâce aux progrès rapides de l'industrie des vaccins dans les pays émergents d'Amérique latine (Brésil, Cuba) et d'Asie (Chine, auto-suffisante pour ses besoins nationaux, Inde, Indonésie, Corée du Sud). Il est important de souli¬gner que ces pays fournissent actuellement la moitié du nombre total de doses de vaccins requis dans le monde par le PEV, réalité impensable il y a à peine dix ans.

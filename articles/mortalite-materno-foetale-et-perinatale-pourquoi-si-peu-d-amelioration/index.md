@@ -22,4 +22,4 @@ Si l'on revient à la mortalité au cours du premier mois, il ressort que la pr�
 
 Malheureusement il faut maintenant ajouter le VIH.
 
-_Développement et Santé, n°197/198/2010_
+*Développement et Santé, n°197/198/2010*

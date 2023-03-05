@@ -11,17 +11,17 @@ Ictère, urines rares et foncées, fourmillements et douleurs dans les membres (
 
 ## 2. Recherche de signes biologiques
 
-### Au minimum :
+### Au minimum
 
-*   hémoglobine
-*   glycémie
-*   bilirubine
-*   cholestérol
+- hémoglobine
+- glycémie
+- bilirubine
+- cholestérol
 
-### Si possible :
+### Si possible
 
-*   transaminases
-*   créatinine
-*   amylase
-*   hémogramme
-*   triglycérides, LDH
+- transaminases
+- créatinine
+- amylase
+- hémogramme
+- triglycérides, LDH

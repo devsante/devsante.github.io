@@ -8,9 +8,7 @@ date: "2012-06-02"
 Le fait de corriger cette carence permet de diminuer de 23 % la mortalité des jeunes enfants, et contribue également à réduire la mortalité maternelle.</p>
 <p>Au début des années 2000, en Afrique occidentale francophone, cette carence était en partie responsable de 57 000 décès d’enfants de moins de 59 mois.</p></div>
 
-
 ![](carte-carence-vitamine-a.jpg)
-
 
 ## I. Effets de la vitamine A
 
@@ -39,9 +37,7 @@ Certaines périodes de la vie mobilisent davantage la vitamine A : les enfants, 
 
 Certains facteurs influent sur cette carence : sociaux, économiques, culturels, éducatifs et environnementaux. Une mauvaise promotion de l’allaitement maternel pendant les 6 premiers mois avec nécessité impérative de mettre l’enfant au sein avant la première heure de vie, les diarrhées et les parasitoses intestinales entraînent une réduction  de l’absorption de la vitamine A alors qu’en raison des risques infectieux, les besoins sont être accrus et les réserves hépatiques s’effondrent donc plus vite.
 
-
 ![](image004.png)
-
 
 ## III. Clinique de la carence en vitamine A
 
@@ -50,22 +46,23 @@ Certains facteurs influent sur cette carence : sociaux, économiques, culturels,
 Susceptibilité aux infections des enfants de 6 mois à 59 mois : la prévention de la carence en Tanzanie et en Afrique du Sud a permis de réduire de 50 % la mortalité due à la rougeole  
 L’apport de vitamine A réduit la mortalité maternelle et améliore la correction de la carence en fer lors de la supplémentation en fer.
 
-#### Xérophtalmie :
+#### Xérophtalmie
 
-*   altération précoce de l’adaptation à l’obscurité : cécité nocturne, héméralopie,
-*   cécité par atrophie de la conjonctive bulbaire.
+- altération précoce de l’adaptation à l’obscurité : cécité nocturne, héméralopie,
+- cécité par atrophie de la conjonctive bulbaire.
 
 Le déficit en vitamine A est progressif, son grand danger est qu’il reste longtemps asymptomatique. Lorsque les premiers signes cliniques ophtalmologiques apparaissent, le déficit est déjà profond, les signes étant partiellement réversibles selon le stade si la carence est corrigée. En revanche, à ce stade, l’immunité de l’enfant est diminuée et toute maladie intercurrente peut avoir des répercussions gravissimes (allant jusqu’au décès).
 
-### 2. Comment faire un diagnostic précoce  
+### 2. Comment faire un diagnostic précoce
+
 de carence en vitamine A
 
 A un stade précoce, l’œil de l’enfant semble encore normal et le diagnostic ne peut être fait si la carence n’est pas recherchée par l’interrogatoire. Des questions simples posées à la mère peuvent orienter vers ce diagnostic :
 
-*   La mère a-t-elle remarqué que son enfant trébuche ou se cogne dans l’obscurité ou au crépuscule ?
-*   De tels signes sont-ils apparus récemment  ?
-*   S’il s’est blessé récemment, à quel moment de la journée est survenu l’accident ?
-*   Lors du repas familial le soir, si l’éclairage est faible, a-t-il du mal à trouver sa nourriture ?
+- La mère a-t-elle remarqué que son enfant trébuche ou se cogne dans l’obscurité ou au crépuscule ?
+- De tels signes sont-ils apparus récemment  ?
+- S’il s’est blessé récemment, à quel moment de la journée est survenu l’accident ?
+- Lors du repas familial le soir, si l’éclairage est faible, a-t-il du mal à trouver sa nourriture ?
 
 De tels signes doivent d’emblée alerter et conduire à la mise en place d’une supplémentation en vitamine A.
 
@@ -73,16 +70,14 @@ De façon systématique, il faut également demander à la mère si son enfant a
 
 Il faut également :
 
-*   demander à la mère si, pendant sa grossesse, il lui a été donné une supplémentation en vitamine A.  
-*   faire une enquête alimentaire pour rechercher une insuffisante d’apport. 
+- demander à la mère si, pendant sa grossesse, il lui a été donné une supplémentation en vitamine A.
+- faire une enquête alimentaire pour rechercher une insuffisante d’apport. 
 
 Il faut toujours regarder les yeux d’un enfant.
 
 Au stade de début, on recherche la constitution de tache de Bitot : c’est une modification du blanc de l’œil.
 
-
 ![](image006.png)
-
 
 Puis apparaissent des lésions de la partie foncée de l’œil, c’est-à-dire la cornée : aspect trouble, puis blanchiment de la cornée avec ulcération.
 
@@ -188,12 +183,10 @@ d’administration</td>
 
 La prévention repose avant tout sur des conseils nutritionnels adaptés : adopter une alimentation riche en vitamine A :
 
-*   Le rétinol est présent à l’état naturel dans les produits laitiers, le foie et les abats.  
-*   Les précurseurs de la vitamine A sont retrouvés dans les végétaux : carottes, huile de palme rouge, patate douce à chair orangée, mangue, papaye, feuilles vertes.
-
+- Le rétinol est présent à l’état naturel dans les produits laitiers, le foie et les abats.
+- Les précurseurs de la vitamine A sont retrouvés dans les végétaux : carottes, huile de palme rouge, patate douce à chair orangée, mangue, papaye, feuilles vertes.
 
 ![](image011.png)
-
 
 En Afrique, 70 à 90 % de la vitamine alimentaire provient de cet apport, mais l’absorption est médiocre par rapport à celle du rétinol (20 à 50 % comparé à une absorption de 80 % pour le rétinol).
 

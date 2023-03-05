@@ -8,13 +8,13 @@ date: "1995-06-02"
 
 **Le financement et la qualité des soins dans le Mayo-Kebbi (Tchad)**
 
-**par Walter Kessler*, Alex Ergo***
+**par Walter Kessler*, Alex Ergo*\*\*
 
 Dans une première partie, la situation de départ, avec les difficultés de fonctionnement du système de soins, a été présentée et la mise en place d'une trentaine de comités de santé a été décrite. Les conséquences pratiques sur la population en termes de financement et du profit des soins sont maintenant analysées.
 
-## **I. Financement des soins**
+## I. Financement des soins
 
-### **1. Définition des objectifs**
+### 1. Définition des objectifs
 
 Au niveau des centres de santé, les objectifs financiers ont été fixés comme suit (par ordre décroissant et priorité) :
 
@@ -30,9 +30,9 @@ Au niveau des centres de santé, les objectifs financiers ont été fixés comme
 
 - paiement des primes au rendement au personnel de la santé.
 
-### **2. Analyse des facteurs** **défavorables**
+### 2. Analyse des facteurs défavorables
 
-*   **Capacités de gestion limitées**
+- **Capacités de gestion limitées**
 
 Toutes les zones se trouvent dans un milieu rural (y compris les "villes"), avec un taux d'alphabétisation très faible. La gestion d'une pharmacie dépasse de loin les capacités de gestion habituelles du monde rural qui se limitent généralement à :
 
@@ -52,7 +52,9 @@ La gestion du budget familial est concrète, prévisible, et réelle, tandis que
 
 - la diversité des coûts des produits reste une notion abstraite (un comprimé, c'est un comprimé, pourquoi l'un coûterait plus que l'autre ?).
 
-*   **Absence de rigueur de gestion dans** **les services publics**
+<!-- -->
+
+- **Absence de rigueur de gestion dans** **les services publics**
 
 Si l'on veut que :
 
@@ -68,37 +70,37 @@ il faut commencer par compresser au maximum les coûts et éviter les pertes. Ce
 
 Un système de recouvrement des coûts financé par la population ne peut certainement pas prendre en charge ces pertes. Des systèmes de contrôle sont théoriquement toujours possibles, mais souvent financièrement non rentables car trop coûteux en investissement (en temps et en personnel).
 
-*   **Gratuité des soins**
+- **Gratuité des soins**
 
 Durant les cinq dernières années, les médicaments, dans la plupart des structures, étaient donnés gratuitement. L'approvisionnement était régulier et sans ruptures de stock importantes. Passer dans de telles conditions à un système payant risque de susciter quelques mécontentements.
 
-### **3. Analyse des facteurs favorables**
+### 3. Analyse des facteurs favorables
 
-*   **Existence d'une pharmacie préfectorale opérationnelle**
+- **Existence d'une pharmacie préfectorale opérationnelle**
 
 La pharmacie préfectorale est fonctionnelle depuis 1991. Dans un système de recouvrement des coûts, l'approvisionnement des structures périphériques est la priorité, ne serait-ce que pour la crédibilité du système auprès de la population. Afin de diminuer le coût, l'approvisionnement de la pharmacie préfectorale se fait suivant les procédures d'appel d'offre international et la plupart des commandes viennent par bateau.
 
-*   **Présence d'un projet avec souplesse** **budgétaire**
+- **Présence d'un projet avec souplesse** **budgétaire**
 
 Les comités de santé doivent théoriquement disposer d'un fond de roulement pour acheter leur première dotation de médicaments. Une cotisation de la population au préalable n'a pas paru réaliste; en effet, pourquoi la population aurait-elle confiance dans ce nouveau système avant d'avoir pu évaluer sa pertinence? Cette première dotation a par conséquent été financée par MSF.
 
-*   **Convertibilité du franc CFA**
+- **Convertibilité du franc CFA**
 
 La pharmacie préfectorale doit fixer des tarifs de vente pour les médicaments à l'avance. La tarification doit être en sorte que les sommes récoltées permettent de renouveler le stock. Les commandes sont annuelles. Les prix des médicaments essentiels varient très peu sur le marché international. Dans ces conditions, une tarification établie douze mois auparavant permet sans problème de procéder au rachat d'une dotation complète.
 
-*   **Absence de contrainte d'importation** **des médicaments essentiels**
+- **Absence de contrainte d'importation** **des médicaments essentiels**
 
 Au Tchad, aucune taxe de dédouanement ou d'importation ne doit être payée pour les médicaments, ce qui a des répercussions directes sur les prix de vente des médicaments au public.
 
-### **4. Les circuits financiers**
+### 4. Les circuits financiers
 
-Après avoir réalisé des études de faisabilité _(encadré n° 1_), les circuits financiers ont été définis. Il n'y a pas de banque commerciale dans la préfecture. Les missions catholiques ont installé des crédits et épargnes villageois qui ne se prêtent pas à des flux financiers importants. Pour des mesures de sécurité, il n'était pas plus indiqué de garder des sommes importantes au niveau des trésoriers. Pour cette raison, et dans l'attente d'une meilleure solution, il a été décidé de verser l'argent au gestionnaire de district qui, lui, transmet les montants à verser sur le compte bancaire unique, ouvert pour tous les comités de santé dans une banque commerciale en capitale. Un décompte par comité est fait régulièrement.
+Après avoir réalisé des études de faisabilité *(encadré n° 1*), les circuits financiers ont été définis. Il n'y a pas de banque commerciale dans la préfecture. Les missions catholiques ont installé des crédits et épargnes villageois qui ne se prêtent pas à des flux financiers importants. Pour des mesures de sécurité, il n'était pas plus indiqué de garder des sommes importantes au niveau des trésoriers. Pour cette raison, et dans l'attente d'une meilleure solution, il a été décidé de verser l'argent au gestionnaire de district qui, lui, transmet les montants à verser sur le compte bancaire unique, ouvert pour tous les comités de santé dans une banque commerciale en capitale. Un décompte par comité est fait régulièrement.
 
 Une facturation suit dès qu'une livraison de médicaments est préparée au niveau de la pharmacie préfectorale. Le compte du comité en question est débité pour le montant de la facture de la dotation ; ce montant est versé sur le compte de la pharmacie préfectorale.
 
 Les dépenses courantes (entretien, fonctionnement, salaire du gestionnaire de la pharmacie, prime pour le personnel) sont effectuées directement par le comité.
 
-### **5. Le circuit du malade**
+### 5. Le circuit du malade
 
 Un malade qui se présente en consultation curative doit d'abord acheter un ticket de consultation (100F CFA) et un carnet de santé s'il n'en possède pas. Après, il passe chez l'infirmier. Il reçoit une ordonnance si nécessaire. Il se rend avec cette ordonnance à la pharmacie. Le gestionnaire lui délivre les médicaments contre paiement en fonction de la tarification indiquée ci-dessus. Uniquement les ordonnances officielles et complètes sont délivrées. S'il s'agit d'un ancien cas (un malade qui re consulte pour la même maladie), il ne paie plus le ticket de 100 F CFA. Si, lors de la consultation, l'infirmier prescrit un pansement, le malade se procure un ticket de pansement de 250 F CFA et se présente à la salle de pansement ; avec ce ticket le malade accède à la salle de pansement le nombre de fois nécessaire pour sa guérison. Un ticket forfait de 1 000 F CFA est vendu pour les actes de petite chirurgie (suture, circoncision, incision). Pour les accouchements, un ticket de 500 F CFA est vendu si la parturiente a suivi les consultations prénatales, 1 000 F CFA au cas contraire. Tous les soins pour la mère et pour le nouveau-né sont compris dans ce tarif.
 
@@ -154,7 +156,7 @@ Il doit avertir l'infirmier si d'éventuelles ruptures de stock de médicaments 
 
 </table>
 
-### **6. Résultats**
+### 6. Résultats
 
 La mise en place du système s'est faite progressivement et à des moments différents pour chaque centre de santé. Une première évaluation a été réalisée, mais porte sur un nombre de mois différents d'une structure à l'autre. Parmi quinze structures évaluées, dix structures resteront bénéficiaires à moyen terme; cinq risquent de devenir déficitaires prochainement. Les centres urbains (quatre) dégagent un bénéfice important, 150 000 F CFA en moyenne par mois par centre. Pour les six structures périphériques le bénéfice s'élève à 34 000 F CFA en moyenne par structure. Les pertes des cinq autres structures sont de 13 000 F CFA en moyenne par mois par centre. Ces pertes absorbent les bénéfices dégagés de la première dotation de médicaments, qui avait été financée par MSF ; c'est ce qui explique pourquoi ces structures ne sont pas encore dans le rouge.
 
@@ -162,20 +164,22 @@ Le bénéfice ou déficit a été calculé de la manière suivante: toutes les r
 
 Le fait que certaines structures s'en sortent mieux que d'autres s'explique, d'une part, par des différences importantes dans la fréquentation et, d'autre part, par de grands écarts dans les quantités consommées de produits qui ne sont pas vendus au malade. En effet, plus une structure consomme des produits non vendus (sparadrap, fils de suture, produits à usage externe ... ), plus petite sera sa marge bénéficiaire globale sur les médicaments. La vente des tickets forfaits, censés recouvrer en partie le coût des produits non vendus au malade, est extrêmement faible dans les structures qui enregistrent des pertes.
 
-## **II. Qualité des soins**
+## II. Qualité des soins
 
-### **1. Définition**
+### 1. Définition
 
 Comment définir la qualité des soins ? Il est difficile de donner une définition partagée par tout le monde : certains indicateurs d'évaluation de la qualité des soins dépendent parfois de la subjectivité de l'évaluateur ou de la définition que les acteurs s'en font.
 
 Dans notre cas, les éléments retenus pour définir la qualité des soins dans les centres de santé étaient les suivants :
 
-*   Approvisionnement régulier en médicaments essentiels.  
-*   Fonctionnement régulier des structures sanitaires (ouverture, service de garde...).  
-*   Accessibilité au plus grand nombre.  
-*   Respect de l'utilisation et de la posologie des différents médicaments.  
-*   Respect des mesures de stérilisation pour les différents actes.  
-*   Réalisation de toutes les activités du paquet minimum, dont :
+- Approvisionnement régulier en médicaments essentiels.
+- Fonctionnement régulier des structures sanitaires (ouverture, service de garde...).
+- Accessibilité au plus grand nombre.
+- Respect de l'utilisation et de la posologie des différents médicaments.
+- Respect des mesures de stérilisation pour les différents actes.
+- Réalisation de toutes les activités du paquet minimum, dont :
+
+<!-- -->
 
 - les vaccinations, y compris en stratégie avancée,
 
@@ -187,7 +191,7 @@ Dans notre cas, les éléments retenus pour définir la qualité des soins dans 
 
 - le suivi des tuberculeux et des lépreux.
 
-### **2. Les moyens utilisés**
+### 2. Les moyens utilisés
 
 Si l'on souhaite que la mise en place de la participation communautaire au fonctionnement des centres de santé aille de pair avec la réalisation de ces objectifs de qualité de soins, il est clair que cela suppose une augmentation considérable de la charge de travail du personnel.
 
@@ -201,7 +205,7 @@ On entend par préfinancement des salaires, le paiement à la fin de chaque mois
 
 **Prime au rendement**
 
-L'octroi des primes _(encadré n°3)_ se fait sur la base d'une évaluation reprenant principalement les points suivants :
+L'octroi des primes *(encadré n°3)* se fait sur la base d'une évaluation reprenant principalement les points suivants :
 
 - la qualité et la régularité des rapports mensuels;
 
@@ -265,15 +269,17 @@ Il est de coutume que le personnel puisse bénéficier de "certains avantages li
 
 - Chaque médecin chef dispose de moyens nécessaires pour organiser des rencontres entre le personnel des zones de responsabilité plusieurs fois durant l'année.
 
-### **3. Les résultats**
+### 3. Les résultats
 
 **Les éléments positifs**
 
 Depuis l'application de ces mesures, les structures publiques du Mayo-Kebbi n'ont plus connu de grève. De plus, avec le nouveau système de participation communautaire, les médicaments sont disponibles pour toutes les structures. En ce qui concerne la fréquentation, on peut distinguer deux situations:
 
-*   Dans les structures où aucune source fiable d'approvisionnement n'existait avant le lancement du nouveau système, ainsi que dans celles où les soins étaient déjà payants, la fréquentation a augmenté sensiblement.
+- Dans les structures où aucune source fiable d'approvisionnement n'existait avant le lancement du nouveau système, ainsi que dans celles où les soins étaient déjà payants, la fréquentation a augmenté sensiblement.
 
-*   Dans les structures où l'approvisionnement était régulier et les soins gratuits, deux cas de figure se présentent :
+- Dans les structures où l'approvisionnement était régulier et les soins gratuits, deux cas de figure se présentent :
+
+<!-- -->
 
 - une légère baisse de la fréquentation, principalement parmi les malades qui proviennent du lieu d'implantation de la structure ; cette baisse est en général transitoire, sauf dans certains centres où manifestement l'infirmier n'a aucune crédibilité auprès de la population ;
 
@@ -301,7 +307,7 @@ Dans les cinq villes, le fonctionnement des centres de santé est complètement 
 
 **Reconnaissance des comités de santé**
 
-Étant donné qu'il semble impossible que les comités se fassent reconnaître individuellement, il est envisagé de regrouper tous les comités de santé au sein d'une seule structure (association, coopérative ... ) qui déposera des statuts pour sa reconnaissance. Cette "association " sera détentrice du compte bancaire et pourra engager du personnel. Les comités pourront s'approprier définitivement le système et seront reconnus comme personnalité juridique _via_ cette structure unique.
+Étant donné qu'il semble impossible que les comités se fassent reconnaître individuellement, il est envisagé de regrouper tous les comités de santé au sein d'une seule structure (association, coopérative ... ) qui déposera des statuts pour sa reconnaissance. Cette "association " sera détentrice du compte bancaire et pourra engager du personnel. Les comités pourront s'approprier définitivement le système et seront reconnus comme personnalité juridique *via* cette structure unique.
 
 **Responsabilisation des comités dans la** **gestion des activités de santé**
 
@@ -309,8 +315,6 @@ Un meilleur contact doit être créé entre les comités et le personnel de la s
 
 Durant l'année à venir, plusieurs enquêtes vont être menées pour avoir une meilleure idée de la perception des services de santé par la population.
 
-
 ![](i643-1.jpg)
 
-
-_Développement et Santé, n°117, juin 1995_
+*Développement et Santé, n°117, juin 1995*

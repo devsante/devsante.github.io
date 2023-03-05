@@ -15,10 +15,10 @@ Ensemble de signes liés à une infection de l'enveloppe du cerveau et de la moe
 
 #### Céphalées
 
-*   Violentes, diffuses, souvent pulsatiles,
-*   Constantes (aggravées par la lumière, les mouvements de la tête, le bruit),
-*   Ne cédant pas aux antalgiques habituels,
-*   Irradiant vers le cou et le rachis.
+- Violentes, diffuses, souvent pulsatiles,
+- Constantes (aggravées par la lumière, les mouvements de la tête, le bruit),
+- Ne cédant pas aux antalgiques habituels,
+- Irradiant vers le cou et le rachis.
 
 #### Vomissements
 
@@ -26,14 +26,14 @@ Sans nausée préalables, sans effort (lors des changements de position).
 
 #### D'autres signes peuvent aussi être présents
 
-*   Troubles du rythme (bradycardie),
-*   Troubles respiratoires (bradypnée, pauses),
-*   Hypertension artérielle.
+- Troubles du rythme (bradycardie),
+- Troubles respiratoires (bradypnée, pauses),
+- Hypertension artérielle.
 
-#### Les signes de gravité sont :
+#### Les signes de gravité sont
 
-*   Troubles de la conscience (obnubilation, états confusionnels, coma),
-*   Convulsions, surtout chez les enfants.
+- Troubles de la conscience (obnubilation, états confusionnels, coma),
+- Convulsions, surtout chez les enfants.
 
 <table>
 
@@ -52,10 +52,10 @@ Sans nausée préalables, sans effort (lors des changements de position).
 
 #### Les signes observés à l'examen
 
-*   **La raideur de la nuque** est le signe méningé le plus précoce et le plus constant. Elle se recherche par la flexion passive de la tête sur le thorax. Le mouvement est limité par la contracture très douloureuse des muscles cervicaux postérieurs. Les mouvements latéraux sont moins douloureux et possibles.  
-*   L'attitude "en chien de fusil" est due à la contracture rachidienne.  
-*   Le signe de Kernig se recherche en pliant les cuisses sur le bassin, jambes étendues : une douleur s'oppose à cette extension et oblige le patient à fléchir les cuisses et les jambes.  
-*   Le signe de Brudzinski apparaît lors des tentatives de flexion de la tête vers l'avant, on observe une flexion involontaire des membres inférieurs.
+- **La raideur de la nuque** est le signe méningé le plus précoce et le plus constant. Elle se recherche par la flexion passive de la tête sur le thorax. Le mouvement est limité par la contracture très douloureuse des muscles cervicaux postérieurs. Les mouvements latéraux sont moins douloureux et possibles.
+- L'attitude "en chien de fusil" est due à la contracture rachidienne.
+- Le signe de Kernig se recherche en pliant les cuisses sur le bassin, jambes étendues : une douleur s'oppose à cette extension et oblige le patient à fléchir les cuisses et les jambes.
+- Le signe de Brudzinski apparaît lors des tentatives de flexion de la tête vers l'avant, on observe une flexion involontaire des membres inférieurs.
 
 <table>
 
@@ -83,16 +83,16 @@ Lors de la période épidémique : chloramphénicol solution huileuse ou ceftria
 
 Les deux produits ont une action dès la première injection.
 
-#### Actions et surveillance infirmières :
+#### Actions et surveillance infirmières
 
-_Si épidémie_
+*Si épidémie*
 
-*   En cas de suspicion de méningite il faut commencer le traitement antibiotique en urgence et référer le cas au plus vite après avoir alerter en urgence.  
-*   Allonger le patient dans un endroit calme et sombre.
+- En cas de suspicion de méningite il faut commencer le traitement antibiotique en urgence et référer le cas au plus vite après avoir alerter en urgence.
+- Allonger le patient dans un endroit calme et sombre.
 
-_Si patient séropositif_
+*Si patient séropositif*
 
-*   **Référer**
+- **Référer**
 
 ## Annexe 2 : indice de KARNOFSKY
 
@@ -202,10 +202,11 @@ En outre, il peut être envisagé comme un support pour la mise en place d'un v�
 
 </table>
 
+\$1  
 ![](i171-1.jpg)
 
+## Annexe 3 : médicaments utiles au traitement des infections
 
-## Annexe 3 : médicaments utiles au traitement des infections  
 et symptômes **opportunistes**
 
 <table>
@@ -346,7 +347,7 @@ Prométhazine, chlorphénamine, lotion de calamine, cloxacilline 500
 
 </table>
 
-Cette liste a été établie à partir des données des centres de soins associatifs du réseau Afrique 2000. ; elle reprend les 11 infections ou syndromes retrouvées le plus souvent dans les 9 pays francophones concernés ([www.sidanet.asso.fr](http://www.sidanet.asso.fr/))
+Cette liste a été établie à partir des données des centres de soins associatifs du réseau Afrique 2000. ; elle reprend les 11 infections ou syndromes retrouvées le plus souvent dans les 9 pays francophones concernés ([[www.sidanet.asso.fr](http://www.sidanet.asso.fr)](http://www.sidanet.asso.fr/))
 
 ## Annexe 4 : hygiène en milieu de soins et prévention des accidents d'exposition au sang (AES)
 
@@ -368,10 +369,10 @@ Les salles d'eau et les toilettes devront être maintenues dans un état de prop
 
 Il faut respecter les mesures de prévention selon les étapes suivantes :
 
-*   lavage des mains à l'eau et au savon et après chaque tâche,
-*   protection du personnel avec des barrières physiques (gants de ménage, tabliers),
-*   brossage/rinçage/nettoyage du matériel avec un détergent,
-*   désinfection du matériel dans une solution d'eau de javel à 0,5 % pendant 20 minutes; - séchage à l'air libre ou avec un linge propre, - stérilisation au poupinel (chaleur sèche) ou à l'autoclave (chaleur humide) ou désinfection de haut niveau du matériel usagé (par ébullition ou par produit chimique).
+- lavage des mains à l'eau et au savon et après chaque tâche,
+- protection du personnel avec des barrières physiques (gants de ménage, tabliers),
+- brossage/rinçage/nettoyage du matériel avec un détergent,
+- désinfection du matériel dans une solution d'eau de javel à 0,5 % pendant 20 minutes; - séchage à l'air libre ou avec un linge propre, - stérilisation au poupinel (chaleur sèche) ou à l'autoclave (chaleur humide) ou désinfection de haut niveau du matériel usagé (par ébullition ou par produit chimique).
 
 #### Gestion des déchets
 
@@ -379,9 +380,9 @@ Elle comprend la collecte la collecte et l'élimination des déchets.
 
 **La collecte** :
 
-*   Les poubelles doivent être munies de couvercles et être placées dans des endroits pratiques pour éviter les déplacements fréquents.  
-*   Utiliser des poubelles différentes pour les déchets à brûler et les déchets à enterrer.  
-*   Le matériel utilisé pour contenir et transporter les déchets ne doit plus être utilisé pour d'autres tâches.
+- Les poubelles doivent être munies de couvercles et être placées dans des endroits pratiques pour éviter les déplacements fréquents.
+- Utiliser des poubelles différentes pour les déchets à brûler et les déchets à enterrer.
+- Le matériel utilisé pour contenir et transporter les déchets ne doit plus être utilisé pour d'autres tâches.
 
 **L'élimination :** tableau ci-dessous
 
@@ -412,7 +413,7 @@ chlorée à 0,5 %.</li><li>Enlever les gants, se laver les mains.</li></ul></td>
 
 </table>
 
-<table>
+\$1<table>
 
 <thead>
 
@@ -447,40 +448,41 @@ L'accident d'exposition au sang se définit comme un contact accidentel avec du 
 
 Les régles universelles de prévention des AES devront être appliquées de façon systématique dans les sallas de soins.
 
-**_Service de soins_**
+***Service de soins***
 
-*   Etre correctement vacciné contre l'hépatite virale B.  
-*   Se laver les mains au savon avant et après chaque soin ou acte technique.  
-*   Ne jamais recapuchonner ou plier les aiguilles usagées.  
-*   Utiliser un conteneur imperforable pour jeter immédiatement les instruments piquants ou coupants (une aiguille souillée = une aiguille jetée).  
-*   Porter des gants pour prélever et manipuler tout produit biologique, notamment lorsqu'il contient du sang (le port de gants ne dispense pas du lavage des mains).  
-*   Protéger toute plaie par un pansement.  
-*   Porter des lunettes et une blouse lorsque les soins ou les manipulations exposent à des projections.  
-*   Décontaminer immédiatement tout instrument utilisé et toute surface souillée par du sang ou un liquide biologique, avec de l'eau de javel.
+- Etre correctement vacciné contre l'hépatite virale B.
+- Se laver les mains au savon avant et après chaque soin ou acte technique.
+- Ne jamais recapuchonner ou plier les aiguilles usagées.
+- Utiliser un conteneur imperforable pour jeter immédiatement les instruments piquants ou coupants (une aiguille souillée = une aiguille jetée).
+- Porter des gants pour prélever et manipuler tout produit biologique, notamment lorsqu'il contient du sang (le port de gants ne dispense pas du lavage des mains).
+- Protéger toute plaie par un pansement.
+- Porter des lunettes et une blouse lorsque les soins ou les manipulations exposent à des projections.
+- Décontaminer immédiatement tout instrument utilisé et toute surface souillée par du sang ou un liquide biologique, avec de l'eau de javel.
 
-_**Salle d'accouchement**_ (en plus des précautions déjà citées)
+***Salle d'accouchement*** (en plus des précautions déjà citées)
 
-*   Avoir à sa disposition des gants, des tabliers, de l'eau et du savon lorsque l'on programme un accouchement.  
-*   En cas de révision utérine, utiliser des gants de révision.  
-*   Se laver les mains à l'eau et au savon après tout contact avec du sang ou d'autres liquides organiques.  
-*   Prendre soin de se protéger la bouche, le nez et les yeux contre toute éclaboussure de sang ou d'autres liquides organiques
-*   Utiliser une sonde d'aspiration avec bocal piège lorsqu'il est indispensable d'aspirer à la bouche les secrétions veaux-nés.  
-*   Avoir à disposition, dans les structures de soins de santé ou l'on risque d'en avoir besoin, des ballons et masques pour réanimation.  
-*   Transporter le linge souillé par du sang ou d''autres liquides organiques dans des sacs étanches, en le pliant de telle sorte que les parties souillées soient à l'intérieur. Laver à l'eau chaude avec un détergent.  
-*   Brûler les déchets solides tels que les pansements ou le placenta, (ou les enterrer dans des endroits où ils ne risque pas d'être déterrés).  
-*   Utiliser un porte-aiguille pour les épisiotomies (prévention des piqures accidentelles).
+- Avoir à sa disposition des gants, des tabliers, de l'eau et du savon lorsque l'on programme un accouchement.
+- En cas de révision utérine, utiliser des gants de révision.
+- Se laver les mains à l'eau et au savon après tout contact avec du sang ou d'autres liquides organiques.
+- Prendre soin de se protéger la bouche, le nez et les yeux contre toute éclaboussure de sang ou d'autres liquides organiques
+- Utiliser une sonde d'aspiration avec bocal piège lorsqu'il est indispensable d'aspirer à la bouche les secrétions veaux-nés.
+- Avoir à disposition, dans les structures de soins de santé ou l'on risque d'en avoir besoin, des ballons et masques pour réanimation.
+- Transporter le linge souillé par du sang ou d''autres liquides organiques dans des sacs étanches, en le pliant de telle sorte que les parties souillées soient à l'intérieur. Laver à l'eau chaude avec un détergent.
+- Brûler les déchets solides tels que les pansements ou le placenta, (ou les enterrer dans des endroits où ils ne risque pas d'être déterrés).
+- Utiliser un porte-aiguille pour les épisiotomies (prévention des piqures accidentelles).
 
 ### 3. Conduite à tenir en cas d'AES
 
-#### Respecter strictement les directives nationales de prise en charge des AES :  
+#### Respecter strictement les directives nationales de prise en charge des AES
+
 **Soins immédiats à effectuer par l'accidenté**
 
-*   _En cas d'exposition à travers la peau suite à une piqûre, coupure, etc._
-    *   Nettoyage à l'eau courante ou au savon
-    *   Rinçage à l'eau propre
-    *   Désinfection à l'eau de javel 12 degrés au 1/10<sup>e</sup> ou au Dakin ou à la polyvidone iodée en solution dermique pure ou à l'alcool à 70 degré _(laisser 5 minutes de contact au moins)._
-*   _En cas de projection_ sur les muqueuses et les yeux.  
-    *   Rinçage prolongé à l'propre (5 minutes).
+- *En cas d'exposition à travers la peau suite à une piqûre, coupure, etc.*
+  - Nettoyage à l'eau courante ou au savon
+  - Rinçage à l'eau propre
+  - Désinfection à l'eau de javel 12 degrés au 1/10<sup>e</sup> ou au Dakin ou à la polyvidone iodée en solution dermique pure ou à l'alcool à 70 degré *(laisser 5 minutes de contact au moins).*
+- *En cas de projection* sur les muqueuses et les yeux.
+  - Rinçage prolongé à l'propre (5 minutes).
 
 #### Evaluation du risque de transmission du VIH
 
@@ -489,8 +491,8 @@ Un traitement prophylactique gratuit par trithérapie ARV (à débuter dans les 
 
 Bilan biologique initial à faire dans les 8 jours chez l'accidenté et le patient source.
 
-*   Sérologie VIH
-*   Sérologie des hépatites B et C
-*   Certificat médical final au 6<sup>ème</sup> mois, délivré par le médecin référent.
+- Sérologie VIH
+- Sérologie des hépatites B et C
+- Certificat médical final au 6<sup>ème</sup> mois, délivré par le médecin référent.
 
-_Développement et Santé,n°181, 2006_
+*Développement et Santé,n°181, 2006*

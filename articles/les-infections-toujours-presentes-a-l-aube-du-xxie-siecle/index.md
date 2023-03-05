@@ -18,19 +18,19 @@ Le **VIH** qui infecte chaque année vingt-quatre millions d'individus, a déjà
 
 ## Que pouvons-nous faire ?
 
-Au lieu de baisser les bras, ne faut-il pas se rappeler que toutes les maladies sont transmissibles, donc _a priori_ évitables par des mesures d'hygiène, hélas de moins en moins appliquées.
+Au lieu de baisser les bras, ne faut-il pas se rappeler que toutes les maladies sont transmissibles, donc *a priori* évitables par des mesures d'hygiène, hélas de moins en moins appliquées.
 
 Les obstacles sont connus de tous :
 
-*   la misère expose des centaines de millions d'individus au manque d'hygiène et la moitié de la population mondiale n'a pas régulièrement accès aux médicaments essentiels ;
-*   l'accroissement de la population qui se **regroupe** de plus en plus dans des bidonvilles sans eau potable est une condition idéale pour les épidémies de diarrhée, de tuberculose
-*   les migrations du fait des guerres favorisent encore plus les épidémies ;
-*   la crise économique, dans de nombreux pays, va enfin paralyser le système de santé qui ne peut plus jouer son rôle préventif et curatif.
+- la misère expose des centaines de millions d'individus au manque d'hygiène et la moitié de la population mondiale n'a pas régulièrement accès aux médicaments essentiels ;
+- l'accroissement de la population qui se **regroupe** de plus en plus dans des bidonvilles sans eau potable est une condition idéale pour les épidémies de diarrhée, de tuberculose
+- les migrations du fait des guerres favorisent encore plus les épidémies ;
+- la crise économique, dans de nombreux pays, va enfin paralyser le système de santé qui ne peut plus jouer son rôle préventif et curatif.
 
-## Devant ces problèmes colossaux, l'OMS définit trois priorités :
+## Devant ces problèmes colossaux, l'OMS définit trois priorités
 
-*   D'abord achever ce qui est en cours, à savoir l'éradication des maladies telles que la poliomyélite, la rougeole, la lèpre, la dracunculose. Cela n'exigera pas des budgets gigantesques, mais faute de réunir les moyens nécessaires, tout l'acquis pourrait être perdu ;
-*   La deuxième priorité est de s'attaquer aux vieux maux tels que la tuberculose et le paludisme, en faisant disparaître les sources d'infection, en mettant en place une bonne surveillance épidémiologique, et enfin en mettant au point des traitements plus faciles et en particulier des vaccins,
-*   La troisième priorité est d'engager un combat international contre les maladies infectieuses. Que de progrès ont été réalisés sur le sida en dix ans : mais qui aura accès aux nouvelles thérapeutiques qui protègent le nouveau-né dans 98 % des cas ?
+- D'abord achever ce qui est en cours, à savoir l'éradication des maladies telles que la poliomyélite, la rougeole, la lèpre, la dracunculose. Cela n'exigera pas des budgets gigantesques, mais faute de réunir les moyens nécessaires, tout l'acquis pourrait être perdu ;
+- La deuxième priorité est de s'attaquer aux vieux maux tels que la tuberculose et le paludisme, en faisant disparaître les sources d'infection, en mettant en place une bonne surveillance épidémiologique, et enfin en mettant au point des traitements plus faciles et en particulier des vaccins,
+- La troisième priorité est d'engager un combat international contre les maladies infectieuses. Que de progrès ont été réalisés sur le sida en dix ans : mais qui aura accès aux nouvelles thérapeutiques qui protègent le nouveau-né dans 98 % des cas ?
 
-_Développement et Santé, n° 132, décembre 1997_
+*Développement et Santé, n° 132, décembre 1997*

@@ -34,4 +34,4 @@ Tous les problèmes liés à la sexualité ont souvent été abordés par nos ma
 
 Il serait bon, de plus, que le centre de traitement dispose d'un système de distribution de préservatifs, afin que les personnes puissent s'en procurer plus facilement, car il est toujours peu évident de faire la démarche d'aller s'en procurer dans les kiosques qui existent dans la ville. Cette stratégie doit pouvoir s'appliquer à tous les centres similaires et être étudiée dans le cadre de tous les programmes d'accès aux traitements. C'est là l'occasion de faire la preuve du lien positif entre prévention et traitement.
 
-_Développement et Santé, n°168, décembre 2003_
+*Développement et Santé, n°168, décembre 2003*

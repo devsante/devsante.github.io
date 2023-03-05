@@ -11,9 +11,9 @@ Une fois que la maladie est déclarée, que les signes et symptômes de la rage 
 
 ## I. Le virus
 
-Le virus de la rage fait partie de la famille des _Rhabdoviridae_, il appartient au genre _Lyssavirus_ (du grec lussa, la folie), son génome est constitué d'un ARN. C'est un virus fragile.
+Le virus de la rage fait partie de la famille des *Rhabdoviridae*, il appartient au genre *Lyssavirus* (du grec lussa, la folie), son génome est constitué d'un ARN. C'est un virus fragile.
 
-## **II. Epidémiologie de la rage**
+## II. Epidémiologie de la rage
 
 La rage est une zoonose, c'est-à-dire une maladie animale qui peut être transmise a l'homme : tous les animaux à sang chaud peuvent la contracter.  
 Selon l'OMS, la rage est au dixième rang des maladies infectieuses mortelles. L'augmentation du nombre de cas est due à une absence de prise en charge efficace par les autorités de Santé publique humaine et vétérinaire.
@@ -26,19 +26,17 @@ La transmission se fait en plusieurs étapes, selon le schéma suivant :
 
 **Distributeurs secondaires** : ce sont des animaux domestiques - chiens, chats, bovins, chevaux etc. - qui ont été mordus par les animaux sauvages excré­teurs.
 
-**Infection de l'homme** : elle est accidentelle. Le virus lui est transmis par inoculation de la salive virulente d'un animal enragé (sauvage ou domes­tique), par morsure ou griffure, ou léchage d'une plaie ou d'une muqueuse, par les yeux en particulier _(figure 1)._
+**Infection de l'homme** : elle est accidentelle. Le virus lui est transmis par inoculation de la salive virulente d'un animal enragé (sauvage ou domes­tique), par morsure ou griffure, ou léchage d'une plaie ou d'une muqueuse, par les yeux en particulier *(figure 1).*
 
-_**Figure 1. Transmission de l'animal à l'homme** (Cours de virologie systématique. Université René Descartes, Paris)_
-
+***Figure 1. Transmission de l'animal à l'homme** (Cours de virologie systématique. Université René Descartes, Paris)*
 
 ![](image001-5.jpg)
 
-
 **Figure 1 : transmission de l'animal à l'homme. (Cours de virologie systématique. Université René-­Descartes, Paris).**
 
-## **III. Ecologie de la rage animale**
+## III. Ecologie de la rage animale
 
-### **1. La rage sauvage**
+### 1. La rage sauvage
 
 Deux cycles assurent la perpétuité de la rage.
 
@@ -51,7 +49,7 @@ Elle existe sur tous les continents, les vecteurs du virus variant selon les pay
 C'est la rage des chauves-souris. Ce sont des mam­mifères qui développent la maladie sous forme d'infection chronique et excrètent le virus par leurs urines et leur salive. Cette rage est présente dans tous les continents.  
 Les chauves-souris semblent occuper un rôle de plus en plus important dans la transmission d'infections virales, on voit actuellement la place qu'elles tiennent dans la propagation du virus Ebola. 
 
-### **2. La rage urbaine ou rage des rues**
+### 2. La rage urbaine ou rage des rues
 
 Les chiens errants constituent le réservoir et le vec­teur principal du virus. L'OMS estime que la rage des rues est responsable de plus de 99 % des cas de rage humaine et d'au moins 50 000 décès chaque année.  
 Les chiens errants sont les intermédiaires entre la rage sauvage et la rage urbaine. Ils transmettent la maladie à d'autres animaux sauvages, aux herbi­vores et aux animaux domestiques non vaccinés : chiens et chats.  
@@ -59,35 +57,31 @@ La rage des chiens sévit à l'état endémique dans les régions défavorisées
 
 **Figure 2. Zones d'endémie de la rage dans le monde**
 
-
 ![](image004-10.jpg)
 
-
-## **IV. La contamination de l'homme**
+## IV. La contamination de l'homme
 
 La contamination par voie cutanée est la plus fré­quente (99 % des cas). Elle a lieu en cas de morsure par un animal enragé. Plus rarement, il peut s'agir du léchage d'une plaie fraîche, d'une griffure de chat par des griffes souillées de salive ou de la manipulation d'un animal enrage.  
 **Le virus ne peut pas franchir la peau saine­ mais il peut franchir les muqueuses.**  
 Citons ici, à titre documentaire, quelques contaminations exceptionnelles : inhalation (grottes à chauves-souris, manipulations de laboratoire), soins à un malade, greffes de cornée.
 
-## **V. Manifestatïons de la rage**
+## V. Manifestatïons de la rage
 
 La multiplication du virus déclenche une encépha­lite toujours mortelle.
 
-### **1. Chez les animaux**
+### 1. Chez les animaux
 
-*   Le renard, le chacal ou l'hyène devient agressif, perd sa méfiance habituelle, se rapproche de l'homme et des animaux domestiques qu'il pour­ra contaminer par morsure.  
-*   Le chien et le chat peuvent présenter une forme furieuse ou une forme paralytique. La forme furieuse se traduit, chez le chien, par une grande agitation, un aboiement particulier se terminant par un ton aigu (appelé voix rabique), par l'inges­tion de substances diverses et surtout par des mor­sures répétées de l'homme ou des animaux. La forme paralytique est plus difficile à reconnaître. La paralysie peut prédominer aux mâchoires ou revêtir l'aspect d'une paralysie ascendante. Le chien enragé meurt habituellement entre le 3ème et le 8ème jour, toujours avant le 15ème jour _(Figure 3)._
+- Le renard, le chacal ou l'hyène devient agressif, perd sa méfiance habituelle, se rapproche de l'homme et des animaux domestiques qu'il pour­ra contaminer par morsure.
+- Le chien et le chat peuvent présenter une forme furieuse ou une forme paralytique. La forme furieuse se traduit, chez le chien, par une grande agitation, un aboiement particulier se terminant par un ton aigu (appelé voix rabique), par l'inges­tion de substances diverses et surtout par des mor­sures répétées de l'homme ou des animaux. La forme paralytique est plus difficile à reconnaître. La paralysie peut prédominer aux mâchoires ou revêtir l'aspect d'une paralysie ascendante. Le chien enragé meurt habituellement entre le 3ème et le 8ème jour, toujours avant le 15ème jour *(Figure 3).*
 
-_**Figure 3. Chien enragé**_ (cours de virologie systématique. Université René Descartes, Paris)
-
+***Figure 3. Chien enragé*** (cours de virologie systématique. Université René Descartes, Paris)
 
 ![](image005-2.jpg)
 
+- Les bovins ont habituellement une forme paraly­tique.
+- Les chauves-souris sont prostrées et montrent des difficultés à voler.
 
-*   Les bovins ont habituellement une forme paraly­tique.  
-*   Les chauves-souris sont prostrées et montrent des difficultés à voler.
-
-### **2. Chez l'homme**
+### 2. Chez l'homme
 
 L'incubation est silencieuse, elle dure de six semaines à plusieurs mois. Ceci explique que son diagnostic peut être difficile, d'autant plus que de nombreux virus entraînent aussi des encéphalites de tableaux cliniques proches. Elle est plus courte en cas de morsures profondes ou multiples, surtout de la face et des mains. Elle est plus courte chez les enfants, plus souvent mordus au visage du fait de leur petite taille.
 
@@ -107,23 +101,23 @@ On observe une grande agressivité du malade. L'évolution est généralement ra
 
 Plus rare, plus difficile à diagnostiquer, elle débute par des rachialgies très intenses. Puis une paralysie ascendante s'installe, atteignant successivement les membres inférieurs, les sphincters, le tronc, les membres supérieurs et la face. Une paralysie respi­ratoire et des troubles bulbaires emportent le mala­de entre le 4ème et le 12ème jour.
 
-## **VI. Conduite à tenir en cas d'exposition au rîsque de rage. Prophylaxie post-exposition (PPE)**
+## VI. Conduite à tenir en cas d'exposition au rîsque de rage. Prophylaxie post-exposition (PPE)
 
 **Il n'existe aucun médicament antiviral efficace, seule la vaccination faite en urgence peut entraîner la guérison.  
 C'est pour cette raison que la PPE est indispensable chez les individus susceptibles d'être contaminés.**
 
-### **1. Soins locaux**
+### 1. Soins locaux
 
 Ils sont très importants, à faire en urgence :
 
-*   Désinfecter la plaie en lavant à grande eau la région mordue avec du savon ou du détergent.  
-*   Appliquer de l'alcool à 60°, de la povidone iodée ou de l'eau de Javel diluée.  
-*   Ne pas suturer la plaie.
+- Désinfecter la plaie en lavant à grande eau la région mordue avec du savon ou du détergent.
+- Appliquer de l'alcool à 60°, de la povidone iodée ou de l'eau de Javel diluée.
+- Ne pas suturer la plaie.
 
 ### 2. Soins généraux
 
-*   Pour la prévention du tétanos, faire un rappel de vaccin (sauf si vaccination récente).  
-*   Donner une antibiothérapie pour prévenir l'infec­tion de la blessure par d'autres agents pathogènes pouvant être transmis par l'animal, _Pasteurella_ en particulier (amoxicilline ou tétracycline, érythro­mycine, cefotaxime).
+- Pour la prévention du tétanos, faire un rappel de vaccin (sauf si vaccination récente).
+- Donner une antibiothérapie pour prévenir l'infec­tion de la blessure par d'autres agents pathogènes pouvant être transmis par l'animal, *Pasteurella* en particulier (amoxicilline ou tétracycline, érythro­mycine, cefotaxime).
 
 ### 3. Traitement spécifique
 
@@ -209,14 +203,14 @@ selon le type d'immunoglobulines
 
 **Modalités d’administration des immunoglobulines antirabiques**
 
-*   Infiltration dans la profondeur de la blessure et ses environs. Il faut infiltrer la quantité anatomiquement maximale d’IGAR sur le pourtour de la blessure.  
-    Le reste doit être injecté en IM dans un site distant de l’inoculation du vaccin (muscle antérolatéral de la cuisse).  
-*   Il ne faut pas dépasser la dose totale recommandée : si les blessures sont trop étendues ou nombreuses, la dose calculée doit être diluée dans une solution saline stérile (2 ou 3 fois le volume de la dose de l’IGAR) et faire alors une infiltration minutieuse de toutes les blessures.
+- Infiltration dans la profondeur de la blessure et ses environs. Il faut infiltrer la quantité anatomiquement maximale d’IGAR sur le pourtour de la blessure.  
+  Le reste doit être injecté en IM dans un site distant de l’inoculation du vaccin (muscle antérolatéral de la cuisse).
+- Il ne faut pas dépasser la dose totale recommandée : si les blessures sont trop étendues ou nombreuses, la dose calculée doit être diluée dans une solution saline stérile (2 ou 3 fois le volume de la dose de l’IGAR) et faire alors une infiltration minutieuse de toutes les blessures.
 
 **Modalités du traitement**
 
-*   Si possible retarder la suture de la plaie
-*   Si la suture est indispensable, ne la réaliser qu’après l’injection locale d’IGAR.
+- Si possible retarder la suture de la plaie
+- Si la suture est indispensable, ne la réaliser qu’après l’injection locale d’IGAR.
 
 ### Le traitement antirabique
 
@@ -228,15 +222,15 @@ On dispose maintenant de vaccins modernes préparés sur des cultures cellulaire
 
 **Trois protocoles sont proposés par l'OMS **
 
-1.  Cinq injections IM (dans l’épaule au niveau du deltoïde ou, chez l'enfant, à la face antérolatérale de la cuisse. **Jamais** d'injection dans la fesse) d’une dose (2,5 UI) de vaccin respectivement  à J0, J3, J7, J14, J28.  
+1.  Cinq injections IM (dans l’épaule au niveau du deltoïde ou, chez l'enfant, à la face antérolatérale de la cuisse. **Jamais** d'injection dans la fesse) d’une dose (2,5 UI) de vaccin respectivement  à J0, J3, J7, J14, J28.
 2.  Schéma simplifié (même posologie)  
     Deux injections IM à J0 en 2 sites différents, puis une à J7 et une à J 21
 3.  En l’absence d’immunoglobulines, vaccination intradermique.
 
-*   8 intradermos à J0
-*   4 à J7
-*   1 à J28
-*   1 à J 90
+- 8 intradermos à J0
+- 4 à J7
+- 1 à J28
+- 1 à J 90
 
 **Pour l'inoculation IM ou ID, on utilise les mêmes vaccins qui doivent contenir 2,5 UI /dose. Selon les fabricants, ces 2,5 UI sont contenues dans 0,5 ml ou 1 ml.  
 En IM on injecte toute la dose, soit 0,5 ml ou 1 ml selon le type de vaccin. En ID on injecte 0,1 ml.**
@@ -249,20 +243,20 @@ En IM on injecte toute la dose, soit 0,5 ml ou 1 ml selon le type de vaccin. En 
 
 Devant toute morsure de chien (ou léchage) il faut :
 
-*   Rechercher le chien mordeur et surtout ne pas l'abattre.  
-*   Si l'abattage a eu lieu ou s'avère nécessaire, ne pas abîmer la tête et la conserver.  
-*   Considérer le risque comme maximal si l'animal a disparu.  
-*   Mettre le chien sous surveillance, même s'il est vacciné, pendant deux semaines.  
-*   Chercher tout changement de comportement du chien.  
-*   Si le chien meurt, faire un prélèvement d'encéphale.
+- Rechercher le chien mordeur et surtout ne pas l'abattre.
+- Si l'abattage a eu lieu ou s'avère nécessaire, ne pas abîmer la tête et la conserver.
+- Considérer le risque comme maximal si l'animal a disparu.
+- Mettre le chien sous surveillance, même s'il est vacciné, pendant deux semaines.
+- Chercher tout changement de comportement du chien.
+- Si le chien meurt, faire un prélèvement d'encéphale.
 
-_Il faut ensuite décider de débuter une vaccination ou non, la décision est variable selon le niveau et la stratégie nationale. _
+\_Il faut ensuite décider de débuter une vaccination ou non, la décision est variable selon le niveau et la stratégie nationale. \_
 
 ### 5. Cas des pays disposant d'un centre antirabique
 
 La même conduite générale est appliquée, la per­sonne exposée est adressée, après avoir reçu les traitements locaux, à un centre antirabique qui apprécie le risque de contamination et décide de la mise en route de la vaccination post-exposition. Les modalités sont différentes selon que l'animal est vivant ou mort : l'animal vivant est récupéré et mis en observation, la tête de l'animal mort est envoyée pour analyse, le tout en service spécialisé.
 
-## **VII. Diagnostic de laboratoire**
+## VII. Diagnostic de laboratoire
 
 L’établissement d’un diagnostic clinique de la rage est souvent délicat car les tableaux cliniques sont très variables ; ainsi la confirmation du statut d’enragé d’un animal ou d’un individu repose uniquement sur la réalisation du diagnostic biologique. En trente ans, les progrès ont été considérables : en 1980 il fallait 15 jours pour faire un diagnostic, maintenant 24h suffisent. Ceci permet de mettre rapidement en place une PPE justifiée,  alors qu’un grand nombre sont inutiles (15 millions par an dans le monde).  
 Néanmoins, la réalisation du diagnostic biologique relève de laboratoires spécialisés et habilités, en raison de sa difficulté technique et des risques importants de contamination du personnel.
@@ -271,8 +265,8 @@ Néanmoins, la réalisation du diagnostic biologique relève de laboratoires sp�
 
 #### Chez l’homme
 
-*   Biopsie cutanée : effectuée à la base de la nuque, région riche en filets nerveux infectés, il s’agit d’un micro-prélèvement de 4 mm (Punch).  
-*   Salive : les prélèvements doivent être répétés car l’excrétion est intermittente.
+- Biopsie cutanée : effectuée à la base de la nuque, région riche en filets nerveux infectés, il s’agit d’un micro-prélèvement de 4 mm (Punch).
+- Salive : les prélèvements doivent être répétés car l’excrétion est intermittente.
 
 #### Chez l’animal mort
 
@@ -282,30 +276,30 @@ Prélèvements cérébraux au niveau du bulbe rachidien, les plus productifs.
 
 #### Détection des antigènes rabiques
 
-*   Immunofluorescence
-*   ELISA
+- Immunofluorescence
+- ELISA
 
 #### Isolement du virus rabique par culture cellulaire
 
 #### Détection des ARN viraux
 
-*   Elle permet d’identifier les 11 types de virus.  
-*   Son intérêt est épidémiolgique.  
-*   Elle est réalisée par une méthode de biologie moléculaire d’amplification génique, la RT-PCR.
+- Elle permet d’identifier les 11 types de virus.
+- Son intérêt est épidémiolgique.
+- Elle est réalisée par une méthode de biologie moléculaire d’amplification génique, la RT-PCR.
 
 #### Détection des anticorps antirabiques
 
 Le taux d’anticorps protecteurs doit être supérieur ou égal à 0,5 UI/ml.
 
-## **Conclusion**
+## Conclusion
 
 La rage est un grave problème de santé publique dans certaines régions d'Afrique et d'Asie. Faute de traitement, de nombreuses victimes décèdent de cette maladie. Par ailleurs, 40 % des personnes exposées sont des enfants de 5 à 15 ans. La plupart des morsures ne sont pas signalées ou identifiées par les parents ou les agents de santé. Les enfants ne reçoivent pas le traitement assez tôt ou ne le reçoivent que partiellement, et le nombre de jeunes enfants qui contractent et meurent de rage non diagnostiquée est sous-estimé.
 
 **La prévention de la rage passe par :**
 
-*   La lutte contre les réservoirs, c'est-à-dire l'abattage des animaux errants. _Il faut éviter de nourrir les chiens on chats sauvages dans les villes et appeler les services spécifiques pour leur abattage._
-*   La vaccination des animaux domestiques ; _si elle n'est pas possible, il faut interdire la présence de carnassiers domestiques dans les concessions._
-*   La surveillance et l'éducation des enfants pour la sup­pression des contacts avec les animaux non connus.  
-*   _Posséder un chien est une responsabilité, le pro­priétaire doit faire en sorte qu'il soit vacciné et qu'il demeure dans la concession_.
+- La lutte contre les réservoirs, c'est-à-dire l'abattage des animaux errants. *Il faut éviter de nourrir les chiens on chats sauvages dans les villes et appeler les services spécifiques pour leur abattage.*
+- La vaccination des animaux domestiques ; *si elle n'est pas possible, il faut interdire la présence de carnassiers domestiques dans les concessions.*
+- La surveillance et l'éducation des enfants pour la sup­pression des contacts avec les animaux non connus.
+- *Posséder un chien est une responsabilité, le pro­priétaire doit faire en sorte qu'il soit vacciné et qu'il demeure dans la concession*.
 
 La rage est une maladie fantasmagorique, entourée de superstition et d'excitation collective. L'éducation dans les villages et les quartiers est très importante, il est nécessaire non seulement d'informer du carac­tère gravissime de cette maladie, mais aussi d'expli­quer que ce n'est pas une fatalité, et qu'elle peut être traitée à condition que la prise en charge soit rapide. Soulignons une fois de plus ici l'importance pour la santé de l'éducation et de la formation des respon­sables des centres de soins et des communautés.

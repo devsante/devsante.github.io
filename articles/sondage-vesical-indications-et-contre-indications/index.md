@@ -11,11 +11,11 @@ date: "2002-04-13"
 
 Le sondage comporte cinq grands types d'indications :
 
-*   rétention,
-*   postopératoire,
-*   thérapeutique,
-*   à titre diagnostique,
-*   pour le confort.
+- rétention,
+- postopératoire,
+- thérapeutique,
+- à titre diagnostique,
+- pour le confort.
 
 ### 1. En cas de rétention
 
@@ -27,9 +27,9 @@ La plupart du temps, l'obstacle responsable de la rétention n'est pas connu au 
 
 #### a. La rétention peut être de cause prostatique
 
-*   Elle est le plus souvent due à un adénome de la prostate, tumeur bénigne et fréquente qui se laisse sonder facilement. Nous utilisons le plus souvent alors la sonde siliconée de Foley.  
-*   Le cancer de la prostate, lui, peut proliférer au point de provoquer une rétention d'urine. Le sondage est parfois possible. Nous utilisons alors le même type de sonde ou une sonde de Dufour béquillée, un peu plus rigide. Si le sondage s'avère impossible dans cette cause, ce qui est parfois le cas, nous dérivons par cathétérisme sus-pubien.  
-*   Nous avons vu que si l'infection de la prostate, la prostatite aiguë, est la cause d'une rétention, nous devons dériver par cathétérisme sus-pubien.
+- Elle est le plus souvent due à un adénome de la prostate, tumeur bénigne et fréquente qui se laisse sonder facilement. Nous utilisons le plus souvent alors la sonde siliconée de Foley.
+- Le cancer de la prostate, lui, peut proliférer au point de provoquer une rétention d'urine. Le sondage est parfois possible. Nous utilisons alors le même type de sonde ou une sonde de Dufour béquillée, un peu plus rigide. Si le sondage s'avère impossible dans cette cause, ce qui est parfois le cas, nous dérivons par cathétérisme sus-pubien.
+- Nous avons vu que si l'infection de la prostate, la prostatite aiguë, est la cause d'une rétention, nous devons dériver par cathétérisme sus-pubien.
 
 #### b. Les causes urétrales
 
@@ -39,8 +39,8 @@ Elles se résument à la sténose de l'urètre et nous avons vu qu'il s'agissait
 
 C'est l'indication typique du sondage vésical, et non du cathétérisme sus-pubien, pour deux raisons :
 
-*   parce qu'un cathéter sus-pubien est beaucoup trop fin pour permettre l'évacuation des caillots responsables de la rétention ;
-*   parce que cette hématurie peut être due à une tumeur de la vessie, et il faut craindre un ensemencement extravésical des cellules tumorales, par la petite plaie provoquée par le cathétérisme sus-pubien.
+- parce qu'un cathéter sus-pubien est beaucoup trop fin pour permettre l'évacuation des caillots responsables de la rétention ;
+- parce que cette hématurie peut être due à une tumeur de la vessie, et il faut craindre un ensemencement extravésical des cellules tumorales, par la petite plaie provoquée par le cathétérisme sus-pubien.
 
 Il faut donc absolument drainer ces malades par une sonde vésicale, de bon calibre, à large orifice qui permettra des lavages réguliers à la seringue pour évacuer les caillots et éviter leurs répétitions. Nous utilisons alors une sonde Hématuria, de type Couvelaire, parfois à double courant si nous pensons qu'un lavage continu est préférable.
 
@@ -80,7 +80,7 @@ Des solutions de nitrate d'argent diluées peuvent être utilisées pour le trai
 
 Des instillations intra-vésicales de Xylocaïne® diluée peuvent être pratiquées dans le cadre de test urodynamique et pour le traitement de certaines impériosités vésicales.
 
-#### c. Les instillations locales d'antibiotiques.
+#### c. Les instillations locales d'antibiotiques
 
 Il est plus rare d'avoir à utiliser ces sondages dans ces cas.
 
@@ -130,17 +130,17 @@ Comme nous l'avons dit, le sondage vésical est le plus souvent possible, mais l
 
 Si le sondage vésical s'avère indispensable, il est alors pratiqué de façon douce, atraumatique et aseptique.
 
-## **Il.** Contre-indications du sondage vésical
+## Il. Contre-indications du sondage vésical
 
-1) le traumatisme de l'urètre,
+1)  le traumatisme de l'urètre,
 
-2) la sténose de l'urètre,
+2)  la sténose de l'urètre,
 
-3) la prostatite aiguë,
+3)  la prostatite aiguë,
 
-4) le jeune âge pour un garçon,
+4)  le jeune âge pour un garçon,
 
-5) l'existence d'une prothèse urétrale ou prostatique.
+5)  l'existence d'une prothèse urétrale ou prostatique.
 
 Les rétentions d'urine dues à l'une de ces causes deviennent alors une indication au cathétérisme sus-pubien.
 
@@ -150,14 +150,14 @@ Nous détaillerons successivement chacune de ces contre-indications.
 
 Il doit être suspecté après :
 
-*   une fracture du bassin,
-*   une chute à califourchon,
-*   un traumatisme de la verge en érection.
+- une fracture du bassin,
+- une chute à califourchon,
+- un traumatisme de la verge en érection.
 
 Il est suspecté devant l'existence d'une rétention d'urine, souvent associée à une urétrorragie (écoulement de sang pur par l'urètre). Le sondage vésical dans ce cas serait :
 
-*   soit inutile, si l'urètre n'a pas été traumatisé lors de cet accident;
-*   soit dangereux parce que l'urètre a été traumatisé, parce que ce sondage peut compléter une fracture incomplète de l'urètre, infecter l'hématome péri-urétral et provoquer alors une infection grave. Ce sondage est douloureux et, enfin, en cas de rupture complète, il s'avère impossible.
+- soit inutile, si l'urètre n'a pas été traumatisé lors de cet accident;
+- soit dangereux parce que l'urètre a été traumatisé, parce que ce sondage peut compléter une fracture incomplète de l'urètre, infecter l'hématome péri-urétral et provoquer alors une infection grave. Ce sondage est douloureux et, enfin, en cas de rupture complète, il s'avère impossible.
 
 Dans ce cas, mieux vaut donc d'emblée s'adresser au cathétérisme sus-pubien.
 
@@ -197,4 +197,4 @@ Il vaut mieux alors dériver ces malades en rétention par cathétérisme sus-pu
 
 L'éducation du personnel effectuant le sondage vésical, ainsi que celui du patient, sont les moments essentiels de la prévention des complications du sondage vésical. Douceur, asepsie lors de la pose de la sonde et pendant tout le temps de présence de celle-ci, maintien d'une diurèse suffisante garantissent le succès de ce geste qui ne devra être effectué que pour des indications précises et dans l'intérêt du patient.
 
-_Développement et Santé, n° 158, avril 2002_
+*Développement et Santé, n° 158, avril 2002*

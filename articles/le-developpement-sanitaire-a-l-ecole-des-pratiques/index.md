@@ -4,9 +4,9 @@ author: "Émile Jeannée* * Institut Tropical Suisse (ITS) et Bureau d'Appui San
 date: "1995-06-02"
 ---
 
-_"La crédibilité théorique des plans était si satisfaisante que je répugnais à_ _entamer la construction proprement dite, qui amènerait une succession_ _d'obstacles concrets et imprévisibles, les choses ayant en général la_ _déplorable habitude d'opposer à la sereine géométrie de la pensée une résistance chaotique et entêtée."_
+*"La crédibilité théorique des plans était si satisfaisante que je répugnais à* *entamer la construction proprement dite, qui amènerait une succession* *d'obstacles concrets et imprévisibles, les choses ayant en général la* *déplorable habitude d'opposer à la sereine géométrie de la pensée une résistance chaotique et entêtée."*
 
-(Michel Rio, _Alizés)_
+(Michel Rio, *Alizés)*
 
 L'approche par projet, conduite anticipative qui permet de mobiliser des ressources en prévision d'un futur souhaité, est fréquemment utilisée dans le cadre du développement sanitaire. Elle se caractérise par la collaboration entre plusieurs instances (ministère de la Santé, bailleurs de fonds, organismes internationaux, ONG, associations locales, etc.) et le transfert de technologies, de capitaux ou de compétences.
 
@@ -22,4 +22,4 @@ Le démarrage se fait directement en utilisant les ressources existantes pour am
 
 Construction intellectuelle élaborée dans le souci de permettre la réalisation d'intentions, le plan est ainsi remis en perspective par les pratiques et reconstruit sur le terrain, à l'école de l'expérience. Il y gagne en réalisme et crédibilité et stimule alors découvertes et innovations. Le fait de privilégier le "terrain" comme cadre de programmation favorise l'expression de la demande sociale et permet aux communautés concernées de s'approprier les différentes étapes de la dynamique du développement sanitaire.
 
-_Développement et Santé, n°117, juin 1995_
+*Développement et Santé, n°117, juin 1995*

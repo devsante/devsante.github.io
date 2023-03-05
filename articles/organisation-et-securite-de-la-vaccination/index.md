@@ -35,18 +35,18 @@ En fonction du calendrier vaccinal et du groupe cible fixés par le pays, la vac
 
 Tout acte de vaccination doit faire l'objet d'un enregistrement :
 
-*   sur la carte ou le carnet de vaccination, nominatif, en indiquant la date, le type de vaccin, la dose, le numéro de lot du flacon ;
-*   sur le registre de vaccination de la formation sanitaire, en indiquant les mêmes informations que sur la carte ainsi que les moyens de localiser et de retrouver la personne en cas d'absence à un rendez-vous suivant.
+- sur la carte ou le carnet de vaccination, nominatif, en indiquant la date, le type de vaccin, la dose, le numéro de lot du flacon ;
+- sur le registre de vaccination de la formation sanitaire, en indiquant les mêmes informations que sur la carte ainsi que les moyens de localiser et de retrouver la personne en cas d'absence à un rendez-vous suivant.
 
 ## III. Préparer et administrer le vaccin
 
 La plupart du temps, les événements indésirables graves sont causés par des pratiques inappropriées des services de vaccination :
 
-*   injection non stérile (utilisation de matériel contaminé, contamination du vaccin, technique inadaptée),
-*   erreur de reconstitution (dosage erroné, utilisation d'un diluant inapproprié),
-*   erreur de technique ou de site d'injection,
-*   mauvaise conservation du vaccin,
-*   contre-indication ignorée.
+- injection non stérile (utilisation de matériel contaminé, contamination du vaccin, technique inadaptée),
+- erreur de reconstitution (dosage erroné, utilisation d'un diluant inapproprié),
+- erreur de technique ou de site d'injection,
+- mauvaise conservation du vaccin,
+- contre-indication ignorée.
 
 La maîtrise de l'ensemble du processus par les agents est indispensable.
 
@@ -54,17 +54,17 @@ La maîtrise de l'ensemble du processus par les agents est indispensable.
 
 **Le choix des vaccins** à utiliser privilégiera les flacons :
 
-*   ouverts lors de séance précédente pour les vaccins liquides,
-*   dont la pastille de contrôle a commencé à virer sans atteindre le point limite,
-*   dont la date de péremption est la plus proche.
+- ouverts lors de séance précédente pour les vaccins liquides,
+- dont la pastille de contrôle a commencé à virer sans atteindre le point limite,
+- dont la date de péremption est la plus proche.
 
 **La qualité du vaccin** sera vérifiée d'après différents critères :
 
-*   le flacon de vaccin doit disposer d'une étiquette,
-*   la date d'expiration du vaccin ne doit pas être dépassée,
-*   la pastille de contrôle du vaccin ne devra pas avoir passé le point limite,
-*   le capuchon du flacon ne doit pas avoir trempé dans l'eau,
-*   le produit contenu dans le flacon de vaccin et de solvant doit avoir un aspect homogène.
+- le flacon de vaccin doit disposer d'une étiquette,
+- la date d'expiration du vaccin ne doit pas être dépassée,
+- la pastille de contrôle du vaccin ne devra pas avoir passé le point limite,
+- le capuchon du flacon ne doit pas avoir trempé dans l'eau,
+- le produit contenu dans le flacon de vaccin et de solvant doit avoir un aspect homogène.
 
 Les vaccins lyophilisés doivent être reconstitués exclusivement avec le diluant prévu par le fabricant. L'utilisation d'un produit inapproprié peut conduire à de graves incidents pouvant aller jusqu'à la mort du patient.
 
@@ -80,9 +80,9 @@ Chaque vaccin doit être administré en respectant la technique et le site d'inj
 La vaccination est un moment privilégié pour communiquer avec la personne accompagnant l'enfant ou avec la femme enceinte. L'agent vaccinateur a ainsi l'occasion de transmettre les messages indispensables qui favoriseront la complétude du schéma vaccinal.  
 La communication portera sur :
 
-*   les vaccins administrés ce jour et les maladies qu'ils préviennent,
-*   les effets secondaires possibles, la conduite à tenir s'ils surviennent,
-*   l'importance de compléter le schéma vaccinal afin que la protection du patient contre les maladies soit maximale.
+- les vaccins administrés ce jour et les maladies qu'ils préviennent,
+- les effets secondaires possibles, la conduite à tenir s'ils surviennent,
+- l'importance de compléter le schéma vaccinal afin que la protection du patient contre les maladies soit maximale.
 
 Ce moment est aussi l'occasion de favoriser les questions des mères et d'y répondre. Avant que le patient ne quitte le site de vaccination, un rendez-vous doit être convenu avec la mère pour compléter le schéma vaccinal.
 
@@ -96,9 +96,9 @@ Après utilisation, les seringues et aiguilles, **non recapuchonnées**, doivent
 A l'issue de la séance de vaccination, si la boîte n'est pas remplie au maximum recommandé, elle doit être entreposée dans un lieu sécurisé jusqu'à la séance suivante. Une fois pleine, elle doit être détruite sans être vidée afin de prévenir toute piqûre accidentelle.  
 Il existe plusieurs moyens de destruction des boîtes de sécurité, ils devront avoir été définis avec le responsable de la santé du district et les autorités administratives de la zone. Les plus couramment utilisés sont :
 
-*   l'incinération dans un incinérateur atteignant au moins 800° C, température à laquelle tout micro organisme sera détruit,
-*   le brûlage dans un trou ou un fût prévu à cet effet,
-*   l'enfouissement dans une fosse.
+- l'incinération dans un incinérateur atteignant au moins 800° C, température à laquelle tout micro organisme sera détruit,
+- le brûlage dans un trou ou un fût prévu à cet effet,
+- l'enfouissement dans une fosse.
 
 Les résidus de l'incinération et du brûlage seront enfouis. Quel que soit le moyen de destruction choisi, il doit apporter la garantie maximale de sécurité et d'hygiène pour les agents, la population et l'environnement, Le site de destruction des déchets doit être protégé afin d'être inaccessible aux animaux et aux enfants.
 

@@ -1,18 +1,13 @@
 ---
-title: "Borrélioses"
+title: "Borrélioses : fièvres récurrentes à tiques"
 author: "Fabrice Legros* et Françoise Balédent**"
 date: "1999-10-14"
 ---
 
-**Borrélioses : fièvres récurrentes à tiques**
+\*IDR (ex-0RSTOM)/UR Maladies à vecteurs. Adresse actuelle : CNRMI, Institut Santé et Développement, 15, rue de l'école de Médecine, 75270 Paris cedex 06, France.  
+\*\* Biologiste, Saint-Denis, France.
 
-**par Fabrice Legros* et Françoise Balédent****
-
-* IDR (ex-0RSTOM)/UR Maladies à vecteurs. Adresse actuelle : CNRMI, Institut Santé et Développement, 15, rue de l'école de Médecine, 75270 Paris cedex 06, France.
-
-'* Biologiste, Saint-Denis, France.
-
-Les fièvres récurrentes sont dues à des spirochètes du genre _Borrelia_. Elles sont caractérisées cliniquement par des épisodes fébriles successifs séparés par des interphases apyrétiques de durée variable. Selon les espèces de _Borrelia_, la transmission s'effectué par des poux ou des tiques. Les fièvres récurrentes transmises par les tiques sont les plus fréquentes.
+Les fièvres récurrentes sont dues à des spirochètes du genre *Borrelia*. Elles sont caractérisées cliniquement par des épisodes fébriles successifs séparés par des interphases apyrétiques de durée variable. Selon les espèces de *Borrelia*, la transmission s'effectué par des poux ou des tiques. Les fièvres récurrentes transmises par les tiques sont les plus fréquentes.
 
 L'incidence et la prévalence de cette affection ont été largement méconnues en raison d'un diagnostic clinique et biologique difficile.
 
@@ -20,15 +15,15 @@ L'incidence et la prévalence de cette affection ont été largement méconnues 
 
 Les borrélioses à tiques sont largement distribuées dans le monde, sous forme de foyers endémiques ou sporadiques.
 
-C'est la répartition géographique qui permet de distinguer les espèces de _Borrelia_.
+C'est la répartition géographique qui permet de distinguer les espèces de *Borrelia*.
 
 En Afrique, on décrit 3 grands groupes :
 
-*   _B. crocidurae_ : il s'étend en, Afrique, approximativement du Maroc à l'Egypte, du Sénégal au Soudan et au Kenya.
+- *B. crocidurae* : il s'étend en, Afrique, approximativement du Maroc à l'Egypte, du Sénégal au Soudan et au Kenya.
 
-*   _B. duttoni_ : en Afrique orientale et centrale, Madagascar et aux Comores.
+- *B. duttoni* : en Afrique orientale et centrale, Madagascar et aux Comores.
 
-*   _B. hispanica_ : dans le pourtour méditerranéen.
+- *B. hispanica* : dans le pourtour méditerranéen.
 
 **Il. Vecteur**
 
@@ -46,7 +41,7 @@ Des contaminations transplacentaires ont été rapportées, ainsi que des contam
 
 **IV. Clinique**
 
-Elle est commune aux différentes borrélioses mais beaucoup plus sévère avec _B. duttoni_ qu'avec B groupe crocidurae. On n'observe pas de prédominance de sexe parmi les patients. Toutes les tranches d'âges peuvent être atteintes.
+Elle est commune aux différentes borrélioses mais beaucoup plus sévère avec *B. duttoni* qu'avec B groupe crocidurae. On n'observe pas de prédominance de sexe parmi les patients. Toutes les tranches d'âges peuvent être atteintes.
 
 **1. Formes typiques**
 
@@ -70,7 +65,7 @@ En l'absence de traitement approprié les récurrences peuvent réapparaître ju
 
 On peut rencontrer différentes formes cliniques électives de certains appareils ou organes et des complications qui, exceptionnellement, peuvent être graves. Tous les organes peuvent être atteints. Les complications méningées sont les plus fréquentes : méningite à liquide clair de type lymphocytaire ou hémorragique, parfois méningo-encéphalite. Ces manifestations peuvent ne pas être contemporaines de la poussée fébrile ce qui rend leur diagnostic d'autant plus délicat.
 
-Les formes oculaires sont fréquentes au cours de borrélioses à _B. duttoni._
+Les formes oculaires sont fréquentes au cours de borrélioses à *B. duttoni.*
 
 Les risques obstétricaux : atteinte congénitale du foetus, accouchement prématuré, avortement spontané, sont fréquents (évalués à 30 %) et souvent sévères en Afrique centrale.
 
@@ -84,27 +79,25 @@ Du fait du polymorphisme clinique de l'affection et des similarités avec de nom
 
 Le diagnostic non spécifique n'apporte aucun élément d'orientation. On retrouve assez fréquemment une anémie avec hyperleucocytose neutrophile en phase fébrile, des perturbations hépatiques, une hyperalbuminorachie.
 
-Le diagnostic repose sur la mise en évidence des _Borrelia_ qui peuvent être détectées dans différents prélèvements (sang, LCR, urines) effectués de préférence au moment des épisodes fébriles : en effet, les _Borrelia_ ne sont visibles dans le sang périphérique que durant les phases fébriles ; elles sont rarissimes lors des périodes d'apyrexie. Il n'y a pas de périodicité nyctémérale apparente. L'intensité de la borréliémie est sans rapport avec la température mesurée parallèlement.
+Le diagnostic repose sur la mise en évidence des *Borrelia* qui peuvent être détectées dans différents prélèvements (sang, LCR, urines) effectués de préférence au moment des épisodes fébriles : en effet, les *Borrelia* ne sont visibles dans le sang périphérique que durant les phases fébriles ; elles sont rarissimes lors des périodes d'apyrexie. Il n'y a pas de périodicité nyctémérale apparente. L'intensité de la borréliémie est sans rapport avec la température mesurée parallèlement.
 
-Les _Borrelia (figure n° 1_) sont des germes extracellulaires, ondulés, de 8 à 30 ?m de long et 0,2 à 0,6 ?m de diamètre présentant 4 à 12 spires lâches plus ou moins irrégulières, d'amplitude voisine de 1-2 ?m . Elles peuvent parfois se présenter accolées par leurs extrémités, formant de longues chaînes. Des formes granuleuses, sphéroïdes ont été décrites.
+Les *Borrelia (figure n° 1*) sont des germes extracellulaires, ondulés, de 8 à 30 ?m de long et 0,2 à 0,6 ?m de diamètre présentant 4 à 12 spires lâches plus ou moins irrégulières, d'amplitude voisine de 1-2 ?m . Elles peuvent parfois se présenter accolées par leurs extrémités, formant de longues chaînes. Des formes granuleuses, sphéroïdes ont été décrites.
 
 Ces germes présentent une mobilité active suivant l'axe général de l'hélice.
 
 En pratique, la recherche se fait essentiellement au niveau du sang périphérique :
 
-_- L'état frais_ : en encre de chine, fond noir ou en contraste de phase suffit très rarement.
+*- L'état frais* : en encre de chine, fond noir ou en contraste de phase suffit très rarement.
 
-_- Le frottis mince_ : les _Borrelia_ sont faiblement Gram négatif mais colorables facilement par le Giemsa, le Vago, le Romanovsky, l'acridine orange ou les imprégnations argentiques.
+*- Le frottis mince* : les *Borrelia* sont faiblement Gram négatif mais colorables facilement par le Giemsa, le Vago, le Romanovsky, l'acridine orange ou les imprégnations argentiques.
 
 Le frottis peut être effectué après leucoconcentration.
 
-- _La goutte épaisse_ : colorée au Giemsa (ou à l'acridine orange et observée alors en microscopie à fluorescence) elle représente une meilleure méthode.
+- *La goutte épaisse* : colorée au Giemsa (ou à l'acridine orange et observée alors en microscopie à fluorescence) elle représente une meilleure méthode.
 
-_- L'inoculation à la souris_ : elle reste la méthode de référence la plus fidèle et de loin la plus fiable malgré des échecs possibles (injection intrapéritonéale de 0,1 à 0,3 ml sang du patient recueilli sur anticoagulant chez des souris dont la bactériémie sera recherchée après 48 à 72 heures).
-
+*- L'inoculation à la souris* : elle reste la méthode de référence la plus fidèle et de loin la plus fiable malgré des échecs possibles (injection intrapéritonéale de 0,1 à 0,3 ml sang du patient recueilli sur anticoagulant chez des souris dont la bactériémie sera recherchée après 48 à 72 heures).
 
 ![](i856-1.jpg)
-
 
 **2. Diagnostic différentiel**
 
@@ -112,13 +105,13 @@ _- L'inoculation à la souris_ : elle reste la méthode de référence la plus f
 
 D'autres maladies peuvent être évoquées :
 
-*   les rickettsioses ;
-*   les arboviroses, dengues et syndromes "_dengue-like"_ ;
-*   un syndrome grippal
-*   une méningite
-*   une fièvre typhoïde
-*   une leptospirose ;
-*   la phase de début de certaines parasitoses (leshmaniose viscérale, bilharzioses, amibiase hépatique).
+- les rickettsioses ;
+- les arboviroses, dengues et syndromes "*dengue-like"* ;
+- un syndrome grippal
+- une méningite
+- une fièvre typhoïde
+- une leptospirose ;
+- la phase de début de certaines parasitoses (leshmaniose viscérale, bilharzioses, amibiase hépatique).
 
 Parfois, certaines de ces affections existent simultanément.
 
@@ -126,7 +119,7 @@ Il faut également envisager que la maladie a pu être été décapitée par une
 
 **VI. Pronostic**
 
-Il s'agit le plus souvent d'une maladie fébrile bénigne, parfois même inapparente. La mortalité est exceptionnelle, sauf avec les infections à _B. duttoni :_ elle peut alors atteindre 1 à 5 %, surtout chez des sujets débilités, dénutris chroniques, jeunes ou vieillards, ou lors d'associations morbides.
+Il s'agit le plus souvent d'une maladie fébrile bénigne, parfois même inapparente. La mortalité est exceptionnelle, sauf avec les infections à *B. duttoni :* elle peut alors atteindre 1 à 5 %, surtout chez des sujets débilités, dénutris chroniques, jeunes ou vieillards, ou lors d'associations morbides.
 
 L'immunité acquise est assez faible et de courte durée, avec des anticorps spécifiques de souche, qui ne seraient actifs que vis-à-vis d'une seule récurrence.
 
@@ -142,9 +135,9 @@ On aura tendance à privilégier, hors complications, les protocoles de " traite
 
 Le traitement repose essentiellement sur les cyclines. On utilisera en pratique :
 
-tétracycline ou oxytétracycline à 2 g/j _per os_ pendant 7 à 10 jours - doxycycline en dose unique de 500 mg,
+tétracycline ou oxytétracycline à 2 g/j *per os* pendant 7 à 10 jours - doxycycline en dose unique de 500 mg,
 
-- minocycline 100 à 200 mg/j _per os_ ou en IV.
+- minocycline 100 à 200 mg/j *per os* ou en IV.
 
 On préférera les macrolides (érythromycine 500 mg/j) chez l'enfant et la femme enceinte.
 
@@ -200,6 +193,6 @@ Possibilité de formes graves, voire mortelles.
 
 macrolides chez l'enfant et la femme enceinte.
 
-_La prémunition existe seulement pendant que les Borrelia sont présentes dans l'organisme, cependant certaines personnes régulièrement infectées pourraient conserver un_ _certain degré d'immunité. Des souches distantes de quelques kilomètres peuvent provoquer des expressions cliniques différentes de la maladie. Certaines ethnies d'Afrique_ _orientale avaient pour habitude lors de déplacements prolongés d'emmener " leurs_ _tiques " afin de se préserver des rechutes fébriles lors du retour dans leur domicile habituel. Des observations similaires ont été rapportées de Madagascar._
+*La prémunition existe seulement pendant que les Borrelia sont présentes dans l'organisme, cependant certaines personnes régulièrement infectées pourraient conserver un* *certain degré d'immunité. Des souches distantes de quelques kilomètres peuvent provoquer des expressions cliniques différentes de la maladie. Certaines ethnies d'Afrique* *orientale avaient pour habitude lors de déplacements prolongés d'emmener " leurs* *tiques " afin de se préserver des rechutes fébriles lors du retour dans leur domicile habituel. Des observations similaires ont été rapportées de Madagascar.*
 
-_Développement et Santé, n° 143, octobre 1999_
+*Développement et Santé, n° 143, octobre 1999*

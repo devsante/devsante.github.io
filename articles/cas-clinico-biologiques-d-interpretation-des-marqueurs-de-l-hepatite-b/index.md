@@ -77,37 +77,37 @@ HBs
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
@@ -191,37 +191,37 @@ HBs
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
@@ -305,37 +305,37 @@ HBs
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
@@ -417,37 +417,37 @@ HBs
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -529,37 +529,37 @@ HBs
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -593,4 +593,4 @@ Sujet guéri d'une hépatite B : présence d'Ac anti-HBc et d'Ac anti HBs
 
 Sujet vacciné : présence
 
-_Développement et Santé, n°151, février 2001_
+*Développement et Santé, n°151, février 2001*

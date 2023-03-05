@@ -3,13 +3,14 @@ title: "SIDA : état des lieux de la maladie"
 date: "2006-03-05"
 ---
 
-## I. Rappel concernant le VIH  
+## I. Rappel concernant le VIH
+
 **(Virus de l'immunodéficience humaine)**
 
-### Il existe deux types de VIH :
+### Il existe deux types de VIH
 
-*   VIH-1 le plus fréquent, présent dans le monde entier ;
-*   VIH-2, à l'origine seulement en Afrique occidentale, puis exporté dans d'autres pays d'Afrique, en Europe et dans les Caraïbes.
+- VIH-1 le plus fréquent, présent dans le monde entier ;
+- VIH-2, à l'origine seulement en Afrique occidentale, puis exporté dans d'autres pays d'Afrique, en Europe et dans les Caraïbes.
 
 L'infection par le VIH atteint le système immunitaire, qui est responsable de la défense du corps humain contre les maladies infectieuses. En ce qui concerne le SIDA ce sont les défenses cellulaires qui sont atteintes.
 
@@ -23,12 +24,12 @@ Dans un deuxième temps on assiste à la phase dite d'état "SIDA" ou de maladie
 
 ### Le VIH peut être transmis par
 
-*   Rapports sexuels non protégés (par voie vaginale, anale ou orale),
-*   Transfusion de sang ou de produits sanguins à partir d'un don de sang infecté par le VIH.  
-*   Matériel d'injection réutilisé sans stérilisation comme par exemple des aiguilles ou des seringues.  
-*   Transmission materno-foetale au cours de la grossesse, lors de l'accouchement ou pendant l'allaitement au sein.
+- Rapports sexuels non protégés (par voie vaginale, anale ou orale),
+- Transfusion de sang ou de produits sanguins à partir d'un don de sang infecté par le VIH.
+- Matériel d'injection réutilisé sans stérilisation comme par exemple des aiguilles ou des seringues.
+- Transmission materno-foetale au cours de la grossesse, lors de l'accouchement ou pendant l'allaitement au sein.
 
-_NB : Les IST (infections sexuellement transmissibles) sont des facteurs qui fauorisent très fortement la contamination par le VIH dans les deux sens_ (Fact Sheets on HIU/AIDS for nurses and midwives, WHO, 2001).
+*NB : Les IST (infections sexuellement transmissibles) sont des facteurs qui fauorisent très fortement la contamination par le VIH dans les deux sens* (Fact Sheets on HIU/AIDS for nurses and midwives, WHO, 2001).
 
 ## III. La situation de l'Afrique Sub-saharienne
 
@@ -41,17 +42,17 @@ La plupart des personnes infectées par le VIH ignorent leur état. Le test dest
 
 Lors du stade de primo-infection, on peut retrouver des **signes cliniques** tels que :
 
-*   fièvre ;
-*   éruptions cutanées ;
-*   douleurs articulaires ;
-*   adénopathies ;
-*   atteintes neurologiques (céphalées, douleurs des extrémités, perte de sensibilité, de la force musculaire).
+- fièvre ;
+- éruptions cutanées ;
+- douleurs articulaires ;
+- adénopathies ;
+- atteintes neurologiques (céphalées, douleurs des extrémités, perte de sensibilité, de la force musculaire).
 
 ## V. Le dépistage de l'infection par VIH
 
 Le dépistage est un élément clé de la lutte contre la maladie. Il se fonde sur des analyses sanguines, et est accompagné d'entretiens avec une équipe pluridisciplinaire du centre de dépistage.
 
-_Lors du test on recherche des anticorps fabriqués par l'organisme contre le VIH et non le virus lui-même._
+*Lors du test on recherche des anticorps fabriqués par l'organisme contre le VIH et non le virus lui-même.*
 
 ### 1. Le rôle central de l'infirmier face au dépistage
 
@@ -59,19 +60,19 @@ L'infirmier qui travaille dans un centre de santé ou dans un dispensaire a un r
 
 Les tests de dépistage ne sont en général pas réalisés au sein du dispensaire, le patient doit donc être référé par l'infirmier au centre de dépistage ou à l'hôpital le plus proche.
 
-#### a) Dans l'optique d'une prise en charge de qualité l'infirmier doit :
+#### a) Dans l'optique d'une prise en charge de qualité l'infirmier doit
 
-*   Connaître les sites de dépistage les plus proches ;
-*   Prendre contact avec l'équipe chargée du dépistage (l'idéal étant de les rencontrer) ;
-*   Se renseigner sur le coût d'une sérologie VIH et sur les horaires d'ouverture au public ;
-*   Assurer des transmissions orales et écrites, en respectant la confidentialité pour tous les malades adressés pour un test VIH (bulletins dans enveloppes fermées) ;
-*   S'inscrire comme élément d'un réseau de santé avec la connaissance de relais, associations, structures de soins, susceptibles d'accompagner économiquement et socialement la personne.
+- Connaître les sites de dépistage les plus proches ;
+- Prendre contact avec l'équipe chargée du dépistage (l'idéal étant de les rencontrer) ;
+- Se renseigner sur le coût d'une sérologie VIH et sur les horaires d'ouverture au public ;
+- Assurer des transmissions orales et écrites, en respectant la confidentialité pour tous les malades adressés pour un test VIH (bulletins dans enveloppes fermées) ;
+- S'inscrire comme élément d'un réseau de santé avec la connaissance de relais, associations, structures de soins, susceptibles d'accompagner économiquement et socialement la personne.
 
 #### b) Counseling et soins infirmiers
 
 **Qu'est ce que le counseling ?**
 
-_Il s'agit d'un ensemble de pratiques basées sur l'orientation, la relation d'aide, l'information, le soutien psychologique._
+*Il s'agit d'un ensemble de pratiques basées sur l'orientation, la relation d'aide, l'information, le soutien psychologique.*
 
 Le counseling consiste à mobiliser et à renforcer les ressources individuelles de chaque patient ainsi que ses capacités à surmonter des situations difficiles en trouvant en lui les réponses adaptées à sa situation de vie. Il s'agit pour l'infirmier de ne pas choisir des solutions à la place de la personne.
 
@@ -81,32 +82,32 @@ Le rôle de l'infirmier avant et après le dépistage est prépondérant. Il con
 
 Les activités en lien avec le dépistage sont encadrées par des principes fondamentaux auxquels l'infirmier ne peut déroger à savoir :
 
-*   Le consentement éclairé du patient : le soignant doit s'assurer que la personne a donné son accord. Pour un consentement "éclairé" l'infirmier doit donner au préalable des explications sur le déroulement du test, ses avantages, ses contraintes et les conséquences de ce dernier.  
-*   La confidentialité et la discrétion : les informations relatives à l'état de santé du malade ne doivent en aucune manière être connues de tiers non engagés dans le secret. Les dossiers infirmiers et médicaux doivent être stockés en lieu sûr.
+- Le consentement éclairé du patient : le soignant doit s'assurer que la personne a donné son accord. Pour un consentement "éclairé" l'infirmier doit donner au préalable des explications sur le déroulement du test, ses avantages, ses contraintes et les conséquences de ce dernier.
+- La confidentialité et la discrétion : les informations relatives à l'état de santé du malade ne doivent en aucune manière être connues de tiers non engagés dans le secret. Les dossiers infirmiers et médicaux doivent être stockés en lieu sûr.
 
 #### c) Le devoir de confidentialité au quotidien
 
 **Lorsque des informations sont données au patient sur son état de santé il faut :**
 
-*   s'installer avec le patient dans une pièce prévue à cet effet et,
-*   en fermer la porte.
+- s'installer avec le patient dans une pièce prévue à cet effet et,
+- en fermer la porte.
 
 **S'il n'y a pas possibilité de pièce spécifique il faut :**
 
-*   se mettre à l'écart dans un endroit calme,
-*   ne pas parler fort, parler normalement,
-*   faire attention que personne ne vous écoute.
+- se mettre à l'écart dans un endroit calme,
+- ne pas parler fort, parler normalement,
+- faire attention que personne ne vous écoute.
 
 **Lorsque vous parlez d'un malade à un collègue :**
 
-*   ne pas parler de vos patients à des personnes qui ne feraient pas partie de l'équipe médicale,
-*   s'assurer que les informations que vous donnez à vos collègues ne vont servir qu'à favoriser la prise en charge du malade,
-*   être en accord avec le patient sur le fait que l'information pourra être partagée entre soignants.
+- ne pas parler de vos patients à des personnes qui ne feraient pas partie de l'équipe médicale,
+- s'assurer que les informations que vous donnez à vos collègues ne vont servir qu'à favoriser la prise en charge du malade,
+- être en accord avec le patient sur le fait que l'information pourra être partagée entre soignants.
 
 **Lorsque la famille demande des informations il faut :**
 
-*   donner des informations **uniquement en présence** du malade ;
-*   si le malade n'est pas d'accord pour partager avec la famille, ne rien dire mais écouter la famille ou les proches et établir une relation d'aide, les soutenir.
+- donner des informations **uniquement en présence** du malade ;
+- si le malade n'est pas d'accord pour partager avec la famille, ne rien dire mais écouter la famille ou les proches et établir une relation d'aide, les soutenir.
 
 **Stockage des données :**
 
@@ -184,36 +185,42 @@ ARV = SIDA
 
 </table>
 
-#### d) En règle générale :
+#### d) En règle générale
 
-*   Faire preuve de discrétion ;
-*   **Confidentialité = Confiance**, si vous respectez ces règles le malade pourra vous parler librement de sa maladie, de ses difficultés et de ses peurs. Vous serez plus à même de l'accompagner dans une dynamique de soins. Vous-même travaillerez mieux.
+- Faire preuve de discrétion ;
+- **Confidentialité = Confiance**, si vous respectez ces règles le malade pourra vous parler librement de sa maladie, de ses difficultés et de ses peurs. Vous serez plus à même de l'accompagner dans une dynamique de soins. Vous-même travaillerez mieux.
 
 ### 2. Les objectifs infirmiers en lien avec le dépistage
 
-*   Encourager chaque patient à se faire dépister, même s'il ne présente pas de signes en faveur d'une infection par le VIH.  
-*   Favoriser les changements de comportements pour éviter la transmission du VIH.  
-*   Proposer un soutien psychologique.  
-*   Répondre au mieux aux questions des patients en leur apportant des réponses claires et précises, savoir adresser la personne aux structures compétentes lorsque les questions des patients dépassent les compétences infirmières. Connaître ses limites.  
-*   Accompagner la personne après l'annonce du diagnostic par l'équipe de dépistage.  
-*   Identifier les problématiques individuelles de chaque patient en lien avec le retentissement social de la maladie.  
-*   Mettre en place un suivi régulier du patient (Guide de prise en charqe Côte d'lvoire).
+- Encourager chaque patient à se faire dépister, même s'il ne présente pas de signes en faveur d'une infection par le VIH.
 
-*   Informer la personne des réseaux de soins et d'accompagnement existants.
+- Favoriser les changements de comportements pour éviter la transmission du VIH.
+
+- Proposer un soutien psychologique.
+
+- Répondre au mieux aux questions des patients en leur apportant des réponses claires et précises, savoir adresser la personne aux structures compétentes lorsque les questions des patients dépassent les compétences infirmières. Connaître ses limites.
+
+- Accompagner la personne après l'annonce du diagnostic par l'équipe de dépistage.
+
+- Identifier les problématiques individuelles de chaque patient en lien avec le retentissement social de la maladie.
+
+- Mettre en place un suivi régulier du patient (Guide de prise en charqe Côte d'lvoire).
+
+- Informer la personne des réseaux de soins et d'accompagnement existants.
 
 ### 3. Le rôle infirmier dans la prise en charge des patients VIH
 
 La qualité de la prise en charge se fonde sur des objectifs infirmiers précis :
 
-*   Etablir avec l'usager une relation de confiance, l'informer sur sa pathologie et sur son traitement.  
-*   Reconnaître les signes cliniques de l'infection à VIH.  
-*   Mettre en place des moyens de traitement adaptés en collaboration avec les différents professionnels de santé.  
-*   Utiliser au mieux les ressources institutionnelles.  
-*   Expliquer les soins infirmiers réalisés.  
-*   Conseiller des règles hygiéno-diététiques relatives à la prise d'ARV.  
-*   Informer le patient des principaux effets secondaires et des moyens pour les soulager.  
-*   Connaître les signes cliniques en lien avec l'évolution de l'état général du patient.  
-*   Prendre en charge l'individu de manière globale (sur le plan psychologique, médical et social).
+- Etablir avec l'usager une relation de confiance, l'informer sur sa pathologie et sur son traitement.
+- Reconnaître les signes cliniques de l'infection à VIH.
+- Mettre en place des moyens de traitement adaptés en collaboration avec les différents professionnels de santé.
+- Utiliser au mieux les ressources institutionnelles.
+- Expliquer les soins infirmiers réalisés.
+- Conseiller des règles hygiéno-diététiques relatives à la prise d'ARV.
+- Informer le patient des principaux effets secondaires et des moyens pour les soulager.
+- Connaître les signes cliniques en lien avec l'évolution de l'état général du patient.
+- Prendre en charge l'individu de manière globale (sur le plan psychologique, médical et social).
 
 L'infirmier est un interlocuteur privilégié qui pourra aborder avec le patient des thèmes tels que les conditions de vie matérielles, familiales et sexuelles. Il devra savoir quand, comment et à qui référer la personne, si nécessaire. Lors des différentes consultations, l'infirmier pourra jouer pleinement son rôle d'éducateur à la santé et délivrer les messages de prévention.
 
@@ -230,8 +237,8 @@ Il faut se rappeler que la complexité de la prise en charge infirmière de pati
 
 Si aucun test sérologique pour mettre en évidence le VIH n'est disponible, le soignant peut se baser sur la classification suivante inspirée de celle de " Bangui " (1985), outil précieux qui permet d'établir une suspicion d'infection par le VIH par le biais de signes cliniques répartis en deux catégories :
 
-*   signes majeurs
-*   signes mineurs
+- signes majeurs
+- signes mineurs
 
 De plus, certains diagnostics médicaux peuvent renforcer le diagnostic.
 
@@ -243,29 +250,29 @@ Il propose à l'infirmier une lecture simple de la situation médicale de l'indi
 
 #### a) Signes majeurs
 
-*   **Perte de poids rapide** de plus de 10% du poids corporel en un mois.  
-*   **Diarrhée chronique de plus de 15 jours (+de 3 selles par/j ou trop abondante car > à 250 g/j).**
-*   **Fièvre prolongée** continue ou intermittente avec une température > à 38° pendant plus de 3 semaines.
+- **Perte de poids rapide** de plus de 10% du poids corporel en un mois.
+- **Diarrhée chronique de plus de 15 jours (+de 3 selles par/j ou trop abondante car > à 250 g/j).**
+- **Fièvre prolongée** continue ou intermittente avec une température > à 38° pendant plus de 3 semaines.
 
 #### b) Signes mineurs
 
-*   **Toux persistante de plus de 2 semaines** (ne pas inclure la toux chez les patients confirmés tuberculeux comme signe mineur du SIDA).  
-*   **Candidose buccale ou vaginale**.  
-*   **Herpès** génital récurrent.  
-*   **Zona** récidivant.  
-*   **Adénopathies** généralisées (plus de 2 sites).  
-*   **Sueurs nocturnes**.  
-*   **Fatigue chronique**.  
-*   **Prurigo.**
+- **Toux persistante de plus de 2 semaines** (ne pas inclure la toux chez les patients confirmés tuberculeux comme signe mineur du SIDA).
+- **Candidose buccale ou vaginale**.
+- **Herpès** génital récurrent.
+- **Zona** récidivant.
+- **Adénopathies** généralisées (plus de 2 sites).
+- **Sueurs nocturnes**.
+- **Fatigue chronique**.
+- **Prurigo.**
 
-#### c) Quelques diagnostics médicaux qui permettent de renforcer le diagnostic :
+#### c) Quelques diagnostics médicaux qui permettent de renforcer le diagnostic
 
-*   Tuberculose
-*   Sarcome de Kaposi
-*   Toxoplasmose cérébrale
-*   Cryptococcose méningée
-*   Pneumocystose
-*   Rétinite à cytomégalovirus
+- Tuberculose
+- Sarcome de Kaposi
+- Toxoplasmose cérébrale
+- Cryptococcose méningée
+- Pneumocystose
+- Rétinite à cytomégalovirus
 
 <table>
 
@@ -294,19 +301,18 @@ Il propose à l'infirmier une lecture simple de la situation médicale de l'indi
 
 ### 2. Principes de base en soins infirmiers
 
-*   **Ecouter** la personne vivant avec le VIH/SIDA et les membres de sa famille, les soutenir psychologiquement ;
-*   **Respecter la confidentialité** ;
-*   S'abstenir d'émettre tout jugement de valeur envers la personne soignée ;
-*   Pratiquer les soins dans le respect de la dignité humaine et sans aucune forme de discrimination ;
-*   Développer le travail en réseau en favorisant l'échange d'informations ;
-*   Recourir aux ressources et aux potentiels locaux ;
-*   Impliquer les partenaires locaux ainsi que la communauté ;
-*   Favoriser dans la mesure du possible le maintien à domicile ;
-*   Actualiser ses connaissances en matière de VIH.
+- **Ecouter** la personne vivant avec le VIH/SIDA et les membres de sa famille, les soutenir psychologiquement ;
+- **Respecter la confidentialité** ;
+- S'abstenir d'émettre tout jugement de valeur envers la personne soignée ;
+- Pratiquer les soins dans le respect de la dignité humaine et sans aucune forme de discrimination ;
+- Développer le travail en réseau en favorisant l'échange d'informations ;
+- Recourir aux ressources et aux potentiels locaux ;
+- Impliquer les partenaires locaux ainsi que la communauté ;
+- Favoriser dans la mesure du possible le maintien à domicile ;
+- Actualiser ses connaissances en matière de VIH.
 
-**Algorithme n°1 : suspicion d'infection par le VIH**
+**Algorithme n°1 : suspicion d'infection par le VIH**  
 ![](i165-1.jpg)
-
 
 ## VII. Les différents stades cliniques
 
@@ -318,21 +324,21 @@ Période allant de l'apparition d'une charge virale positive aux premiers signes
 
 Le patient commence à présenter des signes cliniques :
 
-*   Candidose
-*   Altération de l'état général
-*   Zona...
+- Candidose
+- Altération de l'état général
+- Zona...
 
 ### 3. Stade C
 
 Le stade C correspond au Syndrome d'immunodéficience acquise (taux de CD4< 200/mm<sup>3</sup>). Il se caractérise par l'apparition d'une ou plusieurs des pathologies suivantes : -
 
-*   syndrome cachectique
-*   toxoplasmose cérébrale
-*   candidose bronchique, trachéale, pulmonaire ou oesophagienne
-*   encéphalopathie
-*   sarcome de Kaposi
-*   lymphomes divers (Burkitt...)
-*   pneumopathie bactérienne récurrente
-*   septicémie...
+- syndrome cachectique
+- toxoplasmose cérébrale
+- candidose bronchique, trachéale, pulmonaire ou oesophagienne
+- encéphalopathie
+- sarcome de Kaposi
+- lymphomes divers (Burkitt...)
+- pneumopathie bactérienne récurrente
+- septicémie...
 
-_Développement et Santé, n°181, 2006_
+*Développement et Santé, n°181, 2006*

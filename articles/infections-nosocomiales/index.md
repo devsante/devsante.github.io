@@ -33,10 +33,10 @@ Cela signifie qu’elle survient pendant ou après un séjour à l’hôpital (e
 
 L'infection nosocomiale peut être provoquée par un germe :
 
-*   provenant d’un autre malade,
-*   présent sur le matériel médical, les sols, les lavabos, etc,
-*   apporté par le personnel soignant (infection respiratoire par exemple),
-*   enfin provenant du malade lui-même (germe initialement sur la peau, les muqueuses ou dans le tube digestif et infectant une plaie opératoire, les urines, les voies respiratoires…).
+- provenant d’un autre malade,
+- présent sur le matériel médical, les sols, les lavabos, etc,
+- apporté par le personnel soignant (infection respiratoire par exemple),
+- enfin provenant du malade lui-même (germe initialement sur la peau, les muqueuses ou dans le tube digestif et infectant une plaie opératoire, les urines, les voies respiratoires…).
 
 Les infections nosocomiales sont fréquentes, et peuvent être mortelles.  
 De plus, les germes hospitaliers sont devenus souvent très résistants aux antibiotiques (staphylocoque par exemple) et les malades contaminés sont souvent fragiles : SIDA, prématurés, diabétiques, dénutris…
@@ -49,7 +49,8 @@ Selon leur mode de transmission, ces infections hospitalières nosocomiales sont
 
 Elles peuvent réaliser de véritables épidémies comme la rougeole, les diarrhées virales (à Rotavirus par exemple) ou les bronchiolites à virus respiratoire syncytial. Certaines sont tellement contagieuses que les mesures préventives sont illusoires, en dehors d’une vaccination antérieure si elle est possible (rougeole par exemple) (voir l'article "Isolement du patient" ). Dans certains cas il est possible de limiter les risques de transmission en organisant les circuits des patients, par exemple on ne doit pas mettre dans une même salle des patients tuberculeux contagieux et des enfants ou des sujets infectés par le VIH. D’autres initiatives de ce type doivent être développées par tous.
 
-## II. Transmission par le sang  
+## II. Transmission par le sang
+
 et les liquides biologiques
 
 Les mesures strictes sont ici parfaitement efficaces : Précautions Universelles de Soins (PUS), élimination correcte des déchets, etc. (voir articles spécifiques).

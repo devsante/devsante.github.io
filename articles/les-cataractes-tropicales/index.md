@@ -10,7 +10,7 @@ Dans le tiers-monde, les cataractes présentent une spécificité étiologique, 
 
 D'après les données de l'Organisation mondiale de la santé, on estime à seize millions le nombre de cataractes non opérées par manque de structure sanitaire et de personnel qualifié. Il s'agit d'un problème de santé publique majeur, d'autant plus grave qu'il concerne une tranche d'âge relativement jeune, potentiellement active et souvent réduite à la mendicité.
 
-## **I. Rappel anatomophysiologique**
+## I. Rappel anatomophysiologique
 
 Schématiquement, l'oeil peut être comparé à un appareil photographique.
 
@@ -24,11 +24,9 @@ L'image d'un objet situé à l'infini se projette normalement en un point situé
 
 L'opacification du cristallin entraîne dans un premier temps une myopisation par augmentation de l'indice de réfraction du cristallin : l'image ne se projette plus sur la rétine mais en avant de celle-ci. Ultérieurement, lorsque la cataracte progresse, la cécité devient totale avec toutefois une conservation des perceptions lumineuses.
 
-
 ![](i708-1.jpg)
 
-
-## **II. Étiologie-épidémiologie**
+## II. Étiologie-épidémiologie
 
 Les cataractes dites " séniles " constituent de loin l'étiologie la plus fréquente. En zone tropicale elles surviennent plus précocement que dans les pays industrialisés, vers l'âge de 45 ans au lieu de 70 ans au Nord. On évoque, pour expliquer ce décalage " Nord-Sud ", le rôle de la malnutrition et de l'ensoleillement.
 
@@ -44,13 +42,11 @@ Les autres étiologies sont beaucoup plus rares, mais il faut évoquer leur diag
 
 - cataractes iatrogènes : corticothérapie prolongée par voie générale ou en collyres.
 
-
 ![](i708-2.jpg)
 
+## III. Diagnostic
 
-## **III. Diagnostic**
-
-### **1. Au début**
+### 1. Au début
 
 Les signes fonctionnels d'appel sont dominés par :
 
@@ -96,7 +92,7 @@ La mesure du tonus oculaire soit par simple palpation, soit au tonomètre permet
 
 L'examen du fond d'oeil, lorsqu'il est encore éclairable, permet de dépister une pathologie rétinienne associée (décollement de rétine, rétinopathie diabétique, dégénérescence maculaire liée à l'âge, etc.).
 
-### **2. État**
+### 2. État
 
 C'est le stade de cécité totale avec toutefois une persistance des perceptions lumineuses. Si ces dernières sont de mauvaise qualité, ou inexistantes, il faudra suspecter une pathologie rétinienne ou un glaucome associé.
 
@@ -106,7 +102,7 @@ C'est le stade de cécité totale avec toutefois une persistance des perceptions
 
 - On mesurera le tonus oculaire afin de dépister un glaucome associé.
 
-### **3. Complications**
+### 3. Complications
 
 Une cataracte hypermûre non opérée peut être à l'origine de complications.  
 Le cristallin peut :
@@ -119,7 +115,7 @@ Dans les deux cas, le diagnostic de ces complications est évoqué chez un malad
 
 Beaucoup plus rarement, une cataracte hypermûre peut se luxer, soit dans la chambre antérieure de l'oeil, soit dans le vitré, entraînant des complications inflammatoires et hypertoniques.
 
-## **IV. Bilan préopératoire**
+## IV. Bilan préopératoire
 
 - Bilan sanguin standard préopératoire.
 
@@ -129,41 +125,37 @@ Beaucoup plus rarement, une cataracte hypermûre peut se luxer, soit dans la cha
 
 Grâce à un logiciel adapté, on pourra ainsi déterminer la puissance dioptique du cristallin artificiel qui sera implanté au cours de l'opération.
 
-
 ![](i708-3.jpg)
 
-
-## **V. Traitement**
+## V. Traitement
 
 Le traitement de la cataracte est exclusivement chirurgical.
 
-La technique la plus ancienne, connue depuis l'antiquité et pratiquée encore jusqu'au XIX<sup>e</sup> siècle en Europe, consistait à luxer le cristallin dans le vitré grâce à un stylet introduit dans l'oeil au niveau de la sclère. Cette technique d'abaissement du cristallin, peu fiable, est encore largement pratiquée par les guérisseurs africains connus sous le nom de sidibés (_photos_ _n° 1 et n° 2)._
+La technique la plus ancienne, connue depuis l'antiquité et pratiquée encore jusqu'au XIX<sup>e</sup> siècle en Europe, consistait à luxer le cristallin dans le vitré grâce à un stylet introduit dans l'oeil au niveau de la sclère. Cette technique d'abaissement du cristallin, peu fiable, est encore largement pratiquée par les guérisseurs africains connus sous le nom de sidibés (*photos* *n° 1 et n° 2).*
 
 Les techniques modernes introduites par Jacques Daviel en 1745 consistent en une extraction du cristallin, rétablissant ainsi la transparence des milieux.
 
 L'oeil privé du cristallin est dit aphake et perd une très grande partie de sa puissance réfractive. L'image d'un objet situé à l'infini se trouvera donc complètement défocalisée. Pour voir net, un aphake devra donc porter des verres correcteurs positifs très puissants, en général + 12 dioptries.
 
-
 ![](i708-4.jpg)
-
 
 **Les différentes techniques d'extraction** **du cristallin**
 
-### **1. La chirurgie intracapsulaire**
+### 1. La chirurgie intracapsulaire
 
 Est une ablation complète du cristallin avec son enveloppe.
 
-_Avantage_ : technique relativement simple pouvant être pratiquée même sans microscope opératoire.
+*Avantage* : technique relativement simple pouvant être pratiquée même sans microscope opératoire.
 
-_Inconvénient_ : ne permet qu'une implantation en chambre antérieure plus risquée à long terme pour la cornée (risque de dystrophie cornéenne tardive).
+*Inconvénient* : ne permet qu'une implantation en chambre antérieure plus risquée à long terme pour la cornée (risque de dystrophie cornéenne tardive).
 
-### **2. La chirurgie extracapsulaire**
+### 2. La chirurgie extracapsulaire
 
 Consiste à vider le contenu du sac cristallinien par aspiration en s'aidant éventuellement d'un appareil à ultrasons (phakoémulsification) :
 
-_Avantage_ : permet de mettre en place un implant de chambre postérieure beaucoup mieux supporté à long terme (pas de risque de dystrophie cornéenne).
+*Avantage* : permet de mettre en place un implant de chambre postérieure beaucoup mieux supporté à long terme (pas de risque de dystrophie cornéenne).
 
-_Inconvénient_ : technique plus sophistiquée nécessitant un apprentissage plus difficile et ne pouvant être réalisée que sous microscope opératoire ; opacification secondaire fréquente de la capsule postérieure nécessitant une réinvention : ouverture de la capsule postérieure soit au laser YAG, soit à l'aiguille.
+*Inconvénient* : technique plus sophistiquée nécessitant un apprentissage plus difficile et ne pouvant être réalisée que sous microscope opératoire ; opacification secondaire fréquente de la capsule postérieure nécessitant une réinvention : ouverture de la capsule postérieure soit au laser YAG, soit à l'aiguille.
 
 Malheureusement ces verres sont à l'origine de très importantes aberrations optiques :
 
@@ -177,11 +169,9 @@ Les lentilles de contact souples ou dures, beaucoup plus satisfaisantes d'un poi
 
 Depuis le début des années 1980, la correction de l'aphakie par implantation de cristallin artificiel s'est généralisée.
 
-
 ![](i708-5.jpg)
 
-
-## **VI. Quelle chirurgie pour l'Afrique ?**
+## VI. Quelle chirurgie pour l'Afrique ?
 
 Le problème est loin d'être résolu. Une certitude : l'abaissement du cristallin pratiqué par les guérisseurs dans des conditions d'hygiène déplorable doit être proscrit.
 
@@ -191,8 +181,8 @@ La chirurgie intracapsulaire suivie d'une implantation en chambre antérieure es
 
 La chirurgie extracapsulaire avec implantation en chambre postérieure est la technique de référence largement plébiscitée dans les pays industrialisés. Malheureusement, elle n'est pas toujours réalisable en Afrique par manque de personnel qualifié et d'équipement (microscope opératoire et éventuellement laser YAG pour traiter les cataractes secondaires très fréquentes).
 
-### **Conclusion**
+### Conclusion
 
 Depuis une dizaine d'années, la chirurgie de la cataracte a considérablement progressé et est devenue extrêmement fiable, permettant une réhabilitation totale de la vue des patients avec un risque de complications postopératoires minime. Les progrès décisifs n'ont pas encore atteint pleinement les pays du tiers-monde et le problème majeur de santé publique posé par la cataracte ne pourra être valablement abordé que dans le cadre général d'une véritable politique d'aide et de développement des pays d'Afrique.
 
-_Développement et Santé, n° 126, décembre 1996_
+*Développement et Santé, n° 126, décembre 1996*

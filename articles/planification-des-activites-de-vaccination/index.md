@@ -303,7 +303,7 @@ par an (3)</td>
 
 </table>
 
-(1) : F = stratégie fixe ; A = stratégie avancée.  
+\(1\) : F = stratégie fixe ; A = stratégie avancée.  
 (2) : Six injections par enfant de 0-11 mois + 2 injections par femme enceinte.  
 (3) : Il s’agit d’un nombre minimal. Cependant, le nombre de séances peut être augmenté afin d’améliorer la couverture vaccinale.  
 (4) : On a regroupé les personnes cibles bénéficiant de la vaccination en poste fixe au centre de santé de la localité A.

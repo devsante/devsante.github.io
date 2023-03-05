@@ -20,8 +20,7 @@ Quatre cents espèces (protéroglyphes et solénoglyphes) seraient susceptibles 
 
 **I. Classification** **des serpents**
 
-Voir _tableau n°1_ _:_ **Classification générale** et _tableau n°2 :_ **Cinq genres res_ponsables d'accidents graves._**
-
+Voir *tableau n°1* *:* **Classification générale** et *tableau n°2 :* **Cinq genres res_ponsables d'accidents graves.\_**
 
 ![](i783-1.jpg)
 
@@ -29,45 +28,44 @@ Voir _tableau n°1_ _:_ **Classification générale** et _tableau n°2 :_ **Cinq
 
 ![](i783-3.jpg)
 
-
 **Il.** **Physiopathologie**
 
 Les conséquences de l'envenimation dépendent des qualités du venin différentes selon les genres et les espèces.
 
 Les recherches entreprises ont permis d'affirmer que :
 
-*   Plus de la moitié des individus mordus par des serpents venimeux, potentiellement mortels, ne présentaient aucun trouble majeur révélant ainsi une absence d'envenimation.
+- Plus de la moitié des individus mordus par des serpents venimeux, potentiellement mortels, ne présentaient aucun trouble majeur révélant ainsi une absence d'envenimation.
 
-*   Rien ne permet de prévoir comment va évoluer la morsure d'un serpent.
+- Rien ne permet de prévoir comment va évoluer la morsure d'un serpent.
 
-*   Une première envenimation provoque l'immunité contre le venin de l'espèce, ce qui ouvre la voie de l'immunisation active des individus et des populations à hauts risques,
+- Une première envenimation provoque l'immunité contre le venin de l'espèce, ce qui ouvre la voie de l'immunisation active des individus et des populations à hauts risques,
 
 L'effet toxique d'un venin de serpent est variable en fonction de certains facteurs :
 
-*   poids du sujet,
-*   quantité de venin injecté, - endroit du corps où le venin a été injecté (les morsures à la tête et au cou sont plus dangereuses),
-*   sensibilité propre à l'individu, toujours plus grave chez l'enfant, ou selon l'état de santé et les tares éventuelles,
-*   virulence d'un même venin selon la région (toujours plus grave en zone exotique).
+- poids du sujet,
+- quantité de venin injecté, - endroit du corps où le venin a été injecté (les morsures à la tête et au cou sont plus dangereuses),
+- sensibilité propre à l'individu, toujours plus grave chez l'enfant, ou selon l'état de santé et les tares éventuelles,
+- virulence d'un même venin selon la région (toujours plus grave en zone exotique).
 
 Deux grands syndromes sont individualisables le syndrome vipérin (vipéridés et crotalidés) et le syndrome cobraïque (élapidés).
 
-*   **Syndrome vipérin**
+- **Syndrome vipérin**
 
 Le venin va provoquer
 
-- un _oedème local_ par libération d'histamine,
+- un *oedème local* par libération d'histamine,
 
-_- une hypotension artérielle_ par activation des bradykinines,
+*- une hypotension artérielle* par activation des bradykinines,
 
-_-_ un syndrome hémorragique par coagulopathie de consommation.
+*-* un syndrome hémorragique par coagulopathie de consommation.
 
-*   **Syndrome cobraïque**
+- **Syndrome cobraïque**
 
 Le venin très neurotoxique va provoquer :
 
-_- des paralysies_ en particulier respiratoires par curarisation,
+*- des paralysies* en particulier respiratoires par curarisation,
 
-- _une cordiotoxicité_ avec collapsus cardio-vasculaire.
+- *une cordiotoxicité* avec collapsus cardio-vasculaire.
 
 **III.** **Symptomatologie** **clinique**
 
@@ -77,9 +75,11 @@ La douleur de morsure est intense, immédiate, de type " brûlure ". Lors de l'e
 
 **2. Effets généraux**
 
-*   **Agitation,** angoisse, malaise général, douleurs musculaires diffuses.
+- **Agitation,** angoisse, malaise général, douleurs musculaires diffuses.
 
-*   **Signes digestifs**
+- **Signes digestifs**
+
+<!-- -->
 
 - nausées, vomissements,
 
@@ -87,25 +87,31 @@ La douleur de morsure est intense, immédiate, de type " brûlure ". Lors de l'e
 
 - diarrhée profuse.
 
-*   **Effets hémodynamiques**
+<!-- -->
 
-*   hypotension artérielle,
-*   collapsus et choc hypovolémique.
+- **Effets hémodynamiques**
 
-*   **Insuffisance rénale oligo-anurique**
+- hypotension artérielle,
+
+- collapsus et choc hypovolémique.
+
+- **Insuffisance rénale oligo-anurique**
 
 (liée à l'hypovolémie)
 
 - fonctionnelle (réversible), puis organique (irréversible).
 
-*   **Effets hématotoxiques** (maximum au deuxième jour)
+<!-- -->
 
-*   hémolyse aiguë intravasculaire,
+- **Effets hématotoxiques** (maximum au deuxième jour)
 
-*   syndrome hémorragique externe ou interne,
-*   gingivorragies, hémoptysies, ecchymoses...
+- hémolyse aiguë intravasculaire,
 
-*   **Effets neurotoxiques**
+- syndrome hémorragique externe ou interne,
+
+- gingivorragies, hémoptysies, ecchymoses...
+
+- **Effets neurotoxiques**
 
 L'atteinte des muscles du carrefour glosso-pharyngo-laryngé et des muscles respiratoires se manifestera par :
 
@@ -113,46 +119,50 @@ L'atteinte des muscles du carrefour glosso-pharyngo-laryngé et des muscles resp
 
 - une dyspnée laryngée haute ou basse.
 
-*   La mort consécutive à toutes ces atteintes peut être rapide (quelques minutes, en particulier dans les morsures du cou et de la tête) ou plus longue (quelques heures) dans les douleurs et l'angoisse.
+<!-- -->
 
+- La mort consécutive à toutes ces atteintes peut être rapide (quelques minutes, en particulier dans les morsures du cou et de la tête) ou plus longue (quelques heures) dans les douleurs et l'angoisse.
 
 ![](i783-4.jpg)
-
 
 **IV. Traitement en Afrique**
 
 **Dans tous les cas**
 
-*   Victime au repos complet, allongée.  
-*   Sérothérapie antitétanique et vaccin antitétanique au moindre doute.  
-*   Désinfection locale soigneuse (Dakin).  
-*   Immobilisation du membre avec légère gêne au retour veineux :
+- Victime au repos complet, allongée.
+- Sérothérapie antitétanique et vaccin antitétanique au moindre doute.
+- Désinfection locale soigneuse (Dakin).
+- Immobilisation du membre avec légère gêne au retour veineux :
+
+<!-- -->
 
 - bande non compressive,
 
 - attelle.
 
-*   Calmer l'agitation pour freiner la circulation sanguine.
+<!-- -->
+
+- Calmer l'agitation pour freiner la circulation sanguine.
 
 **Grade 0**
 
 Absence d'envenimation : retour au domicile après vingt-quatre heures de surveillance.
 
-
 ![](i783-5.jpg)
-
 
 **Pour tous les autres grades : hospitalisation**
 
-*   Voie veineuse périphérique
+- Voie veineuse périphérique
 
-*   Calmer l'agitation pour freiner la circulation sanguine.
+- Calmer l'agitation pour freiner la circulation sanguine.
 
-*   Calmer l'angoisse : Tranxène® intramusculaire : 1 mg/kg/ en 1 fois.
+- Calmer l'angoisse : Tranxène® intramusculaire : 1 mg/kg/ en 1 fois.
 
-*   Calmer les douleurs : paracétamol : 60 mg/kg/24 heures en 4 fois.
+- Calmer les douleurs : paracétamol : 60 mg/kg/24 heures en 4 fois.
 
-*   _Antibiothérapie systématique :_
+- *Antibiothérapie systématique :*
+
+<!-- -->
 
 - Pénicilline-Flagyl® IV ou Ampicilline-Flagyl® IV comme prévention de la gangrène ou d'une surinfection constante (attention au pyocyanique car c'est là un terrain de prédilection).
 
@@ -162,31 +172,30 @@ Métronidazole : 40 mg/kg/jour en 4 perfusions
 
 Ampicilline : 200 mg/kg/jour en 4 fois
 
-_Corticothérapie systématique_ à visée anti-inflammatoire et prévention des effets secondaires de la sérothérapie : Dexaméthasone® IV 0,6 mg/kg/jour en 4 fois.
+*Corticothérapie systématique* à visée anti-inflammatoire et prévention des effets secondaires de la sérothérapie : Dexaméthasone® IV 0,6 mg/kg/jour en 4 fois.
 
-_Calciparine sous-cutanée :_ 0,1 ml/10 kg de poids en 1 fois.
+*Calciparine sous-cutanée :* 0,1 ml/10 kg de poids en 1 fois.
 
-*   1/2 dose au lieu de la morsure et 1/2 dose à la racine du membre dans les 30 minutes qui suivent la morsure mais, passé ce délai, injecter la dose totale à la racine du membre.
+- 1/2 dose au lieu de la morsure et 1/2 dose à la racine du membre dans les 30 minutes qui suivent la morsure mais, passé ce délai, injecter la dose totale à la racine du membre.
 
-_Héparine standard :_ 300 à 500 Ul/kg/jour en perfusion IV.
+*Héparine standard :* 300 à 500 Ul/kg/jour en perfusion IV.
 
 (Isocoagulation au TCA: dose normale (400 à 600 Ul/kg/jour)
 
 ou
 
-Calciparine sous-cutanée : 150 Ul/kg/jour en 2 à 3 fois, _tant qu'il existe d'importants_ _signes locaux._
+Calciparine sous-cutanée : 150 Ul/kg/jour en 2 à 3 fois, *tant qu'il existe d'importants* *signes locaux.*
 
-*   **Sérum antivenimeux** (protocole OMS)
+- **Sérum antivenimeux** (protocole OMS)
 
 D'un avis général actuellement, il s'impose le plus tôt possible.
 
 Prévoir l'éventualité rare de choc anaphylactique :
 
-*   1 seringue avec 7 mg/kg HHC ( hémisuccinate hydro-cortisone (IV)
-*   1 seringue avec 1 mg/kg Phénergan® (IVL)
-*   1 seringue avec 0,25 mg adrénaline dans 10 ml de sérum physiologique (1ml lV à renouveler)
-*   1 flacon d'albumine 4 % ou Haemaccel® (20 mg/kg en 30 minutes)
-
+- 1 seringue avec 7 mg/kg HHC ( hémisuccinate hydro-cortisone (IV)
+- 1 seringue avec 1 mg/kg Phénergan® (IVL)
+- 1 seringue avec 0,25 mg adrénaline dans 10 ml de sérum physiologique (1ml lV à renouveler)
+- 1 flacon d'albumine 4 % ou Haemaccel® (20 mg/kg en 30 minutes)
 
 ![](i783-6.jpg)
 
@@ -198,14 +207,13 @@ Prévoir l'éventualité rare de choc anaphylactique :
 
 ![](i783-10.jpg)
 
-
 **Administrer :**
 
 - chaque fois que possible du sérum monovalent correspondant à l'espèce du serpent;
 
 - dans les autres cas, du sérum polyvalent.
 
-_Posologie,_ selon le grade :
+*Posologie,* selon le grade :
 
 Grade 1 : 1 à 2 ampoules (10 à 20 ml) quel que soit le poids, en sous-cutané :
 
@@ -221,7 +229,9 @@ Grade 3 : Identique au grade 2 mais la dose de sérum antivenimeux administrée 
 
 Une deuxième voie veineuse est indispensable pour la prévention d'un choc anaphylactique, la correction d'un choc hypovolémique ou celle d'une acidose métabolique, etc.
 
-*   **Réanimation (grade 3) :**
+- **Réanimation (grade 3) :**
+
+<!-- -->
 
 - réanimation adaptée des désordres vitaux,
 
@@ -229,23 +239,23 @@ Une deuxième voie veineuse est indispensable pour la prévention d'un choc anap
 
 - ventilation assistée parfois nécessaire (syndrome cobraïque, myotoxique).
 
-*   **Cas particulier des nécroses**
+<!-- -->
+
+- **Cas particulier des nécroses**
 
 Parage précoce:
 
-*   Mise à plat des phlyctènes.
+- Mise à plat des phlyctènes.
 
-*   Le débridement vise à libérer les muscles sous-jacents pour lever un garrot interne dans l'axe du membre. On procède ensuite à l'irrigation au Dakin ou à l'eau oxygénée.
+- Le débridement vise à libérer les muscles sous-jacents pour lever un garrot interne dans l'axe du membre. On procède ensuite à l'irrigation au Dakin ou à l'eau oxygénée.
 
-*   Excision du tissu cellulaire sous-cutané contus et souillé : elle doit être complète avant six heures.
+- Excision du tissu cellulaire sous-cutané contus et souillé : elle doit être complète avant six heures.
 
-*   Excision secondaire des plaques de nécrose en restant le plus conservateur possible : mise à nu de larges surfaces (la mise à nu risque d'être étendue).
+- Excision secondaire des plaques de nécrose en restant le plus conservateur possible : mise à nu de larges surfaces (la mise à nu risque d'être étendue).
 
-*   Secondairement, on pratiquera, si nécessaire, des réparation-sutures, des greffes dermo-épidermiques, et une rééducation fonctionnelle.
-
+- Secondairement, on pratiquera, si nécessaire, des réparation-sutures, des greffes dermo-épidermiques, et une rééducation fonctionnelle.
 
 ![](i783-11.jpg)
-
 
 **V. Surveillance**
 
@@ -259,9 +269,9 @@ Celle-ci est avant tout clinique.
 
 **Surveillance générale**
 
-*   hémodynamique (pouls, tension)
-*   rénale (diurèse),
-*   pulmonaire avec risque d'oedème pulmonaire (lésionnel ou de surcharge) et risque de paralysie respiratoire.
+- hémodynamique (pouls, tension)
+- rénale (diurèse),
+- pulmonaire avec risque d'oedème pulmonaire (lésionnel ou de surcharge) et risque de paralysie respiratoire.
 
 **Bilan sanguin**
 
@@ -275,4 +285,4 @@ Celle-ci est avant tout clinique.
 
 Il ressort de cet exposé l'importance de l'éducation. La plupart des espèces venimeuses n'attaquent l'homme que pour se défendre et se protéger. Il est indispensable de respecter des normes élémentaires de sécurité en zone tropicale telles que porter des chaussures par exemple. Il faut être encore plus vigilant la nuit, ou en terrain inconnu.
 
-_Développement et Santé, n° 135, juin 1998_
+*Développement et Santé, n° 135, juin 1998*

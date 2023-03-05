@@ -6,13 +6,13 @@ date: "1994-08-01"
 
 Les traitements locaux connaissent un grand succès auprès des malades de tous les pays atteints d'affections cutanées car l'application d'une lotion ou d'une pommade directement sur la lésion est spectaculaire et logique. Cependant, il faut garder en mémoire quelques règles simples de prescription de ce type de traitement.
 
-### **1. Respecter les indications du traitement local**
+### 1. Respecter les indications du traitement local
 
 Paradoxalement, le traitement par voie générale est souvent plus efficace que la voie locale dans beaucoup de maladies ou symptômes dermatologiques.
 
 Exemple : l'urticaire doit être traité par voie générale (par un antihistaminique).
 
-### **2. Les formes galéniques**
+### 2. Les formes galéniques
 
 doivent être utilisées en fonction du type de lésion et de sa localisation. Les formes
 
@@ -24,7 +24,7 @@ doivent être utilisées en fonction du type de lésion et de sa localisation. L
 
 Se rappeler que les pommades se transforment en huile à la chaleur, si possible les stocker dans un endroit frais.
 
-### **3. Tous les produits sous forme de tube, pot, bouteille**
+### 3. Tous les produits sous forme de tube, pot, bouteille
 
 risquent d'être contaminés dès qu'ils sont ouverts. Il faut systématiquement jeter tout produit ouvert depuis plus de quinze jours.
 
@@ -32,9 +32,9 @@ Il faut donc prévoir le volume du récipient en fonction de la fréquence d'uti
 
 Ne jamais oublier qu'il existe un effet placebo non négligeable avec les produits locaux, d'où leur succès. Il peut s'agir là de l'effet désiré : par exemple, en cas de démangeaison (prurit) chronique sans cause retrouvée ou si la cause a déjà été traitée, un produit local comme la vaseline est à recommander car elle graisse la peau, ce qui diminue le prurit et c'est un produit dénué d'effet secondaire et peu coûteux.
 
-## **I. Les antiseptiques**
+## I. Les antiseptiques
 
-### **1. Règles générales**
+### 1. Règles générales
 
 Ces produits servent à désinfecter la peau saine en prévision d'un acte médical (vaccination, chirurgie), ou lésée pour éviter une infection.
 
@@ -44,31 +44,27 @@ Le choix de l'antiseptique dépend du caractère préventif ou curatif de son em
 
 Deux à trois antiseptiques différents suffisent largement à la pratique médicale en dermatologie. Dans la même catégorie d'antiseptique, choisir le moins cher localement.
 
-### **2. Précautions particulières**
+### 2. Précautions particulières
 
 • Ne pas appliquer successivement deux antiseptiques différents: risque d'incompatibilité, d'irritation ou d'allergie.
 
 • Attention aux dilutions des antiseptiques concentrés ou en poudre : risque de brûlure de la peau et de toxicité (pour le jeune enfant) si la concentration est trop importante et risque d'inefficacité si la dilution est trop faible.
 
-
 ![](i605-1.jpg)
-
-
 
 ![](i605-2.jpg)
 
+## II. Les antibiotiques locaux
 
-## **II. Les antibiotiques locaux**
+### 1. Règles générales
 
-### **1. Règles générales**
+- Ils ne remplacent pas les antibiotiques par voie générale, même en cas d' infection localisée.
+- Ils sont souvent allergisants.
+- Ils sont moins efficaces que la plupart des antiseptiques pour la désinfection des plaies.
+- Ils sont plus chers que les antiseptiques.
+- De ces constatations, on déduit que les indications des antibiotiques locaux sont très réduites. En pratique, on utilise les antibiotiques locaux pour la prévention de la gonococcie néonatale à la naissance (collyre ou pommade ophtalmique à la tétracycline) et le traitement de la conjonctivite bactérienne.
 
-*   Ils ne remplacent pas les antibiotiques par voie générale, même en cas d' infection localisée.  
-*   Ils sont souvent allergisants.  
-*   Ils sont moins efficaces que la plupart des antiseptiques pour la désinfection des plaies.  
-*   Ils sont plus chers que les antiseptiques.  
-*   De ces constatations, on déduit que les indications des antibiotiques locaux sont très réduites. En pratique, on utilise les antibiotiques locaux pour la prévention de la gonococcie néonatale à la naissance (collyre ou pommade ophtalmique à la tétracycline) et le traitement de la conjonctivite bactérienne.
-
-### **2. Précautions d'usage**
+### 2. Précautions d'usage
 
 Les formes crème et pommade sont rapidement contaminées après l'ouverture du conditionnement, il faut les jeter systématiquement après quinze jours d'utilisation.
 
@@ -78,9 +74,9 @@ préférable, après savonnage et rinçage, d'utiliser un antiseptique local plu
 
 En cas d'impétigo étendu, érysipèle, anthrax, abcès, il faut donner un antibiotique général (Pénicilline M ou G), plus ou moins associé à un geste chirurgical pour l'abcès.
 
-## **III. Dermocorticoïdes**
+## III. Dermocorticoïdes
 
-### **1. Règles générales**
+### 1. Règles générales
 
 Ils ont des indications rigoureuses en dermatologie limitées à :
 
@@ -92,22 +88,21 @@ Ils ont des indications rigoureuses en dermatologie limitées à :
 
 Malheureusement, ils sont souvent utilisé~ abusivement pour d'autres affections :
 
-- _piqûres d'insectes. urticaire :_ le meilleur traitement est un antihistaminique par voie générale.
+- *piqûres d'insectes. urticaire :* le meilleur traitement est un antihistaminique par voie générale.
 
-- _dépigmentation :_ nécessité d'application< répétées pendant plusieurs mois avec comme conséquence. l'apparition d'effets secondaires parfois irrémédiables (cf. Précautions d'emploi),
+- *dépigmentation :* nécessité d'application< répétées pendant plusieurs mois avec comme conséquence. l'apparition d'effets secondaires parfois irrémédiables (cf. Précautions d'emploi),
 
-- _prurit :_ devant tout prurit, il faut évoquer d'abord une parasitose cutanée (pédiculose gale) qui sera aggravée par l'application de dermocorticoïdes.
+- *prurit :* devant tout prurit, il faut évoquer d'abord une parasitose cutanée (pédiculose gale) qui sera aggravée par l'application de dermocorticoïdes.
 
 Il existe quatre classes de dermocorticoïde correspondant à quatre degrés d'efficacité différente mais aussi de toxicité différente Il faut respecter scrupuleusement les indications de chaque classe de dermocorticoïdes
 
 La classe I contient les dermocorticoïdes à plus forte action et donc à plus fort risque de toxicité.
 
-###   
-**2. Précautions, effets secondaires**
+### 2. Précautions, effets secondaires
 
 Les effets secondaires apparaissent lors de l'application répétée et prolongée des dermocorticoïdes.
 
-_a) Effets secondaires cutanés_
+*a) Effets secondaires cutanés*
 
 - dermite (surtout chez le nourrisson), - atrophie cutanée, - couperose,
 
@@ -127,11 +122,11 @@ d'une parasitose.
 
 Il faut traiter toute infection et parasitose cutanée préalablement à l'application de dermocorticoïdes.
 
-_b) Effets systémiques_
+*b) Effets systémiques*
 
 Il s'agit d'un risque réel en cas d'application prolongée d'un dermocorticoïde à forte efficacité (classes I et II), surtout chez le nourrisson et les personnes âgées. Les effets sont les mêmes que ceux observés avec les corticoïdes par voie générale (oedèmes, HTA...).
 
-_c) Précautions d'emploi_
+*c) Précautions d'emploi*
 
 Choisir, pour commencer, un dermocorticoïde de classe II pour un adulte, de classe III pour un nourrisson ou un jeune enfant.
 
@@ -141,46 +136,41 @@ appliquer un dermocorticoïde de classe I chez un nourrisson.
 
 Continuer le traitement, dès qu'une amélioration est notée, par un dermocorticdide de classe III pour un adulte (ou IV pour un nourrisson ou un jeune enfant), ou espacer les applications du même dermocorticoïde (une fois par jour, puis une fois tous les deux jours). Ne jamais arrêter brutalement un traitement dermocorticôide prolongé (plus de dix jours) car il existe un risque de rechute, en particulier pour l'eczéma.
 
-## **IV. Les antiparasitaires**
+## IV. Les antiparasitaires
 
-### **1. Règles générales**
+### 1. Règles générales
 
 Ne pas entreprendre de traitement antiparasitaire sans s'être assuré que la personne et toutes les personnes vivant sous le même toit peuvent se traiter en même temps et qu'elles peuvent prendre une douche ou un bain sur place ou à domicile. Il faut également prévoir un changement de vêtement au moment du traitement.
 
-### **2. Précaution d'emploi**
+### 2. Précaution d'emploi
 
-• Adapter le choix du produit et surtout la _durée d'application_ de l'antiparasitaire à l'âge : risque de toxicité en cas d'application prolongée chez le jeune enfant.
+• Adapter le choix du produit et surtout la *durée d'application* de l'antiparasitaire à l'âge : risque de toxicité en cas d'application prolongée chez le jeune enfant.
 
 • Avant de conclure qu'un produit parasitaire est inefficace, s'assurer que les soins d'hygiène daccompagnement (bain ou douche, changement de vêtements et de literie) ont été effectués pour toute la famille en même temps.
 
-
 ![](i605-3.jpg)
-
 
 • Si les soins dhygiène sont impossibles à cause du manque deau (saison sèche) il vaut mieux renoncer au traitement antiparasitaire.
 
 • Si les soins d'hygiène sont faits sur place, il faut s'assurer que la désinfection du lieu est possible (avec de Ieau de Javel à 12° diluée) entre chaque famille et en fin de journée.
 
-_Voir tableau n°7._
+*Voir tableau n°7.*
 
-## **V. Divers**
+## V. Divers
 
-### **1. Cicatrisants**
+### 1. Cicatrisants
 
-_Voir tableau n°8_
+*Voir tableau n°8*
 
-### **2. Antiprurigineux**  
+### 2. Antiprurigineux
+
 Rappels :
 
 La première cause de prurit (démangeaison) est la gale (et les poux). Seul le naheI ment antlpaiasitaire est définitivement efficace dans ce cas.
 
-
 ![](i605-4.jpg)
 
-
-
 ![](i605-5.jpg)
-
 
 • Le meilleur moyen thérapeutique contre le prurit est la prise d'antihistaminiques type Dexchlorpheniramine (Polaramine®) par voie générale.
 
@@ -190,15 +180,15 @@ La première cause de prurit (démangeaison) est la gale (et les poux). Seul le 
 
 • La simple application de vaseline peut suffire à calmer un prurit.
 
-### **3. Kératolytiques**
+### 3. Kératolytiques
 
-_Voir tableau n° 9._
+*Voir tableau n° 9.*
 
-### **4. Antifongiques**
+### 4. Antifongiques
 
-_Voir tableau n° 10._
+*Voir tableau n° 10.*
 
-### **5. Dépigmentants**
+### 5. Dépigmentants
 
 Ils sont pour la plupart très toxiques, en particulier la crème des " Trois Fleurs d'Orient" et le trio dépigmentant, en cas d'applications
 

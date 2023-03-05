@@ -11,13 +11,13 @@ C'est dire si l'infirmier doit réagir rapidement devant toute suspicion d'infec
 
 Dans la grande majorité des cas, devant une suspicion d'infection, le traitement antibiotique est démarré de manière empirique sans attendre les résultats des prélèvements.
 
-En fonction du tableau clinique, il faut parier sur les germes (_Tableau1_).
+En fonction du tableau clinique, il faut parier sur les germes (*Tableau1*).
 
 L'antibiothérapie probabiliste doit être :
 
-*   bactéricide et adaptée au site infectieux suspecté ou identifié : en cas de suspicion de méningite, il faudra choisir un antibiotique qui franchit la barrière méningée ;
-*   active sur le Pneumocoque, même si l'enfant est correctement vacciné et si les parents certifient que le traitement par Oracilline est bien administré ;
-*   large pour être aussi efficace sur _Haemophilus b_ et les salmonelles.
+- bactéricide et adaptée au site infectieux suspecté ou identifié : en cas de suspicion de méningite, il faudra choisir un antibiotique qui franchit la barrière méningée ;
+- active sur le Pneumocoque, même si l'enfant est correctement vacciné et si les parents certifient que le traitement par Oracilline est bien administré ;
+- large pour être aussi efficace sur *Haemophilus b* et les salmonelles.
 
 <table>
 <caption>Tableau 1 : principaux germes à évoquer en fonction du tableau clinique</caption>
@@ -126,10 +126,10 @@ Bacilles Gram - d'origine digestive
 
 Les situations sont bien différentes suivant le tableau :
 
-*   Fièvre isolée,
-*   Syndrome thoracique,
-*   Douleur ostéo-articulaire fébrile,
-*   Syndrome méningé.
+- Fièvre isolée,
+- Syndrome thoracique,
+- Douleur ostéo-articulaire fébrile,
+- Syndrome méningé.
 
 ### 1. Devant une fièvre isolée
 
@@ -137,11 +137,11 @@ Toute fièvre >38,5 chez un enfant drépanocytaire impose une consultation au di
 
 Ce traitement d'urgence est indispensable pour :
 
-*   Tous les enfants de moins de 3 ans avec une fièvre >38,5,
-*   Tous les enfants avec une fièvre >39,5 ou avec une atteinte de l'état général et/ou des troubles de la conscience,
-*   Tout enfant ayant un antécédent de septicémie et/ou présentant une radio pulmonaire anormale une hyperleucocytose >30 000 ou une leucopénie < 5 000 enfin une anémie avec Hg< 6gr/dl.
+- Tous les enfants de moins de 3 ans avec une fièvre >38,5,
+- Tous les enfants avec une fièvre >39,5 ou avec une atteinte de l'état général et/ou des troubles de la conscience,
+- Tout enfant ayant un antécédent de septicémie et/ou présentant une radio pulmonaire anormale une hyperleucocytose >30 000 ou une leucopénie < 5 000 enfin une anémie avec Hg< 6gr/dl.
 
-Pour les autre enfant fébriles, un traitement per os suffit à condition que les parents soient éduqués et fiables et qu'une réévaluation clinique puisse être faite dans les 24 heures. L'Amoxicilline ou mieux l'amoxicilline-Acide clavulanique pendant 5 à 6 jours donnent de bons résultats (_Tableau II_).
+Pour les autre enfant fébriles, un traitement per os suffit à condition que les parents soient éduqués et fiables et qu'une réévaluation clinique puisse être faite dans les 24 heures. L'Amoxicilline ou mieux l'amoxicilline-Acide clavulanique pendant 5 à 6 jours donnent de bons résultats (*Tableau II*).
 
 ### 2. Syndrome thoracique aigu
 
@@ -149,20 +149,20 @@ C'est une complication aigue et grave associant de façon variable : douleur tho
 
 Le traitement comporte :
 
-*   Antibiothérapie : Cefotaxime ou Ceftriaxone IV +macrolides (Erythromycine).  
-*   Transfusion : 2 à 3 ml/kg/heure.  
-*   Antalgiques.  
-*   Oxygénothérapie par voie nasale.  
-*   Hydratation en limitant les volumes à 1,5 à 2 litres/m2/24 heures.  
-*   S'il existe des sibilants à l'auscultation témoins d'un bronchospasme (antécédents d'asthme ?) présents dans 1/4 des cas, il faut ajouter des broncho-dilatateurs (Type Ventoline).
+- Antibiothérapie : Cefotaxime ou Ceftriaxone IV +macrolides (Erythromycine).
+- Transfusion : 2 à 3 ml/kg/heure.
+- Antalgiques.
+- Oxygénothérapie par voie nasale.
+- Hydratation en limitant les volumes à 1,5 à 2 litres/m2/24 heures.
+- S'il existe des sibilants à l'auscultation témoins d'un bronchospasme (antécédents d'asthme ?) présents dans 1/4 des cas, il faut ajouter des broncho-dilatateurs (Type Ventoline).
 
 ### 3. Infections ostéo-articulaires
 
 Les manifestations ostéoarticulaires sont fréquentes dans la drépanocytose et relèvent de 3 mécanismes :
 
-*   **Hyperplasie médullaire** : dans toute anémie hémolytique chronique, il existe une prolifération des cellules souches des globules rouges dans la moelle osseuse : cette prolifération entraîne des déformations osseuses et des douleurs
-*   **Crises vaso-occlusives** : le petit calibre des vaisseaux osseux explique la fréquence de leurs occlusions : syndrome pied-main chez le nourrisson, infarctus diaphysaires chez le plus grand, enfin ostéonécrose de la tête fémorale chez l'adulte.  
-*   **Infection hématogène** (ostéomyélite et arthrite).
+- **Hyperplasie médullaire** : dans toute anémie hémolytique chronique, il existe une prolifération des cellules souches des globules rouges dans la moelle osseuse : cette prolifération entraîne des déformations osseuses et des douleurs
+- **Crises vaso-occlusives** : le petit calibre des vaisseaux osseux explique la fréquence de leurs occlusions : syndrome pied-main chez le nourrisson, infarctus diaphysaires chez le plus grand, enfin ostéonécrose de la tête fémorale chez l'adulte.
+- **Infection hématogène** (ostéomyélite et arthrite).
 
 Les bactériémies sont fréquentes dans la drépanocytose : on comprend que la bactérie soit souvent "piégée" dans les vaisseaux osseux parfois obstrués.
 
@@ -184,7 +184,7 @@ Les méningites à Pneumocoque se rencontrent surtout chez l'enfant de moins de 
 
 La ponction lombaire est donc à faire en urgence chez tout enfant fébrile se plaignant de céphalées + ou - troubles du comportement ?
 
-_L'Haemophilus b_ est possible (la vaccination qui protège à 100 % est très vivement recommandée) le Méningocoque A et W135 en période d'épidémie est plus fréquent que chez l'enfant sain.
+*L'Haemophilus b* est possible (la vaccination qui protège à 100 % est très vivement recommandée) le Méningocoque A et W135 en période d'épidémie est plus fréquent que chez l'enfant sain.
 
 Sans attendre les résultats du laboratoire, il faut administrer une Céphalosporine de 3<sup>ème</sup> génération IV.
 
@@ -305,4 +305,4 @@ clavulanique</th>
 
 Le chloramphénicol huileux est très utilisé dans les méningites, avec une efficacité proche des cephalosporines de 3ème génération chez l'enfant et l'adulte sain : il agit cependant moins rapidement, ce qui est un handicap dans les septicémies et méningites à pneumocoque parfois foudroyantes.
 
-_Développement et Santé, n°182, 2006_
+*Développement et Santé, n°182, 2006*

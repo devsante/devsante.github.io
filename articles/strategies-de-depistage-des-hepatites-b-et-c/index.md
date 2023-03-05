@@ -12,45 +12,55 @@ Le dépistage des hépatites virales B et C s’adresse aux individus à risque
 
 Enfants nés de mère AgHBs+ :
 
-*   Entourage d’un sujet infecté par le virus de l’hépatite B ou  porteur  chronique  de  l’AgHBs  (famille  vivant sous le même toit) ;
-*   Personnes ayant des relations sexuelles avec des partenaires multiples ;
-*   Partenaires  sexuels d’un sujet infecté par le  virus de l’hépatite B ou porteur chronique de l’antigène HBs ;
-*   Voyageurs ou résidents dans les pays de moyenne ou de forte endémie (risque à évaluer au cas par cas) ;
-*   Adultes  accueillis  dans  les  institutions  psychiatriques ;
-*   Toxicomanes  utilisant  des  drogues  par  voie  intra- veineuse ou intra-nasale ;
-*   Polytransfusés  (hémophiles,  dialysés,  insuffisants rénaux, candidats à une greffe d’organe…) ;
-*   Adeptes du tatouage avec effraction cutanée ou du piercing.
+- Entourage d’un sujet infecté par le virus de l’hépatite B ou  porteur  chronique  de  l’AgHBs  (famille  vivant sous le même toit) ;
+- Personnes ayant des relations sexuelles avec des partenaires multiples ;
+- Partenaires  sexuels d’un sujet infecté par le  virus de l’hépatite B ou porteur chronique de l’antigène HBs ;
+- Voyageurs ou résidents dans les pays de moyenne ou de forte endémie (risque à évaluer au cas par cas) ;
+- Adultes  accueillis  dans  les  institutions  psychiatriques ;
+- Toxicomanes  utilisant  des  drogues  par  voie  intra- veineuse ou intra-nasale ;
+- Polytransfusés  (hémophiles,  dialysés,  insuffisants rénaux, candidats à une greffe d’organe…) ;
+- Adeptes du tatouage avec effraction cutanée ou du piercing.
 
 ### 2. Pour l’hépatite C
 
 Selon les recommandations internationales, les personnes suivantes doivent être dépistées :
 
-*   Personnes ayant eu avant 1992 :
-    *   une  intervention  chirurgicale  lourde  (cardiaque, vasculaire, cérébrale, digestive, pulmonaire, gynéco-obstétricale, rachidienne, prothèse de hanche ou genou, etc.) ;
-    *   un séjour en réanimation ;
-    *   un accouchement difficile ;
-    *   une hémorragie digestive ;
-    *   des  soins  à  la  naissance en néonatalogie ou en pédiatrie (grand  prématuré, exsanguino-transfusion) ;
-    *   une greffe de tissus, cellules ou organes ;
-    *   une transfusion.
+- Personnes ayant eu avant 1992 :
 
-*   Patients hémodialysés ;
-*   Utilisateurs de drogue par voie intraveineuse ou pernasale ;
-*   Enfants nés de mère séropositive pour le VHC ;
-*   Partenaires sexuels des personnes atteintes d’hépatite chronique C ;
-*   Membres de l’entourage familial des personnes atteintes d’hépatite chronique C (partage d’objets pouvant être souillés par du sang) ;
-*   Personnes incarcérées ou l’ayant été (partage d’objet coupants, pratiques addictives) ;
-*   Personnes ayant eu un tatouage ou un piercing, de la mésothérapie ou de l’acupuncture réalisés en l’absence de matériel à usage unique ou personnel ;
-*   Personnes originaires des pays à forte prévalence du VHC ou y ayant reçu des soins ;
-*   Patients  ayant  un  taux  d’ALAT  (alanine-aminotransférase)  supérieur à la normale sans cause connue ;
-*   Patients séropositifs pour le VIH ou porteurs du VHB.
+  - une  intervention  chirurgicale  lourde  (cardiaque, vasculaire, cérébrale, digestive, pulmonaire, gynéco-obstétricale, rachidienne, prothèse de hanche ou genou, etc.) ;
+  - un séjour en réanimation ;
+  - un accouchement difficile ;
+  - une hémorragie digestive ;
+  - des  soins  à  la  naissance en néonatalogie ou en pédiatrie (grand  prématuré, exsanguino-transfusion) ;
+  - une greffe de tissus, cellules ou organes ;
+  - une transfusion.
+
+- Patients hémodialysés ;
+
+- Utilisateurs de drogue par voie intraveineuse ou pernasale ;
+
+- Enfants nés de mère séropositive pour le VHC ;
+
+- Partenaires sexuels des personnes atteintes d’hépatite chronique C ;
+
+- Membres de l’entourage familial des personnes atteintes d’hépatite chronique C (partage d’objets pouvant être souillés par du sang) ;
+
+- Personnes incarcérées ou l’ayant été (partage d’objet coupants, pratiques addictives) ;
+
+- Personnes ayant eu un tatouage ou un piercing, de la mésothérapie ou de l’acupuncture réalisés en l’absence de matériel à usage unique ou personnel ;
+
+- Personnes originaires des pays à forte prévalence du VHC ou y ayant reçu des soins ;
+
+- Patients  ayant  un  taux  d’ALAT  (alanine-aminotransférase)  supérieur à la normale sans cause connue ;
+
+- Patients séropositifs pour le VIH ou porteurs du VHB.
 
 ## II. Objectifs du dépistage des hépatites B et C
 
 L’objectif du dépistage des hépatites B et C est double :
 
 1.  Réduire la morbi-mortalité des hépatites virales chroniques.  
-    Il s’agit d’identifier précocement les personnes porteuses d’une infection active pour prévenir la survenue de complications comme la cirrhose hépatique ou le carcinome hépato-cellulaire.  
+    Il s’agit d’identifier précocement les personnes porteuses d’une infection active pour prévenir la survenue de complications comme la cirrhose hépatique ou le carcinome hépato-cellulaire.
 2.  Réduire l’incidence des infections par les VHB et VHC.  
     Il s’agit de proposer la vaccination anti-hépatite B aux sujets à risque non immunisés et à leur entourage, et de leur proposer des conseils de prévention (valables aussi pour les sujets à risque n’ayant jamais rencontré le VHC)  pour limiter les risques de transmission aux sujets  contacts (famille, partenaires sexuels).
 
@@ -444,4 +454,4 @@ potentielle.
 
 La stratégie consiste à rechercher des Ac anti-VHC par un test EIA de 3<sup>ème</sup> génération le plus souvent. En cas d’Ac anti-VHC positifs, un test de contrôle est souvent effectué même s’il n’est pas systématiquement recommandé. Plusieurs tests de contrôle sont possibles : nouveau test EIA, test RIBA ou détection de l’ARN du VHC.
 
-_Développement et Santé, N° 200, 2012_
+*Développement et Santé, N° 200, 2012*

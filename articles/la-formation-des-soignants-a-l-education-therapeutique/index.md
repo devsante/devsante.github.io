@@ -4,7 +4,8 @@ author: "Claire Marchand (1) et Pr. Rémi Gagnayre (2) (1) Format Santé, labora
 date: "2007-11-12"
 ---
 
-## I. Pourquoi est-il nécessaire de se former  
+## I. Pourquoi est-il nécessaire de se former
+
 à l'éducation thérapeutique ?
 
 D'une manière générale, la formation initiale des professionnels de santé (en particulier celle des médecins) reste encore orientée vers la prise en charge curative des maladies, comme si la prescription médicamenteuse suffisait à traiter l'organe déficient. Dans cette approche dite biomédicale, le médecin est considéré comme le référent incontesté. Le patient reste le plus souvent passif, soumis à l'autorité médicale, en attente de la prescription médicale.  
@@ -20,13 +21,13 @@ La maîtrise du contenu (connaissances sur la maladie, son évolution, ses trait
 
 Par ailleurs, la formation à l'éducation thérapeutique donne aussi l'occasion aux soignants de clarifier et de compléter leurs connaissances sur le contenu de la maladie et sur le traitement par les échanges avec différents professionnels. Par exemple, si l'on admet qu'une compétence du patient est :"mettre en oeuvre une conduite à tenir adaptée face à des effets indésirables du traitement", un des objectifs de formation à l'éducation thérapeutique sera de proposer des techniques pédagogiques permettant aux patients de prendre des décisions appropriées lors de la survenue d'effets indésirables lorsqu'ils sont mis sous antirétroviraux (ARV). La première étape consistera à établir avec les participants une liste d'effets indésirables pouvant survenir en fonction des médicaments disponibles (travail sur les connaissances des ARV). Ensuite, il leur sera demandé de proposer une conduite à tenir lors de la survenue de ces effets indésirables (travail sur l'élaboration d'un consensus de décision). Enfin, sous la forme de simulations, des séances d'éducation seront mises en oeuvre pendant lesquelles un soignant tentera de transmettre au patient des conduites à tenir adéquates. Cet exemple montre bien comment la maîtrise du contenu et la réflexion pédagogique sont intimement liées.
 
-Différents programmes de formation peuvent être proposés suivant les fonctions que l'on souhaite occuper et le niveau d'approfondissement des compétences souhaitées. Un minimum de 5 jours permet de développer les compétences de base et d'aborder les principes de la démarche d'éducation thérapeutique. A l'image de ce que devrait être une éducation thérapeutique auprès des patients, la formation comporte de nombreuses activités et simulations permettant de rendre actifs les participants et de faciliter ainsi leur apprentissage. Un exemple de programme de formation en éducation thérapeutique est proposé dans le _tableau 2._
+Différents programmes de formation peuvent être proposés suivant les fonctions que l'on souhaite occuper et le niveau d'approfondissement des compétences souhaitées. Un minimum de 5 jours permet de développer les compétences de base et d'aborder les principes de la démarche d'éducation thérapeutique. A l'image de ce que devrait être une éducation thérapeutique auprès des patients, la formation comporte de nombreuses activités et simulations permettant de rendre actifs les participants et de faciliter ainsi leur apprentissage. Un exemple de programme de formation en éducation thérapeutique est proposé dans le *tableau 2.*
 
 D'autres formations, (différentes en termes d'objectifs et durée), peuvent être envisagées dès lors que l'on souhaite occuper des fonctions de supervision au sein d'un programme d'ETP.
 
 ## III. Quelles sont les compétences des soignants éducateurs ?
 
-Les compétences des professionnels de santé développant des activités d'éducation thérapeutique de patients atteints de maladie chronique ont largement été décrites <sup>(1-3-4).</sup> Nous proposons de les **reprendre en partie en les illustrant à partir de la situation d'un patient _(tableau 1)._**
+Les compétences des professionnels de santé développant des activités d'éducation thérapeutique de patients atteints de maladie chronique ont largement été décrites <sup>(1-3-4).</sup> Nous proposons de les **reprendre en partie en les illustrant à partir de la situation d'un patient *(tableau 1).***
 
 **Tableau 1 : compétences d'éducation thérapeutique mises en oeuvre par les soignants éducateurs pour M. X.**
 
@@ -44,7 +45,7 @@ Les compétences des professionnels de santé développant des activités d'édu
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -128,10 +129,11 @@ nu des consultations d'ETP à venir).</td>
 
 </table>
 
-## IV. Comment aider les soignants à mettre en oeuvre  
+## IV. Comment aider les soignants à mettre en oeuvre
+
 leurs compétences d'éducateur thérapeutique ?
 
-Idéalement, il est préférable que les professionnels des soins et acteurs de santé se forment en s'assurant qu'ils puissent avoir les moyens d'appliquer leurs nouvelles compétences. Il est donc essentiel qu'un programme d'ETP soit implanté dans la structure de soins. Cela permet d'accompagner les professionnels dans la mise en oeuvre de leurs compétences '''. Dans un premier temps, et préalablement à la formation, il s'agit de s'assurer de la présence d'un certain nombre de conditions garantissant en partie la mise en ceuvre du programme d'éducation thérapeutique et son inscription dans la prise en charge thérapeutique des patients vivant avec le VIH (4). ( Un format d'intervention est proposé par Format Santé et consultable sur le site de l'association. [http://www.formatsante.org](http://www.formatsante.org "http://www.formatsante.org"))
+Idéalement, il est préférable que les professionnels des soins et acteurs de santé se forment en s'assurant qu'ils puissent avoir les moyens d'appliquer leurs nouvelles compétences. Il est donc essentiel qu'un programme d'ETP soit implanté dans la structure de soins. Cela permet d'accompagner les professionnels dans la mise en oeuvre de leurs compétences '''. Dans un premier temps, et préalablement à la formation, il s'agit de s'assurer de la présence d'un certain nombre de conditions garantissant en partie la mise en ceuvre du programme d'éducation thérapeutique et son inscription dans la prise en charge thérapeutique des patients vivant avec le VIH (4). ( Un format d'intervention est proposé par Format Santé et consultable sur le site de l'association. [<http://www.formatsante.org>](http://www.formatsante.org "http://www.formatsante.org"))
 
 Cependant, pour garantir la qualité du programme d'éducation thérapeutique, la formation continue des personnes formées, le suivi et la supervision des activités sont indispensables. A ce stade, la désignation et la formation d'un référent, ou d'un coordinateur du programme, peuvent être intéressantes pour favoriser le suivi des activités mais également la formation de nouveaux éducateurs. C'est également par ces conditions que l'on peut assurer la pérennisation du programme d'éducation thérapeutique.
 
@@ -316,11 +318,11 @@ de la formation.</td>
 Note : ce programme est extrait d'un programme élaboré par des formateurs en ETP du Cameroun et du Bénin, au cours d'une formation de formateurs en ETP réalisée par Format Santé dans le cadre d'un partenariat avec la Fondation GlaxoSmithKline.  
 A : Activités.
 
-**_Bibliographie :_**
+***Bibliographie :***
 
-_1. WHO, Therapeutic Patient Education, Continuing education programs for healthcare providers in the field of prevention of chronic diseuse, WHO-Europ, Copenhagen, 1998.  
-2. Marchand C, Gagnayre R. Recommandations pour la mise en oeuvre de programmes d'éducation thérapeutique pour les patients atteints d'infection par le VIH dans des pays à ressources limitées. Format Santé, Laboratoire de pédagogie de la Santé, Université Paris 13, 2003._  
-_3. Marchand C, Pinosa C. Mise en place d'un programme d'éducation thérapeutique. Santé et développement, Spécial Observance, 172, 32-37, 2004._  
-_4.Ivernois (d) JF, Gagnayre R, Vers une démarche de qualité en éducation thérapeutique du patient, ADSP, Actualité et Dossier en Santé Publique, 39, 14-16, 2002._
+*1. WHO, Therapeutic Patient Education, Continuing education programs for healthcare providers in the field of prevention of chronic diseuse, WHO-Europ, Copenhagen, 1998.  
+2. Marchand C, Gagnayre R. Recommandations pour la mise en oeuvre de programmes d'éducation thérapeutique pour les patients atteints d'infection par le VIH dans des pays à ressources limitées. Format Santé, Laboratoire de pédagogie de la Santé, Université Paris 13, 2003.*  
+*3. Marchand C, Pinosa C. Mise en place d'un programme d'éducation thérapeutique. Santé et développement, Spécial Observance, 172, 32-37, 2004.*  
+*4.Ivernois (d) JF, Gagnayre R, Vers une démarche de qualité en éducation thérapeutique du patient, ADSP, Actualité et Dossier en Santé Publique, 39, 14-16, 2002.*
 
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

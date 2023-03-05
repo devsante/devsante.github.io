@@ -26,7 +26,7 @@ Administré par voie orale, intraveineuse ou cutanéomuqueuse, il est remarquabl
 
 **Posologie**
 
-_Per os_ (gélules de 200 mg) : chez l'adulte, 5 comprimés par jour répartis dans la journée.
+*Per os* (gélules de 200 mg) : chez l'adulte, 5 comprimés par jour répartis dans la journée.
 
 Intraveineux (IV en une heure) : 5 à 10 mg/kg, toutes les 8 heures selon la gravité.
 
@@ -36,13 +36,13 @@ Pommade ophtalmique pour herpès oculaire, éventuellement relayée par voie ora
 
 **Indications**
 
-Toutes les infections herpétiques graves, _fréquentes au cours du sida_, mais aussi :
+Toutes les infections herpétiques graves, *fréquentes au cours du sida*, mais aussi :
 
-*   herpès néo-natal (IV) ;
-*   encéphalite herpétique (IV)
-*   herpès génital (comprimés)
-*   varicelle grave - sida - (IV ou comprimés)
-*   zona grave - sida - (IV ou comprimés).
+- herpès néo-natal (IV) ;
+- encéphalite herpétique (IV)
+- herpès génital (comprimés)
+- varicelle grave - sida - (IV ou comprimés)
+- zona grave - sida - (IV ou comprimés).
 
 **Cas particulier de la femme enceinte :**
 
@@ -70,4 +70,4 @@ Exceptionnellement surviennent des convulsions, des hallucinations et des éryth
 
 L'aciclovir n'éradique pas le virus : il empêche sa multiplication. D'où la fréquence des rechutes à l'arrêt du traitement.
 
-_Développement et Santé, n°148, août 2000_
+*Développement et Santé, n°148, août 2000*

@@ -20,17 +20,15 @@ La prise en charge d'un polytraumatisé doit être bien codifiée. La règle des
 
 Trois principes sont à garder à l'esprit lors de la prise en charge d'un polytraumatisé :
 
-*   le pronostic vital est engagé, il faut être rapide et efficace ;
+- le pronostic vital est engagé, il faut être rapide et efficace ;
 
-*   les lésions sont multiples, il faut les reconnaître ;
+- les lésions sont multiples, il faut les reconnaître ;
 
-*   la prise en charge doit être hiérarchisée en tenant compte de l'évolutivité des lésions.
+- la prise en charge doit être hiérarchisée en tenant compte de l'évolutivité des lésions.
 
-Chez le polytraumatisé, le facteur " temps " est prédominant (_figure n° 1_) et deux concepts s'opposent : celui d'une évacuation "non médicalisée" où la priorité est donnée à la rapidité du transport vers une structure adaptée et celui d'un transport médicalisé avec réanimation pré-hospitalière. Le décès est dans 20% des cas en rapport avec une lésion curable. Les causes les plus fréquentes sont la chirurgie trop tardive, les indications opératoires non posées ou incomplètes et la sous-estimation d'une hypovolémie. Un dilemme existe donc, entre la nécessité d'entreprendre sans délai un traitement étiologique souvent chirurgical et l'urgence d'une réanimation symptomatique des détresses vitales chez certains blessés nécessitant une mise en condition avant le transport (état précaire, incarcération, éloignement géographique).
-
+Chez le polytraumatisé, le facteur " temps " est prédominant (*figure n° 1*) et deux concepts s'opposent : celui d'une évacuation "non médicalisée" où la priorité est donnée à la rapidité du transport vers une structure adaptée et celui d'un transport médicalisé avec réanimation pré-hospitalière. Le décès est dans 20% des cas en rapport avec une lésion curable. Les causes les plus fréquentes sont la chirurgie trop tardive, les indications opératoires non posées ou incomplètes et la sous-estimation d'une hypovolémie. Un dilemme existe donc, entre la nécessité d'entreprendre sans délai un traitement étiologique souvent chirurgical et l'urgence d'une réanimation symptomatique des détresses vitales chez certains blessés nécessitant une mise en condition avant le transport (état précaire, incarcération, éloignement géographique).
 
 ![](i817-1.jpg)
-
 
 L'évaluation clinique doit être continue tout au long de la mise en condition et de la réalisation du bilan lésionnel. Nombre de lésions évoluent pour leur propre compte (choc hémorragique), d'autres ne se révèlent que secondairement (insuffisance cardiaque révélée par un remplissage vasculaire, décompensation d'un pneumothorax sous ventilation mécanique).
 
@@ -44,23 +42,17 @@ Il permet de connaître les circonstances de l'accident et le mécanisme lésion
 
 **2. L'évaluation clinique initiale** **recherche 3 détresses vitales**
 
-- _Une détresse hémodynamique_ suspectée devant un blessé pâle, agité ou prostré, couvert de sueurs froides; un temps de recoloration capillaire augmenté; un pouls petit, filant, rapide, perceptible uniquement sur les gros troncs artériels ou au contraire une bradycardie; une pression artérielle effondrée, voire imprenable; un tableau de tamponnade péricardique* associant état de choc et grosses jugulaires _(figure n°2)._
-
+- *Une détresse hémodynamique* suspectée devant un blessé pâle, agité ou prostré, couvert de sueurs froides; un temps de recoloration capillaire augmenté; un pouls petit, filant, rapide, perceptible uniquement sur les gros troncs artériels ou au contraire une bradycardie; une pression artérielle effondrée, voire imprenable; un tableau de tamponnade péricardique\* associant état de choc et grosses jugulaires *(figure n°2).*
 
 ![](i817-2.jpg)
 
-
-- _Une détresse respiratoire_ évoquée devant: une tachypnée superficielle ou au contraire une bradypnée, des pauses respiratoires, des gasps; des signes de lutte pouvant associer battement des ailes du nez, cornage, tirage sus-claviculaire ou intercostal, balancement thoraco-abdominal; des signes d'épuisement avec une respiration paradoxale*; l'immobilité d'un hémithorax, un fracas costal, un volet, une plaie soufflante, un emphysème sous-cutané; une toux douloureuse avec crachats sanglants ou une hémoptysie abondante; une cyanose qui peut être masquée par une déglobulisation ou une vasoconstriction _(figure n_ ° _3)._
-
+- *Une détresse respiratoire* évoquée devant: une tachypnée superficielle ou au contraire une bradypnée, des pauses respiratoires, des gasps; des signes de lutte pouvant associer battement des ailes du nez, cornage, tirage sus-claviculaire ou intercostal, balancement thoraco-abdominal; des signes d'épuisement avec une respiration paradoxale\*; l'immobilité d'un hémithorax, un fracas costal, un volet, une plaie soufflante, un emphysème sous-cutané; une toux douloureuse avec crachats sanglants ou une hémoptysie abondante; une cyanose qui peut être masquée par une déglobulisation ou une vasoconstriction *(figure n* ° *3).*
 
 ![](i817-3.jpg)
 
-
-_- Une détresse neurologique,_ évaluée par le score de Glasgow, la comparaison du diamètre et de la réactivité pupillaire, la recherche d'un déficit _(figure n° 4)_
-
+*- Une détresse neurologique,* évaluée par le score de Glasgow, la comparaison du diamètre et de la réactivité pupillaire, la recherche d'un déficit *(figure n° 4)*
 
 ![](i817-4.jpg)
-
 
 **3. La mise en condition initiale**
 
@@ -82,43 +74,33 @@ _- Une détresse neurologique,_ évaluée par le score de Glasgow, la comparaiso
 
 À l'issue de cette évaluation sommaire et de cette mise en condition initiale, on peut se trouver face à trois situations. La stratégie suivante peut être proposée
 
-_(figure n° 5)._
-
+*(figure n° 5).*
 
 ![](i817-5.jpg)
-
 
 **1. Situation 1 : le blessé** **est en état de détresse extrême**
 
 La mise en condition initiale est inefficace. Dans ce contexte, les examens complémentaires sont réduits au strict minimum.
 
-_La détresse hémodynamique_ est la principale cause de mortalité en urgence. Le collapsus cardio-vasculaire persiste malgré le remplissage vasculaire initial. Le recours à la chirurgie ne doit pas être retardé par des examens complémentaires inutiles si les lésions responsables sont évidentes (hémopéritoine, hémorragie extériorisée). Si les lésions ne sont pas évidentes, un diagnostic lésionnel rapide est souhaitable, orienté sur les circonstances de l'accident et l'examen clinique initial _(encadré n° 1)._
-
+*La détresse hémodynamique* est la principale cause de mortalité en urgence. Le collapsus cardio-vasculaire persiste malgré le remplissage vasculaire initial. Le recours à la chirurgie ne doit pas être retardé par des examens complémentaires inutiles si les lésions responsables sont évidentes (hémopéritoine, hémorragie extériorisée). Si les lésions ne sont pas évidentes, un diagnostic lésionnel rapide est souhaitable, orienté sur les circonstances de l'accident et l'examen clinique initial *(encadré n° 1).*
 
 ![](i817-6.jpg)
 
-
-_La détresse respiratoire_ peut être en rapport avec une obstruction des voies aériennes ou une atteinte pulmonaire. Le rétablissement de la liberté des voies aériennes passe d'abord par le nettoyage de la cavité buccale et du carrefour pharyngé, la protrusion du maxillaire inférieur et la mise en place d'une canule de Guedel, mais le plus souvent il faudra intuber pour assurer une ventilation manuelle ou mécanique. Le fonctionnement de l'échangeur pulmonaire nécessite de rétablir la vacuité pleurale, c'est-à-dire d'évacuer un épanchement d'autant plus mal supporté qu'il est sous pression. La persistance d'une détresse respiratoire ou d'un saignement thoracique abondant (1,5 à 2 litres ou 500 ml/h), chez un patient drainé, intubé et ventilé conduit généralement à poser l'indication d'une thoracotomie en urgence pour une chirurgie d'hémostase ou d'aérostase _(encadré n° 2)._
-
+*La détresse respiratoire* peut être en rapport avec une obstruction des voies aériennes ou une atteinte pulmonaire. Le rétablissement de la liberté des voies aériennes passe d'abord par le nettoyage de la cavité buccale et du carrefour pharyngé, la protrusion du maxillaire inférieur et la mise en place d'une canule de Guedel, mais le plus souvent il faudra intuber pour assurer une ventilation manuelle ou mécanique. Le fonctionnement de l'échangeur pulmonaire nécessite de rétablir la vacuité pleurale, c'est-à-dire d'évacuer un épanchement d'autant plus mal supporté qu'il est sous pression. La persistance d'une détresse respiratoire ou d'un saignement thoracique abondant (1,5 à 2 litres ou 500 ml/h), chez un patient drainé, intubé et ventilé conduit généralement à poser l'indication d'une thoracotomie en urgence pour une chirurgie d'hémostase ou d'aérostase *(encadré n° 2).*
 
 ![](i817-7.jpg)
 
-
-_La détresse neurologique_ est une cause importante de mortalité à la phase initiale et ultérieurement peut être responsable de lourdes séquelles. Le maître signe de la détresse neurologique est l'existence ou l'apparition d'un coma avec ou sans signe de localisation. Plusieurs éléments doivent être ris en compte pour évaluer de manière fiable la détresse neurologique : un état hémodynamique et respiratoire correct, l'absence d'hypothermie profonde, l'absence d'intoxication médicamenteuse et éthylique et l'absence de sédation. Un score de Glasgow < à 7 doit faire poser l'indication d'une intubation endotrachéale afin de protéger les voies aériennes d'une inhalation et de contrôler la ventilation _(encadré n° 3)._
-
+*La détresse neurologique* est une cause importante de mortalité à la phase initiale et ultérieurement peut être responsable de lourdes séquelles. Le maître signe de la détresse neurologique est l'existence ou l'apparition d'un coma avec ou sans signe de localisation. Plusieurs éléments doivent être ris en compte pour évaluer de manière fiable la détresse neurologique : un état hémodynamique et respiratoire correct, l'absence d'hypothermie profonde, l'absence d'intoxication médicamenteuse et éthylique et l'absence de sédation. Un score de Glasgow < à 7 doit faire poser l'indication d'une intubation endotrachéale afin de protéger les voies aériennes d'une inhalation et de contrôler la ventilation *(encadré n° 3).*
 
 ![](i817-8.jpg)
-
 
 **2. Situation 2 : le polytraumatisé** **est dans un état précaire** **mais stabilisé**
 
 La pression artérielle est maintenue au prix d'un remplissage vasculaire mais chute à son arrêt ou à sa diminution. Un bilan lésionnel plus complet peut être entrepris, orienté en fonction de l'état du patient et adapté à l'évolution clinique du blessé (tableau) En l'absence d'échographie abdominale, la ponction lavage du péritoine (PLP) permet de confirmer la présence d'un saignement, mais ne permet pas toujours de faire la différence entre une hémorragie d'origine péritonéale ou rétro péritonéale et d'établir un diagnostic lésionnel.
 
-
 ![](i817-9.jpg)
 
 ![](i817-10.jpg)
-
 
 **3. Situation 3 : il n'y a pas de détresse vitale mettant en jeu le pronostic vital à court terme**
 
@@ -128,10 +110,8 @@ Le collapsus initial se corrige sous remplissage, l'hypoxie régresse sous oxyg�
 
 L'accueil d'un polytraumatisé, qui est l'exemple type d'un patient médico-chirurgical lourd de réanimation, doit se faire dans le cadre de structures disposant d'un plateau technique et d'équipes multidisciplinaires comprenant au moins un anesthésiste-réanimateur, un chirurgien et un radiologue, le laboratoire et la banque de sang devant être avertis.
 
-
 ![](i817-11.jpg)
 
 ![](i817-12.jpg)
 
-
-_Développement et Santé, n° 139, février 1999_
+*Développement et Santé, n° 139, février 1999*

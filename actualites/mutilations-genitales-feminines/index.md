@@ -19,10 +19,10 @@ Les principales conséquences sont les suivantes : douleurs, hémorragies, infec
 
 Selon l'UNICEF, le taux de prévalence baisse d'une manière globale mais lentement, les résultats sont très différenciés selon les pays.
 
-*   Le niveau éducatif a un impact très positif sur le taux de prévalence.  
-*   Le nombre exact de victimes est relativement difficile à connaître. L'impact sur la santé également en raison des modifications intervenant dans l'accès aux soins.  
-*   Du fait de la croissance démographique, il est possible que le nombre de victimes continue d'augmenter actuellement avant d'entamer une décrue ;
-*   Nous ne sommes pas encore en mesure de donner une date pour la fin totale de l'excision, certains pays pourraient assez rapidement l'atteindre quand pour d'autres l'horizon semble plus lointain.
+- Le niveau éducatif a un impact très positif sur le taux de prévalence.
+- Le nombre exact de victimes est relativement difficile à connaître. L'impact sur la santé également en raison des modifications intervenant dans l'accès aux soins.
+- Du fait de la croissance démographique, il est possible que le nombre de victimes continue d'augmenter actuellement avant d'entamer une décrue ;
+- Nous ne sommes pas encore en mesure de donner une date pour la fin totale de l'excision, certains pays pourraient assez rapidement l'atteindre quand pour d'autres l'horizon semble plus lointain.
 
 ### Actions à éviter 
 
@@ -49,11 +49,11 @@ Les études entreprises par l'OMS ont démontré la grave nocivité de la pratiq
 
 Remerciements à tous les experts du sujet et à leurs équipes ainsi que pour la participation de notre forum sœur anglais qui a permis d’avoir également les expériences des pays anglophones sur ce sujet.
 
-[http://www.who.int/entity/evidence/forum/RDV_Mensuel_HIFA-EVIPNETMGF.pdf?ua=1](http://www.who.int/entity/evidence/forum/RDV_Mensuel_HIFA-EVIPNETMGF.pdf?ua=1)
+[<http://www.who.int/entity/evidence/forum/RDV_Mensuel_HIFA-EVIPNETMGF.pdf?ua=1>](http://www.who.int/entity/evidence/forum/RDV_Mensuel_HIFA-EVIPNETMGF.pdf?ua=1)
 
 Il faut également souligner l’article du Lancet récemment publié sur le sujet et traduit en Français par Excisionparlonsen : Ceshia, A. (2015) MGF : la mutilation des filles et des jeunes femmes doit s’arrêter, Lancet, 385, (2)
 
-[http://www.excisionparlonsen.org/wp-content/uploads/2015/02/Article-Lancet_version-FR.pdf](http://www.excisionparlonsen.org/wp-content/uploads/2015/02/Article-Lancet_version-FR.pdf)
+[<http://www.excisionparlonsen.org/wp-content/uploads/2015/02/Article-Lancet_version-FR.pdf>](http://www.excisionparlonsen.org/wp-content/uploads/2015/02/Article-Lancet_version-FR.pdf)
 
 Par Isabelle Wachsmuth  
 Organisation Mondiale de la Santé   
@@ -62,5 +62,5 @@ Réseau de politique reposant sur des bases factuelles
 20 Avenue Appia  
 1211 Geneva  
 Tél:+41227913175  
-Email: [hugueti@who.int](mailto:hugueti@who.int)  
-Website: [www.who.int/evidence/](http://www.who.int/evidence/ "www.who.int/evidence/")
+Email: [<hugueti@who.int>](mailto:hugueti@who.int)  
+Website: [[www.who.int/evidence/](http://www.who.int/evidence/)](http://www.who.int/evidence/ "www.who.int/evidence/")

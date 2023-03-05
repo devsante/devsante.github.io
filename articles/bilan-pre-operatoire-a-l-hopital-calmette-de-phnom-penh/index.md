@@ -13,17 +13,15 @@ L'évaluation comporte un interrogatoire qui porte sur la symptomatologie, les a
 
 C'est un document obligatoire. Il doit comporter :
 
-*   l'identité du patient, son âge, son poids, sa taille,
-*   le motif de l'intervention, la technique chirurgicale envisagée,
-*   les constatations de l'examen clinique, les antécédents et les examens complémentaires,
-*   les résultats des éventuelles consultations de spécialistes,
-*   le protocole anesthésique envisagé.
+- l'identité du patient, son âge, son poids, sa taille,
+- le motif de l'intervention, la technique chirurgicale envisagée,
+- les constatations de l'examen clinique, les antécédents et les examens complémentaires,
+- les résultats des éventuelles consultations de spécialistes,
+- le protocole anesthésique envisagé.
 
 Au terme de ce bilan, on peut déterminer les risques qui peuvent apparaître en per- et postopératoire d'après la classification de l'American Society of Anesthesiologist (ASA) (voir encadré).
 
-
 ![](i822-2.jpg)
-
 
 ## II. Observation
 
@@ -37,8 +35,8 @@ Nous constatons que les patients arrivent à la consultation de pré-anesthésie
 
 L'évaluation clinique pré-opératoire faite par les anesthésistes sous-estime souvent les pathologies médicales associées pour deux raisons principales :
 
-*   les patients ne se savent pas malades, ne prennent aucun traitement. La sous-médicalisation du pays est une explication ;
-*   les évaluateurs manquent parfois de rigueur dans l'appréciation du risque.
+- les patients ne se savent pas malades, ne prennent aucun traitement. La sous-médicalisation du pays est une explication ;
+- les évaluateurs manquent parfois de rigueur dans l'appréciation du risque.
 
 C'est dire l'importance de l'examen clinique et de l'interrogatoire qui permettent d'identifier les anomalies dans la plupart des cas. On sait que le risque augmente avec l'âge, le terrain et l'urgence. On a constaté qu'en chirurgie programmée, les chirurgiens envoyaient leurs patients en consultation pré-anesthésique sans indiquer le diagnostic, l'indication, la technique chirurgicale envisagée, la date et la durée probable de l'intervention.
 
@@ -48,10 +46,10 @@ Pour limiter les coûts inutiles et améliorer la prise en charge des patients, 
 
 **La demande de consultation préanesthésique** faite par le chirurgien doit comporter de façon obligatoire :
 
-*   le diagnostic,
-*   le type d'intervention envisagée,
-*   la date et l'heure prévues pour l'intervention,
-*   la durée probable.
+- le diagnostic,
+- le type d'intervention envisagée,
+- la date et l'heure prévues pour l'intervention,
+- la durée probable.
 
 ### 2. Évaluation clinique pré-opératoire
 
@@ -63,9 +61,7 @@ Les éléments importants sont inscrits de façon détaillée sur la feuille d'a
 
 La prescription d'examens complémentaires pré-opératoires par le chirurgien ou par l'anesthésiste, en chirurgie programmée comme en urgence, est guidée par un protocole qui tient compte du risque clinique (tableau).
 
-
 ![](i822-1.jpg)
-
 
 Lors de la consultation d'anesthésie, après évaluation clinique, les prescriptions particulières demandées par les anesthésistes sont notées sur l'autre face du bulletin où figure la demande de consultation du chirurgien.
 
@@ -73,14 +69,12 @@ Voir, pour information, 3 documents utilisés dans le service Anesthésie-Réani
 
 Dossier patient :
 
-*   consultation pré-anesthésique,
-*   prescriptions postopératoires.  
-*   feuille de surveillance Anesthésie.
-
+- consultation pré-anesthésique,
+- prescriptions postopératoires.
+- feuille de surveillance Anesthésie.
 
 ![](i822-3.jpg)
 
 ![](i822-4.jpg)
 
-
-_Développement et Santé, n° 139, février 1999_
+*Développement et Santé, n° 139, février 1999*

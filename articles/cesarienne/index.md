@@ -11,9 +11,9 @@ La fréquence des césariennes par rapport au nombre total des accouchements var
 
 Le déroulement d'un accouchement dépend de trois éléments :
 
-*   un conduit fixe : la cavité pelvienne,
-*   un mobile : le foetus,
-*   une source d'énergie pour faire progresser ce mobile à l'intérieur du conduit : l'utérus qui se contracte.
+- un conduit fixe : la cavité pelvienne,
+- un mobile : le foetus,
+- une source d'énergie pour faire progresser ce mobile à l'intérieur du conduit : l'utérus qui se contracte.
 
 Si l'un de ces trois éléments est anormal, l'accouchement sera difficile et une césarienne peut être nécessaire pour éviter de graves complications (souffrance foetale et mort de l'enfant, rupture utérine, etc...).
 
@@ -22,11 +22,11 @@ Certaines césariennes sont décidées avant le début du travail au cours d'un 
 
 Les principales indications d'une césarienne sont dues :
 
-*   soit à un obstacle mécanique (dystocie mécanique) ;
-*   soit à une anomalie de la contraction utérine (dystocie dynamique) 
-*   soit au fœtus et à ses annexes;
-*   soit à l'utérus et au périnée;
-*   soit à l'association de la grossesse avec une maladie grave.
+- soit à un obstacle mécanique (dystocie mécanique) ;
+- soit à une anomalie de la contraction utérine (dystocie dynamique) 
+- soit au fœtus et à ses annexes;
+- soit à l'utérus et au périnée;
+- soit à l'association de la grossesse avec une maladie grave.
 
 ### 1. Dystocies mécaniques
 
@@ -40,9 +40,7 @@ S'il s'agit d'un "bassin limite" (diamètre promonto-sus-pubien entre 9,5 et 10,
 
 Fibrome ou kyste de l'ovaire volumineux, gênant le passage de l'enfant. Dans ce cas, la césarienne est suivie immédiatement de l'ablation de la tumeur, au cours de la même opération.
 
-
 ![](13192-1.jpg)
-
 
 ### 2. Anomalie de la contraction utérine ou de la dilatation du col
 
@@ -62,18 +60,18 @@ Ici l'indication de césarienne est plus nuancée : il faut tenir compte du degr
 
 Le diagnostic de présentation doit être fait au début du travail.
 
-*   une présentation du front, de l'épaule, imposent une césarienne rapide ;
-*   dans une présentation du siège la césarienne ne doit pas être systématique. Souvent l'accouchement par le siège se passe très bien par les voies naturelles. Il faut tenir compte de différents facteurs pour décider une césarienne :
-    *   bassin déformé ou limité,
-    *   grosseur de l'enfant,
-    *   primipare ou multipare ayant déjà accouché facilement, "enfant précieux" chez une femme ayant déjà perdu un ou plusieurs enfants lors des accouchements antérieurs.
+- une présentation du front, de l'épaule, imposent une césarienne rapide ;
+- dans une présentation du siège la césarienne ne doit pas être systématique. Souvent l'accouchement par le siège se passe très bien par les voies naturelles. Il faut tenir compte de différents facteurs pour décider une césarienne :
+  - bassin déformé ou limité,
+  - grosseur de l'enfant,
+  - primipare ou multipare ayant déjà accouché facilement, "enfant précieux" chez une femme ayant déjà perdu un ou plusieurs enfants lors des accouchements antérieurs.
 
 #### d) Souffrance foetale au début du travail
 
 Deux signes annoncent cette souffrance foetale :
 
-*   liquide amniotique teinté de méconium,
-*   modification des bruits du coeur de l'enfant.
+- liquide amniotique teinté de méconium,
+- modification des bruits du coeur de l'enfant.
 
 Tout doit être prévu pour que le nouveau-né puisse recevoir dès sa naissance les soins de réanimation nécessaires. Toute prolongation du travail, quelle qu'en soit la cause, peut aboutir à une souffrance foetale.
 
@@ -81,15 +79,15 @@ Tout doit être prévu pour que le nouveau-né puisse recevoir dès sa naissance
 
 Existence :
 
-*   d'une rupture utérine antérieure,
-*   d'une déchirure.grave du périnée, ou
-*   d'une fistule vésico-vaginale réparéc chirurgicalement après un accouchement antérieur.
+- d'une rupture utérine antérieure,
+- d'une déchirure.grave du périnée, ou
+- d'une fistule vésico-vaginale réparéc chirurgicalement après un accouchement antérieur.
 
 ### 5. Association de la grossesse avec une maladie grave
 
-*   **Toxémie gravidique** (éclampsie, hématome rétroplacentaire),
-*   **Hypertension artérielle** par néphrite chronique,
-*   **Cardiopathie cyanogène décompensée**.
+- **Toxémie gravidique** (éclampsie, hématome rétroplacentaire),
+- **Hypertension artérielle** par néphrite chronique,
+- **Cardiopathie cyanogène décompensée**.
 
 La césarienne n'est possible que si l'enfant est vivant, avec des bruits de arur perceptibles. Si l'enfant est mort, i1 vaut mieux faire une embryotomie. On ne devrait pas faire de césarienne sur un enfant mort.
 
@@ -97,9 +95,7 @@ La césarienne n'est possible que si l'enfant est vivant, avec des bruits de aru
 
 Une césarienne est une intervention chirurgicale majeure et toutes les conditions de la chirurgie abdominale doivent être réunies pour pouvoir la pratiquer (aspiration, transfusion, réanimation, équipe chirurgicale).
 
-
 ![](13192-2.jpg)
-
 
 L'anesthésie générale avec intubation sera commencée le plus tard possible pour éviter la dépression respiratoire du foutus. On peut également faire une rachi-anesthésie (injection dans le canal rachidien de quelques centimètrescubes de xylocaïne à 5 % ou de tétracaïne à 1 %) ou une anesthésie péridurale (injection de xylocaïne à 2 % dans l'espace situé autour de la dure mère, au contact des racines nerveuses lombaires). Cette dernière technique nécessite une équipe entraînée. L'incision de l'utérus sera toujours, si possible, segmentaire - c'est-à-dire transversale et basse (césarienne segmentaire).  
 L'incision haute et longitudinale (césarienne corporéale) cicatrise beaucoup moins bien (risque de rupture utérine) et bien qu'elle soit plus rapide et plus facile, les chirurgiens doivent utiliser au maximum la première technique. L'extraction de l'enfant est faite avec douceur et le nouveau-né est confié tout de suite à une sage-femme qui pratiquera une désobstruction des voies respiratoires et une Oxygénation de l'enfant si cela est nécessaire.  
@@ -108,15 +104,15 @@ Puis le chirurgien décollera le placenta et suturera l'utérus avant de referme
 ## III. Problèmes particuliers
 
 **Césariennes itératives**, c'est-à-dire successives.  
-On peut effectuer deux ou trois césariennes chez la même personne sans difficulté. Souvent, la troisième césarienne faite, l'accoucheur estime préférable de stériliser la femme en sectionnant les trompes, si elle v consent. Mais cela ne doit pas être une règle absolue, si la femme le désire, on peut très bien pratiquer sans danger, quatre ou cinq césariennes chez la même personne.  
+On peut effectuer deux ou trois césariennes chez la même personne sans difficulté. Souvent, la troisième césarienne faite, l'accoucheur estime préférable de stériliser la femme en sectionnant les trompes, si elle v consent. Mais cela ne doit pas être une règle absolue, si la femme le désire, on peut très bien pratiquer sans danger, quatre ou cinq césariennes chez la même personne.
 
 **Intervention associée**  
 Dans certains cas, on peut après la césarienne, effectuer une intervention complémentaire :
 
-*   ablation d'un myome utérin (myomectomie),
-*   ablation d'un kyste de l'ovaire,
-*   stérilisation tubaire par section des trompes, avec l'accord de l'intéressée et de son mari,
-*   hystérectomie, très rarement, dans le cas de myomes utérins multiples ou pour une hémorragie incontrôlable.
+- ablation d'un myome utérin (myomectomie),
+- ablation d'un kyste de l'ovaire,
+- stérilisation tubaire par section des trompes, avec l'accord de l'intéressée et de son mari,
+- hystérectomie, très rarement, dans le cas de myomes utérins multiples ou pour une hémorragie incontrôlable.
 
 ## IV. Complications
 
@@ -126,13 +122,9 @@ Les complications des césariennes sont rares, si la technique du chirurgien et 
 
 Surtout en cas de déchirure d'une grosse veine. La suture utérine bien faite doit en venir à bout. Parfois, l'utérus saigne parce qu'il reste atone et ne se contracte pas; l'injection de méthylergométrine obtient généralement une contraction utérine suffisante. Il est rare que la persistance d'une hémorragie oblige à pratiquer une hystérectomie d'hémostase.
 
-
 ![](13192-3.jpg)
 
-
-
 ![](13192-4.jpg)
-
 
 Cliniquement, on peut l'apprécier au cours du toucher vaginal qui fait partie de tout examen systématique au cours de la grossesse. Pour que l'avant-bras et la main de l'examinateur restent dans le même axe, le coude doit reposer sur le plan du lit ; le doigt suit d'abord la face postérieure du vagin, reconnait la face antérieure de la dernière vertèbre sacrée et remonte vers le haut. Normalement le contact osseux ne peut être maintenu sur le 1/3 supérieur du sacrum et le promontoire reste inaccessible.  
 Si le promontoire est accessible, il faut mesurer le diamètre antéro-postérieur. Pour cela, le médius prend contact avec le promontoire et le bord externe de l'index avec le bord inférieur de la symphyse pelvienne. Une marque au stylo à bille est faite sur l'index à ce point de contact. Il suffit alors de mesurer la distance qui sépare cette marque de l'extrémité du médius retiré des voies génitales.
@@ -154,4 +146,4 @@ La désunion spontanée de la suture utérine lors d'un accouchement ultérieur 
 
 La césarienne n'est pas une opération anodine, on doit apporter dans son indication, sa préparation et son exécution, beaucoup de soins et une technique irréprochable.
 
-_Développement et Santé, n°197/198, 2010_
+*Développement et Santé, n°197/198, 2010*

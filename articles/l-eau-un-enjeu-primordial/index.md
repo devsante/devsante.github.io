@@ -4,7 +4,8 @@ author: "Olivier Bismuth Médecin généraliste"
 date: "2007-10-03"
 ---
 
-## Disposer d'eau pour chaque terrien  
+## Disposer d'eau pour chaque terrien
+
 est un enjeu aux multiples aspects
 
 **Enjeu vital** car non seulement l'eau nous permet de vivre, mais nous sommes constitués d'eau à 75 %. Nous expirons de la vapeur d'eau et nous éliminons des selles hydratées à plus de 50 %.

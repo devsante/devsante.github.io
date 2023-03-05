@@ -10,40 +10,35 @@ date: "1997-12-03"
 
 ### Les filarioses lymphatiques ou filaires de Bancroft
 
-_Wucheria bancrofti_ en est l'agent responsable en Afrique (_figure n°1_). Les vers adultes vivent dans le système lymphatique et sont responsables des signes cliniques présentés par le malade : lymphangite centrifuge, adénite chronique, puis éléphantiasis des membres inférieurs, des organes génitaux, chylurie, etc.
+*Wucheria bancrofti* en est l'agent responsable en Afrique (*figure n°1*). Les vers adultes vivent dans le système lymphatique et sont responsables des signes cliniques présentés par le malade : lymphangite centrifuge, adénite chronique, puis éléphantiasis des membres inférieurs, des organes génitaux, chylurie, etc.
 
 L'émission de microfilaires nocturnes dans le sang circulant permet la dissémination de la maladie par l'intermédiaire du vecteur, un moustique généralement du genre Culex. La recherche de ces microfilaires par ponction veineuse au milieu de la nuit est à la base du diagnostic biologique.
 
-
 ![](i761-1.jpg)
 
-
-**Figure n°1. Localisation du _W. bancrofti_.**
+**Figure n°1. Localisation du *W. bancrofti*.**
 
 ### La loase
 
-_Loa-loa_ est responsable de cette filariose exclusivement africaine (_figure n° 2_). Sa zone géographique reste relativement limitée.
+*Loa-loa* est responsable de cette filariose exclusivement africaine (*figure n° 2*). Sa zone géographique reste relativement limitée.
 
 Le ver adulte vit dans le tissu cellulaire sous-cutané. Il est la cause de symptômes plus spectaculaires que graves : oedème migrateur, prurigineux et fugace de Calabar, passage sous-conjonctival ou sous-cutané du ver, manisfestations allergiques qui peuvent devenir graves en cas de lyse brutale des microfilaires par un traitement sans précaution à la diéthylcarbamazine.
 
 L'émission diurne des microfilaires, en phase avec la piqûre du taon Chrysops, vecteur de la loase, boucle le cycle parasitaire. Leur recherche dans le sang capillaire ou veineux affirme le diagnostic.
 
-
 ![](i761-2.jpg)
-
 
 **Figure n° 2. Localisation de loa-loa.**
 
 ### L'onchocercose
 
-Le diagnostic de cette filaire, due à _Onchocerca volvulus_, ne se fait pas dans le sang circulant mais par biopsie cutanée exsangue.Nous ne ferons donc que citer cette filariose particulièrement invalidante par ses complications oculaires, touchant environ vingt-cinq millions de malades.
+Le diagnostic de cette filaire, due à *Onchocerca volvulus*, ne se fait pas dans le sang circulant mais par biopsie cutanée exsangue.Nous ne ferons donc que citer cette filariose particulièrement invalidante par ses complications oculaires, touchant environ vingt-cinq millions de malades.
 
 ### La dracunculose ou filaire de Médine
 
-Due à _Dracunculus medinensis_, sa réparation géographique actuelle tend à se réduire à quelques foyers sahéliens. Le diagnostic évident cliniquement lors de l'extériorisation de la filaire au niveau de la cheville, ne fait pas appel à la biologie.
+Due à *Dracunculus medinensis*, sa réparation géographique actuelle tend à se réduire à quelques foyers sahéliens. Le diagnostic évident cliniquement lors de l'extériorisation de la filaire au niveau de la cheville, ne fait pas appel à la biologie.
 
-##   
-II. Diagnostic biologique des microfilaires sanguicoles africaines
+## II. Diagnostic biologique des microfilaires sanguicoles africaines
 
 Les examens de laboratoire seront donc demandés en cas de signes cliniques évocateurs permettant de suspecter une filariose lymphatique (adénite, lymphangite "rétrograde") ou une loase (oedème migrateur). La recherche de microfilaires sanguicoles est ici pleinement justifiée. Parfois, il s'agira d'identifier une microfilaire découverte sur un frottis sanguin réalisé pour d'autres raisons : recherche d'hématozoaires du paludisme par exemple.
 
@@ -55,10 +50,10 @@ Des signes biologiques non spécifiques comme l'hyperéosinophilie peuvent égal
 
 **Matériel :**
 
-*   vaccinostyle,
-*   compresse de gaze, alcool,
-*   lame et lamelle,
-*   eau physiologique : sérum salé à 9°/<sup>00</sup>
+- vaccinostyle,
+- compresse de gaze, alcool,
+- lame et lamelle,
+- eau physiologique : sérum salé à 9°/<sup>00</sup>
 
 **Méthode :**
 
@@ -237,27 +232,28 @@ non visible</td>
 
 </table>
 
-![](i761-3.jpg)**Figure n° 3. Éléments caractéristiques des microfilaires (MGG)
+\$1  
+![](i761-3.jpg)**Figure n° 3. Éléments caractéristiques des microfilaires (MGG)  
 .**
 
 #### Frottis sanguin, goutte épaisse et autres méthodes de concentration
 
 **Matériel**
 
-*   seringue de 5 ml, aiguille de ponction veineuse, tube citraté ou hépariné,
-*   compresse de gaze, alcool,
-*   lames,
-*   colorant au Giemsa,
-*   sérum physiologique : Nacl à 9<sup>0</sup>/<sup>00</sup>
-*   solution de saponine à 2 % dans le sérum physiologique à 9<sup>0</sup>/<sup>00</sup>,
-*   éprouvette graduée,
-*   tube conique à centrifuger,
-*   pipette Pasteur,
-*   centrifugeuse.
+- seringue de 5 ml, aiguille de ponction veineuse, tube citraté ou hépariné,
+- compresse de gaze, alcool,
+- lames,
+- colorant au Giemsa,
+- sérum physiologique : Nacl à 9<sup>0</sup>/<sup>00</sup>
+- solution de saponine à 2 % dans le sérum physiologique à 9<sup>0</sup>/<sup>00</sup>,
+- éprouvette graduée,
+- tube conique à centrifuger,
+- pipette Pasteur,
+- centrifugeuse.
 
 Frottis sanguin et goutte épaisse
 
-*   Méthode : même technique que pour la recherche d'hématozoaires.
+- Méthode : même technique que pour la recherche d'hématozoaires.
 
 Concentration à la saponine 2 %
 
@@ -271,12 +267,12 @@ Répartir le mélange dans les tubes coniques et centrifuger à 500 g, soit 1 50
 
 L'observation à l'état frais des microfilaires permet de porter une présomption sur l'identité de l'espèce en cause. Cependant une identification certaine repose sur les colorations réalisées à partir du frottis, de la goutte épaisse ou du culot de centrifugation après action de la saponine en cas de faible parasitémie.
 
-Outre _Wucheria bancrofti et Loa-loa,_ on peut également mettre en évidence une troisième microfilaire sanguicole : _Mansonella_ (ancienne _Dipetalonema) perstans._ Peu ou pas pathogène, et donc sans conséquence clinique en dehors d'une hyperéosinophilie, cette filaire dont l'adulte vit dans les séreuses doit impérativement être distinguée des deux espèces pathogènes. Insistons d'emblée sur la taille plus petite de _Mansonella perstans_ (150 µm) par rapport aux deux autres espèces.
+Outre *Wucheria bancrofti et Loa-loa,* on peut également mettre en évidence une troisième microfilaire sanguicole : *Mansonella* (ancienne *Dipetalonema) perstans.* Peu ou pas pathogène, et donc sans conséquence clinique en dehors d'une hyperéosinophilie, cette filaire dont l'adulte vit dans les séreuses doit impérativement être distinguée des deux espèces pathogènes. Insistons d'emblée sur la taille plus petite de *Mansonella perstans* (150 µm) par rapport aux deux autres espèces.
 
-L'identification de la microfilaire reposera donc sur l'association de différents critères, résumée par la _figure n° 3 et le tableau n° 1_ origine géographique du malade, taille de la microfilaire : épaisseur par rapport aux leucocytes, mobilité à l'état frais, existence ou non d'une gaine : colorée en rose pâle par le Giemsa mais souvent difficile à voir, courbures de la microfilaire, queue de la microfilaire : présence ou non de noyaux terminaux, noyaux du corps : violet au Giemsa, bien séparés ou se chevauchant, corps interne : coloré en rose au centre de la filaire.
+L'identification de la microfilaire reposera donc sur l'association de différents critères, résumée par la *figure n° 3 et le tableau n° 1* origine géographique du malade, taille de la microfilaire : épaisseur par rapport aux leucocytes, mobilité à l'état frais, existence ou non d'une gaine : colorée en rose pâle par le Giemsa mais souvent difficile à voir, courbures de la microfilaire, queue de la microfilaire : présence ou non de noyaux terminaux, noyaux du corps : violet au Giemsa, bien séparés ou se chevauchant, corps interne : coloré en rose au centre de la filaire.
 
 **Conclusion**
 
-Le diagnostic biologique permet un diagnostic de certitude de la filaire évoquée sur les arguments cliniques. La diéthylcarbamazine, à dose progressive et très prudente, en particulier pour la Loa, permet une guérison complète du malade, en dehors des complications de la filaire lymphatique qui relèvent de la chirurgie. Depuis quelques années, l'ivermectine, proposée en cure unique dans l'onchocercose, a fait ses preuves contre la filaire lymphatique et la loase par sa facilité d'administration en prise unique. Cependant, la microfilarémie à long terme n'est réduite qu'à 90 %, et la diéthylcarbamazine garde donc ses indications si l'on veut totalement déparasiter le malade. À noter la résistance habituelle, mais sans conséquence de _Mansonella perstans_ aux antifilariens.
+Le diagnostic biologique permet un diagnostic de certitude de la filaire évoquée sur les arguments cliniques. La diéthylcarbamazine, à dose progressive et très prudente, en particulier pour la Loa, permet une guérison complète du malade, en dehors des complications de la filaire lymphatique qui relèvent de la chirurgie. Depuis quelques années, l'ivermectine, proposée en cure unique dans l'onchocercose, a fait ses preuves contre la filaire lymphatique et la loase par sa facilité d'administration en prise unique. Cependant, la microfilarémie à long terme n'est réduite qu'à 90 %, et la diéthylcarbamazine garde donc ses indications si l'on veut totalement déparasiter le malade. À noter la résistance habituelle, mais sans conséquence de *Mansonella perstans* aux antifilariens.
 
-_Développement et Santé, n° 132, décembre 1997_
+*Développement et Santé, n° 132, décembre 1997*

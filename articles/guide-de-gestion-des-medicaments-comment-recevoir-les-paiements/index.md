@@ -3,7 +3,7 @@ title: "Guide de gestion des médicaments : comment recevoir les paiements"
 date: "2007-06-23"
 ---
 
-Dans de nombreux pays, il existe un **système de recouvrement des coûts**. Les établisse­ments de soins de tous les niveaux du système de santé doivent acheter leurs médicaments à la Centrale nationale d'achats ou toute autre centrale d'approvisionnement. La politique est de faire payer aux patients tout ou une partie du coût des médicaments qui leur sont dispensés dans les établissements de soins.  
+Dans de nombreux pays, il existe un **système de recouvrement des coûts**. Les établisse­ments de soins de tous les niveaux du système de santé doivent acheter leurs médicaments à la Centrale nationale d'achats ou toute autre centrale d'approvisionnement. La politique est de faire payer aux patients tout ou une partie du coût des médicaments qui leur sont dispensés dans les établissements de soins.
 
 En revanche certains traitements sont **totalement gratuits**, bien que leur coût puisse être très élévé. C'est le cas pour les programmes de lutte contre la tuberculose ou contre le VIH/SIDA ; les établissements de santé reçoivent ces traitements gratuitement et les patients **ne doivent pas les payer**.
 
@@ -16,13 +16,13 @@ Veillez à ce que le traitement prescrit soit nécessaire, sans aucun produit su
 
 Vous devez veiller à ce que, dans votre centre de santé /
 
-*   le **patient reçoive** toujours la quantité correspondant à un traitement complet (sinon le patient qui se sent mieux ne voudra pas payer plus tard de quoi terminer le trai­tement),
-*   **tous les paiements** reçus des patients soient enregistrés,
-*   le **montant versé** corresponde au **mon­tant inscrit** sur le reçu d'encaissement,
-*   **l'argent** soit conservé en **lieu sûr**,
-*   les **registres** soient tenus rigoureusement **à jour**,
-*   l'**argent** soit régulièrement **déposé à la banque**, au bureau municipal ou au bureau du régisseur du district.
+- le **patient reçoive** toujours la quantité correspondant à un traitement complet (sinon le patient qui se sent mieux ne voudra pas payer plus tard de quoi terminer le trai­tement),
+- **tous les paiements** reçus des patients soient enregistrés,
+- le **montant versé** corresponde au **mon­tant inscrit** sur le reçu d'encaissement,
+- **l'argent** soit conservé en **lieu sûr**,
+- les **registres** soient tenus rigoureusement **à jour**,
+- l'**argent** soit régulièrement **déposé à la banque**, au bureau municipal ou au bureau du régisseur du district.
 
 Si vous êtes responsables de l'encaissement des paiements, respectez rigoureusement les procédures en vigueur.
 
-_Développement et Santé, n°188, 2007_
+*Développement et Santé, n°188, 2007*

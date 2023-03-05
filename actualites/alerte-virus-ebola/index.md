@@ -30,4 +30,4 @@ Il existe cinq types de virus Ébola. Ils ont été à l’origine d’important
 
 Par Dr Jean-Loup Rey, santé publique
 
-_Source : OMS, 27 mars 2014_
+*Source : OMS, 27 mars 2014*

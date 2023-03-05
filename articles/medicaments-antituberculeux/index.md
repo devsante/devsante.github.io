@@ -43,7 +43,7 @@ date: "2008-01-04"
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -83,7 +83,7 @@ date: "2008-01-04"
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -123,7 +123,7 @@ Topiques gastro-intestinaux : espacer la prise d'au moins 2 heures après la pri
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -163,7 +163,7 @@ Associations à surveiller : tout médicament hépatotoxique.
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -203,7 +203,7 @@ Associations à surveiller : tout médicament hépatotoxique.
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -229,4 +229,4 @@ Posologie : réservé aux adultes et aux enfants à partir de 6 ans, en une seul
 
 </table>
 
-_Développement et Santé, n°190, 2008_
+*Développement et Santé, n°190, 2008*

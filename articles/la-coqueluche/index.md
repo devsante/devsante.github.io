@@ -14,9 +14,9 @@ La contagiosité est possible pendant les 30 premiers jours d'évolution. Ce dé
 
 En Afrique, les enfants jeunes sont touchés pour plusieurs raisons :
 
-*   Le programme vaccinal est mal suivi.  
-*   Il existe de grandes familles avec de nombreux jeunes enfants vivant sous le même toit.  
-*   Les mères emmènent leur bébé partout avec elles (risque plus élevé de contamination).
+- Le programme vaccinal est mal suivi.
+- Il existe de grandes familles avec de nombreux jeunes enfants vivant sous le même toit.
+- Les mères emmènent leur bébé partout avec elles (risque plus élevé de contamination).
 
 Dans les pays en voie de développement, la coqueluche survient souvent sur un terrain de malnutrition, lui-même aggravé par la maladie, et s'associe fréquemment à des surinfections pulmonaires.
 
@@ -40,15 +40,13 @@ Les quintes de toux peuvent provoquer une cyanose, des crises de suffocation et 
 
 **Convalescence** : elle commence vers la 9e ou la 10e semaine.
 
-### Tableau clinique chez le nourrisson de moins de 6 mois :
+### Tableau clinique chez le nourrisson de moins de 6 mois
 
-*   L'écoulement rhinopharyngé et la toux sont moins marqués.  
-*   Les quintes sont peu nombreuses.  
-*   Les apnées et les accès de cyanose sont au premier plan, nécessitant une surveillance de tous les instants _(voir figure n° 1)._
-
+- L'écoulement rhinopharyngé et la toux sont moins marqués.
+- Les quintes sont peu nombreuses.
+- Les apnées et les accès de cyanose sont au premier plan, nécessitant une surveillance de tous les instants *(voir figure n° 1).*
 
 ![](i836-1.jpg)
-
 
 ## III. Complications
 
@@ -56,18 +54,18 @@ Elles demeurent fréquentes et redoutables touchant souvent le jeune nourrisson.
 
 - Malnutrition et déshydratation liées aux vomissements sévères.
 
-*   Complications respiratoires : surinfections broncho-pulmonaires, atélectasies, otites moyennes aiguës, hémoptysies, forme suraiguë dyspnéisante.  
-*   Complications neurologiques : convulsions, encéphalopathies en rapport avec des hémorragies cérébro-méningées ou des anoxies prolongées _(voir figure n°2)._
+<!-- -->
 
+- Complications respiratoires : surinfections broncho-pulmonaires, atélectasies, otites moyennes aiguës, hémoptysies, forme suraiguë dyspnéisante.
+- Complications neurologiques : convulsions, encéphalopathies en rapport avec des hémorragies cérébro-méningées ou des anoxies prolongées *(voir figure n°2).*
 
 ![](i836-2.jpg)
-
 
 ## IV. Examens complémentaires
 
 ### 1. Bactériologie
 
-_Bordetella pertussis_ est un cocobacille à gram négatif, difficile à cultiver.
+*Bordetella pertussis* est un cocobacille à gram négatif, difficile à cultiver.
 
 L'isolement du germe par prélèvement pernasal tôt au cours de la maladie, avec culture immédiate, sur boite de Pétri, sur milieu de Bordet Gengou (préparé à base d'infusion de pomme de terre), enrichi de sang frais, peut être pratiqué. Cependant c'est l'examen clinique qui demeure essentiel (il ne faut surtout pas attendre les résultats biologiques pour porter le diagnostic).
 
@@ -87,10 +85,11 @@ Les sirops antitussifs sont très peu utiles, ceux contenant de la codéine ne d
 
 En revanche, l'antibiothérapie présente un double intérêt :
 
-*   Éviter la contamination de l'entourage (l'expectoration n'étant plus contaminante après 6 jours de traitement).  
-*   Diminuer les risques de surinfections chez le sujet atteint.
+- Éviter la contamination de l'entourage (l'expectoration n'étant plus contaminante après 6 jours de traitement).
+- Diminuer les risques de surinfections chez le sujet atteint.
 
-### 2. Traitement des surinfections pulmonaires  
+### 2. Traitement des surinfections pulmonaires
+
 par la pénicilline ou le cotrimoxazole
 
 Il faut éloigner les nourrissons et les nouveau-nés de toutes les personnes suspectes de coqueluche.
@@ -123,11 +122,9 @@ Enfin, quelques complications exceptionnelles sont signalées : malaises intense
 
 Cette mauvaise tolérance a fait que, sous la pression des familles, certains pays ont abandonné le vaccin (Angleterre, Suède par exemple). Le résultat fut catastrophique avec une augmentation brutale de la mortalité surtout chez le nourrisson.
 
-_(figure n° 3)._
-
+*(figure n° 3).*
 
 ![](i836-3.jpg)
-
 
 ### 2. Une solution : les vaccins purifiés (dits acellulaires)
 
@@ -145,12 +142,10 @@ Dans le cadre du PEV, l'OMS conseille la vaccination DTC + polio oral à 6 semai
 
 Mais dans la mesure du possible un rappel vers 2 ans est souhaitable.
 
-
 ![](i836-4.jpg)
-
 
 ## VII. Conclusion
 
 La coqueluche reste une pathologie responsable d'une mortalité élevée chez le nourrisson en Afrique. Cette évolution peut changer grâce à des campagnes de vaccination massive.
 
-_Développement et Santé, n° 141, juin 1999_
+*Développement et Santé, n° 141, juin 1999*

@@ -16,9 +16,7 @@ Le virus inoculé est transporté par les nerfs périphériques vers le système
 
 La rage est une zoonose virale dont le reservoir naturel est principalement constitué des carnivores et des chauves-souris. En l'absence de traitement, la maladie est mortelle dès l'apparition des signes cliniques. Les chiens sont à l'origine de 99 % des décès dus à la rage. Plus de 3,3 milliards de personnes vivent en zone d'endémie rabique, 35 000 décès annuels sont dus à cette maladie (OMS 2007), principalement en Asie et en Afrique. **L'enfant est particulièrement exposé**. Chaque année, plus de 10 millions de personnes sont traitées en post-exposition (surtout en Asie).
 
-
 ![](12182-1.jpg)
-
 
 ## III. Transmission de la maladie
 
@@ -30,8 +28,8 @@ L'incubation est longue, généralement de 1 à 3 mois, mais peut dans certains 
 Elle est suivie d'une courte phase prodromique (l'évolution est alors déjà inéluctable) marquée par des paresthésies et un prurit dans la région de pénétration du virus.  
 Puis apparaît la phase d'encéphalo-myélite avec deux évolutions possibles :
 
-*   rage furieuse : agitation, hydrophobie et/ou aérophobie, évolution rapide vers le coma et la mort ;
-*   rage paralytique ou muette : paralysie ascendante, évocatrice de syndrome de Guillain-Barré, l'évolution vers la mort est plus lente.
+- rage furieuse : agitation, hydrophobie et/ou aérophobie, évolution rapide vers le coma et la mort ;
+- rage paralytique ou muette : paralysie ascendante, évocatrice de syndrome de Guillain-Barré, l'évolution vers la mort est plus lente.
 
 **Une fois les symptômes déclarés, l'évolution est toujours mortelle, d'où l'importance de débuter un traitement post-exposition dès le contact avec un animal supposé enragé.**
 
@@ -39,19 +37,17 @@ Puis apparaît la phase d'encéphalo-myélite avec deux évolutions possibles :
 
 La prévention repose sur une intervention à plusieurs niveaux qui doit être mise en place dans toutes les zones infestées :
 
-*   lutte contre les réservoirs animaux, notamment contre la rage des "rues" en Afrique, due aux chiens errants qui mordent le plus souvent des enfants ;
-*   prophylaxie post-exposition dans le cas de sujets potentiellement exposés ;
-*   vaccination avant exposition des personnes exposées à un risque fréquent.
+- lutte contre les réservoirs animaux, notamment contre la rage des "rues" en Afrique, due aux chiens errants qui mordent le plus souvent des enfants ;
+- prophylaxie post-exposition dans le cas de sujets potentiellement exposés ;
+- vaccination avant exposition des personnes exposées à un risque fréquent.
 
 ### 1. Les vaccins antirabiques recommandés par l’OMS
 
-Ces vaccins de référence sont constitués de virus inactivés après multiplication sur cultures cellu¬laires (lignée continue Vero ou fibroblastes d'em¬bryons de poulet). Ils induisent une réponse rapide en anticorps neutralisants. Ils sont administrés par voie IM ou ID selon les protocoles de l'OMS _(voir tableau 1_).
+Ces vaccins de référence sont constitués de virus inactivés après multiplication sur cultures cellu¬laires (lignée continue Vero ou fibroblastes d'em¬bryons de poulet). Ils induisent une réponse rapide en anticorps neutralisants. Ils sont administrés par voie IM ou ID selon les protocoles de l'OMS *(voir tableau 1*).
 
 #### a) Schémas de vaccination post-exposition (voir tableau ci-dessous)
 
-
 ![](12182-2.jpg)
-
 
 #### b) Modes d'injection (voir tableau 1)
 
@@ -71,7 +67,7 @@ En cas de vaccination préventive, une réaction antérieure sévère à l'un de
 
 ### 2.Les immunoglobulines antirabiques (IGR)
 
-Les vaccins peuvent être associés à des immunoglobulines spécifiques en fonction du risque potentiel encouru par le sujet exposé (v_oir tableau 2_).
+Les vaccins peuvent être associés à des immunoglobulines spécifiques en fonction du risque potentiel encouru par le sujet exposé (v_oir tableau 2\_).
 
 **Tableau 2 : recommandations selon l'exposition.**
 
@@ -159,20 +155,20 @@ Les IGR ne doivent pas être injectées plus de 7 jours après le début de la v
 ### 1. Après exposition
 
 Le traitement antirabique après exposition est une urgence, il doit être institué le plus rapidement possible.  
-L'appréciation du risque de transmission de la maladie tiendra compte de la nature de la contamination _(voir tableau 2_).  
+L'appréciation du risque de transmission de la maladie tiendra compte de la nature de la contamination *(voir tableau 2*).  
 Le traitement doit être appliqué même si le contact date de plusieurs mois.
 
 #### a) Le traitement local des plaies doit être immédiat
 
-*   Lavage minutieux des plaies à l'eau savonneuse et rinçage abondant.  
-*   Désinfection avec un produit ayant une action rabicide : éthanol 700ml/l, dérivés iodés.  
-*   Rapprochement des berges des plaies sans suture.  
-*   Traitement antibiotique.  
-*   Protection antitétanique.
+- Lavage minutieux des plaies à l'eau savonneuse et rinçage abondant.
+- Désinfection avec un produit ayant une action rabicide : éthanol 700ml/l, dérivés iodés.
+- Rapprochement des berges des plaies sans suture.
+- Traitement antibiotique.
+- Protection antitétanique.
 
 #### b) Le traitement antirabique
 
-Il dépend de la catégorie de l'exposition (_voir tableau 2_).
+Il dépend de la catégorie de l'exposition (*voir tableau 2*).
 
 #### c) Cas particuliers
 
@@ -185,8 +181,8 @@ Cependant, si le traitement antérieur a été fait avec un vaccin d'efficacité
 
 La recommandation concerne les personnes à haut risque d'exposition :
 
-*   personnel de laboratoire, vétérinaires, personnes manipulant des animaux ou en contact professionnel avec des animaux sauvages,
-*   nourrissons et enfants vivant en zone de haute endémicité, en fonction des possibilités.
+- personnel de laboratoire, vétérinaires, personnes manipulant des animaux ou en contact professionnel avec des animaux sauvages,
+- nourrissons et enfants vivant en zone de haute endémicité, en fonction des possibilités.
 
 La vaccination comporte 3 doses à J0, J7 et j28.  
 Elle peut se faire par voie IM (préférable en cas de traitement antipaludique) : 0,5 ou 1ml, ou en ID : 0,1ml.
@@ -196,4 +192,4 @@ Elle peut se faire par voie IM (préférable en cas de traitement antipaludique)
 Un contrôle sérologique sera pratiqué tous les 6 mois chez les personnes travaillant avec le virus de la rage, tous les ans chez les personnes à risque permanent.  
 Une injection de rappel sera réalisée si le taux d'anticorps est inférieur à 0,5 UI/ml.
 
-_Développement et Santé, n°195/196, 2009_
+*Développement et Santé, n°195/196, 2009*

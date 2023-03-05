@@ -15,31 +15,25 @@ La principale source en iode est représentée par les aliments. Les plus riches
 
 ## Il. Besoins en iode chez l'homme
 
-Pour étudier le statut en l'iode d'une population, on peut évaluer la fréquence du goitre : une région géographique est considérée comme zone de goitre endémique lorsque plus de 10 % des enfants de 6 à 1 2 ans en sont porteurs. Le goitre constitue le stade ultime de la carence en iode _(voir_ _tableau 1)._
+Pour étudier le statut en l'iode d'une population, on peut évaluer la fréquence du goitre : une région géographique est considérée comme zone de goitre endémique lorsque plus de 10 % des enfants de 6 à 1 2 ans en sont porteurs. Le goitre constitue le stade ultime de la carence en iode *(voir* *tableau 1).*
 
 Les dosages sanguins d'hormones thyroïdiennes ainsi que la mesure d'iode dans les urines précisent le diagnostic. Les apports quotidiens recommandés ont été établis avec précision : 40 microgrammes/jour pour le nourrisson, 70 à 90 pour l'enfant, 150 pour l'adolescent et l'adulte, 175 pendant la grossesse et 200 pendant l'allaitement.
 
-
 ![](i918-1.jpg)
 
+## III. Troubles liés à la déficience iodée
 
-##   
-III. Troubles liés à la **déficience iodée**
-
-Lorsque l'apport en iode est insuffisant dans une population, apparaissent des anomalies de la fonction thyroïdienne, puis un goitre, une diminution de la fertilité, une augmentation du taux d'avortement et de la mortalité périnatale _(voir tableau 2)._
+Lorsque l'apport en iode est insuffisant dans une population, apparaissent des anomalies de la fonction thyroïdienne, puis un goitre, une diminution de la fertilité, une augmentation du taux d'avortement et de la mortalité périnatale *(voir tableau 2).*
 
 Le goitre endémique constitue l'aspect le plus spectaculaire de la carence en iode, atteignant environ 300 millions d'individus dans le monde. Cette hypertrophie thyroïdienne est due à une sécrétion accrue de TSH par l'hypophyse qui stimule les cellules thyroïdiennes malheureusement incapables de sécréter correctement des hormones thyroïdiennes en l'absence d'iode.
 
 Le crétinisme endémique toucherait plus de 3 millions de personnes sur terre. Il s'agit de sujets nés et vivant dans une zone de goitre endémique atteints d'un retard mental irréversible avec hypothyroïdie sévère, petite taille, trouble de la marche et quelquefois surdité et strabisme. Cette hypothyroïdie permanente ayant débuté pendant la vie foetale ou la période néonatale.
 
-Plus récemment ont été mis en évidence les déficits en iode modérés se caractérisant sur le plan clinique par une fatigabilité, une frilosité, une diminution du taux des hormones thyroïdiennes dans le sang.  
+Plus récemment ont été mis en évidence les déficits en iode modérés se caractérisant sur le plan clinique par une fatigabilité, une frilosité, une diminution du taux des hormones thyroïdiennes dans le sang.
 
 ![](i918-2.jpg)
 
-
-
 ![](i918-3.jpg)
-
 
 ## IV. Traitement préventif de la carence en iode
 
@@ -51,4 +45,4 @@ Une supplémentation orale de iodure ou iodate de potassium périodique (bimensu
 
 Le travail de S. Diallo effectué en Guinée prouve à quel point la distribution gratuite de capsules d'iode et l'utilisation de sels iodés n'ont pas encore d'effet spectaculaire. L'utilisation de diffuseurs d'iode dans les puits apparaît pour certains la meilleure solution.
 
-_Développement et Santé, n°152, avril 2001_
+*Développement et Santé, n°152, avril 2001*

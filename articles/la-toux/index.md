@@ -4,7 +4,7 @@ author: "Jean-Paul Homasson"
 date: "2000-02-14"
 ---
 
-**La toux**  
+**La toux**
 
 **par Jean-Paul Homasson**
 
@@ -22,20 +22,25 @@ La toux est un phénomène réflexe qui trouve son origine au niveau de récepte
 
 Il est important, par l'interrogatoire, d'analyser les caractères de la toux. Ils permettent déjà une orientation diagnostique. On doit préciser :
 
-*   son ancienneté : toux récente ou chronique (plus de 4 semaines) ;
-*   son mode de début : brutal ou progressif
-*   son horaire (surtout chez l'enfant)
-*   et les circonstances de survenue :
+- son ancienneté : toux récente ou chronique (plus de 4 semaines) ;
 
-*   nocturne : équivalent d'asthme, évocatrice de reflux gastro-oesophagien voire de cause cardiaque. La toux nocturne correspond habituellement à une cause organique.
+- son mode de début : brutal ou progressif
 
-*   diurne : faire préciser un éventuel facteur déclenchant, géographique, saisonnier, le contact avec un animal, les variations de température, le travail, etc…
+- son horaire (surtout chez l'enfant)
 
-*   plutôt matinale : suspecter des bronchectasies ; toux du fumeur (" nettoyage du matin "),
+- et les circonstances de survenue :
 
-*   lors des repas : fausse route, fistule oeso-trachéale, reflux gastro-cesophagien,
+- nocturne : équivalent d'asthme, évocatrice de reflux gastro-oesophagien voire de cause cardiaque. La toux nocturne correspond habituellement à une cause organique.
 
-*   à l'effort : épreuve d'endurance chez l'enfant suggérant un asthme d'exercice ; cause cardiaque (oedème pulmonaire subaigu) ;
+- diurne : faire préciser un éventuel facteur déclenchant, géographique, saisonnier, le contact avec un animal, les variations de température, le travail, etc…
+
+- plutôt matinale : suspecter des bronchectasies ; toux du fumeur (" nettoyage du matin "),
+
+- lors des repas : fausse route, fistule oeso-trachéale, reflux gastro-cesophagien,
+
+- à l'effort : épreuve d'endurance chez l'enfant suggérant un asthme d'exercice ; cause cardiaque (oedème pulmonaire subaigu) ;
+
+<!-- -->
 
 - sa productivité et son aspect : on distinguera les toux sèches des toux productives, les toux aboyantes ou quinteuses plutôt d'origine laryngo-trachéale (coqueluche). L'expectoration est purulente ou non : rosée et spumeuse elle oriente vers un oedème pulmonaire cardiogénique. Elle peut être hémoptoïque ;
 
@@ -51,17 +56,17 @@ Il est utile de faire préciser la profession et surtout le tabagisme.
 
 **V. Les étiologies**
 
-Il faut séparer les toux en 2 catégories : les toux survenant dans un contexte aigu, fébrile ou non et les toux chroniques.  
+Il faut séparer les toux en 2 catégories : les toux survenant dans un contexte aigu, fébrile ou non et les toux chroniques.
 
 **1. Les toux aiguës**
 
-*   **Contexte infectieux**
+- **Contexte infectieux**
 
 La présence de fièvre fait penser d'emblée à une pathologie ORL ou bronchopulmonaire dont l'origine est le plus souvent virale. On recherchera un contexte épidémique, saisonnier. Le début est brutal, avec des signes associés rhino-pharyngés, parfois une douleur à la pression des zones sinusiennes, des courbatures et céphalées. Chez le nourrisson la respiration sifflante et l'encombrement bronchique sont évocateurs de bronchiolite. L'auscultation pulmonaire peut faire suspecter une pathologie pleurale associée.
 
 Les examens complémentaires doivent être limités : radiographie pulmonaire si l'on suspecte une pneumopathie ; biologie (NFS, VS, CRP), bactériologie, examen direct de crachat BK et Gram, éventuellement.
 
-*   **Sans contexte infectieux**
+- **Sans contexte infectieux**
 
 Inhalation d'un corps étranger chez l'enfant rechercher un syndrome de pénétration. La radiographie pulmonaire est indispensable sachant aussi que certains corps étrangers ne sont pas radio-opaques. L'endoscopie bronchique doit être réalisée dans les délais les plus brefs dans une structure spécialisée.
 
@@ -77,7 +82,9 @@ Pathologie pleurale : en cas de pneumothorax, la toux est un signe associé, rar
 
 Souvent il s'agit d'un symptôme isolé qui motive la consultation. La pathologie ORL est la première cause de toux (écoulement pharyngé postérieur) ; vient ensuite l'asthme ou la toux équivalent d'asthme.
 
-*   **Causes ORL**
+- **Causes ORL**
+
+<!-- -->
 
 - Écoulement nasal et jetage postérieur.
 
@@ -87,11 +94,13 @@ Souvent il s'agit d'un symptôme isolé qui motive la consultation. La pathologi
 
 - Otite chez l'enfant.
 
-- Tumeur de la sphère ORL.  
+- Tumeur de la sphère ORL.
 
 La toux nécessite donc d'abord un examen ORL avec éventuellement un complément radiologique : scanner si c'est possible, plus précis que la radiographie de sinus.
 
-*   **Causes pneumologiques**
+- **Causes pneumologiques**
+
+<!-- -->
 
 - Tuberculose pulmonaire.
 
@@ -111,7 +120,9 @@ La toux nécessite donc d'abord un examen ORL avec éventuellement un complémen
 
 Des examens vont étayer le diagnostic : Imagerie (radiographie simple) et en milieu spécialisé : tomodensitométrie ; endoscopie trachéo bronchique ; explorations fonctionnelles respiratoires avec épreuves pharmacodynamiques.
 
-*   **Causes digestives**
+- **Causes digestives**
+
+<!-- -->
 
 - Fausse route d'une pathologie pseudo-bulbaire ou fistule oeso-trachéale.
 
@@ -129,12 +140,8 @@ C'est seulement lorsque les autres étiologies ont pu être éliminées que l'on
 
 Devant une toux chronique (plus de 15 jours), avec ou sans expectorations, toujours **penser à la tuberculose**.
 
-
 ![](i866-1.jpg)
-
-
 
 ![](i866-2.jpg)
 
-
-_Développement et Santé, n° 145, février 2000_
+*Développement et Santé, n° 145, février 2000*

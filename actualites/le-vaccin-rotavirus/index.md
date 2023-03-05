@@ -15,4 +15,4 @@ Cette vaccination ne dispensera pas du recours en première ligne de solutés de
 
 Par Philippe Reinert, Pédiatre, Créteil, France
 
-_Réf. : V. Yen. Human Vaccines, vol 7, Dec 2011 : 1282-1290_
+*Réf. : V. Yen. Human Vaccines, vol 7, Dec 2011 : 1282-1290*

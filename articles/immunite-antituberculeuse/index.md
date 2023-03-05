@@ -26,12 +26,12 @@ Enfin l'IDRT à la tuberculine peut être négati­ve en cas de tuberculose aigu
 
 C'est dire si ce test est critiquable. Cela dit trois notions restent capitales - l'IDRT à la tuberculine est capitale pour détec­ter une tuberculose chez le jeune enfant ;
 
-*   L'IDRT n'a aucun intérêt après un BCG pour le contrôler, puisqu'il n'y a aucune cor­rélation entre l'immunité induite par le BCG et l'intensité de la réaction tuberculinique ;
-*   L'IDRT n'a pas non plus d'intérêt comme test pré-vaccinal (BCG) ce qui est pourtant encore exigé dans certains pays (par exemple la France chez les plus de 3 mois !).
+- L'IDRT n'a aucun intérêt après un BCG pour le contrôler, puisqu'il n'y a aucune cor­rélation entre l'immunité induite par le BCG et l'intensité de la réaction tuberculinique ;
+- L'IDRT n'a pas non plus d'intérêt comme test pré-vaccinal (BCG) ce qui est pourtant encore exigé dans certains pays (par exemple la France chez les plus de 3 mois !).
 
 ## III. Vaccination contre la tuberculose : le BCG
 
-Le BCG est un vaccin bactérien vivant qui dérive d'une souche de _Mycobacterium bovis_ cultivée depuis 1908 par Calmette et Guérin qu'ils ont réussi à rendre non virulente par 231 "passages" sur milieux de culture. Depuis 1921 le vaccin est utilisé avec peu de modifi­cations.
+Le BCG est un vaccin bactérien vivant qui dérive d'une souche de *Mycobacterium bovis* cultivée depuis 1908 par Calmette et Guérin qu'ils ont réussi à rendre non virulente par 231 "passages" sur milieux de culture. Depuis 1921 le vaccin est utilisé avec peu de modifi­cations.
 
 ### 1. Administration
 
@@ -53,9 +53,9 @@ Un problème majeur est son mode d'action : il induit une immunité cellulaire r
 
 Ils sont essentiellement locaux et loco-régio­naux :
 
-*   suintements,
-*   suppuration chronique,
-*   abcès à l'endroit de la vaccination.
+- suintements,
+- suppuration chronique,
+- abcès à l'endroit de la vaccination.
 
 Ailleurs c'est une adénite du creux axillaire plus ou moins volumineuse durant plusieurs mois, pouvant évoluer vers la suppuration, nécessitant parfois une exérèse chirurgicale. Ces complications sont rares, pas graves mais mal vécues par les familles ! La seule complication grave est la BCGite généralisée ne se rencontrant que chez l'en­fant atteint d'un déficit immunitaire majeur (SIDA le plus souvent).
 
@@ -63,9 +63,9 @@ Ailleurs c'est une adénite du creux axillaire plus ou moins volumineuse durant 
 
 Ce sont donc :
 
-*   tout déficit immunitaire,
-*   une tuberculose récente ou ancienne,
-*   un contact récent avec un tuberculeux bacil­lifère (contre-indication transitoire),
-*   une maladie de peau étendue ; la contre­-indication est ici le plus souvent transitoire.
+- tout déficit immunitaire,
+- une tuberculose récente ou ancienne,
+- un contact récent avec un tuberculeux bacil­lifère (contre-indication transitoire),
+- une maladie de peau étendue ; la contre­-indication est ici le plus souvent transitoire.
 
-_Développement et Santé, n°190, 2008_
+*Développement et Santé, n°190, 2008*

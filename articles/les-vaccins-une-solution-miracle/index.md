@@ -16,18 +16,18 @@ Tous les succès contre les maladies ne sont pas dus aux vaccins. Même pour la 
 
 Pour aboutir à un effet communautaire de la vaccination (en dehors des rares échecs biologiques, le bénéfice individuel est certain), une bonne organisation de l'utilisation des vaccins est nécessaire, comme cela a été le cas pour l'éradication de la variole ou l'instauration du Programme Elargi de Vaccination (PEV). A contrario, on voit actuellement que, si la logistique et l'organisation du PEV sont défaillantes, les résultats en deviennent insuffisants.
 
-### Une politique vaccinale est fondée sur un rationnel clair :
+### Une politique vaccinale est fondée sur un rationnel clair
 
 Choix de la population à vacciner (âge, sexe, fréquence...) en fonction de l'épidémiologie, de la maladie, du bénéfice individuel et collectif attendu.  
-_**La réussite d'une politique vaccinale passe par le respect des recommandations.**_
+***La réussite d'une politique vaccinale passe par le respect des recommandations.***
 
 ## Deuxième déduction
 
 Il n'est pas raisonnable de penser que la résolution de toute pathologie infectieuse puisse être obtenue par la vaccination.  
 Si l'on prend l'exemple du SIDA :
 
-*   Même si un vaccin existait, était applicable et accessible, il ne serait certainement pas le seul outil qui ferait reculer l'épidémie.  
-*   Si ce vaccin existait, qui en bénéficierait nouveau-nés, adolescents, adultes à risque, à quelle fréquence devrait-il être administré, quels en seraient les risques, les effets induits ?
+- Même si un vaccin existait, était applicable et accessible, il ne serait certainement pas le seul outil qui ferait reculer l'épidémie.
+- Si ce vaccin existait, qui en bénéficierait nouveau-nés, adolescents, adultes à risque, à quelle fréquence devrait-il être administré, quels en seraient les risques, les effets induits ?
 
 La qualité exceptionnelle des vaccins actuels a un effet pervers : elle incite à penser que la vaccination est la seule solution aux problèmes de santé ; on parle même de vaccins contre des maladies non infectieuses comme la maladie d'Alzheimer ou le diabète !
 
@@ -41,4 +41,4 @@ Il concerne des populations entières définies selon des critères de santé pu
 Il faut expliquer le double intérêt du vaccin : pour soi-même (éviter de contracter la maladie ou au moins en diminuer la gravité) et pour la communauté : se vacciner c'est aussi protéger son entourage (effet altruiste).  
 Il existe un programme de vaccinations ; si les résultats apparaissent insuffisants, il faut tout faire pour les améliorer avant d'envisager d'ajouter d'autres antigènes vaccinaux.
 
-_Développement et Santé, n°195/196, 2009_
+*Développement et Santé, n°195/196, 2009*

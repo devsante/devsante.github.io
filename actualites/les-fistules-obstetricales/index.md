@@ -10,9 +10,9 @@ La Fédération Internationale de Gynécologie et d’Obstétrique vient de lanc
 Ces fistules touchent chaque année de 60 000 à 100 000 femmes. En Afrique, plus de 2 millions de femmes ne sont pas traitées pour cette complication qui fait de leur vie un enfer (incontinence, douleurs, infections et rejet du mari ou de la communauté, faisant d’elles des parias).  
 Responsables d’incontinence fécale et/ou urinaire due à une rupture de la paroi entre la vessie, le rectum et le vagin, ces fistules sont la conséquence d'une grossesse trop précoce, d’un accouchement trop long ou mal conduit et/ou d’une mutilation génitale (excision, infibulation).
 
-Pour que toutes les femmes puissent bénéficier d’une chirurgie réparatrice, _Fistula Foundation_ a mis en place une formation en ligne, avec un manuel disponible gratuitement sur le site FIGO, utile tant pour les infirmiers et les sages-femmes que pour les chirurgiens
+Pour que toutes les femmes puissent bénéficier d’une chirurgie réparatrice, *Fistula Foundation* a mis en place une formation en ligne, avec un manuel disponible gratuitement sur le site FIGO, utile tant pour les infirmiers et les sages-femmes que pour les chirurgiens
 
 Par Philippe Reinert, pédiatre, Créteil, France
 
-_Réf_. [http://www.figo.org/publications/miscellaneous.publications](http://www.figo.org/publications/miscellaneous.publications "http://www.figo.org/publications/miscellaneous.publications")  
-Global_ Competency_Based_Fistula_Surgery_Training_Manuel
+*Réf*. [<http://www.figo.org/publications/miscellaneous.publications>](http://www.figo.org/publications/miscellaneous.publications "http://www.figo.org/publications/miscellaneous.publications")  
+Global\_ Competency_Based_Fistula_Surgery_Training_Manuel

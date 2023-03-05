@@ -19,4 +19,4 @@ Il faut cependant rappeler que les résistances sont avant tout le résultat de 
 
 Par Philippe Reinert, pédiatre, Créteil
 
-_Référence : FDA communiqué du 31 Déc. 2012_
+*Référence : FDA communiqué du 31 Déc. 2012*

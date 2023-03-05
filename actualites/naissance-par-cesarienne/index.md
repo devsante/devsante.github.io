@@ -19,4 +19,4 @@ Mais dans tous les cas, rien ne vaut le sein maternel !
 
 Par Philippe Reinert, pédiatre, Créteil
 
-_Ref : Huh Arch Dis Child 2012 ; Jul 97(7): 601-616_
+*Ref : Huh Arch Dis Child 2012 ; Jul 97(7): 601-616*

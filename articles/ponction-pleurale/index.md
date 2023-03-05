@@ -12,19 +12,17 @@ date: "2006-03-17"
 
 ## I. Matériel
 
-*   Alcool iodé.  
-*   Compresses stériles.  
-*   Aiguille munie d'un mandrin (type aiguille à ponction lombaire).  
-*   Seringue de 20 cm<sup>3</sup>.  
-*   Tubulure stérile.  
-*   Bocal.  
-*   Tubes stériles pour prélèvements.  
-*   Xylocaïne à 1 %.  
-*   Seringue de 10 cm<sup>3</sup> et aiguille fine pour anesthésie locale.
-
+- Alcool iodé.
+- Compresses stériles.
+- Aiguille munie d'un mandrin (type aiguille à ponction lombaire).
+- Seringue de 20 cm<sup>3</sup>.
+- Tubulure stérile.
+- Bocal.
+- Tubes stériles pour prélèvements.
+- Xylocaïne à 1 %.
+- Seringue de 10 cm<sup>3</sup> et aiguille fine pour anesthésie locale.
 
 ![](image002-19.jpg)
-
 
 ## II. Technique
 
@@ -36,18 +34,18 @@ Une anesthésie locale est souhaitable. Injecter 2 à 3 cc de Xylocaïne à 1 % 
 
 **Il faut ponctionner** :
 
-*   **Perpendiculairement à la peau.**
-*   **En pleine matité** _(percussion)._
-*   En arrière à 10 cm de la ligne médiane _(en général sous la pointe de l'omoplate)._
-*   Dans un espace intercostal en passant au bord supérieur de la côte inférieure pour ne pas piquer l'artère intercostale.
+- **Perpendiculairement à la peau.**
+- **En pleine matité** *(percussion).*
+- En arrière à 10 cm de la ligne médiane *(en général sous la pointe de l'omoplate).*
+- Dans un espace intercostal en passant au bord supérieur de la côte inférieure pour ne pas piquer l'artère intercostale.
 
 Après avoir traversé la peau et les muscles, il faut retirer le mandrin de l'aiguille et adapter la seringue. Dès lors, l'aiguille est enfoncée progressivement tout en aspirant à l'aide de la seringue.
 
-Lorsque la cavité pleurale est atteinte, on per­çoit un léger ressaut et le liquide fait irruption dans la seringue. Il faut alors prélever du liqui­de pour les examens bactériologiques et chi­miques _(tube sec et tube avec anticoagulant)_.
+Lorsque la cavité pleurale est atteinte, on per­çoit un léger ressaut et le liquide fait irruption dans la seringue. Il faut alors prélever du liqui­de pour les examens bactériologiques et chi­miques *(tube sec et tube avec anticoagulant)*.
 
-Lorsque l'on désire évacuer l'épanchement, il faut adapter une tubulure _(type tubulure de perfusion)_ à l'aiguille préalablement fixée _(sparadrap)_ au thorax du sujet.
+Lorsque l'on désire évacuer l'épanchement, il faut adapter une tubulure *(type tubulure de perfusion)* à l'aiguille préalablement fixée *(sparadrap)* au thorax du sujet.
 
-Il faut demander au malade de ne pas respirer pendant que l'on retire la seringue pour adap­ter la tubulure _(pour éviter la création d'un pneumothorax)_.
+Il faut demander au malade de ne pas respirer pendant que l'on retire la seringue pour adap­ter la tubulure *(pour éviter la création d'un pneumothorax)*.
 
 Avant d'être adaptée à l'aiguille, la tubulure doit être clampée et munie d'une seringue à son extrémité libre.
 
@@ -55,13 +53,13 @@ L'aspiration à la seringue permet ensuite d'amorcer l'évacuation du liquide.
 
 La seringue est alors retirée et l'extrémité de la tubulure est placée dans un bocal posé par terre. L'évacuation du liquide se fait alors seule, **lente­ment**, sous surveillance continue du malade. Lorsque l'évacuation est terminée, l'aiguille est retirée d'un coup sec.
 
-## **III. Incidents**
+## III. Incidents
 
-La piqûre d'un vaisseau intercostal est sans gravité. La piqûre du poumon est révélée par la venue de sang rouge dans la seringue, de la toux et parfois une hémoptysie témoignant que la pénétration était trop profonde _(il suf­fit de retirer l'aiguille d'un cm)._
+La piqûre d'un vaisseau intercostal est sans gravité. La piqûre du poumon est révélée par la venue de sang rouge dans la seringue, de la toux et parfois une hémoptysie témoignant que la pénétration était trop profonde *(il suf­fit de retirer l'aiguille d'un cm).*
 
-L'évacuation trop rapide du liquide pleural est rarement responsable d'un oedème pulmonai­re _(toux, malaise, gêne respiratoire)_ nécessi­tant l'arrêt immédiat de la ponction.
+L'évacuation trop rapide du liquide pleural est rarement responsable d'un oedème pulmonai­re *(toux, malaise, gêne respiratoire)* nécessi­tant l'arrêt immédiat de la ponction.
 
-La création d'un pneumothorax par piqûre du poumon est l'incident le plus fréquent _(il est le plus souvent minime)._
+La création d'un pneumothorax par piqûre du poumon est l'incident le plus fréquent *(il est le plus souvent minime).*
 
 Les accidents neurologiques, la mort subite sont exceptionnels.
 
@@ -69,36 +67,34 @@ Les accidents neurologiques, la mort subite sont exceptionnels.
 
 Il a pour but l'évacuation d'un liquide abondant :
 
-*   pleurésie purulente,
-*   hémothorax,
-*   voire pneumothorax récidivant.
+- pleurésie purulente,
+- hémothorax,
+- voire pneumothorax récidivant.
 
 ### 1. Matériel
 
 De nombreux modèles existent :
 
-*   cathéter monté sur mandrin métallique,
-*   drain semi-rigide avec mandrin.
-
+- cathéter monté sur mandrin métallique,
+- drain semi-rigide avec mandrin.
 
 ![](image004-14.jpg)
-
 
 ### 2. Technique
 
 Prémédication : elle est souhaitable.
 
-*   1/2 mg d'Atropine IM
-*   10 mg de Valium IM pour adulte
+- 1/2 mg d'Atropine IM
+- 10 mg de Valium IM pour adulte
 
 **Lieu de drainage** : il est habituel de ponc­tionner les épanchements gazeux dans le deuxième espace intercostal en avant, un peu plus en bas et en dehors pour les épanche­ments liquidiens.
 
-**Drainage** _(type drain avec mandrin)_ :
+**Drainage** *(type drain avec mandrin)* :
 
-*   La peau est rigoureusement désinfectée.  
-*   Anesthésie locale à la Xylocaïne à 1 % (10 à 20 cc).  
-*   Le drain monté sur le trocart est alors enfon­cé perpendiculairement à la peau.  
-*   L'irruption dans la plèvre se traduit par un ressaut. Le mandrin est alors retiré de 2 à 3 cm et le drain enfoncé de 2 à 3 cm.
+- La peau est rigoureusement désinfectée.
+- Anesthésie locale à la Xylocaïne à 1 % (10 à 20 cc).
+- Le drain monté sur le trocart est alors enfon­cé perpendiculairement à la peau.
+- L'irruption dans la plèvre se traduit par un ressaut. Le mandrin est alors retiré de 2 à 3 cm et le drain enfoncé de 2 à 3 cm.
 
 La répétition de cette opération permet de mettre en place le drain sans risquer de léser le poumon avec le mandrin. Lorsque le drain est en bonne position, il est clampé **pour éviter l'entrée d'air dans la plèvre**.
 
@@ -111,8 +107,8 @@ Il faut vérifier souvent que le drain n'est pas obstrué (déboucher avec du s�
 
 ### 4. Incidents
 
-*   choc rare,
-*   pneumothorax par blessure du poumon,
-*   l'infection doit être prévenue en prenant des précautions chirurgicales lors de la mise en place du drain.
+- choc rare,
+- pneumothorax par blessure du poumon,
+- l'infection doit être prévenue en prenant des précautions chirurgicales lors de la mise en place du drain.
 
-_Développement et santé, n°183, 2006_
+*Développement et santé, n°183, 2006*

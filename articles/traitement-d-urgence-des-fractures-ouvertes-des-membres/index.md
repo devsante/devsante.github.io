@@ -12,11 +12,9 @@ date: "2001-04-02"
 
 Cet exposé situe le problème dans le strict cadre des missions humanitaires, prenant en compte les possibilités locales limitées des pays en développement.
 
-Nous avons schématisé ce traitement dans un tableau (_Tableau 1_), dont chaque case est numérotée : les commentaires sont développés ci-dessous, lorsqu'ils sont nécessaires, avec le rappel du numéro.
-
+Nous avons schématisé ce traitement dans un tableau (*Tableau 1*), dont chaque case est numérotée : les commentaires sont développés ci-dessous, lorsqu'ils sont nécessaires, avec le rappel du numéro.
 
 ![](i920-1.jpg)
-
 
 **1** Les soins sont à mettre en route dès l'admission, d'autant plus qu'elle peut être tardive. De plus, du fait des structures et du personnel local, le transfert au bloc ne sera pas toujours immédiat, aussi, pansement protecteur et alignement provisoire du foyer compléteront, parfois, ces soins médicaux.
 
@@ -30,9 +28,9 @@ Nous avons schématisé ce traitement dans un tableau (_Tableau 1_), dont chaque
 
 Il faut aussi prendre en compte les pertes de substance osseuse avec deux conséquences :
 
-a) les pertes trop larges conduiront parfois aux indications **7 et 20.**
+a\) les pertes trop larges conduiront parfois aux indications **7 et 20.**
 
-b) la réparation secondaire des pertes de substance osseuse est un chapitre important, qui sort de cette étude.
+b\) la réparation secondaire des pertes de substance osseuse est un chapitre important, qui sort de cette étude.
 
 **7 et 12**
 
@@ -46,9 +44,7 @@ Mais une telle pratique n'est pas admissible dans les pays en développement, en
 
 **19 à 24** le plâtre est un pis aller dans les stades **2 et 3** (soins locaux trop aléatoires). Une attelle est concevable dans les cas **19** **20 22 23** mais surtout en traitement provisoire sauf lésions très distales.
 
-
 ![](i920-2.jpg)
-
 
 <table>
 
@@ -70,12 +66,11 @@ Mais une telle pratique n'est pas admissible dans les pays en développement, en
 
 </table>
 
-
 ![](i920-5.jpg)
 
+**25 l'extension continue s'exercera :**
 
-**25 l'extension continue s'exercera :**  
-- à la rigueur par bandage collé  
+- à la rigueur par bandage collé
 - de préférence par broche : Kirschure + étrier tenseur ou Steinmann + étrier simple. Avoir ou faire fabriquer sur place : (attelles de Boppe ou BRAUN au membre inférieur)
 
 (attelles de Pouliquen au membre supérieur) Naturellement le séjour en hôpital s'impose. Maintenir une extension à domicile est trop compliquée
@@ -93,10 +88,9 @@ Beaucoup de lésions maintenues en attelle ou en extension continue 3 ou 4 semai
 
 C'est un exemple dangereux, et un risque excessif.
 
-Il faut savoir qu'après cicatrisation, une ostéo-synthèse est possible même après fixation externe temporaire si la tolérance aux broches a été parfaite et si on laisse cicatriser les orifices quelques jours avant d'intervenir, sous une nouvelle couverture antibiotique.  
+Il faut savoir qu'après cicatrisation, une ostéo-synthèse est possible même après fixation externe temporaire si la tolérance aux broches a été parfaite et si on laisse cicatriser les orifices quelques jours avant d'intervenir, sous une nouvelle couverture antibiotique.
 
 ![](i920-6.jpg)
-  
 
 **Glossaire**
 
@@ -124,10 +118,8 @@ Inconvénient : immobilisation peu rigide.
 
 **7- Polycriblage :** comme son nom le suggère, lacération cutanée par de multiples petites plaies, résultant par exemple de l'action de mine anti-personnel. Souvent superficielles mais toujours souillées, en général ces excoriations ne communiquent pas avec l'os qui s'est fracturé par effet de choc. Leur traitement est le brossage avec antiseptiques, et les pansements gras.
 
-
 ![](i920-7.jpg)
-
 
 **8- Séton :** désigne une lésion par balle ou arme blanche, comportant un orifice d'entrée, un trajet sur lequel se trouve l'os fracturé, un orifice de sortie. Ces lésions peuvent souvent faire l'objet d'un parage limité aux orifices, avec lavage antiseptique du trajet, sous couvert d'antibiotiques.
 
-_Développement et Santé, n°152, avril 2001_
+*Développement et Santé, n°152, avril 2001*

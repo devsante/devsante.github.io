@@ -1,20 +1,16 @@
 ---
 title: "Principe de fonctionnement des comités de santé dans une entreprise minière"
-author: "0. Wembonyama-, K. Mutangala, B. Mbuy"
+author: "0. Wembonyama-, K. Mutangala, B. Mbuy*"
 date: "1998-02-17"
 ---
 
-**Principes de fonctionnement des comités de santé****dans une entreprise minière**
-
-**par 0. Wembonyama-, K. Mutangala, B. Mbuy**
-
-* Professeur de Pédiatrie, Université de Mbujimayi, Directeur du Centre de L'Enfant Africain, République Démocratique du Congo.
+\*Professeur de Pédiatrie, Université de Mbujimayi, Directeur du Centre de L'Enfant Africain, République Démocratique du Congo.
 
 La santé selon l'OMS est un état complet de bien-être physique, mental, social et non seulement d'absence de maladie ou d'infirmité. La mission des professionnels de santé, au-delà de leurs fonctions traditionnelles qui sont celles de combattre la maladie et la mort, doit prendre en charge la promotion de la santé de l'individu, de la famille et de la communauté.
 
 Cette mission, les professionnels de la santé sont appelés à la remplir avec l'ensemble de la communauté, surtout si les facteurs qui ont une influence sur la santé de l'homme sont intégrés. Ces facteurs politiques, géographiques, culturels, socio-économiques, biologiques et sanitaires ne peuvent trouver une solution que dans la communauté et avec elle.
 
-La déclaration d'Alma Ata _(OMS, Alma Ata 1978, Soins de santé primaire, série " Santé pour Tous, n° 1 ")_ souligne le droit et le devoir de tout être humain de participer individuellement et collectivement à la planification et à la mise en œuvre des soins de santé qui lui sont destinés. La plupart des composantes officielles des SSP (soins de santé primaires) concernent la communauté ou tout au moins les disciplines autres que le service médical. Le système des soins de santé actuel privilégie le curatif seulement et la médecine intra-hospitalière ne favorise pas la participation de la communauté. Or, sans la participation de celle-ci, il est difficile de résoudre la majorité des problèmes prioritaires de santé tels que le paludisme, les maladies diarrhéiques, la gale, les pneumopathies, les maladies sexuellement transmissibles.
+La déclaration d'Alma Ata *(OMS, Alma Ata 1978, Soins de santé primaire, série " Santé pour Tous, n° 1 ")* souligne le droit et le devoir de tout être humain de participer individuellement et collectivement à la planification et à la mise en œuvre des soins de santé qui lui sont destinés. La plupart des composantes officielles des SSP (soins de santé primaires) concernent la communauté ou tout au moins les disciplines autres que le service médical. Le système des soins de santé actuel privilégie le curatif seulement et la médecine intra-hospitalière ne favorise pas la participation de la communauté. Or, sans la participation de celle-ci, il est difficile de résoudre la majorité des problèmes prioritaires de santé tels que le paludisme, les maladies diarrhéiques, la gale, les pneumopathies, les maladies sexuellement transmissibles.
 
 **I. La Gécamines et les SSP**
 
@@ -24,13 +20,13 @@ En 1991, nous avons démarré un programme de SSP au sein d'une entreprise mini�
 
 Un des facteurs clés dans le démarrage et le soutien des programme SSP est la participation de toute la communauté dans la planification, le développement et l'évaluation des services de santé.
 
-Les responsables médicaux du programme ont choisi et appliqué des méthodes variées pour promouvoir la participation effective de la communauté. La Gécamines, bien que société d'exploitation minière, a développé un système de soins très performants, basé sur un personnel hautement qualifié, un équipement sophistiqué et un approvisionnement en médicaments dépassant largement ses propres besoins _(Wembonyama O., Pédiatrie Communautaire ; Stratégies pour renforcer la participation de la population. Premier congrès Euro-Sud Africain et Pédiatrie (Johannesburg) du 6 -8 mars 1997)_.
+Les responsables médicaux du programme ont choisi et appliqué des méthodes variées pour promouvoir la participation effective de la communauté. La Gécamines, bien que société d'exploitation minière, a développé un système de soins très performants, basé sur un personnel hautement qualifié, un équipement sophistiqué et un approvisionnement en médicaments dépassant largement ses propres besoins *(Wembonyama O., Pédiatrie Communautaire ; Stratégies pour renforcer la participation de la population. Premier congrès Euro-Sud Africain et Pédiatrie (Johannesburg) du 6 -8 mars 1997)*.
 
 Prenant conscience de la crise qui frappe actuellement (chute des cours des matières premières, diminution des exportations), ce programme des SSP a été initié pour résoudre les problèmes suivants : l'afflux des malades venant de tous les coins du pays, la recrudescence des maladies jadis éradiquées, les difficultés pour l'entreprise de faire face à l'accroissement des coûts, la surcharge de travail pour le personnel soignant, l'insuffisance des médicaments et le recours abusif au curatif.
 
 **2. Premier bilan : résultats positifs et difficultés**
 
-Bien que certains résultats aient été obtenus, notamment dans l'éradication de la rougeoie, la maîtrise des maladies diarrhéiques par la thérapie de réhydratation par voie orale, et dans la diminution de la mortalité infantile qui est passée de 42 à 36 % en trois ans, les activités des SSP ont connu des difficultés _(Wembonyama O., Limites de l'auto responsabilité des communautés dans la réussite des SSP au Zaïre. Panorama Médical, 1996, 14, 880-2.)_
+Bien que certains résultats aient été obtenus, notamment dans l'éradication de la rougeoie, la maîtrise des maladies diarrhéiques par la thérapie de réhydratation par voie orale, et dans la diminution de la mortalité infantile qui est passée de 42 à 36 % en trois ans, les activités des SSP ont connu des difficultés *(Wembonyama O., Limites de l'auto responsabilité des communautés dans la réussite des SSP au Zaïre. Panorama Médical, 1996, 14, 880-2.)*
 
 importantes dues :
 
@@ -60,7 +56,7 @@ Nous sommes en face d'un problème de changement de mentalité vis-à-vis de la 
 
 **Objectifs intermédiaires :** il s'agit d'obtenir de la population l'adoption consciente et volontaire des comportements favorables à la santé, de lui permettre d'occuper une place de partenaire dans l'utilisation des ressources qui sont mises à sa disposition et d'insérer l'action sanitaire dans le processus global du développement communautaire.
 
-**Objectifs spécifiques .** ils prônent la formation d'un corps d'animateurs dans chaque aire de santé afin de promouvoir la participation effective de la population.  
+**Objectifs spécifiques .** ils prônent la formation d'un corps d'animateurs dans chaque aire de santé afin de promouvoir la participation effective de la population.
 
 **4. La détermination** **des actions à mener**
 
@@ -106,17 +102,17 @@ Chaque comité de santé établit son règlement d'ordre intérieur avec un mand
 
 **III. Activités en faveur** **de la collectivité**
 
-*   Entreprendre les activités d'éducation, d'information et de communication par le biais des conférences, chansons, théâtres, affiches, etc...
+- Entreprendre les activités d'éducation, d'information et de communication par le biais des conférences, chansons, théâtres, affiches, etc...
 
-*   Organiser des campagnes d'assainissement du milieu avec la participation de la communauté.
+- Organiser des campagnes d'assainissement du milieu avec la participation de la communauté.
 
-*   Effectuer des visites à domicile.
+- Effectuer des visites à domicile.
 
-*   Organiser avec le concours des services de santé maternelle et infantile (SMI) des campagnes de vaccination.
+- Organiser avec le concours des services de santé maternelle et infantile (SMI) des campagnes de vaccination.
 
-*   Dépister des problèmes de santé dans la communauté (diarrhée, rougeole ... ).
+- Dépister des problèmes de santé dans la communauté (diarrhée, rougeole ... ).
 
-*   Relever les problèmes d'organisation (les femmes s'absentent ou reviennent tard de la PMI, les écoliers non malades viennent sans leurs parents encombrant la consultation, etc.).
+- Relever les problèmes d'organisation (les femmes s'absentent ou reviennent tard de la PMI, les écoliers non malades viennent sans leurs parents encombrant la consultation, etc.).
 
 **IV. Rôles des différents** **partenaires**
 
@@ -136,7 +132,7 @@ Chaque comité de santé établit son règlement d'ordre intérieur avec un mand
 
 - mobiliser la population pour les réunions d'éducation pour la santé et les travaux d'utilité collective,
 
-- obtenir le recensement des habitants de la cité et par quartier.  
+- obtenir le recensement des habitants de la cité et par quartier.
 
 **2. Le responsable du service médical a comme rôle :**
 
@@ -172,15 +168,15 @@ L'infirmier ou l'assistant médical évitera au maximum de diriger les débats. 
 
 Les apports sont évidents.
 
-*   Le changement de comportement de la communauté s'est traduit par l'acceptation du rôle de la communauté dans l'analyse des principaux facteurs influant sur l'état de santé de la population. De plus, le service médical n'appariait plus comme un seul responsable de la santé des individus et la prise en charge par la population de ses propres problèmes de santé est devenue une réalité.
+- Le changement de comportement de la communauté s'est traduit par l'acceptation du rôle de la communauté dans l'analyse des principaux facteurs influant sur l'état de santé de la population. De plus, le service médical n'appariait plus comme un seul responsable de la santé des individus et la prise en charge par la population de ses propres problèmes de santé est devenue une réalité.
 
-*   La diminution de la morbidité et de la mortalité, surtout en ce qui concerne les maladies transmissibles et les maladies de carence.
+- La diminution de la morbidité et de la mortalité, surtout en ce qui concerne les maladies transmissibles et les maladies de carence.
 
-*   La diminution de la fréquentation des centres de santé et des hôpitaux.
+- La diminution de la fréquentation des centres de santé et des hôpitaux.
 
-*   La maîtrise des dépenses de santé.
+- La maîtrise des dépenses de santé.
 
-*   La diminution des revendications et des récriminations par les travailleurs.
+- La diminution des revendications et des récriminations par les travailleurs.
 
 **VI. Contraintes et obstacles**
 
@@ -196,20 +192,20 @@ Les apports sont évidents.
 
 Les activités et le fonctionnement des COSA sont dynamiques. Pour les améliorer et les rendre encore plus efficaces, il importe de :
 
-*   Favoriser l'initiative propre aux COSA.
+- Favoriser l'initiative propre aux COSA.
 
-*   Multiplier les séminaires de formation.
+- Multiplier les séminaires de formation.
 
-*   Motiver le personnel des SSP (formation, primes, promotion).
+- Motiver le personnel des SSP (formation, primes, promotion).
 
-*   Multiplier les actions concrètes sur le terrain.
+- Multiplier les actions concrètes sur le terrain.
 
-*   Allouer un budget conséquent aux programmes entrepris.
+- Allouer un budget conséquent aux programmes entrepris.
 
-*   Évaluer et critiquer périodiquement les activités.
+- Évaluer et critiquer périodiquement les activités.
 
 **Conclusion**
 
 L'installation des comités fait progresser le problème de santé communautaire à la Gécamines en permettant de surmonter certains obstacles. La prise de conscience par la communauté de la gravité des problèmes de santé, sa participation dans les activités de prévention sont une garantie de la réussite de ce programme.
 
-_Développement et Santé, n° 133, février 1998_
+*Développement et Santé, n° 133, février 1998*

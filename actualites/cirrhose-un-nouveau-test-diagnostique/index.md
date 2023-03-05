@@ -16,10 +16,10 @@ Plusieurs études cliniques ont été présentées au congrès de l’AFEF (Asso
 
 ### En pratique
 
-L’examen, prescrit par le médecin et effectué dans tout laboratoire, nécessite un simple prélèvement sanguin à jeun. L’analyse, réalisée en moins de cinq jours, évalue 6 paramètres : plaquettes, taux de prothrombine, ASAT, hyaluronate, urée, alpha 2 macroglobuline. Les valeurs de ces dosages, ainsi que le sexe et l’âge du patient, sont saisis sur le site internet [www.biols.fr](http://www.biols.fr "www.biols.fr") qui, au moyen d’un calculateur, donne et commente le résultat qui indique la probabilité d’avoir une cirrhose. Le résultat est communiqué au biologiste, au médecin prescripteur et au patient.
+L’examen, prescrit par le médecin et effectué dans tout laboratoire, nécessite un simple prélèvement sanguin à jeun. L’analyse, réalisée en moins de cinq jours, évalue 6 paramètres : plaquettes, taux de prothrombine, ASAT, hyaluronate, urée, alpha 2 macroglobuline. Les valeurs de ces dosages, ainsi que le sexe et l’âge du patient, sont saisis sur le site internet [[www.biols.fr](http://www.biols.fr)](http://www.biols.fr "www.biols.fr") qui, au moyen d’un calculateur, donne et commente le résultat qui indique la probabilité d’avoir une cirrhose. Le résultat est communiqué au biologiste, au médecin prescripteur et au patient.
 
 ### Conclusion
 
 Le CirrhoMètre constitue un test à la fois simple, non invasif, rapide et de coût peu élevé utile au diagnostic de cirrhose.
 
-_Vallois B. Le CirrhoMètre, un test sanguin de diagnostic de la cirrhose. Le Quotidien du Médecin, N° 9015, 30 sept. 2011._
+*Vallois B. Le CirrhoMètre, un test sanguin de diagnostic de la cirrhose. Le Quotidien du Médecin, N° 9015, 30 sept. 2011.*

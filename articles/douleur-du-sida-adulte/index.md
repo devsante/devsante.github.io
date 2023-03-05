@@ -6,7 +6,7 @@ date: "1997-10-03"
 
 <div class="teaser"><p>La douleur, facteur majeur de handicap chez les patients infectés par le VIH, est largement sous-estimée, d'où une prise en charge très insuffisante.</p></div>
 
-Les douleurs observées chez ces patients peuvent avoir diverses origines parmi lesquelles on peut citer : l' infection VIH elle-même, les traitements antiviraux et anticancéreux ou encore les infections secondaires et les traitements invasifs ou chirurgicaux qu'elles entraînent. En outre la douleur peut être due à une affection intercurrente non liée au VIH (voir _tableau ci-dessous)._
+Les douleurs observées chez ces patients peuvent avoir diverses origines parmi lesquelles on peut citer : l' infection VIH elle-même, les traitements antiviraux et anticancéreux ou encore les infections secondaires et les traitements invasifs ou chirurgicaux qu'elles entraînent. En outre la douleur peut être due à une affection intercurrente non liée au VIH (voir *tableau ci-dessous).*
 
 <table>
 <caption>Principaux syndromes douloureux observés au cours de l'infection par le VIH</caption>
@@ -67,9 +67,9 @@ Douleurs ostéo-articulaires
 
 </table>
 
-De façon générale, trois types de douleurs peuvent être distingués chez ces patients comme dans l'ensemble de la population générale : _les douleurs nociceptives, les douleurs neuropathiques_ et les _douleurs idiopathiques_ qui se manifestent en l'absence d'atteinte organique connue.
+De façon générale, trois types de douleurs peuvent être distingués chez ces patients comme dans l'ensemble de la population générale : *les douleurs nociceptives, les douleurs neuropathiques* et les *douleurs idiopathiques* qui se manifestent en l'absence d'atteinte organique connue.
 
-## **I. Les douleurs nociceptives**
+## I. Les douleurs nociceptives
 
 Les lésions susceptibles d'entraîner des douleurs nociceptives sont très nombreuses chez ces patients. Les étiologies les plus fréquentes sont : oropharyngées, gastro-intestinales et rhumatologiques. Les céphalées seront également abordées dans la mesure où leur traitement répond aux mêmes principes.
 
@@ -95,11 +95,12 @@ Les myopathies douloureuses observées aux stades précoces ou intermédiaires d
 
 De nombreux patients présentant un sida souffrent de céphalées. Leur existence doit avant tout faire évoquer une complication neurologique de la maladie (encéphalite, méningite, infections opportunistes virales ou non, lymphomes ... ) et conduire à une recherche étiologique en utilisant les investigations cliniques et paracliniques appropriées. On peut noter également que la zidovudine peut entraîner des céphalées.
 
-## **II. Les douleurs neuropathiques**
+## II. Les douleurs neuropathiques
 
 Les complications neurologiques sont parmi les plus fréquemment rencontrées au cours de l'infection par le VIH. Certaines d'entre elles peuvent être à l'origine de douleurs qui auront les caractéristiques habituelles des douleurs neuropathiques. Il peut s'agir de douleurs secondaires à une lésion centrale (toxoplasmose cérébrale) ; mais le plus souvent, les douleurs sont liées à une **atteinte périphérique**.
 
-### Les principales étiologies des douleurs  
+### Les principales étiologies des douleurs
+
 neuropathiques périphériques sont :
 
 Les neuropathies à VIH, les névralgies postzostériennes, les neuropathies toxiques secondaires aux traitements antiviraux (didanosine, zalcitabine) et en raison de leur grande prévalence dans la population générale, les neuropathies diabétiques. La topographie des douleurs peut être bilatérale et symétrique (polyneuropathie sensitive distale liée au VIH), asymétrique avec irradiations radiculaires (polyneuropathie liée au CMV ; polyradiculopathies inflammatoires aiguës ou chroniques) ou tronculaire (monovrite simple ou multiple).
@@ -110,12 +111,12 @@ Le tableau clinique comporte souvent : une hypoesthésie mécanique et thermique
 
 Il est le plus souvent dominé par une riche symptomatologie sensitive associant :
 
-*   Des paresthésies/dysesthésies (environ 30 % des cas) et
-*   Surtout des douleurs des membres inférieurs, présentes chez environ 60 % des patients. Il s'agit en général de brûlures intenses des pieds,
-*   D'autres types de sensations plus élaborées (sensations de morsures, de lacérations, sensations de marcher sur des cailloux acérés ... ) sont souvent rapportées.  
-*   Les phénomènes d'allodynie (douleur provoquée par des stimulations non nociceptives) et hyperalgésie (réponse exagérée à des stimulations nociceptives) sont extrêmement fréquents et invalidants. Ces douleurs peuvent rendre la marche totalement impossible et confiner ces patients dans un fauteuil roulant. Il n'existe pas de traitement spécifique de cette polyneuropathie (vraisemblablement liée au VIH).
+- Des paresthésies/dysesthésies (environ 30 % des cas) et
+- Surtout des douleurs des membres inférieurs, présentes chez environ 60 % des patients. Il s'agit en général de brûlures intenses des pieds,
+- D'autres types de sensations plus élaborées (sensations de morsures, de lacérations, sensations de marcher sur des cailloux acérés ... ) sont souvent rapportées.
+- Les phénomènes d'allodynie (douleur provoquée par des stimulations non nociceptives) et hyperalgésie (réponse exagérée à des stimulations nociceptives) sont extrêmement fréquents et invalidants. Ces douleurs peuvent rendre la marche totalement impossible et confiner ces patients dans un fauteuil roulant. Il n'existe pas de traitement spécifique de cette polyneuropathie (vraisemblablement liée au VIH).
 
-## **III. Principe du traitement des douleurs du sida**
+## III. Principe du traitement des douleurs du sida
 
 La prise en charge de la douleur doit s'intégrer dans le cadre du traitement des complications de la maladie. En l'absence de protocole validé de traitement des douleurs liées au VIH, le schéma de traitement de la douleur cancéreuse élaboré par l'Organisation mondiale de la santé (OMS) peut être utilisé comme base de départ.
 
@@ -133,4 +134,4 @@ Au cours d'une infection VIH évoluée, il est souvent nécessaire de recourir a
 
 Ce schéma s'applique pour les douleurs nociceptives. Le traitement des douleurs neuropathiques repose sur l'utilisation d'agents pharmacologiques appartenant à d'autres classes thérapeutiques : antidépresseurs tricycliques et anticonvulsivants (carbamazepine, valproate, phénitoïne) pour l'essentiel. L'utilisation de moyens non médicamenteux tels que les stimulations électriques transcutanées, l'hypnose, l'acupuncture peut également être utile chez ces patients. La kinésithérapie et les diverses techniques de rééducation, doivent avoir une place importante et être envisagées le plus précocement possible. Enfin, comme chez tout douloureux chronique, l'évaluation et la prise en charge des facteurs psychologiques, du retentissement socio-professionnel et familial, font partie intégrante du traitement de ces patients.
 
-_Développement et Santé, n° 131, octobre 1997_
+*Développement et Santé, n° 131, octobre 1997*

@@ -30,10 +30,10 @@ Le diagnostic est d'évaluer la fréquence des situations d'urgence et la maniè
 
 Le diagnostic étant fait, il s'agit de traiter, c'est-à-dire de mettre en place un programme dans lequel sont définies précisément toutes les activités requises pour un plan d'action urgence efficace. À titre indicatif :
 
-*   former le personnel au diagnostic et au traitement d'urgences,
-*   assurer la disponibilité des ressources (médicaments, matériels...  
-*   assurer les modalités de transfert,
-*   évaluer l'efficacité du système.
+- former le personnel au diagnostic et au traitement d'urgences,
+- assurer la disponibilité des ressources (médicaments, matériels...
+- assurer les modalités de transfert,
+- évaluer l'efficacité du système.
 
 Enfin, il s'agit de ne pas oublier qu'un bon plan est un plan qui prévient les urgences:
 
@@ -43,4 +43,4 @@ Enfin, il s'agit de ne pas oublier qu'un bon plan est un plan qui prévient les 
 
 Parler de programme de santé publique renvoie le plus souvent à la lutte contre les grandes endémies, n'oublions pas que la qualité des soins donnés aux malades est une priorité de santé publique surtout si une mauvaise prise en charge se traduit par des décès ou des handicaps évitables. Tout système de soins, du dispensaire à l'hôpital, doit avoir son plan d'urgence des urgences.
 
-_Développement et Santé, n°118, août 1995_
+*Développement et Santé, n°118, août 1995*

@@ -8,7 +8,7 @@ Une biopsie cutanée bien faite apporte d'inestimables renseignements dans de no
 
 Dans ce paragraphe nous abordons d'une manière résumée les indications des biopsies cutanées qui, à elles seules, pourront faire l'objet d'un article ultérieur.
 
-## **I. Indications**
+## I. Indications
 
 Les biopsies cutanées sont indispensables dans le diagnostic des tumeurs cutanées : épithélioma et carcinome basocellulaires, spinocellulaires, sarcome cutané tel que la maladie de Darier Ferrand ou la maladie de Kaposi, etc. Pour le mélanome malin, heureusement rare en Afrique, l'idéal est de faire une exérèse chirurgicale large d'emblée. Parfois, la maladie sera découverte par hasard sur une biopsie cutanée.
 
@@ -16,11 +16,11 @@ Les biopsies cutanées sont également très nécessaires dans certaines maladie
 
 La biopsie cutanée est enfin très importante pour les maladies plus dermatologiques : lichen plan, eczéma, sarcoïdose de Besnier Boeck Schauman, taxidermie due à un médicament (éruption survenant après la prise de sulfamide par exemple), sclérodermie, vascularite allergique avec leucocytoclasie, etc.
 
-## **II. Choix de la zone à biopsier**
+## II. Choix de la zone à biopsier
 
 Ordinairement, la biopsie se fait à cheval entre la zone anormale et la peau saine. La biopsie devra être plus profonde pour les lésions hypodermiques (érythème noueux, fasciite, etc.). L'incision se fera de préférence parallèle aux lignes de traction naturelle de la peau pour faciliter la cicatrisation et éviter le lâchage des sutures.
 
-## **III. Réalisation de la biopsie**
+## III. Réalisation de la biopsie
 
 Une biopsie à visée diagnostique n'est pas une exérèse. Elle ne doit être ni trop petite (difficulté de l'examen anatomo-pathologique), ni trop grande (en moyenne 1,5 x 0,5 cm ou bien 2 x 0,5 cm). N'oublions pas qu'il y a une rétraction importante de la peau dans le fixateur. Le fragment biopsique va spontanément perdre 30 à 50 % de son volume apparent. La biopsie cutanée doit être d'autant plus grande qu'il peut y avoir une partie à envoyer au laboratoire de microbiologie.
 
@@ -34,18 +34,18 @@ Pour toutes les biopsies cutanées, on doit ensuite suturer les bords aseptiquem
 
 On met un petit pansement pour protéger la zone biopsiée, à changer tous les deux ou trois jours après nettoyage "doux" , de la cicatrice par un antiseptique usuel. Les fils sont à retirer en moyenne quinze jours après la biopsie avec une pince à disséquer et de petits ciseaux. Dans les zones qui cicatrisent mal et où risque de se développer une cicatrice hypertrophique (chéloïde) (région des oreilles, région médiosternale, épaule), on tâche de réaliser un pansement compressif pour une durée plus longue (un ou deux mois).
 
-## **IV. Matériel pour réaliser une biopsie cutanée**
+## IV. Matériel pour réaliser une biopsie cutanée
 
 Il s'agit d'un matériel de petite chirurgie classique, stérile, normalement contenu dans une boîte métallique, stérilisée après usage. Ce matériel est identique à celui qui sert à faire des points de sutures pour les plaies cutanées :
 
-*   bistouri : le mieux est celui à lame interchangeable,
-*   pinces à dissection à petites griffes : il est important d'avoir une pince à dissection avec des petites griffes pour ne pas abîmer le prélèvement au moment de l'exérèse et ne pas l'écraser,
-*   porte-aiguilles ordinaire pour la suture,
-*   fil 3 x "0" ou 5 x "0" , et aiguille courbe,
-*   anesthésique local : xylocaïne à 1 % adrénalinée sauf s'il s'agit d'anesthésie des extrémités (doigt, nez, orteil) et chez des sujets qui ont des antécédents de maladie cardio-vasculaire, dans ces cas, utiliser une xylocaïne simple
-*   seringue pour anesthésie locale, de 2 à 5 ml,
-*   aiguille fine mesurant de 0,5 à 0,3 mm de diamètre par exemple,
-*   si possible, l'opérateur aura intérêt à se procurer des gants à usage unique. Il est bon de disposer d'un petit champ opératoire et si l'on n'en possède pas, deux compresses stériles étalées de chaque côté de la zone à prélever seront aussi utiles.
+- bistouri : le mieux est celui à lame interchangeable,
+- pinces à dissection à petites griffes : il est important d'avoir une pince à dissection avec des petites griffes pour ne pas abîmer le prélèvement au moment de l'exérèse et ne pas l'écraser,
+- porte-aiguilles ordinaire pour la suture,
+- fil 3 x "0" ou 5 x "0" , et aiguille courbe,
+- anesthésique local : xylocaïne à 1 % adrénalinée sauf s'il s'agit d'anesthésie des extrémités (doigt, nez, orteil) et chez des sujets qui ont des antécédents de maladie cardio-vasculaire, dans ces cas, utiliser une xylocaïne simple
+- seringue pour anesthésie locale, de 2 à 5 ml,
+- aiguille fine mesurant de 0,5 à 0,3 mm de diamètre par exemple,
+- si possible, l'opérateur aura intérêt à se procurer des gants à usage unique. Il est bon de disposer d'un petit champ opératoire et si l'on n'en possède pas, deux compresses stériles étalées de chaque côté de la zone à prélever seront aussi utiles.
 
 La biopsie au "punch " nécessitant un matériel plus cher pour un résultat qui n'a rien de supérieur, sera avantageusement remplacée par la méthode décrite ci-dessus.
 
@@ -115,7 +115,7 @@ Duboscq Brasil
 
 - acide picrique
 
-- alcool à 70&deg;
+- alcool à 70°
 
 </td>
 
@@ -165,9 +165,9 @@ Duboscq Brasil
 
 </table>
 
-* Pour ce fixateur, **la** **partie chlorure de** **mercure étant toxique,** on ne jette pas après usage l'ancien fixateur, mais on le stocke dans des bouteilles auxquelles on ajoute, pour un litre de fixateur usagé, 10 ml de la solution : thioacétamide 13 g, eau distillée 100 ml. On laisse un précipité se former pendant 24 heures et on filtre ce précipité que l'on stocke à part à l'état solide (lequel précipité contient les sels mercuriques résiduels qui ne doivent pas polluer).
+- Pour ce fixateur, **la** **partie chlorure de** **mercure étant toxique,** on ne jette pas après usage l'ancien fixateur, mais on le stocke dans des bouteilles auxquelles on ajoute, pour un litre de fixateur usagé, 10 ml de la solution : thioacétamide 13 g, eau distillée 100 ml. On laisse un précipité se former pendant 24 heures et on filtre ce précipité que l'on stocke à part à l'état solide (lequel précipité contient les sels mercuriques résiduels qui ne doivent pas polluer).
 
-## **V. Que faire du fragment biopsié ? Fixation**
+## V. Que faire du fragment biopsié ? Fixation
 
 Il faut le mettre dans un flacon contenant des fixateurs décrits ci-dessous (5 à 20 ml de fixateur pour un fragment qui mesure 1 à 2 cm).
 
@@ -181,22 +181,20 @@ Le fixateur " formol-acide acétique " permet une meilleure coloration histologi
 
 Le "liquide Bouin alcoolique" est l'un des plus utilisés, permettant une bonne histologie.
 
-Le " fixateur de Harmann-Lowy " donne une excellente histologie, non seulement pour les biopsies cutanées, mais pour beaucoup d'autres organes (biopsies médullaires, ganglionnaires, tumeurs, conjonctivites, etc.). Il faut se souvenir qu'avec ce fixateur mercurique, on a intérêt à recouper les pièces au bout de 5 à 10 minutes de fixation pour une pénétration plus rapide du fixateur. Les biopsies sont recoupées en fragments ne dépassant pas 2 mm d'épaisseur. Elles doivent fixer environ deux heures. On met ensuite le fragment dans de l'alcool à 70&deg; où il pourra rester plusieurs jours sans problème et subir un transport pour être envoyé dans un laboratoire d'anatomie pathologique.
-
+Le " fixateur de Harmann-Lowy " donne une excellente histologie, non seulement pour les biopsies cutanées, mais pour beaucoup d'autres organes (biopsies médullaires, ganglionnaires, tumeurs, conjonctivites, etc.). Il faut se souvenir qu'avec ce fixateur mercurique, on a intérêt à recouper les pièces au bout de 5 à 10 minutes de fixation pour une pénétration plus rapide du fixateur. Les biopsies sont recoupées en fragments ne dépassant pas 2 mm d'épaisseur. Elles doivent fixer environ deux heures. On met ensuite le fragment dans de l'alcool à 70° où il pourra rester plusieurs jours sans problème et subir un transport pour être envoyé dans un laboratoire d'anatomie pathologique.
 
 ![](i734-1.jpg)
 
-
-## **VII. I'acheminement**
+## VII. I'acheminement
 
 L'acheminement d'une biopsie vers un laboratoire se fait dans un flacon bien bouché dont on aura préalablement vérifié qu'il ne fuit pas et ne perd pas le fixateur en cours de route. Ce premier flacon est mis dans une boîte hermétique avec la fiche de renseignements cliniques correspondant au patient et envoyé dans un laboratoire d'anatomie pathologique.
 
 Pour chaque patient est remplie une fiche de renseignements cliniques la plus détaillée possible et ne comportant pas d'erreur pour que l'examen en laboratoire soit fait dans les meilleures conditions et comportant :
 
-*   nom, prénom, date de naissance du patient,
-*   aspect clinique des lésions,
-*   zone prélevée pour la biopsie,
-*   diagnostic suspecté.
+- nom, prénom, date de naissance du patient,
+- aspect clinique des lésions,
+- zone prélevée pour la biopsie,
+- diagnostic suspecté.
 
 Ne pas hésiter à faire un petit schéma de la zone prélevée.
 
@@ -206,8 +204,8 @@ Pour certaines dermatoses (maladie bulleuse, vascularite), on pourra s'adresser 
 
 Pour cela, il faut mettre le fragment dans un fixateur spécial :
 
-*   sulfate d'ammonium (NH<sub>4</sub>)2 SO<sub>4</sub> 0,55 g
-*   tampon PBS pH 7,4 1 litre
+- sulfate d'ammonium (NH<sub>4</sub>)2 SO<sub>4</sub> 0,55 g
+- tampon PBS pH 7,4 1 litre
 
 Ce fixateur peut être conservé trois mois à 4°  C au réfrigérateur.
 
@@ -215,4 +213,4 @@ Une fois le prélèvement fait, il faut que le fragment arrive dans les dix jour
 
 Les techniques plus complexes (fixation pour la microscopie électronique, congélation d'emblée, culture de cellules, etc.) sont à décider directement avec les laboratoires susceptibles de les réaliser.
 
-_Développement et Santé, n° 129, juin 1997_
+*Développement et Santé, n° 129, juin 1997*

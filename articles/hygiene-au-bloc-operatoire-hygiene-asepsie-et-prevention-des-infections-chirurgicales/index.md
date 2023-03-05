@@ -17,33 +17,33 @@ Les vêtements de ville sont permis uniquement dans les vestiaires où ils doive
 
 ### 1. Tenue de BO
 
-*   Dans les zones protégées, le personnel doit porter une tenue de BO (pantalon et chemise) neuve (non tissée, à usage unique) ou sortant du blanchissage s’il s’agit de tissu réutilisable.  
-*   Une tenue vestimentaire de BO nouvelle doit être portée chaque jour.  
-*   La tenue de BO doit être changée ou enlevée quand elle devient sale ou mouillée ou après une opération septique importante.  
-*   Les tenues de BO doivent être retirées et déposées dans un sac ou baquet réservé à cet usage et ce, avant de quitter le BO.  
-*   La tenue chirurgicale doit être retirée à la sortie du BO et une tenue propre doit être portée dès une nouvelle entrée.
+- Dans les zones protégées, le personnel doit porter une tenue de BO (pantalon et chemise) neuve (non tissée, à usage unique) ou sortant du blanchissage s’il s’agit de tissu réutilisable.
+- Une tenue vestimentaire de BO nouvelle doit être portée chaque jour.
+- La tenue de BO doit être changée ou enlevée quand elle devient sale ou mouillée ou après une opération septique importante.
+- Les tenues de BO doivent être retirées et déposées dans un sac ou baquet réservé à cet usage et ce, avant de quitter le BO.
+- La tenue chirurgicale doit être retirée à la sortie du BO et une tenue propre doit être portée dès une nouvelle entrée.
 
 ### 2. Bonnets
 
-*   Les poils et cheveux sont une source majeure de germes et un important contaminant. Ils attirent et déversent les bactéries proportionnellement à leur longueur, leur adiposité, leur ondulation.  
-*   Les poils et cheveux doivent être complètement recouverts par un bonnet régulièrement renouvelé, notamment à chaque nouvelle entrée dans le BO, et retiré en quittant celui-ci (pour qu’il soit lavé quotidiennement).
+- Les poils et cheveux sont une source majeure de germes et un important contaminant. Ils attirent et déversent les bactéries proportionnellement à leur longueur, leur adiposité, leur ondulation.
+- Les poils et cheveux doivent être complètement recouverts par un bonnet régulièrement renouvelé, notamment à chaque nouvelle entrée dans le BO, et retiré en quittant celui-ci (pour qu’il soit lavé quotidiennement).
 
 ### 3. Chaussures
 
-*   Seules des chaussures de BO doivent être portées : elles doivent fournir une protection contre les objets liquides et tranchants et sont préférées aux chaussures normales.  
-*   Avant de quitter le BO, les chaussures doivent être enlevées et déposées dans un réceptacle désigné.  
-*   Enlever ses chaussures peut être source de contamination des mains par des micro-organismes : les mains qui doivent donc ensuite être lavées.
+- Seules des chaussures de BO doivent être portées : elles doivent fournir une protection contre les objets liquides et tranchants et sont préférées aux chaussures normales.
+- Avant de quitter le BO, les chaussures doivent être enlevées et déposées dans un réceptacle désigné.
+- Enlever ses chaussures peut être source de contamination des mains par des micro-organismes : les mains qui doivent donc ensuite être lavées.
 
 ### 4. Masques
 
-*   Les masques sont portés dans la zone protégée en présence d’objets ou d’équipements stériles ouverts ou si l’on doit être en contact avec des personnes en casaque.  
-*   Ils doivent complètement couvrir le nez et la bouche, être parfaitement ajustés à la forme du visage, et attachés par deux cordons noués derrière la tête.  
-*   Ils contiennent des gouttelettes qui sont expulsées par la bouche et la gorge en parlant, éternuant et toussant.  
-*   Ils protègent aussi ceux qui les portent de l’exposition à des organismes pathogènes de l’environnement et de l’exposition à des particules aérosols ou des éclaboussures crées par les actes chirurgicaux.  
-*   Les masques jetables (à haute filtration) protègent mieux que ceux tissés, mais ils sont plus chers.  
-*   Les masques qui ont été portés sont contaminés. Ils doivent être enlevés et jetés en manipulant seulement les cordons d’attache.  
-*   Leur manipulation après utilisation peut contaminer les mains : le personnel doit se laver les mains après avoir manipulé et jeté un masque usé.  
-*   Le pouvoir filtrant d’un masque est dépassé au bout de 2 heures. Il faut donc le changer régulièrement.
+- Les masques sont portés dans la zone protégée en présence d’objets ou d’équipements stériles ouverts ou si l’on doit être en contact avec des personnes en casaque.
+- Ils doivent complètement couvrir le nez et la bouche, être parfaitement ajustés à la forme du visage, et attachés par deux cordons noués derrière la tête.
+- Ils contiennent des gouttelettes qui sont expulsées par la bouche et la gorge en parlant, éternuant et toussant.
+- Ils protègent aussi ceux qui les portent de l’exposition à des organismes pathogènes de l’environnement et de l’exposition à des particules aérosols ou des éclaboussures crées par les actes chirurgicaux.
+- Les masques jetables (à haute filtration) protègent mieux que ceux tissés, mais ils sont plus chers.
+- Les masques qui ont été portés sont contaminés. Ils doivent être enlevés et jetés en manipulant seulement les cordons d’attache.
+- Leur manipulation après utilisation peut contaminer les mains : le personnel doit se laver les mains après avoir manipulé et jeté un masque usé.
+- Le pouvoir filtrant d’un masque est dépassé au bout de 2 heures. Il faut donc le changer régulièrement.
 
 ### 5. Bijoux
 
@@ -55,8 +55,8 @@ Les ongles doivent être propres et courts et le vernis à ongle évité.
 
 ### 7. Autres équipements personnels de protection
 
-*   Les lunettes de BO apportent une bonne protection oculaire.  
-*   Les tabliers et chaussures imperméables à l’humidité doivent être portés chaque fois qu’il y a un risque de déperdition d’une quantité importante de sang ou de liquides organiques qui peuvent contaminer les vêtements ou les casaques stériles. Dans ces cas, les gants non stériles peuvent aussi être portés et ils doivent être changés entre chaque intervention. Les mains doivent être lavées après le retrait des gants.
+- Les lunettes de BO apportent une bonne protection oculaire.
+- Les tabliers et chaussures imperméables à l’humidité doivent être portés chaque fois qu’il y a un risque de déperdition d’une quantité importante de sang ou de liquides organiques qui peuvent contaminer les vêtements ou les casaques stériles. Dans ces cas, les gants non stériles peuvent aussi être portés et ils doivent être changés entre chaque intervention. Les mains doivent être lavées après le retrait des gants.
 
 ## III. Le patient
 
@@ -78,8 +78,8 @@ C’est l’endroit où le personnel du BO interagit avec l’extérieur : il co
 
 #### b. La zone à accès réglementé
 
-*   Elle inclut l’endroit où se situent les meubles propres de stockage, les zones de traitement des instruments et les couloirs menant aux zones à accès limité.  
-*   La tenue de BO, le chapeau et les chaussures de BO sont obligatoires. Seul le personnel de bloc et le patient y sont autorisés.
+- Elle inclut l’endroit où se situent les meubles propres de stockage, les zones de traitement des instruments et les couloirs menant aux zones à accès limité.
+- La tenue de BO, le chapeau et les chaussures de BO sont obligatoires. Seul le personnel de bloc et le patient y sont autorisés.
 
 #### c. La zone à accès limité
 
@@ -89,11 +89,11 @@ C’est l’endroit où sont réalisées les opérations et où sont stockées l
 
 Un certain nombre de règles doivent être respectées pour diminuer l’incidence des infections post-opératoires :
 
-*   La taille optimale de la plupart des SO doit permettre facilement l’habillage, le drapage, la circulation du personnel et l’utilisation de l’équipement sans risque de contamination par contact ou par les particules septiques en suspension dans l’air.  
-*   La porte de la SO doit rester fermée sauf pour le passage de l’équipement et du patient.  
-*   Le nombre de personnes autorisées à entrer dans chaque SO doit, tout en étant suffisant, rester minimal pour éviter de véhiculer trop des germes au cours des déplacements.  
-*   Les sols du BO doivent être lavables, non poreux, résistants.  
-*   Le personnel ne doit pas être autorisé à entrer dans la SO sans une tenue de BO, un chapeau et une bavette.
+- La taille optimale de la plupart des SO doit permettre facilement l’habillage, le drapage, la circulation du personnel et l’utilisation de l’équipement sans risque de contamination par contact ou par les particules septiques en suspension dans l’air.
+- La porte de la SO doit rester fermée sauf pour le passage de l’équipement et du patient.
+- Le nombre de personnes autorisées à entrer dans chaque SO doit, tout en étant suffisant, rester minimal pour éviter de véhiculer trop des germes au cours des déplacements.
+- Les sols du BO doivent être lavables, non poreux, résistants.
+- Le personnel ne doit pas être autorisé à entrer dans la SO sans une tenue de BO, un chapeau et une bavette.
 
 Il faut respecter au maximum le principe d’un double circuit « propre » et « sale ». Les objets qui sont considérés comme contaminés, souillés ou sales ne doivent pas être transportés dans le même couloir que les objets propres et stériles.  
 Par exemple, à l’hôpital, les meubles utilisés pour un acte doivent être choisis dans une zone propre du BO, et après l’acte, tous les instruments souillés et/ou les autres objets contaminés doivent sortir du BO par un couloir périphérique où ils sont transportés dans une zone de décontamination.  

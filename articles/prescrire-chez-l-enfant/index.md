@@ -15,9 +15,7 @@ date: "2002-06-10"
 
 Dans l'organisme, les médicaments sont successivement résorbés, distribués, métabolisés puis éliminés.
 
-
 ![](i916-1.jpg)
-
 
 ### 1. Résorption
 
@@ -29,21 +27,21 @@ Chez le nourrisson, la lenteur de la vidange gastrique et la vitesse réduite de
 
 La résorption des suppositoires est très variable, quel que soit l'âge, on ne connaît donc pas la dose de médicament qui sera active. Par conséquent, il est préférable d'éviter cette voie, sauf en cas d'intolérance gastrique ou de refus d'une forme orale. De plus la conservation des suppositoires est difficile en milieu tropical (à conserver au réfrigérateur). **Deux exceptions :** Le diazepam (Valium®) rectal, aussi efficace par la voie rectale que par I.V. et également la quinine intra-rectale.
 
-#### **Voie intramusculaire**
+#### Voie intramusculaire
 
 La vitesse de résorption I.M. des médicaments est très diminuée chez le nouveau-né et le nourrisson car les masses musculaires sont faibles.  
 Il vaut mieux éviter cette voie, sauf pour certains vaccins naturellement.
 
-#### **Voie percutanée**
+#### Voie percutanée
 
 Attention ! La peau du nourrisson est très perméable et cela a entraîné beaucoup d'accidents.  
 Il faut limiter l'application à de petites surfaces pour :
 
-*   l'alcool iodé et les autres dérivés iodés (qui peuvent entraîner une hypothyroïdie),
-*   la vaseline salicylée (car risque d'intoxication à l'aspirine),
-*   de l'hexachlorophène,
-*   les corticoïdes (risque d'hypertension intracrânienne),
-*   avan t3 mois les pansements alcoolisés (risque d'intoxication éthylique).
+- l'alcool iodé et les autres dérivés iodés (qui peuvent entraîner une hypothyroïdie),
+- la vaseline salicylée (car risque d'intoxication à l'aspirine),
+- de l'hexachlorophène,
+- les corticoïdes (risque d'hypertension intracrânienne),
+- avan t3 mois les pansements alcoolisés (risque d'intoxication éthylique).
 
 Il faut **toujours préciser à** la mère la surface de peau à traiter pour éviter les surdosages.
 
@@ -53,9 +51,9 @@ S'il n'y a pas de particularités liées à cette voie, l'administration pose de
 
 Les plus graves surviennent avec :
 
-*   la quinine,
-*   la théophylline,
-*   la caféine.
+- la quinine,
+- la théophylline,
+- la caféine.
 
 Enfin, les petits volumes injectés sont parfois totalement "perdus" dans les volumes morts des tubulures, d'où une inefficacité thérapeutique.
 
@@ -74,10 +72,10 @@ Du fait de l'augmentation du volume extracellulaire (le corps de l'enfant contie
 Chez le nouveau-né, la filtration glomérulaire équivaut à 30 % de celle de l'adulte. Elle est normale vers trois mois.  
 Tous les médicaments à élimination urinaire s'accumulent dans l'organisme d'où risque d'intoxication. Cela est vrai pour :
 
-*   les aminoglycosides (genatmycine),
-*   les céphalosporines,
-*   la digitaline (digitoxine),
-*   le furosémide,
+- les aminoglycosides (genatmycine),
+- les céphalosporines,
+- la digitaline (digitoxine),
+- le furosémide,
 
 tous d'un usage courant (en cas d'infection ou de cardiopathie).
 
@@ -91,37 +89,35 @@ La tolérance aux médicaments est en général meilleure que chez l'adulte (tol
 
 A l'inverse, certaines complications sont uniquement pédiatriques :
 
-*   les corticothérapies prolongées bloquent la croissance, ce qui peut conduire à une petite taille définitive,
-*   les quinolones provoquent des douleurs articulaires, voire des lésions des cartilages de croissance,
-*   la vitamine A et la vitamine D, à forte dose, peuvent entraîner une hypertension intracrânienne grave,
-*   les cyclines prescrites avant l'âge de 7 ans provoquent une coloration inesthétique et définitive de l'émail dentaire.
+- les corticothérapies prolongées bloquent la croissance, ce qui peut conduire à une petite taille définitive,
+- les quinolones provoquent des douleurs articulaires, voire des lésions des cartilages de croissance,
+- la vitamine A et la vitamine D, à forte dose, peuvent entraîner une hypertension intracrânienne grave,
+- les cyclines prescrites avant l'âge de 7 ans provoquent une coloration inesthétique et définitive de l'émail dentaire.
 
 Les médicaments administrés en fin de grossesse peuvent retentir chez le nouveau-né :
 
-*   les benzodiazépines (diazépam) peuvent provoquer :
-    *   troubles de la succion
-    *   apnée
-    *   hypotonie
-*   les bêtabloquants peuvent provoquer :
-    *   hypoglycémie
-    *   bradycardie
-*   les anti-inflammatoires non stéroïdiens peuvent provoquer :
-    *   des malformations
-    *   un accouchement prématuré
-    *   une insuffisance rénale.
+- les benzodiazépines (diazépam) peuvent provoquer :
+  - troubles de la succion
+  - apnée
+  - hypotonie
+- les bêtabloquants peuvent provoquer :
+  - hypoglycémie
+  - bradycardie
+- les anti-inflammatoires non stéroïdiens peuvent provoquer :
+  - des malformations
+  - un accouchement prématuré
+  - une insuffisance rénale.
 
 ## III. Règles générales de prescription
 
 **L'enfant est plus souvent exposé aux** **erreurs d'utilisation des médicaments,** **et cela pour diverses raisons :**
 
-*   erreur de calcul des posologies ;
-*   absence de formes pédiatriques : pas de comprimés ou de gélules avant 6 ans, ces formes peuvent provoquer des fausses routes : explique aux parents comment les écraser ou les ouvrir ;
-*   intermédiaires entre le médecin et l'enfant.
+- erreur de calcul des posologies ;
+- absence de formes pédiatriques : pas de comprimés ou de gélules avant 6 ans, ces formes peuvent provoquer des fausses routes : explique aux parents comment les écraser ou les ouvrir ;
+- intermédiaires entre le médecin et l'enfant.
 
 Ainsi, prescrire en pédiatrie nécessite plus qu'ailleurs **prudence et rigueur,** tant sur le choix du produit que sur les quantités et sur le mode d'administration. Des accidents liés à une intoxication médicamenteuse secondaire à une mauvaise utilisation de produits surviennent régulièrement et des enfants sont hospitalisés en réanimation à cause de ces erreurs évitables.
 
-
 ![](i916-2.jpg)
 
-
-_Développement et Santé, n° 159, juin 2002_
+*Développement et Santé, n° 159, juin 2002*

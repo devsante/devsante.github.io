@@ -4,7 +4,7 @@ author: "Catherine Dupeyron Biologiste, Hôpital Henri Mondor, Créteil, France.
 date: "2006-03-16"
 ---
 
-## **Introduction**
+## Introduction
 
 Les bactéries sont très nombreuses dans l'environnement et nous vivons en permanen­ce dans ce monde microbien. L'homme lui­même est porteur d'une très grande quantité de bactéries sur sa peau, ses muqueuses et dans son tube digestif.
 
@@ -30,7 +30,7 @@ Tube digestif
 
 <ul><li>10<sup>14</sup> micro-organismes soit 100 000 000 000 000 (cent mille milliards)</li></ul>
 
-L'homme est porteur de plus de bactéries que de cellules.  
+L'homme est porteur de plus de bactéries que de cellules.
 
 </td>
 
@@ -46,7 +46,7 @@ Lorsqu'un patient développe une infection, l'agent responsable est soit un de s
 
 Les accidents infectieux contractés par les malades au cours de leur hospitalisation sont appelés infections nosocomiales. Les infections qui surviennent à la suite d'un soin par un médecin ou un infirmier où à la suite d'examens médicaux chez un patient non hospitalisé sont plutôt appelées infections iatrogènes, mais la cause en est la même.
 
-**Ce mode de transmission manuportée est extrêmement fréquent**, il est respon­sable de nombreuses épidémies dans des col­lectivités : établissements de soins, dispen­saires, consultations etc. Il peut également être très facilement supprimé, car **il est prouvé qu'un lavage des mains correct élimine les bactéries de contamination et empêche la transmission interhumaine.**  
+**Ce mode de transmission manuportée est extrêmement fréquent**, il est respon­sable de nombreuses épidémies dans des col­lectivités : établissements de soins, dispen­saires, consultations etc. Il peut également être très facilement supprimé, car **il est prouvé qu'un lavage des mains correct élimine les bactéries de contamination et empêche la transmission interhumaine.**
 
 La transmission par les mains est connue depuis longtemps, elle a été mise en évidence par un médecin hongrois Semmelweis dès 1850, avant même les grands travaux de Pas­teur. Cette ques­tion est toujours d'actualité et a fait l'objet ces dernières années, de publications scientifiques de grandes équipes d'hygiène. Actuellement où nous disposons de gros moyens pour lutter contre l'infection et d'un grand arsenal anti­biotique, le premier élément de la lutte contre l'infection et sa transmission reste le lavage des mains, si toutefois il est effectué correcte­ment. Il ne demande pas beaucoup de moyens financiers mais de l'application et de la rigueur, pour le respect des conditions de son efficacité.  
 Nous en rappelons ici les principes de base.
@@ -57,23 +57,23 @@ Ce lavage prévient la transmission manupor­tée en éliminant la flore transit
 
 ### 1. Matériel (si possible)
 
-*   Savon liquide doux avec distributeur.  
-*   Essuie main à usage unique, avec distributeur.  
-*   Poubelle.
+- Savon liquide doux avec distributeur.
+- Essuie main à usage unique, avec distributeur.
+- Poubelle.
 
 ### 2. Technique
 
-*   Mouiller les mains et les poignets.  
-*   Appliquer une dose de savon.  
-*   Masser chaque main, insister sur les parties entre les doigts.  
-*   Rincer.  
-*   Sécher avec l'essuie-mains à usage unique.  
-*   Fermer le robinet avec l'essuie-mains après utilisation.  
-*   Jeter l'essuie-mains dans la poubelle sans la toucher.
+- Mouiller les mains et les poignets.
+- Appliquer une dose de savon.
+- Masser chaque main, insister sur les parties entre les doigts.
+- Rincer.
+- Sécher avec l'essuie-mains à usage unique.
+- Fermer le robinet avec l'essuie-mains après utilisation.
+- Jeter l'essuie-mains dans la poubelle sans la toucher.
 
 **Le temps minimum pour un bon lavage est de 30 secondes.**
 
-_On doit se laver les mains ainsi, en pre­nant et en quittant son service, pendant le service après chaque geste de la vie cou­rante (repas, coiffure, passage aux toilettes etc), avant et après un soin où un contact avec un malade, et à chaque fois que l'on passe d'un malade à un autre._
+*On doit se laver les mains ainsi, en pre­nant et en quittant son service, pendant le service après chaque geste de la vie cou­rante (repas, coiffure, passage aux toilettes etc), avant et après un soin où un contact avec un malade, et à chaque fois que l'on passe d'un malade à un autre.*
 
 ## III. Lavage antiseptique
 
@@ -81,23 +81,23 @@ Ce lavage élimine la flore transitoire et dimi­nue la flore commensale.
 
 ### 1. Matériel
 
-*   Savon liquide antiseptique avec distributeur.  
-*   Essuie-main à usage unique, avec distributeur.  
-*   Poubelle.
+- Savon liquide antiseptique avec distributeur.
+- Essuie-main à usage unique, avec distributeur.
+- Poubelle.
 
 ### 2. Technique
 
-*   Mouiller les mains et les poignets.  
-*   Appliquer une dose de savon.  
-*   Masser chaque main, insister sur les parties entre les doigts et le pourtour des ongles.  
-*   Rincer abondamment, maintenir les paumes dirigées vers le haut
-*   Sécher avec l'essuie-mains à usage unique.  
-*   Fermer le robinet avec l'essuie-mains après utilisation.  
-*   Jeter l'essuie-mains dans la poubelle sans la toucher.
+- Mouiller les mains et les poignets.
+- Appliquer une dose de savon.
+- Masser chaque main, insister sur les parties entre les doigts et le pourtour des ongles.
+- Rincer abondamment, maintenir les paumes dirigées vers le haut
+- Sécher avec l'essuie-mains à usage unique.
+- Fermer le robinet avec l'essuie-mains après utilisation.
+- Jeter l'essuie-mains dans la poubelle sans la toucher.
 
 **Le temps minimum pour un bon lavage est de 1 minute.**
 
-_On doit se laver les mains de cette façon, à chaque fois que l'on réalise un geste inva­sif, un soin ou une technique aseptique._
+*On doit se laver les mains de cette façon, à chaque fois que l'on réalise un geste inva­sif, un soin ou une technique aseptique.*
 
 ## IV. Lavage chirurgical
 
@@ -105,41 +105,39 @@ Ce lavage élimine la flore transitoire et dimi­nue la flore commensale.
 
 ### 1. Matériel
 
-*   Savon antiseptique à large spectre.  
-*   Brosse à usage unique stérile.  
-*   Essuie-mains stérile.  
-*   Robinetterie dégagée, à commande non manuelle.  
-*   Eau bactériologiquement pure.  
-*   Poubelle.
+- Savon antiseptique à large spectre.
+- Brosse à usage unique stérile.
+- Essuie-mains stérile.
+- Robinetterie dégagée, à commande non manuelle.
+- Eau bactériologiquement pure.
+- Poubelle.
 
 ### 2. Technique
 
-*   Masque et coiffe mis en place
-*   Préparer la brosse.
+- Masque et coiffe mis en place
+- Préparer la brosse.
 
 #### 1<sup>ere</sup> étape : prélavage
 
-*   Appliquer une dose antiseptique et faire mousser abondamment jusqu'aux coudes pendant une minute.  
-*   Maintenir les mains au-dessus des coudes.  
-*   Rincer abondamment les mains, les poignets et les avant-bras.
+- Appliquer une dose antiseptique et faire mousser abondamment jusqu'aux coudes pendant une minute.
+- Maintenir les mains au-dessus des coudes.
+- Rincer abondamment les mains, les poignets et les avant-bras.
 
 #### 2<sup>ème</sup> étape
 
-*   Reprendre une brosse stérile.  
-*   Brosser les ongles pendant une minute.
+- Reprendre une brosse stérile.
+- Brosser les ongles pendant une minute.
 
 #### 3<sup>ème</sup> étape
 
-*   Reprendre une dose de savon, masser chaque main pendant une minute, et chaque avant bras pendant 30 secondes.  
-*   Rincer et sécher en tamponnant avec un essuie-mains stériles.
+- Reprendre une dose de savon, masser chaque main pendant une minute, et chaque avant bras pendant 30 secondes.
+- Rincer et sécher en tamponnant avec un essuie-mains stériles.
 
 **Le temps minimun est de 5 minutes.**
 
 **Six étapes bien orchestrées pour l'application des solutions moussantes ou des solutions hydro-alcooliques sur les mains**
 
-
 ![](image002.jpg)
-
 
 ## V. Friction des mains avec des solutions hydro­alcooliques
 
@@ -155,11 +153,9 @@ Avoir les mains propres (non souillées) et sèches.
 
 Verser 3 ml dans le creux de chaque main. Etaler la solution en suivant les 6 étapes décrites. **Schéma du lavage** (voir tableau)
 
-
 ![](image002-18.jpg)
 
-
-**_Les solutions hydro-alcooliques sont une alternative au lavage des mains mais ne le remplaçent pas. Il est nécessaire de se laver les mains au savon après 4 à 5 désin­fections sinon elles deviennent poisseuses._**
+***Les solutions hydro-alcooliques sont une alternative au lavage des mains mais ne le remplaçent pas. Il est nécessaire de se laver les mains au savon après 4 à 5 désin­fections sinon elles deviennent poisseuses.***
 
 Frictionner les mains jusqu'à séchage complet. **Les solutions hydro-alcooliques peuvent être très utiles dans les lieux où l'accès à l'eau n'est pas possible**.  
 (Un seul obstacle à leur utilisation peut être leur coût, supérieur à celui des savons liquides.)
@@ -257,8 +253,8 @@ Durée minimale de friction : 5 minutes.
 
 La flore de la main a deux origines :
 
-*   une flore commensale dite résidente, qui est celle des couches superficielles de la peau. Elle est peu pathogène pour l'homme sain, et sera incriminée seulement en cas de techniques invasives profondes chez le patient immunodéprimé (Staphylococcus epidermidis, Coryne­bacterium).  
-*   une flore dite transitoire, qui est superficielle, de contamination récente, qui survit un temps limité sur la peau et peut être pathogène. Il s'agit de bactéries d'origine digestive (Esche­richia coli, Klebsiella pneumoniae, Proteus mirabilis etc), de bactéries provenant de la peau ou des muqueuses (Staphylococcus aureus etc), ou de bactéries d'origine exogène (Pseudo­monas, Acinetobacter etc). C'est cette flore qui est acquise lors de soins ou d'examens effec­tués chez des malades colonisés ou infectés qui est le plus souvent à l'origine d'infections noso­comiales, par transmission de malade à malade, les mains des soignants servant d'intermé­diaires. Elle survit pendant un temps limité à quelques heures et il a été démontré que le lava­ge correct des mains élimine ces bactéries et donc empêche la transmission interhumaine.
+- une flore commensale dite résidente, qui est celle des couches superficielles de la peau. Elle est peu pathogène pour l'homme sain, et sera incriminée seulement en cas de techniques invasives profondes chez le patient immunodéprimé (Staphylococcus epidermidis, Coryne­bacterium).
+- une flore dite transitoire, qui est superficielle, de contamination récente, qui survit un temps limité sur la peau et peut être pathogène. Il s'agit de bactéries d'origine digestive (Esche­richia coli, Klebsiella pneumoniae, Proteus mirabilis etc), de bactéries provenant de la peau ou des muqueuses (Staphylococcus aureus etc), ou de bactéries d'origine exogène (Pseudo­monas, Acinetobacter etc). C'est cette flore qui est acquise lors de soins ou d'examens effec­tués chez des malades colonisés ou infectés qui est le plus souvent à l'origine d'infections noso­comiales, par transmission de malade à malade, les mains des soignants servant d'intermé­diaires. Elle survit pendant un temps limité à quelques heures et il a été démontré que le lava­ge correct des mains élimine ces bactéries et donc empêche la transmission interhumaine.
 
 <table>
 
@@ -288,4 +284,4 @@ Nicole Horeau
 
 </table>
 
-_Développement et santé n°183, 2006_
+*Développement et santé n°183, 2006*

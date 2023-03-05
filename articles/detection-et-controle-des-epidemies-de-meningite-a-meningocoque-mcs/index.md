@@ -14,13 +14,11 @@ Les épidémies de méningite commencent habituellement en saison sèche et s'ac
 
 La Ceinture Africaine de la méningite ou Ceinture de Lapeyssonnie s'étend d'Est en Ouest de la mer Rouge à l'Atlantique, de l'Éthiopie au Sénégal.
 
-
 ![](i951-1.jpg)
-
 
 ### A. Agent infectieux
 
-La méningite à méningocoque est provoquée par une bactérie Gram négatif appelée _Neisseria meningitidis._ On lui connaît au moins 12 sérogroupes : A, B, C, D, X, Y, Z, W135, 29E, H, I, K, L. A l'intérieur de chaque sérogroupe, il existe des sérotypes, des sous-types et des clones. Près de 90 % des infections sont provoquées par les souches A, B, et C. Le sérogroupe A est la principale cause de méningite épidémique en Afrique. Quelques épidémies dues au sérogroupe C ont été observées en Afrique de l'Ouest (Nigéria, Burkina Faso, Mali).
+La méningite à méningocoque est provoquée par une bactérie Gram négatif appelée *Neisseria meningitidis.* On lui connaît au moins 12 sérogroupes : A, B, C, D, X, Y, Z, W135, 29E, H, I, K, L. A l'intérieur de chaque sérogroupe, il existe des sérotypes, des sous-types et des clones. Près de 90 % des infections sont provoquées par les souches A, B, et C. Le sérogroupe A est la principale cause de méningite épidémique en Afrique. Quelques épidémies dues au sérogroupe C ont été observées en Afrique de l'Ouest (Nigéria, Burkina Faso, Mali).
 
 Cette situation épidémiologique explique pourquoi les vaccins recommandés en Afrique sont les formes bivalentes (A et C).
 
@@ -28,7 +26,7 @@ Cette situation épidémiologique explique pourquoi les vaccins recommandés en 
 
 Le réservoir est l'homme. La bactérie vit sur les muqueuses du nez et de la gorge. Elle se propage de personne à personne par les sécrétions nasopharyngées et les gouttelettes de salive projetées par la toux. L'infection méningococcique est le plus souvent inapparente ou exprimée par une banale pharyngite. Dans la grande majorité des cas, le sujet s'immunise en fabriquant des anticorps protecteurs et devient porteur sain. Dans un petit nombre de cas, l'infection diffuse par voie sanguine et provoque une méningite ou une méningococcémie.
 
-Dans les périodes inter-épidémiques, la prévalence des porteurs sains peut atteindre 25 % sans qu'il n'apparaisse de cas de méningite. En période épidémique, cette proportion peut atteindre 60 à 80%. La durée du portage est variable suivant les sérotypes, courte pour le méningocoque A, ne dépassant pas une dizaine de jours, elle peut atteindre des semaines, voire des mois pour les méningocoques B et C. La plupart des personnes porteuses de _N. meningiditis_ n'ont aucun symptôme de la maladie. Les raisons pour lesquelles certains porteurs, contrairement à d'autres, développent la maladie ne sont pas encore bien comprises.
+Dans les périodes inter-épidémiques, la prévalence des porteurs sains peut atteindre 25 % sans qu'il n'apparaisse de cas de méningite. En période épidémique, cette proportion peut atteindre 60 à 80%. La durée du portage est variable suivant les sérotypes, courte pour le méningocoque A, ne dépassant pas une dizaine de jours, elle peut atteindre des semaines, voire des mois pour les méningocoques B et C. La plupart des personnes porteuses de *N. meningiditis* n'ont aucun symptôme de la maladie. Les raisons pour lesquelles certains porteurs, contrairement à d'autres, développent la maladie ne sont pas encore bien comprises.
 
 ### C. Population à risque
 
@@ -52,7 +50,7 @@ Si un traitement antibiotique immédiat n'est pas entrepris, la mort survient da
 
 **Il** **faut injecter, le plus tôt possible,50mg/Kg d'amoxicilline IV.**
 
-_En dehors d'une épidémie, il vaut mieux_ _faire une ponction lombaire (PL) de_ _trop_ _que passer à côté d'une méningite_. _Ainsi,_ _dans le doute, ne pas hésiter à effectuer une_ _ponction lombaire chez un adulte_, a fortiori _chez un enfant ou un nourrisson_.
+*En dehors d'une épidémie, il vaut mieux* *faire une ponction lombaire (PL) de* *trop* *que passer à côté d'une méningite*. *Ainsi,* *dans le doute, ne pas hésiter à effectuer une* *ponction lombaire chez un adulte*, a fortiori *chez un enfant ou un nourrisson*.
 
 ### E. Données biologiques
 
@@ -64,9 +62,9 @@ Si les moyens le permettent, la numération de cellules et le Gram sont requis, 
 
 Dans le contexte africain, le contrôle des épidémies de méningite devrait reposer sur l'application de mesures simples et efficaces, fondées sur la connaissance des réalités épidémiologiques et socio-économiques locales. Trois stratégies sont considérées comme essentielles :
 
-*   la surveillance épidémiologique
-*   la prise en charge des cas
-*   la vaccination
+- la surveillance épidémiologique
+- la prise en charge des cas
+- la vaccination
 
 Les autres mesures traditionnellement utilisées dans le cadre de la prévention, tels que l'isolement et la chimioprophylaxie, ne sont pas recommandées.
 
@@ -76,21 +74,21 @@ L'efficacité des mesures de lutte dépend pour une large part de la rapidité a
 
 La surveillance épidémiologique consiste en un recueil continu d'informations sur la morbidité et la mortalité. Son objectif principal sera la détection précoce d'une épidémie, en vue d'un déclenchement rapide des opérations et l'évaluation de l'efficacité des mesures de lutte. Plus concrètement, elle visera à :
 
-*   identifier régulièrement les cas et décès ;
-*   déterminer les tendances ;
-*   détecter les épidémies ;
-*   suivre l'évolution d'une épidémie
-*   évaluer l'application et les résultats des mesures de lutte.
+- identifier régulièrement les cas et décès ;
+- déterminer les tendances ;
+- détecter les épidémies ;
+- suivre l'évolution d'une épidémie
+- évaluer l'application et les résultats des mesures de lutte.
 
 La mise en place d'un système de surveillance repose sur les principes suivants :
 
-*   la définition de cas (voir _encadré 1)_
-*   l'enregistrement et la déclaration des cas
-*   la collecte et l'analyse des données ;
-*   l'interprétation des données en vue de la prise de décisions :
-*   donner l'alerte en cas de situation anormale,
-*   affirmer ou infirmer l'existence d'une épidémie,
-*   orienter la lutte contre l'épidémie.
+- la définition de cas (voir *encadré 1)*
+- l'enregistrement et la déclaration des cas
+- la collecte et l'analyse des données ;
+- l'interprétation des données en vue de la prise de décisions :
+- donner l'alerte en cas de situation anormale,
+- affirmer ou infirmer l'existence d'une épidémie,
+- orienter la lutte contre l'épidémie.
 
 Les modalités de la surveillance épidémiologique peuvent varier selon que l'on est en situation d'épidémie ou non.
 
@@ -119,7 +117,7 @@ Sera considéré, enregistré et déclaré comme cas de méningite :
 
 La définition des cas de méningite doit être simple, claire, pratique, fondée sur des données cliniques et/ou biologiques, selon les moyens disponibles. Il est important que la même définition soit retenue dans l'ensemble du pays et que celle-ci soit utilisée par l'ensemble des formations sanitaires, publiques et privées.
 
-_Tout cas suspect de méningite devrait fairel'objet d'une ponction lombaire. Dans les_ _formations sanitaires_ où un _diagnostic biologique est possible, le germe responsablede la méningite sera précisé._
+*Tout cas suspect de méningite devrait fairel'objet d'une ponction lombaire. Dans les* *formations sanitaires* où un *diagnostic biologique est possible, le germe responsablede la méningite sera précisé.*
 
 **b) Enregistrement et déclaration des cas**
 
@@ -129,9 +127,9 @@ Tout cas de méningite doit être enregistré dans un cahier (registre) de consu
 
 Il s'agira de :
 
-*   Compiler les cas semaine par semaine (à chaque début de la semaine suivante)
-*   Réaliser des tableaux et graphiques par tranches d'âge et par zones de responsabilité ;
-*   Comparer l'incidence observée au seuil d'alerte établi pour la zone.
+- Compiler les cas semaine par semaine (à chaque début de la semaine suivante)
+- Réaliser des tableaux et graphiques par tranches d'âge et par zones de responsabilité ;
+- Comparer l'incidence observée au seuil d'alerte établi pour la zone.
 
 Au niveau des formations sanitaires de base, tenir compte du **nombre de cas** hebdomadaire et de l'évolution de semaine en semaine.
 
@@ -150,20 +148,20 @@ Une épidémie se définit par un nombre anormalement élevé de cas par rapport
 
 Le déclenchement de l'alerte se fera :
 
-*   au niveau des formations sanitaires de base (postes et centres de santé), au vu du triplement du nombre de cas par rapport à l'année précédente pendant 2 semaines consécutives ou du doublement des cas de semaine en semaine pendant 3 semaines consécutives ;
-*   au niveau du district, par le franchissement d'un taux d'attaque hebdomadaire de 15 cas pour 100 000 habitants pendant 2 semaines consécutives, calculé pour une population comprise entre 30 000 et 100 000 personnes.
+- au niveau des formations sanitaires de base (postes et centres de santé), au vu du triplement du nombre de cas par rapport à l'année précédente pendant 2 semaines consécutives ou du doublement des cas de semaine en semaine pendant 3 semaines consécutives ;
+- au niveau du district, par le franchissement d'un taux d'attaque hebdomadaire de 15 cas pour 100 000 habitants pendant 2 semaines consécutives, calculé pour une population comprise entre 30 000 et 100 000 personnes.
 
-_La rumeur populaire peut constituer un_ _élément d'alerte, quel que soit le niveau._
+*La rumeur populaire peut constituer un* *élément d'alerte, quel que soit le niveau.*
 
 **Confirmation de l'épidémie**
 
 La confirmation ou l'infirmation d'une épidémie se fera par une enquête lancée aussitôt après l'alerte. Cette enquête a pour objectif de :
 
-*   vérifier les informations sur les cas déclarés comme méningites ;
-*   établir le diagnostic au moyen d'une étude de nouveaux cas ;
-*   obtenir des échantillons de liquide céphalorachidien pour une confirmation du diagnostic en laboratoire (le matériel devra être amené par l'équipe) ;
-*   rechercher les cas de méningite survenus au sein de la communauté mais non référés vers les formations sanitaires ;
-*   recueillir les informations concernant les dates d'apparition, l'âge, le sexe, le lieu de résidence et l'issue (favorable ou décès) des cas.
+- vérifier les informations sur les cas déclarés comme méningites ;
+- établir le diagnostic au moyen d'une étude de nouveaux cas ;
+- obtenir des échantillons de liquide céphalorachidien pour une confirmation du diagnostic en laboratoire (le matériel devra être amené par l'équipe) ;
+- rechercher les cas de méningite survenus au sein de la communauté mais non référés vers les formations sanitaires ;
+- recueillir les informations concernant les dates d'apparition, l'âge, le sexe, le lieu de résidence et l'issue (favorable ou décès) des cas.
 
 L'enquête fera l'objet d'un rapport. C'est sur la base de ce rapport que la notification de la situation épidémique sera faite aux autorités locales, régionales et centrales, ainsi qu'à l'OMS.
 
@@ -198,11 +196,9 @@ Une fois l'épidémie confirmée, tout cas de maux de tête violents, associés 
 
 **b) Enregistrement et déclaration des cas**
 
-_Il est impératif d'ouvrir un registre spécial de méningite_. L'enregistrement des cas se fera de façon journalière et par zone géographique (inscrire les cas sur une carte). La déclaration doit être assurée par les moyens les plus rapides, au minimum de façon hebdomadaire.
-
+*Il est impératif d'ouvrir un registre spécial de méningite*. L'enregistrement des cas se fera de façon journalière et par zone géographique (inscrire les cas sur une carte). La déclaration doit être assurée par les moyens les plus rapides, au minimum de façon hebdomadaire.
 
 ![](i951-4.jpg)
-
 
 **c) Collecte et analyse des données**
 
@@ -216,17 +212,17 @@ Les données seront organisées selon le temps, le lieu et les caractéristiques
 
 L'analyse des données descriptives et de la courbe épidémique permet :
 
-*   d'identifier les groupes de la population particulièrement touchés par l'épidémie.  
-*   de prendre des mesures visant à réduire la létalité, diminuer l'incidence de la maladie et stopper l'épidémie.
+- d'identifier les groupes de la population particulièrement touchés par l'épidémie.
+- de prendre des mesures visant à réduire la létalité, diminuer l'incidence de la maladie et stopper l'épidémie.
 
 **d) Interprétation des données**
 
 Les renseignement fournis par la surveillance épidémiologique serviront à :
 
-*   décider des méthodes de lutte à utiliser, notamment la stratégie vaccinale ;
-*   évaluer l'efficacité des mesures de lutte, et les adapter au besoin ;
-*   tenir informées les autorités politico-administratives et les populations ;
-*   assurer la rétro-information régulière à tous les niveaux du système de santé.
+- décider des méthodes de lutte à utiliser, notamment la stratégie vaccinale ;
+- évaluer l'efficacité des mesures de lutte, et les adapter au besoin ;
+- tenir informées les autorités politico-administratives et les populations ;
+- assurer la rétro-information régulière à tous les niveaux du système de santé.
 
 ### 2. Prise en charge des cas
 
@@ -236,12 +232,12 @@ Dans un contexte d'épidémie notamment, l'objectif de la prise en charge est do
 
 La prise en charge devra respecter les principes suivants :
 
-1.  Le traitement doit être entrepris d'urgence.  
-2.  La déclaration est obligatoire et immédiate.  
-3.  L'admission au centre de soins le plus proche est nécessaire.  
-4.  L'isolement du malade est inutile.  
-5.  Le transfert dans un centre de santé éloigné est déconseillé.  
-6.  En l'absence de centre de santé proche, le regroupement des malades dans un même local est recommandé.  
+1.  Le traitement doit être entrepris d'urgence.
+2.  La déclaration est obligatoire et immédiate.
+3.  L'admission au centre de soins le plus proche est nécessaire.
+4.  L'isolement du malade est inutile.
+5.  Le transfert dans un centre de santé éloigné est déconseillé.
+6.  En l'absence de centre de santé proche, le regroupement des malades dans un même local est recommandé.
 7.  La chimioprophylaxie de l'entourage et de la communauté est fortement déconseillée.
 
 La prise en charge des cas sera adaptée aux conditions opérationnelles locales. On tiendra compte notamment des considérations d'efficacité, de coût du traitement, de facilité d'administration des produits, d'acceptabilité par les populations.
@@ -308,11 +304,11 @@ La première option, la plus efficace, consiste à vacciner l'ensemble de la pop
 
 Il est conseillé :
 
-*   de procéder, dès les premiers signes d'alerte, et régulièrement ensuite, à l'évaluation des besoins en vaccins, en matériel et en personnel ;
-*   d'utiliser le vaccin anti-méningococcique bivalent A/C ;
-*   de vacciner avec la seringue monodose à usage unique stérile ;
-*   d'éviter, autant que possible, l'usage des injecteurs sans aiguille (pistolets injecteurs sous pression) ;
-*   d'incinérer les seringues et aiguilles après usage.
+- de procéder, dès les premiers signes d'alerte, et régulièrement ensuite, à l'évaluation des besoins en vaccins, en matériel et en personnel ;
+- d'utiliser le vaccin anti-méningococcique bivalent A/C ;
+- de vacciner avec la seringue monodose à usage unique stérile ;
+- d'éviter, autant que possible, l'usage des injecteurs sans aiguille (pistolets injecteurs sous pression) ;
+- d'incinérer les seringues et aiguilles après usage.
 
 #### B. Situation hors épidémie
 
@@ -320,7 +316,7 @@ De nos jours, il n'est pas possible d'intégrer le vaccin polysaccharidique dans
 
 La vaccination préventive de certains groupes particulièrement exposés (enfant > 2 ans, écoliers, militaires, pèlerins, et autres collectivités) peut être envisagée dans les zones à haut risque.
 
-### 4. Mesures préventives inutiles **et déconseillées**
+### 4. Mesures préventives inutiles et déconseillées
 
 #### A. Isolement des malades
 
@@ -338,7 +334,7 @@ Si des cas de méningite sont déclarés dans une école, la vaccination de l'en
 
 Les désinfections locales, instillations de gouttes nasales, collutoires et gargarismes sont inefficaces et doivent être proscrits.
 
-_La chimioprophylaxie par les sulfamides_ pendant longtemps la chimioprophylaxie des contacts par les sulfamides retard a été l'une des mesures contre les épidémies de méningite. Cependant, l'apparition de nombreuses souches de méningocoques résistantes aux sulfamides a rendu inutile cette mesure. A cela, s'ajoutent les possibilités d'accidents graves dus aux sulfamides (syndromes de Lyell et de Stevens Johnson).
+*La chimioprophylaxie par les sulfamides* pendant longtemps la chimioprophylaxie des contacts par les sulfamides retard a été l'une des mesures contre les épidémies de méningite. Cependant, l'apparition de nombreuses souches de méningocoques résistantes aux sulfamides a rendu inutile cette mesure. A cela, s'ajoutent les possibilités d'accidents graves dus aux sulfamides (syndromes de Lyell et de Stevens Johnson).
 
 La chimioprophylaxie de masse par les antibiotiques est fortement déconseillée.
 
@@ -386,51 +382,56 @@ La lutte contre une épidémie est avant tout une responsabilité des structures
 
 Les **formations sanitaires périphériques** (postes et centres de santé), ont la responsabilité :
 
-*   de reconnaître et de traiter les malades (ou de les transférer si elles n'en ont pas la capacité) ;
-*   d'assurer la surveillance épidémiologique conformément aux directives ;
+- de reconnaître et de traiter les malades (ou de les transférer si elles n'en ont pas la capacité) ;
+- d'assurer la surveillance épidémiologique conformément aux directives ;
 
 **L'équipe de santé du district**, sous l'autorité du Médecin-chef de district, doit :
 
-*   **en matière de surveillance épidémiologique :**
+- **en matière de surveillance épidémiologique :**
 
-*   sensibiliser et recycler le personnel de santé au moment de l'entrée dans la période de recrudescence des cas de méningites (rappels sur la surveillance, la prise en charge des cas, la gestion des médicaments et vaccins) ;
-*   collecter et analyser les informations provenant des centres de santé ;
-*   reconnaître une situation d'urgence (recrudescence des cas, létalité anormale, poussée épidémique), ou au contraire infirmer un diagnostic d'épidémie ;
-*   déclencher l'alerte en cas d'épidémie en saisissant les autorités locales et le niveau intermédiaire ;
-*   assurer la rétro-information vers les unités périphériques;
+- sensibiliser et recycler le personnel de santé au moment de l'entrée dans la période de recrudescence des cas de méningites (rappels sur la surveillance, la prise en charge des cas, la gestion des médicaments et vaccins) ;
 
-*   **en matière de prise en charge des cas :**
+- collecter et analyser les informations provenant des centres de santé ;
 
-*   assurer l'approvisionnement des postes et centres de santé en médicaments et matériels ;
-*   assurer la supervision technique du personnel des centres périphériques.
+- reconnaître une situation d'urgence (recrudescence des cas, létalité anormale, poussée épidémique), ou au contraire infirmer un diagnostic d'épidémie ;
+
+- déclencher l'alerte en cas d'épidémie en saisissant les autorités locales et le niveau intermédiaire ;
+
+- assurer la rétro-information vers les unités périphériques;
+
+- **en matière de prise en charge des cas :**
+
+- assurer l'approvisionnement des postes et centres de santé en médicaments et matériels ;
+
+- assurer la supervision technique du personnel des centres périphériques.
 
 #### B. Au niveau intermédiaire
 
 Le niveau intermédiaire est chargé d'apporter un appui technique au niveau local en vue de l'élaboration, de la mise en oeuvre et de l'évaluation des programmes de lutte.  
 Il est chargé notamment :
 
-*   de collecter et d'analyser les informations provenant des districts ;
-*   de mener éventuellement des enquêtes sur le terrain ;
-*   d'assurer la rétro-information vers les districts
-*   d'assurer l'approvisionnement des districts en matériels, médicaments et vaccins ;
-*   d'assurer la disponibilité des moyens de diagnostic bactériologique (examen direct du LCR, si possible test d'agglutination, culture et antibiogramme) ;
-*   de superviser les activités réalisées au niveau des districts et de participer à leur évaluation ;
-*   d'assurer la formation et/ou le recyclage du personnel du district ;
-*   de promouvoir les activités de recherche opérationnelle.
+- de collecter et d'analyser les informations provenant des districts ;
+- de mener éventuellement des enquêtes sur le terrain ;
+- d'assurer la rétro-information vers les districts
+- d'assurer l'approvisionnement des districts en matériels, médicaments et vaccins ;
+- d'assurer la disponibilité des moyens de diagnostic bactériologique (examen direct du LCR, si possible test d'agglutination, culture et antibiogramme) ;
+- de superviser les activités réalisées au niveau des districts et de participer à leur évaluation ;
+- d'assurer la formation et/ou le recyclage du personnel du district ;
+- de promouvoir les activités de recherche opérationnelle.
 
 #### C. Au niveau central
 
 Les principales responsabilités du service national chargé de la lutte contre les épidémies sont :
 
-*   de définir les stratégies nationales de prévention et lutte ;
-*   d'assurer la surveillance épidémiologique à l'échelon national (identifier zones et groupes à risque, établir les seuils épidémiques);
-*   de déterminer et assurer des moyens du diagnostic biologique;
-*   d'assurer l'approvisionnement des niveaux intermédiaires et périphériques en matériels et médicaments;
-*   d'assurer la surveillance de la sensibilité des méningocoques aux agents anti-microbiens ;
-*   de suivre l'évolution de la situation épidémiologique dans les pays limitrophes;
-*   d'assurer la formation et le recyclage des équipes de santé des niveaux périphérique et intermédiaire;
-*   d'établir un plan d'action (à mettre en oeuvre d'urgence en cas d'alerte confirmée);
-*   d'évaluer la stratégie nationale.
+- de définir les stratégies nationales de prévention et lutte ;
+- d'assurer la surveillance épidémiologique à l'échelon national (identifier zones et groupes à risque, établir les seuils épidémiques);
+- de déterminer et assurer des moyens du diagnostic biologique;
+- d'assurer l'approvisionnement des niveaux intermédiaires et périphériques en matériels et médicaments;
+- d'assurer la surveillance de la sensibilité des méningocoques aux agents anti-microbiens ;
+- de suivre l'évolution de la situation épidémiologique dans les pays limitrophes;
+- d'assurer la formation et le recyclage des équipes de santé des niveaux périphérique et intermédiaire;
+- d'établir un plan d'action (à mettre en oeuvre d'urgence en cas d'alerte confirmée);
+- d'évaluer la stratégie nationale.
 
 ### 2. Pendant l'épidémie
 
@@ -444,19 +445,25 @@ Les principales activités concernent l'évaluation de la situation et l'organis
 
 Celle-ci est effectuée par l'équipe de santé du district, en liaison avec les niveaux intermédiaire et central. Elle permet de définir les stratégies de lutte adaptées aux conditions locales. Elle vise à :
 
-*   **dans un premier temps**
+- **dans un premier temps**
 
-*   confirmer la réalité de l'épidémie;
-*   informer la population, les autorités locales et les niveaux supérieurs;
+- confirmer la réalité de l'épidémie;
 
-*   **dans un deuxième temps**
+- informer la population, les autorités locales et les niveaux supérieurs;
 
-*   définir les caractéristiques initiales de l'épidémie (temps, lieux, populations affectées) et la gravité de la maladie (morbidité, mortalité) ;
-*   identifier l'agent en cause (méningocoque, sérogroupe, sensibilité aux antibiotiques) ;
-*   définir les mesures de lutte les plus efficaces à mener en urgence pour minimiser les effets les plus néfastes de la poussée épidémique ;
-*   évaluer les capacités opérationnelles des services de santé (ressources existantes, ressources additionnelles à rechercher, capacité de mobilisation) ;
-*   élaborer éventuellement un plan de redéploiement du personnel et un plan de mise en place de centres provisoires de traitement ;
-*   suivre l'évolution de l'épidémie, son extension géographique ainsi que les populations et les groupes d'âge les plus affectés.
+- **dans un deuxième temps**
+
+- définir les caractéristiques initiales de l'épidémie (temps, lieux, populations affectées) et la gravité de la maladie (morbidité, mortalité) ;
+
+- identifier l'agent en cause (méningocoque, sérogroupe, sensibilité aux antibiotiques) ;
+
+- définir les mesures de lutte les plus efficaces à mener en urgence pour minimiser les effets les plus néfastes de la poussée épidémique ;
+
+- évaluer les capacités opérationnelles des services de santé (ressources existantes, ressources additionnelles à rechercher, capacité de mobilisation) ;
+
+- élaborer éventuellement un plan de redéploiement du personnel et un plan de mise en place de centres provisoires de traitement ;
+
+- suivre l'évolution de l'épidémie, son extension géographique ainsi que les populations et les groupes d'âge les plus affectés.
 
 **b) Organisation de la lutte**
 
@@ -468,9 +475,9 @@ Ce comité sera composé de membres du comité de santé du district et de fonct
 
 Ce comité aura pour tâches :
 
-*   de coordonner les actions de lutte;
-*   d'informer et sensibiliser les populations pour l'application des mesures de lutte. La communication et l'information en période épidémique sont fondamentales pour permettre la prise de conscience de la population, puis sa coopération à la prise en charge des cas et à la campagne de vaccination;
-*   de mobiliser les ressources humaines, matérielles et financières nécessaires à la mise en oeuvre du plan d'intervention.
+- de coordonner les actions de lutte;
+- d'informer et sensibiliser les populations pour l'application des mesures de lutte. La communication et l'information en période épidémique sont fondamentales pour permettre la prise de conscience de la population, puis sa coopération à la prise en charge des cas et à la campagne de vaccination;
+- de mobiliser les ressources humaines, matérielles et financières nécessaires à la mise en oeuvre du plan d'intervention.
 
 **Prise en charge des cas**
 
@@ -516,23 +523,23 @@ Le choix et l'organisation du site jouent un rôle capital dans la réussite de 
 
 Si plusieurs districts sont touchés, il est logique de créer un comité de crise à ce niveau. Le Comité provincial de crise et l'équipe provinciale de santé auront la responsabilité d'appuyer les structures de district dans la mobilisation des ressources humaines, matérielles et logistiques nécessaires et dans l'organisation des opérations dans les domaines particuliers de la surveillance épidémiologiques, de la prise en charge des cas et de la vaccination. Cet appui concernera notamment :
 
-*   la collecte et l'analyse des données épidémiologiques ;
-*   la réalisation des enquêtes épidémiologiques
-*   l'appui en matière de diagnostic biologique (bactériologie avec culture et antibiogramme, tests d'agglutination ... ) ;
-*   la supervision du personnel
-*   la mobilisation des communautés, des ONG et des autres secteurs ;
-*   l'approvisionnement en matériels, médicaments et vaccins ;
-*   la surveillance de l'évolution de l'épidémie;
-*   les activités d'évaluation et de prises de décision.
+- la collecte et l'analyse des données épidémiologiques ;
+- la réalisation des enquêtes épidémiologiques
+- l'appui en matière de diagnostic biologique (bactériologie avec culture et antibiogramme, tests d'agglutination ... ) ;
+- la supervision du personnel
+- la mobilisation des communautés, des ONG et des autres secteurs ;
+- l'approvisionnement en matériels, médicaments et vaccins ;
+- la surveillance de l'évolution de l'épidémie;
+- les activités d'évaluation et de prises de décision.
 
 #### C. Au niveau central
 
 La gestion efficace des épidémies et autres catastrophes peut justifier l'institutionnalisation d'une Commission nationale de lutte contre les urgences sanitaires et humanitaires. C'est une commission technique permanente, multidisciplinaire, située au niveau du Ministère de la santé, qui intervient essentiellement pour :
 
-*   coordonner les activités de lutte au niveau national ;
-*   mobiliser les ressources humaines, matérielles, financières ;
-*   assurer la liaison avec les différents partenaires (Organisations Internationales, ONG, bailleurs de fonds ... ) ;
-*   assurer la notification aux différents niveaux du système, à l'OMS et aux pays frontaliers.
+- coordonner les activités de lutte au niveau national ;
+- mobiliser les ressources humaines, matérielles, financières ;
+- assurer la liaison avec les différents partenaires (Organisations Internationales, ONG, bailleurs de fonds ... ) ;
+- assurer la notification aux différents niveaux du système, à l'OMS et aux pays frontaliers.
 
 ## IV. Evaluation
 
@@ -540,12 +547,12 @@ L'évaluation est une activité destinée à permettre de porter un jugement sur
 
 **Elle vise notamment à :**
 
-*   mesurer le degré d'atteinte des objectifs du programme de lutte ;
-*   vérifier l'adéquation entre objectifs fixés et objectifs réalisés ;
-*   identifier et analyser les causes d'inadéquation ;
-*   tirer des conclusions quant à l'efficacité des stratégies et moyens de lutte utilisés ;
-*   dégager les corrections à apporter en vue d'améliorer l'efficacité des mesures en vigueur ;
-*   L'évaluation porte sur les 3 principales stratégies de lutte : la surveillance épidémiologique, la prise en charge des cas et la vaccination.
+- mesurer le degré d'atteinte des objectifs du programme de lutte ;
+- vérifier l'adéquation entre objectifs fixés et objectifs réalisés ;
+- identifier et analyser les causes d'inadéquation ;
+- tirer des conclusions quant à l'efficacité des stratégies et moyens de lutte utilisés ;
+- dégager les corrections à apporter en vue d'améliorer l'efficacité des mesures en vigueur ;
+- L'évaluation porte sur les 3 principales stratégies de lutte : la surveillance épidémiologique, la prise en charge des cas et la vaccination.
 
 Selon le niveau du système de santé considéré, elle visera à déterminer les réalisations, l'efficacité ou l'efficience du programme.
 
@@ -565,9 +572,9 @@ Population cible totale
 
 #### b) Pour la prise en charge des cas
 
-*   nombre de sujets traités ;
-*   taux de létalité : proportion de décès parmi les sujets pris en charge ;
-*   quantités de médicaments utilisés.
+- nombre de sujets traités ;
+- taux de létalité : proportion de décès parmi les sujets pris en charge ;
+- quantités de médicaments utilisés.
 
 ### 2. Au niveau intermédiaire
 
@@ -587,14 +594,12 @@ Ce taux d'efficacité est en principe de l'ordre de 90 %; il tient compte, non s
 
 Le niveau central sera responsable de l'évaluation en termes d'efficience du programme. Les principaux indicateurs utilisés sont
 
-*   le coût d'un cas traité,
-*   le coût d'un cas évité,
-*   le coût d'un décès évité.
+- le coût d'un cas traité,
+- le coût d'un cas évité,
+- le coût d'un décès évité.
 
 Au décours d'une épidémie notamment, il est important d'élaborer un rapport final sur l'épidémie. Les informations fournies serviront à réviser éventuellement les politiques et stratégies utilisées. Ces informations pourront, par ailleurs, faire l'objet d'une large diffusion à travers les rapports périodiques, des publications et des communications, afin de partager l'expérience acquise.
 
-
 ![](i951-7.jpg)
 
-
-_Développement et Santé, n°157, février 2002_
+*Développement et Santé, n°157, février 2002*

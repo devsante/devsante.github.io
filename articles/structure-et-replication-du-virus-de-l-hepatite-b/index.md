@@ -10,20 +10,18 @@ Ce virus est très particulier. Strictement humain, il est classé parmi les hep
 
 ## II. Structure du génome
 
-_(figure 1)_
+*(figure 1)*
 
 Avec ses 3 200 paires de bases, c'est le plus petit des virus humains à ADN. Il code seule­ment 4 gènes :
 
-1.  **Le gène C,** avec une zone pré-C, pour la capside ou core, constituée de l'antigène HBc de 21 000 de poids moléculaire (21 kDa).  
-2.  **Le gène S**, avec une zone pré-S1 et une zone pré-S2, pour l'enveloppe, constituée d'antigène HBs (s pour surface). Cet antigène HBs se présente sous trois formes : petite, moyenne et grande, de 24, 33 et 39 kDa, selon qu'il vient de l'expression du gène S, de pré-S2 + S, ou pré-S1 + pré-S2 + S.  
-3.  **Le gène P,** pour la polymérase, plus préci­sément l'ADN polymérase, de 90 kDa.  
+1.  **Le gène C,** avec une zone pré-C, pour la capside ou core, constituée de l'antigène HBc de 21 000 de poids moléculaire (21 kDa).
+2.  **Le gène S**, avec une zone pré-S1 et une zone pré-S2, pour l'enveloppe, constituée d'antigène HBs (s pour surface). Cet antigène HBs se présente sous trois formes : petite, moyenne et grande, de 24, 33 et 39 kDa, selon qu'il vient de l'expression du gène S, de pré-S2 + S, ou pré-S1 + pré-S2 + S.
+3.  **Le gène P,** pour la polymérase, plus préci­sément l'ADN polymérase, de 90 kDa.
 4.  **Le gène X**, aux fonctions mal connues, transactivatrices, peut-être impliqué dans la cancérogenèse par le VHB.
 
 Quatre gènes dans un si petit génome, cela implique une organisation particulière, très économe : l'ADN viral est circulaire, à 2 brins sur 50 à 80 % de sa longueur, et surtout, ses 3 cadres de lecture sont mis à contribution, de sorte que les gènes se chevauchent, utilisant au mieux les capacités génétiques réduites de ce virus. Le gène P, le plus long des quatre, cor­respondant aux trois quarts du génome, chevauche ainsi entièrement le gène S et par­tiellement les gènes C et X.
 
-
 ![](image002-9.jpg)
-
 
 ## II. L'antigène HBs
 
@@ -55,19 +53,19 @@ Elle est associée à la particule virale et pénètre donc dans la cellule en m
 
 ### Ce qu'il faut retenir
 
-#### 1. L'antigène HBs :
+#### 1. L'antigène HBs
 
 <ul><li>c'est lui qui se fixe sur l'hépatocyte</li><li>il constitue l'essentiel de l'enveloppe du virus</li><li>il est associé à une résistance importante du virus</li><li>il comporte au moins 5 spécificités antigé­niques.</li></ul>
 
-#### 2. L'antigène HBc :
+#### 2. L'antigène HBc
 
 <ul><li>il est exprimé à la surface des hépatocytes</li><li>il induit l'activité cytolytique des lympho­cytes T</li><li>il n'apparaît pas dans le sérum.</li></ul>
 
-#### 3. L'antigène HBe :
+#### 3. L'antigène HBe
 
 <ul><li>témoin de la réplication virale</li><li>il est excrété dans le sérum.</li></ul>
 
-#### 4 L'ADN polymérase :
+#### 4 L'ADN polymérase
 
 <ul><li>enzyme associée à la particule virale</li><li>elle intervient dans la multiplication du virus</li><li>elle est retrouvée dans le sang circulant.</li></ul></td>
 
@@ -85,21 +83,17 @@ L'homme est le seul hôte naturel. L'infection du chimpanzé et d'autres primate
 
 Les cellules permissives sont les hépatocytes, bien que de l'ADN viral ait été trouvé en faible quantité dans des sites extra-hépatiques, monocytes, lymphocytes B, lymphocytes T CD4+ et CD8+. C'est sans doute à mettre en rapport avec les réinfections du greffon, observées après transplantation de foie, en particulier chez les patients atteints d'hépatite chronique sévère.
 
-Cela étant, la multiplication _in vitro_ du VHB, que l'on peut obtenir en cultures primaires d'hépatocytes, ou dans certaines lignées conti­nues de cellules conservant les propriétés des cellules hépatiques, apparaît fort limitée par comparaison à ce qu'on observe _in vivo_ chez l'homme.
+Cela étant, la multiplication *in vitro* du VHB, que l'on peut obtenir en cultures primaires d'hépatocytes, ou dans certaines lignées conti­nues de cellules conservant les propriétés des cellules hépatiques, apparaît fort limitée par comparaison à ce qu'on observe *in vivo* chez l'homme.
 
-### 2. Cycle de multiplication du virus _(figure 2)_
+### 2. Cycle de multiplication du virus *(figure 2)*
 
-Après entrée dans l'hépatocyte, la forme cir­culaire ouverte et partiellement bicaténaire de l'ADN viral se trouve, sous l'action de l'ADN polymérase virale incluse dans la particule virale, transformée en forme bicaténaire circu­larisée sous tension : c'est le cccDNA, pour _covalently closed circular_ DNA, appelé aussi supercoiled DNA, pour ADN surenroulé ou torsadé. Cet ADN surenroulé est une sorte de minichromosome détecté dans le noyau où il sert de matrice pour la transcription d'ARN viraux de différentes tailles : le plus long de ces transcrits, qui contient toute l'information génétique du virus, est un "progénome", tandis que des transcrits plus courts sont les ARN messagers correspondant aux 4 gènes du virus et sont bientôt traduits en protéines virales. Ultérieurement, le progénome ARN est encap­sidé par l'antigène HBc avec l'ADN polymérase qui, fonctionnant comme RT, douée également d'une action ARNase H, fabrique, à partir de ce progénome d'ARN, le génome d'ADN définitif et digère le progénome. Cette opération est très particulière aux hepadnavirus et à un virus des plantes, le virus de la mosaïque du chou-fleur. Elle n'est pas identique à la rétrotranscription du VIH car, si l'on observe parfois de l'ADN viral intégré dans l'ADN cellulaire, cette intégration n'est pas indispensable, ni à la réplication du VHB en phase active, ni à son pouvoir cancérigène. D'autre part, le VHB, contrairement au VIH, ne code pas d'intégrase. Cependant, il y a une homologie de séquence entre VIH et VHB, dont la polymérase partage le site catalytique caractérisé par la séquence YMDD.
-
+Après entrée dans l'hépatocyte, la forme cir­culaire ouverte et partiellement bicaténaire de l'ADN viral se trouve, sous l'action de l'ADN polymérase virale incluse dans la particule virale, transformée en forme bicaténaire circu­larisée sous tension : c'est le cccDNA, pour *covalently closed circular* DNA, appelé aussi supercoiled DNA, pour ADN surenroulé ou torsadé. Cet ADN surenroulé est une sorte de minichromosome détecté dans le noyau où il sert de matrice pour la transcription d'ARN viraux de différentes tailles : le plus long de ces transcrits, qui contient toute l'information génétique du virus, est un "progénome", tandis que des transcrits plus courts sont les ARN messagers correspondant aux 4 gènes du virus et sont bientôt traduits en protéines virales. Ultérieurement, le progénome ARN est encap­sidé par l'antigène HBc avec l'ADN polymérase qui, fonctionnant comme RT, douée également d'une action ARNase H, fabrique, à partir de ce progénome d'ARN, le génome d'ADN définitif et digère le progénome. Cette opération est très particulière aux hepadnavirus et à un virus des plantes, le virus de la mosaïque du chou-fleur. Elle n'est pas identique à la rétrotranscription du VIH car, si l'on observe parfois de l'ADN viral intégré dans l'ADN cellulaire, cette intégration n'est pas indispensable, ni à la réplication du VHB en phase active, ni à son pouvoir cancérigène. D'autre part, le VHB, contrairement au VIH, ne code pas d'intégrase. Cependant, il y a une homologie de séquence entre VIH et VHB, dont la polymérase partage le site catalytique caractérisé par la séquence YMDD.
 
 ![](image004.jpg)
 
-
-
 ![](image006-hepb-2.jpg)
 
-
-_Dans le noyau, l'ADN-polymérase uiral associé au uirion complète l'ADN génomique partiel­lement bicaténaire en ADN bicaténaire circulaire surenroulé (supercoiled, torsadé). Celui-ci est transcrit par l'appareillage cellulaire en ARN : ARN-messagers, traduits en 4 protéines (HBs, HBc, ADN polymérase et x) et **ARN prégénomique**, particularité du VHB. Ce dernier est rétrotranscrit par l'ADN-polymérase en nouueaux ADN génomiques. Ainsi, **l'ADN-polymé­rase virale a une double activité** : c'est une ADN-polymérase ADN-dépendante classique et une **rétrotranscriptase**, d'où son **inhibition par la 3TC**, nucléoside anti-VIH._
+*Dans le noyau, l'ADN-polymérase uiral associé au uirion complète l'ADN génomique partiel­lement bicaténaire en ADN bicaténaire circulaire surenroulé (supercoiled, torsadé). Celui-ci est transcrit par l'appareillage cellulaire en ARN : ARN-messagers, traduits en 4 protéines (HBs, HBc, ADN polymérase et x) et **ARN prégénomique**, particularité du VHB. Ce dernier est rétrotranscrit par l'ADN-polymérase en nouueaux ADN génomiques. Ainsi, **l'ADN-polymé­rase virale a une double activité** : c'est une ADN-polymérase ADN-dépendante classique et une **rétrotranscriptase**, d'où son **inhibition par la 3TC**, nucléoside anti-VIH.*
 
 <table>
 
@@ -131,7 +125,7 @@ Elles apparaissent régulièrement après 6 mois sous traitement prolongé à la
 
 Par immunoglobulines riches en anticorps anti-HBs et en même temps d'échappement à la vaccination (faite d'AgHBs) : elles consistent en mutations au niveau du gène S. Elles apparaissent lors de traitement préventif de la transmission mère­enfant, lors des campagnes de vaccination de masse, ou lors de la sérothérapie préventive pour éviter l'infection du greffon chez les transplantés de foie. Elles n'ont pas jusqu'à présent conduit à modifier la stratégie de ces mesures préventives mais sont clairement une invitation à la vigilance.
 
-#### c) Les mutants "précore" ou pré-C, au niveau du gène C.
+#### c) Les mutants "précore" ou pré-C, au niveau du gène C
 
 Il sont rendus incapables de synthétiser l'AgHBe. Les malades sont devenus AgHBe négatifs mais ce n'est pas chez eux un signe de contrôle, de rémission de l'infection virale, comme ce serait le cas pour des malades infectés par le virus classique. Les malades continuent au contraire à répliquer activement ce virus à mutation pré-C, avec une abondance d'ADN viral dans le sérum, et une évolution possible vers l'hépatite fulmi­nante ou vers une hépatite chronique sévère, répondant mal à l'interféron.
 
@@ -153,10 +147,10 @@ Il sont rendus incapables de synthétiser l'AgHBe. Les malades sont devenus AgHB
 
 </table>
 
-_Pour en savoir plus_
+*Pour en savoir plus*
 
-Lee W.M. Medical Progress : Hepatitis B Virus infection. Review articles. N Engl J Med 1997; 337 : 1733-45. Zuckerman A.J. Hepatitis viruses. In: Zuckerman A.J., Banatvala J.E., Pattison J.R. _Principles and practice of clinical virology_ (Third edition). John Wiley & Sons Ltd., 1995, p.153 - 87.
+Lee W.M. Medical Progress : Hepatitis B Virus infection. Review articles. N Engl J Med 1997; 337 : 1733-45. Zuckerman A.J. Hepatitis viruses. In: Zuckerman A.J., Banatvala J.E., Pattison J.R. *Principles and practice of clinical virology* (Third edition). John Wiley & Sons Ltd., 1995, p.153 - 87.
 
-Robinson W.S. Hepadnavirus. In: Mandell G.L., Bennett J.E., Dolin R. _Principles and practi­ce of infections diseases_ (Fifth edition). Churchill Livingstone, 2000, p. 1652 - 84.
+Robinson W.S. Hepadnavirus. In: Mandell G.L., Bennett J.E., Dolin R. *Principles and practi­ce of infections diseases* (Fifth edition). Churchill Livingstone, 2000, p. 1652 - 84.
 
-_Développement et Santé, n°151, février 2001_
+*Développement et Santé, n°151, février 2001*

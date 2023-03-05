@@ -9,21 +9,21 @@ date: "1983-02-28"
 <p>Nous envisagerons les intoxications par produits ménagers et domestiques.</p>
 <p>Celles dues aux médicaments feront l'objet d'un autre article.</p></div>
 
-## **I. Que faire devant une** **intoxication par produits** **ménagers ou domestiques?**
+## I. Que faire devant une intoxication par produits ménagers ou domestiques?
 
 L'interrogatoire de l'entourage permet de connaître rapidement le produit en cause. Il faut d'emblée distinguer deux cas: les intoxications par caustiques et les autres.
 
-### **1. Devant une intoxication par caustiques**
+### 1. Devant une intoxication par caustiques
 
-(_liste donnée plus loin_), **il faut:**
+(*liste donnée plus loin*), **il faut:**
 
-*   Laver aussitôt les zones atteintes avec de l'eau ou du sérum physiologique.
+- Laver aussitôt les zones atteintes avec de l'eau ou du sérum physiologique.
 
-*   En cas d'ingestion d'eau de javel seulement, administrer par la bouche 50 à 60 ml d'une solution à 1 % d'hyposulfite de sodium (Hyposylfène®).
+- En cas d'ingestion d'eau de javel seulement, administrer par la bouche 50 à 60 ml d'une solution à 1 % d'hyposulfite de sodium (Hyposylfène®).
 
-*   En cas d'ingestion de comprimés de permanganate de potassium (MnO<sub>4</sub>K) et si l'on est sûr qu'ils sont dans l'estomac grâce à une radiographie de l'abdomen sans préparation (ces comprimés sont radio-opaques), s'il n'y a ni choc ni perforation (ventre souple, absence de pneumopéritoine sur la radio de l'abdomen), faire une injection de 0, 1 mg/kg d'Apomorphine® en sous-cutané.
+- En cas d'ingestion de comprimés de permanganate de potassium (MnO<sub>4</sub>K) et si l'on est sûr qu'ils sont dans l'estomac grâce à une radiographie de l'abdomen sans préparation (ces comprimés sont radio-opaques), s'il n'y a ni choc ni perforation (ventre souple, absence de pneumopéritoine sur la radio de l'abdomen), faire une injection de 0, 1 mg/kg d'Apomorphine® en sous-cutané.
 
-*   S'il y a une dyspnée laryngée, on donne des corticoïdes en injection IM ou IV (Soludécadron® : une ampoule de 4 mg renouvelable).
+- S'il y a une dyspnée laryngée, on donne des corticoïdes en injection IM ou IV (Soludécadron® : une ampoule de 4 mg renouvelable).
 
 **Ce qu'il ne faut surtout pas faire,** **c'est:**
 
@@ -39,33 +39,35 @@ L'interrogatoire de l'entourage permet de connaître rapidement le produit en ca
 
 En effet, les lésions sont d'emblée maximales et se constituent en quelques secondes.
 
-### **2. Devant une intoxication par** **un autre produit, il faut:**
+### 2. Devant une intoxication par un autre produit, il faut
 
-*   Interroger l'entourage: nature du produit, quantité, heure de l'intoxication, âge et poids de l'enfant, heure du dernier repas.
+- Interroger l'entourage: nature du produit, quantité, heure de l'intoxication, âge et poids de l'enfant, heure du dernier repas.
 
-*   Faire un examen clinique rapide et complet, rechercher une contre-indication à l'évacuation du contenu gastrique (troubles de la déglutition, coma, dérivés du pétrole), apprécier l'état de conscience, la respiration, la circulation (pouls, tension artérielle), rechercher un signe anormal, regarder les yeux, la bouche, la peau, les urines, sentir l'odeur de l'haleine.
+- Faire un examen clinique rapide et complet, rechercher une contre-indication à l'évacuation du contenu gastrique (troubles de la déglutition, coma, dérivés du pétrole), apprécier l'état de conscience, la respiration, la circulation (pouls, tension artérielle), rechercher un signe anormal, regarder les yeux, la bouche, la peau, les urines, sentir l'odeur de l'haleine.
 
 **Traiter l'enfant:**
 
 En évacuant le contenu gastrique. Les méthodes en sont:
 
-### **a. Les vomissements provoqués:**
+### a. Les vomissements provoqués
 
-*   par des moyens mécaniques en " chatouillant " le fond de la gorge,
-*   par des drogues:
-*   le sirop d'Ipeca à la dose de 15 ml chez l'enfant de moins de deux ans, 30 ml chez l'enfant de plus de deux ans, à diluer dans cinq à dix fois son volume d'eau, provoquant les vomissements vingt minutes après l'absorption,
+- par des moyens mécaniques en " chatouillant " le fond de la gorge,
+- par des drogues:
+- le sirop d'Ipeca à la dose de 15 ml chez l'enfant de moins de deux ans, 30 ml chez l'enfant de plus de deux ans, à diluer dans cinq à dix fois son volume d'eau, provoquant les vomissements vingt minutes après l'absorption,
+
+<!-- -->
 
 - l'Apomorphine en injection sous-cutanée (0, 1 mg par kg de poids). Les vomissements sont précédés d'une grande pâleur.
 
-### **b. Le lavage gastrique:**
+### b. Le lavage gastrique
 
 qui demande une technique particulière, et qui doit être fait par un infirmier.
 
 Si l'évacuation gastrique n'est pas possible sur place, il faut au moins mettre l'enfant en " position de sécurité ": sur le ventre ou sur le côté, une jambe étendue, l'autre fléchie, la tête tournée sur le côté pour que la bouche soit tournée vers le bas.
 
-## **II.** **Quelques notions particulières sur chaque intoxication**
+## II. Quelques notions particulières sur chaque intoxication
 
-### **1. Les caustiques**
+### 1. Les caustiques
 
 **a. Les produits en cause,** ce sont:
 
@@ -77,13 +79,9 @@ Si l'évacuation gastrique n'est pas possible sur place, il faut au moins mettre
 
 à part, le Permanganate de Potassium en paillettes ou en comprimés, dont l'intoxication est très grave.
 
-
 ![](i67-1.jpg)
 
-
-
 ![](i67-2.jpg)
-
 
 **b. Le siège des lésions:**
 
@@ -97,7 +95,7 @@ Les lésions à l'intérieur de la bouche sont quasi obligatoires. L'atteinte du
 
 - Les autres évoluent vers le rétrécissement ou " sténose " oesophagienne, qui ne peut être traitée que dans un grand centre hospitalier.
 
-### **2. Les produits domestiques**
+### 2. Les produits domestiques
 
 **a. Le pétrole ou ses dérivés** (white spirit, essence de térébenthine, essence ordinaire, fuel, gaz-oil, détachants, cires ... ) :
 
@@ -105,25 +103,25 @@ Les lésions à l'intérieur de la bouche sont quasi obligatoires. L'atteinte du
 
 - On définit trois groupes de manifestations:
 
-(1) - Digestives par intoxication locale:
+\(1\) - Digestives par intoxication locale:
 
-*   érythème du menton, de la partie supérieure du thorax,
-*   vomissements très précoces,
-*   diarrhées, parfois sanglantes.
+- érythème du menton, de la partie supérieure du thorax,
+- vomissements très précoces,
+- diarrhées, parfois sanglantes.
 
-(2) - Générales liées à l'absorption du produit :
+\(2\) - Générales liées à l'absorption du produit :
 
-*   obnubilation, parfois coma,
-*   accélération de la fréquence cardiaque, pâleur, chute de la tension,
-*   fièvre.
+- obnubilation, parfois coma,
+- accélération de la fréquence cardiaque, pâleur, chute de la tension,
+- fièvre.
 
-(3) Respiratoires par inhalation ou absorption:
+\(3\) Respiratoires par inhalation ou absorption:
 
 elles peuvent être graves et précoces.
 
 Comme pour les intoxications par caustiques, il faut débarrasser l'enfant de ses vêtements imbibés, ne rien lui donner à boire, ne pas le faire vomir, ne pas faire de lavage gastrique. Mettre seulement l'enfant en position de sécurité.
 
-### **b. Le Trichloréthylène:**
+### b. Le Trichloréthylène
 
 - Ce produit est utilisé comme solvant des graisses ou des huiles, ou comme détachant.
 
@@ -163,10 +161,10 @@ Comme pour les intoxications par caustiques, il faut débarrasser l'enfant de se
 
 - Traitement: régime sans lait ni graisse pendant 48 heures. Charbon activé. Évacuation gastrique si intoxication grave.
 
-### **En conclusion**
+### En conclusion
 
 On retiendra la gravité des intoxications aiguës accidentelles par les caustiques. Le meilleur traitement est évidemment la prévention de tels accidents, en rangeant tous ces produits hors de portée des enfants, **car la récidive est fréquente.**
 
 Il est toujours nécessaire de pouvoir identifier le contenu d'une bouteille par une marque distinctive.
 
-_Développement et Santé, n°43, février 1983_
+*Développement et Santé, n°43, février 1983*

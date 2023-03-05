@@ -20,19 +20,17 @@ En réalité, les frontières nationales séparent souvent des groupes ethniques
 
 Dans la moitié des pays disposant de données, la majorité des filles subissent ces mutilations génitales avant l’âge de 5 ans. En Égypte, en République centrafricaine, en Somalie et au Tchad, au moins 80 % des filles sont excisées entre 5 et 14 ans, parfois dans le cadre de rites marquant le passage à l’âge adulte. La plupart des mères dont les filles ont subi des MGF/E indiquent que l’intervention a consisté à couper et retirer des morceaux de chair autour des organes génitaux. À Djibouti, en Érythrée, au Niger, au Sénégal et en Somalie, parmi les filles qui ont subi des MGF/E, plus d’une fille sur cinq a subi la forme la plus radicale de ces pratiques, l’infibulation, qui comprend l’ablation et la suture des parties génitales. Les MGF/E sont habituellement effectuées par des praticien(ne)s traditionnel(le)s et sont pratiquées à la maison à l’aide d’une lame ou d’un rasoir. Toutefois, en Égypte, au Kenya et au Soudan, une proportion importante de prestataires de santé réalise ces interventions. En Égypte, ce sont les médecins, par opposition à d’autres membres du personnel soignant, qui pratiquent la majorité des MGF/E. 
 
-
 ![](unicef-carte.jpg)
 
+*Cette carte est stylisée et n’est pas à l’échelle. Elle ne reflète aucune prise de position de la part de l’UNICEF quant au statut juridique des pays ou territoires, ni quant au tracé de leurs frontières. La frontière*
 
-_Cette carte est stylisée et n’est pas à l’échelle. Elle ne reflète aucune prise de position de la part de l’UNICEF quant au statut juridique des pays ou territoires, ni quant au tracé de leurs frontières. La frontière_
+*définitive entre la République du Soudan et la République du Soudan du Sud n’a pas encore été déterminée. Les données infranationales pour le Yémen n’apparaissent pas ici en raison des différences entre*
 
-_définitive entre la République du Soudan et la République du Soudan du Sud n’a pas encore été déterminée. Les données infranationales pour le Yémen n’apparaissent pas ici en raison des différences entre_
+*les regroupements régionaux utilisés dans les Enquêtes Démographiques et de Santé (EDS) et ceux disponibles dans le logiciel utilisé pour établir cette carte.*
 
-_les regroupements régionaux utilisés dans les Enquêtes Démographiques et de Santé (EDS) et ceux disponibles dans le logiciel utilisé pour établir cette carte._
+***Sources :****Enquêtes Démographiques et de Santé (EDS), Enquêtes par grappes à indicateurs multiples (MICS) et Enquêtes sur la santé des ménages soudanais, 1997-2012.*
 
-**_Sources :_ **_Enquêtes Démographiques et de Santé (EDS), Enquêtes par grappes à indicateurs multiples (MICS) et Enquêtes sur la santé des ménages soudanais, 1997-2012._
-
-## **La demande d’abandon de ces pratiques**
+## La demande d’abandon de ces pratiques
 
 Il ressort des données que les MFG/E persistent souvent malgré la volonté de certains d’y mettre fin. Dans la plupart des pays où ces usages sont en vigueur, la majorité des filles et des femmes estiment qu’il faut y mettre un terme. En outre, le pourcentage de filles et de femmes qui soutiennent cette pratique, par exemple, est beaucoup plus faible que le pourcentage de celles qui ont été excisées, même dans les pays où la prévalence reste élevée.  
 
@@ -42,7 +40,7 @@ Les filles et les femmes ne sont pas les seules à ‘s’opposer à cette prati
 
 Il y a beaucoup à gagner en comprenant pourquoi la pratique des MGF/E est si profondément ancrée. Les données nous expliquent pourquoi cette pratique persiste dans tant d’endroits : les MGF/E sont encore pratiquées à cause d’un sentiment d’obligation sociale. En d’autres termes, les mères croient que leurs filles doivent être excisées parce qu’elles pensent que c’est ce que l’on attend d’elles dans les communautés où elles vivent. Certaines pensent que la religion l’exige, ou leurs conjoints, ou leurs voisins. « L’acceptation sociale » est la raison la plus couramment citée pour justifier les MGF/E.  Et c’est à cause de ce sentiment d’obligation sociale qu’on continue à exciser des filles même lorsque leurs mères pensent que la pratique devrait être abandonnée. En Gambie, par exemple, 54 % des filles excisées ont des mères qui sont opposées à cette pratique. L’aptitude au mariage est un facteur souvent avancé en faveur des MGF/E. Bien que cet argument ait pu en effet être utilisé à une époque, relativement peu de femmes citent aujourd’hui les perspectives de mariage comme justification de ces coutumes. 
 
-## **L’évolution des tendances**
+## L’évolution des tendances
 
 D’une manière générale, le soutien apporté aux mutilations génitales féminines et à l’excision est en baisse, même dans les pays où elles sont quasi généralisées comme l’Égypte et le Soudan. Dans presque tous les pays présentant une prévalence moyennement élevée à très faible, le pourcentage de filles et de femmes indiquant souhaiter que ces pratiques perdurent a régulièrement diminué. En République centrafricaine, par exemple, le pourcentage de filles et de femmes favorables à la poursuite des MGF/E a baissé de manière constante, passant de 30 % à 11 % en l’espace de 15 ans environ. Au Niger, leur proportion a chuté de 32 % à 3 % entre 1998 et 2006. Il existe toutefois des exceptions : la proportion de filles et de femmes indiquant souhaiter que les MGF/E perdurent est restée stable en Guinée, en Guinée-Bissau, en République-Unie de Tanzanie et au Sénégal.
 
@@ -50,8 +48,8 @@ Les données permettant de définir les tendances montrent aussi que les mutilat
 
 D’une manière générale, le type de MGF/E opérées et l’âge à l’excision ont peu changés au fil des générations. On discerne une tendance à pratiquer des ablations moins importantes dans certains pays, notamment à Djibouti où 83 % des femmes de 45 à 49 ans ont indiqué avoir subi une suture occlusive, contre 42 % des filles de 15 à 19 ans.  L’âge à l’excision est resté relativement stable dans la plupart des pays. Lorsque des changements sont intervenus, on constate surtout une tendance vers des âges plus jeunes. Si l’âge à l’excision et le type de MGF/E ont peu évolué, de changements importants sont en train de se produire quant aux praticien(ne)s. En Égypte, le pourcentage de filles excisées par le personnel de santé a fortement augmenté. Une tendance accrue à la médicalisation des MGF/E est également observée au Kenya.
 
-## **Pour conclure**
+## Pour conclure
 
 Les données disponibles confirment que, d’une manière générale, les initiatives programmatiques visant à mettre un terme aux mutilations génitales féminines et à l’excision enregistrent des progrès. Il faut continuer à évaluer les différents aspects des MGF/E dans les pays à prévalence élevée et faible, et intensifier les efforts pour encourager leur élimination complète et définitive. Les nouvelles séries d’enquêtes auprès des ménages, qui seront menées ces prochaines années, feront connaître plus amplement les résultats de ces actions. Si les efforts et l’engagement des partenaires perdurent et si les programmes sont renforcés à la lumière de données factuelles toujours plus nombreuses, ces enquêtes montreront que la mutation en cours s’est accélérée et que des millions de filles ont pu échapper au destin de leurs mères et de leurs grands-mères.
 
-*Ce texte est extrait de la publication : Fonds des Nations Unies pour l'enfance, _Mutilations génitales féminines/ excision : aperçu et étude statistique de la dynamique des changements_, UNICEF, New York, 2013. Toutes les statistiques mentionnées dans ce texte sont obtenues à partir des analyses contenues dans cette publication. Celle-ci s'appuie sur les données de plus de 70 enquêtes de ménage, notamment des démographiques et de santé (EDS) et des enquêtes par grappes à indicateurs multiples (MICS), ainsi que d'autres données représentatives de la situation nationale contenant des informations sur les MGF/E.
+\*Ce texte est extrait de la publication : Fonds des Nations Unies pour l'enfance, *Mutilations génitales féminines/ excision : aperçu et étude statistique de la dynamique des changements*, UNICEF, New York, 2013. Toutes les statistiques mentionnées dans ce texte sont obtenues à partir des analyses contenues dans cette publication. Celle-ci s'appuie sur les données de plus de 70 enquêtes de ménage, notamment des démographiques et de santé (EDS) et des enquêtes par grappes à indicateurs multiples (MICS), ainsi que d'autres données représentatives de la situation nationale contenant des informations sur les MGF/E.

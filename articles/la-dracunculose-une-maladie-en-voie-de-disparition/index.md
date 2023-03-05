@@ -22,13 +22,11 @@ La dracunculose ne touche plus actuellement que treize pays africains (Bénin, B
 
 ## II. Cycle parasitaire
 
-La dracunculose est une maladie provoquée par un ver Nématode (ver rond) appelé _Dracunculus medinensis_ ou ver de Guinée. C'est le plus grand ver rond pouvant parasiter le corps humain. En effet, le ver femelle peut mesurer à l'âge adulte plus d'un mètre de long, 2 millimètres de diamètre et peut porter 1 à 3 millions d'embryons. Après avoir migré dans l'organisme, le ver fore un orifice à travers la peau, le plus souvent au niveau des pieds et, lorsqu'il est en contact avec de l'eau, il expulse ses embryons. En pratique, c'est en pénétrant dans la mare pour remplir leur récipient d'eau que les utilisateurs contaminent le point d'eau. Les embryons sont alors avalés par un prédateur vorace, le cyclops. Ce crustacé à l'allure de crevette de 0,5 à 2 millimètres de long a été ainsi baptisé car il porte un oeil frontal rouge du meilleur effet.
+La dracunculose est une maladie provoquée par un ver Nématode (ver rond) appelé *Dracunculus medinensis* ou ver de Guinée. C'est le plus grand ver rond pouvant parasiter le corps humain. En effet, le ver femelle peut mesurer à l'âge adulte plus d'un mètre de long, 2 millimètres de diamètre et peut porter 1 à 3 millions d'embryons. Après avoir migré dans l'organisme, le ver fore un orifice à travers la peau, le plus souvent au niveau des pieds et, lorsqu'il est en contact avec de l'eau, il expulse ses embryons. En pratique, c'est en pénétrant dans la mare pour remplir leur récipient d'eau que les utilisateurs contaminent le point d'eau. Les embryons sont alors avalés par un prédateur vorace, le cyclops. Ce crustacé à l'allure de crevette de 0,5 à 2 millimètres de long a été ainsi baptisé car il porte un oeil frontal rouge du meilleur effet.
 
 Le cyclops est un hôte intermédiaire où l'embryon se transforme en larve infectieuse en 4 à 6 semaines. L'homme se contamine en buvant de l'eau contenant des cyclops infectés. Les cyclops sont détruits quand ils arrivent dans l'estomac, les larves sont alors libérées et traversent la paroi intestinale pour migrer dans les tissus. Au bout d'un an, la femelle adulte commence à voyager à travers le corps du malade provoquant les symptômes de la maladie, bouclant ainsi le cycle.
 
-
 ![](i903-1.jpg)
-
 
 Il existe d'importantes variations saisonnières dans la transmission de la dracunculose. En Afrique, la transmission s'effectue en saison des pluies (juillet à septembre) en zone de savane sahélo-soudanienne et en saison sèche (octobre à avril) en savane guinéenne humide. Il n'y a pas de réservoir animal.
 
@@ -75,10 +73,10 @@ La disparition de cette maladie ne peut donc reposer que sur une politique de pr
 
 Quels sont les points forts de cette stratégie ?
 
-1.  L'isolement et l'accompagnement des malades.  
-2.  Un système de surveillance communautaire.  
-3.  Un approvisionnement en eau potable.  
-4.  L'éducation sanitaire.  
+1.  L'isolement et l'accompagnement des malades.
+2.  Un système de surveillance communautaire.
+3.  Un approvisionnement en eau potable.
+4.  L'éducation sanitaire.
 5.  La coordination des actions au niveau national.
 
 ### 1. Surveillance et isolement des malades par la communauté
@@ -91,9 +89,9 @@ Des agents communautaires de santé sont formés de façon rigoureuse par diffé
 
 Les objectifs de cette surveillance sont les suivants :
 
-*   déterminer dans quelles communautés la dracunculose est endémique et quelle est l'importance de la prévalence
-*   contrôler les effets des stratégies d'intervention
-*   documenter l'élimination de la maladie.
+- déterminer dans quelles communautés la dracunculose est endémique et quelle est l'importance de la prévalence
+- contrôler les effets des stratégies d'intervention
+- documenter l'élimination de la maladie.
 
 Pour cela, des outils épidémiologiques simples ont été mis au point : questionnaires pour recueillir les données, présentation de ces données sous forme de tableaux et de graphiques, rapport type mensuel.
 
@@ -117,17 +115,14 @@ La mise en oeuvre et le suivi de ce programme associent l'OMS, l'UNICEF, Global 
 
 Au terme de cet article, je pense que tout ce que vous avez appris sur la dracunculose ne vous servira à rien car elle aura disparu (comme vous ne voyez plus de variole et comme bientôt, vous ne verrez plus de poliomyélite ou d'hépatite B). Cependant vous n'aurez pas perdu votre temps si vous vous souvenez:
 
-*   que seule la **connaissance** parfaite d'une maladie permet de mettre au point une stratégie de prévention efficace
-*   que cette **prévention** ne sera opérationnelle que si elle associe une communauté qui aura participé à la prise de décisions et dont les références culturelles auront été prises en compte.
+- que seule la **connaissance** parfaite d'une maladie permet de mettre au point une stratégie de prévention efficace
 
-*   qu'une **action apparemment limitée** peut avoir des conséquences plus importantes que prévues. Ainsi la dynamique impulsée par la campagne d'éradication de la dracunculose aura des conséquences sur le contrôle d'autres maladies transmises par l'eau. Elle a surtout des conséquences sur le plan socio économique en améliorant, dans certaines régions, la production agricole et la fréquentation scolaire. La santé coûte cher mais il coûte encore plus cher de la négliger. Il est donc important que tous ceux qui font de la médecine la calculatrice à la main puissent évaluer les- effets indirects et les bénéfices induits par certaines actions de santé publique et non pas seulement le coût de chacune de ces actions. L'éradication de la variole et de la dracunculose aujourd'hui, celle de la poliomyélite et de l'hépatite B demain ne doit cependant pas masquer les difficultés que présentent des maladies plus complexes comme le paludisme ou des maladies émergentes comme l'infection à HIV, les nouvelles fièvres hémorragiques ou les maladies à prions.
+- que cette **prévention** ne sera opérationnelle que si elle associe une communauté qui aura participé à la prise de décisions et dont les références culturelles auront été prises en compte.
 
+- qu'une **action apparemment limitée** peut avoir des conséquences plus importantes que prévues. Ainsi la dynamique impulsée par la campagne d'éradication de la dracunculose aura des conséquences sur le contrôle d'autres maladies transmises par l'eau. Elle a surtout des conséquences sur le plan socio économique en améliorant, dans certaines régions, la production agricole et la fréquentation scolaire. La santé coûte cher mais il coûte encore plus cher de la négliger. Il est donc important que tous ceux qui font de la médecine la calculatrice à la main puissent évaluer les- effets indirects et les bénéfices induits par certaines actions de santé publique et non pas seulement le coût de chacune de ces actions. L'éradication de la variole et de la dracunculose aujourd'hui, celle de la poliomyélite et de l'hépatite B demain ne doit cependant pas masquer les difficultés que présentent des maladies plus complexes comme le paludisme ou des maladies émergentes comme l'infection à HIV, les nouvelles fièvres hémorragiques ou les maladies à prions.
 
 ![](i903-2.jpg)
 
-
-
 ![](i903-3.jpg)
-  
 
-_Développement et Santé, n°150, décembre 2000_
+*Développement et Santé, n°150, décembre 2000*

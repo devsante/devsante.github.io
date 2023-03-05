@@ -4,7 +4,7 @@ author: "Daniel Talleyrand* * Professeur de Pédiatrie, Université de Lubumbash
 date: "1995-08-02"
 ---
 
-## **I. Définition et épidémiologie**
+## I. Définition et épidémiologie
 
 Le choléra est une maladie infectieuse très contagieuse, souvent meurtrière.
 
@@ -14,35 +14,35 @@ Il est dû au vibrion cholérique découvert par R. Koch en 1883.
 
 Le choléra a toujours sévi en Inde, sous forme endémique avec des explosions épidémiques.
 
-Quand, de son foyer originel, il gagne un certain nombre de pays, on parle de pandémie. La première pandémie, ou la première diffusion considérée comme telle, a eu lieu en 1817. Actuellement nous vivons la septième pandémie et ce depuis plus de trente ans. Elle est due au _Vibrio El Tor._
+Quand, de son foyer originel, il gagne un certain nombre de pays, on parle de pandémie. La première pandémie, ou la première diffusion considérée comme telle, a eu lieu en 1817. Actuellement nous vivons la septième pandémie et ce depuis plus de trente ans. Elle est due au *Vibrio El Tor.*
 
 Les continents touchés sont l'Asie, l'Afrique et l'Amérique du Sud.
 
 Le développement de l'hygiène dans les pays développés les met à l'abri des épidémies de choléra. La pauvreté, la promiscuité, les mauvaises conditions de vie, les déplacements collectifs favorisent au contraire son éclosion.
 
-## **II. La contagion**
+## II. La contagion
 
 Indirecte, elle se fait par l'eau contaminée. Elle peut être aussi directe et se fait alors par les aliments, les mains sales, les poignées de porte des toilettes... Les selles émises en période d'incubation, d'état ou de convalescence contiennent des vibrions. Ils peuvent y être présents vingt jours après la guérison.
 
-## **III. Physiopathologie**
+## III. Physiopathologie
 
 Le choléra est une maladie des soixante-dix premiers centimètres d'intestin grêle.
 
-" Les germes colonisent la lumière intestinale. Ils se fixent par des facteurs d'attachement, connus sous le nom de _glycocalix et_ se multiplient au pied des glandes jusqu'à recouvrir celles-ci en sept à neuf heures d'un véritable tapis de vibrions ". Ils ne pénètrent jamais dans l'organisme mais sécrètent une toxine cholérique, important activateur de l'adényl-cyclase, qui a pour effet de multiplier par quinze l'activité de la 3'5' C-AMP. Cette dernière entraîne la sortie, via les cellules intestinales, de vingt à trente litres d'eau accompagnés de Na et de chlorures. La réabsorption d'une telle quantité de liquide est impossible. Il s'ensuit le tableau clinique de déshydratation sévère observé au cours de la diarrhée du choléra.
+" Les germes colonisent la lumière intestinale. Ils se fixent par des facteurs d'attachement, connus sous le nom de *glycocalix et* se multiplient au pied des glandes jusqu'à recouvrir celles-ci en sept à neuf heures d'un véritable tapis de vibrions ". Ils ne pénètrent jamais dans l'organisme mais sécrètent une toxine cholérique, important activateur de l'adényl-cyclase, qui a pour effet de multiplier par quinze l'activité de la 3'5' C-AMP. Cette dernière entraîne la sortie, via les cellules intestinales, de vingt à trente litres d'eau accompagnés de Na et de chlorures. La réabsorption d'une telle quantité de liquide est impossible. Il s'ensuit le tableau clinique de déshydratation sévère observé au cours de la diarrhée du choléra.
 
-## **IV. Clinique**
+## IV. Clinique
 
 Il s'agit d'une diarrhée aqueuse, massive, afécale et sans fièvre accompagnée de vomissements incoercibles parfois. En l'absence de traitement, la mort peut survenir en vingt-quatre/quarante-huit heures dans un tableau de collapsus cardiovasculaire.
 
 Des formes bénignes (gastro-entérite aiguë) existent ainsi que des formes foudroyantes (décès en quelques heures) par collapsus (avant diarrhée).
 
-## **V. Diagnostic**
+## V. Diagnostic
 
 Le diagnostic de laboratoire est obligatoire au début de l'épidémie. "Toute diarrhée en période d'épidémie doit être considérée comme un cas de choléra et traité comme tel. " Toutefois, récemment, dans les camps de réfugiés rwandais au Zaïre, une shigellose très grave a sévi en même temps que le choléra.
 
 Le transport des selles jusqu'au laboratoire se fait en milieu alcalin peptoné.
 
-## **VI. Traitement**
+## VI. Traitement
 
 C'est une urgence médicale. Il faut très vite apprécier l'état clinique du malade. En cas de gravité (choc), la voie intraveineuse doit être choisie. Plusieurs litres de liquide de Ringer ou de sérum salé isotonique et de sérum bicarbonaté à 1,4 % peuvent être administrés en vingt-quatre heures à la demande, en fonction du poids, de l'élasticité cutanée et de la pression artérielle.
 
@@ -54,7 +54,7 @@ Dès l'arrêt des vomissements, l'administration d'antibiotiques (Tétracycline:
 
 Chez l'enfant, la réhydratation initiale devra être plus prudente et une surveillance plus grande sera exercée. Il faudra veiller à compenser la perte de potassium qui est souvent très importante.
 
-## **VII. Prophylaxie**
+## VII. Prophylaxie
 
 La maladie doit être déclarée et le malade isolé.
 
@@ -62,29 +62,29 @@ Une désinfection rigoureuse est de règle et le personnel soignant doit prendre
 
 Les sujets en contact sont placés sous surveillance médicale pendant cinq jours durant lesquels la recherche de vibrions cholériques est effectuée par des examens de selles répétés. ns sont soumis à une chimioprophylaxie, ainsi que les porteurs de germes sains. Mais attention au phénomène croissant de résistance.
 
-## **VIII. Conduite à tenir en cas d'épidémie**
+## VIII. Conduite à tenir en cas d'épidémie
 
-### **1. Logistique**
+### 1. Logistique
 
 L'organisation de la prise en charge des malades est essentielle.
 
-*   Pour le traitement des malades.
+- Pour le traitement des malades.
 
 Sachant qu'en cas d'épidémie 40 % des malades peuvent être en état de choc, 30 % plus ou moins déshydratés, et que seuls 30 % pourront se satisfaire de la voie orale, la présence d'un infirmier pour dix malades est un minimum.
 
 Il faut des médecins et des infirmiers responsables de l'organisation du tri des malades en fonction des besoins de réhydratation orale ou veineuse; du traitement ou du transfert éventuel.
 
-*   Pour la réception et l'enregistrement des malades.
+- Pour la réception et l'enregistrement des malades.
 
-*   Pour la préparation des solutés de réhydratation orale.
+- Pour la préparation des solutés de réhydratation orale.
 
-*   Pour le nettoyage et la désinfection du linge, de la literie, des salles et des latrines.
+- Pour le nettoyage et la désinfection du linge, de la literie, des salles et des latrines.
 
-*   Pour la désinfection, l'évacuation et l'ensevelissement des cadavres.
+- Pour la désinfection, l'évacuation et l'ensevelissement des cadavres.
 
-*   L'évacuation des liquides contaminés (selles, vomissements).
+- L'évacuation des liquides contaminés (selles, vomissements).
 
-*   L'évacuation des besoins, l'approvisionnement et le stockage des liquides de perfusion et des trousses (aiguilles de gros calibre, tubulures).
+- L'évacuation des besoins, l'approvisionnement et le stockage des liquides de perfusion et des trousses (aiguilles de gros calibre, tubulures).
 
 Il est indispensable qu'un coordinateur répartisse les tâches entre les membres de l'équipe et veille à leur stricte application. Après avoir alerté les autorités sanitaires, il s'attachera à l'organisation du traitement.
 
@@ -100,7 +100,7 @@ Chaque malade est installé sur un lit percé d'où les selles s'écoulent dans 
 
 Pour limiter la propagation de la maladie, le coordinateur doit limiter au maximum la circulation des germes en limitant les mouvements des malades, des accompagnants et du personnel. Pour cela, il doit exister des barrières qui délimitent l'enceinte du centre de traitement. Cette dernière précaution n'est pas prise en considération par certains auteurs.
 
-### **2. Épuration de l'eau**
+### 2. Épuration de l'eau
 
 Il existe deux moyens de désinfection de l'eau :
 
@@ -154,11 +154,13 @@ Pour une eau trouble:
 
 - l'eau de Javel ne doit jamais être mélangée à un acide ou à un produit détartrant.
 
-### **3. Désinfection des excreta** **(selles, vomissements)**
+### 3. Désinfection des excreta (selles, vomissements)
 
-*   À l'aide de dérivés chlorés à la concentration de 1 000 à 10 000 ppm de chlore actif.
+- À l'aide de dérivés chlorés à la concentration de 1 000 à 10 000 ppm de chlore actif.
 
-*   À l'aide de lait de chaux. Concentration :
+- À l'aide de lait de chaux. Concentration :
+
+<!-- -->
 
 - une part de selles ou de vomissure pour cinq parts de lait de chaux,
 
@@ -178,39 +180,39 @@ Durée. huit heures de contact pour les selles et vomissures, six heures de cont
 
 Périodicité: renouveler l'opération à chaque émission d'excreta.
 
-### **4. Désinfection des ustensiles et** **instruments, des lavabos, bacs,** **éviers, des eaux usées...** _(tableau)_
+### 4. Désinfection des ustensiles et instruments, des lavabos, bacs, éviers, des eaux usées... *(tableau)*
 
-### **5. Désinfection du lit, de la paillasse, du linge**
+### 5. Désinfection du lit, de la paillasse, du linge
 
-*   Le lavage du lit et de la paillasse est fait à l'aide d'une solution de savon de crésyl diluée à 3 % ; sans rinçage; sans essuyage.
+- Le lavage du lit et de la paillasse est fait à l'aide d'une solution de savon de crésyl diluée à 3 % ; sans rinçage; sans essuyage.
 
-*   Le linge sera désinfecté par lavage à chaud ou par trempage pendant une demi-heure dans le savon de crésyl à 3 %.
+- Le linge sera désinfecté par lavage à chaud ou par trempage pendant une demi-heure dans le savon de crésyl à 3 %.
 
-### **6. Éducation pour la santé**
+### 6. Éducation pour la santé
 
-*   Enseignement de la méthode de chloration de l'eau de boisson.
+- Enseignement de la méthode de chloration de l'eau de boisson.
 
-*   Éducation sanitaire.
+- Éducation sanitaire.
 
-*   Assainissement du milieu (latrines).
+- Assainissement du milieu (latrines).
 
-### **7. Vaccination**
+### 7. Vaccination
 
 La vaccination des populations susceptibles d'entrer en contact avec la zone d'endémie ou avec les malades est recommandée, surtout en période d'épidémie avérée, et ce, malgré l'efficacité limitée du vaccin. Celui-ci a une action vibriocide en stimulant la sécrétion d'anticorps antivibrions déversés par la bile dans l'intestin (vaccin injectable). La mise au point d'un vaccin par voie orale vise également la saturation des sites de fixation du vibrion sur les villosités intestinales empêchant ainsi la multiplication du germe.
 
-### **8. Exemples**
+### 8. Exemples
 
 **Au Honduras, on a avant tout cherché:**
 
-1) À mobiliser la population par des campagnes d'information : affiches, "précautions à prendre pour éviter le choléra", placardées sur tous les murs des postes de santé, des écoles, sur les portes des boutiques... ; affichettes de presse, " messages incessants radiotélévisés ".
+1)  À mobiliser la population par des campagnes d'information : affiches, "précautions à prendre pour éviter le choléra", placardées sur tous les murs des postes de santé, des écoles, sur les portes des boutiques... ; affichettes de presse, " messages incessants radiotélévisés ".
 
 Toutes les couches de la population ont été touchées par la campagne " Le choléra, le problème de tous ", et tous ont participé à leur niveau, aux opérations de propagande (concours du marché le plus propre par les commerçants ; campagne nationale de réhydratation orale des enfants par les mères de famille; dénonciation publique et fermeture des établissements insalubres).
 
-2) À mobiliser le personnel sanitaire et médical et le rendre à même de prendre en charge les malades repérés: solutions intraveineuses, sérums, produits désinfectants dans tous les centres principaux.
+2)  À mobiliser le personnel sanitaire et médical et le rendre à même de prendre en charge les malades repérés: solutions intraveineuses, sérums, produits désinfectants dans tous les centres principaux.
 
 À Tegucigalpa, la capitale, une unité spéciale a été créée, entièrement consacrée aux malades du choléra. elle permet d'éviter toute manipulation des matières fécales (93 lits aménagés pour un traitement de 900 patients par mois). " Une ouverture pratiquée sur chaque lit domine un bac irrigué en permanence par une eau chlorée et connecté à un réseau central qui dirige toutes les matières vers une fosse d'assainissement. "
 
-3) À dire la vérité, en expliquant la maladie aux enfants des écoles, des marchés, et en publiant régulièrement les statistiques favorables ou défavorables de l'évolution de la maladie.
+3)  À dire la vérité, en expliquant la maladie aux enfants des écoles, des marchés, et en publiant régulièrement les statistiques favorables ou défavorables de l'évolution de la maladie.
 
 **En Colombie,** des mesures d'hygiène préventives ont été appliquées quinze jours avant l'apparition de l'épidémie. Le gouvernement a courageusement décrété l'état d'alerte et entrepris une campagne nationale d'information et d'éducation sanitaire fondée sur des mesures d'hygiène corporelle et de désinfection des eaux de boisson. Une cellule d'urgence et de catastrophe, fondée lors de l'éruption du volcan El Ruiz qui avait détruit la ville d'Arnero, a permis des financements de lutte contre le choléra (tracts, affiches, messages radio et télévisés) et aussi la constitution de stocks de médicaments et de matériels pour la réhydratation des patients. Remarquablement, dans ce pays, la faible mortalité est attribuée au dévouement et à la compétence des médecins travaillant dans les postes de santé isolés.
 
@@ -220,8 +222,6 @@ Le choléra restera longtemps encore une grave menace pour les pays en voie de d
 
 vu dans les deux pays que je viens de citer, augmenter le niveau de vie des populations, leur offrir une éducation solide en matière d'hygiène. L'utilisation de l'eau de Javel pour rendre l'eau potable, le lavage des mains avant de manger, la lutte contre le péril fécal par la construction et l'utilisation des latrines constituent des mesures qui devront retenir toute notre attention.
 
-
 ![](i647-1.jpg)
 
-
-_Développement et Santé, n° 118, août 1995_
+*Développement et Santé, n° 118, août 1995*

@@ -23,13 +23,13 @@ La voie **orale** est la seule possible pour le vaccin polio oral vivant (Sahin)
 
 Le choix du site influence directement la probabilité de réaliser une injection réellement intramusculaire et donc l'immunogénicité et la tolérance vacci¬nale. Les sites privilégiés sont :
 
-*   La face antéro-externe de la cuisse, au 1/3 moyen, avant l'âge de un an. Dans cette région, il n'y a ni nerf ni artère que l'on pourrait blesser.  
-*   Après un an, le deltoïde, zone aussi sans danger et facilement accessible pour l'adulte, i'adolescent et le grand enfant. Chez le nourrisson, il n'est pas assez développé : on risque donc de traverser le muscle !
-*   L'injection dans la fesse n'est plus recommandée pour plusieurs raisons :
-    *   Risque d'embrocher le nerf sciatique, voire d'entraîner des lésions à distance, même si l'injection a bien été effectuée dans le quadrant supéro-externe (on se rappelle les paralysies sciatiques provoquées par les injections de quinine dans la fesse).  
-    *   Risque de fautes d'asepsie chez le nourrisson (proximité des selles !).  
-    *   Faible masse musculaire chez le nourrisson, d'où un risque d'injection trop profonde.  
-    *   A l'inverse, chez l'adulte, l'épaisseur du tissu graisseux peut aboutir à une injection sous-cutanée ! Ce qui entraîne une moins bonne immunisation.
+- La face antéro-externe de la cuisse, au 1/3 moyen, avant l'âge de un an. Dans cette région, il n'y a ni nerf ni artère que l'on pourrait blesser.
+- Après un an, le deltoïde, zone aussi sans danger et facilement accessible pour l'adulte, i'adolescent et le grand enfant. Chez le nourrisson, il n'est pas assez développé : on risque donc de traverser le muscle !
+- L'injection dans la fesse n'est plus recommandée pour plusieurs raisons :
+  - Risque d'embrocher le nerf sciatique, voire d'entraîner des lésions à distance, même si l'injection a bien été effectuée dans le quadrant supéro-externe (on se rappelle les paralysies sciatiques provoquées par les injections de quinine dans la fesse).
+  - Risque de fautes d'asepsie chez le nourrisson (proximité des selles !).
+  - Faible masse musculaire chez le nourrisson, d'où un risque d'injection trop profonde.
+  - A l'inverse, chez l'adulte, l'épaisseur du tissu graisseux peut aboutir à une injection sous-cutanée ! Ce qui entraîne une moins bonne immunisation.
 
 ### 2. Technique
 
@@ -39,11 +39,11 @@ Aiguille en acier inoxydable ou en nickel à biseau long (moins douloureux) de 7
 
 #### En pratique
 
-*   Après lavage des mains et désinfection par un antiseptique, désinfecter la zone d'injection choisie en un seul passage de compresse imbibée d'alcool.  
-*   Piquer perpendiculairement au plan d'injection. Introduire rapidement l'aiguille jusqu'à la garde, vérifier l'absence de retour veineux en aspirant légèrement et régulièrement.  
-*   Observer les réactions du patient dès les premiers millilitres injectés et ralentir le débit si le vaccin est douloureux.  
-*   Retirer rapidement l'aiguille et la seringue à la fin de l'injection, et désinfecter le point d'injection en massant légèrement et latéralement.  
-*   Eliminer l'aiguille, sans la recapuchonner, dans le collecteur à aiguilles utilisées.
+- Après lavage des mains et désinfection par un antiseptique, désinfecter la zone d'injection choisie en un seul passage de compresse imbibée d'alcool.
+- Piquer perpendiculairement au plan d'injection. Introduire rapidement l'aiguille jusqu'à la garde, vérifier l'absence de retour veineux en aspirant légèrement et régulièrement.
+- Observer les réactions du patient dès les premiers millilitres injectés et ralentir le débit si le vaccin est douloureux.
+- Retirer rapidement l'aiguille et la seringue à la fin de l'injection, et désinfecter le point d'injection en massant légèrement et latéralement.
+- Eliminer l'aiguille, sans la recapuchonner, dans le collecteur à aiguilles utilisées.
 
 ## III. Injection sous-cutanée
 
@@ -61,15 +61,13 @@ Aiguille en acier inoxydable ou en nickel à biseau long (moins douloureux) de 2
 
 #### En pratique
 
-*   Former un pli (pour éviter toute pénétration de l'aiguille. ,en intramusculaire) en pinçant la peau avec le pouce, l'index et le majeur, sans pincer le muscle (_figure 1_).  
-*   Piquer perpendiculairement ou latéralement (45°) au plan de ponction selon la corpulence de la personne et la taille de l'aiguille.  
-*   Ne lâcher le pli qu'au moment du retrait de l'aiguille.  
-*   **Surveiller** l'apparition d'un hématome ou de signes inflammatoires locaux (chaleur, rougeur, douleur).  
-*   Et bien sûr placer l'aiguille dans le collecteur à aiguilles souillées !
-
+- Former un pli (pour éviter toute pénétration de l'aiguille. ,en intramusculaire) en pinçant la peau avec le pouce, l'index et le majeur, sans pincer le muscle (*figure 1*).
+- Piquer perpendiculairement ou latéralement (45°) au plan de ponction selon la corpulence de la personne et la taille de l'aiguille.
+- Ne lâcher le pli qu'au moment du retrait de l'aiguille.
+- **Surveiller** l'apparition d'un hématome ou de signes inflammatoires locaux (chaleur, rougeur, douleur).
+- Et bien sûr placer l'aiguille dans le collecteur à aiguilles souillées !
 
 ![](i2186-1.jpg)
-
 
 **Figure 1 : injection sous-cutanée**
 
@@ -94,17 +92,15 @@ Petite seringue de 1 ml graduée au 1/10ème de ml. Aiguille fine et courte à b
 
 #### En pratique
 
-*   Désinfecter la peau à l'alcool et non à la teinture d'iode.  
-*   Tendre la peau entre le pouce et l'index (_figure 2_).  
-*   L'aiguille doit être placée presque parallèlement à la surface de la peau, et être visible au travers de l'épiderme pendant l'injection.  
-*   Le biseau de l'aiguille doit être tourné vers le haut.  
-*   Insérer l'aiguille d'environ 2 mm dans la couche superficielle du derme et pousser lentement le piston. Une légère résistance s'exerce lors de la pression sur le piston.  
-*   Une papule "en peau d'orange" apparaît : c'est le signe d'une injection correcte. Elle peut persister plusieurs jours.  
-*   Enfin, il n'est pas nécessaire de mettre un pansement.
-
+- Désinfecter la peau à l'alcool et non à la teinture d'iode.
+- Tendre la peau entre le pouce et l'index (*figure 2*).
+- L'aiguille doit être placée presque parallèlement à la surface de la peau, et être visible au travers de l'épiderme pendant l'injection.
+- Le biseau de l'aiguille doit être tourné vers le haut.
+- Insérer l'aiguille d'environ 2 mm dans la couche superficielle du derme et pousser lentement le piston. Une légère résistance s'exerce lors de la pression sur le piston.
+- Une papule "en peau d'orange" apparaît : c'est le signe d'une injection correcte. Elle peut persister plusieurs jours.
+- Enfin, il n'est pas nécessaire de mettre un pansement.
 
 ![](i2186-2.jpg)
-
 
 **Figure 2 : injection intradermique**
 
@@ -139,4 +135,4 @@ Il faut immédiatement :
 
 </table>
 
-_Développement et Santé, n°195/196, 2009_
+*Développement et Santé, n°195/196, 2009*

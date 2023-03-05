@@ -11,22 +11,22 @@ date: "2010-12-03"
 Dans la mesure du possible, il est indispensable d'avoir à sa disposition le matériel, que ce soit en milieu médicalisé ou à domicile. Cette "trousse de naissance" doit toujours être prête et régulièrement contr8lée (pour le moins après chaque utilisation pour en remplacer le matériel et s'assurer que rien n'est périmé).  
 La liste du matériel est la suivante (elle peut être enrichie en fonction des moyens médicaux de proximité disponibles)
 
-*   Chronomètre à déclencher au moment de la naissance.  
-*   Aspirateur de mucosités avec jeu de sondes d'aspiration (au minimum 6) stériles.  
-*   Masque de taille adaptée avec Ambu.  
-*   Source d'oxygène si possible (il existe des bouteilles d'OS de petite taille, transportables) dont il faut contrôler régulièrement le remplissage avec un détendeur adapté.  
-*   Billot prêt pour surélever la nuque du nouveau-né si besoin.  
-*   Stéthoscope.  
-*   Sonde gastrique.
+- Chronomètre à déclencher au moment de la naissance.
+- Aspirateur de mucosités avec jeu de sondes d'aspiration (au minimum 6) stériles.
+- Masque de taille adaptée avec Ambu.
+- Source d'oxygène si possible (il existe des bouteilles d'OS de petite taille, transportables) dont il faut contrôler régulièrement le remplissage avec un détendeur adapté.
+- Billot prêt pour surélever la nuque du nouveau-né si besoin.
+- Stéthoscope.
+- Sonde gastrique.
 
 Le reste du matériel de cette liste devant se trouver dans la salle de naissance lorsque l'accouchement a lieu en milieu médicalisé
 
-*   Ampoules de glucosé à 10 %.  
-*   Ampoules de gluconate de calcium à 10 %.  
-*   Ampoules de phénobarbital.  
-*   Ampoules de vitamine K1.  
-*   Ampoules de sérum physiologique.  
-*   Kit pour injection IV lente.
+- Ampoules de glucosé à 10 %.
+- Ampoules de gluconate de calcium à 10 %.
+- Ampoules de phénobarbital.
+- Ampoules de vitamine K1.
+- Ampoules de sérum physiologique.
+- Kit pour injection IV lente.
 
 L'ensemble de ce matériel, facilement transportable, devrait permettre de résoudre les principales urgences vitales.
 
@@ -110,25 +110,25 @@ musculaire</td>
 
 </table>
 
-**Le score d'APGAR**  
+**Le score d'APGAR**
 
 Ce score, coté de 0 à 10, évalue simplement les fonctions vitales du nouveau-né. Il faut le noter régulièrement pour apprécier l'évolution.  
 En pratique, on l'évalue immédiatement, puis 1, 3, 5 et 10 minutes après la naissance.
 
-*   Apgar à   0 = mort apparente
-*   Apgar à 10= état normal.
+- Apgar à   0 = mort apparente
+- Apgar à 10= état normal.
 
 **Attitude pratique :**
 
-*   De 7 à 10 : Simple désobstruction
-*   De 4 à 7 : Désobstruction, oxygène et surveillance ++
-*   Moins de 4 : Réanimation.
+- De 7 à 10 : Simple désobstruction
+- De 4 à 7 : Désobstruction, oxygène et surveillance ++
+- Moins de 4 : Réanimation.
 
-### Trois situations peuvent être envisagées :
+### Trois situations peuvent être envisagées
 
-*   **APGAR entre 7 et 10** : Ce n'est pas une urgence à proprement parler mais de la qualité de la prise en charge de cet enfant va dépendre son état par la suite.  
-*   **APGAR entre 3 et 7** : le plus souvent, des gestes simples et bien codifiés permettront une bonne récupération de l'enfant et un développement normal ensuite.  
-*   **APGAR inférieur à 3** : cela traduit un état critique de l'enfant (il est dit en état de mort apparente) qui nécessite la mise en place de gestes simples et rapides qui, parfois, permettent une récupération. Cependant, il faut savoir que le plus souvent, en l'absence de moyens de réanimation, la situation est désespérée.
+- **APGAR entre 7 et 10** : Ce n'est pas une urgence à proprement parler mais de la qualité de la prise en charge de cet enfant va dépendre son état par la suite.
+- **APGAR entre 3 et 7** : le plus souvent, des gestes simples et bien codifiés permettront une bonne récupération de l'enfant et un développement normal ensuite.
+- **APGAR inférieur à 3** : cela traduit un état critique de l'enfant (il est dit en état de mort apparente) qui nécessite la mise en place de gestes simples et rapides qui, parfois, permettent une récupération. Cependant, il faut savoir que le plus souvent, en l'absence de moyens de réanimation, la situation est désespérée.
 
 #### APGAR entre 7 et 10
 
@@ -141,30 +141,29 @@ Une surveillance attentive de l'enfant doit se faire pendant au moins 10 minutes
 
 L’enfant respire mal mais la fréquence cardiaque est correcte. Dans ce cas, il est indispensable d'**agir de toute urgence** sans perdre une seconde pour éviter toute décompensation cardio-respiratoire avec apparition d'une acidose et risques de complications d'une anoxie néonatale sévère. Sans hésiter, pratiquer le plus rapidement possible une **aspiration rhinopharyngée et buccale** afin de libérer les voies aériennes supérieures. Ces mesures sont le plus souvent suffisantes pour voir l'état de l'enfant s'améliorer et lui permettre une récupération rapide avec normalisation du score d'APGAR à 10 minutes.
 
-Si ces premières mesures ne sont pas efficaces, il faut effectuer une **ventilation au masque avec oxygène** (_voir schéma 1_) pur en positionnant bien le nouveau-né, c'est-à-dire :
+Si ces premières mesures ne sont pas efficaces, il faut effectuer une **ventilation au masque avec oxygène** (*voir schéma 1*) pur en positionnant bien le nouveau-né, c'est-à-dire :
 
-*   tête bien défléchie (billot sous les épaules pour maintenir la position),
-*   mâchoire luxée en avant.  
-*   à la fréquence de 60 mouvements par minute (sans dépasser, pour chaque insufflation, une pression de 30 cm d'eau, et en utilisant un Ambu adapté au nouvcau-né).
+- tête bien défléchie (billot sous les épaules pour maintenir la position),
+- mâchoire luxée en avant.
+- à la fréquence de 60 mouvements par minute (sans dépasser, pour chaque insufflation, une pression de 30 cm d'eau, et en utilisant un Ambu adapté au nouvcau-né).
 
 La manœuvre est efficace si l'on observe :
 
-*   une bonne ampliation thoracique,
-*   une diminution puis une disparition de la cvanose et de la pâleur,
-*   des téguments à nouveau rosés (appréciation de la coloration de la langue qui doit redevenir rose chez un nourrisson de couleur).
+- une bonne ampliation thoracique,
+- une diminution puis une disparition de la cvanose et de la pâleur,
+- des téguments à nouveau rosés (appréciation de la coloration de la langue qui doit redevenir rose chez un nourrisson de couleur).
 
 En l'absence d'amélioration après 3-4 minutes, il est nécessaire de faire prendre en charge ce nouveau-né par une structure spécialisée, en urgence si cela est possible.
 
 #### APGAR entre 0 et 3
 
-L'enfant se présente en général sans mouvement respiratoire, avec une fréquence cardiaque basse ou nulle, il est dit "en état de mort apparente", le pronostic est sombre en l'absence d'une prise en charge en réanimation néonatale. Toutefois, dans quelques cas, des manc:euvres rapides de désobstruction des voies aériennes supérieures, associées si nécessaire à un massage cardiaque externe (_voir schéma 2_), permettent à certains enfants de récupérer lentement, mais avec un risque de séquelles neurologiques les laissant handicapés à vie.
+L'enfant se présente en général sans mouvement respiratoire, avec une fréquence cardiaque basse ou nulle, il est dit "en état de mort apparente", le pronostic est sombre en l'absence d'une prise en charge en réanimation néonatale. Toutefois, dans quelques cas, des manc:euvres rapides de désobstruction des voies aériennes supérieures, associées si nécessaire à un massage cardiaque externe (*voir schéma 2*), permettent à certains enfants de récupérer lentement, mais avec un risque de séquelles neurologiques les laissant handicapés à vie.
 
 ## 
+
 ![](13193-3.jpg)
 
-
-##   
-II. Les principales urgences
+## II. Les principales urgences
 
 D'autres situations peuvent nécessiter une prise en charge en urgence dans les premières minutes de vie. Elles doivent être connues afin de corriger le plus rapidcment possible les désordres métaboliques et d'éviter les risques neurologiques qu'elles font courir. Il s'agit plus particulièrement des hypoglycémies et des hvpocalcémies, dont les manifestations peuvent être variées.
 
@@ -178,10 +177,10 @@ Les signes sont très variés, ce sont souvent des secousses rythmées d'un doig
 Devant de tels signes, il faut bien sûr traiter l'épisode convulsif par un traitement symptomatique et surtout en rechercher la cause pour la traiter et éviter ainsi une récidive.  
 Les principales causes à rechercher (en dehors de maladies neurologiques spécifiques) sont :
 
-*   une infection néonatale (accouchement en contexte fébrile, conditions d'accouchement à risque,
-*   une hypoglycémie (surtout si la mère est diabétique, si les conditions de naissance ont été difficiles ou si l'alimentation est retardée) ;
-*   une hypocalcémie ;
-*   la notion d'une souffrance foetale, aiguë ou chronique (liquide amniotique teinté, HTA maternelle...).
+- une infection néonatale (accouchement en contexte fébrile, conditions d'accouchement à risque,
+- une hypoglycémie (surtout si la mère est diabétique, si les conditions de naissance ont été difficiles ou si l'alimentation est retardée) ;
+- une hypocalcémie ;
+- la notion d'une souffrance foetale, aiguë ou chronique (liquide amniotique teinté, HTA maternelle...).
 
 Ces prises en charge ne peuvent être envisagées que dans des structures hospitalières car elles nécessitent un abord veineux. Nous en donnons toutefois les modalités, d'une part pour l'information des équipes hospitalières, d'autre part pour permettre d'anticiper ces situations à risque et permettre ainsi, lorsque c'est possible, un transfert de la mère dans une unité capable d'assurer la sécurité de l'enfant à la naissance dans ces situations.
 
@@ -190,18 +189,16 @@ Phénobarbital à la dose de 20 mg/kg à passer en IV lente en 30 à 60 minutes,
 
 **Schéma 2 : massage cardiaque.**
 
-
 ![](13193-4.jpg)
-
 
 ### 2. Hypocalcémie
 
 L'hypocalcémie est retardée par rapport à la naissance : elle survient toujours au bout de quelques heures. Les facteurs de risque en sont :
 
-*   prématurité,
-*   nouveau-né de mère diabétique,
-*   pathologie organique dont l'un des signes est une hypocalcémie (maladie rénale...),
-*   rachitisme maternel (plus rare dans les pays ensoleillés).
+- prématurité,
+- nouveau-né de mère diabétique,
+- pathologie organique dont l'un des signes est une hypocalcémie (maladie rénale...),
+- rachitisme maternel (plus rare dans les pays ensoleillés).
 
 #### Quand parler d'hypocalcémie ?
 
@@ -233,14 +230,14 @@ Calcémie
 <td style="width: 105px;">
 
 > 1,75 mmol/l  
-(70 mg/l)
+> (70 mg/l)
 
 </td>
 
 <td style="width: 84px;">
 
 > 1,6 mmol/l  
-(65 mg/l)
+> (65 mg/l)
 
 </td>
 
@@ -320,13 +317,13 @@ Nécessite impérativement une recherche étiologique
 
 #### Traitement per os
 
-*   50 mg/kg/j de gluconate de calcium en 3 à 4 prises entre les biberons, pendant 3-4 jours.
+- 50 mg/kg/j de gluconate de calcium en 3 à 4 prises entre les biberons, pendant 3-4 jours.
 
 **OU**
 
-*   150 mg/kg/j de carbonate de chaux selon les mêmes modalités.  
-*   3 ml/kg/j de magnésium.  
-*   vitamine D3 : 1-OHD3 : 0,1 à 0,2 microgrammes une à deux fois par jour pendant 48 heures, pour permettre une bonne assimilation du calcium.
+- 150 mg/kg/j de carbonate de chaux selon les mêmes modalités.
+- 3 ml/kg/j de magnésium.
+- vitamine D3 : 1-OHD3 : 0,1 à 0,2 microgrammes une à deux fois par jour pendant 48 heures, pour permettre une bonne assimilation du calcium.
 
 ### 3. Hypoglycémie néo-natale
 
@@ -391,9 +388,9 @@ Dans les **situations à risque**, il est donc impératif de pratiquer sans atte
 Le risque est accru si la mère a suivi durant la grossesse un traitement par céphalosporines de 3ème génération, par antivitamine K, rifampicine ou barbituriques.  
 La prévention repose sur l'administration systématique de vitamine K1 à la naissance :
 
-*   2 mg au premier repas
-*   puis 2 mg au troisième jour
-*   puis 2 mg une fois par semaine pendant toute la période d'allaitement maternel exclusif.
+- 2 mg au premier repas
+- puis 2 mg au troisième jour
+- puis 2 mg une fois par semaine pendant toute la période d'allaitement maternel exclusif.
 
 En cas de syndrome hémorragique avéré, pratiquer une injection IV lente de 5 mg de vitamine K1.
 
@@ -484,21 +481,21 @@ Contrôle Dextro H6</td>
 
 </table>
 
-### **5.Nouveau-né de mère diabétique**
+### 5.Nouveau-né de mère diabétique
 
-#### Les risques encourus par l'enfant :
+#### Les risques encourus par l'enfant
 
-*   Métaboliques : **danger de JO à J5**
-    *   hypoglycémies : se référer au chapitre correspondant,
-    *   hypocalcémies : se référer au chapitre correspondant.  
-*   Cardiaques
-    *   myocardiopathies : surveillance de signes évocateurs ou anomalies du rythme cardiaque,
-    *   risque de mort in utero au 9ème mois : savoir déclencher l'accouchement à partir de 37 SA en cas dc diabète mal équilibré (décision prise par le médecin ou la sage-femme).  
-*   Hématologiques
-    *   polyglobulie : saignée si hématocrite > 70%
-    *   ictère : surveillance de la bilirubine.  
-*   Dystociques
-    *   liés à la macrosomie : savoir poser l'indication d'une césarienne donc transférer la mère dans un centre hospitalier disposant de movens adaptés (_voir le chapitre « Traumatismes obstétricaux »_ ).
+- Métaboliques : **danger de JO à J5**
+  - hypoglycémies : se référer au chapitre correspondant,
+  - hypocalcémies : se référer au chapitre correspondant.
+- Cardiaques
+  - myocardiopathies : surveillance de signes évocateurs ou anomalies du rythme cardiaque,
+  - risque de mort in utero au 9ème mois : savoir déclencher l'accouchement à partir de 37 SA en cas dc diabète mal équilibré (décision prise par le médecin ou la sage-femme).
+- Hématologiques
+  - polyglobulie : saignée si hématocrite > 70%
+  - ictère : surveillance de la bilirubine.
+- Dystociques
+  - liés à la macrosomie : savoir poser l'indication d'une césarienne donc transférer la mère dans un centre hospitalier disposant de movens adaptés (*voir le chapitre « Traumatismes obstétricaux »* ).
 
 #### Comment prévenir les risques d'hypoglycémie et d'hypocalcémie dans cette situation particulière ?
 
@@ -514,4 +511,4 @@ L'hypocalcémie est retardée par rapport à la naissance et ne survient qu'apr�
 En cas d'hypocalcémie, se référer au chapitre correspondant.  
 Une alimentation précoce adaptée permet, dans la majorité des cas, d'éviter une hvpocalcémie.
 
-_Développement et Santé, n° 197/ 198, 2010_
+*Développement et Santé, n° 197/ 198, 2010*

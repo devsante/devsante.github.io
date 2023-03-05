@@ -6,29 +6,27 @@ date: "2008-01-27"
 
 <div class="teaser"><p>Le paludisme à Plasmodium falciparum, seul paludisme potentiellement mortel, est responsable du décès de 1,5 à 2,7 millions de personnes par an dans le monde. En zone d'endémie, ce sont les enfants qui n'ont pas encore acquis d'immunité antipalustre (entre 6 mois et 4 ans) qui sont les premières victimes, avec plus de un million de décès par an avant l'âge de 5 ans</p></div>
 
-## **Définition**
+## Définition
 
-Classiquement, pour les auteurs francophones, les formes graves de paludisme étaient regrou­pées sous le terme d'accès pernicieux palustre, alors que, pour les auteurs anglo-saxons, le palu­disme grave se limitait à la seule _cerebral malaria_ ou neuropaludisme. Aujourd'hui le paludisme grave doit être défini comme un syndrome de dysfonction(s) d'organe(s) et/ou de dysfonction(s) métabolique(s), secondaires à la présence intra-érythrocytaire de _P. falciparum_.
+Classiquement, pour les auteurs francophones, les formes graves de paludisme étaient regrou­pées sous le terme d'accès pernicieux palustre, alors que, pour les auteurs anglo-saxons, le palu­disme grave se limitait à la seule *cerebral malaria* ou neuropaludisme. Aujourd'hui le paludisme grave doit être défini comme un syndrome de dysfonction(s) d'organe(s) et/ou de dysfonction(s) métabolique(s), secondaires à la présence intra-érythrocytaire de *P. falciparum*.
 
-## **I. Physiopathologie** _(Figure 1)_
+## I. Physiopathologie *(Figure 1)*
 
-Le cycle de _P.falciparum_ chez l'homme, en particulier son passage intra-érythrocytaire, est responsable de la séquestration des héma­ties parasitées au niveau des capillaires et des veinules post-capillaires par deux mécanismes
+Le cycle de *P.falciparum* chez l'homme, en particulier son passage intra-érythrocytaire, est responsable de la séquestration des héma­ties parasitées au niveau des capillaires et des veinules post-capillaires par deux mécanismes
 
 la cyto-adhérence, et le phénomène de "roset­ting". La cyto-adhérence se fait par l'intermé­diaire de protubérances membranaires ou "knobs", présentes à la surface du globule rouge, et de récepteurs endothéliaux. Le phé­nomène de "rosetting" se fait par l'intermé­diaire des protubérances qui permettent aux hématies parasitées d'adhérer entre elles et aux hématies non parasitées. La séquestration érythrocytaire serait responsable d'une isché­mie tissulaire expliquant la symptomatologie du paludisme grave.
 
-Par ailleurs, la présence de _P.falciparum_ dans l'organisme humain est responsable d'une réac­tion inflammatoire non spécifique dont la traduction clinique est l'accès palustre simple. Quand cette réaction inflammatoire devient excessive, elle est responsable de défaillances d'organes qui caractérisent le paludisme grave.
+Par ailleurs, la présence de *P.falciparum* dans l'organisme humain est responsable d'une réac­tion inflammatoire non spécifique dont la traduction clinique est l'accès palustre simple. Quand cette réaction inflammatoire devient excessive, elle est responsable de défaillances d'organes qui caractérisent le paludisme grave.
 
 **Figure 1: physiopathologie du paludisme grave**
 
-
 ![](image002-8.jpg)
-
 
 ## II. Clinique
 
 ### 1. Paludisme grave de l'enfant africain
 
-**Le paludisme grave de l'enfant réalise un coma fébrile** avec une triade associant fièvre, coma, convulsions. Il survient le plus souvent brutalement, frappant un enfant en pleine santé apparente. Le coma, évalué par un score spécifique, le score de Blantyre _(Tableau 1)_, est le plus souvent profond (score de Blantyre < 3). La profondeur du coma initial est un élément pronostique fondamen­tal. Les convulsions sont souvent répétées, pouvant réaliser un véritable état de mal.
+**Le paludisme grave de l'enfant réalise un coma fébrile** avec une triade associant fièvre, coma, convulsions. Il survient le plus souvent brutalement, frappant un enfant en pleine santé apparente. Le coma, évalué par un score spécifique, le score de Blantyre *(Tableau 1)*, est le plus souvent profond (score de Blantyre < 3). La profondeur du coma initial est un élément pronostique fondamen­tal. Les convulsions sont souvent répétées, pouvant réaliser un véritable état de mal.
 
 **Une anémie est quasi-constante** chez l'en­fant africain au cours du paludisme sévère. Cette anémie, liée au développement intraéry­throcytaire du parasite, est aggravée par la pré-existence d'une anémie carencielle.
 
@@ -109,21 +107,21 @@ Un ictère est quasi-constant. En règle modéré, il peut se limiter à un subi
 
 ### 3. Paludisme de la femme enceinte
 
-La grossesse entraîne une diminution des défenses immunitaires et une augmentation de la fréquence et de la gravité des accès palustres. Le risque est maximal chez les pri­migestes au cours du troisième trimestre, au cours du travail et dans les suites de couche. Si tous les symptômes de paludisme grave sont possibles, deux sont particulièrement fréquents et graves : l'hypoglycémie, surtout sous quinine, durant le second et le troisième trimestre de grossesse, et l'oedème pulmonaire qui survient en post-partum. Il existe un risque majeur d'avortement, de mort in utero et d'accouchement prématuré. Le passage trans­placentaire de _P.falciparum_ est possible mais le paludisme congénital est rare.
+La grossesse entraîne une diminution des défenses immunitaires et une augmentation de la fréquence et de la gravité des accès palustres. Le risque est maximal chez les pri­migestes au cours du troisième trimestre, au cours du travail et dans les suites de couche. Si tous les symptômes de paludisme grave sont possibles, deux sont particulièrement fréquents et graves : l'hypoglycémie, surtout sous quinine, durant le second et le troisième trimestre de grossesse, et l'oedème pulmonaire qui survient en post-partum. Il existe un risque majeur d'avortement, de mort in utero et d'accouchement prématuré. Le passage trans­placentaire de *P.falciparum* est possible mais le paludisme congénital est rare.
 
 ## III. Diagnostic
 
 En milieu tropical, le diagnostic de paludisme grave doit être évoqué devant un coma fébrile, mais aussi, en particulier chez l'adulte, devant un état infectieux grave, surtout s'il s'accom­pagne d'un ictère et/ou de troubles du com­portement.
 
-### 1. Diagnostic de paludisme à _P. falciparum_
+### 1. Diagnostic de paludisme à *P. falciparum*
 
 Le diagnostic biologique est, dans ces circons­tances, une urgence. La prise de sang doit être faite immédiatement, sans attendre un frisson ou un pic thermique.
 
-### **2. Diagnostic de paludisme grave**
+### 2. Diagnostic de paludisme grave
 
-Critères de paludisme grave _(Tableau 2)_
+Critères de paludisme grave *(Tableau 2)*
 
-Les critères de paludisme grave de l'OMS en 2000 définissent le paludisme grave par la présence d'une parasitémie (formes asexuées) à _P.falciparum_ et d'une ou plusieurs manifes­tations cliniques ou biologiques.
+Les critères de paludisme grave de l'OMS en 2000 définissent le paludisme grave par la présence d'une parasitémie (formes asexuées) à *P.falciparum* et d'une ou plusieurs manifes­tations cliniques ou biologiques.
 
 <table>
 <caption>Tableau 2 : critères de paludisme grave de l'OMS en 2000</caption>
@@ -386,7 +384,7 @@ Tout paludisme à P. falciparum qui présente au moins un critère de gravité d
 
 Le traitement étiologique a pour objectif d'ob­tenir le plus rapidement possible la disparition de tous les parasites présents dans le sang. Dès lors que le diagnostic est posé, il doit être débuté dans l'heure.
 
-_**Traitement par la quinine**_
+***Traitement par la quinine***
 
 La quinine injectable reste l'antipaludique schi­zonticide de référence dans cette indication. Afin d'éviter toute confusion et tout risque de sous- ou de surdosage, la posologie doit être exprimée en alcaloïdes-base en cas d'uti­lisation d'association de sels d'alcalôides : Quinimax,e, et en sels de quinine en cas d'uti­lisation de sel de quinine seule : dichlorhy­drate de quinine.  
 Pour éviter des erreurs, il est préférable que le choix se porte sur une seule préparation com­merciale disponible au sein de
@@ -403,23 +401,21 @@ La surveillance du traitement comprend un monitorage cardioscopique, un électro
 
 **Figure 2 : conduite à tenir thérapeutique devant un accès palustre en milieu hospitalier**
 
-
 ![](image004-8.jpg)
 
-
-_**Place des dérivés de l'artémisinine**_
+***Place des dérivés de l'artémisinine***
 
 Ces dérivés sont très utilisés en Asie du sud-­est dans le cadre du paludisme grave. Ils sont une alternative à la quinine.
 
 **Artéméther IM :**
 
-*   3,2 mg/kg à l'admission puis à la douzième heure
-*   1,6 mg/kg toutes les 24 heures pendant 4 jours.
+- 3,2 mg/kg à l'admission puis à la douzième heure
+- 1,6 mg/kg toutes les 24 heures pendant 4 jours.
 
 **Artésunate IV :**
 
-*   2,4 mg/kg à l'admission puis à la douzième heure.  
-*   2,4 mg/kg toutes les 24 heures pendant 4 jours.
+- 2,4 mg/kg à l'admission puis à la douzième heure.
+- 2,4 mg/kg toutes les 24 heures pendant 4 jours.
 
 #### b) Traitement symptomatique
 
@@ -431,18 +427,19 @@ Une insuffisance rénale oligo-anurique qui persiste après réhydratation néce
 
 Une corticothérapie à forte dose dans un but anti-oedémateux et/ou anti-inflammatoire n'est pas recommandée. Une héparinothéra­pie est contre-indiquée.
 
-### 2. En dehors du milieu hospitalier :  
+### 2. En dehors du milieu hospitalier
+
 centre de santé communautaire ou dispensaire
 
-Dans un centre de santé communautaire, la priorité, devant toute suspicion d'accès palustre, est la recherche de signes de gravité, synonymes de transfert vers le centre hospita­lier le plus proche. Un traitement pré-transfert doit être mis en place _(voir fiche)._
+Dans un centre de santé communautaire, la priorité, devant toute suspicion d'accès palustre, est la recherche de signes de gravité, synonymes de transfert vers le centre hospita­lier le plus proche. Un traitement pré-transfert doit être mis en place *(voir fiche).*
 
 Une administration de quinine par voie intra­musculaire, ou intrarectale chez l'enfant, est pratiquée :
 
-**_Voie intramusculaire :_** Quinimax® : 12,5 mg/kg Chlorhydrate de quinine : 16 mg/kg
+***Voie intramusculaire :*** Quinimax® : 12,5 mg/kg Chlorhydrate de quinine : 16 mg/kg
 
-**_Voie intrarectale :_** Quinimax®' : 20 mg/kg Chlorhydrate de quinine : 25 mg/kg
+***Voie intrarectale :*** Quinimax®' : 20 mg/kg Chlorhydrate de quinine : 25 mg/kg
 
-**_Puis transfert_**
+***Puis transfert***
 
 ### Conclusion
 
@@ -450,7 +447,7 @@ Le paludisme grave est une urgence absolue dont le pronostic est directement li�
 
 En milieu endémique, sa prise en charge impose à tout personnel médical :
 
-*   De **savoir le reconnaître** par une parfaite connaissance des signes de gravité, en parti­culier des signes cliniques.  
-*   De savoir **entreprendre en urgence un traitement par quinine injectable** qui, en l'absence de possibilité rapide d'une confir­mation parasitologique, sera probabiliste.
+- De **savoir le reconnaître** par une parfaite connaissance des signes de gravité, en parti­culier des signes cliniques.
+- De savoir **entreprendre en urgence un traitement par quinine injectable** qui, en l'absence de possibilité rapide d'une confir­mation parasitologique, sera probabiliste.
 
 Développement et Santé, n°191/192, 2008

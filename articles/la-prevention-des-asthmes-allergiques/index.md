@@ -6,7 +6,7 @@ date: "1994-12-01"
 
 L'asthme, dans la majorité des cas, est d'origine allergique.
 
-## **I. Qu'est-ce que l'allergie ?**
+## I. Qu'est-ce que l'allergie ?
 
 L'allergie est une réaction excessive de notre organisme vis-à-vis de substances qu'il considère comme nocives alors qu'elles ne le sont pas.
 
@@ -14,9 +14,9 @@ Normalement, notre système immunitaire a pour fonction de nous défendre contre
 
 Les personnes allergiques ont une prédisposition héréditaire à fabriquer des anticorps de la classe des IgE (immunoglobuline E).
 
-## **II.** **Les causes principales d'allergie respiratoire responsable d'asthme**
+## II. Les causes principales d'allergie respiratoire responsable d'asthme
 
-### **1. L'allergie à la poussière de** **maison**
+### 1. L'allergie à la poussière de maison
 
 Le contenu de la poussière domestique est variable en fonction de la situation, du type de l'habitat, du climat, de l'altitude et de la saison. La poussière de maison constitue un réservoir complexe d'allergènes.
 
@@ -32,13 +32,13 @@ Faire disparaître l'allergène (ou éviction) est la mesure par excellence pour
 
 Pour obtenir une chambre à coucher ou une habitation sans poussière, il faut agir sur tous les matériaux susceptibles d'héberger les acariens :
 
-- laver les draps une fois par semaine à forte température,  
-- remplacer la laine, le kapok, le coton et le crin, les plumes du matériel de literie par des matières synthétiques (mousse, latex, polyester, dacron),  
-- préférer les rideaux en matières synthétiques. Supprimer le duvet (les oreillers en plume),  
-- supprimer les tapis épais et les peaux d'animaux décoratifs,  
-- supprimer les tapis et les moquettes,  
-- supprimer les coussins non synthétiques,  
-- utiliser souvent l'aspirateur en l'absence de la personne allergique,  
+- laver les draps une fois par semaine à forte température,
+- remplacer la laine, le kapok, le coton et le crin, les plumes du matériel de literie par des matières synthétiques (mousse, latex, polyester, dacron),
+- préférer les rideaux en matières synthétiques. Supprimer le duvet (les oreillers en plume),
+- supprimer les tapis épais et les peaux d'animaux décoratifs,
+- supprimer les tapis et les moquettes,
+- supprimer les coussins non synthétiques,
+- utiliser souvent l'aspirateur en l'absence de la personne allergique,
 - supprimer les plantes vertes (réservoirs à moisissures).
 
 **b. Les moisissures**
@@ -48,23 +48,23 @@ Comme pour les pollens, la concentration atmosphérique des moisissures dépend 
 
 Pour éviter les moisissures dans la maison, il faut :
 
-*   aérer le plus possible, notamment les pièces spécialement confinées (salles d'eau, cuisine),
-*   nettoyer et désinfecter les circuits de conditionnement d'air (entreprises d'entretien des immeubles),
-*   ne surtout pas laisser traîner des aliments moisis,
-*   se méfier des bacs à fleurs,
-*   se méfier des papiers peints qui sont un endroit privilégié derrière lesquels se cachent les moisissures,
-*   éviter de se promener sous la pluie,
-*   éviter de ramasser des paquets de feuilles mortes amassées depuis plusieurs jours.
+- aérer le plus possible, notamment les pièces spécialement confinées (salles d'eau, cuisine),
+- nettoyer et désinfecter les circuits de conditionnement d'air (entreprises d'entretien des immeubles),
+- ne surtout pas laisser traîner des aliments moisis,
+- se méfier des bacs à fleurs,
+- se méfier des papiers peints qui sont un endroit privilégié derrière lesquels se cachent les moisissures,
+- éviter de se promener sous la pluie,
+- éviter de ramasser des paquets de feuilles mortes amassées depuis plusieurs jours.
 
-### **2. L'allergie aux animaux**
+### 2. L'allergie aux animaux
 
 Ce type d'allergie est très fréquent et peut aggraver les manifestations d'autres allergies.
 
 Les allergènes ne se trouvent pas seulement dans les poils des animaux mais:
 
-- dans la salive pour le chat, le chien, le cheval,  
-- dans les urines pour le chat et le chien,  
-- dans les squames (débris de peaux mortes), et  
+- dans la salive pour le chat, le chien, le cheval,
+- dans les urines pour le chat et le chien,
+- dans les squames (débris de peaux mortes), et
 - dans les excréments (perruches, pigeons).
 
 Le chat, qui passe sa vie à se lécher, dépose beaucoup de salive sur ses poils qui sera disséminée un peu partout.
@@ -79,7 +79,7 @@ La prévention de l'allergie aux animaux consiste à écarter l'animal lorsque l
 
 Malgré l'éviction de l'animal responsable, les crises peuvent durer encore plusieurs mois après.
 
-### **3. Les pollens**
+### 3. Les pollens
 
 Ce sont des allergènes importants dans le déclenchement de l'asthme. Ce sont de petits grains invisibles de 5/100 de mm. Les pollens sont dispersés par le vent et/ou transportés par les insectes.
 
@@ -89,27 +89,27 @@ Pour éviter une crise d'asthme provoquée par les pollens, il faut connaître l
 
 Enfin, couper l'herbe, pour quelqu'un d'allergique aux pollens de graminées, c'est prendre un risque.
 
-### **4. Les allergies alimentaires**
+### 4. Les allergies alimentaires
 
 Elles donnent volontiers des symptômes de type digestif mais aussi de type respiratoire ou cutané.
 
 Les principales allergies alimentaires sont:
 
-*   Le lait de vache justifiant l'allaitement maternel le plus longtemps possible. Quelquefois, pourtant, un enfant au sein peut présenter une allergie: la mère aura fait une grande consommation de lait de vache durant sa grossesse. Les protéines du lait de vache seront passées vers le fœtus à travers le placenta et l'auront sensibilisé. Pourtant, le lait maternel reste le meilleur aliment du nourrisson diminuant considérablement les allergies au lait de vache.
+- Le lait de vache justifiant l'allaitement maternel le plus longtemps possible. Quelquefois, pourtant, un enfant au sein peut présenter une allergie: la mère aura fait une grande consommation de lait de vache durant sa grossesse. Les protéines du lait de vache seront passées vers le fœtus à travers le placenta et l'auront sensibilisé. Pourtant, le lait maternel reste le meilleur aliment du nourrisson diminuant considérablement les allergies au lait de vache.
 
-*   Les allergies au blanc d'œuf cru sont plus rares, entraînant plus des urticaires que des crises d'asthme de même que les allergies aux poissons, aux crustacés et aux mollusques.
+- Les allergies au blanc d'œuf cru sont plus rares, entraînant plus des urticaires que des crises d'asthme de même que les allergies aux poissons, aux crustacés et aux mollusques.
 
-*   Les allergies aux fruits exotiques ne sont pas rares: kiwi, avocat, banane....
+- Les allergies aux fruits exotiques ne sont pas rares: kiwi, avocat, banane....
 
-*   Enfin, on voit apparaître de plus en plus chez l'enfant des allergies à l'arachide présente dans l'huile mais surtout dans les cacahuètes et dans de nombreuses conserves.
+- Enfin, on voit apparaître de plus en plus chez l'enfant des allergies à l'arachide présente dans l'huile mais surtout dans les cacahuètes et dans de nombreuses conserves.
 
-*   Il existe des allergies associées: une allergie à certains fruits et légumes est en effet associée à une allergie aux pollens.
+- Il existe des allergies associées: une allergie à certains fruits et légumes est en effet associée à une allergie aux pollens.
 
-*   Il faut savoir tout de même que la tolérance aux aliments s'améliore avec la croissance.
+- Il faut savoir tout de même que la tolérance aux aliments s'améliore avec la croissance.
 
-## **III. D'autres facteurs aggravent l'asthme**
+## III. D'autres facteurs aggravent l'asthme
 
-### **1. Le tabac**
+### 1. Le tabac
 
 Lorsque les parent fument, l'enfant respire un aérosol tabagique extrêmement irritant pour ses muqueuses. Pourtant, le tabac en lui-même est très peu allergénique.
 
@@ -119,13 +119,13 @@ Les nourrissons sont les plus exposés et le tabagisme passif aggrave les virose
 
 La réactivité bronchique des enfants exposés au tabac est augmentée (même pendant la grossesse).
 
-### **2. Les polluants de l'air**
+### 2. Les polluants de l'air
 
 Ils semblent aggraver aussi l'asthme.
 
 Il s'agit, d'une part, de la pollution industrielle; d'autre part, de la pollution liée à la circulation automobile (grandes agglomérations), enfin de toute fumée (feu de bois, cuisine, etc ... )
 
-### **3. Autres facteurs**
+### 3. Autres facteurs
 
 D'autres facteurs non spécifiques irritants aggravent l'asthme: poussière de craie, laine de verre, gaz irritant (laque pour cheveux).
 
@@ -139,10 +139,10 @@ Souvent, on peut arriver à réduire la quantité d'allergènes mais pas toujour
 
 Dès la naissance, on peut prendre les précautions suivantes :
 
-- nourrir le bébé au sein le plus longtemps possible,  
-- éviter les dérivés du lait de vache jusqu'à l'âge d'un an,  
-- introduire les nouveaux aliments en petites quantités et un seul à la fois,  
-- aérer chaque jour,  
+- nourrir le bébé au sein le plus longtemps possible,
+- éviter les dérivés du lait de vache jusqu'à l'âge d'un an,
+- introduire les nouveaux aliments en petites quantités et un seul à la fois,
+- aérer chaque jour,
 - ne pas fumer en présence de l'enfant.
 
-_Développement et Santé, n°114, décembre 1994_
+*Développement et Santé, n°114, décembre 1994*

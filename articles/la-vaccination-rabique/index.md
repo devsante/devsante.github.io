@@ -6,13 +6,13 @@ date: "1994-02-05"
 
 **La vaccination rabique**
 
-**par N. Ajjan***
+**par N. Ajjan**\*
 
 Malgré les mesures associant de plus en plus souvent la lutte contre la rage humaine et celle de la rage animale, l'Organisation Mondiale de la Santé signale que des centaines de milliers de personnes, dont un grand nombre d'enfants, font chaque année l'objet de traitements antirabiques dans le monde.
 
-* Pasteur-Mérieux Sérums et Vaccins, 12, boulevard de Port-Royal, 75005 Paris.
+- Pasteur-Mérieux Sérums et Vaccins, 12, boulevard de Port-Royal, 75005 Paris.
 
-Pendant plus de Mans, tous les vaccins rabiques utilisés aussi bien chez l'animal que chez l'homme, étaient généralement préparés à partir de substances nerveuses de divers animaux, pour une activité immuno_gène_ variable avec des incidents post vaccinaux graves qui les faisaient réserver aux cas de contact quasi certains avec un animal enragé.
+Pendant plus de Mans, tous les vaccins rabiques utilisés aussi bien chez l'animal que chez l'homme, étaient généralement préparés à partir de substances nerveuses de divers animaux, pour une activité immuno_gène\_ variable avec des incidents post vaccinaux graves qui les faisaient réserver aux cas de contact quasi certains avec un animal enragé.
 
 Afin d'éliminer le risque encéphalomyélitique, on a cherché à produire des vaccins rabiques dépourvus de facteur de sensibilisation. Les incidents post vaccinaux ont été réduits par l'utilisation de vaccins préparés à partir de substances nerveuses d'animaux nouveau-nés, ou d'embryons aviaires.
 
@@ -54,7 +54,7 @@ La vaccination de l'homme a un double but :
 
 Sur le plan épidémiologique, trois notions sont importantes :
 
-• La rage humaine _ne se_ contacte que là où il y a des cas de rage animale ;
+• La rage humaine *ne se* contacte que là où il y a des cas de rage animale ;
 
 • La contamination interhumaine est exceptionnelle, quoique signalée de temps à autre, particulièrement à l'occasion de greffe de cornée chez l'adulte ;
 
@@ -84,7 +84,7 @@ La présence d'éléments d'origine nerveuse provenant des broyats de cerveau ou
 
 L'adaptation du virus rabique sur cultures cellulaires et la mise au point de technologies nouvelles ont permis la production de vaccins hautement purifiés, concentrés et inactivés, bien tolérés, n'entraînant que des réactions locales mineures et générales extrêmement rares. Leur pouvoir antigénique élevé permet une posologie réduite. La plupart des vaccins préparés dans le monde et en France utilisent toujours la souche isolée par Pasteur en 1882.
 
-Le vaccin rabique cultivé sur cellules Véro, préparé par Pasteur-Mérieux, se présente sous la forme lyophilisée à dissoudre au moment de l'emploi. Le vaccin doit être injecté aussitôt après reconstitution et la seringue doit _être_ détruite après usage.
+Le vaccin rabique cultivé sur cellules Véro, préparé par Pasteur-Mérieux, se présente sous la forme lyophilisée à dissoudre au moment de l'emploi. Le vaccin doit être injecté aussitôt après reconstitution et la seringue doit *être* détruite après usage.
 
 **Vaccination préventive**
 
@@ -102,15 +102,15 @@ La vaccination rabique en post exposition comprend à la fois un traitement loca
 
 Selon l'OMS, avant d'entreprendre un traitement après exposition, il faut tenir compte des facteurs suivants :
 
-a) la nature de l'exposition,
+a\) la nature de l'exposition,
 
-b) la présence de la rage dans la région d'où provenait l'animal en cause, c) l'espèce d'animal en cause, d) l'état clinique de cet animal, e) la possibilité d'observer l'animal ou de le soumettre à des épreuves de laboratoire.
+b\) la présence de la rage dans la région d'où provenait l'animal en cause, c) l'espèce d'animal en cause, d) l'état clinique de cet animal, e) la possibilité d'observer l'animal ou de le soumettre à des épreuves de laboratoire.
 
 **Dans tous les cas, il ne faut jamais attendre le diagnostic pour commencer le traitement ; la première dose doit être administrée le plus tôt possible après exposition au risque rabique.**
 
 La forte antigénicité du vaccin cultivé sur cellules diploïdes humaines ou Véro a permis de réduire le nombre des injections, en comparaison avec d'autres vaccins.
 
-Le schéma de vaccination recommandé à tout âge comporte cinq injections aux jours 0, 3, 7, 14, 30. L'immunisation passive doit _être_ impérativement associée à la première injection de vaccin dans deux endroits différents de l'organisme, en cas de morsures graves.
+Le schéma de vaccination recommandé à tout âge comporte cinq injections aux jours 0, 3, 7, 14, 30. L'immunisation passive doit *être* impérativement associée à la première injection de vaccin dans deux endroits différents de l'organisme, en cas de morsures graves.
 
 **Sérums et immuno globulines antirabiques**
 
@@ -164,6 +164,6 @@ Les enquêtes épidémiologiques et épizootiques, effectuées par les organisat
 
 La situation est donc préoccupante et la lutte systématique contre la rage devient plus que jamais à l'ordre du jour.
 
-Le risque humain de rage existe partout où la rage animale est installée à l'état _endé_mique et le nombre de cas humains est directement lié à l'importance des foyers animaux.
+Le risque humain de rage existe partout où la rage animale est installée à l'état \_endé_mique et le nombre de cas humains est directement lié à l'importance des foyers animaux.
 
 Le développement récent de vaccins rabiques produits à partir de cultures cellulaires, a complètement bouleversé la prophylaxie rabique. D'après les travaux mondiaux, ces vaccins se sont révélés peu réactogènes, à antigénicité élevée, avec absence de neurotoxicité et acquisition rapide des anticorps, aussi bien en prévention qu'en traitement post exposition.

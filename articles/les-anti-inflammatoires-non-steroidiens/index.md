@@ -34,25 +34,26 @@ L'administration d'aspirine allonge le temps de saignement par inhibition de l'a
 
 **Autres AINS :**
 
-*   dérivés salicylés : diflunisal
+- dérivés salicylés : diflunisal
 
-*   dérivés indoliques : indométacine, sulindac
-*   pyrazolés (phénylbutazone, oxyphenbutazone…) : très efficaces mais effets indésirables fréquents (rétention hydrosodée, réactions d'hypersensibilité en particulier cutanée) et graves (toxicité hématologique)
+- dérivés indoliques : indométacine, sulindac
 
-*   oxicams : piroxicam : une seule prise quotidienne mais ininterresssant dans les douleurs aiguës et transitoires, ténoxicam : utilisé à la dose quotidienne unique de 20 mg, isoxicam (syndrome de Lyell)
+- pyrazolés (phénylbutazone, oxyphenbutazone…) : très efficaces mais effets indésirables fréquents (rétention hydrosodée, réactions d'hypersensibilité en particulier cutanée) et graves (toxicité hématologique)
 
-*   propioniques : bonne tolérance digestive, effets secondaires graves rares, efficacité dans la polyarthrite rhumatoïde et dans la spondylarthrite ankylosante.
+- oxicams : piroxicam : une seule prise quotidienne mais ininterresssant dans les douleurs aiguës et transitoires, ténoxicam : utilisé à la dose quotidienne unique de 20 mg, isoxicam (syndrome de Lyell)
 
-*   autres : diclofénac, tolmétine (sodique), fenbufène
+- propioniques : bonne tolérance digestive, effets secondaires graves rares, efficacité dans la polyarthrite rhumatoïde et dans la spondylarthrite ankylosante.
+
+- autres : diclofénac, tolmétine (sodique), fenbufène
 
 ## II. Interactions
 
-*   Anticoagulants : les anti-inflammatoires, et en premier lieu l'aspirine, augmentent le risque de saignement sous traitement par héparine ou anticoagulant oral. De plus, tout anticoagulant peut favoriser les saignements digestifs secondaires aux lésions muqueuses provoquées par les AINS. Les interactions les plus connues concernent la potentialisation des effets des antivitamines K par certains AINS. (sous héparine, l'aspirine est interdite, les AINS à demi-vie longue à éviter, sous antivitamine K : certaines associations sont interdites, telles la phénylbutazone et la warfarine, d'autres associations ont été étudiées et semblent envisageables. Quoi qu'il en soit, la surveillance biologique sera accrue à l'institution et à l'arrêt de l'AINS)
-*   Sulfamides hypoglycémiants : hypoglycémie
-*   Diurétiques et autres antihypertenseurs : les AINS peuvent antagoniser les effets des diurétiques et des antihypertenseurs (bêta-bloquants, captopril, bumétanide, prazosine…)
-*   Pansements digestifs, cimétidine, alimentation : les interactions avec un pansement digestif ou un antihistaminique dépend de l'anti-acide et de l'AINS utilisé. L'alimentation est fréquemment associée à une diminution de la biodisponibilité des AINS, dans les traitements en aiguë, l'effet antalgique risque souvent d'être moins précoce et moins marqué.  
-*   Dispositifs intra-utérins : la prise d'aspirine (et d'autres AINS) semble diminuer l'efficacité des dispositifs intra-utérins.  
-*   Autres interactions : lithium, digitaliques, halopéridol, méthotrexate, phénytoïne, probénécide. Les concentrations plasmatiques de nombreux AINS sont modestement diminuées par l'aspirine, l'association de l'aspirine à un autre AINS peut accroître la toxicité digestive, de toute façon, il n'y a pas de raison pharmacologique à associer deux AINS.
+- Anticoagulants : les anti-inflammatoires, et en premier lieu l'aspirine, augmentent le risque de saignement sous traitement par héparine ou anticoagulant oral. De plus, tout anticoagulant peut favoriser les saignements digestifs secondaires aux lésions muqueuses provoquées par les AINS. Les interactions les plus connues concernent la potentialisation des effets des antivitamines K par certains AINS. (sous héparine, l'aspirine est interdite, les AINS à demi-vie longue à éviter, sous antivitamine K : certaines associations sont interdites, telles la phénylbutazone et la warfarine, d'autres associations ont été étudiées et semblent envisageables. Quoi qu'il en soit, la surveillance biologique sera accrue à l'institution et à l'arrêt de l'AINS)
+- Sulfamides hypoglycémiants : hypoglycémie
+- Diurétiques et autres antihypertenseurs : les AINS peuvent antagoniser les effets des diurétiques et des antihypertenseurs (bêta-bloquants, captopril, bumétanide, prazosine…)
+- Pansements digestifs, cimétidine, alimentation : les interactions avec un pansement digestif ou un antihistaminique dépend de l'anti-acide et de l'AINS utilisé. L'alimentation est fréquemment associée à une diminution de la biodisponibilité des AINS, dans les traitements en aiguë, l'effet antalgique risque souvent d'être moins précoce et moins marqué.
+- Dispositifs intra-utérins : la prise d'aspirine (et d'autres AINS) semble diminuer l'efficacité des dispositifs intra-utérins.
+- Autres interactions : lithium, digitaliques, halopéridol, méthotrexate, phénytoïne, probénécide. Les concentrations plasmatiques de nombreux AINS sont modestement diminuées par l'aspirine, l'association de l'aspirine à un autre AINS peut accroître la toxicité digestive, de toute façon, il n'y a pas de raison pharmacologique à associer deux AINS.
 
 ## III. Incidents et toxicité
 
@@ -74,10 +75,10 @@ Ces médicaments agissent par la conjonction d'une action systémique, indépend
 
 La fonction rénale peut être altérée chez les malades ayant une fonction au préalable diminuée ou maintenue avec précarité :
 
-*   néphropathie aux analgésiques : due à l'abus d'antalgiques (fortes doses, pendant des mois ou des années, de plus d'un antaIgique), peut se manifester par une hématurie, une anurie, une hypertension artérielle.  
-*   insuffisance rénale oligurique : terrain particulier : âge avancé, cirrhose avec ascite, insuffisance cardiaque, déplétion hydrique et sodique (notamment due aux diurétiques), chirurgie lourde, atteinte rénale préexistante (lupus, diabète, goutte). Elle est d'apparition précoce après le début du traitement (quelques jours).  
-*   néphrite interstitielle d'origine immuno-allergique : un mois après le début du traitement, guérison sans séquelle que dans 60 % des cas
-*   néphrite interstitielle avec syndrome néphrotique : la fonction rénale se normalise lentement mais constamment à l'arrêt de l'anti-inflammatoire.
+- néphropathie aux analgésiques : due à l'abus d'antalgiques (fortes doses, pendant des mois ou des années, de plus d'un antaIgique), peut se manifester par une hématurie, une anurie, une hypertension artérielle.
+- insuffisance rénale oligurique : terrain particulier : âge avancé, cirrhose avec ascite, insuffisance cardiaque, déplétion hydrique et sodique (notamment due aux diurétiques), chirurgie lourde, atteinte rénale préexistante (lupus, diabète, goutte). Elle est d'apparition précoce après le début du traitement (quelques jours).
+- néphrite interstitielle d'origine immuno-allergique : un mois après le début du traitement, guérison sans séquelle que dans 60 % des cas
+- néphrite interstitielle avec syndrome néphrotique : la fonction rénale se normalise lentement mais constamment à l'arrêt de l'anti-inflammatoire.
 
 En l'absence d'atteinte rénale, les AINS peuvent entraîner une rétention hydrosodée (avec hyponatrémie). La rétention peut être à l'origine d'une hypertension artérielle ou d'une décompensation cardiaque, chez des sujets prédisposés, en particulier les enfants atteints de rhumatisme articulaire aigu avec atteinte cardiaque. La rétention hydrique peut, à tort, faire croire à un saignement du fait de l'hémodilution qui en résulte.
 
@@ -91,15 +92,15 @@ Les atteintes hépatiques dues à l'aspirine relèvent de dosage excessif, à l'
 
 Les études sur l'animal ont mis en évidence un effet tératogène de l'acide acétylsalicylique. Chez l'homme , au cours du 1<sup>er</sup> et 2<sup>ème</sup> trimestre, les résultats des études épidémiologiques semblent exclure un effet malformatif de l'acide acétylsalicylique. Il n'existe pas actuellement de données en nombre suffisant pour évaluer un éventuel effet malformatif de l'acide acétylsalicylique lorsqu'il est administré en traitement chronique au delà de 150mg/j.
 
-#### En conséquence :
+#### En conséquence
 
-*   pendant les 5 premiers mois : l'aspirine peut être prescrit en traitement ponctuel en cas de besoin. Par mesure de précaution, il est préférable de ne pas l'utiliser en traitement chronique au delà de 150mg/j
-*   à partir du 6<sup>ème</sup> mois : tout médicament à base d'aspirine est contre-indiqué
+- pendant les 5 premiers mois : l'aspirine peut être prescrit en traitement ponctuel en cas de besoin. Par mesure de précaution, il est préférable de ne pas l'utiliser en traitement chronique au delà de 150mg/j
+- à partir du 6<sup>ème</sup> mois : tout médicament à base d'aspirine est contre-indiqué
 
 Dans l'espèce humaine, aucun effet malformatif n'a été signalé avec les AINS. Cependant, des études épidémiologiques complémentaires sont nécessaire afin de confirmer l'absence de risque. Au cours du troisième trimestre, tous les inhibiteurs de synthèse des prostaglandines peuvent exposer :
 
-*   le fœtus à une toxicité cardiopulmonaire (hypertension artérielle pulmonaire avec fermeture prématurée du canal artériel) et à un dysfonctionnement rénal pouvant aller jusqu'à l'insuffisance rénale avec oligoamnios.  
-*   la mère et l'enfant en fin de grossesse, à un allongement éventuel du temps de saignement.
+- le fœtus à une toxicité cardiopulmonaire (hypertension artérielle pulmonaire avec fermeture prématurée du canal artériel) et à un dysfonctionnement rénal pouvant aller jusqu'à l'insuffisance rénale avec oligoamnios.
+- la mère et l'enfant en fin de grossesse, à un allongement éventuel du temps de saignement.
 
 En conséquence , la prescription d'AINS ne doit être envisagée que si nécessaire pendant les cinq premiers mois de la grossesse. En dehors d'utilisations obstétricales extrêmement limitées, et qui justifient une surveillance spécialisée, la prescription d'AINS est contre-indiquée à partir du 6<sup>ème</sup> mois.
 
@@ -129,14 +130,14 @@ L'intolérance à l'aspirine est croisée avec tous les autres AINS à l'excepti
 
 ### 8. Effets sur le système nerveux et les organes sensoriels
 
-*   atteinte auditive : les tintements d'oreille (et la baisse d'audition qui peut les suivre) sont régressifs avec la diminution de la posologie ou son arrêt, et sont associés à des concentrations plasmatiques d'acide salicylique supérieures à 200 µg/ml. Ce signe clinique d'appel d'intoxication serait inexistant chez les malades ayant une atteinte auditive préexistante. Les autres salicylés et de nombreux autres AINS peuvent entraîner des tintements d'oreille voire une baisse de l'audition.  
-*   atteintes oculaires :
-    *   conjonctivites allergiques à l'aspirine
-    *   le traitement prolongé par l'indométacine peut être responsable d'effets mineurs non rares (vision floue, sensation de tension oculaire, douleur conjonctivale) et exceptionnellement d'effets graves (rétinopathie)
-    *   l'ibuprofène, dans les premiers mois du traitement peut être responsable d'une amblyopie toxique
-    *   ces deux médicaments peuvent aussi modifier la perception des couleurs
-    *   conjonctivite, atteintes cornéenne, voire rétinienne ont été également rapportées avec la phénylbutazone
-    *   en revanche, le suivi ophtalmologique de malades traités en chronique pour des atteintes rhumatismales par le naproxène, le kétoprofène ou le flurbiprofène n'a pas mis en évidence d'atteintes oculaires.
+- atteinte auditive : les tintements d'oreille (et la baisse d'audition qui peut les suivre) sont régressifs avec la diminution de la posologie ou son arrêt, et sont associés à des concentrations plasmatiques d'acide salicylique supérieures à 200 µg/ml. Ce signe clinique d'appel d'intoxication serait inexistant chez les malades ayant une atteinte auditive préexistante. Les autres salicylés et de nombreux autres AINS peuvent entraîner des tintements d'oreille voire une baisse de l'audition.
+- atteintes oculaires :
+  - conjonctivites allergiques à l'aspirine
+  - le traitement prolongé par l'indométacine peut être responsable d'effets mineurs non rares (vision floue, sensation de tension oculaire, douleur conjonctivale) et exceptionnellement d'effets graves (rétinopathie)
+  - l'ibuprofène, dans les premiers mois du traitement peut être responsable d'une amblyopie toxique
+  - ces deux médicaments peuvent aussi modifier la perception des couleurs
+  - conjonctivite, atteintes cornéenne, voire rétinienne ont été également rapportées avec la phénylbutazone
+  - en revanche, le suivi ophtalmologique de malades traités en chronique pour des atteintes rhumatismales par le naproxène, le kétoprofène ou le flurbiprofène n'a pas mis en évidence d'atteintes oculaires.
 
 ### 9. Effets neurologiques
 
@@ -152,8 +153,8 @@ Quelques cas d'aggravation d'infections intercurrentes ont été rapportés chez
 
 ### 11. Enfin, il ne faut pas oublier deux points
 
-*   l'aspirine, au décours de certaines infections virales bénignes, favoriserait la survenue du syndrome de Reye (voir toxicité hépatique) ;
-*   l'action symptomatique antalgique et antipyrétique de tout AINS peut masquer les signes cliniques d'une infection.
+- l'aspirine, au décours de certaines infections virales bénignes, favoriserait la survenue du syndrome de Reye (voir toxicité hépatique) ;
+- l'action symptomatique antalgique et antipyrétique de tout AINS peut masquer les signes cliniques d'une infection.
 
 ## IV. Intoxications aigües
 
@@ -201,14 +202,14 @@ Coliques hépatiques et néphrétiques…
 
 ### 3. Autres indications
 
-*   Utilisation de l'aspirine pour ses propriétés anti-agrégantes plaquettaires et pour ses effets antipyrétiques.  
-*   Induction de la fermeture du canal artériel (indométacine).  
-*   Troubles biologiques du syndrome de Bartter, en particulier l'hypokaliémie (indométacine, aspirine, ibuprofène).  
-*   Symptômes de la dysménorrhée primaire, incluant la douleur (ibuprofène, naproxène).  
-*   Et aussi utilisation des AINS chez la femme enceinte (indométacine dans les menaces d'accouchement prématuré quand les autres traitements sont contre-indiqués), en cancérologie, dans le syndrome de sevrage en héroïne (il semble que l'administration intraveineuse d'aspirine sous forme d'acétylsalicylate de lysine à des doses assez élevées (80 mg /kg/j) puisse pratiquement supprimer les signes physiques du syndrome de sevrage chez des héroïnomanes au cours des 48 heures qui suivent l'arrêt de la drogue, dans l'hypotension orthostatique.  
-*   L'aspirine semble être efficace dans les gastro-entérites infantiles, elle permettrait de réduire les pertes liquidiennes intestinales avec une posologie équivalente à celle utilisée dans la fièvre.  
-*   L'acide 5-aminosalicylique semble efficace comme anti-inflammatoire dans la rectocolite hémorragique et la maladie de Crohn.  
-*   Action kératolytique : pommade à la vaseline (5 à 10 % d'acide salicylique).
+- Utilisation de l'aspirine pour ses propriétés anti-agrégantes plaquettaires et pour ses effets antipyrétiques.
+- Induction de la fermeture du canal artériel (indométacine).
+- Troubles biologiques du syndrome de Bartter, en particulier l'hypokaliémie (indométacine, aspirine, ibuprofène).
+- Symptômes de la dysménorrhée primaire, incluant la douleur (ibuprofène, naproxène).
+- Et aussi utilisation des AINS chez la femme enceinte (indométacine dans les menaces d'accouchement prématuré quand les autres traitements sont contre-indiqués), en cancérologie, dans le syndrome de sevrage en héroïne (il semble que l'administration intraveineuse d'aspirine sous forme d'acétylsalicylate de lysine à des doses assez élevées (80 mg /kg/j) puisse pratiquement supprimer les signes physiques du syndrome de sevrage chez des héroïnomanes au cours des 48 heures qui suivent l'arrêt de la drogue, dans l'hypotension orthostatique.
+- L'aspirine semble être efficace dans les gastro-entérites infantiles, elle permettrait de réduire les pertes liquidiennes intestinales avec une posologie équivalente à celle utilisée dans la fièvre.
+- L'acide 5-aminosalicylique semble efficace comme anti-inflammatoire dans la rectocolite hémorragique et la maladie de Crohn.
+- Action kératolytique : pommade à la vaseline (5 à 10 % d'acide salicylique).
 
 ## VI. Contre-indications
 
@@ -240,4 +241,4 @@ Il faudra être vigilant chez les malades qui ont une fonction rénale un peu al
 
 Toute prescription médicale nécessite une évaluation rigoureuse des avantages, inconvénients et risques éventuels à la prise de tout traitement. Et les AINS n'échappent pas à la règle. De nouvelles molécules mieux tolérées (AINS spécifique de la cyclo-oxygénase 2) ont vu le jour mais leurs indications sont limitées, de même que leur disponibilité , notamment du fait de leur coût.
 
-_Développement et Santé,n°161, octobre 2003_
+*Développement et Santé,n°161, octobre 2003*

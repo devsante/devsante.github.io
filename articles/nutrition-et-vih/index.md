@@ -9,47 +9,43 @@ Pour atteindre une efficacité maximale du traitement antirétroviral, il convie
 L'infirmier doit, si possible, encourager l'utilisation d'aliments très caloriques et riches en protéines afin de limiter la perte pondérale.</p>
 <p>Exemples : avocat, noix de coco, lait en poudre entier, yaourt ou lait fermenté, produits à base de soja, fromage, viande, poisson, volaille, fruit sec, céréales, oeufs, haricot en grain, lentilles, pomme de terre, patates douces, bananes, manioc, millet, sorgho, riz, mais...( liste non exhaustive).</p></div>
 
-## I. Les objectifs infirmiers sont :
+## I. Les objectifs infirmiers sont
 
-*   Maintenir le poids et la force corporels ;
-*   Remplacer les vitamines et les minéraux perdus ;
-*   Maintenir les activés quotidiennes.
+- Maintenir le poids et la force corporels ;
+- Remplacer les vitamines et les minéraux perdus ;
+- Maintenir les activés quotidiennes.
 
 ## II. Comment évaluer la perte de poids ?
 
-*   Peser la personne une fois par semaine toujours le même jour.  
-*   Noter son poids et la date sur une feuillespéciale qui sera gardée pour permettre à l'infirmier de suivre l'évolution de la maladie (pour un adulte moyen, une perte de poids de 10 % du poids corporel soit environ 6-7 kg sur un mois est une perte de poids sérieuse).  
-*   Observer si les vêtements deviennent amples.
-
+- Peser la personne une fois par semaine toujours le même jour.
+- Noter son poids et la date sur une feuillespéciale qui sera gardée pour permettre à l'infirmier de suivre l'évolution de la maladie (pour un adulte moyen, une perte de poids de 10 % du poids corporel soit environ 6-7 kg sur un mois est une perte de poids sérieuse).
+- Observer si les vêtements deviennent amples.
 
 ![](i169-1.jpg)
 
-
-
 ![](i169-2.jpg)
-
 
 .
 
 ## III. Que faut-il faire pour reprendre du poids ?
 
-*   Augmenter la quantité et la fréquence des repas.  
-*   Manger plus de féculents (riz, maïs, millet, sorgho, blé, pain, patates douces, manioc et banane).  
-*   Augmenter la consommation de haricots secs, de denrées à base de soja, de lentilles, de pois, d'arachides...  
-*   Inclure tous les types de viande, volaille, poisson et oeufs aussi souvent que possible.  
-*   Manger entre les repas.  
-*   Si la personne en est encore capable, il faut l'encourager à continuer ses activités quotidiennes (ménage, travail agricole).
+- Augmenter la quantité et la fréquence des repas.
+- Manger plus de féculents (riz, maïs, millet, sorgho, blé, pain, patates douces, manioc et banane).
+- Augmenter la consommation de haricots secs, de denrées à base de soja, de lentilles, de pois, d'arachides...
+- Inclure tous les types de viande, volaille, poisson et oeufs aussi souvent que possible.
+- Manger entre les repas.
+- Si la personne en est encore capable, il faut l'encourager à continuer ses activités quotidiennes (ménage, travail agricole).
 
-## IV. Actions et surveillance infirmières en cas de perte d'appétit :
+## IV. Actions et surveillance infirmières en cas de perte d'appétit
 
-*   S'adapter au patient, lui donner à manger chaque fois qu'il a faim ;
-*   Donner à boire beaucoup d'eau propre, lait, des yaourts, des soupes, des tisanes des jus tout au long de la journée ;
-*   Conseiller au patient de boire entre les repas ;
-*   Dire au malade de s'éloigner des odeurs désagréables avant, pendant et après le temps du repas ;
-*   Encourager le patient à prendre ses repas en famille si cela est possible ;
-*   Eviter l'alcool car il diminue l'appétit ;
-*   Boire des sodas en petites quantités ;
-*   Suivre une hygiène rigoureuse (lavage des mains).
+- S'adapter au patient, lui donner à manger chaque fois qu'il a faim ;
+- Donner à boire beaucoup d'eau propre, lait, des yaourts, des soupes, des tisanes des jus tout au long de la journée ;
+- Conseiller au patient de boire entre les repas ;
+- Dire au malade de s'éloigner des odeurs désagréables avant, pendant et après le temps du repas ;
+- Encourager le patient à prendre ses repas en famille si cela est possible ;
+- Eviter l'alcool car il diminue l'appétit ;
+- Boire des sodas en petites quantités ;
+- Suivre une hygiène rigoureuse (lavage des mains).
 
 ## V. Les vitamines et les minéraux
 
@@ -71,24 +67,24 @@ Orange, pamplemousse, citron... + goyaves, mangues, tomates, pommes de terre...
 
 #### La vitamine E
 
-*   légumes à feuilles vertes - huiles végétales - arachide
-*   jaune d'oeuf...
+- légumes à feuilles vertes - huiles végétales - arachide
+- jaune d'oeuf...
 
 #### La vitamine B
 
-*   haricot blanc
-*   pomme de terre - graines - avocat
-*   légumes verts
-*   viande et poisson...
+- haricot blanc
+- pomme de terre - graines - avocat
+- légumes verts
+- viande et poisson...
 
 #### Le fer
 
-*   fruits secs
-*   sorgho
-*   millet
-*   haricots secs
-*   viande rouge
-*   oeufs
+- fruits secs
+- sorgho
+- millet
+- haricots secs
+- viande rouge
+- oeufs
 
 ### Les plantes médicinales
 
@@ -368,6 +364,6 @@ environ 10 minutes ou ajouter dans
 
 **Les informations fournies ici venant du document de la FAO sont issues de constats et non d'essais scientifiques.**
 
-Document de la FAO "Living well with HIV/AIDS*, 2003, 105 p.
+Document de la FAO "Living well with HIV/AIDS\*, 2003, 105 p.
 
-_Développement et Santé, n°181, 2006_
+*Développement et Santé, n°181, 2006*

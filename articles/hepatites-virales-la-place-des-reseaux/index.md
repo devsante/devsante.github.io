@@ -5,8 +5,7 @@ date: "2012-10-30"
 
 ## I. Introduction
 
-Par Aminata Sall Diallo*, Bertrand Livinec**  
-*Responsable du PNLH (Programme National de Lutte contre les Hépatites) au Ministère de la Santé du Sénégal. Professeur de physiologie et de biologie à l'UCAD (Université Cheikh Anta Diop) de Dakar. Coordinatrice de l'initiative panafricaine sur les hépatites. **Président de l’association ASEB.
+Par Aminata Sall Diallo\*, Bertrand Livinec**\*Responsable du PNLH (Programme National de Lutte contre les Hépatites) au Ministère de la Santé du Sénégal. Professeur de physiologie et de biologie à l'UCAD (Université Cheikh Anta Diop) de Dakar. Coordinatrice de l'initiative panafricaine sur les hépatites. **Président de l’association ASEB.
 
 Autant les acteurs de la lutte contre le VIH/SIDA sont très bien structurés et organisés sur le continent africain, autant la lutte contre les hépatites en Afrique a longtemps été pénalisée par un manque de coordination de ses acteurs.
 
@@ -63,7 +62,7 @@ Pour en revenir au portrait global de la situation de l’hépatite virale fin 2
 
 ## III. SOS hépatites Algérie
 
-Par Hamid Boualeg, Président de SOS Hépatites Algérie.  
+Par Hamid Boualeg, Président de SOS Hépatites Algérie.
 
 En Algérie, il s’agissait d’informer sur l’existence de cette maladie virale grave, qui peut entraîner cancer et décès, et contre les grands dangers de contamination  
 des personnels travaillant dans les lieux de soins comme les cabinets dentaires, les maternités  les centres  de  dialyse….  A partir de ce moment-là, de larges campagnes de sensibilisation du grand public, et surtout du personnel de la santé et des autorités de la santé, sont menées avec le renfort important des  
@@ -80,14 +79,14 @@ La prise de conscience se fit, mais ces mêmes autorités firent face à d’aut
 Depuis sa création, l’association s’est attaquée à tous ces problèmes et a réclamé leur règlement. A ce jour, elle a organisé, grâce aux efforts de tous ses membres,  
 surtout ceux du conseil scientifique dont les membres sont des professeurs leaders d’opinion, de nombreuses actions de sensibilisation :
 
-*   **Grand public**
-    *   Journée nationale (12 janvier) et mondiale (19 mai, puis 28 juillet) : campagnes médiatiques et d’affichage sur les dangers de l’hépatite.  
-    *   Journées d’étude avec les principaux acteurs de la santé pour une meilleure prise  en charge du patient, médiatisées afin d’informer les patients sur leurs droits à la prise en charge totale.  
-    *   Opérations de dépistage : la première expérience menée par SOS hépatites eut lieu en juillet 2011. L’association a profité de la présence d’estivants sur la plage algéroise pour faire une opération de dépistage rapide. Cette expérience va être structurée dans les prochains mois afin d’aider à l’effort de dépistage.  
-*   **Parlementaires**  
-    A la suite d’une campagne ciblée de sensibilisation auprès des parlementaires, SOS hépatites a organisé en juin 2009, conjointement avec la commission parlementaire de santé, une journée parlementaire, dans l’enceinte de l’Assemblée Populaire Nationale. Cette journée a donné lieu à des recommandations pour le ministère de la santé, essentiellement pour la mise en place du plan national de lutte contre les hépatites. Depuis, un travail parlementaire important est effectué pour la mise en œuvre de ces recommandations, surtout par la commission de la santé qui suit les actions du ministère de la santé et attire son attention sur les rapports qui lui parviennent des régions internes du pays.  
-*   **Ministère de la santé**  
-    Réunions régulières et soutenues depuis deux ans afin de mettre en place une cellule de travail sur les hépatites. Un comité ministériel, dirigé par la conseillère du ministre, a été installé depuis près d’un an, et SOS hépatites en est membre. Il a pour objectif la préparation d’un plan complet, qui doit être finalisé au mois de décembre 2011. Les principaux axes en sont, au vu de la situation des hépatites en Algérie : l’affectation de médecins spécialistes dans les régions endémiques ; l’installation de deux appareils pour PCR à l’est et à l’ouest du pays pour la décentralisation des examens complémentaires, la création de centres de référence dans les principales régions.
+- **Grand public**
+  - Journée nationale (12 janvier) et mondiale (19 mai, puis 28 juillet) : campagnes médiatiques et d’affichage sur les dangers de l’hépatite.
+  - Journées d’étude avec les principaux acteurs de la santé pour une meilleure prise  en charge du patient, médiatisées afin d’informer les patients sur leurs droits à la prise en charge totale.
+  - Opérations de dépistage : la première expérience menée par SOS hépatites eut lieu en juillet 2011. L’association a profité de la présence d’estivants sur la plage algéroise pour faire une opération de dépistage rapide. Cette expérience va être structurée dans les prochains mois afin d’aider à l’effort de dépistage.
+- **Parlementaires**  
+  A la suite d’une campagne ciblée de sensibilisation auprès des parlementaires, SOS hépatites a organisé en juin 2009, conjointement avec la commission parlementaire de santé, une journée parlementaire, dans l’enceinte de l’Assemblée Populaire Nationale. Cette journée a donné lieu à des recommandations pour le ministère de la santé, essentiellement pour la mise en place du plan national de lutte contre les hépatites. Depuis, un travail parlementaire important est effectué pour la mise en œuvre de ces recommandations, surtout par la commission de la santé qui suit les actions du ministère de la santé et attire son attention sur les rapports qui lui parviennent des régions internes du pays.
+- **Ministère de la santé**  
+  Réunions régulières et soutenues depuis deux ans afin de mettre en place une cellule de travail sur les hépatites. Un comité ministériel, dirigé par la conseillère du ministre, a été installé depuis près d’un an, et SOS hépatites en est membre. Il a pour objectif la préparation d’un plan complet, qui doit être finalisé au mois de décembre 2011. Les principaux axes en sont, au vu de la situation des hépatites en Algérie : l’affectation de médecins spécialistes dans les régions endémiques ; l’installation de deux appareils pour PCR à l’est et à l’ouest du pays pour la décentralisation des examens complémentaires, la création de centres de référence dans les principales régions.
 
 SOS  hépatites est membre fondateur de l’Alliance Mondiale des Hépatites (WHA). En avril 2009, son président, Charles Gore, a été l’invité de l’Algérie. Il a tenu une conférence de presse aux côtés du président de SOS hépatites et a été reçu par les cadres du ministère de la santé.
 
@@ -119,52 +118,51 @@ Actuellement, l’Association, en collaboration avec la SOMMAD et le laboratoir
 
 **En perspectives :**
 
-*   Création des antennes dans toutes les régions du Mali,
-*   Poursuite de l’action de plaidoyer,
-*   Institutionnalisation de la journée Mondiale de lutte contre les hépatites,
-*   Erection de l’Association en ONG pour plus de visibilité,
-*   Recherche de partenaires techniques et financiers,
-*   Renforcement de la capacité de l’association,
-*   Création de réseaux sous-régional, régional, national et continental.
+- Création des antennes dans toutes les régions du Mali,
+- Poursuite de l’action de plaidoyer,
+- Institutionnalisation de la journée Mondiale de lutte contre les hépatites,
+- Erection de l’Association en ONG pour plus de visibilité,
+- Recherche de partenaires techniques et financiers,
+- Renforcement de la capacité de l’association,
+- Création de réseaux sous-régional, régional, national et continental.
 
-###   
-2. Place des réseaux et associations
+### 2. Place des réseaux et associations
 
 Au regard de tous ces aspects, les réseaux et associations,  en conjuguant leurs  efforts,  sont  incontournables dans la lutte contre les hépatites dans le monde ; en ces termes les réseaux et associations constituent :
 
-*   Des alliances, groupes de pressions dans leurs pays, régions, sous-régions et dans  le monde, qui sont capables d’influencer les familles, les quartiers, les partis politiques, les organisations à la base (organisations de la société civile), les élus,  les gouvernements ensuite les institutions régionales et sous-régionales, de faire un plaidoyer auprès des décideurs pour la prise en compte de la problématique des hépatites dans les politiques nationales de santé :
-    *   Fournir des statistiques sur la maladie aux décideurs,
-    *   Les tendances si rien n’est fait,
-    *   Les conséquences sur les malades et les familles,
-    *   Les  conséquences sur les futures générations, l’hépatite B étant une infection sexuellement transmissible,
-    *   Le manque à gagner en termes de productivité,
-    *   Le manque à gagner sur les caisses d’assurance maladie.  
-*   Des acteurs-clés de l’information, de la sensibilisation et de la communication pour le changement de comportement à tous les niveaux restent les malades eux-mêmes ; car à l’instar des associations de personnes vivant avec le VIH et le SIDA, les associations de personnes vivant avec les hépatites ont un rôle important à jouer dans la lutte contre leur maladie, entre autres.  
-*   S’identifier pour des questions de statistiques pour la perception de l’ampleur de la problématique :
-    *   Connaître la prévalence réelle des hépatites au niveau national,
-    *   Estimer l’ampleur de la problématique,
-    *   Identifier les groupes vulnérables.  
-*   Des focus pour la mobilisation, la collecte des informations, des statistiques, la conception des messages et de leur dissémination en vue de jouer le rôle de groupe de soutien et de parole pour les membres :
-    *   Appui aux médecins dans l’acceptation du diagnostic par les patients,
-    *   Autosoutien aux membres grabataires,
-    *   Prise en charge psychosociale.  
-*   Une coalition de forte pression pouvant fédérer les efforts/énergies pour porter les débats et la prise en compte des hépatites au niveau régional, sous-régional et mondial (Nord-Sud) par la création de fonds privés pour mener de activités de prévention et de promotion.  
-    *   Cotisation,
-    *   Téléthon,
-    *   Formulation des requêtes de financement,
-    *   Développement du partenariat avec les gouvernements.  
-*   Moyen de redevabillité pour :
-    *   Suivre l’utilisation des fonds,
-    *   Suivre l’utilisation des stocks de médicaments destinés aux malades,
-    *   Dénoncer les malversations,
-    *   Valoriser les bonnes pratiques.  
-*   Des cibles pour rendre le système de santé réactif.  
-    *   Opportunité d’amélioration des plateaux techniques des structures de soins pour un meilleur diagnostic,
-    *   Opportunité d’amélioration du système d’information sanitaire pour une meilleure prise de décision,
-    *   Amélioration de la qualité de prise en charge.
+- Des alliances, groupes de pressions dans leurs pays, régions, sous-régions et dans  le monde, qui sont capables d’influencer les familles, les quartiers, les partis politiques, les organisations à la base (organisations de la société civile), les élus,  les gouvernements ensuite les institutions régionales et sous-régionales, de faire un plaidoyer auprès des décideurs pour la prise en compte de la problématique des hépatites dans les politiques nationales de santé :
+  - Fournir des statistiques sur la maladie aux décideurs,
+  - Les tendances si rien n’est fait,
+  - Les conséquences sur les malades et les familles,
+  - Les  conséquences sur les futures générations, l’hépatite B étant une infection sexuellement transmissible,
+  - Le manque à gagner en termes de productivité,
+  - Le manque à gagner sur les caisses d’assurance maladie.
+- Des acteurs-clés de l’information, de la sensibilisation et de la communication pour le changement de comportement à tous les niveaux restent les malades eux-mêmes ; car à l’instar des associations de personnes vivant avec le VIH et le SIDA, les associations de personnes vivant avec les hépatites ont un rôle important à jouer dans la lutte contre leur maladie, entre autres.
+- S’identifier pour des questions de statistiques pour la perception de l’ampleur de la problématique :
+  - Connaître la prévalence réelle des hépatites au niveau national,
+  - Estimer l’ampleur de la problématique,
+  - Identifier les groupes vulnérables.
+- Des focus pour la mobilisation, la collecte des informations, des statistiques, la conception des messages et de leur dissémination en vue de jouer le rôle de groupe de soutien et de parole pour les membres :
+  - Appui aux médecins dans l’acceptation du diagnostic par les patients,
+  - Autosoutien aux membres grabataires,
+  - Prise en charge psychosociale.
+- Une coalition de forte pression pouvant fédérer les efforts/énergies pour porter les débats et la prise en compte des hépatites au niveau régional, sous-régional et mondial (Nord-Sud) par la création de fonds privés pour mener de activités de prévention et de promotion.
+  - Cotisation,
+  - Téléthon,
+  - Formulation des requêtes de financement,
+  - Développement du partenariat avec les gouvernements.
+- Moyen de redevabillité pour :
+  - Suivre l’utilisation des fonds,
+  - Suivre l’utilisation des stocks de médicaments destinés aux malades,
+  - Dénoncer les malversations,
+  - Valoriser les bonnes pratiques.
+- Des cibles pour rendre le système de santé réactif.
+  - Opportunité d’amélioration des plateaux techniques des structures de soins pour un meilleur diagnostic,
+  - Opportunité d’amélioration du système d’information sanitaire pour une meilleure prise de décision,
+  - Amélioration de la qualité de prise en charge.
 
 La création de réseaux nationaux, régionaux, sous-régionaux et internationaux est  indispensable si on veut circonscrire la propagation des virus des hépatites.  
 Dans chaque pays, l’implication multisectorielle s’imposera et toutes les composantes de la société civile (communauté/population, secteur privé, la société civile, les partenaires techniques et financiers, les gouvernements, les parlements etc.) conjugueront leurs efforts  pour  faire  des  hépatites  une  priorité, car l’union fait la force et on a besoin de cette action unitaire pour éradiquer les hépatites du monde entier.  
 Ainsi, des cellules de lutte contre les hépatites seront créées au sein de tous les services (publics et privés) et institutions, surtout au sein des assemblées nationales en vue de voter des lois en faveur de la lutte contre les hépatites et la protection des malades.
 
-_Développement et Santé N° 200, 2012_
+*Développement et Santé N° 200, 2012*

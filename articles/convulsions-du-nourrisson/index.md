@@ -11,8 +11,7 @@ Quels que soient les symptômes, la crise convulsive est une urgence et impose u
 
 ## I. Le diagnostic
 
-###   
-1. Reconnaître une convulsion est évident quand on assiste à la crise
+### 1. Reconnaître une convulsion est évident quand on assiste à la crise
 
 Brutalement, sans cri, l’enfant se raidit : c’est la phase tonique.  
 Puis il présente des mouvements anormaux : secousses musculaires rythmées. Elles peuvent être localisées ou généralisées. Elles peuvent atteindre les membres mais aussi le visage avec des mouvements anormaux de la bouche, des yeux.
@@ -25,8 +24,8 @@ Elle est suivie par une période pendant laquelle l’enfant est incosncient, tr
 
 Elle peut se limiter :
 
-*   à une perte de connaissance avec hypertonie,
-*   à une révulsion oculaire.
+- à une perte de connaissance avec hypertonie,
+- à une révulsion oculaire.
 
 Son diagnostic est particulièrement difficile chez le nouveau-né chez qui  les signes anormaux peuvent se réduire à de petits mouvements rythmés des doigts.
 
@@ -45,8 +44,8 @@ Au décours de ce traitement, le plus souvent les convulsions ont cessé et l’
 
 **Parfois le traitement est inefficace** :
 
-*   soit parce qu’on ne peut pas faire céder les convulsions sans avoir traité spécifiquement leur cause,
-*   soit parce qu’il s’agit d’un état de mal convulsif
+- soit parce qu’on ne peut pas faire céder les convulsions sans avoir traité spécifiquement leur cause,
+- soit parce qu’il s’agit d’un état de mal convulsif
 
 Il faut interrompre ce cercle vicieux et refaire le même traitement (diazépam) en étant prêt à aider éventuellement l’enfant à respirer quelques instants par le bouche à bouche après avoir dégagé la bouche et le nez de leur encombrement. On peut aussi administrer, s’il est disponible, du clonazépam à la dose de 0,05 mg/kg toutes les 6 heures.
 
@@ -54,19 +53,19 @@ Il faut interrompre ce cercle vicieux et refaire le même traitement (diazépam)
 
 Tandis que les premières mesures thérapeutiques ont été prises, il faut examiner l’enfant à la recherche d’une cause à la convulsion :
 
-*   prise de la température : c’est capital, nous l’avons déjà vu ;
-*   examen clinique du nourrisson :
-    *   recherche d’un bombement de la fontanelle,
-    *   état de la nuque : molle ou non ;
-    *   tonus des membres ;
-    *   état d’hydratation ;
-    *   recherche d’une grosse rate ;
-    *   auscultation des poumons ;
-    *   couleur des conjonctives.  
-*   L’interrogatoire de la mère recherche des anomalies ayant précédé les convulsions, la notion de traumatisme crânien ;
-*   Les examens complémentaires, s’ils sont possibles, pourront se limiter à :
-    *   une ponction lombaire, d’autant plus que l’enfant est jeune (en dessous de 1 an) car les signes cliniques sont moins francs à cet âge ;
-    *   la recherche du plasmodium (paludisme) dans une goutte épaisse.
+- prise de la température : c’est capital, nous l’avons déjà vu ;
+- examen clinique du nourrisson :
+  - recherche d’un bombement de la fontanelle,
+  - état de la nuque : molle ou non ;
+  - tonus des membres ;
+  - état d’hydratation ;
+  - recherche d’une grosse rate ;
+  - auscultation des poumons ;
+  - couleur des conjonctives.
+- L’interrogatoire de la mère recherche des anomalies ayant précédé les convulsions, la notion de traumatisme crânien ;
+- Les examens complémentaires, s’ils sont possibles, pourront se limiter à :
+  - une ponction lombaire, d’autant plus que l’enfant est jeune (en dessous de 1 an) car les signes cliniques sont moins francs à cet âge ;
+  - la recherche du plasmodium (paludisme) dans une goutte épaisse.
 
 ## IV. Les causes des convulsions du nourrisson
 
@@ -79,16 +78,16 @@ Ce sont les plus fréquentes : si, souvent, la fièvre par elle-même est respo
 Il atteint généralement le nourrisson à l’âge où il n’est plus protégé par les anticorps de sa mère (en dessous de un an).  
 Les convulsions au cours d’une crise de paludisme chez le nourrisson sont un signe de gravité invitant immédiatement au traitement par la quinine injectable : en effet, les convulsions annoncent bien souvent l’accès pernicieux dont l’aspect habituel associe :
 
-*   une montée thermique rapide,
-*   des convulsions généralisées
-*   un coma
+- une montée thermique rapide,
+- des convulsions généralisées
+- un coma
 
 (Voir plus haut pour les signes et le traitement)
 
 Rappelons qu’après ponction lombaire pour éliminer une méningite, et le frottis, il faut au plus vite :
 
-*   perfuser l’enfant (quantité totale : 150 ml/kg/24 h d’une solution de 500 ml de glucose contenant 1,50 g de NaCl),
-*   lui administrer de la quinine en perfusion continue (20 à 25 mg/kg/24 h) en plus du traitement des convulsions (voir plus haut).
+- perfuser l’enfant (quantité totale : 150 ml/kg/24 h d’une solution de 500 ml de glucose contenant 1,50 g de NaCl),
+- lui administrer de la quinine en perfusion continue (20 à 25 mg/kg/24 h) en plus du traitement des convulsions (voir plus haut).
 
 #### Les méningites purulentes
 
@@ -127,13 +126,13 @@ Elles sont beaucoup moins fréquentes. Une cause doit toujours être recherchée
 
 Citons :
 
-*   l’anémie aiguë de la drépanocytose, qui peut se révéler par des convulsions,
-*   un manque de calcium (hypocalcémie) au cours d’un rachitisme ; dans ce cas l’enfant reste conscient,
-*   un manque de sucre (hypoglycémie) chez le nouveau-né, surtout s’il a de gros troubles digestifs et ne peut s’alimenter,
-*   les convulsions sans fièvre qui peuvent révéler une épilepsie.
+- l’anémie aiguë de la drépanocytose, qui peut se révéler par des convulsions,
+- un manque de calcium (hypocalcémie) au cours d’un rachitisme ; dans ce cas l’enfant reste conscient,
+- un manque de sucre (hypoglycémie) chez le nouveau-né, surtout s’il a de gros troubles digestifs et ne peut s’alimenter,
+- les convulsions sans fièvre qui peuvent révéler une épilepsie.
 
 **En résumé, il faut insister sur :**
 
-*   L’urgence représentée par la convulsion fébrile.  
-*   La possibilité d’un paludisme et surtout d’un accès pernicieux qui commence.  
-*   Enfin sur l’éducation de la mère à qui on apprendra à baigner son enfant fébrile et à le faire boire et ainsi à éviter la survenue de convulsions.
+- L’urgence représentée par la convulsion fébrile.
+- La possibilité d’un paludisme et surtout d’un accès pernicieux qui commence.
+- Enfin sur l’éducation de la mère à qui on apprendra à baigner son enfant fébrile et à le faire boire et ainsi à éviter la survenue de convulsions.

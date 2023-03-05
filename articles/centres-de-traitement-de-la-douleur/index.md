@@ -52,8 +52,6 @@ Certains patients ne doivent leur guérison qu'à ces centres, ou à des consult
 
 C'est un des combats de l'Institut UPSA de la Douleur dont la vocation est d'informer les professions de santé et le grand public, mais aussi d'aider à l'amélioration de la prise en charge de la douleur des patients. Ceci s'est concrétisé dans certains pays par la mise en place de centres de traitement de la douleur, accompagnée d'une collaboration médicale et scientifique : au Viêt-Nam, en Chine, en Birmanie, ou plus près de nous, au Liban, en Pologne, en République Tchèque, et en Tunisie.
 
-
 ![](i757-1.jpg)
 
-
-_Développement et Santé, n° 131, octobre 1997_
+*Développement et Santé, n° 131, octobre 1997*

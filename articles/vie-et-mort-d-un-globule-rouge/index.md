@@ -10,9 +10,9 @@ date: "2005-04-04"
 
 Ils sont formés dans la moelle osseuse de tous les os. Pour que l'usine de la moelle fonctionne bien, il faut
 
-*   des **protides** provenant de l'alimentation (viande, poisson...),
-*   du **fer :** celui absorbé dans les aliments n'est utilisable que s'il rencontre dans l'estomac de l'acide chlorhydrique et de la vitamine C,
-*   de la **vitamine B 12,** elle aussi absorbée par l'intestin.
+- des **protides** provenant de l'alimentation (viande, poisson...),
+- du **fer :** celui absorbé dans les aliments n'est utilisable que s'il rencontre dans l'estomac de l'acide chlorhydrique et de la vitamine C,
+- de la **vitamine B 12,** elle aussi absorbée par l'intestin.
 
 Grâce à ces trois matériaux la moelle va former **l'hémoglobine,** molécule contenue dans le globule rouge : c'est sur elle que va se fixer l'oxygène.
 
@@ -20,8 +20,8 @@ Malheureusement, dans certains cas, il peut exister un vice de fabrication de ce
 
 Ces hémoglobines anormales vont entraîner :
 
-*   un mauvais transport de l'oxygène,
-*   une fragilisation des globules rouges qui vont donc mourir rapidement.
+- un mauvais transport de l'oxygène,
+- une fragilisation des globules rouges qui vont donc mourir rapidement.
 
 Il y a donc en permanence une anémie.
 
@@ -29,14 +29,14 @@ Il y a donc en permanence une anémie.
 
 Le globule rouge adulte va quitter la moelle pour circuler dans le sang :
 
-*   il prend dans les poumons l'oxygène pour le livrer à l'organisme ; les cellules du corps libèrent du CO<sup>2</sup> (gaz carbonique) qui sera capté par l'hémoglobine pour être transporté dans le poumon. Il sera ainsi éliminé par la respiration (d'où richesse en CO<sup>2</sup> de l'air expiré).
+- il prend dans les poumons l'oxygène pour le livrer à l'organisme ; les cellules du corps libèrent du CO<sup>2</sup> (gaz carbonique) qui sera capté par l'hémoglobine pour être transporté dans le poumon. Il sera ainsi éliminé par la respiration (d'où richesse en CO<sup>2</sup> de l'air expiré).
 
 Pour que ce circuit fonctionne, il est nécessaire :
 
-*   que la circulation soit normale,
-*   que le coeur soit en bon état,
-*   que les poumons soient bien vascularisés,
-*   qu'il n'y ait pas d'obstruction artérielle ou veineuse.
+- que la circulation soit normale,
+- que le coeur soit en bon état,
+- que les poumons soient bien vascularisés,
+- qu'il n'y ait pas d'obstruction artérielle ou veineuse.
 
 La durée de vie d'un globule rouge est comprise entre 110 et 120 jours.
 
@@ -56,9 +56,9 @@ Le globule rouge détruit dans la rate libère :
 
 **c) de l'hémoglobine** celle-ci est transformée en **bilirubine,** qui va être éliminée par le foie. En cas d'hémolyse (éclatement des globules rouges dans la circulation) le taux de bilirubine s'élève et entraîne un ictère (coloration jaune des conjonctives). Ceci est fréquent dans :
 
-*   les poussées de drépanocytose,
-*   l'accès de paludisme,
-*   un cancer (du pancréas).
+- les poussées de drépanocytose,
+- l'accès de paludisme,
+- un cancer (du pancréas).
 
 ## V. Quelques chiffres
 
@@ -69,23 +69,23 @@ Si le globule rouge est pauvre en hémoglobine on dit qu'il y a **hypochromie.**
 
 On distingue :
 
-*   les anémies par manque de production de globules rouges,
-*   les anémies par destruction des globules rouges dans la circulation,
-*   enfin les anémies par fuite des globules rouges (hémorragie).
+- les anémies par manque de production de globules rouges,
+- les anémies par destruction des globules rouges dans la circulation,
+- enfin les anémies par fuite des globules rouges (hémorragie).
 
 ### 1. Troubles de formation des globules rouges
 
 Le fonctionnement de la moelle osseuse peut être bloqué par :
 
-*   **le mauvais état général,**
-*   infections graves, tuberculose, cancer, insuffisance rénale,
-*   une intoxication (Tifomycine par exemple).
+- **le mauvais état général,**
+- infections graves, tuberculose, cancer, insuffisance rénale,
+- une intoxication (Tifomycine par exemple).
 
 Le plus souvent chez l'enfant en Afrique il s'agit d'une carence :
 
-*   **en fer** (régime pauvre en fer, allaitement maternel prolongé, sans repas supplémentaire),
-*   **en acide folique** (pendant la grossesse),
-*   **en protides** (parasitose intestinale, malnutrition, kwashiorkor).
+- **en fer** (régime pauvre en fer, allaitement maternel prolongé, sans repas supplémentaire),
+- **en acide folique** (pendant la grossesse),
+- **en protides** (parasitose intestinale, malnutrition, kwashiorkor).
 
 ### 2. Destruction dans le sang du globule rouge (hémolyse)
 
@@ -97,8 +97,8 @@ La drépanocytose (anémie SS) : l'hémoglobine anormale entraîne une déformat
 
 Il peut s'agir d'une hémorragie visible (plaie qui saigne) ou chronique, ignorée et tout aussi grave ; c'est le cas de :
 
-*   l'ankylostomiase (le malade peut perdre 50 cl de sang par jour),
-*   la bilharziose, toutes les parasitoses digestives, toutes les causes chirurgicales.
+- l'ankylostomiase (le malade peut perdre 50 cl de sang par jour),
+- la bilharziose, toutes les parasitoses digestives, toutes les causes chirurgicales.
 
 Malnutrition, paludisme, drépanocytose, parasitose intestinale, sont les quatre grandes causes d'anémie en Afrique.
 
@@ -109,22 +109,25 @@ Malnutrition, paludisme, drépanocytose, parasitose intestinale, sont les quatre
 Diamètres (micromètres) 7,4 à 8,2  
 Epaisseur moyenne (µm<sup>2</sup>) 130 à 150  
 Volume (µm<sup>3</sup>) 88 à 92  
-Poids (picogrammes)* 90 à 100
+Poids (picogrammes)\* 90 à 100
 
-*Chaque globule rouge pèse environ 100 picogrammes : 1 picogramme représente 10<sup>-12</sup> gramme.
+\*Chaque globule rouge pèse environ 100 picogrammes : 1 picogramme représente 10<sup>-12</sup> gramme.
 
 **Donc l'organisme contient** :
 
-*   100 x 25.000.000.000.000 x 10<sup>-12</sup> = 250 g, soit 2,5 kg de globules rouges.
+- 100 x 25.000.000.000.000 x 10<sup>-12</sup> = 250 g, soit 2,5 kg de globules rouges.
 
-*   Nombre par mm<sup>3</sup> de sang 4 400 000 à 5 400 000
-*   Nombre total (en milliards de cellules - homme de 70 kg) 25 000
-*   Durée de vie (jours) : 110 à 130
+- Nombre par mm<sup>3</sup> de sang 4 400 000 à 5 400 000
 
-*   Renouvellement de la population (à l'état normal le nombre des naissances est égal à celui des morts) :
-    *   Par seconde 2 500 000
-    *   Par jour 200 milliards
+- Nombre total (en milliards de cellules - homme de 70 kg) 25 000
+
+- Durée de vie (jours) : 110 à 130
+
+- Renouvellement de la population (à l'état normal le nombre des naissances est égal à celui des morts) :
+
+  - Par seconde 2 500 000
+  - Par jour 200 milliards
 
 Durant une vie 5 millions de milliards (environ 500 kg)
 
-_Développement et Santé, n°176, avril 2005_
+*Développement et Santé, n°176, avril 2005*

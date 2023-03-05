@@ -4,12 +4,8 @@ author: "Christophe Denantes* et Djibo Diango**"
 date: "1999-04-14"
 ---
 
-**Anesthésie à la kétamine**
-
-**par Christophe Denantes* et Djibo Diango****
-
-* Médecin anesthésiste-réanimateur. Hôpital Avicenne, Bobigny, France.  
-** Médecin anesthésiste-réanimateur. Hôpital Nianankoro Fromba, Ségou, Mali.
+\*Médecin anesthésiste-réanimateur. Hôpital Avicenne, Bobigny, France.  
+\*\*Médecin anesthésiste-réanimateur. Hôpital Nianankoro Fromba, Ségou, Mali.
 
 La kétamine est un anesthésique intraveineux non barbiturique, d'action rapide et de durée d'action courte. Elle entraîne une anesthésie (dite dissociative) caractérisée par un sommeil superficiel, une analgésie, une amnésie et des manifestations psychiques indésirables au réveil. La kétamine peut être utilisée seule, mais l'association à une benzodiazépine (midazolam/diazépam) permet de diminuer l'incidence des effets secondaires au réveil.
 
@@ -101,43 +97,41 @@ La dose initiale est de 5 à 8 mg/kg.
 
 L'administration intraveineuse peut se faire soit en bolus, soit en perfusion continue.
 
-*   Administration en bolus. La dose initiale est de 2 à 4 mg/kg. Les réinjections se font par doses fractionnées de la moitié de la dose d'induction (1 à 2 mg/kg).
+- Administration en bolus. La dose initiale est de 2 à 4 mg/kg. Les réinjections se font par doses fractionnées de la moitié de la dose d'induction (1 à 2 mg/kg).
 
-*   _Administration en intraveineuse conti_nue. On administre en perfusion rapide une dose starter de 2 à 5 mg/kg puis dès la perte de conscience on ralentit le débit à 0,01 à 0,05 mg/kg/min.
-
+- \_Administration en intraveineuse conti_nue. On administre en perfusion rapide une dose starter de 2 à 5 mg/kg puis dès la perte de conscience on ralentit le débit à 0,01 à 0,05 mg/kg/min.
 
 ![](i833-1.jpg)
-
 
 **3. Déroulement de l'anesthésie** **ou technique**
 
 **Préparation à l'anesthésie**
 
-*   _Consultation pré-anesthésique._ L'interrogatoire et l'examen clinique du malade, que l'on peut compléter par un bilan sanguin en fonction du terrain et du type de chirurgie, permet d'évaluer le risque anesthésique (classification ASA), de préparer le malade et de poser l'indication d'une anesthésie à la kétamine, en éliminant les contre-indications.
+- *Consultation pré-anesthésique.* L'interrogatoire et l'examen clinique du malade, que l'on peut compléter par un bilan sanguin en fonction du terrain et du type de chirurgie, permet d'évaluer le risque anesthésique (classification ASA), de préparer le malade et de poser l'indication d'une anesthésie à la kétamine, en éliminant les contre-indications.
 
-*   _La prémédication_. L'association atropinediazépam est habituelle pour prévenir l'hypersécrétion et les effets indésirables du réveil... Elle peut être faite sur table en intraveineuse directe.
+- *La prémédication*. L'association atropinediazépam est habituelle pour prévenir l'hypersécrétion et les effets indésirables du réveil... Elle peut être faite sur table en intraveineuse directe.
 
-*   _La préparation de la salle d'opération_. On prépare, avant chaque anesthésie, le matériel de ventilation et de perfusion, l'aspirateur de mucosités et la source d'oxygène, le stéthoscope et l'appareil à tension.
+- *La préparation de la salle d'opération*. On prépare, avant chaque anesthésie, le matériel de ventilation et de perfusion, l'aspirateur de mucosités et la source d'oxygène, le stéthoscope et l'appareil à tension.
 
 On prépare ensuite la kétamine en prélevant dans une seringue de 10 ml la quantité de kétamine nécessaire (par exemple 100 mg, soit 2 ml d'une solution à 5 %). On peut compléter la seringue avec de l'eau pour préparation injectable ou du soluté de perfusion jusqu'à 10 ml pour être sûr de ne pas injecter trop rapidement.
 
 On prépare l'atropine et le diazépam. La présentation habituelle de l'atropine est en ampoules de 0,5 et 1 mg. La posologie est de 0,5 mg chez l'adulte et de 0,01 mg/kg chez l'enfant. La présentation habituelle du diazépam est en ampoules de 10 mg. La posologie est de 10 mg chez l'adulte et de 0,3 mg/kg sans dépasser 10 mg chez l'enfant.
 
-*   _La préparation de_ l'opéré. On prend un pouls et une tension artérielle initiale et, si on en dispose, on installe un scope et un oxymètre de pouls. On met en place une voie veineuse. Il est important de travailler dans une ambiance calme et sereine en expliquant les gestes que l'on fait. On administre la prémédication atropine-diazépam en intraveineuse directe sur table.
+- *La préparation de* l'opéré. On prend un pouls et une tension artérielle initiale et, si on en dispose, on installe un scope et un oxymètre de pouls. On met en place une voie veineuse. Il est important de travailler dans une ambiance calme et sereine en expliquant les gestes que l'on fait. On administre la prémédication atropine-diazépam en intraveineuse directe sur table.
 
 **Induction de l'anesthésie**
 
-*   _Modalités d'administration et délai d'action_. La dose d'induction est de 2 à 2,5 mg/kg en intraveineux que l'on injecte lentement en 30 à 60 secondes, pour prévenir une dépression respiratoire, en accélérant le débit de la perfusion et de 5 à 8 mg/kg en intramusctdaire. Le délai d'action est bref (30 à 60 secondes) lorsque la kétamine est injectée par voie intraveineuse et plus long (5 à 10 minutes) en cas d'administration intramusculaire.
+- *Modalités d'administration et délai d'action*. La dose d'induction est de 2 à 2,5 mg/kg en intraveineux que l'on injecte lentement en 30 à 60 secondes, pour prévenir une dépression respiratoire, en accélérant le débit de la perfusion et de 5 à 8 mg/kg en intramusctdaire. Le délai d'action est bref (30 à 60 secondes) lorsque la kétamine est injectée par voie intraveineuse et plus long (5 à 10 minutes) en cas d'administration intramusculaire.
 
-*   _Clinique._ La perte de conscience est très particulière : le patient conserve les yeux ouverts avec un regard fixe et un nystagmus, et des mouvements de déglutition qui s'accompagnent d'une dépression respiratoire modérée, d'une tachycardie et d'une hypertension. La stimulation cardio-vasculaire à l'induction peut être limitée en associant du diazépam qui donne une plus grande stabilité hémodynamique.
+- *Clinique.* La perte de conscience est très particulière : le patient conserve les yeux ouverts avec un regard fixe et un nystagmus, et des mouvements de déglutition qui s'accompagnent d'une dépression respiratoire modérée, d'une tachycardie et d'une hypertension. La stimulation cardio-vasculaire à l'induction peut être limitée en associant du diazépam qui donne une plus grande stabilité hémodynamique.
 
 **Entretien**
 
-*   _Modalités d'administration et durée d'action._ La durée d'action est brève lorsque la kétamine est injectée en intraveineuse (5 à 10 minutes) et plus longue en cas d'administration intramusculaire (10 à 20 minutes).
+- *Modalités d'administration et durée d'action.* La durée d'action est brève lorsque la kétamine est injectée en intraveineuse (5 à 10 minutes) et plus longue en cas d'administration intramusculaire (10 à 20 minutes).
 
 L'entretien par voie intraveineuse se fait selon deux modalités : la réinjection de bolus, de 50 % de la dose d'induction (1 à 2 mg/kg) pour les premières réinjections, que l'on diminue ensuite progressivement (100 mg puis 70 et 50 mg pour éviter un retard du réveil. La perfusion continue en diluant 500 mg de kétalar dans 500 ml de soluté (glucosé à 5 % ou sérum physiologique) avec un débit de 60 gouttes minutes que l'on adapte en fonction de la profondeur de l'anesthésie.
 
-*   _Clinique_. Pendant l'anesthésie, le patient paraît indifférent, sa respiration est normale, il présente une tachycardie, une hypertension et une hypertonie. La stimulation cardio-vasculaire peut être limitée en associant du diazépam.
+- *Clinique*. Pendant l'anesthésie, le patient paraît indifférent, sa respiration est normale, il présente une tachycardie, une hypertension et une hypertonie. La stimulation cardio-vasculaire peut être limitée en associant du diazépam.
 
 **Réveil**
 
@@ -185,10 +179,8 @@ La kétamine est classiquement contre-indiquée en cas d'hypertension intracrân
 
 La kétamine est un agent anesthésique sûr, assurant une perte de conscience, une analgésie et une amnésie, dont les principaux effets secondaires que sont la stimulation cardio-vasculaire et les manifestations psychiques au réveil ont limité l'utilisation en routine. Elle conserve cependant des indications privilégiées que sont l'anesthésie en situation précaire, l'anesthésie de courte durée en ventilation spontanée, l'anesthésie pour tout acte chirurgical permettant de sauver un sujet en état de choc et non à jeun en associant une ventilation assistée, l'anesthésie pédiatrique, l'anesthésie obstétricale et l'anesthésie du patient asthmatique. Dans ces indications les effets secondaires peuvent être atténués en l'associant à des benzodiazépines administrées en pré- et per- opératoire.
 
-
 ![](i833-2.jpg)
 
 ![](i833-3.jpg)
-  
 
-_Développement et Santé, n°140, avril 1999_
+*Développement et Santé, n°140, avril 1999*

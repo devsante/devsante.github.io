@@ -14,7 +14,7 @@ Afin d'éliminer le risque encéphalomyélitique, on a cherché à produire des 
 
 Le développement du vaccin rabique moderne dès 1967, d'abord produit sur cellules dipldides humaines puis Véro, a permis pour la première fois une vaccination préventive sans risque et un traitement après contamination dans des conditions d'efficacité, d'innocuité et d'atoxicité totales.
 
-## **I. Virus rabique**
+## I. Virus rabique
 
 Le virus rabique appartient au groupe des rhabdovirus, genre lyssavirus. Vu au microscope électronique, il ressemble à une "balle de fusil"; c'est un bâtonnet cylindrique avec une extrémité en ogive de 70 à 80 nm de diamètre et 180 nm de long ; l'autre extrémité est plate ou légèrement concave. Il comporte une nucléocapside, constituée par un acide ribonuclëique ARN négatif monobrin non infectant, support de l'information génétique et d'unités protéiques de structure. La nucléocapside est formée d'un filament enroulé en spirale et d'une enveloppe à double paroi de nature glucido-lipido-protéïque. Sa face externe présente une structure en nid d'abeilles, comportant aussi des spicules donnant à la surface de la particule un aspect régulièrement strié. Il a été démontré que les glyco-protéïnes des spicules sont responsables du pouvoir immunisant du virus.
 
@@ -26,7 +26,7 @@ Le mouvement du virus le long de l'axone est passif et s'effectue à une très g
 
 Le cycle peut durer plusieurs semaines ou mois et l'on ignore où séjourne le virus à l'état latent au cours de la longue période d'incubation.
 
-## **II. Épidémiologie**
+## II. Épidémiologie
 
 La rage est avant tout une zoonose des mammifères, transmise accidentellement à l'homme.
 
@@ -66,11 +66,11 @@ Le nombre de cas de rage humaine déclarés en 1994 à l'OMS était de :
 
 En 1995, ont été réalisées en France 11 464 consultations antirabiques, dont 6 243 traitements (53 %). 91 % d'entre elles ont pour origine un animal domestique, et dans 9 % des cas un animal sauvage.
 
-## **III. Vaccins rabiques**
+## III. Vaccins rabiques
 
 La fabrication des vaccins antirabiques a beaucoup évolué depuis la mise au point du 1er vaccin par Pasteur. Actuellement, seuls sont admis des vaccins à virus inactivés.
 
-_- Vaccins de première génération_
+*- Vaccins de première génération*
 
 Ils sont préparés sur tissus nerveux d'animaux adultes, moutons ou chèvres, inactivés par la chaleur et ou le phénol. Ils ne sont utilisés que dans de très rares pays nécessitant 14 à 21 injections.
 
@@ -78,7 +78,7 @@ Ils ont été remplacés par des vaccins préparés sur cerveau d'animaux nouvea
 
 Parmi les vaccins de première génération, seul le vaccin purifié produit sur embryon de canard est actuellement recommandé par le comité d'expert de l'OMS.
 
-_- Vaccins de deuxième génération_
+*- Vaccins de deuxième génération*
 
 La présence d'éléments d'origine nerveuse provenant de broyats de cerveau ou d'embryons et occasionnant des complications graves et souvent mortelles, a interdit l'emploi préventif de ces vaccins sur des personnes qui n'ont pas été exposées à l'infection rabique.
 
@@ -90,7 +90,7 @@ Les vaccins rabiques préparés sur culture cellulaire doivent titrer au moins 2
 
 Le vaccin rabique cultivé sur cellules Véro préparé par Pasteur-Mérieux (VERORAB) se présente sous la forme lyophilisée à dissoudre au moment de l'emploi. Le vaccin doit être injecté aussitôt après reconstitution et la seringue doit être détruite après usage.
 
-### **1. Vaccination préventive**
+### 1. Vaccination préventive
 
 La vaccination préventive est indiquée en zone d'enzootie rabique ou le risque de contamination est en fonction des chances de rencontre avec les animaux atteints de rage.
 
@@ -128,7 +128,7 @@ L'étude comparative de l'immunogénicité du vaccin Véro à celle du vaccin di
 
 </table>
 
-### **2.Vaccination antirabique en post-exposition**
+### 2.Vaccination antirabique en post-exposition
 
 La mise en route de la prophylaxie antirabique repose sur l'appréciation du risque de contamination. Selon l'OMS, avant d'entreprendre un traitement après exposition, il faut tenir compte des facteurs suivants :
 
@@ -158,7 +158,7 @@ La vaccination est bien tolérée. Des réactions allergiques bénignes à type 
 
 Le même protocole de vaccination, et aux mêmes doses que chez l'adulte, doit être appliqué chez l'enfant aussi bien en vaccination préventive qu'en traitement post-exposition.
 
-## **IV. Immunoglobulines antirabiques**
+## IV. Immunoglobulines antirabiques
 
 Les immunoglobulines rabiques humaines doivent être administrées en une seule dose à la posologie de 20 Ul par kg de poids corporel et 40 Ul par kg de poids pour le sérum antirabique d'origine équine après épreuve de tolérance par la technique de BEDRESKA. Cette dose ne doit être en aucun cas dépassée car elle peut neutraliser l'effet du vaccin.
 
@@ -168,7 +168,7 @@ La demie-vie des immunoglobulines est de 3 à 4 semaines.
 
 Les immunoglobulines rabiques d'origine humaine sont bien tolérées. Des effets secondaires mineurs peuvent être observés. Des réactions anaphylactiques 0,1 % et maladie sérique 1% peuvent être notées après injection d'immunoglobulines sériques d'origine équine.
 
-### **Contre-indications**
+### Contre-indications
 
 En principe, il n'y a pas de contre-indication au traitement rabique. Le risque de rage prime sur toute autre considération.
 
@@ -176,7 +176,7 @@ Les corticoïdes ainsi qu'un traitement immunodépresseur pourraient déterminer
 
 En raison de la gravité de la rage, la vaccination de la femme enceinte doit être impérativement effectuée en cas de contamination. Les études publiées aussi bien en France qu'à l'étranger (Thaïlande) de traitement antirabique après exposition avec le vaccin cultivé sur cellules diploïdes ou Véro, ont montré la parfaite tolérance et efficacité de ces deux vaccins pendant la grossesse.
 
-## **V. Conduite à tenir en cas de morsure**
+## V. Conduite à tenir en cas de morsure
 
 Il faut tout d'abord s'assurer si l'animal est sain ou excréteur de virus rabique. L'excrétion du virus dans la salive de l'animal commence quelques jours avant l'apparition des premiers signes de rage et se poursuit pendant toute la maladie.
 
@@ -186,17 +186,17 @@ Si l'animal est vivant, on le met en observation vétérinaire pendant 10 jours 
 
 Si l'animal meurt pendant la durée de l'observation ou a dû être abattu, il faut manipuler le cadavre avec précaution et expédier l'animal entier ou la tête et le cou, dans les meilleurs délais, au centre de diagnostic de la rage le plus proche. Le diagnostic est réalisé grâce à trois examens : immunofluorescence (24-48 heures), recherche des corps de Negri par des techniques histologiques (quelques jours) et isolement du virus par inoculation de broyat de cerveau de l'animal enragé aux souriceaux ou sur culture cellulaire.
 
-### **1. Soins immédiats**
+### 1. Soins immédiats
 
 Vis-à-vis du sujet exposé devant toute morsure ou griffure par un animal suspecté de rage, soins immédiats dans les plus brefs délais : lavage soigneux et prolongé des plaies avec de l'eau savonneuse, puis application d'ammonium quaternaire, d'éther ou d'alcool. Ce traitement a une efficacité maximale quand il est pratiqué immédiatement après l'exposition. Il ne faut pas suturer d'emblée la plaie, mais attendre jusqu'à l'exclusion du diagnostic ou jusqu'à l'institution d'un traitement antirabique, pour éviter la diffusion du virus rabique vers les filets nerveux. Si la suture est nécessaire, appliquer par instillation minutieuse au fond de la blessure et par infiltration autour de la plaie, du sérum ou des immunoglobulines spécifiques antirabiques.
 
-_Il faut assurer une protection antitétanique_ _et anti-infectieuse par antibiotiques en cas_ _de morsures graves._
+*Il faut assurer une protection antitétanique* *et anti-infectieuse par antibiotiques en cas* *de morsures graves.*
 
 La décision d'un traitement post-exposition nécessite la synthèse de plusieurs éléments et repose sur le risque de contamination antirabique sur l'état de l'animal mordeur, de son origine géographique ; sur le caractère des blessures du sujet mordu dont on évalue leur gravité en fonction de leur siège et de leur profondeur. Le risque de contamination est d'autant plus grand que les lésions sont plus profondes et multiples, sans interposition de vêtements qui retient la salive infectante.
 
 Une vaccination rabique préventive n'élimine pas la nécessité de mettre en route un traitement post-exposition en cas de contamination, mais réduit seulement le schéma de vaccination post-exposition de six à deux ou trois injections sans immunisation passive.
 
-### **2. Vaccination des animaux**
+### 2. Vaccination des animaux
 
 La vaccination rabique des chiens est obligatoire dans 59 % (11/19) des pays d'Afrique, 40 % (6/15) des pays d'Amérique, 64 % (14/22) des pays d'Asie 69 % (18/26) des pays d'Europe, 50 % (4/8) en Océanie.
 
@@ -222,7 +222,7 @@ La vaccination orale de la faune sauvage a entraîné une diminution spectaculai
 
 </table>
 
-## **VI. Vaccins du futur**
+## VI. Vaccins du futur
 
 Des recherches sont en cours actuellement pour la production de vaccin par génie génétique qui présente l'avantage d'être extrêmement pur. La plupart d'entre eux sont encore au stade de l'expérimentation animale ou d'études préliminaires chez l'homme.
 
@@ -230,9 +230,9 @@ Des recherches sont en cours actuellement pour la production de vaccin par géni
 
 - Des vaccins recombinés utilisant comme vecteurs d'expression les baculovirus, les adénovirus, le BCG sont à l'étude aussi bien pour la vaccination humaine que pour la vaccination des animaux.
 
-Un vaccin recombiné produit à partir du virus variole du canari, le _Canary Pox_ codant pour la glycoprotéine rabique est en cours d'essai clinique chez des volontaires humains. Les résultats préliminaires ont montré la bonne tolérance de ce vaccin avec antigénicité plus faible par rapport au groupe témoin ayant reçu le vaccin sur cellules diploïdes humaines ou Véro.
+Un vaccin recombiné produit à partir du virus variole du canari, le *Canary Pox* codant pour la glycoprotéine rabique est en cours d'essai clinique chez des volontaires humains. Les résultats préliminaires ont montré la bonne tolérance de ce vaccin avec antigénicité plus faible par rapport au groupe témoin ayant reçu le vaccin sur cellules diploïdes humaines ou Véro.
 
-### **Conclusion**
+### Conclusion
 
 La rage est la cause encore de nos jours de 35 000 à 50 000 morts humains chaque année dans le monde.
 
@@ -242,22 +242,22 @@ La prophylaxie de la rage animale est fondamentale pour limiter l'enzootie et le
 
 Le développement récent de vaccins rabiques produits à partir de cultures cellulaires, a complètement bouleversé la prophylaxie rabique. D'après les travaux mondiaux, ces vaccins se sont révélés peu réactogènes, à antigénicité élevée, avec absence de neurotoxicité et acquisition rapide des anticorps, aussi bien en prévention qu'en traitement post-exposition.
 
-### **Bibliographie**
+### Bibliographie
 
 Ajjan N, Pilet C. Comparative study of the safety and protective value in pre-exposure uses of rabies vaccine cultivated on human diploïd cells HDCV and of the new vaccines grown on Vero cells.Vaccines 1989 ; 7 : 125-8.
 
-Cadoz M, Strady A, Meignier B, _et_ al. Immunization with Canarv Pox virus expressing rabies glycoprotein. Lancet 1992 ; 339 : 1429.
+Cadoz M, Strady A, Meignier B, *et* al. Immunization with Canarv Pox virus expressing rabies glycoprotein. Lancet 1992 ; 339 : 1429.
 
-Chutong SE, Wilde H, Benjavongkulchai M, _et al._ Post-exposure rabies vaccination during pregnancy : effect on 202 women and their infants. Clin _Infect Dis_ 1995 ; 10 : 818-20.
+Chutong SE, Wilde H, Benjavongkulchai M, *et al.* Post-exposure rabies vaccination during pregnancy : effect on 202 women and their infants. Clin *Infect Dis* 1995 ; 10 : 818-20.
 
 Comité OMS d'experts de la rage. Huitième rapport OMS. Série de rapport technique, 1992 824 : 1-91.
 
-Ducastel P, Veyssier P. La prophylaxie de la rage. _Infectiologie et Immunologie_ 1996 ; 3 : 157-65.
+Ducastel P, Veyssier P. La prophylaxie de la rage. *Infectiologie et Immunologie* 1996 ; 3 : 157-65.
 
-Meyer JP, Tissot J, Estavoyer JM, _et_ al. Schémas réduits de vaccination : effets de l'association d'une sérothérapie sur l'immunogénicité des vaccins antirabiques. Presse médicale 1992 ; 21 : 1532-5.
+Meyer JP, Tissot J, Estavoyer JM, *et* al. Schémas réduits de vaccination : effets de l'association d'une sérothérapie sur l'immunogénicité des vaccins antirabiques. Presse médicale 1992 ; 21 : 1532-5.
 
-Rotivel Y, Sureau P. Une nouvelle approche de la vaccination antirabique. _Infectiologie Immunolo_gie 1994; 1 : 147-53.
+Rotivel Y, Sureau P. Une nouvelle approche de la vaccination antirabique. \_Infectiologie Immunolo_gie 1994; 1 : 147-53.
 
-Strady A, Lienard M, Ajian N. Vaccination antirabique préventive en milieu professionnel exposé. Etude prospective et comparative d'immunogénicité sur 5 ans. _Presse Méd_ 1993 ; 22 : 572-6.
+Strady A, Lienard M, Ajian N. Vaccination antirabique préventive en milieu professionnel exposé. Etude prospective et comparative d'immunogénicité sur 5 ans. *Presse Méd* 1993 ; 22 : 572-6.
 
-_Développement et Santé, n° 129, juin 1997_
+*Développement et Santé, n° 129, juin 1997*

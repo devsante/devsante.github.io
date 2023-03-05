@@ -16,11 +16,11 @@ Les grandes épidémies de choléra arrivent toujours dans les pays pauvres du m
 
 Ils sont favorisés par l'activité et le comportement humains :
 
-*   _L'augmentation de la_ population, surtout dans les grandes villes, associée à une paupérisation et une urbanisation sauvage, est un facteur essentiel dans l'apparition présente et future des épidémies de choléra : le nombre d'habitants de la planète vivant dans les villes est passé de 33 % en 1970 à 50 % en 2000.  
-*   _Les mouvements de population_ : déplacements de population à la suite de guerres, de catastrophes naturelles, de famine : les épidémies de choléra peuvent réapparaître en zone d'endémie (la malnutrition, le stress, l'épuisement, la promiscuité favorisent la contamination). Des épidémies de choléra ont été favorisées par des déplacements de personnes au cours de la transhumance (par exemple, le cheminement du choléra au Sahel de 1970 à 1980), ou au cours de migrations liées au déplacement des travailleurs saisonniers : un exemple significatif est la dissémination de l'épidémie en Equateur, en 1991, par les pêcheurs rentrant chez eux et essaimant ainsi le choléra dans presque tout le pays.  
-*   _Les grands rassemblements_ (pèlerinages, fêtes, rites, coutumes) favorisant la promiscuité et le manque d'hygiène, sont des déterminants habituels et connus d'une flambée épidémique. Il suffit d'un cas importé par avion et l'épidémie se propage vite. Les axes de communication de l'épidémie de choléra sont toujours terrestres, maritimes, fluviaux mais de plus en plus aériens (l'accélération des moyens de communication favorise la diffusion rapide du vibrion cholérique parmi des populations sensibles très éloignées).
+- *L'augmentation de la* population, surtout dans les grandes villes, associée à une paupérisation et une urbanisation sauvage, est un facteur essentiel dans l'apparition présente et future des épidémies de choléra : le nombre d'habitants de la planète vivant dans les villes est passé de 33 % en 1970 à 50 % en 2000.
+- *Les mouvements de population* : déplacements de population à la suite de guerres, de catastrophes naturelles, de famine : les épidémies de choléra peuvent réapparaître en zone d'endémie (la malnutrition, le stress, l'épuisement, la promiscuité favorisent la contamination). Des épidémies de choléra ont été favorisées par des déplacements de personnes au cours de la transhumance (par exemple, le cheminement du choléra au Sahel de 1970 à 1980), ou au cours de migrations liées au déplacement des travailleurs saisonniers : un exemple significatif est la dissémination de l'épidémie en Equateur, en 1991, par les pêcheurs rentrant chez eux et essaimant ainsi le choléra dans presque tout le pays.
+- *Les grands rassemblements* (pèlerinages, fêtes, rites, coutumes) favorisant la promiscuité et le manque d'hygiène, sont des déterminants habituels et connus d'une flambée épidémique. Il suffit d'un cas importé par avion et l'épidémie se propage vite. Les axes de communication de l'épidémie de choléra sont toujours terrestres, maritimes, fluviaux mais de plus en plus aériens (l'accélération des moyens de communication favorise la diffusion rapide du vibrion cholérique parmi des populations sensibles très éloignées).
 
-## **III.** Déterminants géographiques, écologiques
+## III. Déterminants géographiques, écologiques
 
 ### Le climat
 
@@ -50,28 +50,26 @@ Le terrain argileux toujours humide est un facteur aggravant : l'eau stagne, les
 
 ### L'écologie - l'environnement
 
-Le changement des écosystèmes dû au réchauffement de la planète, la pollution atmosphérique, la déforestation entraînant des inondations, les sécheresses ou autres catastrophes climatiques (telles que _El Nino)_ pourraient être à l'origine de la recrudescence épidémique du choléra. Ces facteurs environnementaux pourraient aussi favoriser l'émergence de nouvelles souches de _vibrio cholerae._
-
+Le changement des écosystèmes dû au réchauffement de la planète, la pollution atmosphérique, la déforestation entraînant des inondations, les sécheresses ou autres catastrophes climatiques (telles que *El Nino)* pourraient être à l'origine de la recrudescence épidémique du choléra. Ces facteurs environnementaux pourraient aussi favoriser l'émergence de nouvelles souches de *vibrio cholerae.*
 
 ![](i921-1.jpg)
-
 
 ## IV. Déterminants sanitaires
 
 Ils sont liés :
 
-*   au manque de ressources sanitaires du pays insuffisance de structures de santé, de personnel soignant bien formé et de financement,
-*   à la désorganisation des services de santé et d'accès aux soins en cas d'épidémie de choléra,
-*   au manque de politique de santé bien définie,
-*   à l'état de santé précaire de certaines populations.
+- au manque de ressources sanitaires du pays insuffisance de structures de santé, de personnel soignant bien formé et de financement,
+- à la désorganisation des services de santé et d'accès aux soins en cas d'épidémie de choléra,
+- au manque de politique de santé bien définie,
+- à l'état de santé précaire de certaines populations.
 
 Le niveau sanitaire d'un pays est un déterminant essentiel dans le contrôle d'une épidémie de choléra et dans son extension. Elle est très facilement stoppée dans les pays développés où les ressources sanitaires sont suffisantes.
 
 ## V. Déterminants historiques
 
-Depuis le début de l'histoire du choléra, on note un phénomène d'adaptation de _Vibrio_ _cholerae_ à l'homme, donnant un caractère épidémique à certaines souches non pathogènes jusqu'ici. Ce phénomène d'adaptation aurait été accéléré par la croissance démographique récente et les facteurs environnementaux. L'histoire du choléra illustre bien la dynamique d'adaptation d'un agent pathogène à son hôte en fonction de l'environnement, de la résistance naturelle et du comportement des populations qu'il infecte.
+Depuis le début de l'histoire du choléra, on note un phénomène d'adaptation de *Vibrio* *cholerae* à l'homme, donnant un caractère épidémique à certaines souches non pathogènes jusqu'ici. Ce phénomène d'adaptation aurait été accéléré par la croissance démographique récente et les facteurs environnementaux. L'histoire du choléra illustre bien la dynamique d'adaptation d'un agent pathogène à son hôte en fonction de l'environnement, de la résistance naturelle et du comportement des populations qu'il infecte.
 
-_Le groupe Choléra de Médecins du Monde_ _précise_ : au début d'une épidémie de choléra dans une région ou un pays, il est important de connaître l'histoire des précédentes épidémies de choléra, car elle permettra de comprendre plus vite les modalités épidémiques, le cheminement de l'épidémie et le comportement dés populations.
+*Le groupe Choléra de Médecins du Monde* *précise* : au début d'une épidémie de choléra dans une région ou un pays, il est important de connaître l'histoire des précédentes épidémies de choléra, car elle permettra de comprendre plus vite les modalités épidémiques, le cheminement de l'épidémie et le comportement dés populations.
 
 ## VI. Déterminants biologiques
 
@@ -85,8 +83,8 @@ La sensibilité individuelle au choléra est attestée par le fait que l'express
 
 Deux conditions lui permettront d'atteindre le jéjunum où il deviendra pathogène :
 
-*   une forte dose infectante (10<sup>8</sup> à 10<sup>11</sup> vibrions/ml)
-*   un pH gastrique alcalin (chez les malades présentant une hypochloridrie, les gastrectomisés, ... )
+- une forte dose infectante (10<sup>8</sup> à 10<sup>11</sup> vibrions/ml)
+- un pH gastrique alcalin (chez les malades présentant une hypochloridrie, les gastrectomisés, ... )
 
 Ces fortes doses infectantes se retrouvent lors d'ingestion de grandes quantités de nourriture contaminée où les vibrions sont protégés de l'acidité gastrique, lors de d'ingestion d'eau infectée massivement par les selles d'un malade, ou par la stagnation de cette eau dans des récipients ou des containers.
 
@@ -98,26 +96,24 @@ Les épidémies de choléra touchent des Communautés à immunité faible ou nul
 
 Dans un pays ou une région d'endémie de choléra (par exemple, le delta du Gange) où les vagues épidémiques se succèdent, la population restante s'immunise plus ou moins et les réémergences saisonnières ne concernent que les jeunes non immunisés et les personnes ayant perdu leur immunité acquise. Il semble que le biotype EL TOR confère à la population une protection plus faible et plus transitoire que le biotype classique responsable des 6 premières pandémies.
 
-
 ![](i921-2.jpg)
-
 
 ### Modalités épidémiologiques
 
 On observe classiquement, depuis les épidémies africaines récentes, deux modalités épidémiologiques principales
 
-*   _L'épidémie traînante_ (quelques cas observés tous les jours ou toutes les semaines pendant plusieurs mois) survient dans une population exposée à de petites quantités de vibrions, du fait de la faible densité humaine; les contacts inter-humains, mais surtout le milieu hydrique, assurent sa diffusion. La mortalité est faible ; les porteurs sains sont en grand nombre et disséminent la maladie. Elle s'observe en zone humide, côtière ou fluviale, à la saison des pluies.  
-*   _L'épidémie explosive_ (apparition brutale d'un grand nombre de cas en peu de jours) s'observe en zone désertique ou en saison sèche. Elle touche des individus à immunité faible ou nulle. Le milieu ne joue plus aucun rôle et la transmission est surtout inter-humaine directe. La majorité de la population est atteinte (formes graves, formes mineures, formes inapparentes). La population restante est immunisée et il n'y a pas d'endémie. C'est surtout dans les camps de réfugiés que l'on observe ces épidémies explosives. A Goma, en République Démocratique du Congo, 30 000 cas environ sont survenus entre le 14 juillet et le 15 août 1994.
+- *L'épidémie traînante* (quelques cas observés tous les jours ou toutes les semaines pendant plusieurs mois) survient dans une population exposée à de petites quantités de vibrions, du fait de la faible densité humaine; les contacts inter-humains, mais surtout le milieu hydrique, assurent sa diffusion. La mortalité est faible ; les porteurs sains sont en grand nombre et disséminent la maladie. Elle s'observe en zone humide, côtière ou fluviale, à la saison des pluies.
+- *L'épidémie explosive* (apparition brutale d'un grand nombre de cas en peu de jours) s'observe en zone désertique ou en saison sèche. Elle touche des individus à immunité faible ou nulle. Le milieu ne joue plus aucun rôle et la transmission est surtout inter-humaine directe. La majorité de la population est atteinte (formes graves, formes mineures, formes inapparentes). La population restante est immunisée et il n'y a pas d'endémie. C'est surtout dans les camps de réfugiés que l'on observe ces épidémies explosives. A Goma, en République Démocratique du Congo, 30 000 cas environ sont survenus entre le 14 juillet et le 15 août 1994.
 
 ## VIII. Déterminants anthropologiques
 
 Comme nous l'avons vu précédemment, les grands rassemblements favorisant la promiscuité et le manque d'hygiène sont des déterminants importants d'une flambée épidémique :
 
-*   Les rites funéraires lors des enterrements chez les musulmans en Indonésie. Aux Comores, par exemple, on vide les intestins du défunt avant de l'enterrer. Dans la mesure où le vibrion survit longtemps dans l'intestin de l'homme, on comprend les sources de contamination et la difficulté de faire de la prévention en période d'épidémie.  
-*   Les lieux de prières et les bassins d'ablution peuvent être un facteur de dissémination.  
-*   Les cérémonies occasionnant les grands rassemblements comme le " grand mariage " en grande Comore. Il réunit plusieurs centaines de personnes en un jour. Chacune apporte un plat. Chaque plat est distribué à 50 personnes environ. Si quelqu'un est porteur sain ou a une forme inapparente de choléra, il peut contaminer plusieurs personnes.  
-*   Le grand rassemblement annuel à la Mecque a joué un rôle majeur dans la dissémination du choléra. Actuellement, l'Arabie Saoudite entretient un système sanitaire de surveillance qui est un modèle pour ce genre de situation : aucun cas de choléra n'a été déclaré depuis 1986 par l'O.M.S.  
-*   Le rôle important de la médecine traditionnelle est un facteur favorisant la diffusion et l'extension de l'épidémie en retardant l'arrivée des malades et en diminuant l'impact des messages de prévention.
+- Les rites funéraires lors des enterrements chez les musulmans en Indonésie. Aux Comores, par exemple, on vide les intestins du défunt avant de l'enterrer. Dans la mesure où le vibrion survit longtemps dans l'intestin de l'homme, on comprend les sources de contamination et la difficulté de faire de la prévention en période d'épidémie.
+- Les lieux de prières et les bassins d'ablution peuvent être un facteur de dissémination.
+- Les cérémonies occasionnant les grands rassemblements comme le " grand mariage " en grande Comore. Il réunit plusieurs centaines de personnes en un jour. Chacune apporte un plat. Chaque plat est distribué à 50 personnes environ. Si quelqu'un est porteur sain ou a une forme inapparente de choléra, il peut contaminer plusieurs personnes.
+- Le grand rassemblement annuel à la Mecque a joué un rôle majeur dans la dissémination du choléra. Actuellement, l'Arabie Saoudite entretient un système sanitaire de surveillance qui est un modèle pour ce genre de situation : aucun cas de choléra n'a été déclaré depuis 1986 par l'O.M.S.
+- Le rôle important de la médecine traditionnelle est un facteur favorisant la diffusion et l'extension de l'épidémie en retardant l'arrivée des malades et en diminuant l'impact des messages de prévention.
 
 L'approche ethnosociologique, la connaissance des pratiques culturelles, les comportements et attitudes devront être étudiés pour comprendre l'évolution de l'épidémie et adapter au mieux la prévention.
 
@@ -129,18 +125,16 @@ Un climat d'instabilité politique, les guerres chroniques engendrent des condit
 
 L'émergence des épidémies de choléra dans un pays ou une région donnée est donc le résultat de l'interaction de facteurs complexes liés :
 
-*   à la virulence ou aux modifications de virulence du vibrion cholérique,
-*   aux particularités de l'environnement (climatiques, écologiques, etc.),
-*   au comportement humain (surpopulation, promiscuité, déplacement de population, rassemblement humain ... ),
-*   au degré d'immunité de la population,
-*   aux conditions de vie et d'hygiène liées à la pauvreté, à la promiscuité, aux problèmes d'eau potable, associées à la dégradation des ressources de santé (structures, personnels, accès aux soins) et à l'absence de réactivité immédiate des politiques de santé du pays concerné par l'épidémie.
+- à la virulence ou aux modifications de virulence du vibrion cholérique,
+- aux particularités de l'environnement (climatiques, écologiques, etc.),
+- au comportement humain (surpopulation, promiscuité, déplacement de population, rassemblement humain ... ),
+- au degré d'immunité de la population,
+- aux conditions de vie et d'hygiène liées à la pauvreté, à la promiscuité, aux problèmes d'eau potable, associées à la dégradation des ressources de santé (structures, personnels, accès aux soins) et à l'absence de réactivité immédiate des politiques de santé du pays concerné par l'épidémie.
 
-(1) _IDH : l'indicateur de développement humain est un indicateur composite qui prend en compte trois éléments du développement humain affectés d'une pondération égale (niveau de santé, d'éducation et de revenu atteint dans le pays concerné). Il est exprimé sur une échelle de 0 à 1 et tend à remplacer le PNB/habitant._
-
+\(1\) *IDH : l'indicateur de développement humain est un indicateur composite qui prend en compte trois éléments du développement humain affectés d'une pondération égale (niveau de santé, d'éducation et de revenu atteint dans le pays concerné). Il est exprimé sur une échelle de 0 à 1 et tend à remplacer le PNB/habitant.*
 
 ![](i921-3.jpg)
 
 ![](i921-4.jpg)
 
-
-_Développement et Santé, n° 152, avril 2001_
+*Développement et Santé, n° 152, avril 2001*

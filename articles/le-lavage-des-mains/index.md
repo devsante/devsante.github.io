@@ -35,46 +35,44 @@ Tube digestif
 
 ## I. Quand se laver les mains
 
-*   En prenant et en quittant son service
-*   Pendant le service après chaque geste de la vie courante : repas, coiffure, éternuements, mouchage et, passage aux toilettes, etc.  
-*   Après avoir touché des surfaces contaminées (poubelles, torchons)
-*   Après un contact avec du sang ou des liquides physiologiques
-*   Avant de préparer des médicaments
-*   Avant et après un soin ou un contact avec un patient
-*   A chaque fois que l'on passe d'un patient à un autre
+- En prenant et en quittant son service
+- Pendant le service après chaque geste de la vie courante : repas, coiffure, éternuements, mouchage et, passage aux toilettes, etc.
+- Après avoir touché des surfaces contaminées (poubelles, torchons)
+- Après un contact avec du sang ou des liquides physiologiques
+- Avant de préparer des médicaments
+- Avant et après un soin ou un contact avec un patient
+- A chaque fois que l'on passe d'un patient à un autre
 
-##   
-II. Hygiène des mains en milieu communautaire
+## II. Hygiène des mains en milieu communautaire
 
 Savon ordinaire et eau.
 
 ### 1. Lorsqu’il y a de l’eau courante
 
-*   enlever sa montre et ses bagues,
-*   rouler ses manches jusqu’à l’avant-bras,
-*   se mouiller les mains jusqu’au poignet,
-*   appliquer sufisamment de savon pour couvrir toute la surface des mains,
-*   faire pénétrer le savon autour et sous les ongles, entre les articulations et les doigts,
-*   frotter comme sur le schéma ci-joint,
-*   rincer à l’eau pour faire disparaître toute trace de mousse,
-*   s’essuyer les mains avec une serviette propre ou une serviette en papier, en séchant bien entre les doigts.
-
+- enlever sa montre et ses bagues,
+- rouler ses manches jusqu’à l’avant-bras,
+- se mouiller les mains jusqu’au poignet,
+- appliquer sufisamment de savon pour couvrir toute la surface des mains,
+- faire pénétrer le savon autour et sous les ongles, entre les articulations et les doigts,
+- frotter comme sur le schéma ci-joint,
+- rincer à l’eau pour faire disparaître toute trace de mousse,
+- s’essuyer les mains avec une serviette propre ou une serviette en papier, en séchant bien entre les doigts.
 
 ![](image001-lavage-mains.gif)
 
-
 ### 2. Lorsqu’il n’y a pas d’eau courante
 
-*   On peut utiliser deux récipients ouverts (seau et cuvette par exemple), le premier sert de réserve et le deuxième sert à laver les mains.  
-*   Jeter l’eau qui a servi à se laver les mains à chaque utilisation.  
-*   Nettoyer le récipient et le mettre à sécher à chaque fois.
+- On peut utiliser deux récipients ouverts (seau et cuvette par exemple), le premier sert de réserve et le deuxième sert à laver les mains.
+- Jeter l’eau qui a servi à se laver les mains à chaque utilisation.
+- Nettoyer le récipient et le mettre à sécher à chaque fois.
 
 ### 3. Lorsqu’il n’y a pas d’eau propre
 
 Faire bouillir l’eau fortement pendant quelques minutes, et la laisser refroidir complètement avant de l’utiliser.  
 Traiter l’eau avec des désinfectants chimiques, liquides ou en comprimés.
 
-## 3. Utilisation des désinfectants pour les mains   
+## 3. Utilisation des désinfectants pour les mains 
+
 Solutions hydro-alcooliques
 
 Ces désinfectants sont un excellent moyen de garder les mains propres là où on n’a pas accès à de l’eau pour se laver les mains.  
@@ -86,9 +84,9 @@ Il est toutefois indispensable d’éliminer toute souillure visible des mains a
 
 Enlever bagues, montres et relever les manches jusqu’au coude.
 
-*   Se laver les mains au savon et à l’eau disponibles si elles sont visiblement souillées (saleté, huile, sang, liquides physilogiques, etc.), et les sécher pour ne pas diluer ensuite l’alcool.  
-*   Déposer suffisamment de désinfectant dans la paume d’une main en forme de coupe pour pouvoir humidifier les deux mains.  
-*   Appliquer le liquide soigneusement dans les paumes, sur le dos de la main, entre les doigts et sous les ongles.
+- Se laver les mains au savon et à l’eau disponibles si elles sont visiblement souillées (saleté, huile, sang, liquides physilogiques, etc.), et les sécher pour ne pas diluer ensuite l’alcool.
+- Déposer suffisamment de désinfectant dans la paume d’une main en forme de coupe pour pouvoir humidifier les deux mains.
+- Appliquer le liquide soigneusement dans les paumes, sur le dos de la main, entre les doigts et sous les ongles.
 
 Suivre la notice du fabricant pour l’utilisation et la conservation, afin de réduire les risques d’évaporation et d’inflammabilité.
 
@@ -116,19 +114,19 @@ Avant tout soin ou acte aseptique :ponction veineuse, soin de drain ou cathéter
 
 Avec savon antiseptique, se fait en trois temps
 
-1) Mouiller les mains et les avant-bras.  
-Mettre une dose de savon antiseptique sur les paumes.  
-Laver les mains et les avant bras pendant une minute environ.  
-Rincer à l’eau potable mains et avant-bras en les maintenant au-dessus du niveau des coudes.
+1)  Mouiller les mains et les avant-bras.  
+    Mettre une dose de savon antiseptique sur les paumes.  
+    Laver les mains et les avant bras pendant une minute environ.  
+    Rincer à l’eau potable mains et avant-bras en les maintenant au-dessus du niveau des coudes.
 
-2) Prendre une brosse stérile, la mouiller et y déposer une dose de savon antiseptique. Se brosser les ongles une trentaine de secondes pour chaque main.  
-Rincer en commençant par les mains et en terminant par les avant-bras..
+2)  Prendre une brosse stérile, la mouiller et y déposer une dose de savon antiseptique. Se brosser les ongles une trentaine de secondes pour chaque main.  
+    Rincer en commençant par les mains et en terminant par les avant-bras..
 
-3) Recommencer l’opération sans brossage, bien frotter chaque espace interdigital, les mains et les avant-bras.  
-Rincer soigneusement, du bout des doigts vers les avant-bras, en les maintenant au-dessus du niveau des coudes.  
-Sécher avec une serviette ou un champ stérile, par tamponnements, du bout des doigts vers les coudes, une serviette pour chaque main.  
-Tenir les avant-bras au-dessus de la taille et écartés du corps. Procéder à l’habillage, mettre des gants stériles à usage unique.  
-Indication : éliminer la flore transitoire et réduire au maximum la flore résidente.
+3)  Recommencer l’opération sans brossage, bien frotter chaque espace interdigital, les mains et les avant-bras.  
+    Rincer soigneusement, du bout des doigts vers les avant-bras, en les maintenant au-dessus du niveau des coudes.  
+    Sécher avec une serviette ou un champ stérile, par tamponnements, du bout des doigts vers les coudes, une serviette pour chaque main.  
+    Tenir les avant-bras au-dessus de la taille et écartés du corps. Procéder à l’habillage, mettre des gants stériles à usage unique.  
+    Indication : éliminer la flore transitoire et réduire au maximum la flore résidente.
 
 Avant tout acte nécessitant une asepsie rigoureuse : pose d’un cathéter central, explorations, etc. Au bloc opératoire avant tout geste chirurgical.
 
@@ -208,7 +206,7 @@ Bloc opératoire
 La main est naturellement porteuse de germes, le milieu hospitalier et le contact permanent de celle-ci avec des zones infectées augmentent la possibilité de trans-port de ces germes.  
 **Ce mode de transmission manuportée est extrêmement fréquent**, il est respon-sable de nombreuses épidémies dans des collectivités : établissements de soins, dispensaires, consultations, etc. Il peut également être très facilement supprimé, car **il est prouvé qu'un lavage des mains correct élimine les bactéries de contamination et empêche la transmission interhumaine**.
 
-Il faut diminuer le nombre des germes fixés sur la main pour réduire le risque de contamination, par un lavage avant et après chaque soin et dès qu'il y a contact avec une surface contaminée vivante ou inerte. Le lavage des mains est une étape essen¬tielle dans la lutte contre l'infection car c'est le seul moyen de supprimer la transmission manuportée. Son efficacité dépend des bonnes conditions de sa réalisation. Les difficultés le plus souvent rencontrées sont le manque de temps, et l'éloignement des points d'eau. Les frictions avec les solutions hydro-alcooliques sont une alternative et une aide efficace dans ces cas-là.  
+Il faut diminuer le nombre des germes fixés sur la main pour réduire le risque de contamination, par un lavage avant et après chaque soin et dès qu'il y a contact avec une surface contaminée vivante ou inerte. Le lavage des mains est une étape essen¬tielle dans la lutte contre l'infection car c'est le seul moyen de supprimer la transmission manuportée. Son efficacité dépend des bonnes conditions de sa réalisation. Les difficultés le plus souvent rencontrées sont le manque de temps, et l'éloignement des points d'eau. Les frictions avec les solutions hydro-alcooliques sont une alternative et une aide efficace dans ces cas-là.
 
 <table>
 
@@ -238,7 +236,7 @@ La flore de la main a deux origines :
 
 </table>
 
-<table>
+\$1<table>
 
 <thead>
 

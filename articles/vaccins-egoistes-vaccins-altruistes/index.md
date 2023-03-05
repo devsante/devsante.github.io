@@ -22,20 +22,20 @@ Cet effet limitant la dissémination des infections est dû à deux phénomènes
 
 Ainsi, pour beaucoup de maladies, une couverture vaccinale de 80 % (80 % de la population est vaccinée) fait disparaître toute épidémie.
 
-On peut donc classer les vaccins en _égoïstes_ _stricts, altruistes stricts_ ou encore en _égoïstes et altruistes à_ la fois.
+On peut donc classer les vaccins en *égoïstes* *stricts, altruistes stricts* ou encore en *égoïstes et altruistes à* la fois.
 
 Voici quelques exemples...
 
-Parmi les _égoïstes stricts :_ le vaccin contre la rage ; pratiqué à temps, il protège à 100 %, alors que l'infection déclarée est toujours mortelle. Peut-on espérer mieux ? En revanche, il ne présente aucun intérêt pour la collectivité. Il en est de même du vaccin antitétanique (sauf lorsqu'il est effectué chez la femme enceinte pour prévenir le tétanos du nouveau-né).
+Parmi les *égoïstes stricts :* le vaccin contre la rage ; pratiqué à temps, il protège à 100 %, alors que l'infection déclarée est toujours mortelle. Peut-on espérer mieux ? En revanche, il ne présente aucun intérêt pour la collectivité. Il en est de même du vaccin antitétanique (sauf lorsqu'il est effectué chez la femme enceinte pour prévenir le tétanos du nouveau-né).
 
-Pour illustrer les _altruistes stricts,_ citons le vaccin contre la rubéole. Cette maladie n'est jamais grave sauf pour le fœtus. Là, elle provoque des malformations sévères (rubéole congénitale). Mais, en vaccinant systématiquement les filles avant la puberté, et les garçons, le virus a pratiquement disparu en Europe et en Amérique du Nord. De ce fait la rubéole congénitale est devenue exceptionnelle.
+Pour illustrer les *altruistes stricts,* citons le vaccin contre la rubéole. Cette maladie n'est jamais grave sauf pour le fœtus. Là, elle provoque des malformations sévères (rubéole congénitale). Mais, en vaccinant systématiquement les filles avant la puberté, et les garçons, le virus a pratiquement disparu en Europe et en Amérique du Nord. De ce fait la rubéole congénitale est devenue exceptionnelle.
 
-Enfin, les _égoïstes et altruistes._ Ces vaccins à la fois égoïstes et altruistes sont nombreux. La vaccination contre la rougeole a un bénéfice individuel élevé. Son bénéfice indirect peut être élevé également mais nécessitera des couvertures vaccinales importantes (au moins 95 %) car la rougeole est très contagieuse. Si la couverture vaccinale n'est pas bonne, il y a un risque de voir apparaître des rougeoles chez l'adulte. Elles sont souvent très graves.
+Enfin, les *égoïstes et altruistes.* Ces vaccins à la fois égoïstes et altruistes sont nombreux. La vaccination contre la rougeole a un bénéfice individuel élevé. Son bénéfice indirect peut être élevé également mais nécessitera des couvertures vaccinales importantes (au moins 95 %) car la rougeole est très contagieuse. Si la couverture vaccinale n'est pas bonne, il y a un risque de voir apparaître des rougeoles chez l'adulte. Elles sont souvent très graves.
 
 Les vaccins antidiphtériques et contre l'hépatite B ont les mêmes caractéristiques.
 
 Le vaccin, " polio oral ", (Sabin) fait mieux encore ! En effet, un sujet récemment vacciné peut à son tour " vacciner " son entourage, le virus Sabin étant éliminé par les selles. C'est l'inverse du péril fécal ! Ce mode curieux de vaccination a bien été démontré dans les collectivités de jeunes enfants.
 
-En attendant le vaccin contre le paludisme qui sera le champion des _égoïstes-altruistes, on_ mesure à quel point la vaccinologie tient une place importante en Santé publique.
+En attendant le vaccin contre le paludisme qui sera le champion des *égoïstes-altruistes, on* mesure à quel point la vaccinologie tient une place importante en Santé publique.
 
-_Développement et Santé, n°135, juin 1998_
+*Développement et Santé, n°135, juin 1998*

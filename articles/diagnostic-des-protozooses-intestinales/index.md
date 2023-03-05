@@ -8,11 +8,11 @@ date: "2007-10-16"
 
 ## I. Amoebose
 
-L’amoebose (appelée antérieurement amibiase) est due à l’amibe _Entamoeba Histolytica_. Cette amibe essentiellement tropicale se présente sous trois formes avec une fonction différente.
+L’amoebose (appelée antérieurement amibiase) est due à l’amibe *Entamoeba Histolytica*. Cette amibe essentiellement tropicale se présente sous trois formes avec une fonction différente.
 
-*   forme minuta (12 à 15 microns) mobile, agent d’infestation.  
-*   forme histolytica (20 à 30 microns) hématophage, très mobile dans toutes les directions, responsable de la maladie.  
-*   forme kystique (12 à 14 microns), immobile, arrondie, à 4 noyaux, agent de transmission.
+- forme minuta (12 à 15 microns) mobile, agent d’infestation.
+- forme histolytica (20 à 30 microns) hématophage, très mobile dans toutes les directions, responsable de la maladie.
+- forme kystique (12 à 14 microns), immobile, arrondie, à 4 noyaux, agent de transmission.
 
 L’homme s’infeste par ingestion des kystes avec l’eau et les crudités. Dans l’intestin, les kystes se transforment en forme minuta qui se multiplient puis s’arrondissent,  deviennent  des  kystes  et  sont  éliminés dans les selles.  
 Chez les sujets présentant un affaiblissement de l’état général,  les  formes minuta grossissent, deviennent hématophages et attaquent la muqueuse colique formant un abcès “en bouton de chemise” ( figure 1), qui se défend en secrétant du sang et du mucus, éliminés  
@@ -20,23 +20,17 @@ avec les selles.
 
 **Figure 1 : abcès en "bouton de chemise".**
 
-
 ![](page-35-fig-1.jpg)
-
 
 Les  patients se plaignent de douleurs abdominales avec des diarrhées glairo-sanglantes (ou “crachat rectal”) ( figure 2), mais sans fièvre. Sans traitement, les amibes peuvent envahir le foie et le poumon, provoquant une amibiase viscérale : abcès du foie (fièvre, hépatomégalie fébrile) ou du poumon (toux, dyspnée, fièvre). Dans ce cas, une échographie ou un scanner visualise la ou les lacunes (figure 3).
 
 **Figure 2 : amibiase aiguë, selles glairo-sanglantes**
 
-
 ![](page-35-fig-2.jpg)
-
 
 **Figure 3 : scanner montrant des lacunes hépatiques**
 
-
 ![](page-35-fig-3.jpg)
-
 
 Le diagnostic est basé sur l’examen de selles fraîches. Une rectoscopie permet de constater des ulcérations en coup d’ongle et un prélèvement par écouvillon permet de retrouver les amibes (Tableau I).  
 En cas d’amibiase viscérale, l’hémogramme révèle une hyperleucocytose à polynucléaires neutrophiles et le sérodiagnostic d’amibiase est positif. Le traitement est basé sur la prise de dérivés imidazolés et  quinoléiques  (Tableau II).
@@ -70,7 +64,7 @@ Amibes
 
 <em>Isospora</em>
 
-<em>Cyclospora</em>  
+<em>Cyclospora</em>
 
 <em>Cryptosporidium</em>
 
@@ -87,7 +81,7 @@ Examen parasitologique des selles, biopsie colique
 Examen parasitologique des selles
 
 Examen parasitologique des selles, auto-fluorescence des parasites  
-dans les selles  
+dans les selles
 
 Frottis de selles
 
@@ -100,7 +94,7 @@ Frottis de selles
 </table>
 
 Le traitement est basé sur la prise de dérivés imidazolés (tinidazole, métronidazole) et  quinoléiques (tiliquinol, tilbroquinol) (tableau II).  
-Il existe d’autres amibes considérées comme non pathogènes (_Entamoeba coli, Endolimax nanus, Pseudolimax butschlii_).
+Il existe d’autres amibes considérées comme non pathogènes (*Entamoeba coli, Endolimax nanus, Pseudolimax butschlii*).
 
 <table>
 <caption>Tableau II : thérapeutique des protozooses intestinales (* produit en ATU)</caption>
@@ -128,9 +122,9 @@ commune internationale</th>
 
 <td>
 
-Tinidazole  
+Tinidazole
 
-Métronidazole  
+Métronidazole
 
 Tiliquinol/tilbroquinol
 
@@ -139,10 +133,10 @@ Tiliquinol/tilbroquinol
 <td>
 
 4 cp/j/1 à 3 j  
-(cp à 500 mg)  
+(cp à 500 mg)
 
 4 cp/j/10 j  
-(cp à 500 mg)  
+(cp à 500 mg)
 
 4 cp/j/10 j  
 cp à 100/200 mg)
@@ -223,7 +217,7 @@ Microsporidioses
 
 Albendazole
 
-Fumagilline*
+Fumagilline\*
 
 </td>
 
@@ -244,94 +238,76 @@ Fumagilline*
 
 ## II. Giardiose
 
-La giardiose (ou ex-giardiase) est une parasitose cosmopolite due à la présence de _Giardia intestinalis_ (ou _Lamblia intestinalis_), protozoaire flagellé en forme de cerf-volant, mesurant environ 7 x 15 microns ( figure 4). 
+La giardiose (ou ex-giardiase) est une parasitose cosmopolite due à la présence de *Giardia intestinalis* (ou *Lamblia intestinalis*), protozoaire flagellé en forme de cerf-volant, mesurant environ 7 x 15 microns ( figure 4). 
 
-**Figure 4 : schéma de forme végétative et de kyste de _Giardia intestinalis_**
-
+**Figure 4 : schéma de forme végétative et de kyste de *Giardia intestinalis***
 
 ![](page-37-fig-4.jpg)
 
-
 L’homme s’infeste par ingestion de kystes avec l’eau et les crudités. Les Giardia s’accolent sur la paroi duodénale par leur ventouse et provoquent des microtraumatismes. Les formes végétatives se multiplient puis s’enkystent et sont éliminées avec les selles sous forme de kystes (figure 5).
 
-**Figure 5 : cycle de _Giardia intestinalis_**
-
+**Figure 5 : cycle de *Giardia intestinalis***
 
 ![](page-37-fig-5.jpg)
-
 
 Les  patients présentent des épigastralgies, plus ou moins rythmées par les repas, des diarrhées jaunâtres, sans glaire ni sang provoquant un syndrome pseudo- ulcéreux ou pseudo-pancréatique. Au  maximum, peut survenir une malabsorption et un retard staturo-pondéral chez l’enfant.  
 Le  diagnostic  est  basé  sur  l’examen  parasitologique des selles qui met en évidence les formes végétatives et les kystes et sur l’aspiration duodénale qui retrouve de nombreuses formes végétatives  (figure 6). Le traitement par les dérivés  imidazolés est rapidement efficace. La prophylaxie est basée sur le respect de l’hygiène alimentaire.
 
-**Figure 6 : formes végétatives de _Giardia intestinalis_**
-
+**Figure 6 : formes végétatives de *Giardia intestinalis***
 
 ![](page-38-fig-6.jpg)
 
-
 ## III. Balantidiose
 
-Cette parasitose cosmopolite est due à un protozoaire cilié, piriforme de 30 à 200 microns, _Balantidium coli_. L’hôte réservoir est le porc qui élimine des kystes. L’homme s’infeste par ingestion des kystes avec l’eau et les crudités. Les sujets infestés peuvent rester longtemps asymptomatiques ou présenter un syndrome dysentérique.  
+Cette parasitose cosmopolite est due à un protozoaire cilié, piriforme de 30 à 200 microns, *Balantidium coli*. L’hôte réservoir est le porc qui élimine des kystes. L’homme s’infeste par ingestion des kystes avec l’eau et les crudités. Les sujets infestés peuvent rester longtemps asymptomatiques ou présenter un syndrome dysentérique.  
 Le diagnostic est basé sur l’examen parasitologique des selles qui met en évidence les formes végétatives (figure 7) et les kystes. Ces parasites peuvent être retrouvés dans la biopsie colique (figure 8).  Le traitement est basé sur les cyclines et la prophylaxie sur le respect de l’hygiène alimentaire.
 
-**Figure 7 : forme végétative de _Balantidium coli_**
-
+**Figure 7 : forme végétative de *Balantidium coli***
 
 ![](page-38-fig-7.jpg)
 
-
-**Figure 8 : biopsie colique avec _Balantidium coli_**
-
+**Figure 8 : biopsie colique avec *Balantidium coli***
 
 ![](page-38-fig-8.jpg)
 
-
 ## IV. Cryptosporidiose
 
-Cette zoonose cosmopolite est due à une coccidie, de 4 à 6 microns _Cryptosporidium parvum_, fréquente chez les veaux et les poulains. L’homme s’infeste par ingestion des oocystes avec l’eau et les crudités, mais reste le plus souvent  asymptomatique.  Toutefois, le sujet immunodéprimé présente des diarrhées importantes et parfois une atteinte pulmonaire (toux, dyspnée).  
+Cette zoonose cosmopolite est due à une coccidie, de 4 à 6 microns *Cryptosporidium parvum*, fréquente chez les veaux et les poulains. L’homme s’infeste par ingestion des oocystes avec l’eau et les crudités, mais reste le plus souvent  asymptomatique.  Toutefois, le sujet immunodéprimé présente des diarrhées importantes et parfois une atteinte pulmonaire (toux, dyspnée).  
 Le diagnostic est basé sur le frottis de selles, avec des colorations  de  Ziehl-Neelsen  (oocystes rouges sur fond vert) (figure 9).  
 Il faut bien différencier Cryptosporidium et Cyclospora (Tableau III). Le traitement n’est que symptomatique.
 
-**Figure 9 : _Cryptosporidium_, coloration de Ziehl-Neelsen**
-
+**Figure 9 : *Cryptosporidium*, coloration de Ziehl-Neelsen**
 
 ![](page-39-fig-9.jpg)
 
-
 ## V. Cyclosporose
 
-Cette coccidiose est une zoonose cosmopolite due à _Cyclospora cayetanensis,_ mesurant 8 à 10 microns dont la contamination s’effectue par ingestion (figure 10).  Elle provoque des diarrhées surtout fréquentes et abondantes chez les sujets immunodéprimés**_._**
+Cette coccidiose est une zoonose cosmopolite due à *Cyclospora cayetanensis,* mesurant 8 à 10 microns dont la contamination s’effectue par ingestion (figure 10).  Elle provoque des diarrhées surtout fréquentes et abondantes chez les sujets immunodéprimés***.***
 
-**Figure 10 : cycle de _Cyclospora cayentannensis_**
-
+**Figure 10 : cycle de *Cyclospora cayentannensis***
 
 ![](page-39-fig-10.jpg)
-
 
 Le diagnostic est établi par l’examen parasitologique des selles ou l’aspiration duodénale, colorées au Ziehl- Neelsen ou à la safranine (figure 11) faisant apparaître les Cyclospora en rouge. En outre, il présente une auto-fluorescence bleue.  
 Le traitement est basé sur le sulfaméthoxazole-triméthoprime et la prophylaxie sur le respect de l’hygiène alimentaire.
 
-**Figure 11 : _Cyclospora_ dans les selles**
-
+**Figure 11 : *Cyclospora* dans les selles**
 
 ![](page-39-fig-11.jpg)
 
-
 ## VI. Microsporidiose
 
-Ces  parasites  intracellulaires, mesurant de 0,5  à  6 microns, dont il existe plusieurs espèces (_Encephalitozoon, Enterocytozoon, Microsporidium_), sont responsables de zoonoses. Les diarrhées sont fréquentes chez les sujets VIH positifs.  
+Ces  parasites  intracellulaires, mesurant de 0,5  à  6 microns, dont il existe plusieurs espèces (*Encephalitozoon, Enterocytozoon, Microsporidium*), sont responsables de zoonoses. Les diarrhées sont fréquentes chez les sujets VIH positifs.  
 Le diagnostic est établi par le frottis de selles avec une coloration au trichrome (figure 12) ou par fluorescence ou par la biopsie duodénale.  
 Le traitement n’est que symptomatique et nécessite surtout de renforcer l’immunité du sujet.
 
-**Figure 12 : frottis de selles avec _Microsporidium_**
-
+**Figure 12 : frottis de selles avec *Microsporidium***
 
 ![](page-39-fig-12.jpg)
 
-
 ## VII. Isosporose
 
-Ces  parasites _Isospora hominis_ et _Isospora belli _ sont fréquents chez l’animal mais rares chez l’homme. Ils se manifestent par une entérocolite fébrile, avec alternance de diarrhées et de constipation.  
+Ces  parasites *Isospora hominis* et \_Isospora belli \_ sont fréquents chez l’animal mais rares chez l’homme. Ils se manifestent par une entérocolite fébrile, avec alternance de diarrhées et de constipation.  
 Le diagnostic repose sur l’identification des oocystes (mesurant 15 x 25 microns) à l’examen parasitologique des selles. Le traitement est basé sur la chloroquine ou le sulfaméthoxazole-triméthoprime..
 
 <table>
@@ -452,9 +428,9 @@ chacun 2 sporozoïtes</td>
 
 </table>
 
-**Figures 13 et 14 (gr x 660) : oocystes d'_Isospora belli_**  
-Oocyste à un sporoblaste (fig. 13). Examen direct sans coloration.  Au centre du cliché on  remarque : la forme allongée en ballon de rugby de l’oocyste d’_Isospora belli_. La coccidie est de grande taille, ici 28 µm. La coque est lisse plus ou moins réfringente. Une extrémité est effilée et l’autre montre souvent une légère striction à un des pôles, Le sporoblaste arrondi et granuleux occupe la partie centrale ; il est visible à l’état frais et après concentration et c’est lui que l’on repère même au faible grossissement ; ensuite en faisant varier la mise au point du microscope on voit la coque.  
-Oocystes à 2 sporoblastes (fig. 14). Examen direct sans coloration. Cette forme parasitaire peut se rencontrer dans les selles si l’examen parasitologique a été différé. Le sporoblaste se divise alors en 2 masses arrondies de taille identique.  
+**Figures 13 et 14 (gr x 660) : oocystes d'*Isospora belli***  
+Oocyste à un sporoblaste (fig. 13). Examen direct sans coloration.  Au centre du cliché on  remarque : la forme allongée en ballon de rugby de l’oocyste d’*Isospora belli*. La coccidie est de grande taille, ici 28 µm. La coque est lisse plus ou moins réfringente. Une extrémité est effilée et l’autre montre souvent une légère striction à un des pôles, Le sporoblaste arrondi et granuleux occupe la partie centrale ; il est visible à l’état frais et après concentration et c’est lui que l’on repère même au faible grossissement ; ensuite en faisant varier la mise au point du microscope on voit la coque.  
+Oocystes à 2 sporoblastes (fig. 14). Examen direct sans coloration. Cette forme parasitaire peut se rencontrer dans les selles si l’examen parasitologique a été différé. Le sporoblaste se divise alors en 2 masses arrondies de taille identique.
 
 <table>
 
@@ -490,9 +466,7 @@ Oocystes à 2 sporoblastes (fig. 14). Examen direct sans coloration. Cette forme
 
 <td class="rtecenter" colspan="2" style="">
 
-
 ![](page-40-dessins-d-isospora-belli1.jpg)
-
 
 </td>
 
@@ -502,4 +476,4 @@ Oocystes à 2 sporoblastes (fig. 14). Examen direct sans coloration. Cette forme
 
 </table>
 
-_Clichés Dr. A.M. Deluol_
+*Clichés Dr. A.M. Deluol*

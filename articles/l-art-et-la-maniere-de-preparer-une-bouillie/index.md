@@ -18,39 +18,31 @@ Si la consistance d'une bouillie doit être adaptée aux possibilités de consom
 
 Cet article montre que la consistance d'un aliment ne renseigne pas toujours sur sa valeur nutritionnelle, et qu'un aliment épais, peut parfois être moins "nourrissant" qu'un aliment liquide. Puis il est proposé un procédé permettant d'obtenir, à partir de recettes de bouillies enrichies ou de farines composées, une bouillie fluide de valeur énergétique élevée. Ces thèmes ont été développés lors du séminaire de formation des agents de santé du district sanitaire de Fada N'Gourma au Burkina Faso (a), **dont** **nous allons suivre le déroulement.**
 
-## II. Séance de travaux **pratiques**
+## II. Séance de travaux pratiques
 
 Lors de la séance de travaux pratiques du séminaire, il est demandé aux agents de santé de préparer de la bouillie à partir de la farine composée Misola (b) selon la recette inscrite au dos des sachets (document N°7). On prélève 100 grammes de cette bouillie pour constituer le premier échantillon.
 
-
 ![](i772-1.jpg)
-
 
 Un deuxième échantillon est constitué de 100 grammes de bouillie enrichie (c) préparée selon la recette du document N°2 et prélevée lors d'une démonstration dans un CSPS (Centre de Santé et de Promotion Sociale). Un troisième échantillon de 100 grammes de soda (d) est également mesuré. Ces trois échantillons sont déshydratés par exposition au soleil jusqu'à obtention de paillettes ou de sucre de façon à évaluer leur valeur énergétique (documents N°3 et N°5).
 
-
 ![](i772-2.jpg)
-
 
 Les aliments sont constitués de matière sèche et d'eau, en proportions variables. La matière sèche seule apporte les calories, les protéines, les minéraux et les vitamines. Pour estimer la valeur énergétique d'un aliment, il faut connaître sa quantité de matière sèche. Les paillettes des bouillies desséchées et le sucre du soda objectivent la quantité de matière sèche de ces aliments. D'autre part, soda et bouillies étant essentiellement constitués de glucides, on estime que 1 gramme de matière sèche de ces aliments apporte 3,7 à 4,2 calories. Leur poids renseigne donc sur leur valeur énergétique.
 
 Les paillettes des bouillies et le sucre du soda provenant de la dessiccation de 100 grammes de chacun de ces aliments sont alors pesées : le premier échantillon fournit 25 grammes de paillettes (bouillie Misola), le second échantillon fournit 8 grammes de paillettes (bouillie enrichie) et l'échantillon de soda fournit 8 grammes de sucre.
 
-
 ![](i772-3.jpg)
-
 
 Le calcul des valeurs énergétiques en Kcalories pour 100 g d'échantillon indique les valeurs suivantes :
 
-*   bouillie Misola 110 Kcal (4,2 X 25),
-*   bouillie enrichie 33,6 Kcal (4,2 X 8),
-*   soda : 29,6 Kcal (3,7 X 8).
+- bouillie Misola 110 Kcal (4,2 X 25),
+- bouillie enrichie 33,6 Kcal (4,2 X 8),
+- soda : 29,6 Kcal (3,7 X 8).
 
 Ces valeurs sont à comparer à celle du lait maternel qui a une valeur énergétique proche de 70 Kcal (document N°4).
 
-
 ![](i772-4.jpg)
-
 
 En fonction de leur valeur énergétique, on peut classer les aliments étudiés à ce séminaire en deux catégories : ceux qui sont moins énergétiques que le lait maternel : soda et bouillie enrichie, et ceux qui sont plus énergétiques que le lait maternel: bouillie Misola. On remarquera que l'aliment le plus épais, la bouillie enrichie, est loin d'être celui qui a la meilleure valeur énergétique.
 
@@ -58,7 +50,7 @@ On pourrait penser que cette bouillie préparée au CSPS est un cas isolé. Malh
 
 **Tout aliment de valeur énergétique plus** **basse que le lait maternel ne peut convenir à la croissance d'un enfant.** Alors, comment expliquer qu'une bouillie enrichie, préparée selon une recette conçue pour prévenir la malnutrition (c) ne dépasse pas en valeur énergétique celle d'une bouillie du marché et même d'un soda ? Comment admettre qu'un enfant malnutri ou à risque de le devenir soit alimenté avec un aliment comparable énergétiquement à une "sucrerie"? Que penser des conseils donnés aux mères recommandant l'usage de ces bouillies pour améliorer la nutrition de leurs enfants ? Et surtout, comment donner aux enfants des aliments de valeur énergétique suffisante ? C'est à cette dernière question que cet article voudrait répondre.
 
-## **III.** L'art de préparer une **bouillie**
+## III. L'art de préparer une bouillie
 
 L'art de préparer une bouillie consiste à confectionner un aliment dont la consistance et le goût conviennent à l'enfant, d'autant plus liquide que l'enfant est plus jeune. C'est cet art que développent mères et petits commerces de rue. Cet art ignore la notion de valeur énergétique.
 
@@ -68,9 +60,7 @@ Si les recettes données lors des séances d'éducation nutritionnelle réponden
 
 Comme l'illustre la recette citée dans le document N°2, la plupart des recettes de bouillies enrichies **n'indiquent pas la quantité** **d'eau** entrant dans la composition de ces bouillies. L'animatrice respecte les proportions entre les différents ingrédients indiquées sur la recette, mais n'ayant pas d'indication sur la quantité d'eau, elle ajuste celle-ci jusqu'à obtenir la consistance souhaitée. Si l'enfant est jeune ou prend mal la bouillie, celle-ci sera diluée pour la rendre plus "légère", et si l'enfant est nourri à la sonde naso-gastrique cette bouillie risque là encore d'être diluée. Il peut alors lui être administré des bouillies à 25 ou 20 Kcal pour 100 grammes, de valeur énergétique à peine plus élevée qu'un soluté de réhydratation Orale ! (Les SRO ont une valeur énergétique de 16 kcal/100ml) ! Comment espérer le faire grossir dans ces conditions !
 
-
 ![](i772-5.jpg)
-
 
 Ces bouillies de faible valeur énergétique devraient être considérées comme des "sucreries" épaissies. Elles sont capables de calmer momentanément la faim de l'enfant en remplissant son estomac d'eau et d'amidon, amidon qu'il a souvent du mal à digérer. Mais elles sont incapables de le nourrir réellement et de lui apporter les nutriments et l'énergie nécessaires à sa croissance. Les prises de poids extrêmement lentes observées dans les CREN (Centre de Réhabilitation et d'Education Nutritionnelle) qui basent encore leur thérapeutique sur ce type de bouillies enrichies le confirment. On peut peut-être même penser que toute bouillie de ce type contribue à la malnutrition.
 
@@ -92,15 +82,11 @@ L'art et la manière de préparer une bouillie c'est donc obtenir une bouillie d
 
 Lors du séminaire, la découverte de la possibilité de préparer des bouillies trois fois plus nutritives que les bouillies enrichies a suscité débats et questions. L'un des agents a proposé que toute bouillie enrichie soit préparée selon le même principe que Misola.
 
-
 ![](i772-6.jpg)
-
 
 Idée géniale ! C'est ainsi une recommandation que chacun peut mettre en pratique : **utiliser** **les recettes de bouillies enrichies de** **façon à obtenir une pâte épaisse, c'est-à-dire les préparer avec peu d'eau** **comme si on préparait la boule de mil et** **liquéfier cette pâte avec du malt.**
 
-
 ![](i772-7.jpg)
-
 
 Le malt peut aussi être ajouté dans la farine avant cuisson (farines dites "maltées"). Il faut alors environ 10 fois plus de malt que s'il est mis dans la bouillie chaude. Un autre procédé fait appel à l'incorporation dans la farine d'une quantité infime (1/10 000) d'amylase pure, d'origine industrielle.
 
@@ -120,7 +106,7 @@ Ils ont pour tâche de faire comprendre aux mères que ce n'est pas l'eau de la 
 
 Il faudra aux agents de santé beaucoup de persuasion pour faire admettre aux parents que le premier facteur de bonne santé c'est une vraie nourriture et que leurs enfants ont besoin d'autre chose que d'une "sucrerie" épaissie. Si leur apprendre la manière de préparer correctement une bouillie est "facile", il sera plus difficile de les convaincre qu'une bouillie capable de véritablement nourrir leur enfant est inévitablement plus chère qu'une bouillie qui ne fera que tromper momentanément leur faim. Il leur faudra encore encourager les mères à bien conduire l'alimentation de leurs enfants : les allaiter exclusivement jusqu'à 6 mois et à partir de 6 mois, continuer à les allaiter en complétant l'alimentation par des bouillies amylasées en attendant qu'ils consomment le plat familial.
 
-_**Quelques définitions :**_
+***Quelques définitions :***
 
 **Valeur énergétique** ou densité énergétique quantité de calories apportée par une quantité définie d'un aliment. Par exemple, la valeur énergétique du lait maternel est de 70 Kcalories pour 100 grammes de lait.  
 **Aliment équilibré :** composition d'un aliment en glucides, protéines, lipides, vitamines et micro-nutriments de façon à ce qu'il soit proche de l'aliment idéal. L'adjonction d'aliments variés à une bouillie de céréale (bouillie enrichie) a pour but d'atteindre cet objectif.  
@@ -128,9 +114,7 @@ Equilibre nutritionnel et valeur énergétique sont deux indicateurs distincts e
 **Besoins énergétiques :** 120 à 100 Kcalories par kilo de poids corporel et par jour (nourrisson et jeune enfant).  
 **Dessication :** action d'enlever aux corps l'humidité qu'ils contiennent.
 
-
 ![](i772-8.jpg)
-  
 
 **Notes :**
 
@@ -149,4 +133,4 @@ Equilibre nutritionnel et valeur énergétique sont deux indicateurs distincts e
 Association Misola, 12 rue des Soupirants 62100 CALAIS, France.  
 Association Burkinabé des Unités Misola, BP7178 OUAGADOUGOU, Burkina Faso.
 
-_Développement et Santé, n°160, août 2002_
+*Développement et Santé, n°160, août 2002*

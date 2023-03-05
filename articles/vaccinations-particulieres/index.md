@@ -38,10 +38,10 @@ Elle est particulièrement indiquée pour les personnes fragiles (souffrant d'in
 Les recommandations sont les mêmes que pour la population générale adulte c'est-à-dire vaccin A et C dans les régions touchées par une épidémie et vaccin ACYW135 pour les pèlerins se rendant à La Mecque ou dans les régions à risque avéré de méningite à méningocoque W135.
 
 **Vaccin antigrippal**  
-_Grippe saisonnière_  
+*Grippe saisonnière*  
 La vaccination antigrippale annuelle est recommandée en cas d'infection par le VIH malgré un certain nombre de limites (plus faible immunogénicité, efficacité clinique variable, élévation transitoire et modérée de la charge virale).
 
-_Grippe A H1 N1_  
+*Grippe A H1 N1*  
 La vaccination est également fortement conseillée, surtout pour les patients qui sont dans l'une des situations suivantes : abstention thérapeutique, CD4 < 500/mm3, tabagisme, maladies chroniques associées (maladie respiratoire, cirrhose, diabète), précarité. Le nombre des injections est encore en débat. A priori, une injection devrait suffire.
 
 #### b) Vaccins vivants atténués
@@ -66,15 +66,11 @@ Le vaccin antivaricelle reste contre-indiqué quel que soit le niveau de défici
 **Conclusion**  
 En conclusion, chez les patients ayant un taux de CD4 supérieur à 200/mm<sup>3</sup>, il est recommandé de faire les vaccinations du calendrier vaccinal (en tenant compte des contre-indications concernant les vaccins vivants), d'envisager certaines vaccinations spécifiques (pneumocoque, grippe, hépatite B) et certaines vaccinations destinées aux voyageurs.
 
-**ANNEXE :**  
-
+**ANNEXE :**
 
 ![](12177-1.jpg)
 
-
-
 ![](12177-2.jpg)
-
 
 ## II. Vaccins chez le drépanocytaire
 
@@ -82,15 +78,15 @@ En conclusion, chez les patients ayant un taux de CD4 supérieur à 200/mm<sup>3
 
 ### 1. Ce qu'il faut savoir
 
-Chez le drépanocytaire homozygote, la survenue d'infections bactériennes, surtout à **pneumocoque**, est une cause importante de morbidité et de mortalité, particulièrement dans l'enfance. D'autres germes, tels _Haemophilus infhuenzae b_, Salmonella et pour certains, les méningocoques, sont plus fréquents que chez l'enfant sain. Mais certaines infections virales, comme la grippe, peuvent déclencher des crises vaso-occlusives et provoquer des surinfections pulmonaires. De plus, tout drépanocytaire est susceptible d'être transfusé : il pourra donc être menacé d'hépatite B. Enfin, en zone intertropicale, il existe un risque supplémentaire d'hépatite A et B et d'infections à méningocoque A et W135.  
+Chez le drépanocytaire homozygote, la survenue d'infections bactériennes, surtout à **pneumocoque**, est une cause importante de morbidité et de mortalité, particulièrement dans l'enfance. D'autres germes, tels *Haemophilus infhuenzae b*, Salmonella et pour certains, les méningocoques, sont plus fréquents que chez l'enfant sain. Mais certaines infections virales, comme la grippe, peuvent déclencher des crises vaso-occlusives et provoquer des surinfections pulmonaires. De plus, tout drépanocytaire est susceptible d'être transfusé : il pourra donc être menacé d'hépatite B. Enfin, en zone intertropicale, il existe un risque supplémentaire d'hépatite A et B et d'infections à méningocoque A et W135.  
 Si l'antibiothérapie préventive a fait la preuve de son efficacité contre les infections invasives à pneumocoque (efficacité partielle), les vaccinations demeurent une arme indispensable contre ces germes.
 
 **2. Pourquoi cette fragilité aux infections ?**  
 S'il est vrai que le drépanocytaire a souvent des infections, parfois graves voire foudroyantes, et ce dès l'âge de 2 mois et jusqu'à la fin de sa vie, cette susceptibilité aux infections est mal expliquée.  
 Cependant, deux anomalies immunitaires sont toujours retrouvées :
 
-*   l'asplénisme fonctionnel,
-*   les altérations de la voie alterne du complément.
+- l'asplénisme fonctionnel,
+- les altérations de la voie alterne du complément.
 
 La rate, véritable filtre bactérien, joue mal ce rôle dès la naissance ; ensuite ses fonctions phagocytaires se dégradent encore car les thromboses itératives de ses vaisseaux aboutissent à une atrophie progressive : on comprend pourquoi une bactériémie vis-à-vis de laquelle il n'est pas encore apparu une immunité spécifique peut se transformer en septicémie.  
 Quant à la voie alterne du complément, elle constitue un système de défense d'urgence activant les globules blancs (cellules phagocytaires, polynucléaires  
@@ -118,8 +114,6 @@ Du fait de la fréquence des transfusions et parce que l'incidence de l'hépatit
 
 Le risque accru d'infections à **méningocoque** A dans les pays à risque impose la vaccination antiméningococcique A-C ou mieux la vaccination Y, car des épidémies de méningites à méningocoque W135 ont été observées.
 
-
 ![](12177-3.jpg)
-
 
 Développement et Santé, n°195, 2009

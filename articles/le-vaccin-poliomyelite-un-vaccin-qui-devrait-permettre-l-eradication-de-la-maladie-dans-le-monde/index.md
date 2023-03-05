@@ -149,7 +149,8 @@ bivalent</td>
 
 </table>
 
-<table>
+\$1<table>
+
 <caption>Tableau II. Comparaison bénéfices/risques du vaccin oral et injectable</caption>
 
 <thead>
@@ -262,7 +263,8 @@ Aucune
 
 </table>
 
-## III. Conséquences de la vaccination  
+## III. Conséquences de la vaccination
+
 sur l'épidémiologie de la poliomyélite
 
 ### Une première période de régression 
@@ -368,21 +370,18 @@ de poliomyélite</th>
 
 Depuis le début de la vaccination contre la poliomyélite jusqu’en 2011, on estime que 10 millions de personnes n’ont pas été atteintes de paralysies dues à la poliomyélite grâce à la vaccination et que, grâce à la vaccination couplée à l’administration de vitamine A, 1,5 millions de décès ont été évités.
 
-En 2011, l’Inde réussit à éradiquer la maladie malgré les grandes difficultés territoriales, grâce à une stratégie efficace et bien suivie dans tout le territoire. Néanmoins, certains pays restent des foyers endémiques de poliomyélite et sont à l’origine de flambées de la maladie, surtout dans les pays limitrophes.  
+En 2011, l’Inde réussit à éradiquer la maladie malgré les grandes difficultés territoriales, grâce à une stratégie efficace et bien suivie dans tout le territoire. Néanmoins, certains pays restent des foyers endémiques de poliomyélite et sont à l’origine de flambées de la maladie, surtout dans les pays limitrophes.
 
 **Figure 1. Nombre mondial de cas dus au virus polio sauvage, 2012**
 
-
 ![](d-s-polio-1-nb-mond.jpg)
-
 
 **Figure 2. Districts où les activités d'éradication ont obtenu les moins bons résultats (dans les trois pays d'endémie restants)**
 
-
 ![](d-s-polio-2-districts.jpg)
 
+### 2. Causes de l'échec, les résistances
 
-### 2. Causes de l'échec, les résistances  
 à la vaccination et leurs conséquences
 
 En 2003, en Indonésie, après la publication du nombre de cas, le 29/08/2005, 24 millions de doses ont été distribuées en une journée, en 2006, il n’y a plus eu de nouveau cas de poliomyélite  
@@ -396,11 +395,10 @@ Le modèle préconisé a permis de juguler une flambée de la maladie au Mali :e
 
 **Figure 3. Déploiement des ressources humaines par l'OMS et l'UNICEF (personnels nationaux et internationaux), 2012-2013**
 
-
 ![](d-s-polio-deploiement-2.jpg)
 
+## IV. Comment les professionnels de santé locaux
 
-## IV. Comment les professionnels de santé locaux  
 peuvent-ils s'investir dans ce plan mondial ?
 
 ### Tchad
@@ -431,7 +429,7 @@ peuvent-ils s'investir dans ce plan mondial ?
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -481,7 +479,7 @@ Le Tchad a notifié 132 cas en 2011, 129 dus au PVS1 et 3 dus au PVS3, le plus g
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -527,7 +525,7 @@ L’Angola n’a notifié en 2011 que cinq cas dus au poliovirus sauvage, soit u
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -555,14 +553,14 @@ L’Angola n’a notifié en 2011 que cinq cas dus au poliovirus sauvage, soit u
 
 Dans tous ces pays et lors de flambée épidémique, il faut le renforcement d’une volonté politique d’action efficace appuyée sur une aide internationale.
 
-### L’analyse de la mise en échec montre :
+### L’analyse de la mise en échec montre
 
-*   La faiblesse des systèmes : en effet, ceux-ci nécessitent l’implication de tous les acteurs de santé, même non directement impliqués dans le programme OMS, car ce sont ces acteurs de terrain qui sont au plus près des populations et peuvent être les plus réactifs dans la participation des populations.  
-*   La difficulté d’accès géographique de certaines zones, d’où l’importance du relai joué par les officiers de santé de terrain.  
-*   L’insécurité dans certaines zones.  
-*   Les migrations de populations qui échappent alors aux campagnes menées localement et restent donc des contaminateurs potentiels.  
-*   La corruption.  
-*   Les changements politiques.
+- La faiblesse des systèmes : en effet, ceux-ci nécessitent l’implication de tous les acteurs de santé, même non directement impliqués dans le programme OMS, car ce sont ces acteurs de terrain qui sont au plus près des populations et peuvent être les plus réactifs dans la participation des populations.
+- La difficulté d’accès géographique de certaines zones, d’où l’importance du relai joué par les officiers de santé de terrain.
+- L’insécurité dans certaines zones.
+- Les migrations de populations qui échappent alors aux campagnes menées localement et restent donc des contaminateurs potentiels.
+- La corruption.
+- Les changements politiques.
 
 ### Le rôle essentiel des officiers de santé
 
@@ -573,16 +571,16 @@ Il est donc fondamental que ces officiers de santé aient accès à une formatio
 
 L’auxiliaire de santé peut ainsi agir en complément des moyens mis en œuvre par l’OMS en faisant remonter les informations suivantes :
 
-*   se manifester si, dans son secteur, une zone de couverture vaccinale minimale n’est pas atteinte
-*   déclencher les alertes en cas de suspicion de flambée de la maladie pour une extension à d’autres tranches d’âge de la vaccination par OPV
-*   améliorer la couverture systématique en informant les familles
+- se manifester si, dans son secteur, une zone de couverture vaccinale minimale n’est pas atteinte
+- déclencher les alertes en cas de suspicion de flambée de la maladie pour une extension à d’autres tranches d’âge de la vaccination par OPV
+- améliorer la couverture systématique en informant les familles
 
 Pour exemple, au Nigéria en 2011, l’augmentation du nombre de cas de la maladie chez les enfants a montré que moins de 65 % des enfants avaient reçu les 4 doses, ce qui explique qu’un tiers des cas était dû à des enfants non vaccinés, dont 50% en raison du refus de vaccination de la part des parents.
 
-#### Il est donc fondamental :
+#### Il est donc fondamental
 
-*   d'agir sur la vaccination des enfants laissés régulièrement de côté (éducation des familles) : action de communication pour lutter contre les rumeurs autour de la vaccination ;
-*   de renforcer la vaccination systématique à la naissance.
+- d'agir sur la vaccination des enfants laissés régulièrement de côté (éducation des familles) : action de communication pour lutter contre les rumeurs autour de la vaccination ;
+- de renforcer la vaccination systématique à la naissance.
 
 ## V. Quel futur pour la vaccination contre la poliomyélite ?
 

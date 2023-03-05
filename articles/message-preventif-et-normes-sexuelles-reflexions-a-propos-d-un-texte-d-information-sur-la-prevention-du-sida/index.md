@@ -14,9 +14,9 @@ Bien que ce travail semble fort simple, la confection et le test de la maquette 
 
 Notre texte contenait trois " messages " préventifs :
 
-*   "L'abstinence totale de rapports sexuels est la protection la plus efficace"
-*   "La fidélité a un(e) seul(e) et même partenaire est une protection sûre"
-*   "L'utilisation correcte de capotes lors de chaque rapport sexuel est une protection encore plus sûre. Les capotes protègent des MST et du SIDA"
+- "L'abstinence totale de rapports sexuels est la protection la plus efficace"
+- "La fidélité a un(e) seul(e) et même partenaire est une protection sûre"
+- "L'utilisation correcte de capotes lors de chaque rapport sexuel est une protection encore plus sûre. Les capotes protègent des MST et du SIDA"
 
 La première proposition fut rejetée par le plus grand nombre de nos interlocuteurs au nom de la "normalité" : "Avoir des relations sexuelles, c'est naturel, autrement cela causerait un déséquilibre physique"
 
@@ -54,9 +54,9 @@ Cette apparente liberté n'est pas sans contraintes. La mesure est de règle et 
 
 Malgré leurs évidentes spécificités, il existe, entre ces trois sociétés quelques points communs :
 
-*   A l'intérieur du couple marié, la sexualité est avant tout définie dans sa fonction de reproduction. De nombreux exemples, allant de la répudiation des femmes stériles aux manières de nommer l'époux " père de mes enfants ", accréditent cette thèse.  
-*   Le respect envers sa femme, impose au mari d'assumer un certain nombre de charges sociales comme la subsistance quotidienne de la famille, ou d'aider en diverses circonstances (deuil, baptême) sa belle-famille.  
-*   Par contre l'unicité des relations sexuelles avec son épouse peut être conçue comme une espérance ou un idéal, non comme une obligation. Dans cette conception, l'inacceptable ne provient pas tant du plaisir qu'il peut arriver à l'homme de trouver ailleurs que dans son ménage, mais de mettre en situation d'équivalence et/ou de rivalité une " relation " et sa femme légitime. Si pour la femme la fidélité est liée à l'exclusivité sexuelle (il faut garantir l'origine de l'enfant), pour l'homme elle consiste avant tout, à maintenir le statut de l'épouse et sa prééminence sur les autres femmes.
+- A l'intérieur du couple marié, la sexualité est avant tout définie dans sa fonction de reproduction. De nombreux exemples, allant de la répudiation des femmes stériles aux manières de nommer l'époux " père de mes enfants ", accréditent cette thèse.
+- Le respect envers sa femme, impose au mari d'assumer un certain nombre de charges sociales comme la subsistance quotidienne de la famille, ou d'aider en diverses circonstances (deuil, baptême) sa belle-famille.
+- Par contre l'unicité des relations sexuelles avec son épouse peut être conçue comme une espérance ou un idéal, non comme une obligation. Dans cette conception, l'inacceptable ne provient pas tant du plaisir qu'il peut arriver à l'homme de trouver ailleurs que dans son ménage, mais de mettre en situation d'équivalence et/ou de rivalité une " relation " et sa femme légitime. Si pour la femme la fidélité est liée à l'exclusivité sexuelle (il faut garantir l'origine de l'enfant), pour l'homme elle consiste avant tout, à maintenir le statut de l'épouse et sa prééminence sur les autres femmes.
 
 Le test de la brochure d'information sur le SIDA et sa prévention visait à accorder des conseils sanitaires aux conceptions des populations. Notre simple exemple, montre que ceci ne peut se réduire à la production d'un " message " intellectuellement compréhensible. Il faut, de plus, que celui-ci puisse prendre place dans les systèmes de pensée qui légitiment et expliquent les conduites, diverses selon les cultures, des groupes sociaux concernés par les campagnes d'éducation.
 
@@ -116,4 +116,4 @@ pourrons-nous alors, plutôt que d'espérer faire entrer des groupes humains dan
 
 </table>
 
-*** Le nombre de locuteurs est indicatif. Ne s'agissant pas ici d'une étude linguistique nous n'envisageons pas les différences entre langue maternelle et langue véhiculaire, ni les questions de variations dialectales.**
+**\* Le nombre de locuteurs est indicatif. Ne s'agissant pas ici d'une étude linguistique nous n'envisageons pas les différences entre langue maternelle et langue véhiculaire, ni les questions de variations dialectales.**

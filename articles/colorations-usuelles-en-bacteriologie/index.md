@@ -24,56 +24,55 @@ Les frottis doivent être étalés en couche mince et régulière, puis séchés
 
 Les lames doivent être parfaitement propres et dégraissées.
 
-_Étalement à partir de produits pathologiques_
+*Étalement à partir de produits pathologiques*
 
 On utilise, selon les cas :
 
-*   un écouvillon _(figure n° 1)_ ;
-*   une pipette ;
+- un écouvillon *(figure n° 1)* ;
 
-*   ou une anse de platine (fil de métal fixé à un porte-fil et ayant la forme d'une boucle d'environ 2 millimètres de diamètre). Dans ce cas, le fil doit être chauffé au rouge sur une flamme _(figure n° 2),_ puis parfaitement refroidi avant le prélèvement.
+- une pipette ;
+
+- ou une anse de platine (fil de métal fixé à un porte-fil et ayant la forme d'une boucle d'environ 2 millimètres de diamètre). Dans ce cas, le fil doit être chauffé au rouge sur une flamme *(figure n° 2),* puis parfaitement refroidi avant le prélèvement.
 
 L'étalement doit être aussi mince que possible : la dilution des produits épais peut parfois s'avérer nécessaire.
 
-*   Lorsqu'il s'agit d'un liquide (urines, ascite, liquide pleural ... ), on effectue les frottis à partir de culots de centrifugation.
-
+- Lorsqu'il s'agit d'un liquide (urines, ascite, liquide pleural ... ), on effectue les frottis à partir de culots de centrifugation.
 
 ![](i715-1.jpg)
 
-
-_Étalement à partir de milieux de culture_
+*Étalement à partir de milieux de culture*
 
 On étale les gouttes de suspension bactérienne en un film mince et régulier :
 
-*   soit par un mouvement régulier et circulaire à l'aide d'une anse de platine, en décrivant des spirales partant du centre vers l'extérieur, pour obtenir un étalement de 2 à 3 cm de diamètre _(figure_ _n° 3) ;_
-*   soit en tirant de façon uniforme l'effilure d'une pipette Pasteur _(figure n° 4)._
+- soit par un mouvement régulier et circulaire à l'aide d'une anse de platine, en décrivant des spirales partant du centre vers l'extérieur, pour obtenir un étalement de 2 à 3 cm de diamètre *(figure* *n° 3) ;*
+- soit en tirant de façon uniforme l'effilure d'une pipette Pasteur *(figure n° 4).*
 
 ### 2. Séchage
 
 Le séchage de la lame doit se faire autant que possible à la température du laboratoire.
 
-*   Il peut éventuellement s'effectuer en posant la lame sur une platine chauffante réglée à 37°, ou en la maintenant dans l'air chaud au-dessus de la veilleuse d'un bec Bunsen _(figure n° 5)._
-*   Il faut éviter un séchage trop brutal, à une température trop élevée (altération de certains constituants, en particulier la paroi bactérienne).
+- Il peut éventuellement s'effectuer en posant la lame sur une platine chauffante réglée à 37°, ou en la maintenant dans l'air chaud au-dessus de la veilleuse d'un bec Bunsen *(figure n° 5).*
+- Il faut éviter un séchage trop brutal, à une température trop élevée (altération de certains constituants, en particulier la paroi bactérienne).
 
-### **3. Fixation de la préparation**
+### 3. Fixation de la préparation
 
 La fixation doit s'effectuer sur une préparation sèche.
 
 Plusieurs méthodes peuvent être utilisées :
 
-_Fixation par l'alcool flambé_
+*Fixation par l'alcool flambé*
 
 C'est la technique la plus utilisée mais elle doit être réservée aux cultures bactériennes. Il est prudent de mettre au préalable de l'eau au fond de la cuve de coloration.
 
 Recouvrir la lame d'alcool à 95°, laisser quelques secondes de contact, égoutter, puis enflammer l'alcool restant. Laisser refroidir.
 
-**_Fixation par la chaleur_**
+***Fixation par la chaleur***
 
 Cette technique est également réservée aux cultures bactériennes.
 
-La lame séchée, frottis sur le dessus, tenue par une pince, est passée dans une flamme. Le geste doit être lent et la lame doit écraser 3 ou 4 fois la flamme _(figure_ _n° 6)._
+La lame séchée, frottis sur le dessus, tenue par une pince, est passée dans une flamme. Le geste doit être lent et la lame doit écraser 3 ou 4 fois la flamme *(figure* *n° 6).*
 
-**_Fixation à l'alcool_**
+***Fixation à l'alcool***
 
 Ce procédé de fixation peut être employé quel que soit le produit traité.
 
@@ -89,17 +88,15 @@ Les préparations chargées en graisses pourront être lavées au xylol avant d'
 
 Quelle que soit la technique de fixation employée, la lame doit être rincée à l'eau distillée, égouttée et séchée avant d'être colorée.
 
-
 ![](i715-2.jpg)
 
-
-## **II. Colorations usuelles**
+## II. Colorations usuelles
 
 La coloration la plus informative est la coloration de Gram. Dans le cas ou les réactifs nécessaires ne seraient pas disponibles, une coloration au bleu de méthylène peut apporter des informations concernant la morphologie des germes.
 
 **Coloration au bleu de méthylène**
 
-_Préparation du bleu phéniqué (de_ " _Kühne ")_
+*Préparation du bleu phéniqué (de* " *Kühne ")*
 
 Dans un mortier, broyer et mélanger :
 
@@ -123,7 +120,7 @@ Reprendre par 100 à 200 ml d'eau distillée :
 
 - filtrer à nouveau avant l'emploi.
 
-**_Technique de coloration_**
+***Technique de coloration***
 
 Sur le frottis fixé et refroidi :
 
@@ -137,7 +134,7 @@ Sur le frottis fixé et refroidi :
 
 - Examiner au microscope, objectif à immersion.
 
-**_Résultats_**
+***Résultats***
 
 Les bactéries sont colorées en bleu sombre.
 
@@ -169,11 +166,11 @@ Suivant la composition de leur paroi :
 
 - d'autres bactéries ne résistent pas et ne sont plus visibles. On doit donc utiliser un deuxième colorant de teinte contrastante (fuchsine, ou safranine, colorants rouges). Ces bactéries apparaissent alors colorées en rose, elles sont dites Gram négatif.
 
-### **1. Coloration classique de Gram**
+### 1. Coloration classique de Gram
 
 Préparation des réactifs
 
-*   Violet de gentiane phéniqué
+- Violet de gentiane phéniqué
 
 Broyer et mélanger dans un mortier :
 
@@ -193,9 +190,9 @@ Quand le mélange est bien homogène, rincer le mortier avec 100 ml d'eau distil
 
 - Filtrer avant chaque utilisation.
 
-Les solutions de violet de gentiane ont tendance à précipiter, aussi plusieurs variantes de la formule classique peuvent être utilisées (_cf. plus loin_).
+Les solutions de violet de gentiane ont tendance à précipiter, aussi plusieurs variantes de la formule classique peuvent être utilisées (*cf. plus loin*).
 
-*   Solution de Lugol (ou liquide de Gram)
+- Solution de Lugol (ou liquide de Gram)
 
 Formule :
 
@@ -211,7 +208,7 @@ Puis dissoudre l'iode dans cette solution d'iodure concentrée.
 
 Compléter ensuite au volume d'eau nécessaire.
 
-*   Fuchsine phéniquée de Ziehl
+- Fuchsine phéniquée de Ziehl
 
 Broyer dans un mortier :
 
@@ -235,25 +232,33 @@ Avant utilisation, diluer la fuchsine au 1/10 :
 
 attention cette dilution ne se conserve pas et doit être effectuée extemporanément.
 
-### **2. Technique de coloration**
+### 2. Technique de coloration
 
 Le frottis doit être parfaitement refroidi
 
-*   Coloration par le violet
+- Coloration par le violet
 
-- Recouvrir totalement la lame avec le violet de Gentiane soigneusement filtré en versant de préférence le colorant à partir d'une extrémité de la lame _(figure n° 7)._
+<!-- -->
+
+- Recouvrir totalement la lame avec le violet de Gentiane soigneusement filtré en versant de préférence le colorant à partir d'une extrémité de la lame *(figure n° 7).*
 
 - Laisser agir 20 secondes à 1 minute selon la force du colorant utilisé.
 
-*   Mordançage
+<!-- -->
+
+- Mordançage
+
+<!-- -->
 
 - Prendre la lame avec une pince et l'incliner légèrement.
 
-- Éliminer le violet de gentiane en faisant couler sur la lame la solution de Lugol. La lame ne doit jamais rester découverte _(figure_ _n° 8)._
+- Éliminer le violet de gentiane en faisant couler sur la lame la solution de Lugol. La lame ne doit jamais rester découverte *(figure* *n° 8).*
 
 - Reposer la lame et la recouvrir de solution de Lugol. Laisser agir 15 à 20 secondes. Rejeter et remplacer par la même solution (2 fois en laissant agir chaque fois 20 secondes). Le temps de mordançage doit être égal ou légèrement supérieur au " temps de violet ".
 
-*   Décoloration par l'alcool
+<!-- -->
+
+- Décoloration par l'alcool
 
 Décolorer à l'alcool à 95° ou à l'alcool-acétone, en laissant couler rapidement l'alcool sur le frottis, tenu verticalement ou en position très inclinée, jusqu'à ce que l'alcool s'écoule non teinté (5 à 10 secondes).
 
@@ -265,13 +270,13 @@ On peut décomposer le temps de décoloration de la manière suivante :
 
 - décolorer le frottis lui-même en laissant couler l'alcool pendant 3 ou 4 secondes et rincer immédiatement,
 
-
 ![](i715-3.jpg)
-
 
 - vérifier la décoloration en versant quelques gouttes d'alcool sur le frottis, aucune trace de colorant ne doit être entraînée. Rincer aussitôt à l'eau.
 
-*   Recoloration par la fuchsine
+<!-- -->
+
+- Recoloration par la fuchsine
 
 Recouvrir la lame d'eau et verser quelques gouttes de fuchsine à chaque extrémité du frottis. Ne jamais verser la fuchsine directement sur le frottis (risques de dépôts, de coloration trop intense).
 
@@ -279,17 +284,17 @@ On peut préparer, juste avant l'emploi, une dilution de fuchsine au 1/10<sup>e<
 
 Laisser la fuchsine 10 à 20 secondes.
 
-*   Rinçage et séchage
+- Rinçage et séchage
 
 Rincer à l'eau et sécher entre deux feuilles de papier filtre ou à la chaleur sur platine chauffante.
 
 **Gram-standard " américain " ou Gram Hucker**
 
-### **1. Préparation des réactifs**
+### 1. Préparation des réactifs
 
-*   Violet-cristal oxalaté
+- Violet-cristal oxalaté
 
-_Solution A_ :
+*Solution A* :
 
 solution alcoolique saturée et filtrée de violet-cristal
 
@@ -299,7 +304,7 @@ solution alcoolique saturée et filtrée de violet-cristal
 
 Mélanger et dissoudre.
 
-_Solution B :_
+*Solution B :*
 
 - oxalate d'ammonium
 
@@ -309,8 +314,10 @@ _Solution B :_
 
 Mélanger 20 ml de solution A avec 80 ml de solution B.
 
-*   Solution de Lugol (_cf_. _supra)_
-*   Safranine
+- Solution de Lugol (*cf*. *supra)*
+- Safranine
+
+<!-- -->
 
 - solution alcoolique (alcool à 90°)
 
@@ -318,27 +325,41 @@ saturée et filtrée de safranine 20 ml
 
 - eau distillée 80 ml
 
-### **2. Technique de coloration**
+### 2. Technique de coloration
 
-*   Coloration par le violet :
+- Coloration par le violet :
+
+<!-- -->
 
 - Laisser la solution sur la lame pendant 1 minute.
 
 - Rincer à l'eau.
 
-*   Mordançage
+<!-- -->
+
+- Mordançage
+
+<!-- -->
 
 - Laisser le Lugol pendant 1 minute.
 
 - Rincer à l'eau.
 
-*   Décoloration
+<!-- -->
+
+- Décoloration
+
+<!-- -->
 
 - Laisser l'alcool pendant 30 secondes. Si la coloration reste violette, remettre de l'alcool pendant 30 secondes.
 
 - Rincer à l'eau.
 
-*   Recoloration
+<!-- -->
+
+- Recoloration
+
+<!-- -->
 
 - Laisser la safranine 30 à 40 secondes selon l'épaisseur du frottis.
 
@@ -366,47 +387,45 @@ Il faut cependant savoir que la coloration de Gram peut être variable pour une 
 
 Certaines bactéries sont même dites " Gram faible " ou " Gram variable " (ex. : corynébactéries).
 
-## **III. Description de la morphologie bactérienne après coloration**
+## III. Description de la morphologie bactérienne après coloration
 
 Selon la forme, on peut distinguer :
 
-*   Les cocci Gram positif
+- Les cocci Gram positif
 
 Ils peuvent être isolés ou regroupés :
 
 - diplocoques (ex. : pneumocoques " en flamme de bougie " ou entérocoques , en besace ")
 
-_(figure n°_ 9),
+*(figure n°* 9),
 
 - en chaînettes (streptocoques),
 
 - en tétrades (sarcine),
 
-- en amas ou " grappes de raisin" (staphylocoques) _(figure n° 10)._
+- en amas ou " grappes de raisin" (staphylocoques) *(figure n° 10).*
 
-*   Les bacilles Gram positif, de taille variable : petits, isolés ou regroupés en palissade comme les corynébactéries _(figure n° 11)_ ; ou plus grand : _Bacillus (figure_ _n° 12)_ ou Clostridium aux extrémités plus arrondies, parfois sporulés _(figure_ _n° 13)._
-*   Les cocci Gram négatif pouvant être regroupés en " grain de café " _(Neisseria,_ _figure n° 14)._
+<!-- -->
 
+- Les bacilles Gram positif, de taille variable : petits, isolés ou regroupés en palissade comme les corynébactéries *(figure n° 11)* ; ou plus grand : *Bacillus (figure* *n° 12)* ou Clostridium aux extrémités plus arrondies, parfois sporulés *(figure* *n° 13).*
+- Les cocci Gram négatif pouvant être regroupés en " grain de café " *(Neisseria,* *figure n° 14).*
 
 ![](i715-4.jpg)
 
-
-
 ![](i715-5.jpg)
 
+- Les bacilles Gram négatif avec un renforcement bipolaire de la coloration (entérobactéries, *figure n° 15),*
 
-*   Les bacilles Gram négatif avec un renforcement bipolaire de la coloration (entérobactéries, _figure n° 15),_
+ou assez fins *(Pseudomonas),*
 
-ou assez fins _(Pseudomonas),_
+ou encore bacilles plus petits (comme *Haemophilus* *ou Bacteroïdes) (figure* *n° 16).*
 
-ou encore bacilles plus petits (comme _Haemophilus_ _ou Bacteroïdes) (figure_ _n° 16)._
+Les bacilles peuvent être également incurvés (vibrion) ou très fins en forme de " moustache " ou " de vol d'oiseaux " (*Campylobacter) (figure n*° *17).*
 
-Les bacilles peuvent être également incurvés (vibrion) ou très fins en forme de " moustache " ou " de vol d'oiseaux " (_Campylobacter) (figure n_° _17)._
-
-### **Conclusion**
+### Conclusion
 
 Les colorations usuelles et en particulier la coloration de Gram constituent un élément essentiel en bactériologie, permettant d'orienter et/ou de confirmer un diagnostic, afin d'adapter au mieux un traitement efficace.
 
-(Schémas extraits du _Manuel des techniques_ _de base_ pour _le laboratoire médical,_ Organisation Mondiale de la Santé, Genève.)
+(Schémas extraits du *Manuel des techniques* *de base* pour *le laboratoire médical,* Organisation Mondiale de la Santé, Genève.)
 
-_Développement et Santé, n°127, février 1997_
+*Développement et Santé, n°127, février 1997*

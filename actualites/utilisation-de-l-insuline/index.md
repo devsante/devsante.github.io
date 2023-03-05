@@ -12,4 +12,4 @@ On est donc au cœur de la iatrogénie. Cette étude rappelle l'importance fonda
 Par Olivier Bismuth  
 Médecin généraliste
 
-_Réf. Prescrire, avril 2015, N° 378, p. 270_
+*Réf. Prescrire, avril 2015, N° 378, p. 270*

@@ -8,20 +8,18 @@ Le Service de Pédiatrie compte 98 lits. Sont hospitalisés et suivis tous les e
 
 Dans notre service, en Décembre 2004, 34 enfants vivant avec le VIH sont régulièrement suivis, parmi lesquels :
 
-*   15 enfants sous traitement anti-rétroviral,
-*   2 enfants en attente de traitement,
-*   17 enfants suivis biologiquement et cliniquement.
+- 15 enfants sous traitement anti-rétroviral,
+- 2 enfants en attente de traitement,
+- 17 enfants suivis biologiquement et cliniquement.
 
 Parmi ces 34 enfants, plus de la moitié ont perdu l'un de leurs parents ou les deux :
 
-*   13 sont orphelins de mère,
-*   8 orphelins de mère et de père,
-*   1 orphelin de père,
-*   12 ont leurs parents vivants.
-
+- 13 sont orphelins de mère,
+- 8 orphelins de mère et de père,
+- 1 orphelin de père,
+- 12 ont leurs parents vivants.
 
 ![](i1054-1.jpg)
-
 
 ## I. Conditions de vie des familles
 
@@ -43,12 +41,12 @@ L'assistante sociale reçoit les familles individuellement, sur demande du méde
 
 En effet, le suivi de l'enfant est grandement amélioré par une pratique régulière des visites à domicile. Celles-ci ont pour but de favoriser :
 
-*   l'éducation des parents afin qu'ils puissent mieux comprendre la maladie et accompagner leur enfant ;
-*   l'adhésion des parents à cette prise en charge multi-disciplinaire ;
-*   la compréhension des parents au sujet des règles d'hygiène et du suivi de la croissance des enfants ;
-*   l'encouragement au suivi médical régulier. Il s'agit d'inciter les parents à amener l'enfant à la consultation médicale dans le service pour les rendez-vous fixés ou au moindre signe d'alerte ;
-*   l'observance des traitements par les enfants ; l'établissement d'un climat de confiance entre les parents et les enfants ainsi que l'entourage (personnel médical - parents, amis) ;
-*   la lutte contre la précarité financière et matérielle par un programme d'aide associative au développement d'activités génératrices de revenus (AGR).
+- l'éducation des parents afin qu'ils puissent mieux comprendre la maladie et accompagner leur enfant ;
+- l'adhésion des parents à cette prise en charge multi-disciplinaire ;
+- la compréhension des parents au sujet des règles d'hygiène et du suivi de la croissance des enfants ;
+- l'encouragement au suivi médical régulier. Il s'agit d'inciter les parents à amener l'enfant à la consultation médicale dans le service pour les rendez-vous fixés ou au moindre signe d'alerte ;
+- l'observance des traitements par les enfants ; l'établissement d'un climat de confiance entre les parents et les enfants ainsi que l'entourage (personnel médical - parents, amis) ;
+- la lutte contre la précarité financière et matérielle par un programme d'aide associative au développement d'activités génératrices de revenus (AGR).
 
 Sur ce point, un pécule et un fond de roulement est alloué aux parents par l'Association l'Appel. Ceux-ci permettent de développer une activité de salage et séchage du poisson sous serre ou financent une formation à la couture et à la broderie dans un atelier-école associatif. Ces activités apportent des revenus modestes mais réguliers. Elles permettent aux familles de retrouver une certaine autonomie et de mieux faire face aux besoins de l'enfant.
 
@@ -58,17 +56,15 @@ Malgré le conseil pré et post test, il est encore difficile d'obtenir le conse
 
 ### 3. Suggestions
 
-*   Intensifier la vulgarisation de l'information sur l'infection à VIH/SIDA par les associations, les médias, le personnel médical.  
-*   Former la majorité du personnel aux techniques de counselling.  
-*   Promouvoir la lutte contre la précarité financière et matérielle par la création des activités génératrices de revenus (AGR) dans toutes les familles suivies.  
-*   Organiser les parents des enfants vivant avec le VIH en association pour leur permettre de s'exprimer, de partager leur expérience et aussi améliorer la prise en charge globale de leur enfant.
+- Intensifier la vulgarisation de l'information sur l'infection à VIH/SIDA par les associations, les médias, le personnel médical.
+- Former la majorité du personnel aux techniques de counselling.
+- Promouvoir la lutte contre la précarité financière et matérielle par la création des activités génératrices de revenus (AGR) dans toutes les familles suivies.
+- Organiser les parents des enfants vivant avec le VIH en association pour leur permettre de s'exprimer, de partager leur expérience et aussi améliorer la prise en charge globale de leur enfant.
 
 ## II. Conclusion
 
 Si le budget de cette prise en charge sociale et la gratuité du suivi et du traitement ont pu être jusque-là assurée aux parents par le soutien associatif et la réduction des coûts des ARV, il reste encore beaucoup de frais à la charge des familles. Les mères seules ou conjointes d'un homme malade, incapable de travailler, sont les plus vulnérables car elles peuvent difficilement se soigner elles-mêmes et garder les forces pour faire face aux problèmes de tous ordres qui se posent à elles : rejet, exclusion, pauvreté, santé et éducation de leurs enfants, faible niveau d'instruction et de compétences professionnelles, etc... Les enfants et surtout les orphelins accueillis par des tuteurs intra ou extra-familiaux sont parfois privés de scolarisation, à cause des frais d'écolage trop élevés. Enfin, le financement associatif est très dépendant de bailleurs de fonds qui ne sont pas tous encore persuadés de la nécessité d'une prise en charge globale des enfants atteints de maladies telles que l'infection à VIH/SIDA. La pérennité des actions sociales en faveur des enfants atteints et des orphelins est donc fragile, alors qu'elle a des conséquences directes sur leur survie, leur qualité de vie, et surtout la qualité de l'observance aux ARV, seule garante de leur efficacité, à court et à long terme.
 
-
 ![](i1054-2.jpg)
 
-
-_Développement et Santé, n°173, octobre 2004_
+*Développement et Santé, n°173, octobre 2004*

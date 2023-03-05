@@ -20,18 +20,18 @@ Un examen soigneux vous permettra de :</p>
 
 L'interrogatoire doit préciser :
 
-### **1. Existe-t-il des douleurs ?**
+### 1. Existe-t-il des douleurs ?
 
-*   une gêne, _des grains de sable_ orientent vers la **conjonctive,**
-*   des douleurs majorées par le clignement et/ou la lumière (photophobie) orientent vers la **cornée,**
-*   des _douleurs péri orbitaires_ et/ou des _céphalées_ orientent vers des **lésions plus** **profondes** (uvéite, hypertonie).
+- une gêne, *des grains de sable* orientent vers la **conjonctive,**
+- des douleurs majorées par le clignement et/ou la lumière (photophobie) orientent vers la **cornée,**
+- des *douleurs péri orbitaires* et/ou des *céphalées* orientent vers des **lésions plus** **profondes** (uvéite, hypertonie).
 
-### **2. Existe-t-il une baisse d'acuité** **visuelle de loin ?**
+### 2. Existe-t-il une baisse d'acuité visuelle de loin ?
 
-*   une diminution de l'acuité visuelle,
-*   une vision anormale (halos colorés) sont des **signes de gravité.**
+- une diminution de l'acuité visuelle,
+- une vision anormale (halos colorés) sont des **signes de gravité.**
 
-### **3. Existe-t-il des sécrétions et** **depuis quand ?**
+### 3. Existe-t-il des sécrétions et depuis quand ?
 
 Le sécrétions signent une surinfection.
 
@@ -55,9 +55,9 @@ Attention : une surinfection peut compliquer une lésion profonde.
 
 L'examen précise :
 
-a. La mesure de l'acuité visuelle si possible toujours comparer avec l'œil sain.
+a\. La mesure de l'acuité visuelle si possible toujours comparer avec l'œil sain.
 
-b. L'examen sera méthodique et soigneux, après nettoyage des sécrétions si besoin.
+b\. L'examen sera méthodique et soigneux, après nettoyage des sécrétions si besoin.
 
 <table>
 
@@ -81,18 +81,16 @@ Souvenez-vous des cinq règles de l'examen normal :
 
 Ces règles vous permettront de reconnaître les critères de gravité :
 
-*   Les paupières ne se ferment pas totalement (lagophtalmie).  
-*   Les cils frottent sur la cornée (trichiasis).  
-*   La rougeur est limbique (cercle périkératique).  
-*   La cornée est blanche.  
-*   La pupille est blanche,
-    *   et/ou irrégulière,
-    *   et/ou petite (myosis),
-    *   et/ou élargie (mydriase).
-
+- Les paupières ne se ferment pas totalement (lagophtalmie).
+- Les cils frottent sur la cornée (trichiasis).
+- La rougeur est limbique (cercle périkératique).
+- La cornée est blanche.
+- La pupille est blanche,
+  - et/ou irrégulière,
+  - et/ou petite (myosis),
+  - et/ou élargie (mydriase).
 
 ![](i575-1.jpg)
-
 
 <table>
 
@@ -110,25 +108,25 @@ Ces règles vous permettront de reconnaître les critères de gravité :
 
 Au terme de votre examen vous pourrez :
 
-*   Faire le diagnostic du siège de la lésion.  
-*   Traiter sur place
-    *   les atteintes de la conjonctive,
-    *   les atteintes superficielles de la cornée.  
-*   Mettre en route un traitement sur place
-    *   en assurer la surveillance régulière,
-    *   référer en l'absence d'amélioration.  
-*   Référer les autres cas en précisant les critères de gravité.
+- Faire le diagnostic du siège de la lésion.
+- Traiter sur place
+  - les atteintes de la conjonctive,
+  - les atteintes superficielles de la cornée.
+- Mettre en route un traitement sur place
+  - en assurer la surveillance régulière,
+  - référer en l'absence d'amélioration.
+- Référer les autres cas en précisant les critères de gravité.
 
-## I. L'oeil rouge **non douloureux**
+## I. L'oeil rouge non douloureux
 
 ### 1. L'hémorragie sous-conjonctivale
 
 C'est une tache de sang survenue spontanément, souvent remarquée par l'entourage car indolore :
 
-*   elle n'a aucun critère de gravité
-*   elle disparaîtra en huit à quinze jours
-*   elle ne nécessite aucun traitement ;
-*   elle doit faire rechercher une cause générale : hypertension artérielle, troubles de la coagulation, prise d'aspirine, effort de toux, accouchement...
+- elle n'a aucun critère de gravité
+- elle disparaîtra en huit à quinze jours
+- elle ne nécessite aucun traitement ;
+- elle doit faire rechercher une cause générale : hypertension artérielle, troubles de la coagulation, prise d'aspirine, effort de toux, accouchement...
 
 ### 2. Les conjonctivites
 
@@ -158,51 +156,49 @@ Ce sont des conjonctivites bactériennes ou virales qui se surinfectent très so
 
 L'examen peut être rendu difficile par l'oedème palpébral :
 
-*   commencer par nettoyer l'oeil en décollant les cils,
-*   vous devez impérativement voir la comée et la pupille : utiliser au besoin des écarteurs à paupières,
-*   regardez les cils,
-*   retournez la paupière supérieure à la recherche d'un corps étranger passé inaperçu, de follicules trachomateux.
-
-###   
+- commencer par nettoyer l'oeil en décollant les cils,
+- vous devez impérativement voir la comée et la pupille : utiliser au besoin des écarteurs à paupières,
+- regardez les cils,
+- retournez la paupière supérieure à la recherche d'un corps étranger passé inaperçu, de follicules trachomateux.
 
 ![](i575-2.jpg)
-  
 
 ### 3. Conduite à tenir
 
 #### a. Il s'agit d'une conjonctivite purulente non compliquée quel que soit l'âge du malade
 
-*   Expliquer et montrer comment nettoyer l'oeil **avant chaque traitement :**
-    *   avec une eau propre, sans savon,
-    *   avec la main propre : c'est l'idéal car elle pourra être relavée.  
-*   **Traiter** avec un collyre ou une pommade antibiotique quatre fois par jour pendant huit jours.
-
+- Expliquer et montrer comment nettoyer l'oeil **avant chaque traitement :**
+  - avec une eau propre, sans savon,
+  - avec la main propre : c'est l'idéal car elle pourra être relavée.
+- **Traiter** avec un collyre ou une pommade antibiotique quatre fois par jour pendant huit jours.
 
 ![](i575-3.jpg)
 
-
-*   **Expliquer les mesures préventives**
-    *   se laver les mains après chaque traitement,
-    *   utiliser des linges de toilette séparés.
+- **Expliquer les mesures préventives**
+  - se laver les mains après chaque traitement,
+  - utiliser des linges de toilette séparés.
 
 #### b. Il existe des signes de trachome
 
-*   **Expliquer** au malade ou à l'accompagnant que :
-    *   la maladie se cache sous la paupière,
-    *   elle est très contagieuse,
-    *   le traitement est long,
-    *   les rechutes sont fréquentes.
+- **Expliquer** au malade ou à l'accompagnant que :
 
-*   **Traiter localement** avec une pommade à base de **tétracycline à  
-    1 %** (pommade Auréomicine 1 %) :
-    *   4 fois par jour pendant huit jours,
-    *   1 fois par jour pendant deux mois quand l'oeil est propre.
+  - la maladie se cache sous la paupière,
+  - elle est très contagieuse,
+  - le traitement est long,
+  - les rechutes sont fréquentes.
 
-*   **Convoquer et examiner toute la** **famille** qui vit avec le malade : traiter si besoin tous les malades de la même façon.
+- **Traiter localement** avec une pommade à base de **tétracycline à  
+  1 %** (pommade Auréomicine 1 %) :
 
-*   **Donner les conseils d'hygiène :**
-    *   du corps : lavage du visage et des mains,
-    *   de l'environnement : mesures antimouches (ramasser les ordures, les brûler ou les enfouir, latrines fermées, animaux à distance).
+  - 4 fois par jour pendant huit jours,
+  - 1 fois par jour pendant deux mois quand l'oeil est propre.
+
+- **Convoquer et examiner toute la** **famille** qui vit avec le malade : traiter si besoin tous les malades de la même façon.
+
+- **Donner les conseils d'hygiène :**
+
+  - du corps : lavage du visage et des mains,
+  - de l'environnement : mesures antimouches (ramasser les ordures, les brûler ou les enfouir, latrines fermées, animaux à distance).
 
 #### c. Cas particulier du nouveau-né (premier mois de la vie)
 
@@ -223,23 +219,21 @@ Si la conjonctivite survient après le septième jour, si les sécrétions et l'
 
 **La douleur est majorée par la** **lumière et/ou le clignement des paupières** (le malade se présente souvent avec l'oeil fermé).
 
-
 ![](i575-4.jpg)
-
 
 Il faut examiner soigneusement l'oeil avec une lumière douce et latérale, en procédant avec douceur.
 
 Vous voyez un **cercle périkératique** complet ou localisé :
 
-*   la cornée a perdu sa transparence,
-*   la pupille est noire et ronde.
+- la cornée a perdu sa transparence,
+- la pupille est noire et ronde.
 
 **Regardez les paupières :** elles s'ouvrent et se ferment totalement.
 
 **Retournez la paupière supérieure** àla recherche :
 
-*   d'un corps étranger sous palpébral enlevez-le doucement avec le doigt en le faisant glisser vers la marge ciliaire,
-*   de signes de trachome.
+- d'un corps étranger sous palpébral enlevez-le doucement avec le doigt en le faisant glisser vers la marge ciliaire,
+- de signes de trachome.
 
 ### 2. Conduite à tenir
 
@@ -269,24 +263,22 @@ Toujours vérifier la composition du collyre ou de la pommade que vous prescrive
 
 **Mettre un pansement oculaire**
 
-*   But du pansement : maintenir les paupières fermées.  
-*   Danger du pansement : le pansement frotte sur la cornée et aggrave les lésions. Chez l'enfant, il doit être laissé le moins longtemps possible entravant le passage de lumière, il peut être source d'amblyopie séquellaire (baisse de vision).
+- But du pansement : maintenir les paupières fermées.
+- Danger du pansement : le pansement frotte sur la cornée et aggrave les lésions. Chez l'enfant, il doit être laissé le moins longtemps possible entravant le passage de lumière, il peut être source d'amblyopie séquellaire (baisse de vision).
 
 **Comment fabriquer un pansement** **oculaire :**
 
-*   rondelle oculaire : tailler une rondelle de coton de six centimètres de diamètre et la placer entre deux rondelles de gaze de même diamètre,
-*   ou utiliser une compresse pliée en deux recouverte par une compresse carrée (6 cm de côté).
+- rondelle oculaire : tailler une rondelle de coton de six centimètres de diamètre et la placer entre deux rondelles de gaze de même diamètre,
+- ou utiliser une compresse pliée en deux recouverte par une compresse carrée (6 cm de côté).
 
 **Comment placer le pansement sur** **l'oeil :**
 
-*   demander au malade de fermer les deux yeux,
-*   placer la rondelle (ou la compresse pliée) sur l'oeil,
-*   mettre les sparadrap,
-*   demander au malade d'ouvrir les yeux l'oeil sous le pansement doit rester fermé. Dans le cas contraire, recommencer depuis le début.
-
+- demander au malade de fermer les deux yeux,
+- placer la rondelle (ou la compresse pliée) sur l'oeil,
+- mettre les sparadrap,
+- demander au malade d'ouvrir les yeux l'oeil sous le pansement doit rester fermé. Dans le cas contraire, recommencer depuis le début.
 
 ![](i575-5.jpg)
-
 
 **Vous devez revoir le malade**
 
@@ -298,37 +290,31 @@ Le **cercle périkératique**, souvent brunâtre, s'accompagne de petites taches
 
 Il s'agit d'une conjonctivite " allergique "
 
-*   rechercher un trachome chez le malade et dans sa famille ,
-*   la pommade auréomycine 1 % sera prescrite matin et soir pendant un mois,
-*   en l'absence d'amélioration ou en cas d'altération de la vision, il faudra référer le malade au spécialiste.
-
+- rechercher un trachome chez le malade et dans sa famille ,
+- la pommade auréomycine 1 % sera prescrite matin et soir pendant un mois,
+- en l'absence d'amélioration ou en cas d'altération de la vision, il faudra référer le malade au spécialiste.
 
 ![](i575-6.jpg)
 
-
 Le **ptérygion inflammatoire :** c'est une prolifération conionctivale qui, de l'angle interne de l'oeil, se dirige vers le limbe. Transférer au spécialiste si
 
-*   l'acuité visuelle diminue,
-*   le traitement par antibiotique est inefficace.
-
+- l'acuité visuelle diminue,
+- le traitement par antibiotique est inefficace.
 
 ![](i575-7.jpg)
 
-
 **Des cils frottent sur la cornée : il** **s'agit d'un trachome (trichiasis) :**
 
-*   procéder comme il a été indiqué au paragraphe " conjonctivites ",
-*   référer le malade au spécialiste pour **traitement chirurgical du trîchiasis : prévenir le malade qu'il est en danger de** **devenir aveugle en l'absence de ce** **traitement,**
-*   jamais de pansement qui augmenterait la pression des cils sur la cornée.
+- procéder comme il a été indiqué au paragraphe " conjonctivites ",
+- référer le malade au spécialiste pour **traitement chirurgical du trîchiasis : prévenir le malade qu'il est en danger de** **devenir aveugle en l'absence de ce** **traitement,**
+- jamais de pansement qui augmenterait la pression des cils sur la cornée.
 
 La paupière ne se ferme pas totalement on parle de **lagophtalmie soit par paralysie faciale, soit par ectropion** **post-traumatique :**
 
-*   ne jamais mettre de pansement oculaire qui frottera directement sur la cornée,
-*   fabriquer une coque et la fixer.
-
+- ne jamais mettre de pansement oculaire qui frottera directement sur la cornée,
+- fabriquer une coque et la fixer.
 
 ![](i575-8.jpg)
-
 
 <table>
 
@@ -350,43 +336,39 @@ Attention : le lépreux qui a une paralysie faciale abîmera sa cornée sans sou
 
 **Chez l'enfant de zéro à six ans,** penser à une avitaminose A surtout s'il est malnutri, s'il a la rougeole,
 
-*   prescrire une antibiothérapie locale,
-*   éviter le pansement (l'enfant ferme spontanément l'oeil s'il souffre),
-*   prescrire vitamine A 200 000 Ul aux jours J1, J2, J15, 1/2 capsule de six mois à un an (ou poids inférieur à 8 kg), 1 capsule au-delà de un an (ou poids supérieur à 8 kg),
-*   traiter la maladie générale.
+- prescrire une antibiothérapie locale,
+- éviter le pansement (l'enfant ferme spontanément l'oeil s'il souffre),
+- prescrire vitamine A 200 000 Ul aux jours J1, J2, J15, 1/2 capsule de six mois à un an (ou poids inférieur à 8 kg), 1 capsule au-delà de un an (ou poids supérieur à 8 kg),
+- traiter la maladie générale.
 
-### **4. Cas où vous devez référer rapidement**
+### 4. Cas où vous devez référer rapidement
 
-#### Vous ne voyez pas la pupille :
+#### Vous ne voyez pas la pupille
 
 L'atteinte cornéenne est profonde : traitement antibiotique, pansement oculaire, référer au spécialiste.
 
-#### La pupille est en myosis ou irrégulière :
+#### La pupille est en myosis ou irrégulière
 
-*   le malade se plaint parfois de douleurs péri-orbitaires ou de céphalées,
-*   le cercle périkératique est très prononcé,
-*   la cornée peut être normale,
-*   l'iris peut être masqué par un " niveau " blanc : c'est un hypopion (pus),
+- le malade se plaint parfois de douleurs péri-orbitaires ou de céphalées,
+- le cercle périkératique est très prononcé,
+- la cornée peut être normale,
+- l'iris peut être masqué par un " niveau " blanc : c'est un hypopion (pus),
 
 **il s'agit d'une uvéite :** référer au spécialiste.
 
-
 ![](i575-9.jpg)
 
+#### La pupille est en mydriase
 
-#### La pupille est en mydriase :
-
-*   la douleur est très intense et s'accompagne parfois de vomissements,
-*   la vision est abaissée,
-*   le cercle périkératique est violacé,
-*   la cornée est trouble,
-*   la pupille peut être blanche,
+- la douleur est très intense et s'accompagne parfois de vomissements,
+- la vision est abaissée,
+- le cercle périkératique est violacé,
+- la cornée est trouble,
+- la pupille peut être blanche,
 
 **il s'agit d'une hypertonie (glaucome** **aigu) :** référer le plus vite possible au spécialiste. Si vous avez du Diamox, donner 1 cp 3 fois par jour.
 
-
 ![](i575-10.jpg)
-
 
 ## III. Conclusion
 
@@ -398,25 +380,25 @@ Devant tout oeil rouge :
 
 Mais rappelez-vous que :
 
-*   une atteinte de la cornée met en jeu le pronostic visuel ;
-*   une atteinte cornéenne qui ne guérit pas après 48 heures de traitement correct doit être référée ;
-*   les sécrétions sont le signe d'une infection. Elles sont très contagieuses ;
-*   une conjonctivite peut compliquer une atteinte plus profonde ;
-*   en pays d'endémie trachomateuse, le trachome doit être recherché devant toute conjonctivite purulente chez le malade et sa famille ;
-*   en pays sahélien, l'avitaminose A doit être suspectée chez tous les enfants de 0 à 6 ans. La rougeole et la malnutrition augmentent le risque d'atteinte cornéenne ;
-*   vous ne devez utiliser que des collyres ou des pommades antibiotiques.
+- une atteinte de la cornée met en jeu le pronostic visuel ;
+- une atteinte cornéenne qui ne guérit pas après 48 heures de traitement correct doit être référée ;
+- les sécrétions sont le signe d'une infection. Elles sont très contagieuses ;
+- une conjonctivite peut compliquer une atteinte plus profonde ;
+- en pays d'endémie trachomateuse, le trachome doit être recherché devant toute conjonctivite purulente chez le malade et sa famille ;
+- en pays sahélien, l'avitaminose A doit être suspectée chez tous les enfants de 0 à 6 ans. La rougeole et la malnutrition augmentent le risque d'atteinte cornéenne ;
+- vous ne devez utiliser que des collyres ou des pommades antibiotiques.
 
 **Les cyclines sont l'antibiotique de** **choix** car elles sont actives sur le trachome, le gonocoque et les germes les plus fréquents. Elles sont d'un prix abordable.
 
-*   Vérifier toujours la composition des produits que vous prescrivez.
+- Vérifier toujours la composition des produits que vous prescrivez.
 
 **N'utilisez jamais de corticoïde.**
 
-*   Le pansement est une prescription médicale :
-    *   il doit être correctement mis,
-    *   il doit être propre,
-    *   il doit être surveillé.  
-    *   les paupières sont le pansement idéal.
+- Le pansement est une prescription médicale :
+  - il doit être correctement mis,
+  - il doit être propre,
+  - il doit être surveillé.
+  - les paupières sont le pansement idéal.
 
 **Jamais de pansement chez l'enfant** **sans avis du spécialiste.**
 
@@ -428,7 +410,7 @@ Mais rappelez-vous que :
 
 <th scope="col" style="width: 280px;">
 
-Signes d'examen  
+Signes d'examen
 
 </th>
 
@@ -437,13 +419,13 @@ Signes d'examen
 <th scope="col">
 
 Atteinte  
-de l'iris  
+de l'iris
 
 </th>
 
 <th scope="col">
 
-Hypertonie  
+Hypertonie
 
 </th>
 
@@ -545,7 +527,7 @@ Non
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -571,4 +553,4 @@ Les lésions entraînent, avec les années, une perte de la vision d'où la néc
 
 </table>
 
-_Développement et Santé, n° 107, octobre 1993_
+*Développement et Santé, n° 107, octobre 1993*

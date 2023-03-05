@@ -12,24 +12,24 @@ On sait aussi que la crise vaso-occlusive favorise l'infection locale du fait de
 
 S'il est certain que le drépanocytaire fait souvent des infections parfois très graves, voire foudroyantes, et ceci dès l'age de 2 mois et jusqu'à la fin de sa vie, cette susceptibilité aux infections est mal expliquée.
 
-*   **L'asplénisme fonctionnel** : la rate véritable filtre à microbes fonctionne mal dès la naissance ; ensuite ces fonctions se dégradent car les thromboses itératives de ses vaisseaux aboutissent à une véritable atrophie de celle-ci. On comprend qu'en cas de bactériémie (nous avons tous des bactériémies heureusement transitoires), celle-ci devient souvent une septicémie puisque le filtre splénique ne fonctionne pas.  
-*   **Altération de la voie du complément** : le complément est un ensemble de protéines stimulant "en urgence" nos globules blancs qui vont se précipiter pour phagocyter les germes intrus, permettant à notre système immunitaire de synthétiser des anticorps en quelques jours. Chez le drépanocytaire le système est défaillant ce qui est surtout grave chez le jeune qui n'a pas encore eu le temps de faire des anticorps.  
-*   **Nécroses intestinales source de brèches** : les crises vaso-occlusives intestinales provoquent de minimes nécroses de la muqueuse intestinale expliquant le passage sanguin de bactéries souvent présentes dans le tube digestif (ceci explique la relative fréquence des bactériémies à salmonelles).  
-*   **Crises vaso-occlusives causes de stase sanguine donc d'infection** : c'est probablement ce qui se passe dans les poumons et dans l'os. Par contre, le drépanocytaire synthétise normalement des anticorps après vaccination et ses lymphocytes T (défaillants dans l'infection à VIH) sont ici normaux : ceci explique pourquoi l'adulte qui s'est immunisé contre de nombreux germes fait beaucoup moins d'infections.
+- **L'asplénisme fonctionnel** : la rate véritable filtre à microbes fonctionne mal dès la naissance ; ensuite ces fonctions se dégradent car les thromboses itératives de ses vaisseaux aboutissent à une véritable atrophie de celle-ci. On comprend qu'en cas de bactériémie (nous avons tous des bactériémies heureusement transitoires), celle-ci devient souvent une septicémie puisque le filtre splénique ne fonctionne pas.
+- **Altération de la voie du complément** : le complément est un ensemble de protéines stimulant "en urgence" nos globules blancs qui vont se précipiter pour phagocyter les germes intrus, permettant à notre système immunitaire de synthétiser des anticorps en quelques jours. Chez le drépanocytaire le système est défaillant ce qui est surtout grave chez le jeune qui n'a pas encore eu le temps de faire des anticorps.
+- **Nécroses intestinales source de brèches** : les crises vaso-occlusives intestinales provoquent de minimes nécroses de la muqueuse intestinale expliquant le passage sanguin de bactéries souvent présentes dans le tube digestif (ceci explique la relative fréquence des bactériémies à salmonelles).
+- **Crises vaso-occlusives causes de stase sanguine donc d'infection** : c'est probablement ce qui se passe dans les poumons et dans l'os. Par contre, le drépanocytaire synthétise normalement des anticorps après vaccination et ses lymphocytes T (défaillants dans l'infection à VIH) sont ici normaux : ceci explique pourquoi l'adulte qui s'est immunisé contre de nombreux germes fait beaucoup moins d'infections.
 
 ## II. Germes en cause
 
-### 1. Le pneumocoque (_Streptococcus pneumoniae_)
+### 1. Le pneumocoque (*Streptococcus pneumoniae*)
 
 est responsable, chez le sujet normal d'infections graves aux âges extrêmes de la vie : méningites, pneumonies, septicémie avant 2 ans, pneumonies après 65 ans. Chez le drépanocytaire de moins de 5 ans le risque de méningite et de septicémie est élevé et la mortalité de l'ordre de 25 % : c'est dire si la priorité doit être la prévention de l'infection pneumococcique par la Pénicilline V et la vaccination.
 
-### 2. L'_Haemophilus influenzae b_
+### 2. L'*Haemophilus influenzae b*
 
 Autre responsable de méningites et de pneumonies avant 5 ans, il est aussi plus fréquent chez le drépanocytaire : nous avons ici la chance de disposer d'un vaccin protégeant à près de 100 % contre ce germe redoutable.
 
 ### 3. Les salmonelles
 
-Il s'agit rarement de la typhoïde mais des bacilles para typhi (_S. enteritidis_) le vaccin antityphoïdique n'a donc pas d'indication particulière chez le drépanocytaire ; par contre, ce vaccin est utile pour tous du fait de la forte incidence de la typhoïde en Afrique : l'hygiène de l'eau de boisson est une **priorité**.
+Il s'agit rarement de la typhoïde mais des bacilles para typhi (*S. enteritidis*) le vaccin antityphoïdique n'a donc pas d'indication particulière chez le drépanocytaire ; par contre, ce vaccin est utile pour tous du fait de la forte incidence de la typhoïde en Afrique : l'hygiène de l'eau de boisson est une **priorité**.
 
 ### 4. Le paludisme
 
@@ -45,7 +45,7 @@ Sévissant dans le monde entier, il a été montré que la grippe entrainait des
 
 ### 7. Le rotavirus
 
-Grand responsable de diarrhées graves chez tous les enfants, il peut provoquer chez le drépanocytaire une déshydratation déclenchant une crise. Il faut donc hydrater constamment et réhydrater le plus tôt possible en cas de diarrhée (un vaccin arrive !!). Nous ne parlerons pas du **parvovirus B 19** et du _Mycoplasma pneumoniae_ aussi fréquents chez l'enfant drépanocytaire car il n'existe pour l'instant pas de prévention.
+Grand responsable de diarrhées graves chez tous les enfants, il peut provoquer chez le drépanocytaire une déshydratation déclenchant une crise. Il faut donc hydrater constamment et réhydrater le plus tôt possible en cas de diarrhée (un vaccin arrive !!). Nous ne parlerons pas du **parvovirus B 19** et du *Mycoplasma pneumoniae* aussi fréquents chez l'enfant drépanocytaire car il n'existe pour l'instant pas de prévention.
 
 ### 8. Autres germes
 
@@ -63,7 +63,7 @@ Rien ne vaut la PénicillineV donnée à la dose de 50 000 Unités/kg en 2 prise
 
 Le vaccin anti-pneumococcique à 23 valences n'est pleinement efficace qu'après 2 ans : certains le proposent dès 9 mois avec un rappel tous les 3 ans : il ne dispense en aucun cas du traitement préventif par la PénicillineV. L'arrivée d'un vaccin anti-pneumococcique à 7 puis 13 valences (PREVENAR) conjugué à une protéine a l'immense avantage de protéger dès les premières semaines de la vie et d'entraîner une production plus élevée d'anticorps. On peut espérer que ce vaccin contenant les 13 sérotypes penumococciques les plus virulents induira une protection très élevée contre les redoutables méningites et septicémies, si fréquentes chez le drépanocytaire.
 
-### 3. Vaccin anti-_haemophilus_
+### 3. Vaccin anti-*haemophilus*
 
 Heureusement proposé à tous les enfants béninois de moins de 2 ans, il devra être effectué en priorité dès le deuxième mois chez le drépanocytaire.
 
@@ -221,4 +221,4 @@ Les vaccins contre le méningocoque, A-C ou mieux ACW135Y sont recommandés apr�
 
 **Règle d'or : apprendre aux parents à surveiller la température de leur enfant et à consulter pour toute fièvre > 38,5° C.**
 
-_Développement et Santé, n°182, 2006_
+*Développement et Santé, n°182, 2006*

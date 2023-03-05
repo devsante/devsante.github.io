@@ -6,11 +6,11 @@ date: "2014-03-15"
 
 ## I. Accueillir le patient douloureux
 
-L’appellation _douleurs rebelles_ a une compréhension immédiate : situation clinique dominée par une douleur difficile à calmer, qui ne cède pas, qui résiste, qui revient sans cesse.  
+L’appellation *douleurs rebelles* a une compréhension immédiate : situation clinique dominée par une douleur difficile à calmer, qui ne cède pas, qui résiste, qui revient sans cesse.  
 Les premiers termes de la définition de la douleur : « Expérience sensorielle et émotionnelle…» indiquent que celle-ci ne saurait être réduite à une composante physique défectueuse.  
 Le soignant, essaie de réaliser une synthèse diagnostique à partir des éléments cliniques et paracliniques.
 
-Les possibilités antalgiques dont il dispose sont codifiées dans leur utilisation. La prescription est une réflexion éthique argumentant l’engagement ou le retrait de telle ou telle thérapeutique. Car la _douleur rebelle_ conduit à la réalisation d’examens divers et d’ordonnances surchargées voulant la réduire _par le tout chimique._
+Les possibilités antalgiques dont il dispose sont codifiées dans leur utilisation. La prescription est une réflexion éthique argumentant l’engagement ou le retrait de telle ou telle thérapeutique. Car la *douleur rebelle* conduit à la réalisation d’examens divers et d’ordonnances surchargées voulant la réduire *par le tout chimique.*
 
 Le clinicien doit faire part d’une écoute exigeante, qui prend en compte les démarches antérieures, en cherchant à percevoir dans le discours de la souffrance des indices précieux pour le diagnostic et le traitement.  
 Cette écoute, suivie d’un examen clinique orienté mais complet, autorise le clinicien à envisager avec simplicité les différentes possibilités à même d’expliquer le caractère rebelle d’une situation douloureuse.
@@ -19,15 +19,15 @@ Cette écoute, suivie d’un examen clinique orienté mais complet, autorise le 
 
 Il convient de reprendre patiemment tous les éléments de la démarche diagnostique.
 
-*   Le mécanisme : existe-t-il une composante neurogène, vasculaire ou sympathique qui a été méconnue jusqu’alors, associée à la douleur de nociception ?
-*   La topographie lésionnelle : décalage des irradiations douloureuses (ex. douleurs du genou et arthrose de hanche), projection cutanée des douleurs viscérales.  
-*   L’étiologie : toute douleur chez un cancéreux n’est pas nécessairement d’origine tumorale.
+- Le mécanisme : existe-t-il une composante neurogène, vasculaire ou sympathique qui a été méconnue jusqu’alors, associée à la douleur de nociception ?
+- La topographie lésionnelle : décalage des irradiations douloureuses (ex. douleurs du genou et arthrose de hanche), projection cutanée des douleurs viscérales.
+- L’étiologie : toute douleur chez un cancéreux n’est pas nécessairement d’origine tumorale.
 
 Voici quelques exemples :
 
-*   La douleur chez un amputé du membre inférieur peut être autre qu’une algohallucinose (douleurs dans le membre fantôme) : lombo-sciatique, arthrose de hanche ou du genou...  
-*   Des douleurs fessières chez un diabétique ayant un passé de lombo-sciatique peuvent être en réalité dues à une artérite.  
-*   Une recrudescence de douleurs lombaires et pelviennes chez un patient cancéreux alité sous morphine pour métastases rachidiennes, peuvent correspondre non pas à une évolution tumorale, mais à un globe vésical, personne n’ayant songé à examiner l’abdomen.
+- La douleur chez un amputé du membre inférieur peut être autre qu’une algohallucinose (douleurs dans le membre fantôme) : lombo-sciatique, arthrose de hanche ou du genou...
+- Des douleurs fessières chez un diabétique ayant un passé de lombo-sciatique peuvent être en réalité dues à une artérite.
+- Une recrudescence de douleurs lombaires et pelviennes chez un patient cancéreux alité sous morphine pour métastases rachidiennes, peuvent correspondre non pas à une évolution tumorale, mais à un globe vésical, personne n’ayant songé à examiner l’abdomen.
 
 ## III. Deuxième possibilité : le traitement n’est pas adapté
 
@@ -35,10 +35,10 @@ Chaque prescription est une négociation visant à proposer le traitement le plu
 
 ### 1. Les nombreuses anomalies à éviter
 
-*   Prescription de deux médicaments similaires : deux opiacés faibles identiques, deux voire trois antiépileptiques.  
-*   Confusion entre anxiolytiques et antidépresseurs.  
-*   Non adaptation des prises en fonction de l’activité ou de la non activité : travailleurs de nuit, chronobiologie, doses de secours contre les douleurs cancéreuses intercurrentes (mobilisation, soins).  
-*   Ordonnance mal suivie pour différentes raisons : peur de s’habituer au antalgiques, influence de ce que dit la famille/amis/médias, refus d’être sous la dépendance d’un produit, difficultés physiques (vue, handicap), financières, renoncement partiel aux soins en situation de précarité.
+- Prescription de deux médicaments similaires : deux opiacés faibles identiques, deux voire trois antiépileptiques.
+- Confusion entre anxiolytiques et antidépresseurs.
+- Non adaptation des prises en fonction de l’activité ou de la non activité : travailleurs de nuit, chronobiologie, doses de secours contre les douleurs cancéreuses intercurrentes (mobilisation, soins).
+- Ordonnance mal suivie pour différentes raisons : peur de s’habituer au antalgiques, influence de ce que dit la famille/amis/médias, refus d’être sous la dépendance d’un produit, difficultés physiques (vue, handicap), financières, renoncement partiel aux soins en situation de précarité.
 
 ### 2.  Non ou sous-utilisation des traitements à visée spécifique et des co-analgésiques
 
@@ -48,11 +48,11 @@ Par exemple : l’hydratation en cas de crise drépanocytaire.
 ### 3. Les techniques invasives
 
 Les techniques invasives (morphine intrathécale, blocs anesthésiques, neurostimulation médullaire…) sont à discuter avec des praticiens expérimentés, en fonction de la faisabilité et du suivi.  
-Toute décision d’acte invasif doit être argumentée en collégialité. On se gardera ainsi par exemple de chirurgie de réinterventions rachidiennes pour une possible récidive de hernie discale. Rappelons qu’une racine nerveuse ou un nerf qui a souffert génère longtemps des douleurs_,_ même après levée d’une compression.
+Toute décision d’acte invasif doit être argumentée en collégialité. On se gardera ainsi par exemple de chirurgie de réinterventions rachidiennes pour une possible récidive de hernie discale. Rappelons qu’une racine nerveuse ou un nerf qui a souffert génère longtemps des douleurs\_,\_ même après levée d’une compression.
 
 ## IV. Prendre en compte la globalité de la situation douloureuse
 
-Dans le cadre de la cancérologie, la douleur nourrit l’inquiétude, détruit l’espoir, rend difficile l’acceptation des traitements spécifiques antitumoraux, jusqu’à réduire le patient à être un souffre douleur. C’est la _douleur maladie_, si délétère, associée à d’autres symptômes épuisants tels la dyspnée, l’anorexie et l’amaigrissement.
+Dans le cadre de la cancérologie, la douleur nourrit l’inquiétude, détruit l’espoir, rend difficile l’acceptation des traitements spécifiques antitumoraux, jusqu’à réduire le patient à être un souffre douleur. C’est la *douleur maladie*, si délétère, associée à d’autres symptômes épuisants tels la dyspnée, l’anorexie et l’amaigrissement.
 
 Les douleurs chroniques entraînent bien souvent repli sur soi et dépression. Un dépistage simple des traits dépressifs doit être associé à l’évaluation de la douleur par échelle numérique ou échelle visuelle analogique.  
 Il ne faut pas négliger les bénéfices secondaires (l’adjectif n’est pas ici employé dans un sens suspicieux) que confère une situation douloureuse chronique rebelle : non pas tellement financiers, que la reconnaissance d’un statut de victime de la maladie ou d’un accident.

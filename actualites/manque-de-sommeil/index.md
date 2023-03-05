@@ -18,4 +18,4 @@ Les remèdes ne sont pas évidents, mais une chose est certaine : une activité 
 
 Par Philippe Reinert, pédiatre, Créteil
 
-_Réf : Bulletin Epidémiologique Hebdomadaire, n°44-45 ; 20/11/2012_
+*Réf : Bulletin Epidémiologique Hebdomadaire, n°44-45 ; 20/11/2012*

@@ -11,6 +11,6 @@ Pour le programme de vaccination, le rôle de l'infirmierr est de planifier les 
 
 En raison de l'importante charge de travail de l'infirmier, la réalisation de certaines activités du programme de vaccination est confiée à des personnels du centre de santé (aides-soignants,, agents de santé... :.
 
-Pour encadrer le personnel impliqué dans les activités de vaccination, l'infirmier doit en maîtriser toutes les composantes et s'assurer des bonnes pratiques de la vaccination.  
+Pour encadrer le personnel impliqué dans les activités de vaccination, l'infirmier doit en maîtriser toutes les composantes et s'assurer des bonnes pratiques de la vaccination.
 
-_Développement et Santé, n°195/196, 2009_
+*Développement et Santé, n°195/196, 2009*

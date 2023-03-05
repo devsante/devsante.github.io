@@ -10,9 +10,9 @@ Si l'ECBU n'a pas une grande importance pour une simple cystite (pas de fièvre)
 
 Cet examen comprend plusieurs étapes :
 
-*   l'examen direct pour rechercher des leucocytes et des bactéries dans les urines ;
-*   la culture quantitative de l'urine considérée comme l'examen de référence qui permet un diagnostic de certitude ;
-*   l'antibiogramme qui est l'étude de la sensibilité aux antibiotiques de la bactérie responsable, et qui permet d'adapter le traitement.
+- l'examen direct pour rechercher des leucocytes et des bactéries dans les urines ;
+- la culture quantitative de l'urine considérée comme l'examen de référence qui permet un diagnostic de certitude ;
+- l'antibiogramme qui est l'étude de la sensibilité aux antibiotiques de la bactérie responsable, et qui permet d'adapter le traitement.
 
 Il s'agit d'un examen simple à réaliser, mais dont la qualité repose sur le respect d'une méthodo­logie rigoureuse.
 
@@ -20,11 +20,11 @@ Il s'agit d'un examen simple à réaliser, mais dont la qualité repose sur le r
 
 Les principales circonstances de demande d'un ECBU sont :
 
-*   la présence de signes cliniques _(tableau n° 1)_ cystite, pyélonéphrite, prostatite ;
-*   une fièvre isolée surtout chez le nourrisson ;
-*   une hématurie, une pyurie, des tests de dépistage positifs ;
-*   une prescription systématique chez des patients à risque : diabétiques, grabataires, problèmes urologiques, porteurs de sonde, femmes enceintes, bilan pré-opératoire etc.  
-*   un contrôle de traitement.
+- la présence de signes cliniques *(tableau n° 1)* cystite, pyélonéphrite, prostatite ;
+- une fièvre isolée surtout chez le nourrisson ;
+- une hématurie, une pyurie, des tests de dépistage positifs ;
+- une prescription systématique chez des patients à risque : diabétiques, grabataires, problèmes urologiques, porteurs de sonde, femmes enceintes, bilan pré-opératoire etc.
+- un contrôle de traitement.
 
 L'ECBU n'est pas obligatoire en cas de cystite aiguë de la femme de moins de 65 ans, sans antécédents, en dehors de la grossesse.
 
@@ -36,11 +36,11 @@ L'urine peut être recueillie à n'importe quel moment de la journée, mais au m
 
 La toilette locale est très importante : gland prépuce relevé chez l'homme, pourtour urinai­re, grandes et petites lèvres chez la femme, avec un savon antiseptique doux, puis rinçage à l'eau. Le premier jet (environ 20 ml) est éli­miné et le deuxième jet est ensuite recueilli dans un récipient stérile. Il est important de bien expliquer au patient comment exécuter le prélèvement.
 
-**_Cas particuliers :_**
+***Cas particuliers :***
 
-*   Chez l'homme, en cas de suspicion de prosta­tite, on recueillera le premier jet pour aug­menter les chances d'isolement de la bactérie responsable qui est souvent en faible quantité.  
-*   Chez la femme, en cas de pertes ou de règles, on devra mettre en place une protection vaginale.  
-*   Chez le nourrisson, on peut utiliser une poche plastique stérile, que l'on applique sur la peau, mais qui ne doit pas rester en place plus de soixante minutes.
+- Chez l'homme, en cas de suspicion de prosta­tite, on recueillera le premier jet pour aug­menter les chances d'isolement de la bactérie responsable qui est souvent en faible quantité.
+- Chez la femme, en cas de pertes ou de règles, on devra mettre en place une protection vaginale.
+- Chez le nourrisson, on peut utiliser une poche plastique stérile, que l'on applique sur la peau, mais qui ne doit pas rester en place plus de soixante minutes.
 
 <table>
 <caption>Tableau 1 : les signes</caption>
@@ -92,8 +92,9 @@ Dysurie
 
 <td valign="top">
 
-Douleurs lombaires  
-+ ou - dysurie
+Douleurs lombaires
+
+- ou - dysurie
 
 </td>
 
@@ -148,11 +149,11 @@ Une urine non infectée contient moins de 10 000 leucocytes et moins de 5 000 h�
 
 Une infection urinaire se traduit le plus sou­vent par la présence de :
 
-*   50 000 leucocytes/ml, parfois en amas ;
-*   10 000 hématies/ml ;
-*   des cellules du revêtement urothélial ;
-*   la présence de cylindres leucocytaires est importante à prendre en compte ;
-*   la notion d'altération des leucocytes n'appor­te pas d'informations complémentaires.
+- 50 000 leucocytes/ml, parfois en amas ;
+- 10 000 hématies/ml ;
+- des cellules du revêtement urothélial ;
+- la présence de cylindres leucocytaires est importante à prendre en compte ;
+- la notion d'altération des leucocytes n'appor­te pas d'informations complémentaires.
 
 La présence de nombreuses cellules d'origine vaginale doit évoquer une contamination et entraîner éventuellement le rejet de l'examen.
 
@@ -309,8 +310,8 @@ A contôler
 
 <td style="width: 110px;" valign="top">
 
-> 10<sup>5</sup>  
-polymicrobien
+>  10<sup>5</sup>  
+> polymicrobien
 
 </td>
 
@@ -347,7 +348,7 @@ Ces données doivent être complétées par la connaissance du contexte clinique
 
 L'urine est normalement stérile ou ne contient que des germes de contamination en faible quantité (<103 UFC/ml), avec une leucocytu­rie < 10 000/mI. La majorité des patients présentant une infection urinaire ont une leucocyturie > à 100 000/ml.
 
-La présence de leucocytes en quantité anor­male, sans bactérie visible à l'examen direct, et une culture négative, doivent faire suspecter une infection des voies urinaires à bacille tuberculeux. Il s'agit là d'une recherche parti­culière, qui doit être effectuée sur la première miction des urines de la nuit, après restriction hydrique. Le _tableau n° 2_ résume les diffé­rentes situations qui peuvent être rencontrées et la conduite à suivre.
+La présence de leucocytes en quantité anor­male, sans bactérie visible à l'examen direct, et une culture négative, doivent faire suspecter une infection des voies urinaires à bacille tuberculeux. Il s'agit là d'une recherche parti­culière, qui doit être effectuée sur la première miction des urines de la nuit, après restriction hydrique. Le *tableau n° 2* résume les diffé­rentes situations qui peuvent être rencontrées et la conduite à suivre.
 
 ### 8. Antibiogramme
 
@@ -359,7 +360,7 @@ La méthode de référence et la plus fréquente est la méthode par diffusion e
 
 Des galeries prêtes à l'emploi peuvent être également utilisées, mais généralement leur coût est nettement supérieur.
 
-La bactérie la plus fréquemment isolée dans les infections urinaires est _Escherichia coli_, suivie de _Proteus mirabilis, Klebsiella pneu­moniae_, des autres entérobactéries et de _Sta­phylococcus saprophyticus_. Les pourcen­tages varient selon qu'il s'agit d'une population de patients sans antécédents (80 à 90 % _d'Escherichia coli_), ou de patients à risque ayant déjà reçu plusieurs traitements antibio­tiques et/ou hospitalisés (35 à 50 % _d'Esche­richia coli_). Par ailleurs la sensibilité à l'ampi­cilline de cette bactérie a beaucoup diminué ces dernières années et ce n'est plus le produit préconisé pour un traitement de première intention d'une infection urinaire. On lui pré­férera le cotrimoxazole (Bactrim).
+La bactérie la plus fréquemment isolée dans les infections urinaires est *Escherichia coli*, suivie de *Proteus mirabilis, Klebsiella pneu­moniae*, des autres entérobactéries et de *Sta­phylococcus saprophyticus*. Les pourcen­tages varient selon qu'il s'agit d'une population de patients sans antécédents (80 à 90 % *d'Escherichia coli*), ou de patients à risque ayant déjà reçu plusieurs traitements antibio­tiques et/ou hospitalisés (35 à 50 % *d'Esche­richia coli*). Par ailleurs la sensibilité à l'ampi­cilline de cette bactérie a beaucoup diminué ces dernières années et ce n'est plus le produit préconisé pour un traitement de première intention d'une infection urinaire. On lui pré­férera le cotrimoxazole (Bactrim).
 
 Il faut savoir que l'on peut retrouver parfois chez les patients dits à risque des bactéries de l'environnement (Pseudomonas aeruginosa, Acinetobacter, etc) souvent devenues très résistantes car sélectionnées par des antibio­thérapies mal conduites, ainsi que des entéro­coques et des Staphylococcus aureus résis­tants à l'oxacilline.
 
@@ -373,4 +374,4 @@ Un ECBU peut être pratiqué après trois jours de traitement pour vérifier la 
 
 L'ECBU est l'examen demandé le plus fré­quemment. Sa réalisation est simple mais deux points sont essentiels : le recueil des urines et l'interprétation des résultats. Avant de pratiquer cet examen ou lorsque l'on ne dispose pas de laboratoire de proximité, un dépistage rapide peut être effectué, au moyen de bandelettes permettant la recherche simul­tanée d'une leucocyturie et d'une bactériurie. S'il est effectué dans de bonnes conditions, ce dépistage a un bon pouvoir prédictif pour les cas négatifs.
 
-_Développement et Santé, n°183, 2006_
+*Développement et Santé, n°183, 2006*

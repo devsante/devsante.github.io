@@ -3,17 +3,17 @@ title: "Les faux médicaments"
 date: "2013-06-09"
 ---
 
-## ** I. Définitions**
+##  I. Définitions
 
-Les définitions des « faux médicaments » sont multiples et parfois contradictoires ; certaines entretiennent la confusion avec les génériques, plus ou moins volontairement. Une copie illégale d’un médicament doit être considérée comme un faux médicament mais en aucun cas un générique ou une copie légale (après licence obligatoire*).
+Les définitions des « faux médicaments » sont multiples et parfois contradictoires ; certaines entretiennent la confusion avec les génériques, plus ou moins volontairement. Une copie illégale d’un médicament doit être considérée comme un faux médicament mais en aucun cas un générique ou une copie légale (après licence obligatoire\*).
 
 Pour l'OMS, les FM sont des produits médicaux de qualité inférieure / faux / faussement étiquetés / falsifiés / contrefaits.
 
-_Nous retiendrons la conception de l'OMS qui, bien que compliquée, met l'accent sur le problème de fond que sont les dangers pour la santé des patients que représente un médicament de mauvaise qualité._
+*Nous retiendrons la conception de l'OMS qui, bien que compliquée, met l'accent sur le problème de fond que sont les dangers pour la santé des patients que représente un médicament de mauvaise qualité.*
 
 Il faut se rappeler que les faux médicaments peuvent être considérés comme un acte illégal contrevenant aux lois du commerce ou de la propriété intellectuelle (réprimé par les services douaniers ou policiers) et/ou comme un acte qui porte atteinte à la santé (réprimé par les services sanitaires).
 
-## **II. Position du problème et histoire**
+## II. Position du problème et histoire
 
 La question des faux médicaments est apparue dans les années 1970 où le problème d'une disponibilité insuffisante des médicaments s'est fait jour. Parallèlement, on a assisté à une transformation de l’industrie pharmaceutique avec des regroupements massifs des laboratoires sous la pression des places financières.
 
@@ -35,9 +35,9 @@ Le vrai problème actuel est la prolifération des médicaments sous standards, 
 
 Souvent est évoquée l’inefficacité des services douaniers et policiers dans l’application les lois, mais sont oubliées la multiplication des infirmeries non autorisées, l’introduction de services de médecine traditionnelle chinoise (ou autre) et l’importation directe de médicaments traditionnels chinois qui sont en complète illégalité.
 
-## **III. Que faire?**
+## III. Que faire?
 
-### **Au niveau des états**
+### Au niveau des états
 
 **Il** faut assurer la qualité des approvisionnements, et pour cela il est nécessaire de renforcer les services étatiques de contrôle et d'assurance qualité. Les moyens humains et matériels des services de contrôle et de régulation sont insuffisants (d'après l'OMS, 80 % des états n'ont pas les moyens de contrôler la qualité de leurs approvisionnements).
 
@@ -47,14 +47,14 @@ En tant que citoyens, nous devons demander aux représentants politiques de déf
 
 La répression contre les fraudeurs est importante mais il faut que l'ensemble des citoyens respecte et défende les lois.
 
-### **Dans les structures de santé**
+### Dans les structures de santé
 
 Il faut améliorer la disponibilité des médicaments et traitements. Les circuits illégaux de médicaments se multiplient quand les patients ont des difficultés pour acquérir ceux dont ils ont besoin. Pour limiter ce problème de mauvaise accessibilité, le rôle des soignants est primordial. Il faut :
 
-*   que le diagnostic soit correct pour que le traitement soir adéquat ;
-*   que la prescription médicamenteuse soit de qualité : « le bon médicament, pour le bon malade et pour sa maladie » ;
-*   que l'ordonnance tienne compte des impératifs financiers : elle doit comporter moins de 3 ou 4 produits, sous forme générique et en privilégiant les formes orales simples (à partir de 3 médicaments, il existe des  risques d'interactions) ;
-*   éviter les médicaments de confort qui ils augmentent le coût du traitement et les risques d'interactions.
+- que le diagnostic soit correct pour que le traitement soir adéquat ;
+- que la prescription médicamenteuse soit de qualité : « le bon médicament, pour le bon malade et pour sa maladie » ;
+- que l'ordonnance tienne compte des impératifs financiers : elle doit comporter moins de 3 ou 4 produits, sous forme générique et en privilégiant les formes orales simples (à partir de 3 médicaments, il existe des  risques d'interactions) ;
+- éviter les médicaments de confort qui ils augmentent le coût du traitement et les risques d'interactions.
 
 Enfin, le prescripteur doit tenir compte des médicaments disponibles au niveau de son hôpital, du dispensaire ou de l'officine la plus proche, il doit donc constamment s'informer de cette disponibilité.
 
@@ -69,6 +69,5 @@ Toute la population doit refuser le recours aux médicaments de la rue, aux vend
 En principe, un médicament acquis dans un circuit légal est de bonne qualité ; il a suivi un circuit officiel « traçable ».
 
 Mais, comme le montre le dessin ci-dessous, la prolifération des médicaments sous standards est un compromis entre besoins, faiblesses de gouvernance et intérêts individuels.
-
 
 ![](image002-4.jpg)

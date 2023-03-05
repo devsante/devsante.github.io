@@ -16,7 +16,7 @@ La fonction rénale est classiquement estimée par le **dosage de la créatinin�
 
 Il est donc nécessaire de recourir aux formules de Cockroft et Gault et, encore mieux, à celle du MDRD pour faire un diagnostic précis de l'insuffisance rénale.
 
-Il est possible de calculer directement la formule MDRD sur le site de la Société de néphrologie : [http://www.soc-nephrologie.org/eservice/calcul/eDFG.htm](http://www.soc-nephrologie.org/eservice/calcul/eDFG.htm "http://www.soc-nephrologie.org/eservice/calcul/eDFG.htm").
+Il est possible de calculer directement la formule MDRD sur le site de la Société de néphrologie : [<http://www.soc-nephrologie.org/eservice/calcul/eDFG.htm>](http://www.soc-nephrologie.org/eservice/calcul/eDFG.htm "http://www.soc-nephrologie.org/eservice/calcul/eDFG.htm").
 
 La **recherche d'une protéinurie à la bandelette** fait aussi partie du bilan de base de la fonction rénale.  
 En cas de positivité de la bandelette, il faut si possible confirmer le résultat par une protéinurie sur échantillon rapportée à la créatinurie (ce qui est beaucoup  plus juste que la protéinurie des 24h).
@@ -44,27 +44,25 @@ Si possible
 
 L'utilisation d'une bandelette urinaire permet également de dépister une hématurie et une leucocyturie qui justifient la réalisation d'un examen cytobactériologique des urines :
 
-*   hématurie pathologique : GR > 10/mm<sup>3</sup> ou 10 000/ml
-*   leucocyturie pathologique : GB > 10/mm<sup>3</sup> ou 10 000/ml
+- hématurie pathologique : GR > 10/mm<sup>3</sup> ou 10 000/ml
+- leucocyturie pathologique : GB > 10/mm<sup>3</sup> ou 10 000/ml
 
 **Figure 1. Algorithme de dépistage de la maladie rénale chez un patient infecté par le VIH** (d'après "VIH : complications et comorbidités", coordonné par C. Katlama).
 
-
 ![](figure-1-vih-rein.jpg)
-
 
 ## II. Quand évaluer la fonction rénale ?
 
 ### 1. Au moment du diagnostic de l'infection à VIH
 
-*   Créatininémie, si possible clairance de la créatinine ou MDRD pour estimer le DFG.  
-*   Bandelette urinaire : recherche d'une protéinurie.
+- Créatininémie, si possible clairance de la créatinine ou MDRD pour estimer le DFG.
+- Bandelette urinaire : recherche d'une protéinurie.
 
 ### 2. Avant l'initiation d'un traitement
 
-*   Créatininémie, si possible clairance de la créatinine ou MDRD pour estimer le DFG.  
-*   Bandelette urinaire : recherche d'une protéinurie et d'une glycosurie (si la protéinurie est positive, faire un dosage).  
-*   Dosage de la phosphorémie en fonction du traitement
+- Créatininémie, si possible clairance de la créatinine ou MDRD pour estimer le DFG.
+- Bandelette urinaire : recherche d'une protéinurie et d'une glycosurie (si la protéinurie est positive, faire un dosage).
+- Dosage de la phosphorémie en fonction du traitement
 
 ### 3.En suivi du traitement dans la durée
 
@@ -80,9 +78,9 @@ Il faut faire une échographie.
 
 Il existe, comme dans la population générale, trois types de causes :
 
-*   Causes prérénales : il s'agit d'IRA fonctionnelles favorisées par la déshydratation, la dénutrition et l'hypoalbuminémie.  
-*   Causes rénales : elles sont nombreuses et complexes. Il faut surtout insister sur les infections, le rôle de certains médicaments (notamment les AINS), et le syndrome de restauration immunitaire.  
-*   Causes post-rénales : il s'agit d'un obstacle sur les voies urinaires.
+- Causes prérénales : il s'agit d'IRA fonctionnelles favorisées par la déshydratation, la dénutrition et l'hypoalbuminémie.
+- Causes rénales : elles sont nombreuses et complexes. Il faut surtout insister sur les infections, le rôle de certains médicaments (notamment les AINS), et le syndrome de restauration immunitaire.
+- Causes post-rénales : il s'agit d'un obstacle sur les voies urinaires.
 
 Un épisode d'IRA augmente la mortalité et favorise l'apparition d'une IRC.
 
@@ -202,7 +200,8 @@ par le VIH  ayant un DFG < 60 mL/min</th>
 
 </table>
 
-## IV. Conséquences de l’insuffisance rénale  
+## IV. Conséquences de l’insuffisance rénale
+
 sur l’infection à VIH et réciproquement 
 
 La maladie rénale chronique augmente le risque cardiovasculaire et doit donc impérativement être prise en charge.

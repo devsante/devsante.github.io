@@ -23,4 +23,4 @@ Pour l’instant, ce médicament, si apprécié des malades, doit être réserv�
 
 Par Philippe Reinert, pédiatre, Créteil, France
 
-_Réf. W.Wang. The Lancet, 377 ; 14 mai 2011_
+*Réf. W.Wang. The Lancet, 377 ; 14 mai 2011*

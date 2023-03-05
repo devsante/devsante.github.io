@@ -8,12 +8,12 @@ La perfusion par dénudation veineuse est devenue plus rarement employée depuis
 
 Mais la dénudation veineuse se justifie cependant toujours:
 
-*   si on ne dispose pas de ce matériel et que l'on désire perfuser un malade en urgence (déshydratation, hémorragie), et
-*   pour une longue durée (déshydratation, brûlures...)
+- si on ne dispose pas de ce matériel et que l'on désire perfuser un malade en urgence (déshydratation, hémorragie), et
+- pour une longue durée (déshydratation, brûlures...)
 
 Si on dispose du matériel, la dénudation peut être cependant utile chez certains malades piqués à plusieurs reprises et chez qui on ne découvre plus de veine facilement accessible par ponction à travers la peau.
 
-## **Principes généraux**
+## Principes généraux
 
 La dénudation veineuse consiste, après avoir incisé la peau, à découvrir une veine afin d'y introduire un cathéter directement sous contrôle de la vue.
 
@@ -77,7 +77,7 @@ Tout ce matériel doit être prêt et à "portée de main" avant de commencer. M
 
 **6.** ... un aide est souvent très utile!
 
-## **Technique** (_schéma n° 1_)
+## Technique (*schéma n° 1*)
 
 Elle est simple. On choisit le lieu de la dénudation avec soin.
 
@@ -87,23 +87,19 @@ Elle est simple. On choisit le lieu de la dénudation avec soin.
 
 **3.** Incision de la peau au bistouri,
 
-
 ![](i964-1.jpg)
-
-
 
 ![](i964-2.jpg)
 
-
-soit dans le sens de la veine, ce qui permet de la dégager sur une plus grande longueur mais nécessite une précision plus grande dans son repérage car, si l'on incise trop loin de cette veine, il sera difficile de la rechercher (_schéma 1a_),
+soit dans le sens de la veine, ce qui permet de la dégager sur une plus grande longueur mais nécessite une précision plus grande dans son repérage car, si l'on incise trop loin de cette veine, il sera difficile de la rechercher (*schéma 1a*),
 
 soit perpendiculairement à son trajet, ce qui permet de retrouver la veine avec plus de facilité.
 
-**4.** A l'aide de la pince, on dissocie la graisse sous-cutanée dans le sens de la veine _(schéma 1b)._ Une fois la veine repérée, on en fait doucement le tour grâce à la pince en restant à son contact. On passe la pince sous la veine et on glisse ainsi un bout de catgut qui servira à la tendre pour continuer à la disséquer sur quelques centimètres, puis à lier le bout inférieur.
+**4.** A l'aide de la pince, on dissocie la graisse sous-cutanée dans le sens de la veine *(schéma 1b).* Une fois la veine repérée, on en fait doucement le tour grâce à la pince en restant à son contact. On passe la pince sous la veine et on glisse ainsi un bout de catgut qui servira à la tendre pour continuer à la disséquer sur quelques centimètres, puis à lier le bout inférieur.
 
 Ce fil est lié le plus bas possible.
 
-On passe alors sous la veine un deuxième catgut _(schéma. 1c)._
+On passe alors sous la veine un deuxième catgut *(schéma. 1c).*
 
 **5.** Le cathéter est alors préparé avec une perfusion, avec tubulure purgée prête à être branchée. La veine est tendue entre les deux fils.
 
@@ -121,25 +117,23 @@ en faisant une épreuve de reflux, la bouteille de perfusion est placée en dess
 
 La plaie et les premiers centimètres du cathéter sont mis sous des compresses stériles en évitant de couder à angle aigu le cathéter.
 
-### **Choix de la veine à dénuder**
+### Choix de la veine à dénuder
 
 Ce choix dépend avant tout de l'habitude de l'opérateur, la veine saphène interne au cou-de-pied est la plus souvent utilisée, cependant il est utile de connaître d'autres lieux de dénudation possible en cas de problème.
 
-## **I. Découverte de la veine saphène Interne au cou-de-pied**
+## I. Découverte de la veine saphène Interne au cou-de-pied
 
-_(schéma n°_ _3)_
+*(schéma n°* *3)*
 
 La veine saphène interne au niveau de la cheville, passe en avant de la malléole interne, c'est-à-dire à un travers de doigt environ devant la saillie osseuse palpable à la face interne de la cheville. L'incision sera horizontale en avant de la malléole, la veine est très superficielle, de bon calibre, facilement accessible.
 
-
 ![](i964-3.jpg)
-
 
 crosse de la veine saphène interne
 
-## **II - Découverte de la veine saphène externe au cou-de-pied**
+## II - Découverte de la veine saphène externe au cou-de-pied
 
-_(schéma n°_ _4)_
+*(schéma n°* *4)*
 
 Plus difficile car la position à donner au pied est moins aisée et la veine est accompagnée d'un petit nerf que l'on peut confondre, ou blesser, ce qui entraînerait des douleurs et des troubles de la sensibilité du pied.
 
@@ -149,9 +143,9 @@ Si on ne trouve pas facilement, le risque est de s'égarer en arrière vers le t
 
 L'incision horizontale permet de la découvrir plus facilement mais le nerf est plus exposé aux blessures.
 
-## **III. Découverte de la crosse de la saphène interne**
+## III. Découverte de la crosse de la saphène interne
 
-_(schéma n° 5)_
+*(schéma n° 5)*
 
 Cette voie est excellente, la veine y est toujours de bon calibre, même chez le petit enfant. Mais les risques d'infection sont plus grands en raison de la promiscuité des organes génitaux, et sa dénudation demande une grande pratique car l'artère et la veine fémorale sont proches et ne doivent pas être blessées.
 
@@ -163,17 +157,15 @@ La veine est découverte sous la graisse, au milieu de l'incision, parfois assez
 
 La veine reçoit des branches à ce niveau, c'est un bon signe distinctif avec la veine fémorale. Les noeuds seront particulièrement bien faits car le débit sanguin est important à ce niveau. Les règles d'aseptie seront strictes car le cathéter monte dans la veine fémorale puis la veine cave. Cette voie d'abord doit être réservée à un opérateur entraîné.
 
-
 ![](i964-4.jpg)
 
-
-## **IV - Veine du pli du coude**
+## IV - Veine du pli du coude
 
 Autre voie très utilisée, mais souvent, c'est à ce niveau qu'ont eu lieu les essais de perfusion et les veines sont souvent en mauvais état. Le danger est de blesser l'artère humérale. Il est évité si l'on reste superficiel, dans la graisse, sans aller chercher sous l'aponévrose (tissu solide, tendineux, blanc nacré).
 
 Les veines seront trouvées de part et d'autre de la saillie du biceps. L'incision sera horizontale dans le pli du coude en dedans ou en dehors du tendon du biceps, ou oblique comme sur le schéma. Les veines sont superficielles, facilement accessibles.
 
-## **V - Veine céphalique**
+## V - Veine céphalique
 
 au niveau du sillon delto-pectoral
 
@@ -183,13 +175,13 @@ Le sillon delto-pectoral est facilement palpé à la face antérieure de l'épau
 
 La peau est incisée sur ce sillon. La veine assez profonde, située entre ces deux muscles, elle est parfois recouverte d'un tissu solide. Le seul risque est de ne pas le trouver et de se perdre dans le muscle si l'on n'est pas juste dans le sillon. Mais aucun élément dangereux ne se trouve à ce niveau.
 
-### **Cas particulier:**
+### Cas particulier
 
 chez le nourrisson
 
 Les veines sont petites, mais peuvent être dilatées une fois ouvertes par une pince dont on écarte les branches. La graisse est parfois plus importante qu'on ne l'imagine. Ne pas pousser le cathéter trop loin car il monte très vite jusqu'au coeur et risque de le perforer!
 
-## **Incidents et accidents**
+## Incidents et accidents
 
 **1. Si on ne trouve pas la veine:** bien reprendre ses points de repère:
 
@@ -209,7 +201,7 @@ Ne pas s'acharner, changer de lieu de dénudation ou appeler quelqu'un de plus h
 
 Le cathéter peut perforer la veine si on le pousse sans délicatesse et surtout si on coupe son extrémité en biseau. La perfusion passe alors à côté de la veine, le reflux n'a pas lieu, et le membre gonfle.
 
-### **Complications**
+### Complications
 
 **1.** L'infection de la plaie est fréquente si on n'a pas respecté les règles d'asepsie, en particulier au pli de l'aine. Elle peut être le point de départ de septicémie, le trajet veineux devient rouge, douloureux (phlébite), le malade devient fébrile. Cet accident est fréquent après quelques jours de perfusion si les règles d'hygiène ne sont pas respectées. L'ablation du cathéter et les antibiotiques sont alors nécessaires.
 
@@ -217,4 +209,4 @@ Le cathéter peut perforer la veine si on le pousse sans délicatesse et surtout
 
 La dénudation veineuse n'est donc plus souvent utilisée grâce au matériel moderne de perfusion. Mais ce matériel n'est pas toujours disponible et dans certains cas particuliers, la dénudation peut rendre de grands services. Il s'agit d'une intervention chirurgicale et nécessite donc des soins et de la propreté sous peine de provoquer des infections graves.
 
-_Développement et Santé, n°33, juin 1981_
+*Développement et Santé, n°33, juin 1981*

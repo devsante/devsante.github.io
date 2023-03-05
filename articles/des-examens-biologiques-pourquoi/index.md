@@ -8,17 +8,17 @@ date: "2006-03-17"
 
 ## I. Que demande-t-on à un examen biologique ?
 
-1.  Qu'il aide ou permette un diagnostic le plus proche possible de la réalité.  
+1.  Qu'il aide ou permette un diagnostic le plus proche possible de la réalité.
 2.  Qu'il apporte la preuve de l'efficacité (ou non) du traitement prescrit et suivi.
 
-### 1. Il faut qu'il soit :
+### 1. Il faut qu'il soit
 
 1.  **sensible :** qu'il permette de dépister ou diagnostiquer tous les sujets atteints de l'affection cherchée ;
 2.  **spécifique :** qu'il donne le moins possible de faux positifs (examen positif chez des sujets sains) ;
 3.  **reproductible :** qu'il donne les mêmes résultats s'il est répété sur un même prélè­vement et s'il est pratiqué par différentes personnes ;
 4.  **faisable :** qu'il n'exige pas un environne­ment disproportionné, une maintenance compliquée, du personnel disproportionné au niveau de santé concerné, qu'il soit peu coûteux pour le système et pour le malade qui, outre la part qu'il débourse pour l'exa­men, doit se déplacer, arrêter son travail, faire garder ses enfants...
 
-### 2. Un examen idéal serait donc un examen :
+### 2. Un examen idéal serait donc un examen
 
 1.  facile à réaliser
 2.  donnant plus de 98 % de sensibilité et 98 % de spécificité
@@ -31,16 +31,16 @@ date: "2006-03-17"
 
 C'est l'exemple idéal d'une stratégie biologique excellente, mais c'est le résultat de nom­breuses études rigoureuses de terrain. Pour le diagnostic, un seul test est pratiqué, la recherche de la présence ou non de BAAR (bacilles acido alcoolo résistants) sur un exa­men microscopique d'expectoration colorée au Ziehl.
 
-*   Si BAAR + => traitement TB
-*   Sinon, 2<sup>ème</sup> examen :
-    *   Si BAAR +: => traitement TB ;
-    *   Si BAAR - : => il ne s'agit pas de TB.
+- Si BAAR + => traitement TB
+- Sinon, 2<sup>ème</sup> examen :
+  - Si BAAR +: => traitement TB ;
+  - Si BAAR - : => il ne s'agit pas de TB.
 
 Cet examen est aussi celui qui est utilisé pour le suivi thérapeutique à 3, 6 et 9 mois et à chaque étape une décision binaire peut être prise.
 
 Cette stratégie a nécessité, outre les études de terrain, un accord FORT entre cliniciens et biologistes.
 
-### **2. L'examen parasitologique des selles**
+### 2. L'examen parasitologique des selles
 
 C'est un examen très fréquemment réalisé mais le plus souvent sans justification argumentée.
 
@@ -50,7 +50,7 @@ L'examen parasitologique des selles n'est en fait nécessaire que pour recherche
 
 Cet examen parasitologique est l'objet de nombreuses frustrations du laborantin qui réa­lise l'examen alors que le patient a déjà une ordonnance de mébendazole et du clinicien qui reçoit un résultat négatif devant une dys­enterie non fébrile. Il est urgent que les deux parties se réunissent pour définir des conduites à tenir communes.
 
-**_N.B._** _: Les diagnostics de l'anémie et du paludisme sont de façon similaire l'objet de déceptions et d'incompréhensions entre cliniciens et biologistes car il manque une clarification commune des définitions et des objectifs de la recherche diagnostique._
+***N.B.*** *: Les diagnostics de l'anémie et du paludisme sont de façon similaire l'objet de déceptions et d'incompréhensions entre cliniciens et biologistes car il manque une clarification commune des définitions et des objectifs de la recherche diagnostique.*
 
 ### 3. Troisième exemple : le SIDA
 
@@ -78,27 +78,27 @@ Au total, ce débat contradictoire, cet échange qui doit décider des stratégi
 
 ## III. En pratique
 
-### 1. Pour le laboratoire :
+### 1. Pour le laboratoire
 
-*   faire le bilan de tous les examens reçus dans les dernier mois,
-*   évaluer les délais de réponse,
-*   faire le point de tous les examens positifs,
-*   évaluer les raisons possibles des résultats non satisfaisants, (faussement positifs, ou faux négatifs, prélèvement inadapté, trans­port et conservation incorrects).
+- faire le bilan de tous les examens reçus dans les dernier mois,
+- évaluer les délais de réponse,
+- faire le point de tous les examens positifs,
+- évaluer les raisons possibles des résultats non satisfaisants, (faussement positifs, ou faux négatifs, prélèvement inadapté, trans­port et conservation incorrects).
 
-### 2. Pour le soignant prescripteur d'exa­mens biologiques :
+### 2. Pour le soignant prescripteur d'exa­mens biologiques
 
-*   faire le bilan des examens demandés dans les derniers mois,
-*   faire le bilan des examens positifs et négatifs,
-*   évaluer les examens qui ont participé au dia­gnostic ou à un changement de régime thé­rapeutique,
-*   évaluer les questions posées par la réalisation de ces examens.
+- faire le bilan des examens demandés dans les derniers mois,
+- faire le bilan des examens positifs et négatifs,
+- évaluer les examens qui ont participé au dia­gnostic ou à un changement de régime thé­rapeutique,
+- évaluer les questions posées par la réalisation de ces examens.
 
-### **3. Se réunir ensemble et :**
+### 3. Se réunir ensemble et
 
-*   comparer les résultats des évaluations précé­dentes,
-*   évaluer les examens qui se sont révélés utiles,
-*   recenser les problèmes posés,
-*   décider ensemble de la liste des examens utiles,
-*   décider ensemble d'une conduite à tenir commune,
-*   écrire des procédures communes.
+- comparer les résultats des évaluations précé­dentes,
+- évaluer les examens qui se sont révélés utiles,
+- recenser les problèmes posés,
+- décider ensemble de la liste des examens utiles,
+- décider ensemble d'une conduite à tenir commune,
+- écrire des procédures communes.
 
-_Développement et santé, n°183, 2006_
+*Développement et santé, n°183, 2006*

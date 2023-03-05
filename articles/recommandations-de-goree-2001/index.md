@@ -1,10 +1,10 @@
 ---
 title: "Recommandations de Gorée 2001"
-author: "le VIH en Afrique \""
+author: "le VIH en Afrique"
 date: "2002-12-19"
 ---
 
-**Recommandations de Gorée 2001**Initiative Internationale : " Place des antirétroviraux clans la prise en charge des personnes infectées par le VIH en Afrique "
+Initiative Internationale : " Place des antirétroviraux clans la prise en charge des personnes infectées par le VIH en Afrique "
 
 **Introduction**
 
@@ -34,9 +34,9 @@ Les expériences-pilotes d'utilisation des antirétroviraux ont été développ�
 
 Les coûts des traitements et des examens complémentaires sont très élevés, eu égard au revenu moyen par habitant dans les Etats africains. Le volume limité des traitements disponibles ne constitue pas le seul obstacle à l'accès. Les projets-pilotes et les expériences en cours montrent que les tentatives de mise en place de l'équité dans l'accès se heurtent à des difficultés opérationnelles :
 
-*   les outils d'évaluation des revenus et de la situation sociale des populations sont peu performants pour définir et prévoir la précarité, alors que les situations sociales des personnes sont très évolutives ;
-*   la tarification au prorata des revenus pourrait être un gage d'équité dans l'accès au traitement, mais exige de mettre en place un dispositif coûteux en ressources humaines ; ces procédures ne peuvent pas être mises en place à large échelle et à budget et personnel constants. Une évaluation fine et actualisée de la situation sociale des personnes nécessite une investigation lourde, instructive, exigeant des ressources humaines et des moyens en temps ; elle peut aussi compromettre la confidentialité et décourager la demande ;
-*   l'option actuelle de la discrimination positive (envers les professionnels de santé, les femmes, les membres des associations, les " cas sociaux ", les enfants, etc. ) est légitime, mais elle peut conduire à établir des quotas dans les programmes dont la gestion est difficile, voire à des décisions arbitraires lorsque le nombre de traitements est limité.
+- les outils d'évaluation des revenus et de la situation sociale des populations sont peu performants pour définir et prévoir la précarité, alors que les situations sociales des personnes sont très évolutives ;
+- la tarification au prorata des revenus pourrait être un gage d'équité dans l'accès au traitement, mais exige de mettre en place un dispositif coûteux en ressources humaines ; ces procédures ne peuvent pas être mises en place à large échelle et à budget et personnel constants. Une évaluation fine et actualisée de la situation sociale des personnes nécessite une investigation lourde, instructive, exigeant des ressources humaines et des moyens en temps ; elle peut aussi compromettre la confidentialité et décourager la demande ;
+- l'option actuelle de la discrimination positive (envers les professionnels de santé, les femmes, les membres des associations, les " cas sociaux ", les enfants, etc. ) est légitime, mais elle peut conduire à établir des quotas dans les programmes dont la gestion est difficile, voire à des décisions arbitraires lorsque le nombre de traitements est limité.
 
 L'expérience de Dakar montre que dans un projet où le coût à la charge des participants est à la limite de ce qu'ils peuvent supporter en fonction de leurs revenus, le taux de recouvrement global, malgré la mise en place d'une lourde procédure, reste très faible (inférieur à 10 % sur l'ensemble des personnes traitées). Or, cette exigence d'une participation financière même minime constitue pour de nombreuses PvVIH une charge importante qui pèse sur le budget des ménages.
 
@@ -50,7 +50,7 @@ A partir de toutes ces observations, nous recommandons, pour assurer un accès a
 
 Les systèmes de protection sociale, d'assurances et de mutuelles et les systèmes d'aide ne concernent qu'une petite fraction de la population et ont été peu mobilisés jusqu'à présent. Des expériences montrent qu'il est possible et rentable de mettre en place, dans le secteur privé, des fonds de solidarité pour les traitements (expériences au sein des entreprises, en Côte-d'Ivoire notamment).
 
-**Nous recommandons que les systèmes de protection sociale, d'assurances et de mutuelles et les****systèmes d'aide mis en place par** **les entreprises soient optimisés** **et complétés par des démarches** **de solidarité nationales.**  
+**Nous recommandons que les systèmes de protection sociale, d'assurances et de mutuelles et lessystèmes d'aide mis en place par** **les entreprises soient optimisés** **et complétés par des démarches** **de solidarité nationales.**  
 **Nous recommandons que des** **mécanismes de subvention, de** **solidarité internationale soient** **initiés ou développés pour assurer la prise en charge de** **la totalité des traitements antirétroviraux.**
 
 De plus, pour optimiser la prise en charge, il est nécessaire de réduire les coûts directs des traitements des affections opportunistes et des examens complémentaires actuellement à la charge des patients.
@@ -61,7 +61,7 @@ Les procédures d'accès peuvent être lourdes et retardent la prise en charge m
 
 **Il. L'observance**
 
-Alors que l'observance* des patients était au coeur du débat sur l'accès aux antirétroviraux en Afrique, les insuffisances du système de santé quant à la gestion des stocks et la disponibilité des médicaments ont été un facteur majeur de non-observance.
+Alors que l'observance\* des patients était au coeur du débat sur l'accès aux antirétroviraux en Afrique, les insuffisances du système de santé quant à la gestion des stocks et la disponibilité des médicaments ont été un facteur majeur de non-observance.
 
 Pour diminuer les ruptures en médicaments, l'estimation des besoins doit prévoir des stocks de sécurité. Les ruptures d'approvisionnement en médicaments antirétroviraux doivent être anticipées et accompagnées de directives nationales précises en direction des proscripteurs. Le groupe de Gorée souligne que, lorsque les médicaments sont disponibles et que le réseau de distribution est fonctionnel, l'observance est bonne. Dans le projet-pilote de Dakar, l'observance moyenne est égale à 90 % des prises, soit un niveau d'observance meilleur que ce que l'on observe en moyenne dans les pays du Nord.
 
@@ -71,22 +71,22 @@ Il n'y a pas de profil social ou économique des patients a priori non-observant
 
 Des expériences rapportées, il apparaît qu'une bonne observance dépend de :
 
-*   la proximité géographique et l'accessibilité des produits,
-*   la simplification des schémas thérapeutiques,
-*   la qualité de l'information délivrée à l'usager dans le cadre de la consultation médicale ou de la dispensation,
-*   l'établissement d'une relation de confiance avec l'équipe soignante,
-*   la gestion de la confidentialité,
-*   l'adhésion au traitement, qui dépend notamment de l'acceptation familiale, qui peut être favorisée par l'appui des associations,
-*   l'existence de mesures d'appui comme les clubs d'observance, les groupes de parole, les groupes d'information des patients, l'usage d'outils pédagogiques,
-*   l'existence d'un dispositif cohérent de prise en charge reposant sur un travail en équipe.
+- la proximité géographique et l'accessibilité des produits,
+- la simplification des schémas thérapeutiques,
+- la qualité de l'information délivrée à l'usager dans le cadre de la consultation médicale ou de la dispensation,
+- l'établissement d'une relation de confiance avec l'équipe soignante,
+- la gestion de la confidentialité,
+- l'adhésion au traitement, qui dépend notamment de l'acceptation familiale, qui peut être favorisée par l'appui des associations,
+- l'existence de mesures d'appui comme les clubs d'observance, les groupes de parole, les groupes d'information des patients, l'usage d'outils pédagogiques,
+- l'existence d'un dispositif cohérent de prise en charge reposant sur un travail en équipe.
 
-Les incidents d'observance doivent pouvoir être identifiés et leurs motifs précisés pour mettre en place des mesures adaptées qui permettent de rétablir l'observance. Le système de soins doit permettre d'assurer la disponibilité des traitements en continu. Les dispositifs de suivi doivent être simplifiés pour ne pas constituer une limite à l'accessibilité et à l'acceptabilité des traitements. Le conseil en matière d'observance doit être assuré par des personnes formées, qui peuvent être issues des professions de santé, du secteur social, des associations de personnes vivant avec le \/IH et des membres des organisations à base communautaire. Ces " conseillers Prise en charge , doivent avoir des connaissances et des compétences en matière d'IEC et de prise en charge globale du VIH/SIDA. Ils doivent disposer de moyens pour réaliser les actions d'appui, et avoir accès à des formations actualisées sur les traitements et sur les règles d'éthique.
+Les incidents d'observance doivent pouvoir être identifiés et leurs motifs précisés pour mettre en place des mesures adaptées qui permettent de rétablir l'observance. Le système de soins doit permettre d'assurer la disponibilité des traitements en continu. Les dispositifs de suivi doivent être simplifiés pour ne pas constituer une limite à l'accessibilité et à l'acceptabilité des traitements. Le conseil en matière d'observance doit être assuré par des personnes formées, qui peuvent être issues des professions de santé, du secteur social, des associations de personnes vivant avec le /IH et des membres des organisations à base communautaire. Ces " conseillers Prise en charge , doivent avoir des connaissances et des compétences en matière d'IEC et de prise en charge globale du VIH/SIDA. Ils doivent disposer de moyens pour réaliser les actions d'appui, et avoir accès à des formations actualisées sur les traitements et sur les règles d'éthique.
 
 **Nous recommandons une organisation du système de santé qui :**
 
-*   assure la disponibilité des traitements en continu,
-*   permette d'identifier et de répondre aux difficultés d'observance grâce à des mesures d'appui (groupes de parole, " conseillers Prise en charge ", clubs post-test),
-*   favorise un continuum de soins allant des structures de santé aux organisations communautaires de soutien.
+- assure la disponibilité des traitements en continu,
+- permette d'identifier et de répondre aux difficultés d'observance grâce à des mesures d'appui (groupes de parole, " conseillers Prise en charge ", clubs post-test),
+- favorise un continuum de soins allant des structures de santé aux organisations communautaires de soutien.
 
 <table>
 
@@ -190,4 +190,4 @@ Marie Ahouanto (IMEA) - Kémal Chérabi (IMEA) - Jean-Pierre Coulaud (IMEA) Eric
 
 Marie Ahouanto (IMEA) - Kemal Cherabi (IMEA) - J. P. Coulaud (IMEA) - Eric Delaporte (UM, IRD) - Alice Desclaux (LEHA, IRD) - Isabelle Lanièce (MAE/ PNLS, Dakar) - Bernard Larouzé (IMEA, INSERM) - Ngagne Mbaye (Réseau sénégalais de recherche sur le sida) - Ibra Ndoye (Secrétaire permanent du PNLS, Dakar) - Philippe Msellati (IRD, France) Bernard Taverne (IRD, Dakar) - Damien Rwegera (ONUSIDA) - Omar Sylla (Université Cheikh Anta Diop, Dakar).
 
-_Développement et santé, n°162, décembre 2002_
+*Développement et santé, n°162, décembre 2002*

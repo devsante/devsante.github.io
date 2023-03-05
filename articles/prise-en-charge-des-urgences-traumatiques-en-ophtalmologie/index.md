@@ -30,16 +30,14 @@ L'examen clinique en cas de traumatisme ou suspicion de traumatisme oculaire doi
 
 Devant un traumatisme, l'interrogatoire étudie :
 
-*   les **antécédents** du patient - surtout si une anesthésie générale est envisagée - l'âge, le statut vaccinal tétanique, l'heure du dernier repas, les allergies éventuelles...  
-*   les **circonstances de survenue** : elles orientent souvent le diagnostic des lésions (exemple : traumatisme par fil de fer arrivé en fouettant = érosion, ou par projection = plaie). Est-ce arrivé en meulant (CE alors superficiel), ou en tapant (CE profond) ?
-
+- les **antécédents** du patient - surtout si une anesthésie générale est envisagée - l'âge, le statut vaccinal tétanique, l'heure du dernier repas, les allergies éventuelles...
+- les **circonstances de survenue** : elles orientent souvent le diagnostic des lésions (exemple : traumatisme par fil de fer arrivé en fouettant = érosion, ou par projection = plaie). Est-ce arrivé en meulant (CE alors superficiel), ou en tapant (CE profond) ?
 
 ![](12075-1.jpg)
 
-
-*   **la nature de l'agent impactant** : métal­lique (les patients connaissent souvent la nature du métal), végétal, ses dimensions, sa masse, la vitesse et la force du coup. On essaiera aussi de déterminer si le trau­matisme est contusif ou perforant ;
-*   **le contexte de survenue** : accident du travail (certificat initial d'AT à remplir), agres­sion (certificat médico-légal de coups et blessures ), accident domestique...  
-*   **les signes fonctionnels** : douleur, lar­moiement (parfois banal, parfois écoulement d'humeur aqueuse en cas de perforation), photophobie, baisse d'acuité visuelle ; leur évolution sera notée.
+- **la nature de l'agent impactant** : métal­lique (les patients connaissent souvent la nature du métal), végétal, ses dimensions, sa masse, la vitesse et la force du coup. On essaiera aussi de déterminer si le trau­matisme est contusif ou perforant ;
+- **le contexte de survenue** : accident du travail (certificat initial d'AT à remplir), agres­sion (certificat médico-légal de coups et blessures ), accident domestique...
+- **les signes fonctionnels** : douleur, lar­moiement (parfois banal, parfois écoulement d'humeur aqueuse en cas de perforation), photophobie, baisse d'acuité visuelle ; leur évolution sera notée.
 
 ### 2. Examen clinique ophtalmologique
 
@@ -49,9 +47,9 @@ Devant un traumatisme, l'interrogatoire étudie :
 
 **Attention**
 
-*   les plaies palpébrales de l'angle interne peu­vent léser les voies lacrymales ;
-*   retourner systématiquement la paupière supérieure à la recherche d'un corps étran­ger superficiel planté sous la paupière supé­rieure ;
-*   face à une plaie punctiforme passant par la paupière supérieure, redouter la pénétration d'un CE profond.
+- les plaies palpébrales de l'angle interne peu­vent léser les voies lacrymales ;
+- retourner systématiquement la paupière supérieure à la recherche d'un corps étran­ger superficiel planté sous la paupière supé­rieure ;
+- face à une plaie punctiforme passant par la paupière supérieure, redouter la pénétration d'un CE profond.
 
 **Conjonctive** : plaie, hémorragie sous­conjonctivale, se méfier d'une plaie sous­jacente à une hémorragie conjonctivale (importance de l'interrogatoire orienté +++).
 
@@ -81,9 +79,9 @@ Attention : si un traumatisme ophtalmologique pur bénéficie toujours d'un avis
 
 Elles sont théoriquement obligatoires (médico-légal) en cas de suspi­cion de plaie oculaire pour rechercher la pré­sence d'un CE radio-opaque et le localiser. On demandera les 3 radios suivantes :
 
-*   Blondeau : dégage bien les 2 orbites de l'os,
-*   Orbite de profil (côté malade contre la plaque, pour limiter les magnifications),
-*   Radios centrées sur les orbites dans les 4 directions du regard (haut, bas, droite et gauche).
+- Blondeau : dégage bien les 2 orbites de l'os,
+- Orbite de profil (côté malade contre la plaque, pour limiter les magnifications),
+- Radios centrées sur les orbites dans les 4 directions du regard (haut, bas, droite et gauche).
 
 #### b. Echographie oculaire
 
@@ -105,8 +103,8 @@ Elles sont fréquentes : accidents domestiques (enfants) ou du travail (chimie, 
 
 L'agent traumatisant est :
 
-*   physique (rare) : brûlures thermiques limitées par la fermeture des paupières, solides en fusion,
-*   chimique (les plus fréquents et les plus graves) : acides (sulfurique ou vitriol, acide de batterie) et bases (soude caustique, eau de javel, chaux vive, ciment des maçons, alcali). Attention : les lésions provoquées par les bases sont pénétrantes, graves et évolutives alors que celles dues aux acides sont peu pénétrantes et peu évolutives. Ne pas hésiter à se renseigner auprès du centre anti-poison.
+- physique (rare) : brûlures thermiques limitées par la fermeture des paupières, solides en fusion,
+- chimique (les plus fréquents et les plus graves) : acides (sulfurique ou vitriol, acide de batterie) et bases (soude caustique, eau de javel, chaux vive, ciment des maçons, alcali). Attention : les lésions provoquées par les bases sont pénétrantes, graves et évolutives alors que celles dues aux acides sont peu pénétrantes et peu évolutives. Ne pas hésiter à se renseigner auprès du centre anti-poison.
 
 #### a. Signes
 
@@ -114,8 +112,8 @@ Le patient arrive en général avec son diagnostic et a souvent déjà rincé so
 
 En pratique, 2 types de brûlures :
 
-*   brûlure bénigne superficielle (99 % des cas) avec oeil rouge ou très rouge par irritation conjonctivale, cornée normale ou légère­ment désépithélialisée mais restant transpa­rente (test à la fluorescéine).  
-*   brûlure grave profonde (0,5 % des cas) : conjonctivite "porcelaine", nécrotique et cornée blanche opalescente, voire perfora­tion d'emblée.
+- brûlure bénigne superficielle (99 % des cas) avec oeil rouge ou très rouge par irritation conjonctivale, cornée normale ou légère­ment désépithélialisée mais restant transpa­rente (test à la fluorescéine).
+- brûlure grave profonde (0,5 % des cas) : conjonctivite "porcelaine", nécrotique et cornée blanche opalescente, voire perfora­tion d'emblée.
 
 #### b. Traitement
 
@@ -125,8 +123,8 @@ En cas de brûlure basique par ciment, enlever tous les corps étrangers, si bes
 
 Parfois, en cas de brûlure grave, un lavage des voies lacrymales est nécessaire pour limiter le risque de sténose secondaire. Un bilan précis des lésions est établi après lavage soigneux :
 
-*   si c'est bénin : le malade repart chez lui avec antibiotiques + cicatrisants en collyre.  
-*   si c'est grave : adresser le malade à un centre spécialisé pour prévenir les séquelles (mal­heureusement fréquentes).
+- si c'est bénin : le malade repart chez lui avec antibiotiques + cicatrisants en collyre.
+- si c'est grave : adresser le malade à un centre spécialisé pour prévenir les séquelles (mal­heureusement fréquentes).
 
 #### c. Séquelles
 
@@ -140,8 +138,8 @@ Elles sont fréquentes en cas d'accidents domestiques (fléchette, couteau, cise
 
 Les signes dépendent du type de plaie :
 
-*   plaies cornéennes, en général peu doulou­reuses, punctiformes, avec effusion de l'humeur aqueuse (Seidel) ;
-*   plaie sclérale, souvent masquée par une hémorragie sous-conjonctivale.
+- plaies cornéennes, en général peu doulou­reuses, punctiformes, avec effusion de l'humeur aqueuse (Seidel) ;
+- plaie sclérale, souvent masquée par une hémorragie sous-conjonctivale.
 
 Selon son trajet, le traumatisme peut léser l'iris, le cristallin (cataracte post-traumatique), voire la rétine. Les signes fonctionnels sont variables : asymptomatique, sensation de CE, photophobie, larmoiement, baisse de l'acuité visuelle... On observe parfois une hernie de l'iris, une cataracte, un hyphéma. Devant toute plaie, il faut éliminer la présence d'un corps étranger intra-oculaire profond par l'examen clinique et les radios centrées sur l'orbite (réalisées en urgence).
 
@@ -161,18 +159,18 @@ En phase aiguë le CE peut être méconnu car la porte d'entrée est souvent min
 
 #### b. Diagnostic de localisation (où est le corps étranger ?)
 
-*   **radiographies systématiques avec diverses incidences :** incidence de Blon­deau, radio de l'orbite de profil, centrée sur l'orbite et dans les 4 directions du regard. Ces clichés permettront la localisation intra­ou extra-oculaire, postérieure ou antérieure.  
-*   **échographie oculaire bidimensionnelle**: rarement faite en urgence, elle est plus utile au stade des séquelles. Elle retrouverait le CE qui est hyperéchogène avec artéfacts s'il est métallique, mais non s'il est si végétal.  
-*   **scanner oculaire sans injection +++** examen roi qui permet une localisation très précise du CE.
+- **radiographies systématiques avec diverses incidences :** incidence de Blon­deau, radio de l'orbite de profil, centrée sur l'orbite et dans les 4 directions du regard. Ces clichés permettront la localisation intra­ou extra-oculaire, postérieure ou antérieure.
+- **échographie oculaire bidimensionnelle**: rarement faite en urgence, elle est plus utile au stade des séquelles. Elle retrouverait le CE qui est hyperéchogène avec artéfacts s'il est métallique, mais non s'il est si végétal.
+- **scanner oculaire sans injection +++** examen roi qui permet une localisation très précise du CE.
 
 #### c. Traitement
 
 Il s'agit d'une **urgence** chirurgicale ophtalmo­logique (à opérer d'urgence si patient à jeûn, sinon, comme dans toute chirurgie non vitale, on attend la vacuité gastrique c'est-à-dire 6 heures). Malade à jeûn (ni boissons ni tabac), coque sur l'oeil pour éviter une pression sur l'oeil atteint, vaccination antitétanique à vérifier, antibiothérapie par voie générale (quinolones) et locale. La porte d'entrée est parée et suturée sous microscope opératoire. Pour l'extraction du corps étranger la technique sera discutée au cas par cas, en fonction de sa nature et de sa localisation : l'électro-aimant par vitrectomie et usage de pinces endoculaires.
 
-_**Remarques** _:
+\_**Remarques** \_:
 
-*   l'extraction est nécessaire quand le corps étranger est mal toléré (fer, acier), elle est sou­haitable pour tout autre corps étranger (plomb, plastique, verre...) même s'ils est toléré ;
-*   le pronostic des plaies oculaires avec CEIO peut être sévère, d'où l'importance de la pré­vention : utilisation systématique de lunettes de protection au travail ou pour le bricolage.
+- l'extraction est nécessaire quand le corps étranger est mal toléré (fer, acier), elle est sou­haitable pour tout autre corps étranger (plomb, plastique, verre...) même s'ils est toléré ;
+- le pronostic des plaies oculaires avec CEIO peut être sévère, d'où l'importance de la pré­vention : utilisation systématique de lunettes de protection au travail ou pour le bricolage.
 
 ### 4. Les contusion du globe oculaire
 
@@ -182,13 +180,13 @@ Les traumatismes oculaires causés par des accidents domestiques, les rixes ou l
 
 Il se produit un ébranlement de toutes les couches de l'aeil, on peut donc observer, de façon plus ou moins associée :
 
-*   une hémorragie sous-conjonctivale (chercher une plaie du globe sous-jacente),
-*   un hyphéma (épanchement sanguin en chambre antérieure),
-*   un arrachement de la base de l'iris = irido­dialyse, ruptures sphincter irien = sphincté­rotomies iriennes, recul de la base de l'iris = récession angulaire traumatique,
-*   une cataracte contusive (boxeur, automutila­tion en psychiatrie), luxation du cristallin en avant ou en arrière,
-*   une hémorragie rétinienne traumatique,
-*   un décollement de rétine traumatique (désin­sertion de la rétine),
-*   une contusion du pôle postérieur de l'oeil, fréquente quand il existe un impact violent (balle de golf, bouchon de champagne) et souvent responsable d'une hémorragie maculaire ou d'une rupture de la choroïde.
+- une hémorragie sous-conjonctivale (chercher une plaie du globe sous-jacente),
+- un hyphéma (épanchement sanguin en chambre antérieure),
+- un arrachement de la base de l'iris = irido­dialyse, ruptures sphincter irien = sphincté­rotomies iriennes, recul de la base de l'iris = récession angulaire traumatique,
+- une cataracte contusive (boxeur, automutila­tion en psychiatrie), luxation du cristallin en avant ou en arrière,
+- une hémorragie rétinienne traumatique,
+- un décollement de rétine traumatique (désin­sertion de la rétine),
+- une contusion du pôle postérieur de l'oeil, fréquente quand il existe un impact violent (balle de golf, bouchon de champagne) et souvent responsable d'une hémorragie maculaire ou d'une rupture de la choroïde.
 
 En cas de traumatisme violent, la contusion peut s'associer à une plaie plus ou moins large (éclatement) du globe localisée au principal point de fragilité du globe : le limbe scléro­cornéen. Devant toute contusion du globe, il est capital d'éliminer une plaie sous-jacente.
 
@@ -261,19 +259,17 @@ Il faut éliminer une plaie sclérale sous jacente qui peut être de petite tail
 
 Aucun collyre ne hâte la résorption spontanée (ex. collyre : DIOPARINE' pendant 8 jours). Il faut rassurer le patient. L'hémorragie se résorbe en une ou deux semaines en passant par toutes les couleurs de la biligenèse (en pré­venir le patient).
 
-**Comment utiliser un collyre** _(photos 1 et 2)_
+**Comment utiliser un collyre** *(photos 1 et 2)*
 
-*   Se laver les mains entre chaque malade.  
-*   Bien savoir mettre gouttes et pommade dans un oeil: faire regarder le malade en haut, écarter la paupière inférieure avec l'index, et, dans le creux ainsi constitué, faire tomber la goutte. L'oeil ne contient qu'une goutte, inutile d'en mettre plus.
+- Se laver les mains entre chaque malade.
+- Bien savoir mettre gouttes et pommade dans un oeil: faire regarder le malade en haut, écarter la paupière inférieure avec l'index, et, dans le creux ainsi constitué, faire tomber la goutte. L'oeil ne contient qu'une goutte, inutile d'en mettre plus.
 
 **Attention : ne pas toucher le bord de la paupière avec le bout du flacon.**
 
-**Retourner une paupière supérieure** _(photo 3)_ : faire regarder le malade en bas. Pincer les cils très fort entre deux doigts de la main droite, retourner la paupière en se servant de l'index gauche comme pivot.
+**Retourner une paupière supérieure** *(photo 3)* : faire regarder le malade en bas. Pincer les cils très fort entre deux doigts de la main droite, retourner la paupière en se servant de l'index gauche comme pivot.
 
 Photos
 
-
 ![](12075-3.jpg)
 
-
-_Développement et Santé, n°191/192, 2008_
+*Développement et Santé, n°191/192, 2008*

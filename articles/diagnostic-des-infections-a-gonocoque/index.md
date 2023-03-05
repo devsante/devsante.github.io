@@ -12,16 +12,16 @@ date: "1998-08-26"
 
 Le gonocoque provoque des suppurations des voies génitales qui, en l'absence de traitement, peuvent être suivies de complications graves.
 
-*   **Chez l'homme,** c'est une urétrite aiguë se traduisant par un écoulement purulent au niveau du méat urinaire et des douleurs aiguës à la miction. La période d'incubation est courte (4 à 8 jours) et sans symptôme. Si le traitement n'est pas instauré rapidement, l'urétrite antérieure devient totale Elle peut même se propager aux voies génitales donnant des infections de l'épididyme, du testicule et de la prostate.
+- **Chez l'homme,** c'est une urétrite aiguë se traduisant par un écoulement purulent au niveau du méat urinaire et des douleurs aiguës à la miction. La période d'incubation est courte (4 à 8 jours) et sans symptôme. Si le traitement n'est pas instauré rapidement, l'urétrite antérieure devient totale Elle peut même se propager aux voies génitales donnant des infections de l'épididyme, du testicule et de la prostate.
 
-*   **Chez la femme,** contrairement à ce qui se passe chez l'homme, la maladie est le plus souvent sans symptômes au début, pour ne devenir visible que lorsque l'infection s'est étendue. Il peut s'agir d'une inflammation de l'urètre, des glandes de Skène et/ou de Bartholin. Souvent la patiente consulte pour leucorrhées et l'on constate alors une cervicite, une salpingite. Parfois il s'agit d'une péritonite.
+- **Chez la femme,** contrairement à ce qui se passe chez l'homme, la maladie est le plus souvent sans symptômes au début, pour ne devenir visible que lorsque l'infection s'est étendue. Il peut s'agir d'une inflammation de l'urètre, des glandes de Skène et/ou de Bartholin. Souvent la patiente consulte pour leucorrhées et l'on constate alors une cervicite, une salpingite. Parfois il s'agit d'une péritonite.
 
 Des formes asymptomatiques sont maintenant signalées aussi chez l'homme.
 
 ### 2. Autres localisations
 
-*   L'infection gonococcique de la femme enceinte peut provoquer une infection de l'enfant lors de l'accouchement. Celle-ci peut se traduire chez le nouveau-né par une infection généralisée, mais la manifestation la plus habituelle est une conjonctivite purulente. L'ophtalmie néonatale est prévenue par l'instillation oculaire systématique aux nouveau-nés d'une solution de nitrate d'argent à 1 pour cent.  
-*   On peut trouver chez l'adulte des formes anorectales et pharyngées.
+- L'infection gonococcique de la femme enceinte peut provoquer une infection de l'enfant lors de l'accouchement. Celle-ci peut se traduire chez le nouveau-né par une infection généralisée, mais la manifestation la plus habituelle est une conjonctivite purulente. L'ophtalmie néonatale est prévenue par l'instillation oculaire systématique aux nouveau-nés d'une solution de nitrate d'argent à 1 pour cent.
+- On peut trouver chez l'adulte des formes anorectales et pharyngées.
 
 ### 3. Complications
 
@@ -48,10 +48,10 @@ Il faut, chez les homosexuels, pratiquer un prélèvement anorectal.
 
 Plusieurs prélèvements seront effectués systématiquement :
 
-*   au niveau de l'urètre,
-*   au niveau des orifices glandulaires vulvaires de Bartholin ou de Skène en cas d'atteinte inflammatoire,
-*   au niveau de l'endocol, avec un spéculum,
-*   au niveau de l'anus.
+- au niveau de l'urètre,
+- au niveau des orifices glandulaires vulvaires de Bartholin ou de Skène en cas d'atteinte inflammatoire,
+- au niveau de l'endocol, avec un spéculum,
+- au niveau de l'anus.
 
 Il faut savoir qu'il existe une réactivation physiologique au moment des règles (4e jour).
 
@@ -63,22 +63,20 @@ Le gonocoque est plus rarement isolé au niveau de la gorge, de lésions cutané
 
 Faire un étalement mince du pus sur une lame de microscope.
 
-Effectuer une coloration de Gram _(voir Développement et Santé, n° 127, 1997, p. 8)_
+Effectuer une coloration de Gram *(voir Développement et Santé, n° 127, 1997, p. 8)*
 
 Examiner la lame pour rechercher la présence :
 
-*   de pus qui se présente sous forme d'un amas de leucocytes altérés, à noyau rose vif et cytoplasme altéré,
-*   de gonocoques qui sont des cocci à gram négatif (rose clair), en forme de grains de café, disposés par paires pouvant être (voir schéma).  
-    *   intracellulaires : à l'intérieur du cytoplasme des leucocytes. (1)
-    *   extracellulaires : amas entre les leucocytes, provenant de l'éclatement de ces derniers. (2).
+- de pus qui se présente sous forme d'un amas de leucocytes altérés, à noyau rose vif et cytoplasme altéré,
+- de gonocoques qui sont des cocci à gram négatif (rose clair), en forme de grains de café, disposés par paires pouvant être (voir schéma).
+  - intracellulaires : à l'intérieur du cytoplasme des leucocytes. (1)
+  - extracellulaires : amas entre les leucocytes, provenant de l'éclatement de ces derniers. (2).
 
 Cet examen permet de faire le diagnostic des urétrites aiguës de l'homme. Un étalement de pus montrant après coloration des diplocoques à gram négatif en majorité intraleucocytaires est très caractéristique et constitue un très fort élément de présomption. La confirmation par culture est cependant recommandée.
 
 Dans toutes les autres formes de gonococcie, en particulier l'urétrite chronique de l'homme et l'infection génitale de la femme, les germes sont rares et l'examen microscopique est peu révélateur. La culture du gonocoque est alors le seul moyen de diagnostic bactériologique.
 
-
 ![](i793-1.jpg)
-
 
 ### 3. Culture
 
@@ -94,17 +92,13 @@ Non réalisé autrefois, il doit maintenant être effectué quand cela est possi
 
 Tous les milieux de culture et les réactifs pour l'identification et l'antibiogramme sont commercialisés par différents laboratoires, accompagnés de fiches techniques.
 
-
 ![](i793-2.jpg)
-
 
 ## IV. Traitement
 
 Il devra tenir compte des résistances apparues dans de nombreuses régions et être établi en fonction des connaissances des résistances locales, des données éventuelles de l'antibiogramme, et de la présence possible d'autres pathologies sexuellement transmissibles associées, Chlamydiae ou syphilis par exemple.
 
-
 ![](i793-3.jpg)
-
 
 ## Conclusion
 
@@ -114,4 +108,4 @@ En revanche, pour les autres prélèvements, en particulier pour le dépistage d
 
 **Prévention :** Le gonocoque est une bactérie responsable d'une maladie sexuellement transmissible. La seule prévention possible réside dans l'usage du préservatif.
 
-_Développement et Santé, n° 136, août 1998_
+*Développement et Santé, n° 136, août 1998*

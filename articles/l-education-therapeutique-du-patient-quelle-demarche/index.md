@@ -32,7 +32,7 @@ Questions de synthèse du diagnostic éducatif
 
 C'est une étape du processus d'éducation au cours de laquelle le soignant s'accorde avec le patient sur les compétences et objectifs spécifiques qui feront l'objet de son apprentissage
 
-_(cf. tableau 1),_ sur les temps et modalités d'évaluation de ses acquis (évaluation pédagogique) ainsi que sur la fréquence des rencontres éducatives. Ces dernières étant le plus souvent, dans l'infection par le VIH, liées au suivi médical du patient.
+*(cf. tableau 1),* sur les temps et modalités d'évaluation de ses acquis (évaluation pédagogique) ainsi que sur la fréquence des rencontres éducatives. Ces dernières étant le plus souvent, dans l'infection par le VIH, liées au suivi médical du patient.
 
 **Tableau 1 : Exemple de compétences et d'objectifs <sup>(3).</sup>**
 
@@ -81,8 +81,8 @@ l'objet d'un apprentissage par le patient.</td>
 
 Il s'agit d'organiser des activités permettant au patient de confirmer et stabiliser les compétences qu'il possède, d'en acquérir d'autres pour fonctionner au mieux dans sa vie quotidienne avec sa maladie. Pour construire les programmes d'éducation, le soignant va devoir prendre appui sur :
 
-*   les informations identifiées lors du diagnostic éducatif : quel est son niveau de motivation pour apprendre, ses souhaits, ses difficultés, ses croyances concernant l'utilité de son traitement, la perception qu'il a de son efficacité etc ;
-*   les compétences d'auto soins à travailler avec le patient.
+- les informations identifiées lors du diagnostic éducatif : quel est son niveau de motivation pour apprendre, ses souhaits, ses difficultés, ses croyances concernant l'utilité de son traitement, la perception qu'il a de son efficacité etc ;
+- les compétences d'auto soins à travailler avec le patient.
 
 Les activités d'éducation proposées seront fondées sur les principes de l'apprentissage, par exemple : explorer les connaissances du patient, solliciter son expérience, partir de situations concrètes, proposer des activités permettant au patient de s'entraîner à résoudre des problèmes.
 
@@ -90,9 +90,9 @@ Les activités d'éducation proposées seront fondées sur les principes de l'ap
 
 L'évaluation comporte deux aspects : l'évaluation de programme et l'évaluation pédagogique du patient.
 
-*   L'évaluation de programme s'intéresse à l'ensemble du programme d'éducation thérapeutique, elle peut être par exemple : clinique (diminution des maladies opportunistes), psychosociale (amélioration de la qualité de vie des patients), pédagogique par l'appréciation des acquis du patient, et s'intéresser au programme dans son ensemble par le moyen des critères de qualité.  
-*   L'évaluation pédagogique du patient va se planifier dès que les compétences du patient seront identifiées et négociées avec lui. Seront évalués les changements opérés chez le patient à l'issue d'une période d'apprentissage donnée. Cette évaluation portera autant sur les compétences d'auto soins (faire face - décider : utiliser des moyens de prévention adaptés pour éviter de contaminer son entourage ou une surcontamination), que sur des compétences à dominante affective (exprimer ses valeurs, ses projets, ses attentes, ses émotions, le sentiment de confiance en soi, etc.).  
-    Ce temps est important car il va permettre d'organiser le suivi du patient en fonction des compétences qu'il doit améliorer ou acquérir pour gérer au mieux sa maladie dans sa vie quotidienne.
+- L'évaluation de programme s'intéresse à l'ensemble du programme d'éducation thérapeutique, elle peut être par exemple : clinique (diminution des maladies opportunistes), psychosociale (amélioration de la qualité de vie des patients), pédagogique par l'appréciation des acquis du patient, et s'intéresser au programme dans son ensemble par le moyen des critères de qualité.
+- L'évaluation pédagogique du patient va se planifier dès que les compétences du patient seront identifiées et négociées avec lui. Seront évalués les changements opérés chez le patient à l'issue d'une période d'apprentissage donnée. Cette évaluation portera autant sur les compétences d'auto soins (faire face - décider : utiliser des moyens de prévention adaptés pour éviter de contaminer son entourage ou une surcontamination), que sur des compétences à dominante affective (exprimer ses valeurs, ses projets, ses attentes, ses émotions, le sentiment de confiance en soi, etc.).  
+  Ce temps est important car il va permettre d'organiser le suivi du patient en fonction des compétences qu'il doit améliorer ou acquérir pour gérer au mieux sa maladie dans sa vie quotidienne.
 
 <table>
 
@@ -118,33 +118,27 @@ La démarche éducative que nous proposons relève d'une approche systémique '4
 
 **Tableau 1 : dossier d'éducation réalisé par les éducateurs du CESAC à Bamako, au cours d'une formation à l'éducation thérapeutique animée par Format Santé dans le cadre d'un programme financé par la fondation GSK.**
 
-
 ![](i1081-1.jpg)
-
-
 
 ![](i1081-2.jpg)
 
-
-### **Suivi et planification de l'ETP**
-
+### Suivi et planification de l'ETP
 
 ![](i1081-3.jpg)
 
-
 **Différents types de séances :**
 
-*   DG = Diagnostic éducatif
-*   PT = Avant la mise sous ARV : séance pré thérapeutique
-*   ST = Après la mise sous ARV : suivi thérapeutique
-*   BC = Bilan de compétences
-*   S1= Séance individuelle/ SC = Séance collective
+- DG = Diagnostic éducatif
+- PT = Avant la mise sous ARV : séance pré thérapeutique
+- ST = Après la mise sous ARV : suivi thérapeutique
+- BC = Bilan de compétences
+- S1= Séance individuelle/ SC = Séance collective
 
 **Bibliographie :**
 
-1. Ivernois (d) J.F, Gagnayre R. Apprendre à éduquer le patient, 2ème éd., Maloine, Paris, 2004.  
-2. Iguenane J, Gagnayre R. L'éducation thérapeutique du patient : le diagnostic éducatif, Kinésithérapie, les cahiers, N° 29-30, Paris, pp.58-64, mai-juin 2004.  
-3. Marchand C., Gagnayre R., Recommandations pour la mise en ceuure de programmes d'éducation thérapeutique pour les patients atteints d'infection par le VIH dans les pays à ressources limitées, Format santé, Fondation GlaxoSmithKline, 2003.  
-4. Le Moigne J.L., La théorie du système général Théorie de la modélisation, Presses Universitaires de France, Paris, 1977. Voir aussi : Iguenane J. Les principes généraux de l'éducation thérapeutique,
+1.  Ivernois (d) J.F, Gagnayre R. Apprendre à éduquer le patient, 2ème éd., Maloine, Paris, 2004.
+2.  Iguenane J, Gagnayre R. L'éducation thérapeutique du patient : le diagnostic éducatif, Kinésithérapie, les cahiers, N° 29-30, Paris, pp.58-64, mai-juin 2004.
+3.  Marchand C., Gagnayre R., Recommandations pour la mise en ceuure de programmes d'éducation thérapeutique pour les patients atteints d'infection par le VIH dans les pays à ressources limitées, Format santé, Fondation GlaxoSmithKline, 2003.
+4.  Le Moigne J.L., La théorie du système général Théorie de la modélisation, Presses Universitaires de France, Paris, 1977. Voir aussi : Iguenane J. Les principes généraux de l'éducation thérapeutique,
 
-_Développement et santé, n° 187, 2007._
+*Développement et santé, n° 187, 2007.*

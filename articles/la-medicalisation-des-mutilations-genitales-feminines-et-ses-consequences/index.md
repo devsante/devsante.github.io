@@ -10,13 +10,13 @@ Les mutilations génitales féminines sont une violation flagrante des droits de
 
 La lutte pour l’élimination des MGF n’est ni africaine, ni européenne, elle est un devoir universel de défense des droits des femmes et des filles.
 
-L’une des caractéristiques fâcheuses de la lutte pour l’élimination des MGF est que la guerre sémantique continue de gaspiller notre temps et nos efforts, et surtout à fissurer notre mouvement. En effet, les termes ‘’mutilations génitales féminines’’, ‘’mutilations sexuelles féminines’’, ‘_’female genital cutting’’_ qui signifie littéralement ‘’coupures génitales féminines’’ chez certains anglo-saxons, continuent d’opposer des écoles et les acteurs, alors que les vraies victimes ont les vraies dénominations : ‘’Nè korossi’’ ou ‘’Bolo koli’’ qui signifient au Mali ‘’asseoir sous le fer’’, ou ‘’laver les mains’’ ; ‘’Kodjigui’’ signifie en Guinée ‘’aller à la rivière’’ ; en Somalie : Gudniin Fircooni (enlever selon le Pharaon d’Egypte) ; au Soudan : Khifad, Khitan Elbanat (purifier).
+L’une des caractéristiques fâcheuses de la lutte pour l’élimination des MGF est que la guerre sémantique continue de gaspiller notre temps et nos efforts, et surtout à fissurer notre mouvement. En effet, les termes ‘’mutilations génitales féminines’’, ‘’mutilations sexuelles féminines’’, ‘*’female genital cutting’’* qui signifie littéralement ‘’coupures génitales féminines’’ chez certains anglo-saxons, continuent d’opposer des écoles et les acteurs, alors que les vraies victimes ont les vraies dénominations : ‘’Nè korossi’’ ou ‘’Bolo koli’’ qui signifient au Mali ‘’asseoir sous le fer’’, ou ‘’laver les mains’’ ; ‘’Kodjigui’’ signifie en Guinée ‘’aller à la rivière’’ ; en Somalie : Gudniin Fircooni (enlever selon le Pharaon d’Egypte) ; au Soudan : Khifad, Khitan Elbanat (purifier).
 
 Il est aussi grave de réduire les mutilations génitales féminines à leur seul aspect sexuel alors qu’au-delà du sexe, il s’agit de la destruction des organes génitaux externes et souvent internes des filles et des femmes. C’est pourquoi j’aime à répéter que l’on ne peut pas réduire les mutilations génitales féminines à leur seul aspect freudien.
 
-Cette guerre sémantique a semé tellement de confusion que le Comité Inter-Africain m’avait demandé d’écrire un article donnant la position des africains, article que l’on peut retrouver en intégralité sur le lien suivant : [http://www.morissanda.com/mgffgm.htm](http://www.morissanda.com/mgffgm.htm)
+Cette guerre sémantique a semé tellement de confusion que le Comité Inter-Africain m’avait demandé d’écrire un article donnant la position des africains, article que l’on peut retrouver en intégralité sur le lien suivant : [<http://www.morissanda.com/mgffgm.htm>](http://www.morissanda.com/mgffgm.htm)
 
-Le 20 décembre 2012, grâce à une campagne internationale féroce menée par le Comité Inter-Africain et deux de ses partenaires (_No Peace without Justice_ et _La Palabre_) auprès des chefs d’états africains et des états membres des Nations-Unies, l’Assemblée générale des Nations-Unies a adopté, à l’unanimité, la Résolution 67/146 : « Intensification de l'action mondiale visant à éliminer les mutilations génitales féminines » dans laquelle les 193 pays membres des Nations-Unies ont définitivement choisi le terme « mutilations génitales féminines ».’ Pour ceux et celles qui ont pour objectif réel d’éliminer les MGF, le débat sur la terminologie est clos depuis l’adoption de cette résolution.
+Le 20 décembre 2012, grâce à une campagne internationale féroce menée par le Comité Inter-Africain et deux de ses partenaires (*No Peace without Justice* et *La Palabre*) auprès des chefs d’états africains et des états membres des Nations-Unies, l’Assemblée générale des Nations-Unies a adopté, à l’unanimité, la Résolution 67/146 : « Intensification de l'action mondiale visant à éliminer les mutilations génitales féminines » dans laquelle les 193 pays membres des Nations-Unies ont définitivement choisi le terme « mutilations génitales féminines ».’ Pour ceux et celles qui ont pour objectif réel d’éliminer les MGF, le débat sur la terminologie est clos depuis l’adoption de cette résolution.
 
 ## II. Formes des MGF
 
@@ -32,7 +32,7 @@ La médicalisation des MGF est une conséquence perverse de la lutte des premiè
 
 Si la porte d’entrée médico-sanitaire permettait de captiver rapidement et efficacement l’attention des populations, la description scientifique était si belle qu’elle aboutissait à la conclusion indirecte suivante : Pourquoi pas à l’hôpital, pour limiter les dégâts ?
 
-La réaction des populations à ces arguments fut immédiate : **_« Effectuer les MGF dans de ‘’bonnes conditions’’ médico-sanitaires, c'est-à-dire à l’hôpital et de surcroît par un agent de santé »._**
+La réaction des populations à ces arguments fut immédiate : ***« Effectuer les MGF dans de ‘’bonnes conditions’’ médico-sanitaires, c'est-à-dire à l’hôpital et de surcroît par un agent de santé ».***
 
 Il faut ajouter à cela le fait que les agents de santé (sages-femmes, infirmières, matrones…) sont rémunérés pour exécuter l’excision.
 
@@ -48,13 +48,14 @@ C’est pourquoi le Comité Inter-Africain a développé une stratégie spécifi
 
 Il est important de noter que si la sensibilisation des populations et des exciseuses traditionnelles requiert du temps, celle des agents de santé devrait être plus facile, étant donné leur mission et leur niveau d’éducation. À ce titre, la lutte contre la médicalisation doit être menée comme suit :
 
-*   L’application stricte des règles de déontologie médicale dans toutes les structures de santé et par conséquent, une interdiction totale de la pratique des MGF par les agents de santé et dans les centres de santé, par des non-agents de la santé. Les ministères de la santé, les ordres des médecins, doivent prendre des actes administratifs tels que le retrait ou la suspension de diplômes ou d’agréments de ceux ou celles qui pratiquent les MGF médicalisées.  
-*   L’application intégrale de la loi anti-MGF dans les pays où elle existe et, comme le CI-AF le propose, la sévérité des sanctions judiciaires à l’encontre des agents de santé coupables.  
-*   La poursuite de l’information et de la sensibilisation du personnel de santé et son implication dans la campagne anti-MGF. En effet, l’expérience du terrain montre, très souvent, que l’évidence des connaissances des agents de santé sur les mutilations génitales féminines est fausse ou surévaluée. Il nous est arrivé de rencontrer des agents de santé qui faisaient plus confiance aux paroles de faux marabouts dans ce domaine qu’à leurs livres d’anatomo-pathologie.
+- L’application stricte des règles de déontologie médicale dans toutes les structures de santé et par conséquent, une interdiction totale de la pratique des MGF par les agents de santé et dans les centres de santé, par des non-agents de la santé. Les ministères de la santé, les ordres des médecins, doivent prendre des actes administratifs tels que le retrait ou la suspension de diplômes ou d’agréments de ceux ou celles qui pratiquent les MGF médicalisées.
+- L’application intégrale de la loi anti-MGF dans les pays où elle existe et, comme le CI-AF le propose, la sévérité des sanctions judiciaires à l’encontre des agents de santé coupables.
+- La poursuite de l’information et de la sensibilisation du personnel de santé et son implication dans la campagne anti-MGF. En effet, l’expérience du terrain montre, très souvent, que l’évidence des connaissances des agents de santé sur les mutilations génitales féminines est fausse ou surévaluée. Il nous est arrivé de rencontrer des agents de santé qui faisaient plus confiance aux paroles de faux marabouts dans ce domaine qu’à leurs livres d’anatomo-pathologie.
 
 C’est pour cette raison que le Comité Inter-Africain a créé le réseau africain des professionnels de la santé contre les mutilations génitales féminines, à l’instar des réseaux des leaders religieux, des médias, des jeunes et des communicateurs traditionnels.
 
-## V. La réparation chirurgicale des dommages causés par les MGF/  
+## V. La réparation chirurgicale des dommages causés par les MGF/
+
 la reconstruction/l’anti-médicalisation des MGF
 
 La réparation chirurgicale des dommages causés par les mutilations génitales féminines, ou la reconstruction anatomique, a redonné l’espoir à des milliers de femmes victimes et d’activistes ; elle doit être soutenue et encouragée. Des témoignages éloquents et souvent poignants de femmes ayant bénéficié de cette reconstruction corroborent ce choix.

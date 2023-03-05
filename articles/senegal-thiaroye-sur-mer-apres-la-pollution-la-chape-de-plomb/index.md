@@ -58,7 +58,7 @@ L'OMS, dans ses préconisations, ajoute que "des concentrations supérieures à 
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -106,4 +106,4 @@ En 1995, les habita lits de Ngagne Diaw commencent à recycler de manière infor
 
 </table>
 
-_Développement et Santé, n°194, 2009_
+*Développement et Santé, n°194, 2009*

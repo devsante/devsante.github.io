@@ -10,11 +10,11 @@ La cervicalgie est un symptôme lié à une pathologie dégénérative (arthrose
 
 Son traitement sera tout d'abord médical dans la phase hyperalgique; la kinésithérapie intervenant véritablement après diminution des douleurs aiguës.
 
-## **I. La prise en charge** **sera personnalisée**
+## I. La prise en charge sera personnalisée
 
 Elle s'effectuera après un bilan complet, plus particulièrement orienté dans trois directions.
 
-### **1. L'étude de la posture**
+### 1. L'étude de la posture
 
 **Tout d'abord cervicale:**
 
@@ -28,64 +28,61 @@ Elle s'effectuera après un bilan complet, plus particulièrement orienté dans 
 
 Existe-t-il une inégalité de longueur des membres inférieurs responsables d'une bascule du bassin ou une anomalie rachidienne (scoliose, hypercyphose dorsale) entraînant des réactions de compensation sus-jacentes ?
 
-### **2. L'étude des signes locaux**
+### 2. L'étude des signes locaux
 
 La palpation de toute la région cervicoscapulaire cherche à localiser les contractures musculaires (trapèzes, angulaires, rhomboïdes) et les points douloureux ligamentaires (interépineux).
 
-### **3. L'étude de la mobilité**
+### 3. L'étude de la mobilité
 
 Le rachis cervical est au service de la tête et plus particulièrement des yeux. Sa mobilité sert essentiellement à orienter le regard. Dans un premier temps, on étudie la mobilité active, puis la mobilité passive afin de déterminer quel type de mobilité (flexion-extension, inclinaisons latérales, rotations) est réduit.
 
 Il est intéressant de connaître la profession qui a souvent une influence considérable sur l'apparition de la cervicalgie (Exemples : secrétaire, couturière, avec une attitude en flexion de la tête ; peintre ou plâtrier avec des attitudes prolongées en extension). Le profil psychologique du patient (anxieux, hyperémotif ou dépressif) peut influencer l'état de tension des muscles cervicaux.
 
-## **II. On distingue quatre grands tableaux** **cliniques**
+## II. On distingue quatre grands tableaux cliniques
 
-### **1. Le torticolis**
+### 1. Le torticolis
 
 C'est une cervicalgie paroxystique avec attitude antalgique en inflexion latérale, rotation du côté opposé et légère flexion ou extension. Il s'accompagne de douleurs violentes à la moindre tentative de mobilisation.
 
-### **2. La cervicalgie aiguë**
+### 2. La cervicalgie aiguë
 
 Elle ne comporte pas d'attitude antalgique, mais une limitation douloureuse de Plusieurs types de mouvements.
 
-### **3. La cervicalgie chronique**
+### 3. La cervicalgie chronique
 
 Elle est marquée par une limitation en fin de mouvements et des douleurs provoquées par des positions prolongées.
 
-### **4. La névralgie cervico-brachiale**
+### 4. La névralgie cervico-brachiale
 
 Elle correspond à l'irritation d'une racine nerveuse à son émergence au niveau du trou de conjugaison, soit par une compression discale, soit par des calcifications liées à l'arthrose. C'est une douleur intense qui suit un trajet le long du bras particulier à la racine touchée.
 
-## **III. Traitement kinésithérapique**
+## III. Traitement kinésithérapique
 
-###   
-**1.** Le premier objectif est la **lutte contre la douleur.**
+### 1. Le premier objectif est la lutte contre la douleur.\*\*
 
-**_a._** L'_immobilisation_ est parfois indispensable, en cas de torticolis ou de cervicalgie aiguë, parallèlement au traitement médical. Il s'agit de confectionner un collier en mousse parfaitement adapté à la morphologie du patient pour être réellement efficace. A défaut, un collier en carton entouré de coton peut être utile.
+***a.*** L'*immobilisation* est parfois indispensable, en cas de torticolis ou de cervicalgie aiguë, parallèlement au traitement médical. Il s'agit de confectionner un collier en mousse parfaitement adapté à la morphologie du patient pour être réellement efficace. A défaut, un collier en carton entouré de coton peut être utile.
 
-**_b._ L'action de la chaleur**permet un effet sédatif et décontracturant, avec des linges réchauffés préalablement par de l'eau chaude.
+***b.* L'action de la chaleur**permet un effet sédatif et décontracturant, avec des linges réchauffés préalablement par de l'eau chaude.
 
-**c.** _Le massage à_ visée antalgique doit être utilisé à chaque séance. L'installation du patient est primordiale et doit respecter son confort. Il peut être assis face à la table, front appuyé sur un coussin volumineux évitant toute flexion importante du tronc. Il peut être allongé sur le dos, tête en débord de table soutenue par le kinésithérapeute, ce qui permet des mobilisations passives douces, de faibles amplitudes pour assurer la décontraction. Les tractions cervicales manuelles dans l'axe, d'intensité modérée visent une décompression des disques intervertébraux et des apophyses articulaires postérieures. Le massage doit être global en s'étendant largement aux régions péricervicales par des pressions glissées profondes, des pétrissages, des étirements mais également des vibrations sur les points douloureux.
+**c.** *Le massage à* visée antalgique doit être utilisé à chaque séance. L'installation du patient est primordiale et doit respecter son confort. Il peut être assis face à la table, front appuyé sur un coussin volumineux évitant toute flexion importante du tronc. Il peut être allongé sur le dos, tête en débord de table soutenue par le kinésithérapeute, ce qui permet des mobilisations passives douces, de faibles amplitudes pour assurer la décontraction. Les tractions cervicales manuelles dans l'axe, d'intensité modérée visent une décompression des disques intervertébraux et des apophyses articulaires postérieures. Le massage doit être global en s'étendant largement aux régions péricervicales par des pressions glissées profondes, des pétrissages, des étirements mais également des vibrations sur les points douloureux.
 
-### **2.** Le deuxième objectif est de **retrouver** **progressivement une mobilité cervicale** **fonctionnelle.**
+### 2. Le deuxième objectif est de retrouver progressivement une mobilité cervicale fonctionnelle
 
 Avec prudence et sans douleur, la mobilisation est d'abord réalisée de façon active-aidée allongé sur le dos, c'est-à-dire effectuée par le patient mais contrôlée et accompagnée par le thérapeute; elle vise plus particulièrement les secteurs à mobilité réduite dans le but de réharmoniser les différentes articulations du rachis cervical, mais aussi de redonner confiance au patient dans ses capacités à se mouvoir de façon indolore.
 
-Par la suite, le travail est uniquement réalisé activement par le patient et l'on utilise le regard; on pourra par exemple confectionner une "longue vue" avec une feuille de papier roulée et demander à la personne, en utilisant cette dernière, de suivre les contours d'une fenêtre ou de figures géométriques de tailles variables dessinées sur un mur; ces exercices ont pour but de solliciter le rachis cervical dans ses amplitudes les plus limitées ainsi que les muscles qui y sont associés _(figure)._
-
+Par la suite, le travail est uniquement réalisé activement par le patient et l'on utilise le regard; on pourra par exemple confectionner une "longue vue" avec une feuille de papier roulée et demander à la personne, en utilisant cette dernière, de suivre les contours d'une fenêtre ou de figures géométriques de tailles variables dessinées sur un mur; ces exercices ont pour but de solliciter le rachis cervical dans ses amplitudes les plus limitées ainsi que les muscles qui y sont associés *(figure).*
 
 ![](i635-1.jpg)
-
 
 **3.** Le troisième objectif est la **rééducation** **musculaire** qui s'effectue en fonction des deux besoins du rachis cervical: la stabilité (donc l'endurance) et la mobilité.
 
 Il faut réaliser un compromis et éviter de viser un renforcement musculaire strict, mais plutôt parvenir, là aussi, à une harmonisation des différentes fonctions des muscles en veillant surtout à s'adapter au patient, c'est à dire en tenant compte de son âge et de sa pathologie. Cet objectif n'est pas réalisé indépendamment des deux premiers mais associé à ceux-ci de façon progressive.
 
-**a.** On utilise d'abord des _sollicitations musculaires à distance_ des cervicales sur le principe du "débordement d'énergie " ; par exemple, patient allongé sur le dos, on oppose une résistance importante d'environ six secondes à l'élévation des membres supérieurs joints, ce qui aura pour effet de faire travailler par diffusion les muscles postérieurs du rachis cervical (on parvient à stimuler tous les muscles uniquement en changeant la direction de la résistance).
+**a.** On utilise d'abord des *sollicitations musculaires à distance* des cervicales sur le principe du "débordement d'énergie " ; par exemple, patient allongé sur le dos, on oppose une résistance importante d'environ six secondes à l'élévation des membres supérieurs joints, ce qui aura pour effet de faire travailler par diffusion les muscles postérieurs du rachis cervical (on parvient à stimuler tous les muscles uniquement en changeant la direction de la résistance).
 
-**b.** Ensuite, on utilise des _sollicitations directes._ Par exemple, le patient assis avec le rachis en position corrigée (respectant l'équilibre de toutes les courbures physiologiques), on effectue des poussées dosées au niveau des différentes faces du crâne en demandant de résister pour ne pas changer de position.
+**b.** Ensuite, on utilise des *sollicitations directes.* Par exemple, le patient assis avec le rachis en position corrigée (respectant l'équilibre de toutes les courbures physiologiques), on effectue des poussées dosées au niveau des différentes faces du crâne en demandant de résister pour ne pas changer de position.
 
-**c.** Enfin, on travaille _l'ajustement neuromusculaire_ du rachis cervical en effectuant des sollicitations alternées et rapides, mais de faible intensité, en divers points de la tête en demandant au patient de réagir le plus rapidement possible sans pour autant être brusque; le principe est d'adapter correctement la réaction en vitesse et en intensité, aussi bien par rapport à la contraction qu'au relâchement.
+**c.** Enfin, on travaille *l'ajustement neuromusculaire* du rachis cervical en effectuant des sollicitations alternées et rapides, mais de faible intensité, en divers points de la tête en demandant au patient de réagir le plus rapidement possible sans pour autant être brusque; le principe est d'adapter correctement la réaction en vitesse et en intensité, aussi bien par rapport à la contraction qu'au relâchement.
 
 **4.** Ces différents objectifs permettent une **prise de conscience du schéma corporel de cette région cervicale.**
 
@@ -99,4 +96,4 @@ Le patient doit prendre conscience totalement et définitivement de la position 
 
 La cervicalgie est une pathologie souvent complexe, sa prise en charge kinésithérapique doit être adaptée à chaque tableau clinique en ayant soin d'être rigoureux, prudent et non douloureux; ainsi le patient peut être convaincu de ses capacités à utiliser son rachis cervical sans crainte.
 
-_Développement et Santé, n°116, avril 1995_
+*Développement et Santé, n°116, avril 1995*

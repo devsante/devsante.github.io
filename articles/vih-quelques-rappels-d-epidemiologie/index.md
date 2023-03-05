@@ -13,21 +13,21 @@ date: "2010-03-09"
 
 **La prévention** comporte toutes actions dont le but est de supprimer ou de diminuer :
 
-*   l'exposition à un facteur favorisant ou la transmission de l'agent pathogène (prévention primaire) ;
-*   l'apparition de la maladie (prévention secondaire) ;
-*   la fréquence des complications ou des décès (prévention tertiaire).
+- l'exposition à un facteur favorisant ou la transmission de l'agent pathogène (prévention primaire) ;
+- l'apparition de la maladie (prévention secondaire) ;
+- la fréquence des complications ou des décès (prévention tertiaire).
 
 Pour les maladies infectieuses, on considère qu'une chaîne épidémiologique est constituée par:
 
-*   un agent pathogène responsable de l'infection puis de la maladie et de ses complications (virus, bactérie, champignon ou parasite) ;
-*   un sujet infecté ou malade qui élimine cet agent pathogène (il est donc contagieux) ;
-*   un sujet réceptif, non immunisé, et qui, lorsqu'il est en contact avec l'agent pathogène, se contamine (l'agent pénètre dans son organisme et s'y multiplie).
+- un agent pathogène responsable de l'infection puis de la maladie et de ses complications (virus, bactérie, champignon ou parasite) ;
+- un sujet infecté ou malade qui élimine cet agent pathogène (il est donc contagieux) ;
+- un sujet réceptif, non immunisé, et qui, lorsqu'il est en contact avec l'agent pathogène, se contamine (l'agent pénètre dans son organisme et s'y multiplie).
 
 La transmission d'un sujet à l'autre peut être :
 
-*   directe par voie aérienne ;
-*   indirecte par l'intermédiaire d'un rapport sexuel, du sang, des mains ou de tout autre objet (de soin, de toilette, etc.) ;
-*   indirecte par vecteur : l'agent pathogène a un cycle de développement chez un animal avant d'être transmis à un autre sujet.
+- directe par voie aérienne ;
+- indirecte par l'intermédiaire d'un rapport sexuel, du sang, des mains ou de tout autre objet (de soin, de toilette, etc.) ;
+- indirecte par vecteur : l'agent pathogène a un cycle de développement chez un animal avant d'être transmis à un autre sujet.
 
 ## II. Objectifs infirmiers
 
@@ -99,13 +99,13 @@ Le virus VIH est transmis essentiellement par voie sexuelle ; le plus souvent, l
 
 #### a. Les facteurs favorisants
 
-*   Les IST (infections sexuellement transmissibles) favorisent très fortement la contamination par le VIH.  
-*   Inversement, l'infection par le VIH favorise les IST, particulièrement les IST ulcératives et les infections à _Trichomonas_ chez la femme.  
-*   Rapports violents (viols), maladroits, rapides.  
-*   Rapports au cours des règles.  
-*   La non circoncision des hommes.  
-*   Le stade de la maladie chez le donneur (si la virémie est élevée ou si le nombre de CD4 est bas).  
-*   La contamination par un patient non traité par ARV par rapport à un patient traité.
+- Les IST (infections sexuellement transmissibles) favorisent très fortement la contamination par le VIH.
+- Inversement, l'infection par le VIH favorise les IST, particulièrement les IST ulcératives et les infections à *Trichomonas* chez la femme.
+- Rapports violents (viols), maladroits, rapides.
+- Rapports au cours des règles.
+- La non circoncision des hommes.
+- Le stade de la maladie chez le donneur (si la virémie est élevée ou si le nombre de CD4 est bas).
+- La contamination par un patient non traité par ARV par rapport à un patient traité.
 
 Certains comportements favorisent les infections dans une population : nombre élevé de partenaires différents, fréquence des rapports sexuels, fréquentation des prostitués.
 
@@ -165,25 +165,23 @@ Le continent africain est de loin le plus touché dans le monde, et il est admis
 
 #### Les faits confirmés
 
-*   L'Afrique est le continent où le virus VIH-1 circule depuis le plus longtemps.  
-*   L'Afrique est le continent où les 2 virus sont apparus et circulent depuis longtemps.  
-*   La séroprévalence est d'autant plus élevée que la séroprévalence au virus herpès 2 l'est aussi.  
-*   La séroprévalence est d'autant plus élevée que l'âge des conjoints lors du mariage est élevé et la différence d'âge entre femme et homme est grande (plus l'homme est âgé et la femme jeune, plus le risque est grand).  
-*   La séroprévalence VIH est d'autant plus importante que le taux de circoncision des hommes est bas.
-
+- L'Afrique est le continent où le virus VIH-1 circule depuis le plus longtemps.
+- L'Afrique est le continent où les 2 virus sont apparus et circulent depuis longtemps.
+- La séroprévalence est d'autant plus élevée que la séroprévalence au virus herpès 2 l'est aussi.
+- La séroprévalence est d'autant plus élevée que l'âge des conjoints lors du mariage est élevé et la différence d'âge entre femme et homme est grande (plus l'homme est âgé et la femme jeune, plus le risque est grand).
+- La séroprévalence VIH est d'autant plus importante que le taux de circoncision des hommes est bas.
 
 ![](image002.gif)
-
 
 Carte des taux de séroprévalence VIH des pays africains (rapport ONUSIDA 2008)
 
 ### 5. Particularités du VIH-2
 
-*   Transmissibilité < VIH-1
-*   Associé à une charge virale plus faible et une progression lente de l'immunodépression
-*   Co-infections VIH-1/VIH-2 fréquentes
-*   Détermination de la charge virale VIH-2 difficile
-*   Pas sensible aux ARV nucléosidiques ; résistance naturelle à certaines antiprotéases (Nelfinavir)
+- Transmissibilité < VIH-1
+- Associé à une charge virale plus faible et une progression lente de l'immunodépression
+- Co-infections VIH-1/VIH-2 fréquentes
+- Détermination de la charge virale VIH-2 difficile
+- Pas sensible aux ARV nucléosidiques ; résistance naturelle à certaines antiprotéases (Nelfinavir)
 
 ### 6. La transmission mère enfant (TME)
 
@@ -231,7 +229,7 @@ Après 18 mois : on peut, comme chez l'adulte, faire le diagnostic sur les antic
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 

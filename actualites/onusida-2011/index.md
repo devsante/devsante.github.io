@@ -10,8 +10,8 @@ Surtout, pour la première fois, l’infection recule : en effet le nombre de no
 
 Trois explications à ces bons résultats :
 
-*   La généralisation de l'utilisation des préservatifs
-*   L’extension de la circoncision
-*   Et enfin le meilleur accès aux antirétroviraux : ceux-ci, depuis 1995, ont évité 2,5 millions de décès
+- La généralisation de l'utilisation des préservatifs
+- L’extension de la circoncision
+- Et enfin le meilleur accès aux antirétroviraux : ceux-ci, depuis 1995, ont évité 2,5 millions de décès
 
 Ne crions pas trop vite victoire : de grands efforts restent à faire dans la prévention et la prise en charge, en attendant un hypothétique vaccin…

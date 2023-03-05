@@ -8,7 +8,7 @@ date: "2009-04-27"
 
 ## I. Épidémiologie
 
-_Neisseria meningitidis_ est à l'origine d'épidémies de méningites.  
+*Neisseria meningitidis* est à l'origine d'épidémies de méningites.  
 Le germe a été isolé en 1887, mais la première description de méningococcie date de 1805, lors d'une flambée épidémique à Genève (Suisse).  
 Ce germe appartient à une famille composée de 12 sous-types ou séro-groupes dont 4 provoquent des épidémies : ce sont les sous-types A, B , C et W135. La pathogénicité, l'immunogénicité et le potentiel épidémique sont variables d'un groupe à l'autre, l'identification du sous-type est donc capitale pour enrayer une épidémie.  
 En Europe, en Amérique et en Océanie, on retrouve principalement les sous-types B et C, dont la progression a été importante ces 10 dernières années (flambée du méningocoque B en Nouvelle-Zélande). En Asie, il s'agit souvent du groupe C. En Afrique sévit tout particulièrement le sous-groupe A et, dans une moindre mesure, le C et le W135. Dans ces contrées, on assiste à des flambées épidémiques particulièrement mortelles. Le séro-groupe W135 sévit en Arabie Saoudite et sa propagation semble avoir été favorisée par le pèlerinage du Hadj en 2000-2001. En 2002, lors de l'épidémie du méningocoque W135, il a été recensé 13 000 cas dont 1000 décès.
@@ -24,7 +24,7 @@ Cette ceinture semble s'étendre vers le Sud. La région des grands lacs est tou
 
 ## III. Les recommandations de l'OMS
 
-Les recommandations d- en cas d'émergence du méningocoque W135, des accords ont été passés par l'OMS en 2003 avec le fabricant pour fournir à l'Afrique, à prix abordable, un vaccin polyosidique protégeant contre les 3 souches A, C et W135 (_voir plus bas_).  
+Les recommandations d- en cas d'émergence du méningocoque W135, des accords ont été passés par l'OMS en 2003 avec le fabricant pour fournir à l'Afrique, à prix abordable, un vaccin polyosidique protégeant contre les 3 souches A, C et W135 (*voir plus bas*).  
 A la suite des grandes épidémies de 1995 et 1996 en Afrique, a été mis en place un GIC (Groupement International Coordonné) Pour l'approvisionne ment en vaccin anti-méningococcique, son objectif étant de permettre à la fois l'accès au vaccin, au matériel d'injection nécessaire et au chloramphéni¬col huileux, et ce de façon rapide, équitable et avec une utilisation à bon escient. Le GIC est composé de représentants (les Nations-Unies, d'ONG et de partenaires techniques du secteur privé.
 
 ## IV. Mise en oeuvre pratique de moyens de prévention en cas de risque épidémique
@@ -37,8 +37,8 @@ Elles sont actuellement renforcées dans 12 pays africains : Bénin, Burkina Fas
 
 Elle est déclenchée sous la menace épidémiologique détectée en utilisant les deux seuils épidémiologiques (OMS, 2000) :
 
-*   **le seuil d'alerte** : il permet de donner l'alarme et de lancer une enquête en début d'épidémie, de vérifier l'état de préparation pour faire face à une épidémie ; de déclencher une campagne de vaccination en cas d'épidémie dans une zone proche et de déterminer les zones prioritaires pour une campagne de vaccination au cours d'une épidémie ;
-*   **le seuil épidémique** : il permet de confirmer l'émergence d'une épidémie afin de renforcer les mesures de contrôle : vaccination de masse et prise en charge thérapeutique adaptée.
+- **le seuil d'alerte** : il permet de donner l'alarme et de lancer une enquête en début d'épidémie, de vérifier l'état de préparation pour faire face à une épidémie ; de déclencher une campagne de vaccination en cas d'épidémie dans une zone proche et de déterminer les zones prioritaires pour une campagne de vaccination au cours d'une épidémie ;
+- **le seuil épidémique** : il permet de confirmer l'émergence d'une épidémie afin de renforcer les mesures de contrôle : vaccination de masse et prise en charge thérapeutique adaptée.
 
 La vaccination de circonstance n'est pas une arme prophylactique mais un recours en cas d'épidémie avérée.  
 La vaccination doit être programmée avec le vaccin polyosidique capsulaire bivalent A + C ou trivalent A + C + W135 en fonction du sérogroupe à l'origine de l'épidémie. Le vaccin A + C + W135 ne doit être utilisé que dans le cas d'épidémie à W135.
@@ -47,9 +47,9 @@ La vaccination doit être programmée avec le vaccin polyosidique capsulaire biv
 
 La vaccination de masse est mise en oeuvre :
 
-*   elle doit toucher le maximum de population cible : âge de 1 à 15 ans ou mieux de 6 mois à 30 ans ;
-*   elle doit être commencée à l'épicentre de l'épidémie débutante, puis le long des principales voies de déplacement ;
-*   elle doit débuter en un minimum de temps : multiplicité des équipes de vaccinateurs, pistolets injecteurs sans aiguille sous pression, flacons de vaccin multidoses.
+- elle doit toucher le maximum de population cible : âge de 1 à 15 ans ou mieux de 6 mois à 30 ans ;
+- elle doit être commencée à l'épicentre de l'épidémie débutante, puis le long des principales voies de déplacement ;
+- elle doit débuter en un minimum de temps : multiplicité des équipes de vaccinateurs, pistolets injecteurs sans aiguille sous pression, flacons de vaccin multidoses.
 
 Les résultats sont rapidement favorables : la vaccination de masse entraîne une chute brutale du taux d'incidence au 5ème jour.  
 La vaccination préventive des populations à risque intéresse les zones voisines des épidémies : seuil d'alerte de 5/100 000/semaine.
@@ -61,31 +61,31 @@ Le vaccin polyosidique monovalent contre le sérogroupe A sera le premier vaccin
 
 ### Seuil d'alerte
 
-*   Cinq cas de MCSm pour 100000 habitants en une semaine dans un district ayant une population comprise entre 30 000 et 100 000 habitants.  
-*   Deux cas en une semaine ou augmentation du nombre de cas par rapport aux années précédentes lorsque la population est inférieure à 30 000 habitants.
+- Cinq cas de MCSm pour 100000 habitants en une semaine dans un district ayant une population comprise entre 30 000 et 100 000 habitants.
+- Deux cas en une semaine ou augmentation du nombre de cas par rapport aux années précédentes lorsque la population est inférieure à 30 000 habitants.
 
 ### Seuil épidémique
 
-*   **Quinze cas pour 100 000** habitants par semaine pen¬dant une semaine dans un district ayant une population comprise entre 30 000 et 100 000 habitants.  
-*   **Cinq cas en une semaine ou doublement des cas en 3 semaines** pour une population de moins de 30 000 habitants. Toutefois, quand le risque épidémique est élevé (par exemple, aucune épidémie depuis 3 ans ou seuil d'alerte dépassé au début de la saison sèche), le seuil épidémique recommandé est de 10 cas/100 000 personnes par semaine.  
-*   A des fins opérationnelles, lorsqu'une épidémie est confirmée dans une zone limitée, le seuil d'alerte sert aussi de seuil épidémique.
+- **Quinze cas pour 100 000** habitants par semaine pen¬dant une semaine dans un district ayant une population comprise entre 30 000 et 100 000 habitants.
+- **Cinq cas en une semaine ou doublement des cas en 3 semaines** pour une population de moins de 30 000 habitants. Toutefois, quand le risque épidémique est élevé (par exemple, aucune épidémie depuis 3 ans ou seuil d'alerte dépassé au début de la saison sèche), le seuil épidémique recommandé est de 10 cas/100 000 personnes par semaine.
+- A des fins opérationnelles, lorsqu'une épidémie est confirmée dans une zone limitée, le seuil d'alerte sert aussi de seuil épidémique.
 
 ## VI. Indications particulières de la vaccination
 
 Enfants souffrant :
 
-*   d'asplénie fonctionnelle (drépanocytose) ou anatomique,
-*   de déficit immunitaire.
+- d'asplénie fonctionnelle (drépanocytose) ou anatomique,
+- de déficit immunitaire.
 
 Dans la ceinture africaine, après l'âge de 2 ans, la recommandation pour ces enfants est l'administration du vaccin polyosidique tétravalent ACYW135.
 
 ## VII. Les différents vaccins
 
-*   Le vaccin méningococcique A + C, vaccin polyosidique non conjugué, est bien toléré, mais n'est efficace qu'à partir de l'âge de 2 ans. Il ne crée pas de mémoire immunologique et ne diminue pas le portage pharyngé. Le vaccin polyosidique A + C protège en principe pendant 4 ans. Il est utilisable à partir de l'âge de 9 mois et même de 6 mois en cas d'épidémie de méningocoque A. lI n'est pas utilisé dans les programmes de vaccination systématique du nourrisson.  
-*   Le vaccin trivalent A + C + W135 est un vaccin polyosidique non conjugué qui a les mêmes caractéristiques que le vaccin A + C. Il est réservé aux épidémies dues à la souche du sérogroupe W135.  
-*   Le vaccin tétravalent A + C + Y + W135 est destiné aux vaccinations des pélerins se rendant à La Mecque.  
-*   Le vaccin C conjugué protège dès l'âge de 2 mois. Il a une mémoire immunologique (immunité T-dépendante avec possibilité de réponse anam-nestique), réduit le portage du germe et donc la contamination. Il est efficace et bien toléré dans toutes les classes d'âge, y compris chez le nourrisson, et est facile à introduire dans le calendrier des programmes de vaccination systématique de l'enfant.  
-*   Un nouveau vaccin antiméningococcique A conjugué, spécialement destiné aux pays afri¬cains, est en cours de mise au point par le projet MVP (Projet Vaccin Méningite). Sa disponibilité est attendue pour 2011.
+- Le vaccin méningococcique A + C, vaccin polyosidique non conjugué, est bien toléré, mais n'est efficace qu'à partir de l'âge de 2 ans. Il ne crée pas de mémoire immunologique et ne diminue pas le portage pharyngé. Le vaccin polyosidique A + C protège en principe pendant 4 ans. Il est utilisable à partir de l'âge de 9 mois et même de 6 mois en cas d'épidémie de méningocoque A. lI n'est pas utilisé dans les programmes de vaccination systématique du nourrisson.
+- Le vaccin trivalent A + C + W135 est un vaccin polyosidique non conjugué qui a les mêmes caractéristiques que le vaccin A + C. Il est réservé aux épidémies dues à la souche du sérogroupe W135.
+- Le vaccin tétravalent A + C + Y + W135 est destiné aux vaccinations des pélerins se rendant à La Mecque.
+- Le vaccin C conjugué protège dès l'âge de 2 mois. Il a une mémoire immunologique (immunité T-dépendante avec possibilité de réponse anam-nestique), réduit le portage du germe et donc la contamination. Il est efficace et bien toléré dans toutes les classes d'âge, y compris chez le nourrisson, et est facile à introduire dans le calendrier des programmes de vaccination systématique de l'enfant.
+- Un nouveau vaccin antiméningococcique A conjugué, spécialement destiné aux pays afri¬cains, est en cours de mise au point par le projet MVP (Projet Vaccin Méningite). Sa disponibilité est attendue pour 2011.
 
 Il n'existe pas de vaccin contre les méningocoques des groupes B et X.
 
@@ -156,8 +156,8 @@ du sujet  à risque
 <td style="width: 119px;">
 
 > 2 ans, si épidémie,  
-protection contre le méningocoque A  
-à partir de 6-9mois
+> protection contre le méningocoque A  
+> à partir de 6-9mois
 
 </td>
 
@@ -190,9 +190,7 @@ une injection assure une protection d'au moins 10 ans
 
 </table>
 
-
 ![](afrique.jpg)
-
 
 **Pays de la ceinture de la méningite de Lapeyssonnie.**
 

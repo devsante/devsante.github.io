@@ -39,9 +39,9 @@ Le même calcul doit être fait pour chaque vaccin en tenant compte du calendrie
 
 Les **besoins en consommables** sont évalués d'après le nombre de doses de vaccins :
 
-*   Seringues d'injection = nombre de doses de vaccin injectable.  
-*   Seringues de dilution = nombre de flacons à reconstituer.  
-*   Boîtes de sécurité = nombre de seringues/100.
+- Seringues d'injection = nombre de doses de vaccin injectable.
+- Seringues de dilution = nombre de flacons à reconstituer.
+- Boîtes de sécurité = nombre de seringues/100.
 
 Les **besoins mensuels** représentent un douzième des besoins annuels.  
 L'autre méthode qui peut être utilisée repose sur la consommation de l'année précédente corrigée par le taux d'accroissement annuel (défini par le niveau central). Cette méthode ne peut pas être appliquée si les mouvements de population dans la zone sont importants ou si des ruptures de stocks ont entraîné des interruptions durables de la vaccination.  
@@ -98,29 +98,27 @@ Vaccin antitétanique :       5 injections 1 flacon de 10 doses
 Un système efficace d e gestion des stocks doit être en place afin de connaître à tout moment la quantité de vaccins disponibles, la date de péremption, le numéro de lot et le statut de la pastille de contrôle de chaque flacon. Ces éléments doivent apparaître dans un **registre de stock** et actualisés à chaque mouvement de vaccins.  
 Le registre de stock doit être divisé en autant de parties qu'il y a de vaccins et de consommables dans la formation sanitaire. Pour chaque item, les éléments suivants doivent être spécifiés :
 
-*   Nom de l'item.  
-*   Présentation (nombre de doses par flacon).  
-*   Pour chaque mouvement de stock :
-    *   date et nature des mouvements de stock
-    *   provenance ou destination
-    *   quantité entrée ou sortie du stock
-    *   numéro de lot des flacons
-    *   date d'expiration
-    *   statut de la PCV
-    *   quantité en stock.
+- Nom de l'item.
+- Présentation (nombre de doses par flacon).
+- Pour chaque mouvement de stock :
+  - date et nature des mouvements de stock
+  - provenance ou destination
+  - quantité entrée ou sortie du stock
+  - numéro de lot des flacons
+  - date d'expiration
+  - statut de la PCV
+  - quantité en stock.
 
 Le stock de vaccins et consommables disponible dans la formation sanitaire doit être régulièrement vérifié et les résultats du contrôle (mensuel) inscrits dans le registre de stock si besoin.  
 La gestion minutieuse des stocks permet d'éviter d'une part les ruptures de stock conduisant à l'arrêt des activités de vaccination, d'autre part de limiter les surstocks qui exposent à des risques de perte de vaccins. Le stock doit être inclus entre le seuil mini¬mal et le seuil maximal. Pour chaque vaccin, ces seuils doivent être déterminés pour l'année :
 
-*   Seuil minimal : il représente la quantité minimale de vaccins devant être en stock afin d'éviter la rupture. Il est fixé à 25 % des besoins en vaccins de la période (le mois, généralement).  
-*   Seuil maximal : il représente la quantité maximale de vaccins devant être en stock afin de limiter le risque de perte. Il est généralement fixé à 125 % des besoins en vaccins pour la période.
+- Seuil minimal : il représente la quantité minimale de vaccins devant être en stock afin d'éviter la rupture. Il est fixé à 25 % des besoins en vaccins de la période (le mois, généralement).
+- Seuil maximal : il représente la quantité maximale de vaccins devant être en stock afin de limiter le risque de perte. Il est généralement fixé à 125 % des besoins en vaccins pour la période.
 
 **Figure 1 : seuils minimal et maximal**  
 La commande de vaccins doit intervenir avant que le seuil minimal ne soit atteint. La méthode la plus simple pour calculer la quantité de vaccins à com-mander est indiquée dans le tableau ci-dessous. Quantité à commander = stock maximal - stock actuel.
 
-
 ![](i2185-1.jpg)
-
 
 ## III. Contrôle des pertes de vaccins
 
@@ -146,24 +144,24 @@ En se référant à l'exemple précédent, qui avait fixé les besoins annuels e
 
 ### On distingue plusieurs types de pertes
 
-#### Les premières sont causées par :
+#### Les premières sont causées par
 
-*   les dates de péremptions dépassées,
-*   les bris ou vols de flacons,
-*   le virement de la pastille de contrôle,
-*   la destruction du vaccin par le gel.
+- les dates de péremptions dépassées,
+- les bris ou vols de flacons,
+- le virement de la pastille de contrôle,
+- la destruction du vaccin par le gel.
 
 Toutes sont évitables à condition de respecter les normes de conservation des vaccins et d'avoir un système de gestion des stocks performant.
 
 D'autres pertes sont difficilement évitables et parfois induites par le programme :
 
-*   doses restant dans les flacons entamés, qui doivent être détruits en fin de session de vaccination,
-*   doses de vaccins utilisés dans des conditions ne permettant pas l'application de la politique des flacons entamés,
-*   doses administrées à des personnes ne faisant pas partie de la cible du programme.
+- doses restant dans les flacons entamés, qui doivent être détruits en fin de session de vaccination,
+- doses de vaccins utilisés dans des conditions ne permettant pas l'application de la politique des flacons entamés,
+- doses administrées à des personnes ne faisant pas partie de la cible du programme.
 
 Certaines stratégies de vaccination peuvent entraîner des pertes plus importantes, notamment les stratégies avancées et mobiles ou encore l'ouverture de flacon de vaccins pour chaque enfant qui se présente. Cependant, l'application de ces stratégies est parfois nécessaire pour atteindre les objectifs du programme, particulièrement dans les zones à faible performance.
 
-#### Connaître l'ampleur et les causes des pertes :
+#### Connaître l'ampleur et les causes des pertes
 
 Afin de contrôler les pertes, il est nécessaire d'en connaître l'ampleur et les causes..  
 Le calcul des pertes est effectué pour chaque vaccin selon la formule :  

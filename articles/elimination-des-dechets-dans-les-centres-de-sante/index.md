@@ -8,9 +8,9 @@ date: "2011-11-14"
 
 Une structure de soins, quelle que soit sa taille, produit trois types de déchets :
 
-*   Les déchets contaminés ou potentiellement contaminés : sont considérés comme tels tous les déchets solides provenant de soins (pansements, seringues), les vêtements et la literie des malades, et des déchets liquides, les produits  biologiques (urines, sang, selles).  
-*   Les objets piquants/coupants, qui sont tous les instruments pouvant créer chez toute personne une solution de continuité (effraction cutanée) tels que les  aiguilles, lames de bistouri.  
-*   Les déchets "ni/ni" : ni contaminés, ni piquants ; ils sont dits courants, de même type que les déchets ménagers (ordures ménagères).
+- Les déchets contaminés ou potentiellement contaminés : sont considérés comme tels tous les déchets solides provenant de soins (pansements, seringues), les vêtements et la literie des malades, et des déchets liquides, les produits  biologiques (urines, sang, selles).
+- Les objets piquants/coupants, qui sont tous les instruments pouvant créer chez toute personne une solution de continuité (effraction cutanée) tels que les  aiguilles, lames de bistouri.
+- Les déchets "ni/ni" : ni contaminés, ni piquants ; ils sont dits courants, de même type que les déchets ménagers (ordures ménagères).
 
 La bonne gestion de ces déchets se fait en 4 étapes :
 
@@ -159,15 +159,15 @@ coupants</th>
 
 Tous doivent être clairement identifiés.
 
-*   Utiliser des bouteilles ou bidons en plastique fort :
-    *   non transparents ni translucides,
-    *   récipients pour huile et produits chimiques.  
-*   Pas de récipient pour boissons sauf ceux en aluminium.
+- Utiliser des bouteilles ou bidons en plastique fort :
+  - non transparents ni translucides,
+  - récipients pour huile et produits chimiques.
+- Pas de récipient pour boissons sauf ceux en aluminium.
 
 Les cannettes métalliques sont très bien mais il faut, quand elles sont pleines aux  trois quarts :
 
-*   les fermer ou
-*   couler du ciment liquide et laisser prendre.
+- les fermer ou
+- couler du ciment liquide et laisser prendre.
 
 Ne pas utiliser de récipients en carton.
 
@@ -189,35 +189,32 @@ S’il existe un incinérateur dans la localité, prendre contact avec les respo
 
 Aménager un fût métallique de 200 litres selon les modalités suivantes à renouveler tous les 4 ou 6 mois (schéma ci-dessous) :
 
-1.  **Modalité la plus simple** : enlever un des cotés circulaires, le placer sur des briques et faire des trous dans le bas.  
-2.  **Aménagement plus élaboré** : ménager un volume d’air dans la partie inférieure (réserver un cinquième du fût sur sa hauteur), positionner une grille et utiliser l’espace situé au-dessus de la grille.  
+1.  **Modalité la plus simple** : enlever un des cotés circulaires, le placer sur des briques et faire des trous dans le bas.
+2.  **Aménagement plus élaboré** : ménager un volume d’air dans la partie inférieure (réserver un cinquième du fût sur sa hauteur), positionner une grille et utiliser l’espace situé au-dessus de la grille.
 3.  **Encore mieux** : ménager, en plus de l’espace inférieur, un autre espace sur toute la hauteur du fût grâce à une grille verticale.
 
 Ces espaces sont destinés à faire circuler de l’air, donc de l’oxygène, qui permet d’obtenir des températures supérieures à 800° C. Au-dessus de 800° C, tous les agents pathogènes sont détruits, les fumées sont moins toxiques et les métaux fondent (en partie).  
 Les emballages en plastique des seringues et autres médicaments sont d’excellents starters pour le feu, il faut donc les garder et les mettre dans le bas du fût.  
 Enfin, il faut prévoir un couvercle pour la nuit et pour protéger de la pluie.
 
-#### Incinérer en respectant un horaire régulier :
+#### Incinérer en respectant un horaire régulier
 
-1.  Brûler le matin de bonne heure (arroser éventuellement avec du gazole avant d’allumer), laisser refroidir, vider puis enfouir les cendres.  
-2.  Dans la journée, remplir de déchets contaminés et objets piquants/coupants.  
-3.  Le soir, couvrir.  
+1.  Brûler le matin de bonne heure (arroser éventuellement avec du gazole avant d’allumer), laisser refroidir, vider puis enfouir les cendres.
+2.  Dans la journée, remplir de déchets contaminés et objets piquants/coupants.
+3.  Le soir, couvrir.
 4.  Mettre le feu le lendemain matin (il vaut mieux ne pas brûler le soir car les fumées stagnent).
 
 Enfouir dans un trou d’au moins 50 cm de profondeur et distant de plus de 50 mètres de toute source ou de tout forage. La masse de terre qui recouvre les ordures doit avoir au moins 30 cm de hauteur.
 
 **C’est la solution pour :**
 
-*   les ordures ménagères ou le "ni/ni" ;
-*   les pièces anatomiques, qui doivent être enfouies après avoir été recouvertes de chaux vive (ou crésyl si pas de chaux) ;
-*   les cendres et ce qui reste des métaux (aiguilles), qui doivent être fondus.
-
+- les ordures ménagères ou le "ni/ni" ;
+- les pièces anatomiques, qui doivent être enfouies après avoir été recouvertes de chaux vive (ou crésyl si pas de chaux) ;
+- les cendres et ce qui reste des métaux (aiguilles), qui doivent être fondus.
 
 ![](incinerateurs-4.jpg)
 
-
-##   
-Utilisation des désinfectants pour les DC
+## Utilisation des désinfectants pour les DC
 
 ### 1. Dérivés chlorés
 
@@ -228,8 +225,7 @@ Sensible à la chaleur, aux rayons UV, au Ph, aux matières organiques.
 Caustique pour les êtres vivants et corrosif pour les métaux.  
 Arroser le seau de déchets avec solution pure ou diluée au 1/3.
 
-####   
-b. Trochlosène
+#### b. Trochlosène
 
 Il existe deux formes le Klorsept et le Klor-Kleen qui contient un détergent. Ils se présentent sous forme de tablettes effervescentes qui dans l’eau donnent une solution désinfectante.  
 La substance chimique de base est le sodium dichloroisocyanurate (NaDCC) qui est un producteur organique de chlore. Ce produit est plus actif que l’hypochlorite, en particulier en présence de matières organiques, de plus les tablettes ne sont pas caustiques ni corrosives. Elles se conservent bien pendant 3 à 5 ans.
@@ -300,7 +296,7 @@ Cl en mg/L</th>
 
 <th scope="row">
 
-Klor Kleen*
+Klor Kleen\*
 
 </th>
 
@@ -340,10 +336,9 @@ Klor Kleen*
 
 </table>
 
-* Avec détergent
+- Avec détergent
 
-###   
-2. Crésyl (phénols)
+### 2. Crésyl (phénols)
 
 Dénature les protéines et donc détruit parasites et bactéries.  
 Peu soluble dans l’eau.  

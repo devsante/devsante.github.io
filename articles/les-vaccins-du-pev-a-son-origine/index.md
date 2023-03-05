@@ -17,16 +17,16 @@ Contre la poliomyélite, due à 3 types de virus, il existe 2 vaccins trivalents
 
 ## 3. Le tétanos
 
-Le tétanos (T), maladie dont la gravité est due à une exotoxine de la bactérie responsable, _Clostridium tetani_, qui diffuse dans l'organisme, est encore beaucoup trop répandu dans le monde alors qu'il peut être prévenu par un vaccin très efficace, l'anatoxine tétanique.
+Le tétanos (T), maladie dont la gravité est due à une exotoxine de la bactérie responsable, *Clostridium tetani*, qui diffuse dans l'organisme, est encore beaucoup trop répandu dans le monde alors qu'il peut être prévenu par un vaccin très efficace, l'anatoxine tétanique.
 
 ## 4. La diphtérie
 
-Il en est de même de la diphtérie (D) dont l'exotoxine de la bactérie responsable, _Corynebacterium diphteriae_, peut être neutralisée par les  
+Il en est de même de la diphtérie (D) dont l'exotoxine de la bactérie responsable, *Corynebacterium diphteriae*, peut être neutralisée par les  
 anticorps dont la formation est induite par l'anatoxine spécifique qui constitue également un vaccin très efficace.
 
 ## 5. La coqueluche
 
-Contre la coqueluche (C), due à une bactérie, _Bordetella pertussis_, le vaccin à germes entiers inactivés est encore d'utilisation quasi-généralisée dans les PEV. Son efficacité est moindre que celle des anatoxines, mais il permet d'éviter les formes mor¬telles de coqueluche des nourrissons. A terme, il devrait être remplacé par un vaccin dit "acellulaire" car il ne contient que des sous-unités antigéniques de la bactérie, en particulier l'anatoxine pertussique dont l'intérêt majeur est de pouvoir être utilisé en rappel chez les grands enfants sans risque de complications neurologiques. Mais, pour l'instant, les rappels ne s'imposent pas dans de nombreux pays.  
+Contre la coqueluche (C), due à une bactérie, *Bordetella pertussis*, le vaccin à germes entiers inactivés est encore d'utilisation quasi-généralisée dans les PEV. Son efficacité est moindre que celle des anatoxines, mais il permet d'éviter les formes mor¬telles de coqueluche des nourrissons. A terme, il devrait être remplacé par un vaccin dit "acellulaire" car il ne contient que des sous-unités antigéniques de la bactérie, en particulier l'anatoxine pertussique dont l'intérêt majeur est de pouvoir être utilisé en rappel chez les grands enfants sans risque de complications neurologiques. Mais, pour l'instant, les rappels ne s'imposent pas dans de nombreux pays.  
 Les vaccins DTC sont présentés sous forme d'une combinaison vaccinale s'administrant, rappelons le, à 6, 10 et 14 semaines de vie.
 
 ## 6. La rougeole

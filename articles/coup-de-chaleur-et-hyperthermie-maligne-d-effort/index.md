@@ -12,11 +12,9 @@ Service d'accueil et d'urgences du CHRU R.-Salengro, 59037 Lille Cedex.
 
 L'augmentation de la température centrale pendant un exercice est un phénomène normal. Seulement 20 à 30 % de l'énergie produite est utilisée pour le travail musculaire, le reste est converti en chaleur. Si l'on considère que la consommation musculaire en ATP (carburant naturel de toutes les cellules) peut être multipliée par 20 lors d'un exercice maximal, il n'est pas étonnant qu'une température centrale à 39-40 °C soit régulièrement observée à la fin d'une épreuve d'endurance (marathon, course cycliste). La chaleur, produite par l'activité musculaire, est transférée au sang qui est refroidi lorsqu'il circule en périphérie. Le refroidissement est amélioré par une vasodilatation cutanée et par la production de sueur (activité sympathique). L'évaporation provoque un refroidissement de la peau en consommant de l'énergie thermique. Un gramme d'eau absorbe environ 0,6 kcal (2,49 kJ) lorsqu'il s'évapore. Un athlète entraîné peut perdre jusqu'à deux litres d'eau à l'heure d'exercice, dissipant ainsi 1 200 kcal. La perte en eau est un facteur qui finit par limiter la déperdition de chaleur lorsque l'exercice est trop intense ou le sujet trop déshydraté.
 
-Le facteur principal de débordement des mécanismes adaptatifs reste cependant l'intensité de l'exercice mais d'autres facteurs favorisant sont régulièrement en cause _(tableau n° 1_). Dès lors, l'hyperthermie physiologique, typiquement asymptomatique et autolimitée, devient maligne. Ce syndrome est également appelé hyperthermie d'effort ou coup de chaleur d'effort.
-
+Le facteur principal de débordement des mécanismes adaptatifs reste cependant l'intensité de l'exercice mais d'autres facteurs favorisant sont régulièrement en cause *(tableau n° 1*). Dès lors, l'hyperthermie physiologique, typiquement asymptomatique et autolimitée, devient maligne. Ce syndrome est également appelé hyperthermie d'effort ou coup de chaleur d'effort.
 
 ![](i853-1.jpg)
-
 
 **1.** **Aspect clinique**
 
@@ -38,4 +36,4 @@ Il repose avant tout sur la réhydratation et la lutte contre l'hyperthermie. La
 
 Elle repose sur des conseils simples fondés sur le bon sens et l'éducation du sportif : porter des vêtements légers, éviter l'ensoleillement direct, s'hydrater de manière continue pendant l'effort, s'acclimater aux conditions locales avant la compétition. Les dermatoses, les myopathies constitutionnelles ou acquises, la prise de médicaments interférant avec la thermorégulation (anticholinergiques, antisérotoninergiques, neuroleptiques) constituent un facteur de risque. Les obèses, les personnes surmenées ou peu entraînées le sont également. L'ambiance climatique doit être prise en compte et il est recommandé aux États-Unis d'annuler toute compétition sportive lorsque la température ambiante dépasse 28 °C. Le vêtement doit être adapté. Pratiquer des sports d'endurance avec des plastiques imperméables (pour transpirer et donc maigrir), c'est se placer dans une situation à risque maximal. L'information sur cette affection devrait être largement diffusée et les premiers gestes de secours connus du grand public.
 
-_Développement et Santé, n°143, octobre 1999_
+*Développement et Santé, n°143, octobre 1999*

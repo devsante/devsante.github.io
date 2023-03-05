@@ -12,15 +12,13 @@ La première démarche est de demander au patient s'il a mal ou non. S'il s'agit
 
 Deux modalités d'évaluation de la douleur sont à distinguer : l'auto-évaluation pour les patients communicants et l'hétéro-évaluation pour les non-communicants. La qualité de la prise en charge dépend de celle de l'évaluation.
 
-### **1**. Auto-évaluation
+### 1. Auto-évaluation
 
-Trois échelles d'auto-évaluation peuvent être utilisées l'échelle visuelle analogique (EVA), l'échelle numérique (EN) et l'échelle verbale simple (EVS) _(figure 1)._ Toutes trois sont fiables.
+Trois échelles d'auto-évaluation peuvent être utilisées l'échelle visuelle analogique (EVA), l'échelle numérique (EN) et l'échelle verbale simple (EVS) *(figure 1).* Toutes trois sont fiables.
 
 **Figure 1 : représentation des échelles d'auto-évaluation, unidimensionnelles**
 
-
 ![](image001-1.jpg)
-
 
 <table>
 
@@ -49,25 +47,21 @@ Chaque descripteur est associé à une valeur numérique
 
 Elles permettent de définir les niveaux d'inten­sité de la douleur afin d'adapter au mieux le traitement initial. Ainsi, la douleur est qualifiée de modérée à intense lorsque l'EVA est supé­rieure à 3 et inférieure à 6 et/ou l'EVS égale à 1 ou 2. La douleur est qualifiée de sévère lorsque l'EVA est égale ou supérieure à 6 ou l'EVS supérieure à 2. Les objectifs thérapeu­tiques peuvent être atteints lorsque l'évalua­tion EVA est inférieure ou égale à 3 ou l'EVS inférieure à 2.
 
-Chez les enfants de plus de 4 à 6 ans, on peut également utiliser l'échelle des visages, en association ou non avec l'EVA. Il s'agit de six visages du souriant au grimaçant, et l'enfant doit désigner celui auquel correspond l'intensi­té de sa douleur _(figure 2)._
+Chez les enfants de plus de 4 à 6 ans, on peut également utiliser l'échelle des visages, en association ou non avec l'EVA. Il s'agit de six visages du souriant au grimaçant, et l'enfant doit désigner celui auquel correspond l'intensi­té de sa douleur *(figure 2).*
 
 **Figure 2 : évaluation de la douleur chez l'enfant**
 
-
 ![](image004-4.jpg)
-
 
 ### 2. Hétéro-évaluation
 
 Le traitement doit être adapté à l'intensité de la douleur, au patient et à la pathologie causale. On ne traitera pas de la même façon, à intensité douloureuse identique, un trauma­tisme avec fracture de la jambe chez un jeune homme sans antécédents et chez une person­ne âgée. En effet, chez les personnes âgées (après 75 ans), certains médicaments ne sont pas recommandés (anti-inflammatoires non stéroïdiens) ou leurs posologies plus faibles (morphine). Les femmes enceintes ne pourront recevoir qu'un nombre restreint d'antalgiques comme le paracétamol, le phloroglucinol
 
-Une échelle d'hétéro-évaluation spécifique pour la douleur aiguë en médecine d'urgence, nommée ALGOPLUS, vient d'être évaluée. Elle repose sur 5 items comportementaux _(Tableau 1)_. Elle est fiable en urgence. Pour les enfants, on utilisera l'échelle EVEN­DOL, validée pour l'urgence chez les enfants de 0 à 7 ans _(Tableau 2)_. Score de 0 à 15, seuil de traitement : 4 / 15.
+Une échelle d'hétéro-évaluation spécifique pour la douleur aiguë en médecine d'urgence, nommée ALGOPLUS, vient d'être évaluée. Elle repose sur 5 items comportementaux *(Tableau 1)*. Elle est fiable en urgence. Pour les enfants, on utilisera l'échelle EVEN­DOL, validée pour l'urgence chez les enfants de 0 à 7 ans *(Tableau 2)*. Score de 0 à 15, seuil de traitement : 4 / 15.
 
 **Tableau 1 : échelle ALGOPLUS permettant l'évaluation de la douleur des patients non communicants**
 
-
 ![](image006-2.jpg)
-
 
 **Tableau 2 : EVENDOL, EValuation ENfant DOuLeur**  
 Evaluation au repos et lors de l'examen clinique, chez des enfants de 0 à 7 ans.
@@ -233,8 +227,8 @@ Le traitement doit être **adapté à l'intensité de la douleur**, au patient e
 
 Par ailleurs, le traitement doit être **précoce**. Dans ce sens, la mise en place de protocoles de soins est d'autant plus intéressante que le soignant se trouve dans une situation d'isole­ment. Ces protocoles devront être élaborés au préalable avec médecin(s) et soignant(s) en fonction des moyens disponibles. Les deux grands principes généraux concer­nant l'analgésie sont :
 
-*   la titration médicamenteuse : traitement et posologie adaptés aux besoins du patient,
-*   l'association de plusieurs antalgiques d'action différente : co-analgésie.
+- la titration médicamenteuse : traitement et posologie adaptés aux besoins du patient,
+- l'association de plusieurs antalgiques d'action différente : co-analgésie.
 
 ### 1. Traitement non médicamenteux
 
@@ -242,9 +236,9 @@ Par ailleurs, le traitement doit être **précoce**. Dans ce sens, la mise en pl
 
 Les moyens physiques sont représentés par :
 
-*   **L'immobilisation** en cas de traumatisme (attelles, colliers, traction...). Toute fracture doit être immobilisée : cela calme la douleur et permet de limiter les risques de compli­cation (vasculaire et nerveuse).  
-*   **Le froid**, pour son effet anti-inflammatoire local : douleurs traumatiques, viscérales, brûlures - toute brûlure doit être "refroidie" immédiatement, avec de l'eau courante, cela a un effet antalgique et permet de limi­ter l'extension des lésions cutanées - dou­leurs musculaires, dentaires, céphalées, lombalgies chroniques, douleurs après injec­tions intramusculaires.  
-*   **Le chaud** : douleurs spastiques abdomi­nales, contractures musculaires, destruction des venins thermolabiles.
+- **L'immobilisation** en cas de traumatisme (attelles, colliers, traction...). Toute fracture doit être immobilisée : cela calme la douleur et permet de limiter les risques de compli­cation (vasculaire et nerveuse).
+- **Le froid**, pour son effet anti-inflammatoire local : douleurs traumatiques, viscérales, brûlures - toute brûlure doit être "refroidie" immédiatement, avec de l'eau courante, cela a un effet antalgique et permet de limi­ter l'extension des lésions cutanées - dou­leurs musculaires, dentaires, céphalées, lombalgies chroniques, douleurs après injec­tions intramusculaires.
+- **Le chaud** : douleurs spastiques abdomi­nales, contractures musculaires, destruction des venins thermolabiles.
 
 #### b) Approche psychologique
 
@@ -288,7 +282,7 @@ Douleur intense à sévère
 
 Paracétamol
 
-AINS*
+AINS\*
 
 Aspirine
 
@@ -324,7 +318,7 @@ Agonistes-antagonistes
 
 </table>
 
-_*AINS : Anti-Inflammatoires Non Stéroïdiens._
+*\*AINS : Anti-Inflammatoires Non Stéroïdiens.*
 
 #### a) Paracétamol
 
@@ -538,34 +532,34 @@ L'emploi des morphiniques en médecine d'urgence nécessite des modalités d'adm
 
 Les antalgiques de palier 2 - définis par l'OMS comme des antalgiques intermédiaires entre d'une part le paracétamol et les AINS (palier 1), d'autre part les morphiniques (palier 3) - peuvent être utilisés :
 
-*   en cas de douleur faible à modérée, partiel­lement ou non soulagée par les antalgiques de palier 1,
-*   en relais des antalgiques de palier 3.
+- en cas de douleur faible à modérée, partiel­lement ou non soulagée par les antalgiques de palier 1,
+- en relais des antalgiques de palier 3.
 
 Les médicaments disponibles sont la codéine (méthyl-morphine) associée au paracétamol, le dextropropoxyphène, seul ou associé au paracétamol, et le tramadol.
 
-**_Codéine_**
+***Codéine***
 
 L'effet de la codéine, peu analgésique par elle­même, est lié à sa transformation métabolique en morphine. L'association au paracétamol a une bonne efficacité analgésique mais aug­mente le risque d'effets indésirables.
 
 Chez l'enfant, elle se présente sous la forme de codéine phosphate (CODENFAN®), sirop de 200 mg dans 200 mL. La posologie est de 0.5 à 1 mg/kg toutes les 4 à 6 heures. Son délai d'action est de 20 à 30 minutes et sa durée de 4 heures.
 
-**_Dextropropoxyphène_**
+***Dextropropoxyphène***
 
 C'est un morphinique faible souvent utilisé en association avec le paracétamol pour une meilleure analgésie (mais risque de vertiges).
 
-**_Tramadol_**
+***Tramadol***
 
 Le tramadol est le seul antalgique de palier 2 injectable. Ces médicaments ont des effets indésirables : somnolence, confusion, hallucinations, troubles digestifs voire troubles respiratoires.
 
 #### f) Autres antalgiques
 
-**_Kétamine_**
+***Kétamine***
 
 La kétamine est une véritable aide dans des situations de précarité médicale face à des patients très douloureux. Ce médicament a deux actions distinctes : à forte dose, c'est un anesthésiant général mais, à doses plus faibles, il peut être considé­ré comme un sédatif ayant des propriétés analgésiques.
 
 Il peut être utilisé en cas de douleurs sévères ou lorsqu'un geste douloureux est programmé (réduction de fracture par exemple). Il ne provoque pas de dépression respiratoire ni de chute de la PA. Les injections intraveineuses doivent être très lentes afin d'éviter les effets indésirables (troubles neuropsychiques notam­ment).
 
-_**Mélange gazeux équimolaire d'oxygè­ne et de protoxyde d'azote MEOPA**_
+***Mélange gazeux équimolaire d'oxygè­ne et de protoxyde d'azote MEOPA***
 
 Il s'agit d'un gaz analgésique et anti-hyperal­gésique (anti-NMDA), d'action centrale, inco­lore, inodore et très diffusible. Son délai et sa durée d'action sont de quelques minutes. Les contre-indications sont les traumatismes crâniens avec troubles de la conscience, les traumatismes maxillo-faciaux, l'existence d'un pneumothorax, les embolies gazeuses et les patients à risque d'hypoxie.
 
@@ -581,8 +575,8 @@ L'anesthésie loco-régionale (ALR) est utilisée dans les traumatismes des memb
 
 Le choix des techniques repose sur deux prin­cipes fondamentaux :
 
-*   le rapport bénéfice/risque de la technique envisagée dans le contexte de l'urgence ;
-*   la nécessité de minimiser le risque d'interférence avec une technique d'anesthésie loco-régionale ultérieure, toujours possible pour la réalisation d'un éventuel geste chirurgical d'urgence.
+- le rapport bénéfice/risque de la technique envisagée dans le contexte de l'urgence ;
+- la nécessité de minimiser le risque d'interférence avec une technique d'anesthésie loco-régionale ultérieure, toujours possible pour la réalisation d'un éventuel geste chirurgical d'urgence.
 
 Ce geste, potentiellement délétère, nécessite une formation spécifique.
 
@@ -590,42 +584,42 @@ Ce geste, potentiellement délétère, nécessite une formation spécifique.
 
 La réalisation d'une anesthésie locorégionale nécessite certaines précautions afin d'assurer la sécurité du patient, notamment :
 
-*   respect des contre-indications à une ALR : infection, troubles de l'hémostase,
-*   connaissance des effets et de la toxicité potentielle des anesthésiques utilisés, qui parfois passent dans la circulation générale,
-*   mise en place d'une voie veineuse et monitorage.
+- respect des contre-indications à une ALR : infection, troubles de l'hémostase,
+- connaissance des effets et de la toxicité potentielle des anesthésiques utilisés, qui parfois passent dans la circulation générale,
+- mise en place d'une voie veineuse et monitorage.
 
 #### ALR indiquées en médecine d'urgence
 
 Voici quelques exemples d'applications de l'ALR
 
-**_Membres inférieurs_**
+***Membres inférieurs***
 
-*   Bloc du nerf fémoral : fracture de la diaphy­se fémorale, plaies du genou.  
-*   Blocs de la cheville et du pied : plaies (exploration, suture), extraction de corps étranger.
+- Bloc du nerf fémoral : fracture de la diaphy­se fémorale, plaies du genou.
+- Blocs de la cheville et du pied : plaies (exploration, suture), extraction de corps étranger.
 
-**_Membres supérieurs_**
+***Membres supérieurs***
 
-*   Blocs tronculaires des nerfs médian, ulnaire et radial pratiqués au coude ou au poignet.  
-*   Bloc de la gaine des fléchisseurs pour des gestes d'urgence portant sur les doigts (plaies, luxations...).
+- Blocs tronculaires des nerfs médian, ulnaire et radial pratiqués au coude ou au poignet.
+- Bloc de la gaine des fléchisseurs pour des gestes d'urgence portant sur les doigts (plaies, luxations...).
 
-**_Face et cuir chevelu (en cas de plaies multiples)_**
+***Face et cuir chevelu (en cas de plaies multiples)***
 
-*   Bloc supra-orbitaire, supra-trochléaire : front et paupière supérieure.  
-*   Bloc infra-orbitaire : joue et lèvre supérieure.  
-*   Bloc mentonnier.
+- Bloc supra-orbitaire, supra-trochléaire : front et paupière supérieure.
+- Bloc infra-orbitaire : joue et lèvre supérieure.
+- Bloc mentonnier.
 
-Pour une anesthésie purement locale : crème EMLA _(Eutetic Mixture of Local Anaesthetics)_ permettant la réalisation d'effractions cuta­nées (par exemple : ponctions veineuse, arté­rielle ou lombaire) non ou peu douloureuses (mais coût élevé).
+Pour une anesthésie purement locale : crème EMLA *(Eutetic Mixture of Local Anaesthetics)* permettant la réalisation d'effractions cuta­nées (par exemple : ponctions veineuse, arté­rielle ou lombaire) non ou peu douloureuses (mais coût élevé).
 
 **En cas d'échec de l'analgésie : les questions à se poser**
 
-*   Est-ce le bon niveau antalgique ?
-*   Est-ce la bonne posologie ?
-*   Les intervalles sont-ils adéquats ?
-*   Utilise-t-on des co-analgésiques ?
-*   La prise en charge est-elle rationnelle ?
+- Est-ce le bon niveau antalgique ?
+- Est-ce la bonne posologie ?
+- Les intervalles sont-ils adéquats ?
+- Utilise-t-on des co-analgésiques ?
+- La prise en charge est-elle rationnelle ?
 
 ### Conclusion
 
 L'efficacité de la prise en charge de la douleur en médecine d'urgence repose sur sa recon­naissance, l'évaluation de son intensité avec un outil adapté au patient et l'application de protocoles thérapeutiques adaptés à la patho­logie et au patient.
 
-_Développement et Santé, n°191/192, 2008_
+*Développement et Santé, n°191/192, 2008*

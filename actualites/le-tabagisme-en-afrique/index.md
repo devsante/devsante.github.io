@@ -18,4 +18,4 @@ Au Tchad, 6 personnes sur 10 dépensent 1 500 CFA par jour soit 45 000CFA par mo
 
 Par Philippe Reinert, pédiatre, Créteil, France
 
-_Réf : Alliance contre le tabagisme en Afrique francophone (OTAF) Mai 2012, Journée mondiale contre le tabac._
+*Réf : Alliance contre le tabagisme en Afrique francophone (OTAF) Mai 2012, Journée mondiale contre le tabac.*

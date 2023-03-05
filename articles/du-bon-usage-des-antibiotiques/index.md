@@ -8,14 +8,14 @@ date: "2000-11-30"
 
 Les premiers agents thérapeutiques utilisés furent les quinines extraites à partir de l'écorce de quinquina par Pelletier en 1819, et l'émétine isolée par Pelletier et Magendie en 1817. Quelques dizaines d'années plus tard, soit en 1889, un autre type de traitement des maladies infectieuses fut proposé. Il repose sur l'antagonisme de croissance entre deux micro-organismes, et est appelé par Villemin l'antibiose.
 
-La découverte des _sulfamides_ en 1935 fut la première révolution dans le traitement des infections bactériennes graves. Pour la première fois, en effet, un médicament guérissait les méningites à méningocoque et de nombreuses septicémies. Ils sont toujours utilisés actuellement (Bactrim®).
+La découverte des *sulfamides* en 1935 fut la première révolution dans le traitement des infections bactériennes graves. Pour la première fois, en effet, un médicament guérissait les méningites à méningocoque et de nombreuses septicémies. Ils sont toujours utilisés actuellement (Bactrim®).
 
-Plus tard, vint la découverte de la _pénicilline_ qui inaugure l'ère des antibiotiques. C'est ainsi que les recherches dans le domaine de la chimiothérapie antibactérienne se sont faites dans deux directions :
+Plus tard, vint la découverte de la *pénicilline* qui inaugure l'ère des antibiotiques. C'est ainsi que les recherches dans le domaine de la chimiothérapie antibactérienne se sont faites dans deux directions :
 
-*   Les antibiotiques extraits de la fermentation de moisissures, des actinomycètes, ou d'autres agents bactériens, comme les pénicillines.  
-*   Les antibiotiques de synthèse, (c'est le cas de la plupart des nouvelles molécules), qui sont des dérivés semi-synthétiques préparés par modifications chimiques des produits de base naturels.
+- Les antibiotiques extraits de la fermentation de moisissures, des actinomycètes, ou d'autres agents bactériens, comme les pénicillines.
+- Les antibiotiques de synthèse, (c'est le cas de la plupart des nouvelles molécules), qui sont des dérivés semi-synthétiques préparés par modifications chimiques des produits de base naturels.
 
-Les antibiotiques peuvent être classés en fonction de leur spectre d'action, de leur structure chimique, mais également selon leur mode d'action sur les bactéries. Ces modes d'action sont au nombre de cinq (_Tableau 1_).
+Les antibiotiques peuvent être classés en fonction de leur spectre d'action, de leur structure chimique, mais également selon leur mode d'action sur les bactéries. Ces modes d'action sont au nombre de cinq (*Tableau 1*).
 
 <table>
 <caption>Tableau 1. Modes d'action des antibiotiques</caption>
@@ -28,7 +28,7 @@ Les antibiotiques peuvent être classés en fonction de leur spectre d'action, d
 
 I. Antibiotiques inhibant la synthèse du peptidoglycane
 
-ß lactamines            + Pénicillines  
+ß lactamines            + Pénicillines
 
                               + Céphalosporines
 
@@ -44,7 +44,7 @@ Fosfomycine
 
 <td style="width: 545px;">
 
-II. Antibiotiques inhibant la synthèse des protéines
+II\. Antibiotiques inhibant la synthèse des protéines
 
 Aminosides               Chloramphénicol et dérivés
 
@@ -60,7 +60,7 @@ Acide fusidique
 
 <td style="width: 545px;">
 
-III. Antibiotiques inhibant la synthèse des acides nucléiques
+III\. Antibiotiques inhibant la synthèse des acides nucléiques
 
 Quinolones                Rifampicine
 
@@ -74,7 +74,7 @@ Nitrofuranes
 
 <td style="width: 545px;">
 
-IV. Antibiotiques inhibant la synthèse des folates
+IV\. Antibiotiques inhibant la synthèse des folates
 
 Sulfamides et associations sulfamidées
 
@@ -116,7 +116,7 @@ Pour faire un bon usage des antibiotiques, il faut d'abord s'assurer de leur ind
 
 ## II. Quel antibiotique choisir ?
 
-Le choix optimal d'un antibiotique dépend de plusieurs facteurs (_Tableau 2_).
+Le choix optimal d'un antibiotique dépend de plusieurs facteurs (*Tableau 2*).
 
 <table>
 <caption>Tableau 2. Choix optimal d'un antibiotique</caption>
@@ -145,7 +145,7 @@ Exprimée en mg/ml, elle caractérise l'effet bactériostatique d'un antibiotiqu
 
 **CMB.** La concentration minimale bactéricide est la plus petite concentration d'antibiotique laissant moins de 0,01% de survivants de l'inoculum initial après 18 heures de culture à 37°C.
 
-Cette concentration minimale bactéricide permet de différencier les antibiotiques bactériostatiques et bactéricides (_Tableau 3_).
+Cette concentration minimale bactéricide permet de différencier les antibiotiques bactériostatiques et bactéricides (*Tableau 3*).
 
 Parmi les antibiotiques bactéricides, on distingue les antibiotiques rapidement bactéricides (effet concentration-dépendant) des antibiotiques lentement bactéricides (effet temps-dépendant).
 
@@ -216,11 +216,11 @@ Nitrofuranes
 
 </table>
 
-### **2 - Le site de l'infection**
+### 2 - Le site de l'infection
 
 Pour qu'un antibiotique soit actif sur un germe, il est essentiel qu'il le rencontre, et ce, pendant le temps nécessaire à l'efficacité de l'échange. C'est dire l'importance de connaître les capacités d'un antibiotique à pénétrer suffisamment et à se concentrer en un site donné.
 
-### **3 - Le terrain**
+### 3 - Le terrain
 
 Le terrain du patient doit également constituer une préoccupation avant la mise en route d'un traitement antibiotique.
 
@@ -228,11 +228,11 @@ Il est vrai qu'il y a des états physiologiques facilement contrôlables, mais i
 
 En effet, certains antibiotiques, en raison de leurs effets toxiques, risquent d'aggraver des tares préexistantes (insuffisance rénale, insuffisance hépatique, SIDA).
 
-### **4 - Risque écologique**
+### 4 - Risque écologique
 
 Parmi les effets indésirables des antibiotiques, il en est un qui a une importance capitale, c'est la modification de la flore bactérienne normale de l'individu qui peut entraîner la sélection de souches résistantes, non seulement à l'antibiotique administré, mais aussi, en fonction de la nature de la résistance, à d'autres familles d'antibiotiques.
 
-### **5 - Coût**
+### 5 - Coût
 
 Devant la consommation importante d'antibiotiques, le coût devient un élément fondamental.
 
@@ -244,11 +244,11 @@ Devant une infection aiguë à son début, dont le diagnostic clinique et microb
 
 Cette monothérapie est possible également dans les infections sévères lorsque le germe est sensible, le foyer infectieux d'accès facile à des concentrations d'antibiotique suffisantes, chez un sujet aux défenses naturelles intactes. Ce n'est que dans quelques circonstances, qu'il est licite d'associer des antibiotiques :
 
-*   Elargissement du spectre antibactérien s'il s'agit d'une neutropénie ou d'une infection à germes multiple.
+- Elargissement du spectre antibactérien s'il s'agit d'une neutropénie ou d'une infection à germes multiple.
 
-*   La recherche d'une synergie, d'un effet bactéricide maximal rapidement obtenu (Endocardite).
+- La recherche d'une synergie, d'un effet bactéricide maximal rapidement obtenu (Endocardite).
 
-*   La prévention de mutants résistants dont le risque est majeur lorsque l'inoculeur est important. (Associer par exemple gétalactamines et aminosides)
+- La prévention de mutants résistants dont le risque est majeur lorsque l'inoculeur est important. (Associer par exemple gétalactamines et aminosides)
 
 Quant à la durée, les propriétés bactéricides des nouvelles molécules permettent de raccourcir la durée du traitement. Cet arrêt du traitement ne se fait jamais de manière progressive.  
 Le seul critère de guérison est l'absence de reprise évolutive à l'arrêt du traitement.
@@ -275,4 +275,4 @@ Cinq règles d'or
 
 </table>
 
-_Développement et Santé, n°150, décembre 2000_
+*Développement et Santé, n°150, décembre 2000*

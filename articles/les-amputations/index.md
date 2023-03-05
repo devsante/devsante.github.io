@@ -8,7 +8,7 @@ Les premières amputations ont été pratiquées avant Jésus-Christ et il est c
 
 Cependant, il faut appliquer à cette chirurgie les mêmes règles rigoureuses qu'à toute chirurgie, d'autant plus que le pronostic vital est parfois en jeu et, toujours le pronostic fonctionnel.
 
-**_"La chance n'est qu'une sérieuse attention aux détails."_**
+***"La chance n'est qu'une sérieuse attention aux détails."***
 
 Quels que soient le contexte et l'indication de l'amputation, il s'agit toujours d'un geste chirurgical majeur, tant sur le plan psychologique qu'organique. Il est toujours ressenti comme un événement pénible pour le patient et pour l'équipe soignante et assimilé à un échec.
 
@@ -18,39 +18,37 @@ Le premier temps doit être consacré à la préparation psychologique du patien
 
 Ce qui distingue ces quatre grands types d'indications d'amputations sont :
 
-*   En cas de _pathologie vasculaire,_ le problème essentiel est celui du niveau d'amputation permettant une cicatrisation (après ou non revascularisation) et un appareillage aisé.
+- En cas de *pathologie vasculaire,* le problème essentiel est celui du niveau d'amputation permettant une cicatrisation (après ou non revascularisation) et un appareillage aisé.
 
-*   En cas de _pathologie infectieuse,_ plus que celui du niveau, le problème est celui de l'opportunité ou non de l'amputation. Celle-ci est déterminée par l'importance de la gêne fonctionnelle et les potentialités thérapeutiques (possibilités de mise à plat, absence totale ou partielle d'efficacité des antibiotiques ou des antiseptiques).
+- En cas de *pathologie infectieuse,* plus que celui du niveau, le problème est celui de l'opportunité ou non de l'amputation. Celle-ci est déterminée par l'importance de la gêne fonctionnelle et les potentialités thérapeutiques (possibilités de mise à plat, absence totale ou partielle d'efficacité des antibiotiques ou des antiseptiques).
 
-*   En cas de _pathologie traumatique_ se pose le problème de l'amputation immédiate ou de la tentative de sauvetage du membre, associée éventuellement à un geste orthopédique.
+- En cas de *pathologie traumatique* se pose le problème de l'amputation immédiate ou de la tentative de sauvetage du membre, associée éventuellement à un geste orthopédique.
 
-*   En cas de _pathologie tumorale,_ il est indispensable de pouvoir faire un diagnostic anatomo-pathologique rapide, avant d'envisager un geste radical.
+- En cas de *pathologie tumorale,* il est indispensable de pouvoir faire un diagnostic anatomo-pathologique rapide, avant d'envisager un geste radical.
 
 Le patient diabétique doit être mis à part car, chez lui, cohabitent des facteurs vasculaires, neurologiques, et infectieux. Le plus souvent, il est nécessaire de réaliser un geste radical, après ou parallèlement au rééquilibrage du diabète, et ce dans des délais parfois rapprochés (si l'infection semble fusée). Il faut toujours chez le diabétique être très attentif au mode évolutif.
 
-## **I. Les amputations** **du membre inférieur**
+## I. Les amputations du membre inférieur
 
-**_"Il n'y a pas de lieu d'élection: il faut garder le bras de levier le plus long"._**
+***"Il n'y a pas de lieu d'élection: il faut garder le bras de levier le plus long".***
 
-### **1. Les différents niveaux** **d'amputations**
+### 1. Les différents niveaux d'amputations
 
 Au membre inférieur, quatre types principaux d'amputations sont réalisés, les autres étant d'indication exceptionnelle:
 
-*   **L'amputation d'orteil :** exérèse de P3-P2 ou P3-P2-P1, en transosseux ou par désarticulation avec exérèse du cartilage (l'abrasion du cartilage ne se justifie qu'au niveau des articulations non soumises à des contraintes de pression), et réalisation d'un lambeau postérieur et antérieur. Pour le premier orteil, il est soit réaliser une amputation transmétatarsienne, soit une désarticulation avec exérèse du cartilage, celle-ci permettant, en respectant la sangle sésamoïde, de conserver le premier appui et une bonne statique du pied.
+- **L'amputation d'orteil :** exérèse de P3-P2 ou P3-P2-P1, en transosseux ou par désarticulation avec exérèse du cartilage (l'abrasion du cartilage ne se justifie qu'au niveau des articulations non soumises à des contraintes de pression), et réalisation d'un lambeau postérieur et antérieur. Pour le premier orteil, il est soit réaliser une amputation transmétatarsienne, soit une désarticulation avec exérèse du cartilage, celle-ci permettant, en respectant la sangle sésamoïde, de conserver le premier appui et une bonne statique du pied.
 
-*   **L'amputation transmétatarsienne**
+- **L'amputation transmétatarsienne**
 
-_(figure 1)_ est réalisée plus ou moins postérieure, au plus à la base des métatarsiens ou à la partie moyenne des cunéiformes. Les lambeaux postérieurs et antérieurs doivent être de taille suffisante pour permettre la couverture des tranches de sections.
+*(figure 1)* est réalisée plus ou moins postérieure, au plus à la base des métatarsiens ou à la partie moyenne des cunéiformes. Les lambeaux postérieurs et antérieurs doivent être de taille suffisante pour permettre la couverture des tranches de sections.
 
-*   **L'amputation de jambe** doit être la plus basse possible, afin d'obtenir le bras de levier le plus long.
+- **L'amputation de jambe** doit être la plus basse possible, afin d'obtenir le bras de levier le plus long.
 
-*   **L'amputation de cuisse,** elle aussi, doit être réalisée la plus distale possible.
-
+- **L'amputation de cuisse,** elle aussi, doit être réalisée la plus distale possible.
 
 ![](i634-1.jpg)
 
-
-### **2. Les différents principes**
+### 2. Les différents principes
 
 Si certains préconisent systématiquement l'amputation ouverte avec le plus souvent section droite, d'autres, sauf contexte infectieux, sont favorables à la fermeture première des amputations. De fait, il semble possible et bénéfique sur la durée de cicatrisation, de réaliser des amputations fermées, en dehors de tout contexte infectieux et dès lors que la trophicité des tissus semble bonne. Ainsi, ce sont surtout les amputations traumatiques qui sont susceptibles d'être fermées de première intention.
 
@@ -60,23 +58,25 @@ Lorsque l'amputation est fermée, s'il s'agit de gros segments (cuisse, jambe ..
 
 La taille des lambeaux postérieur et antérieur est déterminée par la position de la cicatrice qui doit se trouver en dehors des zones de pression et à distance des reliefs osseux.
 
-### **3. Les soins postopératoires**
+### 3. Les soins postopératoires
 
 **a. Les pansements**
 
 La réalisation des pansements est quotidienne en cas de doutes infectieux ou lorsque l'amputation est fermée. Dans les autres cas, les pansements peuvent être avantageusement réalisés toutes les quarante-huit ou soixante douze heures afin de favoriser le bourgeonnement.
 
-*   **Peropératoires**
+- **Peropératoires**
 
-_- sur moignon propre ou fermé:_ le pansement est réalisé au moyen de compresses vaselinées (tulle gras, biogaze ... ), et en cas d'utilisation des compresses vaselinées commercialisées, la feuille de cellophane les accompagnant peut servir elle-même, seule ou en couverture de la compresse, à la confection du premier pansement. Puis mise en place d'une bande Velpeau;
+*- sur moignon propre ou fermé:* le pansement est réalisé au moyen de compresses vaselinées (tulle gras, biogaze ... ), et en cas d'utilisation des compresses vaselinées commercialisées, la feuille de cellophane les accompagnant peut servir elle-même, seule ou en couverture de la compresse, à la confection du premier pansement. Puis mise en place d'une bande Velpeau;
 
-- sur _moignon sale:_ tulle bétadiné et compresses vaselinées bétadinées ou imprégnées de Rifocine.
+- sur *moignon sale:* tulle bétadiné et compresses vaselinées bétadinées ou imprégnées de Rifocine.
 
-*   **Postopératoires**
+<!-- -->
 
-_- moignon fermé:_ refaire le pansement à quarante-huit heures, puis tous les jours;
+- **Postopératoires**
 
-_- moignon ouvert propre ou sale ou fermé_ _sale_: refaire tous les jours.
+*- moignon fermé:* refaire le pansement à quarante-huit heures, puis tous les jours;
+
+*- moignon ouvert propre ou sale ou fermé* *sale*: refaire tous les jours.
 
 Les pansements doivent être non compressifs, pratiqués de façon stérile.
 
@@ -88,17 +88,17 @@ De même sont à éviter les tractions postopératoires au niveau de l'amputatio
 
 **b. Traitements associés**
 
-*   **Prévention du tétanos**
+- **Prévention du tétanos**
 
 Indispensable mais non toujours réalisable.
 
-*   **Antibiothérapie**
+- **Antibiothérapie**
 
 Elle permet, associée à la chirurgie, d'accélérer la guérison et parfois de sauver le membre ou au moins un étage d'amputation. Il convient cependant de respecter les règles de l'antibiothérapie et de les adapter aux moyens locaux.
 
 La réalisation de prélèvements et d'antibiogrammes n'est pas du tout indispensable.
 
-*   **Rééquilibrage hydroélectrolytique et** **alimentation enrichie**
+- **Rééquilibrage hydroélectrolytique et** **alimentation enrichie**
 
 Le métabolisme de base est augmenté de 100 % en cas d'amputation de cuisse, aussi il faut favoriser l'apport calorique. Dans un contexte d'amputation traumatique, la correction de troubles hydroélectrolytiques peut être vitale.
 
@@ -106,13 +106,11 @@ Le métabolisme de base est augmenté de 100 % en cas d'amputation de cuisse, au
 
 La rééducation précoce est essentielle pour lutter contre les rétractions (mobilisation passive et active), les attitudes vicieuses (mobilisation, posture manuelle, attelle, voire même traction ... ), l'amyotrophie (contraction isométrique, globulisation ... ), et pour guider le patient dans sa nouvelle fonctionnalité. Elle l'est aussi afin de permettre un appareillage rapide temporaire (si le moignon n'est pas cicatrisé) ou définitif, en facilitant une verticalisation indispensable au bien-être du patient, mais parfois aussi à la survie.
 
-### **4. Aspects techniques:** **l'amputation de jambe** _(figure 2)_
+### 4. Aspects techniques: l'amputation de jambe *(figure 2)*
 
 La désarticulation médiotarsienne de Chopart et la désarticulation tibiotarsienne de Syme, qui nécessitent une bonne vascularisation de la plante du pied ou de la coque talonnière, sont surtout réalisées en dehors de tout contexte vasculaire et leurs indications doivent être bien réfléchies. Le plus souvent, l'alternative à l'amputation transmétatarsienne est l'amputation de jambe.
 
-
 ![](i634-2.jpg)
-
 
 **a. Anesthésie**
 
@@ -152,62 +150,62 @@ Pour toute amputation il convient de respecter les trois principes de bases qui 
 
 - la décision de rapprocher ou non les berges en interposant éventuellement une lame de Delbet ou de Penrose dépend de l'aspect des tissus et du degré de risque infectieux. Les points musculo-aponévrotiques et cutanés éviteront d'être ischémiants et auront pour fonction essentielle de rapprocher les tissus sans provoquer de tension.
 
-## **II. Les amputations du membre supérieur**
+## II. Les amputations du membre supérieur
 
 Si les principes restent sensiblement les mêmes, deux notions interviennent énormément dans la prise en charge du patient susceptible de subir une amputation du membre supérieur: ces amputations ne sont pas soumises à des compressions et il existe un rôle fonctionnel qui incite à être extrêmement conservateur. A terme, il est recherché la persistance d'une pince de préhension (pouce/paume, deux os de l'avant-bras ... ), et pour y parvenir, il faut associer des techniques de chirurgie reconstructive. Le plus souvent les amputations sont digitales.
 
-## **III. Aspects particuliers** **de l'amputation** **en milieu précaire**
+## III. Aspects particuliers de l'amputation en milieu précaire
 
 **a. En urgence**
 
 Il s'agit d'un geste de sauvetage, le pronostic vital prime sur le fonctionnel. Avant toute action chirurgicale, il convient d'obtenir une hémodynamique stable (" déchocage "). L'amputation selon la technique dite de " saucisson " est tout à fait adaptée à ce contexte.
 
-*   **Traumatiques**
+- **Traumatiques**
 
 Que l'amputation soit quasiment effective d'emblée ou bien que les lésions vasculaires et nerveuses rendent toute réparation illusoire, le niveau de régularisation doit être le plus économe possible, surtout au cas où l'autre membre serait déjà perdu (pied de mine). La couverture du moignon osseux sera effectuée dès lors qu'il reste suffisamment de tissu mou apte à vivre, mais dans tous les cas l'amputation doit être viable, la plus distale possible, compatible avec un appareillage simple.
 
 Les lésions associées ne devront pas être négligées, et le traitement de fractures concomitantes adapté.
 
-*   **Ischémiques**
+- **Ischémiques**
 
-Les ischémies aiguës de plus de six-huit heures, l'existence d'un garrot hémostatique de plus de trois heures, ou les écrasements de membre _(crusch syndrome)_ imposent parfois, pour éviter un syndrome de recirculation, une amputation en urgence.
+Les ischémies aiguës de plus de six-huit heures, l'existence d'un garrot hémostatique de plus de trois heures, ou les écrasements de membre *(crusch syndrome)* imposent parfois, pour éviter un syndrome de recirculation, une amputation en urgence.
 
-*   **Infectieuses**
+- **Infectieuses**
 
 De même, les lésions infectieuses massives (gangrène gazeuse, infection à pyogènes, phlegmons diffus, complications d'ulcères phagédéniques ... ), devant le risque systémique septique (greffes vasculaires ou autres, choc septique ... ), peuvent obliger à une amputation.
 
 **b. A froid: chirurgie réglée**
 
-*   **Vasculaires**
+- **Vasculaires**
 
 En l'absence de données artériographiques permettant de déterminer le réseau artériel persistant, il convient là aussi d'être très économique et d'amputer toujours le plus près possible de la limite supérieure de l'ischémie. De principe, on optera pour une coupe " saucisson " sans valve.
 
-*   **Infectieuses**
+- **Infectieuses**
 
 En cas d'infection usuelle, l'attitude conservatrice sera déterminée par les capacités locales à l'instauration de traitements longs et chers en antibiotiques.
 
-La lèpre, I'ulcère phagédénique, le mycétome, l'_aïnhum_ sont des entités fréquemment rencontrées dans les populations défavorisées, dont l'évolution peut imposer une amputation.
+La lèpre, I'ulcère phagédénique, le mycétome, l'*aïnhum* sont des entités fréquemment rencontrées dans les populations défavorisées, dont l'évolution peut imposer une amputation.
 
-_- L'aïnhum_ (dont la physiopathologie est mal connue - mycose, trophonévrite... - qui ne touche que les hommes noirs, se localise au niveau des orteils (généralement le cinquième) et se caractérise par une strangulation phalangienne indolore aboutissant à une amputation quasi complète qu'il faudra au plus achever.
+*- L'aïnhum* (dont la physiopathologie est mal connue - mycose, trophonévrite... - qui ne touche que les hommes noirs, se localise au niveau des orteils (généralement le cinquième) et se caractérise par une strangulation phalangienne indolore aboutissant à une amputation quasi complète qu'il faudra au plus achever.
 
-_- Le mycétome,_ dont nous n'aborderons pas le traitement médical, en cas d'atteinte
+*- Le mycétome,* dont nous n'aborderons pas le traitement médical, en cas d'atteinte
 
 osseuse (confirmée radiologiquement), il sera réalisé une amputation en zone saine de tissu mou. S'agissant de sujet jeune, l'évolution et les récidives étant difficiles à prévoir, il conviendra d'être économe.
 
-_- L'ulcère phagédénique_ ne devrait que rarement conduire à l'amputation depuis l'avènement des antibiotiques.
+*- L'ulcère phagédénique* ne devrait que rarement conduire à l'amputation depuis l'avènement des antibiotiques.
 
-_- La lèpre_ dans sa forme très évoluée (déficits sensitivo-moteurs, troubles trophiques ... ) peut imposer une chirurgie de propreté (régularisation, amputation ... ).
+*- La lèpre* dans sa forme très évoluée (déficits sensitivo-moteurs, troubles trophiques ... ) peut imposer une chirurgie de propreté (régularisation, amputation ... ).
 
 Ces amputations doivent être les plus économes possibles et, en fonction des possibilités d'appareillage, il est parfois préférable de réaliser une " mauvaise amputation " ne nécessitant pas de prothèse (type Chopart, Syme ou Pirogoff), plutôt qu'une " bonne amputation " pour laquelle il est impossible de confectionner une prothèse.
 
-*   **Diabétique**
+- **Diabétique**
 
 Ce type de pathologie constitue une contre-indication formelle aux anesthésies locorégionales autres que périmédullaires. La décision d'amputer devra être rapide avant ou dès le début de la surinfection. Plus encore sur ce terrain, il convient d'être économe et d'opter pour une technique à moignon ouvert.
 
-*   **Tumorale**
+- **Tumorale**
 
 L'existence de tumeurs osseuses bénignes ou accessibles à d'autres thérapeutiques (réticulosarcome, métastase ... ) impose un diagnostic anatomo-pathologique préalable. En cas d'ostéosarcome, l'amputation doit passer à distance.
 
 En conclusion: le type d'amputation, fermée ou ouverte, est très dépendant des possibilités de pansements postopératoires. En l'absence de problème, les amputations ouvertes sont à préférer, car la cicatrisation dirigée permet une surveillance rapprochée.
 
-_Développement et Santé, n°116, avril 1995_
+*Développement et Santé, n°116, avril 1995*

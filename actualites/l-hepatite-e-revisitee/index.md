@@ -9,11 +9,11 @@ Découverte en 1990 et considérée comme proche de l’hépatite A, en particul
 Les dernières études épidémiologiques semblent prouver que c’est la plus fréquente des hépatites virales en Afrique et en Asie, mais qu’elle touche l’ensemble de la planète.  
 Suivant le génotype, on oppose deux types de maladies :
 
-*   Génotypes 1 et 2, rencontrés uniquement dans les pays en développement, provoquant souvent un ictère et touchant surtout  l’adolescent et l’adulte jeune, le réservoir étant l’homme. Les formes mortelles ne se rencontrent que chez la femme enceinte, au cours du 3ème trimestre de la grossesse. Le virus peut aussi entraîner une fœtopathie et un avortement. Il n’y a actuellement pas de traitement connu.  
-*   Génotypes 3 et 4, entraînant des épidémies sporadiques sur tous les continents. Le réservoir en est le porc. S’ils provoquent rarement un ictère, chez l’adulte et le sujet âgé on observe des complications neurologiques. Chez le sujet immunodéprimé(VIH), ils provoquent une hépatite chronique évoluant vers la cirrhose.
+- Génotypes 1 et 2, rencontrés uniquement dans les pays en développement, provoquant souvent un ictère et touchant surtout  l’adolescent et l’adulte jeune, le réservoir étant l’homme. Les formes mortelles ne se rencontrent que chez la femme enceinte, au cours du 3ème trimestre de la grossesse. Le virus peut aussi entraîner une fœtopathie et un avortement. Il n’y a actuellement pas de traitement connu.
+- Génotypes 3 et 4, entraînant des épidémies sporadiques sur tous les continents. Le réservoir en est le porc. S’ils provoquent rarement un ictère, chez l’adulte et le sujet âgé on observe des complications neurologiques. Chez le sujet immunodéprimé(VIH), ils provoquent une hépatite chronique évoluant vers la cirrhose.
 
 Les thérapeutiques, ribavirine et peg-interféron sont prometteuses. Un vaccin serait disponible en Chine ?
 
 Par Philippe Reinert, pédiatre, Créteil, France
 
-_Réf. : JH Hoofnagle New England Journal of Med  17 Sept 2012_
+*Réf. : JH Hoofnagle New England Journal of Med  17 Sept 2012*

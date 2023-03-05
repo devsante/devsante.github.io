@@ -6,7 +6,7 @@ date: "1992-10-02"
 
 **hernie étranglée**
 
-**par Marc Leclerc du Sablon***
+**par Marc Leclerc du Sablon**\*
 
 . Chirurgien, Centre hospitalier P. Chubert, Vannes, France ; Médecins sans Frontières.
 
@@ -32,11 +32,9 @@ On comprend donc pourquoi il s'agit d'une urgence absolue.
 
 **1.** **Quelles sont les hernies** **qui risquent de s'étrangler ?**
 
-Quels que soient leur taille et leur type anatomique, toutes les hernies peuvent s'étrangler un jour ou l'autre ; certaines plus que d'autres, cependant (_fig_. _1)._
-
+Quels que soient leur taille et leur type anatomique, toutes les hernies peuvent s'étrangler un jour ou l'autre ; certaines plus que d'autres, cependant (*fig*. *1).*
 
 ![](i504-1.jpg)
-
 
 Ce sont surtout les hernies inguinales congénitales, dites encore obliques externes. Elles sont de loin les plus fréquentes, notamment en Afrique et chez l'enfant et l'adulte jeune. Elles traversent la paroi abdominale en suivant le canal inguinal et leur collet est étroit, d'où le risque d'étranglement.
 
@@ -50,11 +48,9 @@ Avec le temps et en dehors de tout accident aigu et douloureux, la hernie devien
 
 **Il.** **Diagnostic**
 
-La hernie inguinale étranglée, la plus fréquente, est prise ici pour exemple _(fig. 2)._
-
+La hernie inguinale étranglée, la plus fréquente, est prise ici pour exemple *(fig. 2).*
 
 ![](i504-2.jpg)
-
 
 **1.** **La forme aiguë**
 
@@ -146,7 +142,9 @@ Elle a deux objectifs :
 
 - réparer et refermer l'orifice herniaire.
 
-*   **La voie d'abord :**
+<!-- -->
+
+- **La voie d'abord :**
 
 presque toujours une incision inguinale oblique, centrée sur la tuméfaction,
 
@@ -154,7 +152,7 @@ presque toujours une incision inguinale oblique, centrée sur la tuméfaction,
 
 Il faut donc préparer le champ opératoire pour ces deux voies.
 
-*   **Matériel**
+- **Matériel**
 
 Prévoir de quoi réaliser une résection intestinale (clamps) et une suture intestinale. e Les différents **temps de l'intervention** ne peuvent qu'être rappelés ici :
 
@@ -172,9 +170,7 @@ Prévoir de quoi réaliser une résection intestinale (clamps) et une suture int
 
 - on doit ensuite vérifier un long segment de grêle en amont et en aval pour ne pas méconnaître une autre lésion ;
 
-
 ![](i504-3.jpg)
-
 
 - le contenu du sac est réintégré, le sac est lié à sa base puis réséqué ;
 
@@ -206,4 +202,4 @@ Pour le médecin ou l'infirmier exerçant dans des conditions isolées, ces lign
 
 Il faut souligner qu'il est néanmoins absolument nécessaire d'apprendre les bases anatomiques et techniques dans les manuels spécialisés (édités par l'OMS ou Médecins sans Frontières par exemple), et de se faire enseigner la pratique en allant aider des chirurgiens, lors de stages en hôpital.
 
-_Développement et Santé, n°97, février 1992_
+*Développement et Santé, n°97, février 1992*

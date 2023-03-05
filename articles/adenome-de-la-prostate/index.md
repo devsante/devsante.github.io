@@ -6,40 +6,34 @@ date: "2003-06-02"
 
 <div class="teaser"><p>Encore appelée hypertrophie ou hyperplasie bénigne de la prostate, cette tumeur bénigne, d'une extrême fréquence, peut être parfois responsable de complications graves : rétention d'urine et insuffisance rénale.</p></div>
 
-
 ![](i831-1.jpg)
-
 
 **La prostate** est une glande sexuelle **n'existant que chez l'homme**, ses sécrétions entrent dans la composition du sperme, elle sécrète aussi des hormones.
 
-Elle est située juste sous la vessie et **entoure l'urètre** ; à son niveau, les canaux éjaculateurs viennent se jeter dans l'urètre et y déversent le sperme au moment de l'éjaculation. Sous la prostate, autour de l'urètre, se trouve le sphincter strié qui permet la commande volontaire de la miction _[action d'uriner]_ (en s'ouvrant au moment où l'on désire uriner, en restant fermé le reste du temps). La prostate est donc située au carrefour des voies génitales et urinaires chez l'homme.
+Elle est située juste sous la vessie et **entoure l'urètre** ; à son niveau, les canaux éjaculateurs viennent se jeter dans l'urètre et y déversent le sperme au moment de l'éjaculation. Sous la prostate, autour de l'urètre, se trouve le sphincter strié qui permet la commande volontaire de la miction *\[action d'uriner\]* (en s'ouvrant au moment où l'on désire uriner, en restant fermé le reste du temps). La prostate est donc située au carrefour des voies génitales et urinaires chez l'homme.
 
 On comprend donc facilement que, entourant l'urètre, toute maladie de la prostate va pouvoir entraîner des troubles de la miction en gênant le passage de l'urine... Cette gêne pouvant aller jusqu'à la rétention complète. En arrière de la prostate se trouve le rectum. On pourra donc aisément palper la prostate lors du toucher rectal.
 
 Trois maladies peuvent intéresser la prostate :
 
-*   l'infection de la prostate ou prostatite : complication de la blennorragie (gonocoque), mais aussi la tuberculose ;
-*   le cancer de la prostate ;
-*   l'adénome de la prostate.
+- l'infection de la prostate ou prostatite : complication de la blennorragie (gonocoque), mais aussi la tuberculose ;
+- le cancer de la prostate ;
+- l'adénome de la prostate.
 
 ## I. L'adénome
 
-C'est une tumeur bénigne, c'est-à-dire qu'une partie des tissus constituant la prostate va augmenter de volume. Mais, à la différence du cancer, la tumeur reste limitée à la prostate, elle ne récidivera pas après traitement et ne se disséminera pas dans le reste du corps sous forme de métastases _(voir schéma 4)._
+C'est une tumeur bénigne, c'est-à-dire qu'une partie des tissus constituant la prostate va augmenter de volume. Mais, à la différence du cancer, la tumeur reste limitée à la prostate, elle ne récidivera pas après traitement et ne se disséminera pas dans le reste du corps sous forme de métastases *(voir schéma 4).*
 
 **Schéma 4 : développement d'un**  
 **adénome prostatique** (d'après R. Couvelaire)
 
-
 ![](i831-3.jpg)
-
 
 La prostate normale pèse environ 15 à 20 grammes, un adénome de moyen volume pèse de 60 à 80 grammes, il peut être beaucoup plus gros (200 grammes et plus, parfois !), mais il n'y a aucun rapport entre la taille de l'adénome et la gêne qu'il peut entraîner : un petit adénome peut très bien provoquer une rétention et un très gros être très bien supporté. L'adénome prostatique se développe chez l'homme vers l'âge de 60 ans avec une **extrême fréquence**, près de 80 % des hommes en sont atteints à 60 ans ! Mais, sur ce grand nombre d'adénomes, peu vont entraîner des troubles et, parmi ceux-ci, 10 % seulement nécessiteront une intervention chirurgicale.
 
-Tout porteur d'adénome n'est pas forcément malade. Tout malade porteur d'adénome n'est pas forcément à opérer ! L'adénome se développe le plus souvent latéralement, de chaque côté de l'urètre, sous forme de deux lobes qui sont aisément palpés au toucher rectal, mais parfois aussi sous forme d'un lobe médian dont le développement se fera surtout à l'intérieur de la vessie et qui, bien que parfois très volumineux, ne sera pas toujours palpable au toucher rectal _(voir schéma 3)._
-
+Tout porteur d'adénome n'est pas forcément malade. Tout malade porteur d'adénome n'est pas forcément à opérer ! L'adénome se développe le plus souvent latéralement, de chaque côté de l'urètre, sous forme de deux lobes qui sont aisément palpés au toucher rectal, mais parfois aussi sous forme d'un lobe médian dont le développement se fera surtout à l'intérieur de la vessie et qui, bien que parfois très volumineux, ne sera pas toujours palpable au toucher rectal *(voir schéma 3).*
 
 ![](i831-2.jpg)
-
 
 ## II. Le retentissement de l'adénome
 
@@ -53,15 +47,13 @@ La prostate entoure l'urètre sous la vessie et, en augmentant de volume, va don
 
 #### a. La vessie de lutte
 
-La vessie n'est pas un sac à urine mais un **muscle** creux destiné à recueillir l'urine secrétée continuellement par les reins et à l'évacuer volontairement à intervalle régulier. L'urètre est plus fin, l'effort à fournir pour évacuer l'urine va donc être plus grand, et comme tout muscle qui travaille contre une résistance accrue, la vessie va s'épaissir (comme le biceps d'un sportif) de 3 à 4 mm en temps normal, elle peut s'épaissir jusqu'à 1 ou plusieurs cm. C'est une vessie musclée, une **vessie de lutte**. Les faisceaux musculaires sont hypertrophiés et dessinent sous la muqueuse des colonnes délimitant entre elles des cellules - vessie à cellules et colonnes - _(schéma 5)._
-
+La vessie n'est pas un sac à urine mais un **muscle** creux destiné à recueillir l'urine secrétée continuellement par les reins et à l'évacuer volontairement à intervalle régulier. L'urètre est plus fin, l'effort à fournir pour évacuer l'urine va donc être plus grand, et comme tout muscle qui travaille contre une résistance accrue, la vessie va s'épaissir (comme le biceps d'un sportif) de 3 à 4 mm en temps normal, elle peut s'épaissir jusqu'à 1 ou plusieurs cm. C'est une vessie musclée, une **vessie de lutte**. Les faisceaux musculaires sont hypertrophiés et dessinent sous la muqueuse des colonnes délimitant entre elles des cellules - vessie à cellules et colonnes - *(schéma 5).*
 
 ![](i831-4.jpg)
 
-
 #### b. Les diverticules de vessie
 
-La vessie ne peut lutter indéfiniment, entre les faisceaux musculaires au niveau des cellules plus faibles, la muqueuse vésicale va venir faire hernie, faisant saillie hors de la vessie : c'est un diverticule _(schéma 6)._  
+La vessie ne peut lutter indéfiniment, entre les faisceaux musculaires au niveau des cellules plus faibles, la muqueuse vésicale va venir faire hernie, faisant saillie hors de la vessie : c'est un diverticule *(schéma 6).*  
 Ces diverticules sont de taille variable et, si leur collet est étroit, une fois remplis d'urine, ils peuvent avoir du mal à s'évacuer puisque aucun muscle ne les entoure.
 
 Ils gênent donc l'évacuation de la vessie et peuvent être la source d'infection urinaire récidivante ou d'abcès. La vessie finit par se distendre, par perdre sa capacité normale (de 300 cc environ) pour atteindre des volumes de 1 litre et plus.
@@ -74,9 +66,7 @@ L'urètre, à l'occasion d'une poussée inflammatoire de l'adénome ou de son au
 
 Elle est la plus sournoise. La vessie se vide, mais incomplètement, la résistance urètrale a dépassé la force de la vessie, et, à la fin de la miction, il restera en permanence un volume plus ou moins important (300cc, 1 litre, et parfois plus). La vessie est distendue, a perdu sa capacité normale et ne récupérera pas une force de contraction normale après traitement.
 
-
 ![](i831-5.jpg)
-
 
 #### e. La lithiase vésicale
 
@@ -90,9 +80,7 @@ Les reins peuvent alors souffrir par gêne à l'évacuation de l'urine, avec ris
 
 Mais, répétons-le "le retentissement de l'adénome sur l'appareil urinaire n'est ni obligatoire, ni progressivement croissant", un grand nombre d'adénomes n'entraîneront aucun trouble.
 
-
 ![](i831-6.jpg)
-
 
 ## III. Signes révélateurs
 
@@ -104,11 +92,11 @@ Le malade s'en plaint parce qu'elle s'est accentuée récemment, ou, habitué à
 
 L'obstacle que constitue l'adénome à l'écoulement de l'urine explique facilement ces signes. Il existe un retard au début de la miction, entre le moment où le malade ressent le besoin d'uriner et le moment où l'urine s'écoule réellement.
 
-*   le jet d'urine est faible, fin, parfois dédoublé ;
-*   la miction est lente, interminable ;
-*   le malade est obligé de pousser pour évacuer la vessie, parfois en s'aidant de ses mains pour appuyer sur son bas ventre ;
-*   la fin de la miction n'est pas franche, des gouttes retardataires continuent à s'écouler alors que le malade a décidé d'arrêter d'uriner ;
-*   il a la sensation de ne pas avoir évacué totalement sa vessie, qu'un résidu vésical persiste.
+- le jet d'urine est faible, fin, parfois dédoublé ;
+- la miction est lente, interminable ;
+- le malade est obligé de pousser pour évacuer la vessie, parfois en s'aidant de ses mains pour appuyer sur son bas ventre ;
+- la fin de la miction n'est pas franche, des gouttes retardataires continuent à s'écouler alors que le malade a décidé d'arrêter d'uriner ;
+- il a la sensation de ne pas avoir évacué totalement sa vessie, qu'un résidu vésical persiste.
 
 ### 2. La pollakiurie
 
@@ -126,11 +114,9 @@ C'est bien souvent elle qui amènera le malade à consulter, car le trouble est 
 
 ### 5. L'incontinence d'urine
 
-L'urine coule par la verge en permanence, le malade ne plus contrôler volontairement cet écoulement. Il s'agit aussi d'une rétention d'urine, la vessie est pleine en permanence, elle déborde ! La pression est telle qu'elle force le passage en permanence puisque l'urine vient du rein en permanence. Il s'agit d'une " incontinence par regorgement " _(voir schéma 10_).
-
+L'urine coule par la verge en permanence, le malade ne plus contrôler volontairement cet écoulement. Il s'agit aussi d'une rétention d'urine, la vessie est pleine en permanence, elle déborde ! La pression est telle qu'elle force le passage en permanence puisque l'urine vient du rein en permanence. Il s'agit d'une " incontinence par regorgement " *(voir schéma 10*).
 
 ![](i831-7.jpg)
-
 
 ### 6. Les accidents infectieux
 
@@ -158,8 +144,8 @@ Demandez au malade d'uriner devant vous, dans un verre, la dysurie est souvent �
 
 Examinez l'urine :
 
-*   limpide, transparente : il n'existe pas d'infection;
-*   trouble, ne s'éclaircissant pas après avoir ajouté quelques gouttes d'acide acétique (vinaigre) : il y a une infection urinaire.
+- limpide, transparente : il n'existe pas d'infection;
+- trouble, ne s'éclaircissant pas après avoir ajouté quelques gouttes d'acide acétique (vinaigre) : il y a une infection urinaire.
 
 ### 2. Palpation
 
@@ -189,7 +175,7 @@ Leur but est de préciser le retentissement de l'adénome.
 
 Son élévation traduit l'insuffisance rénale qui peut parfois être réversible.
 
-### **2. Examen cytobactériologique des urines**
+### 2. Examen cytobactériologique des urines
 
 Pour rechercher l'existence d'une infection surajoutée.
 
@@ -197,22 +183,22 @@ Pour rechercher l'existence d'une infection surajoutée.
 
 Cette radiographie permet d'opacifier les voies urinaires, elle va montrer l'adénome et son éventuel retentissement :
 
-*   au niveau de la vessie, on voit la saillie de l'adénome et, éventuellement, des signes de lutte (cellules et colonnes, diverticule). On apprécie le degré de distension de la vessie et l'existence d'un résidu après miction, d'une éventuelle lithiase;
-*   au niveau des uretères : leur extrémité est soulevée (en hameçon) par l'adénome. On apprécie leur degré de dilatation, l'existence éventuelle d'un reflux;
-*   Au niveau des reins : leur valeur fonctionnelle peut être appréciée (retard des sécrétions, épaisseur du parenchyme, état des calices);
+- au niveau de la vessie, on voit la saillie de l'adénome et, éventuellement, des signes de lutte (cellules et colonnes, diverticule). On apprécie le degré de distension de la vessie et l'existence d'un résidu après miction, d'une éventuelle lithiase;
+- au niveau des uretères : leur extrémité est soulevée (en hameçon) par l'adénome. On apprécie leur degré de dilatation, l'existence éventuelle d'un reflux;
+- Au niveau des reins : leur valeur fonctionnelle peut être appréciée (retard des sécrétions, épaisseur du parenchyme, état des calices);
 
 ### 4. D'autres examens
 
 Ils sont plus rarement utilisés :
 
-*   urétro-cystoscopie qui, grâce à un appareil optique, permet de voir directement l'urètre et la vessie;
-*   urétro-cytographie rétrograde : opacification radiographique de l'urètre en y injectant directement un produit opaque.
+- urétro-cystoscopie qui, grâce à un appareil optique, permet de voir directement l'urètre et la vessie;
+- urétro-cytographie rétrograde : opacification radiographique de l'urètre en y injectant directement un produit opaque.
 
 Ainsi l'examen clinique et la radiographie auront permis de différencier l'adénome des autres causes de dysurie :
 
-*   le rétrécissement urétral (mais il peut être associé à l'adénome);
-*   le cancer de la prostate (prostate dure au toucher rectal);
-*   la prostatite (fièvre et douleur au toucher rectal).
+- le rétrécissement urétral (mais il peut être associé à l'adénome);
+- le cancer de la prostate (prostate dure au toucher rectal);
+- la prostatite (fièvre et douleur au toucher rectal).
 
 ## VI. Evolution
 
@@ -242,8 +228,8 @@ Citons quelques médicaments anti-inflammatoires: Tadenan®, Pelvomagnésium®, 
 
 **4.** Le traitement curatif des adénomes est chirurgical mais il ne doit s'appliquer qu'aux adénomes mal tolérés, c'est-à-dire :
 
-*   Ceux entraînant un grand inconfort pour le malade : dysurie importante, pollakiurie nocturne fréquente. C'est le malade lui-même qui demande à être soulagé et, même en l'absence de retentissement rénal, l'opération est alors justifiée.  
-*   L'existence d'un retentissement vésical important (résidu post-mictionnel important, incontinence par regorgement, rétention complète d'urine ne régressant pas), _a fortiori_ un retentissement rénal, une insuffisance rénale, imposent l'opération. Si l'adénome est vu assez tôt, l'insuffisance rénale peut régresser.
+- Ceux entraînant un grand inconfort pour le malade : dysurie importante, pollakiurie nocturne fréquente. C'est le malade lui-même qui demande à être soulagé et, même en l'absence de retentissement rénal, l'opération est alors justifiée.
+- L'existence d'un retentissement vésical important (résidu post-mictionnel important, incontinence par regorgement, rétention complète d'urine ne régressant pas), *a fortiori* un retentissement rénal, une insuffisance rénale, imposent l'opération. Si l'adénome est vu assez tôt, l'insuffisance rénale peut régresser.
 
 ## VIII. Technique chirurgicale
 
@@ -267,4 +253,4 @@ Chez les vieillards ne pouvant supporter l'intervention, mais dont l'état néce
 
 Ainsi, l'adénome de la prostate est fréquent à partir de la soixantaine, il faut savoir le rechercher à l'interrogatoire et le diagnostiquer au toucher rectal. Le malade s'est souvent habitué à cette gêne très progressive, il faudra savoir déceler ceux dont l'adénome retentit sur la fonction rénale afin d'éviter l'insuffisance rénale mortelle.
 
-_Développement et Santé, n° 165, juin 2003_
+*Développement et Santé, n° 165, juin 2003*

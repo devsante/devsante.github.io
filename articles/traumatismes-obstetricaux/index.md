@@ -319,4 +319,4 @@ Asymétrie respiratoire sans détresse respiratoire associée</td>
 
 </table>
 
-_Développement et Santé,n°197/198, 2010_
+*Développement et Santé,n°197/198, 2010*

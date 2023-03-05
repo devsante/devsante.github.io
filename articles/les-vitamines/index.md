@@ -6,9 +6,9 @@ date: "1981-08-25"
 
 <div class="teaser"><p>Assurer la croissance et demeurer en bonne santé grâce aux vitamines naturelles.</p></div>
 
-## **I. Définition** - **Classification et rôle**
+## I. Définition - Classification et rôle
 
-### **A. Définition**
+### A. Définition
 
 Les vitamines ont été définies comme " des substances azotées indispensables à la vie ". Ce sont des combinaisons organiques qui doivent être fournies à l'organisme de façon continue pour permettre la subsistance et la croissance du cytoplasme et le fonctionnement normal des organes.
 
@@ -16,7 +16,7 @@ Ces substances chimiques, notre corps ne peut les fabriquer. Elles doivent donc 
 
 Elles sont différentes les unes des autres, chacune a sa constitution propre, son activité spécifique, et ses sources très variées.
 
-### **B. On distingue**
+### B. On distingue
 
 les vitamines **liposolubles** (solubles dans les huiles et les graisses) et les vitamines **hydrosolubles** (solubles dans l'eau).
 
@@ -48,11 +48,9 @@ Dans ce groupe, on trouve aussi les vitamines:
 
 **B6  B8  B9** et **B12.**
 
-
 ![](i4-1.jpg)
 
-
-## **II. Où trouver les** **vitamines?**
+## II. Où trouver les vitamines?
 
 Dans une alimentation aussi variée que possible; au niveau culinaire, il faudrait consommer autant que possible les vivres à l'état frais et éviter un stockage trop long ou dans de mauvaises conditions, et inclure dans la ration journalière des fruits car consommés crus, ils contiennent encore la presque totalité de leurs vitamines, alors que les légumes et feuilles perdent à la cuisson 30 à 50 % de leurs vitamines.
 
@@ -60,9 +58,9 @@ En général:
 
 **La vitamine A** (croissance):
 
-**_d'origine végétale_** (ou carotène): est présente dans les fruits et les légumes à **chair** **orange:** mangues, papayes, carottes, tomates, potirons.
+***d'origine végétale*** (ou carotène): est présente dans les fruits et les légumes à **chair** **orange:** mangues, papayes, carottes, tomates, potirons.
 
-**_d'origine animale_ :** se trouve dans le foie des animaux et les huiles de foie de poisson, le jaune d'oeuf, le beurre, l'huile de palme.
+***d'origine animale* :** se trouve dans le foie des animaux et les huiles de foie de poisson, le jaune d'oeuf, le beurre, l'huile de palme.
 
 **La vitamine D** (antirachitique):
 
@@ -76,9 +74,9 @@ ne sont pas considérées comme importante dans les régimes alimentaires. Large
 
 Le lait maternel est une bonne source de vitamines **C.** Le bébé nourri au sein n'a pas besoin de jus de fruits jusqu'à l'âge de six mois. **Passé** **cet âge de six mois, l'enfant doit régulièrement recevoir des fruits et des légumes** **frais riches en vitamines C.**
 
-**_fruits:_** ditakh, pain de singe, agrumes, mangues, papayes.
+***fruits:*** ditakh, pain de singe, agrumes, mangues, papayes.
 
-**_feuilles vertes_:** bissap, manioc, névédie, patate douce, niébé.
+***feuilles vertes*:** bissap, manioc, névédie, patate douce, niébé.
 
 Cette vitamine souffre beaucoup de la chaleur, des oxydants, de l'acidité, de l'alcalinité.
 
@@ -86,27 +84,23 @@ Cette vitamine souffre beaucoup de la chaleur, des oxydants, de l'acidité, de l
 
 sur onze vitamines de ce groupes, **trois** d'entre elles doivent nécessairement **être présentes** dans le régime alimentaire. Les huit autres sont habituellement présentes si le régime est équilibré.
 
-**_la vitamine B1_** : se trouve dans les céréales: mil, sorgho, riz, mais, blé. Dans les légumineuses: arachides, niébé. L'oeuf. Elle résiste mal à la chaleur.
+***la vitamine B1*** : se trouve dans les céréales: mil, sorgho, riz, mais, blé. Dans les légumineuses: arachides, niébé. L'oeuf. Elle résiste mal à la chaleur.
 
-**_la vitamine B2_:** lait, lait caillé, oeuf, viande, foie. Cette vitamine est détruite par les rayons ultra-violets de la lumière.
+***la vitamine B2*:** lait, lait caillé, oeuf, viande, foie. Cette vitamine est détruite par les rayons ultra-violets de la lumière.
 
 **La vitamine PP** (anti-pellagreuse): se trouve dans le poisson frais, séché, fumé. Foie, viande, volaille, oeuf, arachides, niébé.
 
 Enfin **la vitamine B12: **se trouve dans de très nombreux aliments et les besoins sont minimes. A forte dose, par voie IM, elle aurait un rôle antalgique.
 
-## **III. Apports nécessaires**
+## III. Apports nécessaires
 
 En consultant les tableaux suivants, on peut retenir aisément les besoins journaliers nécessaires en vitamines.
 
-
 ![](i4-2.jpg)
-
-
 
 ![](i4-3.jpg)
 
-
-## **IV. Les avitaminoses**
+## IV. Les avitaminoses
 
 Les maladies constatées par défaut de vitamines sont appelées avitaminoses. Elles peuvent avoir plusieurs origines:
 
@@ -166,8 +160,8 @@ diarrhée, dermatose, démence.
 
 **A l'inverse, donner de fortes doses de vitamines peut être dangereux et souvent** **inutile (surtout D et A).**
 
-_"Si de minimes quantités de vitamines suffisent pour mettre l'organisme à l'abri des manifestations pathologiques les plus graves, des quantités plus élevées sont nécessaires pour entretenir un état véritablement optimal de santé" (Bigwood)._
+*"Si de minimes quantités de vitamines suffisent pour mettre l'organisme à l'abri des manifestations pathologiques les plus graves, des quantités plus élevées sont nécessaires pour entretenir un état véritablement optimal de santé" (Bigwood).*
 
 Les éléments nutritifs et de constitution que sont les protéines, les lipides, les glucides assurent le déroulement des fonctions physiologiques de l'organisme, déroulement qui ne serait pas normal sans l'apport régulier des substances actives que sont les vitamines. Leur apport doit être particulièrement surveillé chez les enfants et les adolescents.
 
-_Développement et Santé, n°34, août 1981_
+*Développement et Santé, n°34, août 1981*

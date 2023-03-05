@@ -36,7 +36,7 @@ Per os
 
 <td>
 
-eau, crudités  
+eau, crudités
 
 cresson, mâche
 
@@ -46,7 +46,7 @@ viande de porc
 
 poisson
 
-pain  
+pain
 
 </td>
 
@@ -99,7 +99,7 @@ schistosomes
 
 </table>
 
-Les parasitoses intestinales, qui sont estimées à  plusieurs centaines de millions de cas par an (Tableau II), comprennent les protozoaires (amibes, flagellés) et les helminthes : nématodes (vers ronds), trématodes et cestodes en sachant que le polyparasitisme est souvent la règle en zone tropicale. En outre, de nouveaux parasites ont été décelés à l’occasion d’une immunodépression, comme _Cryptosporidium_ ou _Microsporidium_ qui posent des problèmes diagnostiques et thérapeutiques.
+Les parasitoses intestinales, qui sont estimées à  plusieurs centaines de millions de cas par an (Tableau II), comprennent les protozoaires (amibes, flagellés) et les helminthes : nématodes (vers ronds), trématodes et cestodes en sachant que le polyparasitisme est souvent la règle en zone tropicale. En outre, de nouveaux parasites ont été décelés à l’occasion d’une immunodépression, comme *Cryptosporidium* ou *Microsporidium* qui posent des problèmes diagnostiques et thérapeutiques.
 
 <table>
 
@@ -169,11 +169,11 @@ Anguillules
 
 60 000
 
--
+\-
 
 30 000
 
--
+\-
 
 50 000
 
@@ -317,7 +317,7 @@ bactéries
 <td>
 
 frottis sanguin  
-sérodiagnostic, enzymes musculaires  
+sérodiagnostic, enzymes musculaires
 
 culture
 

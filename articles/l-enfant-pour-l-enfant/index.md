@@ -4,17 +4,15 @@ author: "M. Horeau"
 date: "2000-02-13"
 ---
 
-L'enfant pour l'enfant *
+L'enfant pour l'enfant \*
 
-**_Sensibilisation des écoliers aux questions d'hygiène, de santé et de prévention._**
+***Sensibilisation des écoliers aux questions d'hygiène, de santé et de prévention.***
 
 **par M. Horeau**
 
-**_* Le siège francophone du mouvement initié par le pédiatre anglais David Morley (child-to-child) est basé à Paris. Il assure la formation de formateurs et élabore du matériel d'éducation à la santé à l'attention des enfants d'âge scolaire. (EPE, Institut Santé & Développement, 15, rue de l'École de Médecine, 75006 Paris. Tél./Fax: (+33) 1 43 29 33 74, e-mail: [halley@cer.jussieu.fr](mailto:halley@cer.jussieu.fr))._**
-
+**\_* Le siège francophone du mouvement initié par le pédiatre anglais David Morley (child-to-child) est basé à Paris. Il assure la formation de formateurs et élabore du matériel d'éducation à la santé à l'attention des enfants d'âge scolaire. (EPE, Institut Santé & Développement, 15, rue de l'École de Médecine, 75006 Paris. Tél./Fax: (+33) 1 43 29 33 74, e-mail: [<halley@cer.jussieu.fr>](mailto:halley@cer.jussieu.fr)).\_*\*
 
 ![](i870-1.jpg)
-
 
 **I.** **Introduction**
 
@@ -30,16 +28,16 @@ Dans l'article qui suit, nous avons résumé le rapport sur la 2e phase de ce pr
 
 La première phase du projet portait sur 4 thèmes de santé
 
-- la diarrhée,  
-- les accidents domestiques,  
-- les enfants handicapés,  
+- la diarrhée,
+- les accidents domestiques,
+- les enfants handicapés,
 - les vaccinations.
 
 La méthode pédagogique qui avait été testée précédement a été reprise pour la deuxième phase du projet dont les thèmes choisis sont:
 
-- l'importance de l'allaitement maternel,  
-- la réhydratation orale en cas de diarrhée, avec le souci pédagogique de lier ces 2 thèmes :  
-- les vers parasites,  
+- l'importance de l'allaitement maternel,
+- la réhydratation orale en cas de diarrhée, avec le souci pédagogique de lier ces 2 thèmes :
+- les vers parasites,
 - l'hygiène dentaire.
 
 Les bénéficiaires directs de l'action sont les 8 000 écoliers répartis dans 35 écoles, et les 264 enseignants et directeurs d'école qui ont reçu une formation pédagogique dans le cadre de l'action " l'enfant pour l'enfant
@@ -50,8 +48,8 @@ Cette action a naturellement un coût : il faut payer les frais de déplacement 
 
 Le financement a été rendu possible grâce à l'assistance de 3 ONG :
 
-- Kinderpostzegels (Leiden),  
-- Caritas (Genève),  
+- Kinderpostzegels (Leiden),
+- Caritas (Genève),
 - Kindermissionswerke (Aachen).
 
 **3. Rappel des objectifs** **de l'action**
@@ -62,15 +60,15 @@ L'action part d'une prise de conscience que l'école n'est pas accessible à tou
 
 **1.Prise de contact avec les responsables scolaires**
 
-Les 4 responsables africains de l'action " l'enfant pour l'enfant " ont commencé par prendre contact avec le directeur de l'école pour lui expliquer le projet de promotion de la santé par les écoliers. Après leur départ, le directeur a réuni ses enseignants et ils ont vu ensemble comment collaborer à l'action proposée et comment éventuellement aménager les horaires des cours afin d'intégrer l'action dans le programme scolaire.  
+Les 4 responsables africains de l'action " l'enfant pour l'enfant " ont commencé par prendre contact avec le directeur de l'école pour lui expliquer le projet de promotion de la santé par les écoliers. Après leur départ, le directeur a réuni ses enseignants et ils ont vu ensemble comment collaborer à l'action proposée et comment éventuellement aménager les horaires des cours afin d'intégrer l'action dans le programme scolaire.
 
 **2. Mesure des connaissances** **des écoliers avant l'action éducative**
 
-Dans un deuxième contact, l'équipe des formateurs, aidée par les enseignants, a procédé à une évaluation des connaissances des écoliers. Un questionnaire a été utilisé. Les élèves n'étaient pas préparés à l'interrogatoire car l'objectif était d'arriver à ce que les enfants parlent le plus librement possible. Les formateurs ont veillé à poser des questions claires et précises pour avoir des réponses spontanées ne nécessitant pas un grand effort de réflexion. Exemple : _" Comment votre maman nourrit-elle son bébé ? "_ ou encore " _Y a-t-il des WC à l'école ?_ ".
+Dans un deuxième contact, l'équipe des formateurs, aidée par les enseignants, a procédé à une évaluation des connaissances des écoliers. Un questionnaire a été utilisé. Les élèves n'étaient pas préparés à l'interrogatoire car l'objectif était d'arriver à ce que les enfants parlent le plus librement possible. Les formateurs ont veillé à poser des questions claires et précises pour avoir des réponses spontanées ne nécessitant pas un grand effort de réflexion. Exemple : *" Comment votre maman nourrit-elle son bébé ? "* ou encore " *Y a-t-il des WC à l'école ?* ".
 
 Les formateurs ont posé des questions qui touchent à des faits observés par les écoliers dans leur entourage le plus proche. Exemple :
 
-_" Avec quoi soigne-t-on une carie dentaire ?"._
+*" Avec quoi soigne-t-on une carie dentaire ?".*
 
 L'analyse des réponses au questionnaire montre que les écoliers de 9 à 12 ans ont déjà des connaissances sur la santé, les maladies et l'hygiène, mais elles sont parfois confuses et souvent incomplètes ou erronées.
 
@@ -80,25 +78,25 @@ Des réponses reçues, il ressort que les écoliers ont une conception de l'alim
 
 **Sur la réhydratation orale en cas de** **diarrhée**
 
-Pour tous les écoliers interrogés, la diarrhée est connue et son danger mortel pour les petits enfants est très bien perçue. La cause la plus souvent donnée est : _" le lait du sein est_ _devenu mauvais_ ". Pour 60 % des écoliers : " _la maman doit d'abord arrêter de donner le sein, car c'est le lait de la maman qui est devenu mauvais et qui a provoqué la diarrhée "._
+Pour tous les écoliers interrogés, la diarrhée est connue et son danger mortel pour les petits enfants est très bien perçue. La cause la plus souvent donnée est : *" le lait du sein est* *devenu mauvais* ". Pour 60 % des écoliers : " *la maman doit d'abord arrêter de donner le sein, car c'est le lait de la maman qui est devenu mauvais et qui a provoqué la diarrhée ".*
 
-Mais certains enfants répondent que : _" la diarrhée est provoquée par l'eau non bouillie "._
+Mais certains enfants répondent que : *" la diarrhée est provoquée par l'eau non bouillie ".*
 
 Comme traitement, 70 % des écoliers mentionnent " les médicaments ", et 12 % seulement mentionnent la solution salée/sucrée préparée à la maison. Deux écoliers parlent de la nécessité " d' une perfusion intraveineuse " sans même avoir mentionné la réhydratation orale.
 
 **Sur les vers intestinaux**
 
-Ces vers parasites sont connus par 100 % des écoliers. Beaucoup ont déjà vu des ascaris dans leurs propres selles. Quelques-uns ont déjà vu un oeuf de ver au microscope chez l'infirmier du centre de santé. Le WC existe dans 60 % des écoles mais son usage est une question très controversée. Parmi les réponses on peut relever : _" je vais au WC de l'école pour ne pas exposer mon corps devant tout le monde"_, mais aussi : _"je_ _n'utilise pas le WC de l'école car il est_ _sale "._
+Ces vers parasites sont connus par 100 % des écoliers. Beaucoup ont déjà vu des ascaris dans leurs propres selles. Quelques-uns ont déjà vu un oeuf de ver au microscope chez l'infirmier du centre de santé. Le WC existe dans 60 % des écoles mais son usage est une question très controversée. Parmi les réponses on peut relever : *" je vais au WC de l'école pour ne pas exposer mon corps devant tout le monde"*, mais aussi : *"je* *n'utilise pas le WC de l'école car il est* *sale ".*
 
 D'après les réponses, 70 % des écoliers déclarent que le WC de la maison est mieux entretenu que celui de l'école.
 
-D'autre part, la contamination par les mains sales et par les pieds nus dans la boue (ankylostomes) est bien connue ainsi que l'usage du savon et le port de souliers. Mais " _... il n'y a pas d'eau à l'école... le savon est précieux et on le garde pour la lessive... on n'a pas d'argent pour acheter des souliers_ ".
+D'autre part, la contamination par les mains sales et par les pieds nus dans la boue (ankylostomes) est bien connue ainsi que l'usage du savon et le port de souliers. Mais " *... il n'y a pas d'eau à l'école... le savon est précieux et on le garde pour la lessive... on n'a pas d'argent pour acheter des souliers* ".
 
 **Sur l'hygiène des dents**
 
 Tous les écoliers connaissent l'importance des bonnes dents et le rôle du brossage régulier pour leur protection. Plus de la moitié connaissent le rôle du sucre dans l'apparition des caries.
 
-Mais on trouve aussi ce type de réponse : " la _carie est provoquée par un ver qui_ se _cache sous la dent_ ", " _la nourriture avariée_ pro_voque des caries_ " ou encore : _"je ne bois jamais de Coca-Cola (noir) pour arrêter les caries (noires) tondis que l'Orangina ou le Fanta (orange) sont sans danger "_...
+Mais on trouve aussi ce type de réponse : " la *carie est provoquée par un ver qui* se *cache sous la dent* ", " *la nourriture avariée* pro_voque des caries\_ " ou encore : *"je ne bois jamais de Coca-Cola (noir) pour arrêter les caries (noires) tondis que l'Orangina ou le Fanta (orange) sont sans danger "*...
 
 La carie est toujours associée à la douleur, et selon certains enfants on peut la supprimer en introduisant, dans la carie, de l'essence... ou un morceau de feuille de safoutier ou de l'arbre " bunzi ". L'aspirine est connue mais très peu utilisée car peu disponible. Presque personne ne fait la distinction entre dents de lait et dents définitives. Pour 70 % des écoliers "une dent arrachée repousse toujours". On ignore les possibilités de traitement par plombage de la carie débutante. Même si 2 services de dentisterie existent dans la région, c'est l'infirmier du centre de santé ou parfois le menuisier du village qui extrait la dent malade.
 
@@ -116,7 +114,7 @@ Au total, les réponses au questionnaire montrent que si des connaissances juste
 
 - sur l'hygiène dentaire : l'importance des dents définitives saines et leur brossage régulier surtout le soir, le risque des sucreries et de toutes les boissons sucrées, l'importance de l'examen régulier des dents par l'infirmier du centre de santé, la possibilité de soigner une carie débutante.
 
-À l'issue de leur formation, les enseignants ont reçu une documentation pédagogique où sont repris les 4 thèmes ainsi que les divers objectifs à atteindre. Les directeurs d'école ont reçu chacun un exemplaire du manuel " les enfants pour la santé " diffusé par l'UNICEF et qui explique de façon élargie la pédagogie de " l'enfant pour l'enfant ".  
+À l'issue de leur formation, les enseignants ont reçu une documentation pédagogique où sont repris les 4 thèmes ainsi que les divers objectifs à atteindre. Les directeurs d'école ont reçu chacun un exemplaire du manuel " les enfants pour la santé " diffusé par l'UNICEF et qui explique de façon élargie la pédagogie de " l'enfant pour l'enfant ".
 
 **4. Sensibilisation des élèves** **par les enseignants**
 
@@ -124,12 +122,14 @@ Avec l'accord des directeurs d'école, comme prévu, les enseignants ont intégr
 
 À chaque écolier, les formateurs ont remis 4 brochures :
 
-- " Le vieux roi et la petite fiancée "* (l'alimentation des bébés),  
-- " Le lièvre musicien "* (la diarrhée et la réhydratation orale),  
-- " Le jeune homme et le dragon,,* (les vers parasites),  
-- " Sanko le lièvre arracheur de dents "* (l'hygiène des dents).
+- " Le vieux roi et la petite fiancée "\* (l'alimentation des bébés),
+- " Le lièvre musicien "\* (la diarrhée et la réhydratation orale),
+- " Le jeune homme et le dragon,,\* (les vers parasites),
+- " Sanko le lièvre arracheur de dents "\* (l'hygiène des dents).
 
-* Auteur: Dr Yvon Moren.
+<!-- -->
+
+- Auteur: Dr Yvon Moren.
 
 Ces brochures de 40 pages environ se présentent sous forme d'un conte africain. Elles sont très agréables à lire, contiennent de nombreuses illustrations et se terminent soit par un jeu, soit par un théâtre éducatif. Elles servent d'aide-mémoire et de complément d'information. Les enfants étaient très contents de recevoir ces brochures qui leur servent aussi de livre de lecture ; en effet, les écoliers ne disposent pas de livres leur appartenant, vu le faible pouvoir d'achat de leurs parents. De retour à la maison après les cours, ces brochures étant la seule lecture disponible dans la famille, elles ont été lues par certains parents initialement non prévus comme bénéficiaires directs de l'action.
 
@@ -137,23 +137,23 @@ Ces brochures de 40 pages environ se présentent sous forme d'un conte africain.
 
 Il s'agissait d'évaluer après l'action :
 
-- le relèvement du niveau des connaissances des écoliers sur les différents thèmes évoqués,  
-- les changements d'attitude et l'adoption de comportements favorisant une meilleure santé,  
+- le relèvement du niveau des connaissances des écoliers sur les différents thèmes évoqués,
+- les changements d'attitude et l'adoption de comportements favorisant une meilleure santé,
 - l'impact de l'action dans la communauté.
 
 Pour ces évaluations, 3 outils de travail ont été élaborés sous forme de questionnaires :
 
-- un questionnaire destiné aux écoliers sensibilisés,  
-- un questionnaire destiné aux enseignants,  
+- un questionnaire destiné aux écoliers sensibilisés,
+- un questionnaire destiné aux enseignants,
 - un questionnaire destiné à l'entourage des écoliers dans la communauté villageoise.
 
 **6. Bilan**
 
-L'analyse des réponses montre que les connaissances sont devenues plus précises. Par exemple à la question : " _Quel est le_ meilleur _aliment pour le bébé ?_ ", 80 % des écoliers ont cité d'abord et sans hésitation " _le_ _lait de la maman_ ".
+L'analyse des réponses montre que les connaissances sont devenues plus précises. Par exemple à la question : " *Quel est le* meilleur *aliment pour le bébé ?* ", 80 % des écoliers ont cité d'abord et sans hésitation " *le* *lait de la maman* ".
 
 Quarante pour cent des écoliers interrogés expliquent sans hésiter la recette pour la préparation à la maison de la solution sel-sucre donnée aux jeunes enfants en cas de diarrhée. Un seul propose , la perfusion " d'emblée.
 
-Les écoliers ont une compréhension plus élargie et plus éclairée de quelques problèmes de santé et leur prévention. À la question _"Qu'est-ce qui abîme les dents_ ?", plus de 80 % des écoliers citent le sucre. Ils ont enfin raffermi leurs connaissances sur le lien entre les maladies et l'absence d'hygiène.
+Les écoliers ont une compréhension plus élargie et plus éclairée de quelques problèmes de santé et leur prévention. À la question *"Qu'est-ce qui abîme les dents* ?", plus de 80 % des écoliers citent le sucre. Ils ont enfin raffermi leurs connaissances sur le lien entre les maladies et l'absence d'hygiène.
 
 Les instituteurs ont noté dans l'ensemble l'adoption d'habitudes nouvelles. Plusieurs écoliers ont entrepris des démarches auprès de la direction de l'école pour que les aînés obtiennent la permission d'aménager eux-mêmes des WC scolaires. Des démarches ont aussi été faites par les écoliers en vue d'un meilleur entretien des installations sanitaires de l'école. Plusieurs parents ont signalé qu'ils avaient construit un WC à l'arrière de la maison sur l'instance de leur enfant. Quatre-vingts pour cent des parents ont dit aux formateurs qu'ils avaient acheté du dentifrice à la demande de leur enfant suite aux conseils reçus à l'école.
 
@@ -173,4 +173,4 @@ L'idée très féconde du centre pour la promotion de la santé de Kangu-Mayumbe
 
 Les écoliers peuvent transmettre à leur parents et amis les nouveaux savoirs et savoir-faire acquis... Les connaissances acquises dans le domaines de l'allaitement maternel ou sur la réhydratation orale si leur petit frère a la diarrhée, ainsi que les connaissances sur l'hygiène dentaire seront partagées. Les écoliers et écolières d'aujourd'hui seront demain des parents, des éducateurs et transmettront les bonnes habitudes aux enfants sous leur responsabilité. La fécondité de cette idée est très justement exprimée dans la conclusion du rapport: "investir aujourd'hui dans les enfants en faisant d'eux des partenaires pour la santé constitue un investissement durable ".
 
-_Développement et Santé, n°145, février 2000_
+*Développement et Santé, n°145, février 2000*

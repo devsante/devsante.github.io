@@ -11,32 +11,32 @@ C’est pourquoi il est essentiel de les connaître et d’expliquer préciséme
 La plupart des interactions avec les anticoagulants sont connues pour un médicament donné. On connait beaucoup moins bien les interactions éventuelles concernant plus de deux ou trois médicaments associés.<br />
 Il faut donc prescrire avec prudence et être sûr que tous les médicaments prescrits sont justifiés.</p></div>
 
-## **I. Quelques généralités sur les interactions**
+## I. Quelques généralités sur les interactions
 
-### **1. Les principaux types d’interactions médicamenteuses**
+### 1. Les principaux types d’interactions médicamenteuses
 
 Indépendamment du mécanisme ou de la cause, on définit trois types d’interactions entre deux ou plusieurs substances administrées simultanément :
 
-*   Synergie (ou additivité) : les effets des substances s’additionnent. Il peut s'agir des effets thérapeutiques mais aussi des effets indésirables.  
-*   Antagonisme : une substance réduit (ou annule) les effets de l’autre.  
-*   Potentialisation : une substance augmente les effets d’une autre.
+- Synergie (ou additivité) : les effets des substances s’additionnent. Il peut s'agir des effets thérapeutiques mais aussi des effets indésirables.
+- Antagonisme : une substance réduit (ou annule) les effets de l’autre.
+- Potentialisation : une substance augmente les effets d’une autre.
 
-### **2. Les mécanismes des interactions**
+### 2. Les mécanismes des interactions
 
 Les interactions médicamenteuses sont de deux types : pharmacodynamiques et pharmacocinétiques.
 
-#### **Les interactions pharmacodynamiques**
+#### Les interactions pharmacodynamiques
 
 Liées aux mécanismes d’action des médicaments, elles sont observées lorsque l’un des médicaments modifie les effets de l’autre. Elles concernent des médicaments ayant des propriétés ou des effets indésirables complémentaires analogues ou antagonistes vis-à-vis d’un même système physiologique. Les effets peuvent d’additionner ou au contraire s’annuler.
 
-#### **Les interactions pharmacocinétiques**
+#### Les interactions pharmacocinétiques
 
 Elles peuvent intervenir aux différentes étapes de la vie du médicament dans l’organisme :
 
-*   **Absorption** depuis le lieu d’administration : un médicament peut modifier la vitesse d’absorption ou la quantité absorbée d’un autre (on dit que la biodisponibilité du médicament est modifiée).  
-*   **Diffusion** dans l’organisme : le médicament circule généralement dans le sang en partie sous forme liée aux protéines plasmatiques, en partie sous forme libre (non liée aux protéines). Seule cette dernière est active. Si un médicament A déplace un médicament B de sa liaison aux protéines plasmatiques, la forme libre (active) de B augmente, son activité est donc accrue, ce qui entraîne un risque de surdosage.  
-*   Métabolisme : un médicament peut modifier l’activité d’un autre en stimulant ou en inhibant les enzymes qui le métabolisent (donc le dégradent).En effet, la plupart des médicaments sont hydrophobes et ne peuvent donc être éliminés (par voie urinaire ou biliaire) qu'après transformation en métabolites plus hydrosolubles. Ce métabolisme a lieu surtout dans le foie (mais aussi au niveau de l'intestin).  
-*   Elimination : des interactions peuvent intervenir lors des deux étapes de l'élimination rénale : la filtration glomérulaire, et l'excrétion tubulaire active ou en cas de modification du pH urinaire.
+- **Absorption** depuis le lieu d’administration : un médicament peut modifier la vitesse d’absorption ou la quantité absorbée d’un autre (on dit que la biodisponibilité du médicament est modifiée).
+- **Diffusion** dans l’organisme : le médicament circule généralement dans le sang en partie sous forme liée aux protéines plasmatiques, en partie sous forme libre (non liée aux protéines). Seule cette dernière est active. Si un médicament A déplace un médicament B de sa liaison aux protéines plasmatiques, la forme libre (active) de B augmente, son activité est donc accrue, ce qui entraîne un risque de surdosage.
+- Métabolisme : un médicament peut modifier l’activité d’un autre en stimulant ou en inhibant les enzymes qui le métabolisent (donc le dégradent).En effet, la plupart des médicaments sont hydrophobes et ne peuvent donc être éliminés (par voie urinaire ou biliaire) qu'après transformation en métabolites plus hydrosolubles. Ce métabolisme a lieu surtout dans le foie (mais aussi au niveau de l'intestin).
+- Elimination : des interactions peuvent intervenir lors des deux étapes de l'élimination rénale : la filtration glomérulaire, et l'excrétion tubulaire active ou en cas de modification du pH urinaire.
 
 Il convient de préciser que le risque d’interaction est augmenté en cas de pathologies associées (insuffisance rénale, hépatique…), notamment chez le sujet âgé, et lorsque plusieurs autres traitements sont associés (parfois indispensables…). 
 
@@ -44,7 +44,7 @@ Il convient de préciser que le risque d’interaction est augmenté en cas de p
 
 Contre-indication : l’association d’un anticoagulant avec un autre médicament peut être formellement contre-indiquée : parce qu’elle peut conduire soit à un surdosage (risque hémorragique), soit au contraire à une inefficacité.
 
-### **Association déconseillée**  
+### Association déconseillée  
 
 Dans ce cas, il s’agit d’une contre-indication relative.  L’association doit être de préférence évitée, et si cela est possible, la surveillance du traitement doit être renforcée.
 
@@ -52,12 +52,12 @@ Dans ce cas, il s’agit d’une contre-indication relative.  L’association d
 
 C’est le cas le plus général. L’association est possible en respectant les recommandations.
 
-### Recommandations en cas d’interaction médicamenteuse :
+### Recommandations en cas d’interaction médicamenteuse 
 
-*   Remplacement du médicament associé à l’anticoagulant par une substance ayant un effet thérapeutique comparable et n’interagissant pas avec l’anticoagulant.  
-*   Si l’association est inévitable, il faut :
-    *   informer  le patient,
-    *   et mettre en place une surveillance renforcée clinique, voire biologique.
+- Remplacement du médicament associé à l’anticoagulant par une substance ayant un effet thérapeutique comparable et n’interagissant pas avec l’anticoagulant.
+- Si l’association est inévitable, il faut :
+  - informer  le patient,
+  - et mettre en place une surveillance renforcée clinique, voire biologique.
 
 Pour la surveillance biologique : l’effet anticoagulant des antivitamine K est surveillé par un test sanguin appelé INR (International Normalized Ratio), expression du Taux de Prothrombine (TP).
 
@@ -65,9 +65,9 @@ Pour la surveillance biologique : l’effet anticoagulant des antivitamine K es
 
 Les interactions médicamenteuses avec les anticoagulants essentiels seront évoquées :
 
-*   Anticoagulants oraux : antivitamine K (acénocoumarol, warfarine, fluindione).  
-*   Anticoagulants injectables = héparine (héparine sodique).  
-*   Médicaments administrés par voie orale comme antiagrégants plaquettaires = acide acétylsalicylique, clopidogrel, ticlopidine.
+- Anticoagulants oraux : antivitamine K (acénocoumarol, warfarine, fluindione).
+- Anticoagulants injectables = héparine (héparine sodique).
+- Médicaments administrés par voie orale comme antiagrégants plaquettaires = acide acétylsalicylique, clopidogrel, ticlopidine.
 
 ### 1. Interactions avec les antivitamine K
 
@@ -146,7 +146,7 @@ Anti-inflammatoires non stéroïdiens (AINS)
 <td>
 
 Augmentation du risque hémorragique  
-Toxicité digestive des AINS   
+Toxicité digestive des AINS 
 
 </td>
 
@@ -189,7 +189,7 @@ Méthylprednisolone
 <td>
 
 Risque hémorragique  
-Effet éventuel sur le métabolisme de l’AVK et sur celui des facteurs de la coagulation (à forte dose ou en traitement prolongé > 10 jours)  
+Effet éventuel sur le métabolisme de l’AVK et sur celui des facteurs de la coagulation (à forte dose ou en traitement prolongé > 10 jours)
 
 Augmentation de l’effet AVK (si doses 0,5-1 g en bolus)  
 
@@ -821,8 +821,8 @@ En pratique, il est indispensable de connaître les principales interactions mé
 Il faut consulter la notice du médicament sur laquelle sont indiquées les recommandations, notamment poir tous les médicaments non cités dans cet article.  
 L’éducation du patient est essentielle :
 
-*   il doit comprendre l’importance de la surveillance du traitement,
-*   il ne doit pas prendre d’autres médicaments sans avis médical (pas d’automédication). 
+- il doit comprendre l’importance de la surveillance du traitement,
+- il ne doit pas prendre d’autres médicaments sans avis médical (pas d’automédication). 
 
 <table>
 

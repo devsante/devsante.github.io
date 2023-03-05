@@ -8,11 +8,9 @@ date: "1983-10-29"
 
 La grossesse extra-utérine est une **urgence chirurgicale** à laquelle il faut toujours penser chez une femme en âge d'être enceinte et présentant des douleurs abdominales, a fortiori un état de choc hémorragique.
 
-
 ![](i93-1.jpg)
 
-
-## **Rappel anatomo-physiologique**
+## Rappel anatomo-physiologique
 
 Chez la femme, l'ovule provient de l'ovaire, chemine dans la trompe utérine et vient se nider au niveau de la muqueuse utérine. L'ovulation a lieu vers le 15<sup>e</sup> jour suivant les règles.
 
@@ -22,13 +20,13 @@ Cette mauvaise migration de l'oeuf est due à des altérations de la trompe uté
 
 Plusieurs tableaux cliniques sont possibles selon que la grossesse extra-utérine est vue au début de son évolution, lorsqu'elle n'a encore grossi que dans la trompe sans la rompre (hématosalpynx) ou qu'elle est vue au stade de rupture de la trompe avec hémorragie interne, avec là encore deux aspects différents selon l'importance et surtout la rapidité du saignement. Le diagnostic peut être parfois difficile, mais chez une femme en âge d'être enceinte, il faut toujours penser à la possibilité de GEU et examiner la malade dans ce sens (interrogatoire, toucher vaginal).
 
-**_"Lorsque l'on pense toujours à la GEU,_ on n'y pense pas encore assez. "**
+***"Lorsque l'on pense toujours à la GEU,* on n'y pense pas encore assez. "**
 
 **(Henri Mondor)**
 
-## **Clinique**
+## Clinique
 
-**_Première éventualité:_**
+***Première éventualité:***
 
 **l'hématosalpynx**
 
@@ -42,7 +40,7 @@ Ces pertes peuvent même passer totalement inaperçues et c'est le doigtier du t
 
 Devant ces deux signes, vous devez penser à la GEU et examiner minutieusement la malade.
 
-## **Examen clinique**
+## Examen clinique
 
 **1.** Il s'agit d'une grossesse, anormale, mais d'une grossesse quand même: cette femme est en âge d'avoir des enfants, elle se sait parfois enceinte car elle a un retard des règles, elle présente des signes de grossesse: nausées, tension des seins.
 
@@ -52,23 +50,21 @@ Devant ces deux signes, vous devez penser à la GEU et examiner minutieusement l
 
 l'utérus est parfois augmenté de volume, mais pas autant que le voudrait l'âge présumé de la grossesse. On perçoit, distincte de l'utérus, une masse latérale, d'un seul côté, souvent mal limitée, dont il est parfois difficile de préciser si elle est indépendante de l'utérus. Le cul-de-sac vaginal de son côté semble " empâté-. Mais surtout, cette masse est très douloureuse, la douleur empêchant parfois de prolonger l'examen. Ne pas hésiter à faire le toucher vaginal avec la main droite, puis la main gauche car on explore parfois mal l'un des culs-de-sac. Le doigtier est souillé de sang.
 
-
 ![](i93-2.jpg)
-
 
 Si ces signes sont réunis, le diagnostic ne fait aucun doute, aucun examen complémentaire n'est utile au diagnostic, il faut opérer cette malade.
 
 Parfois, tout n'est pas aussi net:
 
-### **diagnostic** **différentiel :**
+### diagnostic différentiel
 
 **1.** Si les pertes vaginales sont abondantes, rouges avec caillots, chez une femme suspecte d'être enceinte, on peut hésiter avec une **fausse-couche** spontanée ou provoquée, mais même si la notion de manoeuvre abortive est connue, il faut se méfier, la grossesse a pu évoluer en fait au niveau de la trompe.
 
 Deux signes doivent faire penser qu'il s'agit d'une GEU:
 
-*   le toucher vaginal qui retrouve la masse douloureuse latéro-utérine,
+- le toucher vaginal qui retrouve la masse douloureuse latéro-utérine,
 
-*   le curetage ne ramène pas ou peu de débris, on profite de l'anesthésie générale pour refaire un toucher vaginal avec une main appuyant sur l'abdomen, la masse est alors souvent perçue.
+- le curetage ne ramène pas ou peu de débris, on profite de l'anesthésie générale pour refaire un toucher vaginal avec une main appuyant sur l'abdomen, la masse est alors souvent perçue.
 
 **2.** Si les douleurs sont violentes avec des pertes sales, on peut penser à une salpingite, mais dans la GEU la fièvre dépasse rarement 38°, alors que dans la salpingite elle atteint 38°5-40°. Le toucher vaginal est douloureux dans les deux cas.
 
@@ -82,9 +78,7 @@ Dans ces cas plus difficiles, certains examens complémentaires sont utiles, mai
 
 **2.** La ponction du Douglas:
 
-
 ![](i93-3.jpg)
-
 
 On explore le vagin et le col utérin avec un spéculum, le col utérin est relevé par une pince vers l'avant, et une longue aiguille (type ponction lombaire) est enfoncée dans le cul-de-sac postérieur du vagin pour atteindre le cul-de-sac de Douglas. Si on aspire, peu de sang noirâtre ou du sang lysé (liquide brunâtre), le diagnostic est certain. Cette manoeuvre est simple, sans danger et indolore. Mais la ponction peut rester " blanche " si il n'y a pas de sang épanché dans le Douglas. En général, l'hématosalpynx est rarement pur et un début de fissure ou un suintement sanguin collecté dans le Douglas est toujours présent.
 
@@ -106,7 +100,7 @@ Mais bien souvent aucun examen sophistiqué n'est possible et les meilleurs él�
 
 **4.** au moindre doute, la mise en observation et l'examen répété à quelques heures ou quelques jours d'intervalles quand on se trouve à l'hôpital. Ou envoyer la malade à l'hôpital si on travaille dans un dispensaire.
 
-### **_Deuxième éventualité_**
+### *Deuxième éventualité*
 
 **la rupture de GEU avec hémorragie progressive**
 
@@ -114,9 +108,7 @@ La GEU rompt la trompe, la malade saigne de façon permanente mais peu abondante
 
 **1.** Cette femme souffre, elle se plaint depuis plusieurs heures ou plusieurs jours du bas-ventre, les douleurs vont en empirant. La palpation réveille cette douleur et dans certains cas on trouve une véritable défense ou une contracture faisant penser à une péritonite (ce signe n'est pas marqué dans les livres, mais il existe, je l'ai constaté plusieurs fois).
 
-
 ![](i93-4.jpg)
-
 
 **2.** Les métrorragies sont souvent plus évidentes, de sang noirâtre, abondantes.
 
@@ -132,7 +124,7 @@ Elle est pâle, les conjonctives, la langue, la paume des mains, les régions so
 
 Le diagnostic est certain, il faut opérer cette malade rapidement. Si vous êtes loin de l'hôpital, placez lui une perfusion pour le transport. Si vous êtes à l'hôpital: perfuser, un seul examen complémentaire est nécessaire: le groupe sanguin de la malade et celui des accompagnants pour qu'ils donnent rapidement du sang pour transfuser la malade pendant l'opération.
 
-### **_Troisième éventualité_**
+### *Troisième éventualité*
 
 **la rupture cataclysmique de GEU**
 
@@ -142,20 +134,18 @@ Il s'agit d'une femme jeune en état de choc hémorragique. Une seule cause est 
 
 Le diagnostic est évident, il faut perfuser rapidement la malade avec si possible des grosses molécules. L'emmener au bloc opératoire où elle sera groupée et opérée le plus vite possible. Dès que le sang sera disponible, on la transfusera. De la rapidité de vos gestes dépend la vie de cette malade:
 
-*   perfusion efficace et transfert rapide à l'hôpital si vous êtes en brousse, ne perdez pas votre temps avec l'hydrocortisone.
+- perfusion efficace et transfert rapide à l'hôpital si vous êtes en brousse, ne perdez pas votre temps avec l'hydrocortisone.
 
-*   _ne pas perdre son temps à perfuser adrénoxyl_ _et vitamine K_ et autres produits chers et inutiles.
+- *ne pas perdre son temps à perfuser adrénoxyl* *et vitamine K* et autres produits chers et inutiles.
 
-*   à l'hôpital, perfuser, grouper et envoyer au bloc le plus vite possible.
+- à l'hôpital, perfuser, grouper et envoyer au bloc le plus vite possible.
 
-## **Le traitement**
+## Le traitement
 
 Il est simple, il sauve la vie. L'intervention consiste à enlever la trompe malade, jusqu'à sa portion intra-utérine pour éviter toute récidive sur un moignon laissé en place. En cas d'hémopéritoine important, on peut récupérer stérilement le sang pour le retransfuser à la malade.
 
 En dehors de l'urgence et dans certains centres très modernes on peut essayer de garder la trompe en enlevant simplement l'oeuf, cette intervention est même possible sous coelioscopie. Mais elle est risquée, car elle laisse une trompe porteuse de cicatrice et une deuxième GEU peut avoir lieu sur cette trompe lésée. Ce traitement n'est pas concevable chez une femme ne pouvant pas être facilement surveillée lors de grossesses ultérieures.
 
-
 ![](i93-5.jpg)
 
-
-_Développement et Santé, n°47, octobre 1983_
+*Développement et Santé, n°47, octobre 1983*

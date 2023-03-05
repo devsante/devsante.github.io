@@ -25,7 +25,7 @@ Une forme de crise facile à reconnaître est l'asthme d'effort, déclenché par
 
 Il s'agit surtout de **sifflements respira­toires**, à l'expiration. Le plus souvent, c'est une sorte de bronchite sifflante qui survient chez un bébé enrhumé et tousseur depuis quelques jours. La respiration devient plus rapide, avec un frein au temps expiratoire.
 
-A l'auscultation, on entend des râles sibilants et des râles humides d'encombrement bron­chique. Cela ressemble à une "bronchiolite" virale, volontiers fébrile et qui peut d'ailleurs déclencher une crise d'asthme. Avant l'âge de deux ans, la répétition de bron­chiolites, à l'occasion de rhinopharyngites, permet de parler d"`asthme du nourrisson", ce qui ne veut pas dire que l'enfant deviendra asthmatique plus tard.
+A l'auscultation, on entend des râles sibilants et des râles humides d'encombrement bron­chique. Cela ressemble à une "bronchiolite" virale, volontiers fébrile et qui peut d'ailleurs déclencher une crise d'asthme. Avant l'âge de deux ans, la répétition de bron­chiolites, à l'occasion de rhinopharyngites, permet de parler d"\`asthme du nourrisson", ce qui ne veut pas dire que l'enfant deviendra asthmatique plus tard.
 
 Chez le **nourrisson**, reconnaître l'asthme n'est pas facile. On est aidé s'il y a des personnes allergiques dans la famille, si l'enfant a eu un eczéma ou des laryngites. C'est en général la nette amélioration par le salbutamol qui sera le bon test confirmant le diagnostic. L'échec du traitement est en faveur d'une bronchiolite ou de l'inhalation d'un corps étranger à laquel­le il faut penser.
 
@@ -35,19 +35,17 @@ La question à se poser **tout de suite** est : "l'enfant est-il en détresse re
 
 Cliniquement, **trois signes** de gravité peu­vent exister :
 
-*   **signes de lutte** (tirage), indiquant que l'en­fant met en jeu tous ses muscles pour respi­rer (creusement dans le cou, entre les côtes, sous le sternum) et, chez le bébé, battement des ailes du nez ;
-*   **signes de manque d'oxygène** : rythme respiratoire rapide (polypnée), cyanose des lèvres, de la langue et des doigts ;
-*   signes d'excès de gaz carbonique : sueurs, troubles de la conscience.
+- **signes de lutte** (tirage), indiquant que l'en­fant met en jeu tous ses muscles pour respi­rer (creusement dans le cou, entre les côtes, sous le sternum) et, chez le bébé, battement des ailes du nez ;
+- **signes de manque d'oxygène** : rythme respiratoire rapide (polypnée), cyanose des lèvres, de la langue et des doigts ;
+- signes d'excès de gaz carbonique : sueurs, troubles de la conscience.
 
-Chez le grand enfant, chez qui la crise peut être sous-estimée ou s'aggraver brusquement, on peut apprécier l'importance de la gêne res­piratoire grâce à un petit appareil : le débit­mètre de pointe (_ou peak flow_), qui mesure le souffle du malade, c'est-à-dire le degré d'obstruction des bronches. Il existe plusieurs appareils, peu coûteux.
+Chez le grand enfant, chez qui la crise peut être sous-estimée ou s'aggraver brusquement, on peut apprécier l'importance de la gêne res­piratoire grâce à un petit appareil : le débit­mètre de pointe (*ou peak flow*), qui mesure le souffle du malade, c'est-à-dire le degré d'obstruction des bronches. Il existe plusieurs appareils, peu coûteux.
 
-Il existe une échelle indiquant les normes de l'enfant en fonction de sa taille. Par exemple, un enfant de 10 ans a un débit d'environ 2501/mn ± 50. C'est ce chiffre qu'indiquera le _peak-flow_. Cet appareil permet aussi d'appré­cier l'amélioration apportée par le traitement.
+Il existe une échelle indiquant les normes de l'enfant en fonction de sa taille. Par exemple, un enfant de 10 ans a un débit d'environ 2501/mn ± 50. C'est ce chiffre qu'indiquera le *peak-flow*. Cet appareil permet aussi d'appré­cier l'amélioration apportée par le traitement.
 
 **Un exemple de débit-mètre**
 
-
 ![](image002-13.jpg)
-
 
 ## III. Traitement
 
@@ -138,26 +136,24 @@ Avant cet âge, il est nécessaire d'utiliser une "chambre d'inhalation". La plu
 
 Si on ne dispose d'aucun appareil, on peut fabri­quer une chambre "de fortune" avec deux bou­teilles (convient pour l'enfant de 2 à 12 ans) :
 
-*   il faut utiliser deux bouteilles en plastique dont on coupe le tiers inférieur pour les emboîter l'une dans l'autre ; la jonction est rendue hermétique par du sparadrap ;
-*   l'enfant prend une extrémité dans sa bouche et on place l'aérosol à l'autre extrémité.
-
+- il faut utiliser deux bouteilles en plastique dont on coupe le tiers inférieur pour les emboîter l'une dans l'autre ; la jonction est rendue hermétique par du sparadrap ;
+- l'enfant prend une extrémité dans sa bouche et on place l'aérosol à l'autre extrémité.
 
 ![](image004-2.jpg)
 
-
-En dehors de l'aérosol, il existe d'autres présentations de salbutamol, ou de terbutaline. Ces produits ne nécessitent pas de déclenchement manuel car l'appareil prépare la dose à inspirer _(cf tableau 2)._
+En dehors de l'aérosol, il existe d'autres présentations de salbutamol, ou de terbutaline. Ces produits ne nécessitent pas de déclenchement manuel car l'appareil prépare la dose à inspirer *(cf tableau 2).*
 
 #### Dans la crise simple
 
-On fait inhaler deux bouffées de Ventoline® (une seule pour les spécialités comme Venti­lastin® ou Bricanyl Turbuhaler® (_cf Tableau 2_). On renouvelle les bouffées 5 à 10 minutes plus tard et, souvent encore, une troisième fois. Si la cessation de la crise n'est pas par­faite, on peut renouveler 6 fois, sans dépasser 15 bouffées.
+On fait inhaler deux bouffées de Ventoline® (une seule pour les spécialités comme Venti­lastin® ou Bricanyl Turbuhaler® (*cf Tableau 2*). On renouvelle les bouffées 5 à 10 minutes plus tard et, souvent encore, une troisième fois. Si la cessation de la crise n'est pas par­faite, on peut renouveler 6 fois, sans dépasser 15 bouffées.
 
-*   **Si ce traitement est efficace**, on poursuit la bronchodilatation seule toutes les 4 à 6 heures pendant une journée, puis 3 fois par jour pendant 3 à 4 jours.  
-*   **S'il est inefficace ou si la crise était d'emblée grave**, on recourt aux corticoïdes par voie orale, 1 mg/kg en une prise pour le Solupred® ou le Cortancy®l par exemple, puis la même dose pendant 3 - 4 jours (_cf tableau 3_).  
-*   **Si l'enfant va très mal**, on peut faire une injection sous-cutanée de Ventoline® ou de Bricanyl®avant de le transférer en milieu hospitalier où l'on utilisera les mêmes pro­duits : nébulisations de bronchodilatateurs avec oxygène, corticoïdes en perfusion...
+- **Si ce traitement est efficace**, on poursuit la bronchodilatation seule toutes les 4 à 6 heures pendant une journée, puis 3 fois par jour pendant 3 à 4 jours.
+- **S'il est inefficace ou si la crise était d'emblée grave**, on recourt aux corticoïdes par voie orale, 1 mg/kg en une prise pour le Solupred® ou le Cortancy®l par exemple, puis la même dose pendant 3 - 4 jours (*cf tableau 3*).
+- **Si l'enfant va très mal**, on peut faire une injection sous-cutanée de Ventoline® ou de Bricanyl®avant de le transférer en milieu hospitalier où l'on utilisera les mêmes pro­duits : nébulisations de bronchodilatateurs avec oxygène, corticoïdes en perfusion...
 
 **La crise liée à l'effort** est souvent rapide­ment guérie par une ou deux inhalations de bronchodilatateurs.
 
-### **2. Chez le nourrisson**
+### 2. Chez le nourrisson
 
 On utilise également les bronchodilatateurs. La chambre d'inhalation est indispensable (Babyhaler) ou peut être remplacée par une nébulisation au masque si on dispose de l'ap­pareil.
 
@@ -247,8 +243,9 @@ Ventilastin Novohaler®
 
 12 €/200 doses
 
-10 € appareil  
-+ 200 doses
+10 € appareil
+
+- 200 doses
 
 </td>
 
@@ -305,8 +302,9 @@ Bricanyl Turbuhaler®
 
 <td valign="top">
 
-15 € appareil  
-+ 200 doses
+15 € appareil
+
+- 200 doses
 
 </td>
 
@@ -695,4 +693,4 @@ BETNESOL®
 
 A signaler : la théophylline n'est plus guère utilisée dans les crises d'asthme de l'enfant.
 
-_Développement et Santé, n°191/192, 2008_
+*Développement et Santé, n°191/192, 2008*

@@ -6,13 +6,13 @@ date: "2008-04-26"
 
 <div class="teaser"><p>L'OMS estime que 8 à 10 millions de nouveaux cas de tuberculose surviennent chaque année dans le monde. Elle provoque 2 millions de décès dont 300 000 enfants. Près de 60 % de ces cas surviennent en Afrique dont 20 à 25 % chez l'enfant. Depuis la dernière décennie, on observe une augmentation de la fréquence la tuberculose en Afrique, due à la dégradation de la situation socio-économique, à la dénutrition, aux guerres, au VIH et aux défaillances de certains programmes nationaux antituberculeux.</p></div>
 
-## **I. Bases fondamentales**
+## I. Bases fondamentales
 
-La tuberculose est une maladie bactérienne, contagieuse, essentiellement par voie aérienne. Elle se transmet d'homme à homme. L'agent responsable est le _Mycobactérium tuberculosis_ ou bacille de KOCH, appelé BK. Si cette maladie demeure un des grands fléaux de l'humanité, alors que nous disposons de médicaments efficaces, c'est qu'elle est parti­culièrement grave chez le sujet immuno­déprimé par la dénutrition et/ou par le VIH. De plus, à la différence des autres infections bactériennes, le traitement, pour être efficace, doit être prolongé plusieurs mois. On com­prend donc pourquoi l'observance est souvent difficile, en particulier chez le malade en état de précarité socio-économique, provoquant ainsi souvent des résultats insuffisants.
+La tuberculose est une maladie bactérienne, contagieuse, essentiellement par voie aérienne. Elle se transmet d'homme à homme. L'agent responsable est le *Mycobactérium tuberculosis* ou bacille de KOCH, appelé BK. Si cette maladie demeure un des grands fléaux de l'humanité, alors que nous disposons de médicaments efficaces, c'est qu'elle est parti­culièrement grave chez le sujet immuno­déprimé par la dénutrition et/ou par le VIH. De plus, à la différence des autres infections bactériennes, le traitement, pour être efficace, doit être prolongé plusieurs mois. On com­prend donc pourquoi l'observance est souvent difficile, en particulier chez le malade en état de précarité socio-économique, provoquant ainsi souvent des résultats insuffisants.
 
 ### Le bacille de KOCH
 
-Le BK fait partie de la famille des mycobactéries (bacilles acido-alcoolo résistants ou BAAR) : il est de loin le principal responsable de la tuberculose humaine. _Mycobacterium africa­num_ se rencontre en Afrique de l'ouest ; il entraîne lui aussi une tuberculose, mais sa sensibilité aux anti-tuberculeux est différente du BK. Mycobacterium bouis est responsable des tuberculoses des bovidés : l'homme peut se contaminer par le lait non pasteurisé ou non bouilli : la maladie induite est ici beaucoup moins grave que celle provoquée par le BK. Ces 3 espèces de mycobactéries constituent les mycobactéries tuberculeuses.
+Le BK fait partie de la famille des mycobactéries (bacilles acido-alcoolo résistants ou BAAR) : il est de loin le principal responsable de la tuberculose humaine. *Mycobacterium africa­num* se rencontre en Afrique de l'ouest ; il entraîne lui aussi une tuberculose, mais sa sensibilité aux anti-tuberculeux est différente du BK. Mycobacterium bouis est responsable des tuberculoses des bovidés : l'homme peut se contaminer par le lait non pasteurisé ou non bouilli : la maladie induite est ici beaucoup moins grave que celle provoquée par le BK. Ces 3 espèces de mycobactéries constituent les mycobactéries tuberculeuses.
 
 Les autres mycobactéries sont dites atypiques : elles peuvent provoquer des lésions proches de la tuberculose, peu graves sauf chez le sujet immunodéprimé (SIDA). Toutes ces mycobactéries sont aérobies et se multiplient lentement (20 heures en moyen­ne). Le poumon constitue un milieu de culture idéal, car richement oxygéné, à 37°, et à l'obscurité ! En effet, le BK est rapidement détruit par la lumière et en particulier les rayons ultraviolets du soleil.
 
@@ -34,9 +34,9 @@ Différentes causes susceptibles de diminuer les défenses immunitaires du sujet
 
 Schématiquement, cette diffusion survient dans 3 situations :
 
-*   d'emblée, c'est le plus souvent le cas chez le nourrisson et l'enfant,
-*   secondairement : c'est le réveil de la primo­infection ou réactivation endogène,
-*   ou une nouvelle contamination survenant des mois ou des années plus tard à partir d'un autre tuberculeux ; c'est en général le cas chez l'adulte.
+- d'emblée, c'est le plus souvent le cas chez le nourrisson et l'enfant,
+- secondairement : c'est le réveil de la primo­infection ou réactivation endogène,
+- ou une nouvelle contamination survenant des mois ou des années plus tard à partir d'un autre tuberculeux ; c'est en général le cas chez l'adulte.
 
 Les localisations de la tuberculose maladie sont multiples : avant tout pulmonaires, mais aussi méningées, pleurales, péricardiques, osseuses, génitales,
 
@@ -46,8 +46,8 @@ La diffusion bacillaire peut se faire dans tous les organes, en quelques semaine
 
 **Deux atteintes sont à redouter :**
 
-*   la tuberculose miliaire pulmonaire,
-*   la méningite tuberculeuse.
+- la tuberculose miliaire pulmonaire,
+- la méningite tuberculeuse.
 
 La **miliaire pulmonaire** se caractérise par une atteinte diffuse, d'origine hématogène des poumons réalisant un grand nombre de petits nodules en "grain de mil" plus ou moins visibles sur la radiographie : l'atteinte de l'état général est constante avec fièvre, amaigrissement, asthénie, sueurs nocturnes et surtout polypnée et dyspnée inexpliquées (pas de toux, pas de crachats et auscultation pulmonaire normale). Le diagnostic est donc difficile si l'on a pas la notion de tuberculose dans l'entourage proche. C'est une urgence : seul un traitement rapide évitera une évolu­tion fatale.
 
@@ -59,14 +59,14 @@ Méningite et miliaire sont les deux seules formes prévenues par le BCG. La ple
 
 C'est heureusement la situation la plus fré­quente, et dans 90 % des cas il s'agit d'une tuberculose pulmonaire. Des mois ou des années après la primo-infection, surviennent de façon aiguë ou progressive :
 
-*   une toux productive, persistante, inexpliquée ;
-*   des hémoptysies ;
-*   ou plus simplement, une infection pulmonaire, résistant aux antibiotiques standards.
+- une toux productive, persistante, inexpliquée ;
+- des hémoptysies ;
+- ou plus simplement, une infection pulmonaire, résistant aux antibiotiques standards.
 
 **En pratique :**
 
-*   Une toux qui persiste plus de quinze jours avec crachats muqueux ou légèrement puru­lents,
-*   l'existence de fièvre, de sueurs nocturnes, doivent faire penser à la tuberculose et faire pratiquer une recherche systématique de BAAR dans les crachats.
+- Une toux qui persiste plus de quinze jours avec crachats muqueux ou légèrement puru­lents,
+- l'existence de fièvre, de sueurs nocturnes, doivent faire penser à la tuberculose et faire pratiquer une recherche systématique de BAAR dans les crachats.
 
 Pour l'OMS, la radiographie pulmonaire est de moindre intérêt.
 
@@ -88,8 +88,8 @@ L'épanchement pleural peut être primitif, quelques mois après la primo-infect
 
 Elle revêt deux aspects :
 
-*   l'ascite tuberculeuse simple, sans signes cliniques spécifiques, de mécanisme iden­tique à la pleurésie : la ponction ramène un liquide citrin identique ;
-*   la péritonite tuberculeuse, résultant de la rupture dans le péritoine d'adénopathies rétro-péritonéales ou mésentériques : elle survient tardivement et s'accompagne de signes cliniques importants : douleurs abdo­minales, subocclusion, atteinte de l'état général, souvent contracture abdominale localisée.
+- l'ascite tuberculeuse simple, sans signes cliniques spécifiques, de mécanisme iden­tique à la pleurésie : la ponction ramène un liquide citrin identique ;
+- la péritonite tuberculeuse, résultant de la rupture dans le péritoine d'adénopathies rétro-péritonéales ou mésentériques : elle survient tardivement et s'accompagne de signes cliniques importants : douleurs abdo­minales, subocclusion, atteinte de l'état général, souvent contracture abdominale localisée.
 
 #### c) Tuberculose des os et des articulations
 
@@ -101,11 +101,11 @@ Tuberculose de la colonne vertébrale, ou mal de Pott : son principal risque est
 
 Rare chez l'enfant, elle survient 5 à 15 ans après la primo-infection :
 
-*   **Tuberculose rénale**  
-    Unilatérales, les lésions débutent à la partie externe du rein, pour ensuite créer des cavités dans tout le parenchyme. Elle s'étend ensuite aux uretères provoquant des fibroses, pouvant aboutir à la destruction totale du rein par hydronéphrose. On doit y penser devant tout signe urinaire chronique.  
-*   **Tuberculose génitale**
-    *   Chez la femme, elle atteint l'endomètre et les trompes, entraînant des douleurs pelviennes et des troubles du cycle menstruel. La complication majeure est la stérilité.  
-    *   Chez l'homme, l'affection se manifeste par une grosseur anormale au niveau du testi­cule, sensible à la palpation, mais non dou­loureuse. Dans 50 % des cas une tubercu­lose rénale est associée.
+- **Tuberculose rénale**  
+  Unilatérales, les lésions débutent à la partie externe du rein, pour ensuite créer des cavités dans tout le parenchyme. Elle s'étend ensuite aux uretères provoquant des fibroses, pouvant aboutir à la destruction totale du rein par hydronéphrose. On doit y penser devant tout signe urinaire chronique.
+- **Tuberculose génitale**
+  - Chez la femme, elle atteint l'endomètre et les trompes, entraînant des douleurs pelviennes et des troubles du cycle menstruel. La complication majeure est la stérilité.
+  - Chez l'homme, l'affection se manifeste par une grosseur anormale au niveau du testi­cule, sensible à la palpation, mais non dou­loureuse. Dans 50 % des cas une tubercu­lose rénale est associée.
 
 **Au total**, on constate que la tuberculose peut revêtir bien des aspects, souvent trompeurs, souvent sans signes spécifiques et qu'elle touche pratiquement tous les organes : c'est dire qu'il faut toujours y penser devant des signes généraux non expliqués par une cause aigüe.
 
@@ -113,4 +113,4 @@ Bien souvent, si la preuve bactériologique (isolement de BAAR) n'est pas certai
 
 Il faudra aussi toujours envisager d'autres diagnostics aux tableaux cliniques proches : cancer, VIH, mycoses profondes.
 
-_Développement et Santé, n°190, 2008_
+*Développement et Santé, n°190, 2008*

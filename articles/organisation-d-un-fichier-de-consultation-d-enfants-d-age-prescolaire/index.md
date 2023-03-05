@@ -10,21 +10,21 @@ date: "1983-03-01"
 
 **Il** **existe dans chaque pays des** **directives qui concernent en** **général:**
 
-*   **le matériel administratif** (fiches de surveillance, registre de vaccination, ... ) ;
+- **le matériel administratif** (fiches de surveillance, registre de vaccination, ... ) ;
 
-*   **les règles** de prescriptions des médicaments ou des régimes appropriés aux situations nutritionnelles difficiles;
+- **les règles** de prescriptions des médicaments ou des régimes appropriés aux situations nutritionnelles difficiles;
 
-*   **les vaccinations** et l'utilisation de **vitamines.**
+- **les vaccinations** et l'utilisation de **vitamines.**
 
-*   Ces directives sont d'une grande utilité, mais ne doivent pas empêcher les différents travailleurs de la santé de faire la démarche qui consiste à :
+- Ces directives sont d'une grande utilité, mais ne doivent pas empêcher les différents travailleurs de la santé de faire la démarche qui consiste à :
 
-*   identifier les problèmes de santé des enfants de moins de cinq ans en individualisant les populations "à risque";
+- identifier les problèmes de santé des enfants de moins de cinq ans en individualisant les populations "à risque";
 
-*   faire le bilan des capacités locales pour répondre à ces problèmes;
+- faire le bilan des capacités locales pour répondre à ces problèmes;
 
-*   organiser des programmes visant toute la population ou tel groupe à risque;
+- organiser des programmes visant toute la population ou tel groupe à risque;
 
-*   évaluer les résultats de ces programmes.
+- évaluer les résultats de ces programmes.
 
 **Partout, la tenue d'un fichier** **est rendue nécessaire**
 
@@ -32,27 +32,33 @@ par l'importance et la variété des informations que l'on doit gérer. En effet
 
 **1.** D'avoir pour **chaque enfant** un **document** d'information permettant un suivi:
 
-*   de la courbe de poids avec mention parallèle des régimes conseillés et entrepris;
+- de la courbe de poids avec mention parallèle des régimes conseillés et entrepris;
 
-*   des vaccinations;
+- des vaccinations;
 
-*   des thérapeutiques entreprises:
+- des thérapeutiques entreprises:
+
+<!-- -->
 
 - préventives: vitamines, fer, chloroquine,
 
 - curatives: traitement d'une diarrhée, d'une fièvre;
 
-*   des grandes maladies qui retentissent sévèrement sur l'état général: rougeole, parasitoses, etc.
+<!-- -->
 
-Dans pratiquement tous les pays, il existe une fiche (_nous_ _donnons ci-joint la fiche kilo du Zaïre_), Cette fiche fournit un dossier simple, permettant de contrôler d'un coup d'oeil la situation de santé d'un enfant et éviter à celui-ci de n'être soigné que par à-coup à l'occasion d'une maladie. On peut avec cette fiche favoriser une croissance harmonieuse en tenant compte de tous les facteurs de santé et non pas seulement chercher à prévenir la malnutrition.
+- des grandes maladies qui retentissent sévèrement sur l'état général: rougeole, parasitoses, etc.
+
+Dans pratiquement tous les pays, il existe une fiche (*nous* *donnons ci-joint la fiche kilo du Zaïre*), Cette fiche fournit un dossier simple, permettant de contrôler d'un coup d'oeil la situation de santé d'un enfant et éviter à celui-ci de n'être soigné que par à-coup à l'occasion d'une maladie. On peut avec cette fiche favoriser une croissance harmonieuse en tenant compte de tous les facteurs de santé et non pas seulement chercher à prévenir la malnutrition.
 
 On peut reconnaître tôt les enfants en danger et influencer la santé de la famille dans son ensemble par l'espacement des naissances. Cette fiche restant en général en possession des parents entre chaque consultation, ce qui les rend plus responsables de la santé de leur enfant, il est souhaitable d'en garder un double (ou un résumé) pour éviter de perdre de précieux renseignements.
 
 **2.** En effet, l'ensemble des fiches peut permettre :
 
-*   d'une part de connaître l'ensemble de la population pour un risque donné, ce qui a un intérêt descriptif qui peut s'avérer utile pour délimiter des populations à risque;
+- d'une part de connaître l'ensemble de la population pour un risque donné, ce qui a un intérêt descriptif qui peut s'avérer utile pour délimiter des populations à risque;
 
-*   d'autre part, de contrôler que les programmes de prévention sont correctement réalisés et efficaces, par exemple:
+- d'autre part, de contrôler que les programmes de prévention sont correctement réalisés et efficaces, par exemple:
+
+<!-- -->
 
 - **évaluation de la couverture vaccinale** qui est donnée par le pourcentage d'enfants suivis ayant reçu le vaccin polio une fois, deux fois, ou trois fois avant l'âge d'un an;
 
@@ -60,7 +66,7 @@ On peut reconnaître tôt les enfants en danger et influencer la santé de la fa
 
 **3.** En dernier lieu, le fichier peut parfaitement être utilisé pour suivre de façon rapprochée les enfants à risque.
 
-## **Délimitation du champ d'action de la consultation**
+## Délimitation du champ d'action de la consultation
 
 Il n'y a pas de fichier modèle qui puisse s'appliquer à toutes les consultations. Un fichier doit être conçu en fonction:
 
@@ -70,7 +76,7 @@ Il n'y a pas de fichier modèle qui puisse s'appliquer à toutes les consultatio
 
 **des objectifs** que se fixe l'équipe: par exemple pour le suivi de la première année, il est classique de voir le nourrisson chaque mois afin de suivre la bonne prise pondérale au sein, encourager la diversification à partir de la fin du deuxième trimestre, prévenir les carences et effectuer les principales vaccinations. Cependant si certains enfants suivent parfaitement ce schéma, les consultations sont nombreuses et surchargées et l'on n'a pas le temps d'aller voir à domicile les autres enfants qui n'ont pas été vus régulièrement car leur mère était peu informée ou peu motivée. Il faut éventuellement choisir de diminuer un peu la fréquence générale des consultations conseillées afin de pouvoir mieux se consacrer aux enfants. " à risques ".
 
-*   ## **Utilisation d'un "fichier programme "**
+## Utilisation d'un "fichier programme "
 
 Il en existe plusieurs types mais en règle générale, leur principe est assez simple: il consiste à suivre le cheminement de l'enfant en faisant bouger sa fiche d'une case à une autre.
 
@@ -106,15 +112,11 @@ Deuxième injection DT Coq et deuxième vaccin polio.
 
 **8. ......................................................................................**
 
-
 ![](i70-1.jpg)
-
-
 
 ![](i70-2.jpg)
 
-
-Si l'on classe chaque enfant selon son mois et son année de naissance, les enfants nés dans la même année vont se répartir en douze grandes cases (_fig. 1_). A l'intérieur de chaque case, on dispose de huit cartons intercalaires _(fig. 2)_ pour prévoir les huit consultations de la première année. Si un enfant est inscrit à l'âge de huit jours à la consultation: une fois sa fiche faite, l'examen effectué, les conseils sur l'allaitement maternel donnés et le BCG fait, on donne un rendez-vous à la mère pour la deuxième visite si aucune surveillance rapprochée n'est à prévoir et la fiche va dans la case de la deuxième visite.
+Si l'on classe chaque enfant selon son mois et son année de naissance, les enfants nés dans la même année vont se répartir en douze grandes cases (*fig. 1*). A l'intérieur de chaque case, on dispose de huit cartons intercalaires *(fig. 2)* pour prévoir les huit consultations de la première année. Si un enfant est inscrit à l'âge de huit jours à la consultation: une fois sa fiche faite, l'examen effectué, les conseils sur l'allaitement maternel donnés et le BCG fait, on donne un rendez-vous à la mère pour la deuxième visite si aucune surveillance rapprochée n'est à prévoir et la fiche va dans la case de la deuxième visite.
 
 Si par contre l'enfant ne peut recevoir le BCG immédiatement pour une raison quelconque, sa fiche restera à la première case et un rendez-vous est donné pour effectuer rapidement le BCG; une fois celui-ci effectué, la fiche passe dans la case suivante (on peut écrire au crayon sur la fiche des parents la date prévue pour la prochaine visite).
 
@@ -124,27 +126,27 @@ Ainsi, à la fin de chaque mois, on peut faire le bilan case par case, des enfan
 
 pour un groupe d'enfants, on peut pareillement se rendre compte de la couverture vaccinale, ou du nombre d'enfants nécessitant un support nutritionnel.
 
-## **Utilisation d'un échéancier pour les " enfants à risque "**
+## Utilisation d'un échéancier pour les " enfants à risque "
 
 Le système que nous avons exposé au paragraphe précédent concerne la majorité des enfants bien portants, pour lesquels une surveillance lâche suffit.
 
 Mais à l'intérieur de la population générale, il existe des sous-groupes pour lesquels on ne peut se satisfaire d'un nombre restreint de visites:
 
-*   dès qu'un enfant est malade, il faut prévoir de le revoir à court terme;
+- dès qu'un enfant est malade, il faut prévoir de le revoir à court terme;
 
-*   à un moindre degré, quand la courbe pondérale d'un nourrisson s'infléchit, il faudra contrôler à brève échéance que les conseils nutritionnels donnés à la mère sont suivis d'effet.
+- à un moindre degré, quand la courbe pondérale d'un nourrisson s'infléchit, il faudra contrôler à brève échéance que les conseils nutritionnels donnés à la mère sont suivis d'effet.
 
 C'est pourquoi il est utile de sortir du fichier général les enfants présentant certains " critères de risque " pour s'assurer de ne pas les oublier si leur mère néglige de les présentera nouveau au dispensaire.
 
 Mieux qu'un carnet de rendez-vous (sans obligatoirement le remplacer) une boîte de vingt cases peut représenter les vingt consultations d'une période de quatre semaines.
 
-Si un enfant examiné le lundi 3 doit être revu après une semaine, on donne rendez-vous pour le lundi 10 et l'on place la fiche dans la case correspondante _(fig. 3):_
+Si un enfant examiné le lundi 3 doit être revu après une semaine, on donne rendez-vous pour le lundi 10 et l'on place la fiche dans la case correspondante *(fig. 3):*
 
-*   s'il revient à la date prévue, pas de problème;
+- s'il revient à la date prévue, pas de problème;
 
-*   s'il revient avant la date, on retrouve la fiche car la mère sait la date du rendez-vous;
+- s'il revient avant la date, on retrouve la fiche car la mère sait la date du rendez-vous;
 
-*   s'il ne revient pas, en fermant la consultation le 10, sa fiche est là et l'on doit prévoir une visite à domicile.
+- s'il ne revient pas, en fermant la consultation le 10, sa fiche est là et l'on doit prévoir une visite à domicile.
 
 Ce type d'échéancier peut être utilisé simultanément pour plusieurs problèmes. Si l'on désire s'y retrouver facilement, on peut repérer les problèmes différents par des pastilles de couleurs variées par exemple.
 
@@ -164,16 +166,12 @@ Pour les enfants en cours de rougeole ou autre maladie nécessitant une consulta
 
 Lorsqu'un enfant sort d'une zone de danger, guérit d'une maladie, sa fiche retourne dans le fichier-programme.
 
-### **Conclusion**
+### Conclusion
 
 Cet exposé n'a pas la prétention de donner une méthode utilisable dans tous les dispensaires. Elle est en effet d'autant plus utile que la population à suivre est importante. D'autre part, on peut varier les systèmes de cases, selon que l'on veut privilégier un classement permettant de toujours trouver facilement une fiche (ici) ou un classement permettant d'évaluer d'un coup d'oeil rapide l'efficacité d'un programme de vaccinations. L'équipe de rédaction est prête à discuter avec tout lecteur des problèmes d'organisation utilisant ces méthodes.
 
-
 ![](i70-3.jpg)
-
-
 
 ![](i70-4.jpg)
 
-
-_Développement et Santé, n°43, février 1983_
+*Développement et Santé, n°43, février 1983*

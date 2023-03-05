@@ -47,30 +47,30 @@ Le vaccin contre l'hépatite B est efficace à près de 100 %, mais il importe d
 
 ### 1. L'hépatite B
 
-*   Généralement maladie bénigne en phase aiguë (seulement 1 à 2% de formes graves)
-*   Souvent asymptomatique chez l'enfant.
+- Généralement maladie bénigne en phase aiguë (seulement 1 à 2% de formes graves)
+- Souvent asymptomatique chez l'enfant.
 
 **Le seul risque :**
 
 Rester porteur chronique du virus. Dans ce cas :
 
-*   en 20 à 30 ans se constitue une cirrhose
-*   la cirrhose fait le lit du cancer du foie qui risque d'apparaître au cours de l'évolution de la maladie.
+- en 20 à 30 ans se constitue une cirrhose
+- la cirrhose fait le lit du cancer du foie qui risque d'apparaître au cours de l'évolution de la maladie.
 
 ### 2. Le risque de portage et de forme chronique
 
 Il est majeur chez le jeune enfant. En effet, l'hépatite chronique n'évolue que très lente­ment vers une cirrhose, et la cancérisation a lieu lentement dans les années qui suivent une cirrhose installée.
 
-#### Donc schématiquement :
+#### Donc schématiquement
 
 Un très jeune enfant devenu porteur chro­nique du virus de l'hépatite B va constituer une hépatite chronique pendant l'enfance et l'adolescence, une cirrhose à l'âge adulte et un cancer du foie après 40 ou 50 ans. un adulte contractant l'hépatite B peut faire une forme sévère (très rare), peut constituer une hépatite chronique suivie d'une cirrhose, mais celle-ci ne risque de provoquer un can­cer du foie qu'à un âge très avancé.
 
 Au total, le jeune enfant, en particulier s'il existe une transmission materno-foetale du virus, constitue le principal groupe qui risque de développer un cancer 40 à 60 ans plus tard. Il aura acquis le portage chronique très tôt dans la vie, et l'évolution de la maladie sera très longue.
 
-#### Donc vacciner d'abord :
+#### Donc vacciner d'abord
 
-*   avant l'âge de 1 an
-*   "rattraper'" les sujets non vaccinés à l'adolescence.
+- avant l'âge de 1 an
+- "rattraper'" les sujets non vaccinés à l'adolescence.
 
 ### 3. Efficacité
 
@@ -88,9 +88,9 @@ Recommandé en France.
 
 C'est le plus simple à pratiquer :
 
-*   une injection initiale
-*   une 2ème injection 1 mois plus tard
-*   une injection 6 à 12 mois plus tard.
+- une injection initiale
+- une 2ème injection 1 mois plus tard
+- une injection 6 à 12 mois plus tard.
 
 Cela permet donc de vacciner les nourrissons à partir de 6 à 8 semaines avec les autres vac­cins habituels (avec l'injection et un rappel un an plus tard).
 
@@ -106,8 +106,8 @@ La vaccination doit être pratiquée à la nais­sance (dans les 24 premières h
 
 ### 4. Le problème du rappel
 
-*   En principe le rappel est indiqué tous les 5 ans.  
-*   Actuellement, la tendance est de contrôler chez l'adulte la sérologie et de ne faire un rappel que si le titre est très bas (inférieur à 10 mUI/ml).
+- En principe le rappel est indiqué tous les 5 ans.
+- Actuellement, la tendance est de contrôler chez l'adulte la sérologie et de ne faire un rappel que si le titre est très bas (inférieur à 10 mUI/ml).
 
 Dans les zones de très forte endémie, le rappel est peu utile car les enfants et les adultes antérieurement vaccinés sont exposés et ren­forcent leur immunité par des contacts succes­sifs avec le virus.
 
@@ -182,7 +182,7 @@ Naissance
 
 <td style="width: 111px;" valign="top">
 
-BCG, VPO* 0
+BCG, VPO\* 0
 
 </td>
 
@@ -206,7 +206,7 @@ HB 1
 
 <td style="width: 111px;" valign="top">
 
-DTC** 1, VPO 1
+DTC\*\* 1, VPO 1
 
 </td>
 
@@ -299,20 +299,18 @@ Fièvre jaune<sup>2</sup>
 
 </table>
 
-_Source: OMS / EPI / GEN / 95. 3_
+*Source: OMS / EPI / GEN / 95. 3*
 
-_* VPO : vaccin poliomyélitique oral_
+*\* VPO : vaccin poliomyélitique oral*
 
-_** DTC : vaccin associé diphtérie-tétanos-coqueluche_
+*\*\* DTC : vaccin associé diphtérie-tétanos-coqueluche*
 
-_1. Le schéma A est recommandé dans les pays où la transmission périnatale du virus de l'hépatite B est très répandue (ex. l'Asie du Sud-Est). Le schéma B est utilisé dans les pays où la transmission périnatale du virus est moins fréquente (ex. l'Afrique subsaharienne)._
+*1. Le schéma A est recommandé dans les pays où la transmission périnatale du virus de l'hépatite B est très répandue (ex. l'Asie du Sud-Est). Le schéma B est utilisé dans les pays où la transmission périnatale du virus est moins fréquente (ex. l'Afrique subsaharienne).*
 
-_2. Dans les pays à risque de fièvre jaune._
+*2. Dans les pays à risque de fièvre jaune.*
 
 **En conclusion**, il faut montrer à toutes les familles à quel point le vaccin contre l'hépatite B est efficace et bien supporté pour vacciner selon les stratégies de chaque pays.
 
-
 ![](image002.jpg)
 
-
-_Développement et Santé, n°151, février 2001_
+*Développement et Santé, n°151, février 2001*

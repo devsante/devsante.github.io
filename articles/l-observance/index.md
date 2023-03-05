@@ -9,8 +9,8 @@ date: "2013-03-03"
 L’observance est définie comme le degré de concordance entre le comportement d’un individu en termes de prise médicamenteuse, de suivi clinique et biologique, de respect du régime ou de changement de style de vie et la prescription médicale.  
 Les mots synonymes d’observance sont :
 
-*   La compliance, terme anglosaxon qui signifie « se plier à quelque chose ».  
-*   Les mots alliance, adhérence, ou adhésion mettent l’accent sur la démarche personnelle du patient, sur son autonomie et sur le partenariat entre le médecin, l’équipe soignante et le patient.
+- La compliance, terme anglosaxon qui signifie « se plier à quelque chose ».
+- Les mots alliance, adhérence, ou adhésion mettent l’accent sur la démarche personnelle du patient, sur son autonomie et sur le partenariat entre le médecin, l’équipe soignante et le patient.
 
 Qui n’a pas « oublié »la fin d’un traitement jugé inutile puisqu’on se sent guéri…et ceci est vrai même chez les professionnels de santé !
 
@@ -28,7 +28,7 @@ La qualité relationnelle avec le(s) soignant(s) est déterminante. Empathie et 
 L’éducation thérapeutique permet de former le malade à acquérir un savoir-faire adéquat.  
 L’estime de soi est un  sentiment à faire travailler par le  sujet en le valorisant dans ses apprentissages même s’il peut faire des erreurs.  
 L’autonomie sera la résultante de tous ces apprentissages.  
-L’observance doit être explorée à chaque rencontre et _a fortiori_ dans les situations d’échec thérapeutique récent.  
+L’observance doit être explorée à chaque rencontre et *a fortiori* dans les situations d’échec thérapeutique récent.  
 La place du médecin généraliste est centrale.
 
 ## III. Les chiffres
@@ -93,6 +93,6 @@ Le meilleur médicament de l’inobservance c’est la relation médecin malade 
 
 Référence :  
 WHO :Adherence to Long-term Therapies ; Evidence for action, 2003  
-[www.who.int](http://www.who.int "www.who.int")
+[[www.who.int](http://www.who.int)](http://www.who.int "www.who.int")
 
-Voir également : [http://devsante.org/base-documentaire/education-sanitaire/lobservance-un...](http://devsante.org/base-documentaire/education-sanitaire/lobservance-un-enjeu-majeur-du-traitement-des-maladies-chroniq "http://devsante.org/base-documentaire/education-sanitaire/lobservance-un-enjeu-majeur-du-traitement-des-maladies-chroniq")
+Voir également : [<http://devsante.org/base-documentaire/education-sanitaire/lobservance-un>...](http://devsante.org/base-documentaire/education-sanitaire/lobservance-un-enjeu-majeur-du-traitement-des-maladies-chroniq "http://devsante.org/base-documentaire/education-sanitaire/lobservance-un-enjeu-majeur-du-traitement-des-maladies-chroniq")

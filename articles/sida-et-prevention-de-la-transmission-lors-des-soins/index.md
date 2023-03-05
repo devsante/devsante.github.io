@@ -8,17 +8,17 @@ date: "1988-06-05"
 
 **par Marie-José Krending et Chantal Sadik**
 
-Parmi les infections susceptibles d'être transmises par le sang on comptait jusqu'ici surtout l'hépatite B, l'hépatite non A non B, les fièvres hémorragiques virales et quelques maladies parasitaires. Avec les rétrovirus (HIV/VIH*, HIV2/VIH2**), un nouveau groupe important à mode de transmission semblable a fait son apparition.
+Parmi les infections susceptibles d'être transmises par le sang on comptait jusqu'ici surtout l'hépatite B, l'hépatite non A non B, les fièvres hémorragiques virales et quelques maladies parasitaires. Avec les rétrovirus (HIV/VIH\*, HIV2/VIH2\*\*), un nouveau groupe important à mode de transmission semblable a fait son apparition.
 
-*HIV :Human immunodeficiency Virus. Nom Anglais du virus du SIDA  
+\*HIV :Human immunodeficiency Virus. Nom Anglais du virus du SIDA  
 VIH virus de l'immunodéficience humaine. Nom Français du virus du SIDA  
-**HIV2/VIH2 : deuxième rétrovirus lié au VIH et associé au SIDA
+\*\*HIV2/VIH2 : deuxième rétrovirus lié au VIH et associé au SIDA
 
 La prévention portera sur les risques :
 
-*   de transmission au personnel lors des soins,
+- de transmission au personnel lors des soins,
 
-*   d'infection hospitalière des malades.
+- d'infection hospitalière des malades.
 
 Depuis la description du SIDA en 1981, 81.433 cas ont été déclarés à l'OMS au le, mars 1988. Il s'agit des cas de SIDA avérés et annoncés. On estime qu'ils ne constituent que 1 % environ de toutes les personnes infectées par le virus, qui sont donc vraisemblablement plusieurs millions. Jusqu'en 1984, ces patients n'étaient l'objet d'aucune précaution spéciale car l'origine infectieuse de la maladie n'était pas bien connue.
 
@@ -76,9 +76,9 @@ faut impérativement éviter les transfusions de sang si le pronostic vital du p
 
 **3.** Application des mesures d'hygiène lors de tous les soins et vis-à-vis de tous les malades (comme ci-dessus).
 
-**4.** Tout le matériel qui pénètre par effraction sous la peau (injections, interventions chirurgicales, etc. ) ou dans des cavités stériles (sondages, endoscopies) doit être stérile (voir _Déueloppement_ et santé n° 51). Seules les injections strictement nécessaires pour le traitement seront pratiquées.
+**4.** Tout le matériel qui pénètre par effraction sous la peau (injections, interventions chirurgicales, etc. ) ou dans des cavités stériles (sondages, endoscopies) doit être stérile (voir *Déueloppement* et santé n° 51). Seules les injections strictement nécessaires pour le traitement seront pratiquées.
 
-**5.** Les méthodes habituelles de désinfection sont généralement efficaces vis-à-vis du HIV/ VIH (voir _Développement_ et santé _nos 53 et 55)._ Tout le matériel qui n'a pas besoin d'être stérile (qui ne pénètre pas sous la peau) sera désinfecté avant de passer d'un malade à un autre.
+**5.** Les méthodes habituelles de désinfection sont généralement efficaces vis-à-vis du HIV/ VIH (voir *Développement* et santé *nos 53 et 55).* Tout le matériel qui n'a pas besoin d'être stérile (qui ne pénètre pas sous la peau) sera désinfecté avant de passer d'un malade à un autre.
 
 **6.** Le matériel des dentistes subira le même traitement (désinfection, stérilisation).
 

@@ -27,4 +27,4 @@ Le seul grand problème est l’émergence de nouveaux sérotypes  :  W, C et 
 
 Par Philippe Reinert, pédiatre, Créteil, France
 
-_Réf. L.Sambo,Chan M,Elias C et al. Clinical Infectious Diseases 2015 :61(Suppl 5)._
+*Réf. L.Sambo,Chan M,Elias C et al. Clinical Infectious Diseases 2015 :61(Suppl 5).*

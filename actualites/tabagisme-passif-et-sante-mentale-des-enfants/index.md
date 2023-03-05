@@ -9,4 +9,4 @@ On sait depuis longtemps que le tabagisme passif, et encore plus le tabagisme de
 Une étude nord-américaine, portant sur des enfants âgés de 8 à 15 ans vivant parmi des fumeurs, vient de montrer que ces enfants étaient plus souvent anxieux, dépressifs et hyperactifs. On rencontrait souvent des conduites à risque et des troubles de l’attention gênant l’apprentissage.  
 Le tabagisme passif a été détecté par le dosage de la cotinine dans le sérum : ce dérivé de la nicotine s’élimine lentement du sang et est un véritable « mouchard » pour savoir si un sujet a inhalé de la fumée de tabac les jours précédents !
 
-_Arch Pediatr Adolesc Med_ 2011 ;165(4) 332-338
+*Arch Pediatr Adolesc Med* 2011 ;165(4) 332-338

@@ -12,9 +12,9 @@ Nous savons aussi que la fréquentation d'un centre de santé varie dans l'anné
 Si vous avez dans vos archives vos consom­mations de plusieurs années, vous pouvez calculer votre consommation mensuelle pour chacun des 24 ou 36 mois passés (2 ou 3 ans) et évaluer l'évolution des consommations mensuelles de chaque produit.  
 Sur une feuille de papier, tracez cinq colonnes (si vous disposez de deux années).
 
-*   Dans la pre­mière colonne, écrivez CMM sur la première ligne, et au-dessous, écrivez les douze mois de l'année.  
-*   Dans la colonne suivante, écrivez "Consommation mensuelle" d'il y a deux ans pour le produit en question et dans les cases la consommation pour le mois correspondant (C) de l'année.  
-*   Dans la 3ème colonne, la différence entre la consommation C et la CMM : C - CMM.
+- Dans la pre­mière colonne, écrivez CMM sur la première ligne, et au-dessous, écrivez les douze mois de l'année.
+- Dans la colonne suivante, écrivez "Consommation mensuelle" d'il y a deux ans pour le produit en question et dans les cases la consommation pour le mois correspondant (C) de l'année.
+- Dans la 3ème colonne, la différence entre la consommation C et la CMM : C - CMM.
 
 On voit bien que, pour certains mois, la consommation va être plus petite que la CMM , alors que pour d'autres mois la consommation pourra être plus forte que la CMM. Il est probable que d'une année sur l'autre, les mêmes mois vont se ressem­bler.
 
@@ -235,10 +235,10 @@ C - CMM =</th>
 
 </table>
 
-_Nous voyons bien que, au cours des mois de février à avril, la consommation de ce produit a augmenté jusqu'à presque un tiers de plus que la CMM. Si on reste au même seuil de com­mande, vous risquez d'être en rupture de stock pour un produit dont vous avez un grand besoin._
+*Nous voyons bien que, au cours des mois de février à avril, la consommation de ce produit a augmenté jusqu'à presque un tiers de plus que la CMM. Si on reste au même seuil de com­mande, vous risquez d'être en rupture de stock pour un produit dont vous avez un grand besoin.*
 
-_Vous pouvez avoir une idée plus exacte de vos besoins réels en calculant pour les mois à forte consommation, quel pourcentage de la CMM vous consommez en plus :  
+*Vous pouvez avoir une idée plus exacte de vos besoins réels en calculant pour les mois à forte consommation, quel pourcentage de la CMM vous consommez en plus :  
 D est le résultat de la soustraction C - CMM (elle figure en italique dans le tableau).  
-Le pourcentage de surconsommation du mois de mars sur la CMM est le résultat de la règle de trois :_
+Le pourcentage de surconsommation du mois de mars sur la CMM est le résultat de la règle de trois :*
 
-_D x 100
+\_D x 100

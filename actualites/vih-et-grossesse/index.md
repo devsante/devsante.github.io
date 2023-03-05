@@ -9,10 +9,10 @@ Une mise à jour importante de l'OMS sur l'utilisation de l'éfavirenz (EFV) dur
 
 Ce document tranche très clairement en faveur de l'éfavirenz durant la grossesse par rapport à la névirapine : pas de risque accru sur l'évolution de la grossesse et de l'enfant à naître, meilleure tolérance et efficacité (plus de 5 grandes études récentes), plus grande facilité d'utilisation :
 
-*   pas de problème d'ajustement des doses ;
-*   1 prise versus 2 prises par jour ;
-*   pas de problème d'interaction médicamenteuse notamment en cas de traitement de traitement antituberculeux ;
-*   coût encore un peu supérieur mais différentiel désormais modeste.
+- pas de problème d'ajustement des doses ;
+- 1 prise versus 2 prises par jour ;
+- pas de problème d'interaction médicamenteuse notamment en cas de traitement de traitement antituberculeux ;
+- coût encore un peu supérieur mais différentiel désormais modeste.
 
 L'OMS recommande donc désormais l'utilisation de l'EFV en première intention chez les femmes en âge de procréer et chez les femmes enceintes.
 
@@ -22,9 +22,9 @@ NB : Cela va obliger à modifier les stratégies nationales de prise en charge d
 
 Dr Jean-Loup Rey, Santé publique
 
-_Réf. WHO HIV/AIDS Programme  
+*Réf. WHO HIV/AIDS Programme  
 Technical update on treatment optimization. Use of efavirenz during pregnancy : a public health perspective.  
-June 2012 WC 503.2_
+June 2012 WC 503.2*
 
-_Downloads  
-[Use of efavirenz during pregnancy](http://whqlibdoc.who.int/publications/2012/9789241503792_eng.pdf)_
+*Downloads  
+[Use of efavirenz during pregnancy](http://whqlibdoc.who.int/publications/2012/9789241503792_eng.pdf)*

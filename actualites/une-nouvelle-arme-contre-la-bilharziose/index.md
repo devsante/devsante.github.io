@@ -19,4 +19,4 @@ Devant ces résultats encourageants, un élevage intensif de crevettes a démarr
 
 Par Philippe Reinert, pédiatre, Créteil, France
 
-_Ref_ : G. Riveau. Comptes-rendus de l’Académie américaine des sciences (PNAS) Juillet 2015.
+*Ref* : G. Riveau. Comptes-rendus de l’Académie américaine des sciences (PNAS) Juillet 2015.

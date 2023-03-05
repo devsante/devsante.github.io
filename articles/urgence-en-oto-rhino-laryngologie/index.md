@@ -15,13 +15,13 @@ Le traitement de ces urgences peut être médical et/ou chirurgical.</p></div>
 L'épistaxis - urgence fréquente en ORL - est une hémorragie provenant des fosses nasales et/ou des cavités qui leur sont annexées (sinus, cavum). Le plus souvent bénigne et ne posant pas de problème thérapeutique, son abondan­ce et sa répétition peuvent engager le pronos­tic vital.  
 Elle peut être essentielle ou symptomatique d'une affection locale ou générale.
 
-#### **a. Signes cliniques**
+#### a. Signes cliniques
 
 Le diagnostic est le plus souvent évident : extériorisation du sang par l'une ou les deux fosses nasales.  
 L'examen **général** :
 
-*   Apprécie le retentissement de l'hémorragie (pression artérielle, pouls, coloration des conjonctives, aspect du patient : sueurs, agi­tation, pâleur).  
-*   Recherche des facteurs favorisants et/ou affections en cours.
+- Apprécie le retentissement de l'hémorragie (pression artérielle, pouls, coloration des conjonctives, aspect du patient : sueurs, agi­tation, pâleur).
+- Recherche des facteurs favorisants et/ou affections en cours.
 
 L'examen **ORL**, quand il est possible, sera effectué après avoir fait moucher un patient rassuré. La rhinoscopie antérieure est réalisée après rétraction de la muqueuse par la xylo­caïne naphazolinée à 5 %.
 
@@ -30,39 +30,31 @@ L'examen **ORL**, quand il est possible, sera effectué après avoir fait mouche
 **Epistaxis de faible abondance**  
 Elles ne nécessitent pas d'hospitalisation. Elles sont jugulées par des moyens d'hémosta­se appliqués localement.
 
-*   Compression bidigitale (entre le pouce et l'index) de l'aile narinaire, réalisée par le patient lui-même durant une dizaine de minutes. Ce geste suffit le plus souvent. Les cautérisations sont parfois nécessaires.  
-*   En cas d'échec, un tamponnement antérieur peut être fait avec des mèches. Une couver­ture antibiotique est nécessaire durant la durée du méchage qui est enlevé au bout de 48-72 heures.  
-*   Le tamponnement antérieur et postérieur, le plus rarement pratiqué, doit être effectué par un spécialiste ORL.  
-*   Les sondes hémostatiques (tube muni de ballonnets), qui peuvent être placées par un médecin généraliste, ont une action équi­valente à celle d'un double tamponnement (utile si aucun ORL n'est disponible).
+- Compression bidigitale (entre le pouce et l'index) de l'aile narinaire, réalisée par le patient lui-même durant une dizaine de minutes. Ce geste suffit le plus souvent. Les cautérisations sont parfois nécessaires.
+- En cas d'échec, un tamponnement antérieur peut être fait avec des mèches. Une couver­ture antibiotique est nécessaire durant la durée du méchage qui est enlevé au bout de 48-72 heures.
+- Le tamponnement antérieur et postérieur, le plus rarement pratiqué, doit être effectué par un spécialiste ORL.
+- Les sondes hémostatiques (tube muni de ballonnets), qui peuvent être placées par un médecin généraliste, ont une action équi­valente à celle d'un double tamponnement (utile si aucun ORL n'est disponible).
 
 **Figures 1 : tamponnement antérieur**
 
-
 ![](image002.jpg)
 
-
-
 ![](image002-5.jpg)
-
 
 **Figure 2 : tamponnement postérieur**
 
-
 ![](image002-5.jpg)
 
-
-**
-![](image004.jpg)
-**
+**![](image004.jpg)**
 
 **Epistaxis grave**  
 Elle impose l'hospitalisa­tion avec bilan biologique réalisé en urgence (hémoglobine, hématocrite, groupe sanguin Rhésus, fibrinogène, taux de prothrombine, plaquettes, temps de céphaline kaolin) et pose d'un abord veineux. En cas d'échec des gestes d'hémostase locale, l'ORL recourt à d'autres moyens (embolisation et ligatures). Un bilan étiologique sera entrepris secondaire­ment.
 
 **Conduite à tenir en urgence :**
 
-*   Rassurer, évaluer la répercussion sur l'état général (pouls, température, TA, rythme res­piratoire),
-*   Poser une voie veineuse et effectuer un pré­lèvement sanguin (groupe/ Rhésus, hémo­gramme, hématocrite, bilan de coagulation),
-*   S'assurer de la disponibilité du matériel de tamponnement (compresse grasse et/ou compresse stérile + pommade non irritante pour la muqueuse nasale + source de lumiè­re frontale), des produits de remplissage et/ou succédanés sanguins,appeler un spécialiste si l'on est dans un CHU, sinon tamponnement antérieur et transfert médicalisé au CHU.
+- Rassurer, évaluer la répercussion sur l'état général (pouls, température, TA, rythme res­piratoire),
+- Poser une voie veineuse et effectuer un pré­lèvement sanguin (groupe/ Rhésus, hémo­gramme, hématocrite, bilan de coagulation),
+- S'assurer de la disponibilité du matériel de tamponnement (compresse grasse et/ou compresse stérile + pommade non irritante pour la muqueuse nasale + source de lumiè­re frontale), des produits de remplissage et/ou succédanés sanguins,appeler un spécialiste si l'on est dans un CHU, sinon tamponnement antérieur et transfert médicalisé au CHU.
 
 ### 2. Hémorragie post-amygdalectomie
 
@@ -72,13 +64,13 @@ Le diagnostic est évident chez un opéré cra­chant du sang.
 
 L'examen du pharynx montre la présence du caillot dans l'une ou les deux loges et qui pend dans le pharynx.
 
-#### Conduite à tenir :
+#### Conduite à tenir
 
-*   Poser une voie veineuse périphérique et effectuer le bilan biologique.  
-*   Apprécier le retentissement de l'hémorragie sur l'état général et rechercher des signes de choc hémorragique (PA, conscience...).  
-*   Préciser l'aspect des saignements (en nappe ou salive striée de sang).  
-*   S'assurer de la disponibilité immédiate des produits de remplissage.  
-*   Prévenir le chirurgien ORL et l'anesthésiste et préparer un bloc opératoire.
+- Poser une voie veineuse périphérique et effectuer le bilan biologique.
+- Apprécier le retentissement de l'hémorragie sur l'état général et rechercher des signes de choc hémorragique (PA, conscience...).
+- Préciser l'aspect des saignements (en nappe ou salive striée de sang).
+- S'assurer de la disponibilité immédiate des produits de remplissage.
+- Prévenir le chirurgien ORL et l'anesthésiste et préparer un bloc opératoire.
 
 ## II. Urgences traumatiques
 
@@ -104,9 +96,9 @@ L'auscultation peut découvrir le classique "bruit de drapeau" à l'inspiration 
 
 **Corps étranger bronchique :**
 
-*   Les signes cliniques sont variés et non spécifiques : toux chronique, productive ou non, dyspnée expiratoire.  
-*   Lorsque le corps étranger a séjourné dans les bronches, le diagnostic sera évoqué devant les manifestations broncho-pulmo­naires (abcès pulmonaire, pleurésie purulente, pneumothorax, dilatation des bronches...)
-*   En complément de la radio du thorax, une endoscopie peut être nécessaire en urgence.
+- Les signes cliniques sont variés et non spécifiques : toux chronique, productive ou non, dyspnée expiratoire.
+- Lorsque le corps étranger a séjourné dans les bronches, le diagnostic sera évoqué devant les manifestations broncho-pulmo­naires (abcès pulmonaire, pleurésie purulente, pneumothorax, dilatation des bronches...)
+- En complément de la radio du thorax, une endoscopie peut être nécessaire en urgence.
 
 #### b. Traitement
 
@@ -114,8 +106,8 @@ L'auscultation peut découvrir le classique "bruit de drapeau" à l'inspiration 
 
 **En milieu non médicalisé :**
 
-*   En cas de signes d'asphyxie, la manoeuvre de Heimlich est le premier geste à réaliser. Elle consiste à exercer une compression abdominale sous-sternale ascendante, pro­voquant l'expulsion du corps étranger par hyperpression. Ce geste n'est pas anodin (risque d'enclavement sous-glottique, d'inondation trachéobronchique par vidan­ge gastrique, de fracture des côtes...).  
-*   Dans les autres cas : le patient doit être calmé et placé dans une position la plus confortable possible en évitant de le mobiliser. Aucune manoeuvre intempestive ne doit être tentée (extraction au doigt, tête en bas...).
+- En cas de signes d'asphyxie, la manoeuvre de Heimlich est le premier geste à réaliser. Elle consiste à exercer une compression abdominale sous-sternale ascendante, pro­voquant l'expulsion du corps étranger par hyperpression. Ce geste n'est pas anodin (risque d'enclavement sous-glottique, d'inondation trachéobronchique par vidan­ge gastrique, de fracture des côtes...).
+- Dans les autres cas : le patient doit être calmé et placé dans une position la plus confortable possible en évitant de le mobiliser. Aucune manoeuvre intempestive ne doit être tentée (extraction au doigt, tête en bas...).
 
 Toute boisson ou alimentation doit être proscrite.
 
@@ -135,9 +127,9 @@ La thoracotomie est indiquée en cas de corps étranger bronchique inextirpable 
 
 Conduite à tenir en cas de dyspnée sévère
 
-*   Avoir toujours une voie veineuse
-*   Oxygénothérapie
-*   Préparation du bloc opératoire en appelant les équipes d'anesthésie et d'ORL.
+- Avoir toujours une voie veineuse
+- Oxygénothérapie
+- Préparation du bloc opératoire en appelant les équipes d'anesthésie et d'ORL.
 
 ### 2. Corps étranger de l'oesophage
 
@@ -145,9 +137,7 @@ Les corps étrangers de l'oesophage se rencon­trent le plus souvent chez l'enfa
 
 La principale complication, la perforation de l'oesophage avec risque de médiastinite, est sur­tout due aux corps étrangers piquants ou acérés.
 
-
 ![](image006-3.jpg)
-
 
 #### a. Signes
 
@@ -168,22 +158,22 @@ Elles constituent une urgence thérapeutique car elles peuvent engager le pronos
 
 La plaie vasculaire est soupçonnée devant :
 
-*   un état de choc de type hypovolémique ;
-*   une hémorragie persistante par la plaie cer­vicale ou parfois par la bouche ;
-*   l'absence de pouls radial, temporal ;
-*   un syndrome neurologique déficitaire : hémiplégie controlatérale, aphasie.
+- un état de choc de type hypovolémique ;
+- une hémorragie persistante par la plaie cer­vicale ou parfois par la bouche ;
+- l'absence de pouls radial, temporal ;
+- un syndrome neurologique déficitaire : hémiplégie controlatérale, aphasie.
 
 #### b. Conduite à tenir en urgence
 
-*   Placer le malade en décubitus dorsal ou laté­ral, installer une voie d'abord veineuse et effectuer un bilan sanguin (groupe Rh, NFS, coagulation...).  
-*   Faire un pansement compressif stérile.  
-*   Rassembler les produits de remplissage.  
-*   Préparer le bloc chirurgical et appeler les équipes d'anesthésie et d'ORL.  
-*   Libérer la cavité buccale des sécrétions digestives ou sanglantes.  
-*   Mettre une canule de Guedel.  
-*   En cas de plaie veineuse, mettre le patient en position de Trendelenbourg afin de limiter le risque d'embolie gazeuse.
+- Placer le malade en décubitus dorsal ou laté­ral, installer une voie d'abord veineuse et effectuer un bilan sanguin (groupe Rh, NFS, coagulation...).
+- Faire un pansement compressif stérile.
+- Rassembler les produits de remplissage.
+- Préparer le bloc chirurgical et appeler les équipes d'anesthésie et d'ORL.
+- Libérer la cavité buccale des sécrétions digestives ou sanglantes.
+- Mettre une canule de Guedel.
+- En cas de plaie veineuse, mettre le patient en position de Trendelenbourg afin de limiter le risque d'embolie gazeuse.
 
-## **III. Urgences infectieuses**
+## III. Urgences infectieuses
 
 ### 1. Laryngites aiguës dyspnéisantes
 
@@ -191,7 +181,7 @@ Elles sont fréquentes chez l'enfant, chez qui leur gravité est due à la parti
 
 #### a) Epiglottite
 
-C'est une infection du vestibule laryngé due le plus souvent à _Haemophilus influenzae_. L'âge moyen de survenue est de 3 ans. Elle est maintenant devenue très rare.
+C'est une infection du vestibule laryngé due le plus souvent à *Haemophilus influenzae*. L'âge moyen de survenue est de 3 ans. Elle est maintenant devenue très rare.
 
 **Signes**  
 Dyspnée laryngée nocturne d'apparition brutale et fébrile et devenant rapidement impressionnante : le patient, fébrile (39°), est assis, bouche ouverte, tête penchée en avant ; il existe une dysphagie avec hyper­sialorrhée, la voix est étouffée, la toux claire, l'état général altéré.
@@ -209,8 +199,8 @@ L'enfant est réveillé la nuit par une **dyspnée laryngée** avec toux rauque,
 **Traitement**  
 En urgence :
 
-*   injection d'un corticoïde ;
-*   aérosol associant corticoïde + adrénaline + sérum physiologique.
+- injection d'un corticoïde ;
+- aérosol associant corticoïde + adrénaline + sérum physiologique.
 
 On surveille l'enfant pendant 30 à 45 minutes. Si la crise dyspnéique disparaît, on poursuit la corticothérapie per os pendant quelques jours. Si la dyspnée persiste, il faut renouveler l'injection et, en cas d'échec, l'enfant doit être **transféré d'urgence en milieu hospitalier spécialisé**.
 
@@ -228,7 +218,7 @@ Elles associent une dyspnée laryngée, une voix souvent enrouée, avec toux rau
 **Traitement**  
 Intubation naso-trachéale associée à une antibiothérapie adaptée aux germes.
 
-### **2. Sinusites maxillaires bloquées**
+### 2. Sinusites maxillaires bloquées
 
 L'obstruction du méat moyen par le processus inflammatoire entraîne une rétention purulen­te bloquée, le plus souvent maxillaire.
 
@@ -277,7 +267,7 @@ Le traitement est chirurgical : incision et drai­nage de l'abcès (par le chiru
 
 ### 6. Otite moyenne aiguë
 
-Elle touche essentiellement l'enfant avec un maximum de fréquence entre 6 mois et 24 mois. Les principaux germes responsables sont : _Haemophilus influenzae et Strepcoccus pneumoniae_. Le Pneumocoque apparaît comme la principale bactérie responsable d'échec de l'antibiothérapie probabiliste dans l'otite moyenne aiguë.
+Elle touche essentiellement l'enfant avec un maximum de fréquence entre 6 mois et 24 mois. Les principaux germes responsables sont : *Haemophilus influenzae et Strepcoccus pneumoniae*. Le Pneumocoque apparaît comme la principale bactérie responsable d'échec de l'antibiothérapie probabiliste dans l'otite moyenne aiguë.
 
 Ces otites tendent à se répéter, favorisant la survenue des complications (complications endocrâniennes, mastoïdite aiguë...).
 
@@ -291,7 +281,7 @@ Il associe : une antibiothérapie (8 à 10 jours) associée aux antalgiques - an
 
 La paracentèse est indiquée dans les otites hyperalgiques et très fébriles. Une hospitalisation est parfois nécessaire (antibiothérapie parentérale).
 
-## **IV. Urgences neurosensorielles**
+## IV. Urgences neurosensorielles
 
 ### 1. Vertige
 
@@ -311,4 +301,4 @@ C'est une urgence médicale, caractérisée par l'apparition brutale d'une surdi
 
 L'audiométrie confirme la surdité de perception. Les étiologies - toxique, tumorale, infectieuse, traumatique, vasculaire, otologique - doivent être recherchées dans les atteintes bilatérales. L'évolution est imprévisible, laissant parfois des séquelles auditives plus ou moins importantes.
 
-_Développement et Santé, n°191/192, 2008_
+*Développement et Santé, n°191/192, 2008*

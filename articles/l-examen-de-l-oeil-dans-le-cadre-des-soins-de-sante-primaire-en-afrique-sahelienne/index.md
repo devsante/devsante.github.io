@@ -10,9 +10,7 @@ date: "1993-06-02"
 
 ### 1. Apprendre à reconnaître les éléments essentiels
 
-
 ![](i562-1.jpg)
-
 
 #### Le visage
 
@@ -20,20 +18,18 @@ Les deux yeux sont de taille identique et leurs axes sont parallèles.
 
 Les paupières, organes de protection s'ouvrent et se ferment spontanément, régulièrement (clignement), et complètement. Elles permettent l'étalement des larmes, facteur très important de la transparence cornéenne. Les cils sont toujours dirigés vers l'extérieur de l'œil.
 
-*   **Le segment antérieur de l'œil :** c'est la partie visible de l'œil.
+- **Le segment antérieur de l'œil :** c'est la partie visible de l'œil.
 
-*   Au centre, la **cornée** est une lentille transparente qui permet d'apercevoir l'iris, de couleur sombre, et percé en son centre d'un trou rond et noir : la **pupille.**
-
+- Au centre, la **cornée** est une lentille transparente qui permet d'apercevoir l'iris, de couleur sombre, et percé en son centre d'un trou rond et noir : la **pupille.**
 
 ![](i562-2.jpg)
-
 
 NB. La cornée est mieux visible de profil, bombant comme un verre de montre.
 
 Le diamètre de la pupille varie avec l'intensité lumineuse :
 
-*   en lumière forte, elle se rétrécit pupille en myosis,
-*   en lumière faible, elle s'élargit pupille en mydriase.
+- en lumière forte, elle se rétrécit pupille en myosis,
+- en lumière faible, elle s'élargit pupille en mydriase.
 
 La pupille est normalement noire (le cristallin situé en arrière de l'iris est normalement transparent donc invisible).
 
@@ -51,11 +47,9 @@ Le cristallin s'opacifie physiologiquement avec l'âge : c'est la cataracte. Il 
 
 Par contre, toute atteinte de la cornée est pathologique, les garants de la **transparence cornéenne** sont la conjonctive, les **larmes** sécrétées par les cellules conjonctivales et étalées par le **clignement palpébral** (grâce au **nerf facial).** La cornée, avasculaire est par contre très sensible : le **réflexe cornéen** sous la dépendance du nerf trijumeau est un important facteur de protection.
 
-
 ![](i562-3.jpg)
 
-
-## II. **Local et matériel**
+## II. Local et matériel
 
 ### 1. Local
 
@@ -73,71 +67,67 @@ Les cotons ou compresses qui auront servi à l'examen doivent être **individuel
 
 #### Matériel d'examen
 
-*   coton ou compresses,
-*   pissette (ou flacon) contenant de l'eau propre pour pouvoir nettoyer les sécrétions,
-*   lampe électrique (avec piles),
-*   pince à épiler les cils,
-*   deux écarteurs "trombone" pour écarter les paupières : déplier un trombone 32 mm et en couder une extrémité à la manière d'un écarteur de Desmarres.
-
+- coton ou compresses,
+- pissette (ou flacon) contenant de l'eau propre pour pouvoir nettoyer les sécrétions,
+- lampe électrique (avec piles),
+- pince à épiler les cils,
+- deux écarteurs "trombone" pour écarter les paupières : déplier un trombone 32 mm et en couder une extrémité à la manière d'un écarteur de Desmarres.
 
 ![](i562-4.jpg)
 
-
 ### 3. Médicaments essentiels
 
-*   collyre Argyrol 1 % (à conserver en petite quantité dans un flacon hermétique à l'abri de la lumière),
-*   pommade antibiotique Auréomycine 1% (cycline active sur le trachome et la moins chère),
-*   vitamine A 200 000 UI (capsules)
+- collyre Argyrol 1 % (à conserver en petite quantité dans un flacon hermétique à l'abri de la lumière),
+- pommade antibiotique Auréomycine 1% (cycline active sur le trachome et la moins chère),
+- vitamine A 200 000 UI (capsules)
 
 Attention ! ne jamais utiliser de corticoïdes locaux, toujours vérifier la formule d'un collyre ou d'une pommade OPH avant utilisation.
 
 ## III. Examiner le malade
 
-*   Toujours examiner le comportement du malade avant de le faire asseoir (orienté sur l'acuité visuelle),
-*   Avoir les mains propres,
-*   L'examen doit toujours être **complet et** **bilatéral.**
+- Toujours examiner le comportement du malade avant de le faire asseoir (orienté sur l'acuité visuelle),
+- Avoir les mains propres,
+- L'examen doit toujours être **complet et** **bilatéral.**
 
 ### 1. L'interroger
 
 Pour préciser les signes fonctionnels :
 
-*   sécrétions ("œil qui pleure, coule, colle"),
-*   douleurs,
-*   baisse d'acuité visuelle.
+- sécrétions ("œil qui pleure, coule, colle"),
+- douleurs,
+- baisse d'acuité visuelle.
 
 Faire préciser :
 
-*   s'il s'agit d'un ou des deux yeux, depuis quand,
-*   s'il existe un traumatisme (nature de l'agent traumatisant),
-*   les traitements faits.
+- s'il s'agit d'un ou des deux yeux, depuis quand,
+- s'il existe un traumatisme (nature de l'agent traumatisant),
+- les traitements faits.
 
-#### Éléments de gravité :
+#### Éléments de gravité
 
-*   sécrétions purulentes : infection (danger de contagion),
-*   douleur : à la lumière (photophobie), au clignement, céphalées,
-*   baisse d'acuité visuelle de loin récente,
-*   trouble visuel récent : voile noir ou rouge, mouches volantes, éclairs lumineux,
-*   diplopie : vision double,
-*   notion de traumatisme récent,
-*   notion de chirurgie oculaire récente.
-
+- sécrétions purulentes : infection (danger de contagion),
+- douleur : à la lumière (photophobie), au clignement, céphalées,
+- baisse d'acuité visuelle de loin récente,
+- trouble visuel récent : voile noir ou rouge, mouches volantes, éclairs lumineux,
+- diplopie : vision double,
+- notion de traumatisme récent,
+- notion de chirurgie oculaire récente.
 
 ![](i562-5.jpg)
 
-
 ### 2. Examiner le visage
 
-#### En cas de sécrétions :
+#### En cas de sécrétions
 
 Toujours commencer par nettoyer les sécrétions en décollant les cils à l'eau propre.  
 Attention : risque septique, se laver les mains.
 
-#### Les paupières : elles doivent s'ouvrir spontanément.
+#### Les paupières : elles doivent s'ouvrir spontanément
 
 Attention :
 
-*   occlusion volontaire et douleur : lésion cornéenne probable,
-*   occlusion involontaire : ptosis (paralysie du nerf III).
+- occlusion volontaire et douleur : lésion cornéenne probable,
+- occlusion involontaire : ptosis (paralysie du nerf III).
 
 Elles doivent se fermer spontanément et totalement.
 
@@ -145,62 +135,57 @@ Attention : inocclusion palpébrale (lagophtalmie) : danger si la cornée de l'�
 
 #### Les cils : bien regarder les bords ciliaires
 
-*   danger si les cils frottent sur la cornée, on parle alors de **trichiasis :** recherche de **trachome** (cf. ci-après),
-*   si un ou deux cils frottent : épiler en tirant le cil à **sa base,**
-*   si plusieurs cils frottent : adresser au spécialiste pour cure chirurgicale du trichiasis.
+- danger si les cils frottent sur la cornée, on parle alors de **trichiasis :** recherche de **trachome** (cf. ci-après),
+- si un ou deux cils frottent : épiler en tirant le cil à **sa base,**
+- si plusieurs cils frottent : adresser au spécialiste pour cure chirurgicale du trichiasis.
 
 Les deux yeux sont de taille identique et parallèle
 
-*   l'œil ne doit pas "sortir" de l'orbite exophtalmie, danger de lagophtalmie (cornée non protégée),
-*   les deux yeux sont parallèles dans le regard au loin : déviation oculaire, strabisme, paralysie neuromotrice.
+- l'œil ne doit pas "sortir" de l'orbite exophtalmie, danger de lagophtalmie (cornée non protégée),
+- les deux yeux sont parallèles dans le regard au loin : déviation oculaire, strabisme, paralysie neuromotrice.
 
 ### 3. Examiner l'œil
 
-
 ![](i562-6.jpg)
 
+#### Règles
 
-#### Règles :
+- prévenir le malade,
+- lui demander d'ouvrir les deux yeux,
+- ne jamais ouvrir un œil de force : pour écarter les paupières, prendre appui sur les rebords osseux comme indiqué sur le dessin,
+- éclairer l'œil latéralement,
+- ne jamais toucher la cornée.
 
-*   prévenir le malade,
-*   lui demander d'ouvrir les deux yeux,
-*   ne jamais ouvrir un œil de force : pour écarter les paupières, prendre appui sur les rebords osseux comme indiqué sur le dessin,
-*   éclairer l'œil latéralement,
-*   ne jamais toucher la cornée.
+#### Vérifier que
 
-#### Vérifier que :
-
-*   la conjonctive bulbaire (blanc de l'œil) est blanche,
-*   la cornée est transparente (l'Iris et la pupille sont parfaitement visibles),
-*   la pupille est ronde et noire, elle réagit à la lumière (c'est l'étude du réflexe photomoteur).
+- la conjonctive bulbaire (blanc de l'œil) est blanche,
+- la cornée est transparente (l'Iris et la pupille sont parfaitement visibles),
+- la pupille est ronde et noire, elle réagit à la lumière (c'est l'étude du réflexe photomoteur).
 
 #### Éléments de gravité
 
-*   lagophtalmie : cornée non protégée,
-*   trichiasis,
-*   rougeur de la conjonctive : souffrance oculaire évolutive,
-*   cornée opaque,
-*   iris et/ou pupille non visible,
-*   iris de couleur anormale,
-*   pupille blanche,
-*   pupille non réactive à la lumière,
-*   paralysie oculo-motrice et strabisme récents.
+- lagophtalmie : cornée non protégée,
+- trichiasis,
+- rougeur de la conjonctive : souffrance oculaire évolutive,
+- cornée opaque,
+- iris et/ou pupille non visible,
+- iris de couleur anormale,
+- pupille blanche,
+- pupille non réactive à la lumière,
+- paralysie oculo-motrice et strabisme récents.
 
 ## IV. Retourner la paupière
 
 Indispensable à la recherche de :
 
-*   signes de trachome,
-*   corps étranger sous-palpébral.
+- signes de trachome,
+- corps étranger sous-palpébral.
 
 NB. C'est plus facile si vous demandez au patient de regarder vers le bas.
 
-
 ![](i562-7.jpg)
 
-
-##   
-**V. Cas particulier du jeune enfant**
+## V. Cas particulier du jeune enfant
 
 L'enrouler dans un pagne comme le dessin page suivante.
 
@@ -208,24 +193,22 @@ NB. Retourner la paupière supérieure est souvent impossible chez l'enfant de m
 
 Toujours vérifier les cornées et la pupille en s'aidant au besoin des écarteurs (anesthésique local inutile, glisser les écarteurs, l'un après l'autre entre les paupières sans appuyer sur le globe oculaire).
 
-### Signes de gravité :
+### Signes de gravité
 
-*   absence d'ouverture spontanée d'un ou de deux yeux,
-*   mouvements anormaux des globes oculaires,
-*   déviation d'un œil,
-*   une ou deux cornées opaques,
-*   une ou deux pupilles blanches ou roses.
-
+- absence d'ouverture spontanée d'un ou de deux yeux,
+- mouvements anormaux des globes oculaires,
+- déviation d'un œil,
+- une ou deux cornées opaques,
+- une ou deux pupilles blanches ou roses.
 
 ![](i562-8.jpg)
-
 
 ## VI. Mesure de l'acuité visuelle (AV)
 
 Elle est indispensable pour :
 
-*   apprécier la valeur fonctionnelle de l'œil,
-*   surveiller l'évolution.
+- apprécier la valeur fonctionnelle de l'œil,
+- surveiller l'évolution.
 
 Elle se fait toujours **œil par œil : l'œil non** **examiné étant fermé par la main posée** **à plat.**
 
@@ -233,26 +216,24 @@ Elle se fait toujours **œil par œil : l'œil non** **examiné étant fermé pa
 
 Placez-vous à six mètres du patient :
 
-*   demander lui de compter vos doigts,
-*   changer d'œil.
+- demander lui de compter vos doigts,
+- changer d'œil.
 
 NB. Un patient qui compte les doigts à six mètres a au moins 1/10.
 
-
 ![](i562-9.jpg)
-
 
 ### 2. Vous avez une échelle d'AV
 
-*   accrocher l'échelle sur un mur éclairé mais à l'abri des reflets,
-*   placer le malade à la distance indiquée sur l'échelle,
-*   expliquer le test au malade avant de commencer,
-*   utiliser un bâton pour montrer les tests,
-*   placer toujours le bâton sous le test,
-*   vérifier les réponses du malade,
-*   procéder œil par œil en commençant par l'œil droit,
-*   toujours commencer par les tests les plus gros,
-*   noter les réponses œil par œil AV OD, OG:
+- accrocher l'échelle sur un mur éclairé mais à l'abri des reflets,
+- placer le malade à la distance indiquée sur l'échelle,
+- expliquer le test au malade avant de commencer,
+- utiliser un bâton pour montrer les tests,
+- placer toujours le bâton sous le test,
+- vérifier les réponses du malade,
+- procéder œil par œil en commençant par l'œil droit,
+- toujours commencer par les tests les plus gros,
+- noter les réponses œil par œil AV OD, OG:
 
 <table>
 
@@ -268,7 +249,8 @@ NB. Un patient qui compte les doigts à six mètres a au moins 1/10.
 
 </table>
 
-### 3. Le patient n'a pas une AV = 1/10   
+### 3. Le patient n'a pas une AV = 1/10 
+
 ou ne compte pas les doigts à six mètres
 
 Placez-vous à trois mètres du malade et procédez comme au paragraphe 1.
@@ -277,8 +259,8 @@ NB. Un malade qui compte les doigts à trois mètres seulement est aveugle de ce
 
 ### 4. Le malade ne peut compter les doigts à trois mètres
 
-*   approchez-vous de lui et demandez-lui s'il voit la lumière de votre torche,
-*   en cas d'affirmative, vérifiez que la pupille réagit à la lumière.
+- approchez-vous de lui et demandez-lui s'il voit la lumière de votre torche,
+- en cas d'affirmative, vérifiez que la pupille réagit à la lumière.
 
 NB. L'absence de vision de la lumière est un signe de très mauvais pronostic : cet œil est aveugle et incurable.
 
@@ -288,10 +270,10 @@ Un œil qui voit la lumière pourra peut-être être guéri par le spécialiste.
 
 Pour examiner un œil, il faut :
 
-*   connaître les repères normaux, les critères de gravité,
-*   avoir de l'eau,
-*   procéder avec méthode.
+- connaître les repères normaux, les critères de gravité,
+- avoir de l'eau,
+- procéder avec méthode.
 
 Avec un peu d'habitude, c'est facile et rapide.
 
-_Développement et Santé, n° 105, juin 1993_
+*Développement et Santé, n° 105, juin 1993*

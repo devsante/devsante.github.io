@@ -8,26 +8,26 @@ date: "2007-11-12"
 
 ## I. Les patients
 
-L'évaluation a été réalisée chez 272 patients 158 hommes (58 %) et 114 femmes (42 %), âge médian 34 ans (IQR*, 30-39).
+L'évaluation a été réalisée chez 272 patients 158 hommes (58 %) et 114 femmes (42 %), âge médian 34 ans (IQR\*, 30-39).
 
-### Concernant le mode de vie des patients :
+### Concernant le mode de vie des patients
 
-*   158 (58 %) vivent à Phnom-Penh et 114 (42 %) en province,
-*   138 (51 %) vivent en couple, 112 en famille (41 %) et 22 seuls (8 %),
-*   les principales professions sont aucune (21 %), commerçants (17 %), militaires/ policiers (17 %), autres fonctionnaires (15 %), activités libérales en PME (11 %), agriculteurs (7 %) et moto-taxis (6 %).
+- 158 (58 %) vivent à Phnom-Penh et 114 (42 %) en province,
+- 138 (51 %) vivent en couple, 112 en famille (41 %) et 22 seuls (8 %),
+- les principales professions sont aucune (21 %), commerçants (17 %), militaires/ policiers (17 %), autres fonctionnaires (15 %), activités libérales en PME (11 %), agriculteurs (7 %) et moto-taxis (6 %).
 
-### L'infection VIH a été découverte en raison :
+### L'infection VIH a été découverte en raison
 
-*   de problèmes de santé pour 169 (62 %) d'entre eux,
-*   d'une infection chez le conjoint pour 60 (22%),
-*   d'un bilan de santé systématique pour 34 (13%)
-*   d'une grossesse pour 9 (3 %).
+- de problèmes de santé pour 169 (62 %) d'entre eux,
+- d'une infection chez le conjoint pour 60 (22%),
+- d'un bilan de santé systématique pour 34 (13%)
+- d'une grossesse pour 9 (3 %).
 
 ### Quantre-vingt quatorze pour cent des patients ont parlé de leur infection avec au moins un membre de l'entourage
 
-*   50 % avec la famille seule,
-*   14 % avec le conjoint seul,
-*   36 % avec les deux.
+- 50 % avec la famille seule,
+- 14 % avec le conjoint seul,
+- 36 % avec les deux.
 
 Lorsque l'on interroge les patients sur les changements que l'infection a entraîné dans leur vie quotidienne, les 3 réponses les plus fréquentes sont aucun changement (36 %), diminution des revenus (28 %) et perte de l'avenir (24 %).
 
@@ -37,27 +37,28 @@ Seuls 1/3 des patients avaient déjà été suivis pour leur infection avant l'e
 
 Le nombre moyen de consultations est de 4.7 (IQR, 3-6) et le nombre de consultations nécessaires pour atteindre les objectifs thérapeutiques de 3.8 (IQR, 3-4).
 
-### Les principaux problèmes rencontrés  
+### Les principaux problèmes rencontrés
+
 par les patients lors du suivi sont
 
-*   l'éloignement par rapport à l'hôpital (28 %),
-*   des problèmes financiers (18%),
-*   des symptômes dépressifs (18 %),
-*   le fait de devoir changer de traitement (16 %) et de formes galéniques (8 %),
-*   les effets indésirables (13%),
-*   les horaires de prise (8 %),
-*   des problèmes de communication avec l'entourage ou de discrimination (11 %),
-*   des problèmes d'alcoolisme (2 %).
+- l'éloignement par rapport à l'hôpital (28 %),
+- des problèmes financiers (18%),
+- des symptômes dépressifs (18 %),
+- le fait de devoir changer de traitement (16 %) et de formes galéniques (8 %),
+- les effets indésirables (13%),
+- les horaires de prise (8 %),
+- des problèmes de communication avec l'entourage ou de discrimination (11 %),
+- des problèmes d'alcoolisme (2 %).
 
-Un questionnaire d'évaluation portant sur 20 questions abordées lors des séances d'éducation a été proposé aux 272 patients le nombre moyen de bonnes réponses est de 18.5/20 (IQR, 18-20). (_cf. tableau 1_)
+Un questionnaire d'évaluation portant sur 20 questions abordées lors des séances d'éducation a été proposé aux 272 patients le nombre moyen de bonnes réponses est de 18.5/20 (IQR, 18-20). (*cf. tableau 1*)
 
 ## III. Évaluation de l'observance
 
-L'observance a été évaluée chez 285 patients ayant plus de 6 mois de traitement ARV par plusieurs techniques : auto questionnaires, échelle analogique, mesure du volume globulaire moyen (tous les patients étaient soit sous AZT soit sous D4T), concentrations résiduelles plasmatiques d'ARV (INNTI - Inhibiteur non nucleosidique de la transcriptase inverse - et IP - Inhibiteur de la protéase) et PCR** (Polymerase chain reaction) VIH chez les patients naïfs d'ARV avant l'entrée dans la consultation (N=161).
+L'observance a été évaluée chez 285 patients ayant plus de 6 mois de traitement ARV par plusieurs techniques : auto questionnaires, échelle analogique, mesure du volume globulaire moyen (tous les patients étaient soit sous AZT soit sous D4T), concentrations résiduelles plasmatiques d'ARV (INNTI - Inhibiteur non nucleosidique de la transcriptase inverse - et IP - Inhibiteur de la protéase) et PCR\*\* (Polymerase chain reaction) VIH chez les patients naïfs d'ARV avant l'entrée dans la consultation (N=161).
 
-_* Note de l'éditeur_ : InterQuartile Range, l'écart interquartile mesure la dispersion des résultats autour de la médiane, cette dernière partageant les résultats en deux moitiés égales.
+*\* Note de l'éditeur* : InterQuartile Range, l'écart interquartile mesure la dispersion des résultats autour de la médiane, cette dernière partageant les résultats en deux moitiés égales.
 
-_** Note de l'éditeur : PCR = Technique d'amplification du matériel génétique viral qui permet d'en produire de grandes quantités et donc de le mettre en évidence à partir d'une quantité limitée au départ._
+*\*\* Note de l'éditeur : PCR = Technique d'amplification du matériel génétique viral qui permet d'en produire de grandes quantités et donc de le mettre en évidence à partir d'une quantité limitée au départ.*
 
 **Les résultats sont les suivants :**
 
@@ -692,4 +693,4 @@ beaucoup d'eau.</td>
 
 </table>
 
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

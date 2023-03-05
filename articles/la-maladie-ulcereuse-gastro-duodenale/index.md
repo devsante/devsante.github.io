@@ -49,13 +49,13 @@ Le tabagisme est associé à une augmentation de la fréquence d'ulcère duodén
 
 Ils peuvent jouer un rôle dans l'exacerbation de l'activité d'un ulcère.
 
-### 4. _Helicobacter pylori (Hp)_
+### 4. *Helicobacter pylori (Hp)*
 
 Bacille spiralé Gram négatif multiflagelle avec une affinité pour un environnement micro-aérophile ; le germe n'envahit pas les tissus, il réside dans le gel muqueux enrobant les cellules épithéliales.
 
-La colonisation duodénale par _Helicobacter pylo_ri est limitée aux régions de métaplasie gastrique. C'est un facteur important dans la pathogénie ulcéreuse. Cette bactérie est retrouvée dans 90 % des ulcères duodénaux au niveau de la muqueuse antrale et dans 70 % des ulcères gastriques. Il est démontré que son éradication entraîne la cicatrisation durable de l'ulcère duodénal et gastrique. Cela peut correspondre à un simple facteur permissif puisque la bactérie est fréquemment retrouvée dans des populations présentant une pathologie gastrique non ulcéreuse.
+La colonisation duodénale par \_Helicobacter pylo_ri est limitée aux régions de métaplasie gastrique. C'est un facteur important dans la pathogénie ulcéreuse. Cette bactérie est retrouvée dans 90 % des ulcères duodénaux au niveau de la muqueuse antrale et dans 70 % des ulcères gastriques. Il est démontré que son éradication entraîne la cicatrisation durable de l'ulcère duodénal et gastrique. Cela peut correspondre à un simple facteur permissif puisque la bactérie est fréquemment retrouvée dans des populations présentant une pathologie gastrique non ulcéreuse.
 
-La vie en collectivité constitue le facteur de risque de transmission le plus important. L'infection se transmet de proche en proche au sein de petits foyers endémiques. Des cas de transmission professionnelle ont été rapportés (endoscopistes). Le mécanisme de transmission _d'Helicobacter pylori_ reste mal connu. Le modèle le plus cohérent est celui d'une transmission inter-humaine directe principalement acquise pendant l'enfance, le passage de bactéries se faisant directement à partir de la salive, du liquide gastrique ou des selles.
+La vie en collectivité constitue le facteur de risque de transmission le plus important. L'infection se transmet de proche en proche au sein de petits foyers endémiques. Des cas de transmission professionnelle ont été rapportés (endoscopistes). Le mécanisme de transmission *d'Helicobacter pylori* reste mal connu. Le modèle le plus cohérent est celui d'une transmission inter-humaine directe principalement acquise pendant l'enfance, le passage de bactéries se faisant directement à partir de la salive, du liquide gastrique ou des selles.
 
 ### 5. Médicaments
 
@@ -65,7 +65,7 @@ La consommation d'aspirine entraîne un risque accru d'ulcère gastrique ; l'asp
 
 Le vieil adage " pas d'acide, pas d'ulcère" reste vrai mais insuffisant pour expliquer à lui seul le mécanisme de l'ulcérogenèse.
 
-Il y a conjoncture entre une défaillance des mécanismes de défense de la muqueuse (gel de mucus, barrière mucus-bicarbonates; diminution de la sécrétion épithéliale de bicarbonates ; modification du revêtement épithélial de surface ; diminution du flux sanguin muqueux) et les facteurs d'agression de la muqueuse (sécrétion chlorhydro-peptique ; _Helicobacter pylori_...).
+Il y a conjoncture entre une défaillance des mécanismes de défense de la muqueuse (gel de mucus, barrière mucus-bicarbonates; diminution de la sécrétion épithéliale de bicarbonates ; modification du revêtement épithélial de surface ; diminution du flux sanguin muqueux) et les facteurs d'agression de la muqueuse (sécrétion chlorhydro-peptique ; *Helicobacter pylori*...).
 
 ## IV. Étude clinique
 
@@ -97,9 +97,7 @@ L'incidence globale des complications est estimée à 3 à 5 % par an.
 
 Elles comprennent l'hémorragie digestive, la perforation et la sténose pyloro-duodénale.
 
-
 ![](i880-1.jpg)
-
 
 ### 1. Hémorragie digestive
 
@@ -107,8 +105,8 @@ Il s'agit de la complication la plus fréquente avec une incidence de 2 % par an
 
 L'hémorragie relève de deux mécanismes :
 
-*   L'hémorragie au niveau d'une gastrite ou d'une duodénite avec érosion des capillaires; dans ce cas elle est rarement grave.  
-*   L'hémorragie par ulcère profond érodant un vaisseau de plus gros calibre ; les vaisseaux les plus exposés sont l'artère gastro-duodénale à la face postérieuse du bul6e duodénal, les branches de l'artère coronaire stomachique au niveau de la petite courbure verticale ; dans ce cas il s'agit d'une hémorragie grave récidivante mettant en danger la vie du patient.
+- L'hémorragie au niveau d'une gastrite ou d'une duodénite avec érosion des capillaires; dans ce cas elle est rarement grave.
+- L'hémorragie par ulcère profond érodant un vaisseau de plus gros calibre ; les vaisseaux les plus exposés sont l'artère gastro-duodénale à la face postérieuse du bul6e duodénal, les branches de l'artère coronaire stomachique au niveau de la petite courbure verticale ; dans ce cas il s'agit d'une hémorragie grave récidivante mettant en danger la vie du patient.
 
 La survenue d'une hémorragie doit faire hospitaliser le patient en milieu spécialisé ; après rétablissement de l'hémodynamique, une endoscopie doit être réalisée précocement. Elle permet le diagnostic d'ulcère hémorragique dans 80 à 90 % des cas, la classification de Forrest est utilisée pour apprécier le risque de récidive :
 
@@ -118,7 +116,7 @@ IIA et IIB : Vaisseau visible sectionné ou caillot adhérent ne partant pas au 
 
 IIC : Tache noire au fond de l'ulcère.
 
-III. : Pas de stigmate d'hémorragie.
+III\. : Pas de stigmate d'hémorragie.
 
 Les stades Il C et III ont un risque faible de récidive.
 
@@ -128,11 +126,9 @@ Deuxième complication en fréquence de la maladie ulcéreuse gastro-duodénale 
 
 Le tableau le plus fréquent est celui de la perforation en péritoine libre avec survenue brutale de douleur en coup de poignard suivie de malaise général et de vomissements. Cette douleur s'étend à tout l'abdomen et s'accompagne rapidement de fièvre. L'examen clinique met en évidence une défense épigastrique puis généralisée à tout l'abdomen, voire un état de choc dans les cas évolués.
 
-Le diagnostic, généralement facile cliniquement, est confirmé par la présence d'un pneumopéritoine (_figure n° 1_) à la radiographie de l'abdomen sans préparation en station debout. Le tableau peut être trompeur chez les sujets âgés ou lorsqu'il y a perforation en péritoine cloisonné ou dans un organe de voisinage (perforation bouchée).
-
+Le diagnostic, généralement facile cliniquement, est confirmé par la présence d'un pneumopéritoine (*figure n° 1*) à la radiographie de l'abdomen sans préparation en station debout. Le tableau peut être trompeur chez les sujets âgés ou lorsqu'il y a perforation en péritoine cloisonné ou dans un organe de voisinage (perforation bouchée).
 
 ![](i880-2.jpg)
-
 
 ### 3. Sténose pyloro-duodénale
 
@@ -152,7 +148,7 @@ La consommation de cigarettes doit être réduite, arrêtée ; la suppression de
 
 Les médicaments anti-ulcéreux sont classés en 2 classes pharmacologiques : les antisécrétoires (les anti-H<sub>2</sub>, les inhibiteurs de la pompe à protons), et les protecteurs de la muqueuse (sucralfate, prostaglandines et antiacides).
 
-**_Les antisécrétoires_**
+***Les antisécrétoires***
 
 A - Antagonistes des récepteurs H<sub>2</sub> à l'histamine :
 
@@ -162,7 +158,7 @@ B - Inhibiteurs de la pompe à protons
 
 Les inhibiteurs de la pompe à protons bloquent l'activité de l'enzyme H+-K+-ATPase ultime maillon du processus sécrétoire de l'acide chlorhydrique qui permet la sécrétion d'ions H+ du milieu intracellulaire vers la lumière gastrique oméprazole 20 mg/j ;  lanzoprazole 30 mg/j ;  pantoprazole 40 mg/j.
 
-**_Les protecteurs de la muqueuse_**
+***Les protecteurs de la muqueuse***
 
 A - Prostaglandines
 
@@ -172,31 +168,29 @@ B - Sucralfate 4 g/j.
 
 C - Les anti-acides ne sont utilisés que comme traitement d'appoint car s'ils soulagent la douleur, ils n'accélèrent pas la cicatrisation: sels d'aluminium  et de magnésium.
 
-**_Modalités du traitement_**
+***Modalités du traitement***
 
-En absence d'infection par _Helicobacter_ _pylori ;_ le traitement anti-ulcéreux repose soit sur les anti-H<sub>2</sub>, (cimétidine 800 mg/j, ranitidine 300 mg/j, famotidine 40 mg/j, nizatidine 300 mg/j), soit sur les inhibiteurs de la pompe à protons (oméprazole 20 mg/j, lanzoprazole 30 mg/j, pantoprazole 40 mg/j).
+En absence d'infection par *Helicobacter* *pylori ;* le traitement anti-ulcéreux repose soit sur les anti-H<sub>2</sub>, (cimétidine 800 mg/j, ranitidine 300 mg/j, famotidine 40 mg/j, nizatidine 300 mg/j), soit sur les inhibiteurs de la pompe à protons (oméprazole 20 mg/j, lanzoprazole 30 mg/j, pantoprazole 40 mg/j).
 
 La durée du traitement est de 4 à 6 semaines. En cas de rechutes fréquentes, un traitement d'entretien continu à demi-dose est indiqué.
 
 L'association de 2 anti-ulcéreux, même à 2 classes pharmacologiques différentes, n'a pas prouvé son intérêt.
 
-#### c. Traitement d'éradication d'_Helicobacter pylori_ (Hp)
+#### c. Traitement d'éradication d'*Helicobacter pylori* (Hp)
 
-_Faut-il rechercher_ l'Helicobacter pylori avant _d'instituer un traitement d'éradication ?_
+*Faut-il rechercher* l'Helicobacter pylori avant *d'instituer un traitement d'éradication ?*
 
-La réponse à cette question dépend de la prévalence de l'infection à Hp. La prévalence retenue est de plus de 90 % pour l'ulcère duodénal et de 70 % pour l'ulcère gastrique. _En l'absence de fibroscopie, il n'y a pas de signe clinique permettant d'affirmer la maladie ulcéreuse et donc pas d'indication à un traitement à l'aveugle. En présence d'un ulcère, un traitement est préconisé par certains._
+La réponse à cette question dépend de la prévalence de l'infection à Hp. La prévalence retenue est de plus de 90 % pour l'ulcère duodénal et de 70 % pour l'ulcère gastrique. *En l'absence de fibroscopie, il n'y a pas de signe clinique permettant d'affirmer la maladie ulcéreuse et donc pas d'indication à un traitement à l'aveugle. En présence d'un ulcère, un traitement est préconisé par certains.*
 
-_Intérêts et résultats de l'éradication de l'Hp_
+*Intérêts et résultats de l'éradication de l'Hp*
 
 L'éradication permet une cicatrisation accélérée de l'ulcère, un raccourcissement de la durée du traitement d'attaque, la prévention des récidives ulcéreuses ou hémorragiques. L'éradication réduit les risques de récidive à long terme des ulcères duodénaux de 70 à 5 % et des ulcères gastriques de 60 à 5 %. Les réinfections sont rares : < à 2 % après trithérapie d'éradication. La réduction du coût de la maladie est importante.
 
-_Le traitement repose actuellement sur_ _une trithérapie de 7 jours_
+*Le traitement repose actuellement sur* *une trithérapie de 7 jours*
 
 Le traitement d'éradication en cas d'association d'une infection à Hp à des lésions ulcéreuses justifie le recours à 2 antibiotiques et un inhibiteur de la pompe à proton donné à double dose (oméprazole 40 mg par jour) ; pour une durée d'une semaine. Lorsque le choix de l'antisécrétoire porte sur un anti-H<sub>2</sub> (ranitidine 300 mg deux fois par jour par exemple) la durée du traitement d'éradication est prolongée à 2 semaines. Le choix porte sur les antibiotiques suivants : amoxicilline 1 000 mg deux fois par jour, métronidazole 500 mg deux fois, par jour ; clarithromycine 500 mg deux fois par jour. En cas d'allergie à la pénicilline on remplace l'amoxicilline, par le métronidazole.
 
-
 ![](i880-1.jpg)
-
 
 Ce traitement d'éradication est suivi d'un traitement antisécrétoire de 3 semaines dans le cas d'un ulcère duodénal, et de 5 semaines dans le cas d'un ulcère gastrique. En l'absence de facteurs de risque associés (prise de médicaments gastro-toxiques) la tendance actuelle est de ne traiter l'ulcère duodénal que pendant 1 semaine, durée de la trithérapie d'éradication. Le contrôle endoscopique dans l'ulcère gastrique avec biopsies est obligatoire.
 
@@ -204,44 +198,38 @@ Ce traitement d'éradication est suivi d'un traitement antisécrétoire de 3 sem
 
 Les indications opératoires ont fortement diminué depuis l'avènement des antisécrétoires. Il est actuellement réservé aux formes compliquées.
 
-Pour l'ulcère gastrique, le traitement repose sur la gastrectomie des deux tiers enlevant l'ulcère avec un rétablissement de la continuité gastro-duodénale termino-terminale (intervention de Pean) ou gastro-jéjunale (intervention de Finsterer) _(figure n°2)._ Le traitement de l'ulcère duodénal repose le plus souvent sur la vagotomie-antrectomie _(figure n°3)._
-
+Pour l'ulcère gastrique, le traitement repose sur la gastrectomie des deux tiers enlevant l'ulcère avec un rétablissement de la continuité gastro-duodénale termino-terminale (intervention de Pean) ou gastro-jéjunale (intervention de Finsterer) *(figure n°2).* Le traitement de l'ulcère duodénal repose le plus souvent sur la vagotomie-antrectomie *(figure n°3).*
 
 ![](i880-3.jpg)
-
 
 ### 3. Traitement des complications
 
 #### a. Hémorragie digestive
 
-La majorité des hémorragies s'arrêtent spontanément ; le traitement endoscopique doit être tenté en cas de saignement actif ou de vaisseau visible le plus souvent avec injection d'adrénaline diluée au 1/10 000 dans l'ulcère ; le traitement antisécrétoire doit être débuté par voie intraveineuse. Le traitement ultérieur dépend du statut _Helicobacter pylori,_ l'éradication de la bactérie en cas d'infection permet d'éviter les récidives hémorragiques.
+La majorité des hémorragies s'arrêtent spontanément ; le traitement endoscopique doit être tenté en cas de saignement actif ou de vaisseau visible le plus souvent avec injection d'adrénaline diluée au 1/10 000 dans l'ulcère ; le traitement antisécrétoire doit être débuté par voie intraveineuse. Le traitement ultérieur dépend du statut *Helicobacter pylori,* l'éradication de la bactérie en cas d'infection permet d'éviter les récidives hémorragiques.
 
 #### b. Perforation
 
-Le traitement par la méthode de Taylor peut être tenté en cas de perforation vue précocement à distance d'un repas: il associe une diète avec aspiration digestive à un traitement antisécrétoire par voie intraveineuse et à un traitement antibiotique avec une surveillance stricte clinique toutes les 4 heures en quête de la moindre aggravation. Le traitement chirurgical est de mise dans les autres cas, il associe une toilette péritonéale à une suture de l'ulcère et éventuellement un traitement de la maladie ulcéreuse (figure _n°4)._
-
+Le traitement par la méthode de Taylor peut être tenté en cas de perforation vue précocement à distance d'un repas: il associe une diète avec aspiration digestive à un traitement antisécrétoire par voie intraveineuse et à un traitement antibiotique avec une surveillance stricte clinique toutes les 4 heures en quête de la moindre aggravation. Le traitement chirurgical est de mise dans les autres cas, il associe une toilette péritonéale à une suture de l'ulcère et éventuellement un traitement de la maladie ulcéreuse (figure *n°4).*
 
 ![](i880-5.jpg)
-
 
 #### c. Sténose pyloro-duodénale
 
 La sténose peut être réversible lorsqu'elle est secondaire à l'oedème péri-ulcéreux ou irréversible en cas de sténose fibreuse. Le traitement médical par aspiration et antisécrétoires est suffisant dans le premier cas ; le traitement chirurgical est indiqué dans la sténose fibreuse (antrectomie-vagotomie ou gastrectomie des 2/3).
 
-## VIII. Diagnostic de l'infection à _Helicobacter pylori_
+## VIII. Diagnostic de l'infection à *Helicobacter pylori*
 
 On dispose de nombreuses méthodes diagnostiques parmi lesquelles :
 
 ### 1. Test à l'uréase
 
-L'uréase de la bactérie transforme l'urée en ammoniac et CO<sub>2</sub>, l'ammoniac fait virer un indicateur coloré sensible au pH (du jaune au rouge) ; on dépose en pratique 1 ou 2 biopsies antrales de la région angulaire dans un gel coloré en jaune. Le délai de virement varie de quelques minutes à un maximum de 3 heures en cas d'infection antrale à _Helico_bacter _pylori_. La sensibilité et la spécificité sont de l'ordre de 90 %.C'est un examen rapide et peu coûteux.
+L'uréase de la bactérie transforme l'urée en ammoniac et CO<sub>2</sub>, l'ammoniac fait virer un indicateur coloré sensible au pH (du jaune au rouge) ; on dépose en pratique 1 ou 2 biopsies antrales de la région angulaire dans un gel coloré en jaune. Le délai de virement varie de quelques minutes à un maximum de 3 heures en cas d'infection antrale à \_Helico_bacter *pylori*. La sensibilité et la spécificité sont de l'ordre de 90 %.C'est un examen rapide et peu coûteux.
 
 ### 2. Sérologie
 
-Cet examen plus coûteux que le test à 1'uréase consiste à rechercher par méthode ELISA des IgG anti-_Helicobacter pylori_. La sensibilité et spécificité sont bonnes, et cet examen est très utile pour les études épidémiologiques.
-
+Cet examen plus coûteux que le test à 1'uréase consiste à rechercher par méthode ELISA des IgG anti-*Helicobacter pylori*. La sensibilité et spécificité sont bonnes, et cet examen est très utile pour les études épidémiologiques.
 
 ![](i880-6.jpg)
 
-
-_Développement et Santé, n° 147, juin 2000_
+*Développement et Santé, n° 147, juin 2000*

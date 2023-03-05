@@ -17,52 +17,52 @@ Evaluer, soulager et référer.
 
 Les principaux signes cliniques du syndrome méningé sont les céphalées :
 
-*   Violentes, diffuses, souvent pulsatiles
-*   Constantes
-*   Aggravées par la lumière, les mouvements de la tête, le bruit
-*   Ne cédant pas aux antalgiques habituels
-*   Irradiant vers le cou et le rachis
+- Violentes, diffuses, souvent pulsatiles
+- Constantes
+- Aggravées par la lumière, les mouvements de la tête, le bruit
+- Ne cédant pas aux antalgiques habituels
+- Irradiant vers le cou et le rachis
 
 Ces céphalées sont accompagnées de vomissements, sans nausée préalable, sans effort (lors des changements de position).
 
 D'autres signes peuvent également être présents : troubles du rythme cardiaque (pouls ralenti = bradycardie), troubles respiratoires (fréquence ralentie avec pauses respiratoires) et hypertension artérielle.
 
-#### A l'examen clinique, les signes du syndrome méningé sont :
+#### A l'examen clinique, les signes du syndrome méningé sont
 
-*   La **raideur de la nuque** : c'est le signe de méningite le plus précoce et le plus constant. Elle se recherche par la flexion passive de la tête sur le thorax. Le mouvement est limité par la contracture douloureuse des muscles cervicaux postérieurs. Les mouvements latéraux sont moins douloureux et possibles.  
-*   **L'attitude « en chien de fusil »** : elle est due à la contracture rachidienne.  
-*   Le signe de Kernig : il se recherche en pliant les membres inférieurs sur le bassin, jambes étendues : une douleur s'oppose à ce mouvement et oblige le patient à plier les jambes.  
-*   Le **signe de Brudzinski** : les tentatives de flexion de la tête vers l'avant entraînent une flexion involontaire des membres inférieurs.
+- La **raideur de la nuque** : c'est le signe de méningite le plus précoce et le plus constant. Elle se recherche par la flexion passive de la tête sur le thorax. Le mouvement est limité par la contracture douloureuse des muscles cervicaux postérieurs. Les mouvements latéraux sont moins douloureux et possibles.
+- **L'attitude « en chien de fusil »** : elle est due à la contracture rachidienne.
+- Le signe de Kernig : il se recherche en pliant les membres inférieurs sur le bassin, jambes étendues : une douleur s'oppose à ce mouvement et oblige le patient à plier les jambes.
+- Le **signe de Brudzinski** : les tentatives de flexion de la tête vers l'avant entraînent une flexion involontaire des membres inférieurs.
 
 ### b) Evaluer la gravité
 
 Les signes de gravité sont :
 
-*   Les troubles de la conscience (obnubilation, états confusionnels, coma)
-*   Les convulsions, surtout chez les enfants.  
-*   Le purpura : toute éruption purpurique (taches de couleur violette) doit évoquer une méningite à méningocoques et faire débuter immédiatement une antibiothérapie avant le transfert.
+- Les troubles de la conscience (obnubilation, états confusionnels, coma)
+- Les convulsions, surtout chez les enfants.
+- Le purpura : toute éruption purpurique (taches de couleur violette) doit évoquer une méningite à méningocoques et faire débuter immédiatement une antibiothérapie avant le transfert.
 
-**_=>Alerter_** **et préparer le transfert**
+***=>Alerter*** **et préparer le transfert**
 
 ### d) Agir
 
-*   Soulager : mettre le patient dans un local calme, aéré, dans l'obscurité, le couvrir avec des linges humides pour le rafraîchir et faire baisser la température.  
-*   Traiter par paracétamol.
+- Soulager : mettre le patient dans un local calme, aéré, dans l'obscurité, le couvrir avec des linges humides pour le rafraîchir et faire baisser la température.
+- Traiter par paracétamol.
 
 Tout syndrome méningé doit, si possible, être confirmé par un examen du liquide céphalo-rachidien (LCR)  
 Cet examen nécessite une ponction lombaire (PL). Dans certains pays, les infirmiers sont autorisés à la faire, dans d'autres il faut transférer à l'hôpital de district.
 
 La décision concernant le syndrome méningé dépend de deux facteurs :
 
-*   soit vous êtes dans une zone où sévit la méningite à méningocoque et/ou en période épidémique (de février à avril) ;
-*   soit il est possible que le patient soit infecté par le VIH.
+- soit vous êtes dans une zone où sévit la méningite à méningocoque et/ou en période épidémique (de février à avril) ;
+- soit il est possible que le patient soit infecté par le VIH.
 
 Dans le cas d'une **méningite bactérienne**, le **LCR** a les caractéristiques suivantes :
 
-*   aspect très trouble,
-*   présence de nombreux lymphocytes (vus à l'examen microscopique),
-*   concentration en protéines (protéinorachie) élevée,
-*   présence de _cocci_ Gram négatif groupés par deux (ou antigène positif au test au latex) s'il s'agit de méningocoques.
+- aspect très trouble,
+- présence de nombreux lymphocytes (vus à l'examen microscopique),
+- concentration en protéines (protéinorachie) élevée,
+- présence de *cocci* Gram négatif groupés par deux (ou antigène positif au test au latex) s'il s'agit de méningocoques.
 
 <table>
 
@@ -104,9 +104,7 @@ Chloramphénicol retard en suspension huileuse et ceftriaxone sont actifs en inj
 
 </table>
 
-
 ![](image001.gif)
-
 
 La **méningite tuberculeuse** est d'évolution progressive, avec un LCR clair, une protéinorachie élevée et une glycorachie (teneur en glucose dans le LCR) diminuée. Il est rare de trouver des BAAR à l'examen bacilloscopique, il faut attendre la culture.
 

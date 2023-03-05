@@ -17,4 +17,4 @@ On espère, avec de nouveaux antibiotiques, écourter les traitements.   
 
 Par Philippe Reinert, pédiatre, Créteil, France
 
-_Ref.  :61<sup>ème</sup> Journée mondiale des lépreux, Fondation Raoul Follereau, 2013_.
+*Ref.  :61<sup>ème</sup> Journée mondiale des lépreux, Fondation Raoul Follereau, 2013*.

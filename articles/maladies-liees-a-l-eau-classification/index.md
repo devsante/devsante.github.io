@@ -11,9 +11,7 @@ L'eau est nécessaire au développement économique mais les barrages ou les ré
 
 L'eau n'est apparue que tardivement comme pouvant jouer un rôle dans la santé. Elle a été identifiée comme facteur de transmission de maladie seulement en 1854 lors d'une épidémie de choléra à Londres. Progressivement l'accès correct à l'eau potable a permis d'augmenter l'espérance de vie à condition que dans le même temps les conditions d'hygiène s'améliorent. Les maladies liées à l'eau sont très diverses par leur rapport avec celle-ci et le mode de transmision.
 
-
 ![](i1007-1.jpg)
-
 
 En se servant de deux plantes, l'une dans l'eau et l'autre sans eau, les agents de santé communautaires peuvent montrer comment un enfant se déshydrate en l'absence d'eau. Les mères peuvent constater combien la plante sans eau se dessèche vite.
 
@@ -23,9 +21,9 @@ En se servant de deux plantes, l'une dans l'eau et l'autre sans eau, les agents 
 
 Il s'agit de maladies transmises directement par l'ingestion d'eau ou d'aliments contaminés par celle-ci. Elles sont donc directement liées à la qualité de l'eau.
 
-*   **Maladies bactériennes :** les infections à Salmonella (typhoïde) ou à entérobactéries (Campylobacter. E. coli), le choléra, les shigelloses.. .  
-*   **Infections virales :** l'hépatite A (et E), la poliomyélite, les rotavirus responsables de diarrhées, les entérovirus...  
-*   **Infections parasitaires :** dracunculose, amibiases, giardiase et autres flagellés intestinaux essentiellement.
+- **Maladies bactériennes :** les infections à Salmonella (typhoïde) ou à entérobactéries (Campylobacter. E. coli), le choléra, les shigelloses.. .
+- **Infections virales :** l'hépatite A (et E), la poliomyélite, les rotavirus responsables de diarrhées, les entérovirus...
+- **Infections parasitaires :** dracunculose, amibiases, giardiase et autres flagellés intestinaux essentiellement.
 
 Ce mode de transmission concerne la plupart des agents étiologiques de diarrhée. La contamination de l'eau se fait par les excreta (péril fécal).
 
@@ -35,17 +33,15 @@ Un traitement simple de l'eau, (chloration, Javel) supprime le risque de contami
 
 Ce sont les infections favorisées par le manque d'eau. Il s'agit de :
 
-*   Dermatoses : gales, teignes, pyodermite.  
-*   Conjonctivite : trachome.  
-*   Otites.  
-*   Le Plan et le Bejel.  
-*   Certaines entérites : diarrhées, oxyures.
+- Dermatoses : gales, teignes, pyodermite.
+- Conjonctivite : trachome.
+- Otites.
+- Le Plan et le Bejel.
+- Certaines entérites : diarrhées, oxyures.
 
 Ces différentes infections sont favorisées par un lavage corporel insuffisant, en particulier celui des mains. Le manque d'hygiène provoqué par le peu de disponibilité de l'eau est le plus souvent en cause. Un apport satisfaisant en eau fait disparaître la majeure partie de ces pathologies à condition que conjointement l'hygiène corporelle soit améliorée.
 
-
 ![](i1007-2.jpg)
-
 
 ### 3. Les maladies dont l'agent causal a un cycle comportant une phase aquatique obligatoire (water based)
 
@@ -55,24 +51,24 @@ Cet hôte intermédiaire peut être un mollusque pour la bilharziose, un poisson
 
 ### Maladies liées à l'eau
 
-#### 1. Infection dont l'agent est véhiculé passivement par l'eau, liée à la qualité de l'eau (Water borne)**.**
+#### 1. Infection dont l'agent est véhiculé passivement par l'eau, liée à la qualité de l'eau (Water borne)
 
-*   Salmonelles, choléra, amibes, rotavirus, diarrhées.  
-*   Hépatite A, poliomyélite...
+- Salmonelles, choléra, amibes, rotavirus, diarrhées.
+- Hépatite A, poliomyélite...
 
-#### 2. Infections dont la fréquence diminue quand augmente la quantité d'eau disponible (Water washed)**.**
+#### 2. Infections dont la fréquence diminue quand augmente la quantité d'eau disponible (Water washed)
 
-*   Conjonctivite, diarrhées, infections cutanées...
+- Conjonctivite, diarrhées, infections cutanées...
 
-#### 3. Maladies dont l'agent causal a un cycle comportant une phase aquatique obligatoire (Water based)**.**
+#### 3. Maladies dont l'agent causal a un cycle comportant une phase aquatique obligatoire (Water based)
 
-*   Bilharziose, douve, ver de Guinée...
+- Bilharziose, douve, ver de Guinée...
 
-#### 4. Maladies dont le vecteur se reproduit ou pique à proximité de l'eau (Water related).
+#### 4. Maladies dont le vecteur se reproduit ou pique à proximité de l'eau (Water related)
 
-*   Moustique : paludisme, fièvre jaune...  
-*   Glossine : trypanosomiase.  
-*   Simulie : onchocercose.
+- Moustique : paludisme, fièvre jaune...
+- Glossine : trypanosomiase.
+- Simulie : onchocercose.
 
 Ces maladies ne peuvent pas persister en l'absence d'eau. Elles sévissent généralement après un contact avec l'eau ou à proximité de celle-ci, parfois par l'intermédiaire d'un aliment d'origine aquatique contaminé (poisson).
 
@@ -106,9 +102,9 @@ Cette latence est nulle pour les bactéries, les virus et certains parasites (am
 
 Il s'agit d'un être vivant, aquatique ou terrestre (animal, mollusque...) où s'accomplit obligatoirement une phase du cycle de l'agent pathogène. Il n'y a pas d'hôte intermédiaire pour les bactéries et les virus, en revanche, pour certains parasites il en existe un :
 
-*   mollusque : bilharzies ;
-*   cyclops : ver de Guinée ;
-*   boeuf, porc : taenia.
+- mollusque : bilharzies ;
+- cyclops : ver de Guinée ;
+- boeuf, porc : taenia.
 
 L'existence d'un hôte intermédiaire provoque une phase de latence.  
 La lutte contre les hôtes intermédiaires peut faire disparaître une maladie.
@@ -139,8 +135,6 @@ conséquences néfastes sur l'état sanitaire, en particulier en augmentant la f
 
 Le besoin vital en eau est associé à un ensemble de dangers variés qui doivent être connus pour être mieux contrôlés.
 
-
 ![](i1007-3.jpg)
 
-
-_Développement et Santé, n°177, juin 2005_
+*Développement et Santé, n°177, juin 2005*

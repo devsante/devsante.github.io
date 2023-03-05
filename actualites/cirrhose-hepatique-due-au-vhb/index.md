@@ -18,4 +18,4 @@ Il reste à savoir si l’association du ténofovir à l’interféron pégylé 
 
 Par Philippe Reinert, pédiatre, Créteil
 
-_Référence : Lancet Vol 381 468-475 9 Fév. 2013_
+*Référence : Lancet Vol 381 468-475 9 Fév. 2013*

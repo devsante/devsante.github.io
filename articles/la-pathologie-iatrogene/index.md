@@ -6,17 +6,17 @@ date: "1994-06-05"
 
 **La pathologie iatrogène**
 
-par Olivier Isaac Bismuth*
+par Olivier Isaac Bismuth\*
 
-* Médecin généraliste, Développement et Santé, Choisy-le-Roi, France.
+- Médecin généraliste, Développement et Santé, Choisy-le-Roi, France.
 
-L'expression _"pathologie iatrogène"_ correspond aux troubles et maladies provoqués par l'intervention médicale du médecin et pourtant, hélas, personne probablement n'a pu l'éviter, qu'il soit bon ou moins bon thérapeute. Avant d'aller plus loin dans la définition, voyons quelques exemples significatifs.
+L'expression *"pathologie iatrogène"* correspond aux troubles et maladies provoqués par l'intervention médicale du médecin et pourtant, hélas, personne probablement n'a pu l'éviter, qu'il soit bon ou moins bon thérapeute. Avant d'aller plus loin dans la définition, voyons quelques exemples significatifs.
 
-*   Il a été prescrit de l'Aspirine à un patient souffrant de fièvre et de céphalées. Il revient trois jours plus tard vomissant du sang. On n'avait pas tenu compte de ses antécédents récents d'ulcère de l'estomac contre indiquant les anti-inflammatoires.  
-*   Cet autre présente une fièvre à 40°C, une toux et des crachats mêlés de sang évocateurs de " pneumonie ". À juste titre, il est prescrit de la Pénicilline injectable. À la seconde injection, le patient fait un choc brutal au dispensaire et meurt. C'est un choc anaphylactique dû à l'allergie à la Pénicilline.  
-*   Cet autre souffre d'une crise de paludisme. La chloroquine _per- os_ est mal tolérée, elle lui occasionne une sensation de prurit l'empêchant de continuer son traitement.  
-*   Ce nourrisson vient de recevoir son vaccin DTCP. La nuit, il a soudainement une fièvre à 40°C et il convulse. Cette convulsion hyper pyrétique est peut-être un neuropaludisme et il faut le traiter en tant que tel, mais il est possible aussi qu'il s'agisse d'une poussée fébrile secondaire à sa vaccination.  
-*   On entend souvent parler du drame du sang contaminé par le virus du Sida. Des milliers d'individus sont devenus séropositifs à la suite de transfusions non contrôlées. Des gouvernements ont été ébranlés dans leurs assises.
+- Il a été prescrit de l'Aspirine à un patient souffrant de fièvre et de céphalées. Il revient trois jours plus tard vomissant du sang. On n'avait pas tenu compte de ses antécédents récents d'ulcère de l'estomac contre indiquant les anti-inflammatoires.
+- Cet autre présente une fièvre à 40°C, une toux et des crachats mêlés de sang évocateurs de " pneumonie ". À juste titre, il est prescrit de la Pénicilline injectable. À la seconde injection, le patient fait un choc brutal au dispensaire et meurt. C'est un choc anaphylactique dû à l'allergie à la Pénicilline.
+- Cet autre souffre d'une crise de paludisme. La chloroquine *per- os* est mal tolérée, elle lui occasionne une sensation de prurit l'empêchant de continuer son traitement.
+- Ce nourrisson vient de recevoir son vaccin DTCP. La nuit, il a soudainement une fièvre à 40°C et il convulse. Cette convulsion hyper pyrétique est peut-être un neuropaludisme et il faut le traiter en tant que tel, mais il est possible aussi qu'il s'agisse d'une poussée fébrile secondaire à sa vaccination.
+- On entend souvent parler du drame du sang contaminé par le virus du Sida. Des milliers d'individus sont devenus séropositifs à la suite de transfusions non contrôlées. Des gouvernements ont été ébranlés dans leurs assises.
 
 **Amis lecteurs, essayez de vous remémorer des cas de pathologie iatrogène** **auxquels vous avez assisté ou même** **été impliqués.**
 
@@ -36,7 +36,7 @@ L'objectif de l'article n'est pas de culpabiliser le soignant mais:
 
 Les examens complémentaires peuvent être dangereux en eux-mêmes ou par une mauvaise interprétation de leurs résultats.
 
-*   Cette femme a consulté plusieurs fois pour douleurs abdominales et brûlures épigastriques. Ces derniers jours elle vomit. Elle réclame une radiographie. On pratique un transit gastro-duodénal. Or, elle était en début de grossesse et ne le savait pas. Elle s'est fait irradier avec les risques pour l'embryon. C'est une toxicité directe de l'examen complémentaire, lequel n'était pas vraiment indispensable. e Au sixième mois de grossesse, cette autre présente des oedèmes modérés. L'examen à la bandelette montre une protéinurie. Le régime sans sel est recommandé. Double erreur, la protéinurie ne signifie pas toujours toxémie gravidique et le régime sans sel est contre-indiqué en cas de grossesse. C'est une erreur d'interprétation.
+- Cette femme a consulté plusieurs fois pour douleurs abdominales et brûlures épigastriques. Ces derniers jours elle vomit. Elle réclame une radiographie. On pratique un transit gastro-duodénal. Or, elle était en début de grossesse et ne le savait pas. Elle s'est fait irradier avec les risques pour l'embryon. C'est une toxicité directe de l'examen complémentaire, lequel n'était pas vraiment indispensable. e Au sixième mois de grossesse, cette autre présente des oedèmes modérés. L'examen à la bandelette montre une protéinurie. Le régime sans sel est recommandé. Double erreur, la protéinurie ne signifie pas toujours toxémie gravidique et le régime sans sel est contre-indiqué en cas de grossesse. C'est une erreur d'interprétation.
 
 **Il. Iatrogénie de la thérapeutique**
 
@@ -46,19 +46,19 @@ Tout traitement comporte des risques, qu'il s'agisse de médicaments, d'acte chi
 
 La plupart des exemples cités précédemment rentrent dans ce cas de figure: l'enfant
 
-Avec diarrhée et toux, qui a besoin d'une réhydratation ' _per os;_ le tuberculeux ignoré; le ventre chirurgical; la femme anémiée...
+Avec diarrhée et toux, qui a besoin d'une réhydratation ' *per os;* le tuberculeux ignoré; le ventre chirurgical; la femme anémiée...
 
 Ajoutons encore la grossesse évaluée à risque pour malformation du bassin et qui n'est pas dirigée vers un centre chirurgical avant l'accouchement.
 
 **2. Traitement nocif**
 
-*   Cet enfant a une fièvre évoquant un paludisme. Il lui est injecté de la Quinine par voie intramusculaire dans la fesse. Or, nous savons que ce mode d'administration est responsable parfois de paralysie du membre inférieur et que de nombreuses prétendues "poliomyélites" sont en fait les séquelles de ce traitement. Il s'agit dans cet exemple d'un traitement dangereux, voire inutile car un traitement _per os_ aurait fait aussi bien l'affaire.  
-*   Cet homme a une lombalgie. Des anti-inflammatoires sont prescrits par voie intramusculaire. Un abcès de la fesse survient. C'est regrettable d'autant que les AINS _per_ os sont d'efficacité égale aux injectables.  
-*   Dans ce dispensaire, les seringues sont bouillies tous les matins. En admettant qu'elles le soient pendant vingt minutes dès le début de l'ébullition, il n'en reste pas moins que le risque de transmission de l'hépatite B persiste.  
-*   Cet homme âgé a un adénome prostatique, cause de troubles urinaires rétentionnels importants. On ne peut le faire opérer, on installe une sonde à demeure. Le risque de surinfection des urines par ce corps étranger est accru, mais il est inévitable afin de soulager le patient.  
-*   Dans plusieurs numéros (DS n° 107-108) on a attiré l'attention sur les dangers des couveuses (surchauffe, surinfection ...) surtout si la surveillance et l'hygiène ne sont pas attentives et rigoureuses.  
-*   **Les complications d'un acte opératoire sont multiples et parfois graves.** Citons le choc anesthésique, l'abcès de paroi, la surinfection osseuse avec des germes hospitaliers résistants aux antibiotiques...  
-*   **Toxicité médicamenteuse:** n'importe quel médicament peut entraîner des effets secondaires, soit allergiques (urticaire, diarrhée, choc), soit toxiques (constipation d'un atropinique, convulsions sous Théophylline, troubles du rythme cardiaque avec des digitaliques ...).
+- Cet enfant a une fièvre évoquant un paludisme. Il lui est injecté de la Quinine par voie intramusculaire dans la fesse. Or, nous savons que ce mode d'administration est responsable parfois de paralysie du membre inférieur et que de nombreuses prétendues "poliomyélites" sont en fait les séquelles de ce traitement. Il s'agit dans cet exemple d'un traitement dangereux, voire inutile car un traitement *per os* aurait fait aussi bien l'affaire.
+- Cet homme a une lombalgie. Des anti-inflammatoires sont prescrits par voie intramusculaire. Un abcès de la fesse survient. C'est regrettable d'autant que les AINS *per* os sont d'efficacité égale aux injectables.
+- Dans ce dispensaire, les seringues sont bouillies tous les matins. En admettant qu'elles le soient pendant vingt minutes dès le début de l'ébullition, il n'en reste pas moins que le risque de transmission de l'hépatite B persiste.
+- Cet homme âgé a un adénome prostatique, cause de troubles urinaires rétentionnels importants. On ne peut le faire opérer, on installe une sonde à demeure. Le risque de surinfection des urines par ce corps étranger est accru, mais il est inévitable afin de soulager le patient.
+- Dans plusieurs numéros (DS n° 107-108) on a attiré l'attention sur les dangers des couveuses (surchauffe, surinfection ...) surtout si la surveillance et l'hygiène ne sont pas attentives et rigoureuses.
+- **Les complications d'un acte opératoire sont multiples et parfois graves.** Citons le choc anesthésique, l'abcès de paroi, la surinfection osseuse avec des germes hospitaliers résistants aux antibiotiques...
+- **Toxicité médicamenteuse:** n'importe quel médicament peut entraîner des effets secondaires, soit allergiques (urticaire, diarrhée, choc), soit toxiques (constipation d'un atropinique, convulsions sous Théophylline, troubles du rythme cardiaque avec des digitaliques ...).
 
 Rappelons les impressionnants mouvements extrapyramidaux avec le métoclopramide (Primpéran (R), Anausin (R) ...), ou le prurit au début d'un traitement par la diéthylcarbamazine (Notézine (R)), mais ici c'est un effet secondaire attendu, accepté et combattu par la prescription d'antihistaminiques.
 
@@ -66,11 +66,11 @@ Rappelons les impressionnants mouvements extrapyramidaux avec le métoclopramide
 
 Il faut constamment garder en tête que dans une même prescription, des médicaments différents peuvent inter réagir entre eux, soit en se neutralisant, soit en s'additionnant, soit en multipliant leur efficacité et simultanément leur toxicité.
 
-*   **Neutralisation :**
+- **Neutralisation :**
 
 Les sels d'aluminium (Maalox (R), Acidrine (R), Phosphalugel (R)... diminuent l'absorption et l'efficacité de nombreux médicaments: chloroquine, digoxine, fer, éthambutol, INH, Bêtabloquants, anti-H2...
 
-*   **Amplification des effets toxiques:**
+- **Amplification des effets toxiques:**
 
 L'association isoniazide et rifampicine est indispensable pour traiter un tuberculeux mais peut être dangereuse. Il faut.
 
@@ -104,7 +104,7 @@ On ne fait jamais suffisamment attention à ce que l'on dit dans une relation so
 
 **1. L'enfant**
 
-La posologie est habituellement indiquée en quantité par kilogramme de poids. Cela expose à des erreurs, soit parce que l'on ne connaît pas bien le poids de l'enfant (apprenez par coeur les approximations poids/âge) (cf. DS n° 108), soit parce que l'on se trompe dans les calculs. Ces jours-ci se déroule un procès pour mort d'enfant par surdose de Quinine dans la perfusion. A cause d'une erreur de calcul de dilution des ampoules dans un flacon, l'enfant a reçu cinq fois plus et en est mort. Soyez sûr que n'importe qui, quelles que soient sa qualité et sa compétence, peut commettre de telles erreurs.  
+La posologie est habituellement indiquée en quantité par kilogramme de poids. Cela expose à des erreurs, soit parce que l'on ne connaît pas bien le poids de l'enfant (apprenez par coeur les approximations poids/âge) (cf. DS n° 108), soit parce que l'on se trompe dans les calculs. Ces jours-ci se déroule un procès pour mort d'enfant par surdose de Quinine dans la perfusion. A cause d'une erreur de calcul de dilution des ampoules dans un flacon, l'enfant a reçu cinq fois plus et en est mort. Soyez sûr que n'importe qui, quelles que soient sa qualité et sa compétence, peut commettre de telles erreurs.
 
 Signalons deux médicaments particulièrement dangereux pour l'enfant, imposant un respect strict des posologies:
 
@@ -138,13 +138,13 @@ Dans cet article, le mot de risque est de ceux qui reviennent le plus souvent. E
 
 **1.** **Insuffisance d'examens cliniques**
 
-*   Ce nourrisson est amené pour fièvre, toux, diarrhée. Il est prescrit: antithermique, sirop antitoux et antidiarrhéiques, sans que l'on ait soulevé sa chemise et recherché une dyspnée et un pli cutané. On passe donc à côté de deux risques majeurs.  
-*   Cet homme jeune se plaint de violentes douleurs abdominales et de vomissements. Il a eu des selles la veille au soir. L'abdomen est souple, dépressible. Il y a une cicatrice d'appendicectomie. Il est prescrit un antispasmodique et un antivomitif par voie injectable. Deux jours plus tard, le patient est opéré en urgence pour occlusion intestinale aiguë par étranglement sur bride post-appendicectomie. Le risque d'occlusion dite " à ventre plat " avait été sous-estimé.
+- Ce nourrisson est amené pour fièvre, toux, diarrhée. Il est prescrit: antithermique, sirop antitoux et antidiarrhéiques, sans que l'on ait soulevé sa chemise et recherché une dyspnée et un pli cutané. On passe donc à côté de deux risques majeurs.
+- Cet homme jeune se plaint de violentes douleurs abdominales et de vomissements. Il a eu des selles la veille au soir. L'abdomen est souple, dépressible. Il y a une cicatrice d'appendicectomie. Il est prescrit un antispasmodique et un antivomitif par voie injectable. Deux jours plus tard, le patient est opéré en urgence pour occlusion intestinale aiguë par étranglement sur bride post-appendicectomie. Le risque d'occlusion dite " à ventre plat " avait été sous-estimé.
 
 **2. Insuffisance d'examens complémentaires**
 
-*   Cet homme tousse depuis un mois. On ne lui fait pas une recherche de BK à l'examen direct de crachats et il continue à contaminer son entourage par les BK.  
-*   Cette femme est fatiguée, dyspnéique et a des oedèmes aux membres inférieurs. On lui prescrit des diurétiques. Il aurait fallu prescrire une numération formule sanguine qui aurait révélé une anémie grave, responsable des symptômes et requérant un autre traitement.
+- Cet homme tousse depuis un mois. On ne lui fait pas une recherche de BK à l'examen direct de crachats et il continue à contaminer son entourage par les BK.
+- Cette femme est fatiguée, dyspnéique et a des oedèmes aux membres inférieurs. On lui prescrit des diurétiques. Il aurait fallu prescrire une numération formule sanguine qui aurait révélé une anémie grave, responsable des symptômes et requérant un autre traitement.
 
 **VI. Prévention de la pathologie iatrogène**
 
@@ -190,12 +190,12 @@ Autre exemple: le lépreux. C'est nécessaire et utile de le prendre en charge, 
 
 1.  Toujours améliorer ses compétences.
 
-2. Toujours vérifier la Pertinence de sa prescription, indications, contre-
+2.  Toujours vérifier la Pertinence de sa prescription, indications, contre-
 
 Indications, posologies, précautions, interactions...
 
-3. Toujours se poser la triple question: Est-ce nécessaire ? Je prescris, pourquoi. Est-ce simplement utile? Le patient ira-t-il mieux ?
+3.  Toujours se poser la triple question: Est-ce nécessaire ? Je prescris, pourquoi. Est-ce simplement utile? Le patient ira-t-il mieux ?
 
 Est-ce faisable? Coût? Acceptabilité?
 
-_Développement et Santé, n°111, juin 1994_
+*Développement et Santé, n°111, juin 1994*

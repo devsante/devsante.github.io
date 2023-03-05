@@ -47,7 +47,6 @@ Nulle
 </tbody>
 
 </table>
-
 <table>
 
 <tbody>
@@ -89,7 +88,6 @@ Nulle
 </tbody>
 
 </table>
-
 <table>
 
 <tbody>
@@ -136,7 +134,7 @@ Nulle
 
 </table>
 
-_**Total sur 15**_
+***Total sur 15***
 
 En dessous de 8/15, le coma est profond et on doit prendre des mesures de réanimation si c'est possible.
 
@@ -179,7 +177,6 @@ Nulle
 </tbody>
 
 </table>
-
 <table>
 
 <tbody>
@@ -221,7 +218,6 @@ Nulle
 </tbody>
 
 </table>
-
 <table>
 
 <tbody>
@@ -266,19 +262,19 @@ Nulle
 
 </table>
 
-**_                                    Total sur 15_**
+**\_                                    Total sur 15\_**
 
 Outre la conscience, la baisse de la perfusion des organes (ou insuffisance circulatoire aigüe) peut également être évaluée par :
 
 **La diurèse** qui doit être au minimum de :
 
-*   1 ml/kg/heure chez le petit enfant de moins de 30 kg,
-*   0.5 ml/kg/heure chez l'adulte et l'enfant de plus de 30 kg.
+- 1 ml/kg/heure chez le petit enfant de moins de 30 kg,
+- 0.5 ml/kg/heure chez l'adulte et l'enfant de plus de 30 kg.
 
 **Le temps de recoloration cutanée**
 
-*   mesuré sous la plante du pied ou au niveau de la paume des mains.  
-*   on appuie sur la peau avec un doigt et on regarde le temps que met la peau à se recolorer.
+- mesuré sous la plante du pied ou au niveau de la paume des mains.
+- on appuie sur la peau avec un doigt et on regarde le temps que met la peau à se recolorer.
 
 Normal < 3 secondes, limite = 3 secondes, allongé et donc pathologique > 3 secondes.
 
@@ -286,15 +282,11 @@ Normal < 3 secondes, limite = 3 secondes, allongé et donc pathologique > 3 seco
 
 Elle est le reflet du travail du cœur pour assurer la perfusion des organes vitaux. Elle est comp­tée au mieux avec un stéthoscope par ausculta­tion cardiaque sur une minute. La prise des pouls périphériques peut être beaucoup plus difficile surtout en situation instable où le pouls peut être difficile à capter (pouls dit "filant"). Une fréquence cardiaque rapide peut être le seul signe d'une difficulté circulatoire avant les signes d'hypo-perfusion des organes puis la chute de la tension artérielle. A l'inverse le coeur lent ou bradycardie accom­pagné d'autre signe de gravité peut être le signe d'un arrêt cardiaque imminent. Chez l'enfant et le nourrisson la fréquence cardiaque est fonction de l'age :
 
-
 ![](image002-17.jpg)
-
 
 La mesure de la fréquence cardiaque est com­plétée par celle de la tension artérielle (cf cha­pitre spécifique). La tension artérielle chez l'enfant est également fonction de l'age.
 
-
 ![](image002.jpg)
-
 
 ## III. La fréquence respiratoire
 
@@ -306,4 +298,4 @@ En cas de pathologie respiratoire (asthme, pneumopathie...) une fréquence respi
 
 Conscience, travail cardiaque et travail respi­ratoire sont ainsi explorés en quelques gestes chez les patients, quel que soit leur âge. L'éva­luation initiale permet rapidement de savoir si le malade est à risque de décompensation vitale immédiate. Ces constantes vont ensuite permettre, lors de la surveillance, de détecter l'aggravation de la pathologie : ainsi un nour­risson atteint d'une infection pulmonaire qui passe de 40 à 70 par minute de fréquence res­piratoire est en train de s'aggraver de façon certaine (même si l'auscultation pulmonaire semble stable voire rassurante). Ces constantes sont donc indispensables à tout examen clinique et à toute surveillance des patients atteints de pathologies sévères.
 
-_Développement et Santé, n°183, 2006_
+*Développement et Santé, n°183, 2006*

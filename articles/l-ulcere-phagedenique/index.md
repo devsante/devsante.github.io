@@ -8,19 +8,19 @@ date: "1984-10-03"
 <p>C'est une infection fréquente en zones tropicales, notamment en climat chaud et humide ; ainsi plusieurs synonymes sont utilisés selon les régions pour désigner cette même affection: <em>ulcus tropicum</em>, <em>tropical</em> <em>sloughing phagedera</em>, <em>Mozambic ulcer</em>, <em>Yemen ulcer</em>, <em>nafa sore</em>.</p>
 <p>Maladie souvent bénigne dont l'évolution peut cependant être émaillée de complications (gangrène, septicémie, cancérisation), l'ulcère phagédénique pose un problème de santé publique dans les régions où il sévit, par sa chronicité parfois désespérante avec les répercussions socio-économiques que cela entraîne.</p></div>
 
-## **I. Facteurs étiologiques**
+## I. Facteurs étiologiques
 
 L'ulcère phagédénique serait une complication liée à la surinfection des plaies par une association de deux germes: bacille fusiforme et spirochète de Vincent, avec possibilité de contamination interhumaine expliquant le caractère endémique de la maladie dans certaines régions. Mais à la phase de chronicité, de nombreux germes opportunistes sont retrouvés au niveau de la plaie.
 
-## **II. De nombreux facteurs favorisants**
+## II. De nombreux facteurs favorisants
 
 le défaut d'hygiène et de protection des membres inférieurs notamment chez les jeunes adultes ruraux, les carences nutritionnelles: carences protidiques, avitaminoses, application locale de topique sur les lésions cutanées, la drépanocytose, sont retrouvés, parmi lesquels la négligence d'un traumatisme ou d'une plaie minime tient une place importante.
 
 Le bacille fusiforme est une bactérie anaérobie présent à l'état naturel dans le tube digestif depuis la bouche jusqu'à l'anus. Il ne détermine de maladie que lorsque certaines conditions lui deviennent favorables :
 
-*   anoxie locale,
-*   diminution ou absence des germes aérobies dont la présence empêche normalement la multiplication des anaérobies,
-*   affaiblissement de la résistance de l'organisme.
+- anoxie locale,
+- diminution ou absence des germes aérobies dont la présence empêche normalement la multiplication des anaérobies,
+- affaiblissement de la résistance de l'organisme.
 
 Il est sensible à la Pénicilline, au métronidazole et au chloramphénicol.
 
@@ -28,11 +28,9 @@ Le spirochète de Vincent est un micro-organisme spiralé, mobile. Il est sensib
 
 Les deux germes associés sont responsables de l'angine de Vincent, affection actuellement rare.
 
-
 ![](i144-1.jpg)
 
-
-## **III. Description clinique**
+## III. Description clinique
 
 ### 1. Signes et évolution
 
@@ -48,55 +46,55 @@ S'il n'y a pas de cicatrisation, l'ulcère devient chronique avec des bords hype
 
 De nombreuses complications sont possibles :
 
-*   nouvelles poussées de phagédénisme avec extension au tendon, ce qui peut entraîner un équinisme (hyperextension du pied sur la jambe),
-*   phlegmon,
-*   lymphangite,
-*   dénutrition (pertes protidiques au niveau de la plaie aggravant un état nutritionnel déjà précaire),
-*   septicémies,
-*   gangrène,
-*   tétanos,
-*   atteintes osseuses : ostéite, ostéomyélite, fractures pathologiques justifiant une radiographie du membre atteint lorsque cela est possible,
-*   cancérisation : apanage des ulcères anciens évoluant depuis plus de cinq ans (dix à quinze ans), elle est soupçonnée sur les modifications d'aspect de la plaie qui présente des bourgeons exubérants, friables, saignant facilement au contact ou spontanément. La douleur devient permanente, lancinante a prédominance nocturne. Il existe des métastases ganglionnaires (adénopathies inguinales), parfois viscérales (foie, poumons) et l'atteinte osseuse locale peut dans les formes avancées aboutir à des amputations spontanées.
+- nouvelles poussées de phagédénisme avec extension au tendon, ce qui peut entraîner un équinisme (hyperextension du pied sur la jambe),
+- phlegmon,
+- lymphangite,
+- dénutrition (pertes protidiques au niveau de la plaie aggravant un état nutritionnel déjà précaire),
+- septicémies,
+- gangrène,
+- tétanos,
+- atteintes osseuses : ostéite, ostéomyélite, fractures pathologiques justifiant une radiographie du membre atteint lorsque cela est possible,
+- cancérisation : apanage des ulcères anciens évoluant depuis plus de cinq ans (dix à quinze ans), elle est soupçonnée sur les modifications d'aspect de la plaie qui présente des bourgeons exubérants, friables, saignant facilement au contact ou spontanément. La douleur devient permanente, lancinante a prédominance nocturne. Il existe des métastases ganglionnaires (adénopathies inguinales), parfois viscérales (foie, poumons) et l'atteinte osseuse locale peut dans les formes avancées aboutir à des amputations spontanées.
 
 ### 3. Diagnostic différentiel
 
 L'ulcère phagédénique est différent :
 
-*   des ulcères de jambe compliquant la draconculose: il existe ici une notion de sortie de ver,
-*   des pyodermites diverses à germes banaux : l'évolution est aiguë avec de multiples localisations,
-*   des ulcères syphilitiques et du pian : localisations multiples et notion de contage familial et d'endémicité,
-*   de l'ulcère variqueux chez les sujets porteurs de varices,
-*   de l'ulcère de jambe des drépanocytaires homozygotes qui est souvent bilatéral et de siège juxtamalléolaire.
+- des ulcères de jambe compliquant la draconculose: il existe ici une notion de sortie de ver,
+- des pyodermites diverses à germes banaux : l'évolution est aiguë avec de multiples localisations,
+- des ulcères syphilitiques et du pian : localisations multiples et notion de contage familial et d'endémicité,
+- de l'ulcère variqueux chez les sujets porteurs de varices,
+- de l'ulcère de jambe des drépanocytaires homozygotes qui est souvent bilatéral et de siège juxtamalléolaire.
 
-## **IV. Traitement**
+## IV. Traitement
 
 Il est fondamental d'assurer la prévention du tétanos, l'ulcère constituant une porte ouverte favorable au bacille de Nicolaïer :
 
-*   sérum antitétanique,
-*   vaccination antitétanique.
+- sérum antitétanique,
+- vaccination antitétanique.
 
 Des mesures générales sont également utiles :
 
-*   antibiotiques par voie générale pour lutter contre l'infection : pénicilline G le plus souvent,
-*   amélioration de l'état nutritionnel,
-*   polyvitamines cicatrisation:
-*   Repos au lit avec membre surélevé:
-    *   insolation : exposition au soleil de la plaie quelques heures par jour,
-    *   pansement : biogaze, tulle gras, poudre Madécassol une fois la plaie devenue propre.
+- antibiotiques par voie générale pour lutter contre l'infection : pénicilline G le plus souvent,
+- amélioration de l'état nutritionnel,
+- polyvitamines cicatrisation:
+- Repos au lit avec membre surélevé:
+  - insolation : exposition au soleil de la plaie quelques heures par jour,
+  - pansement : biogaze, tulle gras, poudre Madécassol une fois la plaie devenue propre.
 
 Ce traitement bien appliqué à la phase aiguë peut conduire à la guérison. Mais au stade d'ulcère chronique ou compliqué, le traitement en milieu chirurgical est souvent nécessaire :
 
-*   greffe cutanée,
-*   résection monobloc,
-*   amputation.
+- greffe cutanée,
+- résection monobloc,
+- amputation.
 
 Le traitement en milieu chirurgical nécessite une longue hospitalisation d'où l'intérêt de la prévention de l'ulcère phagédénique par :
 
-*   le traitement correct de toutes les blessures siégeant notamment aux membres inférieurs
-*   l'éducation sanitaire,
-*   le port de chaussures et de vêtements protégeant les membres inférieurs,
-*   l'isolement si possible des sujets porteurs d'ulcère phagédénique,
-*   éviter l'application sur les plaies de topique souvent corrosif.
+- le traitement correct de toutes les blessures siégeant notamment aux membres inférieurs
+- l'éducation sanitaire,
+- le port de chaussures et de vêtements protégeant les membres inférieurs,
+- l'isolement si possible des sujets porteurs d'ulcère phagédénique,
+- éviter l'application sur les plaies de topique souvent corrosif.
 
 L'ulcère phagédénique, bien que bénin, est une maladie chronique invalidante. Il se développe à partir d'une lésion cutanée minime négligée.
 
@@ -106,4 +104,4 @@ Vaccination antitétanique.
 
 Adresser les cas résistants ou compliqués à un centre chirurgical.
 
-_Développement et Santé, n°53, octobre 1984_
+*Développement et Santé, n°53, octobre 1984*

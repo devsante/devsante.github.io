@@ -48,7 +48,7 @@ Le rôle de l’infirmière est à la fois promotionnel, préventif et curatif, 
 
 </table>
 
-### **Cible 2 : l'hydratation**
+### Cible 2 : l'hydratation
 
 <table>
 
@@ -82,7 +82,7 @@ Le rôle de l’infirmière est à la fois promotionnel, préventif et curatif, 
 
 </table>
 
-### **Cible 3 : la nutrition**
+### Cible 3 : la nutrition
 
 <table>
 
@@ -133,8 +133,9 @@ Conseiller une alimentation riche en fruits et légumes et en fibres, pauvre en 
 
 </table>
 
-### **Cible 4 : l'élimination  
-Les selles**
+### Cible 4 : l'élimination
+
+Les selles\*\*
 
 <table>
 
@@ -168,7 +169,7 @@ Les selles**
 
 </table>
 
-### **Les urines**
+### Les urines
 
 <table>
 
@@ -254,7 +255,7 @@ Léthargie, céphalées, confusion, incohérence
 
 </table>
 
-### **Cible 5 : les biorythmes**
+### Cible 5 : les biorythmes
 
 <table>
 
@@ -294,7 +295,7 @@ Satisfaire une activité régulière pour promouvoir le repos et la relaxation; 
 
 </table>
 
-### **Cible 6 : la douleur**
+### Cible 6 : la douleur
 
 <table>
 
@@ -327,25 +328,25 @@ L'infirmière reste à l’écoute de l’esprit et du corps du souffrant. En d�
 <em>L’évaluation de la douleur</em>  
 Les objectifs de soins doivent:
 
-1) mesurer l’intensité de la douleur,  
-2) évaluer son retentissement émotionnel,  
-3) apporter un soutien psychologique à la personne  et éventuellement à son entourage,  
-4) administrer et surveiller les médicaments contre la douleur,  
-5) mesurer la satisfaction de la personne âgée vis-à-vis des traitements
+1)  mesurer l’intensité de la douleur,
+2)  évaluer son retentissement émotionnel,
+3)  apporter un soutien psychologique à la personne  et éventuellement à son entourage,
+4)  administrer et surveiller les médicaments contre la douleur,
+5)  mesurer la satisfaction de la personne âgée vis-à-vis des traitements
 
 Instruments de mesure: il en existe plusieurs tels que: EVA (Echelle Visuelle Analogique), EN (Echelle Numérique), EVS (Echelle Visuelle Simple).
 
 <em>Le soulagement de la douleur</em>
 
-1) administration des antalgiques,  
-2) changement de positon,  
-3) massages,  
-4) aides techniques,  
-5) soutien psychologique afin de ne pas porter à son paroxysme une douleur liée à l’anxiété, à la peur, au manque d’information ou de connaissance, ou liée tout simplement à un sentiment d’impuissance,  
-6) être disposée à écouter les plaintes de la personne malade, et  
-7) lui assurer une présence rassurante,  
-8) vessies de glace,  
-9) usage du chaud et du froid,  
+1)  administration des antalgiques,
+2)  changement de positon,
+3)  massages,
+4)  aides techniques,
+5)  soutien psychologique afin de ne pas porter à son paroxysme une douleur liée à l’anxiété, à la peur, au manque d’information ou de connaissance, ou liée tout simplement à un sentiment d’impuissance,
+6)  être disposée à écouter les plaintes de la personne malade, et
+7)  lui assurer une présence rassurante,
+8)  vessies de glace,
+9)  usage du chaud et du froid,
 10) augmentation de la consommation d’eau.
 
 Autres mesures de lutte: respirer lentement, fixer un point et masser, chanter et battre la mesure, écouter attentivement la musique, dessiner une série d’images, s’établir un horaire (Pitre 1995), associer un kinésithérapeute, recourir à la réflexologie.
@@ -358,7 +359,7 @@ Autres mesures de lutte: respirer lentement, fixer un point et masser, chanter e
 
 </table>
 
-### **Cible 7 : la santé mentale**
+### Cible 7 : la santé mentale
 
 <table>
 
@@ -404,7 +405,7 @@ Restaurer les relation sociales; développer des techniques de communication ver
 
 </table>
 
-### **Cible 8 : les polypathologies/associations de plusieurs traitements**
+### Cible 8 : les polypathologies/associations de plusieurs traitements
 
 <table>
 
@@ -450,7 +451,7 @@ Identifier les médicaments inutiles, les traitements dupliqués, les interactio
 
 </table>
 
-### **Cible 9 : la vue**
+### Cible 9 : la vue
 
 <table>
 
@@ -484,7 +485,7 @@ Identifier les médicaments inutiles, les traitements dupliqués, les interactio
 
 </table>
 
-### **Cible 10 : l'ouÏe**
+### Cible 10 : l'ouÏe
 
 <table>
 
@@ -532,7 +533,7 @@ Référence en oto-rhino-laryngologie.</td>
 
 </table>
 
-### **Cible 11 : le toucher**
+### Cible 11 : le toucher
 
 <table>
 
@@ -566,7 +567,7 @@ Référence en oto-rhino-laryngologie.</td>
 
 </table>
 
-### **Cible 12 : l'odorat et le goût**
+### Cible 12 : l'odorat et le goût
 
 <table>
 
@@ -610,24 +611,24 @@ Attention au rôle des pathologies et de certains médicaments sur la perte du g
 
  «Ce n’est pas tout pour une grande nation que d’avoir ajouté de nouvelles années de vie; notre objectif doit être d’ajouter une nouvelle vie à ces années » (JFK, 1977). La prise en soin de la personne âgée doit être orientée non seulement vers la quantité, mais vers la qualité de vie. Elle relève de l’interdisciplinarité: médecins, infirmières, physiothérapeute/kinésithérapeutes, nutritionnistes, psychologues et sociologues. Les problèmes de santé de la personne âgée sont essentiellement liés aux manifestations du vieillissement physiologique auxquels viennent se greffer  des facteurs de risques (maladies chroniques, situations socioéconomiques, comportements à risques qui entraînent des conséquences fonctionnelles négatives. De manière spécifique pour l’infirmière, il s’agit de travailler à renverser la situation. Cela consiste à éduquer à la santé et à ne pas faire à la place de la personne et de sa famille. L'infirmière aura donc  à encourager, à valoriser de manière à augmenter ou à maintenir la fonctionnalité de la personne âgée en mettant un point d’honneur à la qualité de son écoute compatissante, et à l’effectivité de sa présence.
 
-**_Référence bibliographiques_**
+***Référence bibliographiques***
 
-1.  Eliopoulos C. (2001), Gerontological nursing. Third edition. Lippincott Company. Philadelphia.  
-2.  Gelabert R.C. (2008), Dépression: traitement scientifiques et naturels. 3ème édition Vidasana. Espagne.  
-3.  Gelabert R.C. (2008), Stress et anxiété. 3ème édition. Vidasana. Espagne.  
-4.  Hanson S.M.H. (2001), Family health care nursing. 2nd edition.  Hanson, Philadelphia.  
-5.  Honga F. (2013), Maltraitance, pourquoi les personnes âgées sont-elles considérées comme sorcières? Cameroun info-net.com, 04 février 2014.  
-6.  Kozier & Erb, (2005), Soins infirmiers, théorie et pratique. Erpi. Québec. P 528. Ministère de la santé Publique du Cameroun (2010). Plan stratégique 2010-2015. Imprimerie Nationale, Yaoundé.  
-7.  Monekosso G.L. (2010) « Soin à la personne âgée, quel passé, quel présent, quel avenir ?» Palais des Congrès, Yaoundé. Intervention comme président d’honneur.  
-8.  Morin D. (2010) «Le soin à la personne âgée, quel passé, quel présent, quel avenir?».Allocution lors au colloque international sur le vieillissement. Palais des Congrès, Yaoundé.  
-9.  Organisation Mondiale de la Santé (2002). Vieillir en restant actif-cadre d’orientation, Deuxième assemblée mondiale des Nations Unies sur le vieillissement. Madrid, Espagne.  
-10.  Organisation Mondiale de la Santé (2010). Personnes âgées, une nouvelle force pour le développement. Bulletin OMS 2010, journée mondiale de la personne âgée.  
-11.  Organisation Mondiale de la Santé (2012), Vieillissement et qualité de vie. Journée mondiale de la santé. Bulletin de l’OMS, Avril 2012.  
-12.  Organisation Mondiale de la Santé (2012), aide-mémoire n° 381.  
-13.  Pauchet–Traversat A.F. (2006), Soins infirmiers, fiches techniques soins de base centrés sur la personne soignée. 5ème édition. Maloine. Paris P 630-631. 740-741.  
-14.  Pitre A. (1995) maladies chroniques, aider la personne âgée à soulager leur douleur. l’infirmière du Québec, avril 2/4 p 22-23.  
-15.  Stanley M., Bear P.G. (1995), Gerontological nursing. Davis Company, Philadelphia. P 522-528.  
-16.  Tapitch B.J., Lyer P., Berrochi-Losey D. (1983) Nursing diagnosis and care planning. Saunders. Philadelphia. Pp 58-60.  
-17.  Takanostone J., Cheritz W. C. (1191), Clinical gerontological nursing, a guide to advanced practice. Saunders. Philadelphia.  
-18.  www.health24.com/dietnfood_as_medecine 30 décembre 2013.  
-19.  [www.americanheart.org.presenter.jhtml?identifier=4716](http://www.americanheart.org.presenter.jhtml?identifier=4716 "www.americanheart.org.presenter.jhtml?identifier=4716"). 30 décembre 2013
+1.  Eliopoulos C. (2001), Gerontological nursing. Third edition. Lippincott Company. Philadelphia.
+2.  Gelabert R.C. (2008), Dépression: traitement scientifiques et naturels. 3ème édition Vidasana. Espagne.
+3.  Gelabert R.C. (2008), Stress et anxiété. 3ème édition. Vidasana. Espagne.
+4.  Hanson S.M.H. (2001), Family health care nursing. 2nd edition.  Hanson, Philadelphia.
+5.  Honga F. (2013), Maltraitance, pourquoi les personnes âgées sont-elles considérées comme sorcières? Cameroun info-net.com, 04 février 2014.
+6.  Kozier & Erb, (2005), Soins infirmiers, théorie et pratique. Erpi. Québec. P 528. Ministère de la santé Publique du Cameroun (2010). Plan stratégique 2010-2015. Imprimerie Nationale, Yaoundé.
+7.  Monekosso G.L. (2010) « Soin à la personne âgée, quel passé, quel présent, quel avenir ?» Palais des Congrès, Yaoundé. Intervention comme président d’honneur.
+8.  Morin D. (2010) «Le soin à la personne âgée, quel passé, quel présent, quel avenir?».Allocution lors au colloque international sur le vieillissement. Palais des Congrès, Yaoundé.
+9.  Organisation Mondiale de la Santé (2002). Vieillir en restant actif-cadre d’orientation, Deuxième assemblée mondiale des Nations Unies sur le vieillissement. Madrid, Espagne.
+10. Organisation Mondiale de la Santé (2010). Personnes âgées, une nouvelle force pour le développement. Bulletin OMS 2010, journée mondiale de la personne âgée.
+11. Organisation Mondiale de la Santé (2012), Vieillissement et qualité de vie. Journée mondiale de la santé. Bulletin de l’OMS, Avril 2012.
+12. Organisation Mondiale de la Santé (2012), aide-mémoire n° 381.
+13. Pauchet–Traversat A.F. (2006), Soins infirmiers, fiches techniques soins de base centrés sur la personne soignée. 5ème édition. Maloine. Paris P 630-631. 740-741.
+14. Pitre A. (1995) maladies chroniques, aider la personne âgée à soulager leur douleur. l’infirmière du Québec, avril 2/4 p 22-23.
+15. Stanley M., Bear P.G. (1995), Gerontological nursing. Davis Company, Philadelphia. P 522-528.
+16. Tapitch B.J., Lyer P., Berrochi-Losey D. (1983) Nursing diagnosis and care planning. Saunders. Philadelphia. Pp 58-60.
+17. Takanostone J., Cheritz W. C. (1191), Clinical gerontological nursing, a guide to advanced practice. Saunders. Philadelphia.
+18. [www.health24.com/dietnfood_as_medecine](http://www.health24.com/dietnfood_as_medecine) 30 décembre 2013.
+19. [[www.americanheart.org.presenter.jhtml?identifier=4716](http://www.americanheart.org.presenter.jhtml?identifier=4716)](http://www.americanheart.org.presenter.jhtml?identifier=4716 "www.americanheart.org.presenter.jhtml?identifier=4716"). 30 décembre 2013

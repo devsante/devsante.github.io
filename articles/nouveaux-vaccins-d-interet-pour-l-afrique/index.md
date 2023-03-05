@@ -26,14 +26,14 @@ Conçu dans un premier temps, le Pneumo 23 est un vaccin polyosidique non conjug
 Ce vaccin n'induit pas de protection chez l'enfant de moins de 2 ans en raison de l'immaturité immunologique à cet âge.
 
 **Recommandations**  
-Le Pneumo 23 est recommandé chez les sujets de plus de 2 ans appartenant au groupe à risque d'infection grave à pneumocoque - drépanocytose, infection à VIH (_voir tableau_) - avec revaccination tous les 3 à 5 ans.  
+Le Pneumo 23 est recommandé chez les sujets de plus de 2 ans appartenant au groupe à risque d'infection grave à pneumocoque - drépanocytose, infection à VIH (*voir tableau*) - avec revaccination tous les 3 à 5 ans.  
 L'administration se fait en une seule injection sous¬cutanée ou intramusculaire.
 
 **Contre-indications**
 
-*   Hypersensibilité connue à l'un des composants du vaccin.  
-*   Vaccination par le Pneumo 23 datant de moins de 3 ans.  
-*   Un état fébrile > 38,5° C doit faire différer la vaccination.
+- Hypersensibilité connue à l'un des composants du vaccin.
+- Vaccination par le Pneumo 23 datant de moins de 3 ans.
+- Un état fébrile > 38,5° C doit faire différer la vaccination.
 
 **Les effets indésirables** rapportés sont de légères réactions locales (douleur, érythème, oedème), une fièvre parfois importante chez l'adulte.  
 **Conservation** entre + 2° C et + 8° C, le vaccin ne doit pas être congelé.
@@ -43,7 +43,7 @@ Le vaccin n'induit pas d'immunité muqueuse, le portage rhinopharyngé n'est pas
 
 #### 2. PREVENAR<sup>®</sup>
 
-Le PREVENAR<sup>®</sup> est un vaccin antipneumococcique conjugué à une protéine diphtérique, comprenant actuellement les 7 sérotypes de _Streptôcoccus pneumoniae_ responsables des pneumococcies graves, les plus fréquentes chez les enfants âgés de 2 mois à 5 ans (sérotypes 4, 6B, 9V, 14, 19F, 23F). Il ne contient pas, pour l'instant, le sérotype 1, souvent responsable d'infections sévères en Afrique. Il est immunogène dès le deuxième mois de vie. Un nouveau vaccin à 13 valences comportant en particulier les sérotypes 1 et 19 A (qui est de plus en plus souvent responsable d'infections graves) va être disponible. Ce nouveau vaccin sera davantage adapté à l'Afrique.
+Le PREVENAR<sup>®</sup> est un vaccin antipneumococcique conjugué à une protéine diphtérique, comprenant actuellement les 7 sérotypes de *Streptôcoccus pneumoniae* responsables des pneumococcies graves, les plus fréquentes chez les enfants âgés de 2 mois à 5 ans (sérotypes 4, 6B, 9V, 14, 19F, 23F). Il ne contient pas, pour l'instant, le sérotype 1, souvent responsable d'infections sévères en Afrique. Il est immunogène dès le deuxième mois de vie. Un nouveau vaccin à 13 valences comportant en particulier les sérotypes 1 et 19 A (qui est de plus en plus souvent responsable d'infections graves) va être disponible. Ce nouveau vaccin sera davantage adapté à l'Afrique.
 
 **Administration**
 
@@ -51,11 +51,11 @@ Il doit être injecté par voie intramusculaire.
 
 **Schéma vaccinal**
 
-*   Chez le nourrisson à partir de 6 semaines : 2 doses injectées à 2 mois d'intervalle, le plus souvent à 2 et 4 mois en même temps que la première et la troisième injection du DTCP.Une troisième injection de rappel est recommandée à l'âge de 12 mois.  
-*   Chez l'enfant âgé de 12 à 24 mois non vacciné : une dose unique de rattrapage peut être injectée.  
-*   Le prématuré reçoit 3 doses à 1 mois d'intervalle, et un rappel à 12 mois.  
-*   Les nourrissons à haut risque d'infection pneumococcique grave reçoivent 3 doses à 1 mois d'intervalle et un rappel à 12 mois, puis le Pneumo 23 à partir de 2 ans tous les 3 à 5 ans.  
-*   Les enfants de 2 à 5 ans à haut risque d'infection pneumococcique grave et qui n'ont pas été vaccinés peuvent recevoir 2 injections à 2 mois d'intervalle, puis être vaccinés 2 mois plus tard par le Pneumo 23, puis Pneumo 23 tous les 3 à 5 ans.
+- Chez le nourrisson à partir de 6 semaines : 2 doses injectées à 2 mois d'intervalle, le plus souvent à 2 et 4 mois en même temps que la première et la troisième injection du DTCP.Une troisième injection de rappel est recommandée à l'âge de 12 mois.
+- Chez l'enfant âgé de 12 à 24 mois non vacciné : une dose unique de rattrapage peut être injectée.
+- Le prématuré reçoit 3 doses à 1 mois d'intervalle, et un rappel à 12 mois.
+- Les nourrissons à haut risque d'infection pneumococcique grave reçoivent 3 doses à 1 mois d'intervalle et un rappel à 12 mois, puis le Pneumo 23 à partir de 2 ans tous les 3 à 5 ans.
+- Les enfants de 2 à 5 ans à haut risque d'infection pneumococcique grave et qui n'ont pas été vaccinés peuvent recevoir 2 injections à 2 mois d'intervalle, puis être vaccinés 2 mois plus tard par le Pneumo 23, puis Pneumo 23 tous les 3 à 5 ans.
 
 **Effets indésirables**  
 Le vaccin est bien toléré. On observe de fréquentes réactions au point d'injection (érythème, douleur ou oedème), des troubles gastro-intestinaux (vomissements, diarrhée, perte d'appétit), exceptionnellement des convulsions.
@@ -148,7 +148,7 @@ PNEUMO 23 : 2 mois plus tard puis tous les 3 à 5 ans</td>
 
 </table>
 
-<table>
+\$1<table>
 
 <thead>
 
@@ -187,17 +187,16 @@ La transmission se fait par voie oro-fécale de personne à personne, ou indirec
 Un premier vaccin, commercialisé en 1998 aux USA, avait été retiré au bout d'un an en raison de la survenue d'invaginations intestinales chez certains enfants vaccinés.  
 Les vaccins actuellement disponibles ont prouvé leur innocuité et leur efficacité. Deux vaccins sont commercialisés. Ce sont des vaccins oraux buvables qui ne doivent jamais être injectés.
 
-#### Vaccin oral vivant monovalent (souche RIX4414 vivante atténuée).
+#### Vaccin oral vivant monovalent (souche RIX4414 vivante atténuée)
 
 Il se conserve entre + 2° C et + 8° C à l'abri de la lumière et ne doit pas être congelé.
 
-*   C'est un vaccin lyophilisé, qui se reconstitue et est administré par voie orale.  
-*   La vaccination se fait en deux prises. Les dates d'administration du vaccin ont été fixées pour éviter tout risque d'invagination, celle-ci épargnant généralement les nourrissons de moins de 12 semaines.  
-    Ainsi, la première dose doit être administrée à partir de l'âge de 6 semaines, mais pas après 12 semaines.  
-    La deuxième dose est administrée après un intervalle d'au moins 4 semaines, au plus tard à l'âge de 24 semaines.
+- C'est un vaccin lyophilisé, qui se reconstitue et est administré par voie orale.
+- La vaccination se fait en deux prises. Les dates d'administration du vaccin ont été fixées pour éviter tout risque d'invagination, celle-ci épargnant généralement les nourrissons de moins de 12 semaines.  
+  Ainsi, la première dose doit être administrée à partir de l'âge de 6 semaines, mais pas après 12 semaines.  
+  La deuxième dose est administrée après un intervalle d'au moins 4 semaines, au plus tard à l'âge de 24 semaines.
 
-####   
-Vaccin oral vivant polyvalent à 5 valences (sérotypes de rotavirus humain-bovin G1, G2, G3, G4, P1(8)).
+#### Vaccin oral vivant polyvalent à 5 valences (sérotypes de rotavirus humain-bovin G1, G2, G3, G4, P1(8))
 
 Il se conserve entre + 2° C et + 8° C, et l'administration se fait par voie orale, selon un schéma de 3 doses. La première dose est donnée à partir de 6 semaines sans dépasser l'âge de 12 semaines, puis à intervalles de 4 à 10 semaines.  
 La vaccination doit être terminée au plus tard à l'âge de 26 semaines.
@@ -209,11 +208,11 @@ Les risques d'invagination intestinale à la suite de ces vaccins ne sont pas au
 
 **Contre-indications**
 
-*   Hypersensibilité à l'un des composants des vaccins.  
-*   Antécédents d'invagination intestinale.  
-*   Malformation congénitale non opérée de l'appareil gastro-intestinal pouvant prédisposer à une invagination intestinale.  
-*   Déficit immunitaire connu ou suspecté. Le vaccin reste non recommandé chez les nourrissons ayant une infection à VIH asymptomatique.  
-*   La vaccination doit être différée en cas de maladie fébrile sévère, de diarrhée ou de vomissements.
+- Hypersensibilité à l'un des composants des vaccins.
+- Antécédents d'invagination intestinale.
+- Malformation congénitale non opérée de l'appareil gastro-intestinal pouvant prédisposer à une invagination intestinale.
+- Déficit immunitaire connu ou suspecté. Le vaccin reste non recommandé chez les nourrissons ayant une infection à VIH asymptomatique.
+- La vaccination doit être différée en cas de maladie fébrile sévère, de diarrhée ou de vomissements.
 
 **Efficacité**  
 La protection contre les rotaviroses graves se prolon¬ge pendant les deux années suivant la vaccination. Bien entendu, ces vaccins ne protègent pas contre les diarrhées provoquées par les agents pathogènes autres que le rotavirus, les mesures préventives d'hygiène et la lutte contre la déshydratation avec les SRO restent primordiales.
@@ -301,13 +300,13 @@ La primo-infection est inapparente. La guérison survient dans 80 % des cas apr�
 Ces lésions évoluent vers un cancer du col de l'utérus, le délai entre l'infection initiale et l'apparition du cancer étant de 20 ans en moyenne.  
 Le dépistage des lésions du col utérin repose sur le frottis cervical.
 
-### 2. Le vaccin anti HPV (_voir tableau_)
+### 2. Le vaccin anti HPV (*voir tableau*)
 
 Les vaccins sont préparés à partir de protéines virales et ne contiennent pas de produits vivants. Ils induisent une production d'anticorps neutralisants qui protègent contre l'infection mais n'ont pas d'effet thérapeutique sur des infections à HPV préexistantes.  
 Deux vaccins sont commercialisés :
 
-*   **Le vaccin quadrivalent** contient des pseudoparticules virales de types 6, 11, 16 et 18. Il permet de prévenir les lésions précancéreuses et les cancers du col de l'utérus, ainsi que les condylomes ano-génitaux dus aux virus HPV contenus dans le vaccin.  
-*   **Le vaccin bivalent** contient des pseudo-particules virales de types 16 et 18.
+- **Le vaccin quadrivalent** contient des pseudoparticules virales de types 6, 11, 16 et 18. Il permet de prévenir les lésions précancéreuses et les cancers du col de l'utérus, ainsi que les condylomes ano-génitaux dus aux virus HPV contenus dans le vaccin.
+- **Le vaccin bivalent** contient des pseudo-particules virales de types 16 et 18.
 
 Il prévient les lésions précancéreuses et les cancers du col de l'utérus dus aux virus contenus dans le vaccin.  
 La vaccination est destinée à la jeune fille avant le début de l'activité sexuelle, c'est-à-dire avant l'exposition à l'infection par l'HPV.  

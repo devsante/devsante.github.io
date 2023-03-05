@@ -227,7 +227,7 @@ Total Afrique Centrale
 
 4,8
 
--
+\-
 
 5,5
 

@@ -12,9 +12,9 @@ La maladie tue par ses complications : pneumonie, diarrhée, malnutrition, elle 
 
 ## I. De quelles armes disposons-nous ?
 
-*   La vaccination.  
-*   La prévention de la dénutrition, car la plupart des évolutions mortelles surviennent chez l'enfant carencé en protéines.  
-*   Les antibiotiques, qui n'agissent que sur les surinfections bactériennes secondaires.
+- La vaccination.
+- La prévention de la dénutrition, car la plupart des évolutions mortelles surviennent chez l'enfant carencé en protéines.
+- Les antibiotiques, qui n'agissent que sur les surinfections bactériennes secondaires.
 
 **Aucun médicament ne détruit le virus** **de la rougeole**
 
@@ -26,9 +26,9 @@ Avec une couverture vaccinale de 80 %, les progrès ont été spectaculaires. Ma
 
 ## III. Quelques points fondamentaux
 
-*   Le virus de la rougeole n'est présent que chez l'homme et se transmet par la salive.  
-*   Bien que facilement détruit par la chaleur, il est extrêmement contagieux.  
-*   Il entraîne l'apparition d'anticorps qui vont protéger le sujet toute sa vie.
+- Le virus de la rougeole n'est présent que chez l'homme et se transmet par la salive.
+- Bien que facilement détruit par la chaleur, il est extrêmement contagieux.
+- Il entraîne l'apparition d'anticorps qui vont protéger le sujet toute sa vie.
 
 ## IV. Manifestations cliniques
 
@@ -36,9 +36,9 @@ Avec une couverture vaccinale de 80 %, les progrès ont été spectaculaires. Ma
 
 Après une incubation de 10 à 12 jours, la fièvre apparaît progressivement accompagnée de :
 
-*   rhinite,
-*   conjonctivite,
-*   toux.
+- rhinite,
+- conjonctivite,
+- toux.
 
 Survient le signe de Köplick : petits points blancs sur la muqueuse buccale en regard des molaires (mais pouvant toucher toute la bouche). Ce signe inconstant permet d'affirmer le diagnostic avant l'éruption.
 
@@ -54,8 +54,8 @@ L'éruption s'efface à partir du 5e jour et la peau prend un aspect tigré, pui
 
 Schématiquement, elles peuvent être liées :
 
-*   au virus lui-même,
-*   aux surinfections bactériennes.
+- au virus lui-même,
+- aux surinfections bactériennes.
 
 ### 1. Complications liées au virus
 
@@ -65,10 +65,10 @@ Chez le jeune enfant malnutri, il faut craindre la pneumonie interstitielle avec
 
 Le virus peut atteindre également le système nerveux :
 
-*   convulsions,
-*   troubles de la conscience,
-*   déficit moteur,
-*   encéphalite
+- convulsions,
+- troubles de la conscience,
+- déficit moteur,
+- encéphalite
 
 Dans certaines épidémies africaines, les complications neurologiques peuvent toucher 20 % des enfants.
 
@@ -84,9 +84,9 @@ Ces complications s'accompagnent d'une reprise de la fièvre, de signes locaux, 
 
 Trois germes sont responsables :
 
-*   le pneumocoque,
-*   l'_haemophilus_,
-*   le streptocoque.
+- le pneumocoque,
+- l'*haemophilus*,
+- le streptocoque.
 
 Les laryngites tardives (après le 5e jour) sont toujours dues au staphylocoque le traitement antibiotique est ici une urgence.
 
@@ -104,12 +104,12 @@ Elles sont fréquentes et représentent un tiers des cécités. Il s'agit de con
 
 Il faut :
 
-*   nourrir et hydrater (au besoin par sonde nasogastrique) ;
-*   lutter contre la fièvre (paracétamol)
-*   désinfecter le nez ;
-*   appliquer un collyre antibiotique deux fois par jour ;
-*   poursuivre le traitement anti-paludéen qui doit être entrepris systématiquement dès l'apparition de la fièvre ;
-*   donner de la vitamine A : 400 000 Ul par voie intramusculaire (pour renforcer les défenses immunitaires).
+- nourrir et hydrater (au besoin par sonde nasogastrique) ;
+- lutter contre la fièvre (paracétamol)
+- désinfecter le nez ;
+- appliquer un collyre antibiotique deux fois par jour ;
+- poursuivre le traitement anti-paludéen qui doit être entrepris systématiquement dès l'apparition de la fièvre ;
+- donner de la vitamine A : 400 000 Ul par voie intramusculaire (pour renforcer les défenses immunitaires).
 
 <table>
 
@@ -135,19 +135,15 @@ Il faut :
 
 </table>
 
-
 ![](i895-2.jpg)
-
 
 ### 2. Formes compliquées
 
 Dès la moindre suspicion de surinfection bactérienne, une antibiothérapie doit être débutée :
 
-*   _per os_ : cotrimoxazole ou amoxicilline-acide clavulanique ;
-*   parentérale si troubles digestifs.
-
+- *per os* : cotrimoxazole ou amoxicilline-acide clavulanique ;
+- parentérale si troubles digestifs.
 
 ![](i895-3.jpg)
 
-
-_Développement et Santé, n°149, octobre 2000_
+*Développement et Santé, n°149, octobre 2000*

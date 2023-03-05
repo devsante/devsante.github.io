@@ -23,21 +23,21 @@ Il passe par deux grandes phases, une phase aquatique d'une dizaine de jours (oe
 
 Les lieux de ponte de l'anophèle (ou gîtes larvaires) :
 
-*   Les oeufs sont pondus à la surface de l'eau et mesurent 0.5 mm de long. Les larves s'y développent ensuite et peuvent grandir jusqu'à 2 mm.  
-*   L'eau doit être relativement propre (faible­ment polluée et plus ou moins boueuse ou vaseuse selon les espèces) ; elle doit être quasi-stagnante et subsister au moins une quinzaine de jours. Selon les espèces, les gîtes sont ensoleillés ou ombragés.
+- Les oeufs sont pondus à la surface de l'eau et mesurent 0.5 mm de long. Les larves s'y développent ensuite et peuvent grandir jusqu'à 2 mm.
+- L'eau doit être relativement propre (faible­ment polluée et plus ou moins boueuse ou vaseuse selon les espèces) ; elle doit être quasi-stagnante et subsister au moins une quinzaine de jours. Selon les espèces, les gîtes sont ensoleillés ou ombragés.
 
 ## II. Le comportement du vecteur
 
 ### 1. Le vol de l'anophèle
 
-*   Son vol est silencieux.  
-*   Dans une zone où les hôtes à piquer sont nombreux, l'anophèle ne parcourt pas plus de quelques centaines de mètres entre le lieu de ponte et le lieu de son repas de sang. Mais il peut voler jusqu'à 5 kilo­mètres lorsqu'il ne trouve pas de cible à proximité.  
-*   Il vole de préférence la nuit, aux heures humides, pour éviter de trop se déshydra­ter. Mais il arrive qu'il entre dans la maison aux heures de la journée.
+- Son vol est silencieux.
+- Dans une zone où les hôtes à piquer sont nombreux, l'anophèle ne parcourt pas plus de quelques centaines de mètres entre le lieu de ponte et le lieu de son repas de sang. Mais il peut voler jusqu'à 5 kilo­mètres lorsqu'il ne trouve pas de cible à proximité.
+- Il vole de préférence la nuit, aux heures humides, pour éviter de trop se déshydra­ter. Mais il arrive qu'il entre dans la maison aux heures de la journée.
 
-### **2. La cible de l'anophèle**
+### 2. La cible de l'anophèle
 
-*   L'anophèle est attiré par les odeurs mais aussi par les couleurs sombres, la chaleur (les adultes attirent plus l'anophèle que les enfants), le CO<sup>2</sup>. La piqûre est indolore sur le moment.  
-*   Selon les espèces, il préfère piquer soit l'homme, soit les animaux.
+- L'anophèle est attiré par les odeurs mais aussi par les couleurs sombres, la chaleur (les adultes attirent plus l'anophèle que les enfants), le CO<sup>2</sup>. La piqûre est indolore sur le moment.
+- Selon les espèces, il préfère piquer soit l'homme, soit les animaux.
 
 <table>
 
@@ -209,8 +209,8 @@ Sites temporaires, rizières
 
 ### 3. Les heures de piqûre
 
-*   Les anophèles femelles piquent toute la nuit, même si la plupart des espèces piquent majoritairement en deuxième par­tie de nuit (après minuit).  
-*   Dans tous les cas, le risque existe du cou­cher au lever du soleil.
+- Les anophèles femelles piquent toute la nuit, même si la plupart des espèces piquent majoritairement en deuxième par­tie de nuit (après minuit).
+- Dans tous les cas, le risque existe du cou­cher au lever du soleil.
 
 ### 4. Le lieu de la piqûre
 
@@ -222,31 +222,31 @@ Après la piqûre, s'il n'est pas dérangé, l'anophèle se repose pendant 24 he
 
 ## III. L'influence des facteurs naturels
 
-*   La pluviométrie, qui influe sur la présence du moustique : les anophèles pondent dans l'eau : le nombre de gîtes larvaires dépend donc de la nature du réseau hydrographique et des gîtes de pluie temporaires, deux éléments liés à la pluviométrie. En l'absence de pluie, les larves ne survivent pas à l'assèchement des gîtes ; en cas de pluies trop fortes, les gîtes peuvent être "lessivés".  
-*   La température, qui favorise la présence du moustique et du parasite :
-    *   Le taux d'infection des anophèles (pour­centage d'anophèles infectants) dépend de la durée du cycle de reproduction des parasites dans le moustique, durée qui est liée à la température.  
-    *   Par exemple, le Plasmodium falciparum ne se développe qu'entre 15° et 35°, l'op­timum se situant à 25° : plus on s'écarte de cet optimum, plus la durée du cycle de reproduction du parasite s'allonge et donc plus le taux d'infection des ano­phèles diminue.
+- La pluviométrie, qui influe sur la présence du moustique : les anophèles pondent dans l'eau : le nombre de gîtes larvaires dépend donc de la nature du réseau hydrographique et des gîtes de pluie temporaires, deux éléments liés à la pluviométrie. En l'absence de pluie, les larves ne survivent pas à l'assèchement des gîtes ; en cas de pluies trop fortes, les gîtes peuvent être "lessivés".
+- La température, qui favorise la présence du moustique et du parasite :
+  - Le taux d'infection des anophèles (pour­centage d'anophèles infectants) dépend de la durée du cycle de reproduction des parasites dans le moustique, durée qui est liée à la température.
+  - Par exemple, le Plasmodium falciparum ne se développe qu'entre 15° et 35°, l'op­timum se situant à 25° : plus on s'écarte de cet optimum, plus la durée du cycle de reproduction du parasite s'allonge et donc plus le taux d'infection des ano­phèles diminue.
 
 En général, les anophèles pondent à la surfa­ce d'une eau assez propre le plus souvent stag­nante. La plupart des espèces d'anophèles ne peuvent pas vivre dans des milieux en altitude.
 
-*   Déterminer à quel niveau d'altitude se situe la zone étudiée.  
-*   La transmission est très réduite au-dessus de 1000 mètres.
+- Déterminer à quel niveau d'altitude se situe la zone étudiée.
+- La transmission est très réduite au-dessus de 1000 mètres.
 
 Attention : il existe des espèces capables de piquer jusqu'à 2 500 mètres. Les facteurs humains augmentant le nombre de moustiques.  
 L'apparition ou l'accumulation d'eaux stag­nantes augmente le nombre de sites de ponte potentiels.
 
-*   Repérer dans un rayon de quelques kilo­mètres toute activité ou installation qui favo­rise la rétention d'eau :
-    *   Rizières et cultures maraîchères.  
-    *   Canaux et canalisations mal entretenus, barrages.  
-    *   Gouttières, puits, citernes non scellées.  
-    *   Travaux, déforestation : ornières dans les pistes, trous, tranchées, fosses d'emprunt de terre...
+- Repérer dans un rayon de quelques kilo­mètres toute activité ou installation qui favo­rise la rétention d'eau :
+  - Rizières et cultures maraîchères.
+  - Canaux et canalisations mal entretenus, barrages.
+  - Gouttières, puits, citernes non scellées.
+  - Travaux, déforestation : ornières dans les pistes, trous, tranchées, fosses d'emprunt de terre...
 
 Les facteurs humains augmentant la transmis­sion.
 
 Migrations et grands travaux peuvent aug­menter l'exposition aux piqûres, d'autant plus sur des populations dont l'immunité n'est pas toujours développée.
 
-*   Identifier les phénomènes qui favorisent le rapprochement entre l'homme et le mous­tique :
-    *   Grands travaux et grands projets en zone rurale attirant dans des zones de forte transmission, de manière provisoire
-    *   Urbanisation anarchique, développement d'une agriculture urbaine : installation de populations faiblement immunes sur des zones marécageuses ou inondables, accroissant le risque d'épidémie.
+- Identifier les phénomènes qui favorisent le rapprochement entre l'homme et le mous­tique :
+  - Grands travaux et grands projets en zone rurale attirant dans des zones de forte transmission, de manière provisoire
+  - Urbanisation anarchique, développement d'une agriculture urbaine : installation de populations faiblement immunes sur des zones marécageuses ou inondables, accroissant le risque d'épidémie.
 
-_Développement et Santé, n°189, 2008_
+*Développement et Santé, n°189, 2008*

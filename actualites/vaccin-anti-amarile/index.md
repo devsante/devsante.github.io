@@ -16,7 +16,7 @@ On estime à 200 000 le nombre de cas de fièvre jaune chaque année. Environ 15
 
 L¹immense majorité des cas et des décès notifiés surviennent en Afrique subsaharienne. Dans les régions où la fièvre jaune est endémique, les gens acquièrent une immunité naturelle avec l¹âge et ce sont donc les enfants qui risquent le plus de contracter l¹infection.
 
-La vaccination est considérée comme le principal et le plus efficace moyen de lutter contre la fièvre jaune. L¹immunité apparaît dans les 30 jours chez 99 % des personnes vaccinées. Pour les programmes de vaccination systématique en Afrique, continent où se trouvent 31 des 44 pays d¹endémie, le vaccin coûte environ 0,82 dollar (US $) par dose.
+La vaccination est considérée comme le principal et le plus efficace moyen de lutter contre la fièvre jaune. L¹immunité apparaît dans les 30 jours chez 99 % des personnes vaccinées. Pour les programmes de vaccination systématique en Afrique, continent où se trouvent 31 des 44 pays d¹endémie, le vaccin coûte environ 0,82 dollar (US \$) par dose.
 
 Par Dr Jean-Loup Rey, Santé Publique, GISPE
 

@@ -66,7 +66,7 @@ Certes, la réalité des pays en développement montre qu'il est rare que toutes
 
 Il est donc important, avant la mise en oeuvre du projet, que les responsables des programmes d'ETP puissent identifier d'une part les conditions présentes dans leur structure et d'autre part les conditions absentes, leur permettant ainsi de mettre en place un processus d'amélioration.
 
-Afin qu'ils s'approprient cette démarche, Format Santé a conçu un outil d'auto-questionnement _(tableau 1)_ pour opérationnaliser son guide de recommandation (2).
+Afin qu'ils s'approprient cette démarche, Format Santé a conçu un outil d'auto-questionnement *(tableau 1)* pour opérationnaliser son guide de recommandation (2).
 
 Cet outil a pour but de favoriser l'appropriation des conditions préalables par les responsables de programme d'ETP et de permettre d'exercer un suivi tout au long de la mise en place.
 
@@ -160,7 +160,7 @@ matériel pédagogique, outils de suivi<ul><li>Existe-t-il des supports d'éduca
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -297,8 +297,8 @@ Sinon, quelles sont les conditions à mettre en oeuvre ?</td>
 
 </table>
 
-_(1) Mise en oeuvre et évaluation d'un programme d'éducation thérapeutique pour les patients atteints du VIH à Casablanca, au Maroc. Marchand C. , Himmich H, Maaroufi A. Sohier S. Chambon JF. Gagnayre R. Cahiers Santé, 15, 2, 73-80, 2005._
+*(1) Mise en oeuvre et évaluation d'un programme d'éducation thérapeutique pour les patients atteints du VIH à Casablanca, au Maroc. Marchand C. , Himmich H, Maaroufi A. Sohier S. Chambon JF. Gagnayre R. Cahiers Santé, 15, 2, 73-80, 2005.*
 
-_(2) Marchand C., Gagnayre R., Recommandations pour la mise en oeuvre de programmes d'éducation thérapeutique pour les patients atteints d'infection par le VIH dans les pays à ressources limitées. Format Santé, laboratoire de pédagogie de la santé, Université Paris 13, 2003._
+*(2) Marchand C., Gagnayre R., Recommandations pour la mise en oeuvre de programmes d'éducation thérapeutique pour les patients atteints d'infection par le VIH dans les pays à ressources limitées. Format Santé, laboratoire de pédagogie de la santé, Université Paris 13, 2003.*
 
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

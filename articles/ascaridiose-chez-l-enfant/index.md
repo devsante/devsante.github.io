@@ -6,23 +6,19 @@ date: "2013-01-27"
 
 ## I. Epidémiologie
 
-L’ascaris (_Ascaris lumbricoïdes_) est un nématode cosmopolite, mais très fréquent en zone tropicale. Il mesure de 10 à 20 cm de long et est situé dans l’intestin grêle.
-
+L’ascaris (*Ascaris lumbricoïdes*) est un nématode cosmopolite, mais très fréquent en zone tropicale. Il mesure de 10 à 20 cm de long et est situé dans l’intestin grêle.
 
 ![](diapositive-dans-fig-4-ascaris-adulte-2.jpg)
 
 ![](page-6-fig-6-ascaris-ds-intestin.jpg)
 
-
-_                       ** Ascaris adulte**_                **_Coupe d'ascaris dans un intestin_**
+\_                       ** Ascaris adulte**\_                ***Coupe d'ascaris dans un intestin***
 
 La contamination s’effectue par ingestion d’aliments souillés de matières fécales contenant les oeufs. Après ingestion, les larves traversent la paroi du tube digestif, gagnent le foie puis les veines sus-hépatiques, le cœur, les poumons, remontent l’arbre trachéo-bronchique et retombent dans le tube digestif où ils deviennent adultes et pondent les œufs qui sont éliminés avec les selles. Ce circuit s’effectue en deux mois.
 
-
 ![](page-6-fig-5-cycle-des-en-afrique.jpg)
 
-
-_**Cycle de l'ascaris**_
+***Cycle de l'ascaris***
 
 ## II. Clinique
 
@@ -36,7 +32,7 @@ A la **phase d’état**, l’enfant présente des troubles digestifs non spéci
 
 ### Ascaris d’animaux
 
-L’infestation par l’ascaris du porc (_Ascaris suum_) est rare mais a pu entraîner une occlusion intestinale. L’ingestion de poisson cru infesté par _Anisakis simplex_ peut provoquer des épigastralgies aiguës dans les heures qui ont suivi le repas. Puis, en l’absence de traitement, se forme un granulome éosinophile dans les semaines suivantes, centré par une larve d’_Anisakis simplex_. L’ingestion accidentelle d’œufs d’ascaris de chien (_Toxocara canis_), non adapté à l’homme, provoque un _larva migrans_ viscérale : hépatomégalie fébrile, avec une hyperéosinophilie et un sérodiagnostic positif.
+L’infestation par l’ascaris du porc (*Ascaris suum*) est rare mais a pu entraîner une occlusion intestinale. L’ingestion de poisson cru infesté par *Anisakis simplex* peut provoquer des épigastralgies aiguës dans les heures qui ont suivi le repas. Puis, en l’absence de traitement, se forme un granulome éosinophile dans les semaines suivantes, centré par une larve d’*Anisakis simplex*. L’ingestion accidentelle d’œufs d’ascaris de chien (*Toxocara canis*), non adapté à l’homme, provoque un *larva migrans* viscérale : hépatomégalie fébrile, avec une hyperéosinophilie et un sérodiagnostic positif.
 
 ## III. Diagnostic
 

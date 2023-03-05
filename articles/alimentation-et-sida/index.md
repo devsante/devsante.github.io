@@ -22,29 +22,27 @@ Principe : repas équilibré, en fonction de l'état physiologique de la personn
 
 **1. Conseils généraux**
 
-*   faire des repas légers et fréquents (5 ou 6 par jour, si possible);
-*   augmenter les aliments liquides et boissons;
-*   éviter les repas riches en lipides;
-*   utiliser, si nécessaire, les anti-émétiques.
+- faire des repas légers et fréquents (5 ou 6 par jour, si possible);
+- augmenter les aliments liquides et boissons;
+- éviter les repas riches en lipides;
+- utiliser, si nécessaire, les anti-émétiques.
 
 **2. Conseils hygiéno-diététiques**
 
-*   préserver une nuit de repos suffisante (8 heures);
-*   éviter les changements rapides de température;
-*   renforcer l'hygiène personnelle pour éviter les autres infections par voie aérienne ou digestive ;
-*   éviter alcool, tabac et piment;
-*   multiplier les repas légers;
-*   éviter les matières grasses (huile, mayonnaise, frites, beignets, sauces, graisses);
-*   utiliser l'huile de palme ou de coton;
-*   consommer des fruits;
-*   boire des jus de fruits (eau + jus de citron);
-*   manger des protéines animales (poisson, poulet, oeufs) ;
-*   mélanger des céréales et des légumes secs (haricots, pistaches, mais, mil, etc.).
+- préserver une nuit de repos suffisante (8 heures);
+- éviter les changements rapides de température;
+- renforcer l'hygiène personnelle pour éviter les autres infections par voie aérienne ou digestive ;
+- éviter alcool, tabac et piment;
+- multiplier les repas légers;
+- éviter les matières grasses (huile, mayonnaise, frites, beignets, sauces, graisses);
+- utiliser l'huile de palme ou de coton;
+- consommer des fruits;
+- boire des jus de fruits (eau + jus de citron);
+- manger des protéines animales (poisson, poulet, oeufs) ;
+- mélanger des céréales et des légumes secs (haricots, pistaches, mais, mil, etc.).
 
 **III. Exemple de régime**
 
-
 ![](i846-1.jpg)
 
-
-_Développement et Santé, n°168, décembre 2003_
+*Développement et Santé, n°168, décembre 2003*

@@ -11,7 +11,8 @@ date: "2004-08-05"
 <li>ils servent de relais entre le patient et le prescripteur ou clinicien aussi bien dans les services hospitaliers que en dehors de l'hôpital.</li>
 </ul></div>
 
-## Quels sont les différents espaces de la prise  
+## Quels sont les différents espaces de la prise
+
 en charge qu'occupent les infirmiers ?
 
 ### 1. Parler de la maladie
@@ -20,7 +21,7 @@ Il s'agit d'éclairer le patient quant à ses interrogations afin d'obtenir une 
 
 En effet, bien souvent le médecin n'a pas le temps nécessaire à une bonne écoute du patient. Inversement, le patient n'ose pas toujours exprimer ses doutes et ses zones d'ombre à travers des questions. Ce qu'on n'ose pas dire au médecin on le dit à l'infirmier ou à un travailleur social.
 
-Le laps de temps écoulé entre la visite _chez_ le médecin et la rencontre avec l'infirmier permet de faire surgir de nouvelles interrogations. Le langage utilisé par l'infirmier est plus proche et plus compréhensible par le patient. Tout le monde sait que les médecins ont beaucoup de peine à s'exprimer avec des mots et des phrases simples. Au Bénin une demande importante des patients était plus d'information sans préciser de quelle information il s'agissait. A partir des discussions avec les infirmiers il a été possible de savoir que les interrogations portaient essentiellement sur l'alimentation, sur les effets secondaires, sur la durée du traitement, etc.
+Le laps de temps écoulé entre la visite *chez* le médecin et la rencontre avec l'infirmier permet de faire surgir de nouvelles interrogations. Le langage utilisé par l'infirmier est plus proche et plus compréhensible par le patient. Tout le monde sait que les médecins ont beaucoup de peine à s'exprimer avec des mots et des phrases simples. Au Bénin une demande importante des patients était plus d'information sans préciser de quelle information il s'agissait. A partir des discussions avec les infirmiers il a été possible de savoir que les interrogations portaient essentiellement sur l'alimentation, sur les effets secondaires, sur la durée du traitement, etc.
 
 ### 2. Prendre en compte les problèmes sociaux
 
@@ -34,9 +35,9 @@ Dans le cas où l'infirmier ou une personne environnante au patient remarque une
 
 Il s'agit de suivre l'observance des patients ainsi que favoriser les prises. Ceci implique une connaissance précise des ARV et de la maladie. Pour ce faire, le malade peut-être adressé à une consultation d'observance s'il en existe. Sinon, le médecin en collaboration avec le' pharmacien doit être très explicite quant au schéma de prise des ARV. Ensuite, les infirmiers doivent être en mesure d'éclairer le patient sur certaines interrogations en particulier en ce qui concerne
 
-*   les horaires
-*   les liens avec l'alimentation
-*   la gestion des oublis.
+- les horaires
+- les liens avec l'alimentation
+- la gestion des oublis.
 
 ### 5. Déceler les effets secondaires
 
@@ -44,6 +45,6 @@ Pour cela, il est important que tout le personnel soignant ait une idée précis
 
 Les infirmiers sont plus proches géographiquement, matériellement et sociologiquement des patients. Quand un malade présente un signe ou un ensemble de signes banaux, tel que céphalées, prurit, douleurs périphériques ou troubles sensitifs, il consultera en premier lieu l'infirmier du centre de santé le plus proche avant un médecin. Cet infirmier devra reconnaître les premiers signes d'intolérance au traitement comme il devrait pouvoir reconnaître les signes bénins d'infection VIH parmi les consultants de tous les jours.
 
-Dans les 2 hémisphères, l'aide à l'observance est assurée par différents moyens : consultations spécifiques, réunions de groupe et éducation thérapeutique. Cette prise en compte de l'observance n'est pas qu'une technique c'est aussi un mode de pensée _et de_ comportement nouveau quant à la prise en charge des malades du sida. Il s'agit d'une démarche continue et pluridisciplinaire où la communication entre les différents acteurs de soins et le patient joue un rôle primordial. Des formations sur le VIH doivent être organisées pour le personnel paramédical et des réunions de l'ensemble de l'équipe soignante doivent être prévues régulièrement où seront définis les rôles et les responsabilités de chacun.
+Dans les 2 hémisphères, l'aide à l'observance est assurée par différents moyens : consultations spécifiques, réunions de groupe et éducation thérapeutique. Cette prise en compte de l'observance n'est pas qu'une technique c'est aussi un mode de pensée *et de* comportement nouveau quant à la prise en charge des malades du sida. Il s'agit d'une démarche continue et pluridisciplinaire où la communication entre les différents acteurs de soins et le patient joue un rôle primordial. Des formations sur le VIH doivent être organisées pour le personnel paramédical et des réunions de l'ensemble de l'équipe soignante doivent être prévues régulièrement où seront définis les rôles et les responsabilités de chacun.
 
-_Développement et Santé, n°172, août 2004_
+*Développement et Santé, n°172, août 2004*

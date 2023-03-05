@@ -19,7 +19,7 @@ En 2010, **une dose unique d'antibiotique azithromycine** a été administrée p
 Les examens de suivi réalisés en 2011 ont montré que le traitement était aussi efficace que les injections de pénicilline, qui – contrairement aux antibiotiques oraux – doivent être administrées par un personnel médical qualifié et nécessitent des équipements rarement disponibles dans les zones qui ont le plus besoin de traitements, ont souligné les chercheurs.  
 Le dernier indice d’accessibilité des travailleurs de la santé de l’organisation non gouvernementale (ONG) Save the Children révèle que la PNG se classe dans les 20 derniers pays sur 161 étudiés.
 
-Organisée par l’OMS, la réunion des spécialistes du pian, qui se tiendra à Genève du 5 au 7 mars, « définira de façon détaillée la manière dont nous adopterons [un nouveau régime de traitement du pian] en utilisant l’azithromycine », a dit M. Asiedu.  
+Organisée par l’OMS, la réunion des spécialistes du pian, qui se tiendra à Genève du 5 au 7 mars, « définira de façon détaillée la manière dont nous adopterons \[un nouveau régime de traitement du pian\] en utilisant l’azithromycine », a dit M. Asiedu.  
 Les directives de traitement antipian de l’OMS datent des années 1960 et aucune alternative n’a été proposée depuis, a-t-il ajouté.
 
 En Asie du Sud-Est, l’OMS a fixé l’objectif d’une éradication régionale du pian en 2012 dans les deux pays endémiques restants – l’Indonésie et le Timor-Leste. La PNG, les îles Salomon et Vanuatu ont également signalé des cas.

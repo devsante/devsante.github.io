@@ -146,9 +146,7 @@ Il faut dépister et vacciner l’ensemble de l’entourage familial d’un suj
 
 **Tableau : conduite à tenir en cas d'hépatite chronique B**
 
-
 ![](conduite-a-tenir.jpg)
-
 
 ### 2. Portage inactif du VHB
 
@@ -166,9 +164,7 @@ Les patients infectés par le VHC sont identifiés par la  détection  de  l
 
 ### 1. Histoire naturelle de l'hépatite C
 
-
 ![](hisoire-nat-hc.jpg)
-
 
 ### 2.  Hépatite chronique C à transaminases normales
 
@@ -177,10 +173,10 @@ L’examen clinique est le plus souvent normal. Cependant,  il  faut  recherc
 
 **La surveillance comporte :**
 
-*   Dosage des ALAT, NFS, plaquettes, bilan hépatique complet et hémostase : TP).  
-*   Génotypage du VHC.  
-*   Du fait de l’absence de corrélation entre le degré d’augmentation  de  l’activité  des  aminotransférases et celui des lésions histologiques (13). La réalisation d’une ponction biopsie du foie (5) ou les marqueurs sériques de fibrose (Fibrotest) ou physiques (Fibroscan) peuvent être recommandés.  
-*   Echographie abdominale (à la recherche de signes indirects de cirrhose).
+- Dosage des ALAT, NFS, plaquettes, bilan hépatique complet et hémostase : TP).
+- Génotypage du VHC.
+- Du fait de l’absence de corrélation entre le degré d’augmentation  de  l’activité  des  aminotransférases et celui des lésions histologiques (13). La réalisation d’une ponction biopsie du foie (5) ou les marqueurs sériques de fibrose (Fibrotest) ou physiques (Fibroscan) peuvent être recommandés.
+- Echographie abdominale (à la recherche de signes indirects de cirrhose).
 
 ### 3. Hépatite chronique minime
 
@@ -188,11 +184,11 @@ En   l’absence de maladie hépatique évoluée, les patients atteints d’h
 
 **La surveillance comporte :**
 
-*   Recherche des manifestations extra-hépatiques symptomatiques (cryoglobulinémie  mixte,  neuropathies   périphériques,  asthénie, syndrome sec, arthralgies, myalgies) et d’une comorbidité.  
-*   Dosage des ALAT, NFS, plaquettes, bilan hépatique complet et hémostase : TP.  
-*   Génotypage du VHC.  
-*   Echographie abdominale.  
-*   PBH ou marqueurs sériques de fibrose (Fibrotest) ou  physiques  (Fibroscan).  Dans le cas de l’hépatite chronique minime PBH≤ A1F1 du score METAVIR. 
+- Recherche des manifestations extra-hépatiques symptomatiques (cryoglobulinémie  mixte,  neuropathies   périphériques,  asthénie, syndrome sec, arthralgies, myalgies) et d’une comorbidité.
+- Dosage des ALAT, NFS, plaquettes, bilan hépatique complet et hémostase : TP.
+- Génotypage du VHC.
+- Echographie abdominale.
+- PBH ou marqueurs sériques de fibrose (Fibrotest) ou  physiques  (Fibroscan).  Dans le cas de l’hépatite chronique minime PBH≤ A1F1 du score METAVIR. 
 
 Ainsi, au terme de ce premier bilan, le patient n’a pas de lésion ou des lésions minimes à la biopsie hépatique. Le risque évolutif est faible. On pourrait proposer tous les 6 mois un examen clinique à la recherche d’une co-morbidité et des manifestations extra-hépatiques de l’hépatite C, ainsi que le  dosage  des  transaminases.  L’évaluation  histologique par marqueurs sériques et/ou Fibroscan tous les 2 à 3 ans et PBH tous les 5 ans.
 
@@ -202,17 +198,18 @@ Les phases d’immunotolérance et de portage inactif au cours de l’infection
 La surveillance à 3 reprises pendant un an du taux des transaminases et de l’ADN viral par PCR quanti-tative permet le diagnostic différentiel entre portage inactif et hépatite chronique à virus B mutant ou la réactivation.   
 En cas d’hépatite chronique C à transaminases normales ou d’hépatite chronique minime, la surveillance repose sur un examen clinique et un dosage semestriel des transaminases. L’évaluation histologique biou triennale par marqueurs sériques et/ou fribroscan, enfin la PBH tous les 5 ans.
 
-_Références_  
-1. Lai CL, Yuen MF. The natural history and treatment of chronic  hepatitis  B  :  a  critical  evaluation  of  standard treatment criteria and end points. Ann Intern Med 2007; 174 : 58-61  
-2. Zoulim F, Kay A, Merle P, trepo C. Virologie de l’hépatite B. In : Hépatologie. Volume III. Paris : Elsevier, 2007 : 7-015-B-030.  
-3. Lok AS, McMahon BJ. Chronic hepatitus B. Hepatology 2001 ; 34 : 1225-41.  
-4. Lok AS, Heathcote EJ, Hoofnagle JH. Management of hepatitis B : 2000-Summary of a workshop. Gastroenterology 2001 ; 120 :1828-53.  
-5. Ganem D, Prince AM. Hepatitis B virus infection natu rel history and clinical. New Engl J Med, 2004 ; 350 : 1118-29.  
-6. De Franchis R, Meucci G, Vecchi M et al. The natural history of asymptomatic hepatitis B surface antigen carriers. Ann Intern Med 1993 ; 118 :191-4.  
-7. Schalm SW. Heathcote J Cianciara J et al. Lamivudine and alpha interferon combination treatment of patients with chronics hepatitis B infections randomized trial. Gut 2000 ; 46 :562-8.  
-8. Valla D.  EASL  International  Consensus  Conference Statement on hepatitis B, J Hepatol 2003 ; 38 :533-40.  
-9. Bruix J, Sherman M.  Management  of  hepatocellular carcinoma. Hepatology 2005 ; 42 :1208-36.  
-10. Hsu YS, Chien RN, Ych CT, Sheen IS. Chiou hy, Chu CM, et al. Long term outcome after spontaneous HBc ag seroconversion in patients with chronic hepatitis B. Hepatology 2002 ; 35 : 1522-27.  
-11. Manno N, Camma C Schepis F et al. Natural history of chronic HBV carriers in northern Italy : morbidity and mortality after 30 years. Gastroenterology 2004 ; 127 : 756-63.  
-12. Nakamura Y Motokura T, Fujita A et al. Severe hepatitis related to chemotherapy in hepatitis B virus carries with hematologic malignancies. Cancers 1996 ; 2210-5.  
+*Références*
+
+1.  Lai CL, Yuen MF. The natural history and treatment of chronic  hepatitis  B  :  a  critical  evaluation  of  standard treatment criteria and end points. Ann Intern Med 2007; 174 : 58-61
+2.  Zoulim F, Kay A, Merle P, trepo C. Virologie de l’hépatite B. In : Hépatologie. Volume III. Paris : Elsevier, 2007 : 7-015-B-030.
+3.  Lok AS, McMahon BJ. Chronic hepatitus B. Hepatology 2001 ; 34 : 1225-41.
+4.  Lok AS, Heathcote EJ, Hoofnagle JH. Management of hepatitis B : 2000-Summary of a workshop. Gastroenterology 2001 ; 120 :1828-53.
+5.  Ganem D, Prince AM. Hepatitis B virus infection natu rel history and clinical. New Engl J Med, 2004 ; 350 : 1118-29.
+6.  De Franchis R, Meucci G, Vecchi M et al. The natural history of asymptomatic hepatitis B surface antigen carriers. Ann Intern Med 1993 ; 118 :191-4.
+7.  Schalm SW. Heathcote J Cianciara J et al. Lamivudine and alpha interferon combination treatment of patients with chronics hepatitis B infections randomized trial. Gut 2000 ; 46 :562-8.
+8.  Valla D.  EASL  International  Consensus  Conference Statement on hepatitis B, J Hepatol 2003 ; 38 :533-40.
+9.  Bruix J, Sherman M.  Management  of  hepatocellular carcinoma. Hepatology 2005 ; 42 :1208-36.
+10. Hsu YS, Chien RN, Ych CT, Sheen IS. Chiou hy, Chu CM, et al. Long term outcome after spontaneous HBc ag seroconversion in patients with chronic hepatitis B. Hepatology 2002 ; 35 : 1522-27.
+11. Manno N, Camma C Schepis F et al. Natural history of chronic HBV carriers in northern Italy : morbidity and mortality after 30 years. Gastroenterology 2004 ; 127 : 756-63.
+12. Nakamura Y Motokura T, Fujita A et al. Severe hepatitis related to chemotherapy in hepatitis B virus carries with hematologic malignancies. Cancers 1996 ; 2210-5.
 13. Saadeh S. Cammel G. Carey WD. Younossi Z. Barnes D. Easley K. The role of liver biopsy in chronic hepatitis C. Hepatology 2001;33: 196-200.

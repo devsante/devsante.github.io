@@ -44,26 +44,27 @@ En cas de suspicion de tuberculose pulmonai­re, il est conseillé de recueillir
 
 ### 1. Recueil
 
-*   Les crachats doivent être recueillis en plein air ou dans une pièce largement ventilée réservée à cet effet, le plus loin possible d'autres personnes.  
-*   Une personne entraînée doit expliquer au malade comment tousser pour ramener une expectoration qui vient du plus profond des poumons.  
-*   Cette personne doit ouvrir le crachoir, se placer derrière le malade et lui demander de cracher en rapprochant ses lèvres du crachoir.  
-*   Contrôler la qualité et la quantité de crachat collecté (2 à 3 ml de crachat contenant des particules solides).  
-*   Fermer le crachoir de façon étanche.  
-*   Se laver les mains à l'eau et au savon avant de donner au malade un nouveau crachoir qu'il doit rapporter avec son prélèvement le lendemain au centre.  
-*   S'assurer que le malade a compris comment il doit recueillir ses crachats le lendemain matin et comment bien fermer le crachoir.
+- Les crachats doivent être recueillis en plein air ou dans une pièce largement ventilée réservée à cet effet, le plus loin possible d'autres personnes.
+- Une personne entraînée doit expliquer au malade comment tousser pour ramener une expectoration qui vient du plus profond des poumons.
+- Cette personne doit ouvrir le crachoir, se placer derrière le malade et lui demander de cracher en rapprochant ses lèvres du crachoir.
+- Contrôler la qualité et la quantité de crachat collecté (2 à 3 ml de crachat contenant des particules solides).
+- Fermer le crachoir de façon étanche.
+- Se laver les mains à l'eau et au savon avant de donner au malade un nouveau crachoir qu'il doit rapporter avec son prélèvement le lendemain au centre.
+- S'assurer que le malade a compris comment il doit recueillir ses crachats le lendemain matin et comment bien fermer le crachoir.
 
 ### 2. Conservation et transport des crachats
 
 Si les crachats ne sont pas examinés sur place, ils doivent être envoyés à un laboratoire. Le transport doit avoir lieu tous les jours ou au moins 1 ou 2 fois par semaine. Pour la conservation et le transport, des boîtes spéciales pouvant contenir 10 à 20 crachoirs sont utilisées.
 
-#### Les règles suivantes doivent être suivies :
+#### Les règles suivantes doivent être suivies
 
-*   Chaque crachoir doit être soigneusement identifié par une étiquette portant le nom, le prénom et le numéro du registre.  
-*   La boîte avec les crachoirs doit être gardée dans un endroit aussi frais que possible. S'il est prévu de faire des cultures à partir de ces échantillons, ils doivent être conservés au réfrigérateur à +4°C.
+- Chaque crachoir doit être soigneusement identifié par une étiquette portant le nom, le prénom et le numéro du registre.
 
-*   Une liste comportant le nom des malades et les renseignements sur les malades, doit accompagner la boîte de transport (cette liste ne doit contenir que le nom des sujets et être sous enveloppe fermée).
+- La boîte avec les crachoirs doit être gardée dans un endroit aussi frais que possible. S'il est prévu de faire des cultures à partir de ces échantillons, ils doivent être conservés au réfrigérateur à +4°C.
 
-_NB : Si l'on désire envoyer des frottis fixés au lieu des échantillons de crachats, les frottis réalisés et fixés au niveau du centre de santé peuvent être adressés au laboratoire de micro­scopie pour lecture. Mais les résultats actuel­lement obtenus dans les pays appliquant cette technique sont peu encourageants._
+- Une liste comportant le nom des malades et les renseignements sur les malades, doit accompagner la boîte de transport (cette liste ne doit contenir que le nom des sujets et être sous enveloppe fermée).
+
+*NB : Si l'on désire envoyer des frottis fixés au lieu des échantillons de crachats, les frottis réalisés et fixés au niveau du centre de santé peuvent être adressés au laboratoire de micro­scopie pour lecture. Mais les résultats actuel­lement obtenus dans les pays appliquant cette technique sont peu encourageants.*
 
 ## II. Examen microscopique
 
@@ -71,113 +72,91 @@ Il est effectué directement sur le frottis d'une parcelle purulente ou hémorra
 
 ### 1. Identification des lames
 
-*   Prendre une lame neuve (ne pas réutiliser d'anciennes lames pour cet examen) et gra­ver avec le diamant marqueur, le numéro d'identification du crachat sur une extrémité de la lame en utilisant la liste d'accompagne­ment des échantillons.  
-*   Préparer ainsi une lame pour chaque échan­tillon (pas plus de 10 à 12 crachats à la fois).
+- Prendre une lame neuve (ne pas réutiliser d'anciennes lames pour cet examen) et gra­ver avec le diamant marqueur, le numéro d'identification du crachat sur une extrémité de la lame en utilisant la liste d'accompagne­ment des échantillons.
+- Préparer ainsi une lame pour chaque échan­tillon (pas plus de 10 à 12 crachats à la fois).
 
 #### a. Préparation des frottis
 
-*   Prendre chaque lame par la partie où est gravé le numéro, la poser à cheval sur un support lame, la partie gravée tournée vers soi.  
-*   Prendre le crachoir correspondant au numéro de la lame, l'ouvrir, poser le crachoir à droite du support de lames et poser à côté son couvercle.  
-*   Passer l'anse métallique à la flamme en la portant au rouge et la laisser refroidir.
-
+- Prendre chaque lame par la partie où est gravé le numéro, la poser à cheval sur un support lame, la partie gravée tournée vers soi.
+- Prendre le crachoir correspondant au numéro de la lame, l'ouvrir, poser le crachoir à droite du support de lames et poser à côté son couvercle.
+- Passer l'anse métallique à la flamme en la portant au rouge et la laisser refroidir.
 
 ![](12056-1.jpg)
 
-
-*   Prélever une parcelle de crachat en choi­sissant si possible une parcelle purulente.  
-*   Faire un frottis aussi fin que possible de 2 cm x 1 cm sur la lame.
-
+- Prélever une parcelle de crachat en choi­sissant si possible une parcelle purulente.
+- Faire un frottis aussi fin que possible de 2 cm x 1 cm sur la lame.
 
 ![](12056-3.jpg)
 
-
-*   Placer la lame sur le séchoir.  
-*   Flamber l'anse métallique pour la stériliser avant de prendre un autre crachoir.  
-*   Préparer les autres lames de la même façon.
+- Placer la lame sur le séchoir.
+- Flamber l'anse métallique pour la stériliser avant de prendre un autre crachoir.
+- Préparer les autres lames de la même façon.
 
 #### b. Séchage
 
-*   Laisser sécher les frottis à l'air pendant au moins 15 minutes (15 à 30 min). Ne pas utiliser la flamme pour sécher le frottis.
+- Laisser sécher les frottis à l'air pendant au moins 15 minutes (15 à 30 min). Ne pas utiliser la flamme pour sécher le frottis.
 
 #### c. Fixation
 
-*   Prendre avec une pince chaque lame par sa partie gravée, frottis tourné vers le haut.  
-*   Passer la lame 3 fois (en 3 à 5 secondes) à travers la flamme du bec bunsen ou de la lampe à alcool.
-
+- Prendre avec une pince chaque lame par sa partie gravée, frottis tourné vers le haut.
+- Passer la lame 3 fois (en 3 à 5 secondes) à travers la flamme du bec bunsen ou de la lampe à alcool.
 
 ![](12056-5.jpg)
 
-
-*   Replacer la lame sur le séchoir propre.
+- Replacer la lame sur le séchoir propre.
 
 ### 2. Coloration de Ziehl-Neelsen
 
 #### a. Coloration
 
-*   Placer les lames sur le porte-lame, frottis tournés vers le haut, en faisant attention qu'elles ne se touchent pas.
-
+- Placer les lames sur le porte-lame, frottis tournés vers le haut, en faisant attention qu'elles ne se touchent pas.
 
 ![](12056-7.jpg)
 
-
-*   Couvrir les lames avec de la fuchsine phéniquée de Ziehl. La fuchsine doit être filtrée au travers d'un filtre en papier, placé dans un entonnoir au-dessus des lames.  
-*   Chauffer sous les lames, très doucement, jusqu'à émission de vapeurs, avec un tam­pon monté à l'extrémité d'une baguette métallique et imbibé d'alcool à brûler.
-
+- Couvrir les lames avec de la fuchsine phéniquée de Ziehl. La fuchsine doit être filtrée au travers d'un filtre en papier, placé dans un entonnoir au-dessus des lames.
+- Chauffer sous les lames, très doucement, jusqu'à émission de vapeurs, avec un tam­pon monté à l'extrémité d'une baguette métallique et imbibé d'alcool à brûler.
 
 ![](12056-9.jpg)
 
-
 En aucun cas le colorant ne doit bouillir ou se dessécher sur la lame.
 
-*   Laisser agir le colorant chaud pendant 3 minutes.  
-*   Répéter deux fois le chauffage du colorant.
+- Laisser agir le colorant chaud pendant 3 minutes.
+- Répéter deux fois le chauffage du colorant.
 
-#### **b. Décoloration**
+#### b. Décoloration
 
-*   Rincer chaque lame séparément à l'eau du robinet jusqu'à ce que le colorant libre soit entraîné.  
-*   Replacer toutes les lames sur le porte-lame et couvrir chaque lame séparément avec de l'acide.  
-*   Laisser agir 3 minutes.
-
+- Rincer chaque lame séparément à l'eau du robinet jusqu'à ce que le colorant libre soit entraîné.
+- Replacer toutes les lames sur le porte-lame et couvrir chaque lame séparément avec de l'acide.
+- Laisser agir 3 minutes.
 
 ![](12056-11.jpg)
 
-
-*   Laver à l'eau.  
-*   Couvrir d'alcool à 95°.
-
+- Laver à l'eau.
+- Couvrir d'alcool à 95°.
 
 ![](12056-13.jpg)
 
-
-*   Laisser agir 5 minutes.  
-*   Rincer à nouveau à l'eau.
-
+- Laisser agir 5 minutes.
+- Rincer à nouveau à l'eau.
 
 ![](12056-15.jpg)
 
-
-*   Décolorer une seconde fois avec l'acide jusqu'à ce que toute coloration ait prati­quement disparu.  
-*   Rincer à nouveau à l'eau chaque lame séparément.
-
+- Décolorer une seconde fois avec l'acide jusqu'à ce que toute coloration ait prati­quement disparu.
+- Rincer à nouveau à l'eau chaque lame séparément.
 
 ![](12056-17.jpg)
 
-
 #### c. Contre-coloration
 
-*   Replacer les lames décolorées sur le porte-­lame et recouvrir les frottis avec du bleu de méthylène à 0,3 % pendant 1 minute.
-
+- Replacer les lames décolorées sur le porte-­lame et recouvrir les frottis avec du bleu de méthylène à 0,3 % pendant 1 minute.
 
 ![](12056-19.jpg)
 
-
-*   Rincer chaque lame à l'eau et laisser sécher à l'air libre.
-
+- Rincer chaque lame à l'eau et laisser sécher à l'air libre.
 
 ![](12056-21.jpg)
 
-
-_* La décoloration des frottis peut être obte­nue en utilisant uniquement de l'acide sul­furique à 25 % à plusieurs reprises jusqu'à obtenir une décoloration totale du frottis._
+*\* La décoloration des frottis peut être obte­nue en utilisant uniquement de l'acide sul­furique à 25 % à plusieurs reprises jusqu'à obtenir une décoloration totale du frottis.*
 
 #### d. Lecture
 
@@ -467,25 +446,25 @@ R
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
@@ -507,25 +486,25 @@ S
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
@@ -547,25 +526,25 @@ R
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
--
+\-
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -599,13 +578,13 @@ V
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
 <td valign="top">
 
-+
+\+
 
 </td>
 
@@ -653,7 +632,7 @@ Résultat
 
 <td style="width: 224px;" valign="top">
 
-+
+\+
 
 </td>
 
@@ -744,7 +723,7 @@ L'examen microscopique et la culture sont actuellement les examens permettant le
 
 <td colspan="2" style="width: 443px" valign="top">
 
-1) Colorant
+1)  Colorant
 
 Solution A: Solution alcoolique saturée de fuchsine
 
@@ -828,13 +807,13 @@ Solution B
 
 <td style="width: 309px" valign="top">
 
-2) Agents décolorants
+2)  Agents décolorants
 
-a) Eau distillée
+a\) Eau distillée
 
 Acide sulfurique concentré
 
-b) Alcool éthylique 95°
+b\) Alcool éthylique 95°
 
 </td>
 
@@ -852,7 +831,7 @@ b) Alcool éthylique 95°
 
 <td style="width: 309px" valign="top">
 
-3) Contre colorant
+3)  Contre colorant
 
 Bleu de méthylène
 
@@ -882,9 +861,7 @@ Qsp 100 ml
 
 </table>
 
-
 ![](12056-23.jpg)
-
 
 **Coloration à l'auramine**
 
@@ -896,7 +873,7 @@ Qsp 100 ml
 
 <td style="width: 238px" valign="top">
 
-1) Acide trichloracétique à 1%
+1)  Acide trichloracétique à 1%
 
 Acide trichloracétique
 
@@ -920,7 +897,7 @@ qsp 1000 ml
 
 <td style="width: 238px" valign="top">
 
-2) Auramine
+2)  Auramine
 
 Solution A
 
@@ -970,7 +947,7 @@ Conserver à 4°C et à l'obscurité.
 
 <td style="width: 238px" valign="top">
 
-3) Décolorant
+3)  Décolorant
 
 Alcool à 90°  
 Acide chlorhydrique pur  
@@ -994,7 +971,7 @@ Chlorure de sodium
 
 <td style="width: 238px" valign="top">
 
-4) Solution de rouge de thiazine
+4)  Solution de rouge de thiazine
 
 Solution A
 
@@ -1046,6 +1023,6 @@ Conserver à l'obscurité.
 
 </table>
 
-**Illustrations :** _Management of tuberculosis. International Union Against Tuberculosis and Lung Disease._ _5<sup>ème</sup> edition, 2000._
+**Illustrations :** *Management of tuberculosis. International Union Against Tuberculosis and Lung Disease.* *5<sup>ème</sup> edition, 2000.*
 
-_Développement et Santé, n°190, 2008_
+*Développement et Santé, n°190, 2008*

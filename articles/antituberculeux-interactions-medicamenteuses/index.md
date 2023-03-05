@@ -19,7 +19,7 @@ Antiprotéases : indinavir, ritonavir, sequinavir.
 
 Il faut donc conseiller une contraception mécanique pendant la durée du traitement.
 
-### Anticoagulants oraux _(antivitamine K)_
+### Anticoagulants oraux *(antivitamine K)*
 
 Tous ces médicaments voient leur activité diminuée : il faut donc réajuster les doses, ou changer de traitement.
 
@@ -43,13 +43,13 @@ Addition des effets hépatotoxiques de l'INH.
 
 ## 4. Ethambutol
 
-### Topiques gastro-intestinaux à base d'aluminium :
+### Topiques gastro-intestinaux à base d'aluminium
 
 Ils diminuent l'absorption intestinale de l'éthambutol : les prendre au moins 2 heures après la prise de l'éthambutol.
 
 ## 5. Streptomycine
 
-### Anticoagulants oraux _(antivitamine K)_
+### Anticoagulants oraux *(antivitamine K)*
 
 La streptomycine peut déséquilibrer l'action anticoagulante des antivitamine K en aug­mentant l'effet anticoagulant.
 
@@ -57,4 +57,4 @@ La streptomycine peut déséquilibrer l'action anticoagulante des antivitamine K
 
 De nombreuses interactions ont été décrites, mais aussi avec les curarisants et les myore­laxants : mieux vaut interrompre le traitement par streptomycine avant une anesthésie.
 
-_Développement et Santé, n°190, 2008_
+*Développement et Santé, n°190, 2008*

@@ -8,21 +8,17 @@ date: "1992-12-03"
 
 Avant tout, il faut choisir le siège qui répondra le mieux aux besoins de l'enfant et déterminer exactement le nombre de supports nécessaires (pour le dos, le cou et la tête, les bras et les pieds). Il serait bon de prendre un avis médical pour cela.
 
-*   Si l'enfant peut s'asseoir, le placer dans une chaise à dossier droit.
+- Si l'enfant peut s'asseoir, le placer dans une chaise à dossier droit.
 
-*   Utiliser un centimètre de couturière ou à défaut un morceau de ficelle ou de corde. Toujours mesurer selon une ligne droite. Pour une chaise, il ne faut pas mesurer le long des contours du corps.
-
+- Utiliser un centimètre de couturière ou à défaut un morceau de ficelle ou de corde. Toujours mesurer selon une ligne droite. Pour une chaise, il ne faut pas mesurer le long des contours du corps.
 
 ![](i540-1.jpg)
-
 
 ### A. Largeur du siège
 
 Mesurez l'enfant selon la plus grande largeur des hanches lorsqu'il est assis. Ajouter alors 25 centimètres pour obtenir la largeur du dossier au niveau des épaules.
 
-
 ![](i540-2.jpg)
-
 
 ### B. Profondeur du siège
 
@@ -44,7 +40,8 @@ Mesurer la distance du coude au siège et l'augmenter de la longueur des mains p
 
 Il peut être ajouté au dossier. Mesurer à partir des épaules comme sur le schéma.
 
-## II. Comment rendre l'installation  
+## II. Comment rendre l'installation
+
 plus confortable et éviter les escarres
 
 ### 1. Les coussins
@@ -65,8 +62,8 @@ On peut aussi utiliser de vieux sacs pour les dossiers et les sièges. Il faut a
 
 Il est important que certaines parties du siège soient ajustées le mieux possible (I'appuie-tête, le cale-pied, l'accoudoir, l'angle entre le dossier et le siège). Pour cela on peut :
 
-*   forer une série de trous à intervalle régulier, et les joindre par boulons-écrous ou vis à bois ; il ne faut pas coller,
-*   creuser des fentes d'au moins 5 centimètres de long. Elles s'agenceront avec le boulon ou la tête du boulon qui glissera au travers.
+- forer une série de trous à intervalle régulier, et les joindre par boulons-écrous ou vis à bois ; il ne faut pas coller,
+- creuser des fentes d'au moins 5 centimètres de long. Elles s'agenceront avec le boulon ou la tête du boulon qui glissera au travers.
 
 ### 4. Appuie-tête
 
@@ -84,16 +81,12 @@ On peut coller du papier de verre sur le cale-pied pour empêcher de glisser ou 
 
 ## III. Sièges en coin
 
-
 ![](i540-4.jpg)
 
-
 ## IV. Sièges de sol
-
 
 ![](i540-5.jpg)
 
 ![](i540-6.jpg)
 
-
-_Développement et Santé, N° 102, décembre 1992_
+*Développement et Santé, N° 102, décembre 1992*

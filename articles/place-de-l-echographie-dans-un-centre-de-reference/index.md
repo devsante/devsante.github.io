@@ -17,34 +17,36 @@ Ces 4 femmes sont admises chez nous déjà à terme, une laparotomie pour grosse
 La GEU tue même dans les pays développés, c'est la première cause de décès pendant le premier trimestre de la grossesse, malgré l'existence d'un plateau technique équipé pour le diagnostic et la prise en charge. Dans ces localités, combien de femmes meurent d'une GEU rompue faute de diagnostic alors que, quelques jours auparavant, elles se plaignaient d'algies pelviennes et de métrorragies ?  
 Un arrêt cardio-respiratoire, dü à l'hypovolémie consécutive à une inondation péritonéale, est responsable de l'évolution fatale.
 
-##   
-II. Importance des échographies pendant la grossesse
+## II. Importance des échographies pendant la grossesse
 
-### 1. Au premier trimestre (7 - 12 SA) :  
+### 1. Au premier trimestre (7 - 12 SA)
+
 échographie de diagnostic et de datation
 
 Elle est essentielle. Elle permet de confirmer le diagnostic (existence ou non de la grossesse), de connaître la localisation (GIU, GEU), de suivre l'évolution (grossesse évolutive ou non évolutive), de détecter des grossesses pathologiques (môle hydatiforme), ou multiples (grossesse gémellaire).  
 En principe, avant d'ouvrir la fiche de CPN, il faut avoir les résultats d'une échographie confirmant la grossesse. Beaucoup ont pris une aménorrhée secondaire non gravidique pour une grossesse et ont incité certains personnels de santé à ouvrir la fiche de CPN. La patiente a malgré cela ses CPN et nous arrive pour un soi-disant dépassement de terme.  
 Nous notons à notre examen un utérus non gravide de petite taille. C'est à l'échographie que nous avions pu convaincre la patiente en lui montrant les images d'un utérus vide. De telles erreurs peuvent nous emmener en justice. Une simple échographie précoce permettrait de confirmer le diagnostic et d'agir.
 
-### 2. Au deuxième trimestre (20-22 SA) :  
+### 2. Au deuxième trimestre (20-22 SA)
+
 échographie morphologique
 
 Une échographie morphologique est importante pour :
 
-*   Rechercher des malformations fcetales qui pourraient être incompatibles avec la poursuite de la grossesse.  
-*   Indiquer la zone d'insertion placentaire (ex. placenta bas inséré, qui comporte un risque hémorragique).
+- Rechercher des malformations fcetales qui pourraient être incompatibles avec la poursuite de la grossesse.
+- Indiquer la zone d'insertion placentaire (ex. placenta bas inséré, qui comporte un risque hémorragique).
 
-### 3. Au troisième trimestre (30-32 SA) :  
+### 3. Au troisième trimestre (30-32 SA)
+
 échographie de croissance
 
 Elle permet de diagnostiquer :
 
-*   Un retard de croissance intra-utérin.  
-*   Une macrosomie.  
-*   Des anomalies de la quantité du liquide amniotique (hydramnios, oligo-amnios ou anamnios).  
-*   Une anomalie d'insertion placentaire (placenta bas inséré).  
-*   Des anomalies que l'on n'a pas pu diagnostiquer au 2ème trimestre de la grossesse.
+- Un retard de croissance intra-utérin.
+- Une macrosomie.
+- Des anomalies de la quantité du liquide amniotique (hydramnios, oligo-amnios ou anamnios).
+- Une anomalie d'insertion placentaire (placenta bas inséré).
+- Des anomalies que l'on n'a pas pu diagnostiquer au 2ème trimestre de la grossesse.
 
 ### Conclusion
 

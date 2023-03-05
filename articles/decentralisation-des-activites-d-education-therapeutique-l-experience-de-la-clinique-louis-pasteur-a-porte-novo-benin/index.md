@@ -6,20 +6,20 @@ date: "2007-11-12"
 
 ## I. L'éducation thérapeutique à la clinique Louis Pasteur
 
-_Dr. Dossou-Gbété, vous êtes médecin, spécialisé en maladies infectieuses et responsable du site de prise en charge : qu'est ce qui a motivé le développement de l'éducation thérapeutique au sein de la clinique Louis Pasteur ?_
+*Dr. Dossou-Gbété, vous êtes médecin, spécialisé en maladies infectieuses et responsable du site de prise en charge : qu'est ce qui a motivé le développement de l'éducation thérapeutique au sein de la clinique Louis Pasteur ?*
 
 Deux raisons ont motivé le développement de l'éducation thérapeutique :
 
-*   la mauvaise connaissance par les malades de l'infection par le VIH d'une part,
-*   la recherche de la meilleure observance possible chez nos malades traités par les ARV d'autre part.
+- la mauvaise connaissance par les malades de l'infection par le VIH d'une part,
+- la recherche de la meilleure observance possible chez nos malades traités par les ARV d'autre part.
 
-_Vous êtes aussi coordinateur des activités d'éducation thérapeutique : en quoi consistent vos fonctions ?_
+*Vous êtes aussi coordinateur des activités d'éducation thérapeutique : en quoi consistent vos fonctions ?*
 
 Après la formation des éducatrices, il me revient de mesurer son impact sur la prise en charge, d'évaluer périodiquement (2 fois par an) l'utilisation des outils par les éducatrices, de donner des solutions aux difficultés rencontrées.
 
 Depuis un an, j'organise, coordonne et supervise la formation des éducateurs pour les autres sites des départements Ouémé et Plateau.
 
-_Comment l'éducation thérapeutique est-elle intégrée dans le circuit de prise en charge du patient ?_
+*Comment l'éducation thérapeutique est-elle intégrée dans le circuit de prise en charge du patient ?*
 
 Dès le dépistage, une première séance d'éducation thérapeutique est proposée au patient dans le but d'améliorer ses connaissances sur l'infection par le VIH et d'expliquer les comportements à adopter ; tout ceci, après avoir évalué ses connaissances préalables. Cette séance est suivie d'une deuxième qui mesure les acquisitions.
 
@@ -76,27 +76,27 @@ L'ETP est une méthode éducative utilisant plusieurs activités, plusieurs outi
 
 </table>
 
-_Qu'est ce que l'éducation thérapeutique a apporté dans la prise en charge des patients vivant avec le VIH ?_
+*Qu'est ce que l'éducation thérapeutique a apporté dans la prise en charge des patients vivant avec le VIH ?*
 
 Nous observons une réelle relation de confiance qui se crée entre la personne infectée ou affectée et l'éducatrice. Les personnes infectées ayant parfois plus de facilité à échanger sur certains problèmes avec les éducatrices qu'avec les médecins. Ceci élargi le cercle des acteurs impliqués et sort le malade de la relation exclusive médecin-patient.
 
 ## II. Décentralisation des activités d'éducation thérapeutique
 
-_Qu'est ce qui a motivé le développement de l'éducation thérapeutique dans les centres de soin périphériques ?_
+*Qu'est ce qui a motivé le développement de l'éducation thérapeutique dans les centres de soin périphériques ?*
 
 La Clinique Louis Pasteur (CLP) a contribué à la création de plusieurs de ces sites. Ayant mesuré les avantages de l'éducation thérapeutique, nous avons pensé qu'il importait d'ouvrir aussi ces services dans les centres périphériques. De plus l'éducation thérapeutique devait contribuer valablement à améliorer la connaissance de la maladie dans la population générale. Les personnes infectées ou affectées deviennent de véritables relais pour infuser une bonne connaissance de la maladie dans la population.
 
-_Sur quels critères s'est effectuée la sélection des sites ?_
+*Sur quels critères s'est effectuée la sélection des sites ?*
 
 La sélection des sites s'est faite sur la base des villages d'origine des malades qui fréquentaient la CLP avec le souci de réduire les coûts de déplacement et de rapprocher les services des personnes vivant avec le VIH.
 
-_Comment avez-vous procédé pour former les éducateurs des centres périphériques ?_
+*Comment avez-vous procédé pour former les éducateurs des centres périphériques ?*
 
 Notre module de formation s'est déroulé en quatre étapes :
 
-1.  Formation théorique et pratique à la CLP pendant 5 jours.  
-2.  Formation pratique sur le site de l'agent formé : une éducatrice de la CLP se rend sur le site concerné pendant 5 jours.  
-3.  La personne formée écrit un mémoire de 8 à 10 pages.  
+1.  Formation théorique et pratique à la CLP pendant 5 jours.
+2.  Formation pratique sur le site de l'agent formé : une éducatrice de la CLP se rend sur le site concerné pendant 5 jours.
+3.  La personne formée écrit un mémoire de 8 à 10 pages.
 4.  Délivrance d'une attestation de formation en éducation thérapeutique.
 
 Après la phase de formation, nous n'intervenons plus de manière spécifique sur le site. Mais des échanges se font avec ces centres dans le cadre du réseau régional de soins et de formation.
@@ -105,13 +105,13 @@ Après la phase de formation, nous n'intervenons plus de manière spécifique su
 
 Les 4 médecins de la CLP impliqués dans la prise en charge et les 3 éducatrices animent la formation théorique et pratique :
 
-*   Les médecins pour l'aspect théorique de la formation.  
-*   Les éducatrices pour les aspects pratiques notamment l'utilisation des outils lors des séances et l'accompagnement sur les sites respectifs dans le cadre de la formation.
+- Les médecins pour l'aspect théorique de la formation.
+- Les éducatrices pour les aspects pratiques notamment l'utilisation des outils lors des séances et l'accompagnement sur les sites respectifs dans le cadre de la formation.
 
 Le programme se décompose en deux modules :
 
 1.  Module tronc commun : destiné aux soignants des services de soins pratiquant ou non la prise en charge. L'objectif est de les sensibiliser à la prise en charge globale du VIH.  
-    Les principaux thèmes abordés sont : le VIH, les modalités de la transmission, la prévention de la transmission, l'histoire naturelle, la prise en charge globale (PCE) de l'adulte, de l'enfant et de la gestion avec introduction à l'éducation thérapeutique.  
+    Les principaux thèmes abordés sont : le VIH, les modalités de la transmission, la prévention de la transmission, l'histoire naturelle, la prise en charge globale (PCE) de l'adulte, de l'enfant et de la gestion avec introduction à l'éducation thérapeutique.
 2.  Module spécifique ETP : destiné aux futures éducatrices.  
     Les principaux thèmes abordés sont : l'historique du concept d'éducation thérapeutique, la faisabilité, la justification, les moments, les outils, la pérennisation.
 
@@ -125,30 +125,30 @@ Une éducatrice de la CLP accompagne les futures éducatrices au cours des premi
 
 Les sujets portent obligatoirement sur l'éducation thérapeutique en insistant sur des situations pratiques observées sur le site. Par exemple :
 
-1.  Établir une planification du programme d'éducation thérapeutique à mettre en place sur un site ayant formé 2 éducateurs et ayant déjà une file active de 400 PWIH sous ARV et qui souhaite impliquer absolument tous ses patients.  
+1.  Établir une planification du programme d'éducation thérapeutique à mettre en place sur un site ayant formé 2 éducateurs et ayant déjà une file active de 400 PWIH sous ARV et qui souhaite impliquer absolument tous ses patients.
 2.  Un patient de 50 ans, Yoruba, gardien est suivi sur votre site pour une infection par le VIH. Il est sous D4T + 3TC + EFZ. Depuis 6 mois il a arrêté de prendre les ARV car il ne trouve pas d'amélioration et dit que si les ARV ne guérissent pas la maladie à quoi bon continuer... d'ailleurs les ARV le fatiguent et l'empêchent de travailler. Que diriez vous à ce patient ? Sur quels points insister dans votre éducation thérapeutique ?
 3.  Les difficultés de mise en place d'un programme d'éducation thérapeutique sur votre site : formulation et approche de solutions.
 
-_Avez-vous d'autres projets de décentralisation ?_
+*Avez-vous d'autres projets de décentralisation ?*
 
 Cette année 2007, nous devons réaliser deux cycles de formation de 10 personnes par cycle. Tous les centres et quelques associations et ONG des départements de l'Ouémé et du Plateau seront ainsi concernés.
 
-_Quels ont été les points forts de cette démarche de décentralisation?_
+*Quels ont été les points forts de cette démarche de décentralisation?*
 
 Les formateurs sont des acteurs du terrain motivés.  
 La qualité de la formation qui, en même temps que la formation spécifique en éducation thérapeutique, donne aux participants des notions justes en matière d'infection par le VIH. Ainsi, la formation en éducation thérapeutique améliore la connaissance de la maladie parmi les agents de santé.
 
 Même dans des centres périphériques, les PVVIH ont accès à ce service de qualité sans devoir parcourir une grande distance vers Porto-Novo.
 
-_Quels pourraient être les points à améliorer ?_
+*Quels pourraient être les points à améliorer ?*
 
 Une bonne sélection des participants aux formations en éducation thérapeutique doit être assurée par les responsables de site en vue de ne retenir que des soignants motivés.
 
-_Quels conseils donneriez vous à une structure hospitalière qui souhaite décentraliser les activités d'éducation thérapeutique ?_
+*Quels conseils donneriez vous à une structure hospitalière qui souhaite décentraliser les activités d'éducation thérapeutique ?*
 
-*   Disposer d'un pool de formateurs bien formés et connaissant bien le terrain, d'un équipement adapté à la formation (local, kit de vidéo projection), un programme et des modules de formation.  
-*   Se rendre sur les sites concernés par la décentralisation.  
-*   Identifier comme participants à former, des agents motivés.
+- Disposer d'un pool de formateurs bien formés et connaissant bien le terrain, d'un équipement adapté à la formation (local, kit de vidéo projection), un programme et des modules de formation.
+- Se rendre sur les sites concernés par la décentralisation.
+- Identifier comme participants à former, des agents motivés.
 
 <table>
 
@@ -184,9 +184,7 @@ Respecter le secret médical, faire des recherches pour renforcer ses connaissan
 
 </table>
 
-
 ![](i1089-1.jpg)
-
 
 <table>
 
@@ -223,4 +221,4 @@ Rester patient et ne pas s'énerver avec les malades. Savoir répéter les conse
 
 </table>
 
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

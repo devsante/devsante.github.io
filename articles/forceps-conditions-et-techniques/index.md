@@ -18,13 +18,11 @@ Il est classique de dire que c'est à Peter Chamberlain (1560-1631) que revient 
 
 **Description**
 
-Il existe des forceps à branches croisées (exemple : le forceps de Tarnier composé de 3 pièces: deux branches droite et gauche et un tracteur articulé au milieu des branches) (_figure n° 1_) et des forceps à branches non croisées. (exemple : le forceps de Démelin Suzor composé de 4 pièces: deux branches, une barre d'articulation aux extrémités des branches et une vis de pression. Chaque opérateur se sert de l'instrument qui lui convient et dont il a l'habitude.
-
+Il existe des forceps à branches croisées (exemple : le forceps de Tarnier composé de 3 pièces: deux branches droite et gauche et un tracteur articulé au milieu des branches) (*figure n° 1*) et des forceps à branches non croisées. (exemple : le forceps de Démelin Suzor composé de 4 pièces: deux branches, une barre d'articulation aux extrémités des branches et une vis de pression. Chaque opérateur se sert de l'instrument qui lui convient et dont il a l'habitude.
 
 ![](i800-2.jpg)
 
 ![](i800-1.jpg)
-
 
 **Conditions de sécurité** **d'application du forceps**
 
@@ -60,9 +58,9 @@ L'application de forceps est une opération nécessitant rigueur, attention et r
 
 - exécuter les manœuvres méthodiquement et lentement,
 
-- mettre en place les cuillers _(figure n° 2A),_
+- mettre en place les cuillers *(figure n° 2A),*
 
-- articuler les forceps (tracteur ou basse articulation) (_figure n° 2B),_
+- articuler les forceps (tracteur ou basse articulation) (*figure n° 2B),*
 
 - vérifier la prise sur la présentation par le toucher : prise systématique et suffisamment enfoncée,
 
@@ -76,14 +74,12 @@ L'application de forceps est une opération nécessitant rigueur, attention et r
 
 - s'assurer de l'absence de lésions de la filière génitale (col, vagin).
 
-
 ![](i800-3.jpg)
 
 ![](i800-4.jpg)
-
 
 **Conclusion**
 
 Réduire la deuxième partie du travail, notamment la période d'expulsion tout en respectant strictement les conditions et les procédures permettront de réduire les dangers du forceps et d'apporter un bénéfice maximal au fœtus et à la maman.
 
-_Développement et Santé, n° 137, octobre 1998_
+*Développement et Santé, n° 137, octobre 1998*

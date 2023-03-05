@@ -4,9 +4,9 @@ author: "le Fonds national suisse de la recherche scientifique : \" Gestion d'un
 date: "1996-02-05"
 ---
 
-**Le rôle des organisations non gouvernementales dans la lutte contre le sida :****exemple des projets dynamisateurs au Tchad (1)**
+**Le rôle des organisations non gouvernementales dans la lutte contre le sida :exemple des projets dynamisateurs au Tchad (1)**
 
-(1) Le concept de " projet dynamisateur " est apparu à l'occasion d'un projet de recherche financé par le Fonds national suisse de la recherche scientifique : " Gestion d'un espace urbain dévaforisé par ses habitants ". Projet ri 5001 - 038110. Il a été approfondi lors de discussion avec des consultants de la Banque mondiale (Dr Farza) et est appuyé sur les plans conceptuels, financiers et techniques par le Fonds de soutien aux activités en matière de population.
+\(1\) Le concept de " projet dynamisateur " est apparu à l'occasion d'un projet de recherche financé par le Fonds national suisse de la recherche scientifique : " Gestion d'un espace urbain dévaforisé par ses habitants ". Projet ri 5001 - 038110. Il a été approfondi lors de discussion avec des consultants de la Banque mondiale (Dr Farza) et est appuyé sur les plans conceptuels, financiers et techniques par le Fonds de soutien aux activités en matière de population.
 
 **par Émile Jeannée, Amina Inoua, Abni Oumar Mahamat Saleh**
 
@@ -68,9 +68,9 @@ D'où l'idée d'identifier à la marge de ces groupes cibles, des organismes rel
 
 Le BASE est une structure en prise directe avec les problèmes de développement qui a des activités de niveau professionnel dans les domaines suivants :
 
-*   santé publique,
-*   protection et promotion de l'environnement,
-*   développement communautaire.
+- santé publique,
+- protection et promotion de l'environnement,
+- développement communautaire.
 
 Attentif à son positionnement par rapport à l'action, le BASE intervient, selon les circonstances, en tant que :
 
@@ -86,13 +86,19 @@ Par rapport à d'autres ONG, le BASE se caractérise par le fait qu'il mène aus
 
 Conformément à la stratégie décrite ci-dessus et en accord avec les priorités définies de manière concertée au niveau national, l'action du BASE comme organisme relais couvre les objectifs suivants :
 
-*   diminuer la transmission du sida à partir de communications menées :
+- diminuer la transmission du sida à partir de communications menées :
+
+<!-- -->
 
 - au sein de la communauté à travers le réseau d'associations et groupements (formels et informels) avec lesquels le BASE interagit déjà : comité de santé, association de femmes, comités d'assainissement, jeunes de la rue, drogués, filles mères, clubs de jeunes prostituées, etc.) ;
 
 - dans les services sanitaires et sociaux appuyés dans leurs activités entrant dans le cadre d'un programme de développement des structures des ministères de la Santé et des Affaires sociales.
 
-*   réduire l'impact individuel, familial et communautaire en :
+<!-- -->
+
+- réduire l'impact individuel, familial et communautaire en :
+
+<!-- -->
 
 - stimulant et appuyant des initiatives individuelles et collectives de prise en charge des malades (HTA, diabète, tuberculose et aussi sida) au sein de la communauté (tontines pour le paiement des ordonnances, différentes formes de mutuelles populaires, appui à l'engagement des personnels soignants dans le soutien à domicile aux malades) ;
 
@@ -104,7 +110,9 @@ Conformément à la stratégie décrite ci-dessus et en accord avec les priorit�
 
 • expérience avec les malades chroniques : tuberculeux, diabétiques, hypertendus).
 
-*   réduire l'impact socio-économique par :
+- réduire l'impact socio-économique par :
+
+<!-- -->
 
 - l'amélioration de l'accessibilité économique et culturelle aux soins : rationalisation des traitements, recouvrement des coûts, mise à disposition des médicaments essentiels, promotion de la médecine traditionnelle ;
 
@@ -120,7 +128,7 @@ Dans le cadre de l'exécution du plan à moyen terme de lutte contre le sida, le
 
 Le principe d'un partenariat à partir d'organismes relais entre le programme national et les groupes cibles, repose sur le constat suivant formulé sous forme d'hypothèse de départ :
 
-_Toute personne ou tout groupement constitue une ressource essentielle ayant la capacité d'analyser les situations qui le concernent et de discerner celles qu'il estime prioritaires pour concevoir et assumer leur prise en charge._
+*Toute personne ou tout groupement constitue une ressource essentielle ayant la capacité d'analyser les situations qui le concernent et de discerner celles qu'il estime prioritaires pour concevoir et assumer leur prise en charge.*
 
 En d'autres termes :
 
@@ -162,4 +170,4 @@ Il le fait à travers :
 
 Apparaît une dynamique fondatrice, un forum, espace d'échanges et de partages entre partenaires impliqués dans des actions de divers ordres, qui devient le foyer d'animation d'un développement autogène et durable.
 
-_Développement et Santé, n°121, février 1996_
+*Développement et Santé, n°121, février 1996*

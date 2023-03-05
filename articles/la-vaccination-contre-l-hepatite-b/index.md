@@ -24,9 +24,7 @@ Il est recommandé d'injecter le vaccin par voie intramusculaire dans la région
 Deux protocoles ont été longtemps opposés (figure1), un schéma « à la française » avec trois injections distantes de 1 mois, rappel après un an (schéma dit 0-1-2-12) et un sché¬ma «anglo-saxon» avec deux injections initiales distantes d'un mois, rappel au bout de 6 mois (schéma dit 0-1-6).  
 Le schéma 0-1-6 est de plus en plus recom¬mandé (il permet de faire l'économie d'une injection), sauf si l'on souhaite obtenir une immunisation rapide, auquel cas le schéma 0-1-2-12 est préconisé.
 
-
 ![](image002-n151.jpg)
-
 
 ## III. Immunogénécité
 
@@ -40,9 +38,7 @@ Ces facteurs de moindre ou de non-réponse ne sont pas rencontrés chez les nouv
 L'efficacité de la vaccination a été vérifiée dès 1976, il a été prouvé que le vaccin permettait de prévenir très efficacement toutes les infec¬tions par le VHB : hépatites aiguës et portage chronique chez les sujets ou patients à haut risque. Ainsi, on a assisté à une quasi-dispari¬tion des hépatites B chez les professionnels de santé (figure 2). En ce qui concerne les populations vaccinées, on a obtenu, en fonction du taux de couverture (66 à 96 %), des réductions du portage chronique allant de 69 à 10 %. Initialement on avait, faute de recul, considéré qu'il y avait lieu de recommander des rappels tous les 5 ans après la vaccination complète initiale, maintenant, on sait à partir de plu¬sieurs analyses de la littérature que la durée de la protection conférée par la vaccination d'un sujet immunocompétent dépasse 10 ans. Pour les immunodéprimés, les insuffisants rénaux, des posologies plus élevées et des rappels res¬tent recommandés.  
 On a pu démontrer que la vaccination pouvait prévenir non seulement les hépatites aiguës et les hépatites chroniques, mais aussi les cancers primitifs du foie. Ainsi, à Taïwan, l'incidence des hépatomes chez les sujets de 6 à 14 ans est passée de 0,7/100 000 à 0,36/100 000 dans les 10 ans qui ont suivi la mise en place d'un programme de vaccination contre l'hépatite B. Ceci fait du vaccin contre l'hépatite B le premier vaccin anticancéreux, protégeant contre un cancer très fréquent en Afrique, l'hépatome ou hépatocarcinome dû le plus souvent au VHB.
 
-
 ![](image004-n151-12112.jpg)
-
 
 ## V. Contre-indications et effets indésirables
 
@@ -53,7 +49,7 @@ Les polémiques qui se sont développées en France ne sauraient remettre en que
 
 Le vaccin contre l'hépatite B a démontré une efficacité remarquable, il a permis une quasi-disparition des hépatites B chez les professionnels de santé et un très net recul chez les patients à risque d'exposition au sang. Son efficacité pour prévenir les infections transmises sexuellement ou de la mère à l'enfant a également été largement démontrée. Le vaccin, après 3 ou 4 injections, confère une protection de longue durée, probablement à vie. Vu la fréquence et la gravité des hépatites B notamment en Afrique, il est indispensable d'intégrer rapidement ce vaccin dans les calendriers vaccinaux des différents pays du continent africain. Cela peut être réalisé d'autant plus facile¬ment que le vaccin contre l'hépatite B peut être administré simultanément avec les autres vaccins, soit en des sites différents, soit dans la même seringue pour les vaccins combinés. Cette vaccination universelle devrait permettre de réduire rapidement le taux de portage chronique et à plus long terme (10 à 30 ans) de prévenir les hépatocarcinomes.
 
-_Les avantages de la vaccination l'emportent très largement sur les inconvénients hypothétiques qui n'ont jamais été démontrés.  
-La Rédaction_
+*Les avantages de la vaccination l'emportent très largement sur les inconvénients hypothétiques qui n'ont jamais été démontrés.  
+La Rédaction*
 
 Développement et Santé, février 2001

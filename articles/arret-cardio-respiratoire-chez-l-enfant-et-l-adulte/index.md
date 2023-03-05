@@ -106,7 +106,7 @@ Un effort important doit porter sur sa prévention, c'est-à-dire sur l'identifi
 
 ## I. Diagnostic ou reconnaissance de l’Arrêt Cardio-Respiratoire (ACR)
 
-C’est un arrêt brutal de la circulation et de la ventilation qui se manifeste par une absence de signe de vie. Le patient inconscient ne répond pas aux stimulations et ne ventile pas ou présente une respiration agonique (gasp*). Le témoin non secouriste n’a pas à rechercher l’absence de pouls. La rapidité du diagnostic d’arrêt cardiorespiratoire est primordiale (moins de 10 secondes).
+C’est un arrêt brutal de la circulation et de la ventilation qui se manifeste par une absence de signe de vie. Le patient inconscient ne répond pas aux stimulations et ne ventile pas ou présente une respiration agonique (gasp\*). Le témoin non secouriste n’a pas à rechercher l’absence de pouls. La rapidité du diagnostic d’arrêt cardiorespiratoire est primordiale (moins de 10 secondes).
 
 ## II. Réanimation cardio-pulmonaire (RCP) de base
 
@@ -118,19 +118,17 @@ Chez un enfant, une cause respiratoire est la plus probable.
 
 La séquence consiste successivement et dans l'ordre suivant à :
 
-*   libérer les voies aériennes,
-*   faire cinq insufflations puis, en l’absence d’une reprise d’une ventilation spontanée après 5 insufflations efficaces,
-*   entreprendre la RCP pendant 1 minute, soit quatre à cinq séquences compression et ventilation alternées, au terme desquelles on alerte les secours,
-*   après l'appel téléphonique, le sauveteur reprend les séquences compression et ventilation  lternées jusqu'à l'arrivée des secours,
-*   lorsque deux sauveteurs sont sur place d'emblée, l'un débute cette séquence pendant que le second alerte les secours.
+- libérer les voies aériennes,
+- faire cinq insufflations puis, en l’absence d’une reprise d’une ventilation spontanée après 5 insufflations efficaces,
+- entreprendre la RCP pendant 1 minute, soit quatre à cinq séquences compression et ventilation alternées, au terme desquelles on alerte les secours,
+- après l'appel téléphonique, le sauveteur reprend les séquences compression et ventilation  lternées jusqu'à l'arrivée des secours,
+- lorsque deux sauveteurs sont sur place d'emblée, l'un débute cette séquence pendant que le second alerte les secours.
 
 Chez un sujet âgé, un trouble du rythme est le plus probable et on débute la séquence compression-ventilation par les compressions.
 
-_**Figure 1**_
-
+***Figure 1***
 
 ![](arbre-decisionnel-rcp-de-base.jpg)
-
 
 ### 2. Séquence de réanimation de base pédiatrique
 
@@ -147,13 +145,11 @@ Le sauveteur fait 5 insufflations par bouche à bouche chez les enfants âgés d
 
 La ventilation est efficace quand il y a une expansion thoracique lors des insufflations. En cas de ventilation inefficace, une obstruction des voies aériennes par un corps étranger est à envisager.
 
-_**Figure 2** _                                                                                         _ **Figure 3**_
+***Figure 2** \_                                                                                         \_ **Figure 3***
 
-
-![](image001-2.jpg)
-                    
+![](image001-2.jpg)  
+                      
 ![](image002-1.gif)
-
 
 #### c) Massage cardiaque externe (MCE)
 
@@ -161,28 +157,23 @@ Il est débuté après une prise de pouls par un soignant ; la recherche du poul
 
 **La technique du MCE varie selon l’âge :**
 
-*   chez le nourrisson et jusqu’à l’âge de 1 an, on peut utiliser la “technique des 2 pouces encerclant le thorax” ( figure 4) ou la “technique des 2 doigts d’une main” ( figure 5).  
-*   chez les enfants âgés de plus de 1 an, on utilise la “technique à 1 main” ( figure 6) ou la “technique à 2 mains” ( figure 7).
+- chez le nourrisson et jusqu’à l’âge de 1 an, on peut utiliser la “technique des 2 pouces encerclant le thorax” ( figure 4) ou la “technique des 2 doigts d’une main” ( figure 5).
+- chez les enfants âgés de plus de 1 an, on utilise la “technique à 1 main” ( figure 6) ou la “technique à 2 mains” ( figure 7).
 
-_**Figure 4                                                                             Figure 5                                     **_
+***Figure 4                                                                             Figure 5                                     ***
 
- 
-![](arretcardiaquefig4.jpg)
-        
+   
+![](arretcardiaquefig4.jpg)  
+         
 ![](image003.gif)
 
-
-_**Figure 6**_
-
+***Figure 6***
 
 ![](arret-cardiaque-fig6.jpg)
 
-
-_**Figure 7**_
-
+***Figure 7***
 
 ![](arretcardiaquefig7.jpg)
-
 
 <table>
 
@@ -204,8 +195,8 @@ Le MCE se fait sur un plan dur avec une dépression de 1/3 du diamètre antéro-
 
 ### 3. Séquence de réanimation de base adulte
 
-*   Elle s'applique aussi aux enfants pubères, aux enfants porteurs d'une cardiopathie connue et à ceux qui s'écroulent brutalement devant témoin, sans notion de traumatisme.  
-*   Du fait de l'âge ou des circonstances brutales de l'arrêt cardiaque, l'hypothèse d'un trouble du rythme ventriculaire est privilégiée. La séquence consiste donc, dans un premier temps, à appeler les secours, à libérer les voies aériennes puis à commencer les compressions thoraciques alternées avec les insufflations selon un rythme 30 compressions-deux insufflations et cela jusqu'à l'arrivée des secours.
+- Elle s'applique aussi aux enfants pubères, aux enfants porteurs d'une cardiopathie connue et à ceux qui s'écroulent brutalement devant témoin, sans notion de traumatisme.
+- Du fait de l'âge ou des circonstances brutales de l'arrêt cardiaque, l'hypothèse d'un trouble du rythme ventriculaire est privilégiée. La séquence consiste donc, dans un premier temps, à appeler les secours, à libérer les voies aériennes puis à commencer les compressions thoraciques alternées avec les insufflations selon un rythme 30 compressions-deux insufflations et cela jusqu'à l'arrivée des secours.
 
 #### a) Libération des voies aériennes
 
@@ -241,11 +232,9 @@ Le tracé électrocardiographique permet de distinguer les rythmes “défibrill
 
 électrique sans pouls). Cette distinction conditionne la suite de la prise en charge comme le montre l’arbre décisionnel de défibrillation ( figure 8).
 
-_**Figure 8**_
-
+***Figure 8***
 
 ![](arbre-decisionnel-encasde-defibrillation.jpg)
-
 
 Les défibrillateurs automatisés externes ne sont pas recommandés pour l’enfant de moins de 1 an mais ils sont actuellement fiables chez l'enfant âgé de plus de 1 an. Chez les enfants de
 
@@ -287,11 +276,9 @@ Après défibrillation le rythme est analysé au terme de ces 2 minutes de RCP. 
 
 en bolus est faite.
 
-_**Figure 9**_
-
+***Figure 9***
 
 ![](fig9algorythmercpmedicaliselouvet.png)
-
 
 #### c) Autres traitements
 
@@ -301,8 +288,8 @@ Au cours de cette séquence, les causes traitables d'arrêt cardiaque doivent ê
 
 Une fois un rythme sinusal restauré, il est indispensable :
 
-*   de confirmer la reprise d'une circulation efficace par la recherche d'un pouls central palpable,
-*   de traiter une dysfonction myocardique, fréquente après ACR, par l’introduction d’adrénaline en continu,
+- de confirmer la reprise d'une circulation efficace par la recherche d'un pouls central palpable,
+- de traiter une dysfonction myocardique, fréquente après ACR, par l’introduction d’adrénaline en continu,
 
 Le patient est ventilé en normoxie (FiO<sub>2</sub> minimale pour SpO<sub>2</sub> > 94 %) et normocapnie. Il faut lutter contre l’hyperthermie et une hypothermie (32 à 34°C) est proposée pendant 12 à 24 h. Il faut
 
@@ -338,19 +325,19 @@ La prévention repose sur l’identification des situations à risque avec le r�
 
 ### Définitions
 
-*   **Asystolie** : tracé plat ou absence d’activité cardiaque électrique.  
-*   **Défibrillateur monophasique ou biphasique** : l’efficacité du défibrillateur biphasique est meilleure. Il agit non seulement plus rapidement, mais réduit les risques de traumatisme. Il a été reconnu que la défibrillation par onde biphasique est bien plus pratique que celle qui envoie une onde monophasique. En effet, lors de l’action de défibrillation, certaines cellules sont susceptibles d’être stimulées, tandis que d’autres qui sont déjà stimulées, ne sont plus excitables. Avec une onde monophasique, ces cellules non excitables ne réagissent pas à un seul choc. Par contre, si un autre choc de sens contraire succède immédiatement au premier, un phénomène de repolarisation peut être suscité. C’est le but de la défibrillation par onde biphasique qui, comme son nom le démontre, s’effectue en deux phases.  
-*   **Fibrillation ventriculaire** (figure 10) : trouble du rythme cardiaque correspondant à la contraction rapide, désorganisée et inefficace des ventricules cardiaques. A l’électrocardiogramme (ECG), on observe des ondulations anarchiques, d’amplitude et de fréquence variables. Une FV démarre généralement comme une salve de tachycardie ventriculaire rapide et régulière avec des complexes QRS larges qui se fragmentent ensuite, prenant un aspect d'ondulations rapides et désordonnées. En l’absence de défibrillation immédiate, ces ondulations se raréfient et disparaissent jusqu’à un tracé plat.
+- **Asystolie** : tracé plat ou absence d’activité cardiaque électrique.
+- **Défibrillateur monophasique ou biphasique** : l’efficacité du défibrillateur biphasique est meilleure. Il agit non seulement plus rapidement, mais réduit les risques de traumatisme. Il a été reconnu que la défibrillation par onde biphasique est bien plus pratique que celle qui envoie une onde monophasique. En effet, lors de l’action de défibrillation, certaines cellules sont susceptibles d’être stimulées, tandis que d’autres qui sont déjà stimulées, ne sont plus excitables. Avec une onde monophasique, ces cellules non excitables ne réagissent pas à un seul choc. Par contre, si un autre choc de sens contraire succède immédiatement au premier, un phénomène de repolarisation peut être suscité. C’est le but de la défibrillation par onde biphasique qui, comme son nom le démontre, s’effectue en deux phases.
+- **Fibrillation ventriculaire** (figure 10) : trouble du rythme cardiaque correspondant à la contraction rapide, désorganisée et inefficace des ventricules cardiaques. A l’électrocardiogramme (ECG), on observe des ondulations anarchiques, d’amplitude et de fréquence variables. Une FV démarre généralement comme une salve de tachycardie ventriculaire rapide et régulière avec des complexes QRS larges qui se fragmentent ensuite, prenant un aspect d'ondulations rapides et désordonnées. En l’absence de défibrillation immédiate, ces ondulations se raréfient et disparaissent jusqu’à un tracé plat.
 
-                  
-![](torsadezoom.jpg)
- _**Figure 10. Tracé ECG de fibrillation ventriculaire**_
+                    
+![](torsadezoom.jpg)  
+ ***Figure 10. Tracé ECG de fibrillation ventriculaire***
 
-*   **FiO<sub>2</sub>** ou fraction inspirée d’oxygène : elle est exprimée en pourcentage ou en fraction de 1. Dans l’air ambiant, elle est de 21% ou 0,21. Un apport d’oxygène par des lunettes ou un masque facial permet d’enrichir cet apport qui est généralement adapté pour obtenir une saturation percutanée en oxygène supérieure (SpO2) à 95%.  
-*   **Gasp ou respiration agonique** : respiration bruyante pendant quelques dizaines de secondes, qui précède l’arrêt respiratoire où on ne perçoit plus la respiration, on ne sent pas le souffle avec la joue, on ne voit pas la poitrine ou le ventre se lever ni se baisser.  
-*   **SpO<sub>2</sub>** ou mesure percutanée de la saturation en oxygène de l’hémoglobine : la SpO<sub>2</sub> est très proche de la SaO2, qui est la saturation artérielle en oxygène. La SpO2 normale mesurée en air ambiant par un oxymètre de pouls est comprise entre 96 % et 100 %.  
-*   Tamponnade péricardique : épanchement liquidien de grande abondance dans le péricarde, entraînant une compression aiguë du coeur et une inefficacité cardiaque.  
-*   Torsade de pointe : type particulier de tachycardie ventriculaire avec des complexes QRS qui changent d’axe, donnant un aspect de torsion autour de la ligne isoélectrique.
+- **FiO<sub>2</sub>** ou fraction inspirée d’oxygène : elle est exprimée en pourcentage ou en fraction de 1. Dans l’air ambiant, elle est de 21% ou 0,21. Un apport d’oxygène par des lunettes ou un masque facial permet d’enrichir cet apport qui est généralement adapté pour obtenir une saturation percutanée en oxygène supérieure (SpO2) à 95%.
+- **Gasp ou respiration agonique** : respiration bruyante pendant quelques dizaines de secondes, qui précède l’arrêt respiratoire où on ne perçoit plus la respiration, on ne sent pas le souffle avec la joue, on ne voit pas la poitrine ou le ventre se lever ni se baisser.
+- **SpO<sub>2</sub>** ou mesure percutanée de la saturation en oxygène de l’hémoglobine : la SpO<sub>2</sub> est très proche de la SaO2, qui est la saturation artérielle en oxygène. La SpO2 normale mesurée en air ambiant par un oxymètre de pouls est comprise entre 96 % et 100 %.
+- Tamponnade péricardique : épanchement liquidien de grande abondance dans le péricarde, entraînant une compression aiguë du coeur et une inefficacité cardiaque.
+- Torsade de pointe : type particulier de tachycardie ventriculaire avec des complexes QRS qui changent d’axe, donnant un aspect de torsion autour de la ligne isoélectrique.
 
 <table>
 
@@ -360,7 +347,7 @@ La prévention repose sur l’identification des situations à risque avec le r�
 
 <td>
 
-Présentation et dilution de l’épinéphrine ou adrénaline  
+Présentation et dilution de l’épinéphrine ou adrénaline
 
 <ul><li>Distinguer les différentes dilutions d’adrénaline avant de l’administrer. Il existe des ampoules</li><li>de1 ml contenant 0,25 mg, 0,5mg, 1 mg, 5mg.</li><li>Dilution 1/1000 soit 1 ampoule 1ml = 1mg.</li><li>Dilution 1/10 000 soit une ampoule de 1 ml = 1 mg diluée avec 9 ml de sérum physiologique.</li><li>1mg = 1/1000 g et 1 μg ou microgramme = 1/1 000 000 g.</li></ul></td>
 
@@ -370,7 +357,8 @@ Présentation et dilution de l’épinéphrine ou adrénaline
 
 </table>
 
-<table>
+\$1<table>
+
 <caption>Tableau 2 : causes réversibles des arrêts cardiaques de l'enfant</caption>
 
 <tbody>
@@ -419,7 +407,8 @@ Température
 
 </table>
 
-<table>
+\$1<table>
+
 <caption>Tableau 3 : médicaments de la RCP</caption>
 
 <thead>

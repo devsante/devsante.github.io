@@ -9,9 +9,7 @@ La transmission du virus d’une personne à l’autre est principalement   f�
 
 ## I. Hépatite A dans le monde
 
-
 ![](page-51-carte-hepatite.jpg)
-
 
 Dans les zones de forte endémicité, la plupart des habitants contractent l’infection dans l’enfance et elle reste asymptomatique. Il y a une corrélation directe entre l’âge et le risque de développer une forme symptomatique de la maladie à la suite de l’infection par le HAV. Chez les enfants de moins de 6 ans, elle reste en général asymptomatique, seuls 10 % d’entre eux développent un ictère. Produits en réaction à l’infection, les anticorps persistent ensuite toute la vie, protégeant la personne. Ainsi, les sujets qui ont fait un  
 épisode d’hépatite A sont immunisés à vie et n’ont pas besoin d’être  vaccinés. On observe donc rarement l’hépatite A clinique dans ces régions.  
@@ -134,4 +132,4 @@ Rappel hépatite A de M6 à M12 (refaire une injection si le risque de fièvre t
 
 </table>
 
-_Développement et Santé, N° 200, 2012_
+*Développement et Santé, N° 200, 2012*

@@ -20,13 +20,11 @@ Le drain peut être placé dans une cavité naturelle (cavité péritonéale, ve
 
 Le mode de drainage et le type de drain choisi dépendent étroitement de la cavité à drainer.
 
-### **1.** Mode de drainage
+### 1. Mode de drainage
 
 On oppose le drainage passif et le drainage actif.
 
-
 ![](i533-1.jpg)
-
 
 #### Le drainage passif
 
@@ -42,15 +40,11 @@ Lorsque l'on utilise ce type de drainage aspiratif, il faut pouvoir contrôler e
 
 Les drains les plus utilisés sont les drains tubulaires, les lames, les drains aspiratifs et les mèches. D'autres systèmes sont parfois utilisés : faisceau de crins, système d'irrigation et aspiration ou sac de Mikulicz.
 
-
 ![](i533-2.jpg)
-  
 
 C'est un simple tube de calibre variant de 2 à 10 mm. Il était souvent en caoutchouc mais ce matériau est irritant pour les tissus au contact et provoque une réaction inflammatoire et adhérentielle pas toujours souhaitée. Mais c'est un matériau que l'on trouve partout, peu onéreux, et qui peut rendre service. Actuellement le caoutchouc est remplacé par des plastiques silicones plus souples, inertes, mieux tolérés, et de plus transparents. Il y a toujours intérêt à choisir un tube de bon calibre qui n'aura pas tendance à se boucher (n° 30 ch. par exemple, pour un drain abdominal, calibre 6 à 10 mm).
 
-
 ![](i533-3.jpg)
-
 
 La plus répandue est la lame de caoutchouc ondulée, très bon marché et encore très utilisée ; c'est un drain exclusivement passif.
 
@@ -64,21 +58,19 @@ Le plus connu est le drain de Jost-Redon, petit drain en plastique siliconé, mu
 
 #### Les drains aspiratifs avec prise d'air
 
-De très nombreux modèles sont décrits. Ils comportent en général une tubulure d'aspiration centrale et une tubulure externe ou latérale avec prise d'air pour éviter les phénomènes de succion des viscères abdominaux notamment. Certains ont en plus une tubulure d'irrigation et permettent d'aspirer et de laver en continu (en cas de péritonite ou de fistule par exemple) _(fig. 3)._
-
+De très nombreux modèles sont décrits. Ils comportent en général une tubulure d'aspiration centrale et une tubulure externe ou latérale avec prise d'air pour éviter les phénomènes de succion des viscères abdominaux notamment. Certains ont en plus une tubulure d'irrigation et permettent d'aspirer et de laver en continu (en cas de péritonite ou de fistule par exemple) *(fig. 3).*
 
 ![](i533-4.jpg)
 
-
 #### Les mèches
 
-Faites de gaze stérile, de taille variable, on les dispose en général en couches superposées dans le fond d'une cavité où elles ont un effet de drainage capillaire. En outre elles aident parfois au tamponnement et à l'hémostase d'une zone cruentée* et hémorragique. (* Cruentée : saignant à vif dépourvue de revêtement cutané.)
+Faites de gaze stérile, de taille variable, on les dispose en général en couches superposées dans le fond d'une cavité où elles ont un effet de drainage capillaire. En outre elles aident parfois au tamponnement et à l'hémostase d'une zone cruentée\* et hémorragique. (\* Cruentée : saignant à vif dépourvue de revêtement cutané.)
 
 Elles doivent être irriguées quotidiennement (avec du sérum physiologique bétadiné, ou de l'eau oxygénée), et retirées assez vite (2 à 7 jours).
 
-Le sac de Mikulicz est une sorte de sac de gaze, ayant un peu la forme d'un parachute, que l'on étale dans le fond d'une zone cruentée* et infectée (par exemple une pelvipéritonite) et dans lequel on peut en plus disposer deux à trois mèches (dites mèches à prostate) et un petit tube pour irriguer quotidiennement ce système. Les mèches sont retirées à partir du 7e jour et le sac au 12e jour.
+Le sac de Mikulicz est une sorte de sac de gaze, ayant un peu la forme d'un parachute, que l'on étale dans le fond d'une zone cruentée\* et infectée (par exemple une pelvipéritonite) et dans lequel on peut en plus disposer deux à trois mèches (dites mèches à prostate) et un petit tube pour irriguer quotidiennement ce système. Les mèches sont retirées à partir du 7e jour et le sac au 12e jour.
 
-#### Drainage filiforme : les crins dits de **" Florence "**
+#### Drainage filiforme : les crins dits de " Florence "
 
 En fait on utilise des faisceaux de fils de nylon monobrins qui ont un effet de drainage capillaire. Ils sont souvent utilisés en cas de plaies avec décollement des parties molles (cuir chevelu par exemple) et ressortent habituellement par les extrémités de la plaie.
 
@@ -94,17 +86,15 @@ Il faut éviter de placer le drain au contact direct d'une suture digestive. En 
 
 Les drains doivent être parfaitement fixés à la paroi de façon à ne pas pouvoir être
 
-mobilisés intempestivement (solide fil de nylon fixé à la peau). Ce drain ne pourra donc pas être arraché par erreur mais il faut aussi éviter qu'il se déplace vers l'intérieur de la cavité abdominale. Pour cela, il est habituel de l'entraver avec une épingle à nourrice placée en travers _(fig. 4)._
-
+mobilisés intempestivement (solide fil de nylon fixé à la peau). Ce drain ne pourra donc pas être arraché par erreur mais il faut aussi éviter qu'il se déplace vers l'intérieur de la cavité abdominale. Pour cela, il est habituel de l'entraver avec une épingle à nourrice placée en travers *(fig. 4).*
 
 ![](i533-5.jpg)
 
-
 Les soins infirmiers autour de l'orifice du drain doivent être rigoureux :
 
-*   asepsie stricte pour éviter les surinfections exogènes. L'extrémité du drain sera raccordée à une poche _(fig. 4)_ (poche à urine par exemple) que l'on peut vider sans toucher au drain. Sinon l'extrémité du drain ou de la lame est placée dans une poche de recueil collée à la peau. Enfin si ces différents matériaux ne sont pas disponibles, l'extrémité du drain sera placée dans un pansement absorbant (ouaté) régulièrement changé ;
-*   noter sur la pancarte la quantité et l'aspect du liquide recueilli quotidiennement ;
-*   informer le chirurgien en cas de modification d'aspect ou de quantité.
+- asepsie stricte pour éviter les surinfections exogènes. L'extrémité du drain sera raccordée à une poche *(fig. 4)* (poche à urine par exemple) que l'on peut vider sans toucher au drain. Sinon l'extrémité du drain ou de la lame est placée dans une poche de recueil collée à la peau. Enfin si ces différents matériaux ne sont pas disponibles, l'extrémité du drain sera placée dans un pansement absorbant (ouaté) régulièrement changé ;
+- noter sur la pancarte la quantité et l'aspect du liquide recueilli quotidiennement ;
+- informer le chirurgien en cas de modification d'aspect ou de quantité.
 
 Un drain qui ne donne rien ne doit pas être laissé en place inutilement. Il devient alors une cause d'infection potentielle. Dès qu'il n'est plus productif, souvent après un à deux jours, le drain est mobilisé et retiré progressivement de quelques centimètres chaque jour.
 
@@ -114,17 +104,15 @@ Chaque chirurgien et chaque école ayant ses habitudes il n'est pas possible d'e
 
 #### Abcès des parties molles et myosites
 
-Après incision et évacuation de l'abcès, une lame ondulée est placée par l'incision et ressort en zone déclive. L'incision elle-même n'est pas refermée. Le drain est retiré après trois à cinq jours _(fig. 5)._
-
+Après incision et évacuation de l'abcès, une lame ondulée est placée par l'incision et ressort en zone déclive. L'incision elle-même n'est pas refermée. Le drain est retiré après trois à cinq jours *(fig. 5).*
 
 ![](i533-6.jpg)
-
 
 #### Hématome
 
 Après évacuation, un drain de Redon sera placé et l'incision refermée.
 
-#### Plaie des parties molles, récente et **peu contaminée**
+#### Plaie des parties molles, récente et peu contaminée
 
 Après parage, la plaie est refermée sur une lame placée au niveau de la plaie ou d'une contre-incision.
 
@@ -168,4 +156,4 @@ Le drainage thoracique et le drainage des urines (cathétérisme sus-pubien et s
 
 Ainsi donc, selon l'usage qu'on en fait un drain peut être utile ou nocif. Il appartient à celui qui le pose de bien peser l'indication et la technique. Des soins infirmiers rigoureux et éclairés (par les explications nécessaires) éviteront bien des ennuis au malade !
 
-_Développement et Santé, n°101, octobre 1992_
+*Développement et Santé, n°101, octobre 1992*

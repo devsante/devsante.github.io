@@ -6,22 +6,17 @@ date: "1999-10-14"
 
 **Prise en charge initiale et au bloc opératoire d'un choc hypovolémique**
 
-**par C. Denantes*, D. Diango**, C.M. Samama***
-
-* Médecin anesthésiste-réanimateur. Hôpital Avicenne, Bobigny, France.  
-** Médecin anesthésiste-réanimateur. Hôpital Nianankoro Fromba, Ségou, Mali.
+**par C. Denantes*, D. Diango*\*, C.M. Samama\***- Médecin anesthésiste-réanimateur. Hôpital Avicenne, Bobigny, France.** Médecin anesthésiste-réanimateur. Hôpital Nianankoro Fromba, Ségou, Mali.
 
 L'état de choc est un état d'insuffisance circulatoire aigu caractérisé par une diminution globale de la perfusion tissulaire compromettant l'apport en oxygène au niveau cellulaire et se compliquant souvent de défaillances d'organes. Le tableau associe à l'hypotension artérielle, une tachycardie et des signes d'altération de perfusion des organes (vasoconstriction cutanée, troubles neuropsychiques...). Le choc hypovolémique survient le plus souvent lors d'une hémorragie. C'est la première cause de mortalité en traumatologie.
 
 **I. Physiopathologie**
 
-Le choc hypovolémique survient pour une diminution de la volémie de l'ordre de 30%. La baisse du volume sanguin entraîne une baisse du retour veineux. Il en résulte une diminution des pressions de remplissage cardiaque et du volume d'éjection systolique qui retentit sur le débit cardiaque et la pression artérielle (_tableau n° 1_). Cette dernière est régulée par des mécanismes compensateurs neurologiques et endocriniens auxquels se surajoutent des phénomènes d'autorégulation des débits locaux.
+Le choc hypovolémique survient pour une diminution de la volémie de l'ordre de 30%. La baisse du volume sanguin entraîne une baisse du retour veineux. Il en résulte une diminution des pressions de remplissage cardiaque et du volume d'éjection systolique qui retentit sur le débit cardiaque et la pression artérielle (*tableau n° 1*). Cette dernière est régulée par des mécanismes compensateurs neurologiques et endocriniens auxquels se surajoutent des phénomènes d'autorégulation des débits locaux.
 
 Au cours du choc hémorragique, on distingue un stade précoce réversible avec une phase initiale dite compensée où la tachycardie est isolée puis une phase secondaire avec hypotension associée à une tachychardie ou plus rarement à une bradychardie et un stade tardif décompensé et irréversible où le patient décède dans un tableau de défaillance multiviscérale.
 
-
 ![](i857-1.jpg)
-
 
 **1. Phase précoce biphasique et réversible**
 
@@ -105,15 +100,13 @@ Une oxygénation doit être systématique car le transport d'oxygène est diminu
 
 **3. Voies d'abord**
 
-Poser 2 voies veineuses périphériques de fort calibre (14-16 G). Une voie veineuse centrale n'est pas posée de 1<sup>e</sup> intention mais en cas de nécessité un cathéter de gros calibre (8 à 10 French) peut-être mis en place en privilégiant la voie fémorale plus rapidement accessible et moins dangereuse que les voies sous-clavière et jugulaire. Des systèmes de perfusion sont installés dont le débit est adapté au saignement : tubulures standards (120 ml/mn), tubulures à compression manuelle type "_Blood pump_", (200 ml/mn), poches de contre-pression pneumatiques, accélérateurs de solutés (500 ml/mn), tubulures à sang. Au système de perfusion devrait être associé un réchauffeur.
+Poser 2 voies veineuses périphériques de fort calibre (14-16 G). Une voie veineuse centrale n'est pas posée de 1<sup>e</sup> intention mais en cas de nécessité un cathéter de gros calibre (8 à 10 French) peut-être mis en place en privilégiant la voie fémorale plus rapidement accessible et moins dangereuse que les voies sous-clavière et jugulaire. Des systèmes de perfusion sont installés dont le débit est adapté au saignement : tubulures standards (120 ml/mn), tubulures à compression manuelle type "*Blood pump*", (200 ml/mn), poches de contre-pression pneumatiques, accélérateurs de solutés (500 ml/mn), tubulures à sang. Au système de perfusion devrait être associé un réchauffeur.
 
-4. Demande de produits sanguins (CG, plaquettes et plasma)
+4.  Demande de produits sanguins (CG, plaquettes et plasma)
 
-Dès l'arrivée d'un patient en état de choc hémorragique, une demande de produits sanguins avec un délai de délivrance est faite _(tableau n° 2)_ : procédure de demande de produits sanguins en cas d'urgence vitale. En l'absence de banque du sang, il faut rechercher, prélever et grouper des donneurs volontaires et bénévoles qui peuvent être des parents.
-
+Dès l'arrivée d'un patient en état de choc hémorragique, une demande de produits sanguins avec un délai de délivrance est faite *(tableau n° 2)* : procédure de demande de produits sanguins en cas d'urgence vitale. En l'absence de banque du sang, il faut rechercher, prélever et grouper des donneurs volontaires et bénévoles qui peuvent être des parents.
 
 ![](i857-2.jpg)
-
 
 **5. Remplissage**
 
@@ -135,12 +128,12 @@ L'objectif est d'assurer la survie du patient jusqu'à l'hémostase définitive 
 
 Ils sont caractérisés par un effet volume immédiat, une durée d'action et des effets secondaires différents. Les solutés nutritifs glucosés n'ont pas d'effet volume.
 
-_- Cristalloïdes_ Ce sont des solutions isotoniques (sérum physiologique à 9 pour 1000) ou hypotoniques (solution de Ringer lactate). Ils sont caractérisés par un faible effet volume (25%) et une durée d'action brève (25mn). Leurs indications sont les hypovolémies modérées voire importantes si l'on ne dispose pas de colloïdes.
+*- Cristalloïdes* Ce sont des solutions isotoniques (sérum physiologique à 9 pour 1000) ou hypotoniques (solution de Ringer lactate). Ils sont caractérisés par un faible effet volume (25%) et une durée d'action brève (25mn). Leurs indications sont les hypovolémies modérées voire importantes si l'on ne dispose pas de colloïdes.
 
-_- Colloïdes de synthèse._ Le recours à un colloïde de synthèse est légitime au-delà de 2 000 ml de cristalloïde perfusé. On distingue 3 familles :
+*- Colloïdes de synthèse.* Le recours à un colloïde de synthèse est légitime au-delà de 2 000 ml de cristalloïde perfusé. On distingue 3 familles :
 
-*   Les gélatines fluides modifiées (Haemacel®, Plasmion®) sont caractérisées par leur effet volume (80%) et leur durée d'action de 34 heures. Le seul effet indésirable est la survenue de réactions anaphylactiques. On peut les utiliser sans limite de volume dans les hémorragies importantes.  
-*   Les amidons (Hestéril® et Elohès®), sont caractérisés par leur effet volume
+- Les gélatines fluides modifiées (Haemacel®, Plasmion®) sont caractérisées par leur effet volume (80%) et leur durée d'action de 34 heures. Le seul effet indésirable est la survenue de réactions anaphylactiques. On peut les utiliser sans limite de volume dans les hémorragies importantes.
+- Les amidons (Hestéril® et Elohès®), sont caractérisés par leur effet volume
 
 (x 1,2) et leur durée d'action 4 à 8 heures pour l'Hestéril® et 12 à 24 heures pour l'Elohès®. En plus du risque allergique, moins important qu'avec les gélatines, il existe d'autres effets secondaires (troubles de l'hémostase, atteinte rénale et stéatose hépatique) qui limitent leur posologie à 30 ml/kg/24 h et leur durée d'utilisation. En pratique ils sont utilisés quand l'hémostase est faite.
 
@@ -166,13 +159,13 @@ La transfusion de plaquettes doit précéder ou accompagner la transfusion de pl
 
 La transfusion de plasma, après la transfusion de plaquettes, si le saignement persiste, est indiquée pour compenser la baisse de facteurs de la coagulation.
 
-En pratique, on propose comme seuil minimal en présence d'une hémorragie au-delà duquel il est légitime de transfuser : un taux d'hémoglobine à 8 g/dl ou d'hématocrite à 26%, un taux de plaquettes à 50 000 à 75 000 g/dl_,_ un taux de fibrinogène < 0,8 g/l, un TP < 30-35% et un TCA > 1,8 fois le témoin.
+En pratique, on propose comme seuil minimal en présence d'une hémorragie au-delà duquel il est légitime de transfuser : un taux d'hémoglobine à 8 g/dl ou d'hématocrite à 26%, un taux de plaquettes à 50 000 à 75 000 g/dl\_,\_ un taux de fibrinogène < 0,8 g/l, un TP < 30-35% et un TCA > 1,8 fois le témoin.
 
 **Indications de l'autotransfusion pré et per-opératoire**
 
 Les indications préopératoires se limitent au drainage d'un hémothorax où l'autotransfusion d'un sang pauvre en plaquette et en facteurs de coagulation ne nécessite pas d'anticoagulants.
 
-En per-opératoire, le système de récupération de sang _(cell saver)_ permet de traiter et de restituer le sang provenant du champ opératoire.
+En per-opératoire, le système de récupération de sang *(cell saver)* permet de traiter et de restituer le sang provenant du champ opératoire.
 
 **Procédure concernant la transfusion homologue**
 
@@ -210,15 +203,13 @@ La coordination entre équipe chirurgicale et anesthésique est fondamentale. L'
 
 Deux grandes situations peuvent se rencontrer, l'état de détresse extrême où la mise en condition initiale inefficace ne doit pas retarder l'hémostase chirurgicale. L'état précaire mais stabilisé où le remplissage vasculaire et le monitorage précèdent l'induction.
 
-À l'induction, le patient étant considéré comme ayant un estomac plein, une crash induction est associée à la technique de Sellick®. Les hypnotiques recommandés pour leur stabilité cardio-vasculaire sont l'étomidate et la kétamine, les morphinomimétiques ont peu d'effets hémodynamiques mais leur association avec les hypnotiques risque de potentialiser leurs effets hypotenseurs, les curares dépolarisants et non dépolarisants peuvent être utilisés mais le relâchement abdominal secondaire à la curarisation peut brutalement majorer un saignement intra ou surtout rétropéritonéal et provoquer un arrêt cardiaque.  
+À l'induction, le patient étant considéré comme ayant un estomac plein, une crash induction est associée à la technique de Sellick®. Les hypnotiques recommandés pour leur stabilité cardio-vasculaire sont l'étomidate et la kétamine, les morphinomimétiques ont peu d'effets hémodynamiques mais leur association avec les hypnotiques risque de potentialiser leurs effets hypotenseurs, les curares dépolarisants et non dépolarisants peuvent être utilisés mais le relâchement abdominal secondaire à la curarisation peut brutalement majorer un saignement intra ou surtout rétropéritonéal et provoquer un arrêt cardiaque.
 
 **2. Surveillance du patient choqué**
 
 La surveillance standard permet d'évaluer l'efficacité du traitement. Une surveillance hémodynamique complémentaire est proposée en cas d'inefficacité du traitement initial.
 
-
 ![](i857-3.jpg)
-
 
 **Surveillance standard**
 
@@ -244,9 +235,7 @@ La pression veineuse centrale (PVC). Une voie veineuse centrale n'est pas posée
 
 La rapidité et la qualité de la correction de l'hypovolémie sont des paramètres essentiels pour éviter les complications.
 
-
 ![](i857-4.jpg)
-
 
 **1. Évolution favorable**
 
@@ -316,8 +305,6 @@ et une surveillance biologique si l'on dispose d'un laboratoire.
 
 L'évolution est favorable si le traitement permet la restauration rapide de la volémie et de la pression artérielle. Elle est défavorable en cas d'inefficacité du traitement initial qui peut être dû à une intrication de plusieurs mécanismes à l'origine du choc, à un remplissage vasculaire ou une hémostase chirurgicale insuffisante et en cas de complications secondaires dues à des défaillances d'organes : oedème pulmonaire lésionnel, insuffisance rénale aiguë, hémorragie digestive, infection.
 
-
 ![](i857-5.jpg)
 
-
-_Développement et Santé, n° 143, octobre 1999_
+*Développement et Santé, n° 143, octobre 1999*

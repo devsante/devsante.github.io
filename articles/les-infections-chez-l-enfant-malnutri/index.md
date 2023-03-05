@@ -16,19 +16,19 @@ date: "2011-08-31"
 
 La carence alimentaire, et plus particulièrement en protéines, entraîne de graves perturbations du système immunitaire.
 
-*   Les surfaces muqueuses et cutanées sont les premières touchées : les études effectuées sur la muqueuse respiratoire mettent en évidence de fréquentes brèches par où pénètrent les germes. Ces brèches sont aussi plus longues à cicatriser.  
-*   Les anticorps (immunoglobulines) sont plus faiblement synthétisés : cela est surtout net pour les IgA qui tapissent les muqueuses respiratoires et digestives.  
-*   Les lymphocytes sont souvent diminués et réagissent mal devant l'agent infectieux (c'est aussi le cas du SIDA).  
-*   Enfin les polynucléaires deviennent "paresseux" et phagocytent mal les bactéries.
+- Les surfaces muqueuses et cutanées sont les premières touchées : les études effectuées sur la muqueuse respiratoire mettent en évidence de fréquentes brèches par où pénètrent les germes. Ces brèches sont aussi plus longues à cicatriser.
+- Les anticorps (immunoglobulines) sont plus faiblement synthétisés : cela est surtout net pour les IgA qui tapissent les muqueuses respiratoires et digestives.
+- Les lymphocytes sont souvent diminués et réagissent mal devant l'agent infectieux (c'est aussi le cas du SIDA).
+- Enfin les polynucléaires deviennent "paresseux" et phagocytent mal les bactéries.
 
 ### 1. Tout aussi important est l'environnement
 
 En effet, la malnutrition est bien souvent liée à :
 
-*   la guerre,
-*   l'ignorance,
-*   la pauvreté,
-*   l'absence d'hygiène.
+- la guerre,
+- l'ignorance,
+- la pauvreté,
+- l'absence d'hygiène.
 
 L'absorption d'**eau non potable** peut avoir des effets redoutables : l'OMS recommande l'utilisation d'une eau contenant moins de 10 coliformes par décilitre et sans coliformes fécaux.
 
@@ -58,8 +58,8 @@ Responsables annuellement de la mort de quatre millions d'enfants de moins de 5 
 
 Les germes responsables sont surtout :
 
-*   le pneumocoque
-*   l'_Hæmophilus influenzæ_
+- le pneumocoque
+- l'*Hæmophilus influenzæ*
 
 Le **staphylocoque** (souvent témoin d'une mauvaise hygiène) est paradoxalement plus rare.
 
@@ -69,8 +69,8 @@ Son diagnostic est ici plus difficile car la malnutrition **négative** **les te
 
 Quel que soit le germe infectant les poumons, la maladie est :
 
-*   plus brutale,
-*   et plus sévère, imposant un taitement urgent.
+- plus brutale,
+- et plus sévère, imposant un taitement urgent.
 
 ### 3. Les infections urinaires
 
@@ -84,8 +84,8 @@ Forme la plus sévère des infections, elles ne sont pas rares ici.
 
 Deux germes dominent :
 
-*   salmonelle
-*   colibacille
+- salmonelle
+- colibacille
 
 Il faut rappeler que le drépanocytaire est aussi sujet aux septicémies à salmonelle et ) pneumocoque (que de risques donc pour le drépanocytaire dénutri !).
 
@@ -103,8 +103,8 @@ Les règles d'hygiène doivent, pour cet enfant, être des plus strictes.
 
 Deux virus sont à redouter :
 
-*   **La rougeole** : si la mortalité de la rougeole peut atteindre 25 %, c'est en grande partie du fait de la malnutrition. De plus, la rougeole entraîne par elle-même anorexie et diarrhée, elle aggrave encore la dénutrition. L'atteinte pulmonaire demeure la cause majeure des formes mortelles.  
-*   **L'herpès** : il peut provoquer une atteinte buccale sévère (stomatite herpétique ou cutanée) : le même risque menace l'enfant HIV+.
+- **La rougeole** : si la mortalité de la rougeole peut atteindre 25 %, c'est en grande partie du fait de la malnutrition. De plus, la rougeole entraîne par elle-même anorexie et diarrhée, elle aggrave encore la dénutrition. L'atteinte pulmonaire demeure la cause majeure des formes mortelles.
+- **L'herpès** : il peut provoquer une atteinte buccale sévère (stomatite herpétique ou cutanée) : le même risque menace l'enfant HIV+.
 
 ### 7. Les maladies parasitaires
 
@@ -116,8 +116,8 @@ A l'extrême, le paludisme semble moins grave chez le dénutri à l'immunité d�
 
 L'enfant dénutri est d'une grande fragilité. Les impératifs sont donc, outre la renutrition :
 
-*   une hygiène rigoureuse,
-*   l'utilisation d'une eau potable,
-*   le traitement précoce des infections,
-*   la hantise de l'infection hospitalière,
-*   enfin, l'utilisation large des vaccins (contrairement à une idée reçue, l'enfant dénutri est capable de s'immuniser).
+- une hygiène rigoureuse,
+- l'utilisation d'une eau potable,
+- le traitement précoce des infections,
+- la hantise de l'infection hospitalière,
+- enfin, l'utilisation large des vaccins (contrairement à une idée reçue, l'enfant dénutri est capable de s'immuniser).

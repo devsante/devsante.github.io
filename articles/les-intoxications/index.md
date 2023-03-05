@@ -74,12 +74,12 @@ Métaux lourds, monoxyde de carbone
 
 </table>
 
-## I. Les mécanismes caracteris­es de ['intoxication
+## I. Les mécanismes caracteris­es de \['intoxication
 
 ### 1.Deux types d'intoxications
 
-*   L'intoxication aiguë résulte de la toxicité immédiate et de la quantité de produit dans l'organisme.  
-*   L'intoxication chronique est consécutive à l'expo­sition répétée ou prolongée à un toxique. Les manifestations cliniques sont dues à l'accumula­tion du produit dans l'organisme ou au contact répété.
+- L'intoxication aiguë résulte de la toxicité immédiate et de la quantité de produit dans l'organisme.
+- L'intoxication chronique est consécutive à l'expo­sition répétée ou prolongée à un toxique. Les manifestations cliniques sont dues à l'accumula­tion du produit dans l'organisme ou au contact répété.
 
 ### 2. Les voies de pénétration dans l'organisme
 
@@ -107,13 +107,13 @@ Cela peut être facile si elle a été observée par la famille ou avouée. Dans
 
 L'interrogatoire de l'enfant et de l'entourage, fondamental, chercher à préciser :
 
-*   la nature du toxique (demander l'emballage),
-*   la quantité absorbée,
-*   s'il s'agit d'un médicament : la forme galénique,
-*   l'heure de survenue,
-*   l'heure du dernier repas,
-*   les gestes pratiqués,
-*   les signes fonctionnels observés.
+- la nature du toxique (demander l'emballage),
+- la quantité absorbée,
+- s'il s'agit d'un médicament : la forme galénique,
+- l'heure de survenue,
+- l'heure du dernier repas,
+- les gestes pratiqués,
+- les signes fonctionnels observés.
 
 #### b) L'appel au Centre Anti Poison (CAP)
 
@@ -125,26 +125,26 @@ La symptomatologie est extrêmement polymorphe, dépendant beaucoup du toxique e
 
 L'examen apprécie les fonctions vitales et recherche, pour chaque appareil, les signes propres à l'intoxication :
 
-*   respiratoires : pauses, encombrement, cyanose ;
-*   cardio-vasculaires : signes de choc, TA, pouls ;
-*   digestifs : diarrhée, vomissement, odeur de l'ha­leine ;
-*   neurologiques : tonus, conscience, réflexes, mou­vements anormaux, réactivité ;
-*   oculaires : mydriase, myosis ;
-*   globe vésical, miction récente ;
-*   température.
+- respiratoires : pauses, encombrement, cyanose ;
+- cardio-vasculaires : signes de choc, TA, pouls ;
+- digestifs : diarrhée, vomissement, odeur de l'ha­leine ;
+- neurologiques : tonus, conscience, réflexes, mou­vements anormaux, réactivité ;
+- oculaires : mydriase, myosis ;
+- globe vésical, miction récente ;
+- température.
 
 Certains signes sont évocateurs :
 
-*   digestifs : eau de Javel, soude, produits de lessive ;
-*   neurologiques : insecticides, organophosphorés, alcool, tranquillisants ;
-*   pulmonaires : pétrole, essence, etc.  
-*   sanguins : hémorragie avec les anticoagulants et certains raticides.
+- digestifs : eau de Javel, soude, produits de lessive ;
+- neurologiques : insecticides, organophosphorés, alcool, tranquillisants ;
+- pulmonaires : pétrole, essence, etc.
+- sanguins : hémorragie avec les anticoagulants et certains raticides.
 
 #### d) Les examens complémentaires
 
-*   Bilan standard : NFS, ionogramme...  
-*   Recherche du toxique dans les urines, le sang et, le cas échéant, le liquide de lavage gastrique.  
-*   Examens à valeur d'orientation : glycémie, gaz du sang, transaminases, méthémoglobinémie, anomalies ECG...
+- Bilan standard : NFS, ionogramme...
+- Recherche du toxique dans les urines, le sang et, le cas échéant, le liquide de lavage gastrique.
+- Examens à valeur d'orientation : glycémie, gaz du sang, transaminases, méthémoglobinémie, anomalies ECG...
 
 **2. Apprécier la gravité**
 
@@ -166,11 +166,11 @@ Ces situations nécessitent un transfert en Unité de Soins Intensifs.
 
 Le but du traitement est d'éviter la progression de l'absorption du produit et de favoriser son élimina­tion. Les moyens associent les mesures symptoma­tiques, la prévention de l'absorption du toxique, l'épuration du toxique et l'administration de l'anti­dote, s'il existe.
 
-Certains produits non dangereux - la plupart des antibiotiques, les corticoïdes, les contraceptifs, l'eau de Javel **si elle est diluée** _(voir encadré_) - ou ingérés à des doses non toxiques ne justi­fient aucune mesure thérapeutique.
+Certains produits non dangereux - la plupart des antibiotiques, les corticoïdes, les contraceptifs, l'eau de Javel **si elle est diluée** *(voir encadré*) - ou ingérés à des doses non toxiques ne justi­fient aucune mesure thérapeutique.
 
 **b) Elimination du toxique**
 
-**_Evacuation gastrique_**
+***Evacuation gastrique***
 
 Elle est contre-indiquée dans les cas d'ingestion de produits caustiques, volatils ou moussants et/ou de troubles de la conscience ou de convulsions.
 
@@ -222,7 +222,7 @@ Leur fréquence s'explique par l'accessibilité des médicaments dans nos maison
 
 - L'acide acétylsalicylique est métabolisé par le foie :
 
-25 % sont oxydés, 75 % sont éliminés sous forme d'acide salicylique dans les urines. Cette excrétion urinaire dépend beaucoup du pH urinaire (elle est multipliée par 5 si le pH est <_ 7,5).
+25 % sont oxydés, 75 % sont éliminés sous forme d'acide salicylique dans les urines. Cette excrétion urinaire dépend beaucoup du pH urinaire (elle est multipliée par 5 si le pH est <\_ 7,5).
 
 -Trois organes sont atteints : le foie, le rein, le système nerveux.
 
@@ -242,15 +242,15 @@ Dépendant du degré d'intoxication, elle est mar­quée par différents signes 
 
 Dans les cas où l'on ignore la nature du produit, cinq principes sont à connaître :
 
-1. Toute intoxication potentielle doit être considérée comme une intoxication réelle.
+1.  Toute intoxication potentielle doit être considérée comme une intoxication réelle.
 
-2. On doit considérer que la quantité absorbée est maximale.
+2.  On doit considérer que la quantité absorbée est maximale.
 
-3. Le délai entre l'heure de la découverte de l'intoxication et le prernier geste efficace doit être le plus court possible.
+3.  Le délai entre l'heure de la découverte de l'intoxication et le prernier geste efficace doit être le plus court possible.
 
-4. Une intoxication par ingestion orale nécessite une évacuation gastrique en l'absence de contre­indications, une intoxication par voie rectale un lavement évacuateur.
+4.  Une intoxication par ingestion orale nécessite une évacuation gastrique en l'absence de contre­indications, une intoxication par voie rectale un lavement évacuateur.
 
-5. Tout intoxiqué doit être maintenu en observation en milieu hospitalier au moins 24 heures.
+5.  Tout intoxiqué doit être maintenu en observation en milieu hospitalier au moins 24 heures.
 
 L'association coma et hyperapnée dans un contexte fébrile doit faire penser à une intoxication salicylée. Dans les formes sévères :
 
@@ -260,7 +260,7 @@ L'association coma et hyperapnée dans un contexte fébrile doit faire penser à
 
 **Biologie**
 
-*   Les dosages ne sont pas toujours possibles dans les centres de santé.
+- Les dosages ne sont pas toujours possibles dans les centres de santé.
 
 **Traitement**
 
@@ -268,7 +268,7 @@ L'association coma et hyperapnée dans un contexte fébrile doit faire penser à
 
 - Administration de charbon végétal activé.
 
-- Traitement symptomatiyue de l'hyperthermie, des convulsions, de la déshydratation _(voir le site : [www.devsante.org](http://www.devsante.org "www.devsante.org"))._
+- Traitement symptomatiyue de l'hyperthermie, des convulsions, de la déshydratation *(voir le site : [[www.devsante.org](http://www.devsante.org)](http://www.devsante.org "www.devsante.org")).*
 
 **b) Intoxication au paracétamol**
 
@@ -500,13 +500,13 @@ et paralysies ;
 
 L'évolution est mortelle en l'absence de traitement.
 
-_(1) Muscarinique : effets liés à la stimulation des récep­teurs muscariniques par l'acétylcholine (cardiaques,_
+*(1) Muscarinique : effets liés à la stimulation des récep­teurs muscariniques par l'acétylcholine (cardiaques,*
 
-_vasculaires, bronchiques, oculaires, centraux)_
+*vasculaires, bronchiques, oculaires, centraux)*
 
-_(2) Nicotinique : effets liés à la stimulation des récepteurs_
+*(2) Nicotinique : effets liés à la stimulation des récepteurs*
 
-_nicotiniques par l'acétylcholine (transmission neu ro­musculaire)._
+*nicotiniques par l'acétylcholine (transmission neu ro­musculaire).*
 
 **Biologie**
 
@@ -540,4 +540,4 @@ Insecticides ayant remplacé les organochlorés, dont le DDT, les dérivés synt
 
 Il n'y a pas d'antidote spécifique, il faut mettre en place des traitements symptomatiques, et adminis­trer des sédatifs en cas de troubles neurologiques et une hydratation intraveineuse en cas de troubles digestifs majeurs.
 
-_Développement et Santé, n°194, 2009_
+*Développement et Santé, n°194, 2009*

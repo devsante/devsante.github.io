@@ -1,14 +1,10 @@
 ---
-title: "Prise en charge socio-éducationnelle de l'enfant malentendant en Afrique noire"
-author: "Essohanam Boko"
+title: "Prise en charge socio-éducationnelle de l'enfant malentendant en Afrique noire : cas du Togo"
+author: "Essohanam Boko*"
 date: "2000-08-11"
 ---
 
-**Prise en charge socio-éducationnelle de l'enfant malentendant en Afrique noire :****cas du Togo**
-
-**par Essohanam Boko**
-
-Médecin ORL, Lomé, Togo.
+\*Médecin ORL, Lomé, Togo.
 
 Dans la société africaine, un handicap physique, y compris la surdité, est perçu comme une malédiction divine ou, pire, comme un mauvais sort jeté sur la famille. Ainsi cette dernière croit chasser " le démon ", de son sein en abandonnant ces petits handicapés. Aussi, des parents n'hésitent pas à envoyer les enfants au village refusant de les confier aux maigres structures socio-éducationnelles qui existent au Togo. Heureusement il existe un petit nombre de parents qui ont compris et osent, même si c'est de façon tardive, confier leurs enfants de gré ou de force à ces structures d'éducation et de préparation à l'insertion sociale. Nous avons voulu mener cette étude pour voir l'impact réel de ces structures, en vue de faire des propositions concrètes.
 
@@ -22,9 +18,7 @@ Notre étude s'est orientée sur trois axes.
 
 3 - Mener une enquête sur le devenir des élèves qui quittent le système d'éducation.
 
-
 ![](i893-1.jpg)
-
 
 **Il. Résultats**
 
@@ -46,11 +40,9 @@ Beaucoup d'enfants abandonnent l'école dès la première année par faute de so
 
 **3. Insertion à la vie** **professionnelle**
 
-La plupart des enfants ont abandonné l'école à un moment ou à un autre de leur scolarité. Mais le cas de 27 élèves (13,70 %) qui avec cette formation de base ont pu apprendre un métier a retenu particulièrement notre attention. Les métiers appris et exercés sont divers _(tableau n° 1_).
-
+La plupart des enfants ont abandonné l'école à un moment ou à un autre de leur scolarité. Mais le cas de 27 élèves (13,70 %) qui avec cette formation de base ont pu apprendre un métier a retenu particulièrement notre attention. Les métiers appris et exercés sont divers *(tableau n° 1*).
 
 ![](i893-2.jpg)
-
 
 **III. Discussion**
 
@@ -62,10 +54,10 @@ Le manque de qualification professionnelle des enseignants, le manque de sensibi
 
 3 - Quatre-vingt-six pour cent (86 %) des enfants n'ont pas réussi à terminer le premier degré d'enseignement (qui compte 6 classes) et seulement 2,5 % (5 élèves) ont pu aller au collège. Malheureusement, à partir du collège il n'existe pas de structures d'enseignement spécialisé au Togo et les enfants sont obligés de s'inscrire avec toutes les difficultés que cela comporte dans des établissements d'enseignement non spécialisé.
 
-Vingt-sept élèves sourds-muets ont pu apprendre des métiers qu'ils exercent _(tableau n° 1)_ leur permettant de subvenir à leurs besoins sociaux. Ce genre d'initiative doit être encouragé.
+Vingt-sept élèves sourds-muets ont pu apprendre des métiers qu'ils exercent *(tableau n° 1)* leur permettant de subvenir à leurs besoins sociaux. Ce genre d'initiative doit être encouragé.
 
 **IV. Conclusion**
 
 Les résultats de l'école des sourds-muets du Togo sont très modestes. Cependant il s'agit d'une initiative qu'il faut encourager et vulgariser. Il faut sensibiliser la population sur cet handicap, attirer l'attention des autorités sur l'ampleur du problème afin de mener des actions concertées et spécialisées. Il faut multiplier les écoles et collèges spécialisés, associer la méthode d'éducation verbo-tonale, créer des écoles de formations professionnelles adaptées aux sourds-muets. Nous estimons que c'est à ce prix que nous pourrons apporter une aide à ces petits " malades " qui, à part ce handicap, possèdent les mêmes capacités que les enfants entendants.
 
-_Développement et Santé, n°148, août 2000_
+*Développement et Santé, n°148, août 2000*

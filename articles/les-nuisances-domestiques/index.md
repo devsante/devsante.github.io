@@ -8,8 +8,8 @@ date: "2015-07-02"
 
 ## I. Leurs caractéristiques pathogéniques sont les suivantes
 
-*   Transmission d’un agent pathogène d’un hôte à un autre (par exemple, germes pathogènes transmis à l’homme à partir d’un cadavre d’animal).  
-*   Ectoparasites se nourrissant directement chez l’homme de sang et pouvant provoquer une pathologie propre chez l’homme par inoculation d’un germe, d’un parasite ou d’un venin (araignées, scorpions, scolopendres).
+- Transmission d’un agent pathogène d’un hôte à un autre (par exemple, germes pathogènes transmis à l’homme à partir d’un cadavre d’animal).
+- Ectoparasites se nourrissant directement chez l’homme de sang et pouvant provoquer une pathologie propre chez l’homme par inoculation d’un germe, d’un parasite ou d’un venin (araignées, scorpions, scolopendres).
 
 Certains vont être responsables de nuisances en se limitant à la peau, d’autres sous la peau.  
 Le tableau résume les principaux responsables, mais il existe de nombreux insectes vecteurs de maladies tropicales que nous ne citons pas dans cet article.
@@ -129,20 +129,20 @@ Typhus exanthématique, fièvre des tranchées, fièvre récurrente (borréliose
 
 #### Caractéristiques
 
-*   Insectes cosmopolites sans ailes, de 1 à 5 mm, aplatis latéro-latéralement, 3 paires de pattes, dont la dernière plus longue pour favoriser le saut.  
-*   Les 2 sexes sont hématophages.  
-*   Reproduction par ponte d’œufs après un repas, sur le sol.  
-*   Apparition rapide de larves vermiformes qui vont privilégier les sols humides, les terriers, les litières d’animaux.  
-*   Transformation en nymphes immobiles qui donneront 10 jours après des puces adultes.  
-*   Possibilité de diapause si le lieu n’est pas favorable à l’éclosion des nymphes et reprise favorisée par des stimuli (ébranlement du sol, vibration, lumière, dégagement de CO2,…) : Ainsi, un lieu inhabité longtemps peut être rapidement infesté de puces.  
-*   La puce n’a pas d’hôte défini et s’adaptera aux conditions de vie possibles (passage de l’animal à l’homme et vice-versa)
+- Insectes cosmopolites sans ailes, de 1 à 5 mm, aplatis latéro-latéralement, 3 paires de pattes, dont la dernière plus longue pour favoriser le saut.
+- Les 2 sexes sont hématophages.
+- Reproduction par ponte d’œufs après un repas, sur le sol.
+- Apparition rapide de larves vermiformes qui vont privilégier les sols humides, les terriers, les litières d’animaux.
+- Transformation en nymphes immobiles qui donneront 10 jours après des puces adultes.
+- Possibilité de diapause si le lieu n’est pas favorable à l’éclosion des nymphes et reprise favorisée par des stimuli (ébranlement du sol, vibration, lumière, dégagement de CO2,…) : Ainsi, un lieu inhabité longtemps peut être rapidement infesté de puces.
+- La puce n’a pas d’hôte défini et s’adaptera aux conditions de vie possibles (passage de l’animal à l’homme et vice-versa)
 
 #### Pathogénie chez l’homme
 
-*   Après piqûre, apparition d’un prurit au point de piqûre, puis de macules ou papulo-vésicules.  
-*   Localisation sur les parties couvertes (souvent les membres inférieurs), lésions linéaires regroupées à 3-5 lésions.  
-*   La puce de l’homme et du rat peut être responsable de la transmission de la peste, d’autres espèces du typhus murin et de la maladie de la griffe du chat.  
-*   Traitement des piqûres : désinfection des lésions et antiprurigineux.
+- Après piqûre, apparition d’un prurit au point de piqûre, puis de macules ou papulo-vésicules.
+- Localisation sur les parties couvertes (souvent les membres inférieurs), lésions linéaires regroupées à 3-5 lésions.
+- La puce de l’homme et du rat peut être responsable de la transmission de la peste, d’autres espèces du typhus murin et de la maladie de la griffe du chat.
+- Traitement des piqûres : désinfection des lésions et antiprurigineux.
 
 #### Traitement du milieu domestique
 
@@ -152,14 +152,14 @@ Insecticides (dérivés des pyrèthres) sur le sol ou les litières d’animaux,
 
 #### Caractéristiques
 
-*   Insectes hémimétaboles, mesurant de 1 à 3 mm, aplatis dorsoventralement.  
-*   Hématophages dans les deux sexes.  
-*   Spécifiques de l’espèce, l’homme ne peut héberger que des poux humains.  
-*   La femelle pond 3 à 10 œufs par jour, appelés lentes, fixés sur les cheveux, les poils ou les fibres des vêtements par un cément. Le stade adulte est atteint en 18 jours
-*   Il existe 3 sortes de pédiculose :
-    *   corporelle
-    *   cuir chevelu
-    *   pubis
+- Insectes hémimétaboles, mesurant de 1 à 3 mm, aplatis dorsoventralement.
+- Hématophages dans les deux sexes.
+- Spécifiques de l’espèce, l’homme ne peut héberger que des poux humains.
+- La femelle pond 3 à 10 œufs par jour, appelés lentes, fixés sur les cheveux, les poils ou les fibres des vêtements par un cément. Le stade adulte est atteint en 18 jours
+- Il existe 3 sortes de pédiculose :
+  - corporelle
+  - cuir chevelu
+  - pubis
 
 #### Traitement
 
@@ -182,7 +182,7 @@ Pyréthrine et agents organophosphorés, qui sont plus toxiques et existent en d
 Dans tous les cas, il est important de passer les cheveux au peigne fin chaque jour pour éliminer les insectes morts et s’assurer qu’il n’y en a pas de vivants.  
 En cas de résistance à tous ces traitements, un traitement par ivermectine per os à la dose de 200 à 400 microgrammes/kg peut être utilisé chez l’enfant pour la pédiculose du cuir chevelu.
 
-#### **Spécificité de chaque pédiculose **
+#### Spécificité de chaque pédiculose 
 
 **Pédiculose du cuir chevelu **
 

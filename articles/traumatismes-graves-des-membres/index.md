@@ -21,13 +21,9 @@ Le pronostic vital peut être en jeu. Il faut:
 
 **b.** Au membre inférieur, il faut immobiliser dans une grande attelle cruro-pédieuse: deux morceaux de bois, une planche, peuvent faire l'affaire. A défaut immobiliser le membre sur le membre controlatéral, le blessé reposant sur le côté sain.
 
-
 ![](i127-1.jpg)
 
-
-
 ![](i127-2.jpg)
-
 
 ## II. A l'arrivée à l'hôpital
 
@@ -47,13 +43,13 @@ On fait une hémostase très soigneuse et on repère les extrémités des évent
 
 En ce qui concerne les lésions osseuses, le type de réparation dépend essentiellement des moyens dont on dispose:
 
-*   Le fixateur externe constituerait bien souvent la meilleure immobilisation.
+- Le fixateur externe constituerait bien souvent la meilleure immobilisation.
 
-*   D'autres moyens d'immobilisation peuvent parfois être utilisés, à condition qu'ils ne nécessitent pas d'abord chirurgical étendu des extrémités osseuses, augmentant les risques d'infection ou de non consolidation. Des broches peuvent être utilisées au niveau du poignet.
+- D'autres moyens d'immobilisation peuvent parfois être utilisés, à condition qu'ils ne nécessitent pas d'abord chirurgical étendu des extrémités osseuses, augmentant les risques d'infection ou de non consolidation. Des broches peuvent être utilisées au niveau du poignet.
 
 Dans les autres cas, l'immobilisation sera confiée au traitement orthopédique:
 
-*   Au membre supérieur: immobilisation dans une grande attelle plâtrée thoracobrachiale pour les traumatismes du bras et du coude, coude fléchi à 90°, l'avant-bras étant placé sur un gros coussin d'abduction. Pour les traumatismes de l'avant-bras et du poignet une attelle brachio-antibrachiale est suffisante.
+- Au membre supérieur: immobilisation dans une grande attelle plâtrée thoracobrachiale pour les traumatismes du bras et du coude, coude fléchi à 90°, l'avant-bras étant placé sur un gros coussin d'abduction. Pour les traumatismes de l'avant-bras et du poignet une attelle brachio-antibrachiale est suffisante.
 
 Ne jamais oublier de bien
 
@@ -65,21 +61,17 @@ positionner la main +++
 
 - pouce en rectitude et en opposition maximum. Pour cela, il faut caler un gros paquet de compresses ou un gros morceau de coton entre le pouce et les autres doigts. Si la main doit s'enraidir, le patient pourra toujours glisser un objet dans une main qui aura été maintenue en bonne position.
 
-
 ![](i127-3.jpg)
-
-
 
 ![](i127-4.jpg)
 
+- Au membre Inférieur:
 
-*   Au membre Inférieur:
+- en cas de fracture du fémur, installer une traction transtibiale,
 
-*   en cas de fracture du fémur, installer une traction transtibiale,
+- en cas de lésion du genou, de la cheville, du pied, faire une grande attelle cruro-pédieuse,
 
-*   en cas de lésion du genou, de la cheville, du pied, faire une grande attelle cruro-pédieuse,
-
-*   en cas de fracture de jambe très instable, plutôt qu'une attelle cruro-pédieuse, on aura souvent intérêt à mettre une traction transcalcanéenne qui alignera les fragments tout en permettant les soins locaux. Celle-ci sera remplacée par un plâtre après cicatrisation.
+- en cas de fracture de jambe très instable, plutôt qu'une attelle cruro-pédieuse, on aura souvent intérêt à mettre une traction transcalcanéenne qui alignera les fragments tout en permettant les soins locaux. Celle-ci sera remplacée par un plâtre après cicatrisation.
 
 En ce qui concerne la fermeture cutanée, celle-ci ne sera réalisée que si elle peut se faire sans excès de tension, en peau vivante, sur des tissus également bien vivants. Il serait catastrophique de refermer la peau sur du muscle qui va se nécroser.
 
@@ -93,7 +85,7 @@ Enfin, le patient sera mis aux antibiotiques pénicilline pendant quelques jours
 
 Ne jamais oublier que dans ces traumatismes avec contusion importante, une infection est toujours due à une nécrose qu'on a laissé évoluer alors qu'on aurait dû prévenir l'infection secondaire par une excision chirurgicale précoce.
 
-IV. Les jours suivants
+IV\. Les jours suivants
 
 Il faut faire les pansements le plus souvent possible, c'est-à-dire chaque jour si les pansements sont sales.
 
@@ -109,9 +101,9 @@ A condition de pansements réguliers, d'une alimentation correcte, toutes les pl
 
 Au total, dans les délabrements des membres, quelques notions simples doivent être soulignées:
 
-*   en urgence : parage soigneux et immobilisation en bomme position,
+- en urgence : parage soigneux et immobilisation en bomme position,
 
-*   en postopératoire: pansementsréguliers et alimentation hypercalorique.
+- en postopératoire: pansementsréguliers et alimentation hypercalorique.
 
 Si l'amputation peut être un recourt justifié, devant des complications locales ou générales graves, les difficultés actuelles de l'appareillage encouragent à être conservateur chaque fois qu'il est possible.
 

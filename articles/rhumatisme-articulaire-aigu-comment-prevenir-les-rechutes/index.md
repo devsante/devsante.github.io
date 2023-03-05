@@ -16,7 +16,7 @@ Elles sont dues à une réinfection streptococcique pharyngée. C'est pour évit
 
 Pour chacune des valves, l'une de ces caractéristiques peut être en défaut :
 
-1.  On parle de rétrécissement valvulaire lorsque l'orifice ouvert entraîne une gêne à l'écoulement du sang : la conséquence hémodynamique est l'apparition d'une différence (gradient) de pression entre deux cavités contiguës pendant le temps d'ouverture valvulaire.  
+1.  On parle de rétrécissement valvulaire lorsque l'orifice ouvert entraîne une gêne à l'écoulement du sang : la conséquence hémodynamique est l'apparition d'une différence (gradient) de pression entre deux cavités contiguës pendant le temps d'ouverture valvulaire.
 2.  On parle d'insuffisance valvulaire lorsque l'orifice fermé laisse refluer le sang dans la cavité qu'il vient de quitter : la conséquence hémodynamique est un travail ventriculaire inutile, soit que le ventricule éjecte dans deux directions différentes (insuffisance mitrale), soit qu'une partie du volume éjecté retombe dans le ventricule (insuffisance aortique).
 
 Nous n'envisagerons que les valvulopathies mitrales et aortiques en raison de la rareté des affections des valves du coeur droit.
@@ -47,8 +47,8 @@ Les anomalies auscultatoires perçues au cours du rétrécissement mitral siège
 
 Les deux bruits (B1 et B2) sont modifiés :
 
-*   il existe un éclat du premier bruit, causé par la fermeture brusque des valves mitrales indurées ;
-*   il existe un dédoublement espacé du deuxième bruit. Après le B2 normal, on perçoit une deuxième composante qui est causée par l'ouverture des valves mitrales, c'est le claquement d'ouverture mitral.
+- il existe un éclat du premier bruit, causé par la fermeture brusque des valves mitrales indurées ;
+- il existe un dédoublement espacé du deuxième bruit. Après le B2 normal, on perçoit une deuxième composante qui est causée par l'ouverture des valves mitrales, c'est le claquement d'ouverture mitral.
 
 La systole est libre.
 
@@ -64,8 +64,8 @@ La radiographie montre essentiellement une dilatation auriculaire gauche plus ou
 
 La fermeture incomplète de l'orifice mitral au cours de la systole entraîne une fuite du sang du ventricule gauche vers l'oreillette gauche. Les deux principales conséquences hémodynamiques sont :
 
-*   une augmentation du volume éjecté par le ventricule gauche aboutissant à un excès de travail ventriculaire,
-*   une augmentation du volume contenu dans l'oreillette gauche, ce qui aboutit souvent à une élévation des pressions au niveau du capillaire pulmonaire.
+- une augmentation du volume éjecté par le ventricule gauche aboutissant à un excès de travail ventriculaire,
+- une augmentation du volume contenu dans l'oreillette gauche, ce qui aboutit souvent à une élévation des pressions au niveau du capillaire pulmonaire.
 
 L'insuffisance mitrale peut être due au RAA. Actuellement cette cause diminue de fréquence. La cause désormais la plus fréquente est constituée par les anomalies constitutionnelles des cordages. Lorsqu'un cordage de la valve mitrale est trop long, la valve mitrale tend à faire saillie dans l'oreillette gauche au cours de la systole. On dit que la valve mitrale "ballonnise". A un degré de plus, la valve mitrale peut s'éverser dans l'oreillette gauche en fin de systole. Ces anomalies sont connues sous le nom de prolapsus valvulaire mitral. Le prolapsus valvulaire mitral est une anomalie anatomique fréquente : il n'a habituellement pas de conséquence clinique. Sa principale complication est la rupture du cordage malformé, ce qui aboutit à la constitution d'une insuffisance mitrale sévère. Une rupture de cordage ou une rupture de pilier peut également s'observer au cours des cardiopathies ischémiques, réalisant une insuffisance mitrale aiguë particulièrement sévère. Enfin, l'insuffisance mitrale peut être due à une mutilation des valves par une infection (endocardite infectieuse).
 
@@ -89,16 +89,14 @@ La pression dans l'oreillette gauche est, pendant toute la systole, inférieure 
 
 Ce souffle systolique est habituellement intense. Son intensité est constante durant la systole. Il masque souvent les bruits du coeur. Maximal à la pointe, il irradie largement dans l'aisselle et il est parfois entendu dans le dos. L'auscultation attentive de la diastole est particulièrement importante :
 
-*   Elle permet parfois d'entendre en début de diastole un bruit sourd unique, c'est une exagération du troisième bruit physiologique. Ce bruit est dû au fait que, dès le début de la diastole, l'oreillette dilatée se vide d'une grande quantité de sang dans un ventricule dilaté. Le B3 est perçu dans les fuites volumineuses.  
-*   Par ailleurs, on recherche les signes d'un rétrécissement mitral associé, leur présence fait porter le diagnostic de maladie mitrale (maladie = rétrécissement + insuffisance).
+- Elle permet parfois d'entendre en début de diastole un bruit sourd unique, c'est une exagération du troisième bruit physiologique. Ce bruit est dû au fait que, dès le début de la diastole, l'oreillette dilatée se vide d'une grande quantité de sang dans un ventricule dilaté. Le B3 est perçu dans les fuites volumineuses.
+- Par ailleurs, on recherche les signes d'un rétrécissement mitral associé, leur présence fait porter le diagnostic de maladie mitrale (maladie = rétrécissement + insuffisance).
 
 ### 3. Les signes radiologiques
 
 La radiographie montre essentiellement une dilatation ventriculaire gauche et une dilatation auriculaire gauche.
 
-
 ![](i940-1.jpg)
-
 
 ## IV. L'insuffisance aortique
 
@@ -106,10 +104,11 @@ La fermeture incomplète des valves aortiques durant la diastole provoque un ref
 
 Les trois principales conséquences hémodynamiques sont :
 
-*   l'augmentation du travail de volume et de pression du ventricule gauche. Ce dernier reçoit du sang simultanément de l'oreillette gauche et de l'aorte, ce qui constitue une augmentation du travail de volume ; il doit ensuite éjecter ce volume sanguin excessif à travers un orifice aortique normal, ce qui constitue une augmentation du travail de pression ;
+- l'augmentation du travail de volume et de pression du ventricule gauche. Ce dernier reçoit du sang simultanément de l'oreillette gauche et de l'aorte, ce qui constitue une augmentation du travail de volume ; il doit ensuite éjecter ce volume sanguin excessif à travers un orifice aortique normal, ce qui constitue une augmentation du travail de pression ;
 
-*   la diminution de la perfusion coronaire : celle-ci se fait au cours de la diastole, en grande partie grâce au sang présent dans la racine de l'aorte : l'insuffisance aortique détourne ce sang de sa destination normale ;
-*   la diminution de la pression dans l'aorte au cours de la diastole : ce fait est responsable d'un élargissement de l'écart entre pression artérielle systolique et pression artérielle diastolique.
+- la diminution de la perfusion coronaire : celle-ci se fait au cours de la diastole, en grande partie grâce au sang présent dans la racine de l'aorte : l'insuffisance aortique détourne ce sang de sa destination normale ;
+
+- la diminution de la pression dans l'aorte au cours de la diastole : ce fait est responsable d'un élargissement de l'écart entre pression artérielle systolique et pression artérielle diastolique.
 
 Les causes des insuffisances aortiques sont le rhumatisme articulaire aigu et les endocardites infectieuses.
 
@@ -147,4 +146,4 @@ Pour toutes ces valvulopathies graves le diagnostic est devenu facile grâce à 
 
 La chirurgie cardiaque est le seul véritable traitement curatif mais elle est chère et dangereuse. Alors mieux vaut prévenir: **TRAITER LES ANGINES**.
 
-_Développement et Santé, n°155, octobre 2001_
+*Développement et Santé, n°155, octobre 2001*

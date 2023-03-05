@@ -20,10 +20,10 @@ Actuellement, on observe l'émergence de souches résistantes aux antibiotiques 
 Les zones d'endémie sont : l'Afrique (sauf l'Afrique du sud), l'Asie (sauf Singapour et le Japon), le Proche-Orient (sauf Israël et le Koweït), l'Amérique centrale et du sud, Haïti et la République Dominicaine.  
 La fièvre typhoïde est une maladie du jeune (entre 5 et 19 ans), et son incidence est variable selon les pays. Les taux de mortalité et de morbidité sont élevés avant l'âge de 5 ans pour les raisons suivantes :
 
-*   réponse immunitaire variable selon l'âge,
-*   immunogénicité faible avant l'âge de 2 ans,
-*   sous-déclaration des cas,
-*   formes atypiques et moins sévères ne faisant pas évoquer le diagnostic.
+- réponse immunitaire variable selon l'âge,
+- immunogénicité faible avant l'âge de 2 ans,
+- sous-déclaration des cas,
+- formes atypiques et moins sévères ne faisant pas évoquer le diagnostic.
 
 <table>
 
@@ -44,8 +44,8 @@ La vaccination n'assure qu'une protection de 50 à 55 % et n'empêche pas la mal
 
 ### 3. Les vaccins
 
-_Vaccins polysaccharidiques capsulaires_  
-Solution injectable de l'antigène Vi préparé à partir du polysaccharide capsulaire de la souche TY2 de _Salmonella typhi_.  
+*Vaccins polysaccharidiques capsulaires*  
+Solution injectable de l'antigène Vi préparé à partir du polysaccharide capsulaire de la souche TY2 de *Salmonella typhi*.  
 Vaccin combiné.  
 Vaccin conte la fièvre typhoïde et l'hépatite A, en seringue unidose à 2 compartiments.  
 Vaccin vivant atténué oral.
@@ -152,8 +152,7 @@ Les gélules sont administrées à partir de l'âge de 5 ans : 1 gélule un jour
 Les sachets sont utilisés à partir de l'âge de 3 ans :  
 1 sachet un jour sur deux, 3 fois de suite. Mélanger pendant 5 à 10 minutes puis avaler à jeun, une heure avant le repas. Attendre 48 heures après une prise d'antibiotique. Le vaccin est inactivé par les antipaludéens (mefloquine, chloroquine et proguanil), il faut respecter un intervalle d'au moins 8 heures entre l'administration de chacun d'entre eux, l'idéal étant de commencer par le vaccin oral.
 
-####   
-**Contre-indications**
+#### Contre-indications
 
 Le vaccin oral est contre-indiqué en cas de troubles de la phagocytose, chez l'immunodéprimé(VIH) et en cas de diminution de l'acidité gastrique (médi-caments anti-acides).
 
@@ -197,9 +196,9 @@ Si la vaccination antirubéoleuse n'a pas été réalisée selon ce schéma, ell
 
 #### Chez la femme en âge de procréer
 
-*   Le vaccin est contre-indiqué en cas de grossesse en raison d'un risque tératogène théorique.  
-*   Il faudra éviter une grossesse dans les deux mois qui suivent la vaccination.  
-*   La vaccination doit être systématique immédiatement après l'accouchement chez une femme non immunisée ou dont le statut immunitaire vis-à-vis de la rubéole serait inconnu.
+- Le vaccin est contre-indiqué en cas de grossesse en raison d'un risque tératogène théorique.
+- Il faudra éviter une grossesse dans les deux mois qui suivent la vaccination.
+- La vaccination doit être systématique immédiatement après l'accouchement chez une femme non immunisée ou dont le statut immunitaire vis-à-vis de la rubéole serait inconnu.
 
 ## III. Vaccination contre la grippe
 
@@ -232,9 +231,9 @@ Le virus A peut en plus subir des "cassures" antigéniques. Il s'agit d'un écha
 
 Historiquement, 3 cassures antigéniques sont connues, à l'origine de 3 pandémies :
 
-*   Grippe espagnole 1918 :      H1N1
-*   Grippe asiatique 1958 :        H2N2
-*   Grippe de Hong Kong 1968:  H3N2
+- Grippe espagnole 1918 :      H1N1
+- Grippe asiatique 1958 :        H2N2
+- Grippe de Hong Kong 1968:  H3N2
 
 ### 3. Epidémiologie
 

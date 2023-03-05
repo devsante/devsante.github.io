@@ -10,8 +10,8 @@ Chaque jour, de par le monde, on estime qu'environ 1.500 enfants acquièrent l'i
 
 ### 1. Selon la date de l'infection maternelle
 
-*   Le risque de transmission par le lait est maximum si la mère contracte le virus pendant l'allaitement au sein (primo-infection). Effectivement la charge virale circularité dans les six semaines suivant la primo-infection est 10 à 200 fois supérieure à celle mesurée quand l'infection est passée à la chronicité
-*   La transmission du VIH-1 par l'allaitement maternel peut toutefois survenir en dehors de la primo-infection. Ainsi 15 % des enfants allaités par une femme séropositive (mère ou nourrice) risquent d'être contaminés par ce lait.
+- Le risque de transmission par le lait est maximum si la mère contracte le virus pendant l'allaitement au sein (primo-infection). Effectivement la charge virale circularité dans les six semaines suivant la primo-infection est 10 à 200 fois supérieure à celle mesurée quand l'infection est passée à la chronicité
+- La transmission du VIH-1 par l'allaitement maternel peut toutefois survenir en dehors de la primo-infection. Ainsi 15 % des enfants allaités par une femme séropositive (mère ou nourrice) risquent d'être contaminés par ce lait.
 
 ### 2. Selon la qualité du lait
 
@@ -33,17 +33,13 @@ En terme de morbidité, il est actuellement évident que l'enfant allaité au se
 
 Dans les pays industrialisés, la mortalité attribuable à l'allaitement artificiel est assez limitée, bien que non négligeable, de l'ordre de 5 pour 1000 ; par contre, ce risque est dramatique dans les pays en développement. Des études dans ces pays comparant les 2 modes d'allaitement ont montré que les enfants nourris artificiellement mouraient 2 à 5 fois plus que ceux allaités au sein. Les causes de cette surmortalité sont essentiellement les maladies respiratoires et diarrhéiques.
 
-La transmission du VIH par l'allaitement maternel pose donc de véritables dilemmes à la fois pour les interventions de santé publique et la recherche. En raison du risque de transmission du virus par l'allaitement maternel, les mères infectées par le VIH pourraient constituer une exception au principe de promotion universelle de l'allaitement maternel. Mais priver tous les nourrissons des bénéfices de ce type d'allaitement, pour n'en protéger que 15 % d'une contamination par le VIH- 1, pose un réel problème. Plusieurs interventions sont potentiellement envisageables afin de réduire ou de prévenir la transmission du VIH-1 par l'allaitement maternel. Certaines ont déjà été évaluées, mais la plupart doivent encore être validées _(voir tableau)._
-
+La transmission du VIH par l'allaitement maternel pose donc de véritables dilemmes à la fois pour les interventions de santé publique et la recherche. En raison du risque de transmission du virus par l'allaitement maternel, les mères infectées par le VIH pourraient constituer une exception au principe de promotion universelle de l'allaitement maternel. Mais priver tous les nourrissons des bénéfices de ce type d'allaitement, pour n'en protéger que 15 % d'une contamination par le VIH- 1, pose un réel problème. Plusieurs interventions sont potentiellement envisageables afin de réduire ou de prévenir la transmission du VIH-1 par l'allaitement maternel. Certaines ont déjà été évaluées, mais la plupart doivent encore être validées *(voir tableau).*
 
 ![](i805-1.jpg)
 
-
-Un guide rédigé par les agences des Nations Unies à l'intention des agents de santé et des superviseurs apporte toutes les informations techniques nécessaires pour un allaitement (maternel ou artificiel) pratiqué dans des conditions optimales (WHO/UNICEF/UNAIDS. HIV and Infant Feeding : guidelines for health care workers. 1998: WHO/FRH/NUT/CHD/98.1) _(voir encadré)._
-
+Un guide rédigé par les agences des Nations Unies à l'intention des agents de santé et des superviseurs apporte toutes les informations techniques nécessaires pour un allaitement (maternel ou artificiel) pratiqué dans des conditions optimales (WHO/UNICEF/UNAIDS. HIV and Infant Feeding : guidelines for health care workers. 1998: WHO/FRH/NUT/CHD/98.1) *(voir encadré).*
 
 ![](i805-2.jpg)
-
 
 ## III. Alternatives à l'allaitement maternel
 
@@ -51,25 +47,27 @@ Un guide rédigé par les agences des Nations Unies à l'intention des agents de
 
 Le seul moyen de supprimer le risque de transmission du VIH-1 par l'allaitement maternel est de recourir à un substitut : lait en poudre, lait industriel.
 
-#### Cette méthode expose à plusieurs problèmes :
+#### Cette méthode expose à plusieurs problèmes
 
-*   L'excès de morbidité et de mortalité observé chez les enfants allaités artificiellement reflète à la fois la perte de la protection immunitaire conférée par l'allaitement maternel vis-à-vis des infections, mais aussi l'exposition du jeune enfant à des germes contaminant les préparations de lait artificiel. Ce dernier risque est particulièrement élevé quand les conditions d'hygiène sont médiocres.  
-*   Par ailleurs, aucun lait artificiel disponible dans le commerce n'a une composition équivalente à celle du lait maternel (concentration en micronutriments, certains métaux, acides aminés essentiels, immunoglobulines, etc.) ce qui nécessite idéalement au moins un complément en micronutriments chez l'enfant allaité artificiellement.
+- L'excès de morbidité et de mortalité observé chez les enfants allaités artificiellement reflète à la fois la perte de la protection immunitaire conférée par l'allaitement maternel vis-à-vis des infections, mais aussi l'exposition du jeune enfant à des germes contaminant les préparations de lait artificiel. Ce dernier risque est particulièrement élevé quand les conditions d'hygiène sont médiocres.
 
-*   Les aspects économiques de l'allaitement artificiel sont loin d'être négligeables et dans plusieurs régions d'Afrique, l'achat dans le commerce de lait en poudre maternisé pour un mois d'allaitement artificiel représente plus que le salaire moyen mensuel ! Il est clair que, sans l'accès à du lait maternisé sous forme générique et subventionné, le recours aux substituts de lait maternel restera très limité.
+- Par ailleurs, aucun lait artificiel disponible dans le commerce n'a une composition équivalente à celle du lait maternel (concentration en micronutriments, certains métaux, acides aminés essentiels, immunoglobulines, etc.) ce qui nécessite idéalement au moins un complément en micronutriments chez l'enfant allaité artificiellement.
+
+- Les aspects économiques de l'allaitement artificiel sont loin d'être négligeables et dans plusieurs régions d'Afrique, l'achat dans le commerce de lait en poudre maternisé pour un mois d'allaitement artificiel représente plus que le salaire moyen mensuel ! Il est clair que, sans l'accès à du lait maternisé sous forme générique et subventionné, le recours aux substituts de lait maternel restera très limité.
 
 Un allaitement artificiel de qualité requiert donc certaines règles qui ne sont pas toujours d'application aisée. Il faut préférer l'usage de la tasse et de la cuiller à celle du biberon et de la tétine, utiliser une eau de bonne qualité et décontaminer les ustensiles utilisés pour la préparation du lait. La préparation du lait doit respecter strictement les proportions adéquates, car une concentration en lait sous ou sur-dosée peut avoir de graves conséquences de santé sur l'enfant. Cela nécessite donc une formation et des conseils théoriques et pratiques proposés par le personnel soignant.
 
 Enfin, une des contraintes majeures que rencontrent les femmes infectées par le VIH-1 dans les pays en développement qui choisissent l'allaitement artificiel est le risque de stigmatisation. Il est en effet à craindre que, dans un contexte où l'allaitement maternel est la norme et est socialement valorisé, pratiquer l'allaitement artificiel équivaut à reconnaître sa séropositivité. Faute d'un dialogue et d'une acceptation de cette réalité au sein du couple, de la famille (souvent les belles-mères ont une influence considérable sur les attitudes des mères dans le domaine de l'éducation des enfants) et de la société dans son ensemble, il existe un risque de stigmatisation, de rejet, voire de violence à l'encontre des femmes, dont il faut tenir compte.
 
-### 2. Le lait modifié à base de lait d'animaux  
+### 2. Le lait modifié à base de lait d'animaux
+
 (lait de vache, de chèvre ou de chamelle dilué dans de l'eau bouillie et sucrée)
 
 L'avantage majeur du lait animal modifié est son faible coût et, peut-être, une meilleure acceptation sociale. Des expériences très intéressantes sont en cours, entre autres en Ouganda où des associations prêtent pendant la durée de l'allaitement une vache ou une chèvre qui sont restituées ensuite pour servir à d'autres. Cependant le lait animal a une composition très différente du lait humain. Il nécessite d'être dilué dans de l'eau bouillie et sucrée et requiert souvent une supplémentation en micronutriments. De plus, cette option entraîne un risque de développer ultérieurement, chez le nourrisson, une allergie alimentaire au lait animal et à d'autres aliments.
 
 ### 3. L'arrêt précoce de l'allaitement maternel (entre trois et six mois)
 
-Un arrêt précoce et complet de l'allaitement maternel réduit évidemment le risque de transmission du VIH en réduisant la durée d'exposition. Cette option pourrait être choisie par les mères n'ayant pas les moyens pour pratiquer d'emblée un allaitement artificiel, bien que la transmission postnatale tardive soit probablement moins importante que la transmission précoce. Cependant, le choix du moment optimal pour cesser l'allaitement maternel demeure très difficile. L'arrêt précoce de l'allaitement est une des options proposées par les recommandations des Nations Unies _(voir encadré),_ c'est-à-dire un allaitement exclusif au sein pendant 4 à 6 mois (moins risqué en terme de transmission du VIH que l'allaitement mixte), suivi d'aliments de substitution constitués, non pas de lait en poudre, mais d'aliments de sevrage préparés localement, en y ajoutant des compléments nutritionnels et administrés à la cuiller. Cette pratique d'allaitement court pourrait être aussi plus acceptable socialement en diminuant le risque de stigmatisation pour la mère.
+Un arrêt précoce et complet de l'allaitement maternel réduit évidemment le risque de transmission du VIH en réduisant la durée d'exposition. Cette option pourrait être choisie par les mères n'ayant pas les moyens pour pratiquer d'emblée un allaitement artificiel, bien que la transmission postnatale tardive soit probablement moins importante que la transmission précoce. Cependant, le choix du moment optimal pour cesser l'allaitement maternel demeure très difficile. L'arrêt précoce de l'allaitement est une des options proposées par les recommandations des Nations Unies *(voir encadré),* c'est-à-dire un allaitement exclusif au sein pendant 4 à 6 mois (moins risqué en terme de transmission du VIH que l'allaitement mixte), suivi d'aliments de substitution constitués, non pas de lait en poudre, mais d'aliments de sevrage préparés localement, en y ajoutant des compléments nutritionnels et administrés à la cuiller. Cette pratique d'allaitement court pourrait être aussi plus acceptable socialement en diminuant le risque de stigmatisation pour la mère.
 
 Lors de cet allaitement au sein, des facteurs maternels comme une mastite, des crevasses ou un abcès du sein, peuvent augmenter le risque de transmission par le lait. Ces facteurs doivent donc être systématiquement prévenus, recherchés et traités.
 
@@ -79,7 +77,8 @@ Chez les mères infectées par le VIH-1 qui bénéficient d'un traitement prophy
 
 Si les stades très précoces de la lactation étaient associés à un risque élevé de transmission, l'expression manuelle du lait et le rejet du colostrum pourraient constituer une alternative socialement acceptable pour réduire la transmission. Le rejet du colostrum est pratiqué traditionnellement dans certaines régions d'Afrique, sans que l'objectif visé par cette pratique soit lié à la prévention de l'infection à VIH.
 
-### 5. Le traitement antirétroviral de la mère et/ou  
+### 5. Le traitement antirétroviral de la mère et/ou
+
 de l'enfant pendant la période de l'allaitement au sein
 
 La pertinence de ce traitement ne se pose évidemment pas lorsque l'état de la mère nécessite pour elle-même (et non pas dans un but prophylactique) un traitement antirétroviral au long cours : dans ce cas, le traitement en cours sera poursuivi pendant l'allaitement.
@@ -88,11 +87,13 @@ La pratique de l'allaitement maternel prolongé par une mère infectée par le V
 
 Un traitement antirétroviral maternel à visée prophylactique se heurte à plusieurs obstacles :
 
-*   la presque totale ignorance actuelle de la pharmacocinétique des antirétroviraux dans le lait maternel,
-*   la capacité inconnue de ce traitement à réduire la charge virale dans le lait et le risque de transmission par l'allaitement,
+- la presque totale ignorance actuelle de la pharmacocinétique des antirétroviraux dans le lait maternel,
 
-*   les effets redoutés d'un traitement maternel par monothérapie antirétrovirale sur l'émergence de résistances,
-*   notre méconnaissance des aspects de faisabilité, d'acceptabilité et de coût d'une telle intervention.
+- la capacité inconnue de ce traitement à réduire la charge virale dans le lait et le risque de transmission par l'allaitement,
+
+- les effets redoutés d'un traitement maternel par monothérapie antirétrovirale sur l'émergence de résistances,
+
+- notre méconnaissance des aspects de faisabilité, d'acceptabilité et de coût d'une telle intervention.
 
 Un traitement antirétroviral à visée prophylactique pendant toute la durée de l'allaitement maternel ne semble donc pas réaliste dans l'état actuel des connaissances.
 
@@ -104,7 +105,7 @@ L'évaluation de ces régimes prophylactiques prolongés se heurte à de nombreu
 
 Outre le problème de l'acceptation sociale d'une telle mesure et les risques de stigmatisation qu'elle peut entraîner dans certains contextes, l'allaitement par une nourrice nécessite l'offre à celle-ci d'un dépistage volontaire du VIH, assorti de conseils, en l'absence de toutes contraintes, afin d'éviter la transmission à l'enfant.
 
-### 7. Les banques de lait _(lactarium)_
+### 7. Les banques de lait *(lactarium)*
 
 Les banques de lait posent des problèmes très similaires au recours aux nourrices (dépistage et conseils pour les donneurs, risque de stigmatisation, etc.). La pasteurisation doit être systématique. L'organisation de tels services n'est pas aisée et s'assimile, en complexité, à des services intégrés de banque de sang. A notre connaissance, aucune expérience à grande échelle d'organisation de lactarium n'a été rapportée en Afrique, mais des expériences concluantes et intéressantes existent en Amérique Latine (Brésil, Argentine, Colombie) et en Asie (Inde).
 
@@ -120,9 +121,9 @@ Les solutions proposées face à un problème nouveau de santé publique ne peuv
 
 Les recommandations actuelles des agences des Nations Unies représentent en tous cas une avancée quasi révolutionnaire concernant la politique d'alimentation des nourrissons sur au moins deux points basés sur les principes des droits de la personne :
 
-*   Une politique générale de santé publique telle que la promotion globale de l'allaite ment maternel exclusif peut s'accommoder d'exceptions. L'infection maternelle par le VIH-1 en représente une et justifie une prise de décision éclairée, par la mère éventuellement, en opposition à la norme que représente l'allaitement maternel.
+- Une politique générale de santé publique telle que la promotion globale de l'allaite ment maternel exclusif peut s'accommoder d'exceptions. L'infection maternelle par le VIH-1 en représente une et justifie une prise de décision éclairée, par la mère éventuellement, en opposition à la norme que représente l'allaitement maternel.
 
-*   La tâche de l'agent de santé n'est pas de dicter aux demandeurs de soins ou de conseils une attitude qu'ils ne pourront ou ne voudront éventuellement pas appliquer. Son rôle, dans sa relation avec le demandeur, sera de lui fournir l'information indispensable à un choix éclairé de l'option la plus adaptée à sa situation, à ses moyens et à ses convictions. Ce choix devra être soutenu, sans jugement de valeur, par une information, une formation aux " bonnes pratiques " et éventuellement une logistique appropriée afin qu'il puisse être appliqué dans des conditions optimales. Dans le cas précis de l'alimentation du nourrisson, il est maintenant considéré que les hôpitaux ayant adhéré à l'initiative " Amis des bébés " sont les structures de soins les plus adéquates pour apporter ce soutien aux mères, y compris à celles qui ont choisi une autre option que l'allaitement exclusif au sein.
+- La tâche de l'agent de santé n'est pas de dicter aux demandeurs de soins ou de conseils une attitude qu'ils ne pourront ou ne voudront éventuellement pas appliquer. Son rôle, dans sa relation avec le demandeur, sera de lui fournir l'information indispensable à un choix éclairé de l'option la plus adaptée à sa situation, à ses moyens et à ses convictions. Ce choix devra être soutenu, sans jugement de valeur, par une information, une formation aux " bonnes pratiques " et éventuellement une logistique appropriée afin qu'il puisse être appliqué dans des conditions optimales. Dans le cas précis de l'alimentation du nourrisson, il est maintenant considéré que les hôpitaux ayant adhéré à l'initiative " Amis des bébés " sont les structures de soins les plus adéquates pour apporter ce soutien aux mères, y compris à celles qui ont choisi une autre option que l'allaitement exclusif au sein.
 
 De manière plus spécifique, ces nouvelles recommandations reconnaissent, encore une fois, comme un droit de la personne, l'importance de l'accès au dépistage volontaire du VIH et aux conseils pour les femmes enceintes et allaitantes. Le succès d'une politique rationnelle d'accès aux soins (traitement ou prophylaxie antirétrovirale) et d'alimentation du nourrisson dans le contexte du VIH-1 dépendent en grande partie de la mise à disposition, de l'acceptabilité, et de la pérennité des services de dépistage et de conseil sur le VIH-1.
 
@@ -134,4 +135,4 @@ Dans les programmes pilotes et les interventions à large échelle proposant une
 
 La recherche devrait aussi permettre d'en savoir plus sur l'efficacité d'interventions simples qui permettent de réduire la transmission chez les mères qui choisissent ou qui n'ont pas d'autres options que l'allaitement maternel.
 
-_Développement et Santé, n°162, décembre 2002_
+*Développement et Santé, n°162, décembre 2002*

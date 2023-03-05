@@ -15,9 +15,9 @@ Le RAA est une affection articulaire qui survient après une angine à streptoco
 
 Le RAA est étroitement lié à deux facteurs :
 
-*   les **conditions socio-économiques** :(la pauvreté et surtout la promiscuité, ce qui explique que le RAA soit plus fréquent dans les quartiers défavorisés des villes, où l'entassement dans les logements est le plus grand.
+- les **conditions socio-économiques** :(la pauvreté et surtout la promiscuité, ce qui explique que le RAA soit plus fréquent dans les quartiers défavorisés des villes, où l'entassement dans les logements est le plus grand.
 
-*   et le **mauvais traitement des angines** : seuls les antibiotiques permettent d'éliminer le streptocoque dans la gorge.
+- et le **mauvais traitement des angines** : seuls les antibiotiques permettent d'éliminer le streptocoque dans la gorge.
 
 En fait, la médecine dispose de peu de moyens pour transformer les conditions de vie, et c'est surtout par le traitement efficace des angines qu'elle peut intervenir.
 
@@ -45,20 +45,18 @@ Au-dessous de 5 ans et au-dessus de 25 ans, il semble que le risque soit réelle
 
 Afin de soulager plus rapidement l'enfant, on peut de plus ajouter :
 
-*   Pénicilline G IM (dans l'autre fesse): 1 million U.  
-*   Aspirine pendant trois jours: 5 à 10 cg/ kg/jour en quatre prises (sans dépasser 1,5 g).
+- Pénicilline G IM (dans l'autre fesse): 1 million U.
+- Aspirine pendant trois jours: 5 à 10 cg/ kg/jour en quatre prises (sans dépasser 1,5 g).
 
 Enfin, en cas d'allergie vraie à la pénicilline, on doit donner de l'érythromycine : 50 mg/kg/jour en deux prises (sans dépasser 2 g) pendant 10 jours (on rappelle que les tétracyclines sont souvent inactives sur le streptocoque).
 
 #### En pratique, comment faire pour généraliser ce traitement ?
 
-1.  Tout d'abord, **l'information** doit être diffusée : une affiche comportant les modalités du traitement (fig. 1) peut être placée dans chaque dispensaire ou centre de soins; il est bien sûr important que le responsable des soins soit convaincu des avantages de ce " traitement minute ".  
-2.  Ensuite, **l'intendance** doit suivre: pour appliquer ce schéma, il faut l'antibiotique; ce qui ne devrait pas être trop difficile puisqu'il n'y a qu'une injection (au lieu de 10 de Pénicilline G).  
+1.  Tout d'abord, **l'information** doit être diffusée : une affiche comportant les modalités du traitement (fig. 1) peut être placée dans chaque dispensaire ou centre de soins; il est bien sûr important que le responsable des soins soit convaincu des avantages de ce " traitement minute ".
+2.  Ensuite, **l'intendance** doit suivre: pour appliquer ce schéma, il faut l'antibiotique; ce qui ne devrait pas être trop difficile puisqu'il n'y a qu'une injection (au lieu de 10 de Pénicilline G).
 3.  Enfin, dans la mesure où les deux conditions précédentes sont réalisées, il faut ajouter **l'éducation** sanitaire (dans les écoles en particulier), car beaucoup d'angines sont négligées et pourtant à risque; on peut faire cette éducation à l'aide d'un slogan facile à retenir, expliquant que "tout mal de gorge doit être soigné au dispensaire ".
 
-
 ![](i64-1.jpg)
-
 
 ## III. Le dépistage et la surveillance
 
@@ -68,9 +66,9 @@ La prévention secondaire et tertiaire peut s'envisager de la façon suivante:
 
 Lorsqu'on dispose de médecins scolaires, le **dépistage** se fait dans les classes, par la recherche d'antécédents de poussées articulaires, de gêne fonctionnelle (essoufflement) et d'un souffle cardiaque à l'auscultation. En pratique, il semble important de souligner les points suivants:
 
-*   Les douleurs articulaires sont fréquentes chez l'enfant et l'adolescent ; pour ne pas traiter par excès, il faut considérer uniquement les arthralgies du sujet jeune avec gonflement et/ou impossibilité de mobiliser l'articulation, s'accompagnant d'une vitesse de sédimentation élevée (à plus de 50 à la première heure).
+- Les douleurs articulaires sont fréquentes chez l'enfant et l'adolescent ; pour ne pas traiter par excès, il faut considérer uniquement les arthralgies du sujet jeune avec gonflement et/ou impossibilité de mobiliser l'articulation, s'accompagnant d'une vitesse de sédimentation élevée (à plus de 50 à la première heure).
 
-*   De même, la plupart des souffles cardiaques de l'enfant sont anorganiques (et donc sans gravité); lorsqu'on le peut, il est donc souhaitable d'avoir l'avis d'un spécialiste.
+- De même, la plupart des souffles cardiaques de l'enfant sont anorganiques (et donc sans gravité); lorsqu'on le peut, il est donc souhaitable d'avoir l'avis d'un spécialiste.
 
 Les cas ainsi dépistés vont s'ajouter aux cas déjà connus et entrer dans le cadre de la surveillance.
 
@@ -78,11 +76,9 @@ Les cas ainsi dépistés vont s'ajouter aux cas déjà connus et entrer dans le 
 
 Dans chaque dispensaire ou centre de soins primaires, il est important de réaliser un fichier, pour connaître et suivre la totalité des malades atteints de RAA. Ce fichier est tenu par l'infirmier ou l'auxiliaire responsable. Il y a une fiche par malade; à chaque fois que celui-ci se présente au dispensaire pour son injection de Benzathine-Pénicilline (tous les mois environ), on note la date. A la fin de chaque mois, il suffit de très peu de temps pour vérifier que tous les malades se sont bien présentés; pour les défaillants, le responsable les convoque directement, ou par un voisin ou par l'instituteur.
 
-Un modèle de fiche est présenté [On peut noter qu'un tel modèle: dépistage systématique/fichier de suivi/surveillance peut s'appliquer à d'autres affections chroniques (tuberculose, diabète, HTA)]. _(fig. 2)._ En fait, cette fiche peut même être encore simplifiée et ne comporter que: nom, adresse, diagnostic et les dates des injections. L'essentiel est qu'elle soit tenue par l'infirmier ou l'auxiliaire de santé, de manière régulière. Le contrôle du suivi du fichier peut être fait par un responsable itinérant une fois tous les trois ou six mois.
-
+Un modèle de fiche est présenté \[On peut noter qu'un tel modèle: dépistage systématique/fichier de suivi/surveillance peut s'appliquer à d'autres affections chroniques (tuberculose, diabète, HTA)\]. *(fig. 2).* En fait, cette fiche peut même être encore simplifiée et ne comporter que: nom, adresse, diagnostic et les dates des injections. L'essentiel est qu'elle soit tenue par l'infirmier ou l'auxiliaire de santé, de manière régulière. Le contrôle du suivi du fichier peut être fait par un responsable itinérant une fois tous les trois ou six mois.
 
 ![](i64-2.jpg)
-
 
 ### 3. Surveillance annuelle
 
@@ -90,9 +86,9 @@ Chaque malade doit être vu une fois par an par le médecin, lorsque c'est possi
 
 ### 4. Les mesures à prendre au niveau national ou régional
 
-#### Une région ou un pays qui veut mettre en place un programme de prévention du RAA doit prévoir, outre les mesures déjà exposées pour le niveau local, plusieurs éléments:
+#### Une région ou un pays qui veut mettre en place un programme de prévention du RAA doit prévoir, outre les mesures déjà exposées pour le niveau local, plusieurs éléments
 
-#### **Pour le traitement des angines**
+#### Pour le traitement des angines
 
 L'approvisionnement régulier en benzathine-pénicilline dans les dispensaires (au même titre que le vaccin, par exemple) ; une campagne d'information sur le " traitement-minute " de l'angine, auprès des médecins et infirmiers de dispensaires ; une éducation sanitaire dans les écoles ou à la radio.
 
@@ -106,14 +102,14 @@ Il est important de savoir qu'il est moins coûteux pour un budget de santé de 
 
 Le RAA devient un problème plus important dans les pays d'Afrique avec l'urbanisation croissante, mais on dispose à l'heure actuelle de moyens simples pour le combattre :
 
-*   généraliser le traitement-minute de l'angine,
+- généraliser le traitement-minute de l'angine,
 
-*   dépister les cardiopathies dans les écoles,
+- dépister les cardiopathies dans les écoles,
 
-*   établir un fichier de suivi dans chaque dispensaire,
+- établir un fichier de suivi dans chaque dispensaire,
 
-*   examiner les malades une fois par an.
+- examiner les malades une fois par an.
 
 Ainsi, on peut espérer diminuer le nombre et surtout la gravité des cas de rhumatisme articulaire aigu.
 
-_Développement et Santé, N°42, décembre 1982_
+*Développement et Santé, N°42, décembre 1982*

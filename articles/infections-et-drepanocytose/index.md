@@ -6,9 +6,7 @@ date: "1982-02-26"
 
 La survenue d'infections bactériennes graves, notamment à pneumocoques, est une cause importante de mortalité chez l'enfant atteint de drépanocytose homozygote SS (cf. D.S. n° 7, p. 3). Ce risque paraît considérable entre six mois et cinq ans.
 
-
 ![](i23-1.jpg)
-
 
 Les principaux facteurs qui augmentent le risque infectieux sont:
 
@@ -26,7 +24,7 @@ Pour améliorer le pronostic de ces enfants, il faut:
 
 **4.** Une attitude rigoureuse lors des épisodes fébriles.
 
-### **Le risque infectieux**
+### Le risque infectieux
 
 Chez l'enfant drépanocytaire homozygote, on sait :
 
@@ -54,7 +52,7 @@ Plus rarement :
 
 - le straphylocoque.
 
-#### **Quel type d'infection?**
+#### Quel type d'infection?
 
 **Septicémies**
 
@@ -78,13 +76,13 @@ Elles aussi très fréquentes, elles sont bien particulières :
 
 • enfin parce qu'il existe souvent plusieurs localisations et que les rechutes sont fréquentes.
 
-#### **Infections pulmonaires**
+#### Infections pulmonaires
 
 Plus fréquentes que graves, elles sont provoquées par le pneumocoque et le mycoplasme. Il est quelquefois difficile de différencier infarctus pulmonaire et infection.
 
-#### **Infection et thrombose ****sont souvent associées !!!**
+#### Infection et thrombose sont souvent associées !!!
 
-#### **Infections urinaires**
+#### Infections urinaires
 
 Moins connues, elles sont pourtant fréquentes en particulier au cours de la grossesse. Ces infections se voient à tout âge et s'accompagnent souvent d'hémoculture positive (60%). Les klebsielles sont souvent en cause.
 
@@ -104,7 +102,7 @@ d'où:
 
 Chez l'enfant, on considère que 3/4 des crises vaso-occlusives (dont le syndrome pied-main) sont secondaires à une infection.
 
-### **Traitement**
+### Traitement
 
 **La prévention est l'idéal**
 
@@ -116,9 +114,7 @@ Quelle qu'en soit la forme, injectable ou orale, sa bonne tolérance à long ter
 
 Elle diminue de façon significative le risque d'infection à pneumocoque puisque 80% de ces germes sont sensibles à la Pénicilline.
 
-
 ![](i23-2.jpg)
-
 
 Elle est malheureusement sans effet sur l'hémophilus et les salmonelles.
 
@@ -164,4 +160,4 @@ Et si possible, immédiatement:
 
 200 cc/ kg/ 24 heures avant cinq ans et 3 l/24 heures chez les sujets plus âgés
 
-_Développement et Santé_
+*Développement et Santé*

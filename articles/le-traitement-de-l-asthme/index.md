@@ -12,7 +12,7 @@ Le traitement de l'asthme comprend deux éléments :
 
 - le traitement préventif de la survenue des crises : il s'agit alors de la prise en charge d'une maladie chronique pour laquelle la stratégie thérapeutique est élaborée en fonction de la sévérité de la maladie.
 
-## **I. Les médicaments** **de l'asthme**
+## I. Les médicaments de l'asthme
 
 Les médicaments de la crise d'asthme doivent être actifs sur :
 
@@ -20,7 +20,7 @@ Les médicaments de la crise d'asthme doivent être actifs sur :
 
 - l'inflammation des voies aériennes: ce sont les anti-inflammatoires.
 
-### **1. Les bronchodilatateurs**
+### 1. Les bronchodilatateurs
 
 **a. Les bêta 2 mimétiques**
 
@@ -30,7 +30,9 @@ Ils permettent le relâchement du muscle lisse bronchique (par stimulation des r
 
 Les bêta 2 mimétiques sont les plus utilisés dans le traitement de la crise d'asthme. Ils existent sous diverses formes permettant l'administration :
 
-*   par voie _locale._
+- par voie *locale.*
+
+<!-- -->
 
 - aérosol doseur pressurisé (spray)
 
@@ -38,13 +40,21 @@ Les bêta 2 mimétiques sont les plus utilisés dans le traitement de la crise d
 
 - poudre pour inhalation.
 
-*   par voie _orale:_
+<!-- -->
+
+- par voie *orale:*
+
+<!-- -->
 
 - comprimés à libération normale ou retardée
 
 - sirop à usage pédiatrique.
 
-*   par voie _injectable_
+<!-- -->
+
+- par voie *injectable*
+
+<!-- -->
 
 - pour injection sous-cutanée
 
@@ -68,7 +78,7 @@ La voie d'administration est essentiellement orale :
 
 L'utilisation de la forme injectable est devenue rare et reste réservée à l'usage hospitalier.
 
-### **2. Les anti-inflammatoires**
+### 2. Les anti-inflammatoires
 
 Ils limitent l'inflammation bronchique et ont une action préventive.
 
@@ -76,11 +86,11 @@ Ils limitent l'inflammation bronchique et ont une action préventive.
 
 Ils sont un des traitements majeurs de l'asthme. La voie d'administration peut être:
 
-_- locale_: corticothérapie inhalée, dont l'efficacité peut être améliorée par l'utilisation d'une "chambre d'inhalation " ;
+*- locale*: corticothérapie inhalée, dont l'efficacité peut être améliorée par l'utilisation d'une "chambre d'inhalation " ;
 
-_- orale:_ en cure courte en traitement d'attaque (moins de 15jours), ou en traitement de long cours (prise matinale de préférence) ;
+*- orale:* en cure courte en traitement d'attaque (moins de 15jours), ou en traitement de long cours (prise matinale de préférence) ;
 
-_- intraveineuse:_ réservée au traitement d'urgence.
+*- intraveineuse:* réservée au traitement d'urgence.
 
 Les effets secondaires sont nombreux, dépendant de la posologie et de la durée du traitement. Aussi, leur utilisation par voie intraveineuse ou orale ne doit s'envisager qu'après échec des traitements par bêta 2 mimétiques bien conduits.
 
@@ -88,15 +98,15 @@ Les effets secondaires sont nombreux, dépendant de la posologie et de la durée
 
 Ils ne sont actifs que dans le cadre d'un traitement préventif.
 
-*   _Le kétotifène (Zaditen®)_
+- *Le kétotifène (Zaditen®)*
 
 Il a une action antihistaminique et antidégranulante. Actif essentiellement chez l'enfant, il s'administre par voie orale (2 prises par jour). Il n'a pas d'effet secondaire.
 
-*   _Le cromoglycate de sodium (Lomudal®)_
+- *Le cromoglycate de sodium (Lomudal®)*
 
 Antidégranulant, c'est un anti-inflammatoire (inhibition de la libération de médiateurs à l'origine de la réaction inflammatoire). La voie d'administration est locale, en spray (2 bouffées 2 à 4 fois par jour). Il n'a pas d'effet secondaire.
 
-### **3. La technique de l'inhalation**
+### 3. La technique de l'inhalation
 
 1 - inspiration profonde  
 => déclenchement du spray  
@@ -104,20 +114,18 @@ Antidégranulant, c'est un anti-inflammatoire (inhibition de la libération de m
 
 **a. La chambre d'inhalation**
 
-L'enfant ne sait pas coordonner le déclenchement de l'aérosol et l'inspiration profonde suivie d'une apnée. On interpose entre la bouche de l'enfant et l'aérosol une chambre d'inhalation commercialisée (Nébuhaler_®_ ) ou fabriquée simplement.
+L'enfant ne sait pas coordonner le déclenchement de l'aérosol et l'inspiration profonde suivie d'une apnée. On interpose entre la bouche de l'enfant et l'aérosol une chambre d'inhalation commercialisée (Nébuhaler\_®\_ ) ou fabriquée simplement.
 
 **b. Fabrication de la chambre d'inhalation**
 
 Il faut :
 
-*   deux bouteilles d'eau en plastique
-*   couper le tiers inférieur des bouteilles
-*   les emboîter l'une dans l'autre
-*   arrimer avec du sparadrap.
-
+- deux bouteilles d'eau en plastique
+- couper le tiers inférieur des bouteilles
+- les emboîter l'une dans l'autre
+- arrimer avec du sparadrap.
 
 ![](i618-1.jpg)
-
 
 **c. Utilisation de la chambre d'inhalation**
 
@@ -125,29 +133,23 @@ L'enfant place sa bouche à une extrémité de la chambre, on ajuste l'aérosol 
 
 On peut l'utiliser pour l'administration des bêta 2 mimétiques, des corticoïdes inhalés.
 
-## **II. Le traitement de la crise** **d'asthme**
+## II. Le traitement de la crise d'asthme
 
-### **1. Chez l'adulte**
-
+### 1. Chez l'adulte
 
 ![](i618-2.jpg)
 
-
-### **2. Chez l'enfant**
-
+### 2. Chez l'enfant
 
 ![](i618-3.jpg)
 
-
-### **3. Chez le nourrisson**
+### 3. Chez le nourrisson
 
 Le jeune enfant est peu coopérant: l'administration des thérapeutiques inhalées est peu efficace, voire impossible. Les schémas thérapeutiques sont différents et utilisent plus volontiers les formes orales.
 
-
 ![](i618-4.jpg)
 
-
-### **4. La crise d'asthme grave**
+### 4. La crise d'asthme grave
 
 Le traitement correctement administré est inefficace. Le malade présente des signes de gravité. Il est hypoxémique. Il doit être référé dans une structure hospitalière.
 
@@ -175,15 +177,11 @@ La prise en charge en milieu hospitalier repose sur les mêmes médicaments, ave
 
 **d. Une antibiothérapie** est prescrite s'il existe des signes d'infection des voies respiratoires. Les antibiotiques sont plus facilement prescrits chez les enfants (attention au risque d'allergie).
 
-## **III. Le traitement de fond**
-
+## III. Le traitement de fond
 
 ![](i618-5.jpg)
 
-
-
 ![](i618-6.jpg)
-
 
 Le traitement de fond est un traitement préventif de la survenue des crises. Des mesures générales s'appliquent à toutes les formes de la maladie. L'éducation du malade est essentielle :
 
@@ -195,7 +193,7 @@ Le traitement de fond est un traitement préventif de la survenue des crises. De
 
 Le traitement de fond dépend de la sévérité de l'asthme. La stratégie thérapeutique est résumée dans les tableaux 5 et 6 chez l'adulte et chez l'enfant.
 
-_L'asthme à dyspnée continue_ (forme modérément sévère ou sévère) est difficile à traiter. Le traitement de fond repose sur les corticoïdes inhalés et la théophylline retard, mais bien souvent, des cures de corticoïdes par voie orale sont nécessaires: la posologie minimale efficace doit être administrée, ce qui peut imposer de fréquents changements thérapeutiques. Les effets secondaires de cette corticothérapie doivent être prévenus et surveillés. Des cures courtes à posologie renforcée (0,5 à 1 mg/kg/j) sont prescrites quand l'asthme devient instable. La posologie totale des corticoïdes oraux ne doit pas dépasser trois grammes par an.
+*L'asthme à dyspnée continue* (forme modérément sévère ou sévère) est difficile à traiter. Le traitement de fond repose sur les corticoïdes inhalés et la théophylline retard, mais bien souvent, des cures de corticoïdes par voie orale sont nécessaires: la posologie minimale efficace doit être administrée, ce qui peut imposer de fréquents changements thérapeutiques. Les effets secondaires de cette corticothérapie doivent être prévenus et surveillés. Des cures courtes à posologie renforcée (0,5 à 1 mg/kg/j) sont prescrites quand l'asthme devient instable. La posologie totale des corticoïdes oraux ne doit pas dépasser trois grammes par an.
 
 **Conclusion**
 
@@ -207,4 +205,4 @@ Le traitement de fond doit être expliqué au malade: indications des traitement
 
 La surveillance de long cours est essentielle, en particulier chez les enfants, afin d'évaluer le profil évolutif de la maladie, d'adapter la prise en charge thérapeutique et de préserver le devenir respiratoire.
 
-_Développement et Santé, n°114, décembre 1994_
+*Développement et Santé, n°114, décembre 1994*

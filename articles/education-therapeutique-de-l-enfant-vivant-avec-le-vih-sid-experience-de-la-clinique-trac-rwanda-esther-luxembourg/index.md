@@ -4,9 +4,9 @@ author: "Par Sabine Wibault Infirmière, spécialisée en santé mentale, promot
 date: "2007-11-12"
 ---
 
-L'éducation thérapeutique a, entre autres, pour objectif d'aider la personne à conserver "la santé" et particulièrement la santé mentale, dans le cas d'une maladie chronique. Si l'on reprend la définition de l'OMS, la santé mentale _est un état de bien-être dans lequel la personne peut se réaliser, surmonter les tensions normales de la vie, accomplir un travail productif et fructueux et contribuer à la vie de sa communauté._
+L'éducation thérapeutique a, entre autres, pour objectif d'aider la personne à conserver "la santé" et particulièrement la santé mentale, dans le cas d'une maladie chronique. Si l'on reprend la définition de l'OMS, la santé mentale *est un état de bien-être dans lequel la personne peut se réaliser, surmonter les tensions normales de la vie, accomplir un travail productif et fructueux et contribuer à la vie de sa communauté.*
 
-Ma formation en santé mentale a été marquée par Carl Rogers* et a conduit à utiliser les techniques de counseling en éducation thérapeutique. La philosophie du counseling que je soutiens est la croyance en _"la dignité de la personne, la voleur de l'individu, la reconnaissance de la liberté à déterminer ses propres valeurs et ses propres objectifs, le droit à poursuivre son style de vie, le changement dans un délai bref, une relation où l'empathie l'emporte sur l'autorité_(1).
+Ma formation en santé mentale a été marquée par Carl Rogers\* et a conduit à utiliser les techniques de counseling en éducation thérapeutique. La philosophie du counseling que je soutiens est la croyance en *"la dignité de la personne, la voleur de l'individu, la reconnaissance de la liberté à déterminer ses propres valeurs et ses propres objectifs, le droit à poursuivre son style de vie, le changement dans un délai bref, une relation où l'empathie l'emporte sur l'autorité*(1).
 
 **L'annonce de la séropositivité** dans une famille est toujours une expérience traumatisante massive et inévitable. Elle génère une forte charge d'angoisse, fréquemment associée à des éléments dépressifs et des réactions de révolte, d'autant plus lorsque s'ajoute à la découverte du virus chez l'enfant, la découverte du virus chez d'autres membres de la famille, parents et fratrie. L'annonce d'une séropositivité est donc souvent suivie d'une période de bouleversement du mode de vie familial. Le counselor doit travailler avec les parents/ tuteurs pour faire face à leur réaction émotionnelle. Il devra aussi prévenir la dislocation de la famille qui peut avoir un impact négatif sur la prise en charge de l'enfant infecté, trouver des moyens de préserver la santé de l'enfant et lui assurer un développement physique et moral satisfaisant (2).
 
@@ -14,25 +14,25 @@ Pour les enfants séropositifs au VIH/SIDA, il est important de prendre en consi
 
 ## Les enjeux de l'éducation thérapeutique chez l'enfant
 
-Si l'on se réfère à la définition suivante _:"les activités d'éducation sont destinées à aider le patient et sa famille et/ou son entourage à comprendre la maladie et les traitements, collaborer aux soins, prendre en charge son état de santé et conserver et/ou améliorer sa qualité de vie"(3)_, une des problématiques essentielles chez l'enfant est que l'on cache à beaucoup d'entre eux la véritable raison de leur suivi.
+Si l'on se réfère à la définition suivante *:"les activités d'éducation sont destinées à aider le patient et sa famille et/ou son entourage à comprendre la maladie et les traitements, collaborer aux soins, prendre en charge son état de santé et conserver et/ou améliorer sa qualité de vie"(3)*, une des problématiques essentielles chez l'enfant est que l'on cache à beaucoup d'entre eux la véritable raison de leur suivi.
 
 Comment un enfant peut-il être partenaire dans le processus de compréhension de sa maladie, ou encore conserver sa santé, s'il ne connaît pas les raisons qui l'obligent à devoir vivre avec des traitements ?
 
 **L'éducation thérapeutique chez les enfants, passe donc dans un premier temps, par l'accompagnement des parents et des soignants dans l'acceptation de la divulgation du diagnostic à l'enfant.**
 
-Grâce au Dr Alexandra Peltier, nous avons mis en place un matériel pédagogique _"Le CD4 contre-attaque"._
+Grâce au Dr Alexandra Peltier, nous avons mis en place un matériel pédagogique *"Le CD4 contre-attaque".*
 
 Cette approche permet de dédramatiser l'annonce du diagnostic et permet à l'enfant et sa famille de comprendre sa maladie, les traitements et ses exigences.
 
 Les enjeux de l'éducation thérapeutique chez l'enfant sont de pouvoir le maintenir dans son milieu de vie et d'assurer ses besoins fondamentaux. On observe que les familles vivant avec le VIH/SIDA sont confrontées à de nombreuses difficultés :
 
-*   Niveau élevé de stress et de tension chez les parents.  
-*   Détresse économique.  
-*   Crainte de contamination.  
-*   Non-divulgation entraînant le silence et l'isolement.  
-*   Culpabilité parentale et crainte de la honte sociale.  
-*   Pertes multiples.  
-*   Rejet et perte de soutien de la famille élargie et de la communauté.
+- Niveau élevé de stress et de tension chez les parents.
+- Détresse économique.
+- Crainte de contamination.
+- Non-divulgation entraînant le silence et l'isolement.
+- Culpabilité parentale et crainte de la honte sociale.
+- Pertes multiples.
+- Rejet et perte de soutien de la famille élargie et de la communauté.
 
 **Cette réalité demande à l'équipe de prise en charge, une vision plus psychosociale de son approche d'éducation thérapeutique.**
 
@@ -40,15 +40,15 @@ Les enjeux de l'éducation thérapeutique chez l'enfant sont de pouvoir le maint
 
 La clinique TRAC a des objectifs définis par le Ministère de la Santé Rwandais, qui sont :
 
-*   Fournir un appui technique et les informations pour la réduction du VIH /SIDA.  
-*   Surveiller, coordonner et évaluer l'exécutionnationale des programmes VIH/SIDA.  
-*   Augmenter les activités de surveillance et leur utilisation.  
-*   Etre identifié en tant que chef régional dans le domaine du VIH/SIDA.  
-*   Éditer les rapports techniques et les articles scientifiques.  
-*   Développer les ressources pour assurer le succès, la croissance et la durabilité de TRAC et de ses programmes.  
-*   Promouvoir l'accessibilité aux services de dépistage et de conseils sur le VIH/SIDA.  
-*   Améliorer la prise en charge clinique des personnes infectées par le VIH/SIDA.  
-*   Conduire des études de surveillance épidémiologiques et de recherche.
+- Fournir un appui technique et les informations pour la réduction du VIH /SIDA.
+- Surveiller, coordonner et évaluer l'exécutionnationale des programmes VIH/SIDA.
+- Augmenter les activités de surveillance et leur utilisation.
+- Etre identifié en tant que chef régional dans le domaine du VIH/SIDA.
+- Éditer les rapports techniques et les articles scientifiques.
+- Développer les ressources pour assurer le succès, la croissance et la durabilité de TRAC et de ses programmes.
+- Promouvoir l'accessibilité aux services de dépistage et de conseils sur le VIH/SIDA.
+- Améliorer la prise en charge clinique des personnes infectées par le VIH/SIDA.
+- Conduire des études de surveillance épidémiologiques et de recherche.
 
 L'éducation thérapeutique développée à la clinique TRAC est inscrite dans un projet-pilote. Actuellement, cette approche est adoptée dans 5 sites pilotes au Rwanda.
 
@@ -69,27 +69,25 @@ L'éducation thérapeutique s'adresse à 425 enfants, +/- 400 familles.</li><li>
 
 </table>
 
-Nous utilisons le terme de "**counselor**", qui n'est ni un éducateur, ni un conseiller. Ce concept est difficile à traduire, c'est pourquoi nous avons choisi de garder le terme counselor avec la signification de celui qui : _oriente, aide, informe, soutien et traite._
+Nous utilisons le terme de "**counselor**", qui n'est ni un éducateur, ni un conseiller. Ce concept est difficile à traduire, c'est pourquoi nous avons choisi de garder le terme counselor avec la signification de celui qui : *oriente, aide, informe, soutien et traite.*
 
 Le counselor est celui qui maîtrise les techniques de relation d'aide du counseling et c'est à travers ces techniques que nous faisons de "l'éducation thérapeutique". Les techniques et attitudes utilisées sont les mêmes que celles utilisées par Catherine Tourette-Turgis et Marilyne Rebillion pour la prise en charge des adultes,"' c'est-à-dire :
 
-*   L'écoute.  
-*   L'acceptation.  
-*   L'absence de jugement.  
-*   L'empathie.  
-*   La congruence.
-
+- L'écoute.
+- L'acceptation.
+- L'absence de jugement.
+- L'empathie.
+- La congruence.
 
 ![](i1095-1.jpg)
 
-
 ## La démarche éducative
 
-### Les causeries éducatives pour les parents/tuteurs.
+### Les causeries éducatives pour les parents/tuteurs
 
 Pour les enfants sous traitement, tous les parents participent à 3 séances d'éducation thérapeutique sous forme de "causeries éducatives", qui ont pour but de leur donner toutes les informations sur le suivi, les traitements et les besoins nutritionnels. Les outils utilisés pour ces causeries sont ceux qui ont été élaborés par FHI (Family Health International).
 
-### Suivi individuel des parents/tuteurs et des enfants.
+### Suivi individuel des parents/tuteurs et des enfants
 
 Tous les parents/tuteurs sont vus tous les mois en individuel par une infirmière/counselor. Cette rencontre permet d'évaluer les difficultés psychosociales de la famille.
 
@@ -117,10 +115,10 @@ Les parents et les enfants sont alors conviés à une éducation thérapeutique 
 
 Tous les jeudis à 14 heures, est organisée une séance d'éducation thérapeutique de groupe avec l'outil "Le CD4 contre-attaque". Les enfants viennent accompagnés de leurs parents ou tuteurs. Ils sont rencontrés en individuel, avant la séance, afin d'évaluer s'ils sont prêts à recevoir l'information sur leur maladie. On cherche aussi à savoir ce qu'ils savent déjà de leur diagnostic et des raisons de leur suivi médical. Les séances ont plusieurs objectifs :
 
-*   Donner l'occasion à l'enfant de mieux comprendre son corps.  
-*   Permettre à l'enfant de vivre un moment privilégié avec son parent, pour qu'ils comprennent ensemble l'importance du suivi médical et de l'observance au traitement.  
-*   Annoncer le diagnostic de séropositivité au VIH à l'enfant (à partir de l'âge de 6 ans).  
-*   Permettre à l'enfant de réaliser qu'il n'est pas seul face à cette dure réalité (les séances se font en groupe, ce qui dédramatise l'annonce de la séropositivité).
+- Donner l'occasion à l'enfant de mieux comprendre son corps.
+- Permettre à l'enfant de vivre un moment privilégié avec son parent, pour qu'ils comprennent ensemble l'importance du suivi médical et de l'observance au traitement.
+- Annoncer le diagnostic de séropositivité au VIH à l'enfant (à partir de l'âge de 6 ans).
+- Permettre à l'enfant de réaliser qu'il n'est pas seul face à cette dure réalité (les séances se font en groupe, ce qui dédramatise l'annonce de la séropositivité).
 
 Le travail d'éducation thérapeutique se fait essentiellement en groupe pour des raisons pratiques, étant donné le très grand nombre d'enfants à suivre. **Mais nous avons pu observer que cette approche en groupe dédramatise énormément la prise en charge.**
 
@@ -128,10 +126,10 @@ Les enfants sont répartis dans les différentes activités thérapeutiques selo
 
 Les groupes sont répartis comme suit :
 
-*   De 6 à 9 ans : on travaille beaucoup avec des activités ludiques, des chansons, des dessins ou encore des histoires.  
-*   De 10 à 12 ans : on mélange les activités ludiques avec des activités sur le corps, la santé.  
-*   De 13 à 15 ans : les groupes travaillent plus autour de la parole. Ils ont écrit des chansons, des pièces de théâtre sur leur vécu de la maladie.  
-*   De 15à 18 ans et de 16 à 20 ans : les jeunes de plus de 15 ans ne sont plus considérés comme faisant partie des groupes des enfants. Pourtant c'est dans ces tranches d'âge que l'on rencontre le plus de difficultés. Un mal de vivre qui entraîne très souvent une mauvaise observance aux traitements. L'équipe doit faire face à de nombreux challenges pour reconstruire l'espoir en l'avenir avec ces jeunes.
+- De 6 à 9 ans : on travaille beaucoup avec des activités ludiques, des chansons, des dessins ou encore des histoires.
+- De 10 à 12 ans : on mélange les activités ludiques avec des activités sur le corps, la santé.
+- De 13 à 15 ans : les groupes travaillent plus autour de la parole. Ils ont écrit des chansons, des pièces de théâtre sur leur vécu de la maladie.
+- De 15à 18 ans et de 16 à 20 ans : les jeunes de plus de 15 ans ne sont plus considérés comme faisant partie des groupes des enfants. Pourtant c'est dans ces tranches d'âge que l'on rencontre le plus de difficultés. Un mal de vivre qui entraîne très souvent une mauvaise observance aux traitements. L'équipe doit faire face à de nombreux challenges pour reconstruire l'espoir en l'avenir avec ces jeunes.
 
 ### Les groupes de soutien
 
@@ -159,9 +157,7 @@ Daniela a la charge de son petit frère de 3 ans et tous deux doivent prendre de
 
 </table>
 
-
 ![](i1095-2.jpg)
-
 
 ## Le bilan des activités d'éducation thérapeutique développées à la clinique TRAC
 
@@ -169,14 +165,12 @@ Lors des visites à domicile et des échanges au sein des groupes de paroles et 
 
 L'observance au traitement et le suivi des enfants ne doit pas se limiter à des séances d'éducation thérapeutique.
 
-
 ![](i1095-4.jpg)
-
 
 Pour qu'un enfant prenne ses traitements, il faut qu'il comprenne pourquoi il doit vivre avec cette contrainte. Mais il doit aussi être accompagné pour qu'il puisse donner un sens à cette prise de traitement et cela passe par l'espoir qu'il aura un "futur", que tous ses efforts ne sont pas inscrits dans la fatalité de sa mort. Il faut donc lui garantir un avenir, c'est-à-dire, qu'il puisse manger correctement, qu'il puisse suivre une scolarité normale, et qu'il puisse vivre dans un milieu affectif où il est respecté.
 
-
 ![](i1095-3.jpg)
+
 <table>
 
 <tbody>
@@ -197,14 +191,14 @@ Actuellement, la mère nous a confié que c'est Victor lui-même qui rappelle le
 
 </table>
 
-*Note de l'éditeur : Carl Rogers a approfondi l'approche entre soignant et soigné centrée sur la personne et fondée sur le développement personnel. Un ouvrage de référence est disponible en français : Le développement personnel, 2006, Hachette.
+\*Note de l'éditeur : Carl Rogers a approfondi l'approche entre soignant et soigné centrée sur la personne et fondée sur le développement personnel. Un ouvrage de référence est disponible en français : Le développement personnel, 2006, Hachette.
 
-**_Bibliographie :_**
+***Bibliographie :***
 
-_1- Rebillion M., Tourette Turgis C., www.counsellinquih.orq_
+*1- Rebillion M., Tourette Turgis C., [www.counsellinquih.orq](http://www.counsellinquih.orq)*
 
-_2- Un guide complet des soins aux personnes atteintes d'une affection à VIH, module 2, nourrisson, enfant et pré-adolescent. Collège des médecins de famille du Canada, 1995._
+*2- Un guide complet des soins aux personnes atteintes d'une affection à VIH, module 2, nourrisson, enfant et pré-adolescent. Collège des médecins de famille du Canada, 1995.*
 
-_3- Gagnayre R., Traynard RY, Définir l'éducation thérapeutique d'un patient, Impact médecin hebdo, n°404,Paris, 1998._
+*3- Gagnayre R., Traynard RY, Définir l'éducation thérapeutique d'un patient, Impact médecin hebdo, n°404,Paris, 1998.*
 
-_Développement et Sante, n°187, 2007_
+*Développement et Sante, n°187, 2007*

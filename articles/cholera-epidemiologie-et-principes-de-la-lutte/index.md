@@ -12,18 +12,18 @@ La réhydratation rapide permet de réduire la mortalité à moins de 2 % Le cho
 
 Lutter contre le choléra c'est lutter contre sa transmission:
 
-*   transmission de l'homme à l'eau,
-*   transmission de l'eau à l'homme,
-*   transmission directe d'homme à homme.
+- transmission de l'homme à l'eau,
+- transmission de l'eau à l'homme,
+- transmission directe d'homme à homme.
 
-## **Epidémiologie**
+## Epidémiologie
 
-### **1. Agent pathogène:** **le vibrion cholérique**
+### 1. Agent pathogène: le vibrion cholérique
 
-*   Les vibrions responsables sont des bacilles Gram négatif, très fins, en forme de virgule, très mobiles à l'examen microscopique sur lame.  
-*   Les vibrions responsables du choléra sont appelés **vibrio cholerae 01,** et les épidémies actuelles sont dues aux types **el Tor-Ogawa** ou **el Tor-Inaba.** Il existe d'autres espèces de vibrions, qui ne provoquent pas le choléra.
+- Les vibrions responsables sont des bacilles Gram négatif, très fins, en forme de virgule, très mobiles à l'examen microscopique sur lame.
+- Les vibrions responsables du choléra sont appelés **vibrio cholerae 01,** et les épidémies actuelles sont dues aux types **el Tor-Ogawa** ou **el Tor-Inaba.** Il existe d'autres espèces de vibrions, qui ne provoquent pas le choléra.
 
-### **2. Réservoir**
+### 2. Réservoir
 
 Le seul réservoir est le tube digestif de l'homme, malade ou porteur sain.
 
@@ -52,30 +52,30 @@ La durée de survie des vibrions émis dans les selles est variable :
 plusieurs semaines dans des vêtements humides,  
 Le vibrion est facilement détruit par le dessèchement, l'ébullition, le chlore.
 
-### **3.** **Transmission**
+### 3. Transmission
 
 L'homme se contamine en absorbant par la bouche des vibrions cholériques:
 
-*   soit en consommant de l'eau ou des aliments contaminés par des matières fécales (transmission hydrique),
-*   soit en portant à la bouche une main ayant touché les selles, les vomissements, les vêtements ou la peau d'un malade ou d'un porteur sain (transmission directe d'homme à homme).
+- soit en consommant de l'eau ou des aliments contaminés par des matières fécales (transmission hydrique),
+- soit en portant à la bouche une main ayant touché les selles, les vomissements, les vêtements ou la peau d'un malade ou d'un porteur sain (transmission directe d'homme à homme).
 
 **Facteurs favorisant la transmission du** **choléra :**
 
-*   Contamination de l'eau.
+- Contamination de l'eau.
 
 Absence de latrines.  
 Consommation d'eau non potable (mares).  
 Puits non protégés.  
 Stockage de l'eau dans des récipients insalubres.
 
-*   Contamination des aliments.
+- Contamination des aliments.
 
 Utilisation d'engrais humain.  
 Lavage des aliments avec une peau contaminée.  
 Manipulation des aliments avec des mains sales.  
 Consommation de coquillages contaminés. Mouches.
 
-*   Transmission directe d'homme à homme.
+- Transmission directe d'homme à homme.
 
 Manque d'eau.  
 Manque d'hygiène du corps, des mains, des vêtements.  
@@ -83,7 +83,7 @@ Contacts avec les selles ou les vomissements d'un malade.
 Contacts avec les cadavres (toilette mortuaire).  
 Rassemblements (fêtes, marchés, enterrements) qui multiplient les contacts et aggravent les conditions d'hygiène.
 
-### **4. Modalités épidémiques**
+### 4. Modalités épidémiques
 
 On distingue l'état endémique et les poussées épidémiques:
 
@@ -93,27 +93,27 @@ En zone **humide** (Asie, littoral et fleuves africains, saison des pluies) les 
 
 En zone **sèche** (Sahel) les poussées épidémiques sont brèves mais brutales et imprévisibles. La transmission est surtout directe, d'homme à homme, avec absorption de grandes quantités de vibrions. On trouve jusqu'à 100 % de porteurs sains et le choléra peut atteindre 50 % de la population.
 
-### **5. Répartition géographique**
+### 5. Répartition géographique
 
 L'épidémie mondiale actuelle a débuté en Asie en 1960, s'est étendue vers l'ouest, et atteint actuellement tout le continent africain.
 
 **Mécanisme de la diarrhée**
 
-*   L'incubation du choléra est de 1 à 5 jours.
+- L'incubation du choléra est de 1 à 5 jours.
 
-*   Les vibrions se multiplient dans l'intestin et produisent une **toxine.** Cette toxine agit sur les cellules de l'intestin en provoquant une sécrétion très importante d'eau, de sel, de bicarbonate et de potassium.
+- Les vibrions se multiplient dans l'intestin et produisent une **toxine.** Cette toxine agit sur les cellules de l'intestin en provoquant une sécrétion très importante d'eau, de sel, de bicarbonate et de potassium.
 
-*   Ce mécanisme **toxique** provoque une diarrhée **cholériforme** c'est-à-dire aqueuse, incolore, ne contenant pas de selles, ni de glaires, ni de sang, et souvent accompagnée de vomissements. La quantité totale de liquides perdus peut atteindre 10 à 15 litres par jour.
+- Ce mécanisme **toxique** provoque une diarrhée **cholériforme** c'est-à-dire aqueuse, incolore, ne contenant pas de selles, ni de glaires, ni de sang, et souvent accompagnée de vomissements. La quantité totale de liquides perdus peut atteindre 10 à 15 litres par jour.
 
 **Tableau clinique**
 
-**_" Une diarrhée sévère suivie de vomisse_ments, _qui tue un_****_adulte en quelques heures,_** **_est presque toujours un choléra "_**.
+***" Une diarrhée sévère suivie de vomissements, qui tue un adulte en quelques heures, est presque toujours un choléra "***.
 
 Cependant, au cours d'une épidémie de choléra, plus de la moitié des cas font une diarrhée de gravité moyenne.
 
 Dans les formes graves, le début de la diarrhée est très brutal, jusqu'à 1 litre en une heure, et une déshydratation sévère s'installe en quelques heures.
 
-Le _tableau 1_ indique les éléments cliniques permettant d'apprécier la gravité de la déshydratation et d'estimer la quantité de liquides perdus qui devront être remplacés par la réhydratation immédiate :
+Le *tableau 1* indique les éléments cliniques permettant d'apprécier la gravité de la déshydratation et d'estimer la quantité de liquides perdus qui devront être remplacés par la réhydratation immédiate :
 
 Pendant une épidémie, le diagnostic est facile et l'important est d'entreprendre la réhydratation le plus vite possible.
 
@@ -125,29 +125,27 @@ Si on ne dispose pas de laboratoire, il faut adresser des prélèvements au labo
 
 Au laboratoire, on peut mettre en évidence le vibrion cholérique dans un échantillon de selles ou sur un écouvillonnage rectal:
 
-*   Examen microscopique à l'état frais: présence de germes fins, très mobiles.  
-*   Immobilisation sur lame par le **sérum polyvalent anti-vibrio-cholerae 01** de l'Institut Pasteur.  
-*   Enrichissement et isolement:
+- Examen microscopique à l'état frais: présence de germes fins, très mobiles.
+- Immobilisation sur lame par le **sérum polyvalent anti-vibrio-cholerae 01** de l'Institut Pasteur.
+- Enrichissement et isolement:
 
 incubation 8 heures à 37 °C en **eau peptonée alcaline à 3 % de Na CI,** repiquage sur gelose d'isolement TCBS, incubation 8 heures à 37 °C, les colonies sont lisses, jaunes, brillantes, transparentes.
 
-*   Identification des colonies isolées par agglutination avec le sérum polyvalent anti-vibriocholerae 01.
-
+- Identification des colonies isolées par agglutination avec le sérum polyvalent anti-vibriocholerae 01.
 
 ![](i186-1.jpg)
 
+## Lutte contre le choléra
 
-## **Lutte contre le choléra**
-
-### **1. Traitement des malades**
+### 1. Traitement des malades
 
 Le choléra guérit en quelques jours, même dans les formes graves, si la réhydratation est précoce et rapide.
 
 **Réhydratation veineuse**
 
-*   Les solutés et le matériel de perfusion sont souvent en quantité limitée. On les réserve à la réhydratation initiale des formes avec déshydratation sévère. Deux voies d'abord peuvent être nécessaire chez un même malade
+- Les solutés et le matériel de perfusion sont souvent en quantité limitée. On les réserve à la réhydratation initiale des formes avec déshydratation sévère. Deux voies d'abord peuvent être nécessaire chez un même malade
 
-*   On utilise de préférence le Ringer-Lactate ou la solution recommandée par l'OMS:
+- On utilise de préférence le Ringer-Lactate ou la solution recommandée par l'OMS:
 
 pour un litre :
 
@@ -158,10 +156,11 @@ glucose: 1 0 g
 
 A défaut, on peut utiliser le mélange isotonique (deux litres) plus sérum bicarbonaté à 14 g/litre (un litre).
 
-*   Le volume à perfuser dans les quatre premières heures est égal à la quantité estimée des liquides perdus _(cf. tableau_ 1), soit 5 à 6 litres pour un adulte de 50 kilos. Un tiers de ce volume est perfusé dans les vingt premières minutes pour corriger rapidement l'état de choc.
+- Le volume à perfuser dans les quatre premières heures est égal à la quantité estimée des liquides perdus *(cf. tableau* 1), soit 5 à 6 litres pour un adulte de 50 kilos. Un tiers de ce volume est perfusé dans les vingt premières minutes pour corriger rapidement l'état de choc.
 
-*   La surveillance porte sur la correction des signes de déshydratation, en se méfiant de l'apparition de signes d'oedème pulmonaire en cas de perfusion trop rapide.  
-*   Le volume de perfusion est ensuite adapté au volume de la diarrhée et des vomissements, la réhydratation est poursuivie par voie orale jusqu'à l'arrêt de la diarrhée.
+- La surveillance porte sur la correction des signes de déshydratation, en se méfiant de l'apparition de signes d'oedème pulmonaire en cas de perfusion trop rapide.
+
+- Le volume de perfusion est ensuite adapté au volume de la diarrhée et des vomissements, la réhydratation est poursuivie par voie orale jusqu'à l'arrêt de la diarrhée.
 
 **Réhydratation orale**
 
@@ -185,7 +184,7 @@ sel: 35 g (7 cuillers à café rases),
 sucre: 200 g (40 morceaux),  
 bicarbonate de sodium: 25 g (5 cuillers à café).
 
-Le volume à faire absorber, par petites quantités répétées, pendant les quatre premières heures, est égal à la quantité estimée de liquides perdus _(cf. tableau 1)._ Pour un adulte de 50 kilos avec une déshydratation moyenne, ce volume est de 2,5 litres.
+Le volume à faire absorber, par petites quantités répétées, pendant les quatre premières heures, est égal à la quantité estimée de liquides perdus *(cf. tableau 1).* Pour un adulte de 50 kilos avec une déshydratation moyenne, ce volume est de 2,5 litres.
 
 Ensuite, le volume est adapté au volume mesuré des selles, jusqu'à la fin de la diarrhée.
 
@@ -193,44 +192,49 @@ Ensuite, le volume est adapté au volume mesuré des selles, jusqu'à la fin de 
 
 Le traitement antibiotique diminue le volume et la durée de la diarrhée. On utilise chez l'adulte:
 
-*   soit la sulfadoxine (Fanasil®): 1 injection IM unique de 2 g,
-*   soit la tétracycline 500 mg, 4 fois par jour, pendant 3 jours,
-*   soit le Bactrim®, 2 cp, 2 fois par jour, pendant 3 jours.
+- soit la sulfadoxine (Fanasil®): 1 injection IM unique de 2 g,
+- soit la tétracycline 500 mg, 4 fois par jour, pendant 3 jours,
+- soit le Bactrim®, 2 cp, 2 fois par jour, pendant 3 jours.
 
 La possibilité de **résistance** des vibrions aux cyclines et aux sulfamides nécessite, en cas d'épidémie, de transmettre des échantillons de selles à un laboratoire capable d'effectuer un antibiogramme.
 
-### **2. Organisation de la lutte** **contre les épidémies**
+### 2. Organisation de la lutte contre les épidémies
 
 Tout responsable de santé doit:
 
-*   Intensifier les mesures de prévention, c'est-à-dire la lutte contre les facteurs de transmission:
+- Intensifier les mesures de prévention, c'est-à-dire la lutte contre les facteurs de transmission:
 
-- hygiène de l'eau (puits protégés, eau bouillie ou traitée par chlore, récipients propres),  
-- hygiène des aliments,  
+<!-- -->
+
+- hygiène de l'eau (puits protégés, eau bouillie ou traitée par chlore, récipients propres),
+- hygiène des aliments,
 - savonnage des mains après la défécation et avant les repas.
 
-*   Informer le personnel pour obtenir un signalement rapide des cas suspects.
+<!-- -->
 
-*   Surveiller et enregistrer le nombre de cas de diarrhées.
+- Informer le personnel pour obtenir un signalement rapide des cas suspects.
 
-*   Se renseigner sur les causes des décès à domicile.  
-*   Disposer d'un stock de matériel de réhydratation.
+- Surveiller et enregistrer le nombre de cas de diarrhées.
+
+- Se renseigner sur les causes des décès à domicile.
+
+- Disposer d'un stock de matériel de réhydratation.
 
 **Lorsque surviennent un ou plusieurs** **cas suspects**
 
 Il faut **Immédiatement**
 
-*   regrouper, isoler et traiter les malades,
+- regrouper, isoler et traiter les malades,
 
-*   obtenir confirmation bactériologique du diagnostic,
+- obtenir confirmation bactériologique du diagnostic,
 
-*   signaler les cas aux autorités sanitaires,
+- signaler les cas aux autorités sanitaires,
 
-*   empêcher les déplacements et les rassemblements de population,
+- empêcher les déplacements et les rassemblements de population,
 
-*   organiser un dépistage précoce à domicile des cas suspects,
+- organiser un dépistage précoce à domicile des cas suspects,
 
-*   traiter l'entourage familial des malades et le personnel soignant par :
+- traiter l'entourage familial des malades et le personnel soignant par :
 
 Fanasil® cp à 500 mg: prise unique de 2 g,  
 ou Tétracycline 1,5 g par jour pendant 4 jours,  
@@ -241,13 +245,17 @@ ou Furoxane® 100 mg, 4 fois par jour pendant 4 jours.
 
 Il faudra en outre :
 
-*   organiser un centre de traitement ouvert 24 heures sur 24,
+- organiser un centre de traitement ouvert 24 heures sur 24,
 
-*   approvisionner le matériel suffisant et former le personnel supplémentaire nécessaire,
-*   désinfecter les selles, les vomissements, les locaux, les récipients (crésyl 4 %, chlorure de chaux 2 %, eau de javel 12 %),
-*   enterrer ou incinérer les cadavres,
-*   enregistrer chaque jour le nombre de **nouveaux cas** et le nombre de décès,
-*   assurer l'approvisionnement en eau potable de la communauté _(cf. fiche technique)._
+- approvisionner le matériel suffisant et former le personnel supplémentaire nécessaire,
+
+- désinfecter les selles, les vomissements, les locaux, les récipients (crésyl 4 %, chlorure de chaux 2 %, eau de javel 12 %),
+
+- enterrer ou incinérer les cadavres,
+
+- enregistrer chaque jour le nombre de **nouveaux cas** et le nombre de décès,
+
+- assurer l'approvisionnement en eau potable de la communauté *(cf. fiche technique).*
 
 **Vaccination**
 
@@ -259,8 +267,6 @@ En période d'endémie déclarée, la réhydratation précoce et intensive de to
 
 C'est avant l'épidémie, c'est-à-dire en permanence, que la lutte contre les facteurs de transmission, par l'amélioration de l'hygiène et l'éducation sanitaire, doit faire diminuer les risques de survenue du choléra.
 
-
 ![](i186-2.jpg)
 
-
-_Développement et Santé, n° 58, août 1985_
+*Développement et Santé, n° 58, août 1985*

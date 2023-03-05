@@ -18,7 +18,7 @@ Transmis directement ou indirectement, le papillomavirus a un tropisme pour les 
 
 Papillomavirus, cancer du col et autres pathologies
 
-Les différentes pathologies liées à HPV selon le génotype [1]
+Les différentes pathologies liées à HPV selon le génotype \[1\]
 
 </th>
 
@@ -79,9 +79,9 @@ autres cancers anogénitaux</td>
 
 <td colspan="2">
 
-HPV 15 et 16 : retrouvés dans environ 70 % des cancers du col de l'utérus [2]
+HPV 15 et 16 : retrouvés dans environ 70 % des cancers du col de l'utérus \[2\]
 
-HPV 6 et 11 : retrouvés dans plus de 90 % des verrues génitales (condylomes) [3]
+HPV 6 et 11 : retrouvés dans plus de 90 % des verrues génitales (condylomes) \[3\]
 
 </td>
 
@@ -91,7 +91,7 @@ HPV 6 et 11 : retrouvés dans plus de 90 % des verrues génitales (condylomes) [
 
 </table>
 
-[1] MUNOZ N. _et al._ New England Journal of Medicine, 348 (2003), 518-527
+\[1\] MUNOZ N. *et al.* New England Journal of Medicine, 348 (2003), 518-527
 
 L’HPV  peut concerner tous les âges de la vie, il se manifeste sous 3 formes, les verrues, les condylomes et les cancers.
 
@@ -106,11 +106,9 @@ Heureusement, la réponse immunitaire, et en particulier les lymphocytes T, va p
 
 Mais dans les autres cas, pour une raison inconnue, le virus persiste dans les cellules de la muqueuse, entraînant des dysplasies intra épithéliales puis des lésions précancéreuses de différents grades (CIN 2, CIN 3) qui, en quelques années, vont devenir des cancers du col utérin, dont la survenue est favorisée par d’autres facteurs : autre MST, tabagisme, contraceptifs oraux, multiparité et surtout infection à HIV (figure 2).
 
-
 ![](image003-1.png)
 
-
-[2] Fig 2  Extrayat J  InVS ,2003, 157
+\[2\] Fig 2  Extrayat J  InVS ,2003, 157
 
 Ce cancer est une calamité en particulier en Afrique subsaharienne où les estimations, en 2012, étaient de plus de 100 000 cas par an, entraînant 70 000 morts. Dans le monde, on estime que 500 000 nouveaux cas surviennent chaque année, dont 90 % dans les pays en  développement. En d’autres termes 50/100 000 cas sont diagnostiqués en Afrique chaque année, contre 7/100 000 en Amérique du Nord. Les écarts sont aussi importants pour ce qui est de la mortalité : 59/100 000 en Afrique contre 3/100 000 en Amérique du Nord.
 
@@ -122,11 +120,9 @@ D’autres HPV provoquent des dysplasies bénignes : les condylomes ano-génita
 
 L’HPV est de plus en plus responsable de cancers de la sphère aérodigestive haute, aggravés par le tabagisme et l’alcool. Le rôle de l’HPV, dans ces cancers, augmente régulièrement (Tableau 3).
 
-
 ![](image005-0.png)
 
-
-[3] Fig 3 :  Hong A.M,  _et al. _ Vaccine  2010,  26;28(19) 3269-72.  Salhcci , _et al_ C.H Cancer 2006 102 1343-4.
+\[3\] Fig 3 :  Hong A.M,  \_et al. \_ Vaccine  2010,  26;28(19) 3269-72.  Salhcci , *et al* C.H Cancer 2006 102 1343-4.
 
 On admet que le HPV est impliqué dans 78% des cancers oropharyngés.
 
@@ -134,7 +130,7 @@ On admet que le HPV est impliqué dans 78% des cancers oropharyngés.
 
 Il est difficile d’échapper à l’HPV aussi répandu que les virus herpès.
 
-Pour la prévention du cancer du col, il a bien été démontré qu’un dépistage régulier par colposcopie des lésions pré cancéreuses CIN 2, CIN 3* et leur exérèse (conisation du col utérin) est une bonne prévention du cancer dont l’installation est lente, sur plusieurs années. Il est indispensable que cet examen du col soit effectué régulièrement tous les 3 ans à partir de 30 ans (de 25 à 65 ans aux USA et en Europe). Les pays scandinaves dont la rigueur est bien connue ont vu diminuer les cancers du col de plus de 80% grâce au dépistage systématique.
+Pour la prévention du cancer du col, il a bien été démontré qu’un dépistage régulier par colposcopie des lésions pré cancéreuses CIN 2, CIN 3\* et leur exérèse (conisation du col utérin) est une bonne prévention du cancer dont l’installation est lente, sur plusieurs années. Il est indispensable que cet examen du col soit effectué régulièrement tous les 3 ans à partir de 30 ans (de 25 à 65 ans aux USA et en Europe). Les pays scandinaves dont la rigueur est bien connue ont vu diminuer les cancers du col de plus de 80% grâce au dépistage systématique.
 
 ### Une nouvelle arme : la vaccination
 
@@ -142,7 +138,7 @@ Sachant que les génotypes 6, 11, 16, et 18 sont les plus cancérigènes ou indu
 
 Testé chez des milliers de femmes, le vaccin est bien toléré. Il interdit au virus de pénétrer dans les cellules de la muqueuse, évitant ainsi la survenue de stades pré cancéreux (CIN) dans plus de 85% des cas. Il est trop tôt pour savoir s’il protège contre le cancer, un recul de 20 à 30 ans est nécessaire, mais on sait qu’il faut OBLIGATOIREMENT passer par les stades précancéreux CIN pour voir survenir un cancer. On a donc toutes les raisons de penser que le vaccin aura une efficacité  supérieure à 85%.
 
-Malheureusement, si le vaccin est administré plusieurs mois après un contact sexuel infectant et que le virus a pénétré dans les cellules de la muqueuse, le vaccin est incapable de déloger le virus intra cellulaire. Le vaccin est donc strictement préventif et pas thérapeutique. Cela veut dire qu’idéalement le vaccin doit être administré avant les premières relations sexuelles. Cela dit, l’expérience nous a appris que le vaccin avait des chances de protéger jusque vers 20 ans[J1] .
+Malheureusement, si le vaccin est administré plusieurs mois après un contact sexuel infectant et que le virus a pénétré dans les cellules de la muqueuse, le vaccin est incapable de déloger le virus intra cellulaire. Le vaccin est donc strictement préventif et pas thérapeutique. Cela veut dire qu’idéalement le vaccin doit être administré avant les premières relations sexuelles. Cela dit, l’expérience nous a appris que le vaccin avait des chances de protéger jusque vers 20 ans\[J1\] .
 
 Comme attendu, le vaccin quadrivalent a rapidement démontré son efficacité sur les condylomes ano-génitaux ; elle est de plus de 85 %.
 

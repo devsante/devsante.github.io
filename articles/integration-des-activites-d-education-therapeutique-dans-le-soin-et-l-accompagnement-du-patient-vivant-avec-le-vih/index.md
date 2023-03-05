@@ -4,21 +4,22 @@ author: "Par Dr. Olivier Ségéral, Valérie Morin, Brigitte Lévy, Hôpital de 
 date: "2007-11-12"
 ---
 
-**Expérience de l'hôpital Calmette de Phnom Penh (Cambodge)****.**
+**Expérience de l'hôpital Calmette de Phnom Penh (Cambodge).**
 
-## I. Mise en oeuvre des activités d'éducation  
+## I. Mise en oeuvre des activités d'éducation
+
 thérapeutique à l'hôpital Calmette
 
 Dans le cadre de l'initiative ESTHER, un partenariat entre l'hôpital du Kremlin Bicêtre et l'hôpital Calmette a été initié en 2003. L'objectif a été de créer un centre référent dans une logique de prise en charge globale et de continuité des soins apportés aux patients. L'accent a été notamment mis sur la formation de tous les acteurs clés du projet, le développement d'un programme d'éducation thérapeutique et l'implication du réseau associatif et du tissu communautaire dans l'accompagnement psycho-social des patients et des familles.
 
-### _Le jumelage ESTHER vous a conduit à participer à la mise en place du service de consultations externes de l'hôpital Calmette. Comment se sont développées les activités d'éducation thérapeutique au sein du service ?_
+### *Le jumelage ESTHER vous a conduit à participer à la mise en place du service de consultations externes de l'hôpital Calmette. Comment se sont développées les activités d'éducation thérapeutique au sein du service ?*
 
 Le service de consultations externes de l'hôpital Calmette a ouvert ses portes le 17 février 2003 et les premières trithérapies ont débuté en juillet de la même année.
 
 Dès le début de la consultation, en mai 2003, nous avons mis en place **une consultation d'information sur l'infection à VIH et les traitements antirétroviraux (ARV)** de manière à préparer les patients au traitement. Cette consultation était animée par les infirmiers après une formation théorique de 15 heures sous forme de cours théoriques et jeux de rôles. Les patients étaient adressés, sur prescription, à la suite de la consultation médicale afin de ne pas les faire revenir plusieurs fois.
 
-*   **Lors de la première consultation** : un questionnaire individuel permettait de cerner l'environnement psycho-social et le rapport à la maladie ainsi que l'état des connaissances du patient. Une note d'information sur les traitements était remise au patient et commentée.  
-*   **Au cours des deuxième et troisième consultations** : une évaluation des acquis des précédentes consultations était effectuée.
+- **Lors de la première consultation** : un questionnaire individuel permettait de cerner l'environnement psycho-social et le rapport à la maladie ainsi que l'état des connaissances du patient. Une note d'information sur les traitements était remise au patient et commentée.
+- **Au cours des deuxième et troisième consultations** : une évaluation des acquis des précédentes consultations était effectuée.
 
 Les compétences développées étaient les suivantes : citer et identifier les différents médicaments de son traitement, décrire la posologie et les modalités de prise de chacun des médicaments, comment rattraper une prise médicamenteuse en cas d'oubli, gérer son stock de médicament, comment gérer les effets secondaires...
 
@@ -26,7 +27,7 @@ Fin 2003, une demande de financement a été adressée à la fondation GSK pour 
 
 Ce programme a été coordonné par l'association Format Santé sous la direction du Pr. Rémi Gagnayre (Laboratoire de pédagogie des sciences de la santé de la faculté de médecine de Bobigny).
 
-#### Les conditions préalables à la mise en œuvre du programme ont tout d'abord été explorées.
+#### Les conditions préalables à la mise en œuvre du programme ont tout d'abord été explorées
 
 Etude de pertinence, de faisabilité et de fonctionnalité pédagogique.
 
@@ -34,10 +35,10 @@ Les ressources humaines, matérielles, logistiques et organisationnelles ont ét
 
 Suite à cette première mission, il est ressorti que :
 
-*   Les pratiques éducatives étaient caractérisées par une forte propension à dispenser des conseils et des informations au lieu de partir des connaissances du patient, de ses problématiques et de l'écouter.  
-*   Les équipes avaient des difficultés à travailler de manière multiprofessionnelle. Même si des projets de fiches de liaisons entre médecins et infirmiers étaient évoqués, il n'y avait pas de réunions abordant les problèmes médicaux psycho-sociaux et éducatifs de manière simultanée.
+- Les pratiques éducatives étaient caractérisées par une forte propension à dispenser des conseils et des informations au lieu de partir des connaissances du patient, de ses problématiques et de l'écouter.
+- Les équipes avaient des difficultés à travailler de manière multiprofessionnelle. Même si des projets de fiches de liaisons entre médecins et infirmiers étaient évoqués, il n'y avait pas de réunions abordant les problèmes médicaux psycho-sociaux et éducatifs de manière simultanée.
 
-#### Une première mission de 2 semaines a eu lieu en janvier 2004.
+#### Une première mission de 2 semaines a eu lieu en janvier 2004
 
 Une formation de 5 jours animée par Format Santé a tout d'abord regroupé une trentaine de participants parmi lesquels médecins, personnels de la maternité, de la pharmacie, représentants des associations et les 4 infirmiers de la consultation externe futurs éducateurs.
 
@@ -49,23 +50,23 @@ Malgré la barrière de la langue (les consultations s'effectuent en Khmer), nou
 
 Au terme de ces 15 jours, 2 documents ont été élaborés et intégrés au dossier du patient : une liste de question pour faciliter le recueil de données, une fiche permettant de noter la compétence travaillée à chaque séance. Une réunion mensuelle infirmières-médecins a été décidée afin de mieux communiquer et d'échanger des informations sur un ou plusieurs patients.
 
-#### Une mission de suivi a été effectuée par Format Santé en juillet 2004, avec les objectifs suivants :
+#### Une mission de suivi a été effectuée par Format Santé en juillet 2004, avec les objectifs suivants
 
-*   Accompagner les infirmiers éducateurs sur le terrain professionnel au cours des séances d'éducation,
-*   Les aider à concevoir un support d'éducation et un support de transmission d'information entre médecin et infirmier,
-*   Aider les équipes à renforcer dans leur réunion les discussions portant sur les dimensions sociales et éducatives.  
-*   Mettre en place un dispositif minimal d'évaluation de l'éducation thérapeutique.
+- Accompagner les infirmiers éducateurs sur le terrain professionnel au cours des séances d'éducation,
+- Les aider à concevoir un support d'éducation et un support de transmission d'information entre médecin et infirmier,
+- Aider les équipes à renforcer dans leur réunion les discussions portant sur les dimensions sociales et éducatives.
+- Mettre en place un dispositif minimal d'évaluation de l'éducation thérapeutique.
 
-#### En février 2005, au cours d'une mission dans le cadre du programme ESTHER, nous avons travaillé avec les éducateurs sur la mise en place du dossier d'éducation.
+#### En février 2005, au cours d'une mission dans le cadre du programme ESTHER, nous avons travaillé avec les éducateurs sur la mise en place du dossier d'éducation
 
 Les recueils de données étaient conservés et non utilisés et il n'y avait pas de traces écrites des séances d'éducation.  
 Nous avons donc pris appui sur le dossier d'éducation de l'hôpital du Kremin Bicêtre que nous avons fait traduire en Khmer avant notre départ.  
 Après une présentation du dossier aux éducateurs et un travail d'adaptation, les éducateurs l'ont tout de suite utilisé avec les patients.
 
-_Entre 2005 et 2006, les infirmiers éducateurs sont venus en stage à l'hôpital du Kremlin Bicêtre._  
+*Entre 2005 et 2006, les infirmiers éducateurs sont venus en stage à l'hôpital du Kremlin Bicêtre.*  
 Ils ont participé à des séances d'éducation, ont observé les conditions de travail, le lieu d'éducation, les outils et notamment le dossier infirmier. Ils se sont ainsi rendu compte que les infirmières travaillaient en étroite collaboration avec les médecins.
 
-### _Quelles difficultés avez-vous rencontrées lors de la mise en place des activités d'éducation thérapeutique ?_
+### *Quelles difficultés avez-vous rencontrées lors de la mise en place des activités d'éducation thérapeutique ?*
 
 Lors de la mise en place en 2003 de ce que nous appelions les "consultations d'information", les médecins n'étaient pas convaincus de l'intérêt de l'éducation thérapeutique dans la prise en charge globale du patient. A cette époque ils pensaient que les patients allaient bien prendre leurs traitements et que ça n'allait pas poser de problème. Il était, de plus, difficile de faire travailler ensemble les médecins et les infirmiers, ils n'en avaient pas l'habitude.
 
@@ -74,20 +75,20 @@ C'est avec la formation animée par Format Santé que les choses ont commencé �
 Les médecins, relativement peu motivés lors de la première semaine de formation et pris par leurs activités, se sont montrés très intéressés lors des séances d'éducation et sont même venus y participer au côté de leurs patients. Ils ont accepté progressivement le programme et se sont aperçu de l'appui considérable des éducateurs.  
 Les infirmières ont pu progressivement s'intégrer dans les réunions de service.
 
-### _Les activités d'éducation thérapeutique sont aujourd'hui bien intégrées au soin. Quelles en sont selon vous les raisons ?_
+### *Les activités d'éducation thérapeutique sont aujourd'hui bien intégrées au soin. Quelles en sont selon vous les raisons ?*
 
-_La mise en place de cette activité dès le début de la prise en charge_ a été un facteur important :
+*La mise en place de cette activité dès le début de la prise en charge* a été un facteur important :
 
-*   La prise en charge était neuve, les infirmiers aussi et peu de mauvaises habitudes avaient été prises.  
-*   D'autre part, la consultation d'éducation a pu tout de suite être intégrée dans le circuit du patient, avec une plage horaire, un lieu.
+- La prise en charge était neuve, les infirmiers aussi et peu de mauvaises habitudes avaient été prises.
+- D'autre part, la consultation d'éducation a pu tout de suite être intégrée dans le circuit du patient, avec une plage horaire, un lieu.
 
-_L'implication de l'ensemble du personnel soignant_ lors de la formation Format Santé a permis une adhésion progressive. L'éducation thérapeutique est alors devenue un projet de service. Aujourd'hui, les réunions mensuelles infirmières/médecins et l'existence du dossier d'éducation permettent de communiquer entre éducateurs et soignants.
+*L'implication de l'ensemble du personnel soignant* lors de la formation Format Santé a permis une adhésion progressive. L'éducation thérapeutique est alors devenue un projet de service. Aujourd'hui, les réunions mensuelles infirmières/médecins et l'existence du dossier d'éducation permettent de communiquer entre éducateurs et soignants.
 
-_Le lieu d'éducation_ est juste à côté de celui du médecin. Ce sont des salles à part où la confifentialité est respectée.
+*Le lieu d'éducation* est juste à côté de celui du médecin. Ce sont des salles à part où la confifentialité est respectée.
 
-_L'éducation est intégrée_ dans les fonctions des infirmiers et en représente une part importante. Par ailleurs, tous les infirmiers sont concernés par cette activité.
+*L'éducation est intégrée* dans les fonctions des infirmiers et en représente une part importante. Par ailleurs, tous les infirmiers sont concernés par cette activité.
 
-L'évaluation de _l'impact du programme_ d'éducation a permis de faire reconnaître et de valoriser les activités d'éducation au sein du service : évaluation des compétences des patients, mesure de l'observance et de l'efficacité thérapeutique.  
+L'évaluation de *l'impact du programme* d'éducation a permis de faire reconnaître et de valoriser les activités d'éducation au sein du service : évaluation des compétences des patients, mesure de l'observance et de l'efficacité thérapeutique.  
 Et puis bien sûr, l'existence d'un coordinateur des activités d'éducation, le Dr. Ban Boroath.  
 Le Dr. Ban Boroath est aujourd'hui médecin référent et formateur en "éducation thérapeutique" au sein du cursus national des médecins et infirmières au Cambodge.
 
@@ -101,12 +102,12 @@ Tous les ans, une semaine de formation à l'éducation thérapeutique est dispen
 
 Coordinateur des activités d'éducation thérapeutique à l'hôpital Calmette.
 
-### _Dr. Ban, vous êtes médecin clinicien du VIH/SIDA à l'hôpital Calmette et coordinateur de l'éducation thérapeutique. En quoi consistent vos fonctions_
+### *Dr. Ban, vous êtes médecin clinicien du VIH/SIDA à l'hôpital Calmette et coordinateur de l'éducation thérapeutique. En quoi consistent vos fonctions*
 
 En tant que coordinateur, j'ai deux missions principales : l'organisation des activités d'éducation et le suivi des éducateurs. Concernant l'organisation des activités d'éducation, je suis en charge du plan d'activités et du circuit des patients. Je détermine les critères d'inclusion des patients pour l'éducation et prépare les dossiers et les outils des séances.  
 Le suivi des éducateurs consiste à faire de la supervision et à les accompagner, répondre à leurs questions et à leurs besoins et mettre à jour les connaissances scientifiques autour du VIH/SIDA.
 
-### _Quelle formation avez-vous reçue en éducation thérapeutique ? Que vous a apporté cette formation ?_
+### *Quelle formation avez-vous reçue en éducation thérapeutique ? Que vous a apporté cette formation ?*
 
 Une première formation de 2 semaines avec l'équipe du Pr. Rémi Gagnayre, Format Santé, m'a permis de mieux comprendre l'éducation thérapeutique.
 
@@ -132,13 +133,13 @@ Activités d'éducation thérapeutique à l'hôpital Calmette, Juin 2007
 
 </table>
 
-### _Comment l'éducation thérapeutique est-elle intégrée dans le circuit de prise en charge du patient ?_
+### *Comment l'éducation thérapeutique est-elle intégrée dans le circuit de prise en charge du patient ?*
 
 Les séances d'éducation se font systématiquement après la consultation médicale : 3 séances avant la prescription des ARV par les médecins et 1 séance trimestrielle chez tous les patients sous ARV.  
 Les éducateurs et les médecins collaborent étroitement : les éducateurs aident les médecins à suivre les patients dans le cadre de la consultation médicale ; ils accueillent les patients traités avant et après la consultation et adressent les patients aux médecins en cas de problèmes médicaux.  
 Enfin, des réunions mensuelles et le dossier d'éducation leur permettent d'échanger des informations.
 
-### _Quels ont été les éléments favorables à la mise en place et l'intégration au soin de l'éducation thérapeutique à Calmette ?_
+### *Quels ont été les éléments favorables à la mise en place et l'intégration au soin de l'éducation thérapeutique à Calmette ?*
 
 La direction, les responsables et les médecins de l'hôpital comprennent l'intérêt de l'éducation thérapeutique ; c'est un point capital ! Notre circuit de prise en charge est bien organisé : accueil, consultation externe, pharmacie et services hospitaliers et a intégré dès le début l'éducation thérapeutique. L'ensemble des acteurs hospitaliers appuient cette démarche : médecins, infirmiers, conseillers et le personnel administratifs.
 
@@ -147,13 +148,13 @@ La direction, les responsables et les médecins de l'hôpital comprennent l'int�
 **Par Dr. Ly Cheng Huy**  
 coordinateur ESTHER Cambodge.
 
-### _A Calmette, les patients sont aussi suivis par des conseillers psycho-sociaux. Quelle est leur mission ?_
+### *A Calmette, les patients sont aussi suivis par des conseillers psycho-sociaux. Quelle est leur mission ?*
 
 6 conseillers psychosociaux travaillent à plein temps. Recrutés en mars 2005, ils ont pour rôle de faciliter les soins et l'accompagnement psychosocial des personnes soignées à travers notamment :
 
-*   L'articulation entre l'éducation thérapeutique et la relation d'aide pour répondre à des situations familiales et personnelles qui rendent l'observance difficile,
-*   La médiation entre le personnel de soin et les patients pour faciliter le circuit des patients,
-*   Le travail en réseau avec le tissu associatif et les différents services de santé et d'accompagnement pour orienter les patients vers des services sanitaires et de soutien sociaux et économiques adaptés (centre d'hébergement, soins à domicile, soutien économique...).
+- L'articulation entre l'éducation thérapeutique et la relation d'aide pour répondre à des situations familiales et personnelles qui rendent l'observance difficile,
+- La médiation entre le personnel de soin et les patients pour faciliter le circuit des patients,
+- Le travail en réseau avec le tissu associatif et les différents services de santé et d'accompagnement pour orienter les patients vers des services sanitaires et de soutien sociaux et économiques adaptés (centre d'hébergement, soins à domicile, soutien économique...).
 
 Ils travaillent dans les salles d'accueil des patients spécifiques à cette activité (salles de conseil) et aux lits des patients hospitalisés. Depuis mars 2005, 4641 patients ont été sui vis en consultation ; 150 patients sont suivis par mois.
 
@@ -185,17 +186,17 @@ Dans le même temps, des associations locales souvent en lien avec la société 
 
 </table>
 
-### _Quelle formation ont-ils reçue ?_
+### *Quelle formation ont-ils reçue ?*
 
 La formation a été animée par des partenaires locaux, des intervenants d'ESTHER et l'association Sida Info Service selon le processus suivant :
 
-*   Vingt jours de formation théorique (150h) réparties en 3 sessions (3 modules : prendre soin, accompagner, travailler en réseau).  
-*   Un stage pratique des participants dans les services de consultation et d'hospitalisation de l'hôpital, centré sur le parcours de soin des personnes : 10 jours (40h) validé par un rapport de stage.  
-*   Une validation écrite des savoirs et un entretien personnalisé confidentiel préalable avec un counselor indépendant.  
-*   Un suivi continu des pratiques des conseillers psychosociaux est réalisé deux fois par an, (2 fois une semaine) par les formateurs pour discuter de cas concrets, échanger et renforcer les pratiques.  
-*   Tous les 2 mois, une supervision est effectuée par un counselor indépendant du dispositif de soin et d'accompagnement (vécu personnel à partir des difficultés et réussites rencontrées et mise à jour des connaissances).
+- Vingt jours de formation théorique (150h) réparties en 3 sessions (3 modules : prendre soin, accompagner, travailler en réseau).
+- Un stage pratique des participants dans les services de consultation et d'hospitalisation de l'hôpital, centré sur le parcours de soin des personnes : 10 jours (40h) validé par un rapport de stage.
+- Une validation écrite des savoirs et un entretien personnalisé confidentiel préalable avec un counselor indépendant.
+- Un suivi continu des pratiques des conseillers psychosociaux est réalisé deux fois par an, (2 fois une semaine) par les formateurs pour discuter de cas concrets, échanger et renforcer les pratiques.
+- Tous les 2 mois, une supervision est effectuée par un counselor indépendant du dispositif de soin et d'accompagnement (vécu personnel à partir des difficultés et réussites rencontrées et mise à jour des connaissances).
 
-### _Comment les éducateurs se coordonnent-ils auec les conseillers psycho-sociaux ?_
+### *Comment les éducateurs se coordonnent-ils auec les conseillers psycho-sociaux ?*
 
 Le circuit de prise en charge a été formalisé entre les conseillers et les éducateurs. Ils échangent au cours de la réunion hebdomadaire de staff dans laquelle sont présents les médecins, infirmiers, conseillers, et coordinateurs.
 
@@ -232,7 +233,7 @@ Notre langage doit être adapté aux patients. Il faut prendre du temps pour les
 
 </table>
 
-<table>
+\$1<table>
 
 <tbody>
 
@@ -258,10 +259,8 @@ L'éducation thérapeutique a permis d'attirer l'attention des médecins sur l'o
 
 </table>
 
-**_Remerciements pour le recueil d'interview à Dr. LY Cheng Huy, coordinateur ESTHER Cambodge_**
-
+***Remerciements pour le recueil d'interview à Dr. LY Cheng Huy, coordinateur ESTHER Cambodge***
 
 ![](i1087-1.jpg)
 
-
-_Développement et Santé, n°187, 2007_
+*Développement et Santé, n°187, 2007*

@@ -13,7 +13,7 @@ date: "2001-08-14"
 <li>la fibrinolyse qui permet la dissolution du caillot de fibrine lorsque la plaie est cicatrisée.</li>
 </ul></div>
 
-## I. Hémostase primaire _(figure 1)_
+## I. Hémostase primaire *(figure 1)*
 
 Au cours de cette étape interviennent le vaisseau, en particulier la paroi vasculaire, les plaquettes et au moins deux protéines plasmatiques : le facteur Willebrand et le fibrinogène, ces deux protéines étant également présentes à l'intérieur des plaquettes.
 
@@ -27,9 +27,7 @@ Elle constitue le temps vasculaire et facilite l'adhésion des plaquettes au col
 
 Elle s'effectue par l'intermédiaire du facteur Willebrand, fixé sur son récepteur membranaire : la protéine GPIb. Ce phénomène est très rapide. Il provoque l'activation des plaquettes.
 
-
 ![](i934-1.jpg)
-
 
 ### c) La sécrétion plaquettaire
 
@@ -49,7 +47,7 @@ Cette étape devient rapidement irréversible sous l'action de la thrombine, gé
 
 Les plaquettes agrégées meurent très rapidement, leurs membranes fusionnent et les cellules sont lysées, libérant les éléments du cytoplasme. L'amas formé par ces plaquettes fusionnées est appelé le clou plaquettaire ou clou hémostatique ou encore thrombus blanc. L'hémostase primaire peut être explorée globalement par le temps de saignement (TS).
 
-## Il. La coagulation _(figure 2)_
+## Il. La coagulation *(figure 2)*
 
 La coagulation intervient pour consolider le clou plaquettaire obtenu à la fin de l'hémostase primaire, ce dernier étant insuffisant pour assurer une hémostase complète.
 
@@ -59,7 +57,7 @@ Cette transformation a lieu après une série de réactions faisant intervenir d
 
 On distingue classiquement deux voies permettant d'aboutir à cette formation de thrombine : la voie endogène ou intrinsèque et la voie exogène ou extrinsèque, toutes deux aboutissant à l'activation du facteur X. Une voie commune aboutit ensuite à la formation de thrombine.
 
-_Les facteurs de la coagulation sont indiqués_ _en chiffres romains, suivis d'un_ "a" _lorsqu'ils sont activés._
+*Les facteurs de la coagulation sont indiqués* *en chiffres romains, suivis d'un* "a" *lorsqu'ils sont activés.*
 
 ### 1. La voie exogène
 
@@ -67,7 +65,7 @@ Elle fait intervenir le facteur tissulaire, le facteur VII et le facteur X.
 
 #### Mécanisme
 
-Le facteur tissulaire (FT) s'associe au facteur VII pour former un complexe [FT-FVII] qui active rapidement le facteur X.
+Le facteur tissulaire (FT) s'associe au facteur VII pour former un complexe \[FT-FVII\] qui active rapidement le facteur X.
 
 La voie exogène peut être explorée globalement par le temps de Quick (TQ) ou taux de prothrombine (TP).
 
@@ -77,18 +75,20 @@ Elle fait intervenir de très nombreux facteurs :
 
 #### Les facteurs contacts
 
-*   facteur XI facteur Rosenthal ou PTA
-*   facteur XII facteur Hageman
-*   kallicréine (K)= facteur Fletcher provenant de l'activation de la prékallicréine (PK)
+- facteur XI facteur Rosenthal ou PTA
 
-*   kininogène de haut poids moléculaire (KHPM) = facteur Flaugeac.
+- facteur XII facteur Hageman
+
+- kallicréine (K)= facteur Fletcher provenant de l'activation de la prékallicréine (PK)
+
+- kininogène de haut poids moléculaire (KHPM) = facteur Flaugeac.
 
 #### Les autres facteurs
 
-*   facteur IX = facteur anti hémophilique B
-*   facteur VIII = facteur anti hémophilique A
-*   les phospholipides de la membrane plaquettaire, facteur 3 plaquettaire (F3P)
-*   le calcium (Ca<sup>++</sup>).
+- facteur IX = facteur anti hémophilique B
+- facteur VIII = facteur anti hémophilique A
+- les phospholipides de la membrane plaquettaire, facteur 3 plaquettaire (F3P)
+- le calcium (Ca<sup>++</sup>).
 
 #### Mécanisme
 
@@ -108,9 +108,7 @@ Le facteur Xa active le facteur V et va former un complexe avec le facteur Va, e
 
 C'est la thrombine qui va transformer le fibrinogène en fibrine, qui se polymérise.
 
-
 ![](i934-2.jpg)
-
 
 #### Stabilisation de la fibrine
 
@@ -122,13 +120,15 @@ La formation d'un caillot de qualité va permettre de stopper l'hémorragie et l
 
 ### Les facteurs
 
-*   le tPA ( activateur tissulaire du plasminogène),
-*   les facteurs de la phase contact : surtout le facteur XIla,
+- le tPA ( activateur tissulaire du plasminogène),
 
-*   le plasminogène,
-*   l'urokinase.
+- les facteurs de la phase contact : surtout le facteur XIla,
 
-### Mécanisme _(figure 3)_
+- le plasminogène,
+
+- l'urokinase.
+
+### Mécanisme *(figure 3)*
 
 Sous l'action des activateurs (tPA, facteur XII, urokinase), le plasminogène présent entre les mailles du caillot est transformé en plasmine. Cette plasmine formée va "découper" le caillot de fibrine en fragments qui seront ensuite éliminés dans la circulation. Ces fragments sont les produits de dégradation de la fibrine (ou PDF).
 
@@ -136,13 +136,9 @@ En cas de lyse localisée d'un caillot, seuls les produits de dégradation de la
 
 En pathologie, en cas de coagulation intravasculaire disséminée (CIVD), on retrouve dans la circulation des complexes solubles résultant de l'accolement des monomères de fibrine aux PDF.
 
-
 ![](i934-3.jpg)
 
-
-
 ![](i934-4.jpg)
-
 
 ## IV. Inhibiteurs
 
@@ -161,6 +157,5 @@ L'hémostase est assurée par un ensemble de réactions faisant intervenir de no
  Ces mécanismes physiologiques, hémostase primaire, coagulation et fibrinolyse sont essentiels, permettant d'assurer une prévention du risque hémorragique, mais également du risque thromboembolique. Le rôle des inhibiteurs physiologiques est en effet très important, réalisant un contrôle permanent de ces réactions, qui risqueraient d'aboutir à une exagération des phénomènes de coagulation.
 
 Ainsi un déficit en facteur de la coagulation entraînera plutôt un risque hémorragique, tandis qu'un déficit en inhibiteur sera responsable d'accidents thrombotiques.
-
 
 ![](i934-5.jpg)

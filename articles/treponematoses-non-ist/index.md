@@ -29,7 +29,7 @@ La bactérie responsable est Treponema pallidum.
 Le pian est une infection chronique dont la localisation est principalement cutanée, osseuse et cartilagineuse. C’est la plus fréquente des tréponématoses non IST.  
 C’est une maladie qui sévit surtout dans les communautés pauvres des régions chaudes, humides et tropicales d’Afrique, d’Asie et d’Amérique latine. Elle s’étend parfois dans les régions de savane humide mais disparaît en savane sèche.  
 On ignore quelle est la prévalence actuelle de cette maladie, car il n’y a pas de notification officielle dans le monde et dans de nombreux pays depuis 1990. Près de 5 000 nouveaux cas sont notifiés chaque année en Asie du sud-est. Il existe des rapports indiquant que le pian est toujours présent dans certains pays d’Afrique subsaharienne et de la Région du Pacifique occidental. Par exemple, en 2005, près de 26 000 cas ont été notifiés au Ghana et près de 18 000 en Papouasie-Nouvelle Guinée.  
-L’organisme responsable est une **bactérie** appelée _Treponema pallidum pertenue_, une sous-espèce de _Treponema pallidum_ responsable de la syphilis, maladie vénérienne.  
+L’organisme responsable est une **bactérie** appelée *Treponema pallidum pertenue*, une sous-espèce de *Treponema pallidum* responsable de la syphilis, maladie vénérienne.  
 Près de 75 % des sujets touchés sont des enfants de moins de quinze ans (le pic d’incidence étant observé chez les enfants âgés de six à dix ans); garçons et filles sont atteints de la même façon. La surpopulation, une hygiène individuelle médiocre et un assainissement insuffisant facilitent la propagation de cette maladie.  
 La **transmission** du pian se fait principalement par contact cutané direct avec une personne infectée; elle est très facile entre membres d’une même fratrie ou dans une communauté. Les contacts répétés et proches favorisent la transmission.
 
@@ -39,9 +39,7 @@ Une petite lésion cutanée unique se développe au point d’entrée de la bact
 La lésion essentielle est le « pianome ». C’est une lésion cutanée sous forme de tuméfaction bourgeonnante, rosée, humide évoluant vers la périphérie donnant souvent une image en anneau. Cette lésion est légèrement inflammatoire et douloureuse. Elle peut être unique ou au multiple. Au niveau des muqueuses on la retrouve dans la bouche et au niveau des organes génitaux externes ou l’anus.  
 Un autre type de lésion est la pianide qui est une lésion cutanée sèche souvent difficile à distinguer de lésions cutanées plus banales. Elles sont papulo-croûteuses, écailleuses. Les localisations palmaires ou plantaires peuvent être extrêmement douloureuses.
 
-
 ![](pian-congo-1971-jlr-retouche-3.jpg)
-
 
 #### c. Complications
 
@@ -63,7 +61,7 @@ Plaques muqueuses dans la bouche, avec des lésions humides sur les plis cutané
 
 ### 4. Le caraté ou pinta
 
-La bactérie responsable est _Treponema pallidum carateum_  
+La bactérie responsable est *Treponema pallidum carateum*  
 C’est une maladie d’Amérique centrale et du Sud évoluant en foyers. Elle se manifeste par des lésions cutanées bleuâtres avec des zones de décoloration.  
 Papule écailleuse indolore avec lymphadénopathie satellite, apparaissant au dos de la main ou du pied ou sur les jambes.  
 Éruption maculopapulaire érythémateuse secondaire évoluant vers une ou plusieurs zones de dépigmentation tertiaire (décoloration bleue/violette/brune), riche en tréponèmes.  
@@ -79,14 +77,12 @@ Toutes ces maladies présentent un bilan biologique commun, le laboratoire ne pe
 Les examens biologiques courants ne permettent pas de distinguer le tréponème de la syphilis de celui du pian ou du béjel.  
 Ces bacilles sont très nombreux au niveau des chancres, des lésions humides ou muqueuses. On les observe directement au microscope à fond noir ou à contraste de phase ou, après coloration spécifique, au microscope normal.
 
-
 ![](treponemes-fb.jpg)
-
 
 ### 2. Sérologie
 
-Toutes les tentatives faites pour cultiver les bactéries _T. pallidum_ ont été des échecs.  
-Seule la détection de la réponse sérologique contre _T. pallidum_ permet de mettre en évidence l’infection causée par ces germes.  
+Toutes les tentatives faites pour cultiver les bactéries *T. pallidum* ont été des échecs.  
+Seule la détection de la réponse sérologique contre *T. pallidum* permet de mettre en évidence l’infection causée par ces germes.  
 Toutes ces maladies provoquent l’apparition d‘anticorps spécifiques de Tréponème. Ces anticorps sont mis en évidence par des tests non spécifiques et les tests spécifiques.  
 La réaction historique de Bordet Wasserman d’où le nom de BW est un test non spécifique.  
 La présence d’un test positif signe une infection ancienne ; il n’est pas possible de préciser la date de l’infection ni de déterminer si la maladie évolue. Même après traitement, la réaction peut rester positive, mais il est possible de quantifier en partie les anticorps.
@@ -175,10 +171,10 @@ Entre 1950 et 1970, l’OMS et l’UNICEF ont dirigé une campagne mondiale de l
 **Peut-on éradiquer le pian ?**  
 Les experts pensent qu’il est facile de lutter contre le pian, voire de l’éradiquer, pour les raisons suivantes :
 
-*   c’est une maladie qui ne touche que l’homme,
-*   on dispose d’un traitement puissant ayant un bon rapport coût/efficacité, qui consiste en une injection unique de benzathine benzylpénicilline retard,
-*   le diagnostic clinique est fiable avec une formation minimum du personnel de santé,
-*   l’expérience passée a montré que l’élimination était possible dans un certain nombre de pays.
+- c’est une maladie qui ne touche que l’homme,
+- on dispose d’un traitement puissant ayant un bon rapport coût/efficacité, qui consiste en une injection unique de benzathine benzylpénicilline retard,
+- le diagnostic clinique est fiable avec une formation minimum du personnel de santé,
+- l’expérience passée a montré que l’élimination était possible dans un certain nombre de pays.
 
 **Attention**  
 Compte tenu des rapports étroits entre IST et VIH et de la non-spécificité des réactions sérologiques des tréponématoses, il doit être proposé un dépistage du VIH pour tout adulte qui présente une réaction sérologique positive aux tréponématoses.
