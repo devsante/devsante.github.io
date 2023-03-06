@@ -8,7 +8,7 @@ date: "2015-01-30"
 
 HIFA-EVIPNet-French est un forum international de l’Organisation Mondiale de la Santé pour l’ensemble des pays francophones permettant de soutenir, promouvoir et renforcer la prise de décision et reposant sur des bases factuelles, et ainsi faciliter l’amélioration de la formulation des politiques de santé.
 
-Il est fondé sur l’information en santé pour tous et sur le réseau de l’Organisation Mondiale de la Santé sur la prise de décision reposant sur des bases factuelles, appelé EVIPNet ([[www.who.int/evidence](http://www.who.int/evidence)](http://www.who.int/evidence "www.who.int/evidence"))
+Il est fondé sur l’information en santé pour tous et sur le réseau de l’Organisation Mondiale de la Santé sur la prise de décision reposant sur des bases factuelles, appelé EVIPNet (<http://www.who.int/evidence>)
 
 ## II. Présentation des rendez-vous mensuels HIFA-EVIPNet
 
@@ -48,6 +48,6 @@ Un premier rendez-vous HIFA-EVIPNet est prévu en septembre sur la sécurité de
 
 Enfin, au travers de ces rencontres mensuelles, nous pouvons envisager de développer des actions spécifiques sur des sujets qui mériteraient d'être approfondis avec les différents partenaires.
 
-Si vous avez des questions sur le déroulement de ce rendez-vous mensuel, vous pouvez prendre directement contact à l’adresse suivante : [<hugueti@who.int>](mailto:hugueti@who.int), Isabelle HUGUET-WACHSMUTH, gestionnaire du forum HIFA-EVIPNet.
+Si vous avez des questions sur le déroulement de ce rendez-vous mensuel, vous pouvez prendre directement contact à l’adresse suivante : [mailto:hugueti@who.int](mailto:hugueti@who.int), Isabelle HUGUET-WACHSMUTH, gestionnaire du forum HIFA-EVIPNet.
 
-Pour s'inscrire au forum HIFA-EVIPNet francophone : [<http://www.hifa2015.org/hifa-evipnet-francais/join-hifa-evipnet-francais/>](http://www.hifa2015.org/hifa-evipnet-francais/join-hifa-evipnet-francais/ "http://www.hifa2015.org/hifa-evipnet-francais/join-hifa-evipnet-francais/")
+Pour s'inscrire au forum HIFA-EVIPNet francophone : <http://www.hifa2015.org/hifa-evipnet-francais/join-hifa-evipnet-francais/>

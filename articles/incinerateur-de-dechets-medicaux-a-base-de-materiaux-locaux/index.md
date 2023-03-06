@@ -4,7 +4,7 @@ author: "André Bita Fouda*, Alfred Mbous Job**, Edouard Guévart***"
 date: "2003-10-03"
 ---
 
-\*Docteur en Médecine, Chef de Service de Santé communautaire. Délégation Provinciale de la Santé publique du Littoral. BP 1115 - DOUALA - Tél / Fax (237) 342 36 33. [<bitaandre@yahoo.fr>](mailto:bitaandre@yahoo.fr)  
+\*Docteur en Médecine, Chef de Service de Santé communautaire. Délégation Provinciale de la Santé publique du Littoral. BP 1115 - DOUALA - Tél / Fax (237) 342 36 33. [mailto:bitaandre@yahoo.fr](mailto:bitaandre@yahoo.fr)  
 **Polytechnicien. Ingénieur du Projet, Douala, Cameroun.**\*Docteur en Médecine, Conseiller Technique du Délégué Provincial de la Santé publique du Littoral, Douala, Cameroun.
 
 **Introduction**  

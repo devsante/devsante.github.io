@@ -14,5 +14,5 @@ Pour que toutes les femmes puissent bénéficier d’une chirurgie réparatrice,
 
 Par Philippe Reinert, pédiatre, Créteil, France
 
-*Réf*. [<http://www.figo.org/publications/miscellaneous.publications>](http://www.figo.org/publications/miscellaneous.publications "http://www.figo.org/publications/miscellaneous.publications")  
+*Réf*. <http://www.figo.org/publications/miscellaneous.publications>  
 Global\_ Competency_Based_Fistula_Surgery_Training_Manuel

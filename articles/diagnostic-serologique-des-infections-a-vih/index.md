@@ -9,7 +9,7 @@ date: "2002-12-19"
 
 Laboratoire de virologie CHU Charles Nicolle 76031 ROUEN
 
-[<Francois.Simon@chu-rouen.fr>](mailto:Francois.Simon@chu-rouen.fr)
+[mailto:Francois.Simon@chu-rouen.fr](mailto:Francois.Simon@chu-rouen.fr)
 
 **I. Principes et moyens** **du diagnostic sérologique** **des infections à VIH**
 

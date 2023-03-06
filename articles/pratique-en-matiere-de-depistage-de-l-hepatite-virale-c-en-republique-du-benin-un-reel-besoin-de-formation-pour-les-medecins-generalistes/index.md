@@ -283,7 +283,7 @@ La République du Bénin semble être un pays de haute endémicité pour l’HVC
 3.  Sehonou J, Atadokpede F, Abdoulaye I, Kodjoh N, Zohoun I. Séroprévalence des anticorps antivirus de l’hépatite C dans une population de jeunes recrues au Bénin. J Afr Hepato Gastroenterol 2007 ; 1 : 103 – 105
 4.  Abdoulaye I, Siebertz B, Akpona S,  Soumanou M,     Gbadamassi Bo, Agossou B. Prévalence des marqueurs sérologiques sur les dons de sang au Bénin. Le Bénin Médical 2004 ; 28 : 5 – 9
 5.  Mongin C. Histoire naturelle des hépatites virales. Développement et Santé 2012 ; 200 : 7-10.
-6.  Gautier A, Jestin C. Pratiques de dépistage des hépatites virales par les médecins généralistes, France, 2009. BEHWeb 2011 (1) ; 4 pages. [[www.invs.sante.fr/](http://www.invs.sante.fr/)](http://www.invs.sante.fr/ "www.invs.sante.fr/") behweb/2011/01/r-2.htm
+6.  Gautier A, Jestin C. Pratiques de dépistage des hépatites virales par les médecins généralistes, France, 2009. BEHWeb 2011 (1) ; 4 pages. <http://www.invs.sante.fr/> behweb/2011/01/r-2.htm
 7.  Jestin C, Gautier A. Dépistage des hépatites virales en médecine générale. Baromètre santé médecins généralistes 2009. Saint Denis. INPES 2009 ; 119-133.
 8.  Ouzan D, Hofliger P, Cavailler P, et coll. Enquête de pratique en médecine générale sur le dépistage et la prise en charge de l’hépatite C dans les Alpes-Maritimes et l’Est du Var. Gastroentérol Clin Biol 2003 ; 27 : 90-3
 9.  Bonny C, Rayssiguer R, Ughetto S, et coll. Pratiques et attentes des médecins généralistes en matière d’hépatite C dans la région Auvergne. Gastroentérol Clin Biol 2003 ; 27 : 1021-25
@@ -294,4 +294,4 @@ La République du Bénin semble être un pays de haute endémicité pour l’HVC
 14. Haute Autorité de Santé. Stratégies de dépistage biologique des hépatites virales B et C, argumentaire. Saint Denis. Haute Autorité de Santé 2011 ; 114 pages
 15. Haute Autorité de Santé. Stratégies de dépistage biologique des hépatites virales B et C, synthèse.  Saint Denis. Haute Autorité de Santé 2011 ; 33 pages
 16. Agence nationale d’accréditation et d'évaluation en santé. Dépistage de l'hépatite C. Populations à dépister et modalités du dépistage. Recommandations du comité d'experts réuni par l'ANAES. Paris. ANAES ; 2001 ; 8 pages
-17. Institut national de prévention et d'éducation pour la santé. Hépatite C. Dépistage, clinique, prise en charge et conseils aux patients. Document à l'usage des médecins. Saint-Denis. INPES 2007 ; 29 pages.  [<http://www.infectiologie.com/site/medias/_documents/officiels/vhc/2007-hvc-medecins-inpes.pdf>](http://www.infectiologie.com/site/medias/_documents/officiels/vhc/2007-hvc-medecins-inpes.pdf)
+17. Institut national de prévention et d'éducation pour la santé. Hépatite C. Dépistage, clinique, prise en charge et conseils aux patients. Document à l'usage des médecins. Saint-Denis. INPES 2007 ; 29 pages.  <http://www.infectiologie.com/site/medias/_documents/officiels/vhc/2007-hvc-medecins-inpes.pdf>

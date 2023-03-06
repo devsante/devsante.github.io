@@ -14,7 +14,7 @@ La prévalence des MSF en Europe reste toutefois très mal connue : la résolut
 
 Mais il est difficile de repérer et de comptabiliser les femmes concernées. Dans l’absolu, c’est seulement par un examen clinique de la région génitale des femmes que l’on pourrait comptabiliser le nombre de cas. Ce type de procédé est évidemment inenvisageable pour des raisons à la fois logistiques mais aussi et avant tout éthiques. C’est un phénomène qui concerne une population rare, qui touche un sujet tabou, marginal et pénalement réprimé et qui exige une expertise encore très peu répandue de la part des professionnels de santé. Enfin, une partie des femmes concernées est dans l’ignorance de son statut et la question fondamentale du respect de leur intégrité se poserait inexorablement dans ce cas.
 
-Les enquêtes menées pour mieux connaître le phénomène sont donc généralement des enquêtes déclaratives ou indirectes qui permettent de produire une estimation de l’ampleur du phénomène. A l’heure actuelle, il n’existe pas d’enquête standardisée en Europe (au contraire des pays africains (voir l’article de C. Cappa : [<http://devsante.org/base-documentaire/sante-publique-prevention/mutilati>...](http://devsante.org/base-documentaire/sante-publique-prevention/mutilations-genitales-femininesexcision-bilan-statistiqu "http://devsante.org/base-documentaire/sante-publique-prevention/mutilations-genitales-femininesexcision-bilan-statistiqu")). Il existe cependant une étude européenne en cours, portée par l’EIGE sous la direction de Els Leye, et quelques estimations existent pour les pays les plus concernés par le sujet. Les situations sont très variables selon l’ancienneté des flux migratoires (4).
+Les enquêtes menées pour mieux connaître le phénomène sont donc généralement des enquêtes déclaratives ou indirectes qui permettent de produire une estimation de l’ampleur du phénomène. A l’heure actuelle, il n’existe pas d’enquête standardisée en Europe (au contraire des pays africains (voir l’article de C. Cappa : <http://devsante.org/base-documentaire/sante-publique-prevention/mutilations-genitales-femininesexcision-bilan-statistiqu>). Il existe cependant une étude européenne en cours, portée par l’EIGE sous la direction de Els Leye, et quelques estimations existent pour les pays les plus concernés par le sujet. Les situations sont très variables selon l’ancienneté des flux migratoires (4).
 
 <table>
 
@@ -145,7 +145,7 @@ L’enquête socio-démographique Excision et Handicap, réalisée en France en 
 
 3.  Kaplan-Marcusan, A., Toran-Monserrat, P., Moreno-Navarro, J., Castany Fabregas, M.J., Munoz-Ortiz, L., 2009. Perception of primary health professionals about female genital mutilation: from healthcare to intercultural competence. BMC Health Services Research 9, 11.
 
-4.  [<http://eige.europa.eu/sites/default/files/EIGE-Report-FGM-in-the-EU-and-Croatia.pdf>](http://eige.europa.eu/sites/default/files/EIGE-Report-FGM-in-the-EU-and-Croatia.pdf)
+4.  <http://eige.europa.eu/sites/default/files/EIGE-Report-FGM-in-the-EU-and-Croatia.pdf>
 
 5.  Andro, A., Lesclingand, M., Cambois, E., Cirbeau, C., 2009. Volet quantitatif du projet Excision et Handicap (ExH): Mesure des lésions et traumatismes et évaluation des besoins en chirurgie réparatrice. Rapport final. fileadmin/CRIDUP/Rapport_final_ExH_volet_quantitatif.pdf  (The QuantitativePart of the “Excision and Handicap” (ExH) Project: Measuring Lesions and Trauma and Evaluating the Need for Reconstructive Surgery. Final report).
 

@@ -268,7 +268,7 @@ L'association coma et hyperapnée dans un contexte fébrile doit faire penser à
 
 - Administration de charbon végétal activé.
 
-- Traitement symptomatiyue de l'hyperthermie, des convulsions, de la déshydratation *(voir le site : [[www.devsante.org](http://www.devsante.org)](http://www.devsante.org "www.devsante.org")).*
+- Traitement symptomatiyue de l'hyperthermie, des convulsions, de la déshydratation *(voir le site : <http://www.devsante.org>).*
 
 **b) Intoxication au paracétamol**
 
@@ -288,7 +288,7 @@ Le diagnostic est confirmé par le dosage sanguin du toxique (réalisé si le pa
 
 Lavage gastrique avant la 6ème heure et en cas (le prise supérieure à 150 mg/kg.
 
-- Administration de l'antidote [spécifique. la](http://sp%C3%A9cifique.la) : N­acétylcystéine, avant la 10ème heure : dose d'at­taque 140 mg/kg par voie orale, dose d'entretien : 70 mg/kg/4 heures, jusqu'à 17 closes.
+- Administration de l'antidote spécifique : N­acétylcystéine, avant la 10ème heure : dose d'at­taque 140 mg/kg par voie orale, dose d'entretien : 70 mg/kg/4 heures, jusqu'à 17 closes.
 
 - En cas de troubles de la conscience, l'antidote est administré en perfusion dans du sérum glucosé à 5% à la dose de :
 

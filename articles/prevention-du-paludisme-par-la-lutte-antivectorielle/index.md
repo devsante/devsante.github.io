@@ -53,7 +53,7 @@ Les gîtes de repos des moustiques peuvent être traités avec divers types d'in
 
 lièrement être utilisées pour traiter les avant­toits, le dessous des toits et, dans les maisons, les endroits sombres où les moustiques aiment se cacher pendant la journée. (voir encadré ci-après et site :
 
-*[<http://libdoc.who.int/hQ/2003/WHO>](http://libdoc.who.int/hQ/2003/WHO) CDS WHOPES 2002.5 Rev.1.pdf.*
+*<http://libdoc.who.int/hQ/2003/WHO> CDS WHOPES 2002.5 Rev.1.pdf.*
 
 ### 3. Les personnes
 

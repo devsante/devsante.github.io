@@ -15,7 +15,7 @@ Cela doit se faire sous la responsabilité d'une personne bien formée, qui conn
 
 #### 1. Paracétamol sous plusieurs formes
 
-- Sirop : ne pas perdre la pipette, graduée selon le poids de l'enfant par kilo, et la maintenir [propre, ne](http://propre.ne) pas la tremper deux fois de suite dans le flacon pour le même enfant.
+- Sirop : ne pas perdre la pipette, graduée selon le poids de l'enfant par kilo, et la maintenir propre. Ne pas la tremper deux fois de suite dans le flacon pour le même enfant.
 - Sachets à diluer dans de l'eau potable.
 - Comprimés a avaler pour les plus grands.
 

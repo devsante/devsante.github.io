@@ -9,4 +9,4 @@ Politiques de santé, point sur l'épidémie d'*Ebola,* nouveau médicament anti
 
 Par Basile Keugoung
 
-[<http://www.santemondiale.org/ihpfr/2016/01/14/pis-285-notre-voeu-pour-2016/>](http://www.santemondiale.org/ihpfr/2016/01/14/pis-285-notre-voeu-pour-2016/)
+<http://www.santemondiale.org/ihpfr/2016/01/14/pis-285-notre-voeu-pour-2016/>

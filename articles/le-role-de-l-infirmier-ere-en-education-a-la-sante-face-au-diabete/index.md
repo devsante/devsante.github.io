@@ -260,23 +260,23 @@ L’infirmier(ère) a une place essentielle dans le suivi et le soutien des pers
 
 ***Références***
 
-1.  Organisation Mondiale de la Santé \[OMS\] (2013). *Diabète. Aide mémoire*. En ligne [<http://www.who.int/mediacentre/factsheets/fs312/fr>](http://www.who.int/mediacentre/factsheets/fs312/fr), consulté le 10 mars 2013.
+1.  Organisation Mondiale de la Santé \[OMS\] (2013). *Diabète. Aide mémoire*. En ligne <http://www.who.int/mediacentre/factsheets/fs312/fr>, consulté le 10 mars 2013.
 
-2.  Fédération Internationale de Diabète \[FID\] (2010). *Un appel a l’action dans la lutte contre le diabète*. En ligne [<http://www.idf.org/webdata/Call-to-Action-on-Diabetes-FR.pdf>](http://www.idf.org/webdata/Call-to-Action-on-Diabetes-FR.pdf), Consulté le 24 mars 2013.
+2.  Fédération Internationale de Diabète \[FID\] (2010). *Un appel a l’action dans la lutte contre le diabète*. En ligne <http://www.idf.org/webdata/Call-to-Action-on-Diabetes-FR.pdf>, Consulté le 24 mars 2013.
 
 3.  Besançon, S., Sidibé, A. T., & Nientao, I. (2009). Le diabète au Mali : aspects diététiques. *Développement et Santé*, *193*, 38-43.
 
-4.  Organisation Mondiale de la Santé \[OMS\] (2013). *Diabète. Aide mémoire*. En ligne [<http://www.who.int/mediacentre/factsheets/fs312/fr>](http://www.who.int/mediacentre/factsheets/fs312/fr), consulté le 10 mars 2013.
+4.  Organisation Mondiale de la Santé \[OMS\] (2013). *Diabète. Aide mémoire*. En ligne <http://www.who.int/mediacentre/factsheets/fs312/fr>, consulté le 10 mars 2013.
 
-5.  International Diabetes Federation \[IDF\] (2012b). *Diabetes Atlas update (5e edition)*. En ligne [<http://www.idf.org/sites/default/files/5E_IDFAtlasPoster_2012_EN.pdf>](http://www.idf.org/sites/default/files/5E_IDFAtlasPoster_2012_EN.pdf), consulté le 6 avril 2013.
+5.  International Diabetes Federation \[IDF\] (2012b). *Diabetes Atlas update (5e edition)*. En ligne <http://www.idf.org/sites/default/files/5E_IDFAtlasPoster_2012_EN.pdf>, consulté le 6 avril 2013.
 
-6.  World Health Organisation \[WHO\] (2008). *2008-2013 - Action Plan for the Global Strategy for the Prevention and Control of Noncommunicable Diseases*. En ligne  [<http://www.who.int/nmh/Actionplan-PC-NCD-2008.pdf>](http://www.who.int/nmh/Actionplan-PC-NCD-2008.pdf), consulté le 3 septembre 2013.
+6.  World Health Organisation \[WHO\] (2008). *2008-2013 - Action Plan for the Global Strategy for the Prevention and Control of Noncommunicable Diseases*. En ligne  <http://www.who.int/nmh/Actionplan-PC-NCD-2008.pdf>, consulté le 3 septembre 2013.
 
-7.  Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne [<http://www.diabetes.ca>](http://www.diabetes.ca), consulté le 10 avril 2013.
+7.  Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne <http://www.diabetes.ca>, consulté le 10 avril 2013.
 
-8.  World Health Organisation \[WHO\] (2008). *2008-2013 - Action Plan for the Global Strategy for the Prevention and Control of Noncommunicable Diseases*. En ligne  [<http://www.who.int/nmh/Actionplan-PC-NCD-2008.pdf>](http://www.who.int/nmh/Actionplan-PC-NCD-2008.pdf), consulté le 3 septembre 2013.
+8.  World Health Organisation \[WHO\] (2008). *2008-2013 - Action Plan for the Global Strategy for the Prevention and Control of Noncommunicable Diseases*. En ligne  <http://www.who.int/nmh/Actionplan-PC-NCD-2008.pdf>, consulté le 3 septembre 2013.
 
-9.  American Association of Diabetes Educator \[AADE\] (2011a).  *Guidelines for the Practice of Diabetes Education*. En ligne [<http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/general/PracticeGuidelines2011.pdf>](http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/general/PracticeGuidelines2011.pdf), consulté le 30 septembre.
+9.  American Association of Diabetes Educator \[AADE\] (2011a).  *Guidelines for the Practice of Diabetes Education*. En ligne <http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/general/PracticeGuidelines2011.pdf>, consulté le 30 septembre.
 
 10. Bodenheimer, T., Lorig, K., Holman, H., & Grumbach, K. (2002). Patient Self-management of Chronic Disease in Primary Care, *Journal of the American Medical Association*, 288(19), 2469-2474.
 
@@ -284,11 +284,11 @@ L’infirmier(ère) a une place essentielle dans le suivi et le soutien des pers
 
 12. Bodenheimer, T., Lorig, K., Holman, H., & Grumbach, K. (2002). Patient Self-management of Chronic Disease in Primary Care, *Journal of the American Medical Association*, 288(19), 2469-2474.
 
-13. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne [<http://www.diabetes.ca>](http://www.diabetes.ca), consulté le 10 avril 2013.
+13. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne <http://www.diabetes.ca>, consulté le 10 avril 2013.
 
 14. Funnell, M. M., & Anderson, R. M. (2004) Empowerment and Self-Management of Diabetes. *Clinical Diabetes*, *22*(3), 123-127.
 
-15. American Association of Diabetes Educator \[AADE\] (2011b). *Technical Review: Diabetes Self-Management Education and Training (DSME/T).* *Outcomes Measures*. En ligne [<http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/research/Outcomes_Technical_Review_2011.pdf>](http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/research/Outcomes_Technical_Review_2011.pdf), consulté le 30 septembre. 
+15. American Association of Diabetes Educator \[AADE\] (2011b). *Technical Review: Diabetes Self-Management Education and Training (DSME/T).* *Outcomes Measures*. En ligne <http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/research/Outcomes_Technical_Review_2011.pdf>, consulté le 30 septembre. 
 
 16. Wagner, E. H, Austin, B. T., Davis, C., Hindmarsh, M., Schaefer, J., & Bonomi, A. (2001). Improving Chronic Illness Care : Translating Evidence Into Action. *Health Affairs*, *20*(6), 64-78.
 
@@ -304,9 +304,9 @@ L’infirmier(ère) a une place essentielle dans le suivi et le soutien des pers
 
 22. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations – 2013, *Diabetes care, 36,* supplement 1.
 
-23. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne [<http://www.diabetes.ca>](http://www.diabetes.ca), consulté le 10 avril 2013.
+23. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne <http://www.diabetes.ca>, consulté le 10 avril 2013.
 
-24. International Diabetes Federation \[IDF\] (2012a). *Clinical Guidelines Task Force. Global Guideline for Type 2 Diabetes.* En ligne [<http://www.idf.org/sites/default/files/IDF%20T2DM%20Guideline.pdf>](http://www.idf.org/sites/default/files/IDF%20T2DM%20Guideline.pdf), consulté le 24 mars 2013.
+24. International Diabetes Federation \[IDF\] (2012a). *Clinical Guidelines Task Force. Global Guideline for Type 2 Diabetes.* En ligne <http://www.idf.org/sites/default/files/IDF%20T2DM%20Guideline.pdf>, consulté le 24 mars 2013.
 
 25. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations – 2013, *Diabetes care, 36,* supplement 1.
 
@@ -324,38 +324,38 @@ L’infirmier(ère) a une place essentielle dans le suivi et le soutien des pers
 
 32. Osborn, C.Y., Cavanaugh, K., Wallston, K.A., White, R.O. et Rothman R. (2009) Diabetes Numeracy: An overlooked factor in understanding racial disparities in glycemic control. *Diabetes Care.* 32 (9), 1614-1619.
 
-33. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne [<http://www.diabetes.ca>](http://www.diabetes.ca), consulté le 10 avril 2013.
+33. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne <http://www.diabetes.ca>, consulté le 10 avril 2013.
 
 34. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations – 2013, *Diabetes care, 36,* supplement 1.
 
 35. Besançon, S., Sidibé, A. T., & Nientao, I. (2009). Le diabète au Mali : aspects diététiques. *Développement et Santé*, *193*, 38-43.
 
-36. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne [<http://www.diabetes.ca>](http://www.diabetes.ca), consulté le 10 avril 2013.
+36. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne <http://www.diabetes.ca>, consulté le 10 avril 2013.
 
 37. Centre Hospitalier de l’Université de Montréal \[CHUM\], Hôtel-Dieu du CHUM, Unité de jour du diabète (2013). *Connaître* *son diabète pour mieux vivre* (8e éd.).  Montréal, Canada : Éditions Rogers Media.
 
 38. Van Eslande, J. (2009). Traitement du diabète. *Développement et Santé*, 193, 25-27.
 
-39. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne [<http://www.diabetes.ca>](http://www.diabetes.ca), consulté le 10 avril 2013.
+39. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne <http://www.diabetes.ca>, consulté le 10 avril 2013.
 
 40. Idem.
 
 41. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations – 2013, *Diabetes care, 36,* supplement 1.
 
-42. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne [<http://www.diabetes.ca>](http://www.diabetes.ca), consulté le 10 avril 2013.
+42. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne <http://www.diabetes.ca>, consulté le 10 avril 2013.
 
-43. International Diabetes Federation \[IDF\] (2012a). *Clinical Guidelines Task Force. Global Guideline for Type 2 Diabetes.* En ligne [<http://www.idf.org/sites/default/files/IDF%20T2DM%20Guideline.pdf>](http://www.idf.org/sites/default/files/IDF%20T2DM%20Guideline.pdf), consulté le 24 mars 2013.
+43. International Diabetes Federation \[IDF\] (2012a). *Clinical Guidelines Task Force. Global Guideline for Type 2 Diabetes.* En ligne <http://www.idf.org/sites/default/files/IDF%20T2DM%20Guideline.pdf>, consulté le 24 mars 2013.
 
 44. Idem aux 3 dernières références.
 
-45. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne [<http://www.diabetes.ca>](http://www.diabetes.ca), consulté le 10 avril 2013
+45. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne <http://www.diabetes.ca>, consulté le 10 avril 2013
 
 46. Idem.
 
 47. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations – 2013, *Diabetes care, 36,* supplement 1.
 
-48. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne [<http://www.diabetes.ca>](http://www.diabetes.ca), consulté le 10 avril 2013.
+48. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne <http://www.diabetes.ca>, consulté le 10 avril 2013.
 
-49. International Diabetes Federation \[IDF\] (2012a). *Clinical Guidelines Task Force. Global Guideline for Type 2 Diabetes.* En ligne [<http://www.idf.org/sites/default/files/IDF%20T2DM%20Guideline.pdf>](http://www.idf.org/sites/default/files/IDF%20T2DM%20Guideline.pdf), consulté le 24 mars 2013.
+49. International Diabetes Federation \[IDF\] (2012a). *Clinical Guidelines Task Force. Global Guideline for Type 2 Diabetes.* En ligne <http://www.idf.org/sites/default/files/IDF%20T2DM%20Guideline.pdf>, consulté le 24 mars 2013.
 
-50. American Association of Diabetes Educator \[AADE\] (2011b). *Technical Review: Diabetes Self-Management Education and Training (DSME/T).* *Outcomes Measures*. En ligne [<http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/research/Outcomes_Technical_Review_2011.pdf>](http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/research/Outcomes_Technical_Review_2011.pdf), consulté le 30 septembre.
+50. American Association of Diabetes Educator \[AADE\] (2011b). *Technical Review: Diabetes Self-Management Education and Training (DSME/T).* *Outcomes Measures*. En ligne <http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/research/Outcomes_Technical_Review_2011.pdf>, consulté le 30 septembre.

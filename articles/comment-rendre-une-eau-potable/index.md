@@ -94,6 +94,6 @@ Pour finir, il faut rappeler que la difficulté est souvent plus dans la conserv
 
 *\* SOVEDIS 9 avenue d'Arromanches 94100 Saint Maur fax (33) 1 43 97 95 35[  
 sovedis@club-internet. fr](http://souedisCclub-internet.fr/)*  
-*\*\* Centrale humanitaire médico pharmaceutique. Voie militaire des Gravanches 63100 Clermont-Ferrand [<contact@chmp.org>](mailto:contact@chmp.org)*
+*\*\* Centrale humanitaire médico pharmaceutique. Voie militaire des Gravanches 63100 Clermont-Ferrand [mailto:contact@chmp.org](mailto:contact@chmp.org)*
 
 *Développement et Santé, n°177, juin 2005*

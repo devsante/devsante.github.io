@@ -18,4 +18,4 @@ De telles mesures devraient diminuer les hospitalisations inutiles et coûteuses
 
 Dr Christian Mongin, Paris
 
-*Référence : [[www.thelancet.com](http://www.thelancet.com)](http://www.thelancet.com "www.thelancet.com") Published online November 19, 2014 <http://dx.doi.org/10.1016/S0140-6736(14)62226-1> S. Matheron et al.*
+*Référence : <http://www.thelancet.com> Published online November 19, 2014 <http://dx.doi.org/10.1016/S0140-6736(14)62226-1> S. Matheron et al.*

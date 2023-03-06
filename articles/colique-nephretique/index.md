@@ -6,7 +6,7 @@ date: "2008-01-27"
 
 <div class="teaser"><p>La colique néphrétique est une douleur lombaire unilatérale violente, due à un obstacle siégeant sur les voies excrétrices urinaires supérieures (Schéma 1).</p></div>
 
-*Un film sur ce sujet est visible gratuitement sur internet :* *[<http://www.filmed.org/>](http://www.filmed.ora/)* *Puis taper : 102 5204 018 dans la recherche par référence.*
+*Un film sur ce sujet est visible gratuitement sur internet :* *<http://www.filmed.ora/>* *Puis taper : 102 5204 018 dans la recherche par référence.*
 
 ## I. Physiopathologie
 
