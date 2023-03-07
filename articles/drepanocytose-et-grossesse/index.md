@@ -40,7 +40,7 @@ La première consultation permet de relever les antécédents gynéco-obstétric
 
 **A chaque visite, il est recommandé de déterminer** :
 
-- le poids (gain normal : 400 – 500 g par semaine) : tout gain pondéral excessif est à signaler ;
+- le poids (gain normal : 400 - 500 g par semaine) : tout gain pondéral excessif est à signaler ;
 - la pression artérielle (Nle < 135 / 85 mmHg). Une élévation de ≥ 30 mm Hg pour la systolique et 15 mmHg pour la diastolique doit être considérée comme des signe d'hypertension ;
 - la présence ou non d'œdèmes des membres inférieurs ; leur apparition, associée à une élévation des chiffres tensionnels et à la présence d’une protéinurie, fait poser le diagnostic d’une pré-éclampsie (gestose), complication majeure ;
 - les mouvements fœtaux actifs (MFA), signe de vitalité du fœtus ;
@@ -120,7 +120,7 @@ Antibioprophylaxie : céphalosporine de 2ème génération après clampage du co
 ### 5. Le post-partum
 
 C'est une période à haut risque, en particulier à risque de syndrome thoracique aigu.  
-La prévention de complications thromboemboliques se fait par la levée précoce et par l’administration d'enoxaparine à dose préventive à raison de 1 x 0,4 ml /j par voie sous –cutanée et cela pendant 5 jours.  
+La prévention de complications thromboemboliques se fait par la levée précoce et par l’administration d'enoxaparine à dose préventive à raison de 1 x 0,4 ml /j par voie sous -cutanée et cela pendant 5 jours.  
 La gestion de la douleur post-opératoire est multimodale et comporte :
 
 - Les morphiniques : la morphine elle-même, le tramadol.
@@ -133,7 +133,7 @@ La gestion de la douleur post-opératoire est multimodale et comporte :
 L’accouchée peut s’alimenter dès la 6ème heure de façon progressive, en commençant par une alimentation liquide (thé, potage, etc.), semi-liquide puis solide :
 
 - Encourager la prise des fruits et la mobilisation pour réduire le risque de constipation
-- Allaitement : dès que possible, si rien ne le contre –indique et si l’état général de l’accouchée le permet.
+- Allaitement : dès que possible, si rien ne le contre -indique et si l’état général de l’accouchée le permet.
 
 Le séjour hospitalier peut être en moyenne d’une semaine pour permettre une appréciation suffisante de l’évolution de l’accouchée et du nouveau-né. Pendant le séjour, procéder à la surveillance des signes vitaux : PA, FC, FR, T°, la coloration des conjonctives, montée laiteuse, aspect du pansement, tonicité utérine, lochies et œdèmes des membres inférieurs.
 

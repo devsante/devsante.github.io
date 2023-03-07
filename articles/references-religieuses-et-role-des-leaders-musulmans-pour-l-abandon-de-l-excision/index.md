@@ -121,6 +121,6 @@ Par ailleurs, considérant le rôle important des leaders religieux, nous recomm
 11. *FIGO Committee for the Ethical Aspects of Human Reproduction and Women's Health and FIGO Committee on Women's Sexual and Reproductive Rights.* *Int J GO (2006) 94, 176 -177.*
 12. *Sourate Al-Baqarah (la Vache), verset 187.*
 13. \_The Issue of Reinfibulation. G. I. Serour. Int J Gynaecol Obstet. 2010 May; 109(2):93-6. \_
-14. *Medicalization of female genital mutilation/cutting. Gamal Serour. African Journal of Urology (2013) 19, 145–149*
+14. *Medicalization of female genital mutilation/cutting. Gamal Serour. African Journal of Urology (2013) 19, 145-149*
 15. *Female circumcision: between the incorrect use of science and the misunderstood doctrine” International Islamic Center for Population Studies and Research Al Azhar University 2013.* *Serour G I and A. Ragab. UNICEF.*
 16. *Children in Islam: their care, development and protection. UNICEF and Al Azhar University.* *Nov. 29<sup>th</sup> 2005.*

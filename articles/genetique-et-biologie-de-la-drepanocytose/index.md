@@ -77,7 +77,7 @@ Important : pour chaque enfant issu de mêmes parents, le risque sera toujours l
 
 ### B. La maladie drépanocytaire SC et S β-thalassémique
 
-**A – L’hémoglobine C** résulte d’une mutation du gène β-globine. Ainsi, les sujets porteurs sains AC sont susceptibles de transmettre le gène C à leur descendance. Si le conjoint d’un porteur sain AC a des enfants avec un porteur sain AS, il existe un risque, une fois sur 4 à chaque grossesse de donner naissance à un enfant SC :
+**A - L’hémoglobine C** résulte d’une mutation du gène β-globine. Ainsi, les sujets porteurs sains AC sont susceptibles de transmettre le gène C à leur descendance. Si le conjoint d’un porteur sain AC a des enfants avec un porteur sain AS, il existe un risque, une fois sur 4 à chaque grossesse de donner naissance à un enfant SC :
 
 ![](schema-7_.jpg)  
 Les sujets SC sont atteints d’un syndrome drépanocytaire majeur dont l’expression clinique est atténuée par rapport aux malades SS.
@@ -98,7 +98,7 @@ Les données anamnestiques sont essentielles : origine ethnique et/ou géographi
 
 ### B. Données biologiques
 
-#### 1 – Prélèvements
+#### 1 - Prélèvements
 
 Les tests sont réalisés à partir de prélèvements de sang veineux.  
 Des prélèvements peuvent être mis sur papier buvard pour être envoyés au centre de référence local ou régional.  

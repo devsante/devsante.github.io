@@ -22,15 +22,14 @@ pour buts :
 
 ## Pour l' enfant il faut tenir compte de
 
-– Ses capacités de compréhension  
-– Son degré d’autonomie  
-– Avec la place de l’adolescent
+- Ses capacités de compréhension
+- Son degré d’autonomie
+- Avec la place de l’adolescent
 
 ## Pour les parents
 
-– Leur responsabilité  
-– À la fois spectateurs et acteurs
-
+- Leur responsabilité
+- À la fois spectateurs et acteurs
 - Avec un réajustement continu de la place respective de chacun
 
 ## Quelques principes pour éduquer un patient
@@ -66,9 +65,9 @@ pour buts :
 - Actif
 - Constructif
 - Cumulatif  
-  **Qui se produit quand l’apprenant**  
-  – Traite activement l’information nouvelle  
-  – Modifiant ainsi sa structure cognitive
+  **Qui se produit quand l’apprenant**
+- Traite activement l’information nouvelle
+- Modifiant ainsi sa structure cognitive
 
 ## Principes de psychologie cognitive
 
@@ -179,18 +178,18 @@ pour buts :
 ## L'évaluation
 
 - Est intégrée à l’apprentissage
-- Les indicateurs d’efficacité  
-  – Crises  
-  – Hospitalisation, absentéisme  
-  – Qualité de vie
+- Les indicateurs d’efficacité
+  - Crises
+  - Hospitalisation, absentéisme
+  - Qualité de vie
 
 **L'évaluation, exemples d'évaluation globale**
 
-- Comment allez-vous faire pour…  
-  – Comment avez-vous vécu cet épisode?  
-  – Comment pouvez-vous surmonter cette difficulté?  
-  – Que souhaitez-vous entreprendre que votre maladie vous a empêché de le faire?  
-  – Comment allez-vous faire?
+- Comment allez-vous faire pour…
+- Comment avez-vous vécu cet épisode?
+- Comment pouvez-vous surmonter cette difficulté?
+- Que souhaitez-vous entreprendre que votre maladie vous a empêché de le faire?
+- Comment allez-vous faire?
 
 **Guidance individuelle pour l'enfant**
 
@@ -209,10 +208,11 @@ pour buts :
 - Table ronde
 - Gain de temps pour les soignants
 
-**Techniques collectives**  
-– Jeu de société  
-– Jeux de rôles  
-– Jeux de questions réponses
+**Techniques collectives**
+
+- Jeu de société
+- Jeux de rôles
+- Jeux de questions réponses
 
 **L’éducation, un processus continu**
 

@@ -292,7 +292,7 @@ L’infirmier(ère) a une place essentielle dans le suivi et le soutien des pers
 
 16. Wagner, E. H, Austin, B. T., Davis, C., Hindmarsh, M., Schaefer, J., & Bonomi, A. (2001). Improving Chronic Illness Care : Translating Evidence Into Action. *Health Affairs*, *20*(6), 64-78.
 
-17. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations – 2013, *Diabetes care, 36,* supplement 1.
+17. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations - 2013, *Diabetes care, 36,* supplement 1.
 
 18. Beasley, C. (2009). Supported self care and care planning for patients with long-term conditions. *British journal of community nursing,* *14* (9), 394-397.
 
@@ -302,13 +302,13 @@ L’infirmier(ère) a une place essentielle dans le suivi et le soutien des pers
 
 21. Wagner, E. H, Austin, B. T., Davis, C., Hindmarsh, M., Schaefer, J., & Bonomi, A. (2001). Improving Chronic Illness Care : Translating Evidence Into Action. *Health Affairs*, *20*(6), 64-78.
 
-22. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations – 2013, *Diabetes care, 36,* supplement 1.
+22. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations - 2013, *Diabetes care, 36,* supplement 1.
 
 23. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne <http://www.diabetes.ca>, consulté le 10 avril 2013.
 
 24. International Diabetes Federation \[IDF\] (2012a). *Clinical Guidelines Task Force. Global Guideline for Type 2 Diabetes.* En ligne <http://www.idf.org/sites/default/files/IDF%20T2DM%20Guideline.pdf>, consulté le 24 mars 2013.
 
-25. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations – 2013, *Diabetes care, 36,* supplement 1.
+25. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations - 2013, *Diabetes care, 36,* supplement 1.
 
 26 Wagner, E. H, Austin, B. T., Davis, C., Hindmarsh, M., Schaefer, J., & Bonomi, A. (2001). Improving Chronic Illness Care : Translating Evidence Into Action. *Health Affairs*, *20*(6), 64-78.
 
@@ -326,7 +326,7 @@ L’infirmier(ère) a une place essentielle dans le suivi et le soutien des pers
 
 33. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne <http://www.diabetes.ca>, consulté le 10 avril 2013.
 
-34. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations – 2013, *Diabetes care, 36,* supplement 1.
+34. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations - 2013, *Diabetes care, 36,* supplement 1.
 
 35. Besançon, S., Sidibé, A. T., & Nientao, I. (2009). Le diabète au Mali : aspects diététiques. *Développement et Santé*, *193*, 38-43.
 
@@ -340,7 +340,7 @@ L’infirmier(ère) a une place essentielle dans le suivi et le soutien des pers
 
 40. Idem.
 
-41. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations – 2013, *Diabetes care, 36,* supplement 1.
+41. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations - 2013, *Diabetes care, 36,* supplement 1.
 
 42. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne <http://www.diabetes.ca>, consulté le 10 avril 2013.
 
@@ -352,7 +352,7 @@ L’infirmier(ère) a une place essentielle dans le suivi et le soutien des pers
 
 46. Idem.
 
-47. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations – 2013, *Diabetes care, 36,* supplement 1.
+47. American Diabetes Association \[ADA\] (2013). Clinical practice recommendations - 2013, *Diabetes care, 36,* supplement 1.
 
 48. Canadian Diabetes Association \[CDA\] (2013). *Clinical practice guideline 2013 de l’Association canadienne du diabète pour la prévention et le traitement du diabète au Canada.* En ligne <http://www.diabetes.ca>, consulté le 10 avril 2013.
 

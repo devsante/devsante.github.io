@@ -110,7 +110,7 @@ Régime lacto-farineux (pauvre en viande et en poisson)
 ## II. Conséquences cliniques d’une carence
 
 Depuis longtemps, la carence en fer est reconnue comme responsable de l’anémie (liée à un défaut de synthèse du globule rouge dans la moelle osseuse).  
-Plus récemment, il est décrit un stade précoce de carence en fer, sans anémie – stade pré-anémique -, mais responsable d’une pathologie allant du retard psychomoteur à la fragilité aux infections et à l’amaigrissement.
+Plus récemment, il est décrit un stade précoce de carence en fer, sans anémie - stade pré-anémique -, mais responsable d’une pathologie allant du retard psychomoteur à la fragilité aux infections et à l’amaigrissement.
 
 ### 1. Le stade majeur : l’anémie ferriprive
 

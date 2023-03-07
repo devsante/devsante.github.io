@@ -1,5 +1,5 @@
 ---
-title: "Contre–indications des vaccinations"
+title: "Contre-indications des vaccinations"
 author: "Par Philippe Reinert Pédiatre, Créteil, France."
 date: "2009-04-30"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "La PTME – Prévention de la Transmission Mère-Enfant"
+title: "La PTME - Prévention de la Transmission Mère-Enfant"
 date: "2010-03-09"
 ---
 
