@@ -119,7 +119,7 @@ La mortalité variant de 2 à 5%, essentiellement chez les enfants et les femmes
 
 Le diagnostic est difficile à évoquer devant l’absence de symptôme évocateur, en dehors d’accès de fièvre à répétition, d’autant plus qu’il peut y avoir une association avec d’autres affections fébriles comme un paludisme, une typhoïde, une dengue, une leptospirose ou une hépatite par exemple. Il est souvent établi de façon fortuite, lors d’un bilan sanguin demandé pour la recherche étiologique d’un syndrome fébrile et, en zone tropicale, les étiologies des fièvres sont nombreuses. Les premiers éléments biologiques perturbés sont une hématurie et une protéinurie ainsi qu’une thrombopénie qui n’ont rien de spécifique.  
 Le diagnostic et affirmé sur la mise en évidence des *Borrelia*, souvent peu nombreuses sur le frottis sanguin ou la goutte épaisse, ce qui nécessite un examen particulièrement attentif des lames. Par ailleurs, les *Borreli* peuvent être inoculées à la souris ou mises en culture sur des milieux spéciaux à 37°C et examinées quotidiennement pendant un mois.  
-Les différentes**techniques sérologiques** (Elisa, immunofluorescence, western-blot) sont **peu fiables** et sont avantageusement remplacées par la **PCR** qui **permet une identification de l’espèce** en cause.
+Les différentes **techniques sérologiques** (Elisa, immunofluorescence, western-blot) sont **peu fiables** et sont avantageusement remplacées par la **PCR** qui **permet une identification de l’espèce** en cause.
 
 ## 5. Antibiothérapie
 

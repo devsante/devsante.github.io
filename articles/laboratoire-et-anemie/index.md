@@ -64,7 +64,7 @@ Valeurs normales :
 
 ![](image004.jpg)
 
-*L**'hématocrite*** ou fraction de volume éry­throcytaire exprimé en %.
+*L'**hématocrite*** ou fraction de volume éry­throcytaire exprimé en %.
 
 La centrifugation d'un petit volume de sang dans un tube gradué permet la lecture directe des volumes relatifs du plasma et des globules rouges (les autres cellules forment une couche le plus souvent très mince à la surface des GR). La mesure s'effectue dans des microtubes cen­trifugés à grande vitesse.  
 Dans les compteurs automatiques, l'hémato­crite est calculé.  

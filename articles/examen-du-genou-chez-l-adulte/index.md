@@ -85,7 +85,7 @@ Ces anomalies axiales traduisent l'asymétrie de la charge portée par le genou 
 ![](i922-3.jpg)
 
 - **La station unipodale** (= sur une jambe).
-- **L'accroupissement **  
+- **L'accroupissement**  
   Ces deux postures quand elles sont difficiles ou impossibles :
   - objectivent le degré d'une impotence fonctionnelle,
   - permettent de localiser la zone douloureuse

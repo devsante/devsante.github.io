@@ -219,7 +219,7 @@ Deux études réalisées par l’OMS ont permis de chiffrer la prévalence et le
 
 ## IV. Retentissement des mutilations génitales sur la sexualité
 
-**Sur le plan anatomique **: dans les mutilations de type III, le clitoris est laissé intact sous la cicatrice de l’infibulation dans environ 50 % des cas (12,13). Ce n’est pas le cas des mutilations de types Ib, IIb et IIc qui altèrent le clitoris (1). L’excision du clitoris peut donc entraîner une  diminution de l’expérience du plaisir sexuel et de l’orgasme ; des douleurs lors des relations peuvent être également présentes (12, 14-16).
+**Sur le plan anatomique** : dans les mutilations de type III, le clitoris est laissé intact sous la cicatrice de l’infibulation dans environ 50 % des cas (12,13). Ce n’est pas le cas des mutilations de types Ib, IIb et IIc qui altèrent le clitoris (1). L’excision du clitoris peut donc entraîner une  diminution de l’expérience du plaisir sexuel et de l’orgasme ; des douleurs lors des relations peuvent être également présentes (12, 14-16).
 
 Cependant, le clitoris étant perçu par de nombreuses femmes comme important pour le plaisir (17), les MGF peuvent altérer indirectement le désir ainsi que l’excitation et la satisfaction sexuelles. Enfin, les MGF étant presque toujours effectuées avant que les jeunes filles n’aient atteint la maturité sexuelle, les femmes ne possèdent aucun cadre de référence personnel de ce qu’est un fonctionnement sexuel normal, elles n’éprouvent pas  obligatoirement un sentiment de déficit subjectif, et c’est souvent lorsqu’elles partent vivre dans des centres urbains ou dans des pays occidentaux que survient le questionnement (18).
 
@@ -285,6 +285,6 @@ Les conséquences médicales des MGF sont de mieux en mieux décrites et doivent
 
 20. Paterson LQP, Davis SN, Binik YM.  Les mutilations génitales féminines et l’orgasme avant et après réparation chirurgicale. Sexologies (2012) 21, 21-28
 
-21. Berg RC, Denison E. Does Female Genital Mutilation/Cutting (FGM/C) Affect Women**’**s Sexual Functioning? A Systematic Review of the Sexual Consequences of FGM/C Sex Res Soc Policy (2012) 9:41**-**56.
+21. Berg RC, Denison E. Does Female Genital Mutilation/Cutting (FGM/C) Affect Women\*\*’**s Sexual Functioning? A Systematic Review of the Sexual Consequences of FGM/C Sex Res Soc Policy (2012) 9:41**-\*\*56.
 
 22. Foldes P, Louis-Sylvestre C. Results of surgical clitoral repair after ritual excision: 453 cases. Gynecol Obstet Fertil 2006;34:1137-41.

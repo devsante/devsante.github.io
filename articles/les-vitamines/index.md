@@ -90,7 +90,7 @@ sur onze vitamines de ce groupes, **trois** d'entre elles doivent nécessairemen
 
 **La vitamine PP** (anti-pellagreuse): se trouve dans le poisson frais, séché, fumé. Foie, viande, volaille, oeuf, arachides, niébé.
 
-Enfin **la vitamine B12: **se trouve dans de très nombreux aliments et les besoins sont minimes. A forte dose, par voie IM, elle aurait un rôle antalgique.
+Enfin **la vitamine B12**: se trouve dans de très nombreux aliments et les besoins sont minimes. A forte dose, par voie IM, elle aurait un rôle antalgique.
 
 ## III. Apports nécessaires
 
@@ -146,11 +146,11 @@ L'avitaminose B1 atteint surtout les muscles du squelette, le muscle cardiaque e
 
 Peut engendrer une maladie appelée l'ariboflavinose. Dans sa forme primaire, cette affection atteint surtout l'enfant de quatre à six ans, mais elle peut débuter souvent, aussi au cours de la première année et se retrouve jusqu'à l'âge de quinze ans. Les principaux signes sont:
 
-**1. buccaux **stomatite chéilite (inflammation des lèvres)
+\*\*1. buccaux \*\*stomatite chéilite (inflammation des lèvres)
 
-**2.** **oculaires **vascularisation cornéenne blépharite angulaire
+**2.** \*\*oculaires \*\*vascularisation cornéenne blépharite angulaire
 
-**3. peau **lésions
+\*\*3. peau \*\*lésions
 
 **Carence en vitamine PP:**
 

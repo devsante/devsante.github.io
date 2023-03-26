@@ -86,7 +86,7 @@ Ce sont de longues pyramides triangulaires allongées, aux extrémités pointues
 ***Les cristaux de phosphates tri-calciques***  
 Ils ressemblent à des granulations de sable, plus brillants que l'urate acide de sodium. Les culots de centrifugation sont blancs lorsqu'ils contiennent des cristaux de phosphates tri-calciques alors que le culot est jaune quand il s'agit de cristaux d'urates.
 
-**\* Les cristaux de phosphates ammoniacomagnésiens (struvite)**\*  
+***Les cristaux de phosphates ammoniacomagnésiens (struvite)***  
 Ils se forment le plus souvent en cas d'infection bactérienne (en particulier *Proteus*). Ils sont de couleur et de formes variables : prismes à trois ou six côtés, aux extrémités obliques, typiquement en forme de couvercle de boîte allongée, ou de cercueil ; beaucoup plus rarement ramifiés en forme de fougère ou plus simples, aplatis ou ovalaires.
 
 ***Les cristaux de phosphates de magnésium***  
@@ -184,7 +184,7 @@ Lorsque des cristaux sont observés à température ambiante, il est bon de chau
 On commencera par noter l'aspect et la couleur du culot de centrifugation, et par mesurer le pH de l'urine.  
 En dehors de l'aspect morphologique des cristaux, de leur couleur et de l'aspect en lumière polarisée lorsque cela est possible, on peut s'aider des caractères de solubilité de ces cristaux.
 
-Des**renseignements cliniques sont indispensables**, précisant :
+Des\*\* renseignements cliniques sont indispensables\*\*, précisant :
 
 - le diagnostic présumé,
 - le ou les traitements en cours,

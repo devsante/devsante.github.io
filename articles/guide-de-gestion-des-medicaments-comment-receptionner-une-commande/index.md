@@ -43,7 +43,7 @@ Toute livraison est accompagnée d'un **bor­dereau d'expédition ou livraison**
 - Vous devez conserver ces pièces de transport dans un dossier spécial : des colis qui vous étaient destinés peuvent avoir été livrés par erreur à un autre établissement, d'autres peuvent avoir disparu Si vous avez correctement archivé ces documents, vous pourrez plus facile­ment régler les problèmes qui pourraient survenir.
 - Il est bon que dans le même dossier, vous gardiez un document qui contient les ren­seignements suivants :
   - **Date de livraison**
-  - **Numéro de la commande (**identi­fiant la commande).
+  - **Numéro de la commande** (identi­fiant la commande).
   - **Numéro du bon de livraison**, s'il existe ; le fournisseur peut attribuer un numéro supplémentaire à la comman­de qui sert à identifier la commande expédiée. Ce numéro est aussi appelé **Numéro de colisage.**
   - **Numéro d'immatriculation du véhicule qui a livré.**
   - **Nom du livreur et sa signature**
@@ -78,7 +78,7 @@ Convenablement, comme nous l'avons vu précédemment, sur les emplacements pré�
 
 Immédiatement sur les fiches de stock correspondantes? Créez de nouvelles fiches pour les produits nouveaux ou dont la pré­sentation est nouvelle ou dont le condition­nement est différent.
 
-- Si, par exemple, l**'unité** adoptée jusqu'ici est la boîte de 20 comprimés et que vous recevez des boîtes de 50 comprimés (de même dosage), il faut créer une fiche nouvelle pour les boîtes de 50.
+- Si, par exemple, l\*\*'unité\*\* adoptée jusqu'ici est la boîte de 20 comprimés et que vous recevez des boîtes de 50 comprimés (de même dosage), il faut créer une fiche nouvelle pour les boîtes de 50.
 - Ou bien, vous pouvez changer d'unité et créer une nouvelle fiche :
   - si les boîtes de 20 et les boîtes de 50 contiennent des plaquettes de 10 com­primés, vous pouvez prendre comme nouvelle unité les plaquettes de 10 comprimés, ou encore, adopter le comprimé comme unité.
   - que vous ayez choisi comme unité les plaquettes de 10 ou le comprimé, il faur refaire l'inventaire du produit afin de noter le stock sur la nouvelle fiche.
@@ -97,19 +97,19 @@ Mettez-les à part pour les renvoyer ou les détruire.
 
 ### 2. Vérifiez l'état général de chaque pro­duit livré
 
-- ***Produits endommagés ou détério­rés***. Des produits qui ont subi des mani­pulations intempestives sont dangereux.***Ne les acceptez pas.***
+- ***Produits endommagés ou détério­rés***. Des produits qui ont subi des mani­pulations intempestives sont dangereux.\*\* *Ne les acceptez pas.*\*\*
 
-- ***Couleur des vaccins et des médica­ments***. Si les médicaments ou les vaccins ont changé de couleur, ils sont détériorés.***Ne les acceptez pas*.**
+- ***Couleur des vaccins et des médica­ments***. Si les médicaments ou les vaccins ont changé de couleur, ils sont détériorés.\*\* *Ne les acceptez pas*.\*\*
 
 - ***Conditionnements cassés, fuites de liquide***. En cas de fuites de liquide, retirez et ***éliminez tous les produits endommagés.***
 
-- ***Conditionnements non scellés, produits ne portant pas d'étiquettes***. Les produits conservés dans des condition­nements non scellés peuvent avoir été manipulés.***Ne les acceptez pas***.
+- ***Conditionnements non scellés, produits ne portant pas d'étiquettes***. Les produits conservés dans des condition­nements non scellés peuvent avoir été manipulés.\*\* *Ne les acceptez pas*\*\*.
 
 - ***Comprimés et gélules***. N'ouvrez les conditionnements scellés que si vous sus­pectez une détérioration. Une fois la boîte ouverte, vérifiez la qualité. Sentez le conte­nu de la boîte. Versez quelques comprimés ou gélules sur une surface propre, par exemple sur une feuille de papier posée sur une table.  
   Si les comprimés ou gélules :
 
-  - ont une odeur inhabituelle, ils peuvent avoir été détériorés.***Ne les acceptez pas.***
-  - sont cassés, réduits en poudre, poisseux, fendus ou gonflés, ils peuvent avoir été endommagés.***Ne les acceptez pas.***
+  - ont une odeur inhabituelle, ils peuvent avoir été détériorés.\*\* *Ne les acceptez pas.*\*\*
+  - sont cassés, réduits en poudre, poisseux, fendus ou gonflés, ils peuvent avoir été endommagés.\*\* *Ne les acceptez pas.*\*\*
 
 - **Solutions injectables**. Agitez le flacon. Observez-le à la lumière. Une solution lim­pide ne doit pas contenir de particules réfléchissant la lumière. La présence de petites particules indique que le produit est détérioré. ***N'acceptez pas le flacon***.
 

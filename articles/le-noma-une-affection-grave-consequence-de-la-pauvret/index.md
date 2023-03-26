@@ -16,7 +16,7 @@ Dans les coins très reculés, les enfants meurent sans diagnostic. En effet, la
 ### Etiologie multifactorielle
 
 L’origine du noma est multifactorielle, associant la pauvreté et l’absence d’hygiène générale et buccale, responsable de gingivites infectieuses. La multiplication des grossesses chez des femmes souvent malnutries a souvent par conséquence la prématurité et le faible poids de naissance qui sont des facteurs aggravants, de même que la période de sevrage.  
-La **comorbidité**avec le paludisme, la rougeole, la varicelle, la tuberculose ou encore l’infection par le VIH accentuent encore le risque d’affaiblissement de l’état général. On a d'ailleurs a pu remarquer que le paludisme et la rougeole précèdent souvent l’apparition du noma (figure 1).
+La **comorbidité** avec le paludisme, la rougeole, la varicelle, la tuberculose ou encore l’infection par le VIH accentuent encore le risque d’affaiblissement de l’état général. On a d'ailleurs a pu remarquer que le paludisme et la rougeole précèdent souvent l’apparition du noma (figure 1).
 
 ![](image001.jpg)  
 **Figure 1. Physiopathologie du noma (d'après J. N. Masipa).**
@@ -48,7 +48,7 @@ La nécrose envahit la peau, les muscles et les os de la face (figure 4) et évo
 Le diagnostic est basé sur le contexte : enfant malnutri, œdème de la face d’apparition récente, avec une haleine très fétide. Le diagnostic différentiel peut alors se poser avec un ulcère de Buruli, un abcès dentaire, une stomatite herpétique voire des oreillons.  
 Au stade de l’ulcération, d’autres affections peuvent être envisagées selon les zones géographiques concernées: lèpre, leishmaniose cutanéo-muqueuse, tuberculose cutanée, pian, traumatisme etc…
 
-Un traitement antibiotique par **amoxicilline et métronidazole** doit être entrepris **le plus tôt possible**. En outre, il faut traiter les **comorbidités**(affections pulmonaires ou gastro-intestinales, paludisme…) et entreprendre une réhydratation et une renutrition de l’enfant.
+Un traitement antibiotique par **amoxicilline et métronidazole** doit être entrepris **le plus tôt possible**. En outre, il faut traiter les \*\*comorbidités \*\*(affections pulmonaires ou gastro-intestinales, paludisme…) et entreprendre une réhydratation et une renutrition de l’enfant.
 
 Quand un traitement est mis en route à temps, et que le système immunitaire de l’enfant est en état de répondre, apparaît un tissu de granulations avec une repousse au niveau des bords de la plaie (figure 5).
 

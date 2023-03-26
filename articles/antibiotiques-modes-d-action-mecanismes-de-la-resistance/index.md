@@ -90,7 +90,7 @@ Ne devrait plus se voir grâce à la vaccination(PEV). Il est l’un des respons
 ***Vibrio cholerae***  
 Responsable du choléra : macrolides (érythromycine) , tétracycline.
 
-**Lèpre **: rifampicine + dapsone.
+**Lèpre** : rifampicine + dapsone.
 
 ***Pasteurella pestis*** , responsable de la peste : streptomycine injectable
 

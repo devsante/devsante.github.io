@@ -22,13 +22,9 @@ Dans la moitié des pays disposant de données, la majorité des filles subissen
 
 ![](unicef-carte.jpg)
 
-*Cette carte est stylisée et n’est pas à l’échelle. Elle ne reflète aucune prise de position de la part de l’UNICEF quant au statut juridique des pays ou territoires, ni quant au tracé de leurs frontières. La frontière*
+*Cette carte est stylisée et n’est pas à l’échelle. Elle ne reflète aucune prise de position de la part de l’UNICEF quant au statut juridique des pays ou territoires, ni quant au tracé de leurs frontières. La frontière définitive entre la République du Soudan et la République du Soudan du Sud n’a pas encore été déterminée. Les données infranationales pour le Yémen n’apparaissent pas ici en raison des différences entre les regroupements régionaux utilisés dans les Enquêtes Démographiques et de Santé (EDS) et ceux disponibles dans le logiciel utilisé pour établir cette carte.*
 
-*définitive entre la République du Soudan et la République du Soudan du Sud n’a pas encore été déterminée. Les données infranationales pour le Yémen n’apparaissent pas ici en raison des différences entre*
-
-*les regroupements régionaux utilisés dans les Enquêtes Démographiques et de Santé (EDS) et ceux disponibles dans le logiciel utilisé pour établir cette carte.*
-
-***Sources :****Enquêtes Démographiques et de Santé (EDS), Enquêtes par grappes à indicateurs multiples (MICS) et Enquêtes sur la santé des ménages soudanais, 1997-2012.*
+***Sources** : Enquêtes Démographiques et de Santé (EDS), Enquêtes par grappes à indicateurs multiples (MICS) et Enquêtes sur la santé des ménages soudanais, 1997-2012.*
 
 ## La demande d’abandon de ces pratiques
 

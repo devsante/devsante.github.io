@@ -30,7 +30,7 @@ Ils doivent **toujours être associés à l’hyperhydratation**.
 
 ### 1. A domicile
 
-- **Paracétamol **: 15 mg/kg/dose (première dose : 30 mg/kg).  
+- **Paracétamol**: 15 mg/kg/dose (première dose : 30 mg/kg).  
   Pour un adulte : 1 gramme toutes les 6 heures.  
   Si le paracétamol est efficace, poursuivre  avec 4 doses /jour pendant 4 à 5 jours.
 - Si la douleur persiste après 30 à 45 minutes : associer au paracétamol l’ibuprofène :  
@@ -52,7 +52,7 @@ La morphine est toujours efficace, ne coûte pas cher et ne conduit pas à la to
 On ne doit pas laisser souffrir un drépanocytaire, d’autant que l’on sait l’intensité de la douleur dans certaines crises.
 
 - **Morphine IV**
-  - **​**Dose de charge : 0,1 mg/kg IV lente en 5 minutes (maximum : 5 mg).
+  - \*\*​\*\*Dose de charge : 0,1 mg/kg IV lente en 5 minutes (maximum : 5 mg).
   - Ensuite : 0,003 mg/kg/5 minutes jusqu’au soulagement.
   - Dose de relais : 1 mg/kg/24 heures en IVC.
 - ​**Morphine orale**

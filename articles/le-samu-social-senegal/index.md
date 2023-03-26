@@ -254,7 +254,7 @@ Ils ont quitté l'école coranique généralement en raison d'une maltraitance. 
 
 #### e) Les jeunes travailleurs
 
-**![](image004.jpg)**
+![](image004.jpg)
 
 **Figure 2 : répartition des jeunes travailleurs selon l'âge**
 

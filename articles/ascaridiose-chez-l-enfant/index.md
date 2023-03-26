@@ -10,9 +10,11 @@ L’ascaris (*Ascaris lumbricoïdes*) est un nématode cosmopolite, mais très f
 
 ![](diapositive-dans-fig-4-ascaris-adulte-2.jpg)
 
+***Ascaris adulte***
+
 ![](page-6-fig-6-ascaris-ds-intestin.jpg)
 
-\_                       ** Ascaris adulte**\_                ***Coupe d'ascaris dans un intestin***
+***Coupe d'ascaris dans un intestin***
 
 La contamination s’effectue par ingestion d’aliments souillés de matières fécales contenant les oeufs. Après ingestion, les larves traversent la paroi du tube digestif, gagnent le foie puis les veines sus-hépatiques, le cœur, les poumons, remontent l’arbre trachéo-bronchique et retombent dans le tube digestif où ils deviennent adultes et pondent les œufs qui sont éliminés avec les selles. Ce circuit s’effectue en deux mois.
 

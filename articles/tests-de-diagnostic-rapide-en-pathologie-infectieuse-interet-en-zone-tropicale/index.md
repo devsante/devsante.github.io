@@ -263,7 +263,7 @@ Les TDR ont un grand intérêt dans les pays en développement. Un recours aux t
 
 **b. Hépatites virales**
 
-**Hépatite B  **
+**Hépatite B**
 
 **AgHBs**
 

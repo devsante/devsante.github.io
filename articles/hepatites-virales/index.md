@@ -30,7 +30,7 @@ Pour les hépatites B et C : dépistage systématique chez les donneurs de sang
 
 ### 1. Virus de l’hépatite A (VHA)
 
-**Caractéristiques virologiques **  
+**Caractéristiques virologiques**  
 Virus à ARN, non enveloppé.
 
 **Pouvoir pathogène**  
@@ -216,7 +216,7 @@ Dans les pays d’Afrique subsaharienne, où la médecine préventive est très 
 L’hépatite chronique B est affirmée devant la persistance de l’AgHBs pendant plus de 6 mois.  
 L’hépatite chronique C est affirmée devant la persistance de l’ARN du VHC pendant plus de 6 mois.
 
-***Autres examens ***: ils ont surtout pour but d’évaluer la sévérité et la gravité de l’hépatopathie.
+*\*\*Autres examens \*\**: ils ont surtout pour but d’évaluer la sévérité et la gravité de l’hépatopathie.
 
 - Examens de biologie moléculaire  
   Détermination de la charge virale

@@ -45,4 +45,4 @@ En somme, parmi tous ces travaux, un vaccin finira par émerger… mais pas dema
 Une bonne nouvelle, le virus ne semble pas avoir une propension à muter, en particulier vis-à -vis du matériel génétique de *Spike*, ce qui facilitera la mise au point d’un vaccin.  
 Pour augmenter l’immunogénicité de ce potentiel vaccin, il faudra très certainement un adjuvant, posant d’autres problèmes.  
 L’immunité à médiation cellulaire est encore mal connue pour le Covid 19. Mais elle a certainement une grande importance qu’il faudra prendre en compte.  
-Enfin, un mot sur le **vaccin BCG**dont l’effet n’est bien sûr pas spécifique mais qui a vraisemblablement un effet stimulateur sur l’immunité innée. Des travaux sont en cours.
+Enfin, un mot sur le **vaccin BCG** dont l’effet n’est bien sûr pas spécifique mais qui a vraisemblablement un effet stimulateur sur l’immunité innée. Des travaux sont en cours.

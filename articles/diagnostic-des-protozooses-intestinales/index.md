@@ -282,7 +282,7 @@ Il faut bien différencier Cryptosporidium et Cyclospora (Tableau III). Le trait
 
 ## V. Cyclosporose
 
-Cette coccidiose est une zoonose cosmopolite due à *Cyclospora cayetanensis,* mesurant 8 à 10 microns dont la contamination s’effectue par ingestion (figure 10).  Elle provoque des diarrhées surtout fréquentes et abondantes chez les sujets immunodéprimés***.***
+Cette coccidiose est une zoonose cosmopolite due à *Cyclospora cayetanensis,* mesurant 8 à 10 microns dont la contamination s’effectue par ingestion (figure 10).  Elle provoque des diarrhées surtout fréquentes et abondantes chez les sujets immunodéprimés.
 
 **Figure 10 : cycle de *Cyclospora cayentannensis***
 

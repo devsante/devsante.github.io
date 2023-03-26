@@ -4,9 +4,10 @@ author: "Stéphane Besançon*, A. T. Sidibé**, Ibrahim Nientao***, D.S. Sow****
 date: "2009-08-11"
 ---
 
-\*Biologiste et nutritionniste, directeur de l'ONG Santé Diabète Mali, Bamako, Mali.  
-**Pr agrégée en endocrinologie-diabétologie, hôpital du point G, Bamako, Mali.**\*Médecin diabétologue, Centre National de Lutte contre le Diabète, Bamako, Mali.  
-\*\*\*\*Médecin référent diabète, Bamako, Mali.  
+\* Biologiste et nutritionniste, directeur de l'ONG Santé Diabète Mali, Bamako, Mali.  
+\*\* Pr agrégée en endocrinologie-diabétologie, hôpital du point G, Bamako, Mali.  
+\*\*\* Médecin diabétologue, Centre National de Lutte contre le Diabète, Bamako, Mali.  
+\*\*\*\* Médecin référent diabète, Bamako, Mali.  
 
 ## Pied diabétique : problèmes généraux
 

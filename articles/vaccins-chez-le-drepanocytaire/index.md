@@ -50,7 +50,7 @@ Les études effectuées en Europe et aux USA chez les drépanocytaires ont about
 
 ## En pratique
 
-**A la naissance **:
+**A la naissance** :
 
 - BCG
 - Hépatite B

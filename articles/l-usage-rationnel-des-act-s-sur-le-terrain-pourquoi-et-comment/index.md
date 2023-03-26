@@ -150,9 +150,7 @@ Enfin, dans une région endémique où le niveau d'immunité antipaludique est i
 
 **A l'inverse, un diagnostic biologique négatif pour un paludisme ne signifie pas une absence de parasite.** En effet, il a été estimé que le seuil diagnostic d'une goutte épaisse était de 100 millions de parasites par 5 litres de sang (quantité totale de sang en moyenne chez un adulte)<sup>6</sup>. Par contre, un individu vivant en zone d'endémie et ayant développé une immunité antipaludique ne présentera de symptômes associés que lors d'une parasitémie élevée, donc plus facilement détectable.
 
-## V. Comment réduire les délais de diagnostic du paludisme
-
-à *Plasmodium****falciparum* ?**
+## V. Comment réduire les délais de diagnostic du paludisme à *Plasmodium falciparum* ?
 
 **Un paludisme traité précocement et de manière efficace n'est en aucun cas dangereux.**
 

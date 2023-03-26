@@ -161,7 +161,7 @@ Le patient est installé en décubitus dorsal de préférence, la main en pronat
 ![](i723-8.jpg)  
 **Figure n° 8. Gaines des tendons fléchisseurs.**  
 ![](i723-9.jpg)  
-**Figure n° 9. Anesthésie en bague.**1 . nerf collatéral dorsal - 2. nerf et artère collatéro-palmaires
+**Figure n° 9. Anesthésie en bague.** 1. nerf collatéral dorsal - 2. nerf et artère collatéro-palmaires
 
 L'opérateur saisit le doigt entre le pouce et l'index gauche, le pouce étant placé sur la face dorsale et l'index sous la face palmaire. Le point de ponction est au niveau de la base de la 1ère phalange.
 

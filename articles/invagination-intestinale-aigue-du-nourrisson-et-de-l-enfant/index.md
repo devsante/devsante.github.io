@@ -71,7 +71,7 @@ Parfois, les douleurs sont si violentes que l’enfant peut ne pas présenter de
   Dans certains cas, l’ASP montrera un abdomen faiblement aéré, avec un contenu fécal pauvre, parfois l’empreinte d’un boudin d’invagination caractéristique en "pince de homard".  
   Sur l’ASP, il sera retrouvé des signes indirects d’occlusion intestinale, anses grêles dilatées avec présence de niveaux hydro-aériques en amont de l’invagination.
 
-- Mais l’examen de choix facilement réalisable et n’entraînant pas d’irradiation est **l’échographie abdominale**qui mettra en évidence l’image caractéristique signant le diagnostic : l’image "en cocarde".
+- Mais l’examen de choix facilement réalisable et n’entraînant pas d’irradiation est \*\*l’échographie abdominale \*\*qui mettra en évidence l’image caractéristique signant le diagnostic : l’image "en cocarde".
 
 ![](image001.png)  
 *Service de radiologie périatrique, CHU Lille*

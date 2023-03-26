@@ -21,14 +21,14 @@ Le phénomène de l’écholocation des microchiroptères a été démontré en 
                         
 ![](fig-3-echolocation.gif)
 
-                      ***Figure 3. Echolocation ***
+                      *\*\*Figure 3. Echolocation \*\**
 
 Les chiroptères se reposent environ 20 heures par jour en se suspendant, la tête en bas,  aux aspérités par les griffes de leurs orteils (figure 4). Ils ne se posent qu’exceptionnellement sur le sol. L’aile des chiroptères est formée d’un tissu qui est le tissu du règne animal qui se régénère le plus vite du règne animal. Sa grande vascularisation permet la régulation thermique de l’animal. Par ailleurs, le vol des chiroptères est plus efficace et plus économe en énergie que celui des oiseaux de même taille. Ils peuvent vivre plusieurs dizaines d’années. Les distances de vol sont de quelques kilomètres par nuit pour la recherche de nourriture mais peuvent atteindre plusieurs milliers de kilomètres pour les espèces migratrices. 
 
                          
 ![](fig-4-chauves-souris-au-repos.jpg)
 
-                      *** Figure 4. Chauves-souris au repos***
+                      ***Figure 4. Chauves-souris au repos***
 
 ## II. Respecter l’hibernation
 

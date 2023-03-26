@@ -1,13 +1,13 @@
 ---
 title: "Evaluation des actions de santé : pourquoi et comment évaluer ?"
-author: "Didier Fassin* *, Laure Bichon* * *, Olivier Rogeaux*"
+author: "Didier Fassin\*\*, Laure Bichon\*\*\*, Olivier Rogeaux"
 date: "1990-04-05"
 ---
 
-**Evaluation des actions de santé : 1. pourquoi et comment évaluer**
+**par Didier Fassin\*\*, Laure Bichon\*\*\*, Olivier Rogeaux**  
+Robert de Montvalon, Frédérique Rogeaux
 
-**par Didier Fassin* *, Laure Bichon* \* *, Olivier Rogeaux**\*  
-\**Robert de Montvalon* *, Frédérique Rogeaux* \* **\***Institut Santé et Développement, 15, rue de l'École-de-Médecine, 75006 Paris.  
+\*\* Institut Santé et Développement, 15, rue de l'École-de-Médecine, 75006 Paris.  
 \*\*\* Association Tokombéré, 14, rue Saint-Benoît, 75006 Paris.
 
 Au cours de l'année 1988-1989, des membres de l'institut Santé et Développement et de l'Association Tokombéré se sont réunis régulièrement pour tenter de mettre en place les instruments d'une évaluation du projet réalisé à Tokombéré (Cameroun).  

@@ -78,12 +78,12 @@ Caryosome punctiforme, en général central.
 
 **b) Kystes**
 
-***Taille***: 12 à 14-15 µm  
-***Forme***: arrondie dans la majorité des cas, mais ils peuvent être ovalaires.  
+***Taille*** : 12 à 14-15 µm  
+***Forme*** : arrondie dans la majorité des cas, mais ils peuvent être ovalaires.  
 ***Contour*** : net mais moins épais et moins coloré que dans les kystes d'Entamoeba coli.
 
 ***Aspect*** : réfringent.  
-***Contenu** :* dans le cytoplasme, présence irrégulière de cristalloïdes à extrémités arrondies très caractéristiques (chromidium). Noyaux : on distingue 1 à 4 noyaux.
+***Contenu*** : dans le cytoplasme, présence irrégulière de cristalloïdes à extrémités arrondies très caractéristiques (chromidium). Noyaux : on distingue 1 à 4 noyaux.
 
 ***Kyste à 1 noyau*** : gros noyau qui occupe le 1/3 du kyste ; présence d'une vacuole iodophile dans le cytoplasme.
 
@@ -174,7 +174,7 @@ Kyste mature à 4 noyaux difficiles à voir
 
 ![](25.jpg)
 
-***                                                     Cliché 13***
+*\*\*                                                     Cliché 13\*\**
 
 ## \_ IV. Entamoeba polecki\_
 
@@ -260,9 +260,9 @@ Cliché Dr. A.M. Deluol*
 ***Taille*** : 10 à 15 µm (ou plus).  
 ***Mobilité*** : + ; pseudopodes à base large. Résistance : lyse rapide.
 
-***Cytoplasme***: endoplasme et ectoplasme sont peu différenciés ; nombreuses vacuoles et présence d'inclusions : levures, bactéries.
+\*\**Cytoplasme* \*\*: endoplasme et ectoplasme sont peu différenciés ; nombreuses vacuoles et présence d'inclusions : levures, bactéries.
 
-***Noyau***: Gros et vésiculeux ; membrane périphérique mince ; gros caryosome central arrondi, irrégulier, entouré de granules réfringents.
+\*\**Noyau* \*\*: Gros et vésiculeux ; membrane périphérique mince ; gros caryosome central arrondi, irrégulier, entouré de granules réfringents.
 
 ![](26.jpg)
 
@@ -304,7 +304,7 @@ Ne possède pas de forme kystique connue.
 ***Taille :*** 7 à 20 µm.  
 \_**Mobilité** \_:+; pseudopodes courts et nets en aspect de dentelle.
 
-***Cytoplasme***: vacuoles peu visibles ; granulations fines +++. Nombreuses inclusions (bactéries, levures).  
+\*\**Cytoplasme* \*\*: vacuoles peu visibles ; granulations fines +++. Nombreuses inclusions (bactéries, levures).  
 \_**2 noyaux** \_: difficilement visibles à l'état frais. Après coloration : membrane nucléaire mince, caryosome central formé de 4 à 5 granules chromatiques.
 
 ![](17.jpg)

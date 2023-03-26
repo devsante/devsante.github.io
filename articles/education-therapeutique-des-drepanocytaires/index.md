@@ -50,7 +50,7 @@ pour buts :
 - Être **persuadé d’être atteint** de cette maladie.
 - Penser que **cette maladie et ses conséquences peuvent être graves**.
 - Penser que **le traitement peut avoir un effet bénéfique**.
-- Penser que**les bienfaits du traitement vont contrebalancer avantageusement les contraintes psychologiques**, financières et sociales engendrées par le traitement.
+- Penser que **les bienfaits du traitement vont contrebalancer avantageusement les contraintes psychologiques**, financières et sociales engendrées par le traitement.
 
 ## Comment le patient voit il sa place dans le contrôle de sa maladie ?
 

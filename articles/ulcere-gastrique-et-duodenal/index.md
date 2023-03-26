@@ -185,14 +185,13 @@ Il est discuté en cas de résistance au traitement médical ou en cas de compli
 
 Gastrectomie des deux tiers emportant l’ulcère et l’antre, et rétablissement de la continuité digestive par anastomose termino-terminale gastroduodénale (Intervention type Péan, figure 2), ou gastrojéjunale (Intervention type Finsterer, figure 3). 
 
-          
-![](image005-1.jpg)  
-                               
-![](image003.jpg)  
-​
+![](image005-1.jpg)
 
-**                    Figure 2  **                                                                   **         Figure 3**  
-  **Anastomose gastro-duodénale (Péan)**                     ** Anastomose gastro-jéjunale (Finsterer)**
+**Figure 2 : Anastomose gastro-duodénale (Péan)**                                                                   \*\*         Figure 3\*\*
+
+![](image003.jpg)  
+​  
+**Figure 3 : Anastomose gastro-jéjunale (Finsterer)**
 
 #### Ulcère duodénal 
 

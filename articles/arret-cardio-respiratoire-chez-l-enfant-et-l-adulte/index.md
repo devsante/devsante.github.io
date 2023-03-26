@@ -160,11 +160,12 @@ Il est débuté après une prise de pouls par un soignant ; la recherche du poul
 - chez le nourrisson et jusqu’à l’âge de 1 an, on peut utiliser la “technique des 2 pouces encerclant le thorax” ( figure 4) ou la “technique des 2 doigts d’une main” ( figure 5).
 - chez les enfants âgés de plus de 1 an, on utilise la “technique à 1 main” ( figure 6) ou la “technique à 2 mains” ( figure 7).
 
-***Figure 4                                                                             Figure 5                                     ***
+***Figure 4***
 
-   
-![](arretcardiaquefig4.jpg)  
-         
+![](arretcardiaquefig4.jpg)
+
+***Figure 5***
+
 ![](image003.gif)
 
 ***Figure 6***

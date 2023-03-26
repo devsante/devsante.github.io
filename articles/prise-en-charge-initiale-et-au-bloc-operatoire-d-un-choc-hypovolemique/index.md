@@ -4,9 +4,8 @@ author: "C. Denantes*, D. Diango**, C.M. Samama*"
 date: "1999-10-14"
 ---
 
-**Prise en charge initiale et au bloc opératoire d'un choc hypovolémique**
-
-**par C. Denantes*, D. Diango*\*, C.M. Samama\***- Médecin anesthésiste-réanimateur. Hôpital Avicenne, Bobigny, France.** Médecin anesthésiste-réanimateur. Hôpital Nianankoro Fromba, Ségou, Mali.
+\* Médecin anesthésiste-réanimateur. Hôpital Avicenne, Bobigny, France.  
+\*\* Médecin anesthésiste-réanimateur. Hôpital Nianankoro Fromba, Ségou, Mali.
 
 L'état de choc est un état d'insuffisance circulatoire aigu caractérisé par une diminution globale de la perfusion tissulaire compromettant l'apport en oxygène au niveau cellulaire et se compliquant souvent de défaillances d'organes. Le tableau associe à l'hypotension artérielle, une tachycardie et des signes d'altération de perfusion des organes (vasoconstriction cutanée, troubles neuropsychiques...). Le choc hypovolémique survient le plus souvent lors d'une hémorragie. C'est la première cause de mortalité en traumatologie.
 
