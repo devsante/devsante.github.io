@@ -8,9 +8,9 @@ date: "1994-02-05"
 
 **par Bernard Lagardère**\*
 
-La fièvre typhoïde sévit dans la plupart des pays du monde et reste un problème majeur de santé publique dans un grand nombre d'entre eux. La fréquence de la maladie et le coût ou les difficultés des traitements justifient la recherche d'un vaccin efficace. Depuis longtemps existe un vaccin TAB à germes tués. Sa mauvaise tolérance en a fortement limité l'emploi. Un nouveau vaccin, Typhim Vi, dépourvu de tout effet secondaire est disponible depuis 1989. Des recherches sont en cours pour élaborer un vaccin qui serait efficace par voie orale.
+\* Pédiatre, hôpital Ambroise-Paré, Boulogne-Billancourt.
 
-- Pédiatre, hôpital Ambroise-Paré, Boulogne-Billancourt.
+La fièvre typhoïde sévit dans la plupart des pays du monde et reste un problème majeur de santé publique dans un grand nombre d'entre eux. La fréquence de la maladie et le coût ou les difficultés des traitements justifient la recherche d'un vaccin efficace. Depuis longtemps existe un vaccin TAB à germes tués. Sa mauvaise tolérance en a fortement limité l'emploi. Un nouveau vaccin, Typhim Vi, dépourvu de tout effet secondaire est disponible depuis 1989. Des recherches sont en cours pour élaborer un vaccin qui serait efficace par voie orale.
 
 **I. La fièvre typhoïde**
 

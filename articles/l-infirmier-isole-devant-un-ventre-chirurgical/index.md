@@ -83,7 +83,7 @@ C’est avant tout lui qui va vous permettre de prendre une décision.
 Si ces trois conditions sont réunies, cet examen peut être utile en retrouvant une douleur vive à bout de doigt au niveau du cul de sac péritonéal, évoquant une péritonite ou une hémorragie interne.  
 Si ces trois conditions ne sont pas réunies, mieux vaut vous en abstenir
 
-- La technique des touchers pelviens est décrite dans le manuel « [Pratique chirurgicale pour médecins isolés/ Chirurgie générale et viscérale](http://devsante.org/sites/default/files/pdf/ManuelChirViscGenV5Red.pdf) » (pages 52-53), consultable sur le site devsante.org à la rubrique « Modules de formation ».
+\* La technique des touchers pelviens est décrite dans le manuel « [Pratique chirurgicale pour médecins isolés/ Chirurgie générale et viscérale](http://devsante.org/sites/default/files/pdf/ManuelChirViscGenV5Red.pdf) » (pages 52-53), consultable sur le site devsante.org à la rubrique « Modules de formation ».
 
 ### Peut-on se passer d'examens complémentaires ?
 

@@ -8,7 +8,7 @@ date: "1994-06-05"
 
 **par Arnaud Buffin**\*
 
-- Médecin-généraliste, Tokombéré, Cameroun.
+\* Médecin-généraliste, Tokombéré, Cameroun.
 
 L'aire de santé de Tokombéré (Nord-Cameroun) regroupe environ 60 000 habitants appartenant à sept ethnies principales. Son Centre de Promotion de la Santé accueille beaucoup d'enfants atteints, entre autres, d'infections respiratoires. Celles-ci sont parfois secondaires à la pratique très courante du gavage.
 

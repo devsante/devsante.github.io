@@ -22,7 +22,7 @@ Ce sont des particules assez grosses, de taille > à 5 µm. Elles contiennent l�
 
 Toutes les maladies dues à des micro-organismes de la sphère ORL peuvent être transmises de cette façon, **mais c’est uniquement par ce contact rapproché que sont transmis les micro-organismes les plus fragiles qui ne peuvent subsister dans le milieu extérieur :**
 
-- les agents de méningites à méningocoque et à \*Haemophilus \*, les pneumonies ;
+- les agents de méningites à méningocoque et à *Haemophilus*, les pneumonies ;
 - les virus fragiles : oreillons, rubéole, grippe, fièvres hémorragiques.
 
 ### 2. Transmission dite aéroportée par ces mêmes gouttelettes de salive asséchées par l’air
@@ -34,8 +34,8 @@ Elles ne contiennent plus que les micro-organismes les plus résistants, qui ont
 - Elles sont inhalées par l’hôte.
 - Peuvent être ainsi transmises : tuberculose, varicelle, variole, rougeole, etc.
 
-\*\*La voie aérienne permet la transmission de nombreuses maladies contagieuses.  
-La prévention passe par : \*\*
+**La voie aérienne permet la transmission de nombreuses maladies contagieuses.  
+La prévention passe par :**
 
 - des mesures adaptées d'isolement des patients,
 - le nettoyage des mains et des surfaces qui ont pu être contaminées par les sécrétions,

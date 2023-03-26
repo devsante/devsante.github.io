@@ -364,6 +364,6 @@ environ 10 minutes ou ajouter dans
 
 **Les informations fournies ici venant du document de la FAO sont issues de constats et non d'essais scientifiques.**
 
-Document de la FAO "Living well with HIV/AIDS\*, 2003, 105 p.
+Document de la FAO *Living well with HIV/AIDS*, 2003, 105 p.
 
 *Développement et Santé, n°181, 2006*

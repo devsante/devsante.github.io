@@ -28,7 +28,7 @@ Ces étapes définissent la pharmacocinétique du médicament. Les interactions 
 C’est le passage du médicament dans la circulation à partir de son site d’administration. La plupart des médicaments administrés par voie orale sont absorbés dans l’intestin grêle.  
 L’absorption dépend de la voie d’administration, des propriétés physico-chimiques du médicament, et des caractéristiques liées à l’individu : pH digestif, motilité intestinale, alimentation, pathologies associées… La fraction de médicament qui atteint la circulation générale et la vitesse à laquelle il l’atteint définit la biodisponibilité\*.
 
-- voir la définition en fin d'article.
+\* voir la définition en fin d'article.
 
 #### La distribution ou diffusion dans l’organisme
 

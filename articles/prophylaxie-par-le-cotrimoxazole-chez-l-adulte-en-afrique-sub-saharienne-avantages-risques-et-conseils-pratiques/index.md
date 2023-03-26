@@ -91,7 +91,7 @@ stade clinique 2 OMS
 pendant 6 à 12 mois</td>
 
 <td>Dès la découverte de  
-la séropositivité**</td>
+la séropositivité\*\*</td>
 
 </tr>
 
@@ -128,7 +128,7 @@ atypiques</td>
 
 <tr>
 
-<td colspan="3">*Cotrimoxazole fort : 160 mg de triméthoprime + 800 mg de sulfaméthoxazole.
+<td colspan="3">\* Cotrimoxazole fort : 160 mg de triméthoprime + 800 mg de sulfaméthoxazole.
 
 \*\* En suivant les précautions énoncées par l'OMS dans la référence 3.
 

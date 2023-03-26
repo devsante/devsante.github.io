@@ -56,9 +56,7 @@ attitude préventive et organisation des soins
 ***Question : citez des exemples de grossesses à risque et dites en quoi elles le sont.***  
 Les facteurs de risque (FDR) sont très nombreux ; on évoquera surtout ceux qui sont essentiels et simples à rechercher.
 
-### 1. FDR propres aux pathologies de la mère
-
-a-t-elle des maladies particulières ?\*\*
+### 1. FDR propres aux pathologies de la mère: a-t-elle des maladies particulières ?
 
 - Séropositivité VIH surveillée.
 - Tuberculose suivie et traitée.

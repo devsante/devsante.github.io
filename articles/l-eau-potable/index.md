@@ -70,15 +70,15 @@ Streptocoques fécaux
 
 <td valign="top">
 
-< 10 UFC \*\*/ml
+< 10 UFC\*/ml
 
-< 100 UFC/ ml
+< 100 UFC/ml
+
+< 1 UFC/ml
 
 < 1 UFC/ml
 
 < 1 UFC/ml
-
-< 1 UFC/m
 
 </td>
 
@@ -88,7 +88,7 @@ Streptocoques fécaux
 
 </table>
 
-*UFC : unité formant colonie*
+*\*UFC : unité formant colonie*
 
 ### Analyse
 

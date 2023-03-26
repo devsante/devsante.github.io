@@ -19,7 +19,7 @@ L'âge de découverte a été obtenu a partir des dates de naissance et d'enregi
 - indéterminés pour le reste des patients.
 
 **Figure 1. Evolution de l'enregistrement de nouveaux patients  
-au CADA de 1977 à** **2004**
+au CADA de 1977 à 2004**
 
 ![](12082-1-0.jpg)
 
@@ -71,7 +71,7 @@ Ces aspects particuliers de l'épidémiologie du diabète sucré appellent une p
 
 <td>
 
-Poids \[IMC\*\] en kg/m²\] (n = 9950)
+Poids \[IMC\* en kg/m²\] (n = 9950)
 
 Insuffisant \[moins de 18,50\] 
 
@@ -159,7 +159,7 @@ Type 2 avec excès de poids 
 
 <tr>
 
-<td colspan="3">* Indice de masse corporelle, ** Aucun excès de poids</td>
+<td colspan="3">\* Indice de masse corporelle, \*\* Aucun excès de poids</td>
 
 </tr>
 

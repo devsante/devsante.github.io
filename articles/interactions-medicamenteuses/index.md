@@ -179,7 +179,7 @@ La rifampicine peut rendre inefficace la pilule contraceptive (oestroprogestatif
 
 ### 3. Modification de répartition dans l'organisme
 
-notion de\*\* **liaison protéique**
+Notion de **liaison protéique**
 
 De nombreux médicaments se fixent dans le sérum aux protéines et en particulier à l'albumine.
 

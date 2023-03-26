@@ -4,7 +4,7 @@ author: "M. Horeau"
 date: "2000-02-13"
 ---
 
-L'enfant pour l'enfant \*
+L'enfant pour l'enfant
 
 ***Sensibilisation des écoliers aux questions d'hygiène, de santé et de prévention.***
 

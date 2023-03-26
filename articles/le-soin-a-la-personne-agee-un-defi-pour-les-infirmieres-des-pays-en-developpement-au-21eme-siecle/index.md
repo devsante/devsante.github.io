@@ -135,7 +135,7 @@ Conseiller une alimentation riche en fruits et légumes et en fibres, pauvre en 
 
 ### Cible 4 : l'élimination
 
-Les selles\*\*
+\####Les selles
 
 <table>
 
@@ -169,7 +169,7 @@ Les selles\*\*
 
 </table>
 
-### Les urines
+#### Les urines
 
 <table>
 

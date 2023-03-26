@@ -465,7 +465,7 @@ Les signes cliniques sont :
 
 - surveiller les constantes vitales : pouls, tension, fréquence respiratoire toutes les 5 minutes.
 
-\*\* Si suspicion de dengue (mêmes signes que grippe) ne pas utiliser l'AAS mais le paracétamol.
+**Si suspicion de dengue (mêmes signes que grippe) ne pas utiliser l'AAS mais le paracétamol.**
 
 ## VI. Céphalées = maux de tête = douleurs à la tête
 

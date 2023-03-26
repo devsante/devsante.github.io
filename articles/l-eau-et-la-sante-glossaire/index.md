@@ -11,9 +11,9 @@ date: "1979-12-31"
 
 **CONTAGION : c'est la transmission d'un agent de maladie d'une personne à une autre par moyen direct ou indirect.**
 
-\*\*ENDEMIE maladie qu'on trouve de manière permanente dans une région donnée.
+**ENDEMIE maladie qu'on trouve de manière permanente dans une région donnée.**
 
-EPIDEMIE : maladie qui concerne pendant un temps limité un certain nombre de sujets, elle disparaît quasiment après cette période.\*\*
+**EPIDEMIE : maladie qui concerne pendant un temps limité un certain nombre de sujets, elle disparaît quasiment après cette période.**
 
 **ERADICATION : c'est le fait de supprimer, éliminer totalement une maladie ou un vecteur de maladie (moustiques)**
 

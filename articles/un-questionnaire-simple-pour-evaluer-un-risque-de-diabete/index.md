@@ -75,13 +75,11 @@ date: "2012-01-02"
 ## Résultats
 
 - De 11 à 18 points = risque minime, continuez
-
 - De 19 à 27 points = risque moyen, modifiez votre alimentation et faites du sport
-
 - Plus de 27 points = risque élevé, modifiez votre hygiène de vie et faites un test.
 
-- **Pour calculer l’IMC :**  
-  Diviser le poids en Kg par le carré de la taille en mètres (TxT)
+\* **Pour calculer l’IMC :**  
+Diviser le poids en Kg par le carré de la taille en mètres (TxT)
 
 Par exemple : pour un homme de 80 Kg et 1,72 mètre  
 IMC  =  80 : 1,72 x 1,72  =  27

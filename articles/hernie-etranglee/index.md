@@ -4,11 +4,9 @@ author: "Marc Leclerc du Sablon*"
 date: "1992-10-02"
 ---
 
-**hernie étranglée**
-
 **par Marc Leclerc du Sablon**\*
 
-. Chirurgien, Centre hospitalier P. Chubert, Vannes, France ; Médecins sans Frontières.
+\* Chirurgien, Centre hospitalier P. Chubert, Vannes, France ; Médecins sans Frontières.
 
 La hernie étranglée est une des urgences les plus fréquentes, dans toutes les régions du monde et à tous les âges de la vie. Le diagnostic en est simple mais le traitement chirurgical ne souffre aucun retard. La gravité potentielle, liée au risque d'occlusion intestinale aiguë et de sphacèle intestinal, est imprévisible et tout doit donc être fait pour permettre à ces patients d'être opérés dans les plus brefs délais.
 

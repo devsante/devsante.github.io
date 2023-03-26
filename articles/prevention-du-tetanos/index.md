@@ -12,9 +12,7 @@ date: "2005-08-25"
 
 ## I. Les portes d'entrée
 
-### 1. Dans près de la moitié des cas, l'inoculation
-
-du bacille tétanique est traumatique :\*\*
+### 1. Dans près de la moitié des cas, l'inoculation du bacille tétanique est traumatique
 
 - blessure des pieds ;
 - plaies par objets métalliques, écharde, épine, arête de poisson ;

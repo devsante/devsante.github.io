@@ -100,8 +100,8 @@ Il existe une douleur provoquée vive, restant localisée à la FID, et sans aut
 **Il faut se baser sur l’existence ou non de trois facteurs de gravité :**
 
 - défense ou contracture (signant la péritonite) ;
-- \*fièvre supérieure à 38 ° ;
-- hyperleucocytose supérieure à 10 000 GB/mm3 ;\*
+- fièvre supérieure à 38 ° ;
+- hyperleucocytose supérieure à 10 000 GB/mm3 ;
 - auxquels on peut ajouter, si cet examen est réalisable, une CRP supérieure à 12 mg/L.
 
 **S’il existe au moins un des facteurs**, il faut opérer en urgence (dans les 24 heures). La voie d’abord peut alors être une voie localisée iliaque droite de type Mc Burney ou Jalaguier. Mais s’il existe une défense ou une contracture dépassant la ligne médiane, une voie d’abord médiane est indiquée.

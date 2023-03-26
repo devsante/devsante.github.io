@@ -116,7 +116,7 @@ Ainsi :
 
 #### b) l'analyse morphologique permet par­fois à elle seule d'établir un diagnostic
 
-Exemples :\*\*
+Exemples :
 
 - drépanocytose avec présence d'hématies falciformes (drépanocytes) ;
 - paludisme avec présence de Plasmodium à l'intérieur des hématies.

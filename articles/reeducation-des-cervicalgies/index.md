@@ -58,7 +58,7 @@ Elle correspond à l'irritation d'une racine nerveuse à son émergence au nivea
 
 ## III. Traitement kinésithérapique
 
-### 1. Le premier objectif est la lutte contre la douleur.\*\*
+### 1. Le premier objectif est la lutte contre la douleur.
 
 ***a.*** L'*immobilisation* est parfois indispensable, en cas de torticolis ou de cervicalgie aiguë, parallèlement au traitement médical. Il s'agit de confectionner un collier en mousse parfaitement adapté à la morphologie du patient pour être réellement efficace. A défaut, un collier en carton entouré de coton peut être utile.
 

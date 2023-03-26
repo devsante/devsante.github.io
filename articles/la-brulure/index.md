@@ -4,8 +4,8 @@ author: "Jean-Paul Tanniou*, Marie-Noëlle Durand**"
 date: "1998-04-26"
 ---
 
-\*Instructeur de secourisme, SMUR de Saint-Denis.  
-\*\*Infirmière anesthésiste, SAMU, Hôpital Avicenne, Bobigny.
+\* Instructeur de secourisme, SMUR de Saint-Denis.  
+\*\* Infirmière anesthésiste, SAMU, Hôpital Avicenne, Bobigny.
 
 ![](i780-1.jpg)
 
