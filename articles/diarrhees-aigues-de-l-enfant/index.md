@@ -90,7 +90,7 @@ Des limites nettes ont été tracées quant à l'utilisation des antibiotiques e
 
 <!-- -->
 
-- Amibiase : lorsque le traitement antibiotique d'une diarrhée hémorragique attribuée à une infection à *Shigella* a échoué ou lorsqu'on a trouvé dans les selles des trophozoïdes d\_'Entamoeba histolytica\_ contenant des hématies ;
+- Amibiase : lorsque le traitement antibiotique d'une diarrhée hémorragique attribuée à une infection à *Shigella* a échoué ou lorsqu'on a trouvé dans les selles des trophozoïdes d'*Entamoeba histolytica* contenant des hématies ;
 
 - Giardiase : lorsque la diarrhée dure depuis au moins quatorze jours et que l'on a trouvé des kystes ou des trophozoïdes de *Giadia* *intestinales.*
 

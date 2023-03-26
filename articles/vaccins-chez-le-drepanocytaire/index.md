@@ -25,7 +25,7 @@ Il contient 23 des sérotypes les plus dangereux pour l’homme. Malheureusement
 
 ## Autres vaccins à prioriser
 
-Le drépanocytaire est plus exposé aux méningocoques, à l\_'Haemophilus B\_ et au virus de l’hépatite B.
+Le drépanocytaire est plus exposé aux méningocoques, à l'*Haemophilus B* et au virus de l’hépatite B.
 
 ### Vaccins méningococciques
 
