@@ -18,9 +18,9 @@ L'envenimation est un accident rare, plus fréquent toutefois dans les pays chau
 
 Quatre cents espèces (protéroglyphes et solénoglyphes) seraient susceptibles d'être dangereuses pour l'homme. En cas d'envenimation la mortalité est assez lourde mais loin d'être inéluctable. Cinq cent mille envenimations seraient répertoriées chaque année, entraînant 40 000 décès, soit 8 % des patients touchés.
 
-**I. Classification** **des serpents**
+**I. Classification des serpents**
 
-Voir *tableau n°1* *:* **Classification générale** et *tableau n°2 :* **Cinq genres res_ponsables d'accidents graves.\_**
+Voir tableau n°1 : **Classification générale** et tableau n°2 : **Cinq genres responsables d'accidents graves.**
 
 ![](i783-1.jpg)
 
@@ -28,7 +28,7 @@ Voir *tableau n°1* *:* **Classification générale** et *tableau n°2 :* **Cinq
 
 ![](i783-3.jpg)
 
-**Il.** **Physiopathologie**
+**Il. Physiopathologie**
 
 Les conséquences de l'envenimation dépendent des qualités du venin différentes selon les genres et les espèces.
 

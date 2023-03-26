@@ -4,7 +4,7 @@ author: "M. Laot, P. Cuyoers, P. Verschoore, P. Leygue C.N.A.O., Dakar."
 date: "1989-12-02"
 ---
 
-La paralysie obstétricale du plexus brachial est la conséquence d'un traumatisme par étirement des racines nerveuses à leur origine, consécutif à une traction excessive lors de l'accouchement (*fig*. *1).*
+La paralysie obstétricale du plexus brachial est la conséquence d'un traumatisme par étirement des racines nerveuses à leur origine, consécutif à une traction excessive lors de l'accouchement (*fig. 1*).
 
 ![](i402-1.jpg)
 

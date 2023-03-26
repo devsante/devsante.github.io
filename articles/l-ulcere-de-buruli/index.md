@@ -154,7 +154,7 @@ En l'absence de moyens pour un véritable projet de recherche multidisciplinaire
 
 Il est urgent également de créer les conditions d'un échange entre les professionnels de différentes disciplines et de différents pays, pour progresser dans la connaissance et la maîtrise du fléau que représente l'ulcère de Buruli. En effet, si le réservoir et le mode de transmission de *M. ulcerans* demeurent mystérieux, et la physiopathologie de la maladie encore peu connue, un certain nombre de connaissances, en termes de pratiques comme de représentations, ont déjà été acquises par de nombreux professionnels, et il est nécessaire de mettre en commun ces connaissances, en vue d'une meilleure prise en charge des malades.
 
-Pour cela, à l'initiative du Professeur F. Portaels, Chef du département de microbiologie à l'Institut de Médecine tropicale d'Anvers, un réseau international et multidisciplinaire, le MUST (Myco_bacterium Ulcerans\_ Study Team) est en train de se constituer pour que les professionnels puissent échanger leurs points de vue, dans un premier temps au travers d'un bulletin d'information, sur les pratiques et les connaissances qu'ils ont acquises sur I'ulcère de Buruli.
+Pour cela, à l'initiative du Professeur F. Portaels, Chef du département de microbiologie à l'Institut de Médecine tropicale d'Anvers, un réseau international et multidisciplinaire, le MUST (*Mycobacterium Ulcerans* Study Team) est en train de se constituer pour que les professionnels puissent échanger leurs points de vue, dans un premier temps au travers d'un bulletin d'information, sur les pratiques et les connaissances qu'ils ont acquises sur I'ulcère de Buruli.
 
 L'ulcère de Buruli est encore largement méconnu et très souvent considéré comme une maladie marginale. Tout témoignage permettant de mieux comprendre la maladie et de confirmer son ampleur, est précieux. Que vous soyez infirmier, médecin généraliste, dermatologue, chirurgien, gestionnaire de programmes de santé.... n'hésitez pas à témoigner de votre expérience en écrivant à la revue. Si vous rencontrez une difficulté particulière et que vous souhaitez être conseillé, le MUST essaiera de vous apporter une réponse et de vous mettre en rapport avec des professionnels susceptibles de vous aider.
 
@@ -182,7 +182,7 @@ L'ulcère de Buruli est encore largement méconnu et très souvent considéré c
 
 \[10\] Fjayman J. Postulated epidemiology of *Mycobacterium ulcerans infection*. *Int J Epidemiol* 1991 ; 20: 1093-7.
 
-\[11\] Johnson PDR, Veitch MGK, Leslie DE, Flood PE, Hayman JA. The émergence of \_Mycobacte_rium *ulcerans* infection near Melbourne. *Med J* Aust 1996 ; 164 (2) : 76-8.
+\[11\] Johnson PDR, Veitch MGK, Leslie DE, Flood PE, Hayman JA. The émergence of *Mycobacterium ulcerans* infection near Melbourne. *Med J* Aust 1996 ; 164 (2) : 76-8.
 
 \[12\] Darie H, Le Guyadec T, Touze JE. Aspects épidémiologiques et cliniques de l'ulcère de Buruli en Côte d'Ivoire (à propos de 124 observations récentes). *Bull Soc Pathol Exot* 1993 ; 86 : 272-6.
 

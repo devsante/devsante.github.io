@@ -93,7 +93,7 @@ Explorer les pathologies et facteurs de risque associés.</th>
 
 #### L’évaluation de la plaie en elle même
 
-#### \_Figure 1. Les phases de la cicatrisation \_
+***Figure 1. Les phases de la cicatrisation***
 
 ![](image001-4.jpg)
 
@@ -108,7 +108,7 @@ Explorer les pathologies et facteurs de risque associés.</th>
 
 **La planimétrie** (technique de calque appliquée à une échelle) et la règle graduée renseignent sur la longueur, la largeur  et les modifications du périmètre de la plaie.
 
-\_**Figure 3. Illustration de la technique d**\_e ***planimétrie***.
+***Figure 3. Illustration de la technique de planimétrie***.
 
                               
 ![](image003-0.png)

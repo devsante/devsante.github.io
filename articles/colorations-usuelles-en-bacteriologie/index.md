@@ -314,7 +314,7 @@ Mélanger et dissoudre.
 
 Mélanger 20 ml de solution A avec 80 ml de solution B.
 
-- Solution de Lugol (*cf*. *supra)*
+- Solution de Lugol (*cf. supra*)
 - Safranine
 
 <!-- -->
@@ -414,18 +414,18 @@ Ils peuvent être isolés ou regroupés :
 
 ![](i715-5.jpg)
 
-- Les bacilles Gram négatif avec un renforcement bipolaire de la coloration (entérobactéries, *figure n° 15),*
+- Les bacilles Gram négatif avec un renforcement bipolaire de la coloration (entérobactéries, *figure n° 15*),
 
 ou assez fins *(Pseudomonas),*
 
-ou encore bacilles plus petits (comme *Haemophilus* *ou Bacteroïdes) (figure* *n° 16).*
+ou encore bacilles plus petits (comme *Haemophilus* ou Bacteroïdes) (*figure n° 16*).
 
-Les bacilles peuvent être également incurvés (vibrion) ou très fins en forme de " moustache " ou " de vol d'oiseaux " (*Campylobacter) (figure n*° *17).*
+Les bacilles peuvent être également incurvés (vibrion) ou très fins en forme de "moustache" ou "de vol d'oiseaux" (*Campylobacter*) (*figure n° 17*).
 
 ### Conclusion
 
 Les colorations usuelles et en particulier la coloration de Gram constituent un élément essentiel en bactériologie, permettant d'orienter et/ou de confirmer un diagnostic, afin d'adapter au mieux un traitement efficace.
 
-(Schémas extraits du *Manuel des techniques* *de base* pour *le laboratoire médical,* Organisation Mondiale de la Santé, Genève.)
+(Schémas extraits du *Manuel des techniques de base pour le laboratoire médical*, Organisation Mondiale de la Santé, Genève.)
 
 *Développement et Santé, n°127, février 1997*

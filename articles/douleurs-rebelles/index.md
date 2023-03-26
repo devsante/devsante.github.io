@@ -48,7 +48,7 @@ Par exemple : l’hydratation en cas de crise drépanocytaire.
 ### 3. Les techniques invasives
 
 Les techniques invasives (morphine intrathécale, blocs anesthésiques, neurostimulation médullaire…) sont à discuter avec des praticiens expérimentés, en fonction de la faisabilité et du suivi.  
-Toute décision d’acte invasif doit être argumentée en collégialité. On se gardera ainsi par exemple de chirurgie de réinterventions rachidiennes pour une possible récidive de hernie discale. Rappelons qu’une racine nerveuse ou un nerf qui a souffert génère longtemps des douleurs\_,\_ même après levée d’une compression.
+Toute décision d’acte invasif doit être argumentée en collégialité. On se gardera ainsi par exemple de chirurgie de réinterventions rachidiennes pour une possible récidive de hernie discale. Rappelons qu’une racine nerveuse ou un nerf qui a souffert génère longtemps des douleurs, même après levée d’une compression.
 
 ## IV. Prendre en compte la globalité de la situation douloureuse
 

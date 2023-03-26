@@ -296,7 +296,7 @@ L’infirmier(ère) a une place essentielle dans le suivi et le soutien des pers
 
 18. Beasley, C. (2009). Supported self care and care planning for patients with long-term conditions. *British journal of community nursing,* *14* (9), 394-397.
 
-19. Bennett, H. D., Coleman, E. A, Parry, C., Bodenheimer, T., & Chen, E. H. (2010). Health Coaching for Patients. *Health practice management*, 17(5)*,* 24-29. 
+19. Bennett, H. D., Coleman, E. A, Parry, C., Bodenheimer, T., & Chen, E. H. (2010). Health Coaching for Patients. *Health practice management*, 17(5), 24-29. 
 
 20. Fisher, E. B., Brownson, C. A., O’Toole, M. L., Shetty, G., Anwuri, V. V., & Glasgow, R. E (2005). *American Journal of Public Health*, *95* (9), 1523-1535.
 

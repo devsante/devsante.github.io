@@ -157,7 +157,7 @@ et association à des troubles **de la déglutition**
 
 Il s'agit d'une incompétence fonctionnelle du carrefour, parfois associée à des degrés variables à une petite mandibule, une chute de la langue en arrière ou une fente vélopalatine.
 
-**Geste d'urgence : décubitus ventral, canule** **de Mayo, intubation naso-pharyngée,** puis transfert *(schéma n°* 5\_).\_
+**Geste d'urgence : décubitus ventral, canule de Mayo, intubation naso-pharyngée,** puis transfert (*schéma n° 5*).
 
 ### 2. Nouveau-né de huit jours à un mois
 

@@ -464,6 +464,6 @@ patients à risque
     *RA 262-70. Epub 2005Jul 25.review.*
 3.  Sidibe AT, Minta DK, Dembele M, Diarra AS, Traoré HA. Pied diabétique en médecine interne à Batnako. *Malimedical 2003*.
 4.  Pendsey S, Abbas ZG. The step-)v-step program for reducing diabetic foot problems : a model for the deve­loping world. *Curr Diab Rep* 2007 Dec ; 7(6) : 425-8.
-5.  Bakker K, Abbas 7G, Yendsey S. Step by Step, impro­ving diahetic foot care in the developing world. A pilot study for India, Bangladesh, Sri Lanka and Tan­zania. \_Pract Diab Int_Oct 2006, Vol. 23 N° 8.
+5.  Bakker K, Abbas 7G, Yendsey S. Step by Step, impro­ving diahetic foot care in the developing world. A pilot study for India, Bangladesh, Sri Lanka and Tan­zania. *Pract Diab Int* Oct 2006, Vol. 23 N° 8.
 
 *Développement et Santé, n°193, 2009*

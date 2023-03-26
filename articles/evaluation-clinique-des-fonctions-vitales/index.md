@@ -262,7 +262,7 @@ Nulle
 
 </table>
 
-**\_                                    Total sur 15\_**
+***Total sur 15***
 
 Outre la conscience, la baisse de la perfusion des organes (ou insuffisance circulatoire aigüe) peut également être évaluée par :
 

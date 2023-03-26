@@ -18,7 +18,7 @@ Le tableau ci-dessous montre clairement l'ampleur des conséquences de l'épidé
 
 ![](i1063-2.jpg)
 
-M\_=\_ Millions PvVIH\* *:* Personnes vivant avec le VIH
+M = Millions PvVIH\* : Personnes vivant avec le VIH
 
 ***Quelques chiffres éloquents :***
 

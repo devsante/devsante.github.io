@@ -32,9 +32,9 @@ date: "2002-08-15"
 <!-- -->
 
 - Alerter
-- Surveiller le patient : prise du pouls carotidien et radial (*figures* *n° 2 et 3)*
+- Surveiller le patient : prise du pouls carotidien et radial (*figures n° 2 et 3*)
 
-**Figure n° 1. Appui sur la plaie et pansement compressif.** **2. Devant une hémorragie interne** Il faut rechercher les signes d'un état de choc (*cf*. *tableau n°2).* **III. Arrêt circulatoire et massage cardiaque externe** Le massage cardiaque externe (MCE) est indiqué en cas d'arrêt circulatoire quelle qu'en soit la cause. Il doit être associé à la ventilation artificielle. Il a pour but de maintenir une fonction circulatoire minimale (*tableau n° 3).* Les deux principes suivants sont associés au massage cardiaque externe : - la compression du coeur entre le sternum et la colonne vertébrale, - la variation de la pression intrathoracique entraîne la circulation du sang. **La technique**
+**Figure n° 1. Appui sur la plaie et pansement compressif.** **2. Devant une hémorragie interne** Il faut rechercher les signes d'un état de choc (*cf. tableau n°2*). **III. Arrêt circulatoire et massage cardiaque externe** Le massage cardiaque externe (MCE) est indiqué en cas d'arrêt circulatoire quelle qu'en soit la cause. Il doit être associé à la ventilation artificielle. Il a pour but de maintenir une fonction circulatoire minimale (*tableau n° 3).* Les deux principes suivants sont associés au massage cardiaque externe : - la compression du coeur entre le sternum et la colonne vertébrale, - la variation de la pression intrathoracique entraîne la circulation du sang. **La technique**
 
 - Le patient est mis sur le dos sur un plan dur et horizontal.
 

@@ -97,7 +97,7 @@ Répartition de la maladie à Kinshasa.
 
 ### 1. Forme grave SS
 
-*Dès les premiers* *mois*, l'enfant est en état d'anémie permanente avec pâleur des conjonctives et subictère. La rate augmente de volume. Brusquement surviennent des poussées de déglobulisation entraînant souvent la mort hâtée pa_r\_ une infection ou des carences diverses. Parfois survient un gonflement chaud et douloureux des pieds et des mains. L'infection des os est aussi fréquente. Au total 50 à 80 % des formes graves meurent avant l'âge de 2 ans et demi.
+*Dès les premiers* *mois*, l'enfant est en état d'anémie permanente avec pâleur des conjonctives et subictère. La rate augmente de volume. Brusquement surviennent des poussées de déglobulisation entraînant souvent la mort hâtée par une infection ou des carences diverses. Parfois survient un gonflement chaud et douloureux des pieds et des mains. L'infection des os est aussi fréquente. Au total 50 à 80 % des formes graves meurent avant l'âge de 2 ans et demi.
 
 Les enfants survivants sont de petite taille contrastant avec une grosse tête. L'anémie persiste mais est mieux tolérée que chez le nourrisson. Les accidents douloureux ou *crises drépanocytaires sont* *fréquentes.*
 

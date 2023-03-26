@@ -241,4 +241,6 @@ C - CMM =</th>
 D est le résultat de la soustraction C - CMM (elle figure en italique dans le tableau).  
 Le pourcentage de surconsommation du mois de mars sur la CMM est le résultat de la règle de trois :*
 
-\_D x 100
+<pre>
+D x 100
+&#10;

@@ -118,9 +118,9 @@ L'importance de la diversification des cultures doit être rappelée. L'encourag
 
 ### Références bibliographiques
 
-**A. Bergeret:** \_Nourris en harmonie avec l'en_vironnement (Mouton - La Haye).
+**A. Bergeret:** *Nourris en harmonie avec l'environnement* (Mouton - La Haye).
 
-**F. Bussons** (1965): *Plantes alimentaires de* *l'Ouest africain.*
+**F. Bussons** (1965): *Plantes alimentaires de l'Ouest africain.*
 
 Statistiques de la FAO 1979-1980.
 

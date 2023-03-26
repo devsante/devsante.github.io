@@ -41,7 +41,7 @@ Il faut d'une part faire connaître et faire respecter la loi (c'est-à-dire ré
 
 des mutilations génitales féminines
 
-Madame Sirkis\_,\_ médecin\_,\_ déclare à ce sujet : *"Non seulement ces pratiques sont une atteinte à l'intégrité de la femme, à sa dignité, mais c'est aussi un problème de santé publique: l'OMS a reconnu que ces pratiques constituent un risque grave pour la santé des femmes.*
+Madame Sirkis, médecin, déclare à ce sujet : *"Non seulement ces pratiques sont une atteinte à l'intégrité de la femme, à sa dignité, mais c'est aussi un problème de santé publique: l'OMS a reconnu que ces pratiques constituent un risque grave pour la santé des femmes.*
 
 *Il faut connaître ces conséquences et les risques encourus, en voici la liste :*
 
@@ -71,13 +71,13 @@ Le docteur Sirkis précise : *" On constate aussi :*
 
 Sur la pédagogie à développer à partir des traditions, Khady Diallo estime que, d'une part, "*quand ils ont* compris *les dangers* *présentés par les pratiques mutilatrices, les* *parents sont les meilleurs défenseurs de* *leurs filles dans les villes et villages africains"* et d'autre part qu'il faut "commencer *par* dire la *vérité à partir des "on dit" de la* *tradition, et dire non à la "fatalité" ".*
 
-Elle précise : *"Personne ne peut dire quelle* *est l'origine de l'excision, et pendant très* *longtemps cette coutume était vue* comme *quelque chose de positif. Il est difficile* *d'expliquer que les justifications données* *par la tradition sont erronées, et il faut* un *certain* courage pour *s'élever contre* *quelque chose "qui a toujours existé". Dans* *certaines ethnies, hommes et femmes pensaient que cela se faisait partout, et* n'ima_ginaient pas qu'on puisse ne pas le faire\_...
+Elle précise : *"Personne ne peut dire quelle est l'origine de l'excision, et pendant très longtemps cette coutume était vue comme quelque chose de positif. Il est difficile d'expliquer que les justifications données par la tradition sont erronées, et il faut un certain courage pour s'élever contre quelque chose "qui a toujours existé". Dans certaines ethnies, hommes et femmes pensaient que cela se faisait partout, et n'imaginaient pas qu'on puisse ne pas le faire*...
 
 *Il faut dire la vérité sans blesser, et il faut se souvenir aussi que d'autres peuples ont eu des pratiques portant atteinte à la santé: les chinoises ont eu les pieds bandés, ce qui les empêchait de marcher, et les arrière-grand-mères des femmes européennes, dans les classes aisées, serraient leur corset avec une telle vigueur qu'elles s'en atrophiaient la cage thoracique et les poumons... pour avoir la taille fine. "*
 
-*Quelles sont les raisons qui sont le plus* *souvent invoquées pour justifier les mutilations sexuelles ?*
+*Quelles sont les raisons qui sont le plus souvent invoquées pour justifier les mutilations sexuelles ?*
 
-- *C'est une sorte de rite de passage de* *l'enfance à l'âge adulte. Dans* ma *région du* Mali, raconte Khady Diallo, *après les* *récoltes, on rassemblait* *toutes les filles adolescentes de la même classe d'âge, et au cours d'une fête, elles étaient excisées. Cela s'appelait "Prendre le pagne', car avant, les petites filles étaient nues, et après, devenues femmes, elles portaient le pagne. Elles étaient contentes, on leur disait qu'avant elles n'étaient pas propres ; une fois excisées elles étaient "Purifiées". Elles ne devaient pas pleurer, c'était une question d'honneur pour la famille.*
+- *C'est une sorte de rite de passage de l'enfance à l'âge adulte. Dans* ma *région du* Mali, raconte Khady Diallo, *après les* *récoltes, on rassemblait* *toutes les filles adolescentes de la même classe d'âge, et au cours d'une fête, elles étaient excisées. Cela s'appelait "Prendre le pagne', car avant, les petites filles étaient nues, et après, devenues femmes, elles portaient le pagne. Elles étaient contentes, on leur disait qu'avant elles n'étaient pas propres ; une fois excisées elles étaient "Purifiées". Elles ne devaient pas pleurer, c'était une question d'honneur pour la famille.*
 - *Mais comme l'excision fait très mal, progressivement, on a excisé les petites filles encore bébé, en pensant que cela passerait mieux, qu'elles n'en auraient pas de souvenir. Aujourd'hui cette pratique n'est donc plus rituelle, elle n'a plus rien d'une fête de génération.*
 
 L'excision et la fécondité *: "Dans certaines ethnies, on dit que le clitoris est un organe mâle qu'il faut éliminer, sinon la femme n'aura pas d'enfants... Ailleurs, on dit que ces mutilations sexuelles rendent les femmes plus fécondes. En réalité, elles peuvent rendre stérile et, on l'a vu, l'accouchement non médicalement assisté peut entraîner la mort du nouveau-né et de sa mère. Il faut aussi expliquer le lien entre les mutilations et les troubles et complications éventuels. Par exemple, montrer que la césarienne a été faite non pas "pour que le docteur gagne plus", mais parce que l'accouchement était rendu très difficile et dangereux à cause des cicatrices de l'excision. "*

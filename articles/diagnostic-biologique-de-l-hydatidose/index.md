@@ -49,7 +49,7 @@ Le test de dégranulation des basophiles humains (TDBH) en présence d'antigène
 
 Elle reste l'étape essentielle du diagnostic.
 
-*Les réactions sérologiques sont* nom_breuses\_ : leur sensibilité et leur spécificité dépendent de la qualité de l'antigène utilisé. Les antigènes sont obtenus à partir d'hydatides fertiles de foies parasités. Leur purification et standardisation permettent d'augmenter la spécificité des réactions sérologiques.
+*Les réactions sérologiques sont nombreuses* : leur sensibilité et leur spécificité dépendent de la qualité de l'antigène utilisé. Les antigènes sont obtenus à partir d'hydatides fertiles de foies parasités. Leur purification et standardisation permettent d'augmenter la spécificité des réactions sérologiques.
 
 Les antigènes figurés correspondent aux protoscolex entiers ou à des coupes de scolex.
 

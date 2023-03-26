@@ -90,7 +90,7 @@ Une barrière de 8 km de large avec 4 écrans/km<sup>2</sup> est plus efficace q
 
 #### En santé humaine
 
-L'objectif est de dépister et traiter les hommes malades ou les porteurs "sains" (réservoir) en associant une élimination temporaire des glossines infectées (vecteur et réservoir du trypanosome). La surveillance médicale maintenue régulièrement, associée à des luttes temporaires contre les glossines peuvent suffire à contrôler les flambées épidémiques d'Afrique de l'ouest (*T. b*. *gambiense).* Pour l'Afrique de l'est *(T. b. rhodesiense),* l'association du traitement des malades humains, des réservoirs domestiques (bovins) et de la lutte contre les glossines est indispensable et doit être maintenue dans le temps. **En santé vétérinaire :** la lutte antivectorielle s'applique en général à vaste échelle (élevage extensif) et sur une longue durée (vaste réservoir animal, étendue des zones infestées).
+L'objectif est de dépister et traiter les hommes malades ou les porteurs "sains" (réservoir) en associant une élimination temporaire des glossines infectées (vecteur et réservoir du trypanosome). La surveillance médicale maintenue régulièrement, associée à des luttes temporaires contre les glossines peuvent suffire à contrôler les flambées épidémiques d'Afrique de l'ouest (*T. b. gambiense*). Pour l'Afrique de l'est *(T. b. rhodesiense),* l'association du traitement des malades humains, des réservoirs domestiques (bovins) et de la lutte contre les glossines est indispensable et doit être maintenue dans le temps. **En santé vétérinaire :** la lutte antivectorielle s'applique en général à vaste échelle (élevage extensif) et sur une longue durée (vaste réservoir animal, étendue des zones infestées).
 
 #### Avantages de la méthode du piégeage
 

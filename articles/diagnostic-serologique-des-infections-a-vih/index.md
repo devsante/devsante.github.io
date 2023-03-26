@@ -81,7 +81,7 @@ La sélection des tests dans des pays étrangers peut être compliquée par les 
 
 - enfin, il faut pouvoir disposer facilement d'au moins trois tests différents pour effectuer les stratégies alternatives.
 
-La liste actualisée des différents réactifs agréés par l'AFSSAPS sera publiée prochainement\_.\_ Les deux sites internet sur les tests de dépistage *(voir ci-dessous)* renseignent sur les trousses disponibles et leur performance
+La liste actualisée des différents réactifs agréés par l'AFSSAPS sera publiée prochainement. Les deux sites internet sur les tests de dépistage *(voir ci-dessous)* renseignent sur les trousses disponibles et leur performance
 
 <table>
 

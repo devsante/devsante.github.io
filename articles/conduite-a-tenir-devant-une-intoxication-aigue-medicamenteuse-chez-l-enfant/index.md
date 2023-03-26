@@ -492,7 +492,7 @@ Les intoxications par les benzodiazépines sont fréquentes et de pronostic souv
 
 **Manifestations cliniques** **de l'intoxication aiguë**
 
-\_Signes **neurologiques**\_essentiellement :
+*Signes **neurologiques*** essentiellement :
 
 - à la phase initiale, troubles du comportement, agitation, agressivité,
 - puis dépression du système nerveux central avec obnubilation, hypotonie musculaire, somnolence,
@@ -665,7 +665,7 @@ Surveillance rigoureuse du malade: pouls, tension artérielle toutes les 15 minu
 - furosémide 1 mg/kg,
 - noter le volume des urines émises.
 
-5\_.\_ **Surveillance cardiovasculaire**
+5.  **Surveillance cardiovasculaire**
 
 Surveillance rigoureuse du malade: pouls, tension artérielle toutes les 15 minutes initialement. Cette surveillance est intensive pendant au moins les 6 premières heures, elle est poursuivie 24 heures - en cas de collapsus: remplissage (macromolécules) 10 à 20 ml/kg, prudemment puisque le collapsus est dû à un trouble de la contractilité myocardique.
 

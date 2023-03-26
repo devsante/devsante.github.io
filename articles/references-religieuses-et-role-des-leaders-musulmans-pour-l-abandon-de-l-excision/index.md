@@ -90,7 +90,7 @@ Nos travaux réalisés à l'Université Al Azhar (voir notamment publications r�
 Considérant par ailleurs d'une part que la religion islamique cherche à développer le meilleur état de santé des personnes, d'autre part que de nombreuses études médicales ont démontré l'effet néfaste de l'excision, il est donc fortement souhaitable d'abandonner totalement cette pratique.  
 Par ailleurs, considérant le rôle important des leaders religieux, nous recommandons que ces derniers soient bien informés sur les textes islamiques qui appellent à la protection de la santé des personnes et qu’ils soient ensuite parfaitement impliqués dans les campagnes d'abandon de l'excision.
 
-*\*Directeur de Clinique, Centre  Egyptien* *In Vitro Fertilization and Embryo Transfer ( IVF & ET)* *,*
+*\*Directeur de Clinique, Centre  Egyptien* *In Vitro Fertilization and Embryo Transfer ( IVF & ET)*
 
 *Maadi, Le Caire, Egypte*
 
@@ -120,7 +120,7 @@ Par ailleurs, considérant le rôle important des leaders religieux, nous recomm
 10. *WHO study group on FGM and obstetric outcome.* *Lancet 2006:376; 1835-41.*
 11. *FIGO Committee for the Ethical Aspects of Human Reproduction and Women's Health and FIGO Committee on Women's Sexual and Reproductive Rights.* *Int J GO (2006) 94, 176 -177.*
 12. *Sourate Al-Baqarah (la Vache), verset 187.*
-13. \_The Issue of Reinfibulation. G. I. Serour. Int J Gynaecol Obstet. 2010 May; 109(2):93-6. \_
+13. *The Issue of Reinfibulation. G. I. Serour. Int J Gynaecol Obstet. 2010 May; 109(2):93-6.*
 14. *Medicalization of female genital mutilation/cutting. Gamal Serour. African Journal of Urology (2013) 19, 145-149*
 15. *Female circumcision: between the incorrect use of science and the misunderstood doctrine” International Islamic Center for Population Studies and Research Al Azhar University 2013.* *Serour G I and A. Ragab. UNICEF.*
 16. *Children in Islam: their care, development and protection. UNICEF and Al Azhar University.* *Nov. 29<sup>th</sup> 2005.*

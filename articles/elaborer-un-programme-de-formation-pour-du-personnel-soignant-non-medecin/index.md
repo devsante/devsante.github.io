@@ -38,7 +38,7 @@ L'objectif de cet exposé n'est pas de construire un programme spécifique à ch
 
 Le schéma intégré à cet exposé montre bien que l'élaboration d'un programme n'est pas un acte définitif. Selon l'évolution des besoins et des ressources des sociétés, les objectifs éducationnels seront à réviser et en conséquence le programme devra être modifié.
 
-**" ...** ***C'est en fonction des besoins de chaque*** **\_pays que le système de formation du personnel médico-sanitaire, à tous les échelons, doit être réexaminé*."\_*\*
+***"...C'est en fonction des besoins de chaque pays que le système de formation du personnel médico-sanitaire, à tous les échelons, doit être réexaminé."***
 
 La tâche n'est pas facile et plusieurs stades seront nécessaires pour réaliser un programme de formation.
 

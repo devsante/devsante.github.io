@@ -67,7 +67,7 @@ En cas de vaccination préventive, une réaction antérieure sévère à l'un de
 
 ### 2.Les immunoglobulines antirabiques (IGR)
 
-Les vaccins peuvent être associés à des immunoglobulines spécifiques en fonction du risque potentiel encouru par le sujet exposé (v_oir tableau 2\_).
+Les vaccins peuvent être associés à des immunoglobulines spécifiques en fonction du risque potentiel encouru par le sujet exposé (*voir tableau 2*).
 
 **Tableau 2 : recommandations selon l'exposition.**
 

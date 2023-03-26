@@ -32,7 +32,7 @@ On comprend donc pourquoi il s'agit d'une urgence absolue.
 
 **1.** **Quelles sont les hernies** **qui risquent de s'étrangler ?**
 
-Quels que soient leur taille et leur type anatomique, toutes les hernies peuvent s'étrangler un jour ou l'autre ; certaines plus que d'autres, cependant (*fig*. *1).*
+Quels que soient leur taille et leur type anatomique, toutes les hernies peuvent s'étrangler un jour ou l'autre ; certaines plus que d'autres, cependant (*fig. 1*).
 
 ![](i504-1.jpg)
 

@@ -5,7 +5,7 @@ date: "1984-10-03"
 ---
 
 <div class="teaser"><p>L'ulcère phagédénique, encore appelé ulcère tropical, est une ulcération siégeant habituellement sur les membres inférieurs, parfois sur le tronc, à extension rapide en surface et en profondeur, déterminant un processus qui infiltre les tissus en les nécrosant.</p>
-<p>C'est une infection fréquente en zones tropicales, notamment en climat chaud et humide ; ainsi plusieurs synonymes sont utilisés selon les régions pour désigner cette même affection: <em>ulcus tropicum</em>, <em>tropical</em> <em>sloughing phagedera</em>, <em>Mozambic ulcer</em>, <em>Yemen ulcer</em>, <em>nafa sore</em>.</p>
+<p>C'est une infection fréquente en zones tropicales, notamment en climat chaud et humide ; ainsi plusieurs synonymes sont utilisés selon les régions pour désigner cette même affection: <em>ulcus tropicum</em>, <em>tropical sloughing phagedera</em>, <em>Mozambic ulcer</em>, <em>Yemen ulcer</em>, <em>nafa sore</em>.</p>
 <p>Maladie souvent bénigne dont l'évolution peut cependant être émaillée de complications (gangrène, septicémie, cancérisation), l'ulcère phagédénique pose un problème de santé publique dans les régions où il sévit, par sa chronicité parfois désespérante avec les répercussions socio-économiques que cela entraîne.</p></div>
 
 ## I. Facteurs étiologiques

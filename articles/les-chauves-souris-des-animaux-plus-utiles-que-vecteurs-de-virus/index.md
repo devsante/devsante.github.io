@@ -42,11 +42,13 @@ Ces animaux ont peu de prédateurs. Cependant, en Europe, ils peuvent être la p
 
  Les microchiroptères, insectivores, sont d’excellents prédateurs d’insectes nuisibles dont ils avalent plusieurs millions chaque année, et ont donc un rôle important dans la régulation des populations d’insectes. Les mégachiroptères, frugivores, sont utiles comme pollinisateurs et disséminateurs de graines par leurs déjections en vol. Certains arbres, comme les  baobabs (figure 5) ou les cactus colonnaires ont des fleurs qui s’épanouissent la nuit, favorisant le travail des pollinisateurs nocturnes (figure 6).
 
-![](fig-5-baobab.jpg)  
-              
+![](fig-5-baobab.jpg)
+
+***Figure 5. Baobabs***
+
 ![](fig-6-pollinisation-nocturne-des-cactus.jpg)
 
-\_**Figure 5. Baobabs** \_                                                             ***Figure 6. Pollinisation nocturne des cactus***
+***Figure 6. Pollinisation nocturne des cactus***
 
 ## IV. Rôle pathogène
 
@@ -75,7 +77,7 @@ D’autres virus du genre paramyxoviridae ont été trouvés chez les chiroptèr
 
 ### 3. Les *Filoviridae*
 
-Le genre f_ilovirus\_ comprend  les 5  virus *Ebola*, découverts en 1976 en République Démocratique du Congo et responsables de nombreuses épidémies mortelles en Afrique. Le virus *Marburg*, découvert en Allemagne en 1967 chez des singes venant d’Ouganda, a provoqué de petites épidémies chez des sujets ayant visité des grottes contenant des milliers de chauves-souris. Outre la contamination interhumaine, ces épidémies débutent par un contact avec un singe malade ou des chauves-souris infectées, ou encore par ingestion de fruits contaminés par la salive de mégachiroptères, très répandus en Afrique, dans les forêts mais aussi dans les villages. L’épidémie actuelle en Afrique de l’ouest est déjà la cause de 10 300 décès, sur plus de 24 000 cas.
+Le genre *filovirus* comprend  les 5  virus *Ebola*, découverts en 1976 en République Démocratique du Congo et responsables de nombreuses épidémies mortelles en Afrique. Le virus *Marburg*, découvert en Allemagne en 1967 chez des singes venant d’Ouganda, a provoqué de petites épidémies chez des sujets ayant visité des grottes contenant des milliers de chauves-souris. Outre la contamination interhumaine, ces épidémies débutent par un contact avec un singe malade ou des chauves-souris infectées, ou encore par ingestion de fruits contaminés par la salive de mégachiroptères, très répandus en Afrique, dans les forêts mais aussi dans les villages. L’épidémie actuelle en Afrique de l’ouest est déjà la cause de 10 300 décès, sur plus de 24 000 cas.
 
 ### 4. Les *Coronaviridae*
 

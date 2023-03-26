@@ -22,9 +22,7 @@ date: "2008-07-03"
 
 Observer l'eau d'une mare contenant des larves de moustiques pour comprendre que quand un oeuf de moustique éclôt, il en sort, non pas un moustique, mais une petite larve noire qui a besoin d'eau pour vivre et se transformer en moustique adulte. Garder l'eau dans un réci­pient recouvert d'un morceau de moustiquaire jusqu'à l'éclosion des moustiques *(figure n° 1).*
 
-\_  
-![](image002.jpg)  
-\_
+![](image002.jpg)
 
 ### 2. Discussion des résultats de l'expérience
 

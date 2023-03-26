@@ -653,7 +653,7 @@ Il faut ajouter aussi les signes d'une anémie clinique :
 
 L'évolution spontanée est toujours mortelle.
 
-La mise en évidence de *Plasmodium* \_falcipa_rum se fait par la goutte épaisse et le frottis sanguin.
+La mise en évidence de *Plasmodium falciparum* se fait par la goutte épaisse et le frottis sanguin.
 
 Le traitement est essentiellement à base de perfusion de sels de quinine : 25 mg/kg/jour. Le traitement adjuvant de la fièvre se fait par du paracétamol et de l'acide acétyl salicylique ou du métamizole.
 

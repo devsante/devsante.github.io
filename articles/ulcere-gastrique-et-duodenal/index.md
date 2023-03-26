@@ -87,7 +87,7 @@ La fibroscopie oesogastroduodénale est l’examen de choix :
 - Elle précise la topographie :
   - L’UG siège essentiellement sur la petite courbure gastrique, rarement sur les faces. Il doit toujours être biopsié en raison du risque de cancérisation.
   - L’UD siège presque toujours dans le bulbe. La biopsie n’est pas nécessaire.
-- Elle permet des prélèvements pour la recherche de \_Hp \_: une infection à *Hp* est associée à l’UG dans 70 % des cas, et à l’UD dans 90 % des cas.
+- Elle permet des prélèvements pour la recherche de *Hp*: une infection à *Hp* est associée à l’UG dans 70 % des cas, et à l’UD dans 90 % des cas.
 - Elle met en évidence les lésions associées : gastrite, duodénite.
 
 ## III. Evolution

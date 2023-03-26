@@ -134,7 +134,7 @@ En fait, le tableau n'est pas toujours aussi simple et, de plus, l'association d
 
 Il est sévère.
 
-- Pour la mère, lié à\_:\_
+- Pour la mère, lié à :
 
 <!-- -->
 

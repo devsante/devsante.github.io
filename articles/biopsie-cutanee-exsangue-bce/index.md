@@ -4,7 +4,7 @@ author: "Françoise Baledent* * Médecin biologiste, Centre hospitalier Robert-B
 date: "1997-06-04"
 ---
 
-La biopsie cutanée exsangue (BCE) constitue la technique de choix pour le diagnostic de l'onchocercose. Cette parasitose est due à une filaire cutanéo-dermique \_Onchocerca vol_oulus, transmise à l'homme par la piqûre d'un petit moucheron noir (simulie), vivant le long des cours d'eau rapides.
+La biopsie cutanée exsangue (BCE) constitue la technique de choix pour le diagnostic de l'onchocercose. Cette parasitose est due à une filaire cutanéo-dermique *Onchocerca voloulus*, transmise à l'homme par la piqûre d'un petit moucheron noir (simulie), vivant le long des cours d'eau rapides.
 
 Très répandue en Afrique noire, elle est aussi présente au Yémen et en Amérique latine et est responsable d'un très grand nombre de cécités (cécité des rivières).
 
@@ -36,7 +36,7 @@ Sérum physiologique (ou à défaut, eau distillée.)
 
 **Technique**
 
-### Sites de prélèvement : \_(figu_re *n° 2)*
+### Sites de prélèvement : (*figure n° 2*)
 
 - Les prélèvements cutanés doivent être effectués dans les zones ou les microfilaires se concentrent en plus grand nombre, c'est-à-dire :
 

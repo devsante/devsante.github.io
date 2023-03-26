@@ -76,7 +76,7 @@ Elle doit être rigoureuse :
 
 ### 3. L'intubation endo-trachéale (par la bouche)
 
-Nous détaillerons ici le matériel nécessaire à une intubation et vous rappelons que lors de toute anesthésie, ce matériel doit être à portée de la main et en bon état de fonctionnement *(schéma n° 4*) *:*
+Nous détaillerons ici le matériel nécessaire à une intubation et vous rappelons que lors de toute anesthésie, ce matériel doit être à portée de la main et en bon état de fonctionnement (*schéma n° 4*) :
 
 - Un laryngoscope avec un jeu de lames (courbes pour l'adulte, droites pour l'enfant), des ampoules et des piles de 1,5 V de rechange (attention : l'ampoule du laryngoscope se dévisse fréquemment et risque de tomber au fond de la gorge lors de la manoeuvre d'intubation).
 
@@ -102,9 +102,9 @@ Nous détaillerons ici le matériel nécessaire à une intubation et vous rappel
 
 Tête en hyper extension (*schéma n° 5, (a))* :
 
-- La lame du laryngoscope tenue de la main gauche est introduite dans la bouche sans blesser les lèvres en évitant de faire levier sur les dents et charge sur la langue ; le maxillaire inférieur est soulevé en avant et en haut sans mouvement du poignet qui reste bien ferme. Par ce mouvement l'épiglotte est repérée et le bout de la lame vient s'arrêter devant sans la charger *(b)* (excepté chez le petit enfant, où l'on charge l'épiglotte sur la lame du laryngoscope \_(c).\_Les cordes vocales sont ainsi exposées; introduire la sonde d'intubation tenue de la main droite jusqu'à disparition du ballonnet derrière les cordes vocales *(d).*
+- La lame du laryngoscope tenue de la main gauche est introduite dans la bouche sans blesser les lèvres en évitant de faire levier sur les dents et charge sur la langue ; le maxillaire inférieur est soulevé en avant et en haut sans mouvement du poignet qui reste bien ferme. Par ce mouvement l'épiglotte est repérée et le bout de la lame vient s'arrêter devant sans la charger *(b)* (excepté chez le petit enfant, où l'on charge l'épiglotte sur la lame du laryngoscope *(c)*. Les cordes vocales sont ainsi exposées; introduire la sonde d'intubation tenue de la main droite jusqu'à disparition du ballonnet derrière les cordes vocales *(d).*
 
-- Gonfler le ballonnet avec 7-8 ml d'air, clamper en dessous du ballonnet témoin avec la pince de Kocher *(e).*
+- Gonfler le ballonnet avec 7-8 ml d'air, clamper en dessous du ballonnet témoin avec la pince de Kocher *(e)*.
 
 - Adapter l'Ambu avec la valve et ausculter les deux poumons : la sonde est en place et la ventilation est symétrique des deux côtés.
 
