@@ -241,6 +241,52 @@ C - CMM =</th>
 D est le résultat de la soustraction C - CMM (elle figure en italique dans le tableau).  
 Le pourcentage de surconsommation du mois de mars sur la CMM est le résultat de la règle de trois :*
 
-<pre>
-D x 100
-&#10;
+D x 100 / CMM = 18 x 100 / 54 = 1800 / 54 = 33,3
+
+*Au mois de mars, on a consommé un tiers de plus que la CMM prévue.*
+
+## II. Comment détruire les médicaments périmés ou détériorés ?
+
+**Vous devez détruire tous les produits périmés ou détériorés**, et faire en sorte que rien ne puisse être récupéré.
+
+**Vous devez détruire les déchets** de soins (pansements, seringues, cotons, etc.).
+
+S'il existe pour votre centre de santé un systè­me de destruction des déchets de soins vous pouvez l'utiliser pour détruire les médicaments périmés ou détériorés.
+
+A défaut, creusez un trou de 0,50 m de lon­gueur, 0,50 m de largeur et 0,50 m de profon­deur au minimum. Veillez à faire ce trou très loin de tout point d'eau (au moins cent mètres lorsqu'il s'agit d'un puits), et de ne pas creuser dans une ravine ou un lit asséché, pour éviter que les prochaines pluies déterrent les restes et provoquent une pollution de l'environnement. Les produits à détruire doivent être totalement déconditionnés.
+
+- **Videz les flacons** de liquides dans le trou.
+- **Videz les flacons de poudre** et versez les poudres de ces flacons dans le trou.
+- Si vous pouvez, **ouvrez les gélules** et ver­dez le contenu dans le trou.
+- Mettez les comprimés et les gélules dans un **sachet en plastique** épais.
+- Pilez le sachet avec une masse en bois, pour réduire en **poudre comprimés et gélules**.
+- Déposez le sachet contenant ce qui reste des **comprimés écrasés dans le trou.**
+- **Brûlez les emballages** en papier et notices dans ce trou en veillant que le feu se communique au sachet, éventuellement aux poudres.
+- Une fois que tout a brûlé, les sachets et les boîtes en matière plastique ont été fondus et ont aggloméré ce qui reste des comprimés et gélules. **Tout est à présent inutilisable.**
+- **Rebouchez le trou** en couvrant soigneuse­ment avec de la terre.
+
+Vous pouvez récupérer les flacons et bouteilles vides après un lavage rigoureux.
+
+## III. Préparation à l'avance de la dispensation
+
+**Pour les produits les plus prescrits, on peut réaliser des pré-emballages :**
+
+- on note le protocole habituel pour adultes et enfants,
+- on met dans des sachets en plastique le nombre de comprimés au dosage conve­nable, correspondant à ces protocoles selon les recommandations définies plus haut pour compter les comprimés et les mettre dans les sachets,
+- on colle sur chaque sachet une étiquette avec :
+  - la DCI, la date de péremption,
+  - la posologie,
+  - la destination (enfants, adultes, nom du protocole),
+- on ferme les sachets par pression, agrafage ou par soudure.
+
+Cette pratique exige une très grande rigueur : il ne faut préparer qu'un seul type de sachet pour un seul protocole dans le même temps ; la table ne doit strictement porter que ce qui est nécessaire à cette tâche. Le travail peut être facilité par l'utilisation de compteurs manuels ou automatiques (électriques).
+
+## IV. Où mettre le réfrigérateur ?
+
+S'il s'agit d'un **réfrigérateur électrique**, vous pouvez le mettre dans le local pharmacie si ce local a un **volume supérieur à 10 m<sup>3</sup>**(s'il est plus petit le réfrigérateur va élever la température de la pièce).
+
+**Dans tous les autres cas** (local pharmacie plus petit, réfrigérateur à gaz ou à pétrole etc.) il faut le placer dans une autre pièce convena­blement aérée.
+
+**L'utilisation du réfrigérateur et du congélateur éventuel dépend souvent du Programme élargi de vaccination (P.E.V.)**. L'utilisation de ces appareils essen­tiels de la chaîne de froid, pour d'autres tâches que celles de ce programme doit donc se faire avec l'accord du superviseur du P.E.V., qui aura également son mot à dire pour le choix de leur emplacement.
+
+*Développement et Santé, n°188, 2007*
