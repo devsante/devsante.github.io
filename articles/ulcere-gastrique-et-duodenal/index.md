@@ -187,7 +187,7 @@ Gastrectomie des deux tiers emportant l’ulcère et l’antre, et rétablisseme
 
 ![](image005-1.jpg)
 
-**Figure 2 : Anastomose gastro-duodénale (Péan)**                                                                   \*\*         Figure 3\*\*
+**Figure 2 : Anastomose gastro-duodénale (Péan)**
 
 ![](image003.jpg)  
 ​  

@@ -1,6 +1,6 @@
 ---
 title: "Evaluation des actions de santé : pourquoi et comment évaluer ?"
-author: "Didier Fassin\*\*, Laure Bichon\*\*\*, Olivier Rogeaux"
+author: "Didier Fassin**, Laure Bichon***, Olivier Rogeaux"
 date: "1990-04-05"
 ---
 

@@ -167,28 +167,28 @@ Clichés : Dr. A.M. Deluol*
 
 **b) Kystes**
 
-\_**Taille** \_: 6 à 10 µm maximum.  
-\_**Forme** \_: en général arrondie. Contour : net et réfringent.  
+***Taille*** : 6 à 10 µm maximum.  
+***Forme*** : en général arrondie. Contour : net et réfringent.  
 ***Cytoplasme*** : contient de nombreuses petites vacuoles.  
 Kyste mature à 4 noyaux difficiles à voir
 
 ![](25.jpg)
 
-*\*\*                                                     Cliché 13\*\**
+***Cliché 13***
 
-## \_ IV. Entamoeba polecki\_
+## *IV. Entamoeba polecki*
 
 **Morphologie**
 
 **a) Formes végétatives**
 
-\_**Taille :** \_10 à 25 µm
+***Taille :*** 10 à 25 µm
 
 ***Mobilité :*** + ; pseudopodes arrondis.
 
-**\_Résistanc_e** : en général se lyse vite.
+***Résistance*** : en général se lyse vite.
 
-\_**Cytoplasme** \_: endoplasme et ectoplasme bien distincts ; présence de grosses vacuoles alimentaires remplies d'inclusions.
+***Cytoplasme*** : endoplasme et ectoplasme bien distincts ; présence de grosses vacuoles alimentaires remplies d'inclusions.
 
 ***Noyau*** : peu visible à l'état frais : 3 à 4 µm. Chromatine périphérique fine et régulièrement répartie le long de la membrane nucléaire. Caryosome petit et compact.
 
@@ -197,7 +197,7 @@ Kyste mature à 4 noyaux difficiles à voir
 A l'état frais :
 
 ***Taille*** : 10 à 17 µm.  
-\_**Forme** \_: arrondie ou ovalaire ; contour net, réfringent.
+***Forme*** : arrondie ou ovalaire ; contour net, réfringent.
 
 ***Cytoplasme*** : nombreuses petites vacuoles qui se colorent mal à l'iode, nombreux cristalloïdes et inclusions.
 
@@ -214,15 +214,15 @@ A l'état frais :
 
 **a) Formes végétatives**
 
-\_**Taille** \_: 8 à 10 µm
+***Taille*** : 8 à 10 µm
 
-\_**Mobilité** \_: + ; pseudopodes nombreux, courts, arrondis, émis tout autour de l'amibe.
+***Mobilité*** : + ; pseudopodes nombreux, courts, arrondis, émis tout autour de l'amibe.
 
 ***Résistance*** : restent mobiles plusieurs heures après l'émission des selles.
 
 ***Cytoplasme*** : endoplasme et ectoplasme peu différenciés ; présence de petites vacuoles.
 
-\_**Noyau** \_: non visible à l'état frais. Après coloration : on distingue une membrane nucléaire fine.
+***Noyau*** : non visible à l'état frais. Après coloration : on distingue une membrane nucléaire fine.
 
 ***Caryosome*** : de grande taille, ovalaire, excentré, qui occupe presque tout le noyau.
 
@@ -233,7 +233,7 @@ A l'état frais :
 **b) Kystes**
 
 ***Taille*** : 8 à 10 µm.  
-\_**Forme** \_: arrondie, ovoïde ou rectangulaire. Contour : net  
+***Forme*** : arrondie, ovoïde ou rectangulaire. Contour : net  
 ***Cytoplasme*** : hyalin, ni vacuole ni cristalloïde.
 
 ***Noyaux*** : on distingue bien les caryosomes très réfringents.  
@@ -251,7 +251,7 @@ Cliché Dr. A.M. Deluol*
 
 ***Cliché 16***
 
-## *VI. Pseudolimax butschlii*
+## VI. *Pseudolimax butschlii*
 
 **Morphologie**
 
@@ -260,9 +260,9 @@ Cliché Dr. A.M. Deluol*
 ***Taille*** : 10 à 15 µm (ou plus).  
 ***Mobilité*** : + ; pseudopodes à base large. Résistance : lyse rapide.
 
-\*\**Cytoplasme* \*\*: endoplasme et ectoplasme sont peu différenciés ; nombreuses vacuoles et présence d'inclusions : levures, bactéries.
+***Cytoplasme*** : endoplasme et ectoplasme sont peu différenciés ; nombreuses vacuoles et présence d'inclusions : levures, bactéries.
 
-\*\**Noyau* \*\*: Gros et vésiculeux ; membrane périphérique mince ; gros caryosome central arrondi, irrégulier, entouré de granules réfringents.
+***Noyau*** : Gros et vésiculeux ; membrane périphérique mince ; gros caryosome central arrondi, irrégulier, entouré de granules réfringents.
 
 ![](26.jpg)
 
@@ -270,14 +270,14 @@ Cliché Dr. A.M. Deluol*
 
 **b) Kystes**
 
-\_**Taille** \_: 8 à 15 µm.  
+***Taille*** : 8 à 15 µm.  
 ***Forme*** : toutes les formes peuvent exister : arrondie, ovale, triangulaire, rectangulaire, trapézoïdale.
 
 **Contour :** épais et très réfringent.
 
 **Cytoplasme :** présence d'une vacuole iodophile (+++) dans tous les kystes. Au moment de la lecture au microscope, ajouter à la préparation une goutte de Lugol à 1 ou 2 %.
 
-\_**Noyau** \_: unique, de grande taille, qui se voit bien à l'état frais. Caryosome de grande taille entouré d'un halo clair et en général excentré.
+***Noyau*** : unique, de grande taille, qui se voit bien à l'état frais. Caryosome de grande taille entouré d'un halo clair et en général excentré.
 
 ![](08.jpg)
 
@@ -302,10 +302,10 @@ Ne possède pas de forme kystique connue.
 **Formes végétatives**
 
 ***Taille :*** 7 à 20 µm.  
-\_**Mobilité** \_:+; pseudopodes courts et nets en aspect de dentelle.
+***Mobilité***: +; pseudopodes courts et nets en aspect de dentelle.
 
-\*\**Cytoplasme* \*\*: vacuoles peu visibles ; granulations fines +++. Nombreuses inclusions (bactéries, levures).  
-\_**2 noyaux** \_: difficilement visibles à l'état frais. Après coloration : membrane nucléaire mince, caryosome central formé de 4 à 5 granules chromatiques.
+***Cytoplasme*** : vacuoles peu visibles ; granulations fines +++. Nombreuses inclusions (bactéries, levures).  
+***2 noyaux*** : difficilement visibles à l'état frais. Après coloration : membrane nucléaire mince, caryosome central formé de 4 à 5 granules chromatiques.
 
 ![](17.jpg)
 

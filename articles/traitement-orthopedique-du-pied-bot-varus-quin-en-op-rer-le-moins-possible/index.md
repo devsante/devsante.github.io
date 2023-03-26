@@ -109,7 +109,7 @@ Une fois la série de plâtres faite (six en moyenne), les défauts résiduels s
 - lorsque les parents ne sont pas capables de positionner correctement l’attelle,
 - lorsqu’il existe des défauts dynamiques, imposant une rééducation musculaire.
 
-Même lorsque la correction est bonne, la \*\*surveillance \*\*doit être maintenue **jusqu’en fin de croissance des pieds**, car il arrive qu’une dégradation se produise tardivement, soit lors d’une poussée de croissance, soit lors de l’évolution d’une pathologie neuro-musculaire non diagnostiquée dans la petite enfance.
+Même lorsque la correction est bonne, la **surveillance** doit être maintenue **jusqu’en fin de croissance des pieds**, car il arrive qu’une dégradation se produise tardivement, soit lors d’une poussée de croissance, soit lors de l’évolution d’une pathologie neuro-musculaire non diagnostiquée dans la petite enfance.
 
 ## Conclusion
 

@@ -68,8 +68,9 @@ Selon les dernières mises au point de l’ARS de Mayotte, au 25 mai 2020, le vi
 
 **Tableau I. Cas de coronavirus à Mayotte (SpF).**
 
-![](image001.jpg)  
-**Figure 1. Evolution du nombre de cas de Covid-19 par date et courbe de cas cumulés à Mayotte -SpF).**
+![](image001.jpg)
+
+**Figure 1. Evolution du nombre de cas de Covid-19 par date et courbe de cas cumulés à Mayotte (SpF).**
 
 <table>
 <thead>
@@ -108,7 +109,7 @@ Selon les dernières mises au point de l’ARS de Mayotte, au 25 mai 2020, le vi
 </tbody>
 </table>
 
-\$1**Tableau II. Passages aux urgences pour Covid-19 (SpF).**
+**Tableau II. Passages aux urgences pour Covid-19 (SpF).**
 
 **Les principaux symptômes** sont la fièvre, les céphalées et la toux, mais 5% des cas restent asymptomatiques, les facteurs de risque étant le diabète et l’obésité, pathologies fréquentes dans ce pays (Tableau III).
 
@@ -296,7 +297,7 @@ Concernant l’analyse des cas admis dans l’unité de réanimation (figure 2),
 </tbody>
 </table>
 
-\$1\*\* Tableau V. Cas de patients admins en réanimation pour le Covid-19 à Mayotte (SpF).\*\*
+**Tableau V. Cas de patients admins en réanimation pour le Covid-19 à Mayotte (SpF).**
 
 La durée moyenne de séjour en réanimation a été de 10 jours (de 1 jour à 48 jours). Parmi les patients décédés, 4 avaient entre 40 et 49 ans, 3 entre 50 et 59 ans, 5 entre 60 et 69 ans, 5 entre 70 et 79 ans et 4 plus de 80 ans, et aucun décès en dessous de 40 ans.  
 Ces chiffres, relativement élevés par rapport à la population, indiquent que le virus est encore très actif dans cette région et la difficulté d’imposer les gestes barrières explique que ce département reste encore le » rouge-orangé » de la carte nationale de Santé Publique France.

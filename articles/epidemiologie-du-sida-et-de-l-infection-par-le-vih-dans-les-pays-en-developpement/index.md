@@ -115,7 +115,7 @@ se maintient face à l'Euro, maintenons*
 *la signification préventive de* **CFA** *soit :*  
 ***C**ondom **F**idélité **A**bstinence*
 
-\***Prévention primaire** : action destinée à prévenir la contamination.  
+**Prévention primaire** : action destinée à prévenir la contamination.  
 **Prévention secondaire** : toutes actions destinées à empêcher l'apparition de la maladie.  
 **Prévention tertiaire** : action destinée à empêcher les complications chez le malade.
 

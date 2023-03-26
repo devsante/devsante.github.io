@@ -94,7 +94,7 @@ Pour évaluer les conséquences de la maladie il est important de pratiquer les
 
 ### 4. Traitement
 
-Les bilharzioses non compliquées, les plus fréquentes,  se traitent par le praziquantel à la dose de 40 mg/kg en 1 fois pour ***Schistosoma  haematobium***,  ***mansoni*** et  \*\**intercalatum* \*\* et 70 mg/kg en 1 fois pour ***Schistosoma japonicum*** et ***mekongi***.
+Les bilharzioses non compliquées, les plus fréquentes,  se traitent par le praziquantel à la dose de 40 mg/kg en 1 fois pour ***Schistosoma haematobium***, ***mansoni*** et ***intercalatum*** et 70 mg/kg en 1 fois pour ***Schistosoma japonicum*** et ***mekongi***.
 
 Les anciens traitements par le niridazole, l’oxamniquine, le metrifonate sont devenus obsolètes.  
 En cas de complications comme l'hypertension portale, la chirurgie est la même que celle de la cirrhose alcoolique (dérivation porto-cave). La chirurgie des complications urinaires consiste à remplacer la vessie inutilisable par une greffe d'intestin, sur laquelle on réimplante les uretères.

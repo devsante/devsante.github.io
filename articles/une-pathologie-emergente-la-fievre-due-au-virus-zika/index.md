@@ -195,4 +195,4 @@ Le **traitement** n’est que **symptomatique** (paracétamol).
 
 ![](image011.jpg)
 
-\*\*Figure 6. Pulvérisation d’insecticides  \*\*
+**Figure 6. Pulvérisation d’insecticides**
