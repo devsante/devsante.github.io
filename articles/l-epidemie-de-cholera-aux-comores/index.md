@@ -58,7 +58,7 @@ Pour mener à bien le volet préventif du programme, l'équipe de MDM s'est appu
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 

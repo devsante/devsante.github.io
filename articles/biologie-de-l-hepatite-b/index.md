@@ -40,7 +40,6 @@ Les particules de 42nm sont des particules virales infectieuses. Elles sont cons
 
 </table>
 
-\$1  
 ![](i912-2.jpg)
 
 ## Il. Exploration virologique

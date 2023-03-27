@@ -232,9 +232,9 @@ non visible</td>
 
 </table>
 
-\$1  
-![](i761-3.jpg)**Figure n° 3. Éléments caractéristiques des microfilaires (MGG)  
-.**
+![](i761-3.jpg)
+
+**Figure n° 3. Éléments caractéristiques des microfilaires (MGG)**
 
 #### Frottis sanguin, goutte épaisse et autres méthodes de concentration
 

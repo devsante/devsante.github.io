@@ -527,7 +527,7 @@ Non
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 

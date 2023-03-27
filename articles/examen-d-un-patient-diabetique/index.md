@@ -292,7 +292,7 @@ Examens paracliniques
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -330,7 +330,7 @@ Examens paracliniques
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -392,7 +392,7 @@ Examens paracliniques
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -435,7 +435,7 @@ Examens paracliniques
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 

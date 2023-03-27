@@ -665,7 +665,7 @@ La vaccination est encore à l’étude. Elle est complexe, car le parasite se m
 
 </table>
 
-\$1<table>
+<table>
 
 <thead>
 

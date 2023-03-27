@@ -389,7 +389,7 @@ En cas de risque d'hypothermie, même si la mère est séropositive, il faut pr�
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 

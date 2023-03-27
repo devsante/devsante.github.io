@@ -360,8 +360,7 @@ Présentation et dilution de l’épinéphrine ou adrénaline
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Tableau 2 : causes réversibles des arrêts cardiaques de l'enfant</caption>
 
 <tbody>
@@ -410,8 +409,7 @@ Température
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Tableau 3 : médicaments de la RCP</caption>
 
 <thead>

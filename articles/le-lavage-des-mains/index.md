@@ -236,7 +236,7 @@ La flore de la main a deux origines :
 
 </table>
 
-\$1<table>
+<table>
 
 <thead>
 

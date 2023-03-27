@@ -244,7 +244,7 @@ Après nettoyage complet, l'appareil est propre et peut être utilisé. On peut 
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -269,7 +269,7 @@ Ajouter :
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -308,7 +308,7 @@ Ces chiffons ne seront utilisés que pour un seul incubateur et jetés pour êtr
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -342,7 +342,7 @@ Si la sonde doit être laissée en place, les mains de l'enfant doivent être at
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -376,7 +376,7 @@ L'unité de soins ne possède pas de baignoire en état de marche. Il n'y a pas 
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -404,7 +404,7 @@ Farine de maïs  5,5 g
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -426,7 +426,7 @@ Après la toilette quotidienne :
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 

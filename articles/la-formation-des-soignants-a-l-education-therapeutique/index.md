@@ -45,7 +45,7 @@ Les compétences des professionnels de santé développant des activités d'édu
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 

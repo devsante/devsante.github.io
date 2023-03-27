@@ -314,8 +314,7 @@ Ainsi, de nombreux parasites peuvent être constatés chez une femme enceinte, a
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Risques des principales affections tropicales transmissibles au fœtus</caption>
 
 <thead>
@@ -423,8 +422,7 @@ les punaises</td>
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Caractéristiques des nématodoses intestinales</caption>
 
 <thead>

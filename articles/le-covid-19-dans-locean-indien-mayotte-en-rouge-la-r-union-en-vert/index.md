@@ -221,7 +221,7 @@ Par ailleurs, les services de santé ont été durement touchés, ce qui retenti
 </tbody>
 </table>
 
-\$1**Tableau IV. Personnel soignant contaminé par le Covid-19 à Mayotte (SpF)**.
+**Tableau IV. Personnel soignant contaminé par le Covid-19 à Mayotte (SpF)**.
 
 ### Vingt et un décès
 

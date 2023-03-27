@@ -214,8 +214,7 @@ Le traitement est d'abord médical : repos sans appui, antlagiques locaux ou per
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Encadré 2 : le syndrome méniscal</caption>
 
 <tbody>
@@ -234,8 +233,7 @@ Après un traitement médical (repos sans marcher et antalgiques), si les épiso
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Encadré 3 : tendinites et entorses</caption>
 
 <tbody>
@@ -254,8 +252,7 @@ Traitement : en cas d'entorse d'allure bénigne, on insistera sur le repos sans 
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Encadré 4 : arthrose</caption>
 
 <tbody>

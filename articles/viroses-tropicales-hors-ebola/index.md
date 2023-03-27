@@ -211,8 +211,7 @@ moustique
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Tableau II. Formes cliniques particulières de certains virus</caption>
 
 <thead>

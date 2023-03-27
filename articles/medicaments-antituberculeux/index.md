@@ -43,7 +43,7 @@ date: "2008-01-04"
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -83,7 +83,7 @@ date: "2008-01-04"
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -123,7 +123,7 @@ Topiques gastro-intestinaux : espacer la prise d'au moins 2 heures après la pri
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -163,7 +163,7 @@ Associations à surveiller : tout médicament hépatotoxique.
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -203,7 +203,7 @@ Associations à surveiller : tout médicament hépatotoxique.
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 

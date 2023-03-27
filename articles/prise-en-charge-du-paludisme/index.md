@@ -200,8 +200,7 @@ Une étude effectuée à Lomé en 1998 et portant sur 540 enfants malades a perm
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Tableau 2. Manifestations les plus fréquentes</caption>
 
 <thead>
@@ -270,8 +269,7 @@ Hypoglycémie
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Tableau 3. Manifestations les plus meurtrières</caption>
 
 <thead>

@@ -202,7 +202,6 @@ En outre, il peut être envisagé comme un support pour la mise en place d'un v�
 
 </table>
 
-\$1  
 ![](i171-1.jpg)
 
 ## Annexe 3 : médicaments utiles au traitement des infections
@@ -413,7 +412,7 @@ chlorée à 0,5 %.</li><li>Enlever les gants, se laver les mains.</li></ul></td>
 
 </table>
 
-\$1<table>
+<table>
 
 <thead>
 

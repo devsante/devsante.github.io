@@ -56,7 +56,7 @@ Post-partum
 
 </table>
 
-\$1<table>
+<table>
 
 <thead>
 

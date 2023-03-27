@@ -58,7 +58,7 @@ L'OMS, dans ses préconisations, ajoute que "des concentrations supérieures à 
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 

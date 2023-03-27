@@ -290,8 +290,7 @@ Total
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Données de la surveillance sur le sang du cordon dans maternités</caption>
 
 <thead>

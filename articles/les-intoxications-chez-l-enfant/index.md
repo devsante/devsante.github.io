@@ -311,7 +311,7 @@ Il doit être entrepris d'extrême urgence. Il se propose de limiter l'étendue 
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 

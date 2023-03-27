@@ -149,8 +149,7 @@ bivalent</td>
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Tableau II. Comparaison bénéfices/risques du vaccin oral et injectable</caption>
 
 <thead>
@@ -429,7 +428,7 @@ peuvent-ils s'investir dans ce plan mondial ?
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -479,7 +478,7 @@ Le Tchad a notifié 132 cas en 2011, 129 dus au PVS1 et 3 dus au PVS3, le plus g
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 
@@ -525,7 +524,7 @@ L’Angola n’a notifié en 2011 que cinq cas dus au poliovirus sauvage, soit u
 
 </table>
 
-\$1<table>
+<table>
 
 <tbody>
 

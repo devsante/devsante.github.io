@@ -450,7 +450,7 @@ Hépatite chronique à IT
 
 </table>
 
-\$1<table>
+<table>
 
 <thead>
 

@@ -258,8 +258,7 @@ l'Immunodéficience Humaine</th>
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Tableau 2 : bactéries décrites comme ayant été transmises suite à un AES</caption>
 
 <thead>
@@ -342,8 +341,7 @@ l'Immunodéficience Humaine</th>
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Tableau 3 : parasites décrits comme ayant été transmis suite à un AES</caption>
 
 <thead>
@@ -426,8 +424,7 @@ l'Immunodéficience Humaine</th>
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Tableau 4 : agents fongiques décrits comme ayant été transmis suite à un AES</caption>
 
 <thead>
@@ -664,8 +661,7 @@ Le soluté d’hypochlorite de sodium est adapté aux 3 cas.
 
 </table>
 
-\$1<table>
-
+<table>
 <caption>Tableau 6 : prévention des AES</caption>
 
 <tbody>
